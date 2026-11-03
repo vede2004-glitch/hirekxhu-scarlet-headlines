@@ -4,7 +4,7 @@ import { PageShell, glass, meta } from "@/components/PageShell";
 import { useLang } from "@/lib/lang";
 
 export const Route = createFileRoute("/rolunk")({
-  head: () => meta("Rólunk – Stirix.ro", "A Stirix.ro küldetése: gyors, semleges, 0-24 automatizált magyar–román hírportál Romániában."),
+  head: () => meta("Rólunk – HIREKX.hu", "A HIREKX.hu küldetése: gyors, semleges, 0-24 automatizált magyar–román hírportál Romániában."),
   component: About,
 });
 

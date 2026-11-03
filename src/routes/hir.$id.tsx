@@ -25,8 +25,8 @@ export const Route = createFileRoute("/hir/$id")({
     return item;
   },
   head: ({ loaderData }) => {
-    const title = loaderData ? `${loaderData.title} – Stirix.ro` : "Hír – Stirix.ro";
-    const desc = plainBold(loaderData?.lead ?? "").slice(0, 160) ?? "Stirix.ro hír";
+    const title = loaderData ? `${loaderData.title} – HIREKX.hu` : "Hír – HIREKX.hu";
+    const desc = plainBold(loaderData?.lead ?? "").slice(0, 160) ?? "HIREKX.hu hír";
     const meta = [
       { title },
       { name: "description", content: desc },
@@ -60,7 +60,7 @@ function Article() {
         <div className="mx-auto flex h-16 max-w-4xl items-center justify-between px-4">
           <Link to="/" className="inline-flex items-center gap-2 text-xs font-bold uppercase text-muted-foreground hover:text-primary"><ArrowLeft className="size-4" />{ro ? "Înapoi" : "Vissza"}</Link>
           
-          <Link to="/" aria-label="Stirix.ro"><BrandLogo className="h-9 w-28 origin-left object-contain sm:w-36" /></Link>
+          <Link to="/" aria-label="HIREKX.hu"><BrandLogo className="h-9 w-28 origin-left object-contain sm:w-36" /></Link>
           <SiteMenu />
         </div>
       </header>

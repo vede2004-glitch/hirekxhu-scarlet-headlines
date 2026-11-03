@@ -8,7 +8,7 @@ import { PageShell, glass, field, meta } from "@/components/PageShell";
 import { useLang } from "@/lib/lang";
 
 export const Route = createFileRoute("/visszajelzes")({
-  head: () => meta("Visszajelzés & Hibabejelentés – Stirix.ro", "Jelezd a hibás fordítást, technikai hibát vagy rossz kategóriát, vagy oszd meg fejlesztési ötleted."),
+  head: () => meta("Visszajelzés & Hibabejelentés – HIREKX.hu", "Jelezd a hibás fordítást, technikai hibát vagy rossz kategóriát, vagy oszd meg fejlesztési ötleted."),
   component: Feedback,
 });
 

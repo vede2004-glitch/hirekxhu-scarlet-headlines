@@ -25,9 +25,9 @@ import { Button } from "@/components/ui/button";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Stirix.ro – Minden hír egy helyen" },
+      { title: "HIREKX.hu – Minden hír egy helyen" },
       { name: "description", content: "Románia hírei magyarul és románul, több forrásból, gyors AI-összefoglalókkal." },
-      { property: "og:title", content: "Stirix.ro – Minden hír egy helyen" },
+      { property: "og:title", content: "HIREKX.hu – Minden hír egy helyen" },
       { property: "og:description", content: "Románia hírei magyarul és románul, több forrásból, gyors AI-összefoglalókkal." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -85,7 +85,7 @@ function Index() {
       <header className="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur-xl">
         <div className="mx-auto grid h-17 max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-4 sm:flex sm:justify-between">
           <div className="flex min-w-0 items-center gap-5 md:gap-8">
-            <a href="#top" aria-label="Stirix főoldal" className="flex min-w-0 items-center gap-3">
+            <a href="#top" aria-label="HIREKX főoldal" className="flex min-w-0 items-center gap-3">
               <BrandLogo className="h-10 w-32 shrink-0 origin-left object-contain object-left sm:w-40" />
               <span className="hidden border-l border-border pl-3 text-[9px] font-bold uppercase leading-tight text-muted-foreground lg:block">{ro ? <>Toate știrile<br />într-un singur loc</> : <>Minden hír<br />egy helyen</>}</span>
             </a>
@@ -147,13 +147,13 @@ function Index() {
                 {liveList.map((n) => { const srcLink = n.sources[0]?.link; return <li key={n.group_id} className="relative"><span className="absolute -left-[21px] top-1.5 size-2 rounded-full bg-primary/60" />{srcLink ? <a href={srcLink} target="_blank" rel="noopener noreferrer" className="group block"><span className="text-[10px] font-bold uppercase text-muted-foreground">{formatDate(n.published_at, lang)} · {n.sources[0]?.source}</span><h3 className="mt-1 text-sm font-bold leading-snug transition-colors group-hover:text-primary"><RichText text={t(n).title} /></h3></a> : <Link to="/hir/$id" params={{ id: n.group_id }} className="group block"><span className="text-[10px] font-bold uppercase text-muted-foreground">{formatDate(n.published_at, lang)} · {n.sources[0]?.source}</span><h3 className="mt-1 text-sm font-bold leading-snug transition-colors group-hover:text-primary"><RichText text={t(n).title} /></h3></Link>}</li>; })}
                 {!liveList.length && <li className="text-xs text-muted-foreground">{ro ? "Nu sunt știri recente." : "Nincs friss hír."}</li>}
               </ol>
-              <div className="mt-8 border-t border-border pt-8"><div className="rounded-md border border-primary/10 bg-primary/5 p-4"><p className="mb-2 text-[11px] font-bold uppercase text-primary">Stirix AI</p><p className="text-xs leading-relaxed text-foreground/70">{ro ? "Știrile marcate cu ✨ sunt sintetizate cu AI din mai multe surse, pentru a vedea informația completă într-un singur loc." : "A ✨ jelölésű hírek több forrásból, AI-jal összefűzve készülnek, hogy egy helyen lásd a teljes hírt."}</p></div></div>
+              <div className="mt-8 border-t border-border pt-8"><div className="rounded-md border border-primary/10 bg-primary/5 p-4"><p className="mb-2 text-[11px] font-bold uppercase text-primary">HIREKX AI</p><p className="text-xs leading-relaxed text-foreground/70">{ro ? "Știrile marcate cu ✨ sunt sintetizate cu AI din mai multe surse, pentru a vedea informația completă într-un singur loc." : "A ✨ jelölésű hírek több forrásból, AI-jal összefűzve készülnek, hogy egy helyen lásd a teljes hírt."}</p></div></div>
             </div>
           </aside>
         </section>
       </main>
 
-      <footer className="mt-20 border-t border-border py-10"><div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-6 px-4 sm:flex-row"><BrandLogo className="h-10 w-40 object-contain" /><p className="text-center text-[10px] font-bold uppercase text-muted-foreground">© 2026 Stirix.ro · {ro ? "Toate știrile într-un singur loc" : "Minden hír egy helyen"}</p><div className="flex gap-5 text-[10px] font-bold uppercase text-muted-foreground"><a href="#top" className="hover:text-primary">{ro ? "Surse" : "Források"}</a><a href="#top" className="hover:text-primary">{ro ? "Contact" : "Kapcsolat"}</a></div></div></footer>
+      <footer className="mt-20 border-t border-border py-10"><div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-6 px-4 sm:flex-row"><BrandLogo className="h-10 w-40 object-contain" /><p className="text-center text-[10px] font-bold uppercase text-muted-foreground">© 2026 HIREKX.hu · {ro ? "Toate știrile într-un singur loc" : "Minden hír egy helyen"}</p><div className="flex gap-5 text-[10px] font-bold uppercase text-muted-foreground"><a href="#top" className="hover:text-primary">{ro ? "Surse" : "Források"}</a><a href="#top" className="hover:text-primary">{ro ? "Contact" : "Kapcsolat"}</a></div></div></footer>
     </div>
   );
 }

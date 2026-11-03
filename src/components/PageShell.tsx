@@ -11,7 +11,7 @@ export function PageShell({ eyebrow, title, intro, children }: { eyebrow: string
     <div className="min-h-screen bg-background font-sans text-foreground antialiased">
       <header className="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur-xl">
         <div className="mx-auto flex h-17 max-w-7xl items-center justify-between px-4">
-          <Link to="/" aria-label="Stirix.ro"><BrandLogo className="h-10 w-32 origin-left object-contain object-left sm:w-40" /></Link>
+          <Link to="/" aria-label="HIREKX.hu"><BrandLogo className="h-10 w-32 origin-left object-contain object-left sm:w-40" /></Link>
           <div className="flex items-center gap-2">
             
             <SiteMenu />
@@ -27,7 +27,7 @@ export function PageShell({ eyebrow, title, intro, children }: { eyebrow: string
         </div>
       </section>
       <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14">{children}</main>
-      <footer className="border-t border-border py-8 text-center text-xs text-muted-foreground">© {new Date().getFullYear()} Stirix.ro</footer>
+      <footer className="border-t border-border py-8 text-center text-xs text-muted-foreground">© {new Date().getFullYear()} HIREKX.hu</footer>
     </div>
   );
 }

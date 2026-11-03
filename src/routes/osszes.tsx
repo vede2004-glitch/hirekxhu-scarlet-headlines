@@ -16,10 +16,10 @@ export const Route = createFileRoute("/osszes")({
   },
   head: () => ({
     meta: [
-      { title: "Minden hír relevancia szerint – Stirix.ro" },
-      { name: "description", content: "A Stirix.ro összes híre egy helyen, a legtöbb forrásból összefűzött hírekkel elöl." },
-      { property: "og:title", content: "Minden hír relevancia szerint – Stirix.ro" },
-      { property: "og:description", content: "A Stirix.ro összes híre egy helyen, relevancia szerint rendezve." },
+      { title: "Minden hír relevancia szerint – HIREKX.hu" },
+      { name: "description", content: "A HIREKX.hu összes híre egy helyen, a legtöbb forrásból összefűzött hírekkel elöl." },
+      { property: "og:title", content: "Minden hír relevancia szerint – HIREKX.hu" },
+      { property: "og:description", content: "A HIREKX.hu összes híre egy helyen, relevancia szerint rendezve." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
     ],

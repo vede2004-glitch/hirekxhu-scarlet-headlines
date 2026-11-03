@@ -9,7 +9,7 @@ import { PageShell, glass, field, meta } from "@/components/PageShell";
 import { useLang } from "@/lib/lang";
 
 export const Route = createFileRoute("/bekuldes")({
-  head: () => meta("Hír beküldése – Stirix.ro", "Van egy jó sztorid vagy sajtóközleményed? Küldd be a Stirix.ro szerkesztőségének."),
+  head: () => meta("Hír beküldése – HIREKX.hu", "Van egy jó sztorid vagy sajtóközleményed? Küldd be a HIREKX.hu szerkesztőségének."),
   component: Submit,
 });
 

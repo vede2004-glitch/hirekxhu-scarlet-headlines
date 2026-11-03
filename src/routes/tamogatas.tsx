@@ -8,7 +8,7 @@ import { PageShell, glass, field, meta } from "@/components/PageShell";
 import { useLang } from "@/lib/lang";
 
 export const Route = createFileRoute("/tamogatas")({
-  head: () => meta("Támogatás – Stirix.ro", "Támogasd a független romániai híraggregációt: szerverköltségek és mobilalkalmazás-fejlesztés."),
+  head: () => meta("Támogatás – HIREKX.hu", "Támogasd a független romániai híraggregációt: szerverköltségek és mobilalkalmazás-fejlesztés."),
   component: Support,
 });
 

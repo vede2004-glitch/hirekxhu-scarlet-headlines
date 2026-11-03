@@ -54,8 +54,8 @@ export const Route = createFileRoute("/api/ask")({
 
           const sources = item.sources.map((s) => `- ${s.source}: ${s.title} (${s.link})`).join("\n");
           const system = lang === "ro"
-            ? `Ești asistentul portalului de știri Stirix.ro. Răspunde în limba română pe baza articolului:\n\nTITLU: ${article.title}\nTEXT:\n${article.content}\nSURSE:\n${sources}`
-            : `Te a Stirix.ro hírportál segítője vagy. Kizárólag az alábbi cikk és források alapján válaszolj, mindig magyarul, tömören:\n\nCIKK CÍME: ${article.title}\nSZÖVEG:\n${article.content}\nFORRÁSOK:\n${sources}`;
+            ? `Ești asistentul portalului de știri HIREKX.hu. Răspunde în limba română pe baza articolului:\n\nTITLU: ${article.title}\nTEXT:\n${article.content}\nSURSE:\n${sources}`
+            : `Te a HIREKX.hu hírportál segítője vagy. Kizárólag az alábbi cikk és források alapján válaszolj, mindig magyarul, tömören:\n\nCIKK CÍME: ${article.title}\nSZÖVEG:\n${article.content}\nFORRÁSOK:\n${sources}`;
 
           const messages = [
             ...history.flatMap((h) => [

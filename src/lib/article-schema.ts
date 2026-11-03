@@ -1,6 +1,6 @@
 import type { NewsItem } from "@/lib/news";
 
-export const SITE_URL = "https://hirx.ro";
+export const SITE_URL = "https://hirekx.hu";
 
 const plain = (text: string) => text.replace(/\*\*(.+?)\*\*/g, "$1");
 
@@ -20,7 +20,7 @@ export function articleSchema(item: NewsItem, image: string | null) {
     inLanguage: "hu",
     ...(published && Number.isFinite(published.getTime()) ? { datePublished: published.toISOString() } : {}),
     ...(image?.startsWith("https://") ? { image: [image] } : {}),
-    publisher: { "@type": "Organization", name: "Stirix.ro", url: SITE_URL },
+    publisher: { "@type": "Organization", name: "HIREKX.hu", url: SITE_URL },
     citation: item.sources.filter((source) => /^https?:\/\//.test(source.link)).map((source) => ({
       "@type": "CreativeWork",
       name: source.title,

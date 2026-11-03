@@ -4,7 +4,7 @@ import { PageShell, glass, meta } from "@/components/PageShell";
 import { useLang } from "@/lib/lang";
 
 export const Route = createFileRoute("/forrasok")({
-  head: () => meta("Forrásaink & Átláthatóság – Stirix.ro", "A Stirix.ro által figyelt magyar és román hírforrások, és hogyan készülnek az AI-összesített hírek."),
+  head: () => meta("Forrásaink & Átláthatóság – HIREKX.hu", "A HIREKX.hu által figyelt magyar és román hírforrások, és hogyan készülnek az AI-összesített hírek."),
   component: Sources,
 });
 
