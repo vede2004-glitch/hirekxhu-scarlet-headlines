@@ -2,7 +2,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 import { useTheme } from "@/lib/theme";
 import { initDomainLang } from "@/lib/lang";
-import { HU_ORIGIN, RO_ORIGIN, originFor } from "@/lib/domains";
+import { HU_ORIGIN } from "@/lib/domains";
 import { getDomainLang } from "@/lib/domain.functions";
 import { hydrateLiveNews, refreshNews } from "@/lib/news-live";
 import { getLiveNews } from "@/lib/news-live.functions";
@@ -93,7 +93,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
   },
   head: ({ loaderData }) => {
     const path = loaderData?.path ?? "/";
-    const self = originFor(loaderData?.domainLang ?? "ro") + path;
+    const self = HU_ORIGIN + path;
     return {
     meta: [
       { charSet: "utf-8" },
@@ -106,14 +106,11 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         href: appCss,
       },
       { rel: "icon", href: "/favicon.png", type: "image/png", sizes: "96x96" },
-      { rel: "shortcut icon", href: "/favicon.ico", type: "image/x-icon" },
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Sora:wght@400;600;700;800&display=swap" },
       { rel: "canonical", href: self },
       { rel: "alternate", hrefLang: "hu", href: HU_ORIGIN + path },
-      { rel: "alternate", hrefLang: "ro", href: RO_ORIGIN + path },
-      { rel: "alternate", hrefLang: "x-default", href: RO_ORIGIN + path },
     ],
     };
   },

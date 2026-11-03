@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { news, history, archive, ensureHistory } from "@/lib/news";
-import { domainLang, originFor } from "@/lib/domains";
+import { HU_ORIGIN } from "@/lib/domains";
 
 const STATIC_PAGES = ["/", "/osszes", "/tamogatas", "/bekuldes", "/visszajelzes", "/forrasok", "/rolunk"];
 
@@ -14,10 +14,8 @@ function urlEntry(loc: string, lastmod?: string | null) {
 export const Route = createFileRoute("/sitemap.xml")({
   server: {
     handlers: {
-      GET: async ({ request }) => {
-        const url = new URL(request.url);
-        const lang = domainLang(request.headers.get("host") ?? url.host) ?? "ro";
-        const origin = originFor(lang);
+      GET: async () => {
+        const origin = HU_ORIGIN;
 
         await ensureHistory();
         const seen = new Set<string>();

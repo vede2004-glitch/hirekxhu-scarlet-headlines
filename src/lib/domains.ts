@@ -1,6 +1,6 @@
 import type { Lang } from "./lang";
 
-export const HU_ORIGIN = "https://hirx.ro";
+export const HU_ORIGIN = "https://hirekx.hu";
 export const RO_ORIGIN = "https://stirix.ro";
 
 const clean = (host: string | null | undefined) => ((host ?? "").toLowerCase().split(":")[0] ?? "").replace(/^www\./, "");
