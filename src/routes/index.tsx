@@ -1,16 +1,16 @@
-import heroBorder from "@/assets/stirix-border-crossing.jpg";
+import heroKormany from "@/assets/hirekx-kormany.jpg";
 import heroBulvar from "@/assets/stirix-bulvar.jpg";
 import heroGazdasag from "@/assets/stirix-gazdasag.jpg";
-import heroHarghita from "@/assets/stirix-harghita.jpg";
+import heroVidek from "@/assets/hirekx-videk.jpg";
 import heroHospital from "@/assets/stirix-hospital.jpg";
 import heroKultura from "@/assets/stirix-kultura.jpg";
 import heroSport from "@/assets/stirix-sport.jpg";
 import heroEu from "@/assets/stirix-eu.jpg";
-import heroRoParliament from "@/assets/stirix-ro-parliament.jpg";
+import heroVaros from "@/assets/hirekx-videki-varos.jpg";
 import heroHuParliament from "@/assets/stirix-hu-parliament.jpg";
 import heroJustice from "@/assets/stirix-justice.jpg";
 import heroEducation from "@/assets/stirix-education.jpg";
-import heroCluj from "@/assets/stirix-cluj.jpg";
+import heroBudapest from "@/assets/hirekx-budapest.jpg";
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
@@ -38,8 +38,8 @@ export const Route = createFileRoute("/")({
 
 const categories = [ALL, ...CATEGORIES];
 const HERO_PHOTOS: Record<string, string> = {
-  "Politika": heroBorder,
-  "Erdély": heroHarghita,
+  "Politika": heroKormany,
+  "Erdély": heroVidek,
   "Sport": heroSport,
   "Kultúra": heroKultura,
   "Gazdaság": heroGazdasag,
@@ -48,15 +48,15 @@ const HERO_PHOTOS: Record<string, string> = {
 // Topic keywords (HU + RO) win over the category photo; first match wins.
 const TOPIC_PHOTOS: Array<[RegExp, string]> = [
   [/\b(EU|európai unió|európai bizottság|brüsszel|uniós|uniunea europeană|comisia europeană|bruxelles|ue)\b/i, heroEu],
-  [/(román (kormány|parlament|szenátus|miniszter|elnök)|romániai (kormány|parlament)|bukarest|bolojan|nicușor|guvernul|parlamentul|senatul|camera deputa|bucurești)/i, heroRoParliament],
-  [/(országgyűlés|budapest|orbán|magyar kormány|magyarországi (kormány|parlament)|guvernul ungar|budapesta)/i, heroHuParliament],
+  [/(országgyűlés|orbán|kormányszóvivő|miniszterelnök|magyar kormány|magyarországi (kormány|parlament)|guvernul ungar|budapesta)/i, heroHuParliament],
   [/(bíróság|ítélet|ügyész|rendőr|dna|instanț|procuror|poliți|tribunal)/i, heroJustice],
   [/(iskola|oktatás|érettségi|egyetem|școal|educați|universit|bacalaureat)/i, heroEducation],
   [/(kórház|egészség|orvos|beteg|spital|sănătat|medic|pacient)/i, heroHospital],
-  [/(kolozsvár|cluj)/i, heroCluj],
+  [/(debrecen|szeged|pécs|győr|miskolc|kecskemét|székesfehérvár|nyíregyháza|vidék|megye)/i, heroVaros],
+  [/(budapest|főváros|karácsony gergely)/i, heroBudapest],
 ];
 const heroPhoto = (category: string, text: string) =>
-  TOPIC_PHOTOS.find(([re]) => re.test(text))?.[1] ?? HERO_PHOTOS[category] ?? heroCluj;
+  TOPIC_PHOTOS.find(([re]) => re.test(text))?.[1] ?? HERO_PHOTOS[category] ?? heroBudapest;
 const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
