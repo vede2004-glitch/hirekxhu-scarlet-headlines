@@ -97,7 +97,7 @@ function Index() {
           </div>
           <div className="flex shrink-0 items-center gap-2 sm:gap-4">
             <div className="flex items-center">
-              {LANGS.map((item) => <Button key={item} variant="ghost" size="sm" onClick={() => setLang(item)} className={lang === item ? "text-primary" : ""}>{item.toUpperCase()}</Button>)}
+              
             </div>
             <Button variant="outline" size="icon" aria-label={mobileSearch ? (ro ? "Închide căutarea" : "Kereső bezárása") : (ro ? "Căutare" : "Keresés")} onClick={() => setMobileSearch((value) => !value)} className="md:hidden">{mobileSearch ? <X className="size-4" /> : <Search className="size-4" />}</Button>
             <SiteMenu />

@@ -45,7 +45,7 @@ export function SiteMenu() {
           <div className="mt-4 flex items-center justify-between">
             <span className="text-sm">{ro ? "Limbă" : "Nyelv"}</span>
             <div className="flex rounded-full border border-border p-1">
-              {LANGS.map((l) => <Button key={l} size="sm" variant={lang === l ? "default" : "ghost"} className="h-8 rounded-full" onClick={() => setLang(l)}>{l === "hu" ? "Magyar" : "Română"}</Button>)}
+              
             </div>
           </div>
         </div>

@@ -13,7 +13,7 @@ export function PageShell({ eyebrow, title, intro, children }: { eyebrow: string
         <div className="mx-auto flex h-17 max-w-7xl items-center justify-between px-4">
           <Link to="/" aria-label="Stirix.ro"><BrandLogo className="h-10 w-32 origin-left object-contain object-left sm:w-40" /></Link>
           <div className="flex items-center gap-2">
-            {LANGS.map((l) => <Button key={l} variant="ghost" size="sm" onClick={() => setLang(l)} className={lang === l ? "text-primary" : ""}>{l.toUpperCase()}</Button>)}
+            
             <SiteMenu />
           </div>
         </div>
