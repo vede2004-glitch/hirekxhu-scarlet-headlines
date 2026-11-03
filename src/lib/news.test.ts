@@ -1,4 +1,4 @@
-import { describe, expect, test } from "bun:test";
+import { describe, expect, test } from "vitest";
 import { applyLiveNews, archive, byRelevance, bundledNewsMeta, getNewsVersion, history, news, normalizeNewsList, singles, synthesized } from "./news";
 
 const FRESH_ID = "group_2000000000_1";

@@ -1,4 +1,4 @@
-import { describe, expect, test } from "bun:test";
+import { describe, expect, test } from "vitest";
 import { news, singles } from "@/lib/news";
 import { hydrateLiveNews } from "@/lib/news-live";
 
