@@ -81,9 +81,10 @@ RSS_FEEDS = {
     "24.hu - Élet-Stílus": "https://24.hu/elet-stilus/feed/"
 }
 
-MEMORY_FILE = "erdelyi_hirek_memoria.json"
-GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
-ARCHIVE_FILE = "erdelyi_hirek_archivum.json"
+# ÚJ, MAGYAROSÍTOTT FÁJLNEVEK
+MEMORY_FILE = "hirek_memoria.json"
+GROUPED_FILE = "hirek_csoportositott.json"
+ARCHIVE_FILE = "hirek_archivum.json"
 OUTPUT_FILE = "src/data/news.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
