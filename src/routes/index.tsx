@@ -26,9 +26,9 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "HIREKX.hu – Minden hír egy helyen" },
-      { name: "description", content: "Románia hírei magyarul és románul, több forrásból, gyors AI-összefoglalókkal." },
+      { name: "description", content: "A legfrissebb magyar hírek egy helyen: Telex, 444, HVG, Index, Portfolio és más portálok cikkei AI-összefoglalókkal, forrásmegjelöléssel." },
       { property: "og:title", content: "HIREKX.hu – Minden hír egy helyen" },
-      { property: "og:description", content: "Románia hírei magyarul és románul, több forrásból, gyors AI-összefoglalókkal." },
+      { property: "og:description", content: "A legfrissebb magyar hírek egy helyen: Telex, 444, HVG, Index, Portfolio és más portálok cikkei AI-összefoglalókkal, forrásmegjelöléssel." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],

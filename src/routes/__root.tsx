@@ -99,6 +99,22 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { name: "author", content: "HIREKX.hu" },
+      { name: "robots", content: "index, follow, max-image-preview:large, max-snippet:-1" },
+      { property: "og:site_name", content: "HIREKX.hu" },
+      { property: "og:locale", content: "hu_HU" },
+      { property: "og:url", content: self },
+    ],
+    scripts: [
+      {
+        type: "application/ld+json",
+        children: JSON.stringify({
+          "@context": "https://schema.org",
+          "@graph": [
+            { "@type": "NewsMediaOrganization", "@id": `${HU_ORIGIN}/#org`, name: "HIREKX.hu", url: `${HU_ORIGIN}/`, logo: `${HU_ORIGIN}/hirekx-logo.png` },
+            { "@type": "WebSite", "@id": `${HU_ORIGIN}/#website`, name: "HIREKX.hu", url: `${HU_ORIGIN}/`, inLanguage: "hu", publisher: { "@id": `${HU_ORIGIN}/#org` } },
+          ],
+        }),
+      },
     ],
     links: [
       {
@@ -111,6 +127,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Sora:wght@400;600;700;800&display=swap" },
       { rel: "canonical", href: self },
       { rel: "alternate", hrefLang: "hu", href: HU_ORIGIN + path },
+      { rel: "alternate", type: "text/plain", title: "llms.txt", href: "/llms.txt" },
     ],
     };
   },

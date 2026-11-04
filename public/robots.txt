@@ -1,19 +1,26 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
 User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-News
 Allow: /
 
 User-agent: Bingbot
 Allow: /
 
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
-User-agent: *
-Allow: /
-
 User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
 Allow: /
 
 User-agent: PerplexityBot
@@ -22,5 +29,7 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://stirix.ro/sitemap.xml
-Sitemap: https://hirx.ro/sitemap.xml
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://hirekx.hu/sitemap.xml
