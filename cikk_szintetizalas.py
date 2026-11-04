@@ -11,7 +11,7 @@ from openai import OpenAI
 # ==============================================================================
 # 1. KONFIGURÁCIÓ
 # ==============================================================================
-MEMORY_FILE = "erdelyi_hirek_memoria.json"
+MEMORY_FILE = "hirek_memoria.json"
 OUTPUT_FILE = "src/data/news.json"
 
 os.makedirs("src/data", exist_ok=True)
@@ -19,6 +19,7 @@ os.makedirs("src/data", exist_ok=True)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
+# MODEL BEÁLLÍTÁSA: GPT-6-LUNA
 MODEL_NAME = "gpt-6-luna"
 
 HEADERS = {
@@ -229,7 +230,7 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
   "skip": false,
   "title_hu": "A tényekre fókuszáló magyar cím",
   "lead_hu": "2-3 mondatos magyar összefoglaló lead",
-  "content_hu": "• **Szeptember 30-án** Oroszország tavasz óta a legnagyobb...\\n\\n• A **Tripilszka hőerőmű** is találatot kapott...",
+  "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• A **Kulcsszó** második fontos pont...",
   "used_sources_indices": [1, 2]
 }}
 
