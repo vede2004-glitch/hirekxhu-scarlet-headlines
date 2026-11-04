@@ -1,10 +1,46 @@
 [
   {
+    "group_id": "group_b08626e5e3",
+    "category": "Általános",
+    "image": "https://www.youtube.com/embed/wt5Jx9nO3fA",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "„Van-e mamának szívgyógyszere?” – Brutális dilemmákról és az ügynökakták valódi arcáról beszélt Horn Gábor",
+        "link": "https://www.atv.hu/belfold/20261104/horn-gabor-ugynokaktak-dilemma/"
+      }
+    ],
+    "published_at": 1793821800,
+    "title_hu": "„Van-e mamának szívgyógyszere?” – Brutális dilemmákról és az ügynökakták valódi arcáról beszélt Horn Gábor",
+    "lead_hu": "Megnyíltak az állambiztonsági akták, de a szakértők óva intnek a pálcatöréstől. Horn Gábor és Gégény István az ATV Egyenes beszéd műsorában elemezte a helyzetet....",
+    "content_hu": "Megnyíltak az állambiztonsági akták, de a szakértők óva intnek a pálcatöréstől. Horn Gábor és Gégény István az ATV Egyenes beszéd műsorában elemezte a helyzetet."
+  },
+  {
+    "group_id": "group_cb53df566b",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/QnuXotZjsHFDI3wQzDRkByTYa3FLQEoz1J4luxdjyH0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdjNzA3OTcxNTNhNzQ4ZGY5OTkwNjRkMzNkZDJiZjM2.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Kanadai óriáscég termelné ki Magyarország legnagyobb gázmezőjét: kiakadt a lakosság a rétegrepesztés miatt, nem marad vizük – 100 kutat fúrnának bele a földbe",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/gazkitermeles-pala-del-alfold-homokhatsag-szenhidrogen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793821362,
+    "title_hu": "Kanadai óriáscég termelné ki Magyarország legnagyobb gázmezőjét: kiakadt a lakosság a rétegrepesztés miatt, nem marad vizük – 100 kutat fúrnának bele a földbe",
+    "lead_hu": "A Homokhátságon élők attól tartanak, hogy a tervezett beruházások tovább súlyosbíthatják a térség amúgy is kritikus vízhiányát....",
+    "content_hu": "A Homokhátságon élők attól tartanak, hogy a tervezett beruházások tovább súlyosbíthatják a térség amúgy is kritikus vízhiányát."
+  },
+  {
     "group_id": "group_1d754fd1a1",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7241/72417/724178/72417801_5336655_77dee0441427a3a7309ab98e82aacae1_wm.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Index - Címlap",
@@ -15,6 +51,11 @@
         "source": "Magyar Nemzet",
         "title": "Varga Barnabásék kétszer is vezettek a Real Madrid ellen a BL-ben – hiába",
         "link": "https://magyarnemzet.hu/sport/2026/11/varga-barnabas-aek-athen-real-madrid-bl-jude-bellingham?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Hiába vezettek kétszer Varga Barnabásék, egy utolsó perces bombagóllal a Real Madrid elhozta a három pontot Athénból",
+        "link": "https://index.hu/sport/futball/2026/11/04/labdarugo-bajnokok-ligaja-aek-athen-real-madrid-osszefoglalo-varga-barnabas-vitalis-milan-mbappe-valverde/"
       }
     ],
     "published_at": 1793821200,
@@ -616,7 +657,7 @@
     "image": "https://pcdn.hu/articles/images-xl/s/z/e/szekely-janos-puspok-866964.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
@@ -632,6 +673,11 @@
         "source": "24.hu - Legfrissebb",
         "title": "Ügynökakták: a katolikus püspöki konferencia bocsánatot kért a pártállammal együttműködők nevében",
         "link": "https://24.hu/belfold/2026/11/04/ugynokaktak-katolikus-puspoki-konferencia-bocsanatkeres/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "A katolikus püspöki konferencia bocsánatot kért azoknak az egyházi személyeknek a nevében, akik együttműködtek a pártállammal",
+        "link": "https://hvg.hu/itthon/20261104_ugynokaktak-katolikus-puspoki-konferencia-bocsanatkeres"
       }
     ],
     "published_at": 1793817649,
@@ -1142,7 +1188,7 @@
     "image": "https://assets.telex.hu/images/20261104/1793807426-temp-me7c06om4hlt3lccmlk_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -1168,6 +1214,11 @@
         "source": "Magyar Nemzet",
         "title": "Balog Zoltán püspöksége is véget ért",
         "link": "https://magyarnemzet.hu/belfold/2026/11/balog-zoltan-puspoksege-is-veget-ert?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Balog Zoltán nem indult, új püspöke van a Dunamelléki Református Egyházkerületnek",
+        "link": "https://24.hu/belfold/2026/11/04/balog-zoltan-uj-puspok-dunamelleki-reformatus-egyhazkerulet/"
       }
     ],
     "published_at": 1793814900,
@@ -12877,24 +12928,6 @@
     "title_hu": "Teljesen felkavarta az alkotmányos válság Lengyelországot, forrnak az indulatok",
     "lead_hu": "A mélyben forrongva érezteti hatását, és éppen ezért olyan különleges.",
     "content_hu": "A mélyben forrongva érezteti hatását, és éppen ezért olyan különleges."
-  },
-  {
-    "group_id": "group_cb3c6b03e2",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ffa8debd-adf0-4d70-b05e-1369f1032bcd.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Kormányalakítással bízta meg a svéd parlament Ulf Kristerssont, a szeptemberben lemondó miniszterelnököt",
-        "link": "https://hvg.hu/vilag/20261103_ulf-kristersson-svedorszag-kormanyalakitas"
-      }
-    ],
-    "published_at": 1793735359,
-    "title_hu": "Kormányalakítással bízta meg a svéd parlament Ulf Kristerssont, a szeptemberben lemondó miniszterelnököt",
-    "lead_hu": "A baloldali koalíciónak nem sikerült kormányt alakítania, most a jobboldali koalíció próbálkozhat, de könnyű dolguk nekik sem lesz.",
-    "content_hu": "A baloldali koalíciónak nem sikerült kormányt alakítania, most a jobboldali koalíció próbálkozhat, de könnyű dolguk nekik sem lesz."
   },
   {
     "group_id": "group_345e4e1afd",
