@@ -1,5 +1,23 @@
 [
   {
+    "group_id": "group_426a4f6617",
+    "category": "Kultúra",
+    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/xiaomi_smart_audio_glasses_150144_2_original_390x220_cover.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PC World",
+        "title": "A Xiaomi túlságosan is olcsó okosszemüvege Európába is jön",
+        "link": "https://www.pcwplus.hu/pcwlite/a-xiaomi-tulsagosan-is-olcso-okosszemuvege-europaba-is-jon-390436.html"
+      }
+    ],
+    "published_at": 1793812200,
+    "title_hu": "A Xiaomi túlságosan is olcsó okosszemüvege Európába is jön",
+    "lead_hu": "A Xiaomi okos volt és nem próbált kamerát és mesterséges intelligenciát rakni az okosszemüvegébe....",
+    "content_hu": "A Xiaomi okos volt és nem próbált kamerát és mesterséges intelligenciát rakni az okosszemüvegébe."
+  },
+  {
     "group_id": "group_ec84f1460a",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/4qDZmgGRa_m-DxU68tsWMr8NLAh38BwpB8DPzokNzcg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VlN2YyNzA5MWQ0ZTQyMDdhMzdmM2E2ODVlMDkzYWE5.jpg",
@@ -531,7 +549,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "444.hu",
@@ -542,6 +560,11 @@
         "source": "HVG - Itthon",
         "title": "Megszólalt Gyurgyák János, miután kiderült, hogy beszervezték",
         "link": "https://hvg.hu/itthon/20261104_gyurgyak-janos-tortenesz-beszervezes-ugynokaktak-reakcio"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Nem akarok mentegetőzni, borzalmasan dühös vagyok az akkori önmagamra” – Gyurgyák János elismerte, hogy beszervezték",
+        "link": "https://24.hu/belfold/2026/11/04/gyurgyak-janost-ugynokaktak/"
       }
     ],
     "published_at": 1793810536,
@@ -1274,12 +1297,17 @@
     "category": "Általános",
     "image": "https://cdn.borsonline.hu/2026/11/6WDO-L29rm-TtXtkGv_v5LsERAJLwDPNzHjdEdGA25g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxOGZlZWQyNzJjNzRkZDNiYjhhMWRiMzY3YWJjMGM3.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Bors",
         "title": "Az Origón tér vissza Andor Éva műsora",
         "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/andor-eva-musora-az-origon-ter-vissza"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Andor Éva új műsorral tér vissza, mutatjuk ki lesz az első vendége",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/andor-eva-uj-musorral-ter-vissza-mutatjuk-ki-lesz-az-elso-vendege?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1793807404,
@@ -1839,6 +1867,24 @@
     "title_hu": "Új képküldős funkciót kap a WhatsApp",
     "lead_hu": "A jövőben gyorsabban küldhetik el a felhasználók a csevegésben a telefonjukra legutoljára lementett képet, videót vagy képernyőképet.",
     "content_hu": "A jövőben gyorsabban küldhetik el a felhasználók a csevegésben a telefonjukra legutoljára lementett képet, videót vagy képernyőképet."
+  },
+  {
+    "group_id": "group_6f5a0ddaa3",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72414/724147/72414767_5336445_255b142bc576e2992ddf9ff21cc78c54_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megérkeztünk a mennybe? Orbánt, Magyar Pétert és a NER elitjét is kifigurázza a 60 évesen is lázadó drMáriás",
+        "link": "https://index.hu/kultur/2026/11/04/drmarias-kiallitas-ceu-megerkeztunk-a-mennybe/"
+      }
+    ],
+    "published_at": 1793804580,
+    "title_hu": "Megérkeztünk a mennybe? Orbánt, Magyar Pétert és a NER elitjét is kifigurázza a 60 évesen is lázadó drMáriás",
+    "lead_hu": "Nem fért el a tömeg a megnyitón a CEU-n.",
+    "content_hu": "Nem fért el a tömeg a megnyitón a CEU-n."
   },
   {
     "group_id": "group_8578a8975e",
@@ -11985,60 +12031,6 @@
     "content_hu": "Nem kell órákat edzened ahhoz, hogy törődj a hátad egészségével."
   },
   {
-    "group_id": "group_cf087f0eee",
-    "category": "Külföld",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f713573f-b77f-4da8-bd65-c49fcc1ba1f6.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Európai hadseregek az amerikaiak nélkül készülnek békekötés utáni ukrajnai misszióra",
-        "link": "https://hvg.hu/vilag/20261103_europai-hadsereg-amerikai-beke-ukrajna-misszio"
-      }
-    ],
-    "published_at": 1793725840,
-    "title_hu": "Európai hadseregek az amerikaiak nélkül készülnek békekötés utáni ukrajnai misszióra",
-    "lead_hu": "Tucatnyi európai ország katonái tartanak gyakorlatot, amellye az ukrajnai harcok megszűnése utáni időkre készülnek. Helyben segítenék az ukránokat, de nem békefenntartók lennének.",
-    "content_hu": "Tucatnyi európai ország katonái tartanak gyakorlatot, amellye az ukrajnai harcok megszűnése utáni időkre készülnek. Helyben segítenék az ukránokat, de nem békefenntartók lennének."
-  },
-  {
-    "group_id": "group_971ba31d88",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b620a59b-2da0-4fe5-b6ff-9d9e407b8396.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Hiába akarta, nem tudja személyesen meghallgatni Matolcsy Györgyöt a parlamenti vizsgálóbizottság",
-        "link": "https://hvg.hu/itthon/20261103_matolcsy-gyorgy-meghallgatas-parlamenti-vizsgalobizottsag"
-      }
-    ],
-    "published_at": 1793725743,
-    "title_hu": "Hiába akarta, nem tudja személyesen meghallgatni Matolcsy Györgyöt a parlamenti vizsgálóbizottság",
-    "lead_hu": "A Központi Nyomozó Főügyészség szerint nincsenek meg a csütörtökre tervezett meghallgatás jogszabályi feltételei.",
-    "content_hu": "A Központi Nyomozó Főügyészség szerint nincsenek meg a csütörtökre tervezett meghallgatás jogszabályi feltételei."
-  },
-  {
-    "group_id": "group_6f5a0ddaa3",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7241/72414/724147/72414767_5336445_255b142bc576e2992ddf9ff21cc78c54_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megérkeztünk a mennybe? Orbánt, Magyar Pétert és a NER elitjét is kifigurázza a 60 évesen is lázadó drMáriás",
-        "link": "https://index.hu/kultur/2026/11/04/drmarias-kiallitas-ceu-megerkeztunk-a-mennybe/"
-      }
-    ],
-    "published_at": 1793804580,
-    "title_hu": "Megérkeztünk a mennybe? Orbánt, Magyar Pétert és a NER elitjét is kifigurázza a 60 évesen is lázadó drMáriás",
-    "lead_hu": "Nem fért el a tömeg a megnyitón a CEU-n.",
-    "content_hu": "Nem fért el a tömeg a megnyitón a CEU-n."
-  },
-  {
     "group_id": "group_345e4e1afd",
     "category": "Politika",
     "image": "",
@@ -12235,6 +12227,24 @@
     "title_hu": "A nagy ügynökakta-átverés: Újra a kisemberekkel b@szunk ki, miközben a főbűnösök vígan élnek",
     "lead_hu": "Kötter Tamás írása a Facebookon.",
     "content_hu": "Kötter Tamás írása a Facebookon."
+  },
+  {
+    "group_id": "group_9a4fb7e4eb",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Máris mentenék, ami menthető: munkacsoport kezelné az ügynökakták okozta traumákat",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/maris-mentenek-ami-mentheto-munkacsoport-kezelne-az-ugynokaktak-okozta-traumakat"
+      }
+    ],
+    "published_at": 1793750400,
+    "title_hu": "Máris mentenék, ami menthető: munkacsoport kezelné az ügynökakták okozta traumákat",
+    "lead_hu": "Munkacsoportot hoznak létre a nyilvánosságra hozott ügynökakták okozta társadalmi traumák feldolgozásához – közölte Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter - akinek az ap...",
+    "content_hu": "Munkacsoportot hoznak létre a nyilvánosságra hozott ügynökakták okozta társadalmi traumák feldolgozásához – közölte Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter - akinek az apja is szerepel az"
   },
   {
     "group_id": "group_ee41a1bfc0",
