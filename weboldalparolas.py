@@ -82,12 +82,12 @@ HEADERS = {
 }
 
 CATEGORIES = {
-    "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat"],
-    "Politika": ["kormány", "parlament", "választás", "párt", "politika", "tanács", "polgármester", "miniszter", "szenátus", "döntés", "törvény", "rmdsz", "psd", "pnl", "usr", "aur", "guvern", "alegeri", "primar"],
-    "Gazdaság": ["pénz", "euró", "lej", "infláció", "befektetés", "gazdaság", "cégek", "üzlet", "piac", "drágulás", "árak", "bank", "fizetés", "bér", "bani", "inflatie", "investitii", "economie"],
-    "Kultúra": ["színház", "múzeum", "koncert", "kiállítás", "könyv", "irodalom", "zene", "művészet", "fesztivál", "egyház", "teatru", "muzeu", "carte", "muzica", "biserica"],
-    "Erdély": ["erdély", "székelyföld", "kolozsvár", "marosvásárhely", "csíkszereda", "sepsiszentgyörgy", "székelyudvarhely", "nagyvárad", "szatmárnémeti", "brassó", "hargita", "kovászna", "maros"],
-    "Bulvár": ["sztár", "celeb", "szerelem", "szakítás", "házasság", "botrány", "vedeta", "scandal", "divort", "cancan", "showbiz", "horoszkóp"]
+    "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "formai-1", "f1", "tenisz"],
+    "Politika": ["kormány", "parlament", "választás", "párt", "politika", "miniszter", "miniszterelnök", "döntés", "törvény", "fidesz", "kdnp", "dk", "tisza", "momentum", "mi hazánk", "brüsszel", "eu", "orbán", "szijjártó"],
+    "Gazdaság": ["pénz", "euró", "forint", "huf", "infláció", "befektetés", "gazdaság", "cégek", "üzlet", "piac", "drágulás", "árak", "bank", "fizetés", "bér", "kamat", "mnb", "tőzsde", "gázár", "benzin"],
+    "Kultúra": ["színház", "múzeum", "koncert", "kiállítás", "könyv", "irodalom", "zene", "művészet", "fesztivál", "egyház", "film", "mozi", "színész"],
+    "Tech": ["mesterséges intelligencia", "ai", "apple", "google", "microsoft", "samsung", "okostelefon", "szoftver", "hardver", "cybersecurity", "kibertámadás", "újítás", "fejlesztés"],
+    "Bulvár": ["sztár", "celeb", "szerelem", "szakítás", "házasság", "botrány", "showbiz", "horoszkóp", "tv2", "rtl", "duna tv"]
 }
 
 _MODEL = None
@@ -95,7 +95,7 @@ _MODEL = None
 def get_model():
     global _MODEL
     if _MODEL is None:
-        print("🧠 SentenceTransformer AI modell betöltése...")
+        print("🧠 SentenceTransformer AI modell betöltése (magyar nyelvre optimalizálva)...")
         _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
         _MODEL.to(torch.float32)
     return _MODEL
@@ -157,30 +157,27 @@ def clean_text(text):
 def classify_article(title, summary, source_name):
     text = f"{title} {summary}".lower()
 
-    crime_education_keywords = [
-        "rendőrség", "bántalmazás", "letartóztatás", "bíróság", "miniszter", 
-        "iskola", "profesor", "politie", "dosar penal", "reţinut", "agresat", "tanár"
-    ]
-    if any(kw in text for kw in crime_education_keywords):
-        if any(w in text for w in ["erdély", "timișoara", "temesvár", "kolozsvár", "marosvásárhely", "székelyföld"]):
-            return "Erdély"
-        return "Általános"
-
-    if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"]:
+    # Forrás alapú egyértelmű kategória besorolás
+    if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport", "Csakfoci"]:
         return "Sport"
-    if source_name in ["Maszol Gazdaság", "Economedia", "Ziarul Financiar"]:
+    if "Gazdaság" in source_name or source_name in ["Portfolio - Gazdaság", "Portfolio - Befektetés", "Economx (Napi.hu)", "Világgazdaság"]:
         return "Gazdaság"
-    if source_name in ["Click.ro", "Cancan.ro", "Maszol Életmód"]:
+    if "Tech" in source_name or source_name in ["HWSW", "Prohardver", "Rakéta.hu", "PC World"]:
+        return "Tech"
+    if source_name in ["Blikk", "BorsOnline", "Velvet", "Femina", "NLC (Nők Lapja Café)"]:
         return "Bulvár"
-    if source_name in ["Udvarhelyi Hírportál (UH.ro)", "Hargita Népe", "PresaSM (Szatmár)", "Szatmári Friss Újság", "Vásárhely.ma", "Átlátszó Erdély", "Ebihoreanul (Nagyvárad/Bihar)"]:
-        return "Erdély"
+    if "Külföld" in source_name or "Világ" in source_name:
+        return "Külföld"
+    if "Belföld" in source_name or "Itthon" in source_name:
+        return "Belföld"
 
+    # Kulcsszó alapú szűrés
     for category, keywords in CATEGORIES.items():
         for kw in keywords:
             if re.search(r'\b' + re.escape(kw) + r'\b', text):
                 return category
 
-    return "Általános"
+    return "Belföld"
 
 def extract_cover_image(entry, article_url, session):
     if 'media_content' in entry and entry.media_content:
@@ -269,7 +266,7 @@ def fetch_single_feed(item_and_cutoff):
 # ==============================================================================
 def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"\n[{now_str}] 🔄 Hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
+    print(f"\n[{now_str}] 🔄 Magyar hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
 
     cutoff_24h = int(time.time()) - (24 * 3600)
     memory = load_json_file(MEMORY_FILE)
@@ -334,7 +331,7 @@ def run_pipeline():
         })
 
     # ==============================================================================
-    # ARCHIVÁLÁS ÉS MEMÓRIA FRISSÍTÉS (TELJES ARCHÍVUM FELHALMOZÁS)
+    # ARCHIVÁLÁS ÉS MEMÓRIA FRISSÍTÉS
     # ==============================================================================
     fresh_memory = []
     archive_updated = False
@@ -381,7 +378,7 @@ def run_pipeline():
     save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
 
     # ==============================================================================
-    # BŐVÍTŐ NEWS.JSON FRISSÍTÉS (NEM TÖRÖL, MEGTARTJA AZ AI SZINTETIZÁLT CIKKEKET)
+    # NEWS.JSON FRISSÍTÉS (MAGYAR NYELVRE TISZTÍTVA)
     # ==============================================================================
     os.makedirs("src/data", exist_ok=True)
     existing_news = load_json_file(OUTPUT_FILE)
@@ -404,7 +401,6 @@ def run_pipeline():
                     "link": item.get("link")
                 })
             
-            # 🎯 PONTOS FORRÁSSZÁM FRISSÍTÉSE
             news_map[g_id]["sources_count"] = len(news_map[g_id]["sources"])
         
         # B) HA ÚJ HÍRCSOPORT, HOZZÁADJUK NYERSKÉNT:
@@ -416,32 +412,28 @@ def run_pipeline():
             }]
             news_map[g_id] = {
                 "group_id": g_id,
-                "category": item.get("category", "Általános"),
+                "category": item.get("category", "Belföld"),
                 "image": item.get("image", ""),
                 "is_synthesized": False,
-                "sources_count": len(sources_list), # 🎯 PONTOS FORRÁSSZÁM ÚJ KÁRTYÁNÁL IS
+                "sources_count": len(sources_list),
                 "sources": sources_list,
                 "published_at": pub_time,
                 "title_hu": item.get("title", ""),
                 "lead_hu": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
-                "content_hu": item.get("summary", ""),
-                "title_ro": item.get("title", ""),
-                "lead_ro": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
-                "content_ro": item.get("summary", "")
+                "content_hu": item.get("summary", "")
             }
 
     # 24 órán belüli érvényes cikkek megtartása és rendezése
     updated_list = list(news_map.values())
     valid_news_list = [item for item in updated_list if item.get("published_at", 0) >= cutoff_24h]
 
-    # Biztonsági ellenőrzés a mentés előtt: minden cikknél kényszerítjük a legfrissebb sources_count értéket
     for item in valid_news_list:
         if "sources" in item and isinstance(item["sources"], list):
             item["sources_count"] = len(item["sources"])
 
     valid_news_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
 
-    # Forrás szerinti kiegyensúlyozás (ha szükséges)
+    # Forrás szerinti kiegyensúlyozás
     balanced_list = []
     skipped_items = []
 
@@ -459,7 +451,7 @@ def run_pipeline():
     final_list = balanced_list + skipped_items
 
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ 24 órás hírfrissítés kész! Bővítve és megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
+    print(f"⚡ Magyar hírfrissítés kész! Megőrizve és bővítve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
