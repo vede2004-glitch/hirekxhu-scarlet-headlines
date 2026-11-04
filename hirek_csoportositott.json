@@ -524,22 +524,6 @@
     ]
   },
   {
-    "group_id": "group_0471b09977",
-    "category": "Belföld",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Belföld",
-        "title": "Dagad a parlamenti szavazóbotrány, Latorcai Csaba szerint egy tiszás képviselővel hasonló történt, mint Pócs Jánossal",
-        "link": "https://index.hu/belfold/2026/11/03/latorcai-csaba-szucs-dora-pocs-janos-szavazas-orszaggyules/",
-        "image": "https://kep.index.hu/1/0/7240/72406/724068/72406805_5335843_d25976bb0000fc1a87cf0f82c46065ef_wm.jpg",
-        "summary": "Elkéshetett a szavazásról.",
-        "category": "Belföld",
-        "published_at": 1793726400
-      }
-    ]
-  },
-  {
     "group_id": "group_fdbd10bb72",
     "category": "Belföld",
     "articles_count": 6,
@@ -5369,22 +5353,6 @@
         "summary": "Köllő Babett lélegzetelállítóan nézett ki merész, ám annál gyönyörűbb ruhájában.",
         "category": "Bulvár",
         "published_at": 1793727300
-      }
-    ]
-  },
-  {
-    "group_id": "group_29ffd96a2b",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Tartós derékfájás gyötör? Napi 10 perc is segíthet ellazítani a feszült izmokat",
-        "link": "https://femina.hu/egeszseg/derekfajas-ellen-10-perces-nyujtas-izmok-ellazitasa/",
-        "image": "https://femina.hu/neon/media/images/derekfajas_6AUMZvR.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Nem kell órákat edzened ahhoz, hogy törődj a hátad egészségével.",
-        "category": "Bulvár",
-        "published_at": 1793726400
       }
     ]
   },
@@ -10747,7 +10715,7 @@
   {
     "group_id": "group_afdbf86a25",
     "category": "Gazdaság",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -10757,6 +10725,15 @@
         "summary": "A NAV elsősorban azt vizsgálja majd, hogy a vagyonkezelések mögött valódi gazdasági tartalom áll-e.",
         "category": "Gazdaság",
         "published_at": 1793809053
+      },
+      {
+        "source": "ATV",
+        "title": "Zéró tolerancia: már novemberben lecsap a NAV a bizalmi vagyonkezelőkre",
+        "link": "https://www.atv.hu/belfold/20261104/zero-tolerancia-nav-vagyonkzelok/",
+        "image": "",
+        "summary": "A NAV bejelentése szerint hamarosan indul a bizalmi vagyonkezelések szigorú ellenőrzése.",
+        "category": "Általános",
+        "published_at": 1793812680
       }
     ]
   },
@@ -11422,6 +11399,22 @@
         "summary": "A Xiaomi okos volt és nem próbált kamerát és mesterséges intelligenciát rakni az okosszemüvegébe.",
         "category": "Kultúra",
         "published_at": 1793812200
+      }
+    ]
+  },
+  {
+    "group_id": "group_7f7e021679",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Idén 100 éve halt meg Houdini – Rajongói minden évben a szellemét várják",
+        "link": "https://femina.hu/terasz/harry-houdini-szelleme-halloween-szeansz/",
+        "image": "https://femina.hu/neon/media/images/GettyImages-53260879.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Száz éve halt meg a legendás szabadulóművész, de rajongói máig remélik, hogy egyszer üzen a túlvilágról. Harry Houdini különös ígéretet hagyott hátra.",
+        "category": "Bulvár",
+        "published_at": 1793812800
       }
     ]
   }

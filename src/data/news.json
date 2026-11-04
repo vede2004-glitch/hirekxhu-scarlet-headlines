@@ -1,5 +1,23 @@
 [
   {
+    "group_id": "group_7f7e021679",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/GettyImages-53260879.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Idén 100 éve halt meg Houdini – Rajongói minden évben a szellemét várják",
+        "link": "https://femina.hu/terasz/harry-houdini-szelleme-halloween-szeansz/"
+      }
+    ],
+    "published_at": 1793812800,
+    "title_hu": "Idén 100 éve halt meg Houdini – Rajongói minden évben a szellemét várják",
+    "lead_hu": "Száz éve halt meg a legendás szabadulóművész, de rajongói máig remélik, hogy egyszer üzen a túlvilágról. Harry Houdini különös ígéretet hagyott hátra....",
+    "content_hu": "Száz éve halt meg a legendás szabadulóművész, de rajongói máig remélik, hogy egyszer üzen a túlvilágról. Harry Houdini különös ígéretet hagyott hátra."
+  },
+  {
     "group_id": "group_426a4f6617",
     "category": "Kultúra",
     "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/xiaomi_smart_audio_glasses_150144_2_original_390x220_cover.jpg",
@@ -847,12 +865,17 @@
     "category": "Gazdaság",
     "image": "https://cdn.vg.hu/2026/09/mYeihCprgPK4crgeK9TVb1eH0ygItip7dMCUJVA_JS0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM0NDI5ODQ5MzUxODQ2NWQ4ZGMyYjcxMmI1MWUyNGM5.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Világgazdaság",
         "title": "Rákapcsol a NAV: több mint ezer vagyonkezelés kerül célkeresztbe novemberben –„zéró toleranciát alkalmazunk”",
         "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/nav-ellenorzes-bizalmi-vagyonkezelo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "ATV",
+        "title": "Zéró tolerancia: már novemberben lecsap a NAV a bizalmi vagyonkezelőkre",
+        "link": "https://www.atv.hu/belfold/20261104/zero-tolerancia-nav-vagyonkzelok/"
       }
     ],
     "published_at": 1793809053,
@@ -11993,42 +12016,6 @@
     "title_hu": "Svédországba látogat Forsthoffer Ágnes, a koronahercegnő is fogadja",
     "lead_hu": "Tárgyal a svéd házelnökkel és miniszterelnökkel is.",
     "content_hu": "Tárgyal a svéd házelnökkel és miniszterelnökkel is."
-  },
-  {
-    "group_id": "group_0471b09977",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7240/72406/724068/72406805_5335843_d25976bb0000fc1a87cf0f82c46065ef_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Belföld",
-        "title": "Dagad a parlamenti szavazóbotrány, Latorcai Csaba szerint egy tiszás képviselővel hasonló történt, mint Pócs Jánossal",
-        "link": "https://index.hu/belfold/2026/11/03/latorcai-csaba-szucs-dora-pocs-janos-szavazas-orszaggyules/"
-      }
-    ],
-    "published_at": 1793726400,
-    "title_hu": "Dagad a parlamenti szavazóbotrány, Latorcai Csaba szerint egy tiszás képviselővel hasonló történt, mint Pócs Jánossal",
-    "lead_hu": "Elkéshetett a szavazásról.",
-    "content_hu": "Elkéshetett a szavazásról."
-  },
-  {
-    "group_id": "group_29ffd96a2b",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/derekfajas_6AUMZvR.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Tartós derékfájás gyötör? Napi 10 perc is segíthet ellazítani a feszült izmokat",
-        "link": "https://femina.hu/egeszseg/derekfajas-ellen-10-perces-nyujtas-izmok-ellazitasa/"
-      }
-    ],
-    "published_at": 1793726400,
-    "title_hu": "Tartós derékfájás gyötör? Napi 10 perc is segíthet ellazítani a feszült izmokat",
-    "lead_hu": "Nem kell órákat edzened ahhoz, hogy törődj a hátad egészségével.",
-    "content_hu": "Nem kell órákat edzened ahhoz, hogy törődj a hátad egészségével."
   },
   {
     "group_id": "group_345e4e1afd",
