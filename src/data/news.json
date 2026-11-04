@@ -1,5 +1,59 @@
 [
   {
+    "group_id": "group_f123b0c621",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793798473-temp-c9ug1hjiadd7bjfhhbh_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Újabb himalájai elsőségét kérdőjelezték meg Sántha Xénia hegymászó-influenszernek",
+        "link": "https://telex.hu/szepkilatas/2026/11/04/santha-xenia-ama-dablam-himalaja-nepal-hegymaszas"
+      }
+    ],
+    "published_at": 1793798852,
+    "title_hu": "Újabb himalájai elsőségét kérdőjelezték meg Sántha Xénia hegymászó-influenszernek",
+    "lead_hu": "Sántha Xénia az Ama Dablam első magyar női megmászójának tartja magát, arra hivatkozva, hogy az őt 4 évvel megelőző, erdélyi Gál-Joó Melánia románként regisztrált a nepáli hatóságoknál. Sántha elsőség...",
+    "content_hu": "Sántha Xénia az Ama Dablam első magyar női megmászójának tartja magát, arra hivatkozva, hogy az őt 4 évvel megelőző, erdélyi Gál-Joó Melánia románként regisztrált a nepáli hatóságoknál. Sántha elsőségét a Manaszlu csúcsán is vitatták."
+  },
+  {
+    "group_id": "group_669eb4033f",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/file-20261030-64-9rvejn-2-e1793798486184-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A világon először azonosíthattak dinoszaurusz-vérsejteket",
+        "link": "https://24.hu/tudomany/2026/11/04/dinoszaurusz-versejtek-felfedezese-szenzacio/"
+      }
+    ],
+    "published_at": 1793798763,
+    "title_hu": "A világon először azonosíthattak dinoszaurusz-vérsejteket",
+    "lead_hu": "Egy kutatócsoport azt állítja, szenzációs felfedezést tett: a világon elsőként azonosított máig fennmaradt vörösvértesteket egy dinoszaurusz csontjában. The post A világon először azonosíthattak dinos...",
+    "content_hu": "Egy kutatócsoport azt állítja, szenzációs felfedezést tett: a világon elsőként azonosított máig fennmaradt vörösvértesteket egy dinoszaurusz csontjában. The post A világon először azonosíthattak dinoszaurusz-vérsejteket first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_76bbc6d58e",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793798147-temp-l7jqs9dgic7v5jknlpl_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "„Ti ünnepeltek, mi gyászolunk” – tüntetők fogadták a debreceni akkumulátorkonferencia résztvevőit",
+        "link": "https://telex.hu/belfold/2026/11/04/tuntetok-debreceni-akkumulatorkonferencia-resztvevo"
+      }
+    ],
+    "published_at": 1793798451,
+    "title_hu": "„Ti ünnepeltek, mi gyászolunk” – tüntetők fogadták a debreceni akkumulátorkonferencia résztvevőit",
+    "lead_hu": "A Magyar Akkumulátor Szövetség hatodjára rendezte meg a kétnapos konferenciát, amire húsz országból mintegy 230 résztvevő érkezett....",
+    "content_hu": "A Magyar Akkumulátor Szövetség hatodjára rendezte meg a kétnapos konferenciát, amire húsz országból mintegy 230 résztvevő érkezett."
+  },
+  {
     "group_id": "group_d710006240",
     "category": "Általános",
     "image": "",
@@ -711,12 +765,17 @@
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261104/1793794873-temp-cgutgrjh02811igicfl_cimlap-normal.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Telex - Belföld",
         "title": "Beer Miklós nyugalmazott püspök is szerepel az ügynökaktákban, de elmondása szerint nem is tudott róla, hogy hálózati személy",
         "link": "https://telex.hu/ugynokaktak/2026/11/04/beer-miklos-katolikus-puspok-ugynokaktak-6-os-karton-magnesszalag-beszervezes"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Beer Miklós volt váci püspök is szerepel az ügynökaktákban",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/beer-miklos-nyugalmazott-puspok-is-szerepel-az-ugynokaktakban"
       }
     ],
     "published_at": 1793796216,
@@ -5180,7 +5239,7 @@
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/SsMHzCCPxgnLLp5WVoKxjvfy23p1z_qoPC-C0Z-ho8I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg0ZjFhNzBiZWJkOTRlYWU4OWFlNmU1MDY1MTg0N2Q0.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Magyar Nemzet",
@@ -5191,6 +5250,11 @@
         "source": "Vadhajtások",
         "title": "Orbán Viktor: Akik megharcoltak a szabadságért, azok a mi elődeink",
         "link": "https://www.vadhajtasok.hu/2026/11/04/orban-viktor-akik-megharcoltak-a-szabadsagert-azok-a-mi-elodeink"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Orbán Viktor a végkielégítéséről: Megkaptam, eladományoztam",
+        "link": "https://telex.hu/belfold/2026/11/04/orban-viktor-vegkielegites-adomanyozas"
       }
     ],
     "published_at": 1793781331,
@@ -10032,60 +10096,6 @@
     "title_hu": "Az egész EU-ban Magyarországon a legdrágább a GTA6",
     "lead_hu": "Nemcsak önmagában a legdrágább, de az átlagkereset arányában is itt kell a legtöbbet kicsengetni a régóta várt akciójátékért.",
     "content_hu": "Nemcsak önmagában a legdrágább, de az átlagkereset arányában is itt kell a legtöbbet kicsengetni a régóta várt akciójátékért."
-  },
-  {
-    "group_id": "group_6685dd6864",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/da3a0140-906c-48f0-8e73-53f384464353.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Tovább emelkedett a Tisza vízszintje, ismét működni kezdett a Tiszalöki Vízerőmű",
-        "link": "https://hvg.hu/gazdasag/20261103_tiszaloki-vizeromu-ujraindul"
-      }
-    ],
-    "published_at": 1793712444,
-    "title_hu": "Tovább emelkedett a Tisza vízszintje, ismét működni kezdett a Tiszalöki Vízerőmű",
-    "lead_hu": "Valamivel több mint két hónapig nem üzemelt.",
-    "content_hu": "Valamivel több mint két hónapig nem üzemelt."
-  },
-  {
-    "group_id": "group_c937d24491",
-    "category": "Külföld",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9d4802e8-77fa-420a-ad64-10ef305e0def.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "A Kreml megerősítette, hogy Oroszország részt vesz a jövő heti háromoldalú tárgyalásokon",
-        "link": "https://hvg.hu/vilag/20261103_haboru-ukrajna-oroszorszag-egyesult-allamok-targyalas-abu-dzabi-kreml"
-      }
-    ],
-    "published_at": 1793712368,
-    "title_hu": "A Kreml megerősítette, hogy Oroszország részt vesz a jövő heti háromoldalú tárgyalásokon",
-    "lead_hu": "Az orosz delegációt Vlagyimir Putyin tanácsadója vezeti.",
-    "content_hu": "Az orosz delegációt Vlagyimir Putyin tanácsadója vezeti."
-  },
-  {
-    "group_id": "group_38dc248f7f",
-    "category": "Külföld",
-    "image": "https://kep.index.hu/1/0/7239/72398/723982/72398211_5335213_f645011ff8dbe3de973a9a3d65dbdcd0_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Külföld",
-        "title": "Ötven év után újranyitják Pier Paolo Pasolini meggyilkolásának ügyét",
-        "link": "https://index.hu/kulfold/2026/11/03/pier-paolo-pasolini-meggyilkolt-iro-rendezo-nyomozas/"
-      }
-    ],
-    "published_at": 1793712360,
-    "title_hu": "Ötven év után újranyitják Pier Paolo Pasolini meggyilkolásának ügyét",
-    "lead_hu": "Új bizonyítékok kerülhettek elő.",
-    "content_hu": "Új bizonyítékok kerülhettek elő."
   },
   {
     "group_id": "group_2a76226c76",
