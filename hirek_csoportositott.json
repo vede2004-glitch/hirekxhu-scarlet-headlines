@@ -1550,40 +1550,6 @@
     ]
   },
   {
-    "group_id": "group_bcb273db12",
-    "category": "Belföld",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "RTL: Több mint 50 millió forint közpénzbe került Orbán Viktorék 2023-as kazahsztáni útja",
-        "link": "https://hvg.hu/itthon/20261103_orban-viktor-turk-allamok-szervezete-kazahsztan",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6dddf01e-e221-4870-b309-2926a9149ebd.jpg",
-        "summary": "Csak a repülőútra 25 millió forintot költhettek.",
-        "category": "Belföld",
-        "published_at": 1793735881
-      },
-      {
-        "source": "ATV",
-        "title": "55 millióba kerülhetett Orbán Viktor kazahsztáni útja az adófizetőknek – Havasi Bertalan szerint „ilyen a diplomácia”",
-        "link": "https://www.atv.hu/belfold/20261104/orban-viktor-kazahsztan-ut-koltsegek/",
-        "image": "",
-        "summary": "Több mint 55 millió forint közpénzbe kerülhetett Orbán Viktor és delegációja kazahsztáni útja a Türk Államok Szervezetének 2023-as csúcstalálkozóján. A költségekre a Fidesz sajtófőnöke mindössze ennyit reagált: „Ilyen a diplomácia.”",
-        "category": "Politika",
-        "published_at": 1793782305
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "55 millió forintba kerülhetett Orbán Viktorék kétnapos kazahsztáni útja – csak a repülés 25 millió volt",
-        "link": "https://nlc.hu/ezvan/20261104/orban-viktor-kazahsztani-ut-55-millio-kozpenz/emsg1lf",
-        "image": "",
-        "summary": "Legalább 55 millió forint közpénzbe kerülhetett Orbán Viktor és delegációjának 2023-as kazahsztáni látogatása. A Külügyminisztériumtól kikért dokumentumok alapján a szállásért 12 millió forintot fizettek, a honvédségi repülőgép használata pedig további 25 millióba kerülhetett. A Fidesz röviden reagált az RTL Híradó értesüléseire. The post 55 millió forintba kerülhetett Orbán Viktorék kétnapos kazahsztáni útja – csak a repülés 25 millió volt first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1793779380
-      }
-    ]
-  },
-  {
     "group_id": "group_7db0c870b5",
     "category": "Belföld",
     "articles_count": 2,
@@ -2108,7 +2074,7 @@
   {
     "group_id": "group_587b1ef3d6",
     "category": "Politika",
-    "articles_count": 7,
+    "articles_count": 8,
     "articles": [
       {
         "source": "Magyar Nemzet",
@@ -2172,6 +2138,15 @@
         "summary": "A Fidesz elnöke jótékony célra ajánlotta fel a teljes összeget.",
         "category": "Politika",
         "published_at": 1793811851
+      },
+      {
+        "source": "Magyar Narancs",
+        "title": "Romlásban",
+        "link": "https://magyarnarancs.hu/aszerk/romlasban-280524",
+        "image": "",
+        "summary": "Ezekben a napokban a saját példáján demonstrálja ország-világ előtt Orbán Viktor, hogy szorult helyzetében miként írja felül a több évtizedes Fidesz-kommunikáció axiómáját: a kritikákra, vádakra soha nem válaszolni, soha nem védekezni, csakis támadni.",
+        "category": "Politika",
+        "published_at": 1793822400
       }
     ]
   },
@@ -2512,6 +2487,31 @@
         "summary": "Hosszú évtizedek várakozása után megnyíltak az ügynökakták. A Tisza Párt egyik legfontosabb ígérete teljesül most.",
         "category": "Politika",
         "published_at": 1793783446
+      }
+    ]
+  },
+  {
+    "group_id": "group_bcb273db12",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "55 millióba kerülhetett Orbán Viktor kazahsztáni útja az adófizetőknek – Havasi Bertalan szerint „ilyen a diplomácia”",
+        "link": "https://www.atv.hu/belfold/20261104/orban-viktor-kazahsztan-ut-koltsegek/",
+        "image": "",
+        "summary": "Több mint 55 millió forint közpénzbe kerülhetett Orbán Viktor és delegációja kazahsztáni útja a Türk Államok Szervezetének 2023-as csúcstalálkozóján. A költségekre a Fidesz sajtófőnöke mindössze ennyit reagált: „Ilyen a diplomácia.”",
+        "category": "Politika",
+        "published_at": 1793782305
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "55 millió forintba kerülhetett Orbán Viktorék kétnapos kazahsztáni útja – csak a repülés 25 millió volt",
+        "link": "https://nlc.hu/ezvan/20261104/orban-viktor-kazahsztani-ut-55-millio-kozpenz/emsg1lf",
+        "image": "",
+        "summary": "Legalább 55 millió forint közpénzbe kerülhetett Orbán Viktor és delegációjának 2023-as kazahsztáni látogatása. A Külügyminisztériumtól kikért dokumentumok alapján a szállásért 12 millió forintot fizettek, a honvédségi repülőgép használata pedig további 25 millióba kerülhetett. A Fidesz röviden reagált az RTL Híradó értesüléseire. The post 55 millió forintba kerülhetett Orbán Viktorék kétnapos kazahsztáni útja – csak a repülés 25 millió volt first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1793779380
       }
     ]
   },
@@ -7631,22 +7631,6 @@
     ]
   },
   {
-    "group_id": "group_d21d23a36c",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "\"Mit tegyek? Szeretem a feleségemet, de titkon a megszállottja vagyok a lányom barátnőjének édesanyjának!\"",
-        "link": "https://borsonline.origo.hu/igaz-tortenetek/2026/11/hazassag-csalad-masik-no-megszallottsag",
-        "image": "https://cdn.borsonline.hu/2026/10/In6SGIHh7Btp_xBW3WVZRxoUs5j-Cp4hfvcgi9a0YEA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYyZjhhNmFjNTg5YjQxNTJiZWJlODJlNzAyYzYyZDU4.jpg",
-        "summary": "Komoly dilemmában találta magát egy családos férfi.",
-        "category": "Általános",
-        "published_at": 1793736000
-      }
-    ]
-  },
-  {
     "group_id": "group_16c62bc81b",
     "category": "Általános",
     "articles_count": 1,
@@ -9386,7 +9370,7 @@
   {
     "group_id": "group_900d7a6a7c",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -9396,6 +9380,15 @@
         "summary": "Az amerikai félidős választások nemcsak a Demokrata Párt számára hoztak jelentős sikereket, hanem több történelmi áttörést is eredményeztek. The post Fekete, latina és őslakos politikusok írtak történelmet az amerikai választáson first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1793805041
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Előretörtek a demokraták, fekete politikusok pedig történelmet írtak a kormányzóválasztásokon",
+        "link": "https://telex.hu/kulfold/2026/11/04/amerika-usa-felidos-valasztasok-kormanyzok",
+        "image": "https://assets.telex.hu/images/20261104/1793811434-temp-i08n48eibfnfeehedkn_cimlap-normal.jpg",
+        "summary": "Nemcsak a szenátusi és képviselőházi választások hoztak történelmi eredményeket, de jó néhány állam kormányzóválasztása is.",
+        "category": "Politika",
+        "published_at": 1793820647
       }
     ]
   },
@@ -11072,7 +11065,7 @@
   {
     "group_id": "group_7572befdbb",
     "category": "Gazdaság",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Portfolio - Befektetés",
@@ -11091,6 +11084,15 @@
         "summary": "A vizsgálatok arra irányulnak majd, van-e vagyonkezelésnek valós gazdasági tartalma, vagy csak az adóelőny érdekében hozták létre. The post NAV: kezdődik a bizalmi vagyonkezelések ellenőrzése november közepén first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1793815342
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A törvénymódosítás után megkezdi a NAV a bizalmi vagyonkezelések ellenőrzését",
+        "link": "https://telex.hu/gazdasag/2026/11/04/bizalmi-vagyonkezeles-nav-ellenorzes-adozas",
+        "image": "",
+        "summary": "A gazdagok gyakran vitték be vagyonelemeiket bvk-kba, hogy kiélvezzék az adóelőnyöket. A NAV zéró toleranciát alkalmaz azokkal szemben, akik a közvagyon megkárosítására használták fel a konstrukciót.",
+        "category": "Politika",
+        "published_at": 1793821758
       }
     ]
   },
@@ -12607,6 +12609,390 @@
         "summary": "",
         "category": "Gazdaság",
         "published_at": 1793821866
+      }
+    ]
+  },
+  {
+    "group_id": "group_aa6e842402",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Kétszer is vezetett, mégis veszített a Liverpool a BL-ben",
+        "link": "https://telex.hu/sport/2026/11/04/bajnokok-ligaja-fener-pool-aek-real",
+        "image": "https://assets.telex.hu/images/20261104/1793821233-temp-tnavcl299j8tcklalbe_cimlap-normal.jpg",
+        "summary": "A Fenerbahce győzte le Szoboszlaiékat. Real Madrid kétszer volt hátrányban Athénban, mégis győztesen távozott az AEK-tól.",
+        "category": "Politika",
+        "published_at": 1793822095
+      }
+    ]
+  },
+  {
+    "group_id": "group_bbe2f5bffb",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Egy másodpercük volt dönteni, vissza kellett volna fordulni – elmondta Toroczkai, miért vonultak ki a sükösdi gyerekek előadásáról",
+        "link": "https://telex.hu/belfold/2026/11/04/toroczkai-laszlo-mi-hazank-partizan-vegrehajtasi-visszaelesek-vizsgalobizottsag-sukosdi-tamburas-gyerekek",
+        "image": "https://assets.telex.hu/images/20261104/1793821174-temp-s41ekf95t3gefibkbcj_cimlap-normal.jpg",
+        "summary": "Szerinte viszont nem nekik, hanem inkább Magyar Péternek kell bocsánatot kérnie.",
+        "category": "Politika",
+        "published_at": 1793822010
+      }
+    ]
+  },
+  {
+    "group_id": "group_64e44ca599",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Letartóztatták a szerb különleges terrorellenes egység parancsnokát",
+        "link": "https://444.hu/2026/11/04/letartoztattak-a-szerb-kulonleges-terrorellenes-egyseg-parancsnokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A választás óta már a sokadik vezető, akit letartóztattak.",
+        "category": "Politika",
+        "published_at": 1793822187
+      }
+    ]
+  },
+  {
+    "group_id": "group_b94b9c665e",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Az örökség",
+        "link": "https://magyarnarancs.hu/kritika/az-orokseg-280544",
+        "image": "",
+        "summary": "A maffia, Kuba és Fidel Castro, a Szovjet­unió és a KGB, esetleg a klasszikus többlövész-teória – J. F. Kennedy 1963-as meggyilkolása a mai napig az összeesküvés-elméletek egyik legfőbb táptalaja. Végül is kevés konteó mondhatja el magáról, hogy Oscar-díjas rendező készített róla filmtörténetileg is jelentékeny mozit.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_ecc0b817fa",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Nem konyhanyelven",
+        "link": "https://magyarnarancs.hu/kritika/nem-konyhanyelven-280543",
+        "image": "",
+        "summary": "A Titkaink ősbemutatója 2013-ban volt; a kritika és a közönség is nagyon gyorsan besorolta a Pintér-életmű csúcsdarabjai közé. Mégis – vagy éppen ezért – tizenhárom évet kellett várni, hogy egy másik rendező egy másik társulattal műsorára tűzze. És ők sem tették előzmény nélkül, hiszen Nagy Péter István két éve megrendezte a Gyévuskát Szombathelyen.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_75307fccbe",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Távol a vad realitástól",
+        "link": "https://magyarnarancs.hu/kritika/tavol-a-vad-realitastol-280535",
+        "image": "",
+        "summary": "Saturnint, az inast a regény névtelen narrátora, egy jómódú, felső-középosztálybeli, átlagosan unalmas életvitelt folytató, 30 éves fiatalember fogadja fel. E fiatalember magát egy fantáziátlan, lomha, humorérzék nélküli férfinak látja, s hogy valóban ilyen, arról olvasás közben többé-kevésbé mi is meggyőződhetünk. Ő az egyetlen olyan szereplője ennek a kacifántos történetnek, aki soha nem ért semmit.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_4503a2a091",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Libera me",
+        "link": "https://magyarnarancs.hu/aszerk/libera-me-280525",
+        "image": "",
+        "summary": "Tizenöt év után nem Ókovács Szilveszter az Operaház főigazgatója. November 2-án Tarr Zoltán kultuszminiszter azonnali hatállyal megszüntette a megbízatását, miután az intézmény átvilágítása és mintegy 200 ezer oldal papiros átnyálazása után hiányosságokat és szabálytalanságokat talált a minisztérium. Voltak operarajongók, énekesek és muzsikusok, akik a hírre pezsgőt bontottak.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_0917295bf7",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Mi zajlik itt?",
+        "link": "https://magyarnarancs.hu/aszerk/mi-zajlik-itt-280523",
+        "image": "",
+        "summary": "A múlt pénteken benyújtották a 2027-es költségvetést – öröm volt megélni ezt a pillanatot, midőn hazánk visszatért a hétköznapi demokráciákban megszokott ügyintézési rendhez. Aztán ez az öröm alábbhagyott: sok soron nem úgy és nem azok és nem annyit kapnak, akiknek és amennyit kellene.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_807f7f5c75",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Kisodródtunk a közegünk szélére”",
+        "link": "https://magyarnarancs.hu/szinhaz2/kisodrodtunk-a-kozegunk-szelere-280528",
+        "image": "",
+        "summary": "A Krétakör Színház alapítója nyolc éve – jórészt politikai okokból – költözött Franciaországba, de most ő is pályázott az Új Színház vezetésére. Székely Gábor és Dörner György örökségéről, a színház újragondolt szerepéről és a hazaköltözés esélyeiről is kérdeztük.",
+        "category": "Kultúra",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_0ea90d6044",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Mintha nem a kapitalizmus lenne a főbérlő",
+        "link": "https://magyarnarancs.hu/publicisztika/mintha-nem-a-kapitalizmus-lenne-a-foberlo-280530",
+        "image": "",
+        "summary": "Megjelentek a Tisza-kormány új lakáspolitikájának első elemei, a magánszemélyeknek és társasházaknak szóló Wekerle Plusz programcsomag. Ezzel egyidejűleg a kormány deklarálta, hogy el kíván mozdulni elődje tulajdoncentrikus lakáspolitikájától, és ismertette a tervezett bérlakás- és kollégiumépítés pénzügyi keretszámait. A cél üdvözlendő, hiszen Magyarországon a lakott lakások mintegy 90 százalékában a tulajdonos él, mindössze 10 százalékukat bérlik, ezzel a sereghajtók között vagyunk Európában.",
+        "category": "Politika",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_35204fe64b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Lánc, lánc, fűrész",
+        "link": "https://magyarnarancs.hu/belpol/lanc-lanc-furesz-280534",
+        "image": "",
+        "summary": "A tűzifaigényre hivatkozva oldotta fel a szakminiszter az általa meghirdetett fakitermelési moratóriumot. Ám korántsem csak a szociális tűzifa miatt fűrészelnek: az erőművek is várják az erdők fáit, hogy rossz hatékonysággal menjen füstbe minden egyes köbméter.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_8640a04236",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Egymás között",
+        "link": "https://magyarnarancs.hu/belpol/egymas-kozott-280533",
+        "image": "",
+        "summary": "Bezáratta az esztergomi Szent István Strandfürdőt a kormányhivatal, mert a százévesnél is öregebb létesítmény állapota leromlott a fejlesztések elmaradása miatt. Közben állami támogatásból épült a polgármester nagybátyjához, a MOL-vezér Hernádi Zsolthoz köthető hotel, amelynek a vendégei ingyenesen használhatják a szomszédságában két évtizede működő élményfürdőt.",
+        "category": "Politika",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_6dc46f3aa7",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Magukra hagyva",
+        "link": "https://magyarnarancs.hu/belpol/magukra-hagyva-280532",
+        "image": "",
+        "summary": "Az aszály miatt kiszáradt talaj terhelhetősége csökken, ami az elavult technológiával felépített házak süllye­déséhez, repedezéséhez vezet. E folyamat országos jelenség, és az akár százezreket érintő károk kezelésének egyelőre nincs gazdája.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_482d9db09c",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Az óvoda nem az iskola előszobája”",
+        "link": "https://magyarnarancs.hu/belpol/az-ovoda-nem-az-iskola-eloszobaja-280531",
+        "image": "",
+        "summary": "Évekig alig kapott figyelmet a 0–10 éves korosztályt ellátó intézményrendszer, ám immár önálló állam­titkárság foglalkozik ezzel. Ennek vezetőjével az óvodai alapprogram megújításáról, a rugalmas iskolakezdésről, az eddigi teljesítményértékelési rendszer kivezetéséről és a szakemberhiányról beszélgettünk.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_75e1b2f78c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Felhasználható közeg",
+        "link": "https://magyarnarancs.hu/belpol/felhasznalhato-kozeg-280529",
+        "image": "",
+        "summary": "Jól felépített narratíva, a klubelnökhöz hű klientúra – a kormány összeférhetetlenségi törvénye ellenére újabb négy évre tervez a Fradi élén a Fidesz leköszönt pártigazgatója, Kubatov Gábor. Ennek megértéséhez nem elég lopást kiáltani.",
+        "category": "Politika",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_8ccef6319b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Énekélet",
+        "link": "https://magyarnarancs.hu/zene2/enekelet-280541",
+        "image": "",
+        "summary": "Forrai Katalin meghatározó szerepet játszott a kisgyermekkori ének-zenei nevelés korszerű, tudatos módszertani rendszerének kidolgozásában. Művei ma is az óvodai zenei nevelés fundamentumának számítanak.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_c359669f2b",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "A zene nyelve",
+        "link": "https://magyarnarancs.hu/zene2/a-zene-nyelve-280540",
+        "image": "",
+        "summary": "Több szempontból is zavarba ejtő a Hamvas Béla zenei írásait összegyűjtő kötet. Kikezdhetetlen magabiztossága, nagy léptékű hivatkozásai, „megtalált” összefüggései és tévedései miatt esetlegessé, blöffszerűvé válik, amikor a zenéről értekezik.",
+        "category": "Kultúra",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_1aca5fb45e",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Új érzékenység",
+        "link": "https://magyarnarancs.hu/zene2/uj-erzekenyseg-280539",
+        "image": "",
+        "summary": "Lehetne vitatkozni róla, hogy számít-e, miféle életrajzi körülmények inspirálták a nagy remekműveket. Bartók önkéntes száműzetésben komponálta a Concertót, és nem nehéz vágyakozást és nosztalgiát hallani benne, de nem biztos, hogy Mozart valóban a halálra készült, amikor a Requiemet írta.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_5bad89ab99",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Csak a beavatottak”",
+        "link": "https://magyarnarancs.hu/zene2/csak-a-beavatottak-280538",
+        "image": "",
+        "summary": "Tíz éve jött létre a Cziffra Fesztivál, amely újra az érdeklődés középpontjába helyezte a gyakran mellőzött virtuóz zongoraművészt, Cziffra Györgyöt. A fesztivál alapítóját cigány zenéről, az improvizáció fontosságáról és közelgő, nagyszabású Liszt-maratonjáról kérdeztük.",
+        "category": "Kultúra",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_6bf6adac8f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Ámulni tessék",
+        "link": "https://magyarnarancs.hu/zene2/amulni-tessek-280537",
+        "image": "",
+        "summary": "A kis Wolfgang Amadeus Mozart nem volt egyedülálló csodagyerek, de a hozzá hasonlók többségétől eltérően ő csodafelnőtté változott. A 18. században megváltozott, ahogy a gyermekkorra és a tehetségre tekintünk, miközben kialakult a modern show-biznisz és a polgári koncertélet. Mindez együttesen vezetett a gyermekvirtuózok kultuszához. De mi maradt belőle?",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_8e4dcdeb1a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Most gyere…”",
+        "link": "https://magyarnarancs.hu/zene2/most-gyere-280536",
+        "image": "",
+        "summary": "Külföldön él, de sokat jár haza, a közelmúltban például Liszt Krisztus oratóriumát énekelte a Müpában. A szerepeiről, a hangjáról, az ideáljairól, a karmesterekről és a rendezői operákról kérdeztük.",
+        "category": "Általános",
+        "published_at": 1793822400
+      }
+    ]
+  },
+  {
+    "group_id": "group_d52cc8b74d",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Élet Trump után",
+        "link": "https://24.hu/kulfold/2026/11/04/usa-felidei-valasztas-elemzes/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303180094-masolat-1024x576.jpg",
+        "summary": "Hatalmas pofont kapott Donald Trump és a republikánus párt. Ennek három fő oka van, de ennél is fontosabb kérdés, hogy mi változik most és mi lesz ezután. The post Élet Trump után first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1793822364
+      }
+    ]
+  },
+  {
+    "group_id": "group_27aea76471",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Miért kaptak ki ennyire a republikánusok?",
+        "link": "https://24.hu/kulfold/2026/11/04/foldosztas-usa-felidei-valasztasok-republikanus-vereseg-demokrata-tanulsagok-trump-jovo/",
+        "image": "https://s.24.hu/app/uploads/2026/11/foldosztas_kiemeltkep_-1004-1024x576.jpg",
+        "summary": "Az okokról és a legérdekesebb versenyekről beszélgetett D. Kovács Ildikó, Kerner Zsolt és Pál Zsombor az eheti Föld/osztásban. The post Miért kaptak ki ennyire a republikánusok? first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1793822302
+      }
+    ]
+  },
+  {
+    "group_id": "group_5f1d3dc403",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Bors",
+        "title": "\"Mit csináljak a párommal? Minden este kezdeményez és duzzog, ha nemet mondok!\"",
+        "link": "https://borsonline.origo.hu/szex/2026/11/szex-fuggoseg-aggodalom-parkapcsolat",
+        "image": "https://cdn.borsonline.hu/2026/06/MRXAsnK_sKIroZ1QxD54W57DMIXjJIyZvURKmeJ5KDM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IzNzUzYmU0YzVjNDRlZWQ5OTJiNjUwMDkwZjA5ZmE1.jpg",
+        "summary": "Hiába a boldog kapcsolat, egy dolog nem hagyja nyugodni.",
+        "category": "Általános",
+        "published_at": 1793822400
       }
     ]
   }
