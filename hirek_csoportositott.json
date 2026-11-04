@@ -2565,7 +2565,7 @@
   {
     "group_id": "group_587b1ef3d6",
     "category": "Politika",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Magyar Nemzet",
@@ -2602,6 +2602,15 @@
         "summary": "A volt miniszterelnök szerint ilyesmivel nem dicsekszünk.",
         "category": "Politika",
         "published_at": 1793800440
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Orbán Viktor elárulta, mit kezdett a végkielégítésével",
+        "link": "https://hvg.hu/itthon/20261104_orban-viktor-vegkielegites-karpataljai-irgalmas-samaritanus-reformatus-gyermekotthon",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/30c5e789-3baf-47cb-8f4e-a6570a94d568.jpg",
+        "summary": "„Adománnyal ne dicsekedj” – fogalmazott a volt miniszterelnök.",
+        "category": "Politika",
+        "published_at": 1793801965
       }
     ]
   },
@@ -3284,31 +3293,6 @@
     ]
   },
   {
-    "group_id": "group_9d953ecb96",
-    "category": "Külföld",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Külföld",
-        "title": "Újabb bombafenyegetések történtek Európában a budapesti és a varsói kényszerleszállás után",
-        "link": "https://index.hu/kulfold/2026/11/03/bombariado-fenyegetes-repuloter-utasszallito-kenyszerleszallas-varso-murcia-szofia-roma-budapest/",
-        "image": "https://kep.index.hu/1/0/7240/72404/724049/72404967_5335709_4fe14e3cd2ca8f6af1a3e0110649e873_wm.jpg",
-        "summary": "Rendkívüli biztonsági intézkedések léptek életbe több reptéren.",
-        "category": "Külföld",
-        "published_at": 1793715480
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Sorra kaptak bombafenyegetéseket európai repülőjáratok, több repülőteret is lezártak",
-        "link": "https://hvg.hu/vilag/20261103_bombafenyegetes-repulok-utasszallito-europa-kenyszerleszallas",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9543ba23-7d87-4994-82bb-4c854d31dcec.jpg",
-        "summary": "A hétfőn Budapesten kényszerleszállást végrehajtó Wizz Air-gép után újabb légitársaságokhoz érkezett bombafenyegetés.",
-        "category": "Külföld",
-        "published_at": 1793717884
-      }
-    ]
-  },
-  {
     "group_id": "group_9235f34ea0",
     "category": "Külföld",
     "articles_count": 1,
@@ -3453,6 +3437,22 @@
     ]
   },
   {
+    "group_id": "group_9d953ecb96",
+    "category": "Külföld",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Világ",
+        "title": "Sorra kaptak bombafenyegetéseket európai repülőjáratok, több repülőteret is lezártak",
+        "link": "https://hvg.hu/vilag/20261103_bombafenyegetes-repulok-utasszallito-europa-kenyszerleszallas",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9543ba23-7d87-4994-82bb-4c854d31dcec.jpg",
+        "summary": "A hétfőn Budapesten kényszerleszállást végrehajtó Wizz Air-gép után újabb légitársaságokhoz érkezett bombafenyegetés.",
+        "category": "Külföld",
+        "published_at": 1793717884
+      }
+    ]
+  },
+  {
     "group_id": "group_d3ae6bc1c1",
     "category": "Gazdaság",
     "articles_count": 2,
@@ -3480,7 +3480,7 @@
   {
     "group_id": "group_f0a2e83bba",
     "category": "Gazdaság",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -3517,6 +3517,15 @@
         "summary": "A 2026. tavaszi kormányváltást követően még kérdéses volt, hogy az új politikai ciklus hozta megelőlegezett piaci bizalom csupán egy átmeneti, nyári románc marad-e. Fél év elteltével azonban kijelenthető: a piac és a magyar eszközök között tartós bizalmi kapcsolat alakult ki, a neheze azonban még hátravan – véli Virovácz Péter, az ING Bank vezető elemzője.",
         "category": "Gazdaság",
         "published_at": 1793799443
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Elárulta Varga Mihály, mi húzódik az inflációs cél mérséklése mögött – a magyar euróhoz van köze",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/varga-mihaly-inflacios-cel-merseklodaes-euro-bevezetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/09/EFLO2LnSbwiQodiL_MgSP84-muSP7IW5FZFJmaegfAI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE1NzEwYjY4ODI0ZDQ2ZmE5NDQxODlkMTI4YjU4YmFl.jpg",
+        "summary": "A beruházások, a munkaerő képzése és az innováció ösztönzése is kulcsfontosságú a régió versenyképessége szempontjából.",
+        "category": "Gazdaság",
+        "published_at": 1793801744
       }
     ]
   },
@@ -4592,22 +4601,6 @@
         "summary": "A Bournemouth játékosa műtéten esett át.",
         "category": "Sport",
         "published_at": 1793717340
-      }
-    ]
-  },
-  {
-    "group_id": "group_70549fb05b",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Sport",
-        "title": "Urblík József néhány éve még szlovák válogatott akart lenni",
-        "link": "https://index.hu/sport/futball/2026/11/03/labdarugas-magyar-labdarugo-valogatott-nemzetek-ligaja-urblik-jozsef-szlovak-valogatott/",
-        "image": "https://kep.index.hu/1/0/7240/72404/724046/72404643_5335685_e605a5a91f7e6ee34f48a7eb1bd3dc97_wm.jpg",
-        "summary": "„Szlovák vagyok, és az elsődleges célom, hogy Szlovákiáért játsszak.”",
-        "category": "Sport",
-        "published_at": 1793715660
       }
     ]
   },
@@ -6355,7 +6348,7 @@
         "image": "",
         "summary": "Bár azt már korábban is lehetett tudni, hogy Karikó Katalinnak ügynökmúltja van, most ez be is bizonyosodott.",
         "category": "Belföld",
-        "published_at": 1793750400
+        "published_at": 1793795160
       },
       {
         "source": "Index - Címlap",
@@ -9861,6 +9854,118 @@
         "summary": "",
         "category": "Politika",
         "published_at": 1793801397
+      }
+    ]
+  },
+  {
+    "group_id": "group_f882d2f1cb",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szinte lehetetlenné válhat a kormányzás az Egyesült Államokban a belga miniszter szerint",
+        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/belga-miniszter-a-politikai-megosztottsag-miatt-szinte-lehetetlenne-valhat-a-kormanyzas-az-egyesult-allamokban/",
+        "image": "",
+        "summary": "",
+        "category": "Politika",
+        "published_at": 1793801914
+      }
+    ]
+  },
+  {
+    "group_id": "group_e0b41324e1",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Felerősödhet a kompromisszumkeresés az amerikai belpolitikában a nagy demokrata győzelem nyomán",
+        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/felerosodhet-a-kompromisszumkereses-az-amerikai-belpolitikaban-a-nagy-demokrata-gyozelem-nyoman/",
+        "image": "",
+        "summary": "",
+        "category": "Politika",
+        "published_at": 1793799416
+      }
+    ]
+  },
+  {
+    "group_id": "group_d18d220a91",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Részegen zaklatta és bántalmazta az LMBTQ-esemény résztvevőit a pécsi férfi, pénzbüntetést kapott",
+        "link": "https://444.hu/2026/11/04/reszegen-zaklatta-es-bantalmazta-az-lmbtq-esemeny-resztvevoit-a-pecsi-ferfi-penzbuntetest-kapott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A férfit közösség tagja elleni erőszak bűntette miatt ítélték el.",
+        "category": "Politika",
+        "published_at": 1793801694
+      }
+    ]
+  },
+  {
+    "group_id": "group_73d53267c4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Újabb Tiszás az ügynökaktákban: Felföldi József, a debreceni milliárdos",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/ujabb-tiszas-az-ugynokaktakban-felfoldi-jozsef-a-debreceni-milliardos",
+        "image": "",
+        "summary": "A szerdán nyilvánosságra hozott mágnesszalagok egyikén szerepel az újfehértói születésű Felföldi József, akit a nyilvánosságban leggyakrabban szívószálpápaként, vagy debreceni milliárdosként szoktak emlegetni - írja a kormánypárti HVG.",
+        "category": "Politika",
+        "published_at": 1793750400
+      }
+    ]
+  },
+  {
+    "group_id": "group_d2aed3753a",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "PC World",
+        "title": "A Windows 11 egyértelműen vezeti a steames felméréseket, de közben furcsaságok is felbukkantak az adatok között",
+        "link": "https://www.pcwplus.hu/pcwlite/windows-11-steam-felmeres-survey-2026-oktober-390434.html",
+        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2610/25/steam_personal_calendar_063305_1_original_390x220_cover.jpg",
+        "summary": "Az előző hónapban nagy kilengéseket figyelhettünk meg az adatokban, ezek pedig most mind helyre pattantak.",
+        "category": "Kultúra",
+        "published_at": 1793801802
+      }
+    ]
+  },
+  {
+    "group_id": "group_85c5a2e03e",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Új magyar filmért rajong most Franciaország: a kritikusok és a nézők is imádják",
+        "link": "https://femina.hu/terasz/magyar-film-siker-franciaorszag/",
+        "image": "https://femina.hu/neon/media/images/Moulin_1_rZmOoce.d96a13cb.format-jpeg.fill-1024x768.jpg",
+        "summary": "November 12-től a magyar mozikban is látható lesz a Moulin.",
+        "category": "Bulvár",
+        "published_at": 1793801788
+      }
+    ]
+  },
+  {
+    "group_id": "group_46ab4fd089",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Matolcsy Ádámhoz köthető luxusautó tűnt fel egy dubaji hirdetésben: ennyiért árulják a Porschét",
+        "link": "https://nlc.hu/sztarok/20261104/matolcsy-adamhoz-kotheto-autot-arulnak-dubajban/yqh1v4p",
+        "image": "",
+        "summary": "Egy dubaji hirdetési oldalon kínálnak eladásra egy 36 millió forintot érő, világoskék Porschét, amely a hírek szerint Matolcsy Ádám autóparkjába tartozhatott. The post Matolcsy Ádámhoz köthető luxusautó tűnt fel egy dubaji hirdetésben: ennyiért árulják a Porschét first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1793801820
       }
     ]
   }
