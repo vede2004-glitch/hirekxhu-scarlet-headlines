@@ -1,5 +1,59 @@
 [
   {
+    "group_id": "group_b6f6c1a723",
+    "category": "Kultúra",
+    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/windows_11_214022_1_original_390x220_cover.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PC World",
+        "title": "Ha csak 8 GB RAM van a gépedben, akkor most megéri gyorsan frissíteni a Windows 11-et",
+        "link": "https://www.pcwplus.hu/pcwlite/ha-csak-8-gb-ram-van-a-gepedben-akkor-most-megeri-gyorsan-frissiteni-a-windows-11et-390446.html"
+      }
+    ],
+    "published_at": 1793824876,
+    "title_hu": "Ha csak 8 GB RAM van a gépedben, akkor most megéri gyorsan frissíteni a Windows 11-et",
+    "lead_hu": "Rá sem ismersz majd a gépedre az újraindítás után a Microsoft szerint....",
+    "content_hu": "Rá sem ismersz majd a gépedre az újraindítás után a Microsoft szerint."
+  },
+  {
+    "group_id": "group_c806a9159f",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/t/r/u/trump-olaj-866976.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "A mélybe lökte az olaj árát Trump történelmi veresége",
+        "link": "https://www.portfolio.hu/befektetes/20261104/a-melybe-lokte-az-olaj-arat-trump-tortenelmi-veresege-874356"
+      }
+    ],
+    "published_at": 1793824800,
+    "title_hu": "A mélybe lökte az olaj árát Trump történelmi veresége",
+    "lead_hu": "Több mint nyolc százalékkal zuhantak a kőolajárak szerdán, miután Donald Trump elnök Republikánus Pártja elveszítette a kongresszusi többséget a félidős választásokon. A jegyzések több mint két hónapo...",
+    "content_hu": "Több mint nyolc százalékkal zuhantak a kőolajárak szerdán, miután Donald Trump elnök Republikánus Pártja elveszítette a kongresszusi többséget a félidős választásokon. A jegyzések több mint két hónapos mélypontra süllyedtek, a befektetők ugyanis arra számítanak, hogy a belpolitikai erőviszonyok átalakulása felgyorsíthatja az Egyesült Államok és Irán közötti háború lezárását – írja a Reuters."
+  },
+  {
+    "group_id": "group_9697f58905",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/swift_in_space_05-1-e1793692227475-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Lezuhant a NASA űrtávcsöve, mutatjuk, hol lépett be a légkörbe",
+        "link": "https://24.hu/tech/2026/11/04/nasa-swift-urtavcso-lezuhant/"
+      }
+    ],
+    "published_at": 1793824618,
+    "title_hu": "Lezuhant a NASA űrtávcsöve, mutatjuk, hol lépett be a légkörbe",
+    "lead_hu": "A NASA közlése szerint a Swift Obszervatórium magyar idő szerint november 4-én, 13:39-kor lépett vissza a Föld légkörébe. Nagy része valószínűleg porrá égett. The post Lezuhant a NASA űrtávcsöve, muta...",
+    "content_hu": "A NASA közlése szerint a Swift Obszervatórium magyar idő szerint november 4-én, 13:39-kor lépett vissza a Föld légkörébe. Nagy része valószínűleg porrá égett. The post Lezuhant a NASA űrtávcsöve, mutatjuk, hol lépett be a légkörbe first appeared on 24.hu."
+  },
+  {
     "group_id": "group_10bdea21c5",
     "category": "Politika",
     "image": "https://cdn.vg.hu/2026/11/d2KoefM2yLfuNfN-4VyDOcjdwOIpP-u04rc1bgaBg0s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkxMTUyMGUyZWE3MzQyMGFhNzc3MjM2YTU0NWViYTU0.jpg",
@@ -1414,12 +1468,17 @@
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7241/72417/724172/72417277_5336619_7f277dfe2a905639e920a30fe016e922_wm.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Index - Címlap",
         "title": "Az egyházmegye közölte: a Kiss-Rigó László ügynöki beszervezéséről szóló híresztelés valótlan, megtévesztő és jogsértő",
         "link": "https://index.hu/belfold/2026/11/04/kiss-rigo-laszlo-ugynokaktak-allambiztonsag-szeged-csanadi-egyhazmegye-beszervezes/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Valótlannak nevezte az egyházmegye a Kiss-Rigó László beszervezésére vonatkozó híreszteléseket",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/valotlannak-nevezte-az-egyhazmegye-a-kiss-rigo-laszlo-beszervezesere-vonatkozo-hireszteleseket"
       }
     ],
     "published_at": 1793816280,
@@ -13223,42 +13282,6 @@
     "title_hu": "Leleplezték a The Elder Scrolls-sorozat hatodik részének címét",
     "lead_hu": "Azt még nem tudni, hogy mikor érkezik Skyrim folytatása.",
     "content_hu": "Azt még nem tudni, hogy mikor érkezik Skyrim folytatása."
-  },
-  {
-    "group_id": "group_c49a039070",
-    "category": "Tech",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2501/14/ugyfelkapu_152653_1_original_390x220_cover.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PC World",
-        "title": "Átmenetileg leáll az Ügyfélkapu és több fontos állami online szolgáltatás",
-        "link": "https://www.pcwplus.hu/pcwlite/atmenetileg-leall-az-ugyfelkapu-es-tobb-fontos-allami-online-szolgaltatas-390400.html"
-      }
-    ],
-    "published_at": 1793738591,
-    "title_hu": "Átmenetileg leáll az Ügyfélkapu és több fontos állami online szolgáltatás",
-    "lead_hu": "Karbantartás miatt órákra elérhetetlenné válik a legtöbb digitális közigazgatási ügyintézési felület.",
-    "content_hu": "Karbantartás miatt órákra elérhetetlenné válik a legtöbb digitális közigazgatási ügyintézési felület."
-  },
-  {
-    "group_id": "group_6605d0ad04",
-    "category": "Belföld",
-    "image": "https://assets.telex.hu/images/20261103/1793718035-temp-l4seif2kpjr08fpfcpp_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Hirtelen mindenki a futás matematikusáról kezdett el beszélni",
-        "link": "https://telex.hu/sport/2026/11/03/andreas-almgren-new-york-maraton-gyoztes"
-      }
-    ],
-    "published_at": 1793738421,
-    "title_hu": "Hirtelen mindenki a futás matematikusáról kezdett el beszélni",
-    "lead_hu": "Andreas Almgren úgy nyerte meg a New York Maratont, hogy először versenyzett 42 kilométeren. A svéd futó masszív afrikai dominanciát tört meg, és másokat is inspirálhat erre. Évekig egyik sérülésből a…",
-    "content_hu": "Andreas Almgren úgy nyerte meg a New York Maratont, hogy először versenyzett 42 kilométeren. A svéd futó masszív afrikai dominanciát tört meg, és másokat is inspirálhat erre. Évekig egyik sérülésből a másikba hajszolta magát, de 31 évesen eljött a nyerő szériája."
   },
   {
     "group_id": "group_0917295bf7",
