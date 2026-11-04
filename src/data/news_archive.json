@@ -1,21 +1,933 @@
 [
   {
     "group_id": "group_0301239126",
+    "fingerprint": "599f45dac74198b80c62a216bd300a05",
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261104/1793807426-temp-me7c06om4hlt3lccmlk_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Telex - Belföld",
         "title": "Megválasztotta Balog Zoltán utódját a Dunamelléki Református Egyházkerület",
         "link": "https://telex.hu/belfold/2026/11/04/dunamelleki-reformatus-egyhazkerulet-puspok-nyilas-zoltan-andras-balog-zoltan"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Megvan Balog Zoltán utódja a Dunamelléki Református Egyházkerület élén",
+        "link": "https://hvg.hu/itthon/20261104_nyilas-zoltan-andras-balog-zoltan-dunamelleki-reformatus-egyhazkerulet"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Balog Zoltán többé nem püspök",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/balog-zoltan-tobbe-nem-puspok-874318"
       }
     ],
-    "published_at": 1793807644,
-    "title_hu": "Megválasztotta Balog Zoltán utódját a Dunamelléki Református Egyházkerület",
-    "lead_hu": "Balog 2021 óta vezette az egyházkerületet, de most nem indult a választáson.",
-    "content_hu": "Balog 2021 óta vezette az egyházkerületet, de most nem indult a választáson."
+    "published_at": 1793811180,
+    "title_hu": "Nyilas Zoltán András lett a Dunamelléki Református Egyházkerület új püspöke",
+    "lead_hu": "Nyilas Zoltán András északpesti esperest választották meg a Dunamelléki Református Egyházkerület püspökévé, Balog Zoltán utódjául. Balog nem indult a tisztségért, püspöki címét azonban megtartotta.",
+    "content_hu": "• **Nyilas Zoltán András kapta a legtöbb szavazatot:** a 292 érvényes voksból 172-vel választották püspökké, míg Lovas András 120 szavazatot szerzett.\n\n• **Új főgondnokot is választottak:** Szathmáry Gergely Zoltán 164 szavazattal nyerte el a tisztséget, Szalai Zsolt 127 voksot kapott.\n\n• **Balog Zoltán nem indult újra:** 2021 óta vezette az egyházkerületet, és az új püspök megválasztása után is megtartotta püspöki címét.\n\n• **Hat évre szól a megbízatás:** a református egyház tisztújításának részeként mind a négy egyházkerület élére új tisztségviselőket választanak."
+  },
+  {
+    "group_id": "group_9caf09a110",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/GulzMCA-G6O6fTFwINOkBbDqFTb_HqTrFX7LVvae-0I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkxOTY5MmY4NzU1ZjRhYTdhMmQ4Nzc4Nzk3Yzk5ZjJk.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ébresztő a republikánusoknak: kevesebb külpolitikára, több gazdasági eredményre van szükség",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/ebreszto-a-republikanusoknak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793811086,
+    "title_hu": "Ébresztő a republikánusoknak: kevesebb külpolitikára, több gazdasági eredményre van szükség",
+    "lead_hu": "Az amerikai félidős választások eredményeit Kiss Rajmund diplomáciai és Amerika-szakértő elemezte lapunknak.",
+    "content_hu": "Az amerikai félidős választások eredményeit Kiss Rajmund diplomáciai és Amerika-szakértő elemezte lapunknak."
+  },
+  {
+    "group_id": "group_770e13f5eb",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/10/pgpjzJHgdm-FoXs7kUnUhj959RLMibioKrl9gHdtT5I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc5MWUyOGMxNmVjNzQxNmFhYzJhY2YwOGJiN2I5YzI4.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Az ügynökaktákkal pörgött ma tovább az abszolút filmszínház, közben csendben a kormány is ülésezett",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/ugynokaktak-abszolut-filmszinhaz-magyar-peter-miniszterelnok-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793811067,
+    "title_hu": "Az ügynökaktákkal pörgött ma tovább az abszolút filmszínház, közben csendben a kormány is ülésezett",
+    "lead_hu": "Miközben egyre rosszabb számokat produkál a gazdaság, Magyar Péter és miniszterei inkább a múlttal foglalkoznak.",
+    "content_hu": "Miközben egyre rosszabb számokat produkál a gazdaság, Magyar Péter és miniszterei inkább a múlttal foglalkoznak."
+  },
+  {
+    "group_id": "group_f31fbdae2c",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/c4dhaCqdiy9DpYSHSUZmtrP64kP6YdOnSE44q7WFK4Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBhZTAwZmUzMjIzYjRiNjI4MTJhZTViYjA1OWNiNjE1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Lehet ma 60 millió forintért új építésű lakást venni? Meglepő választ adott a szakértő",
+        "link": "https://www.vg.hu/ingatlan/2026/11/uj-epitesu-lakas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793811005,
+    "title_hu": "Lehet ma 60 millió forintért új építésű lakást venni? Meglepő választ adott a szakértő",
+    "lead_hu": "Akár 60-70 millió forintért is lehet új építésű lakást venni Budapesten. A szakértő szerint azonban a fiataloknak kompromisszumokat kell kötniük.",
+    "content_hu": "Akár 60-70 millió forintért is lehet új építésű lakást venni Budapesten. A szakértő szerint azonban a fiataloknak kompromisszumokat kell kötniük."
+  },
+  {
+    "group_id": "group_c21831ee0f",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72415/724152/72415267_4b01cffc42d43d0dbb72b8da12b863c3_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Kísértés Nikije és új párja, Dávid elárulták, együtt vannak-e még a reality forgatása óta",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/04/kisertes-niki-es-david/"
+      }
+    ],
+    "published_at": 1793810884,
+    "title_hu": "A Kísértés Nikije és új párja, Dávid elárulták, együtt vannak-e még a reality forgatása óta",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_94c914bbd3",
+    "fingerprint": "ec99ce57bba239ab996aab50a46ecc1a",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793802097-temp-ij0p6c7gsit88fhocek_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Szita Károly, miután 6-os kartonja nyilvánosságra került: Nem ártottam senkinek",
+        "link": "https://hvg.hu/itthon/20261104_szita-karoly-kaposvar-polgarmestere-hatos-karton-ugynokaktak"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kaposvári polgármester: \"Nem voltam ügynök, soha nem ártottam senkinek\"",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/kaposvari-polgarmester-nem-voltam-ugynok-soha-nem-artottam-senkinek-874306"
+      }
+    ],
+    "published_at": 1793810820,
+    "title_hu": "Nyilvánosságra került Szita Károly 6-os kartonja, a polgármester tagadja, hogy ügynök lett volna",
+    "lead_hu": "Közzétették Szita Károly kaposvári polgármester 6-os kartonját, amely szerint 1980-ban „hazafias” alapon, „Krakus Péter” fedőnéven szervezték be, és 1989-ig tartották nyilván. Szita videóüzenetében visszautasította az ügynök megnevezést, azt mondta, nem ártott senkinek, és állítása szerint múltja a kaposváriak előtt mindig is nyitott könyv volt. Az ügyről korábban is jelentek meg cikkek, Szita pedig azt állítja, hogy egy 2005-ös eljárás manipulált iratokat állapított meg.",
+    "content_hu": "• **A karton adatai szerint** Szita Károlyt 1980. július 1-jén szervezték be „titkos megbízottként”, „Krakus Péter” fedőnéven; 1989. május 9-ig szerepelt hálózati személyként a nyilvántartásban.\n\n• **Szita visszautasította az ügynökvádat:** videóüzenetében azt mondta, „nem voltam ügynök”, és állítása szerint soha nem ártott senkinek. Hozzátette, hogy múltja a kaposváriak előtt nyitott könyv, és a választók ennek ismeretében választották újra; azt is mondta, hogy 32 éve polgármester, és ötször választották újra.\n\n• **Az ügyről már korábban is jelentek meg cikkek:** Szita múltja 2004-ben került először a nyilvánosság elé, 2005-ben pedig Ungváry Krisztián történész kutatásai alapján több írás is foglalkozott vele. 2018-ban a Magyar Nemzet Szitával kapcsolatos iratokat is közzétett, és korábbi cikkében jelentésekből idézett.\n\n• **Ungváry szerint a karton a beszervezés tényét bizonyítja:** a történész úgy vélte, a most közzétett 6-os karton részletessége, valamint a kitöltött napló-, dosszié- és irattári szám önmagában is egyértelműen alátámasztja Szita beszervezését.\n\n• **Szita a 2005-ös eljárásra hivatkozott:** állítása szerint feljelentést tett, és az ügyészség megállapította, hogy manipulálták az iratokat, amivel bűncselekményt követtek el, de az elkövetőt nem tudták azonosítani. A most nyilvánosságra került kartonról nem állította, hogy manipulálták.\n\n• **A most közzétett adatok korlátosak:** az elérhető anyagban a 6-os karton és a mágnesszalag-találat szerepel, friss jelentések nem. A dokumentumok önmagukban nem mutatják meg a beszervezés körülményeit vagy az esetleges tevékenység részleteit; korábban azonban a Magyar Nemzet jelentésekre hivatkozva azt írta, hogy Szita nyugati állampolgárokról és az őket fogadó magyar vendéglátókról jelenthetett. A források arra is figyelmeztetnek, hogy hamis iratok is lehetnek az adatbázisban."
+  },
+  {
+    "group_id": "group_e04570aa87",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793810344-temp-beele6nt0ran6gfgidj_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A Revolut kivezeti Magyarországról a tőzsdei árukkal kapcsolatos szolgáltatásait",
+        "link": "https://telex.hu/gazdasag/2026/11/04/a-revolut-kivezeti-magyarorszagrol-a-tozsdei-arukkal-kapcsolatos-szolgaltatasait"
+      }
+    ],
+    "published_at": 1793810790,
+    "title_hu": "A Revolut kivezeti Magyarországról a tőzsdei árukkal kapcsolatos szolgáltatásait",
+    "lead_hu": "Csak a magyar ügyfeleket érinti a bejelentés, januárig lehet eladni a meglévő állományokat.",
+    "content_hu": "Csak a magyar ügyfeleket érinti a bejelentés, januárig lehet eladni a meglévő állományokat."
+  },
+  {
+    "group_id": "group_0297ac2b13",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/yk9vqMW2VyTBmGFYdABzXKIy55o0EnUtT2ZH9K5AgWI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FjNjJkZGNlODUwMzRmMDU5ZWNhNDcyOTdkYmFiZWFk.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Nem elég, hogy repedezik, még hozzájutni se lehet: újabb rossz hír jött az Apple hajlítható telefonjáról – nem alakul fényesen az iPhone Duo útja",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/iphone-duo-apple-botrany-crackgate-keszulekhiany-hiba?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793810701,
+    "title_hu": "Nem elég, hogy repedezik, még hozzájutni se lehet: újabb rossz hír jött az Apple hajlítható telefonjáról – nem alakul fényesen az iPhone Duo útja",
+    "lead_hu": "A vásárlók egy része csak hónapok múlva juthat hozzá a közel kétezer dolláros telefonhoz.",
+    "content_hu": "A vásárlók egy része csak hónapok múlva juthat hozzá a közel kétezer dolláros telefonhoz."
+  },
+  {
+    "group_id": "group_b14f1f2e59",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/6966/69669/696698/69669839_5140899_91bf0bf3975e787920664f12e3e7efea_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Látványosan javult a költségvetés helyzete, milliárdos megtakarításokról számolt be a pénzügyminiszter",
+        "link": "https://index.hu/gazdasag/2026/11/04/karman-andras-kozponti-alrendszer-hiany-allamhaztartas-koltsegvetes/"
+      }
+    ],
+    "published_at": 1793810700,
+    "title_hu": "Látványosan javult a költségvetés helyzete, milliárdos megtakarításokról számolt be a pénzügyminiszter",
+    "lead_hu": "Kármán András emlékeztetett, hogy komoly kiadáscsökkenéssel számolnak 2027-ben.",
+    "content_hu": "Kármán András emlékeztetett, hogy komoly kiadáscsökkenéssel számolnak 2027-ben."
+  },
+  {
+    "group_id": "group_5787d97e42",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/d__hr20260816109-e1793810485795-1024x575.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Illene egyéni csúcsokat úszni” – Kós Hubert nagy dobásra készül a vébén",
+        "link": "https://24.hu/sport/2026/11/04/rovidpalyas-uszo-vb-kos-hubert-egyeni-csucsot-akar/"
+      }
+    ],
+    "published_at": 1793810648,
+    "title_hu": "„Illene egyéni csúcsokat úszni” – Kós Hubert nagy dobásra készül a vébén",
+    "lead_hu": "A 23 éves olimpiai bajnok nem érné be sima győzelemmel. The post „Illene egyéni csúcsokat úszni” – Kós Hubert nagy dobásra készül a vébén first appeared on 24.hu.",
+    "content_hu": "A 23 éves olimpiai bajnok nem érné be sima győzelemmel. The post „Illene egyéni csúcsokat úszni” – Kós Hubert nagy dobásra készül a vébén first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_80d09f7d1e",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "J. D. Vance szerint a republikánus vereség okai: Irán, dráguló megélhetés, Izrael",
+        "link": "https://444.hu/2026/11/04/j-d-vance-szerint-a-republikanus-vereseg-okai-iran-dragulo-megelhetes-izrael?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793810608,
+    "title_hu": "J. D. Vance szerint a republikánus vereség okai: Irán, dráguló megélhetés, Izrael",
+    "lead_hu": "Az amerikai alelnök szerint a választási vereség elemzését mindenképp az iráni háborúval kell kezdeni.",
+    "content_hu": "Az amerikai alelnök szerint a választási vereség elemzését mindenképp az iráni háborúval kell kezdeni."
+  },
+  {
+    "group_id": "group_a5baf0cfac",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1718516027-kiberbiztonsag-adatbiztonsag-titkositas-informaciobiztonsag-adatvedel-866942.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Világszenzáció a Margit hídnál: célba ért a kvantumkulccsal titkosított rádióüzenet",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/vilagszenzacio-a-margit-hidnal-celba-ert-a-kvantumkulccsal-titkositott-radiouzenet-874316"
+      }
+    ],
+    "published_at": 1793810580,
+    "title_hu": "Világszenzáció a Margit hídnál: célba ért a kvantumkulccsal titkosított rádióüzenet",
+    "lead_hu": "Kvantumkulccsal titkosított rádióüzeneteket váltottak Budapesten a HUN-REN Wigner Fizikai Kutatóközpont és az Eötvös Loránd Tudományegyetem (ELTE) kutatói - közölte a HUN-REN Magyar Kutatási Hálózat s…",
+    "content_hu": "Kvantumkulccsal titkosított rádióüzeneteket váltottak Budapesten a HUN-REN Wigner Fizikai Kutatóközpont és az Eötvös Loránd Tudományegyetem (ELTE) kutatói - közölte a HUN-REN Magyar Kutatási Hálózat szerdán az MTI-vel."
+  },
+  {
+    "group_id": "group_35c841bb09",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793809555-temp-eag5lqrra0hq4lfepmo_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A magyar állam finanszírozásának is kedvezhet a republikánusok bukása",
+        "link": "https://telex.hu/g7/penz/2026/11/04/usa-valasztas-forint-arfolyam-tozsde-kotvenypiac-trump"
+      }
+    ],
+    "published_at": 1793810540,
+    "title_hu": "A magyar állam finanszírozásának is kedvezhet a republikánusok bukása",
+    "lead_hu": "A gyengülő dollár és az amerikai kötvényhozamok csökkenése kedvezőbb finanszírozási környezetet teremthet Magyarország számára is, bár ebbe Trump még bekavarhat 2028-ig.",
+    "content_hu": "A gyengülő dollár és az amerikai kötvényhozamok csökkenése kedvezőbb finanszírozási környezetet teremthet Magyarország számára is, bár ebbe Trump még bekavarhat 2028-ig."
+  },
+  {
+    "group_id": "group_8042ab3aac",
+    "fingerprint": "a5f80185cd50eab52eeae7f736c85fb3",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "„Soha nem jelentettem senkiről, de évtizedek óta mardosom magam” – Gyurgyák János a beszervezéséről",
+        "link": "https://444.hu/2026/11/04/soha-nem-jelentettem-senkirol-de-evtizedek-ota-mardosom-magam-gyurgyak-janos-a-beszervezeserol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Megszólalt Gyurgyák János, miután kiderült, hogy beszervezték",
+        "link": "https://hvg.hu/itthon/20261104_gyurgyak-janos-tortenesz-beszervezes-ugynokaktak-reakcio"
+      }
+    ],
+    "published_at": 1793810536,
+    "title_hu": "Gyurgyák János: beszervezték, de senkiről sem jelentett",
+    "lead_hu": "Gyurgyák János neve is szerepel az Állambiztonsági Szolgálatok Történeti Levéltára által közzétett nyilvántartásban. A történész elismerte, hogy 1976-ban beszervezték, de elmondása szerint megtagadta a jelentéstételt, és 1978-ban saját kérésére kizárták a hálózatból.",
+    "content_hu": "• **Beszervezése:** A nyilvántartás szerint Gyurgyákot 1976-ban, egyetemi hallgatóként szervezték be „Dorogi” fedőnéven, titkos megbízottként.\n\n• **Nem jelentett:** Elmondása szerint megtagadta, hogy tanárairól és diáktársairól jelentsen, és igyekezett elkerülni az együttműködést. Az állambiztonsági iratok alapján 1978 nyarán lezárták az aktáját, és kizárták a hálózatból.\n\n• **Megviselte az ügy:** Gyurgyák azt mondta, évtizedek óta bántja a történet, és dühös akkori önmagára, amiért nem látta át hamarabb a beszervezési kísérletet.\n\n• **A nyilvántartás korlátai:** A közzétett adatok önmagukban nem mutatják meg a beszervezés körülményeit vagy az érintettek tényleges tevékenységét, ezért eltérő helyzetű emberek kerülhetnek egy közös listára."
+  },
+  {
+    "group_id": "group_bbbbd1f0d8",
+    "category": "Általános",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8f721241-24ef-458f-a739-26efa6611577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Reagált a Kreml a republikánusok súlyos vereségét hozó választásra",
+        "link": "https://hvg.hu/vilag/20261104_kreml-reakcio-felidos-valasztasok-donald-trump-dmitrij-peszkov"
+      }
+    ],
+    "published_at": 1793810284,
+    "title_hu": "Reagált a Kreml a republikánusok súlyos vereségét hozó választásra",
+    "lead_hu": "Magas rangú politikusok sora mondta el a véleményét arról, hogy a demokraták elsöprő győzelmet arattak az Egyesült Államokban.",
+    "content_hu": "Magas rangú politikusok sora mondta el a véleményét arról, hogy a demokraták elsöprő győzelmet arattak az Egyesült Államokban."
+  },
+  {
+    "group_id": "group_6844e6c2bb",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/29uj-2c43vOULFypiy2OBoM19kkVQCYtMHyKTW0SuJA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QxZDBkMzg5MDE4ZDQ4MmZhMmEzYjM0MjQxODM1Yzc0.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Szita Károly már 2005-ben tisztázta az ügynökügyet, most újra üzent",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/szita-karoly-kaposvar-ugynokaktak-6-karton-ugyeszseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793810275,
+    "title_hu": "Szita Károly már 2005-ben tisztázta az ügynökügyet, most újra üzent",
+    "lead_hu": "Először 2005-ben támadták azzal Kaposvár polgármesterét, hogy ügynök volt.",
+    "content_hu": "Először 2005-ben támadták azzal Kaposvár polgármesterét, hogy ügynök volt."
+  },
+  {
+    "group_id": "group_1b30b66b87",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793803699-temp-s3o5siea9oa50dldmlf_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Így érdemes beszélni a vacsoraasztalnál arról, ha a rokonunkról kiderül: ügynök volt",
+        "link": "https://telex.hu/ugynokaktak/2026/11/04/joob-mate-ugynokaktak-tarsadalom-emlekezet-nyilvanossag"
+      }
+    ],
+    "published_at": 1793810118,
+    "title_hu": "Így érdemes beszélni a vacsoraasztalnál arról, ha a rokonunkról kiderül: ügynök volt",
+    "lead_hu": "A megismert információkból nem az egész élettörténet rajzolódik ki. Az ügynökakták feldolgozása hasonlít a gyászfolyamatra: időre, türelemre, és a még élő érintettek esetén nyílt beszélgetésre van szü…",
+    "content_hu": "A megismert információkból nem az egész élettörténet rajzolódik ki. Az ügynökakták feldolgozása hasonlít a gyászfolyamatra: időre, türelemre, és a még élő érintettek esetén nyílt beszélgetésre van szükség. Joób Máté, a Semmelweis Egyetem Mentálhigiéné Intézetének egyetemi docense öt tanácsot osztott meg a feldolgozáshoz."
+  },
+  {
+    "group_id": "group_06c7bbb37c",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/d_mtz20260321011-e1778230484508-1140x643-1-1024x578.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Katolikus főpapok 6-os kartonjai is előkerültek",
+        "link": "https://24.hu/belfold/2026/11/04/katolikus-fopapok-6-os-karton/"
+      }
+    ],
+    "published_at": 1793810079,
+    "title_hu": "Katolikus főpapok 6-os kartonjai is előkerültek",
+    "lead_hu": "Kiss-Rigó Lászlóról és Beer Miklósról is készült beszervezési dokumentum. The post Katolikus főpapok 6-os kartonjai is előkerültek first appeared on 24.hu.",
+    "content_hu": "Kiss-Rigó Lászlóról és Beer Miklósról is készült beszervezési dokumentum. The post Katolikus főpapok 6-os kartonjai is előkerültek first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_3b0c8923d7",
+    "category": "Általános",
+    "image": "https://cdn.hirtv.hu/2026/11/VzoPxl7Kv34F6jjNX27iWgcQPeeEtUCOre529BaOcYQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ2MjZiYTEwYWYxYzQ3ZTA5ZmVkMmNmNzI5MWI3ZjFl.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Megnyíltak az ügynökakták, de az utcán sokan azt sem tudták, mik azok",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-utcai-velemenyek-nyilvanossag"
+      }
+    ],
+    "published_at": 1793810019,
+    "title_hu": "Megnyíltak az ügynökakták, de az utcán sokan azt sem tudták, mik azok",
+    "lead_hu": "Megnyíltak az akták, az emberek véleménye megoszlik.",
+    "content_hu": "Megnyíltak az akták, az emberek véleménye megoszlik."
+  },
+  {
+    "group_id": "group_2175c22ebf",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/_/h/d-hr20260828127-866938.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Nyomozás indult Navracsics Tibor minisztériumának ügyében",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/nyomozas-indult-navracsics-tibor-miniszteriumanak-ugyeben-874308"
+      }
+    ],
+    "published_at": 1793809980,
+    "title_hu": "Nyomozás indult Navracsics Tibor minisztériumának ügyében",
+    "lead_hu": "Elindult a nyomozás a Veszprém-Balaton 2023 Zrt.-nek jutott 1,8 milliárd forintnyi támogatás ügyében - közölte a vidék- és településfejlesztési miniszter Facebook-oldalára szerdán feltöltött videójába…",
+    "content_hu": "Elindult a nyomozás a Veszprém-Balaton 2023 Zrt.-nek jutott 1,8 milliárd forintnyi támogatás ügyében - közölte a vidék- és településfejlesztési miniszter Facebook-oldalára szerdán feltöltött videójában."
+  },
+  {
+    "group_id": "group_f82b0a6f6f",
+    "category": "Kultúra",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dfc727e9-8b75-41ef-9ccf-1bedb5ee8b61.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Titkos üzenetet küldtek Budáról Pestre és vissza, senki nem tudta lehallgatni",
+        "link": "https://hvg.hu/tudomany/20261104_kvantumkulcs-titkositas-uzenetkuldes-magyar-kutatok"
+      }
+    ],
+    "published_at": 1793809980,
+    "title_hu": "Titkos üzenetet küldtek Budáról Pestre és vissza, senki nem tudta lehallgatni",
+    "lead_hu": "Magyar kutatók a világon elsőként küldhettek kvantumkulccsal titkosított üzenetet egymásnak.",
+    "content_hu": "Magyar kutatók a világon elsőként küldhettek kvantumkulccsal titkosított üzenetet egymásnak."
+  },
+  {
+    "group_id": "group_2d89f8373f",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/000_c2lm34c-e1793809903997-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Trump a baráti Fox News-t okolja a választási vereségért",
+        "link": "https://24.hu/kulfold/2026/11/04/trump-felidos-valasztas-fox-news/"
+      }
+    ],
+    "published_at": 1793809942,
+    "title_hu": "Trump a baráti Fox News-t okolja a választási vereségért",
+    "lead_hu": "Több posztot is szentelt nekik. The post Trump a baráti Fox News-t okolja a választási vereségért first appeared on 24.hu.",
+    "content_hu": "Több posztot is szentelt nekik. The post Trump a baráti Fox News-t okolja a választási vereségért first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_4805794ab8",
+    "category": "Általános",
+    "image": "https://cdn.borsonline.hu/2026/10/MqQk8qoVBZ3RPDpRXNRwhpCrvUNseCBcfMFvJyoQWjg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RjMjExYTUyYjk1YjQwYjFhMjk5YThkZmExYmJlOTJh.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "„Kiszálltam, megyünk most haza” – az Ázsia Expressz versenyzői kiakadtak a mai feladat miatt",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/azsia-expressz-toklopas"
+      }
+    ],
+    "published_at": 1793809800,
+    "title_hu": "„Kiszálltam, megyünk most haza” – az Ázsia Expressz versenyzői kiakadtak a mai feladat miatt",
+    "lead_hu": "Valaki titokban hátráltatta az Ázsia Expressz sztárjait.",
+    "content_hu": "Valaki titokban hátráltatta az Ázsia Expressz sztárjait."
+  },
+  {
+    "group_id": "group_5040aa4ce7",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793807203-temp-d2u2o61rjcq5ccoimch_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A Századvég alapítója is elismerte, hogy beszervezték, de elmondása szerint elszabotálta az együttműködést",
+        "link": "https://telex.hu/ugynokaktak/2026/11/04/gyurgyak-janos-tortenesz-6-os-karton-magnesszalag"
+      }
+    ],
+    "published_at": 1793809739,
+    "title_hu": "A Századvég alapítója is elismerte, hogy beszervezték, de elmondása szerint elszabotálta az együttműködést",
+    "lead_hu": "Gyurgyák János azt mondta, bár soha nem jelentett senkiről, évtizedek óta mardossa magát a történtek miatt.",
+    "content_hu": "Gyurgyák János azt mondta, bár soha nem jelentett senkiről, évtizedek óta mardossa magát a történtek miatt."
+  },
+  {
+    "group_id": "group_d8725ff164",
+    "category": "Általános",
+    "image": "https://cdn.hirtv.hu/2026/11/6HvpTK2u7GP9lrl3XrpXITrazC-2yugHScLcW6M_2uU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhmMTUzM2U3YzExNjQ4M2I4ZmEyMTIzMTNmNjk5MmE0.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Ügynökakták: miért éppen a költségvetési vita idején nyitották meg őket?",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-figyelemeltereles-koltsegvetes"
+      }
+    ],
+    "published_at": 1793809531,
+    "title_hu": "Ügynökakták: miért éppen a költségvetési vita idején nyitották meg őket?",
+    "lead_hu": "Figyelemelterelést emlegetnek az ellenzéki pártok.",
+    "content_hu": "Figyelemelterelést emlegetnek az ellenzéki pártok."
+  },
+  {
+    "group_id": "group_1dc2679fcc",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2061ba72-d197-4685-90f4-41608163903b.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Elkaszálta a Alkotmánybíróság, hogy a Kúria bűncselekménynek nyilvánította a kis értékű rongálást okozó falfirkát",
+        "link": "https://hvg.hu/itthon/20261104_alkotmanybirosag-kuria-buncselekmeny-rongalas-falfirka"
+      }
+    ],
+    "published_at": 1793809269,
+    "title_hu": "Elkaszálta a Alkotmánybíróság, hogy a Kúria bűncselekménynek nyilvánította a kis értékű rongálást okozó falfirkát",
+    "lead_hu": "Három éve tett alkotmányjogi panaszt hat párt, az Alkotmánybíróság idén tűzte napirendre.",
+    "content_hu": "Három éve tett alkotmányjogi panaszt hat párt, az Alkotmánybíróság idén tűzte napirendre."
+  },
+  {
+    "group_id": "group_1db761ae04",
+    "category": "Általános",
+    "image": "https://cdn.hirtv.hu/2026/11/oM3jjWX60Urpzw3TPDJohx47Llnvn-Z8Qi6l-WZJcPA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJlZDUzYTY5MDZhMjRlNzRiZmIzMjA0N2FkMjFmMzdk.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Több tízezer név nyilvános, de az egykori hálózat nagy részéről hiányoznak az iratok",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-nyilvanossag-60-ezer-nev"
+      }
+    ],
+    "published_at": 1793809245,
+    "title_hu": "Több tízezer név nyilvános, de az egykori hálózat nagy részéről hiányoznak az iratok",
+    "lead_hu": "Nyilvánosak az akták, de a történet korántsem teljes.",
+    "content_hu": "Nyilvánosak az akták, de a történet korántsem teljes."
+  },
+  {
+    "group_id": "group_0d69c79c64",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/Demi_Moore_cover_2_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "A 63 éves Demi Moore brutál vékony a testhezálló szettben: minden eddiginél jobban lefogyott",
+        "link": "https://femina.hu/vilagsztar/demi-moore-fogyas-testhezallo-szett-63-evesen/"
+      }
+    ],
+    "published_at": 1793809200,
+    "title_hu": "A 63 éves Demi Moore brutál vékony a testhezálló szettben: minden eddiginél jobban lefogyott",
+    "lead_hu": "Demi Moore farmerruhában jelent meg a vörös szőnyegen, de ebben a szettben is elképesztően elegáns volt.",
+    "content_hu": "Demi Moore farmerruhában jelent meg a vörös szőnyegen, de ebben a szettben is elképesztően elegáns volt."
+  },
+  {
+    "group_id": "group_d1ca9efc4f",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72416/724166/72416631_5336573_cb0a975270b8d7af618cd5ecebcf8855_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Milan edzője hosszasan dicsérte a Ferencvárost és egy magyar játékost",
+        "link": "https://index.hu/sport/futball/2026/11/04/ac-milan-ferencvaros-europa-liga-merkozes-sajtotajekoztato-ruben-amorim/"
+      }
+    ],
+    "published_at": 1793809080,
+    "title_hu": "A Milan edzője hosszasan dicsérte a Ferencvárost és egy magyar játékost",
+    "lead_hu": "Olaszországban is felfigyeltek a zöld-fehérek remek El-szereplésére.",
+    "content_hu": "Olaszországban is felfigyeltek a zöld-fehérek remek El-szereplésére."
+  },
+  {
+    "group_id": "group_afdbf86a25",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/09/mYeihCprgPK4crgeK9TVb1eH0ygItip7dMCUJVA_JS0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM0NDI5ODQ5MzUxODQ2NWQ4ZGMyYjcxMmI1MWUyNGM5.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Rákapcsol a NAV: több mint ezer vagyonkezelés kerül célkeresztbe novemberben –„zéró toleranciát alkalmazunk”",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/nav-ellenorzes-bizalmi-vagyonkezelo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793809053,
+    "title_hu": "Rákapcsol a NAV: több mint ezer vagyonkezelés kerül célkeresztbe novemberben –„zéró toleranciát alkalmazunk”",
+    "lead_hu": "A NAV elsősorban azt vizsgálja majd, hogy a vagyonkezelések mögött valódi gazdasági tartalom áll-e.",
+    "content_hu": "A NAV elsősorban azt vizsgálja majd, hogy a vagyonkezelések mögött valódi gazdasági tartalom áll-e."
+  },
+  {
+    "group_id": "group_8cf1ce3981",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Perceken belül nagy leállás kezdődik a NAV rendszerein belül, közölték a részleteket",
+        "link": "https://www.atv.hu/egyeb/20261104/nav-leallas-karbantartas/"
+      }
+    ],
+    "published_at": 1793809020,
+    "title_hu": "Perceken belül nagy leállás kezdődik a NAV rendszerein belül, közölték a részleteket",
+    "lead_hu": "Egy sor szolgáltatásnál végeznek karbantartást, a NAV tájékoztatta az ügyfeleket.",
+    "content_hu": "Egy sor szolgáltatásnál végeznek karbantartást, a NAV tájékoztatta az ügyfeleket."
+  },
+  {
+    "group_id": "group_8dda24bf62",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/10/TWVGzjnjvo2axlaCTYj-BLCp8Bo7IWOaKcx9QqdRCNk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EzMzcxM2YwMDRlZDQwYzY5NDFjOWVhMDcxYzk4YmYx.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Az OTP-vel karöltve szárnyalt a forint – hatalmas ralival ünneplik a tőzsdék az amerikai félidős választások eredményét",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/forint-dollar-euro-deviza-usa-tozsde-bux-otp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793808977,
+    "title_hu": "Az OTP-vel karöltve szárnyalt a forint – hatalmas ralival ünneplik a tőzsdék az amerikai félidős választások eredményét",
+    "lead_hu": "Fellendítette az európai és az amerikai részvénypiacokat is a nagy demokrata győzelmet hozó amerikai félidős választás.",
+    "content_hu": "Fellendítette az európai és az amerikai részvénypiacokat is a nagy demokrata győzelmet hozó amerikai félidős választás."
+  },
+  {
+    "group_id": "group_0fe974e5b8",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Rekordgyanús: volt, akit 1989. november 13-án, a dübörgő rendszerváltás közepette szerveztek be hazafias alapon",
+        "link": "https://444.hu/2026/11/04/rekordgyanus-volt-akit-1989-november-13-an-a-duborgo-rendszervaltas-kozepette-szerveztek-be-hazafias-alapon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793808939,
+    "title_hu": "Rekordgyanús: volt, akit 1989. november 13-án, a dübörgő rendszerváltás közepette szerveztek be hazafias alapon",
+    "lead_hu": "A III/III-at két hónap múlva, 1990. január 21-én megszüntették.",
+    "content_hu": "A III/III-at két hónap múlva, 1990. január 21-én megszüntették."
+  },
+  {
+    "group_id": "group_a3ab472638",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Több tucatszor megkéselte, majd riasztópisztollyal kétszer arcon lőtte volt élettársát a pécsi férfi, aztán ment, és elhozta gyereküket a gyógytornáról",
+        "link": "https://444.hu/2026/11/04/tobb-tucatszor-megkeselte-majd-riasztopisztollyal-ketszer-arcon-lotte-volt-elettarsat-a-pecsi-ferfi-aztan-ment-es-elhozta-gyerekuket-a-gyogytornarol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793808905,
+    "title_hu": "Több tucatszor megkéselte, majd riasztópisztollyal kétszer arcon lőtte volt élettársát a pécsi férfi, aztán ment, és elhozta gyereküket a gyógytornáról",
+    "lead_hu": "A férfit különös kegyetlenséggel elkövetett emberölés bűntette miatt 18 év fegyházra ítélték.",
+    "content_hu": "A férfit különös kegyetlenséggel elkövetett emberölés bűntette miatt 18 év fegyházra ítélték."
+  },
+  {
+    "group_id": "group_1ec4301c6f",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/08b164a8-350c-4a58-94f3-f025dbdf0f4d.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "A külügyminisztérium 19 ezer lélegeztetőgépet vett 2000 kórházi ágyra a Covid alatt",
+        "link": "https://hvg.hu/itthon/20261104_lefoglalasok-lelegeztetogep-biznisz-nemzeti-nyomozo-iroda"
+      }
+    ],
+    "published_at": 1793808880,
+    "title_hu": "A külügyminisztérium 19 ezer lélegeztetőgépet vett 2000 kórházi ágyra a Covid alatt",
+    "lead_hu": "Még a megtelt kórházak esetében is legalább kilenc gép jutott volna minden betegre.",
+    "content_hu": "Még a megtelt kórházak esetében is legalább kilenc gép jutott volna minden betegre."
+  },
+  {
+    "group_id": "group_8a9476a159",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/dlape20260405104-masolat-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "dr. Tóth M. Gábor: Hankó fodrásza, avagy miért sértheti egy letartóztatott jogát, hogy fogvatartása részletei az ügyészségi tájékoztatásban kötnek ki",
+        "link": "https://24.hu/belfold/2026/11/04/hanko-balazs-bv-fodrasz-ugy/"
+      }
+    ],
+    "published_at": 1793808564,
+    "title_hu": "dr. Tóth M. Gábor: Hankó fodrásza, avagy miért sértheti egy letartóztatott jogát, hogy fogvatartása részletei az ügyészségi tájékoztatásban kötnek ki",
+    "lead_hu": "Hankó Balázs védője a fodrászügyről, személyes és különleges adatokról, és arról, min mérettetik meg a jogállam. The post dr. Tóth M. Gábor: Hankó fodrásza, avagy miért sértheti egy letartóztatott jog…",
+    "content_hu": "Hankó Balázs védője a fodrászügyről, személyes és különleges adatokról, és arról, min mérettetik meg a jogállam. The post dr. Tóth M. Gábor: Hankó fodrásza, avagy miért sértheti egy letartóztatott jogát, hogy fogvatartása részletei az ügyészségi tájékoztatásban kötnek ki first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_e62e2fb9bf",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/hiv-vakcina-es-fecskendo-kozelrol-e1793808521486-1024x577.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Elérhetővé vált a HIV-injekció, ami 99,9 százalékkal csökkenti a fertőzés esélyét",
+        "link": "https://24.hu/tudomany/2026/11/04/hiv-injekcio-lenacavapir-jovahagyasa/"
+      }
+    ],
+    "published_at": 1793808537,
+    "title_hu": "Elérhetővé vált a HIV-injekció, ami 99,9 százalékkal csökkenti a fertőzés esélyét",
+    "lead_hu": "A szakértők szerint az amerikai Élelmiszer- és Gyógyszerügyi Hivatal új döntése közelebb hozhatta a HIV-járvány legyőzését. The post Elérhetővé vált a HIV-injekció, ami 99,9 százalékkal csökkenti a fe…",
+    "content_hu": "A szakértők szerint az amerikai Élelmiszer- és Gyógyszerügyi Hivatal új döntése közelebb hozhatta a HIV-járvány legyőzését. The post Elérhetővé vált a HIV-injekció, ami 99,9 százalékkal csökkenti a fertőzés esélyét first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_b21be7534c",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dc443c9e-7fa8-443b-ae26-b2974be4a6ed.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Bicskanyitogató stílus és ízlésbeli vakfoltok – használt vagy ártott Ókovács Szilveszter a magyar operának?",
+        "link": "https://hvg.hu/360/20261104_hvg-okovacs-szilveszter-operahaz-ner"
+      }
+    ],
+    "published_at": 1793808486,
+    "title_hu": "Bicskanyitogató stílus és ízlésbeli vakfoltok – használt vagy ártott Ókovács Szilveszter a magyar operának?",
+    "lead_hu": "Az Operaház vezetője egyedülállóan ötvözte a zeneművészetet politikával, bulvárral, botránnyal.",
+    "content_hu": "Az Operaház vezetője egyedülállóan ötvözte a zeneművészetet politikával, bulvárral, botránnyal."
+  },
+  {
+    "group_id": "group_4519140d99",
+    "fingerprint": "a0fd58d806e2e3eda1f11505b880c93d",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/5xYoLJ56AjxLuAcCQNSRTVBEGvh1CpqwKJlS6ZU05Ek/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EzOTY4MGRkZjdjMzRjNmY4MjIxMTM3ODY1NWE2OWEx.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Rétvári Bence riadót fújt: hiába emelkedik a fizetés, közel százezer forintot is bukhatnak egyes közszolgálati dolgozók minden havonta",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/kozszolgalati-dolgozo-beremeles-lakhatas-retvari-bence?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Rétvári Bence: a béremelések ellenére is csökkenni fog sok közszolgálatban dolgozó jövedelme",
+        "link": "https://index.hu/gazdasag/2026/11/04/retvari-bence-kdnp-beremeles-kozszolgalat/"
+      }
+    ],
+    "published_at": 1793808420,
+    "title_hu": "Rétvári: a lakhatási támogatás megszüntetése miatt csökkenhet sok közszolgálati dolgozó jövedelme",
+    "lead_hu": "Rétvári Bence szerint a közszolgálati dolgozók egy részének a béremelés ellenére is csökkenhet a havi jövedelme, miután a kormány év végével kivezeti az évi egymillió forintos otthonteremtési támogatást. A KDNP frakcióvezetője úgy számol, hogy a változás 186 ezer lakáshiteles közszférában dolgozót érinthet.",
+    "content_hu": "• **Évi egymillió forintos támogatás szűnik meg**: a kormány év végével kivezeti a közszolgálati dolgozók lakáshitel-törlesztését segítő otthonteremtési juttatást.\n\n• **Havi 83 ezer forint lehet a kiesés**: Rétvári Bence szerint a támogatás megszűnése ennyivel csökkentheti az érintettek havi jövedelmét; számításai szerint 186 ezer lakáshiteles közszférában dolgozó érintett.\n\n• **A béremelés nem feltétlenül pótolja a juttatást**: azoknál, akiknek a nettó fizetésemelése nem éri el a havi 83 ezer forintot, összességében csökkenhet a jövedelem. Rétvári az ápolókat, tanárokat és rendőröket is kiemelte.\n\n• **A kormány új lakhatási konstrukciót tervez**: Pósfai Gábor belügyminiszter szerint más típusú támogatásra van szükség; a tervek alapján az új juttatás már a munkába állás első napjától járhatna. A végleges feltételeket még nem ismertették."
+  },
+  {
+    "group_id": "group_0f7b75d871",
+    "fingerprint": "74a4acc4b6fda562b07e79e22ec14720",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "„Megpróbáltak rávenni valamire” – a Karthago zenekar vezetője is megszólalt az ügynökakták kapcsán",
+        "link": "https://www.atv.hu/belfold/20261104/ugynokaktak-karthago-zenekar-szigeti/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Szigeti Ferenc: Megpróbáltak rávenni valamire, de nem sikerült, és soha nem szerveztek be",
+        "link": "https://telex.hu/ugynokaktak/2026/11/04/szigeti-ferenc-karthago-6-os-karton-1"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "A Karthago zenekar vezetője az ügynökaktákról: Megpróbáltak rávenni valamire, de soha nem szerveztek be",
+        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-karthago-szigeti-ferenc-allambiztonsag/"
+      }
+    ],
+    "published_at": 1793808300,
+    "title_hu": "Szigeti Ferenc szerint nem szervezték be, csak egy zenészt akartak lebeszéltetni az SZDSZ-kampányról",
+    "lead_hu": "A Karthago vezetője reagált arra, hogy 6-os kartonja megjelent a nyitottaktak.hu-n. Szigeti Ferenc felidézte: az 1980-as évek végén egy rendőrtiszt arra kérte, beszéljen rá egy zenészkollégát, hogy ne kampányoljon az SZDSZ mellett, de ő végül nem kereste meg a barátját. Állítása szerint soha nem szervezték be.",
+    "content_hu": "• **Megjelent a 6-os kartonja** Szigeti Ferenc reagált arra, hogy az irata felkerült a nyitottaktak.hu-ra.\n\n• **Egy zenészt akartak lebeszéltetni az SZDSZ-kampányról** Szigeti szerint egy rendőrtiszt arra kérte, beszélje rá ismert zenészkollégáját, hogy ne kampányoljon a koncertjükön az akkoriban létrejött SZDSZ mellett.\n\n• **Az útlevél átvételekor keresték meg** Szigeti felidézése szerint az 1980-as évek végén egy, a XIII. kerületben, a Váci út melletti lakásban kapta meg új útlevelét, és ott tette fel neki a kérést a rendőrtiszt. Szigeti nem ígérte meg, hogy eléri a zenésznél, csak azt mondta, megpróbál beszélni vele.\n\n• **Végül nem kereste meg a barátját** Szigeti úgy gondolta, az ügy nem tartozik rá, ezért nem hívta fel a zenészt.\n\n• **A második találkozón sem járt sikerrel** A rendőrtiszt később Siófokon, a Fő téren találkozott vele, és rákérdezett, beszélt-e a kollégával. Szigeti elmondta, hogy nem, a tiszt pedig azt felelte, semmi baj; Szigeti szerint ezt követően soha többé nem látta.\n\n• **A beszervezés sikertelen volt** Szigeti Ferenc állítása szerint soha nem szervezték be."
+  },
+  {
+    "group_id": "group_7fd58eb37f",
+    "fingerprint": "59a6a50563e3df87d91afb85b6f6ee9d",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261103/1793697428-temp-agbm0v3us8oo5kecokn_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Obama laza mikrofondobásától Trump fenékmániájáig – a félidős választási kampány legemlékezetesebb pillanatai",
+        "link": "https://telex.hu/kulfold/2026/11/03/felidos-valasztas-midterm-egyesult-allamok-emlekezetes-pillanatok-trump-obama"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "A Fehér Ház nyulától a bombariadóig: egészen abszurd dolgok történtek az amerikai választásokon",
+        "link": "https://nlc.hu/ezvan/20261104/amerikai-felidos-valasztasok-2026-legfurcsabb-tortenetek/y9jtzj9"
+      }
+    ],
+    "published_at": 1793808180,
+    "title_hu": "Szokatlan jelenetek és fennakadások kísérték az amerikai félidős választásokat",
+    "lead_hu": "Az amerikai félidős választások kampányát és napját politikai csatározások mellett több bizarr incidens és technikai fennakadás is kísérte. Egyes helyeken bombafenyegetés, szavazólaphiány vagy félrevezető üzenetek nehezítették a voksolást, miközben a megfigyelők tevékenysége is vitákat váltott ki.",
+    "content_hu": "• **Szokatlan interjúalany** A választás napján egy riporter a Fehér Ház kertjében talált nyulat kérdezett a várható eredményről, miután a politikusok kampányolni utaztak; az állat válasz helyett tovább falatozott.\n\n• **Fennakadások a szavazóhelyiségekben** Egy toledói iskolát bombafenyegetés miatt kiürítettek, ezért a szavazógépeket az utcára vitték, és ott folytatták a voksolást. Kansasban egy hivatal tévedésből százezer helyett csak száz szavazólapot rendelt, máshol pedig szavazógépek hibásodtak meg.\n\n• **Félrevezető üzenetek és fenyegetések** A georgiai Fulton megyében választók hamis SMS-t kaptak a szavazóhelyiségük megváltozásáról. A hatóságok emellett több mint 700, fenyegető levelet vizsgáltak, amelyekben a fehér port ártalmatlannak azonosították.\n\n• **Vita a megfigyelőkről** A szövetségi kormány több mint 900 választási megfigyelőt küldött ki, amit egyes kritikusok a választók megfélemlítésének kockázata miatt bíráltak. Kalifornia kormányzója további megfigyelőket állított a szövetségi megfigyelők ellenőrzésére; országos méretű zavarról végül nem érkezett jelentés."
+  },
+  {
+    "group_id": "group_9a3a28fd73",
+    "category": "Kultúra",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e0c516fc-81b7-4e3c-860f-f5228204f676.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Szétkapcsolták az európai felhőt és a globálisat, az eredmény zökkenőmetes",
+        "link": "https://hvg.hu/tudomany/20261104_aws-europai-szuveren-felho-fuggetlen-mukodese-teszt"
+      }
+    ],
+    "published_at": 1793808180,
+    "title_hu": "Szétkapcsolták az európai felhőt és a globálisat, az eredmény zökkenőmetes",
+    "lead_hu": "Az Amazon Web Services (AWS) sikeresen tesztelte, hogy európai szuverén felhője az Európai Unión kívüli infrastruktúrától teljesen függetlenül is képes működni. A vállalat közleménye szerint többórás …",
+    "content_hu": "Az Amazon Web Services (AWS) sikeresen tesztelte, hogy európai szuverén felhője az Európai Unión kívüli infrastruktúrától teljesen függetlenül is képes működni. A vállalat közleménye szerint többórás gyakorlat során az ügyfelek szolgáltatásai zavartalanul üzemeltek, adataik pedig folyamatosan elérhetők maradtak."
+  },
+  {
+    "group_id": "group_6ee1c19dec",
+    "fingerprint": "ea5d9e009cbd25f367895de7e83ef952",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793805864-temp-gp0p7qi0uuvm2bbfihd_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A Kreml reméli, Trump a félidős választások után is folytatja béketeremtő erőfeszítéseit",
+        "link": "https://telex.hu/kulfold/2026/11/04/kreml-dmitrij-peszkov-donald-trump-oroszorszag-ukrajna-felidos-valasztas"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "A Kreml reméli, hogy Trump folytatja erőfeszítéseit az ukrajnai rendezés érdekében",
+        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/a-kreml-remeli-hogy-trump-folytatja-erofesziteseit-az-ukrajnai-rendezes-erdekeben/"
+      }
+    ],
+    "published_at": 1793808088,
+    "title_hu": "A Kreml azt reméli, Trump a félidős választások után is folytatja az ukrajnai békeerőfeszítéseket",
+    "lead_hu": "Dmitrij Peszkov, a Kreml szóvivője szerint Oroszország bízik abban, hogy Donald Trump az amerikai félidős választások után is folytatja az ukrajnai konfliktus rendezésére irányuló erőfeszítéseit. A Kongresszus esetleges szerepéről szólva Peszkov úgy fogalmazott: az amerikai belügy.",
+    "content_hu": "• **A Kreml reménye** Dmitrij Peszkov szerint Oroszország azt szeretné, ha Donald Trump a félidős választások után is folytatná az ukrajnai konfliktus rendezésére irányuló békeerőfeszítéseit.\n\n• **Közelgő tárgyalások** Peszkov azt mondta, már történt előrelépés, és hamarosan sor kerülhet az orosz–amerikai–ukrán háromoldalú tárgyalások újabb fordulójára.\n\n• **Amerikai belügy** Arra a kérdésre, hogy a Kongresszus akadályozhatja-e Trump erőfeszítéseit, Peszkov azt felelte: „ez Amerika belügye”."
+  },
+  {
+    "group_id": "group_1e2aa026d2",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1332696554-866930.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Itt a lista: ezek a részvények a demokrata győzelem legnagyobb nyertesei!",
+        "link": "https://www.portfolio.hu/befektetes/20261104/itt-a-lista-ezek-a-reszvenyek-a-demokrata-gyozelem-legnagyobb-nyertesei-874294"
+      }
+    ],
+    "published_at": 1793808000,
+    "title_hu": "Itt a lista: ezek a részvények a demokrata győzelem legnagyobb nyertesei!",
+    "lead_hu": "Alaposan felforgatta a tőzsdéket az amerikai félidős választás, miután a demokraták Donald Trump számára súlyos vereséget mérve a kongresszus mindkét házában megszerezték a többséget. Mostani elemzésü…",
+    "content_hu": "Alaposan felforgatta a tőzsdéket az amerikai félidős választás, miután a demokraták Donald Trump számára súlyos vereséget mérve a kongresszus mindkét házában megszerezték a többséget. Mostani elemzésünkben megnéztük, hogy mely vállalatok és részvények a \"kék hullám\" nagy nyertesei."
+  },
+  {
+    "group_id": "group_b0ba3f0369",
+    "category": "Általános",
+    "image": "https://cdn.borsonline.hu/2026/11/7WyA2WVtMKWRUt3P3olT_y12ulPJhDdXo3jTgmu3M18/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFhYThlYzY4MDViODRhZGNhNmFkMjBlZDJiMGRlNjRj.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Kárpáti Rebeka extra dögös tangás képpel jelentkezett Baliról",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/karpati-rebeka-bali-tanga"
+      }
+    ],
+    "published_at": 1793808000,
+    "title_hu": "Kárpáti Rebeka extra dögös tangás képpel jelentkezett Baliról",
+    "lead_hu": "A színésznő új életet kezdett az indonéziai szigeten.",
+    "content_hu": "A színésznő új életet kezdett az indonéziai szigeten."
+  },
+  {
+    "group_id": "group_535891993b",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72413/724132/72413223_670971ba8ab54b2919ff8e41450c392f_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Telefonos zaklatás érte Szőcs Renit, aki mostantól sokkal elővigyázatosabb",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/04/szocs-reni-zaklato-hivta-telefonon-mostantol-elovigyazatosabb/"
+      }
+    ],
+    "published_at": 1793807967,
+    "title_hu": "Telefonos zaklatás érte Szőcs Renit, aki mostantól sokkal elővigyázatosabb",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_c77dae0c6a",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793807697-temp-isdmutr37st37enjobo_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Ukrán nemzetbiztonsági és rendvédelmi tisztviselőket vesztegetett meg egy bűnszervezet, hogy zavartalanul működtethesse a csalós telefonközpontját",
+        "link": "https://telex.hu/kulfold/2026/11/04/nabu-ukrajna-vesztegetes-magas-rangu-tisztviselok-kartago-muvelet-midasz-ugy"
+      }
+    ],
+    "published_at": 1793807908,
+    "title_hu": "Ukrán nemzetbiztonsági és rendvédelmi tisztviselőket vesztegetett meg egy bűnszervezet, hogy zavartalanul működtethesse a csalós telefonközpontját",
+    "lead_hu": "A NABU azt is bejelentette, befejezték a Midasz-ügy nyomozását, amiben Volodimir Zelenszkij egyik közeli barátja is érintett.",
+    "content_hu": "A NABU azt is bejelentette, befejezték a Midasz-ügy nyomozását, amiben Volodimir Zelenszkij egyik közeli barátja is érintett."
+  },
+  {
+    "group_id": "group_f6f084961e",
+    "fingerprint": "8da88e70a3da85b39e57dced42c3dbca",
+    "category": "Sport",
+    "image": "https://kep.index.hu/1/0/7241/72414/724142/72414251_5336405_e36d3755c4beca9ec2a6fd9c4201a00f_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Rafael Nadal is elnökségi tag lett a Real Madridnál",
+        "link": "https://index.hu/sport/futball/2026/11/04/real-madrid-rafael-nadal-elnoksegi-tag-florentino-perez/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Rafael Nadal elnökségi tag lesz a Real Madridban",
+        "link": "https://24.hu/sport/foci/2026/11/04/real-madrid-rafael-nadal-elnoksegi-tag/"
+      }
+    ],
+    "published_at": 1793807774,
+    "title_hu": "Rafael Nadal a Real Madrid elnökségi tagja lehet",
+    "lead_hu": "A Real Madrid vezetősége úgy döntött, hogy a közgyűlés elé terjeszti Rafael Nadal elnökségi taggá választását. A korábbi teniszező, aki a klub tiszteletbeli tagja is, hálás az ajánlatért, és azt mondta, lehetőségeihez mérten segíti majd az egyesületet.",
+    "content_hu": "• **A közgyűlés dönthet a kinevezésről:** A Real Madrid vezetősége megállapodott abban, hogy a közgyűlés elé terjeszti Rafael Nadal elnökségi taggá választását.\n\n• **Nadal segítené a klubot:** A 2024-ben visszavonult teniszező hálás az ajánlatért, és vállalná a klub képviseletét, valamint részt venne a Real Madrid jelenét és jövőjét érintő döntésekben.\n\n• **Korábban tiszteletbeli tagságot kapott:** Nadal a klub tagja, és korábban a Real Madrid tiszteletbeli tagjává is választották."
   },
   {
     "group_id": "group_1af88e2f37",
@@ -239,24 +1151,6 @@
     "content_hu": "A Benly Watch Desktop 95 egyáltalán nem okosóra, viszont csodálatos. És ez néha fontosabb."
   },
   {
-    "group_id": "group_8042ab3aac",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "„Soha nem jelentettem senkiről, de évtizedek óta mardosom magam” – Gyurgyák János a beszervezéséről",
-        "link": "https://444.hu/2026/11/04/soha-nem-jelentettem-senkirol-de-evtizedek-ota-mardosom-magam-gyurgyak-janos-a-beszervezeserol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793806672,
-    "title_hu": "„Soha nem jelentettem senkiről, de évtizedek óta mardosom magam” – Gyurgyák János a beszervezéséről",
-    "lead_hu": "A rendszerváltó értelmiség meghatározó alakját húszévesen szervezték be. Állítása szerint soha nem jelentett, végül ki is zárták a hálózatból.",
-    "content_hu": "A rendszerváltó értelmiség meghatározó alakját húszévesen szervezték be. Állítása szerint soha nem jelentett, végül ki is zárták a hálózatból."
-  },
-  {
     "group_id": "group_29710c8472",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/lDGIUa4I5wXHHRXG2pFTDHOYKSHhQfb3_ADKfSJlBu4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZjYjI2ZDA0NTYyNTQ2OGNhZTNkN2I5YTJiMDIzODc5.jpg",
@@ -291,24 +1185,6 @@
     "title_hu": "A Karthago együttes vezetője az útlevele átvételekor kapott egy megbízást, így lett 6-os kartonja",
     "lead_hu": "Szigeti Ferencet egy Váci út melletti lakásban kérték, beszélje le egy barátját arról, hogy az SZDSZ-nek kampányoljon. The post A Karthago együttes vezetője az útlevele átvételekor kapott egy megbízás…",
     "content_hu": "Szigeti Ferencet egy Váci út melletti lakásban kérték, beszélje le egy barátját arról, hogy az SZDSZ-nek kampányoljon. The post A Karthago együttes vezetője az útlevele átvételekor kapott egy megbízást, így lett 6-os kartonja first appeared on 24.hu."
-  },
-  {
-    "group_id": "group_6ee1c19dec",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793805864-temp-gp0p7qi0uuvm2bbfihd_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A Kreml reméli, Trump a félidős választások után is folytatja béketeremtő erőfeszítéseit",
-        "link": "https://telex.hu/kulfold/2026/11/04/kreml-dmitrij-peszkov-donald-trump-oroszorszag-ukrajna-felidos-valasztas"
-      }
-    ],
-    "published_at": 1793806445,
-    "title_hu": "A Kreml reméli, Trump a félidős választások után is folytatja béketeremtő erőfeszítéseit",
-    "lead_hu": "Amikor arról kérdezték Peszkovot, a Kongresszus nem fogja-e akadályozni az amerikai elnök erőfeszítéseit, azt mondta, „ez Amerika belügye”.",
-    "content_hu": "Amikor arról kérdezték Peszkovot, a Kongresszus nem fogja-e akadályozni az amerikai elnök erőfeszítéseit, azt mondta, „ez Amerika belügye”."
   },
   {
     "group_id": "group_c598081796",
@@ -442,24 +1318,6 @@
     "title_hu": "Ők a legféltékenyebb csillagjegyek: a párjuk minden lépését nyomon követnék",
     "lead_hu": "Három csillagjegyre különösen jellemző a bizalmatlanság.",
     "content_hu": "Három csillagjegyre különösen jellemző a bizalmatlanság."
-  },
-  {
-    "group_id": "group_4519140d99",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/5xYoLJ56AjxLuAcCQNSRTVBEGvh1CpqwKJlS6ZU05Ek/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EzOTY4MGRkZjdjMzRjNmY4MjIxMTM3ODY1NWE2OWEx.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Rétvári Bence riadót fújt: hiába emelkedik a fizetés, közel százezer forintot is bukhatnak egyes közszolgálati dolgozók minden havonta",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/kozszolgalati-dolgozo-beremeles-lakhatas-retvari-bence?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793806095,
-    "title_hu": "Rétvári Bence riadót fújt: hiába emelkedik a fizetés, közel százezer forintot is bukhatnak egyes közszolgálati dolgozók minden havonta",
-    "lead_hu": "A KDNP frakcióvezetője szerint sok érintettnek hiába emelkedik a bére, összességében kevesebb pénze maradhat.",
-    "content_hu": "A KDNP frakcióvezetője szerint sok érintettnek hiába emelkedik a bére, összességében kevesebb pénze maradhat."
   },
   {
     "group_id": "group_bd693ea54a",
@@ -620,39 +1478,19 @@
     "content_hu": "Még a Guinness-rekordok könyvébe is bekerül. The post 51 piros lapot osztottak ki egy U20-as focimeccsen first appeared on 24.hu."
   },
   {
-    "group_id": "group_94c914bbd3",
-    "fingerprint": "a46006ee950daa7b84a14b5096cf290f",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793802097-temp-ij0p6c7gsit88fhocek_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Szita Károly kaposvári polgármester továbbra is azt állítja: nem volt ügynök",
-        "link": "https://telex.hu/ugynokaktak/2026/11/04/szita-karoly-kaposvar-fidesz-polgarmester-ugynokakta"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Szita Károly, miután 6-os kartonja nyilvánosságra került: Nem ártottam senkinek",
-        "link": "https://hvg.hu/itthon/20261104_szita-karoly-kaposvar-polgarmestere-hatos-karton-ugynokaktak"
-      }
-    ],
-    "published_at": 1793804807,
-    "title_hu": "Nyilvánosságra került Szita Károly 6-os kartonja, a polgármester tagadja, hogy ügynök lett volna",
-    "lead_hu": "Közzétették Szita Károly kaposvári polgármester 6-os kartonját, amely szerint 1980-ban „hazafias” alapon, „Krakus Péter” fedőnéven szervezték be, és 1989-ig tartották nyilván. Szita videóüzenetében visszautasította az ügynök megnevezést, és azt mondta, nem ártott senkinek.",
-    "content_hu": "• **A karton adatai szerint** Szita Károlyt 1980. július 1-jén szervezték be „titkos megbízottként”, „Krakus Péter” fedőnéven; 1989. május 9-ig szerepelt hálózati személyként a nyilvántartásban.\n\n• **Szita visszautasította az ügynökvádat:** videóüzenetében azt mondta, „nem voltam ügynök”, és állítása szerint soha nem ártott senkinek. Hozzátette, hogy múltja a kaposváriak előtt nyitott könyv, és a választók ennek ismeretében választották újra.\n\n• **A közzétett adatok korlátosak:** a most elérhető anyagban a 6-os karton és a mágnesszalag-találat szerepel, jelentések nem. A dokumentumok önmagukban nem mutatják meg a beszervezés körülményeit vagy az esetleges tevékenység részleteit; a források arra is figyelmeztetnek, hogy hamis iratok is lehetnek az adatbázisban."
-  },
-  {
     "group_id": "group_587b1ef3d6",
     "fingerprint": "0eddc748bcaef654b899e8547c3c7429",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/SsMHzCCPxgnLLp5WVoKxjvfy23p1z_qoPC-C0Z-ho8I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg0ZjFhNzBiZWJkOTRlYWU4OWFlNmU1MDY1MTg0N2Q0.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Orbán Viktor megkapta a végkielégítését, el is adományozta",
+        "link": "https://index.hu/belfold/2026/11/04/orban-viktor-vegkielegites-fidesz-adomany/"
+      },
       {
         "source": "HVG - Itthon",
         "title": "Orbán Viktor elárulta, mit kezdett a végkielégítésével",
@@ -665,9 +1503,9 @@
       }
     ],
     "published_at": 1793804740,
-    "title_hu": "Orbán Viktor megkapta a végkielégítését, és eladományozta",
-    "lead_hu": "Orbán Viktor megerősítette, hogy megkapta a törvény szerint járó végkielégítését, és eladományozta. A korábbi beszámolók bruttó 38 millió forintos összegről szóltak, a HVG azonban bruttó 32 millió forintot írt; a Világgazdaság szerint az adomány már eljutott a kárpátaljai gyermekotthonhoz.",
-    "content_hu": "• **Megerősítés** Orbán Viktor a Telex megkeresésére azt válaszolta: „Megkaptam, eladományoztam.” Hozzátette: „Adománnyal ne dicsekedj.”\n\n• **A felajánlás célja** Orbán májusban azt ígérte, hogy végkielégítését a kárpátaljai Irgalmas Samaritánus Református Gyermekotthonnak adja. A Világgazdaság beszámolója szerint az összeg már eljutott az intézményhez.\n\n• **Eltérés az összegben** A korábbi beszámolók bruttó 38 millió forintos végkielégítést említettek, a HVG viszont bruttó 32 millió forintról írt.\n\n• **Gulyás Gergely juttatása** Gulyás Gergely közel 16 millió forintot kapott, majd a teljes összeget a kárpátaljai nagydobronyi gyermekotthonnak utalta. Elmondása szerint körülbelül három hete érkezett meg hozzá a pénz.\n\n• **A juttatás szabályai** A törvény szerint legalább három évig betöltött tisztség után hathavi fizetésnek megfelelő juttatás jár, amelyet egy összegben, 15 napon belül fizetnek ki. Egy és három év közötti megbízatás esetén ennek a fele jár.\n\n• **A korábbi kormány tagjainak juttatása** A HVG adatigénylésre hivatkozó beszámolója szerint Orbán és nyolc volt minisztere összesen csaknem nettó 159 millió forintot kapott. A lap szerint Semjén Zsolt, Bóka János, Rogán Antal, Pintér Sándor, Lázár János és Navracsics Tibor bruttó 24-24 millió forinthoz, Lantos Csaba pedig bruttó 38 millió forinthoz jutott."
+    "title_hu": "Orbán Viktor megkapta és eladományozta a végkielégítését – eltérő összegek szerepelnek a beszámolókban",
+    "lead_hu": "Orbán Viktor megerősítette, hogy megkapta a tisztsége megszűnése után járó juttatást, és eladományozta. A kárpátaljai Irgalmas Samaritánus Református Gyermekotthonnak szánt összeg nagyságáról eltérően írnak a források: több beszámoló bruttó 38 millió forintot említ, a HVG viszont 32 milliót.",
+    "content_hu": "• **Orbán megerősítése** A volt miniszterelnök a Telexnek azt üzente: „Megkaptam, eladományoztam.” Hozzátette: „Adománnyal ne dicsekedj.”\n\n• **A felajánlás célja** Orbán májusban azt ígérte, hogy a juttatását a kárpátaljai Irgalmas Samaritánus Református Gyermekotthonnak adja. A Világgazdaság beszámolója szerint az összeg már eljutott az intézményhez.\n\n• **Eltérő összegadatok** Az Index és a Világgazdaság bruttó 38 millió forintos végkielégítést említ Orbánnál, a HVG cikke viszont bruttó 32 millió forintról ír.\n\n• **Gulyás Gergely juttatása** Gulyás közel 16 millió forintot kapott, majd a teljes összeget a kárpátaljai nagydobronyi gyermekotthonnak utalta. Elmondása szerint körülbelül három hete érkezett meg hozzá a pénz.\n\n• **Magyar Péter korábbi felszólítása** Magyar májusban arra kérte a távozó minisztereket és államtitkárokat, hogy ne vegyék fel a nekik járó összeget. A HVG beszámolója szerint azt is bejelentette, hogy az új kormány akkor sem folyósítja ezeket a juttatásokat, ha az érintettek nem mondanak le róluk.\n\n• **A volt miniszterek juttatásai** A HVG által ismertetett adatok szerint Semjén Zsolt, Bóka János, Rogán Antal, Pintér Sándor, Lázár János és Navracsics Tibor bruttó 24-24 millió forintot kapott, Lantos Csaba pedig bruttó 38 milliót. Orbán és nyolc volt minisztere összesen csaknem nettó 159 millió forint juttatásban részesült.\n\n• **A juttatás szabályai** Legalább három évig betöltött tisztség után hathavi fizetésnek megfelelő összeg jár, amelyet egy összegben, 15 napon belül fizetnek ki. Egy és három év közötti megbízatás esetén ennek a fele jár."
   },
   {
     "group_id": "group_a38386c004",
@@ -845,7 +1683,7 @@
     "image": "https://assets.telex.hu/images/20261104/1793786720-temp-t2jtfk65fiha4nhklme_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Világgazdaság",
@@ -856,6 +1694,11 @@
         "source": "Index - Címlap",
         "title": "Továbbra is várnak a rendszerváltásra a bankszektorban",
         "link": "https://index.hu/gazdasag/2026/11/04/bank-bankszektor-penzugyi-eredmeny-hitel-hitelpiac-jelzaloghitel-vallalati-hitel-szemelyi-kolcson-extraprofitado-erste/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A Bankszövetség elnöke szerint a bankok még várnak a rendszerváltásra",
+        "link": "https://telex.hu/gazdasag/2026/11/04/jelasity-radovan-erste-bank-bankszovetseg-bankado-extraprofitado"
       }
     ],
     "published_at": 1793804280,
@@ -898,31 +1741,6 @@
     "title_hu": "Napokon belül indul a GTA 6 előtelepítése, ekkora tárhelyre lesz szükség",
     "lead_hu": "A Rockstar Games elárulta, mikortól lesz letölthető már a megjelenés előtt a régóta várt játék, és felfedte a hivatalos helyigényt is.",
     "content_hu": "A Rockstar Games elárulta, mikortól lesz letölthető már a megjelenés előtt a régóta várt játék, és felfedte a hivatalos helyigényt is."
-  },
-  {
-    "group_id": "group_0f7b75d871",
-    "fingerprint": "2fc09e55f138631f7030d480086537b1",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "„Megpróbáltak rávenni valamire” – a Karthago zenekar vezetője is megszólalt az ügynökakták kapcsán",
-        "link": "https://www.atv.hu/belfold/20261104/ugynokaktak-karthago-zenekar-szigeti/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Szigeti Ferenc: Megpróbáltak rávenni valamire, de nem sikerült, és soha nem szerveztek be",
-        "link": "https://telex.hu/ugynokaktak/2026/11/04/szigeti-ferenc-karthago-6-os-karton-1"
-      }
-    ],
-    "published_at": 1793803919,
-    "title_hu": "Szigeti Ferenc szerint megpróbálták beszervezni, de nem jártak sikerrel",
-    "lead_hu": "A Karthago zenekar vezetője reagált arra, hogy 6-os kartonja megjelent a nyitottaktak.hu-n. Szigeti Ferenc állítása szerint megpróbálták rávenni, hogy beszéljen le egy zenészt az SZDSZ melletti kampányolásról, de őt soha nem szervezték be.",
-    "content_hu": "• **Megjelent a 6-os kartonja** Szigeti Ferenc reagált arra, hogy az irata felkerült a nyitottaktak.hu-ra.\n\n• **A beszervezés sikertelen volt** A Karthago vezetője azt állítja, megpróbálták rávenni valamire, de soha nem szervezték be.\n\n• **Az SZDSZ-kampányról akarták lebeszéltetni a zenészt** Szigeti szerint arra kérték, hogy beszéljen le egy zenészt az SZDSZ melletti kampányolásról."
   },
   {
     "group_id": "group_d6c6a0bcb7",
@@ -1100,6 +1918,24 @@
     "content_hu": "• **Nanu-Nanu fedőnév** Szikora Róbert neve hálózati személyként szerepel a nyilvánosságra hozott állambiztonsági dokumentumokban. Kartonja a kulturális területet jelöli meg foglalkoztatási vonalként, a beszervezés alapjaként pedig a hazafiasságot tünteti fel.\n\n• **A kartonon szereplő dátum és minősítés** A dokumentum 1984. február 10-ét jelöli meg beszervezési dátumként, és a zenészt titkos megbízottként tartja nyilván. Az iratokból nem derül ki, készített-e jelentéseket; a minősítés önmagában nem bizonyítja, hogy másokról jelentett.\n\n• **Szikora tagadása** A zenész az Indexnek azt mondta, nem jelentett senkiről. Állítása szerint szerették volna, hogy jelentéseket írjon, de nem kérték erre, ő pedig nem tett ilyet; azt is mondta, meg sem próbálták beszervezni.\n\n• **Beszélgetések a fellépések előtt** Szikora elmondása szerint az R-Go fontos koncertjei előtt le kellett ülnie az Országos Rendezői Iroda vezetőjével, Bulányi Györggyel. A beszélgetések célja az volt, hogy ne legyen balhé, és ne szóljon be a rendszernek.\n\n• **Figyelmeztetések külföldi utak előtt** Szikora szerint az útlevélosztályon arra kérték, hogy ha hall valamit, mondja el, ne találkozzon újságírókkal, és ne beszéljen a disszidenseknek a rendszerről vagy a terveiről.\n\n• **Szikora korábbi nyilatkozata** A zenész 2021-ben azt mondta, nem tudta, hogy megfigyelték, és abban sem volt biztos, hogy milyen jelentések kerülhetnek még elő a múltból.\n\n• **A dokumentumok korlátai** Az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója hangsúlyozta: a nyilvántartásban való szereplés nem bizonyítja önmagában az együttműködést, mert a beszervezési kísérlet eredménytelen is lehetett. Az iratanyag hiányos, különösen az 1970-es évek végéről és az 1980-as évekből maradt fenn kevés dokumentum."
   },
   {
+    "group_id": "group_c2aa39457c",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Bóka János és Rétvári Bence együtt koszorúzott a 301-es parcellában",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/boka-janos-es-retvari-bence-egyutt-koszoruzott-a-301-es-parcellaban"
+      }
+    ],
+    "published_at": 1793803200,
+    "title_hu": "Bóka János és Rétvári Bence együtt koszorúzott a 301-es parcellában",
+    "lead_hu": "\"Dicsőség az 1956-os hősöknek!\" - írta közösségi oldalán a Fidesz frakcióvezetője.",
+    "content_hu": "\"Dicsőség az 1956-os hősöknek!\" - írta közösségi oldalán a Fidesz frakcióvezetője."
+  },
+  {
     "group_id": "group_77b73e0e46",
     "category": "Politika",
     "image": "https://s.24.hu/app/uploads/2026/11/szijjarto-peter-e1790925835157-1140x642-1-1024x577.jpg",
@@ -1255,12 +2091,17 @@
     "category": "Gazdaság",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/456c6ca3-21af-407b-884f-295cb82581c4.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HVG - Gazdaság",
         "title": "Azért is van pocsék helyzetben az agrárium, mert a termelők évek óta halogatják a beruházásokat",
         "link": "https://hvg.hu/gazdasag/20261104_kh-agrarium-krizis-hitelezes-sertesagazat-tejpiac"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Rekordösszegű támogatást kapnak a gazdák, mégis egyre sebezhetőbb a mezőgazdaság – az OECD szerint rossz helyre megy a pénz",
+        "link": "https://www.vg.hu/agrar/2026/11/tamogatas-rekordosszeg-gazdak-mezogazdasag-megelozes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1793802584,
@@ -2275,24 +3116,6 @@
     "title_hu": "Egymásnak estek a játékosok Sallai Rolandék meccsén, hatalmas botrány tört ki - videó",
     "lead_hu": "Hatalmas balhé tört ki Sallai Rolandék mérkőzésén, miután az egyik játékos torkon ragadta ellenfelét. A Galatasaray-Stuttgart összecsapáson elszabadultak az indulatok, a dulakodásba többen is bekapcso…",
     "content_hu": "Hatalmas balhé tört ki Sallai Rolandék mérkőzésén, miután az egyik játékos torkon ragadta ellenfelét. A Galatasaray-Stuttgart összecsapáson elszabadultak az indulatok, a dulakodásba többen is bekapcsolódtak, a játékvezetőnek pedig közbe kellett avatkoznia."
-  },
-  {
-    "group_id": "group_f6f084961e",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7241/72414/724142/72414251_5336405_e36d3755c4beca9ec2a6fd9c4201a00f_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Rafael Nadal is elnökségi tag lett a Real Madridnál",
-        "link": "https://index.hu/sport/futball/2026/11/04/real-madrid-rafael-nadal-elnoksegi-tag-florentino-perez/"
-      }
-    ],
-    "published_at": 1793798940,
-    "title_hu": "Rafael Nadal is elnökségi tag lett a Real Madridnál",
-    "lead_hu": "A teniszlegenda már korábban is a klub tiszteletbeli tagja volt.",
-    "content_hu": "A teniszlegenda már korábban is a klub tiszteletbeli tagja volt."
   },
   {
     "group_id": "group_36e6571696",
@@ -3471,21 +4294,28 @@
   },
   {
     "group_id": "group_3a502f09e7",
+    "fingerprint": "2d26316b66ecdf47a3d18aa7a24610c0",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/zKGncqHbOBCwI2ItOooqYM9oXriLOOoOX9CcNb-U7FM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNhODI0OTcwMmM1YzQ5MjFhOTI3YTZkYzBkZGM2ZjQz.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Magyar Nemzet",
         "title": "Így alakult Magyar Péter nagyapjának, Erőss Pálnak a karrierje a Kádár-korszakban",
         "link": "https://magyarnemzet.hu/belfold/2026/11/igy-alakult-magyar-peter-nagyapjanak-eross-palnak-a-karrierje-a-kadar-korszakban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Így alakult Magyar Péter nagyapjának, Erőss Pálnak a karrierje a Kádár-korszakban",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/igy-alakult-magyar-peter-nagyapjanak-eross-palnak-a-karrierje-a-kadar-korszakban"
       }
     ],
     "published_at": 1793795423,
-    "title_hu": "Így alakult Magyar Péter nagyapjának, Erőss Pálnak a karrierje a Kádár-korszakban",
-    "lead_hu": "Az ismert televíziós jogász a Legfelsőbb Bíróságon és az Igazságügyi Minisztériumban is fontos tisztségeket töltött be.",
-    "content_hu": "Az ismert televíziós jogász a Legfelsőbb Bíróságon és az Igazságügyi Minisztériumban is fontos tisztségeket töltött be."
+    "title_hu": "Korabeli sajtócikkek Erőss Pál Kádár-korszakbeli pályájáról",
+    "lead_hu": "A Tűzfalcsoport korabeli újságcikkekre hivatkozva idézte fel Erőss Pál igazságügyi pályafutását, amely 1956-ban kezdődött, és több szakmai, illetve vezetői tisztséget is magában foglalt. A források szerint jogpropagandával és a dolgozók politikai műveltségének fejlesztésével is foglalkozott; az összeállítás Magyar Péter nagyapjáról tett nyilvános méltatásai kapcsán jelent meg.",
+    "content_hu": "• **Igazságügyi pályafutás:** A Tűzfalcsoport által idézett 1988-as Népszava-cikk szerint Erőss Pál 1956-ban kezdte igazságügyi szolgálatát, 1981-ben pedig a Legfelsőbb Bíróságtól az Igazságügyi Minisztérium bírósági igazgatásért felelős vezetői posztjára került.\n\n• **Szakmai feladatok:** Egy 1966-os korabeli írás Erősst a Fővárosi Bíróság bírájaként és szakoktatási felelőseként mutatta be; a cikk szerint bírósági fogalmazók és titkárok képzését szervezte.\n\n• **Politikai műveltség és jogpropaganda:** Az idézett lapbeszámolók szerint Erőss részt vett egy vállalati pártbizottság által kezdeményezett politikai műveltségi programban, és jogi témájú előadásokat is tartott.\n\n• **A közlés háttere:** Az összeállítás Magyar Péter nagyapjáról szóló méltatásai kapcsán ismertette a korabeli sajtóban megjelent adatokat Erőss pályájáról."
   },
   {
     "group_id": "group_44344532a8",
@@ -9880,46 +10710,21 @@
   },
   {
     "group_id": "group_ade637eae3",
-    "fingerprint": "454c0f64275b552e8a4a8db1948e4d08",
     "category": "Belföld",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "A szélerőművekre kiírt pályázatokon 700 megawattnyi kapacitásra 2300 megawattnyi ajánlat érkezett",
-        "link": "https://www.vadhajtasok.hu/2026/11/03/a-szeleromuvekre-kiirt-palyazatokon-700-megawattnyi-kapacitasra-2300-megawattnyi-ajanlat-erkezett"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Kapitány István: Közel 2300 megawattnyi új szélerőmű építésére érkeztek pályázatok",
-        "link": "https://hvg.hu/gazdasag/20261103_kapitany-istvan-szeleromu-palyazat"
-      }
-    ],
-    "published_at": 1793750400,
-    "title_hu": "Közel 2300 megawattnyi szélerőművi kapacitásra érkeztek pályázatok",
-    "lead_hu": "A szélerőművi kapacitások létesítésére és bővítésére kiírt pályázatra 37 beruházótól 46 jelentkezés érkezett, összesen mintegy 2289 megawattnyi tervezett teljesítménnyel. Az első körben nagyjából 700 megawattnyi új kapacitás hálózati csatlakozására van lehetőség; az előzetes eredményeket legkésőbb december 13-ig teszik közzé.",
-    "content_hu": "• **A pályázatokra közel 2300 megawattnyi szélerőművi kapacitás érkezett**: a tervezett erőművek névleges teljesítőképessége összesen 2289 megawatt, miközben az első körben körülbelül 700 megawatt csatlakoztatására van lehetőség.\n\n• **37 beruházó 46 jelentkezést nyújtott be** az augusztusban meghirdetett, október 30-án lezárult pályázatra. A jelentkezéseket november 2-án, közjegyző jelenlétében bontották fel.\n\n• **A pályázók 11 járásban, 8 csatlakozási pontra jelentkeztek**; a betáplálásra igényelt összteljesítmény 1834 MVA. A beruházásokhoz összesen 1947 MWh névleges villamosenergia-tárolási kapacitás kiépítését is vállalták.\n\n• **Az előzetes eredmények legkésőbb december 13-ig várhatók**: a pályázatok elbírálása folyamatban van, az eredményeket a Magyar Energetikai és Közmű-szabályozási Hivatal teszi közzé."
-  },
-  {
-    "group_id": "group_c2aa39457c",
-    "category": "Politika",
     "image": "",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
         "source": "Vadhajtások",
-        "title": "Bóka János és Rétvári Bence együtt koszorúzott a 301-es parcellában",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/boka-janos-es-retvari-bence-egyutt-koszoruzott-a-301-es-parcellaban"
+        "title": "A szélerőművekre kiírt pályázatokon 700 megawattnyi kapacitásra 2300 megawattnyi ajánlat érkezett",
+        "link": "https://www.vadhajtasok.hu/2026/11/03/a-szeleromuvekre-kiirt-palyazatokon-700-megawattnyi-kapacitasra-2300-megawattnyi-ajanlat-erkezett"
       }
     ],
     "published_at": 1793750400,
-    "title_hu": "Bóka János és Rétvári Bence együtt koszorúzott a 301-es parcellában",
-    "lead_hu": "\"Dicsőség az 1956-os hősöknek!\" - írta közösségi oldalán a Fidesz frakcióvezetője.",
-    "content_hu": "\"Dicsőség az 1956-os hősöknek!\" - írta közösségi oldalán a Fidesz frakcióvezetője."
+    "title_hu": "A szélerőművekre kiírt pályázatokon 700 megawattnyi kapacitásra 2300 megawattnyi ajánlat érkezett",
+    "lead_hu": "Lezárult a szélerőművekre kiírt pályázat benyújtási szakasza, a határidőig 37 jelentkező 46 pályázata érkezett be – közölte a Magyar Energetikai és Közmű-szabályozási Hivatal (MEKH).",
+    "content_hu": "Lezárult a szélerőművekre kiírt pályázat benyújtási szakasza, a határidőig 37 jelentkező 46 pályázata érkezett be – közölte a Magyar Energetikai és Közmű-szabályozási Hivatal (MEKH)."
   },
   {
     "group_id": "group_73d53267c4",
@@ -10208,6 +11013,24 @@
     "title_hu": "Leleplezték a The Elder Scrolls-sorozat hatodik részének címét",
     "lead_hu": "Azt még nem tudni, hogy mikor érkezik Skyrim folytatása.",
     "content_hu": "Azt még nem tudni, hogy mikor érkezik Skyrim folytatása."
+  },
+  {
+    "group_id": "group_c49a039070",
+    "category": "Tech",
+    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2501/14/ugyfelkapu_152653_1_original_390x220_cover.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PC World",
+        "title": "Átmenetileg leáll az Ügyfélkapu és több fontos állami online szolgáltatás",
+        "link": "https://www.pcwplus.hu/pcwlite/atmenetileg-leall-az-ugyfelkapu-es-tobb-fontos-allami-online-szolgaltatas-390400.html"
+      }
+    ],
+    "published_at": 1793738591,
+    "title_hu": "Átmenetileg leáll az Ügyfélkapu és több fontos állami online szolgáltatás",
+    "lead_hu": "Karbantartás miatt órákra elérhetetlenné válik a legtöbb digitális közigazgatási ügyintézési felület.",
+    "content_hu": "Karbantartás miatt órákra elérhetetlenné válik a legtöbb digitális közigazgatási ügyintézési felület."
   },
   {
     "group_id": "group_6605d0ad04",
@@ -10552,24 +11375,6 @@
     "content_hu": "Mutatunk mindent, amit csak tudni lehet."
   },
   {
-    "group_id": "group_7fd58eb37f",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261103/1793697428-temp-agbm0v3us8oo5kecokn_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Obama laza mikrofondobásától Trump fenékmániájáig – a félidős választási kampány legemlékezetesebb pillanatai",
-        "link": "https://telex.hu/kulfold/2026/11/03/felidos-valasztas-midterm-egyesult-allamok-emlekezetes-pillanatok-trump-obama"
-      }
-    ],
-    "published_at": 1793733042,
-    "title_hu": "Obama laza mikrofondobásától Trump fenékmániájáig – a félidős választási kampány legemlékezetesebb pillanatai",
-    "lead_hu": "Az amerikai félidős választások általában nem a legizgalmasabb politikai kampányról szólnak, a mostani azonban kiemelkedik a mezőnyből.",
-    "content_hu": "Az amerikai félidős választások általában nem a legizgalmasabb politikai kampányról szólnak, a mostani azonban kiemelkedik a mezőnyből."
-  },
-  {
     "group_id": "group_2381fc51eb",
     "category": "Általános",
     "image": "https://cdn.hirtv.hu/2026/11/w4q5bvaj8YhOdNilYgbZE340VSiCZRC_6RIwB6EcKnM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBjMGE3OGI4MGU2MTRmNWZiNWViODdkZWViMzA0Y2Rh.webp",
@@ -10586,6 +11391,24 @@
     "title_hu": "Két menesztés és egy ügynökügy: a bizalom és a bizonyítékok nyomában",
     "lead_hu": "Menesztések, szovjet zeneszerzők és titkos lehallgatás.",
     "content_hu": "Menesztések, szovjet zeneszerzők és titkos lehallgatás."
+  },
+  {
+    "group_id": "group_7045b0641e",
+    "category": "Tech",
+    "image": "https://raketa.hu/uploads/2026/11/applespy.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Rakéta.hu",
+        "title": "99 országban kaphattak figyelmeztetést egyes felhasználók az Apple-től kémszoftveres támadás miatt",
+        "link": "https://raketa.hu/apple-figyelmeztetes-kemszoftver/"
+      }
+    ],
+    "published_at": 1793732631,
+    "title_hu": "99 országban kaphattak figyelmeztetést egyes felhasználók az Apple-től kémszoftveres támadás miatt",
+    "lead_hu": "Az érintettek között újságírók, politikusok és kormányzati tisztviselők is vannak. A támadók olyan kifinomult módszert alkalmazhattak, amelyhez még egyetlen rosszindulatú linkre sem kellett rákattinta…",
+    "content_hu": "Az érintettek között újságírók, politikusok és kormányzati tisztviselők is vannak. A támadók olyan kifinomult módszert alkalmazhattak, amelyhez még egyetlen rosszindulatú linkre sem kellett rákattintani."
   },
   {
     "group_id": "group_b7ee23d800",
@@ -11097,6 +11920,24 @@
     "content_hu": "Tucatnyi európai ország katonái tartanak gyakorlatot, amellye az ukrajnai harcok megszűnése utáni időkre készülnek. Helyben segítenék az ukránokat, de nem békefenntartók lennének."
   },
   {
+    "group_id": "group_971ba31d88",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b620a59b-2da0-4fe5-b6ff-9d9e407b8396.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Hiába akarta, nem tudja személyesen meghallgatni Matolcsy Györgyöt a parlamenti vizsgálóbizottság",
+        "link": "https://hvg.hu/itthon/20261103_matolcsy-gyorgy-meghallgatas-parlamenti-vizsgalobizottsag"
+      }
+    ],
+    "published_at": 1793725743,
+    "title_hu": "Hiába akarta, nem tudja személyesen meghallgatni Matolcsy Györgyöt a parlamenti vizsgálóbizottság",
+    "lead_hu": "A Központi Nyomozó Főügyészség szerint nincsenek meg a csütörtökre tervezett meghallgatás jogszabályi feltételei.",
+    "content_hu": "A Központi Nyomozó Főügyészség szerint nincsenek meg a csütörtökre tervezett meghallgatás jogszabályi feltételei."
+  },
+  {
     "group_id": "group_5609cd6348",
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1f6d94d2-92e3-463e-b3ad-84951daf184f.jpg",
@@ -11223,29 +12064,6 @@
     "content_hu": "Éjjel meg is támadták az öt legnagyobb orosz olajfinomító egyikét."
   },
   {
-    "group_id": "group_c49a039070",
-    "category": "Tech",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5b6b39c5-4ed5-4cdd-9e5c-427c169c7e6c.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Néhány órára leállnak az online közigazgatási portálok vasárnap hajnalban",
-        "link": "https://hvg.hu/tudomany/20261103_online-kozigazgatasi-portalok-karbantartas-leallas"
-      },
-      {
-        "source": "PC World",
-        "title": "Átmenetileg leáll az Ügyfélkapu és több fontos állami online szolgáltatás",
-        "link": "https://www.pcwplus.hu/pcwlite/atmenetileg-leall-az-ugyfelkapu-es-tobb-fontos-allami-online-szolgaltatas-390400.html"
-      }
-    ],
-    "published_at": 1793724486,
-    "title_hu": "Néhány órára leállnak az online közigazgatási portálok vasárnap hajnalban",
-    "lead_hu": "Az Ügyfélkapu és az EgészségAblak sem lesz elérhető....",
-    "content_hu": "Az Ügyfélkapu és az EgészségAblak sem lesz elérhető."
-  },
-  {
     "group_id": "group_09801103ce",
     "category": "Politika",
     "image": "https://kep.index.hu/1/0/7083/70831/708311/70831109_5224389_46a689ac9e150fa58d592153afc33d8d_wm.jpg",
@@ -11298,29 +12116,6 @@
     "title_hu": "Trumpék leállítják az Izraelnek folyósított katonai támogatást, mert „már nincs szükségük rá”",
     "lead_hu": "Két évvel a határidő lejárta előtt szűnik meg a támogatás.",
     "content_hu": "Két évvel a határidő lejárta előtt szűnik meg a támogatás."
-  },
-  {
-    "group_id": "group_971ba31d88",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/5815/58159/581590/58159059_4303231_0b0b14a77033f760bdde94467eada126_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Belföld",
-        "title": "Matolcsy Györgyöt mégsem hallgatja meg személyesen az MNB-botrányt vizsgáló bizottság csütörtökön",
-        "link": "https://index.hu/belfold/2026/11/03/matolcsy-gyorgy-meghallgatas-mnb-ugy-vizsgalobizottsag/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Hiába akarta, nem tudja személyesen meghallgatni Matolcsy Györgyöt a parlamenti vizsgálóbizottság",
-        "link": "https://hvg.hu/itthon/20261103_matolcsy-gyorgy-meghallgatas-parlamenti-vizsgalobizottsag"
-      }
-    ],
-    "published_at": 1793724180,
-    "title_hu": "Matolcsy Györgyöt mégsem hallgatja meg személyesen az MNB-botrányt vizsgáló bizottság csütörtökön",
-    "lead_hu": "Döntést hoznak azzal kapcsolatban, hogyan kívánják kezelni a fennálló helyzetet....",
-    "content_hu": "Döntést hoznak azzal kapcsolatban, hogyan kívánják kezelni a fennálló helyzetet."
   },
   {
     "group_id": "group_3cfeabfca8",
@@ -11537,29 +12332,6 @@
     "title_hu": "Észak-Korea nekiment az Egyesült Államoknak, Kim Dzsongun húga aljas kísérletnek nevezte a Binance-t övező vádakat",
     "lead_hu": "Kim Jodzsong szerint az amerikaiak félrevezetik a nemzetközi közvéleményt.",
     "content_hu": "Kim Jodzsong szerint az amerikaiak félrevezetik a nemzetközi közvéleményt."
-  },
-  {
-    "group_id": "group_7045b0641e",
-    "category": "Tech",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/edb6b75f-4412-46e7-8ace-11d987fe2637.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Kiküldte a riasztást az Apple, 99 országban csippantak fel az iPhone-ok",
-        "link": "https://hvg.hu/tudomany/20261103_apple-iphone-riasztas-kemprogram-veszely"
-      },
-      {
-        "source": "Rakéta.hu",
-        "title": "99 országban kaphattak figyelmeztetést egyes felhasználók az Apple-től kémszoftveres támadás miatt",
-        "link": "https://raketa.hu/apple-figyelmeztetes-kemszoftver/"
-      }
-    ],
-    "published_at": 1793721780,
-    "title_hu": "Kiküldte a riasztást az Apple, 99 országban csippantak fel az iPhone-ok",
-    "lead_hu": "Komoly bajban lehet, aki megkapta az iPhone-jára az Apple által kiküldött értesítést....",
-    "content_hu": "Komoly bajban lehet, aki megkapta az iPhone-jára az Apple által kiküldött értesítést."
   },
   {
     "group_id": "group_b4b19092cc",
