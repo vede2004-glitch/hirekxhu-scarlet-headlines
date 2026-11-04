@@ -37,8 +37,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # FONTOS: a generált fájlokat NEM dobjuk el (nincs reset/stash) – előbb commit, aztán szinkron.
-          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json erdelyi_hirek_archivum.json src/data/news.json src/data/archive.json src/data/news_archive.json
+          # ÚJ, MAGYAROSÍTOTT FÁJLOK HÁTTÉR-HOZZÁADÁSA (HIÁNYZÓ FÁJL ESETÉN SEM ÁLL LE)
+          git add hirek_*.json src/data/*.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Nincs valtozas, commit es push kihagyva."
             exit 0
