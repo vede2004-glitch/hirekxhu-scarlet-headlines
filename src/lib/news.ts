@@ -273,31 +273,13 @@ export function ensureHistory(): Promise<void> {
   return Promise.resolve();
 }
 
-/** Beépíti a kapott archív adatokat és újraszámolja a listákat. */
+// A külső archívum-betöltés kikapcsolva: a helyi src/data/news.json az egyetlen
+// hírforrás, így a régi távoli archívumok nem töltődnek be többé.
 export function applyHistory(hist: unknown[], arch: unknown[]) {
-  historyRaw = (hist as RawItem[]).filter((r) => r && typeof r.group_id === "string");
-  archiveRaw = arch as ArchiveRaw[];
-  const h = buildHistory(news);
-  history.splice(0, history.length, ...h);
-  const a = buildArchive(news, h);
-  archive.splice(0, archive.length, ...a);
-  byRelevance.splice(0, byRelevance.length, ...[...news, ...h, ...a].sort(byRelevanceCmp));
-  newsVersion++;
-  for (const fn of newsListeners) fn();
+  void hist;
+  void arch;
 }
 
-/** Betölti (és 30 percig megtartja) a régebbi cikkek archívumát. */
 export function ensureHistory(): Promise<void> {
-  if (historyAt && Date.now() - historyAt < HISTORY_TTL_MS) return Promise.resolve();
-  if (historyLoading) return historyLoading;
-  historyLoading = (async () => {
-    const [h1, h2, arch] = await Promise.all([fetchArray("news_archive.json"), fetchArray("news_archive_2.json"), fetchArray("archive.json")]);
-    if (h1 || h2 || arch) {
-      applyHistory([...(h1 ?? []), ...(h2 ?? [])], arch ?? []);
-      historyAt = Date.now();
-    }
-  })().finally(() => {
-    historyLoading = null;
-  });
-  return historyLoading;
+  return Promise.resolve();
 }
