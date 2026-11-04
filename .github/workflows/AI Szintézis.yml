@@ -1,1 +1,57 @@
-asd
+name: 2. AI Szintézis (1 hour)
+
+on:
+  repository_dispatch:
+    types: [ai-synthesis-trigger]
+  workflow_dispatch:
+
+jobs:
+  synthesize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Kód letöltése a repóból
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python környezet beállítása
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Függőségek telepítése
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: AI Szintézis script futtatása
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python cikk_szintetizalas.py
+
+      - name: Friss adatok mentése és Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          # FONTOS: a generált fájlokat NEM dobjuk el (nincs reset/stash) – előbb commit, aztán szinkron.
+          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json erdelyi_hirek_archivum.json src/data/news.json src/data/archive.json src/data/news_archive.json
+          if git diff --staged --quiet; then
+            echo "Nincs valtozas, commit es push kihagyva."
+            exit 0
+          fi
+          git commit -m "update: friss hirek [skip ci]"
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            # Utkozeskor a most generalt adat nyer (rebase alatt a "theirs" a helyi commit).
+            if ! git rebase -X theirs origin/main; then
+              git rebase --abort || true
+              git merge -X ours --no-edit origin/main -m "merge: friss hirek [skip ci]"
+            fi
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((i * 5))
+          done
+          exit 1
