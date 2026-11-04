@@ -18,46 +18,54 @@ from sentence_transformers import SentenceTransformer
 # 1. KONFIGURÁCIÓ
 # ==============================================================================
 RSS_FEEDS = {
-    "Maszol": "https://maszol.ro/rss",
-    "Maszol Sport": "https://maszol.ro/sport/rss",
-    "Maszol Gazdaság": "https://maszol.ro/gazdasag/rss",
-    "Maszol Életmód": "https://maszol.ro/eletmod/rss",
+    # --- BELFÖLD & POLITIKA ---
+    "Index - Belföld": "https://index.hu/belfold/rss/",
+    "Telex - Belföld": "https://telex.hu/rss",
+    "24.hu - Belföld": "https://24.hu/belfold/feed/",
+    "HVG - Itthon": "https://hvg.hu/rss/itthon",
+    "444.hu": "https://444.hu/feed",
+    "Híradó.hu (MTI)": "https://hirado.hu/feed/",
+    "Magyar Nemzet": "https://magyarnemzet.hu/feed",
+    "Népszava": "https://nepszava.hu/feed",
+    "Mandiner": "https://mandiner.hu/feed",
+    "ATV": "https://www.atv.hu/rss",
+    "Magyar Narancs": "https://magyarnarancs.hu/rss",
+    "Szeretlek Magyarország": "https://www.szeretlekmagyarorszag.hu/feed/",
 
-    "Transtelex": "https://transtelex.ro/rss",
-    "Átlátszó Erdély": "https://atlatszo.ro/feed/",
-    "Udvarhelyi Hírportál (UH.ro)": "https://www.uh.ro/feed/",
-    "Kolozsvári Rádió (HU)": "https://www.kolozsvariradio.ro/feed/",
-    "Vásárhely.ma": "https://www.vasarhely.ma/feed/",
-    "Marosvásárhelyi Rádió (HU)": "https://www.marosvasarhelyiradio.ro/feed/",
-    "Mediatica.ro": "https://www.mediatica.ro/feed/",
+    # --- KÜLFÖLD ---
+    "Index - Külföld": "https://index.hu/kulfold/rss/",
+    "24.hu - Külföld": "https://24.hu/kulfold/feed/",
+    "HVG - Világ": "https://hvg.hu/rss/vilag",
 
-    "Szatmári sporthírek": "https://szmsport.ro/feed/",
-    "Manna": "https://manna.ro/feed/",
-    "RomKat": "https://romkat.ro/feed/",
-    "Hargita Népe": "https://hargitanepe.ro/rss",
+    # --- GAZDASÁG ---
+    "Portfolio - Gazdaság": "https://www.portfolio.hu/rss/gazdasag.xml",
+    "Portfolio - Befektetés": "https://www.portfolio.hu/rss/befektetes.xml",
+    "HVG - Gazdaság": "https://hvg.hu/rss/gazdasag",
+    "Economx (Napi.hu)": "https://www.economx.hu/rss",
+    "Világgazdaság": "https://www.vg.hu/feed",
 
-    # Közvetlen Agerpres RSS URL
-    "Agerpres (HU)": "https://www.agerpres.ro/magyar/rss",
+    # --- SPORT ---
+    "Nemzeti Sport": "https://www.nemzetisport.hu/rss",
+    "M4 Sport": "https://m4sport.hu/feed/",
+    "Index - Sport": "https://index.hu/sport/rss/",
+    "24.hu - Sport": "https://24.hu/sport/feed/",
+    "Csakfoci": "https://www.csakfoci.hu/feed",
 
-    "GSP - Gazeta Sporturilor": "https://www.gsp.ro/rss.xml",
+    # --- TECH & TUDOMÁNY ---
+    "HWSW": "https://www.hwsw.hu/xml/latest_news_rss.xml",
+    "Prohardver": "https://prohardver.hu/hir/rss.xml",
+    "HVG - Tudomány & Tech": "https://hvg.hu/rss/tudomany",
+    "24.hu - Tech": "https://24.hu/tech/feed/",
+    "Rakéta.hu": "https://raketa.hu/feed",
+    "PC World": "https://pcworld.hu/rss/rss.xml",
 
-    "Economedia": "https://economedia.ro/feed",
-    "Ziarul Financiar": "https://www.zf.ro/rss",
-
-    "Cancan.ro": "https://www.cancan.ro/feed",
-
-    "PresaSM (Szatmár)": "https://www.presasm.ro/feed/",
-
-    "Go4IT": "https://www.go4it.ro/feed/",
-    "Zonait.ro": "https://zonait.ro/feed/",
-
-    "Digi24": "https://www.digi24.ro/rss",
-    "G4Media": "https://www.g4media.ro/feed",
-    "HotNews.ro": "https://www.hotnews.ro/rss",
-    "Adevărul": "https://adevarul.ro/rss/",
-    "Mediafax": "https://www.mediafax.ro/rss/",
-    "ProTV Stiri": "https://stirileprotv.ro/rss",
-    "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss"
+    # --- KULTÚRA, BULVÁR & ÉLETMÓD ---
+    "Blikk": "https://www.blikk.hu/rss",
+    "BorsOnline": "https://www.borsonline.hu/feed",
+    "Velvet": "https://velvet.hu/rss/",
+    "Femina": "https://femina.hu/24ora/rss/",
+    "NLC (Nők Lapja Café)": "https://nlc.hu/feed/",
+    "24.hu - Élet-Stílus": "https://24.hu/elet-stilus/feed/"
 }
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
