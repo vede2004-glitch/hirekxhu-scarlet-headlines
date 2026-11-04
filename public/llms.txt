@@ -1,19 +1,20 @@
-# Erdélyi És Romániai Hírportál
+# HIREKX.hu
 
-> A legfrissebb romániai és erdélyi hírek valós idejű, semleges és kategóriákba rendezett gyűjtőoldala.
+> Magyar nyelvű hírgyűjtő portál: a legfrissebb magyarországi hírek több forrásból, AI-összefoglalókkal, a forrásportálok megjelölésével.
 
-A Stirix.ro (magyar felületén HIRX) magyar és román nyelvű híraggregátor. A főoldal az elmúlt 12 óra híreit mutatja; a megőrzött korábbi hírek az archívumban olvashatók. A cikkoldalak feltüntetik az eredeti hírforrásokat, és megkülönböztetik az AI-val összesített és az egyforrású híreket.
+A HIREKX.hu folyamatosan figyeli a magyar hírportálok RSS-csatornáit (pl. Telex, 444, HVG, Index, Portfolio, Magyar Nemzet, Mandiner, Origo), és az azonos témáról szóló cikkeket egy AI-összesített hírbe fűzi össze. Minden cikkoldal felsorolja az eredeti forrásokat linkkel. A főoldal a friss híreket mutatja, a korábbiak az archívumban olvashatók.
 
-Témakörök: Általános, Politika, Erdély, Gazdaság, Sport, Kultúra, Bulvár.
+Témakörök: Általános, Politika, Gazdaság, Sport, Kultúra, Bulvár.
 
-A hírek felhasználása esetén a forrás megjelölése kötelező. Idézéskor hivatkozz a cikkoldalra és az ott megjelölt eredeti hírforrásokra.
+Idézéskor hivatkozz a HIREKX.hu cikkoldalára és az ott megjelölt eredeti forrásokra.
 
-## Elérhető Adatforrások
+## Oldalak
 
-- [Legfrissebb hírek](/): Az elmúlt 12 óra hírei, magyar és román nyelvű felülettel.
-- [Minden hír és archívum](/osszes): Megőrzött AI-összesített és egyforrású hírek, relevancia szerint rendezve; innen érhetők el a cikkoldalak.
-- [Forrásaink és átláthatóság](/forrasok): Figyelt hírforrások és a hírfeldolgozás ismertetése.
+- [Friss hírek](https://hirekx.hu/): A legfrissebb magyar hírek és AI-összefoglalók.
+- [Minden hír és archívum](https://hirekx.hu/osszes): Az összes megőrzött hír; innen érhetők el a cikkoldalak.
+- [Forrásaink](https://hirekx.hu/forrasok): A figyelt hírforrások és a hírfeldolgozás módja.
+- [Oldaltérkép](https://hirekx.hu/sitemap.xml): Az összes cikkoldal listája.
 
 ## Optional
 
-- [Rólunk](/rolunk): A portál küldetése és alapelvei.
+- [Rólunk](https://hirekx.hu/rolunk): A portál küldetése és alapelvei.
