@@ -33,8 +33,10 @@ RSS_FEEDS = {
     "Vadhajtások": "https://www.vadhajtasok.hu/feed",
     "Magyar Jelen": "https://magyarjelen.hu/feed",
     "Konfront": "https://konfront.hu/feed",
+    "Hír TV": "https://hirtv.origo.hu/publicapi/hu/rss/hirtv/articles",
+    "24.hu - Legfrissebb": "https://24.hu/feed/",
 
-    # --- ORIGO (JAVÍTOTT KÖZVETLEN XML MANIFESTEK) ---
+    # --- ORIGO (KÖZVETLEN XML MANIFESTEK) ---
     "Origo - Címlap": "https://www.origo.hu/rss/origo.xml",
     "Origo - Itthon": "https://www.origo.hu/rss/itthon.xml",
     "Origo - Nagyvilág": "https://www.origo.hu/rss/nagyvilag.xml",
@@ -64,12 +66,16 @@ RSS_FEEDS = {
     "PC World": "https://pcworld.hu/rss/rss.xml",
 
     # --- KULTÚRA, BULVÁR & ÉLETMÓD ---
-    "Blikk": "https://www.blikk.hu/rss",
+    "Blikk": "https://www.blikk.hu/static/rss_hirek.xml",
+    "Bors": "https://borsonline.origo.hu/publicapi/hu/rss/bors/articles",
     "Femina": "https://femina.hu/24ora/rss/",
+    "Velvet": "https://rssamplifier.com/velvet-hu",
+    "Ripost": "https://ripost.hu/feed",
     "NLC (Nők Lapja Café)": "https://nlc.hu/feed/",
     "24.hu - Élet-Stílus": "https://24.hu/elet-stilus/feed/"
 }
 
+   
 MEMORY_FILE = "hirek_memoria.json"
 GROUPED_FILE = "hirek_csoportositott.json"
 ARCHIVE_FILE = "hirek_archivum.json"
