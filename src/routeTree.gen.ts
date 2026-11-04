@@ -10,7 +10,6 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
-import { Route as BekuldesRouteImport } from './routes/bekuldes'
 import { Route as ForrasokRouteImport } from './routes/forrasok'
 import { Route as OsszesRouteImport } from './routes/osszes'
 import { Route as RolunkRouteImport } from './routes/rolunk'
@@ -24,11 +23,6 @@ import { Route as ApiPublicNewsRouteImport } from './routes/api/public/news'
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const BekuldesRoute = BekuldesRouteImport.update({
-  id: '/bekuldes',
-  path: '/bekuldes',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ForrasokRoute = ForrasokRouteImport.update({
@@ -79,7 +73,6 @@ const ApiPublicNewsRoute = ApiPublicNewsRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
-  '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
@@ -92,7 +85,6 @@ export interface FileRoutesByFullPath {
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
-  '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
@@ -106,7 +98,6 @@ export interface FileRoutesByTo {
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
-  '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
@@ -121,7 +112,6 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
-    | '/bekuldes'
     | '/forrasok'
     | '/osszes'
     | '/rolunk'
@@ -134,7 +124,6 @@ export interface FileRouteTypes {
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
-    | '/bekuldes'
     | '/forrasok'
     | '/osszes'
     | '/rolunk'
@@ -147,7 +136,6 @@ export interface FileRouteTypes {
   id:
     | '__root__'
     | '/'
-    | '/bekuldes'
     | '/forrasok'
     | '/osszes'
     | '/rolunk'
@@ -161,7 +149,6 @@ export interface FileRouteTypes {
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
-  BekuldesRoute: typeof BekuldesRoute
   ForrasokRoute: typeof ForrasokRoute
   OsszesRoute: typeof OsszesRoute
   RolunkRoute: typeof RolunkRoute
@@ -180,13 +167,6 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/bekuldes': {
-      id: '/bekuldes'
-      path: '/bekuldes'
-      fullPath: '/bekuldes'
-      preLoaderRoute: typeof BekuldesRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/forrasok': {
@@ -257,7 +237,6 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
-  BekuldesRoute: BekuldesRoute,
   ForrasokRoute: ForrasokRoute,
   OsszesRoute: OsszesRoute,
   RolunkRoute: RolunkRoute,
