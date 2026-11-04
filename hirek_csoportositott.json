@@ -4414,22 +4414,6 @@
     ]
   },
   {
-    "group_id": "group_6ff74e9802",
-    "category": "Tech",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "PC World",
-        "title": "Egységes jelzéssel tilthatják ki a weboldalak az AI-adatgyűjtő botokat",
-        "link": "https://www.pcwplus.hu/pcwlite/egyseges-jelzessel-tilthatjak-ki-a-weboldalak-az-aiadatgyujto-botokat-390398.html",
-        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/03/ai_web_scraper_175808_1_original_390x220_cover.jpg",
-        "summary": "Az OpenAI, a Google, a Microsoft és az Anthropic is támogatja az új szabványt, amely egyszerűbbé teheti a tartalmaikat féltő kiadók dolgát.",
-        "category": "Tech",
-        "published_at": 1793731305
-      }
-    ]
-  },
-  {
     "group_id": "group_3a1c159b0a",
     "category": "Bulvár",
     "articles_count": 1,
@@ -11767,7 +11751,7 @@
   {
     "group_id": "group_d59684dd5a",
     "category": "Gazdaság",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -11777,6 +11761,15 @@
         "summary": "A Magyar Katolikus Püspöki Konferencia a szerdán nyilvánosságra hozott ügynökakták kapcsán bocsánatot kért az áldozatoktól mindazon egyházi személyek nevében, akik a kommunizmus idején valóban együttműködtek a pártállammal. A testület ugyanakkor óva int az elhamarkodott ítélkezéstől, és hangsúlyozza, hogy az igazi felelősök a diktatúra működtetői voltak, a dokumentumokban szereplő nevek mögött pedig nagyon eltérő, gyakran zsarolással terhelt egyéni sorsok húzódnak meg.",
         "category": "Gazdaság",
         "published_at": 1793815500
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Bocsánatot kért a katolikus püspöki konferencia a pártállammal együttműködő egyházi személyek nevében",
+        "link": "https://telex.hu/ugynokaktak/2026/11/04/magyar-katolikus-puspoki-konferencia-bocsanatkeres-ugynokaktak",
+        "image": "https://assets.telex.hu/images/20261104/1793816437-temp-nf28jumj93fj9cjainb_cimlap-normal.jpg",
+        "summary": "Azt is hangsúlyozták, hogy az ügynökaktákban szereplő egyházi emberek nevei mögött sokféle történet van, és senkinek a tetteiről ne alkossunk elhamarkodott véleményt.",
+        "category": "Politika",
+        "published_at": 1793817463
       }
     ]
   },
@@ -11921,6 +11914,54 @@
         "summary": "A Tisza-kormány nem pusztán egy-két elemben kíván szakítani az elődje által követett gazdaságpolitikához, hanem egy teljes fordulatot hajt végre.",
         "category": "Politika",
         "published_at": 1793816811
+      }
+    ]
+  },
+  {
+    "group_id": "group_f84112eeb5",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt J.D. Vance, szerinte egyértelmű a vereségük oka",
+        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/jd-vance/",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1793817679
+      }
+    ]
+  },
+  {
+    "group_id": "group_017b262dfb",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hankó Balázs ügyvédje szerint az ügyészség jogsértése miatt „gúny tárgyává vált” a volt miniszter",
+        "link": "https://index.hu/belfold/2026/11/04/hanko-balazs-nka-botrany-toth-m-gabor/",
+        "image": "https://kep.index.hu/1/0/7184/71844/718441/71844105_5296207_472ee1d554c896ec788cddd5128c2774_wm.jpg",
+        "summary": "A jogász megmagyarázta, miért kért ügyfele fodrászt a börtönbe.",
+        "category": "Politika",
+        "published_at": 1793817480
+      }
+    ]
+  },
+  {
+    "group_id": "group_fb624d91d7",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Francia külügyminiszter: Nagyon jó hír az amerikai demokrácia számára",
+        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/francia-kulugyminiszter-nagyon-jo-hir-az-amerikai-demokracia-szamara/",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1793812758
       }
     ]
   }

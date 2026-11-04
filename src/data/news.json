@@ -1,21 +1,39 @@
 [
   {
-    "group_id": "group_10cb7f686f",
+    "group_id": "group_f84112eeb5",
     "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7241/72418/724181/72418127_5336683_a103589c13bb9919a6142c867e860b23_wm.jpg",
+    "image": "",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
         "source": "Index - Címlap",
-        "title": "Határérték feletti anyagot mutattak ki az Auchan mákjában, visszahívták a terméket",
-        "link": "https://index.hu/belfold/2026/11/04/auchan-termekvisszahivas-daralt-mak-nebih/"
+        "title": "Megszólalt J.D. Vance, szerinte egyértelmű a vereségük oka",
+        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/jd-vance/"
       }
     ],
-    "published_at": 1793817120,
-    "title_hu": "Határérték feletti anyagot mutattak ki az Auchan mákjában, visszahívták a terméket",
-    "lead_hu": "A Nébih azt kéri, aki ilyen terméket vásárolt, ne fogyassza el....",
-    "content_hu": "A Nébih azt kéri, aki ilyen terméket vásárolt, ne fogyassza el."
+    "published_at": 1793817679,
+    "title_hu": "Megszólalt J.D. Vance, szerinte egyértelmű a vereségük oka",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_017b262dfb",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7184/71844/718441/71844105_5296207_472ee1d554c896ec788cddd5128c2774_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hankó Balázs ügyvédje szerint az ügyészség jogsértése miatt „gúny tárgyává vált” a volt miniszter",
+        "link": "https://index.hu/belfold/2026/11/04/hanko-balazs-nka-botrany-toth-m-gabor/"
+      }
+    ],
+    "published_at": 1793817480,
+    "title_hu": "Hankó Balázs ügyvédje szerint az ügyészség jogsértése miatt „gúny tárgyává vált” a volt miniszter",
+    "lead_hu": "A jogász megmagyarázta, miért kért ügyfele fodrászt a börtönbe....",
+    "content_hu": "A jogász megmagyarázta, miért kért ügyfele fodrászt a börtönbe."
   },
   {
     "group_id": "group_1e088de805",
@@ -130,12 +148,17 @@
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/s/z/e/szekely-janos-puspok-866964.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
         "title": "Ügynökakták: bocsánatot kérnek a katolikus püspökök",
         "link": "https://www.portfolio.hu/gazdasag/20261104/ugynokaktak-bocsanatot-kernek-a-katolikus-puspokok-874334"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Bocsánatot kért a katolikus püspöki konferencia a pártállammal együttműködő egyházi személyek nevében",
+        "link": "https://telex.hu/ugynokaktak/2026/11/04/magyar-katolikus-puspoki-konferencia-bocsanatkeres-ugynokaktak"
       }
     ],
     "published_at": 1793815500,
@@ -927,6 +950,24 @@
     "title_hu": "Idén 100 éve halt meg Houdini – Rajongói minden évben a szellemét várják",
     "lead_hu": "Száz éve halt meg a legendás szabadulóművész, de rajongói máig remélik, hogy egyszer üzen a túlvilágról. Harry Houdini különös ígéretet hagyott hátra.",
     "content_hu": "Száz éve halt meg a legendás szabadulóművész, de rajongói máig remélik, hogy egyszer üzen a túlvilágról. Harry Houdini különös ígéretet hagyott hátra."
+  },
+  {
+    "group_id": "group_fb624d91d7",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Francia külügyminiszter: Nagyon jó hír az amerikai demokrácia számára",
+        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/francia-kulugyminiszter-nagyon-jo-hir-az-amerikai-demokracia-szamara/"
+      }
+    ],
+    "published_at": 1793812758,
+    "title_hu": "Francia külügyminiszter: Nagyon jó hír az amerikai demokrácia számára",
+    "lead_hu": "",
+    "content_hu": ""
   },
   {
     "group_id": "group_afdbf86a25",
@@ -12510,22 +12551,22 @@
     "content_hu": "Az igazi rajongók ritkán tudnak ezekkel megbékélni."
   },
   {
-    "group_id": "group_6ff74e9802",
-    "category": "Tech",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/03/ai_web_scraper_175808_1_original_390x220_cover.jpg",
+    "group_id": "group_10cb7f686f",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72418/724181/72418127_5336683_a103589c13bb9919a6142c867e860b23_wm.jpg",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
-        "source": "PC World",
-        "title": "Egységes jelzéssel tilthatják ki a weboldalak az AI-adatgyűjtő botokat",
-        "link": "https://www.pcwplus.hu/pcwlite/egyseges-jelzessel-tilthatjak-ki-a-weboldalak-az-aiadatgyujto-botokat-390398.html"
+        "source": "Index - Címlap",
+        "title": "Határérték feletti anyagot mutattak ki az Auchan mákjában, visszahívták a terméket",
+        "link": "https://index.hu/belfold/2026/11/04/auchan-termekvisszahivas-daralt-mak-nebih/"
       }
     ],
-    "published_at": 1793731305,
-    "title_hu": "Egységes jelzéssel tilthatják ki a weboldalak az AI-adatgyűjtő botokat",
-    "lead_hu": "Az OpenAI, a Google, a Microsoft és az Anthropic is támogatja az új szabványt, amely egyszerűbbé teheti a tartalmaikat féltő kiadók dolgát.",
-    "content_hu": "Az OpenAI, a Google, a Microsoft és az Anthropic is támogatja az új szabványt, amely egyszerűbbé teheti a tartalmaikat féltő kiadók dolgát."
+    "published_at": 1793817120,
+    "title_hu": "Határérték feletti anyagot mutattak ki az Auchan mákjában, visszahívták a terméket",
+    "lead_hu": "A Nébih azt kéri, aki ilyen terméket vásárolt, ne fogyassza el....",
+    "content_hu": "A Nébih azt kéri, aki ilyen terméket vásárolt, ne fogyassza el."
   },
   {
     "group_id": "group_345e4e1afd",
