@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as ForrasokRouteImport } from './routes/forrasok'
+import { Route as FrissRouteImport } from './routes/friss'
 import { Route as OsszesRouteImport } from './routes/osszes'
 import { Route as RolunkRouteImport } from './routes/rolunk'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
@@ -28,6 +29,11 @@ const IndexRoute = IndexRouteImport.update({
 const ForrasokRoute = ForrasokRouteImport.update({
   id: '/forrasok',
   path: '/forrasok',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const FrissRoute = FrissRouteImport.update({
+  id: '/friss',
+  path: '/friss',
   getParentRoute: () => rootRouteImport,
 } as any)
 const OsszesRoute = OsszesRouteImport.update({
@@ -74,6 +80,7 @@ const ApiPublicNewsRoute = ApiPublicNewsRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/forrasok': typeof ForrasokRoute
+  '/friss': typeof FrissRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
@@ -86,6 +93,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/forrasok': typeof ForrasokRoute
+  '/friss': typeof FrissRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
@@ -99,6 +107,7 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/forrasok': typeof ForrasokRoute
+  '/friss': typeof FrissRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
@@ -113,6 +122,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/forrasok'
+    | '/friss'
     | '/osszes'
     | '/rolunk'
     | '/sitemap.xml'
@@ -125,6 +135,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/forrasok'
+    | '/friss'
     | '/osszes'
     | '/rolunk'
     | '/sitemap.xml'
@@ -137,6 +148,7 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/forrasok'
+    | '/friss'
     | '/osszes'
     | '/rolunk'
     | '/sitemap.xml'
@@ -150,6 +162,7 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   ForrasokRoute: typeof ForrasokRoute
+  FrissRoute: typeof FrissRoute
   OsszesRoute: typeof OsszesRoute
   RolunkRoute: typeof RolunkRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
@@ -174,6 +187,13 @@ declare module '@tanstack/react-router' {
       path: '/forrasok'
       fullPath: '/forrasok'
       preLoaderRoute: typeof ForrasokRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/friss': {
+      id: '/friss'
+      path: '/friss'
+      fullPath: '/friss'
+      preLoaderRoute: typeof FrissRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/osszes': {
@@ -238,6 +258,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   ForrasokRoute: ForrasokRoute,
+  FrissRoute: FrissRoute,
   OsszesRoute: OsszesRoute,
   RolunkRoute: RolunkRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
