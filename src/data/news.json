@@ -1,5 +1,41 @@
 [
   {
+    "group_id": "group_dfa999564e",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72416/724169/72416957_5ced744bb6e9d993f358b6972857123e_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Horváth Éva váratlan vendéget talált a konyhájában, videót is készített róla",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/04/horvath-eva-majom-a-konyhaban-video/"
+      }
+    ],
+    "published_at": 1793823879,
+    "title_hu": "Horváth Éva váratlan vendéget talált a konyhájában, videót is készített róla",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_a8682b2ae9",
+    "category": "Gazdaság",
+    "image": "https://cdn.portfolio.hu/articles/images-lg/f/i/t/fitch-368438.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megszólalt a neves hitelminősítő: veszélyes folyamat indult el Európában, Magyarországot is érinti",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/megszolalt-a-neves-hitelminosito-veszelyes-folyamat-indult-el-europaban-magyarorszagot-is-erinti-874354"
+      }
+    ],
+    "published_at": 1793823780,
+    "title_hu": "Megszólalt a neves hitelminősítő: veszélyes folyamat indult el Európában, Magyarországot is érinti",
+    "lead_hu": "Az állampapírhozamok emelkedése közfinanszírozási stresszt okoz az európai szuverén adósok körében, de alapvető különbségek vannak a mostani helyzet és a korábbi euróövezeti adósságválság között - áll...",
+    "content_hu": "Az állampapírhozamok emelkedése közfinanszírozási stresszt okoz az európai szuverén adósok körében, de alapvető különbségek vannak a mostani helyzet és a korábbi euróövezeti adósságválság között - áll a Fitch Ratings szerdán Londonban bemutatott európai adósságpiaci körképében."
+  },
+  {
     "group_id": "group_633c2d8517",
     "category": "Általános",
     "image": "https://www.youtube.com/embed/hS950Mwau1M",
@@ -691,7 +727,7 @@
     "image": "https://assets.telex.hu/images/20261104/1793818616-temp-7o9hlqrpth9rbnikgcd_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -702,6 +738,11 @@
         "source": "HVG - Itthon",
         "title": "Lezsák Sándor: Nem ügynök voltam, a bíróság előtt fog felelni mindenki, aki ezt az aljas hazugságot terjeszti",
         "link": "https://hvg.hu/itthon/20261104_lezsak-sandor-ugynokaktak-reakcio"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt Lezsák Sándor a nevét tartalmazó mágnesszalagról: Nem ügynök voltam, hanem engem figyeltek meg",
+        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-lezsak-sandor-ugynok-megfigyeles-kommunizmus-magnesszalagok/"
       }
     ],
     "published_at": 1793820476,
@@ -13220,24 +13261,6 @@
     "content_hu": "Jugoslav Nikolic a gyanú szerint ingatlanvásárlásokkal próbált tisztára mosni több százezer eurónyi, bűncselekményből származó pénzt."
   },
   {
-    "group_id": "group_b2ab78bb4c",
-    "category": "Belföld",
-    "image": "https://kep.index.hu/1/0/7240/72409/724091/72409109_5335991_c747acfab9b15f2d157f849bd13b2159_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Belföld",
-        "title": "Egy 14 éves budapesti lány miatt adott ki körözést a rendőrség, külföldre távozhatott",
-        "link": "https://index.hu/belfold/2026/11/03/eltunt-lany-budapest-xi-kerulet-rendorkapitanysag-kulfold-bucsuuzenet/"
-      }
-    ],
-    "published_at": 1793737680,
-    "title_hu": "Egy 14 éves budapesti lány miatt adott ki körözést a rendőrség, külföldre távozhatott",
-    "lead_hu": "Búcsúüzenetet hagyott a szüleinek.",
-    "content_hu": "Búcsúüzenetet hagyott a szüleinek."
-  },
-  {
     "group_id": "group_0917295bf7",
     "category": "Általános",
     "image": "",
@@ -13961,6 +13984,24 @@
     "title_hu": "A pápa megemlékezett Mindszenty bíboros fogságból való szabadulása hetvenedik évfordulójáról",
     "lead_hu": "XIV. Leó pápa a szerdai általános audiencián megemlékezett a hősies prímás, Mindszenty József bíboros fogságból szabadulása hetvenedik évfordulójáról.Az egyházfő a Szent Péter téren mondott beszéde vé…",
     "content_hu": "XIV. Leó pápa a szerdai általános audiencián megemlékezett a hősies prímás, Mindszenty József bíboros fogságból szabadulása hetvenedik évfordulójáról.Az egyházfő a Szent Péter téren mondott beszéde végén különböző nyelveken k..."
+  },
+  {
+    "group_id": "group_8a4eadce92",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Lelkisegélyt hoz létre a Tisza: akkora szart borítottak az országra, aminek csúnya vége lehet",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/lelkisegelyt-hoz-letre-a-tisza-akkora-szart-boritottak-az-orszagra-aminek-csunya-vege-lehet"
+      }
+    ],
+    "published_at": 1793750400,
+    "title_hu": "Lelkisegélyt hoz létre a Tisza: akkora szart borítottak az országra, aminek csúnya vége lehet",
+    "lead_hu": "Dömötör Csaba bejegyzése a Facebookon.Olvasom, hogy Tarr Zo......",
+    "content_hu": "Dömötör Csaba bejegyzése a Facebookon.Olvasom, hogy Tarr Zo..."
   },
   {
     "group_id": "group_ee41a1bfc0",
