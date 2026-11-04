@@ -30,38 +30,15 @@ HEADERS = {
 # ==============================================================================
 def fix_hungarian_names_and_places(text: str) -> str:
     """
-    Könnyű biztonsági védőháló a leggyakoribb félreírt magyar nevek és románul maradt városnevek javítására.
+    Biztonsági védőháló a leggyakoribb félreírt magyar nevek javítására.
     """
     if not text:
         return text
 
     replacements = {
-        # Személynév biztonsági korrekciók
         "Peter Magyar": "Magyar Péter",
         "Péter Magyar": "Magyar Péter",
         "Viktor Orbán": "Orbán Viktor",
-        
-        # Erdélyi magyar városnév biztonsági korrekciók
-        "Cluj-Napoca": "Kolozsvár",
-        "Cluj": "Kolozsvár",
-        "Oradea": "Nagyvárad",
-        "Târgu Mureș": "Marosvásárhely",
-        "Târgu-Mureș": "Marosvásárhely",
-        "Targu Mures": "Marosvásárhely",
-        "Timisoara": "Temesvár",
-        "Timișoara": "Temesvár",
-        "Brașov": "Brassó",
-        "Brasov": "Brassó",
-        "Sibiu": "Nagyszeben",
-        "Satu Mare": "Szatmárnémeti",
-        "Baia Mare": "Nagybánya",
-        "Bistrița": "Beszterce",
-        "Sfântu Gheorghe": "Sepsiszentgyörgy",
-        "Miercurea Ciuc": "Csíkszereda",
-        "Odorheiu Secuiesc": "Székelyudvarhely",
-        "Zalău": "Zilah",
-        "Alba Iulia": "Gyulafehérvár",
-        "Sighișoara": "Segesvár",
     }
     
     fixed_count = 0
@@ -71,7 +48,7 @@ def fix_hungarian_names_and_places(text: str) -> str:
             fixed_count += 1
             
     if fixed_count > 0:
-        print(f"   ✍️ Biztonsági korrekció elvégezve ({fixed_count} automatikus javítás).")
+        print(f"    ✍️ Biztonsági korrekció elvégezve ({fixed_count} automatikus javítás).")
         
     return text
 
@@ -83,7 +60,7 @@ def calculate_similarity(text1: str, text2: str) -> float:
 
 def check_has_new_info_with_ai(existing_summary: str, new_article_text: str) -> bool:
     """
-    2. LÉPÉS: Villám-kérdés az AI-nak.
+    Villám-kérdés az AI-nak.
     - Bemenet: Csak az első 1200 karakter (token-megtakarítás).
     - Kimenet: max_tokens=5 (azonnali leállás IGEN/NEM után).
     """
@@ -101,7 +78,7 @@ Tartalmaz az új cikk BÁRMILYEN ÉRDEMI ÚJ TÉNYT, adatot, fejleményt vagy ú
 Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
 """
     try:
-        print("   🤖 AI ellenőrző hívás indítása (max 5 token)...")
+        print("    🤖 AI ellenőrző hívás indítása (max 5 token)...")
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
@@ -109,7 +86,7 @@ Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
             temperature=0.0
         )
         answer = response.choices[0].message.content.strip().upper()
-        print(f"   🤖 AI válasza az ellenőrzésre: '{answer}'")
+        print(f"    🤖 AI válasza az ellenőrzésre: '{answer}'")
         return "IGEN" in answer
     except Exception as e:
         print(f"⚠️ Hiba az AI döntéshozatal során: {e}")
@@ -137,7 +114,7 @@ def fetch_full_article_text(url: str) -> str:
         paragraphs = soup.find_all("p")
         text_blocks = [p.text.strip() for p in paragraphs if len(p.text.strip()) > 35]
         full_text = "\n\n".join(text_blocks)
-        print(f"   📥 Cikk letöltve ({len(full_text)} karakter) -> {url}")
+        print(f"    📥 Cikk letöltve ({len(full_text)} karakter) -> {url}")
         return full_text
     except Exception as e:
         print(f"⚠️ Nem sikerült a cikk letöltése ({url}): {e}")
@@ -175,7 +152,7 @@ def prepare_prompt_content(articles: list, existing_synthesized_article: dict = 
         scraped_results = list(executor.map(process_single_article, articles))
 
     sources_used = []
-    cover_image = articles[0].get("image", "https://via.placeholder.com/600x400?text=Nincs+Kep")
+    cover_image = articles[0].get("image", "")
 
     for res in scraped_results:
         sources_used.append({
@@ -196,7 +173,7 @@ def prepare_prompt_content(articles: list, existing_synthesized_article: dict = 
             new_sources_text += f"{res['content']}\n"
 
         prompt = f"""
-Te a Hírelemző szerkesztője vagy. Korábban már írtál egy pontokba szedett összefoglalót egy témában, de most ÚJ forrás(ok) érkeztek hozzá.
+Te a magyar hírportál vezető szerkesztője vagy. Korábban már írtál egy pontokba szedett összefoglalót egy témában, de most ÚJ forrás(ok) érkeztek hozzá.
 
 MÁR MEGLÉVŐ ÖSSZEFOGLALÓ (HU):
 Cím: {old_title_hu}
@@ -211,10 +188,10 @@ FELADAT:
 1. Vizsgáld meg az új forrásokat!
 2. HA tartalmaz új tényt, adatsort vagy dátumot, EGÉSZÍTSD KI a meglévő pontokból álló listát újabb gondolatjelekkel (•)!
 3. HA nincs benne új információ, állítsd a "skip" mezőt true-ra!
-4. Írd meg a frissített összefoglalót MAGYAR és ROMÁN nyelven is!
+4. Írd meg a frissített összefoglalót MAGYAR nyelven!
 
-SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
-- A "content_hu" és "content_ro" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
+SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK:
+- A "content_hu" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
 - MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
@@ -223,9 +200,6 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
   "title_hu": "Frissített magyar cím",
   "lead_hu": "Frissített 2-3 mondatos magyar lead",
   "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• **Kulcsszó vagy Szereplő** második magyar pont...",
-  "title_ro": "Titlu actualizat în română",
-  "lead_ro": "Lead de 2-3 propoziții în română",
-  "content_ro": "• **Data sau Afirmația Cheie** primul punct în română...\\n\\n• **Cuvânt cheie** al doilea punct...",
   "used_sources_indices": [1, 2]
 }}
 """
@@ -238,16 +212,16 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
         combined_sources += f"{res['content']}\n"
 
     prompt = f"""
-Te a Hírelemző portál vezető szerkesztője vagy. Az alábbiakban megadok több hírforrásból származó cikket egy témacsoportból.
+Te a hírportál vezető szerkesztője vagy. Az alábbiakban megadok több hírforrásból származó cikket egy témacsoportból.
 
 FELADAT ÉS SZŰRÉS:
 1. Szigorúan vizsgáld meg a megadott források tartalmát!
 2. HA BÁRMELYIK FORRÁS NEM UGYANARRÓL AZ ESEMÉNYRŐL SZÓL, AZT TELJESEN HAGYD KI!
 3. Ha a szűrés után nem marad legalább 2 összetartozó forrás, állítsd a "skip" mezőt true-ra!
-4. Készíts két teljes értékű összefoglalót: egyet MAGYARUL és egyet ROMÁNUL!
+4. Készíts egy teljes értékű összefoglalót MAGYARUL!
 
-SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
-- A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
+SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK:
+- A "content_hu" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
 - MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
@@ -256,9 +230,6 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
   "title_hu": "A tényekre fókuszáló magyar cím",
   "lead_hu": "2-3 mondatos magyar összefoglaló lead",
   "content_hu": "• **Szeptember 30-án** Oroszország tavasz óta a legnagyobb...\\n\\n• A **Tripilszka hőerőmű** is találatot kapott...",
-  "title_ro": "Titlul în română focalizat pe fapte",
-  "lead_ro": "Rezumat de 2-3 propoziții în română",
-  "content_ro": "• Pe **30 septembrie** Rusia a lansat cel mai mare...\\n\\n• Centrala termică **Trypilska** a fost de asemenea lovită...",
   "used_sources_indices": [1, 2]
 }}
 
@@ -273,7 +244,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
     
     print(f"\n{tag} Csoport [{g_id}] feldolgozása indult ({len(articles)} db forrás)...")
     prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
-    category = articles[0].get("category", "Általános")
+    category = articles[0].get("category", "Belföld")
 
     latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
@@ -333,10 +304,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
             "published_at": latest_timestamp,
             "title_hu": fix_hungarian_names_and_places(parsed_article.get("title_hu", "")),
             "lead_hu": fix_hungarian_names_and_places(parsed_article.get("lead_hu", "")),
-            "content_hu": fix_hungarian_names_and_places(parsed_article.get("content_hu", "")),
-            "title_ro": parsed_article.get("title_ro", ""),
-            "lead_ro": parsed_article.get("lead_ro", ""),
-            "content_ro": parsed_article.get("content_ro", "")
+            "content_hu": fix_hungarian_names_and_places(parsed_article.get("content_hu", ""))
         }
         return [synthesized_entry], True, is_update
 
@@ -407,7 +375,7 @@ def run_synthesis_direct():
             lead = (summ[:200] + "…") if len(summ) > 200 else summ
             single_results.append({
                 "group_id": g_id,
-                "category": art.get("category", "Általános"),
+                "category": art.get("category", "Belföld"),
                 "image": art.get("image"),
                 "is_synthesized": False,
                 "sources_count": 1,
@@ -415,10 +383,7 @@ def run_synthesis_direct():
                 "published_at": latest_timestamp,
                 "title_hu": fix_hungarian_names_and_places(art.get("title", "")), 
                 "lead_hu": lead, 
-                "content_hu": summ,
-                "title_ro": art.get("title", ""), 
-                "lead_ro": lead, 
-                "content_ro": summ,
+                "content_hu": summ
             })
             continue
 
@@ -509,7 +474,7 @@ def run_synthesis_direct():
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
-    # 3. MEGŐRZÉS: A KÍRÓDÓ NEWS.JSON-BA 24 ÓRÁNYI HÍR TARTALOM KERÜL!
+    # 3. MEGŐRZÉS: A KIÍRÓDÓ NEWS.JSON-BA 24 ÓRÁNYI HÍR TARTALOM KERÜL!
     fresh_items = [
         item for item in all_final_results.values() 
         if item.get("published_at", 0) >= RETENTION_CUTOFF
