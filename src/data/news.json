@@ -1,5 +1,59 @@
 [
   {
+    "group_id": "group_65c94e953f",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Echo & The Bunnymen: Apples for Isaac",
+        "link": "https://magyarnarancs.hu/visszhang/echo-the-bunnymen-apples-for-isaac-280552"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Echo & The Bunnymen: Apples for Isaac",
+    "lead_hu": "Bár párszor megfordultak a listák magasabb régióiban, az Echo & The Bunnymen inkább ihletadó, ám nem különösebben sikeres együttes volt....",
+    "content_hu": "Bár párszor megfordultak a listák magasabb régióiban, az Echo & The Bunnymen inkább ihletadó, ám nem különösebben sikeres együttes volt."
+  },
+  {
+    "group_id": "group_365371f4ac",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "40 hold",
+        "link": "https://magyarnarancs.hu/visszhang/40-hold-280551"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "40 hold",
+    "lead_hu": "A föld mérgezett, nem terem a dudva sem, az álla­tok kihaltak, légy se zümmög, madár se jár....",
+    "content_hu": "A föld mérgezett, nem terem a dudva sem, az álla­tok kihaltak, légy se zümmög, madár se jár."
+  },
+  {
+    "group_id": "group_552236d11e",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/egplSqKNCmpTSlxpQYXI6viRN5NxUK0XJII4CBiK2T4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIxOTgyMjVlNTY1ZTRhZTFiYjdjNzVmNzE5YTgxYjE0.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "A Facebookon borult ki a vidéki nagyváros polgármestere Magyar Péterékre az ügynökakták miatt: \"Én se értem, erre miért volt szükség, védekezni se tudnak!\"",
+        "link": "https://www.vg.hu/kozelet/2026/11/ugynokaktak-szeged-botka-laszlo-polgarmester-kiakadt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793821866,
+    "title_hu": "A Facebookon borult ki a vidéki nagyváros polgármestere Magyar Péterékre az ügynökakták miatt: \"Én se értem, erre miért volt szükség, védekezni se tudnak!\"",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
     "group_id": "group_b08626e5e3",
     "category": "Általános",
     "image": "https://www.youtube.com/embed/wt5Jx9nO3fA",
@@ -68,12 +122,17 @@
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/v2crEs4wnusQm5PyZD3oa9ImNz3j8JEmFnEWPlZTaew/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyNjlmNGE4ZDQ0ZTRlMTZhMjcyNzE4NTljNjQ5MmJi.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Magyar Nemzet",
         "title": "A veszélyes Szoboszlai lökése után is gólt kapott a Liverpool, amely kikapott Törökországban",
         "link": "https://magyarnemzet.hu/sport/2026/11/szoboszlai-dominik-liverpool-fenerbahce-bl-kerkez-torok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kétszer is vezetett, mégis kikapott Törökországban a Liverpool",
+        "link": "https://24.hu/sport/foci/2026/11/04/bajnokok-ligaja-fenerbahce-liverpool-aek-athen-real-madrid/"
       }
     ],
     "published_at": 1793821162,
@@ -1420,7 +1479,7 @@
     "image": "https://assets.telex.hu/images/20261104/1793810755-temp-p97lljfccps93jjmhjg_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -1431,6 +1490,11 @@
         "source": "444.hu",
         "title": "Rágcsálószenyezettség miatt részlegesen felfüggesztették a Semmelweis Egyetem étkeztetéséért felelős cég konyháját",
         "link": "https://444.hu/2026/11/04/ragcsaloszenyezettseg-miatt-reszlegesen-felfuggesztettek-a-semmelweis-egyetem-etkezteteseert-felelos-ceg-konyhajat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Rágcsálószennyezettség miatt zártak le helyiségeket a Semmelweis Egyetem főzőkonyháján",
+        "link": "https://index.hu/belfold/2026/11/04/semmelweis-egyetem-fozokonyha-ragcsalo-szennyezettseg-lezarasok/"
       }
     ],
     "published_at": 1793814166,
@@ -12912,22 +12976,261 @@
     "content_hu": "Komoly dilemmában találta magát egy családos férfi."
   },
   {
-    "group_id": "group_962897e699",
-    "category": "Külföld",
-    "image": "https://kep.index.hu/1/0/7240/72408/724085/72408543_5335953_48308481f0f9dc4616a04a79cb6396c0_wm.jpg",
+    "group_id": "group_4f71f7fb26",
+    "category": "Általános",
+    "image": "",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
-        "source": "Index - Külföld",
-        "title": "Teljesen felkavarta az alkotmányos válság Lengyelországot, forrnak az indulatok",
-        "link": "https://index.hu/kulfold/2026/11/03/lengyelorszag-varso-donald-tusk-karol-nawrocki-alkotmanybirosag/"
+        "source": "Magyar Narancs",
+        "title": "4-6",
+        "link": "https://magyarnarancs.hu/visszhang/4-6-280550"
       }
     ],
-    "published_at": 1793735820,
-    "title_hu": "Teljesen felkavarta az alkotmányos válság Lengyelországot, forrnak az indulatok",
-    "lead_hu": "A mélyben forrongva érezteti hatását, és éppen ezért olyan különleges.",
-    "content_hu": "A mélyben forrongva érezteti hatását, és éppen ezért olyan különleges."
+    "published_at": 1793822100,
+    "title_hu": "4-6",
+    "lead_hu": "Ifj. Vidnyánszky Attila leg­újabb rendezése az előző, hasonló koncepció mentén készült @LL3t4rgIA-hoz hasonlít....",
+    "content_hu": "Ifj. Vidnyánszky Attila leg­újabb rendezése az előző, hasonló koncepció mentén készült @LL3t4rgIA-hoz hasonlít."
+  },
+  {
+    "group_id": "group_bb0514e817",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Marcel Pagnol csodálatos élete",
+        "link": "https://magyarnarancs.hu/visszhang/marcel-pagnol-csodalatos-elete-280549"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Marcel Pagnol csodálatos élete",
+    "lead_hu": "Sylvain Chomet a kortárs rajzfilm kétségtelen hérosza, a kerékpársport szerelmesei biztosan tudják, legalább a Belleville randevú óta....",
+    "content_hu": "Sylvain Chomet a kortárs rajzfilm kétségtelen hérosza, a kerékpársport szerelmesei biztosan tudják, legalább a Belleville randevú óta."
+  },
+  {
+    "group_id": "group_e5785a4513",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Todd Snider: My Second Rodeo",
+        "link": "https://magyarnarancs.hu/visszhang/todd-snider-my-second-rodeo-280548"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Todd Snider: My Second Rodeo",
+    "lead_hu": "„Nem ma kezdtem” – mondja egy magyar. „Nem ez az első rodeóm” – mondja egy amerikai....",
+    "content_hu": "„Nem ma kezdtem” – mondja egy magyar. „Nem ez az első rodeóm” – mondja egy amerikai."
+  },
+  {
+    "group_id": "group_cb9d504f04",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Réti Anna: Back to Basic",
+        "link": "https://magyarnarancs.hu/visszhang/reti-anna-back-to-basic-280547"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Réti Anna: Back to Basic",
+    "lead_hu": "A táncos-koreográfus új performance-a az idő múlásáról és az alkotói megmutatkozás természetes vágyáról szól, nagyon személyes hangon....",
+    "content_hu": "A táncos-koreográfus új performance-a az idő múlásáról és az alkotói megmutatkozás természetes vágyáról szól, nagyon személyes hangon."
+  },
+  {
+    "group_id": "group_54aeb626ef",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Knud Romer: Lány a hegedűben",
+        "link": "https://magyarnarancs.hu/visszhang/knud-romer-lany-a-hegeduben-280546"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Knud Romer: Lány a hegedűben",
+    "lead_hu": "Vajon mennyit kell feláldozni azért, hogy valaki kivételes művésszé váljon?...",
+    "content_hu": "Vajon mennyit kell feláldozni azért, hogy valaki kivételes művésszé váljon?"
+  },
+  {
+    "group_id": "group_2840b19ba8",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Nocturne",
+        "link": "https://magyarnarancs.hu/visszhang/nocturne-280545"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Nocturne",
+    "lead_hu": "Rowan Joffé sorozata minden szempontból hozza azokat a tulajdonságokat, amelyeket A bárányok hallgatnak és a skandináv noirok ötvözetétől várnánk....",
+    "content_hu": "Rowan Joffé sorozata minden szempontból hozza azokat a tulajdonságokat, amelyeket A bárányok hallgatnak és a skandináv noirok ötvözetétől várnánk."
+  },
+  {
+    "group_id": "group_637d10dc73",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Szüret 2026/45.",
+        "link": "https://magyarnarancs.hu/interaktiv/szuret-202645-280558"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Szüret 2026/45.",
+    "lead_hu": "Mókás és dühítő gyűjtemény a heti sajtóból. Többnyire az utóbbi....",
+    "content_hu": "Mókás és dühítő gyűjtemény a heti sajtóból. Többnyire az utóbbi."
+  },
+  {
+    "group_id": "group_69caac149a",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Snoblesse Oblige 2026/45.",
+        "link": "https://magyarnarancs.hu/interaktiv/snoblesse-oblige-202645-280553"
+      },
+      {
+        "source": "Magyar Narancs",
+        "title": "Snoblesse Oblige 2026. tél",
+        "link": "https://magyarnarancs.hu/zene2/snoblesse-oblige-2026-tel-280542"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Snoblesse Oblige 2026/45.",
+    "lead_hu": "Heti kulturális programajánló...",
+    "content_hu": "Heti kulturális programajánló"
+  },
+  {
+    "group_id": "group_56c0a5675d",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Egy hét tudomány 2026/45.",
+        "link": "https://magyarnarancs.hu/interaktiv/egy-het-tudomany-202645-280527"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Egy hét tudomány 2026/45.",
+    "lead_hu": "Rövid hírek: csillag, meteorit, galaxis......",
+    "content_hu": "Rövid hírek: csillag, meteorit, galaxis..."
+  },
+  {
+    "group_id": "group_cec4def021",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Egy hét kultúra 2026/45.",
+        "link": "https://magyarnarancs.hu/interaktiv/egy-het-kultura-202645-280526"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Egy hét kultúra 2026/45.",
+    "lead_hu": "Rövid hírek: kultúra itthon, külföldön és másutt...",
+    "content_hu": "Rövid hírek: kultúra itthon, külföldön és másutt"
+  },
+  {
+    "group_id": "group_9f9bea4ea5",
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Mintha táncolnának!",
+        "link": "https://magyarnarancs.hu/film2/mintha-tancolnanak-280556"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Mintha táncolnának!",
+    "lead_hu": "Film, film, film!...",
+    "content_hu": "Film, film, film!"
+  },
+  {
+    "group_id": "group_fdc63cdca5",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Az erdőt járjuk”",
+        "link": "https://magyarnarancs.hu/konyv/az-erdot-jarjuk-280554"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "„Az erdőt járjuk”",
+    "lead_hu": "Rubin Eszter író, gasztronómus...",
+    "content_hu": "Rubin Eszter író, gasztronómus"
+  },
+  {
+    "group_id": "group_7153d639e9",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Itt van a sütőtökszezon!",
+        "link": "https://magyarnarancs.hu/gasztro/itt-van-a-sutotokszezon-280557"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Itt van a sütőtökszezon!",
+    "lead_hu": "Sütőtökös gersli rizottó barnavajas, zsályás gesztenyével...",
+    "content_hu": "Sütőtökös gersli rizottó barnavajas, zsályás gesztenyével"
+  },
+  {
+    "group_id": "group_39579ef3a4",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Ikarus PALT – II. rész",
+        "link": "https://magyarnarancs.hu/lokal/ikarus-palt-ii-resz-280555"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Ikarus PALT – II. rész",
+    "lead_hu": "A majd’ 15 méter hosszú, több mint 4 méter magas és 2,86 méter széles busszal „bárhonnan bárhová” egészen biztosan nem lehetett volna eljutni, sőt a megengedettnél szélesebb tengelytávja miatt a közút...",
+    "content_hu": "A majd’ 15 méter hosszú, több mint 4 méter magas és 2,86 méter széles busszal „bárhonnan bárhová” egészen biztosan nem lehetett volna eljutni, sőt a megengedettnél szélesebb tengelytávja miatt a közúton eleve csak külön engedéllyel közlekedhetett."
   },
   {
     "group_id": "group_345e4e1afd",
