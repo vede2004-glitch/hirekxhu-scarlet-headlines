@@ -1,5 +1,23 @@
 [
   {
+    "group_id": "group_e9c28fa7c0",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/Ohv0QzAbHdHuVa2kRBmaqY2OCo1wWEurH6ttfbOoHUk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NiYTFiYmM2NWExMjQ4OWI5OTkzM2E4OTdjMjI1NjRm.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Feledynek mennie kellett, Tanács Zoltán maradhat? Újabb kérdések a Tisza-kormánynak",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-tanacs-zoltan-bus-balazs"
+      }
+    ],
+    "published_at": 1793815729,
+    "title_hu": "Feledynek mennie kellett, Tanács Zoltán maradhat? Újabb kérdések a Tisza-kormánynak",
+    "lead_hu": "Három ügy, három kérdés a politikai felelősségről....",
+    "content_hu": "Három ügy, három kérdés a politikai felelősségről."
+  },
+  {
     "group_id": "group_d59684dd5a",
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/s/z/e/szekely-janos-puspok-866964.jpg",
@@ -16,6 +34,24 @@
     "title_hu": "Ügynökakták: bocsánatot kérnek a katolikus püspökök",
     "lead_hu": "A Magyar Katolikus Püspöki Konferencia a szerdán nyilvánosságra hozott ügynökakták kapcsán bocsánatot kért az áldozatoktól mindazon egyházi személyek nevében, akik a kommunizmus idején valóban együttm...",
     "content_hu": "A Magyar Katolikus Püspöki Konferencia a szerdán nyilvánosságra hozott ügynökakták kapcsán bocsánatot kért az áldozatoktól mindazon egyházi személyek nevében, akik a kommunizmus idején valóban együttműködtek a pártállammal. A testület ugyanakkor óva int az elhamarkodott ítélkezéstől, és hangsúlyozza, hogy az igazi felelősök a diktatúra működtetői voltak, a dokumentumokban szereplő nevek mögött pedig nagyon eltérő, gyakran zsarolással terhelt egyéni sorsok húzódnak meg."
+  },
+  {
+    "group_id": "group_722dc1ef9b",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/fortepan_314139-masolat-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Fehér Renátó: A Magyar Kivándorlás Múzeuma – mit mond november 4-e arról, hogy kik vagyunk mi, magyarok?",
+        "link": "https://24.hu/belfold/2026/11/04/november-4-menekultek-56/"
+      }
+    ],
+    "published_at": 1793815489,
+    "title_hu": "Fehér Renátó: A Magyar Kivándorlás Múzeuma – mit mond november 4-e arról, hogy kik vagyunk mi, magyarok?",
+    "lead_hu": "November 4-én, Nagy Imre utolsó rádióüzenetével egyidőben, újra úticél lett a magyar történelem egyik régi kijárata: a határ. The post Fehér Renátó: A Magyar Kivándorlás Múzeuma – mit mond november 4-...",
+    "content_hu": "November 4-én, Nagy Imre utolsó rádióüzenetével egyidőben, újra úticél lett a magyar történelem egyik régi kijárata: a határ. The post Fehér Renátó: A Magyar Kivándorlás Múzeuma – mit mond november 4-e arról, hogy kik vagyunk mi, magyarok? first appeared on 24.hu."
   },
   {
     "group_id": "group_52d36dfcbc",
@@ -382,12 +418,17 @@
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/patyi_central-1145121052-e1793796561865-1024x577.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
         "title": "Semmiképpen sem hagyható figyelmen kívül – reagált az Alkotmánybíróság Patyi András beszervezésére",
         "link": "https://24.hu/belfold/2026/11/04/patyi-andras-alkotmanybirosag-reakcio/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Az Alkotmánybíróság szerint „semmiképpen sem hagyható figyelmen kívül” Patyi András ügynökmúltja",
+        "link": "https://hvg.hu/itthon/20261104_patyi-andras-alkotmanybirosag-ugynokaktak-reakcio"
       }
     ],
     "published_at": 1793814181,
@@ -6610,7 +6651,7 @@
     "image": "https://kep.index.hu/1/0/5605/56058/560581/56058141_4144759_b202671b1b2ef3f96c71d6a5ab5ca806_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Index - Belföld",
@@ -6626,6 +6667,11 @@
         "source": "ATV",
         "title": "„Érdemes lesz vigyázni” – Volt kollégáinak üzent az Operaházból kirúgott Ókovács Szilveszter",
         "link": "https://www.atv.hu/belfold/20261104/okovacs-szilveszter-uzenet-operahaz/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ókovács Szilveszter elárulta, mihez kezd, miután eltávolították az Operaház éléről – exluzív interjú",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/okovacs-szilveszter-operahaz-interju?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1793791183,
@@ -12396,24 +12442,6 @@
     "title_hu": "Magyar Péter: Vagyonosodási vizsgálat indulhat a volt és jelenlegi kormánytagok ellen",
     "lead_hu": "A parlament kedden 145 igen, 48 nem szavazattal elfogadta a törvényt.",
     "content_hu": "A parlament kedden 145 igen, 48 nem szavazattal elfogadta a törvényt."
-  },
-  {
-    "group_id": "group_338a459ed8",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/o/r/o/oroszorszag-kibetamadas-hacker-haboru-655325.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Orosz szál a háttérben: tömeges kibertámadás érte a nyugati hűtőrendszereket",
-        "link": "https://www.portfolio.hu/gazdasag/20261103/orosz-szal-a-hatterben-tomeges-kibertamadas-erte-a-nyugati-hutorendszereket-874028"
-      }
-    ],
-    "published_at": 1793729340,
-    "title_hu": "Orosz szál a háttérben: tömeges kibertámadás érte a nyugati hűtőrendszereket",
-    "lead_hu": "Kibertámadás érte az egyesült királyságbeli élelmiszer-beszállítókat, miután hackerek Európa-szerte szándékosan megemelték a szupermarketek hűtőberendezéseinek hőmérsékletét. A brit Nemzeti Kiberbizto…",
-    "content_hu": "Kibertámadás érte az egyesült királyságbeli élelmiszer-beszállítókat, miután hackerek Európa-szerte szándékosan megemelték a szupermarketek hűtőberendezéseinek hőmérsékletét. A brit Nemzeti Kiberbiztonsági Központ (NCSC) már együttműködik az érintett vállalatokkal. Bár az országos szintű károk egyelőre minimálisak, a kiberbiztonsági szakértők szerint a támadások nyomai orosz kötődésű csoportokra utalnak - közölte a The Guardian."
   },
   {
     "group_id": "group_e0e8f297a4",
