@@ -9,11 +9,15 @@ export const Route = createFileRoute("/forrasok")({
 });
 
 const SOURCES: [string, string, string][] = [
-  ["Maszol", "https://maszol.ro", "HU"], ["Transtelex", "https://transtelex.ro", "HU"], ["Krónika", "https://kronikaonline.ro", "HU"],
-  ["Hargita Népe", "https://hargitanepe.ro", "HU"], ["Szatmári Friss", "https://szatmarifriss.ro", "HU"], ["Manna", "https://manna.ro", "HU"],
-  ["Kolozsvári Rádió", "https://radiocluj.ro", "HU"], ["Romkat", "https://romkat.ro", "HU"], ["MTI", "https://mti.hu", "HU"],
-  ["Digi24", "https://digi24.ro", "RO"], ["Agerpres", "https://agerpres.ro", "RO"], ["GSP", "https://gsp.ro", "RO"],
-  ["HotNews", "https://hotnews.ro", "RO"], ["Mediafax", "https://mediafax.ro", "RO"], ["Libertatea", "https://libertatea.ro", "RO"],
+  ["Index", "https://index.hu", "Hírek"], ["Telex", "https://telex.hu", "Hírek"], ["24.hu", "https://24.hu", "Hírek"],
+  ["HVG", "https://hvg.hu", "Hírek"], ["444", "https://444.hu", "Hírek"], ["Híradó.hu (MTI)", "https://hirado.hu", "Hírek"],
+  ["Magyar Nemzet", "https://magyarnemzet.hu", "Hírek"], ["Mandiner", "https://mandiner.hu", "Hírek"], ["ATV", "https://www.atv.hu", "Hírek"],
+  ["Magyar Narancs", "https://magyarnarancs.hu", "Hírek"], ["Szeretlek Magyarország", "https://www.szeretlekmagyarorszag.hu", "Hírek"],
+  ["Vadhajtások", "https://www.vadhajtasok.hu", "Hírek"], ["Magyar Jelen", "https://magyarjelen.hu", "Hírek"], ["Konfront", "https://konfront.hu", "Hírek"],
+  ["Origo", "https://www.origo.hu", "Hírek"], ["Portfolio", "https://www.portfolio.hu", "Gazdaság"], ["Világgazdaság", "https://www.vg.hu", "Gazdaság"],
+  ["Nemzeti Sport", "https://www.nemzetisport.hu", "Sport"], ["M4 Sport", "https://m4sport.hu", "Sport"],
+  ["HWSW", "https://www.hwsw.hu", "Tech"], ["Prohardver", "https://prohardver.hu", "Tech"], ["Rakéta.hu", "https://raketa.hu", "Tech"], ["PC World", "https://pcworld.hu", "Tech"],
+  ["Blikk", "https://www.blikk.hu", "Bulvár"], ["Femina", "https://femina.hu", "Életmód"], ["Nők Lapja Café", "https://nlc.hu", "Életmód"],
 ];
 
 function Sources() {
