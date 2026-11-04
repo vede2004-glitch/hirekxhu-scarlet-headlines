@@ -19,34 +19,29 @@ from sentence_transformers import SentenceTransformer
 # ==============================================================================
 RSS_FEEDS = {
     # --- BELFÖLD & POLITIKA ---
-    "Index - Belföld": "https://index.hu/belfold/rss/",
+    "Index - Belföld": "https://index.hu/belfold/24ora/rss/",
     "Telex - Belföld": "https://telex.hu/rss",
     "24.hu - Belföld": "https://24.hu/belfold/feed/",
     "HVG - Itthon": "https://hvg.hu/rss/itthon",
     "444.hu": "https://444.hu/feed",
-    "Híradó.hu (MTI)": "https://hirado.hu/feed/",
+    "Híradó.hu (MTI)": "https://hirado.hu/feed",
     "Magyar Nemzet": "https://magyarnemzet.hu/feed",
-    "Népszava": "https://nepszava.hu/feed",
-    "Mandiner": "https://mandiner.hu/feed",
+    "Mandiner": "https://mandiner.hu/rss",
     "ATV": "https://www.atv.hu/rss",
     "Magyar Narancs": "https://magyarnarancs.hu/rss",
-    "Szeretlek Magyarország": "https://www.szeretlekmagyarorszag.hu/feed/",
-    
-    # Új vélemény & politikai források:
+    "Szeretlek Magyarország": "https://www.szeretlekmagyarorszag.hu/feed",
     "Vadhajtások": "https://www.vadhajtasok.hu/feed",
     "Magyar Jelen": "https://magyarjelen.hu/feed/",
-    "Konfront": "https://konfront.hu/feed/",
-    "Revans": "https://revans.hu/feed/",
+    "Konfront": "https://konfront.hu/feed",
 
-    # --- ORIGO (CÍMLAP ÉS ROVATOK) ---
-    "Origo - Címlap": "https://www.origo.hu/contentheaders/rss/rss.xml",
-    "Origo - Itthon": "https://www.origo.hu/itthon/rss/rss.xml",
-    "Origo - Nagyvilág": "https://www.origo.hu/nagyvilag/rss/rss.xml",
-    "Origo - Gazdaság": "https://www.origo.hu/gazdasag/rss/rss.xml",
-    "Origo - Sport": "https://www.origo.hu/sport/rss/rss.xml",
+    # --- ORIGO (HIVATALOS MŰKÖDŐ FEEDEKEK) ---
+    "Origo - Címlap": "https://www.origo.hu/rss",
+    "Origo - Itthon": "https://www.origo.hu/itthon/rss",
+    "Origo - Nagyvilág": "https://www.origo.hu/nagyvilag/rss",
+    "Origo - Gazdaság": "https://www.origo.hu/gazdasag/rss",
 
     # --- KÜLFÖLD ---
-    "Index - Külföld": "https://index.hu/kulfold/rss/",
+    "Index - Külföld": "https://index.hu/kulfold/24ora/rss/",
     "24.hu - Külföld": "https://24.hu/kulfold/feed/",
     "HVG - Világ": "https://hvg.hu/rss/vilag",
 
@@ -54,15 +49,13 @@ RSS_FEEDS = {
     "Portfolio - Gazdaság": "https://www.portfolio.hu/rss/gazdasag.xml",
     "Portfolio - Befektetés": "https://www.portfolio.hu/rss/befektetes.xml",
     "HVG - Gazdaság": "https://hvg.hu/rss/gazdasag",
-    "Economx (Napi.hu)": "https://www.economx.hu/rss",
     "Világgazdaság": "https://www.vg.hu/feed",
 
     # --- SPORT ---
-    "Nemzeti Sport": "https://www.nemzetisport.hu/rss",
-    "M4 Sport": "https://m4sport.hu/feed/",
-    "Index - Sport": "https://index.hu/sport/rss/",
+    "Nemzeti Sport": "https://m.nemzetisport.hu/rss",
+    "M4 Sport": "https://m4sport.hu/feed",
+    "Index - Sport": "https://index.hu/sport/24ora/rss/",
     "24.hu - Sport": "https://24.hu/sport/feed/",
-    "Csakfoci": "https://www.csakfoci.hu/feed",
 
     # --- TECH & TUDOMÁNY ---
     "HWSW": "https://www.hwsw.hu/xml/latest_news_rss.xml",
@@ -74,14 +67,11 @@ RSS_FEEDS = {
 
     # --- KULTÚRA, BULVÁR & ÉLETMÓD ---
     "Blikk": "https://www.blikk.hu/rss",
-    "BorsOnline": "https://www.borsonline.hu/feed",
-    "Velvet": "https://velvet.hu/rss/",
     "Femina": "https://femina.hu/24ora/rss/",
     "NLC (Nők Lapja Café)": "https://nlc.hu/feed/",
     "24.hu - Élet-Stílus": "https://24.hu/elet-stilus/feed/"
 }
 
-# ÚJ, MAGYAROSÍTOTT FÁJLNEVEK
 MEMORY_FILE = "hirek_memoria.json"
 GROUPED_FILE = "hirek_csoportositott.json"
 ARCHIVE_FILE = "hirek_archivum.json"
@@ -91,8 +81,9 @@ SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
 SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "hu-HU,hu;q=0.9,en-US;q=0.8,en;q=0.7"
 }
 
 CATEGORIES = {
@@ -171,21 +162,19 @@ def clean_text(text):
 def classify_article(title, summary, source_name):
     text = f"{title} {summary}".lower()
 
-    # Forrás alapú egyértelmű kategória besorolás
-    if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport", "Csakfoci"]:
+    if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport"]:
         return "Sport"
-    if "Gazdaság" in source_name or source_name in ["Portfolio - Gazdaság", "Portfolio - Befektetés", "Economx (Napi.hu)", "Világgazdaság"]:
+    if "Gazdaság" in source_name or source_name in ["Portfolio - Gazdaság", "Portfolio - Befektetés", "Világgazdaság"]:
         return "Gazdaság"
     if "Tech" in source_name or source_name in ["HWSW", "Prohardver", "Rakéta.hu", "PC World"]:
         return "Tech"
-    if source_name in ["Blikk", "BorsOnline", "Velvet", "Femina", "NLC (Nők Lapja Café)"]:
+    if source_name in ["Blikk", "Femina", "NLC (Nők Lapja Café)"]:
         return "Bulvár"
     if "Külföld" in source_name or "Világ" in source_name:
         return "Külföld"
     if "Belföld" in source_name or "Itthon" in source_name:
         return "Belföld"
 
-    # Kulcsszó alapú szűrés
     for category, keywords in CATEGORIES.items():
         for kw in keywords:
             if re.search(r'\b' + re.escape(kw) + r'\b', text):
@@ -264,7 +253,7 @@ def fetch_single_feed(item_and_cutoff):
     session = requests.Session()
     session.headers.update(HEADERS)
     try:
-        response = session.get(feed_url, timeout=12, allow_redirects=True)
+        response = session.get(feed_url, timeout=15, allow_redirects=True)
         response.raise_for_status()
         feed = feedparser.parse(response.content)
         for entry in feed.entries:
@@ -392,7 +381,7 @@ def run_pipeline():
     save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
 
     # ==============================================================================
-    # NEWS.JSON FRISSÍTÉS (MAGYAR NYELVRE TISZTÍTVA)
+    # NEWS.JSON FRISSÍTÉS
     # ==============================================================================
     os.makedirs("src/data", exist_ok=True)
     existing_news = load_json_file(OUTPUT_FILE)
@@ -403,7 +392,6 @@ def run_pipeline():
         g_id = item.get("group_id")
         pub_time = int(item.get("fetched_at", 0))
 
-        # A) HA MÁR BENT VAN A NEWS.JSON-BAN (pl. már AI szintetizált):
         if g_id in news_map:
             existing_sources = {s.get("link") for s in news_map[g_id].get("sources", [])}
             new_source_link = item.get("link")
@@ -417,7 +405,6 @@ def run_pipeline():
             
             news_map[g_id]["sources_count"] = len(news_map[g_id]["sources"])
         
-        # B) HA ÚJ HÍRCSOPORT, HOZZÁADJUK NYERSKÉNT:
         else:
             sources_list = [{
                 "source": item.get("source"),
@@ -437,7 +424,6 @@ def run_pipeline():
                 "content_hu": item.get("summary", "")
             }
 
-    # 24 órán belüli érvényes cikkek megtartása és rendezése
     updated_list = list(news_map.values())
     valid_news_list = [item for item in updated_list if item.get("published_at", 0) >= cutoff_24h]
 
@@ -447,7 +433,6 @@ def run_pipeline():
 
     valid_news_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
 
-    # Forrás szerinti kiegyensúlyozás
     balanced_list = []
     skipped_items = []
 
