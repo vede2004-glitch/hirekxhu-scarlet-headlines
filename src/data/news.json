@@ -1,5 +1,77 @@
 [
   {
+    "group_id": "group_f7c711c12d",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/kRBv0GRFhUV1Oe43u6EVElu2z2u1ClAQvmwj3z3awvU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RmZTg2NDE3NGRkZDRjZjlhY2FlMGQ5ZDg1ZTFhYTI2.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "„A hűség és a szerelem a világ két legszebb érzése” – új János vitézre készül a Fitos Dezső Társulat",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/fitos-dezso-tarsulat-janos-vitez?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793804400,
+    "title_hu": "„A hűség és a szerelem a világ két legszebb érzése” – új János vitézre készül a Fitos Dezső Társulat",
+    "lead_hu": "Az alkotópáros közös munkáját ma is ugyanaz a szenvedély és lendület jellemzi, amely már táncosként is összekötötte őket....",
+    "content_hu": "Az alkotópáros közös munkáját ma is ugyanaz a szenvedély és lendület jellemzi, amely már táncosként is összekötötte őket."
+  },
+  {
+    "group_id": "group_29477cb348",
+    "category": "Általános",
+    "image": "https://cdn.borsonline.hu/2026/11/Ljlp1GIKUM-3VctW4i_vEy06Lxdy2y0iXTECw7nTTqs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY4NjJlNmUzZjVjYzRmN2Q4ZmEzY2EwMzliZGU4MTdj.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Sipos Péter: „Örülök, hogy a gyerekeim is zenélnek”",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/sipos-peter-gyerekei-dj-fia-csalad"
+      }
+    ],
+    "published_at": 1793804400,
+    "title_hu": "Sipos Péter: „Örülök, hogy a gyerekeim is zenélnek”",
+    "lead_hu": "Sipos Péter fia DJ-ként dolgozik....",
+    "content_hu": "Sipos Péter fia DJ-ként dolgozik."
+  },
+  {
+    "group_id": "group_b7da01159d",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72412/724124/72412463_30a29aed899e3fccc47a638d2588ec50_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Lola egy hét alatt két ruhaméretet fogyott Az Árulókban",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/04/lola-fogyas-ket-meret-az-arulok/"
+      }
+    ],
+    "published_at": 1793804386,
+    "title_hu": "Lola egy hét alatt két ruhaméretet fogyott Az Árulókban",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_593b85309c",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7241/72414/724144/72414441_5336423_2612aca2378e967b4b92f1d9e3273ffc_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Az első titkosszolgálati miniszter szerint a teljes nyilvánosság önmagában nem jelent igazságtételt",
+        "link": "https://index.hu/belfold/2026/11/04/boros-peter-ugynokaktak-nyilvanossag-beszervezes-onkentesseg-zsarolas/"
+      }
+    ],
+    "published_at": 1793804160,
+    "title_hu": "Az első titkosszolgálati miniszter szerint a teljes nyilvánosság önmagában nem jelent igazságtételt",
+    "lead_hu": "A válogatás nélküli leleplezések több kárt okozhatnak, mint amennyi társadalmi haszonnal járnak....",
+    "content_hu": "A válogatás nélküli leleplezések több kárt okozhatnak, mint amennyi társadalmi haszonnal járnak."
+  },
+  {
     "group_id": "group_7e6f06720b",
     "category": "Kultúra",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4d957e27-4e71-4357-bc13-b13fa66f3aed.jpg",
@@ -76,12 +148,17 @@
     "category": "Általános",
     "image": "",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ATV",
         "title": "„Megpróbáltak rávenni valamire” – a Karthago zenekar vezetője is megszólalt az ügynökakták kapcsán",
         "link": "https://www.atv.hu/belfold/20261104/ugynokaktak-karthago-zenekar-szigeti/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Szigeti Ferenc: Megpróbáltak rávenni valamire, de nem sikerült, és soha nem szerveztek be",
+        "link": "https://telex.hu/ugynokaktak/2026/11/04/szigeti-ferenc-karthago-6-os-karton-1"
       }
     ],
     "published_at": 1793803500,
@@ -4557,7 +4634,7 @@
     "image": "https://assets.telex.hu/images/20261104/1793786720-temp-t2jtfk65fiha4nhklme_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -4568,6 +4645,11 @@
         "source": "Világgazdaság",
         "title": "Ennyit a Tisza által emlegetett rendszerváltásról? Kemény ítélet jött a Bankszövetségtől",
         "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/bankszovetseg-kulonado-koltsegvetes-teher-erste?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Továbbra is várnak a rendszerváltásra a bankszektorban",
+        "link": "https://index.hu/gazdasag/2026/11/04/bank-bankszektor-penzugyi-eredmeny-hitel-hitelpiac-jelzaloghitel-vallalati-hitel-szemelyi-kolcson-extraprofitado-erste/"
       }
     ],
     "published_at": 1793788840,
@@ -9430,12 +9512,17 @@
     "category": "Külföld",
     "image": "https://kep.index.hu/1/0/7240/72408/724080/72408087_5335923_fb1922135edb7c021b776257d4c1936e_wm.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Index - Külföld",
         "title": "Összecsaptak a lengyel vezetők, pattanásig feszült a helyzet az országban",
         "link": "https://index.hu/kulfold/2026/11/03/lengyelorszag-alkotmanybirosag-karol-nawrocki-donald-tusk/"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Lengyelország a politikai szakadék szélén? Tusk és Nawrocki között kiéleződött a konfliktus",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/lengyelorszag-a-politikai-szakadek-szelen-tusk-es-nawrocki-kozott-kielezodott-a-konfliktus"
       }
     ],
     "published_at": 1793734620,
@@ -10812,42 +10899,6 @@
     "title_hu": "Boncasztalra került az iPhone Duo",
     "lead_hu": "A legkönnyebben javítható összehajtható telefon – így lehetne összefoglalni az iFixit szokásos szétszereléses vizsgálatának előzetes eredményét az iPhone Duót illetően. Az ottani fiúk-lányok most sem …",
     "content_hu": "A legkönnyebben javítható összehajtható telefon – így lehetne összefoglalni az iFixit szokásos szétszereléses vizsgálatának előzetes eredményét az iPhone Duót illetően. Az ottani fiúk-lányok most sem tétlenkedtek: a telefont egészen a fogaskerekekig lebontották, port juttattak a zsanérjába, és még áramnak is kitették az eszközt."
-  },
-  {
-    "group_id": "group_8e08a81058",
-    "category": "Általános",
-    "image": "https://cdn.borsonline.hu/2026/10/TxEi0LZsPS1M0QvO3SJWjnz-ZFaR4zIcNMi3NL1tmIg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc4NGI3YzFhNWIxYjRhMjRiNmQyYzM5MzY1Zjg5Y2Ji.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Vegyük vissza az irányítást a teendőink felett: az időnyerő Pomodoro-technika",
-        "link": "https://borsonline.origo.hu/test-es-lelek/2026/11/pomodoro-technika-alkalmazasa-idogazdalkodas"
-      }
-    ],
-    "published_at": 1793718000,
-    "title_hu": "Vegyük vissza az irányítást a teendőink felett: az időnyerő Pomodoro-technika",
-    "lead_hu": "Ott tornyosulnak felettünk a feladatok, de valahogy mégsem sikerül velük haladunk. Miért? Mert minden azon van, hogy elvonja a figyelmünket. Ilyenkor sokat segíthet, ha nem az egész feladatra tekintün…",
-    "content_hu": "Ott tornyosulnak felettünk a feladatok, de valahogy mégsem sikerül velük haladunk. Miért? Mert minden azon van, hogy elvonja a figyelmünket. Ilyenkor sokat segíthet, ha nem az egész feladatra tekintünk, csak arra a 25 percre, amit rászánunk. Bemutatjuk a Pomodoro-technikát, az egyik leghatékonyabb időgazdálkodás technikát."
-  },
-  {
-    "group_id": "group_9d953ecb96",
-    "category": "Külföld",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9543ba23-7d87-4994-82bb-4c854d31dcec.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Sorra kaptak bombafenyegetéseket európai repülőjáratok, több repülőteret is lezártak",
-        "link": "https://hvg.hu/vilag/20261103_bombafenyegetes-repulok-utasszallito-europa-kenyszerleszallas"
-      }
-    ],
-    "published_at": 1793717884,
-    "title_hu": "Sorra kaptak bombafenyegetéseket európai repülőjáratok, több repülőteret is lezártak",
-    "lead_hu": "A hétfőn Budapesten kényszerleszállást végrehajtó Wizz Air-gép után újabb légitársaságokhoz érkezett bombafenyegetés....",
-    "content_hu": "A hétfőn Budapesten kényszerleszállást végrehajtó Wizz Air-gép után újabb légitársaságokhoz érkezett bombafenyegetés."
   },
   {
     "group_id": "group_345e4e1afd",
