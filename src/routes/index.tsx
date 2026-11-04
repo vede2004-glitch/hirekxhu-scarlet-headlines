@@ -66,13 +66,13 @@ const CATEGORY_POOLS: Record<string, string[]> = {
   "Bulvár": [heroBulvar, ...gal(G(import.meta.glob("@/galeria/bulvar/*.jpg", { eager: true, query: "?url", import: "default" })))],
   "Általános": [heroBudapest, ...gal(G(import.meta.glob("@/galeria/altalanos/*.jpg", { eager: true, query: "?url", import: "default" })), /new-york/i)],
 };
-CATEGORY_POOLS["Gazdaság"] = [heroGazdasag, ...CATEGORY_POOLS["Általános"].filter((u) => /business|global/i.test(u))];
+CATEGORY_POOLS["Gazdaság"] = [heroGazdasag, ...(CATEGORY_POOLS["Általános"] ?? []).filter((u) => /business|global/i.test(u))];
 const hashStr = (s: string) => { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0; return Math.abs(h); };
 const heroPhoto = (category: string, text: string, id = text) => {
   const topic = TOPIC_PHOTOS.find(([re]) => re.test(text))?.[1];
   if (topic) return topic;
-  const pool = CATEGORY_POOLS[category] ?? (HERO_PHOTOS[category] ? [HERO_PHOTOS[category]] : CATEGORY_POOLS["Általános"]);
-  return pool[hashStr(id) % pool.length];
+  const pool: string[] = CATEGORY_POOLS[category] ?? CATEGORY_POOLS["Általános"] ?? [heroBudapest];
+  return pool[hashStr(id) % pool.length] ?? heroBudapest;
 };
 const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
