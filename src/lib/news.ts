@@ -272,14 +272,3 @@ export function applyHistory(hist: unknown[], arch: unknown[]) {
 export function ensureHistory(): Promise<void> {
   return Promise.resolve();
 }
-
-// A külső archívum-betöltés kikapcsolva: a helyi src/data/news.json az egyetlen
-// hírforrás, így a régi távoli archívumok nem töltődnek be többé.
-export function applyHistory(hist: unknown[], arch: unknown[]) {
-  void hist;
-  void arch;
-}
-
-export function ensureHistory(): Promise<void> {
-  return Promise.resolve();
-}
