@@ -92,7 +92,7 @@ function Index() {
   const match = (n: NewsItem) => (category === "Összes hír" || n.category === category) && `${t(n).title} ${t(n).lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"));
   const aiList = useMemo(() => synthesized.filter(isRecent).filter(match), [category, query, lang, newsVersion]);
   const liveList = useMemo(
-    () => singles.filter(isRecent).filter((n) => (language === "HU" ? isHungarianSource(n) : language === "RO" ? !isHungarianSource(n) : true)).filter(match).slice(0, 25),
+    () => singles.filter(isRecent).filter(match).slice(0, 25),
     [category, query, lang, newsVersion],
   );
   const [lead, side1, side2, ...rest] = aiList;
@@ -159,7 +159,7 @@ function Index() {
 
           <aside className="col-span-12 lg:col-span-4">
             <div className="rounded-lg border border-border bg-card p-6 lg:sticky lg:top-32">
-              <h2 className="mb-6 flex items-center justify-between font-display text-lg font-extrabold uppercase">{ro ? "Ultimele știri" : "Friss hírek"}<span className="flex items-center gap-2 font-sans text-[10px] text-muted-foreground"><span className="size-2 rounded-full bg-primary animate-live" />{ro ? "Live" : "Élő"}</span></h2>
+              <h2 className="mb-6 flex items-center justify-between font-display text-lg font-extrabold uppercase"><Link to="/friss" className="hover:text-primary">Friss hírek →</Link><span className="flex items-center gap-2 font-sans text-[10px] text-muted-foreground"><span className="size-2 rounded-full bg-primary animate-live" />{ro ? "Live" : "Élő"}</span></h2>
               <ol className="max-h-[60vh] space-y-4 overflow-y-auto border-l border-border pl-4">
                 {liveList.map((n) => { const srcLink = n.sources[0]?.link; return <li key={n.group_id} className="relative"><span className="absolute -left-[21px] top-1.5 size-2 rounded-full bg-primary/60" />{srcLink ? <a href={srcLink} target="_blank" rel="noopener noreferrer" className="group block"><span className="text-[10px] font-bold uppercase text-muted-foreground">{formatDate(n.published_at, lang)} · {n.sources[0]?.source}</span><h3 className="mt-1 text-sm font-bold leading-snug transition-colors group-hover:text-primary"><RichText text={t(n).title} /></h3></a> : <Link to="/hir/$id" params={{ id: n.group_id }} className="group block"><span className="text-[10px] font-bold uppercase text-muted-foreground">{formatDate(n.published_at, lang)} · {n.sources[0]?.source}</span><h3 className="mt-1 text-sm font-bold leading-snug transition-colors group-hover:text-primary"><RichText text={t(n).title} /></h3></Link>}</li>; })}
                 {!liveList.length && <li className="text-xs text-muted-foreground">{ro ? "Nu sunt știri recente." : "Nincs friss hír."}</li>}
