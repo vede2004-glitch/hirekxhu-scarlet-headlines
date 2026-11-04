@@ -1,5 +1,59 @@
 [
   {
+    "group_id": "group_0301239126",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793807426-temp-me7c06om4hlt3lccmlk_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Megválasztotta Balog Zoltán utódját a Dunamelléki Református Egyházkerület",
+        "link": "https://telex.hu/belfold/2026/11/04/dunamelleki-reformatus-egyhazkerulet-puspok-nyilas-zoltan-andras-balog-zoltan"
+      }
+    ],
+    "published_at": 1793807644,
+    "title_hu": "Megválasztotta Balog Zoltán utódját a Dunamelléki Református Egyházkerület",
+    "lead_hu": "Balog 2021 óta vezette az egyházkerületet, de most nem indult a választáson....",
+    "content_hu": "Balog 2021 óta vezette az egyházkerületet, de most nem indult a választáson."
+  },
+  {
+    "group_id": "group_1af88e2f37",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72416/724162/72416231_5336547_d1a288bc85deb14f49a9db9f11768974_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Tarolt a francia mozikban Nemes László új filmje",
+        "link": "https://index.hu/kultur/2026/11/04/nemes-laszlo-nemes-jeles-laszlo-moulin-film-franciaorszag-mozi-nezettseg-kritika/"
+      }
+    ],
+    "published_at": 1793807640,
+    "title_hu": "Tarolt a francia mozikban Nemes László új filmje",
+    "lead_hu": "A Moulin november 12-én debütál Magyarországon....",
+    "content_hu": "A Moulin november 12-én debütál Magyarországon."
+  },
+  {
+    "group_id": "group_6f2c9bee92",
+    "category": "Általános",
+    "image": "https://cdn.borsonline.hu/2026/11/6WDO-L29rm-TtXtkGv_v5LsERAJLwDPNzHjdEdGA25g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxOGZlZWQyNzJjNzRkZDNiYjhhMWRiMzY3YWJjMGM3.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Az Origón tér vissza Andor Éva műsora",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/andor-eva-musora-az-origon-ter-vissza"
+      }
+    ],
+    "published_at": 1793807404,
+    "title_hu": "Az Origón tér vissza Andor Éva műsora",
+    "lead_hu": "Hamarosan indul a Négyszemközt Andor Évával! A műsorvezető néhány hónap szünet után visszatér, műsorának epizódjai az Origo YouTube-csatornáján lesznek elérhetőek....",
+    "content_hu": "Hamarosan indul a Négyszemközt Andor Évával! A műsorvezető néhány hónap szünet után visszatér, műsorának epizódjai az Origo YouTube-csatornáján lesznek elérhetőek."
+  },
+  {
     "group_id": "group_3591ef4858",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
@@ -328,12 +382,17 @@
     "category": "Politika",
     "image": "",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Index - Címlap",
         "title": "Közösségi oldalán üzent a Fehér Ház: Trump továbbra is az elnökötök",
         "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/feher-haz-trump-tovabbra-is-az-elnokotok/"
+      },
+      {
+        "source": "444.hu",
+        "title": "A Fehér Ház emlékeztette az amerikaikat, hogy még mindig Trump az elnök",
+        "link": "https://444.hu/2026/11/04/a-feher-haz-emlekeztette-az-amerikaikat-hogy-meg-mindig-trump-az-elnok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
     "published_at": 1793805220,
@@ -2746,12 +2805,17 @@
     "category": "Politika",
     "image": "",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Vadhajtások",
         "title": "Orbán Viktortól megkérdezték: mi a helyzet? - Videó",
         "link": "https://www.vadhajtasok.hu/2026/11/04/orban-viktor-harom-honap-mulva-helyzet-lesz"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Jóslásra kérték Orbán Viktort",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/orban-viktor-joslas-koltsegvetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1793796540,
@@ -4881,7 +4945,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "444.hu",
@@ -4907,6 +4971,11 @@
         "source": "Világgazdaság",
         "title": "Amerikai választás 2026: brutális vereség kapujában Trump és a republikánusok, történelmi győzelmet aratnak a demokraták – a szenátus és a képviselőház is az övék lehet",
         "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/amerikai-valasztas-2026-brutalis-vereseg-trump-szenatus?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Egymásra mutogat Trump és a republikánus párt a súlyos választási vereség után",
+        "link": "https://telex.hu/kulfold/2026/11/04/donald-trump-felidos-valasztas-republikanus-vereseg"
       }
     ],
     "published_at": 1793789710,
@@ -11523,6 +11592,24 @@
     "title_hu": "Szikora Róbert: Nem jelentettem senkiről",
     "lead_hu": "A november 4-én nyilvánosságra hozott ügynökakták szerint “Szikora Róbert Nanu-Nanu néven volt hálózati személy”. Az R-Go frontemberének adatlapján az áll, “1984 februárjában szervezték be, vagy...",
     "content_hu": "A november 4-én nyilvánosságra hozott ügynökakták szerint “Szikora Róbert Nanu-Nanu néven volt hálózati személy”. Az R-Go frontemberének adatlapján az áll, “1984 februárjában szervezték be, vagy..."
+  },
+  {
+    "group_id": "group_5eb644a12e",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "A nagy ügynökakta-átverés: Újra a kisemberekkel b@szunk ki, miközben a főbűnösök vígan élnek",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/a-nagy-ugynokakta-atveres-ujra-a-kisemberekkel-b-at-szunk-ki-mikozben-a-fobunosok-vigan-elnek"
+      }
+    ],
+    "published_at": 1793750400,
+    "title_hu": "A nagy ügynökakta-átverés: Újra a kisemberekkel b@szunk ki, miközben a főbűnösök vígan élnek",
+    "lead_hu": "Kötter Tamás írása a Facebookon....",
+    "content_hu": "Kötter Tamás írása a Facebookon."
   },
   {
     "group_id": "group_ee41a1bfc0",
