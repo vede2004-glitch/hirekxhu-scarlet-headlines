@@ -18,7 +18,7 @@ from sentence_transformers import SentenceTransformer
 # 1. KONFIGURÁCIÓ
 # ==============================================================================
 RSS_FEEDS = {
-    # --- BELFÖLD & POLITIKA ---
+    # --- POLITIKA ÉS BELFÖLD ---
     "Index - Belföld": "https://index.hu/belfold/24ora/rss/",
     "Telex - Belföld": "https://telex.hu/rss",
     "24.hu - Belföld": "https://24.hu/belfold/feed/",
@@ -34,7 +34,7 @@ RSS_FEEDS = {
     "Magyar Jelen": "https://magyarjelen.hu/feed/",
     "Konfront": "https://konfront.hu/feed",
 
-    # --- ORIGO (HIVATALOS MŰKÖDŐ FEEDEKEK) ---
+    # --- ORIGO ---
     "Origo - Címlap": "https://www.origo.hu/rss",
     "Origo - Itthon": "https://www.origo.hu/itthon/rss",
     "Origo - Nagyvilág": "https://www.origo.hu/nagyvilag/rss",
@@ -57,7 +57,7 @@ RSS_FEEDS = {
     "Index - Sport": "https://index.hu/sport/24ora/rss/",
     "24.hu - Sport": "https://24.hu/sport/feed/",
 
-    # --- TECH & TUDOMÁNY ---
+    # --- TECH & TUDOMÁNY (Beolvasva, a Kultúra/Általános fül alá sorolva) ---
     "HWSW": "https://www.hwsw.hu/xml/latest_news_rss.xml",
     "Prohardver": "https://prohardver.hu/hir/rss.xml",
     "HVG - Tudomány & Tech": "https://hvg.hu/rss/tudomany",
@@ -86,13 +86,24 @@ HEADERS = {
     "Accept-Language": "hu-HU,hu;q=0.9,en-US;q=0.8,en;q=0.7"
 }
 
+# A WEBOLDALON SZEREPLŐ EXACT KATEGÓRIÁKRA HANGOLVA:
 CATEGORIES = {
-    "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "formai-1", "f1", "tenisz"],
-    "Politika": ["kormány", "parlament", "választás", "párt", "politika", "miniszter", "miniszterelnök", "döntés", "törvény", "fidesz", "kdnp", "dk", "tisza", "momentum", "mi hazánk", "brüsszel", "eu", "orbán", "szijjártó"],
+    "Politika": [
+        "kormány", "parlament", "választás", "párt", "politika", "miniszter", "miniszterelnök", 
+        "döntés", "törvény", "fidesz", "kdnp", "dk", "tisza", "momentum", "mi hazánk", 
+        "brüsszel", "eu", "orbán", "szijjártó", "magyar péter", "gyurcsány", "ellenzék", 
+        "szavazás", "frakció", "országgyűlés", "polgármester", "főpolgármester", "képviselő",
+        "parlamenti", "ügyészség", "ötpárti", "politikus", "kabinet", "államtitkár", "voks",
+        "demokrata", "republikánus", "trump", "biden", "fehér ház", "kongresszus", "szankció", "húti", "kína"
+    ],
     "Gazdaság": ["pénz", "euró", "forint", "huf", "infláció", "befektetés", "gazdaság", "cégek", "üzlet", "piac", "drágulás", "árak", "bank", "fizetés", "bér", "kamat", "mnb", "tőzsde", "gázár", "benzin"],
-    "Kultúra": ["színház", "múzeum", "koncert", "kiállítás", "könyv", "irodalom", "zene", "művészet", "fesztivál", "egyház", "film", "mozi", "színész"],
-    "Tech": ["mesterséges intelligencia", "ai", "apple", "google", "microsoft", "samsung", "okostelefon", "szoftver", "hardver", "cybersecurity", "kibertámadás", "újítás", "fejlesztés"],
-    "Bulvár": ["sztár", "celeb", "szerelem", "szakítás", "házasság", "botrány", "showbiz", "horoszkóp", "tv2", "rtl", "duna tv"]
+    "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "formai-1", "f1", "tenisz"],
+    "Kultúra": ["színház", "múzeum", "koncert", "kiállítás", "könyv", "irodalom", "zene", "művészet", "fesztivál", "egyház", "film", "mozi", "színész", "tech", "ai", "apple", "google", "szoftver"],
+    "Bulvár": ["sztár", "celeb", "szerelem", "szakítás", "házasság", "botrány", "showbiz", "horoszkóp", "tv2", "rtl", "duna tv"],
+    "Általános": [
+        "időjárás", "baleset", "katasztrófavédelem", "rendőrség", "máv", "közlekedés", 
+        "iskola", "oktatás", "kórház", "egészségügy", "felújítás", "bírság", "tűzoltó"
+    ]
 }
 
 _MODEL = None
@@ -106,7 +117,7 @@ def get_model():
     return _MODEL
 
 # ==============================================================================
-# 2. SEGÉDFUNKCIÓK ÉS GYORS KATEGÓRIA OSZTÁLYOZÓ
+# 2. SEGÉDFUNKCIÓK ÉS AKUT KATEGÓRIA OSZTÁLYOZÓ
 # ==============================================================================
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
@@ -162,25 +173,34 @@ def clean_text(text):
 def classify_article(title, summary, source_name):
     text = f"{title} {summary}".lower()
 
+    # 1. LEGSZIGORÚBB POLITIKAI SZŰRÉS: Ha a szövegben vagy címben akár EGYETLEN politikai szó van, azonnal POLITIKA
+    for kw in CATEGORIES["Politika"]:
+        if re.search(r'\b' + re.escape(kw) + r'\b', text):
+            return "Politika"
+
+    # 2. Politikai források azonnali besorolása
+    if source_name in ["Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", "Híradó.hu (MTI)", "Magyar Nemzet"]:
+        return "Politika"
+
+    # 3. Specifikus kategória-források besorolása
     if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport"]:
         return "Sport"
     if "Gazdaság" in source_name or source_name in ["Portfolio - Gazdaság", "Portfolio - Befektetés", "Világgazdaság"]:
         return "Gazdaság"
-    if "Tech" in source_name or source_name in ["HWSW", "Prohardver", "Rakéta.hu", "PC World"]:
-        return "Tech"
     if source_name in ["Blikk", "Femina", "NLC (Nők Lapja Café)"]:
         return "Bulvár"
-    if "Külföld" in source_name or "Világ" in source_name:
-        return "Külföld"
-    if "Belföld" in source_name or "Itthon" in source_name:
-        return "Belföld"
+    if "Tech" in source_name or source_name in ["HWSW", "Prohardver", "Rakéta.hu", "PC World"]:
+        return "Kultúra"
 
+    # 4. Egyéb kategóriák keresése
     for category, keywords in CATEGORIES.items():
+        if category in ["Politika", "Általános"]:
+            continue
         for kw in keywords:
             if re.search(r'\b' + re.escape(kw) + r'\b', text):
                 return category
 
-    return "Belföld"
+    return "Általános"
 
 def extract_cover_image(entry, article_url, session):
     if 'media_content' in entry and entry.media_content:
@@ -333,9 +353,7 @@ def run_pipeline():
             "fetched_at": art["published_at"]
         })
 
-    # ==============================================================================
-    # ARCHIVÁLÁS ÉS MEMÓRIA FRISSÍTÉS
-    # ==============================================================================
+    # ARCHIVÁLÁS
     fresh_memory = []
     archive_updated = False
     existing_archive_links = {a["link"] for a in archive}
@@ -380,9 +398,7 @@ def run_pipeline():
 
     save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
 
-    # ==============================================================================
     # NEWS.JSON FRISSÍTÉS
-    # ==============================================================================
     os.makedirs("src/data", exist_ok=True)
     existing_news = load_json_file(OUTPUT_FILE)
     
@@ -413,7 +429,7 @@ def run_pipeline():
             }]
             news_map[g_id] = {
                 "group_id": g_id,
-                "category": item.get("category", "Belföld"),
+                "category": item.get("category", "Általános"),
                 "image": item.get("image", ""),
                 "is_synthesized": False,
                 "sources_count": len(sources_list),
@@ -449,8 +465,23 @@ def run_pipeline():
 
     final_list = balanced_list + skipped_items
 
-    save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ Magyar hírfrissítés kész! Megőrizve és bővítve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
+    # AZ ÁLTALÁNOS FÜL TISZTÍTÁSA: Az "Általános" fülnél a politika arányának szigorú 15%-os korlátja
+    final_balanced_list = []
+    politics_count = 0
+    MAX_POLITICS_RATIO_IN_GENERAL = 0.15
+
+    for item in final_list:
+        is_politics = item.get("category") == "Politika"
+        
+        if is_politics:
+            if (len(final_balanced_list) > 0 and (politics_count / len(final_balanced_list)) > MAX_POLITICS_RATIO_IN_GENERAL):
+                continue
+            politics_count += 1
+            
+        final_balanced_list.append(item)
+
+    save_json_file(OUTPUT_FILE, final_balanced_list)
+    print(f"⚡ Magyar hírfrissítés kész! Megőrizve és besorolva {len(final_balanced_list)} cikk a {OUTPUT_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
