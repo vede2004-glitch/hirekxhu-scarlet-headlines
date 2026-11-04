@@ -1,16 +1,4 @@
-import heroKormany from "@/assets/hirekx-kormany.jpg";
-import heroBulvar from "@/assets/stirix-bulvar.jpg";
-import heroGazdasag from "@/assets/stirix-gazdasag.jpg";
-import heroVidek from "@/assets/hirekx-videk.jpg";
-import heroHospital from "@/assets/stirix-hospital.jpg";
-import heroKultura from "@/assets/stirix-kultura.jpg";
-import heroSport from "@/assets/stirix-sport.jpg";
-import heroEu from "@/assets/stirix-eu.jpg";
-import heroVaros from "@/assets/hirekx-videki-varos.jpg";
-import heroHuParliament from "@/assets/stirix-hu-parliament.jpg";
-import heroJustice from "@/assets/stirix-justice.jpg";
-import heroEducation from "@/assets/stirix-education.jpg";
-import heroBudapest from "@/assets/hirekx-budapest.jpg";
+import { heroPhoto } from "@/lib/news-covers";
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
@@ -37,43 +25,6 @@ export const Route = createFileRoute("/")({
 });
 
 const categories = [ALL, ...CATEGORIES];
-const HERO_PHOTOS: Record<string, string> = {
-  "Politika": heroKormany,
-  "Erdély": heroVidek,
-  "Sport": heroSport,
-  "Kultúra": heroKultura,
-  "Gazdaság": heroGazdasag,
-  "Bulvár": heroBulvar,
-};
-// Topic keywords (HU + RO) win over the category photo; first match wins.
-const TOPIC_PHOTOS: Array<[RegExp, string]> = [
-  [/\b(EU|európai unió|európai bizottság|brüsszel|uniós|uniunea europeană|comisia europeană|bruxelles|ue)\b/i, heroEu],
-  [/(országgyűlés|orbán|kormányszóvivő|miniszterelnök|magyar kormány|magyarországi (kormány|parlament)|guvernul ungar|budapesta)/i, heroHuParliament],
-  [/(bíróság|ítélet|ügyész|rendőr|dna|instanț|procuror|poliți|tribunal)/i, heroJustice],
-  [/(iskola|oktatás|érettségi|egyetem|școal|educați|universit|bacalaureat)/i, heroEducation],
-  [/(kórház|egészség|orvos|beteg|spital|sănătat|medic|pacient)/i, heroHospital],
-  [/(debrecen|szeged|pécs|győr|miskolc|kecskemét|székesfehérvár|nyíregyháza|vidék|megye)/i, heroVaros],
-  [/(budapest|főváros|karácsony gergely)/i, heroBudapest],
-];
-const gal = (m: Record<string, string>, skip?: RegExp) =>
-  Object.entries(m).filter(([k]) => !skip?.test(k)).map(([, v]) => v);
-const G = (glob: Record<string, unknown>) => glob as Record<string, string>;
-const CATEGORY_POOLS: Record<string, string[]> = {
-  "Politika": [heroKormany, heroHuParliament, ...gal(G(import.meta.glob("@/galeria/politika/*.jpg", { eager: true, query: "?url", import: "default" })), /romania|palace-of-the-parliament/i)],
-  "Erdély": [heroVidek, heroVaros, ...gal(G(import.meta.glob("@/galeria/erdely/*.jpg", { eager: true, query: "?url", import: "default" })), /rimetea|apuseni|bucegi|carpathian|transylvania/i)],
-  "Sport": [heroSport, ...gal(G(import.meta.glob("@/galeria/sport/*.jpg", { eager: true, query: "?url", import: "default" })), /american-football/i)],
-  "Kultúra": [heroKultura, ...gal(G(import.meta.glob("@/galeria/kultura/*.jpg", { eager: true, query: "?url", import: "default" })))],
-  "Bulvár": [heroBulvar, ...gal(G(import.meta.glob("@/galeria/bulvar/*.jpg", { eager: true, query: "?url", import: "default" })))],
-  "Általános": [heroBudapest, ...gal(G(import.meta.glob("@/galeria/altalanos/*.jpg", { eager: true, query: "?url", import: "default" })), /new-york/i)],
-};
-CATEGORY_POOLS["Gazdaság"] = [heroGazdasag, ...(CATEGORY_POOLS["Általános"] ?? []).filter((u) => /business|global/i.test(u))];
-const hashStr = (s: string) => { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0; return Math.abs(h); };
-const heroPhoto = (category: string, text: string, id = text) => {
-  const topic = TOPIC_PHOTOS.find(([re]) => re.test(text))?.[1];
-  if (topic) return topic;
-  const pool: string[] = CATEGORY_POOLS[category] ?? CATEGORY_POOLS["Általános"] ?? [heroBudapest];
-  return pool[hashStr(id) % pool.length] ?? heroBudapest;
-};
 const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
