@@ -1,5 +1,41 @@
 [
   {
+    "group_id": "group_6e086d5107",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793806682-temp-mah2qi7cv8nv2peafio_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Lázár János már júliusban, Nagy Márton és Szijjártó Péter még mindig nem kapták meg miniszteri végkielégítésüket",
+        "link": "https://telex.hu/belfold/2026/11/04/vegkielegites-miniszterek-nagy-marton-rogan-antal-orban-viktor"
+      }
+    ],
+    "published_at": 1793806820,
+    "title_hu": "Lázár János már júliusban, Nagy Márton és Szijjártó Péter még mindig nem kapták meg miniszteri végkielégítésüket",
+    "lead_hu": "Orbán Viktornak és nyolc volt miniszterének eddig összesen több mint 238 millió forintot fizetett ki a Tisza-kormány....",
+    "content_hu": "Orbán Viktornak és nyolc volt miniszterének eddig összesen több mint 238 millió forintot fizetett ki a Tisza-kormány."
+  },
+  {
+    "group_id": "group_c7146e606b",
+    "category": "Kultúra",
+    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/win_95_ora_150451_2_original_390x220_cover.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PC World",
+        "title": "Ne keress tovább, itt a tökéletes óra a Windows 95 szerelmeseinek",
+        "link": "https://www.pcwplus.hu/pcwlite/ne-keress-tovabb-itt-a-tokeletes-ora-a-windows-95-szerelmeseinek-390437.html"
+      }
+    ],
+    "published_at": 1793806681,
+    "title_hu": "Ne keress tovább, itt a tökéletes óra a Windows 95 szerelmeseinek",
+    "lead_hu": "A Benly Watch Desktop 95 egyáltalán nem okosóra, viszont csodálatos. És ez néha fontosabb....",
+    "content_hu": "A Benly Watch Desktop 95 egyáltalán nem okosóra, viszont csodálatos. És ez néha fontosabb."
+  },
+  {
     "group_id": "group_29710c8472",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/lDGIUa4I5wXHHRXG2pFTDHOYKSHhQfb3_ADKfSJlBu4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZjYjI2ZDA0NTYyNTQ2OGNhZTNkN2I5YTJiMDIzODc5.jpg",
@@ -16,6 +52,24 @@
     "title_hu": "Von der Leyent megint kihagyják – Amerika, Oroszország és Kína háromoldalú találkozót szervez",
     "lead_hu": "Volodimir Zelenszkij is aggódik....",
     "content_hu": "Volodimir Zelenszkij is aggódik."
+  },
+  {
+    "group_id": "group_a11953ad89",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/szigeti-e1497259121153.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A Karthago együttes vezetője az útlevele átvételekor kapott egy megbízást, így lett 6-os kartonja",
+        "link": "https://24.hu/belfold/2026/11/04/szigeti-ferenc-karthago-6-os-katon/"
+      }
+    ],
+    "published_at": 1793806462,
+    "title_hu": "A Karthago együttes vezetője az útlevele átvételekor kapott egy megbízást, így lett 6-os kartonja",
+    "lead_hu": "Szigeti Ferencet egy Váci út melletti lakásban kérték, beszélje le egy barátját arról, hogy az SZDSZ-nek kampányoljon. The post A Karthago együttes vezetője az útlevele átvételekor kapott egy megbízás...",
+    "content_hu": "Szigeti Ferencet egy Váci út melletti lakásban kérték, beszélje le egy barátját arról, hogy az SZDSZ-nek kampányoljon. The post A Karthago együttes vezetője az útlevele átvételekor kapott egy megbízást, így lett 6-os kartonja first appeared on 24.hu."
   },
   {
     "group_id": "group_6ee1c19dec",
@@ -3795,12 +3849,17 @@
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/central-1067951571-e1793793021388-1024x577.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
         "title": "Beköszön a tél: országos fagyok jönnek",
         "link": "https://24.hu/tudomany/2026/11/04/idojaras-tel-hideg-fagy-minuszok/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Beköszön a tél: országos fagyok jönnek",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/bekoszon-a-tel-orszagos-fagyok-jonnek"
       }
     ],
     "published_at": 1793793078,
@@ -6809,12 +6868,17 @@
     "category": "Bulvár",
     "image": "",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Vadhajtások",
         "title": "Árad a nepotizmus: Kátai-Németh a saját barátnőjét ültette be a miniszteri kabinetjébe",
         "link": "https://www.vadhajtasok.hu/2026/11/04/katai-nemeth-vilmos-a-sajat-baratnojet-ultette-be-a-miniszteri-kabinetjebe"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Kátai-Németh Vilmos a miniszteri kabinetbe ejtőernyőztette a barátnőjét",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/katai-nemeth-vilmos-baratno-allas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1793781900,
@@ -11103,24 +11167,6 @@
     "title_hu": "Napi 7 gramm is elegendő: így befolyásolhatja a várható élettartamot az olívaolaj",
     "lead_hu": "Erre az eredményre jutottak a tudósok.",
     "content_hu": "Erre az eredményre jutottak a tudósok."
-  },
-  {
-    "group_id": "group_0f2d204fcf",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ef16a521-e6e2-44b2-b1ba-bfb86fcd826f.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Tovább szigorítja a Balaton vízparti szabályozását a kormány",
-        "link": "https://hvg.hu/itthon/20261103_balaton-vizparti-szabalyozas-kormany"
-      }
-    ],
-    "published_at": 1793720398,
-    "title_hu": "Tovább szigorítja a Balaton vízparti szabályozását a kormány",
-    "lead_hu": "A szigorítás a településrendezési tervekben lehetővé tett építkezések korlátozását célozza.",
-    "content_hu": "A szigorítás a településrendezési tervekben lehetővé tett építkezések korlátozását célozza."
   },
   {
     "group_id": "group_587b1ef3d6",
