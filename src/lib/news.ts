@@ -261,50 +261,14 @@ export function applyLiveNews(items: NewsItem[]): boolean {
   return true;
 }
 
-// ---------------------------------------------------------------------------
-// Archívumok futásidejű betöltése (nem részei a szerver-csomagnak).
-// ---------------------------------------------------------------------------
-const HISTORY_BASE = "https://raw.githubusercontent.com/vede2004-glitch/pixel-perfect-prompt-712/main/src/data";
-const HISTORY_TTL_MS = 30 * 60 * 1000;
-let historyAt = 0;
-let historyLoading: Promise<void> | null = null;
-
-async function fetchArray(name: string): Promise<unknown[] | null> {
-  try {
-    const res = await fetch(`${HISTORY_BASE}/${name}`);
-    if (!res.ok) return null;
-    const data: unknown = await res.json();
-    return Array.isArray(data) ? data : null;
-  } catch {
-    return null;
-  }
-}
-
-/** Beépíti a kapott archív adatokat és újraszámolja a listákat. */
+// A külső archívum-betöltés kikapcsolva: a helyi src/data/news.json az egyetlen
+// hírforrás, így a régi távoli archívumok nem töltődnek be többé.
 export function applyHistory(hist: unknown[], arch: unknown[]) {
-  historyRaw = (hist as RawItem[]).filter((r) => r && typeof r.group_id === "string");
-  archiveRaw = arch as ArchiveRaw[];
-  const h = buildHistory(news);
-  history.splice(0, history.length, ...h);
-  const a = buildArchive(news, h);
-  archive.splice(0, archive.length, ...a);
-  byRelevance.splice(0, byRelevance.length, ...[...news, ...h, ...a].sort(byRelevanceCmp));
-  newsVersion++;
-  for (const fn of newsListeners) fn();
+  void hist;
+  void arch;
 }
 
-/** Betölti (és 30 percig megtartja) a régebbi cikkek archívumát. */
+/** Nem tölt már külső archívumot – a news.json a teljes híranyag. */
 export function ensureHistory(): Promise<void> {
-  if (historyAt && Date.now() - historyAt < HISTORY_TTL_MS) return Promise.resolve();
-  if (historyLoading) return historyLoading;
-  historyLoading = (async () => {
-    const [h1, h2, arch] = await Promise.all([fetchArray("news_archive.json"), fetchArray("news_archive_2.json"), fetchArray("archive.json")]);
-    if (h1 || h2 || arch) {
-      applyHistory([...(h1 ?? []), ...(h2 ?? [])], arch ?? []);
-      historyAt = Date.now();
-    }
-  })().finally(() => {
-    historyLoading = null;
-  });
-  return historyLoading;
+  return Promise.resolve();
 }
