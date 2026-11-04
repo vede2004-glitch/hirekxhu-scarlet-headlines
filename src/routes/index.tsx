@@ -55,8 +55,25 @@ const TOPIC_PHOTOS: Array<[RegExp, string]> = [
   [/(debrecen|szeged|pécs|győr|miskolc|kecskemét|székesfehérvár|nyíregyháza|vidék|megye)/i, heroVaros],
   [/(budapest|főváros|karácsony gergely)/i, heroBudapest],
 ];
-const heroPhoto = (category: string, text: string) =>
-  TOPIC_PHOTOS.find(([re]) => re.test(text))?.[1] ?? HERO_PHOTOS[category] ?? heroBudapest;
+const gal = (m: Record<string, string>, skip?: RegExp) =>
+  Object.entries(m).filter(([k]) => !skip?.test(k)).map(([, v]) => v);
+const G = (glob: Record<string, unknown>) => glob as Record<string, string>;
+const CATEGORY_POOLS: Record<string, string[]> = {
+  "Politika": [heroKormany, heroHuParliament, ...gal(G(import.meta.glob("@/galeria/politika/*.jpg", { eager: true, query: "?url", import: "default" })), /romania|palace-of-the-parliament/i)],
+  "Erdély": [heroVidek, heroVaros, ...gal(G(import.meta.glob("@/galeria/erdely/*.jpg", { eager: true, query: "?url", import: "default" })), /rimetea|apuseni|bucegi|carpathian|transylvania/i)],
+  "Sport": [heroSport, ...gal(G(import.meta.glob("@/galeria/sport/*.jpg", { eager: true, query: "?url", import: "default" })), /american-football/i)],
+  "Kultúra": [heroKultura, ...gal(G(import.meta.glob("@/galeria/kultura/*.jpg", { eager: true, query: "?url", import: "default" })))],
+  "Bulvár": [heroBulvar, ...gal(G(import.meta.glob("@/galeria/bulvar/*.jpg", { eager: true, query: "?url", import: "default" })))],
+  "Általános": [heroBudapest, ...gal(G(import.meta.glob("@/galeria/altalanos/*.jpg", { eager: true, query: "?url", import: "default" })), /new-york/i)],
+};
+CATEGORY_POOLS["Gazdaság"] = [heroGazdasag, ...CATEGORY_POOLS["Általános"].filter((u) => /business|global/i.test(u))];
+const hashStr = (s: string) => { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0; return Math.abs(h); };
+const heroPhoto = (category: string, text: string, id = text) => {
+  const topic = TOPIC_PHOTOS.find(([re]) => re.test(text))?.[1];
+  if (topic) return topic;
+  const pool = CATEGORY_POOLS[category] ?? (HERO_PHOTOS[category] ? [HERO_PHOTOS[category]] : CATEGORY_POOLS["Általános"]);
+  return pool[hashStr(id) % pool.length];
+};
 const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
@@ -113,7 +130,7 @@ function Index() {
       <main id="top" className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
         {lead && <section aria-label={ro ? "Știri principale" : "Kiemelt hírek"} className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
           <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 flex flex-col justify-end overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
-            <img src={heroPhoto(lead.category, `${t(lead).title} ${t(lead).lead ?? ""}`)} alt="" aria-hidden className="absolute inset-0 size-full object-cover opacity-75 transition-opacity duration-500 group-hover:opacity-90" />
+            <img src={heroPhoto(lead.category, `${t(lead).title} ${t(lead).lead ?? ""}`, lead.group_id)} alt="" aria-hidden className="absolute inset-0 size-full object-cover opacity-75 transition-opacity duration-500 group-hover:opacity-90" />
             <div className="absolute inset-0 bg-gradient-to-t from-background via-background/75 to-background/25" />
             <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
             <div className="relative p-5 sm:p-8">
