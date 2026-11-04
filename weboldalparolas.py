@@ -31,6 +31,19 @@ RSS_FEEDS = {
     "ATV": "https://www.atv.hu/rss",
     "Magyar Narancs": "https://magyarnarancs.hu/rss",
     "Szeretlek Magyarország": "https://www.szeretlekmagyarorszag.hu/feed/",
+    
+    # Új vélemény & politikai források:
+    "Vadhajtások": "https://www.vadhajtasok.hu/feed",
+    "Magyar Jelen": "https://magyarjelen.hu/feed/",
+    "Konfront": "https://konfront.hu/feed/",
+    "Revans": "https://revans.hu/feed/",
+
+    # --- ORIGO (CÍMLAP ÉS ROVATOK) ---
+    "Origo - Címlap": "https://www.origo.hu/contentheaders/rss/rss.xml",
+    "Origo - Itthon": "https://www.origo.hu/itthon/rss/rss.xml",
+    "Origo - Nagyvilág": "https://www.origo.hu/nagyvilag/rss/rss.xml",
+    "Origo - Gazdaság": "https://www.origo.hu/gazdasag/rss/rss.xml",
+    "Origo - Sport": "https://www.origo.hu/sport/rss/rss.xml",
 
     # --- KÜLFÖLD ---
     "Index - Külföld": "https://index.hu/kulfold/rss/",
