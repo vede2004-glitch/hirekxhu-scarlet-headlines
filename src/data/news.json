@@ -1,5 +1,82 @@
 [
   {
+    "group_id": "group_1d754fd1a1",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72417/724178/72417801_5336655_77dee0441427a3a7309ab98e82aacae1_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hiába vezettek kétszer Varga Barnabásék, egy utolsó perces bombagóllal a Real Madrid elhozta a három pontot Athénból",
+        "link": "https://index.hu/sport/futball/2026/11/04/labdarugo-bajnokok-ligaja-aek-athen-real-madrid-osszefoglalo-varga-barnabas-vitalis-milan/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Varga Barnabásék kétszer is vezettek a Real Madrid ellen a BL-ben – hiába",
+        "link": "https://magyarnemzet.hu/sport/2026/11/varga-barnabas-aek-athen-real-madrid-bl-jude-bellingham?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793821200,
+    "title_hu": "Hiába vezettek kétszer Varga Barnabásék, egy utolsó perces bombagóllal a Real Madrid elhozta a három pontot Athénból",
+    "lead_hu": "Heroikus küzdelemben maradt alul a görög csapat....",
+    "content_hu": "Heroikus küzdelemben maradt alul a görög csapat."
+  },
+  {
+    "group_id": "group_125782d298",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/v2crEs4wnusQm5PyZD3oa9ImNz3j8JEmFnEWPlZTaew/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyNjlmNGE4ZDQ0ZTRlMTZhMjcyNzE4NTljNjQ5MmJi.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A veszélyes Szoboszlai lökése után is gólt kapott a Liverpool, amely kikapott Törökországban",
+        "link": "https://magyarnemzet.hu/sport/2026/11/szoboszlai-dominik-liverpool-fenerbahce-bl-kerkez-torok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793821162,
+    "title_hu": "A veszélyes Szoboszlai lökése után is gólt kapott a Liverpool, amely kikapott Törökországban",
+    "lead_hu": "Kétszer is vezettek a Vörösök, Andoni Iraola cseréi felemásan váltak be....",
+    "content_hu": "Kétszer is vezettek a Vörösök, Andoni Iraola cseréi felemásan váltak be."
+  },
+  {
+    "group_id": "group_763aeeb79f",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Zelenszkij szerint a háború egyik legsúlyosabb támadása volt, amikor az oroszok hétfőn lebombáztak egy segélyközpontot",
+        "link": "https://444.hu/2026/11/04/zelenszkij-szerint-a-haboru-egyik-legsulyosabb-tamadasa-volt-amikor-az-oroszok-hetfon-lebombaztak-egy-segelykozpontot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793821150,
+    "title_hu": "Zelenszkij szerint a háború egyik legsúlyosabb támadása volt, amikor az oroszok hétfőn lebombáztak egy segélyközpontot",
+    "lead_hu": "Az ENSZ missziója szerint a támadás megsértette a nemzetközi humanitárius jog legalapvetőbb elveit....",
+    "content_hu": "Az ENSZ missziója szerint a támadás megsértette a nemzetközi humanitárius jog legalapvetőbb elveit."
+  },
+  {
+    "group_id": "group_e97cb19170",
+    "category": "Gazdaság",
+    "image": "https://kep.index.hu/1/0/7239/72398/723988/72398819_5335255_0b185228d606a558b10ee658d72f6a27_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "A munka maga a pokol, a Netflix új sorozatában ráadásul szó szerint",
+        "link": "https://index.hu/kultur/cinematrix/2026/11/04/pokoli-melo-netflix-del-korea-sorozat-pilot-drama-termeszetfeletti-streaming-kritika/"
+      }
+    ],
+    "published_at": 1793821140,
+    "title_hu": "A munka maga a pokol, a Netflix új sorozatában ráadásul szó szerint",
+    "lead_hu": "A Pokoli melóban a fizetés jó, a túlélés nem garantált....",
+    "content_hu": "A Pokoli melóban a fizetés jó, a túlélés nem garantált."
+  },
+  {
     "group_id": "group_fa5009a9c1",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/_jbsggHRReR68Jl1QqM9InYpylgPKc65PH1QPkjURsY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M3MTRmNzM3ZWIzMzRlYWE5OTg3MzY3Y2YzNzk4ZWJi.jpg",
@@ -12818,24 +12895,6 @@
     "title_hu": "Kormányalakítással bízta meg a svéd parlament Ulf Kristerssont, a szeptemberben lemondó miniszterelnököt",
     "lead_hu": "A baloldali koalíciónak nem sikerült kormányt alakítania, most a jobboldali koalíció próbálkozhat, de könnyű dolguk nekik sem lesz.",
     "content_hu": "A baloldali koalíciónak nem sikerült kormányt alakítania, most a jobboldali koalíció próbálkozhat, de könnyű dolguk nekik sem lesz."
-  },
-  {
-    "group_id": "group_303d14e25b",
-    "category": "Tech",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2610/20/munkahely_101010_1_original_390x220_cover.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PC World",
-        "title": "Egy tanulmány szerint több időt tölt munkával, aki rendszeresen AI-t használ",
-        "link": "https://www.pcwplus.hu/pcwlite/egy-tanulmany-szerint-tobb-idot-tolt-munkaval-aki-rendszeresen-ait-hasznal-390399.html"
-      }
-    ],
-    "published_at": 1793734980,
-    "title_hu": "Egy tanulmány szerint több időt tölt munkával, aki rendszeresen AI-t használ",
-    "lead_hu": "A mesterséges intelligencia nem rövidíti, hanem nyújtja a munkanapokat.",
-    "content_hu": "A mesterséges intelligencia nem rövidíti, hanem nyújtja a munkanapokat."
   },
   {
     "group_id": "group_345e4e1afd",

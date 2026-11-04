@@ -207,7 +207,7 @@
   {
     "group_id": "group_6cbc6edf28",
     "category": "Belföld",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Index - Belföld",
@@ -217,15 +217,6 @@
         "summary": "„Ahány karton, annyi sors.”",
         "category": "Belföld",
         "published_at": 1793775960
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Orvos-Tóth Noémi és Szabó Andrea is helyet kapott az ügynökakták társadalmi hatásainak kezelésére létrehozott új testületben",
-        "link": "https://telex.hu/ugynokaktak/2026/11/03/uj-fuggetlen-interdiszciplinaris-szakertoi-testulet-ugynokaktak-nyilvanossagra-hozasa-tarsadalmi-feldolgozas-tarr-zoltan",
-        "image": "https://assets.telex.hu/images/20261103/1793734773-temp-olhg4g066hmvagnibhl_cimlap-normal.jpg",
-        "summary": "Tarr Zoltán több terület szakértőit is felkérte a közös múltfeldolgozás segítésére.",
-        "category": "Belföld",
-        "published_at": 1793734810
       },
       {
         "source": "HVG - Itthon",
@@ -2767,31 +2758,6 @@
     ]
   },
   {
-    "group_id": "group_0f9104a30e",
-    "category": "Külföld",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Külföld",
-        "title": "Összecsaptak a lengyel vezetők, pattanásig feszült a helyzet az országban",
-        "link": "https://index.hu/kulfold/2026/11/03/lengyelorszag-alkotmanybirosag-karol-nawrocki-donald-tusk/",
-        "image": "https://kep.index.hu/1/0/7240/72408/724080/72408087_5335923_fb1922135edb7c021b776257d4c1936e_wm.jpg",
-        "summary": "Hatalomvággyal és puccsal vádolja Donald Tuskot Karol Nawrocki.",
-        "category": "Külföld",
-        "published_at": 1793734620
-      },
-      {
-        "source": "Hír TV",
-        "title": "Lengyelország a politikai szakadék szélén? Tusk és Nawrocki között kiéleződött a konfliktus",
-        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/lengyelorszag-a-politikai-szakadek-szelen-tusk-es-nawrocki-kozott-kielezodott-a-konfliktus",
-        "image": "https://cdn.hirtv.hu/2026/11/dPD8UNqgidEnFr62VR6af8Y-v9NrXwURwhoIi0rguFQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgwMjY2YTA3YWIyOTQ1MTA5ZTc1NWVkNTE3NTY3ZGFi.webp",
-        "summary": "Kapcsoltunk Varsóba, ahol ott volt tudósítónk, Bugnyár Zoltán.",
-        "category": "Általános",
-        "published_at": 1793804364
-      }
-    ]
-  },
-  {
     "group_id": "group_9235f34ea0",
     "category": "Külföld",
     "articles_count": 1,
@@ -4216,22 +4182,6 @@
         "summary": "Karbantartás miatt órákra elérhetetlenné válik a legtöbb digitális közigazgatási ügyintézési felület.",
         "category": "Tech",
         "published_at": 1793738591
-      }
-    ]
-  },
-  {
-    "group_id": "group_303d14e25b",
-    "category": "Tech",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "PC World",
-        "title": "Egy tanulmány szerint több időt tölt munkával, aki rendszeresen AI-t használ",
-        "link": "https://www.pcwplus.hu/pcwlite/egy-tanulmany-szerint-tobb-idot-tolt-munkaval-aki-rendszeresen-ait-hasznal-390399.html",
-        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2610/20/munkahely_101010_1_original_390x220_cover.jpg",
-        "summary": "A mesterséges intelligencia nem rövidíti, hanem nyújtja a munkanapokat.",
-        "category": "Tech",
-        "published_at": 1793734980
       }
     ]
   },
@@ -9286,6 +9236,22 @@
     ]
   },
   {
+    "group_id": "group_0f9104a30e",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Lengyelország a politikai szakadék szélén? Tusk és Nawrocki között kiéleződött a konfliktus",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/lengyelorszag-a-politikai-szakadek-szelen-tusk-es-nawrocki-kozott-kielezodott-a-konfliktus",
+        "image": "https://cdn.hirtv.hu/2026/11/dPD8UNqgidEnFr62VR6af8Y-v9NrXwURwhoIi0rguFQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgwMjY2YTA3YWIyOTQ1MTA5ZTc1NWVkNTE3NTY3ZGFi.webp",
+        "summary": "Kapcsoltunk Varsóba, ahol ott volt tudósítónk, Bugnyár Zoltán.",
+        "category": "Általános",
+        "published_at": 1793804364
+      }
+    ]
+  },
+  {
     "group_id": "group_29477cb348",
     "category": "Általános",
     "articles_count": 1,
@@ -12242,6 +12208,79 @@
         "summary": "Zagyvai Gábor piercert kérdeztük tényekről és tévhitekről.",
         "category": "Általános",
         "published_at": 1793820600
+      }
+    ]
+  },
+  {
+    "group_id": "group_1d754fd1a1",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hiába vezettek kétszer Varga Barnabásék, egy utolsó perces bombagóllal a Real Madrid elhozta a három pontot Athénból",
+        "link": "https://index.hu/sport/futball/2026/11/04/labdarugo-bajnokok-ligaja-aek-athen-real-madrid-osszefoglalo-varga-barnabas-vitalis-milan/",
+        "image": "https://kep.index.hu/1/0/7241/72417/724178/72417801_5336655_77dee0441427a3a7309ab98e82aacae1_wm.jpg",
+        "summary": "Heroikus küzdelemben maradt alul a görög csapat.",
+        "category": "Általános",
+        "published_at": 1793821200
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Varga Barnabásék kétszer is vezettek a Real Madrid ellen a BL-ben – hiába",
+        "link": "https://magyarnemzet.hu/sport/2026/11/varga-barnabas-aek-athen-real-madrid-bl-jude-bellingham?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/08/CkADCdlJCkEO69cUvZfHkxjfLKjMRB-cM8wplQbJL8I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMzZjZmN2RhNWNmMDQ0YjVhOWFkNTRkYjI3M2YzZjFh.jpg",
+        "summary": "Jude Bellingham látványos góllal ünnepelte a BL-rekordját Athénban.",
+        "category": "Politika",
+        "published_at": 1793821235
+      }
+    ]
+  },
+  {
+    "group_id": "group_e97cb19170",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "A munka maga a pokol, a Netflix új sorozatában ráadásul szó szerint",
+        "link": "https://index.hu/kultur/cinematrix/2026/11/04/pokoli-melo-netflix-del-korea-sorozat-pilot-drama-termeszetfeletti-streaming-kritika/",
+        "image": "https://kep.index.hu/1/0/7239/72398/723988/72398819_5335255_0b185228d606a558b10ee658d72f6a27_wm.jpg",
+        "summary": "A Pokoli melóban a fizetés jó, a túlélés nem garantált.",
+        "category": "Gazdaság",
+        "published_at": 1793821140
+      }
+    ]
+  },
+  {
+    "group_id": "group_763aeeb79f",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Zelenszkij szerint a háború egyik legsúlyosabb támadása volt, amikor az oroszok hétfőn lebombáztak egy segélyközpontot",
+        "link": "https://444.hu/2026/11/04/zelenszkij-szerint-a-haboru-egyik-legsulyosabb-tamadasa-volt-amikor-az-oroszok-hetfon-lebombaztak-egy-segelykozpontot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Az ENSZ missziója szerint a támadás megsértette a nemzetközi humanitárius jog legalapvetőbb elveit.",
+        "category": "Politika",
+        "published_at": 1793821150
+      }
+    ]
+  },
+  {
+    "group_id": "group_125782d298",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A veszélyes Szoboszlai lökése után is gólt kapott a Liverpool, amely kikapott Törökországban",
+        "link": "https://magyarnemzet.hu/sport/2026/11/szoboszlai-dominik-liverpool-fenerbahce-bl-kerkez-torok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/v2crEs4wnusQm5PyZD3oa9ImNz3j8JEmFnEWPlZTaew/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyNjlmNGE4ZDQ0ZTRlMTZhMjcyNzE4NTljNjQ5MmJi.jpg",
+        "summary": "Kétszer is vezettek a Vörösök, Andoni Iraola cseréi felemásan váltak be.",
+        "category": "Politika",
+        "published_at": 1793821162
       }
     ]
   }
