@@ -32,12 +32,11 @@ export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "ti
   i18n: Record<Lang, LangContent>;
 };
 
-export const CATEGORIES = ["Általános", "Politika", "Gazdaság", "Erdély", "Sport", "Kultúra", "Bulvár"] as const;
+export const CATEGORIES = ["Általános", "Politika", "Gazdaság", "Sport", "Kultúra", "Bulvár"] as const;
 export const ALL = "Összes hír";
 
 const normCategory = (c?: string | null) => {
-  // A korábbi "Közélet" kategória az "Erdély" fül alá vonult
-  const key = (c ?? "").trim() === "Közélet" ? "Erdély" : (c ?? "").trim();
+  const key = (c ?? "").trim();
   const hit = CATEGORIES.find((k) => k.toLocaleLowerCase("hu") === key.toLocaleLowerCase("hu"));
   return hit ?? "Általános";
 };
