@@ -57,7 +57,7 @@ RSS_FEEDS = {
     "Index - Sport": "https://index.hu/sport/24ora/rss/",
     "24.hu - Sport": "https://24.hu/sport/feed/",
 
-    # --- TECH & TUDOMÁNY (Beolvasva, a Kultúra/Általános fül alá sorolva) ---
+    # --- TECH & TUDOMÁNY ---
     "HWSW": "https://www.hwsw.hu/xml/latest_news_rss.xml",
     "Prohardver": "https://prohardver.hu/hir/rss.xml",
     "HVG - Tudomány & Tech": "https://hvg.hu/rss/tudomany",
@@ -86,7 +86,6 @@ HEADERS = {
     "Accept-Language": "hu-HU,hu;q=0.9,en-US;q=0.8,en;q=0.7"
 }
 
-# A WEBOLDALON SZEREPLŐ EXACT KATEGÓRIÁKRA HANGOLVA:
 CATEGORIES = {
     "Politika": [
         "kormány", "parlament", "választás", "párt", "politika", "miniszter", "miniszterelnök", 
@@ -94,7 +93,8 @@ CATEGORIES = {
         "brüsszel", "eu", "orbán", "szijjártó", "magyar péter", "gyurcsány", "ellenzék", 
         "szavazás", "frakció", "országgyűlés", "polgármester", "főpolgármester", "képviselő",
         "parlamenti", "ügyészség", "ötpárti", "politikus", "kabinet", "államtitkár", "voks",
-        "demokrata", "republikánus", "trump", "biden", "fehér ház", "kongresszus", "szankció", "húti", "kína"
+        "demokrata", "republikánus", "trump", "biden", "fehér ház", "kongresszus", "szankció",
+        "húti", "kína", "háború", "hadsereg", "honvédség", "nato", "putin", "zelenszkij", "ukrajna"
     ],
     "Gazdaság": ["pénz", "euró", "forint", "huf", "infláció", "befektetés", "gazdaság", "cégek", "üzlet", "piac", "drágulás", "árak", "bank", "fizetés", "bér", "kamat", "mnb", "tőzsde", "gázár", "benzin"],
     "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "formai-1", "f1", "tenisz"],
@@ -170,19 +170,26 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text)
     return text
 
-def classify_article(title, summary, source_name):
-    text = f"{title} {summary}".lower()
-
-    # 1. LEGSZIGORÚBB POLITIKAI SZŰRÉS: Ha a szövegben vagy címben akár EGYETLEN politikai szó van, azonnal POLITIKA
+def is_political_text(text):
+    """Szigorú kifejezésellenőrző politika kiszűrésére"""
+    text_lower = text.lower()
     for kw in CATEGORIES["Politika"]:
-        if re.search(r'\b' + re.escape(kw) + r'\b', text):
-            return "Politika"
+        if re.search(r'\b' + re.escape(kw) + r'\b', text_lower):
+            return True
+    return False
 
-    # 2. Politikai források azonnali besorolása
-    if source_name in ["Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", "Híradó.hu (MTI)", "Magyar Nemzet"]:
+def classify_article(title, summary, source_name):
+    text = f"{title} {summary}"
+
+    # 1. HA KIFEJEZETTEN POLITIKAI ELEM VAN A SZÖVEGBEN
+    if is_political_text(text):
         return "Politika"
 
-    # 3. Specifikus kategória-források besorolása
+    # 2. POLITIKAI FORRÁSOK AUTOMATIKUS CSOPORTOSÍTÁSA
+    if source_name in ["Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", "Híradó.hu (MTI)", "Magyar Nemzet", "HVG - Itthon", "Telex - Belföld"]:
+        return "Politika"
+
+    # 3. SPECIFIKUS NON-POLITICAL FORRÁSOK
     if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport"]:
         return "Sport"
     if "Gazdaság" in source_name or source_name in ["Portfolio - Gazdaság", "Portfolio - Befektetés", "Világgazdaság"]:
@@ -192,12 +199,13 @@ def classify_article(title, summary, source_name):
     if "Tech" in source_name or source_name in ["HWSW", "Prohardver", "Rakéta.hu", "PC World"]:
         return "Kultúra"
 
-    # 4. Egyéb kategóriák keresése
+    # 4. EGYÉB KATEGÓRIÁK KERESÉSE
+    text_lower = text.lower()
     for category, keywords in CATEGORIES.items():
         if category in ["Politika", "Általános"]:
             continue
         for kw in keywords:
-            if re.search(r'\b' + re.escape(kw) + r'\b', text):
+            if re.search(r'\b' + re.escape(kw) + r'\b', text_lower):
                 return category
 
     return "Általános"
@@ -449,10 +457,27 @@ def run_pipeline():
 
     valid_news_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
 
+    # ==============================================================================
+    # STAGE 4: POST-VERIFICATION SAFETY NET (KÉTLÉPCSŐS FELÜLELLENŐRZÉS)
+    # ==============================================================================
+    verified_list = []
+    for item in valid_news_list:
+        full_text_to_check = f"{item.get('title_hu', '')} {item.get('lead_hu', '')} {item.get('content_hu', '')}"
+        
+        # Ha a források címeiben vagy a szintetizált szövegben politika van -> Politika kategória felülbírálás
+        for src in item.get("sources", []):
+            full_text_to_check += f" {src.get('title', '')}"
+
+        if is_political_text(full_text_to_check):
+            item["category"] = "Politika"
+
+        verified_list.append(item)
+
+    # Egyensúlyozás források szerint
     balanced_list = []
     skipped_items = []
 
-    for item in valid_news_list:
+    for item in verified_list:
         item_source = item.get("sources", [{}])[0].get("source")
         if (
             len(balanced_list) >= 2 
@@ -465,23 +490,8 @@ def run_pipeline():
 
     final_list = balanced_list + skipped_items
 
-    # AZ ÁLTALÁNOS FÜL TISZTÍTÁSA: Az "Általános" fülnél a politika arányának szigorú 15%-os korlátja
-    final_balanced_list = []
-    politics_count = 0
-    MAX_POLITICS_RATIO_IN_GENERAL = 0.15
-
-    for item in final_list:
-        is_politics = item.get("category") == "Politika"
-        
-        if is_politics:
-            if (len(final_balanced_list) > 0 and (politics_count / len(final_balanced_list)) > MAX_POLITICS_RATIO_IN_GENERAL):
-                continue
-            politics_count += 1
-            
-        final_balanced_list.append(item)
-
-    save_json_file(OUTPUT_FILE, final_balanced_list)
-    print(f"⚡ Magyar hírfrissítés kész! Megőrizve és besorolva {len(final_balanced_list)} cikk a {OUTPUT_FILE}-ban.")
+    save_json_file(OUTPUT_FILE, final_list)
+    print(f"⚡ Magyar hírfrissítés kész! Megőrizve, ellenőrizve és elmentve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
