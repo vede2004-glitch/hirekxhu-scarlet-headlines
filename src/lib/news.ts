@@ -261,23 +261,16 @@ export function applyLiveNews(items: NewsItem[]): boolean {
   return true;
 }
 
-// ---------------------------------------------------------------------------
-// Archívumok futásidejű betöltése (nem részei a szerver-csomagnak).
-// ---------------------------------------------------------------------------
-const HISTORY_BASE = "https://raw.githubusercontent.com/vede2004-glitch/pixel-perfect-prompt-712/main/src/data";
-const HISTORY_TTL_MS = 30 * 60 * 1000;
-let historyAt = 0;
-let historyLoading: Promise<void> | null = null;
+// A külső archívum-betöltés kikapcsolva: a helyi src/data/news.json az egyetlen
+// hírforrás, így a régi távoli archívumok nem töltődnek be többé.
+export function applyHistory(hist: unknown[], arch: unknown[]) {
+  void hist;
+  void arch;
+}
 
-async function fetchArray(name: string): Promise<unknown[] | null> {
-  try {
-    const res = await fetch(`${HISTORY_BASE}/${name}`);
-    if (!res.ok) return null;
-    const data: unknown = await res.json();
-    return Array.isArray(data) ? data : null;
-  } catch {
-    return null;
-  }
+/** Nem tölt már külső archívumot – a news.json a teljes híranyag. */
+export function ensureHistory(): Promise<void> {
+  return Promise.resolve();
 }
 
 /** Beépíti a kapott archív adatokat és újraszámolja a listákat. */
