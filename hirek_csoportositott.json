@@ -3823,22 +3823,6 @@
     ]
   },
   {
-    "group_id": "group_a8e26be1be",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Zelenszkij: Az oroszok nem tartották be a Trumpnak tett ígéretüket, így mi is folytatjuk az energetikai létesítmények elleni támadásokat",
-        "link": "https://hvg.hu/gazdasag/20261103_ukrajna-orosz-energetika-olajfinomito-tamadas-zelenszkij",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1b928fe9-0535-4ee5-b8c8-83f828f100eb.jpg",
-        "summary": "Éjjel meg is támadták az öt legnagyobb orosz olajfinomító egyikét.",
-        "category": "Gazdaság",
-        "published_at": 1793724635
-      }
-    ]
-  },
-  {
     "group_id": "group_e7c4646d95",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -8015,22 +7999,6 @@
     ]
   },
   {
-    "group_id": "group_c5b6ed037d",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Régi kommunisták, új vádak: súlyos állításokra reagált a Fidesz",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/orban-viktor-ugynokvad-fidesz-nemeth-miklos",
-        "image": "https://cdn.hirtv.hu/2026/11/lHfl2FI9tJXKWjdyAnDIMWMGCSwymOoehye7BkuQgGg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ4NWU1OTcxODhmNzQwNTQ5NGJmODlhZTU2ZjdmMDE3.webp",
-        "summary": "Három állítólagos jelentés, ellenőrizetlen hitelesség.",
-        "category": "Politika",
-        "published_at": 1793724955
-      }
-    ]
-  },
-  {
     "group_id": "group_50988f5a46",
     "category": "Általános",
     "articles_count": 1,
@@ -10565,7 +10533,7 @@
   {
     "group_id": "group_0301239126",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -10584,6 +10552,15 @@
         "summary": "Balog Zoltán nem indult a tisztségért, megválasztották a püspökség új főgondnokát is.",
         "category": "Politika",
         "published_at": 1793810029
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Balog Zoltán többé nem püspök",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/balog-zoltan-tobbe-nem-puspok-874318",
+        "image": "https://pcdn.hu/articles/images-xl/b/a/l/balog-zoltan-866944.jpg",
+        "summary": "Nyilas Zoltán András északpesti esperest választották a Dunamelléki Református Egyházkerület püspökévé - közölte az egyházkerület a honlapján szerdán. Az új püspök Balog Zoltánt váltja tisztségében, aki 2021 óta vezette az egyházkerületet, a kegyelmi ügy 2024-es kirobbanása után lemondott a református egyház vezetéséről, de maradt püspöki székében. Most nem indult a választáson.",
+        "category": "Gazdaság",
+        "published_at": 1793811180
       }
     ]
   },
@@ -11208,6 +11185,54 @@
         "summary": "A vásárlók egy része csak hónapok múlva juthat hozzá a közel kétezer dolláros telefonhoz.",
         "category": "Gazdaság",
         "published_at": 1793810701
+      }
+    ]
+  },
+  {
+    "group_id": "group_9caf09a110",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ébresztő a republikánusoknak: kevesebb külpolitikára, több gazdasági eredményre van szükség",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/ebreszto-a-republikanusoknak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/GulzMCA-G6O6fTFwINOkBbDqFTb_HqTrFX7LVvae-0I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkxOTY5MmY4NzU1ZjRhYTdhMmQ4Nzc4Nzk3Yzk5ZjJk.jpg",
+        "summary": "Az amerikai félidős választások eredményeit Kiss Rajmund diplomáciai és Amerika-szakértő elemezte lapunknak.",
+        "category": "Politika",
+        "published_at": 1793811086
+      }
+    ]
+  },
+  {
+    "group_id": "group_770e13f5eb",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Az ügynökaktákkal pörgött ma tovább az abszolút filmszínház, közben csendben a kormány is ülésezett",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/ugynokaktak-abszolut-filmszinhaz-magyar-peter-miniszterelnok-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/10/pgpjzJHgdm-FoXs7kUnUhj959RLMibioKrl9gHdtT5I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc5MWUyOGMxNmVjNzQxNmFhYzJhY2YwOGJiN2I5YzI4.jpg",
+        "summary": "Miközben egyre rosszabb számokat produkál a gazdaság, Magyar Péter és miniszterei inkább a múlttal foglalkoznak.",
+        "category": "Politika",
+        "published_at": 1793811067
+      }
+    ]
+  },
+  {
+    "group_id": "group_f31fbdae2c",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Lehet ma 60 millió forintért új építésű lakást venni? Meglepő választ adott a szakértő",
+        "link": "https://www.vg.hu/ingatlan/2026/11/uj-epitesu-lakas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/c4dhaCqdiy9DpYSHSUZmtrP64kP6YdOnSE44q7WFK4Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBhZTAwZmUzMjIzYjRiNjI4MTJhZTViYjA1OWNiNjE1.jpg",
+        "summary": "Akár 60-70 millió forintért is lehet új építésű lakást venni Budapesten. A szakértő szerint azonban a fiataloknak kompromisszumokat kell kötniük.",
+        "category": "Gazdaság",
+        "published_at": 1793811005
       }
     ]
   }
