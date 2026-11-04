@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Store gallery covers in `public/galeria` and select them through `src/lib/news-covers.ts` using stable URLs, so Cloudflare serves the same paths without hashed-asset manifest dependence.
