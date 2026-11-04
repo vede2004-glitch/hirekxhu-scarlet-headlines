@@ -1,5 +1,59 @@
 [
   {
+    "group_id": "group_cb331fd8f5",
+    "category": "Általános",
+    "image": "https://cdn.hirtv.hu/2026/11/-8pwFr6EVo5m6IYeA4kRkAZiOpr4SRcDHRm5_wyKPlg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwYzAwZDRlY2IzMzQ0ODk5Y2E4OGY2MWYzMDE3YjFj.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Köő Artúr: Társadalmi feszültséget idézhet elő az ügynökakták megismerése",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-koo-artur"
+      }
+    ],
+    "published_at": 1793798078,
+    "title_hu": "Köő Artúr: Társadalmi feszültséget idézhet elő az ügynökakták megismerése",
+    "lead_hu": "Mától nyilvánosak az egykori állambiztonsági iratok....",
+    "content_hu": "Mától nyilvánosak az egykori állambiztonsági iratok."
+  },
+  {
+    "group_id": "group_9ba6b24fba",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7241/72413/724130/72413035_f8c66a300ddddaaedeb776eee8585b11_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Horn-kormány egyik miniszterének neve 6-os kartonon szerepel",
+        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/megtalaltuk-a-horn-kormany-egyik-miniszterenek-nevet-az-egyik-6-os-kartonon/"
+      }
+    ],
+    "published_at": 1793797867,
+    "title_hu": "A Horn-kormány egyik miniszterének neve 6-os kartonon szerepel",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_010ed75d0f",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/jesus-de-miguel-gettyimages-2303385929-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Töredékmásodpercek dönthetnek a pályán – ez okozhatta a spanyol csatár halálát",
+        "link": "https://24.hu/sport/foci/2026/11/04/jesus-de-miguel-halala-tenerife-igazsagugyi-orovosszakerto-dr-kovacs-judit-24extra/"
+      }
+    ],
+    "published_at": 1793797827,
+    "title_hu": "Töredékmásodpercek dönthetnek a pályán – ez okozhatta a spanyol csatár halálát",
+    "lead_hu": "Jesús de Miguel az ellenfél kapusával ütközött, majd másnap életét vesztette. Mi okozhatta a halálát? Büntetőjogilag felelősségre vonható-e az ellenfél kapusa? Szakértőt kérdeztünk. The post Töredékmá...",
+    "content_hu": "Jesús de Miguel az ellenfél kapusával ütközött, majd másnap életét vesztette. Mi okozhatta a halálát? Büntetőjogilag felelősségre vonható-e az ellenfél kapusa? Szakértőt kérdeztünk. The post Töredékmásodpercek dönthetnek a pályán – ez okozhatta a spanyol csatár halálát first appeared on 24.hu."
+  },
+  {
     "group_id": "group_bbca009a15",
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261104/1793796811-temp-7hi637de7c2s5klheop_cimlap-normal.jpg",
@@ -687,12 +741,17 @@
     "category": "Politika",
     "image": "https://kep.index.hu/1/0/7241/72413/724136/72413651_5336365_9cf5fec8d2bfb7e58553b6f526246d3b_wm.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Index - Címlap",
         "title": "Volodimir Zelenszkij kitüntette Melania Trumpot",
         "link": "https://index.hu/kulfold/2026/11/04/volodimir-zelenszkij-kituntetes-melania-trump-oleski-tuzszunet/"
+      },
+      {
+        "source": "ATV",
+        "title": "Zelenszkij állami kitüntetéssel jutalmazta Trumpot",
+        "link": "https://www.atv.hu/kulfold/20261104/zelenszkij-kituntet-melania-trump/"
       }
     ],
     "published_at": 1793795880,
@@ -1848,7 +1907,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "HWSW",
@@ -1859,6 +1918,11 @@
         "source": "Femina",
         "title": "186 USB-töltőből csak 30 biztonságos: aggasztó eredménnyel zárult a friss vizsgálat",
         "link": "https://femina.hu/egeszseg/186-usb-toltobol-csak-30-biztonsagos-aggaszto-eredmennyel-zarult-a-friss-vizsgalat/"
+      },
+      {
+        "source": "Rakéta.hu",
+        "title": "Lesújtó eredményt mutat egy új vizsgálat: életveszélyes lehet sok töltő, melyeket nap mint nap használunk",
+        "link": "https://raketa.hu/nkfh-usb-toltok-biztonsagossag-2026-bevizsgalas/"
       }
     ],
     "published_at": 1793792100,
@@ -10125,6 +10189,24 @@
     "title_hu": "Hazánk szétrablói: Bárándy György és Suchman Tamás neve is előkerült az ügynökaktákból",
     "lead_hu": "Az ügyvéd Bokor Péter fedőnéven dolgozott együtt a szolgálatokkal.",
     "content_hu": "Az ügyvéd Bokor Péter fedőnéven dolgozott együtt a szolgálatokkal."
+  },
+  {
+    "group_id": "group_09cb46403d",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Szijjártó Péter a teljes családfáját kiposztolta közösségi oldalára",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/szijjarto-peter-a-teljes-csaladfajat-kiposztolta-kozossegi-oldalara"
+      }
+    ],
+    "published_at": 1793750400,
+    "title_hu": "Szijjártó Péter a teljes családfáját kiposztolta közösségi oldalára",
+    "lead_hu": "Hazánk legsikeresebb külügyminisztere Facebook-oldalára posztolta ki a családfáját....",
+    "content_hu": "Hazánk legsikeresebb külügyminisztere Facebook-oldalára posztolta ki a családfáját."
   },
   {
     "group_id": "group_ee41a1bfc0",
