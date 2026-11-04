@@ -3,6 +3,7 @@ import os
 import time
 import requests
 import hashlib
+import re
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor
@@ -26,13 +27,23 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
+ALLOWED_CATEGORIES = ["Politika", "Gazdaság", "Sport", "Kultúra", "Bulvár", "Általános"]
+
+POLITICAL_KEYWORDS = [
+    "kormány", "parlament", "választás", "párt", "politika", "miniszter", "miniszterelnök", 
+    "döntés", "törvény", "fidesz", "kdnp", "dk", "tisza", "momentum", "mi hazánk", 
+    "brüsszel", "eu", "orbán", "szijjártó", "magyar péter", "gyurcsány", "ellenzék", 
+    "szavazás", "frakció", "országgyűlés", "polgármester", "főpolgármester", "képviselő",
+    "parlamenti", "ügyészség", "ötpárti", "politikus", "kabinet", "államtitkár", "voks",
+    "demokrata", "republikánus", "trump", "biden", "fehér ház", "kongresszus", "szankció",
+    "húti", "kína", "háború", "hadsereg", "honvédség", "nato", "putin", "zelenszkij", "ukrajna"
+]
+
 # ==============================================================================
 # 2. SEGÉDFUNKCIÓK ÉS BIZTONSÁGI KORREKCIÓK
 # ==============================================================================
 def fix_hungarian_names_and_places(text: str) -> str:
-    """
-    Biztonsági védőháló a leggyakoribb félreírt magyar nevek javítására.
-    """
+    """Biztonsági védőháló a leggyakoribb félreírt magyar nevek javítására."""
     if not text:
         return text
 
@@ -52,6 +63,16 @@ def fix_hungarian_names_and_places(text: str) -> str:
         print(f"    ✍️ Biztonsági korrekció elvégezve ({fixed_count} automatikus javítás).")
         
     return text
+
+def is_political_text(text: str) -> bool:
+    """Szigorú ellenőrző a politika kiszűrésére"""
+    if not text:
+        return False
+    text_lower = text.lower()
+    for kw in POLITICAL_KEYWORDS:
+        if re.search(r'\b' + re.escape(kw) + r'\b', text_lower):
+            return True
+    return False
 
 def calculate_similarity(text1: str, text2: str) -> float:
     """Kiszámolja két szöveg hasonlóságát 0.0 és 1.0 között (ingyen Pythonban)."""
@@ -154,6 +175,7 @@ def prepare_prompt_content(articles: list, existing_synthesized_article: dict = 
 
     sources_used = []
     cover_image = articles[0].get("image", "")
+    default_cat = articles[0].get("category", "Általános")
 
     for res in scraped_results:
         sources_used.append({
@@ -174,37 +196,39 @@ def prepare_prompt_content(articles: list, existing_synthesized_article: dict = 
             new_sources_text += f"{res['content']}\n"
 
         prompt = f"""
-Te a magyar hírportál vezető szerkesztője vagy. Korábban már írtál egy pontokba szedett összefoglalót egy témában, de most ÚJ forrás(ok) érkeztek hozzá.
+Te a magyar hírportál vezető szerkesztője vagy. Korábban már írtál egy összefoglalót egy témában, de ÚJ források érkeztek.
 
-MÁR MEGLÉVŐ ÖSSZEFOGLALÓ (HU):
+MÁR MEGLÉVŐ ÖSSZEFOGLALÓ:
 Cím: {old_title_hu}
 Lead: {old_lead_hu}
 Tartalom:
 {old_content_hu}
 
-ÚJONNAN ÉRKEZETT FORRÁSOK TARTALMA:
+ÚJ FORRÁSOK:
 {new_sources_text}
 
 FELADAT:
 1. Vizsgáld meg az új forrásokat!
-2. HA tartalmaz új tényt, adatsort vagy dátumot, EGÉSZÍTSD KI a meglévő pontokból álló listát újabb gondolatjelekkel (•)!
+2. HA tartalmaz új tényt/adatot, EGÉSZÍTSD KI a pontokból álló listát újabb gondolatjelekkel (•)!
 3. HA nincs benne új információ, állítsd a "skip" mezőt true-ra!
-4. Írd meg a frissített összefoglalót MAGYAR nyelven!
+4. Sorold be a cikk témáját KIZÁRÓLAG az alábbi 6 kategória egyikébe: "Politika", "Gazdaság", "Sport", "Kultúra", "Bulvár", "Általános".
+(FIGYELEM: Ha a cikk pártokról, kormányról, politikusokról, választásról vagy döntésekről szól, KÖTELEZŐ a "Politika" kategóriát választanod!)
 
-SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK:
-- A "content_hu" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
-- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
+SZIGORÚ FORMÁTUMSZABÁLYOK:
+- A "content_hu" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő pontokat írj!
+- MINDEN PONT ELEJÉN A KULCSÁLLÍTÁST FÉLKÖVÉR MARKDOWN-NAL (**szöveg**) KIEMELD!
 
-KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
+JSON SZERKEZET:
 {{
   "skip": false,
+  "category": "Politika",
   "title_hu": "Frissített magyar cím",
   "lead_hu": "Frissített 2-3 mondatos magyar lead",
-  "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• **Kulcsszó vagy Szereplő** második magyar pont...",
+  "content_hu": "• **Dátum vagy Főállítás** első pont...\\n\\n• **Kulcsszó** második pont...",
   "used_sources_indices": [1, 2]
 }}
 """
-        return prompt, cover_image, sources_used
+        return prompt, cover_image, sources_used, default_cat
 
     # PROMPT: ÚJ CIKK GENERÁLÁSA
     combined_sources = ""
@@ -216,36 +240,37 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 Te a hírportál vezető szerkesztője vagy. Az alábbiakban megadok több hírforrásból származó cikket egy témacsoportból.
 
 FELADAT ÉS SZŰRÉS:
-1. Szigorúan vizsgáld meg a megadott források tartalmát!
-2. HA BÁRMELYIK FORRÁS NEM UGYANARRÓL AZ ESEMÉNYRŐL SZÓL, AZT TELJESEN HAGYD KI!
-3. Ha a szűrés után nem marad legalább 2 összetartozó forrás, állítsd a "skip" mezőt true-ra!
-4. Készíts egy teljes értékű összefoglalót MAGYARUL!
+1. Vizsgáld meg a forrásokat! HA BÁRMELYIK NEM UGYANARRÓL AZ ESEMÉNYRŐL SZÓL, AZT HAGYD KI!
+2. Ha nem marad legalább 2 összetartozó forrás, állítsd a "skip" mezőt true-ra!
+3. Készíts egy összefoglalót MAGYARUL!
+4. Sorold be a cikk témáját KIZÁRÓLAG az alábbi 6 kategória egyikébe: "Politika", "Gazdaság", "Sport", "Kultúra", "Bulvár", "Általános".
+(FIGYELEM: Ha a cikk pártokról, kormányról, politikusokról, választásokról, parlamenti döntésekről szól, KÖTELEZŐ a "Politika" kategóriát választanod!)
 
-SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK:
-- A "content_hu" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
-- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
+SZIGORÚ FORMÁTUMSZABÁLYOK:
+- A "content_hu" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő pontokat írj!
+- MINDEN PONT ELEJÉN A KULCSÁLLÍTÁST FÉLKÖVÉR MARKDOWN-NAL (**szöveg**) KIEMELD!
 
-KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
+JSON SZERKEZET:
 {{
   "skip": false,
-  "title_hu": "A tényekre fókuszáló magyar cím",
-  "lead_hu": "2-3 mondatos magyar összefoglaló lead",
-  "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• A **Kulcsszó** második fontos pont...",
+  "category": "Politika",
+  "title_hu": "Magyar cím",
+  "lead_hu": "2-3 mondatos lead",
+  "content_hu": "• **Dátum vagy Főállítás** első pont...\\n\\n• **Kulcsszó** második pont...",
   "used_sources_indices": [1, 2]
 }}
 
 FORRÁSOK:
 {combined_sources}
 """
-    return prompt, cover_image, sources_used
+    return prompt, cover_image, sources_used, default_cat
 
 def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, group_fingerprint: str):
     is_update = bool(existing_synthesized and existing_synthesized.get("is_synthesized") and not existing_synthesized.get("rejected"))
     tag = "🔄 [FORRÁSBŐVÍTÉS / ÚJRAÍRÁS]" if is_update else "🆕 [ÚJ TÉMA GENERÁLÁSA]"
     
     print(f"\n{tag} Csoport [{g_id}] feldolgozása indult ({len(articles)} db forrás)...")
-    prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
-    category = articles[0].get("category", "Belföld")
+    prompt, cover_image, sources_used, default_cat = prepare_prompt_content(articles, existing_synthesized)
 
     latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
@@ -291,21 +316,35 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
             }
             return [rejected_entry], False, is_update
 
-        print(f"✨ Cikk sikeresen generálva [{g_id}]: '{parsed_article.get('title_hu', '')}'")
+        # AI által visszaadott kategória beállítása és felülvizsgálata
+        ai_category = parsed_article.get("category", default_cat)
+        if ai_category not in ALLOWED_CATEGORIES:
+            ai_category = default_cat
+
+        title_hu = fix_hungarian_names_and_places(parsed_article.get("title_hu", ""))
+        lead_hu = fix_hungarian_names_and_places(parsed_article.get("lead_hu", ""))
+        content_hu = fix_hungarian_names_and_places(parsed_article.get("content_hu", ""))
+
+        # 🛑 KETTŐS SAFETY NET: Ha a generált cikkben politikai elem van -> Azonnal Politika!
+        full_text_to_check = f"{title_hu} {lead_hu} {content_hu}"
+        if is_political_text(full_text_to_check):
+            ai_category = "Politika"
+
+        print(f"✨ Cikk sikeresen generálva [{g_id}] (Kategória: {ai_category}): '{title_hu}'")
 
         synthesized_entry = {
             "group_id": g_id,
             "fingerprint": group_fingerprint,
-            "category": category,
+            "category": ai_category,
             "image": cover_image,
             "is_synthesized": True,
             "rejected": False,
             "sources_count": len(filtered_sources),
             "sources": filtered_sources,
             "published_at": latest_timestamp,
-            "title_hu": fix_hungarian_names_and_places(parsed_article.get("title_hu", "")),
-            "lead_hu": fix_hungarian_names_and_places(parsed_article.get("lead_hu", "")),
-            "content_hu": fix_hungarian_names_and_places(parsed_article.get("content_hu", ""))
+            "title_hu": title_hu,
+            "lead_hu": lead_hu,
+            "content_hu": content_hu
         }
         return [synthesized_entry], True, is_update
 
@@ -374,15 +413,21 @@ def run_synthesis_direct():
             art = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
             summ = fix_hungarian_names_and_places(art.get("summary", "") or "")
             lead = (summ[:200] + "…") if len(summ) > 200 else summ
+            title = fix_hungarian_names_and_places(art.get("title", ""))
+            
+            cat = art.get("category", "Általános")
+            if is_political_text(f"{title} {summ}"):
+                cat = "Politika"
+
             single_results.append({
                 "group_id": g_id,
-                "category": art.get("category", "Belföld"),
+                "category": cat,
                 "image": art.get("image"),
                 "is_synthesized": False,
                 "sources_count": 1,
                 "sources": [{"source": art.get("source", ""), "title": art.get("title", ""), "link": art.get("link", "")}],
                 "published_at": latest_timestamp,
-                "title_hu": fix_hungarian_names_and_places(art.get("title", "")), 
+                "title_hu": title, 
                 "lead_hu": lead, 
                 "content_hu": summ
             })
