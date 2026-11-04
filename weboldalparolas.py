@@ -15,33 +15,32 @@ from concurrent.futures import ThreadPoolExecutor
 from sentence_transformers import SentenceTransformer
 
 # ==============================================================================
-# 1. KONFIGURÁCIÓ
+# 1. KONFIGURÁCIÓ (FRISSÍTETT MŰKÖDŐ RSS LINKETK ÉS FEJLÉCEK)
 # ==============================================================================
 RSS_FEEDS = {
     # --- POLITIKA ÉS BELFÖLD ---
-    "Index - Belföld": "https://index.hu/belfold/24ora/rss/",
+    "Index - Címlap": "https://index.hu/24ora/rss/",
     "Telex - Belföld": "https://telex.hu/rss",
     "24.hu - Belföld": "https://24.hu/belfold/feed/",
     "HVG - Itthon": "https://hvg.hu/rss/itthon",
     "444.hu": "https://444.hu/feed",
-    "Híradó.hu (MTI)": "https://hirado.hu/feed",
+    "Híradó.hu (MTI)": "https://hirado.hu/feed/",
     "Magyar Nemzet": "https://magyarnemzet.hu/feed",
     "Mandiner": "https://mandiner.hu/rss",
     "ATV": "https://www.atv.hu/rss",
     "Magyar Narancs": "https://magyarnarancs.hu/rss",
-    "Szeretlek Magyarország": "https://www.szeretlekmagyarorszag.hu/feed",
+    "Szeretlek Magyarország": "https://www.szeretlekmagyarorszag.hu/rss/",
     "Vadhajtások": "https://www.vadhajtasok.hu/feed",
-    "Magyar Jelen": "https://magyarjelen.hu/feed/",
+    "Magyar Jelen": "https://magyarjelen.hu/feed",
     "Konfront": "https://konfront.hu/feed",
 
-    # --- ORIGO ---
-    "Origo - Címlap": "https://www.origo.hu/rss",
-    "Origo - Itthon": "https://www.origo.hu/itthon/rss",
-    "Origo - Nagyvilág": "https://www.origo.hu/nagyvilag/rss",
-    "Origo - Gazdaság": "https://www.origo.hu/gazdasag/rss",
+    # --- ORIGO (JAVÍTOTT KÖZVETLEN XML MANIFESTEK) ---
+    "Origo - Címlap": "https://www.origo.hu/rss/origo.xml",
+    "Origo - Itthon": "https://www.origo.hu/rss/itthon.xml",
+    "Origo - Nagyvilág": "https://www.origo.hu/rss/nagyvilag.xml",
+    "Origo - Gazdaság": "https://www.origo.hu/rss/gazdasag.xml",
 
     # --- KÜLFÖLD ---
-    "Index - Külföld": "https://index.hu/kulfold/24ora/rss/",
     "24.hu - Külföld": "https://24.hu/kulfold/feed/",
     "HVG - Világ": "https://hvg.hu/rss/vilag",
 
@@ -52,9 +51,8 @@ RSS_FEEDS = {
     "Világgazdaság": "https://www.vg.hu/feed",
 
     # --- SPORT ---
-    "Nemzeti Sport": "https://m.nemzetisport.hu/rss",
-    "M4 Sport": "https://m4sport.hu/feed",
-    "Index - Sport": "https://index.hu/sport/24ora/rss/",
+    "Nemzeti Sport": "https://www.nemzetisport.hu/rss/nemzetisport.xml",
+    "M4 Sport": "https://m4sport.hu/feed/",
     "24.hu - Sport": "https://24.hu/sport/feed/",
 
     # --- TECH & TUDOMÁNY ---
@@ -83,7 +81,9 @@ SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-    "Accept-Language": "hu-HU,hu;q=0.9,en-US;q=0.8,en;q=0.7"
+    "Accept-Language": "hu-HU,hu;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache"
 }
 
 CATEGORIES = {
@@ -117,7 +117,7 @@ def get_model():
     return _MODEL
 
 # ==============================================================================
-# 2. SEGÉDFUNKCIÓK ÉS AKUT KATEGÓRIA OSZTÁLYOZÓ
+# 2. SEGÉDFUNKCIÓK ÉS KATEGÓRIA OSZTÁLYOZÓ
 # ==============================================================================
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
@@ -181,15 +181,12 @@ def is_political_text(text):
 def classify_article(title, summary, source_name):
     text = f"{title} {summary}"
 
-    # 1. HA KIFEJEZETTEN POLITIKAI ELEM VAN A SZÖVEGBEN
     if is_political_text(text):
         return "Politika"
 
-    # 2. POLITIKAI FORRÁSOK AUTOMATIKUS CSOPORTOSÍTÁSA
     if source_name in ["Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", "Híradó.hu (MTI)", "Magyar Nemzet", "HVG - Itthon", "Telex - Belföld"]:
         return "Politika"
 
-    # 3. SPECIFIKUS NON-POLITICAL FORRÁSOK
     if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport"]:
         return "Sport"
     if "Gazdaság" in source_name or source_name in ["Portfolio - Gazdaság", "Portfolio - Befektetés", "Világgazdaság"]:
@@ -199,7 +196,6 @@ def classify_article(title, summary, source_name):
     if "Tech" in source_name or source_name in ["HWSW", "Prohardver", "Rakéta.hu", "PC World"]:
         return "Kultúra"
 
-    # 4. EGYÉB KATEGÓRIÁK KERESÉSE
     text_lower = text.lower()
     for category, keywords in CATEGORIES.items():
         if category in ["Politika", "Általános"]:
@@ -280,16 +276,33 @@ def fetch_single_feed(item_and_cutoff):
     extracted = []
     session = requests.Session()
     session.headers.update(HEADERS)
+    
     try:
-        response = session.get(feed_url, timeout=15, allow_redirects=True)
-        response.raise_for_status()
-        feed = feedparser.parse(response.content)
+        response = session.get(feed_url, timeout=12, allow_redirects=True)
+        
+        # Ha a szerver HTTP 403, 500 vagy 503 hibát dob, megpróbáljuk közvetlenül a feedparser-rel beolvasni
+        if response.status_code in [403, 500, 503]:
+            feed = feedparser.parse(feed_url)
+        else:
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
+
         for entry in feed.entries:
             art = extract_article_data(entry, source_name, session, cutoff_24h)
             if art and art["title"]:
                 extracted.append(art)
-    except Exception as e:
-        print(f"⚠️ Hiba a(z) {source_name} feed beolvasásakor: {e}")
+                
+    except Exception:
+        # Fallback közvetlen hálózati megkerülésre
+        try:
+            feed = feedparser.parse(feed_url)
+            for entry in feed.entries:
+                art = extract_article_data(entry, source_name, session, cutoff_24h)
+                if art and art["title"]:
+                    extracted.append(art)
+        except Exception as e:
+            print(f"⚠️ Hiba a(z) {source_name} feed beolvasásakor: {e}")
+            
     return extracted
 
 # ==============================================================================
@@ -457,14 +470,11 @@ def run_pipeline():
 
     valid_news_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
 
-    # ==============================================================================
-    # STAGE 4: POST-VERIFICATION SAFETY NET (KÉTLÉPCSŐS FELÜLELLENŐRZÉS)
-    # ==============================================================================
+    # STAGE 4: KÉTLÉPCSŐS FELÜLELLENŐRZÉS (POLITIKAI FELÜLBÍRÁLÁS)
     verified_list = []
     for item in valid_news_list:
         full_text_to_check = f"{item.get('title_hu', '')} {item.get('lead_hu', '')} {item.get('content_hu', '')}"
         
-        # Ha a források címeiben vagy a szintetizált szövegben politika van -> Politika kategória felülbírálás
         for src in item.get("sources", []):
             full_text_to_check += f" {src.get('title', '')}"
 
@@ -473,7 +483,6 @@ def run_pipeline():
 
         verified_list.append(item)
 
-    # Egyensúlyozás források szerint
     balanced_list = []
     skipped_items = []
 
