@@ -1174,40 +1174,6 @@
     ]
   },
   {
-    "group_id": "group_103ca0fc6a",
-    "category": "Belföld",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Lemond a spanyol közlekedési miniszter a 69 halálos áldozatot követelő vonatbaleset után",
-        "link": "https://telex.hu/kulfold/2026/11/03/spanyolorszag-vonatbaleset-kozlekedesi-miniszter-lemondas-halalos-aldozatok",
-        "image": "https://assets.telex.hu/images/20261103/1793740979-temp-msjpk19dmhj22eikaml_cimlap-normal.jpg",
-        "summary": "Szerinte nem maradhat a helyén, miután egy éven belül két komoly vonatbaleset is történt az országban.",
-        "category": "Belföld",
-        "published_at": 1793741138
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Lemondott a spanyol közlekedési miniszter a 69 halálos áldozattal járó vonatbaleset miatt",
-        "link": "https://hvg.hu/vilag/20261104_spanyol-kozlekedesi-miniszter-vonatbaleset-lemondas",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa2ae0b1-83fb-401f-897c-b6a2bb6099ca.jpg",
-        "summary": "Óscar Puente a mostani mellett a januári, 46 életet követelő balesettel indokolta a lemondását, egyúttal a következő választástól is visszalépett.",
-        "category": "Külföld",
-        "published_at": 1793773507
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Lemondott a spanyol közlekedési miniszter az urdai vasúti katasztrófa miatt",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/lemondott-a-spanyol-kozlekedesi-miniszter-az-urdai-vasuti-katasztrofa-miatt",
-        "image": "",
-        "summary": "Lemondott kedd este Óscar Puente spanyol közlekedési miniszter a hat nappal korábban Urda kisvárosnál történt, 69 halálos áldozatot követelő vasúti katasztrófa miatt.Többórás parlamenti meghallgatása után Puente közölte, hogy...",
-        "category": "Politika",
-        "published_at": 1793807100
-      }
-    ]
-  },
-  {
     "group_id": "group_af016e00f8",
     "category": "Belföld",
     "articles_count": 1,
@@ -2562,6 +2528,31 @@
     ]
   },
   {
+    "group_id": "group_103ca0fc6a",
+    "category": "Külföld",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "HVG - Világ",
+        "title": "Lemondott a spanyol közlekedési miniszter a 69 halálos áldozattal járó vonatbaleset miatt",
+        "link": "https://hvg.hu/vilag/20261104_spanyol-kozlekedesi-miniszter-vonatbaleset-lemondas",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa2ae0b1-83fb-401f-897c-b6a2bb6099ca.jpg",
+        "summary": "Óscar Puente a mostani mellett a januári, 46 életet követelő balesettel indokolta a lemondását, egyúttal a következő választástól is visszalépett.",
+        "category": "Külföld",
+        "published_at": 1793773507
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Lemondott a spanyol közlekedési miniszter az urdai vasúti katasztrófa miatt",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/lemondott-a-spanyol-kozlekedesi-miniszter-az-urdai-vasuti-katasztrofa-miatt",
+        "image": "",
+        "summary": "Lemondott kedd este Óscar Puente spanyol közlekedési miniszter a hat nappal korábban Urda kisvárosnál történt, 69 halálos áldozatot követelő vasúti katasztrófa miatt.Többórás parlamenti meghallgatása után Puente közölte, hogy...",
+        "category": "Politika",
+        "published_at": 1793807100
+      }
+    ]
+  },
+  {
     "group_id": "group_f1265e05f8",
     "category": "Külföld",
     "articles_count": 1,
@@ -3730,22 +3721,6 @@
         "summary": "A Vízcseppnyi élet című alkotás a tél jég alatti csendjétől a nyári vízvirágzáson át egy éven át követi egy tó planktonközösségének változásait.",
         "category": "Tech",
         "published_at": 1793742451
-      }
-    ]
-  },
-  {
-    "group_id": "group_b8b39f079c",
-    "category": "Tech",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Aggasztó jövőt vetít elénk egy nemrég bemutatott tanulmány: a Balaton szétszakadhat három különböző részre az évszázad végére",
-        "link": "https://raketa.hu/aggaszto-jovot-josol-egy-nemreg-bemutatott-klimamodell-a-balaton-szetszakadhat-harom-kulonbozo-reszre-az-evszazad-vegere/",
-        "image": "https://raketa.hu/uploads/2026/07/bence-balla-schottner-Od7dXSSQMn0-unsplash.jpg",
-        "summary": "Egy pesszimista klímamodell szerint a tó vízszintje annyira lecsökkenhet a század végére, hogy három nagyobb, egymástól elkülönülő vízfelületre húzódhat vissza.",
-        "category": "Tech",
-        "published_at": 1793741032
       }
     ]
   },
@@ -13059,6 +13034,22 @@
         "summary": "A következő hónapokban akár véget is érhet az ukrajnai háború – legalábbis erre számít a fehérorosz elnök.",
         "category": "Politika",
         "published_at": 1793826000
+      }
+    ]
+  },
+  {
+    "group_id": "group_77ebc9c07a",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Így nézhetett ki az Alföld 200 évvel ezelőtt az AI-jal rekonstruált tájképek szerint",
+        "link": "https://raketa.hu/hiteles-tajrekonstrukcio-elte-ttk-ai/",
+        "image": "https://raketa.hu/uploads/2026/11/ktf_nagykoru01.jpg",
+        "summary": "AI-eszközök segítségével már az is lehetséges, hogy a kutatók egy régi táj hiteles képét rekonstruálhassák, persze ehhez nagy mennyiségű tudományos adatra van szükség.",
+        "category": "Kultúra",
+        "published_at": 1793827764
       }
     ]
   }
