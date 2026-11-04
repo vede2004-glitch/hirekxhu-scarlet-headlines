@@ -565,22 +565,6 @@
     ]
   },
   {
-    "group_id": "group_09801103ce",
-    "category": "Belföld",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Belföld",
-        "title": "Feledy Botond Lázár János mellett Navracsics Tibornak is bedolgozott",
-        "link": "https://index.hu/belfold/2026/11/03/feledy-botond-magyar-kulugyi-intezet-menesztes-navracsics-tibor-lazar-janos/",
-        "image": "https://kep.index.hu/1/0/7083/70831/708311/70831109_5224389_46a689ac9e150fa58d592153afc33d8d_wm.jpg",
-        "summary": "Több mint 11,9 millió forint értékben végzett külpolitikai és geopolitikai elemzői munkát a volt területfejlesztési miniszter számára.",
-        "category": "Belföld",
-        "published_at": 1793724480
-      }
-    ]
-  },
-  {
     "group_id": "group_fdbd10bb72",
     "category": "Belföld",
     "articles_count": 6,
@@ -3146,22 +3130,6 @@
     ]
   },
   {
-    "group_id": "group_ccd4687b88",
-    "category": "Külföld",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Külföld",
-        "title": "Megállíthatatlanul terjed az ebola, már 5000 halottnál jár a vírus, és Európába is elérhet",
-        "link": "https://index.hu/kulfold/2026/11/03/ebola-virus-jarvany-fertozes-terjedes-veszely-europa-afrika/",
-        "image": "https://kep.index.hu/1/0/7239/72395/723952/72395253_5334981_d5bfff2c2502ee1eca4b0eea97413ea4_wm.jpg",
-        "summary": "Végzetes hibát emlegetnek, riasztást adott ki a nemzetközi egészségügyi szervezet.",
-        "category": "Külföld",
-        "published_at": 1793724480
-      }
-    ]
-  },
-  {
     "group_id": "group_9235f34ea0",
     "category": "Külföld",
     "articles_count": 1,
@@ -3871,22 +3839,6 @@
     ]
   },
   {
-    "group_id": "group_1f2e12e152",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Trumpék leállítják az Izraelnek folyósított katonai támogatást, mert „már nincs szükségük rá”",
-        "link": "https://hvg.hu/gazdasag/20261103_donald-trump-benjamin-netanjahu-usa-izrael-amerikai-segely-negy-milliard",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9a8561bd-c939-426a-87dd-59a6e8662d94.jpg",
-        "summary": "Két évvel a határidő lejárta előtt szűnik meg a támogatás.",
-        "category": "Gazdaság",
-        "published_at": 1793724306
-      }
-    ]
-  },
-  {
     "group_id": "group_e7c4646d95",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -4558,31 +4510,6 @@
     ]
   },
   {
-    "group_id": "group_c49a039070",
-    "category": "Tech",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Néhány órára leállnak az online közigazgatási portálok vasárnap hajnalban",
-        "link": "https://hvg.hu/tudomany/20261103_online-kozigazgatasi-portalok-karbantartas-leallas",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5b6b39c5-4ed5-4cdd-9e5c-427c169c7e6c.jpg",
-        "summary": "Az Ügyfélkapu és az EgészségAblak sem lesz elérhető.",
-        "category": "Tech",
-        "published_at": 1793724486
-      },
-      {
-        "source": "PC World",
-        "title": "Átmenetileg leáll az Ügyfélkapu és több fontos állami online szolgáltatás",
-        "link": "https://www.pcwplus.hu/pcwlite/atmenetileg-leall-az-ugyfelkapu-es-tobb-fontos-allami-online-szolgaltatas-390400.html",
-        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2501/14/ugyfelkapu_152653_1_original_390x220_cover.jpg",
-        "summary": "Karbantartás miatt órákra elérhetetlenné válik a legtöbb digitális közigazgatási ügyintézési felület.",
-        "category": "Tech",
-        "published_at": 1793738591
-      }
-    ]
-  },
-  {
     "group_id": "group_4a90376ed2",
     "category": "Tech",
     "articles_count": 1,
@@ -4812,6 +4739,22 @@
         "summary": "Használt, de felújított PlayStation 5-ök formájában kínálna a Sony megfizethetőbb alternatívát.",
         "category": "Tech",
         "published_at": 1793770227
+      }
+    ]
+  },
+  {
+    "group_id": "group_c49a039070",
+    "category": "Tech",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "PC World",
+        "title": "Átmenetileg leáll az Ügyfélkapu és több fontos állami online szolgáltatás",
+        "link": "https://www.pcwplus.hu/pcwlite/atmenetileg-leall-az-ugyfelkapu-es-tobb-fontos-allami-online-szolgaltatas-390400.html",
+        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2501/14/ugyfelkapu_152653_1_original_390x220_cover.jpg",
+        "summary": "Karbantartás miatt órákra elérhetetlenné válik a legtöbb digitális közigazgatási ügyintézési felület.",
+        "category": "Tech",
+        "published_at": 1793738591
       }
     ]
   },
@@ -9529,7 +9472,7 @@
   {
     "group_id": "group_94c914bbd3",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -9557,6 +9500,15 @@
         "summary": "Szita Károly kaposvári polgármester szerint nincs semmi új abban, hogy ügynöki múlttal vádolják. A 32 éve hivatalban lévő városvezető hangsúlyozza, hogy soha nem volt ügynök, és senkinek sem ártott. Állítása szerint 2005-ös feljelentése nyomán az ügyészség megállapította, hogy manipulálták az iratokat, a tettest azonban nem sikerült azonosítani. Ungváry Krisztián történész, aki elsőként írt Szita múltjáról, ezzel szemben azt mondja, hogy a most nyilvánossá vált, gazdag adatokkal kitöltött karton egyértelműen bizonyítja a beszervezés tényét.",
         "category": "Politika",
         "published_at": 1793809380
+      },
+      {
+        "source": "ATV",
+        "title": "Fideszes polgármester az ügynökügyről: „soha nem ártottam senkinek”",
+        "link": "https://www.atv.hu/belfold/20261104/polgarmester-kaposvar-ugynokakta-szita/",
+        "image": "",
+        "summary": "Kaposvár polgármestere szerint „nincs ebben semmi új”, Szita Károly szerint az élete nyitott könyv.",
+        "category": "Politika",
+        "published_at": 1793810820
       }
     ]
   },
@@ -10540,7 +10492,7 @@
   {
     "group_id": "group_8042ab3aac",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "444.hu",
@@ -10550,6 +10502,15 @@
         "summary": "A rendszerváltó értelmiség meghatározó alakját húszévesen szervezték be. Állítása szerint soha nem jelentett, végül ki is zárták a hálózatból.",
         "category": "Politika",
         "published_at": 1793806672
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Megszólalt Gyurgyák János, miután kiderült, hogy beszervezték",
+        "link": "https://hvg.hu/itthon/20261104_gyurgyak-janos-tortenesz-beszervezes-ugynokaktak-reakcio",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7f91c8d5-c265-4de2-9882-1f818897dec3.jpg",
+        "summary": "„Soha nem jelentettem senkiről, de borzalmasan bánt a történet, évtizedek óta mardosom magam miatta” – nyilatkozta a történész.",
+        "category": "Politika",
+        "published_at": 1793810536
       }
     ]
   },
@@ -11135,6 +11096,118 @@
         "summary": "Magas rangú politikusok sora mondta el a véleményét arról, hogy a demokraták elsöprő győzelmet arattak az Egyesült Államokban.",
         "category": "Általános",
         "published_at": 1793810284
+      }
+    ]
+  },
+  {
+    "group_id": "group_c21831ee0f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Kísértés Nikije és új párja, Dávid elárulták, együtt vannak-e még a reality forgatása óta",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/04/kisertes-niki-es-david/",
+        "image": "https://kep.index.hu/1/0/7241/72415/724152/72415267_4b01cffc42d43d0dbb72b8da12b863c3_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1793810884
+      }
+    ]
+  },
+  {
+    "group_id": "group_b14f1f2e59",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Látványosan javult a költségvetés helyzete, milliárdos megtakarításokról számolt be a pénzügyminiszter",
+        "link": "https://index.hu/gazdasag/2026/11/04/karman-andras-kozponti-alrendszer-hiany-allamhaztartas-koltsegvetes/",
+        "image": "https://kep.index.hu/1/0/6966/69669/696698/69669839_5140899_91bf0bf3975e787920664f12e3e7efea_wm.jpg",
+        "summary": "Kármán András emlékeztetett, hogy komoly kiadáscsökkenéssel számolnak 2027-ben.",
+        "category": "Általános",
+        "published_at": 1793810700
+      }
+    ]
+  },
+  {
+    "group_id": "group_e04570aa87",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A Revolut kivezeti Magyarországról a tőzsdei árukkal kapcsolatos szolgáltatásait",
+        "link": "https://telex.hu/gazdasag/2026/11/04/a-revolut-kivezeti-magyarorszagrol-a-tozsdei-arukkal-kapcsolatos-szolgaltatasait",
+        "image": "https://assets.telex.hu/images/20261104/1793810344-temp-beele6nt0ran6gfgidj_cimlap-normal.jpg",
+        "summary": "Csak a magyar ügyfeleket érinti a bejelentés, januárig lehet eladni a meglévő állományokat.",
+        "category": "Politika",
+        "published_at": 1793810790
+      }
+    ]
+  },
+  {
+    "group_id": "group_80d09f7d1e",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "J. D. Vance szerint a republikánus vereség okai: Irán, dráguló megélhetés, Izrael",
+        "link": "https://444.hu/2026/11/04/j-d-vance-szerint-a-republikanus-vereseg-okai-iran-dragulo-megelhetes-izrael?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Az amerikai alelnök szerint a választási vereség elemzését mindenképp az iráni háborúval kell kezdeni.",
+        "category": "Politika",
+        "published_at": 1793810608
+      }
+    ]
+  },
+  {
+    "group_id": "group_5787d97e42",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Illene egyéni csúcsokat úszni” – Kós Hubert nagy dobásra készül a vébén",
+        "link": "https://24.hu/sport/2026/11/04/rovidpalyas-uszo-vb-kos-hubert-egyeni-csucsot-akar/",
+        "image": "https://s.24.hu/app/uploads/2026/11/d__hr20260816109-e1793810485795-1024x575.jpg",
+        "summary": "A 23 éves olimpiai bajnok nem érné be sima győzelemmel. The post „Illene egyéni csúcsokat úszni” – Kós Hubert nagy dobásra készül a vébén first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1793810648
+      }
+    ]
+  },
+  {
+    "group_id": "group_a5baf0cfac",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Világszenzáció a Margit hídnál: célba ért a kvantumkulccsal titkosított rádióüzenet",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/vilagszenzacio-a-margit-hidnal-celba-ert-a-kvantumkulccsal-titkositott-radiouzenet-874316",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1718516027-kiberbiztonsag-adatbiztonsag-titkositas-informaciobiztonsag-adatvedel-866942.jpg",
+        "summary": "Kvantumkulccsal titkosított rádióüzeneteket váltottak Budapesten a HUN-REN Wigner Fizikai Kutatóközpont és az Eötvös Loránd Tudományegyetem (ELTE) kutatói - közölte a HUN-REN Magyar Kutatási Hálózat szerdán az MTI-vel.",
+        "category": "Gazdaság",
+        "published_at": 1793810580
+      }
+    ]
+  },
+  {
+    "group_id": "group_0297ac2b13",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Nem elég, hogy repedezik, még hozzájutni se lehet: újabb rossz hír jött az Apple hajlítható telefonjáról – nem alakul fényesen az iPhone Duo útja",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/iphone-duo-apple-botrany-crackgate-keszulekhiany-hiba?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/yk9vqMW2VyTBmGFYdABzXKIy55o0EnUtT2ZH9K5AgWI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FjNjJkZGNlODUwMzRmMDU5ZWNhNDcyOTdkYmFiZWFk.jpg",
+        "summary": "A vásárlók egy része csak hónapok múlva juthat hozzá a közel kétezer dolláros telefonhoz.",
+        "category": "Gazdaság",
+        "published_at": 1793810701
       }
     ]
   }
