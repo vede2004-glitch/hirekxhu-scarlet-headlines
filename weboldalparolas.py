@@ -74,7 +74,6 @@ RSS_FEEDS = {
     "NLC (Nők Lapja Café)": "https://nlc.hu/feed/",
     "24.hu - Élet-Stílus": "https://24.hu/elet-stilus/feed/"
 }
-
    
 MEMORY_FILE = "hirek_memoria.json"
 GROUPED_FILE = "hirek_csoportositott.json"
