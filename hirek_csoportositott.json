@@ -4343,7 +4343,7 @@
   {
     "group_id": "group_aba33d8efb",
     "category": "Gazdaság",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -4353,6 +4353,15 @@
         "summary": "A dokumentumok közzététele február 25-ig folytatódik, az adatbázis további beszervezési iratokkal és a mágnesszalagokról kinyert információkkal bővül.",
         "category": "Gazdaság",
         "published_at": 1793782964
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ügynökakták: Magyar Péter a lakosságnál maradt iratok beszolgáltatását sürgeti",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/ugynokaktak-magyar-peter-a-lakossagnal-maradt-iratok-beszolgaltatasat-surgeti?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/9LF0tTPE9wC-J9tyXLiI4hzKsI-kl11U41kIbCiFCt0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZjZDE2ZTM4MDNhNTQwMTQ4YjQyZmFiOTQyYmNiMmNm.jpg",
+        "summary": "Nagyon kevés adat maradt meg, de ezeket most az interneten hozták nyilvánosságra.",
+        "category": "Politika",
+        "published_at": 1793797294
       }
     ]
   },
@@ -5090,22 +5099,6 @@
     ]
   },
   {
-    "group_id": "group_961f841182",
-    "category": "Tech",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "99,9%-os hatékonyság: zöld lámpát kapott a HIV/AIDS elleni újfajta kezelés",
-        "link": "https://hvg.hu/tudomany/20261103_hiv-aids-elleni-megelozo-kezeles-hatosagi-jovahagyas-lenacavapir",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/25c12235-28ff-455a-a782-f42741268e32.jpg",
-        "summary": "Megvan az új HIV/AIDS-gyógyszer engedélye. A döntés megkönnyítheti a széles körben jelentős áttörésnek tartott új kezeléshez való hozzáférést világszerte.",
-        "category": "Tech",
-        "published_at": 1793710980
-      }
-    ]
-  },
-  {
     "group_id": "group_4a90376ed2",
     "category": "Tech",
     "articles_count": 1,
@@ -5140,7 +5133,7 @@
   {
     "group_id": "group_5a4b896bf5",
     "category": "Tech",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Rakéta.hu",
@@ -5150,6 +5143,15 @@
         "summary": "Egy kínai eszközgyártó éveken keresztül olyan rejtett hátsó kaput építhetett Android-alapú készülékek firmware-jébe, melyen keresztül bűnözők távolról hozzáférhettek az eszközökhöz.",
         "category": "Tech",
         "published_at": 1793766439
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Szándékosan fertőzött meg 1,3 millió Android-eszközt egy kínai gyártó",
+        "link": "https://hvg.hu/tudomany/20261104_google-android-eszkozok-videostrong-botnet-fertozes",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dfd21a70-9508-48ef-b93d-c7ee115647e5.jpg",
+        "summary": "Éveken keresztül adott ki botnetet tartalmazó androidos eszközöket a kínai Videostrong, a Google azonban végül lefülelte a tevékenységet.",
+        "category": "Kultúra",
+        "published_at": 1793797380
       }
     ]
   },
@@ -8809,7 +8811,7 @@
   {
     "group_id": "group_30dbf60105",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -8819,6 +8821,15 @@
         "summary": "Az énekes neve is felbukkant az ügynökaktákban. The post Szikora Róbert: Nem jelentettem senkiről first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1793794748
+      },
+      {
+        "source": "444.hu",
+        "title": "Szikora Róbert azt mondja, nem jelentett senkiről, miután kiderült, hogy szerepel a neve az ügynökaktákban",
+        "link": "https://444.hu/2026/11/04/szikora-robert-azt-mondja-nem-jelentet-senkirol-miutan-kiderult-hogy-szerepel-a-neve-az-ugynokaktakban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A zenész elmondása szerint szerették volna, ha jelentéseket ír, de nem kérték rá, és ő nem tett ilyet.",
+        "category": "Politika",
+        "published_at": 1793797243
       }
     ]
   },
@@ -9267,6 +9278,102 @@
         "summary": "Nem kell több, csak egy bizonyos gyümölcs!",
         "category": "Általános",
         "published_at": 1793714400
+      }
+    ]
+  },
+  {
+    "group_id": "group_16c62bc81b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szűk határidők, drága lakások: mit old meg a Wekerle Plusz?",
+        "link": "https://index.hu/velemeny/2026/11/04/wekerle-plusz-program-ingatlan-lakhatas/",
+        "image": "https://kep.index.hu/1/0/7239/72397/723970/72397071_5335125_55aaf6cef3563c1a6e8a604e07ca0ef2_wm.jpg",
+        "summary": "Egyre jobban szigorodnak a feltételek, átalakul a lakáspiac.",
+        "category": "Általános",
+        "published_at": 1793797320
+      }
+    ]
+  },
+  {
+    "group_id": "group_449de9d29d",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Liverpool és a Juventus ellen már összejött, de 58 éve nem sikerült, amire most a Fradi készül",
+        "link": "https://index.hu/sport/futball/2026/11/04/europa-liga-2026-2027-ligaszakasz-4.-fordulo-milan-ferencvaros-nemzetkozi-tetmerkozesei-topligas-csapatok-otthonaban/",
+        "image": "https://kep.index.hu/1/0/7239/72396/723968/72396845_5335105_21cbdd26c3f6d0e4d7afda484da78d5a_wm.jpg",
+        "summary": "Az AC Milan ellen törheti meg a sorozatot a magyar rekordbajnok.",
+        "category": "Általános",
+        "published_at": 1793797260
+      }
+    ]
+  },
+  {
+    "group_id": "group_bd511ee2ae",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Medveczky Ilona Kleopátraként szerepel az akták között",
+        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/medveczky-ilona-kleopatrakent-szerepel/",
+        "image": "https://kep.index.hu/1/0/7241/72414/724140/72414051_c9fcd91a18b1fabb0e992643460914b0_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1793797189
+      }
+    ]
+  },
+  {
+    "group_id": "group_bbca009a15",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Szikora Róbert hálózati személy volt, az énekes szerint senkiről nem jelentett semmit",
+        "link": "https://telex.hu/ugynokaktak/2026/11/04/r-go-szikora-robert-kornyei-attila-hungaria-kekes-zoltan",
+        "image": "https://assets.telex.hu/images/20261104/1793796811-temp-7hi637de7c2s5klheop_cimlap-normal.jpg",
+        "summary": "Szikora mellett az R-GO másik alapítótagjáról, Környei Attiláról és a Hungáriából vagy a Dolly Rollból ismert Kékes Zoltánról is előkerült 6-os karton. Róluk korábban nem lehetett tudni, hogy hálózati személyek voltak.",
+        "category": "Politika",
+        "published_at": 1793797652
+      }
+    ]
+  },
+  {
+    "group_id": "group_7eeb0cc37c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Októberben 200 milliárd volt az államkasza hiánya, Kármán szerint összességében sikerül stabilizálni a gazdaságot",
+        "link": "https://telex.hu/gazdasag/2026/11/04/allamhaztartasi-hiany-2026-oktober-allamkassza-karman-andras-penzugyminiszterium",
+        "image": "https://assets.telex.hu/images/20261104/1793796791-temp-7c6cufc6tf92dcahpkf_cimlap-normal.jpg",
+        "summary": "Kármán szerint jövőre javul majd a helyzet, mivel 2027-es költségvetés jelentős kiadáscsökkenéssel számol.",
+        "category": "Politika",
+        "published_at": 1793797155
+      }
+    ]
+  },
+  {
+    "group_id": "group_16a656bc46",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Euró Magyarországon: új lehetőségek nyílhatnak a hazai vállalatok előtt – a magyar gazdaság jövőjéről beszéltek az MBH Bank szakértői (x)",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/mbh-bank-magyar-gazdasag-vallalatok-treasury-reggeli?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/kamqJBaXoYEAJK8InVo0lU2O5yvDrYj5LGLxnmMrOAw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVmYjQ0OGYzOTU2ZDRlNjlhMmE0MDViNzMwNjAwYmQy.jpg",
+        "summary": "Az euró bevezetése jelentős lehetőségeket teremthet a gazdaság és a magyar vállalatok számára, ugyanakkor önmagában nem jelent megoldást minden gazdasági kihívásra. Az MBH Bank Középvállalati Treasury Reggelijén a pénzintézet szakértői a nemzetközi gazdasági környezet, a hazai kilátások és a közös európai fizetőeszköz lehetséges hatásait vizsgálták.",
+        "category": "Gazdaság",
+        "published_at": 1793797235
       }
     ]
   }
