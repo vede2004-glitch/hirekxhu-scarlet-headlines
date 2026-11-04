@@ -1487,7 +1487,7 @@
   {
     "group_id": "group_347aa808ff",
     "category": "Belföld",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -1497,15 +1497,6 @@
         "summary": "Orbán Viktor mostanra harmadszor tette közzé a katonai titkosszolgálatnál készült A-kartonját, amelyet a nyolcvanas években a társadalmi kapcsolatként regisztrált fiatal sorkatonákról tömegesen állítottak ki. Ez nem számított ügynöki tevékenységnek, másoktól is kértek információt a katonatársakról. Hivatalos iratban szerepel az is, hogy Orbán beszervezésétől elálltak, az 1998-ban feltűnt állítólagos 6-os karton hitelességét pedig semmi sem bizonyítja.",
         "category": "Belföld",
         "published_at": 1793737234
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Orbán Viktor nyilvánosságra hozta a beszervezésének kísérletéről szóló dokumentumokat",
-        "link": "https://hvg.hu/itthon/20261103_orban-viktor-beszervezesi-kiserlet-dokumentum-nyilvanossagra-hozatal",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5a413f64-7925-43bd-81be-525311ac6a2c.jpg",
-        "summary": "Több mint húszoldalnyi iratot tett közzé a volt miniszterelnök.",
-        "category": "Belföld",
-        "published_at": 1793707589
       },
       {
         "source": "Vadhajtások",
@@ -6229,22 +6220,6 @@
     ]
   },
   {
-    "group_id": "group_e0b9bde7e4",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Akár 50 ezer forint pluszpénzt kaphatnak ezek a nyugdíjasok idén: így igényelhető a segély",
-        "link": "https://femina.hu/egeszseg/nyugdijas-segely-otvenezer-forint-igenyles/",
-        "image": "https://femina.hu/neon/media/images/segely_2.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Évente egyszer igényelhető ez a méltányossági segély.",
-        "category": "Bulvár",
-        "published_at": 1793707500
-      }
-    ]
-  },
-  {
     "group_id": "group_7eae683515",
     "category": "Bulvár",
     "articles_count": 1,
@@ -6922,6 +6897,38 @@
         "summary": "Magyarországon forgatott fantasy-szexkomédiában ritkán látott szerepben tűnik fel Alexander Skarsgård: egy vesszőből font férjet alakít, aki figyelmesebb, kedvesebb és odaadóbb a legtöbb hús-vér férfinál. A vesszőből font férj (Wicker) elsőre bizarr szexkomédiának tűnik, valójában azonban szórakoztató és meglepően éles szatíra arról, hogyan viszonyul a közösség egy olyan férfihoz, aki valóban jól bánik a feleségével. The post A férjét vesszőből fonták, de még így is jobb, mint a valódi pasik 99 százaléka first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1793790180
+      }
+    ]
+  },
+  {
+    "group_id": "group_d381dba81b",
+    "category": "Külföld",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Világ",
+        "title": "Trump Kínában találkozhat Putyinnal és Hszi Csin-pinggel",
+        "link": "https://hvg.hu/vilag/20261104_donald-trump-kina-targyalas-talalkozo-vlagyimir-putyin-hszi-csin-ping",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9ac67dda-318e-47e5-be2d-056614e13ceb.jpg",
+        "summary": "A három nukleáris hatalom csúcstalákozójára nincs példa a történelemben.",
+        "category": "Külföld",
+        "published_at": 1793793934
+      }
+    ]
+  },
+  {
+    "group_id": "group_d7556fc24c",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "50 felett így győzheted le az őszi bőrszárazságot: egyszerű esti rutin a vízhiányos bőr ellen",
+        "link": "https://femina.hu/retikul/borszarazsag-elleni-esti-rutin-50-felett/",
+        "image": "https://femina.hu/neon/media/images/borszarazsag-elleni-e.0162e283.format-jpeg.fill-1024x768.jpg",
+        "summary": "Feszesíti az arcot, segíti a kollagéntermelést, és pihe-puhává varázsolja a kiszáradt bőrt.",
+        "category": "Bulvár",
+        "published_at": 1793793900
       }
     ]
   }
