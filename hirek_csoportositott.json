@@ -41,31 +41,6 @@
     ]
   },
   {
-    "group_id": "group_6f2c9bee92",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Andor Éva új műsorral tér vissza, mutatjuk ki lesz az első vendége",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/andor-eva-uj-musorral-ter-vissza-mutatjuk-ki-lesz-az-elso-vendege?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/T6CSMM3myTKF4AQUkk5h3BBfUsrkPDWilcQRXvZHOfk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdiMmNhNDAxNGQ1ZjQzY2U4Y2JjMTc0ZTY4MzVjNDYy.jpg",
-        "summary": "Az Origo YouTube-csatornáján indul a podcastja.",
-        "category": "Politika",
-        "published_at": 1793812167
-      },
-      {
-        "source": "Femina",
-        "title": "A TV2 sztárhíradósa ebben a műsorban tér vissza a képernyőre: meglepő, hol láthatod Andor Évát",
-        "link": "https://femina.hu/hazai_sztar/andor-eva-uj-musora/",
-        "image": "https://femina.hu/neon/media/images/70711053_2b220932b485.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "A TV2-től való távozása után itt folytatja karrierjét Andor Éva, a csatorna egykori sztárhíradósa.",
-        "category": "Bulvár",
-        "published_at": 1793868600
-      }
-    ]
-  },
-  {
     "group_id": "group_9a4fb7e4eb",
     "category": "Politika",
     "articles_count": 1,
@@ -78,22 +53,6 @@
         "summary": "Munkacsoportot hoznak létre a nyilvánosságra hozott ügynökakták okozta társadalmi traumák feldolgozásához – közölte Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter - akinek az apja is szerepel az",
         "category": "Politika",
         "published_at": 1793815080
-      }
-    ]
-  },
-  {
-    "group_id": "group_426a4f6617",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "PC World",
-        "title": "A Xiaomi túlságosan is olcsó okosszemüvege Európába is jön",
-        "link": "https://www.pcwplus.hu/pcwlite/a-xiaomi-tulsagosan-is-olcso-okosszemuvege-europaba-is-jon-390436.html",
-        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/xiaomi_smart_audio_glasses_150144_2_original_390x220_cover.jpg",
-        "summary": "A Xiaomi okos volt és nem próbált kamerát és mesterséges intelligenciát rakni az okosszemüvegébe.",
-        "category": "Kultúra",
-        "published_at": 1793812200
       }
     ]
   },
@@ -6606,6 +6565,22 @@
     ]
   },
   {
+    "group_id": "group_6f2c9bee92",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "A TV2 sztárhíradósa ebben a műsorban tér vissza a képernyőre: meglepő, hol láthatod Andor Évát",
+        "link": "https://femina.hu/hazai_sztar/andor-eva-uj-musora/",
+        "image": "https://femina.hu/neon/media/images/70711053_2b220932b485.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "A TV2-től való távozása után itt folytatja karrierjét Andor Éva, a csatorna egykori sztárhíradósa.",
+        "category": "Bulvár",
+        "published_at": 1793868600
+      }
+    ]
+  },
+  {
     "group_id": "group_46784038d6",
     "category": "Bulvár",
     "articles_count": 1,
@@ -10546,7 +10521,7 @@
         "image": "",
         "summary": "Újabb információt közölt az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója, kiderült ugyanis, hogy eddig 160 olyan név került nyilvánosságra a november 4-én megnyitott adatbázisban, akik nem ügynökök, hanem megfigyeltek voltak. – A...",
         "category": "Politika",
-        "published_at": 1793898109
+        "published_at": 1793898908
       }
     ]
   },
