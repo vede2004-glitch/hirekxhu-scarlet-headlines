@@ -977,6 +977,37 @@
     "importance_score": 48.0
   },
   {
+    "group_id": "group_0945b791af",
+    "fingerprint": "e95394c0a1a2ce91fea6017fca7cae08",
+    "category": "Kultúra",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0785739884-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Krug Emília a Network4 Media Grouphoz igazol",
+        "link": "https://24.hu/elet-stilus/2026/11/05/krug-emilia-network4-igazolas/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Krug Emília a Network4-nél folytatja",
+        "link": "https://telex.hu/after/2026/11/05/krug-emilia-network4-nel-folytatja"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Kiderült, hol láthatjuk Krug Emíliát mostantól: ide szerződött a népszerű tévés",
+        "link": "https://nlc.hu/sztarok/20261105/kiderult-krug-emiliat-is-szerzodtette-a-network4/30wmk00"
+      }
+    ],
+    "published_at": 1793885845,
+    "title_hu": "Krug Emília a Network4-nél folytatja",
+    "lead_hu": "Krug Emília műsorvezető a Network4 Media Grouphoz igazol, amit Borsány-Gyenes András vezérigazgató jelentett be a Big Picture televíziós konferencián. A vállalat közleménye szerint a nézők hamarosan a Network4 csatornáin is találkozhatnak vele.",
+    "content_hu": "• **Új munkahely** Krug Emília a Network4 Media Group csapatához csatlakozik; érkezését a médiavállalat vezérigazgatója jelentette be a Big Picture konferencián.\n\n• **Korábbi műsorai** Krug tavaly novemberben, 12 év után távozott az ATV-től, ahol a Start, a Civil a pályán és az Aktuál műsorokban szerepelt. A Telexszel közösen készített Szinten túl című műsorából nemrég jelentkezett utoljára.\n\n• **A Network4 tervei** A médiacsoport az utóbbi időben több ismert műsorvezetőt igazolt le, és célja, hogy a TV2 Csoport és az RTL Magyarország mögött a magyar televíziós piac harmadik meghatározó szereplőjévé váljon.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_8599106235",
     "fingerprint": "2159abfe84c3d25562568047e57b95fd",
     "category": "Politika",
@@ -1828,29 +1859,27 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_0945b791af",
-    "fingerprint": "e95394c0a1a2ce91fea6017fca7cae08",
-    "category": "Kultúra",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0785739884-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
+    "group_id": "group_869d11f23a",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/szabadsag_hid.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
     "sources_count": 2,
     "sources": [
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "Krug Emília a Network4 Media Grouphoz igazol",
-        "link": "https://24.hu/elet-stilus/2026/11/05/krug-emilia-network4-igazolas/"
+        "source": "Femina",
+        "title": "Nem közlekednek ezek a villamosok a hétvégén: jelentős változások jönnek a főváros közlekedésében",
+        "link": "https://femina.hu/utazas/nem-kozlekednek-ezek-a-villamosok-a-hetvegen-jelentos-valtozasok-jonnek-a-fovaros-kozlekedeseben/"
       },
       {
-        "source": "Telex - Belföld",
-        "title": "Krug Emília a Network4-nél folytatja",
-        "link": "https://telex.hu/after/2026/11/05/krug-emilia-network4-nel-folytatja"
+        "source": "Index - Címlap",
+        "title": "Három budapesti villamos sem közlekedik a hétvégén",
+        "link": "https://index.hu/belfold/2026/11/05/villamos-szabadsag-hid-budapest-kozlekedes/"
       }
     ],
-    "published_at": 1793885845,
-    "title_hu": "Krug Emília a Network4-nél folytatja",
-    "lead_hu": "Krug Emília műsorvezető a Network4 Media Grouphoz igazol, amit Borsány-Gyenes András vezérigazgató jelentett be a Big Picture televíziós konferencián. A vállalat közleménye szerint a nézők hamarosan a Network4 csatornáin is találkozhatnak vele.",
-    "content_hu": "• **Új munkahely** Krug Emília a Network4 Media Group csapatához csatlakozik; érkezését a médiavállalat vezérigazgatója jelentette be a Big Picture konferencián.\n\n• **Korábbi műsorai** Krug tavaly novemberben, 12 év után távozott az ATV-től, ahol a Start, a Civil a pályán és az Aktuál műsorokban szerepelt. A Telexszel közösen készített Szinten túl című műsorából nemrég jelentkezett utoljára.\n\n• **A Network4 tervei** A médiacsoport az utóbbi időben több ismert műsorvezetőt igazolt le, és célja, hogy a TV2 Csoport és az RTL Magyarország mögött a magyar televíziós piac harmadik meghatározó szereplőjévé váljon.",
+    "published_at": 1793885700,
+    "title_hu": "Nem közlekednek ezek a villamosok a hétvégén: jelentős változások jönnek a főváros közlekedésében",
+    "lead_hu": "Így változik meg szombaton és vasárnap Budapest közlekedése.",
+    "content_hu": "Így változik meg szombaton és vasárnap Budapest közlekedése.",
     "importance_score": 35.0
   },
   {
@@ -2057,32 +2086,6 @@
     "title_hu": "Három új tévécsatornával bővül a magyar kínálat",
     "lead_hu": "A One Magyarország és a Network4 Media Group kétéves megállapodást kötött, amelynek részeként 2027 első negyedévében három új csatorna érkezik Magyarországra. A One TV Family előfizetői már 2026. december 1-jétől díjmentesen érhetik el a Network4 Go válogatott tartalmait.",
     "content_hu": "• **Három új csatorna** A Viasat True Crime bűnügyi dokumentumfilmeket és sorozatokat kínál, a Moonbug óvodásoknak szóló meséket és fejlesztő tartalmakat, a Marquee TV pedig opera-, balett-, színházi és komolyzenei előadásokat hoz a hazai kínálatba.\n\n• **Kétéves együttműködés** A megállapodás a Network4 meglévő csatornáira és a médiacsoport által képviselt Viasat World-adókra is kiterjed.\n\n• **Díjmentes streaminghozzáférés** 2026. december 1-jétől a One TV Family csomag előfizetői külön díj nélkül nézhetik a Network4 Go válogatott tartalmait, köztük sportközvetítéseket, filmeket és sorozatokat.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_fa0f3b7b34",
-    "fingerprint": "5547f97522636983a2328b16e3ea2f1a",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Már nem Amerikába tartanak a tankerek, amelyek a Trump–Putyin-alku után indultak oda orosz üzemanyaggal megrakodva",
-        "link": "https://444.hu/2026/11/05/mar-nem-amerikaba-tartanak-a-tankerek-amelyek-a-trumpputyin-alku-utan-indultak-oda-orosz-uzemanyaggal-megrakodva?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Váratlanul irányt váltottak az USA-ba tartó orosz üzemanyag-szállító hajók",
-        "link": "https://hvg.hu/gazdasag/20261105_usa-orosz-dizel-hajo"
-      }
-    ],
-    "published_at": 1793877369,
-    "title_hu": "Irányt váltottak az Egyesült Államokba tartó orosz üzemanyagszállító tankerek",
-    "lead_hu": "Két, orosz dízelt szállító tanker módosította az eredetileg amerikai úti célját: a Leruo Brazília felé fordult, a Talisman pedig Algéria partjainál várakozik. Egy harmadik hajó továbbra is az Egyesült Államok felé tart, miközben a Trump–Putyin-megállapodás nyomán engedélyezték az orosz dízel világpiaci értékesítését.",
-    "content_hu": "• **A Leruo Brazília felé tart** – A Sierra Leone-i lobogó alatt közlekedő tanker az Egyesült Államok helyett hétfőn Brazíliát jelölte meg úti célként.\n\n• **A Talisman Algéria partjainál várakozik** – Az orosz tanker a Földközi-tenger felé vette az irányt, és jelenleg utasításra vár; rakományának nincs megerősített vevője.\n\n• **Egy harmadik tanker továbbra is az USA felé tart** – Az Agioi Fanendes szintén utasításra vár, de úti célja egyelőre nem változott.\n\n• **A szállítások hátterében a Trump–Putyin-megállapodás áll** – A két elnök október 9-én egyezett meg az orosz üzemanyag értékesítéséről, az amerikai pénzügyminisztérium pedig ideiglenesen engedélyezte az orosz dízel világpiaci eladását.\n\n• **Nem ismert, mi okozta a tankerek irányváltását** – A források nem állapítanak meg közvetlen kapcsolatot a változások és a politikai fejlemények között; New Jersey kormányzója ugyanakkor arra kérte a kikötők és terminálok üzemeltetőit, hogy ne fogadjanak orosz hajókat.",
     "importance_score": 35.0
   },
   {
@@ -2463,6 +2466,32 @@
     "lead_hu": "Dmitrij Peszkov, a Kreml szóvivője szerint Oroszország bízik abban, hogy Donald Trump az amerikai félidős választások után is folytatja az ukrajnai konfliktus rendezésére irányuló erőfeszítéseit. Peszkov Melania Trump humanitárius munkáját is említette, és reményét fejezte ki, hogy ezek az erőfeszítések folytatódnak.",
     "content_hu": "• **A Kreml reménye** Dmitrij Peszkov szerint Oroszország azt szeretné, ha Donald Trump a félidős választások után is folytatná az ukrajnai konfliktus rendezésére irányuló békeerőfeszítéseit.\n\n• **Közelgő tárgyalások** Peszkov azt mondta, már történt előrelépés, és hamarosan sor kerülhet az orosz–amerikai–ukrán háromoldalú tárgyalások újabb fordulójára.\n\n• **Melania Trump humanitárius munkája** Peszkov az amerikai first lady humanitárius erőfeszítéseit is megemlítette, és azt mondta, remélik, hogy ezek folytatódnak.\n\n• **Amerikai belügy** Arra a kérdésre, hogy a Kongresszus akadályozhatja-e Trump erőfeszítéseit, Peszkov azt felelte: „ez Amerika belügye”.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_fa0f3b7b34",
+    "fingerprint": "5547f97522636983a2328b16e3ea2f1a",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Már nem Amerikába tartanak a tankerek, amelyek a Trump–Putyin-alku után indultak oda orosz üzemanyaggal megrakodva",
+        "link": "https://444.hu/2026/11/05/mar-nem-amerikaba-tartanak-a-tankerek-amelyek-a-trumpputyin-alku-utan-indultak-oda-orosz-uzemanyaggal-megrakodva?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Váratlanul irányt váltottak az USA-ba tartó orosz üzemanyag-szállító hajók",
+        "link": "https://hvg.hu/gazdasag/20261105_usa-orosz-dizel-hajo"
+      }
+    ],
+    "published_at": 1793877369,
+    "title_hu": "Irányt váltottak az Egyesült Államokba tartó orosz üzemanyagszállító tankerek",
+    "lead_hu": "Két, orosz dízelt szállító tanker módosította az eredetileg amerikai úti célját: a Leruo Brazília felé fordult, a Talisman pedig Algéria partjainál várakozik. Egy harmadik hajó továbbra is az Egyesült Államok felé tart, miközben a Trump–Putyin-megállapodás nyomán engedélyezték az orosz dízel világpiaci értékesítését.",
+    "content_hu": "• **A Leruo Brazília felé tart** – A Sierra Leone-i lobogó alatt közlekedő tanker az Egyesült Államok helyett hétfőn Brazíliát jelölte meg úti célként.\n\n• **A Talisman Algéria partjainál várakozik** – Az orosz tanker a Földközi-tenger felé vette az irányt, és jelenleg utasításra vár; rakományának nincs megerősített vevője.\n\n• **Egy harmadik tanker továbbra is az USA felé tart** – Az Agioi Fanendes szintén utasításra vár, de úti célja egyelőre nem változott.\n\n• **A szállítások hátterében a Trump–Putyin-megállapodás áll** – A két elnök október 9-én egyezett meg az orosz üzemanyag értékesítéséről, az amerikai pénzügyminisztérium pedig ideiglenesen engedélyezte az orosz dízel világpiaci eladását.\n\n• **Nem ismert, mi okozta a tankerek irányváltását** – A források nem állapítanak meg közvetlen kapcsolatot a változások és a politikai fejlemények között; New Jersey kormányzója ugyanakkor arra kérte a kikötők és terminálok üzemeltetőit, hogy ne fogadjanak orosz hajókat.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_633c2d8517",
@@ -3443,28 +3472,99 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_a3f22474a2",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793802209-temp-30260q3g6chv4cdinfi_cimlap-normal.jpg",
+    "group_id": "group_3938ee3e3d",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7243/72431/724314/72431479_5337637_cb10c4f41903aee0a6052fbc368d6381_wm.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "Telex - Belföld",
-        "title": "„Semmi különös nem volt” – Felföldi József, a szívószálpápa elismerte, hogy kapcsolatban volt az állambiztonsággal",
-        "link": "https://telex.hu/belfold/2026/11/04/a-szivoszalpapa-elismerte-hogy-kapcsolatban-volt-az-allambiztonsaggal"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "„Semmi különös nem volt” – Felföldi József, a szívószálpápa elismerte, hogy kapcsolatban volt az állambiztonsággal",
-        "link": "https://telex.hu/ugynokaktak/2026/11/04/a-szivoszalpapa-elismerte-hogy-kapcsolatban-volt-az-allambiztonsaggal"
+        "source": "Index - Címlap",
+        "title": "Új szerződést írt alá a Barcelonával a közel 80 éves klubrekordot megdöntő támadó",
+        "link": "https://index.hu/sport/futball/2026/11/05/barcelona-raphinha-szerzodeshosszabbitas/"
       }
     ],
-    "published_at": 1793802122,
-    "title_hu": "„Semmi különös nem volt” – Felföldi József, a szívószálpápa elismerte, hogy kapcsolatban volt az állambiztonsággal",
-    "lead_hu": "Már fiatalon is sokat járt külföldre üzletelni. Nyugati útjai után behívták a debreceni rendőrkapitányságra, szereti a hazáját.",
-    "content_hu": "Már fiatalon is sokat járt külföldre üzletelni. Nyugati útjai után behívták a debreceni rendőrkapitányságra, szereti a hazáját.",
-    "importance_score": 20.0
+    "published_at": 1793888400,
+    "title_hu": "Új szerződést írt alá a Barcelonával a közel 80 éves klubrekordot megdöntő támadó",
+    "lead_hu": "A brazil gólvágó elképesztő formában futballozik....",
+    "content_hu": "A brazil gólvágó elképesztő formában futballozik.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_fde1dced19",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1319283940-e1793888272106-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kiderült, mit kockáztat az a férfi, aki szűk alsónadrágot hord",
+        "link": "https://24.hu/tudomany/2026/11/05/alsonadrag-szuk-bo-ferfiak-sperma-minoseg-kutatas/"
+      }
+    ],
+    "published_at": 1793888377,
+    "title_hu": "Kiderült, mit kockáztat az a férfi, aki szűk alsónadrágot hord",
+    "lead_hu": "A nagyszabású kutatás részeként fény derült arra, milyen problémának mennyivel nagyobb az esélye azoknál, akik szűk gatyát hordanak. The post Kiderült, mit kockáztat az a férfi, aki szűk alsónadrágot ...",
+    "content_hu": "A nagyszabású kutatás részeként fény derült arra, milyen problémának mennyivel nagyobb az esélye azoknál, akik szűk gatyát hordanak. The post Kiderült, mit kockáztat az a férfi, aki szűk alsónadrágot hord first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ccdf44ff42",
+    "category": "Kultúra",
+    "image": "https://kep.index.hu/1/0/7130/71302/713028/71302873_5258041_97f8e451917000cf6f68babaf19e1363_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Bejelentést tett Nagy Ervin: 2027-ben elindul a Magyar Színházi Fesztivál",
+        "link": "https://index.hu/kultur/2026/11/05/magyar-szinhazi-fesztival-miskolc-rendezvenysorozat-forum-nagy-ervin/"
+      }
+    ],
+    "published_at": 1793888340,
+    "title_hu": "Bejelentést tett Nagy Ervin: 2027-ben elindul a Magyar Színházi Fesztivál",
+    "lead_hu": "A Kárpát-medence magyar nyelvű színházi társulatainak fóruma lehet....",
+    "content_hu": "A Kárpát-medence magyar nyelvű színházi társulatainak fóruma lehet.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_dba05ba87a",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7242/72428/724281/72428147_5337423_a57a24c47c5aa3fa3b5a5be3cdf04b77_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hazatérhetett a családjához 2026 legkisebb magyar koraszülöttje, azonban egy speciális monitorra lenne szükségük",
+        "link": "https://index.hu/fomo/2026/11/05/koraszules-matteo-legzesfigyelo/"
+      }
+    ],
+    "published_at": 1793888220,
+    "title_hu": "Hazatérhetett a családjához 2026 legkisebb magyar koraszülöttje, azonban egy speciális monitorra lenne szükségük",
+    "lead_hu": "Otthon is folytatódik a küzdelem...",
+    "content_hu": "Otthon is folytatódik a küzdelem",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ba8c4e041c",
+    "category": "Gazdaság",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9d4802e8-77fa-420a-ad64-10ef305e0def.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "A szállítmány majd megtalálja a vevőit – mondta Peszkov az USA-ba induló, de irányt váltott dízelkonvojról",
+        "link": "https://hvg.hu/gazdasag/20261105_peszkov-orosz-dizel-hajo-usa"
+      }
+    ],
+    "published_at": 1793888157,
+    "title_hu": "A szállítmány majd megtalálja a vevőit – mondta Peszkov az USA-ba induló, de irányt váltott dízelkonvojról",
+    "lead_hu": "Az orosz elnök szóvivője elmondta, hogy a hajók útvonalát nem lehet nyilvánosságra hozni....",
+    "content_hu": "Az orosz elnök szóvivője elmondta, hogy a hajók útvonalát nem lehet nyilvánosságra hozni.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_f287201487",
@@ -3486,6 +3586,25 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_a75fa0ae2c",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7032/70325/703250/70325023_5188303_754bb7ddda0a057b93a96e9add1638e4_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Az ország legtapasztaltabb fejvadászai keresik Matolcsy Ádámot és Stofa Györgyöt",
+        "link": "https://index.hu/belfold/2026/11/05/matolcsy-adam-mnb-szokes-korozes-fejfadasz/"
+      }
+    ],
+    "published_at": 1793888100,
+    "title_hu": "Az ország legtapasztaltabb fejvadászai keresik Matolcsy Ádámot és Stofa Györgyöt",
+    "lead_hu": "Egy volt fejvadász szerint az ilyen ismert emberek rejtőzködése különösen költséges....",
+    "content_hu": "Egy volt fejvadász szerint az ilyen ismert emberek rejtőzködése különösen költséges.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_a2f011a37b",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7243/72430/724305/72430569_5337587_90acbe2f3d040fe9a25f45657bc392b9_wm.jpg",
@@ -3502,6 +3621,25 @@
     "title_hu": "Történetek a nevek mögött – így nézhetünk az ügynökakták száraz adatai mögé",
     "lead_hu": "Több mint ötszáz ügynök háttere, története ismerhető meg....",
     "content_hu": "Több mint ötszáz ügynök háttere, története ismerhető meg.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2589860801",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Ha Magyar Péter háborúval riogatna az újságban, azt sem kézbesítené a friss Szabad-díjas nyugdíjas kihordó",
+        "link": "https://444.hu/2026/11/05/ha-magyar-peter-haboruval-riogatna-az-ujsagban-azt-sem-kezbesitene-a-friss-szabad-dijas-nyugdijas-kihordo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793887896,
+    "title_hu": "Ha Magyar Péter háborúval riogatna az újságban, azt sem kézbesítené a friss Szabad-díjas nyugdíjas kihordó",
+    "lead_hu": "Matisáné Szabó Márta országos hős lett, amiért úgy döntött, nem kézbesíti a Bors különszámát a választási kampány idején. Tettéért most díjat is kapott, de kicsoda a somogyaszalói nyugdíjas asszony?...",
+    "content_hu": "Matisáné Szabó Márta országos hős lett, amiért úgy döntött, nem kézbesíti a Bors különszámát a választási kampány idején. Tettéért most díjat is kapott, de kicsoda a somogyaszalói nyugdíjas asszony?",
     "importance_score": 0.0
   },
   {
@@ -3958,25 +4096,6 @@
     "title_hu": "Százezrek mozdultak meg, újabb tüntetési hullám söpör végig Franciaországban",
     "lead_hu": "Több mint 250 ezer ember vonult utcára Franciaország-szerte, hogy a megélhetési költségek növekedése ellen tiltakozzon, miközben a parlamentben holtpontra jutottak a jövő évi költségvetésről szóló tár…",
     "content_hu": "Több mint 250 ezer ember vonult utcára Franciaország-szerte, hogy a megélhetési költségek növekedése ellen tiltakozzon, miközben a parlamentben holtpontra jutottak a jövő évi költségvetésről szóló tárgyalások. A már több mint egy hónapja tartó demonstrációsorozat a közlekedésben is fennakadásokat okozott, a politikai és gazdasági bizonytalanság pedig a pénzpiacokon is érezteti a hatását - jelentette a Bloomberg.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_869d11f23a",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/szabadsag_hid.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Nem közlekednek ezek a villamosok a hétvégén: jelentős változások jönnek a főváros közlekedésében",
-        "link": "https://femina.hu/utazas/nem-kozlekednek-ezek-a-villamosok-a-hetvegen-jelentos-valtozasok-jonnek-a-fovaros-kozlekedeseben/"
-      }
-    ],
-    "published_at": 1793885700,
-    "title_hu": "Nem közlekednek ezek a villamosok a hétvégén: jelentős változások jönnek a főváros közlekedésében",
-    "lead_hu": "Így változik meg szombaton és vasárnap Budapest közlekedése.",
-    "content_hu": "Így változik meg szombaton és vasárnap Budapest közlekedése.",
     "importance_score": 0.0
   },
   {
@@ -14009,120 +14128,6 @@
     "title_hu": "Visszavihetik nyugatra a magyar irodai munkahelyeket, de van egy kitörési pont",
     "lead_hu": "A mesterséges intelligencia nem temeti el a magyar üzleti szolgáltató szektort, de alaposan átalakítja – erről beszélt Shadeh Fadi a HIPA konferenciáján. Az ágazatban 2026-ban 259 központban mintegy 1…",
     "content_hu": "A mesterséges intelligencia nem temeti el a magyar üzleti szolgáltató szektort, de alaposan átalakítja – erről beszélt Shadeh Fadi a HIPA konferenciáján. Az ágazatban 2026-ban 259 központban mintegy 119 500 ember dolgozik, de miközben a központok száma egy év alatt 5,7 százalékkal nőtt, a foglalkoztatás csupán 0,8 százalékkal bővült. A központok 91 százaléka már bevezette vagy éppen bevezeti az AI-t, 42 százalékuk pedig leépítette az egyszerűbb feladatokat, és összetettebb munkákat hozott az országba. Magyarországot ugyanakkor egyszerre szorítják az olcsóbb ázsiai és dél-amerikai helyszínek, valamint az AI-jal hatékonyabbá váló nyugati központok. A jövő ezért azon múlik, hogy a magyar egységek a létszám helyett tudással és nagyobb hozzáadott értékkel tudnak-e versenyezni.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_cada4f0fee",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0921839338-e1793801781361-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "„Semmiféle kémkedést nem végeztem” – mondta a szívószálpápa, akinek feltűnt a neve a most nyilvánosságra hozott mágnesszalagok egyikén",
-        "link": "https://24.hu/belfold/2026/11/04/felfoldi-jozsef-ugynokaktak-magnesszalag/"
-      }
-    ],
-    "published_at": 1793801946,
-    "title_hu": "„Semmiféle kémkedést nem végeztem” – mondta a szívószálpápa, akinek feltűnt a neve a most nyilvánosságra hozott mágnesszalagok egyikén",
-    "lead_hu": "Azt mondta, 120. rangú hal volt a tengerben. The post „Semmiféle kémkedést nem végeztem” – mondta a szívószálpápa, akinek feltűnt a neve a most nyilvánosságra hozott mágnesszalagok egyikén first appea…",
-    "content_hu": "Azt mondta, 120. rangú hal volt a tengerben. The post „Semmiféle kémkedést nem végeztem” – mondta a szívószálpápa, akinek feltűnt a neve a most nyilvánosságra hozott mágnesszalagok egyikén first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f882d2f1cb",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Szinte lehetetlenné válhat a kormányzás az Egyesült Államokban a belga miniszter szerint",
-        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/belga-miniszter-a-politikai-megosztottsag-miatt-szinte-lehetetlenne-valhat-a-kormanyzas-az-egyesult-allamokban/"
-      }
-    ],
-    "published_at": 1793801914,
-    "title_hu": "Szinte lehetetlenné válhat a kormányzás az Egyesült Államokban a belga miniszter szerint",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_46ab4fd089",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Matolcsy Ádámhoz köthető luxusautó tűnt fel egy dubaji hirdetésben: ennyiért árulják a Porschét",
-        "link": "https://nlc.hu/sztarok/20261104/matolcsy-adamhoz-kotheto-autot-arulnak-dubajban/yqh1v4p"
-      }
-    ],
-    "published_at": 1793801820,
-    "title_hu": "Matolcsy Ádámhoz köthető luxusautó tűnt fel egy dubaji hirdetésben: ennyiért árulják a Porschét",
-    "lead_hu": "Egy dubaji hirdetési oldalon kínálnak eladásra egy 36 millió forintot érő, világoskék Porschét, amely a hírek szerint Matolcsy Ádám autóparkjába tartozhatott. The post Matolcsy Ádámhoz köthető luxusau…",
-    "content_hu": "Egy dubaji hirdetési oldalon kínálnak eladásra egy 36 millió forintot érő, világoskék Porschét, amely a hírek szerint Matolcsy Ádám autóparkjába tartozhatott. The post Matolcsy Ádámhoz köthető luxusautó tűnt fel egy dubaji hirdetésben: ennyiért árulják a Porschét first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d2aed3753a",
-    "category": "Kultúra",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2610/25/steam_personal_calendar_063305_1_original_390x220_cover.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PC World",
-        "title": "A Windows 11 egyértelműen vezeti a steames felméréseket, de közben furcsaságok is felbukkantak az adatok között",
-        "link": "https://www.pcwplus.hu/pcwlite/windows-11-steam-felmeres-survey-2026-oktober-390434.html"
-      }
-    ],
-    "published_at": 1793801802,
-    "title_hu": "A Windows 11 egyértelműen vezeti a steames felméréseket, de közben furcsaságok is felbukkantak az adatok között",
-    "lead_hu": "Az előző hónapban nagy kilengéseket figyelhettünk meg az adatokban, ezek pedig most mind helyre pattantak.",
-    "content_hu": "Az előző hónapban nagy kilengéseket figyelhettünk meg az adatokban, ezek pedig most mind helyre pattantak.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_85c5a2e03e",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/Moulin_1_rZmOoce.d96a13cb.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Új magyar filmért rajong most Franciaország: a kritikusok és a nézők is imádják",
-        "link": "https://femina.hu/terasz/magyar-film-siker-franciaorszag/"
-      }
-    ],
-    "published_at": 1793801788,
-    "title_hu": "Új magyar filmért rajong most Franciaország: a kritikusok és a nézők is imádják",
-    "lead_hu": "November 12-től a magyar mozikban is látható lesz a Moulin.",
-    "content_hu": "November 12-től a magyar mozikban is látható lesz a Moulin.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f0a2e83bba",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/09/EFLO2LnSbwiQodiL_MgSP84-muSP7IW5FZFJmaegfAI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE1NzEwYjY4ODI0ZDQ2ZmE5NDQxODlkMTI4YjU4YmFl.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Elárulta Varga Mihály, mi húzódik az inflációs cél mérséklése mögött – a magyar euróhoz van köze",
-        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/varga-mihaly-inflacios-cel-merseklodaes-euro-bevezetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793801744,
-    "title_hu": "Elárulta Varga Mihály, mi húzódik az inflációs cél mérséklése mögött – a magyar euróhoz van köze",
-    "lead_hu": "A beruházások, a munkaerő képzése és az innováció ösztönzése is kulcsfontosságú a régió versenyképessége szempontjából.",
-    "content_hu": "A beruházások, a munkaerő képzése és az innováció ösztönzése is kulcsfontosságú a régió versenyképessége szempontjából.",
     "importance_score": 0.0
   },
   {
