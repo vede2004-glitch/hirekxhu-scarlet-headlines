@@ -168,7 +168,7 @@
     "image": "https://assets.telex.hu/images/20261105/1793873757-temp-q0b6dpcnur7f1ojfodd_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 7,
+    "sources_count": 8,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -204,13 +204,18 @@
         "source": "ATV",
         "title": "Indokolta lemondását Merkely Béla, egyhangúlag fogadta el beszámolóját a Szenátus",
         "link": "https://www.atv.hu/belfold/20261105/merkely-bela-lemondas-szenatus/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Lemondott Merkely Béla, a Semmelweis Egyetem rektora",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/lemondott-merkely-bela-a-semmelweis-egyetem-rektora"
       }
     ],
     "published_at": 1793876101,
     "title_hu": "Lemondott Merkely Béla, a Semmelweis Egyetem rektora",
     "lead_hu": "Merkely Béla 2027. január 1-jei hatállyal lemond a Semmelweis Egyetem rektori megbízatásáról. Döntését az egyetemet fenntartó alapítvány kuratóriumával kapcsolatos bizalmi nehézségekkel indokolta.",
     "content_hu": "• **Lemondás:** Merkely Béla a Semmelweis Egyetem szenátusának 2026. november 5-i ülésén jelentette be, hogy 2027. január 1-jétől távozik a rektori posztról.\n\n• **Indoklás:** A kuratóriumnak címzett levelében a testülettel kapcsolatos bizalmi nehézségekre hivatkozott, és azt írta, lemondásával az egyetem fejlődését kívánja szolgálni.\n\n• **Szenátusi beszámoló:** Merkely ismertette rektori megbízatásának elmúlt nyolc és fél évét; beszámolóját a szenátus egyhangúlag elfogadta.\n\n• **Eredmények:** A rektor az oktatás, a kutatás-fejlesztés és a betegellátás területén elért eredményeket emelte ki. Beszámolója szerint az egyetem a világ 250 legjobb felsőoktatási intézménye közé került.\n\n• **A megbízatás időtartama:** Merkely 2018 óta vezette az intézményt, 2023-ban újraválasztották, megbízatása eredetileg 2028 júniusáig szólt volna. A távozásáig hátralévő időben azt ígérte, biztosítja rektori feladatainak folyamatos ellátását.",
-    "importance_score": 90.0
+    "importance_score": 100.0
   },
   {
     "group_id": "group_587b1ef3d6",
@@ -330,6 +335,57 @@
     "importance_score": 88.0
   },
   {
+    "group_id": "group_aaed98dfe3",
+    "fingerprint": "5798517e352af43d6593f4c5aa33328f",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/v/a/r/varga-mihaly-mnb-elnok-jegybankelnok-742035.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Hamarosan megszólal Matolcsy György ügyvédje és Varga Mihály az MNB-botrányról",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/hamarosan-megszolal-matolcsy-gyorgy-ugyvedje-es-varga-mihaly-az-mnb-botranyrol-874454"
+      },
+      {
+        "source": "ATV",
+        "title": "Varga Mihályt hallgatja meg az MNB Működésével Kapcsolatos Visszaéléseit Feltáró Vizsgálóbizottság – Nézze itt élőben",
+        "link": "https://www.atv.hu/belfold/20261105/varga-mihaly-mnb-meghallgatas/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Varga Mihály a vizsgálóbizottság előtt, meghallgatják az MNB-botrányban",
+        "link": "https://index.hu/gazdasag/2026/11/05/mnb-botrany-ugy-matolcsy-gyorgy-varga-mihaly-parlament-vizsgalobizottsag-meghallgatas/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Varga Mihály meghallgatása az MNB visszaéléseit feltáró vizsgálóbizottságban",
+        "link": "https://24.hu/fn/gazdasag/2026/11/05/varga-mihaly-meghallgatasa-az-mnb-ugyeit-feltaro-vizsgalobizottsagban/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kiderült: bővülhet Matolcsy György gyanúsítási listája",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/kiderult-bovulhet-matolcsy-gyorgy-gyanusitasi-listaja-874454"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Varga Mihály nélkül kezdte meg a jegybankelnök parlamenti meghallgatását az MNB-ügyben felállított vizsgálóbizottság",
+        "link": "https://telex.hu/gazdasag/2026/11/05/varga-mihaly-mnb-vizsgalobizottsag-meghallgatas-parlament"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kiderült: bővülhet Matolcsy György gyanúsítási listája, csak zárt ülésen hajlandó beszélni a volt jegybankelnök",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/kiderult-bovulhet-matolcsy-gyorgy-gyanusitasi-listaja-csak-zart-ulesen-hajlando-beszelni-a-volt-jegybankelnok-874454"
+      }
+    ],
+    "published_at": 1793879160,
+    "title_hu": "Varga Mihályt meghallgatja az MNB-ügy vizsgálóbizottsága",
+    "lead_hu": "November 5-én parlamenti vizsgálóbizottság hallgatja meg Varga Mihály jegybankelnököt az MNB működésével kapcsolatos visszaélések ügyében. A letartóztatásban lévő Matolcsy György személyes meghallgatására nem kerül sor; a bizottság azt is mérlegeli, milyen módon kérdezheti meg a volt jegybankelnököt.",
+    "content_hu": "• **November 5-én ülésezik a bizottság**: A parlamenti vizsgálóbizottság 13 órakor kezdi meg ülését, amelyen meghallgatja Varga Mihályt a jegybankon belüli vizsgálatok állásáról.\n\n• **Matolcsy Györgyöt nem hallgatják meg személyesen**: Az ügyészség szerint a letartóztatásban lévő volt jegybankelnök személyes meghallgatásának nincsenek meg a jogszabályi feltételei.\n\n• **A bizottság dönthet az alternatív meghallgatásról**: A képviselők mérlegelik, hogy videókapcsolaton keresztül vagy más módon kérdezzék-e meg Matolcsyt; az ülésen ügyvédje is ismertetheti az ügy aktuális fejleményeit.",
+    "importance_score": 85.0
+  },
+  {
     "group_id": "group_820ec77ce7",
     "fingerprint": "018f1125f1f47f932fdcae4edcee2b19",
     "category": "Sport",
@@ -373,6 +429,52 @@
     "title_hu": "Cristiano Ronaldo azonnali hatállyal visszavonult a portugál válogatottól",
     "lead_hu": "A 41 éves Cristiano Ronaldo bejelentette, hogy többé nem szerepel a portugál válogatottban. Búcsúja után a Portugál Labdarúgó Szövetség háláját és elismerését fejezte ki a játékosnak.",
     "content_hu": "• **Azonnali búcsú** Ronaldo azonnali hatállyal fejezte be válogatottbeli pályafutását; utolsó mérkőzését szeptemberben, a Wales ellen 1–0-ra megnyert találkozón játszotta.\n\n• **Fegyelmi ügy** A támadó korábban, Jorge Jesus szövetségi kapitánnyal való nézeteltérése után elhagyta a válogatott edzőtáborát. A történtek miatt pénzbírságot és 30 napos eltiltást kapott, később pedig bocsánatot kért csapattársaitól és a szurkolóktól.\n\n• **További sikerek** Ronaldo hat világbajnokságon szerepelt, és két Nemzetek Ligája-győzelmet is ünnepelhetett Portugáliával.\n\n• **A szövetség reakciója** A Portugál Labdarúgó Szövetség megköszönte a játékos szolgálatait, és kiemelte, hogy generációkat inspirált, valamint növelte Portugália ismertségét.\n\n• **Klubcél** Ronaldo az al-Nasszr játékosaként folytatja pályafutását; a forrás szerint 985 gólnál tart, és az ezredik találat elérésére törekszik.",
+    "importance_score": 75.0
+  },
+  {
+    "group_id": "group_6ac4aed4e9",
+    "fingerprint": "30a418d5129448406bf01c982918d90d",
+    "category": "Általános",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/JSDKdaQ3FfS5nUOaiX22CYv0SE8K6eKyY0gfh8fAwSI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2ZTdlM2ZiNjU1OTRkMzViOTM0OGY1NjQxYzliMGMz.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Tucatnyi európai repülőjáratot kellett eltéríteni bombafenyegetések miatt",
+        "link": "https://444.hu/2026/11/05/tucatnyi-europai-repulojaratot-kellett-elteriteni-bombafenyegetesek-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Bombafenyegetések: Európa-szerte több repülőt átirányítottak",
+        "link": "https://24.hu/kulfold/2026/11/05/europa-repulo-bombafenyegetes-atiranyitas/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Újabb bombariadók okoznak káoszt az európai légi közlekedésben, riadót rendeltek el több országban",
+        "link": "https://index.hu/kulfold/2026/11/05/repulogep-repulojarat-bombariado-bombafenyegetes/"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Számos újabb európai repülőjárat kapott bombafenyegetést",
+        "link": "https://hvg.hu/vilag/20261105_europai-repulojarat-bombafenyegetes-kenyszerleszallas"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Bombariadók sorozata a repülőkön: Európa légiközlekedése akadozva működik",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/bombariadok-sorozata-a-repulokon-europa-legikozlekedese-akadozva-mukodik?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Egy héten belül már másodjára kapnak bombafenyegetéseket repülőjáratok Európában",
+        "link": "https://telex.hu/kulfold/2026/11/05/megint-bombafenyegeteseket-kaptak-europai-legitarsasagok"
+      }
+    ],
+    "published_at": 1793876733,
+    "title_hu": "Bombafenyegetések miatt több európai járat útvonalát módosították",
+    "lead_hu": "Csütörtökön több mint tíz európai repülőjárat kapott bombafenyegetést, ezért több gépet átirányítottak, a repülőtereken pedig biztonsági ellenőrzéseket végeztek. Az eddig lezárt vizsgálatok nem találtak robbanóanyagot; a hatóságok azt is vizsgálják, hogy összefüggnek-e az esetek.",
+    "content_hu": "• **Több mint tíz járatot érintett a fenyegetéshullám** csütörtökön: a Wizz Air, a Ryanair, a LOT és a Finnair járatai, valamint több Prágába tartó gép is érintett volt.\n\n• **Több repülőgépet átirányítottak vagy vadászgépek kísértek**: a Dublinból Rómába tartó Aer Lingus-járat a franciaországi Évreux katonai repülőterén szállt le, más gépek útvonalát is módosították.\n\n• **Az eddig befejezett átvizsgálások nem találtak robbanóanyagot.** A hatóságok a landolás után is ellenőrizték az érintett repülőgépeket.\n\n• **Vizsgálják, hogy összehangolt akcióról van-e szó.** Kedden is több európai járatot értek hasonló fenyegetések.",
     "importance_score": 75.0
   },
   {
@@ -560,85 +662,44 @@
     "importance_score": 68.0
   },
   {
-    "group_id": "group_aaed98dfe3",
-    "fingerprint": "5798517e352af43d6593f4c5aa33328f",
+    "group_id": "group_a933241565",
+    "fingerprint": "5acc1eb34792aa87845a8a67fa5f8bb4",
     "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/v/a/r/varga-mihaly-mnb-elnok-jegybankelnok-742035.jpg",
+    "image": "https://kep.index.hu/1/0/7057/70575/705754/70575491_5206233_44635762055f828461e167bc43540128_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
     "sources_count": 5,
     "sources": [
       {
-        "source": "Portfolio - Gazdaság",
-        "title": "Hamarosan megszólal Matolcsy György ügyvédje és Varga Mihály az MNB-botrányról",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/hamarosan-megszolal-matolcsy-gyorgy-ugyvedje-es-varga-mihaly-az-mnb-botranyrol-874454"
+        "source": "Index - Címlap",
+        "title": "Tarr Zoltán lemondását és a nyitottaktak.hu leállítását követeli a Fidesz az informatikai hibát követően",
+        "link": "https://index.hu/belfold/2026/11/05/ugynokaktak-abtl-technikai-hiba-lezsak-sandor-boka-janos-fidesz-reakcio/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Bóka János követeli, hogy állítsák le az ügynökakták honlapját",
+        "link": "https://24.hu/belfold/2026/11/05/boka-janos-ugynokaktak-lezsak-sandor/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Az ügynökaktás oldal leállítását és Tarr Zoltán lemondását követeli a Lezsák-hiba miatt a Fidesz",
+        "link": "https://hvg.hu/itthon/20261105_tarr-zoltan-lemondas-ugynokaktas-oldal-leallitas-lezsak-fidesz-boka-janos"
       },
       {
         "source": "ATV",
-        "title": "Varga Mihályt hallgatja meg az MNB Működésével Kapcsolatos Visszaéléseit Feltáró Vizsgálóbizottság – Nézze itt élőben",
-        "link": "https://www.atv.hu/belfold/20261105/varga-mihaly-mnb-meghallgatas/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Varga Mihály a vizsgálóbizottság előtt, meghallgatják az MNB-botrányban",
-        "link": "https://index.hu/gazdasag/2026/11/05/mnb-botrany-ugy-matolcsy-gyorgy-varga-mihaly-parlament-vizsgalobizottsag-meghallgatas/"
+        "title": "„Távozzon a hivatalából!” – Tarr Zoltán lemondását követeli Bóka János az ügynökakták botránya miatt",
+        "link": "https://www.atv.hu/belfold/20261105/boka-janos-tarr-zoltan-tavozas/"
       },
       {
         "source": "24.hu - Legfrissebb",
-        "title": "Varga Mihály meghallgatása az MNB visszaéléseit feltáró vizsgálóbizottságban",
-        "link": "https://24.hu/fn/gazdasag/2026/11/05/varga-mihaly-meghallgatasa-az-mnb-ugyeit-feltaro-vizsgalobizottsagban/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Kiderült: bővülhet Matolcsy György gyanúsítási listája",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/kiderult-bovulhet-matolcsy-gyorgy-gyanusitasi-listaja-874454"
+        "title": "Lezsák Anna az ÁBTL főigazgatójának lemondását követeli",
+        "link": "https://24.hu/belfold/2026/11/05/fidesz-ugynokaktak-sajtotajekoztato-lezsak-sandor/"
       }
     ],
-    "published_at": 1793879160,
-    "title_hu": "Varga Mihályt meghallgatja az MNB-ügy vizsgálóbizottsága",
-    "lead_hu": "November 5-én parlamenti vizsgálóbizottság hallgatja meg Varga Mihály jegybankelnököt az MNB működésével kapcsolatos visszaélések ügyében. A letartóztatásban lévő Matolcsy György személyes meghallgatására nem kerül sor; a bizottság azt is mérlegeli, milyen módon kérdezheti meg a volt jegybankelnököt.",
-    "content_hu": "• **November 5-én ülésezik a bizottság**: A parlamenti vizsgálóbizottság 13 órakor kezdi meg ülését, amelyen meghallgatja Varga Mihályt a jegybankon belüli vizsgálatok állásáról.\n\n• **Matolcsy Györgyöt nem hallgatják meg személyesen**: Az ügyészség szerint a letartóztatásban lévő volt jegybankelnök személyes meghallgatásának nincsenek meg a jogszabályi feltételei.\n\n• **A bizottság dönthet az alternatív meghallgatásról**: A képviselők mérlegelik, hogy videókapcsolaton keresztül vagy más módon kérdezzék-e meg Matolcsyt; az ülésen ügyvédje is ismertetheti az ügy aktuális fejleményeit.",
-    "importance_score": 65.0
-  },
-  {
-    "group_id": "group_6ac4aed4e9",
-    "fingerprint": "30a418d5129448406bf01c982918d90d",
-    "category": "Általános",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/JSDKdaQ3FfS5nUOaiX22CYv0SE8K6eKyY0gfh8fAwSI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2ZTdlM2ZiNjU1OTRkMzViOTM0OGY1NjQxYzliMGMz.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Tucatnyi európai repülőjáratot kellett eltéríteni bombafenyegetések miatt",
-        "link": "https://444.hu/2026/11/05/tucatnyi-europai-repulojaratot-kellett-elteriteni-bombafenyegetesek-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Bombafenyegetések: Európa-szerte több repülőt átirányítottak",
-        "link": "https://24.hu/kulfold/2026/11/05/europa-repulo-bombafenyegetes-atiranyitas/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Újabb bombariadók okoznak káoszt az európai légi közlekedésben, riadót rendeltek el több országban",
-        "link": "https://index.hu/kulfold/2026/11/05/repulogep-repulojarat-bombariado-bombafenyegetes/"
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Számos újabb európai repülőjárat kapott bombafenyegetést",
-        "link": "https://hvg.hu/vilag/20261105_europai-repulojarat-bombafenyegetes-kenyszerleszallas"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Bombariadók sorozata a repülőkön: Európa légiközlekedése akadozva működik",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/bombariadok-sorozata-a-repulokon-europa-legikozlekedese-akadozva-mukodik?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793876733,
-    "title_hu": "Bombafenyegetések miatt több európai járat útvonalát módosították",
-    "lead_hu": "Csütörtökön több mint tíz európai repülőjárat kapott bombafenyegetést, ezért több gépet átirányítottak, a repülőtereken pedig biztonsági ellenőrzéseket végeztek. Az eddig lezárt vizsgálatok nem találtak robbanóanyagot; a hatóságok azt is vizsgálják, hogy összefüggnek-e az esetek.",
-    "content_hu": "• **Több mint tíz járatot érintett a fenyegetéshullám** csütörtökön: a Wizz Air, a Ryanair, a LOT és a Finnair járatai, valamint több Prágába tartó gép is érintett volt.\n\n• **Több repülőgépet átirányítottak vagy vadászgépek kísértek**: a Dublinból Rómába tartó Aer Lingus-járat a franciaországi Évreux katonai repülőterén szállt le, más gépek útvonalát is módosították.\n\n• **Az eddig befejezett átvizsgálások nem találtak robbanóanyagot.** A hatóságok a landolás után is ellenőrizték az érintett repülőgépeket.\n\n• **Vizsgálják, hogy összehangolt akcióról van-e szó.** Kedden is több európai járatot értek hasonló fenyegetések.",
+    "published_at": 1793871600,
+    "title_hu": "A Lezsák nevével kapcsolatos hiba miatt követeli a Fidesz az ügynökakták oldalának leállítását",
+    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára közölte, hogy informatikai hiba miatt jelent meg Lezsák Sándor neve az ügynökakták adatbázisában: a politikus nem besúgó, hanem megfigyelt volt. Bóka János, a Fidesz frakcióvezetője a honlap leállítását, Magyar Péter bocsánatkérését és Tarr Zoltán távozását követeli.",
+    "content_hu": "• **A hiba oka** Az ÁBTL szerint Lezsák Sándor neve informatikai hiba következtében került az adatbázisba; a dokumentumok alapján megfigyeltként, nem hálózati személyként szerepelt.\n\n• **A Fidesz követelései** Bóka János a teljes honlap elérhetetlenné tételét követeli addig, amíg nem tisztázzák, kik voltak együttműködők és kik megfigyeltek. Emellett Magyar Péter bocsánatkérését és Tarr Zoltán lemondását sürgeti.\n\n• **Bóka bírálata** A frakcióvezető szerint a dokumentumok magyarázat és megfelelő kontextus nélküli közzététele sértheti az érintettek méltóságát, és a Tisza politikai céljait szolgálhatja.",
     "importance_score": 65.0
   },
   {
@@ -762,42 +823,6 @@
     "title_hu": "Az Alkotmánybíróság reagált Patyi András beszervezéséről szóló kartonjára",
     "lead_hu": "Patyi András alkotmánybíró neve szerepel az Állambiztonsági Szolgálatok Történeti Levéltárának Nyitott Akták adatbázisában. A hatos karton szerint 1988-ban, hazafias alapon szervezték be, „Kocsis Márton” fedőnéven az ifjúságvédelem területén számítottak rá. Az Alkotmánybíróság érdemben csak a körülmények megismerése után reagál.",
     "content_hu": "• **Nyilvánosságra került karton** Az ÁBTL Nyitott Akták adatbázisában két találat szerepel Patyi Andrásra; az egyik a hálózati nyilvántartó, úgynevezett hatos kartonja.\n\n• **A karton adatai** A dokumentum szerint Patyit 1988. augusztus 5-én, hazafias alapon szervezték be, „Kocsis Márton” fedőnéven. A Belügyminisztérium III/III-as csoportfőnöksége az ifjúságvédelem területén számított rá; a karton a KISZ-tagságát is feltünteti.\n\n• **Az Alkotmánybíróság reakciója** A testület közölte: „Semmiképpen sem hagyható figyelmen kívül”, hogy egy alkotmánybíró személyes adatai szerepelnek a nyilvánosságra hozott kartonon, de érdemben csak a körülmények megismerése után nyilatkozik.\n\n• **Patyi 2023 óta alkotmánybíró** A Fidesz–KDNP jelöltjeként került a tisztségbe 2023-ban.\n\n• **Patyi korábbi tisztségei** A Nemzeti Közszolgálati Egyetem rektora volt 2012 és 2018 között, a Nemzeti Választási Bizottságot pedig 2013 és 2018 között vezette.\n\n• **Az adatbázis megnyitása** A Nyitott Akták adatbázisa november 4-től ingyenesen, regisztráció nélkül kereshető. Első körben mintegy 25 ezer hatos karton és több tízezer nyilvántartási bejegyzés vált hozzáférhetővé; a tervek szerint 2027 februárjáig több mint kilencezer beszervezési dossziét is közzétesznek.\n\n• **Patyi nem válaszolt** A HVG megkereste az alkotmánybírót is, de a cikk megjelenéséig nem kapott választ.",
-    "importance_score": 55.0
-  },
-  {
-    "group_id": "group_a933241565",
-    "fingerprint": "5acc1eb34792aa87845a8a67fa5f8bb4",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7057/70575/705754/70575491_5206233_44635762055f828461e167bc43540128_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Tarr Zoltán lemondását és a nyitottaktak.hu leállítását követeli a Fidesz az informatikai hibát követően",
-        "link": "https://index.hu/belfold/2026/11/05/ugynokaktak-abtl-technikai-hiba-lezsak-sandor-boka-janos-fidesz-reakcio/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Bóka János követeli, hogy állítsák le az ügynökakták honlapját",
-        "link": "https://24.hu/belfold/2026/11/05/boka-janos-ugynokaktak-lezsak-sandor/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Az ügynökaktás oldal leállítását és Tarr Zoltán lemondását követeli a Lezsák-hiba miatt a Fidesz",
-        "link": "https://hvg.hu/itthon/20261105_tarr-zoltan-lemondas-ugynokaktas-oldal-leallitas-lezsak-fidesz-boka-janos"
-      },
-      {
-        "source": "ATV",
-        "title": "„Távozzon a hivatalából!” – Tarr Zoltán lemondását követeli Bóka János az ügynökakták botránya miatt",
-        "link": "https://www.atv.hu/belfold/20261105/boka-janos-tarr-zoltan-tavozas/"
-      }
-    ],
-    "published_at": 1793871600,
-    "title_hu": "A Lezsák nevével kapcsolatos hiba miatt követeli a Fidesz az ügynökakták oldalának leállítását",
-    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára közölte, hogy informatikai hiba miatt jelent meg Lezsák Sándor neve az ügynökakták adatbázisában: a politikus nem besúgó, hanem megfigyelt volt. Bóka János, a Fidesz frakcióvezetője a honlap leállítását, Magyar Péter bocsánatkérését és Tarr Zoltán távozását követeli.",
-    "content_hu": "• **A hiba oka** Az ÁBTL szerint Lezsák Sándor neve informatikai hiba következtében került az adatbázisba; a dokumentumok alapján megfigyeltként, nem hálózati személyként szerepelt.\n\n• **A Fidesz követelései** Bóka János a teljes honlap elérhetetlenné tételét követeli addig, amíg nem tisztázzák, kik voltak együttműködők és kik megfigyeltek. Emellett Magyar Péter bocsánatkérését és Tarr Zoltán lemondását sürgeti.\n\n• **Bóka bírálata** A frakcióvezető szerint a dokumentumok magyarázat és megfelelő kontextus nélküli közzététele sértheti az érintettek méltóságát, és a Tisza politikai céljait szolgálhatja.",
     "importance_score": 55.0
   },
   {
@@ -1177,68 +1202,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_860fb6269c",
-    "fingerprint": "83f4549c038b93ad7c35965a86af7744",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6040/60404/604042/60404235_4467339_3f169c99bbcc13fa1786fdef7cc93161_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Gyengén felhős, napos idő lesz",
-        "link": "https://index.hu/belfold/2026/11/05/idojaras-elorejelzes-radar-felhos-napos-ido/"
-      },
-      {
-        "source": "Femina",
-        "title": "Jövő heti időjárás: 10 fokos fordulatot hoz a jövő heti időjárás",
-        "link": "https://femina.hu/terasz/jovo-heti-idojaras-novemberi-fordulat/"
-      },
-      {
-        "source": "ATV",
-        "title": "Fagyos hajnal, napos délután: ilyen idő vár ránk csütörtökön",
-        "link": "https://www.atv.hu/belfold/20261105/fagy-nap-delutan-ido-csutortok/"
-      }
-    ],
-    "published_at": 1793870400,
-    "title_hu": "Napos csütörtök várható, jövő héten enyhülhetnek a hajnalok",
-    "lead_hu": "A pára- és ködfoltok feloszlása után többnyire derült, napos idő várható csütörtökön, csapadék nélkül. Hajnalban mínusz 3 és plusz 3 fok közé hűlhet a levegő, délután 9–12 fok lehet; jövő hét elején enyhébb reggelek jöhetnek.",
-    "content_hu": "• **Napos idő** A reggeli pára- és ködfoltok feloszlása után általában derült vagy gyengén felhős lesz az ég, csapadék nem várható.\n\n• **Fagyos hajnal** Az éjszakai és hajnali hőmérséklet többnyire mínusz 3 és plusz 3 fok között alakulhat; az északi, szélvédett völgyekben ennél hidegebb is lehet.\n\n• **Enyhe délután** A legmagasabb nappali hőmérséklet 9–12 fok között várható.\n\n• **Élénk széllökések** Az északkeleti szelet a Tiszántúlon élénk lökések kísérhetik.\n\n• **Enyhülés jövő hét elején** A hajnali minimumok akár 5–10 fok közé emelkedhetnek, miközben a nappali maximumok várhatóan 7–15 fok között alakulnak. A hét első felében borúsabb idő és elszórtan kisebb eső vagy zápor is előfordulhat.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_80cc8bddfb",
-    "fingerprint": "3c0dbc1d9732ac0308241cd52f5522a7",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793862257-temp-4qemaq9r88n4akjdabh_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Újságírókat, ügyészeket és egyetemistákat is megfigyelhetett a szerb titkosszolgálat",
-        "link": "https://telex.hu/kulfold/2026/11/05/ujsagirokat-ugyeszeket-es-egyetemistakat-is-megfigyelhetett-a-szerb-titkosszolgalat"
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "A szerb titkosszolgálat újságírókat, ügyészeket és egyetemistákat is megfigyelhetett",
-        "link": "https://hvg.hu/vilag/20261105_szerb-titkosszolgalat-megfigyeles-ujsagiro-ugyesz-egyetemista"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Újságírókat és ügyészeket is megfigyelhetett a szerb titkosszolgálat",
-        "link": "https://index.hu/belfold/2026/11/05/biztonsagi-es-informacios-ugynokseg-szerbia-megfigyeles/"
-      }
-    ],
-    "published_at": 1793870160,
-    "title_hu": "Szerb titkosszolgálati megfigyelések miatt követelnek vizsgálatot és reformot",
-    "lead_hu": "A Radar dokumentumai szerint a szerb titkosszolgálat újságírókat és ügyészeket is megfigyelhetett, miközben egyetemisták és ellenzéki szereplők telefonjait fejlett kémszoftverekkel támadhatták meg. A választás után független vizsgálatot, a dokumentumok megőrzését és a BIA átfogó átalakítását követelik; a szolgálat tagadja a lehallgatásokról szóló állításokat.",
-    "content_hu": "• **Érintettek** A Radar oknyomozó hetilap dokumentumai szerint a Biztonsági és Információs Ügynökség (BIA) újságírókat és ügyészeket is megfigyelhetett; jelentések egyetemisták és ellenzéki politikusok megfigyeléséről is beszámolnak.\n\n• **A megfigyelések** A Radar munkatársait június 12-től október 22-ig figyelhették bírósági engedéllyel; az engedélyeket júliusban és szeptemberben meghosszabbították. A megfigyelés a szerkesztőségre, újságírók lakására és autójára, valamint fizikai követésre is kiterjedt. A BIA igazgatója azért kezdeményezte az intézkedések leállítását, mert nem találtak kémkedésre utaló bizonyítékot.\n\n• **Ügyészek megfigyelése** A Radar szerint áprilistól októberig a szervezett bűnözés elleni ügyészség több munkatársának telefonbeszélgetéseit és elektronikus levelezését is ellenőrizték. A lap névtelen forrásai úgy vélték, a megfigyelés célja az újvidéki vasútállomás előtetőjének leomlása ügyében folyó korrupciós nyomozás követése lehetett.\n\n• **Újságíró-szervezetek követelései** A Szerbiai Független Újságírók Egyesülete (NUNS) a BIA igazgatójának leváltását és a megfigyelések kezdeményezésének, engedélyezésének és végrehajtásának független kivizsgálását követelte; az UNS és az ANEM is elítélte a történteket. A BIA visszautasította a lehallgatásokról szóló állításokat.\n\n• **Kémszoftverek** A SHARE alapítvány szerint 2026 eleje óta legalább 14 ember telefonját vették célba fejlett kémszoftverekkel Szerbiában. Az érintettek között egyetemisták, aktivisták és ellenzéki politikusok voltak; egy készüléken Pegasust, egy másikon NoviSpy-t azonosítottak, a támadások megrendelőit azonban nem állapították meg.\n\n• **Jogellenesen szerzett bizonyítékok** A belgrádi fellebbviteli bíróság jogerősen kizárta egy kilenc egyetemista ellen indított eljárásból a BIA törvénytelen titkos megfigyelésével és lehallgatásával megszerzett bizonyítékokat.\n\n• **Reformjavaslat** Milimir Lukic fellebbviteli bíró a BIA megszüntetését és egy demokratikus ellenőrzés alatt működő új hírszerző ügynökség létrehozását sürgette. Szakértők szerint a BIA vezetőjének leváltása önmagában nem elegendő, mert a hírszerzés 2012 óta fokozatosan politikai ellenőrzés alá került.\n\n• **Dokumentumok megőrzése** Zagorka Dolovac legfőbb ügyész október 29-én utasítást adott ki a hivatalos iratok megsemmisítésének megakadályozására, miután felmerült, hogy állami intézményekben dokumentumokat tüntethetnek el. A szakértők szerint a megfigyelési iratok megőrzése és a titkosszolgálati akták hozzáférhetővé tétele is szükséges a felelősség tisztázásához.\n\n• **Rejtett berendezés** Október 30-án egy belgrádi jogi kari előadóterem lámpájában hang- és képrögzítésre alkalmasnak vélt eszközt találtak. A rendőrség lefoglalta, de nem bizonyított, hogy a BIA helyezte el.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_8042ab3aac",
     "fingerprint": "b16aca725e2eb0260e4515e00c8f85fc",
     "category": "Politika",
@@ -1340,6 +1303,30 @@
     "lead_hu": "Az NKFH laboratóriuma 186 USB-töltőt vizsgált meg, közülük 156 nem teljesítette a biztonsági követelményeket. A hatósági eljárások és a forgalomból történő kivonások folyamatban vannak; az NKFH megbízható kereskedőtől való vásárlást javasol, a túlmelegedő vagy rendellenesen működő töltőket pedig azonnal ki kell vonni a használatból.",
     "content_hu": "• **156 készülék bukott meg a vizsgálaton** – A 186 ellenőrzött USB-töltőből mindössze 30 felelt meg a biztonsági követelményeknek; a kifogásolási arány közel 84 százalék volt.\n\n• **Áramütésveszélyt és rejtett hibákat is kerestek** – A laboratóriumi vizsgálatok a szigetelés biztonságosságára, a csatlakozódugók kialakítására és az úti átalakítóval kombinált készülékekre is kiterjedtek. Egyes hibák szabad szemmel nem észlelhetők, ezért vásárláskor a fogyasztók sem feltétlenül tudják felismerni a veszélyt.\n\n• **Két ütemben, széles körből vettek mintát** – 2026-ban a hatóság a korábbiaknál több, közel 200 töltőt ellenőrzött. A mintavételek műszaki áruházakra, szakkereskedésekre, távol-keleti üzemeltetésű kisboltokra és webáruházakra is kiterjedtek.\n\n• **Évek óta magas a kifogásolási arány** – A korábbi vizsgálatokon 2023-ban a termékek 85, 2024-ben 92, 2025-ben pedig 87 százaléka nem felelt meg az előírásoknak.\n\n• **Folyamatban vannak az eljárások** – A veszélyes termékek miatt indított hatósági eljárások és a forgalomból történő kivonások még tartanak. Az NKFH ezúttal nem tette közzé a kivont, illetve betiltott eszközök listáját.\n\n• **A hatóság óvatosságra int** – Az NKFH megbízható kereskedőtől történő vásárlást javasol, és azt kéri, hogy a fogyasztók kerüljék a gyanúsan olcsó, ismeretlen eredetű töltőket. Rendellenes működés vagy túlmelegedés esetén az eszközt ne használják tovább.\n\n• **Három éven belül új követelmények jönnek a töltőkre** – A HWSW szerint a külső tápegységeknek és töltőknek legkésőbb három év múlva új feltételeknek kell megfelelniük; a változás az Apple termékkínálatát, azon belül az iPhone-okat is érintheti. A portál ezt azzal a trenddel hozza összefüggésbe, hogy az uniós szabályozás nyomán egyre kevesebb készülékhez adnak töltőfejet, így nőhet az utángyártott töltők iránti igény.",
     "importance_score": 43.0
+  },
+  {
+    "group_id": "group_37b9fa5a95",
+    "category": "Politika",
+    "image": "https://www.youtube.com/embed/CKkCy0rovhQ",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "A Fidesz sajtótájékoztatója az ügynökakták kapcsán – Nézze itt élőben",
+        "link": "https://www.atv.hu/belfold/20261105/fidesz-sajtotajekoztato-ugynokaktak/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Totális diktatúra: A HírTV nem tudja közvetíteni a Fidesz sajtótájékoztatóját, kitiltották őket mindenhonnan",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/totalis-diktatura-a-hirtv-nem-tudja-kozvetiteni-a-fidesz-sajtotajekoztatojat-kitiltottak-oket-mindenhonnan"
+      }
+    ],
+    "published_at": 1793877120,
+    "title_hu": "A Fidesz sajtótájékoztatója az ügynökakták kapcsán – Nézze itt élőben",
+    "lead_hu": "A nyitottaktak.hu adatbázisának súlyos hibája miatt rendkívüli sajtótájékoztatót tart a Fidesz és a KDNP. Nézze a közvetítést élőben!",
+    "content_hu": "A nyitottaktak.hu adatbázisának súlyos hibája miatt rendkívüli sajtótájékoztatót tart a Fidesz és a KDNP. Nézze a közvetítést élőben!",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_ae663fd821",
@@ -1464,6 +1451,68 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_860fb6269c",
+    "fingerprint": "83f4549c038b93ad7c35965a86af7744",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/6040/60404/604042/60404235_4467339_3f169c99bbcc13fa1786fdef7cc93161_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Gyengén felhős, napos idő lesz",
+        "link": "https://index.hu/belfold/2026/11/05/idojaras-elorejelzes-radar-felhos-napos-ido/"
+      },
+      {
+        "source": "Femina",
+        "title": "Jövő heti időjárás: 10 fokos fordulatot hoz a jövő heti időjárás",
+        "link": "https://femina.hu/terasz/jovo-heti-idojaras-novemberi-fordulat/"
+      },
+      {
+        "source": "ATV",
+        "title": "Fagyos hajnal, napos délután: ilyen idő vár ránk csütörtökön",
+        "link": "https://www.atv.hu/belfold/20261105/fagy-nap-delutan-ido-csutortok/"
+      }
+    ],
+    "published_at": 1793870400,
+    "title_hu": "Napos csütörtök várható, jövő héten enyhülhetnek a hajnalok",
+    "lead_hu": "A pára- és ködfoltok feloszlása után többnyire derült, napos idő várható csütörtökön, csapadék nélkül. Hajnalban mínusz 3 és plusz 3 fok közé hűlhet a levegő, délután 9–12 fok lehet; jövő hét elején enyhébb reggelek jöhetnek.",
+    "content_hu": "• **Napos idő** A reggeli pára- és ködfoltok feloszlása után általában derült vagy gyengén felhős lesz az ég, csapadék nem várható.\n\n• **Fagyos hajnal** Az éjszakai és hajnali hőmérséklet többnyire mínusz 3 és plusz 3 fok között alakulhat; az északi, szélvédett völgyekben ennél hidegebb is lehet.\n\n• **Enyhe délután** A legmagasabb nappali hőmérséklet 9–12 fok között várható.\n\n• **Élénk széllökések** Az északkeleti szelet a Tiszántúlon élénk lökések kísérhetik.\n\n• **Enyhülés jövő hét elején** A hajnali minimumok akár 5–10 fok közé emelkedhetnek, miközben a nappali maximumok várhatóan 7–15 fok között alakulnak. A hét első felében borúsabb idő és elszórtan kisebb eső vagy zápor is előfordulhat.",
+    "importance_score": 38.0
+  },
+  {
+    "group_id": "group_80cc8bddfb",
+    "fingerprint": "3c0dbc1d9732ac0308241cd52f5522a7",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793862257-temp-4qemaq9r88n4akjdabh_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Újságírókat, ügyészeket és egyetemistákat is megfigyelhetett a szerb titkosszolgálat",
+        "link": "https://telex.hu/kulfold/2026/11/05/ujsagirokat-ugyeszeket-es-egyetemistakat-is-megfigyelhetett-a-szerb-titkosszolgalat"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "A szerb titkosszolgálat újságírókat, ügyészeket és egyetemistákat is megfigyelhetett",
+        "link": "https://hvg.hu/vilag/20261105_szerb-titkosszolgalat-megfigyeles-ujsagiro-ugyesz-egyetemista"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Újságírókat és ügyészeket is megfigyelhetett a szerb titkosszolgálat",
+        "link": "https://index.hu/belfold/2026/11/05/biztonsagi-es-informacios-ugynokseg-szerbia-megfigyeles/"
+      }
+    ],
+    "published_at": 1793870160,
+    "title_hu": "Szerb titkosszolgálati megfigyelések miatt követelnek vizsgálatot és reformot",
+    "lead_hu": "A Radar dokumentumai szerint a szerb titkosszolgálat újságírókat és ügyészeket is megfigyelhetett, miközben egyetemisták és ellenzéki szereplők telefonjait fejlett kémszoftverekkel támadhatták meg. A választás után független vizsgálatot, a dokumentumok megőrzését és a BIA átfogó átalakítását követelik; a szolgálat tagadja a lehallgatásokról szóló állításokat.",
+    "content_hu": "• **Érintettek** A Radar oknyomozó hetilap dokumentumai szerint a Biztonsági és Információs Ügynökség (BIA) újságírókat és ügyészeket is megfigyelhetett; jelentések egyetemisták és ellenzéki politikusok megfigyeléséről is beszámolnak.\n\n• **A megfigyelések** A Radar munkatársait június 12-től október 22-ig figyelhették bírósági engedéllyel; az engedélyeket júliusban és szeptemberben meghosszabbították. A megfigyelés a szerkesztőségre, újságírók lakására és autójára, valamint fizikai követésre is kiterjedt. A BIA igazgatója azért kezdeményezte az intézkedések leállítását, mert nem találtak kémkedésre utaló bizonyítékot.\n\n• **Ügyészek megfigyelése** A Radar szerint áprilistól októberig a szervezett bűnözés elleni ügyészség több munkatársának telefonbeszélgetéseit és elektronikus levelezését is ellenőrizték. A lap névtelen forrásai úgy vélték, a megfigyelés célja az újvidéki vasútállomás előtetőjének leomlása ügyében folyó korrupciós nyomozás követése lehetett.\n\n• **Újságíró-szervezetek követelései** A Szerbiai Független Újságírók Egyesülete (NUNS) a BIA igazgatójának leváltását és a megfigyelések kezdeményezésének, engedélyezésének és végrehajtásának független kivizsgálását követelte; az UNS és az ANEM is elítélte a történteket. A BIA visszautasította a lehallgatásokról szóló állításokat.\n\n• **Kémszoftverek** A SHARE alapítvány szerint 2026 eleje óta legalább 14 ember telefonját vették célba fejlett kémszoftverekkel Szerbiában. Az érintettek között egyetemisták, aktivisták és ellenzéki politikusok voltak; egy készüléken Pegasust, egy másikon NoviSpy-t azonosítottak, a támadások megrendelőit azonban nem állapították meg.\n\n• **Jogellenesen szerzett bizonyítékok** A belgrádi fellebbviteli bíróság jogerősen kizárta egy kilenc egyetemista ellen indított eljárásból a BIA törvénytelen titkos megfigyelésével és lehallgatásával megszerzett bizonyítékokat.\n\n• **Reformjavaslat** Milimir Lukic fellebbviteli bíró a BIA megszüntetését és egy demokratikus ellenőrzés alatt működő új hírszerző ügynökség létrehozását sürgette. Szakértők szerint a BIA vezetőjének leváltása önmagában nem elegendő, mert a hírszerzés 2012 óta fokozatosan politikai ellenőrzés alá került.\n\n• **Dokumentumok megőrzése** Zagorka Dolovac legfőbb ügyész október 29-én utasítást adott ki a hivatalos iratok megsemmisítésének megakadályozására, miután felmerült, hogy állami intézményekben dokumentumokat tüntethetnek el. A szakértők szerint a megfigyelési iratok megőrzése és a titkosszolgálati akták hozzáférhetővé tétele is szükséges a felelősség tisztázásához.\n\n• **Rejtett berendezés** Október 30-án egy belgrádi jogi kari előadóterem lámpájában hang- és képrögzítésre alkalmasnak vélt eszközt találtak. A rendőrség lefoglalta, de nem bizonyított, hogy a BIA helyezte el.",
+    "importance_score": 38.0
+  },
+  {
     "group_id": "group_615baba652",
     "fingerprint": "f0908a11657aa664fe31656bacff7a74",
     "category": "Politika",
@@ -1586,6 +1635,30 @@
     "lead_hu": "Rövid betegség után, 80 éves korában meghalt Alan Jones ausztrál autóversenyző. A Williams egykori pilótája 1980-ban nyerte meg a Forma–1-es világbajnokságot.",
     "content_hu": "• **Halálhír** Alan Jones november 5-én, rövid betegséget követően hunyt el; a hírt felesége jelentette be.\n\n• **Világbajnoki cím** Jones 1980-ban, a Williams versenyzőjeként lett világbajnok, abban az idényben öt futamot nyert.\n\n• **Pályafutása** Tíz szezonon át versenyzett a Forma–1-ben, összesen 12 nagydíjgyőzelmet aratott, majd 1986-ban visszavonult.\n\n• **Öröksége** A versenyzés után motorsport-kommentátorként dolgozott; az Ausztrál Nagydíj szervezői szerint világbajnoki sikere ausztrál motorsportrajongók generációit inspirálta.",
     "importance_score": 38.0
+  },
+  {
+    "group_id": "group_9d6f91382e",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7242/72429/724298/72429849_5337545_47c73cc2f75d1b0ea2cc909ae714d089_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Bronzérmet nyert, és olimpiai kvótát szerzett Major Veronika a dohai sportlövő-világbajnokságon",
+        "link": "https://index.hu/sport/2026/11/05/major-veronika-sportlovo-vilagbajnoksag-donto-bronzerem-doha-olimpiai-kvota/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Major Veronika bronzérmes és olimpiai kvótás légpisztolyban",
+        "link": "https://telex.hu/sport/2026/11/05/major-veronika-bronzerem-olimpiai-kvotas-legpisztoly"
+      }
+    ],
+    "published_at": 1793881080,
+    "title_hu": "Bronzérmet nyert, és olimpiai kvótát szerzett Major Veronika a dohai sportlövő-világbajnokságon",
+    "lead_hu": "A 29 éves sportoló hazánk első indulási jogát szerezte meg a Los Angeles-i játékokra....",
+    "content_hu": "A 29 éves sportoló hazánk első indulási jogát szerezte meg a Los Angeles-i játékokra.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_a5baf0cfac",
@@ -3371,6 +3444,44 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_4dfc0a33fd",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7242/72429/724297/72429731_5337535_dd490cf29c46b478e09c5f919e7f2275_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Futótűzként terjed az új magyar sláger, 100 ezres megtekintésnél tart",
+        "link": "https://index.hu/kultur/zene/2026/11/05/majusi-ho-4s-street-korinna/"
+      }
+    ],
+    "published_at": 1793881140,
+    "title_hu": "Futótűzként terjed az új magyar sláger, 100 ezres megtekintésnél tart",
+    "lead_hu": "Országos és erdélyi premierrel indítottak....",
+    "content_hu": "Országos és erdélyi premierrel indítottak.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_db73de0456",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0864262015-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Előzmények",
+        "link": "https://24.hu/fn/gazdasag/2026/11/05/elozmenyek-3/"
+      }
+    ],
+    "published_at": 1793880944,
+    "title_hu": "Előzmények",
+    "lead_hu": "Csőszi Attila, a vizsgálóbizottság tiszás elnöke az első napirendi pont részeként Matolcsy György meghallgatásával kapcsolatban adott tájékoztatást. The post Előzmények first appeared on 24.hu....",
+    "content_hu": "Csőszi Attila, a vizsgálóbizottság tiszás elnöke az első napirendi pont részeként Matolcsy György meghallgatásával kapcsolatban adott tájékoztatást. The post Előzmények first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_c650c9e839",
     "category": "Bulvár",
     "image": "https://s.24.hu/app/uploads/2026/11/liptai-claudia-henry-kettner-mokka-tv2-1024x576.jpg",
@@ -3580,6 +3691,44 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_b646c00fcb",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793853335-temp-dijtdb96s19s1fkebmf_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Senki nem szereti azt az embert, aki mindig mindenre bólogat – a legfontosabb mondatok Ránky Katalin interjújából",
+        "link": "https://telex.hu/eletmod/2026/11/05/senki-nem-szereti-azt-az-embert-aki-mindig-mindenre-bologat-a-legfontosabb-mondatok-ranky-katalin-interjujabol"
+      }
+    ],
+    "published_at": 1793879221,
+    "title_hu": "Senki nem szereti azt az embert, aki mindig mindenre bólogat – a legfontosabb mondatok Ránky Katalin interjújából",
+    "lead_hu": "Rendszerváltás, merész húzások, multinacionális környezet egy kelet-európai vezető szemével és életvezetési tanácsok – Ránky Katalin legfontosabb mondatai és legjobb történetei a 100 nőből....",
+    "content_hu": "Rendszerváltás, merész húzások, multinacionális környezet egy kelet-európai vezető szemével és életvezetési tanácsok – Ránky Katalin legfontosabb mondatai és legjobb történetei a 100 nőből.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c10658b8df",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261103/1793715365-temp-oljnemd0nttpbmpdomh_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Magyarország egyik első női felsővezetője: Sokkal nehezebb jó férjet találni, mint jó munkahelyet",
+        "link": "https://telex.hu/eletmod/2026/11/05/100-no-ranky-katalin-interju"
+      }
+    ],
+    "published_at": 1793879209,
+    "title_hu": "Magyarország egyik első női felsővezetője: Sokkal nehezebb jó férjet találni, mint jó munkahelyet",
+    "lead_hu": "A női emancipációról nem általában kell beszélni, hanem konkrét példákat kell mutatni, hogy elhiggyük, képesek vagyunk rá – mondja Ránky Katalin, aki vegyészmérnökként részt vett a Cavinton kifejleszt...",
+    "content_hu": "A női emancipációról nem általában kell beszélni, hanem konkrét példákat kell mutatni, hogy elhiggyük, képesek vagyunk rá – mondja Ránky Katalin, aki vegyészmérnökként részt vett a Cavinton kifejlesztésében, majd közel húsz éven át volt a L’Oréal magyarországi leányvállalatának vezérigazgatója – egy olyan korszakban, amikor már az is csodának számított, hogy egy multi élére magyar vezetőt neveznek ki, nemhogy egy nőt. A 100 nő új adásában az üzleti körökben legendának számító Ránky arról is beszélt, miért nem mindegy, ki az ember főnöke, hogyan lehet egy multinál érvényesíteni az akaratunkat, és hogyan lehet 55 éven át együtt maradni úgy egy házasságban, hogy közben mindkét félnek van saját karrierje.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_b44da39032",
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/cadd77e6-124b-4f9f-b71b-b53d24ccf083.jpg",
@@ -3596,6 +3745,25 @@
     "title_hu": "Három lelki segélyvonalat hívhatnak, akiket megvisel az ügynökakták nyilvánosságra hozatala",
     "lead_hu": "Tarr Zoltán szerint senkit sem hagynak egyedül.",
     "content_hu": "Tarr Zoltán szerint senkit sem hagynak egyedül.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_505fa0f4a6",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793878993-temp-24r1sp9aese60hmbpgo_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A kormány bezárja a közpénzégető Élelmiszermentő Központot",
+        "link": "https://telex.hu/belfold/2026/11/05/a-kormany-bezarja-az-elelmiszermento-kozpontot-asz-vizsgalat-bona-szabolcs-agrarminiszter"
+      }
+    ],
+    "published_at": 1793879034,
+    "title_hu": "A kormány bezárja a közpénzégető Élelmiszermentő Központot",
+    "lead_hu": "Az ÁSZ jelentése is megállapította, hogy a központ nem látta el a törvényben meghatározott feladatait....",
+    "content_hu": "Az ÁSZ jelentése is megállapította, hogy a központ nem látta el a törvényben meghatározott feladatait.",
     "importance_score": 0.0
   },
   {
@@ -3881,25 +4049,6 @@
     "title_hu": "Tisza-kormány: döntött a bíróság, nem engedik ki Matolcsy Györgyöt, közben egyre nagyobb port kavarnak az ügynökakták",
     "lead_hu": "Helybenhagyta Matolcsy György és két további gyanúsított letartóztatását a Fővárosi Törvényszék: csütörtöki közleményük szerint többek között bizonyítékok eltüntetésének veszélye miatt döntöttek így. …",
     "content_hu": "Helybenhagyta Matolcsy György és két további gyanúsított letartóztatását a Fővárosi Törvényszék: csütörtöki közleményük szerint többek között bizonyítékok eltüntetésének veszélye miatt döntöttek így. Közben egyre nagyobb politikai vitát vált ki az ügynökakták nyilvánosságra hozatala. A Levéltár bocsánatot kért, amiért Lezsák Sándor neve megfigyeltként tévesen bekerült az ügynökadatbázisba, Bóka János emiatt az oldal felfüggesztését és Tarr Zoltán távozását követeli. Közben Vitézy Dávid bejelentette, hogy januártól Kállai Éva vezeti a HungaroControlt, és ismertette a kormány döntését egy gyömrői iskolaépítésről, valamint a 442-es főút fejlesztésének előkészítéséről.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_37b9fa5a95",
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/CKkCy0rovhQ",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "A Fidesz sajtótájékoztatója az ügynökakták kapcsán – Nézze itt élőben",
-        "link": "https://www.atv.hu/belfold/20261105/fidesz-sajtotajekoztato-ugynokaktak/"
-      }
-    ],
-    "published_at": 1793877120,
-    "title_hu": "A Fidesz sajtótájékoztatója az ügynökakták kapcsán – Nézze itt élőben",
-    "lead_hu": "A nyitottaktak.hu adatbázisának súlyos hibája miatt rendkívüli sajtótájékoztatót tart a Fidesz és a KDNP. Nézze a közvetítést élőben!",
-    "content_hu": "A nyitottaktak.hu adatbázisának súlyos hibája miatt rendkívüli sajtótájékoztatót tart a Fidesz és a KDNP. Nézze a közvetítést élőben!",
     "importance_score": 0.0
   },
   {
@@ -14445,120 +14594,6 @@
     "title_hu": "Lefoglalta az NNI a lélegeztetőgép-beszerzések ügyében keletkezett bizonyítékokat a Külügyminisztériumban",
     "lead_hu": "Fontos fordulatról számolt be közösségi oldalán Orbán Anita: a Nemzeti Nyomozó Iroda (NNI) lefoglalta a koronavírus-járvány idején lebonyolított lélegeztetőgép-beszerzések ügyében keletkezett bizonyít…",
     "content_hu": "Fontos fordulatról számolt be közösségi oldalán Orbán Anita: a Nemzeti Nyomozó Iroda (NNI) lefoglalta a koronavírus-járvány idején lebonyolított lélegeztetőgép-beszerzések ügyében keletkezett bizonyítékokat a Külgazdasági és Külügyminisztériumban. A hatósági lefoglalás közvetlen előzménye, hogy a napokban két embert már letartóztattak az állami milliárdokat tisztára mosó bűnszervezet tagjai közül.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_cabb3ef09a",
-    "category": "Kultúra",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2609/24/youtube_164649_2_original_390x220_cover.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PC World",
-        "title": "A YouTube olyan „forradalmi” szolgáltatáson dolgozik, ami függővé tesz, mint az Instagram",
-        "link": "https://www.pcwplus.hu/pcwlite/a-youtube-olyan-forradalmi-szolgaltatason-dolgozik-ami-fuggove-tesz-mint-az-instagram-390431.html"
-      }
-    ],
-    "published_at": 1793794848,
-    "title_hu": "A YouTube olyan „forradalmi” szolgáltatáson dolgozik, ami függővé tesz, mint az Instagram",
-    "lead_hu": "A Google ismét nekifut, hogy saját közösségi oldalt hozzon létre?",
-    "content_hu": "A Google ismét nekifut, hogy saját közösségi oldalt hozzon létre?",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c2976b090e",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2e2505cd-df15-4b73-94ea-8c899ed5cfd9.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Szijjártó Péter elébe ment a találgatásoknak, megosztotta több családtagjának adatait is",
-        "link": "https://hvg.hu/itthon/20261104_szijjarto-peter-ugynokaktak-csaladtagok"
-      }
-    ],
-    "published_at": 1793794682,
-    "title_hu": "Szijjártó Péter elébe ment a találgatásoknak, megosztotta több családtagjának adatait is",
-    "lead_hu": "A kormány által megosztott adatbázisban szerepel egy Szijjárto István Gábor, de az ő születési helye és az anyja neve sem egyezik a fideszes politikus családtagjainak adataival, és a nevét is rövid o-…",
-    "content_hu": "A kormány által megosztott adatbázisban szerepel egy Szijjárto István Gábor, de az ő születési helye és az anyja neve sem egyezik a fideszes politikus családtagjainak adataival, és a nevét is rövid o-val írja.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_aeb0571a69",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/ziccer-live-ticketing-1920x1080-1-1-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Jön a Ziccer szurkolói klubja: nézd velünk a Georgia-Magyarországot!",
-        "link": "https://24.hu/sport/2026/11/04/georgia-magyarorszag-nemzetek-ligaja-meccsnezes-helyszin-ziccer-szurkoloi-klub/"
-      }
-    ],
-    "published_at": 1793794674,
-    "title_hu": "Jön a Ziccer szurkolói klubja: nézd velünk a Georgia-Magyarországot!",
-    "lead_hu": "A közös meccsnézés előtt oldott beszélgetéssel várunk november 14-én, szombaton. The post Jön a Ziccer szurkolói klubja: nézd velünk a Georgia-Magyarországot! first appeared on 24.hu.",
-    "content_hu": "A közös meccsnézés előtt oldott beszélgetéssel várunk november 14-én, szombaton. The post Jön a Ziccer szurkolói klubja: nézd velünk a Georgia-Magyarországot! first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_9ab756d1ae",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Belga lap: a demokraták győzelme katasztrófa Donald Trumpnak",
-        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/belga-lap-a-demokratak-gyozelme-katasztrofa-donald-trumpnak/"
-      }
-    ],
-    "published_at": 1793794654,
-    "title_hu": "Belga lap: a demokraták győzelme katasztrófa Donald Trumpnak",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_bc1b0fe856",
-    "category": "Általános",
-    "image": "https://cdn.hirtv.hu/2026/11/1QiEdblBvmgREmNOHpFm8eSzP8fbkSF8mBfLvBkPbwc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E2OTJlMWU2MWZjMjQwYzFiNTY1NWM4ZDk3ZWFjYTVl.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Bárki betekinthet az egykori állambiztonsági iratokba",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/barki-betekinthet-az-egykori-allambiztonsagi-iratokba"
-      }
-    ],
-    "published_at": 1793794643,
-    "title_hu": "Bárki betekinthet az egykori állambiztonsági iratokba",
-    "lead_hu": "Dornfeld László politikai elemző arra hívja fel a figyelmet, hogy az egykori állambiztonsági ügynökakták hiányosak és megbízhatatlanok.",
-    "content_hu": "Dornfeld László politikai elemző arra hívja fel a figyelmet, hogy az egykori állambiztonsági ügynökakták hiányosak és megbízhatatlanok.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_49c1962498",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Horkai György neve is szerepel az aktákban",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/horkai-gyorgy-neve-is-ott-van-az-aktakban/"
-      }
-    ],
-    "published_at": 1793794608,
-    "title_hu": "Horkai György neve is szerepel az aktákban",
-    "lead_hu": "",
-    "content_hu": "",
     "importance_score": 0.0
   },
   {
