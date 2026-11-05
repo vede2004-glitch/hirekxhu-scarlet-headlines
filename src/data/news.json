@@ -1,5 +1,59 @@
 [
   {
+    "group_id": "group_46784038d6",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/melissa_mccarthy_cove_LKTu16p.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Melissa McCarthy a felére fogyott: 45 kilós mínusszal ilyen dögös estélyiben a vörös szőnyegen",
+        "link": "https://femina.hu/egeszseg/melissa-mccarthy-fogyas-voros-szonyeg-estelyi/"
+      }
+    ],
+    "published_at": 1793868600,
+    "title_hu": "Melissa McCarthy a felére fogyott: 45 kilós mínusszal ilyen dögös estélyiben a vörös szőnyegen",
+    "lead_hu": "Mintha teljesen kicserélték volna a színésznőt, a vörös szőnyegen tapadós ruhájában garantáltan ellopta a show-t...",
+    "content_hu": "Mintha teljesen kicserélték volna a színésznőt, a vörös szőnyegen tapadós ruhájában garantáltan ellopta a show-t"
+  },
+  {
+    "group_id": "group_98c81b8c71",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7135/71354/713540/71354039_5261697_8502daab4454e741111d245e322f5e78_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Átalakítaná a rendőrség és a tűzoltóság működését a kormány, a honvédségnek is nagyobb szerep jutna",
+        "link": "https://index.hu/belfold/2026/11/05/rendeszeti-torvenycsomag-tarsadalmi-egyeztetes-posfai-gabor-belugyminiszterium/"
+      }
+    ],
+    "published_at": 1793868300,
+    "title_hu": "Átalakítaná a rendőrség és a tűzoltóság működését a kormány, a honvédségnek is nagyobb szerep jutna",
+    "lead_hu": "Társadalmi egyeztetésre bocsátják a rendészeti törvénycsomagot....",
+    "content_hu": "Társadalmi egyeztetésre bocsátják a rendészeti törvénycsomagot."
+  },
+  {
+    "group_id": "group_3e08eefeae",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/r/h/e/rheinmetall-867042.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Összeomlott a Rheinmetall árfolyama, egyre nagyobb a baj a német hadiipari cégnél",
+        "link": "https://www.portfolio.hu/befektetes/20261105/osszeomlott-a-rheinmetall-arfolyama-egyre-nagyobb-a-baj-a-nemet-hadiipari-cegnel-874422"
+      }
+    ],
+    "published_at": 1793868240,
+    "title_hu": "Összeomlott a Rheinmetall árfolyama, egyre nagyobb a baj a német hadiipari cégnél",
+    "lead_hu": "Hatalmas eséssel reagáltak a Rheinmetall részvényei a cég legfrissebb gyorsjelentésére, a német hadiipari vállalat részvényárfolyama ma 16 százalékot zuhant. A vállalat augusztus óta már másodszor csö...",
+    "content_hu": "Hatalmas eséssel reagáltak a Rheinmetall részvényei a cég legfrissebb gyorsjelentésére, a német hadiipari vállalat részvényárfolyama ma 16 százalékot zuhant. A vállalat augusztus óta már másodszor csökentette éves előrejelzését, fontos katonai megrendelések és lőszerszállítások csúsznak át a következő évre. Pedig a negyedév első ránézésre kifejezetten erős, 32 százalékkal nőtt az árbevétel, az üzemi eredmény pedig 62 százalékkal ugrott meg, a megrendelésállomány pedig történelmi csúcson van. A befektetők viszont egyre inkább attól tartanak, hogy az európai fegyverkezési hullám ellenére a vártnál lassabban válthatók tényleges bevételekre és profitra a gigantikus megrendelések."
+  },
+  {
     "group_id": "group_a933241565",
     "category": "Politika",
     "image": "https://kep.index.hu/1/0/7057/70575/705754/70575491_5206233_44635762055f828461e167bc43540128_wm.jpg",
@@ -6278,7 +6332,7 @@
     "image": "https://cdn.borsonline.hu/2026/11/6WDO-L29rm-TtXtkGv_v5LsERAJLwDPNzHjdEdGA25g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxOGZlZWQyNzJjNzRkZDNiYjhhMWRiMzY3YWJjMGM3.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Bors",
@@ -6289,6 +6343,11 @@
         "source": "Magyar Nemzet",
         "title": "Andor Éva új műsorral tér vissza, mutatjuk ki lesz az első vendége",
         "link": "https://magyarnemzet.hu/belfold/2026/11/andor-eva-uj-musorral-ter-vissza-mutatjuk-ki-lesz-az-elso-vendege?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Femina",
+        "title": "A TV2 sztárhíradósa ebben a műsorban tér vissza a képernyőre: meglepő, hol láthatod Andor Évát",
+        "link": "https://femina.hu/hazai_sztar/andor-eva-uj-musora/"
       }
     ],
     "published_at": 1793812167,
@@ -12055,7 +12114,7 @@
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/w/a/b/waberer-medical-center-866594.jpg",
     "is_synthesized": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
@@ -12071,6 +12130,11 @@
         "source": "NLC (Nők Lapja Café)",
         "title": "Váratlan fordulat: meghiúsult Wáberer György nagy magánkórház-vásárlása?",
         "link": "https://nlc.hu/ezvan/20261104/waberer-gyorgy-tritonlife-magan-korhazak-felvasarlas-meghiusulas/yr07965"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Váratlan fordulat: meghiúsult Wáberer György nagy magánkórház-vásárlása?",
+        "link": "https://nlc.hu/ezvan/20261105/waberer-gyorgy-tritonlife-magan-korhazak-felvasarlas-meghiusulas/yr07965"
       }
     ],
     "published_at": 1793790000,
@@ -14001,78 +14065,6 @@
     "title_hu": "Több mint 50 millió forintba kerülhetett Orbán Viktor 2023-as kazahsztáni útja",
     "lead_hu": "A Külügyminisztériumtól kikért dokumentumok és az RTL számításai szerint több mint 50, akár 55 millió forint közpénzt emészthetett fel Orbán Viktor és delegációja kétnapos kazahsztáni látogatása 2023 novemberében. A repülőút költségét a minisztériumi iratok nem tartalmazták, a delegáció létszáma pedig nem derült ki.",
     "content_hu": "• **Több mint 50, akár 55 millió forint** lehetett a 2023 novemberében Kazahsztánba utazó magyar küldöttség látogatásának teljes költsége. A delegáció a Türk Államok Szervezetének csúcstalálkozójára érkezett Asztanába, és két napot töltött ott.\n\n• **Közel 30 millió forint** volt az út repülés nélküli költsége a Külügyminisztériumtól kikért dokumentumok szerint. Ebből 12 millió forintot fordítottak a küldöttség elszállásolására, a többi az utazáshoz kapcsolódó kiadásokra ment.\n\n• **Legalább 25 millió forintra becsülték a repülőút árát.** A delegáció a Magyar Honvédség repülőgépével utazott, az összeg azonban az RTL számítása, nem a minisztériumi iratokban szereplő végleges elszámolás.\n\n• **A delegáció létszáma nem ismert.** A nyilvánosságra került dokumentumokból nem derült ki, pontosan hányan vettek részt az úton.\n\n• **„Ilyen a diplomácia”** – reagált a Fidesz a költségekre az RTL megkeresésére."
-  },
-  {
-    "group_id": "group_2a057973a9",
-    "category": "Politika",
-    "image": "https://femina.hu/neon/media/images/profimedia-0695149460.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Gyurcsány Ferenc feleségül veszi 26 évvel fiatalabb párját? Megszólalt az esküvőről az expolitikus",
-        "link": "https://femina.hu/hazai_sztar/gyurcsany-ferenc-parja-eskuvo/"
-      }
-    ],
-    "published_at": 1793782201,
-    "title_hu": "Gyurcsány Ferenc feleségül veszi 26 évvel fiatalabb párját? Megszólalt az esküvőről az expolitikus",
-    "lead_hu": "Gyurcsány Ferenc elmondta, terveznek-e esküvőt 26 évvel fiatalabb párjával, akivel nagyon harmonikus kapcsolatban élnek.",
-    "content_hu": "Gyurcsány Ferenc elmondta, terveznek-e esküvőt 26 évvel fiatalabb párjával, akivel nagyon harmonikus kapcsolatban élnek."
-  },
-  {
-    "group_id": "group_f75b1706bb",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/Zoltan_Erika_cover.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Zoltán Erika 20 kilót fogyott: 64 évesen elképesztően dögös a friss fotóin",
-        "link": "https://femina.hu/egeszseg/zoltan-erika-fogyas-most-64-evesen-fotok/"
-      }
-    ],
-    "published_at": 1793782200,
-    "title_hu": "Zoltán Erika 20 kilót fogyott: 64 évesen elképesztően dögös a friss fotóin",
-    "lead_hu": "Zoltán Erika 20 kilótól szabadult meg, a friss képein vékonyabb, mint 30 éves korában.",
-    "content_hu": "Zoltán Erika 20 kilótól szabadult meg, a friss képein vékonyabb, mint 30 éves korában."
-  },
-  {
-    "group_id": "group_91a496d5a7",
-    "category": "Tech",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HWSW",
-        "title": "Pók a háló közepén - ilyen egy hálózatfelügyeleti központ",
-        "link": "https://www.hwsw.hu/hirek/71165/2connect-network-operation-center-noc-halozat-vezetekes-one-4ig.html"
-      }
-    ],
-    "published_at": 1793782170,
-    "title_hu": "Pók a háló közepén - ilyen egy hálózatfelügyeleti központ",
-    "lead_hu": "A 2Connect NOC különlegességét az összegyúrt infrastruktúrák közös felügyelete adja.",
-    "content_hu": "A 2Connect NOC különlegességét az összegyúrt infrastruktúrák közös felügyelete adja."
-  },
-  {
-    "group_id": "group_c809294482",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793781730-temp-7106t8uhf31qelpbnig_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Több ezer ázsiai munkavállalónak gyorsított vízum, bérlakások ezrei – újabb részleteket közölt Tárkányi az Orbán-kormány CATL-nek tett ígéreteiből",
-        "link": "https://telex.hu/gazdasag/2026/11/04/tarkanyi-zsolt-catl-szandeknyilatkozat-vendegmunkasok-telekvasarlas-kepzesek"
-      }
-    ],
-    "published_at": 1793781832,
-    "title_hu": "Több ezer ázsiai munkavállalónak gyorsított vízum, bérlakások ezrei – újabb részleteket közölt Tárkányi az Orbán-kormány CATL-nek tett ígéreteiből",
-    "lead_hu": "A Közlekedési és Beruházási Minisztérium államtitkára több oldalt is közzétett abból a szándéknyilatkozatból, amit 2022 augusztusában kötött az Orbán-kormány a kínai céggel.",
-    "content_hu": "A Közlekedési és Beruházási Minisztérium államtitkára több oldalt is közzétett abból a szándéknyilatkozatból, amit 2022 augusztusában kötött az Orbán-kormány a kínai céggel."
   },
   {
     "group_id": "group_3b18442487",
