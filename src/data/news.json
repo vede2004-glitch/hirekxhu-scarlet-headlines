@@ -1,5 +1,77 @@
 [
   {
+    "group_id": "group_6de2f42523",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/_jbsggHRReR68Jl1QqM9InYpylgPKc65PH1QPkjURsY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M3MTRmNzM3ZWIzMzRlYWE5OTg3MzY3Y2YzNzk4ZWJi.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Tévesen közölték Lezsák Sándor nevét: magyarázkodik a levéltár",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/tevesen-kozoltek-lezsak-sandor-nevet-magyarazkodik-a-leveltar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793862666,
+    "title_hu": "Tévesen közölték Lezsák Sándor nevét: magyarázkodik a levéltár",
+    "lead_hu": "Mindössze azt írták, informatikai hiba történt....",
+    "content_hu": "Mindössze azt írták, informatikai hiba történt."
+  },
+  {
+    "group_id": "group_e1c130160e",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/mak_yIsizJy.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Népszerű karácsonyi alapanyagot hívtak vissza: veszélyes összetevőt találtak benne",
+        "link": "https://femina.hu/terasz/nepszeru-karacsonyi-alapanyag-visszahivas-veszelyes-osszetevo/"
+      }
+    ],
+    "published_at": 1793862600,
+    "title_hu": "Népszerű karácsonyi alapanyagot hívtak vissza: veszélyes összetevőt találtak benne",
+    "lead_hu": "Ne edd meg, ha ilyet vettél!...",
+    "content_hu": "Ne edd meg, ha ilyet vettél!"
+  },
+  {
+    "group_id": "group_f69272d307",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/-vkmZWXioaKBI87GDZ4-YftMaqRyhr81YYjdU_owNQY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZiNTcyYTRhYjM1YTRiMjQ4NDJhYjIyMmIyMjgxNGJh.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Rendkívüli: óriási a baj az ügynöklistával, hivatalosan is ellismerte az állam, hogy hibásan hozták nyilvánosságra – olyan név is kikerült, akit megfigyeltek, nem pedig beszervezték",
+        "link": "https://www.vg.hu/kozelet/2026/11/ugynoklista-ugynokakta-hiba-abtl-lezsak-sandor-elismer?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793862564,
+    "title_hu": "Rendkívüli: óriási a baj az ügynöklistával, hivatalosan is ellismerte az állam, hogy hibásan hozták nyilvánosságra – olyan név is kikerült, akit megfigyeltek, nem pedig beszervezték",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_d0859d0518",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72416/724166/72416685_cc4e9ee031464ec5149a83c6a4e5adf6_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Istenes Bence szokatlan szettben hívta fel magára a figyelmet",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/05/istenes-bence-szokatlan-szett-alarcos-enekes-2026/"
+      }
+    ],
+    "published_at": 1793862544,
+    "title_hu": "Istenes Bence szokatlan szettben hívta fel magára a figyelmet",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
     "group_id": "group_0fe0717d73",
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
@@ -433,7 +505,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 7,
+    "sources_count": 8,
     "sources": [
       {
         "source": "444.hu",
@@ -469,6 +541,11 @@
         "source": "ATV",
         "title": "Holtan találták Bajorország miniszterelnök-helyettesét",
         "link": "https://www.atv.hu/kulfold/20261105/meghalt-bajor-miniszterelnok-helyettes/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Holtan találták egy szállodában a bajor miniszterelnök-helyettest",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/holtan-talaltak-egy-szallodaban-a-bajor-miniszterelnok-helyettest"
       }
     ],
     "published_at": 1793860800,
@@ -2441,6 +2518,42 @@
     "content_hu": "Ma minden jegy másképp hangolódhat rá a napra: lesz, akit a tempó, mást a nyugalom vagy egy új nézőpont visz előre. The post Napi horoszkóp 2026. 11. 05.: Friss lendület, csendes felismerések és jóleső ritmus first appeared on nlc."
   },
   {
+    "group_id": "group_25f173cb3c",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Naponta közel 6,5 ezer tonna ukrán gabona halad át Magyarország területén",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/naponta-kozel-65-ezer-tonna-ukran-gabona-halad-at-magyarorszag-teruleten"
+      }
+    ],
+    "published_at": 1793832900,
+    "title_hu": "Naponta közel 6,5 ezer tonna ukrán gabona halad át Magyarország területén",
+    "lead_hu": "Jelentősen nőtt októberben az ukrán gabona nyugati irányú vasúti exportja. Az első 27 napban napi átlagban 337 vagon haladt át a határátkelőkön, mintegy 20 százalékkal több, mint szeptemberben....",
+    "content_hu": "Jelentősen nőtt októberben az ukrán gabona nyugati irányú vasúti exportja. Az első 27 napban napi átlagban 337 vagon haladt át a határátkelőkön, mintegy 20 százalékkal több, mint szeptemberben."
+  },
+  {
+    "group_id": "group_47929c5cd3",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Nem hallgatja meg személyesen Matolcsy Györgyöt az MNB-botrányt vizsgáló bizottság csütörtökön",
+        "link": "https://www.vadhajtasok.hu/2026/11/03/nem-hallgatja-meg-szemelyesen-matolcsy-gyorgyot-az-mnb-botranyt-vizsgalo-bizottsag-csutortokon"
+      }
+    ],
+    "published_at": 1793831760,
+    "title_hu": "Nem hallgatja meg személyesen Matolcsy Györgyöt az MNB-botrányt vizsgáló bizottság csütörtökön",
+    "lead_hu": "„A vizsgálóbizottság meg fog hozni egy döntést azzal kapcsolatban, hogy a fennálló helyzetet hogyan kívánja kezelni. Van-e alternatíva vagy sem Matolcsy György meghallgatására. Ha van, akkor melyiket ...",
+    "content_hu": "„A vizsgálóbizottság meg fog hozni egy döntést azzal kapcsolatban, hogy a fennálló helyzetet hogyan kívánja kezelni. Van-e alternatíva vagy sem Matolcsy György meghallgatására. Ha van, akkor melyiket választja, ezek vizsgálóbizottsági döntés..."
+  },
+  {
     "group_id": "group_707aa2d6c6",
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303540034-e1793831036338-1024x575.jpg",
@@ -2483,7 +2596,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "444.hu",
@@ -2504,12 +2617,35 @@
         "source": "24.hu - Legfrissebb",
         "title": "Letartóztatták a szerb terrorellenes egységek parancsnokát",
         "link": "https://24.hu/kulfold/2026/11/04/letartoztattak-a-szerb-terrorellenes-egysegek-parancsnokat/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Letartóztatták a szerb terrorellenes egységek parancsnokát",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/letartoztattak-a-szerb-terrorellenes-egysegek-parancsnokat"
       }
     ],
     "published_at": 1793830486,
     "title_hu": "Őrizetbe vették a szerb terrorellenes egység parancsnokát",
     "lead_hu": "Őrizetbe vették Igor Žmirićet, a szerb különleges terrorellenes egység, a SAJ parancsnokát, akit tüntetők bántalmazásával és kínzásával gyanúsítanak. Az új beszámolók részleteket közöltek Nikolina Sinđelić vallomásáról, és a letartóztatásokat a választások utáni szerbiai őrizetbe vételi hullám részeként helyezték tágabb kontextusba.",
     "content_hu": "• **Sinđelić részletesen beszámolt a bántalmazásról:** A 22 éves egyetemista azt állította, hogy a 2025. augusztus 14-i tüntetés után civil ruhás, maszkot viselő férfiak hurcolták a belgrádi elnöki palota garázsába. Elmondása szerint megütötték, a fejét a falba verték, és szexuális erőszakkal fenyegették; a fenyegetést állítása szerint Marko Kričak intézte hozzá.\n\n• **A gyanúsítottak a történtek idején rendőrtisztként szolgáltak:** A belügyminisztérium közlése szerint a kilenc, bántalmazással és kínzással gyanúsított személy az állítólagos bűncselekmény idején a minisztérium rendőrtisztje volt.\n\n• **A letartóztatások tágabb politikai hullám részei:** A 444.hu beszámolója szerint az őrizetbe vételek a Szerb Haladó Párt október 25-i választási veresége után indult, korábbi állami és rendőrségi vezetőket is érintő letartóztatási hullámba illeszkednek.\n\n• **Žmirić korábbi egysége a miniszterelnök meggyilkolása után oszlott fel:** Pályafutását az egykori Különleges Műveleti Egységben kezdte; a JSO feloszlatására azután került sor, hogy parancsnokhelyettese, Zvezdan Jovanović 2003-ban meggyilkolta Zoran Đinđić miniszterelnököt."
+  },
+  {
+    "group_id": "group_8b49c92f82",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr éjszakai üzenete: Ekkora tököm még nem volt",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/rovar-ur-ejszakai-uzenete-ekkora-tokom-meg-nem-volt"
+      }
+    ],
+    "published_at": 1793830380,
+    "title_hu": "Rovar úr éjszakai üzenete: Ekkora tököm még nem volt",
+    "lead_hu": "A debil “államférfi” (The MAN) este is posztolt a Facebookon....",
+    "content_hu": "A debil “államférfi” (The MAN) este is posztolt a Facebookon."
   },
   {
     "group_id": "group_689329abfc",
@@ -3360,12 +3496,17 @@
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261104/1793821174-temp-s41ekf95t3gefibkbcj_cimlap-normal.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Telex - Belföld",
         "title": "Egy másodpercük volt dönteni, vissza kellett volna fordulni – elmondta Toroczkai, miért vonultak ki a sükösdi gyerekek előadásáról",
         "link": "https://telex.hu/belfold/2026/11/04/toroczkai-laszlo-mi-hazank-partizan-vegrehajtasi-visszaelesek-vizsgalobizottsag-sukosdi-tamburas-gyerekek"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Toroczkai László elismerte, hogy hibáztak, amikor kivonultak a zenélő gyerekek előadásáról",
+        "link": "https://nlc.hu/ezvan/20261105/toroczkai-laszlo-elismerte-hogy-hibaztak-a-gyerekek-eloadasan/h274e94"
       }
     ],
     "published_at": 1793822010,
@@ -11217,7 +11358,7 @@
     "category": "Tech",
     "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/internetado_111355_3_original_390x220_cover.jpg",
     "is_synthesized": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "PC World",
@@ -11238,6 +11379,11 @@
         "source": "PC World",
         "title": "Magyarország után a franciáknál is tervezik az internetadót: Akár 10 euróba is fájhat minden egyes alkalommal csak letölteni a GTA 6-ot, amit egyébként már megvettél",
         "link": "https://www.pcwplus.hu"
+      },
+      {
+        "source": "PC World",
+        "title": "Magyarország után a franciáknál is tervezik az internetadót: Akár 10 euróba is fájhat minden egyes alkalommal csak letölteni a GTA 6-ot, amit egyébként már megvettél",
+        "link": "https://www.gsplus.hu/norton-utilities-ultimate-bemutato-windows-tuning-390119.html"
       }
     ],
     "published_at": 1793789318,
@@ -14260,24 +14406,6 @@
     "content_hu": "Egy héttel az Abu-Dzabiba tervezett tárgyalások előtt az oroszok tovább támadják az ukrán energetikai infrastruktúrát, de Ukrajna is felgyújtott egy orosz finomítót."
   },
   {
-    "group_id": "group_fc0d8fd765",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/V9iLDBuadPg4WXGPY-sOlu4g2UcBlyDwtS_jWRSD6ns/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3MmViNmZmYjlmMTQ0YTM4ZTcwYjgyMDZhOTBkYjE4.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Nyilvánosságra hozza a kormány az ügynökaktákat",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-nyilvanossag-ifj-lomnici-zoltan"
-      }
-    ],
-    "published_at": 1793776268,
-    "title_hu": "Nyilvánosságra hozza a kormány az ügynökaktákat",
-    "lead_hu": "Három irattípusba lehet majd ingyenesen betekinteni.",
-    "content_hu": "Három irattípusba lehet majd ingyenesen betekinteni."
-  },
-  {
     "group_id": "group_3b18442487",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/07/D-cwnTL28Cx1CdBXSi_-B-Lu1XVBvmehqUT2PwD4ewo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBmMjRmY2ZjOTM2MjRiMmE4YWQwZjUyNjM5NjU5MjVk.jpg",
@@ -14294,6 +14422,24 @@
     "title_hu": "Nem árulja el a minisztérium, mi történt a budapesti kórházakban – bírósághoz fordul a Magyar Nemzet",
     "lead_hu": "A kapacitásproblémák miatt küldtünk közérdekű adatigénylést a tárcának.",
     "content_hu": "A kapacitásproblémák miatt küldtünk közérdekű adatigénylést a tárcának."
+  },
+  {
+    "group_id": "group_fec3e6f084",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Botka is kiakadt: Erre miért volt szükség 37 év után?!",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/botka-is-kiakadt-erre-miert-volt-szukseg-37-ev-utan"
+      }
+    ],
+    "published_at": 1793836800,
+    "title_hu": "Botka is kiakadt: Erre miért volt szükség 37 év után?!",
+    "lead_hu": "Az alábbiakat írta a Facebookon Szeged baloldali polgármestere.Én......",
+    "content_hu": "Az alábbiakat írta a Facebookon Szeged baloldali polgármestere.Én..."
   },
   {
     "group_id": "group_8640a04236",
