@@ -1,5 +1,41 @@
 [
   {
+    "group_id": "group_24f4cb2f8d",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/Trokan_Nora_cover_2.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Felismered ki ez a cuki kislány a képen? Ő hazánk egyik legsikeresebb színésznője ma",
+        "link": "https://femina.hu/gyerek/gyerekkori-foto-hazai-szineszno/"
+      }
+    ],
+    "published_at": 1793864100,
+    "title_hu": "Felismered ki ez a cuki kislány a képen? Ő hazánk egyik legsikeresebb színésznője ma",
+    "lead_hu": "Hazánk egyik leggyönyörűbb és legtehetségesebb színésznője lett a képen látható cuki kislányból....",
+    "content_hu": "Hazánk egyik leggyönyörűbb és legtehetségesebb színésznője lett a képen látható cuki kislányból."
+  },
+  {
+    "group_id": "group_7a69fd3086",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/V-JMeMhQGc8fABITJ219_zzcukUVqYTSJz0bFeurOlc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzljMmRiYzVlMGExZTRiZGY4OTBkMWNiOWUwM2UyNDA3.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Megjelent a kormányfigyelő, egyetlen oldalon követhetők a miniszterek és az államtitkárok",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/megjelent-a-kormanyfigyelo-egyetlen-oldalon-kovethetok-a-miniszterek-es-az-allamtitkarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793864020,
+    "title_hu": "Megjelent a kormányfigyelő, egyetlen oldalon követhetők a miniszterek és az államtitkárok",
+    "lead_hu": "Külön rangsorban lehet böngészni a kormánytagok és az országgyűlési képviselők járandóságát, pénzügyi vagyonát, ingatlanjait, valamint parlamenti aktivitását is....",
+    "content_hu": "Külön rangsorban lehet böngészni a kormánytagok és az országgyűlési képviselők járandóságát, pénzügyi vagyonát, ingatlanjait, valamint parlamenti aktivitását is."
+  },
+  {
     "group_id": "group_97d3e8f72c",
     "category": "Általános",
     "image": "https://cdn.hirtv.hu/2026/11/nnaH6gbQcTePeMmnvy3Rxf_QnTMY_-nvgEvY5Iggu6s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RmOTA5MTQ5NmQ1ZTRjYzU4MmZjYTU0MzkyZTE2MjQ5.webp",
@@ -130,7 +166,7 @@
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
     "is_synthesized": false,
-    "sources_count": 3,
+    "sources_count": 5,
     "sources": [
       {
         "source": "HVG - Itthon",
@@ -146,6 +182,16 @@
         "source": "24.hu - Legfrissebb",
         "title": "Ügynökakták: Lezsák Sándor neve informatikai hiba miatt jelent meg az adatbázisban",
         "link": "https://24.hu/belfold/2026/11/05/lezsak-sandor-ugynokaktak-informatikai-hiba-breaking/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Technikai hiba miatt jelent meg Lezsák Sándor neve az ügynökaktákban hálózati személyként, megszólalt a levéltár",
+        "link": "https://index.hu/belfold/2026/11/05/lezsak-sandor-ugynokaktak-adatbazis-informatikai-hiba/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Lezsák Sándor jogosan háborodott fel, mert tényleg megfigyelt volt és nem ügynök",
+        "link": "https://telex.hu/ugynokaktak/2026/11/05/lezsak-sandor-jogosan-haborodott-fel-mert-tenyleg-megfigyelt-volt-es-nem-ugynok"
       }
     ],
     "published_at": 1793862405,
@@ -9465,12 +9511,17 @@
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7241/72413/724134/72413473_aed34630ced1dd94fb07b93c4f93f460_wm.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Index - Címlap",
         "title": "Örömhír a Forma–1 világából, apa lett Charles Leclerc",
         "link": "https://index.hu/mindekozben/poszt/2026/11/04/charles-leclerc-es-parja-megszuletett-a-kozos-gyermekuk/"
+      },
+      {
+        "source": "Femina",
+        "title": "29 évesen apa lett Charles Leclerc: a Forma-1 sztárjának kislánya gyönyörű nevet kapott",
+        "link": "https://femina.hu/vilagsztar/charles-leclerc-apa-lett-kislanya-neve/"
       }
     ],
     "published_at": 1793796401,
@@ -14267,96 +14318,6 @@
     "title_hu": "Ez az a választási elutasítása Trumpnak, amit a demokraták tíz éve folyamatosan várnak – elemzés a demokrata tarolásról",
     "lead_hu": "A jósoltnál is nagyobb győzelmet arattak a demokraták, Trump hatalma nagyobb kontroll alatt lesz a hátralevő két évében. Mik a választás legérdekesebb tanulságai és miben lesz más ettől a világ? Elemz…",
     "content_hu": "A jósoltnál is nagyobb győzelmet arattak a demokraták, Trump hatalma nagyobb kontroll alatt lesz a hátralevő két évében. Mik a választás legérdekesebb tanulságai és miben lesz más ettől a világ? Elemzés Tábor Áronnal."
-  },
-  {
-    "group_id": "group_e7d5f7c57c",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-21577393311-befektetes-gazdasag-jovedelem-megtakaritas-ongondoskodas-penz-pen-766507.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Ami még az állampapírnál is jobb befektetés - díjmentes, interaktív, online előadás",
-        "link": "https://www.portfolio.hu/befektetes/20261104/ami-meg-az-allampapirnal-is-jobb-befektetes-dijmentes-interaktiv-online-eloadas-775885"
-      }
-    ],
-    "published_at": 1793777760,
-    "title_hu": "Ami még az állampapírnál is jobb befektetés - díjmentes, interaktív, online előadás",
-    "lead_hu": "A befektetési világ nem áll meg az állampapíroknál. Aki komolyan gondolja a vagyonépítést és készen áll stratégiában gondolkodni, annak érdemes szélesebb körben ismernie a rendelkezésre álló alternatí…",
-    "content_hu": "A befektetési világ nem áll meg az állampapíroknál. Aki komolyan gondolja a vagyonépítést és készen áll stratégiában gondolkodni, annak érdemes szélesebb körben ismernie a rendelkezésre álló alternatívákat. A tőzsdei eszközök, a különböző eszközosztályok és az ezekre épülő befektetési stratégiák olyan lehetőségeket rejtenek, amelyekkel a hosszú távú hozam jelentősen növelhető – természetesen megfelelő kockázatkezelés mellett."
-  },
-  {
-    "group_id": "group_f19397c727",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/latin-orvosi-szakkife.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Tudod, mit jelent az arthrosis és a diabetes? Kvíz a leggyakoribb orvosi szakkifejezésekből",
-        "link": "https://femina.hu/egeszseg/orvosi-szakkifejezesek-kviz/"
-      }
-    ],
-    "published_at": 1793777700,
-    "title_hu": "Tudod, mit jelent az arthrosis és a diabetes? Kvíz a leggyakoribb orvosi szakkifejezésekből",
-    "lead_hu": "Mennyire ismered a latin orvosi szakkifejezéseket?",
-    "content_hu": "Mennyire ismered a latin orvosi szakkifejezéseket?"
-  },
-  {
-    "group_id": "group_4107ece987",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "94 év után választottak demokrata szenátort Kansasben",
-        "link": "https://444.hu/2026/11/04/94-ev-utan-valasztottak-demokrata-szenatort-kansasben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793777657,
-    "title_hu": "94 év után választottak demokrata szenátort Kansasben",
-    "lead_hu": "Adam Hamilton metodista lelkész közel száz év után az első demokrataként nyert szenátusi választást a hagyományosan republikánus államban, ami váratlanul az idei választás egyik legfontosabb csatateré…",
-    "content_hu": "Adam Hamilton metodista lelkész közel száz év után az első demokrataként nyert szenátusi választást a hagyományosan republikánus államban, ami váratlanul az idei választás egyik legfontosabb csataterévé vált."
-  },
-  {
-    "group_id": "group_805f0bdbd1",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Megvan, kik veszik át a Madách Színház és az Új Színház vezetését",
-        "link": "https://nlc.hu/ezvan/20261104/uj-igazgatok-a-madach-szinhaz-es-az-uj-szinhaz-elen/w4ng8gy"
-      }
-    ],
-    "published_at": 1793777580,
-    "title_hu": "Megvan, kik veszik át a Madách Színház és az Új Színház vezetését",
-    "lead_hu": "Két jelentős budapesti színház élén is vezetőváltás lesz 2027 elején. A Madách Színházat 22 éve irányító Szirtes Tamás helyét Szabó P. Szilveszter veszi át, az Új Színház élére pedig Csiby Gergely ker…",
-    "content_hu": "Két jelentős budapesti színház élén is vezetőváltás lesz 2027 elején. A Madách Színházat 22 éve irányító Szirtes Tamás helyét Szabó P. Szilveszter veszi át, az Új Színház élére pedig Csiby Gergely kerül Dörner György helyett. Az új igazgatók megbízatása öt évre szól. The post Megvan, kik veszik át a Madách Színház és az Új Színház vezetését first appeared on nlc."
-  },
-  {
-    "group_id": "group_09f4250795",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/matt_damon_cover.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Matt Damon 20 éves lányával érkezett a díjátadóra: a gyönyörű Isabellából modell lett",
-        "link": "https://femina.hu/vilagsztar/matt-damon-lanya-isabella-20-eves-dijatado-fotok/"
-      }
-    ],
-    "published_at": 1793777400,
-    "title_hu": "Matt Damon 20 éves lányával érkezett a díjátadóra: a gyönyörű Isabellából modell lett",
-    "lead_hu": "Matt Damont lánya, Isabella kísérte el a CFDA Fashion Awards-ra, ahol minden szem rászegeződött.",
-    "content_hu": "Matt Damont lánya, Isabella kísérte el a CFDA Fashion Awards-ra, ahol minden szem rászegeződött."
   },
   {
     "group_id": "group_3b18442487",
