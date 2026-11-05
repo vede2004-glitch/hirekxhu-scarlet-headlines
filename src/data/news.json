@@ -1275,32 +1275,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_5e1fc0a254",
-    "fingerprint": "59cb58ec2c3ed4ee44509c5719159dd8",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Svédország „súlyos veszélyre” hivatkozva fél évig visszaállítja a határellenőrzést a schengeni övezetben",
-        "link": "https://index.hu/kulfold/2026/11/05/svedorszag-schengeni-ovezet-haterellenorzes-visszaallitas-veszely-biztonsag/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Svédország „súlyos veszélyre” hivatkozva fél évig visszaállítja a határellenőrzést a schengeni övezetben",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/svedorszag-sulyos-veszelyre-hivatkozva-fel-evig-visszaallitja-a-hatarellenorzest-a-schengeni-ovezetben"
-      }
-    ],
-    "published_at": 1793896020,
-    "title_hu": "Svédország fél évre visszaállítja a schengeni belső határellenőrzést",
-    "lead_hu": "Svédország november 12-től hat hónapra visszaállítja a belső határellenőrzést a schengeni övezetben. A kormány a közrendet és a belső biztonságot fenyegető súlyos veszélyekkel, köztük hibrid fenyegetésekkel indokolja a döntést.",
-    "content_hu": "• **November 12-től hat hónapig** ismét ellenőrzik a schengeni belső határokon áthaladókat Svédországban; az intézkedés 2027. május 11-ig lesz érvényben.\n\n• **A döntés indoka** a svéd kormány szerint az orosz invázió nyomán kialakult súlyos biztonsági helyzet, valamint a hibrid fenyegetések és a schengeni övezeten belül mozgó ellenséges elemek jelentette veszély.\n\n• **Az ellenőrzések módjáról** a svéd rendőrség dönt: meghatározza azok helyét és gyakorlati végrehajtását, és a közrend, illetve a belső biztonság védelméhez igazítja őket.\n\n• **Az előző időszakban** Svédország csak szúrópróbaszerű ellenőrzést és megfigyelést végzett a belső határokon, nem vizsgált meg minden átutazót.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_05be80aeef",
     "fingerprint": "f15c8fca6da990d5342ad22a158bd1c8",
     "category": "Politika",
@@ -1428,6 +1402,32 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_5e1fc0a254",
+    "fingerprint": "59cb58ec2c3ed4ee44509c5719159dd8",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Svédország „súlyos veszélyre” hivatkozva fél évig visszaállítja a határellenőrzést a schengeni övezetben",
+        "link": "https://index.hu/kulfold/2026/11/05/svedorszag-schengeni-ovezet-haterellenorzes-visszaallitas-veszely-biztonsag/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Svédország „súlyos veszélyre” hivatkozva fél évig visszaállítja a határellenőrzést a schengeni övezetben",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/svedorszag-sulyos-veszelyre-hivatkozva-fel-evig-visszaallitja-a-hatarellenorzest-a-schengeni-ovezetben"
+      }
+    ],
+    "published_at": 1793896020,
+    "title_hu": "Svédország fél évre visszaállítja a schengeni belső határellenőrzést",
+    "lead_hu": "Svédország november 12-től hat hónapra visszaállítja a belső határellenőrzést a schengeni övezetben. A kormány a közrendet és a belső biztonságot fenyegető súlyos veszélyekkel, köztük hibrid fenyegetésekkel indokolja a döntést.",
+    "content_hu": "• **November 12-től hat hónapig** ismét ellenőrzik a schengeni belső határokon áthaladókat Svédországban; az intézkedés 2027. május 11-ig lesz érvényben.\n\n• **A döntés indoka** a svéd kormány szerint az orosz invázió nyomán kialakult súlyos biztonsági helyzet, valamint a hibrid fenyegetések és a schengeni övezeten belül mozgó ellenséges elemek jelentette veszély.\n\n• **Az ellenőrzések módjáról** a svéd rendőrség dönt: meghatározza azok helyét és gyakorlati végrehajtását, és a közrend, illetve a belső biztonság védelméhez igazítja őket.\n\n• **Az előző időszakban** Svédország csak szúrópróbaszerű ellenőrzést és megfigyelést végzett a belső határokon, nem vizsgált meg minden átutazót.",
+    "importance_score": 38.0
+  },
+  {
     "group_id": "group_376e13b10d",
     "fingerprint": "b765d67053ca571a44156bba81826905",
     "category": "Politika",
@@ -1519,6 +1519,30 @@
     "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára szerint Lezsák Sándor mellett további 163 megfigyelt adata kerülhetett tévesen az ügynökadatbázisba; az érintett adatokat azóta eltávolították. A hiba a mágnesszalagok feldolgozásakor történt, a levéltár pedig azt is ellenőrzi, előfordult-e más tévesztés a nyilvánosságra hozott mintegy 60 ezer név között.",
     "content_hu": "• **Mintegy 160 tévesen közzétett név** Lezsák Sándoron kívül további 163 megfigyelt neve kerülhetett az adatbázisba, így összesen 164 embert érinthetett az incidens. Az érintett adatokat eltávolították.\n\n• **A hiba csak a mágnesszalagok feldolgozását érintette** A mintegy 60 ezer nyilvánosságra hozott név között a 6-os kartonok és a beszervezési naplók adatai nem érintettek; a probléma a hálózati nyilvántartást tartalmazó H-adattárnál merült fel.\n\n• **Nem tagolt Excel-táblából készült az adatbázis** A levéltár október elején kapta meg az adatokat az Alkotmányvédelmi Hivataltól, egy olyan táblázatban, amelyben a nevek, fedőnevek és más személyes adatok egy mezőben szerepeltek. Ezek szétválasztásakor kezelték hibásan az 05-ös, megfigyelteket jelölő kódot.\n\n• **A levéltár további tévesztéseket is keres** Cseh Gergő Bendegúz főigazgató vállalta a felelősséget, és azt mondta, a mintegy 60 ezer név között is alaposan ellenőrzik az adatokat. A lemondása kérdésében a hiba elhárítása után kíván visszatérni rá.\n\n• **Politikai követelések és bocsánatkérés** A Fidesz Magyar Péter bocsánatkérését, az ügynökakták keresőoldalának elérhetetlenné tételét és Tarr Zoltán lemondását követelte. A miniszterelnök nyilvánosan bocsánatot kért Lezsáktól; a levéltárhoz érkezett több száz e-mail feldolgozása folyamatban van, de hasonló téves besorolás miatti panaszról egyelőre nem tudnak.",
     "importance_score": 38.0
+  },
+  {
+    "group_id": "group_088680356a",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20260714/1784036846-temp-nee68f6g64f8beiddep_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Létrehozzák az Országos Élőkörnyezet-felügyeleti Főhatóságot",
+        "link": "https://telex.hu/techtud/2026/11/05/orszagos-elokornyezet-felugyeleti-fohatosag-kornyezetvedelem-hulladekgazdalkodas-termeszetvedelem-gentechnologia-erdeszet-klimavedelem-vizugy"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Országos Élőkörnyezet-felügyeleti Főhatóság jön létre",
+        "link": "https://hvg.hu/gazdasag/20261105_orszagos-elokornyezet-felugyeleti-fohatosag-jon-letre"
+      }
+    ],
+    "published_at": 1793903467,
+    "title_hu": "Létrehozzák az Országos Élőkörnyezet-felügyeleti Főhatóságot",
+    "lead_hu": "A feladatai közé tartozik majd például a környezetvédelem, hulladékgazdálkodás, természetvédelem, állatvédelem, erdészet és vízvédelem, és foglalkozni fog az akkumulátorgyártással és akkumulátorhullad...",
+    "content_hu": "A feladatai közé tartozik majd például a környezetvédelem, hulladékgazdálkodás, természetvédelem, állatvédelem, erdészet és vízvédelem, és foglalkozni fog az akkumulátorgyártással és akkumulátorhulladék-kezeléssel is.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_d5e11dd6e8",
@@ -1622,32 +1646,6 @@
     "title_hu": "Év végéig kell lecserélni a régi, könyv formátumú személyi igazolványokat",
     "lead_hu": "Több tízezer embernek kell új személyi igazolványt igényelnie, mert a régi, könyv formátumú okmányok 2026. december 31-én végleg érvényüket vesztik. A minisztérium arra kéri az érintetteket, hogy ne halasszák az ügyintézést az utolsó pillanatra.",
     "content_hu": "• **Az okmányok érvényessége** Az uniós biztonsági előírások miatt a könyv formátumú igazolványok már 2026. augusztus 3-án elvesztették érvényességüket, de az Országgyűlés év végéig átmeneti időszakot biztosított.\n\n• **December 31-i határidő** A régi igazolványokat az átmeneti időszakban bizonyos ügyekben – például egyes ellátások átvételéhez – még elfogadják. 2027. január 1-jétől azonban már semmilyen helyzetben nem lesznek érvényesek.\n\n• **Ügyintézés otthonról is** Aki egészségi állapota vagy mozgáskorlátozottsága miatt nem tud eljutni a kormányablakba, a lakóhelye szerinti kormányhivataltól helyszíni ügyintézést kérhet.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_b056eae7d0",
-    "fingerprint": "996102fdb805f13fd7850f82ad497116",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/mta.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kinevezés: megvan a HUN-REN új vezérigazgatója",
-        "link": "https://24.hu/belfold/2026/11/05/kinevezes-hun-ren-vezerigazgato/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Kinevezték a HUN-REN új vezérigazgatóját",
-        "link": "https://hvg.hu/itthon/20261105_hun-ren-uj-vezerigazgato-bereczky-aron-allami-kutatohalozat"
-      }
-    ],
-    "published_at": 1793895931,
-    "title_hu": "Bereczky Áron lett a HUN-REN új vezérigazgatója",
-    "lead_hu": "Bereczky Áron matematikust nevezték ki a HUN-REN Magyar Kutatási Hálózat vezérigazgatójává. Köszöntőjében a kutatói együttműködés és a tudományos munka stabil feltételeinek fontosságát hangsúlyozta.",
-    "content_hu": "• **Új vezérigazgató** Bereczky Áron kinevezéséről a HUN-REN honlapján közzétett köszöntőüzenet adott hírt.\n\n• **Szakmai háttér** Bereczky az ELTE Természettudományi Karán végzett, PhD-fokozatát a Floridai Egyetemen szerezte. Egyetemi oktatóként és az NKFIH Kutatói Kiválósági Főosztályának vezetőjeként is dolgozott.\n\n• **Kutatói együttműködés** Az új vezető szerint a kutatóhálózat eredményességéhez szükség van a tudományterületek, kutatóhelyek és központi szervezeti egységek közötti együttműködésre, valamint a kutatói munkát támogató feltételek megteremtésére.\n\n• **Vezetőváltás és átalakítás** Gulyás Balázs elnök és Jakab Roland vezérigazgató október 21-én távozott. A kutatóhálózat jövőjét érintő törvénymódosítások előkészítése is folyamatban van.",
     "importance_score": 35.0
   },
   {
@@ -2099,6 +2097,32 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_b056eae7d0",
+    "fingerprint": "996102fdb805f13fd7850f82ad497116",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/mta.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kinevezés: megvan a HUN-REN új vezérigazgatója",
+        "link": "https://24.hu/belfold/2026/11/05/kinevezes-hun-ren-vezerigazgato/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Kinevezték a HUN-REN új vezérigazgatóját",
+        "link": "https://hvg.hu/itthon/20261105_hun-ren-uj-vezerigazgato-bereczky-aron-allami-kutatohalozat"
+      }
+    ],
+    "published_at": 1793895931,
+    "title_hu": "Bereczky Áron lett a HUN-REN új vezérigazgatója",
+    "lead_hu": "Bereczky Áron matematikust nevezték ki a HUN-REN Magyar Kutatási Hálózat vezérigazgatójává. Köszöntőjében a kutatói együttműködés és a tudományos munka stabil feltételeinek fontosságát hangsúlyozta.",
+    "content_hu": "• **Új vezérigazgató** Bereczky Áron kinevezéséről a HUN-REN honlapján közzétett köszöntőüzenet adott hírt.\n\n• **Szakmai háttér** Bereczky az ELTE Természettudományi Karán végzett, PhD-fokozatát a Floridai Egyetemen szerezte. Egyetemi oktatóként és az NKFIH Kutatói Kiválósági Főosztályának vezetőjeként is dolgozott.\n\n• **Kutatói együttműködés** Az új vezető szerint a kutatóhálózat eredményességéhez szükség van a tudományterületek, kutatóhelyek és központi szervezeti egységek közötti együttműködésre, valamint a kutatói munkát támogató feltételek megteremtésére.\n\n• **Vezetőváltás és átalakítás** Gulyás Balázs elnök és Jakab Roland vezérigazgató október 21-én távozott. A kutatóhálózat jövőjét érintő törvénymódosítások előkészítése is folyamatban van.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_3fd631fdc6",
     "fingerprint": "a38e6828ebb1395734739f4001b773e8",
     "category": "Általános",
@@ -2122,32 +2146,6 @@
     "title_hu": "Eltűnt egy 74 éves német férfi Kaposvár közelében",
     "lead_hu": "November 4-én látták utoljára a Bőszénfán élő Tomczak Ewald Wolfgangot, aki azóta nem adott életjelet magáról. A rendőrség a lakosság segítségét kéri a felkutatásához.",
     "content_hu": "• **November 4-én látták utoljára** a 74 éves német állampolgárt Bőszénfán; azóta ismeretlen helyen tartózkodik.\n\n• **Személyleírása:** körülbelül 170 centiméter magas, átlagos testalkatú, rövidre nyírt ősz hajú. Eltűnésekor kék dzsekit és nadrágot viselt, két nagy szatyor volt nála.\n\n• **A rendőrség a lakosság segítségét kéri.** Aki információval rendelkezik, hívja a 112-t vagy a Somogy Vármegyei Rendőr-főkapitányságot a 06 82/502-700-as telefonszámon.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_d33d7cf433",
-    "fingerprint": "d6a5a6782ea2b2d9bd12302a0b221673",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/horvath-kamilla-virag-lead-e1793887487434.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Két hete megszökött a kórházból egy kislány, azóta sincs meg",
-        "link": "https://24.hu/belfold/2026/11/05/miskolc-korhazbol-megszokott-kislany/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Két hete megszökött a kórházból egy kislány, azóta sincs meg",
-        "link": "https://index.hu/belfold/2026/11/05/miskolc-korhaz-megszokott-kislany-kereses/"
-      }
-    ],
-    "published_at": 1793891160,
-    "title_hu": "Két hete keresik a kórházból megszökött 14 éves lányt",
-    "lead_hu": "Horváth Kamilla Virág október 20-án, egészségügyi ellátása közben távozott a Borsod-Abaúj-Zemplén Vármegyei Központi Kórházból. A rendőrség a lakosság segítségét kéri a lány megtalálásához.",
-    "content_hu": "• **Eltűnése** A 14 éves Horváth Kamilla Virág október 20-án szökött meg a kórházból, azóta ismeretlen helyen tartózkodik.\n\n• **Személyleírása** A lány körülbelül 160 centiméter magas, vékony testalkatú, barna félhosszú hajú és barna szemű. Az esztergomi lakóotthonban él.\n\n• **Bejelentés** Aki tud valamit a hollétéről, az Esztergomi Rendőrkapitányságot a 06/34-517-777-es telefonszámon, a Telefontanút a 06-80-555-111-es számon vagy szükség esetén a 112-t hívhatja.",
     "importance_score": 28.0
   },
   {
@@ -2278,32 +2276,6 @@
     "title_hu": "A Windows 11-et 8 GB memóriás gépekre optimalizálja a Microsoft",
     "lead_hu": "A Microsoft a Windows 11, az Edge és a Microsoft 365 memóriahasználatának javításával igyekszik használhatóbbá tenni a kevesebb memóriával szerelt gépeket. A vállalat tömörítéssel és a felhasználói igények előrejelzésével csökkentené a RAM terhelését.",
     "content_hu": "• **A memória hatékonyabb kihasználása** A Microsoft a Windows 11-et, az Edge-et és a Microsoft 365-öt is úgy optimalizálná, hogy a meglévő memóriakeretekből többet hozzon ki.\n\n• **Tömörítés és előrejelzés** A rendszer a használaton kívüli elemeket – például az Edge egyes lapjait – eltávolíthatja a RAM-ból, majd szükség esetén visszatöltheti őket. Emellett megpróbálja előre jelezni, mely alkalmazásokra és funkciókra lesz szükség.\n\n• **Belső teszt eredménye** A Microsoft beszámolója szerint egy több alkalmazást és 20 Edge-lapot megnyitó teszt 40 százalékkal gyorsabban zajlott le, mint a 2026. januári verzióban. A közlés nem részletezi a teszt pontos időtartamát, illetve azt, hogy közben előfordultak-e akadozások.\n\n• **Nem csak a Microsofton múlik** A vállalat fejlesztései önmagukban nem feltétlenül oldják meg a 8 GB-os gépek problémáját, mivel más programok is sok memóriát igényelhetnek vagy lelassulhatnak ilyen környezetben.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_5d660db8fa",
-    "fingerprint": "0301c6b4fac85df8babdb30e43989bc5",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Zacher Gábor nagyon megharagudott Orbán Viktorra a testképe miatt",
-        "link": "https://nlc.hu/sztarok/20261105/zacher-gabor-orban-viktor/fpt5pz2"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Zacher Gábor: Nagyon megharagudtam Orbán Viktorra a testképe miatt",
-        "link": "https://24.hu/elet-stilus/2026/11/05/zacher-gabor-orban-viktor-testkep/"
-      }
-    ],
-    "published_at": 1793885228,
-    "title_hu": "Zacher Gábor bírálta Orbán Viktor testképét",
-    "lead_hu": "Zacher Gábor szerint Orbán Viktor korábbi testképe negatív példát mutatott az egészségmegőrzés szempontjából. Úgy véli, ha a volt miniszterelnök nyilvánosan beszélt volna a súlygyarapodásáról és az életmódváltásáról, másokat is ösztönözhetett volna.",
-    "content_hu": "• **Zacher kritikája** A szakember a Maszol vendégeként azt mondta, neheztelt Orbán Viktorra, mert szerinte a volt miniszterelnök egészségmegőrzés szempontjából negatív testképet mutatott.\n\n• **Példamutatás** Zacher szerint Orbán nyilvánosan beszélhetett volna a súlygyarapodásáról és arról, hogy életmódváltásba kezd.\n\n• **Népegészségügyi hatás** A szakember úgy véli, egy ilyen nyilatkozat másokat is az egészségesebb életmód felé terelhetett volna, mivel sokan követik a közéleti szereplőket.",
     "importance_score": 28.0
   },
   {
@@ -2587,6 +2559,32 @@
     "lead_hu": "Gadi Ejzenkot, az Egyenesen (Jasár) párt vezetője a várakozások szerint több képviselő támogatását szerezheti meg a kormányalakítási megbízáshoz, mint Benjamin Netanjahu. Jichák Hercog államfő a pártvezetőkkel folytatott egyeztetések alapján dönt arról, kit bíz meg a kormány létrehozásával.",
     "content_hu": "• **Ejzenkot előnyben van az ajánlásoknál:** Várhatóan legalább 56 képviselő támogatja őt, míg Netanjahu mögött 53 ajánlás áll.\n\n• **Legfeljebb 42 napja lehet a kormányalakításra:** Ha Hercog Ejzenkotot bízza meg, ennyi idő áll rendelkezésére egy új koalíció létrehozására.\n\n• **A mandátumok száma önmagában nem döntő:** Bár Netanjahu Likudja szerezte a legtöbb mandátumot, az államfő annak a képviselőnek adja a megbízást, akinek a legnagyobb esélyt látja a kormányalakításra.\n\n• **Megosztottak a pártok:** Több párt Ejzenkotot, mások Netanjahut támogatják; egyes képviselők még nem döntöttek, vagy nem neveztek meg jelöltet.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_5d660db8fa",
+    "fingerprint": "0301c6b4fac85df8babdb30e43989bc5",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Zacher Gábor nagyon megharagudott Orbán Viktorra a testképe miatt",
+        "link": "https://nlc.hu/sztarok/20261105/zacher-gabor-orban-viktor/fpt5pz2"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Zacher Gábor: Nagyon megharagudtam Orbán Viktorra a testképe miatt",
+        "link": "https://24.hu/elet-stilus/2026/11/05/zacher-gabor-orban-viktor-testkep/"
+      }
+    ],
+    "published_at": 1793885228,
+    "title_hu": "Zacher Gábor bírálta Orbán Viktor testképét",
+    "lead_hu": "Zacher Gábor szerint Orbán Viktor korábbi testképe negatív példát mutatott az egészségmegőrzés szempontjából. Úgy véli, ha a volt miniszterelnök nyilvánosan beszélt volna a súlygyarapodásáról és az életmódváltásáról, másokat is ösztönözhetett volna.",
+    "content_hu": "• **Zacher kritikája** A szakember a Maszol vendégeként azt mondta, neheztelt Orbán Viktorra, mert szerinte a volt miniszterelnök egészségmegőrzés szempontjából negatív testképet mutatott.\n\n• **Példamutatás** Zacher szerint Orbán nyilvánosan beszélhetett volna a súlygyarapodásáról és arról, hogy életmódváltásba kezd.\n\n• **Népegészségügyi hatás** A szakember úgy véli, egy ilyen nyilatkozat másokat is az egészségesebb életmód felé terelhetett volna, mivel sokan követik a közéleti szereplőket.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_a4ff61f11c",
@@ -3611,25 +3609,6 @@
     "title_hu": "Remek játékkal és kiütéses sikerrel kezdte meg új korszakát a magyar válogatott",
     "lead_hu": "Egyetlen percig sem volt kérdés a győzelem, a csoport első helyére állt Magyarország.",
     "content_hu": "Egyetlen percig sem volt kérdés a győzelem, a csoport első helyére állt Magyarország.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_088680356a",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20260714/1784036846-temp-nee68f6g64f8beiddep_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Létrehozzák az Országos Élőkörnyezet-felügyeleti Főhatóságot",
-        "link": "https://telex.hu/techtud/2026/11/05/orszagos-elokornyezet-felugyeleti-fohatosag-kornyezetvedelem-hulladekgazdalkodas-termeszetvedelem-gentechnologia-erdeszet-klimavedelem-vizugy"
-      }
-    ],
-    "published_at": 1793903467,
-    "title_hu": "Létrehozzák az Országos Élőkörnyezet-felügyeleti Főhatóságot",
-    "lead_hu": "A feladatai közé tartozik majd például a környezetvédelem, hulladékgazdálkodás, természetvédelem, állatvédelem, erdészet és vízvédelem, és foglalkozni fog az akkumulátorgyártással és akkumulátorhullad...",
-    "content_hu": "A feladatai közé tartozik majd például a környezetvédelem, hulladékgazdálkodás, természetvédelem, állatvédelem, erdészet és vízvédelem, és foglalkozni fog az akkumulátorgyártással és akkumulátorhulladék-kezeléssel is.",
     "importance_score": 0.0
   },
   {
@@ -13399,61 +13378,30 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_d3d5897c8c",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Áradnak a nevek: Dévényi Tibor, Bánó András, Som Lajos, Medveczky Ilona",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/aradnak-a-nevek-devenyi-istvan-bano-andras-som-lajos-medveczky-ilona"
-      }
-    ],
-    "published_at": 1793820420,
-    "title_hu": "Áradnak a nevek: Dévényi Tibor, Bánó András, Som Lajos, Medveczky Ilona",
-    "lead_hu": "A nyitottaktak.hu oldalon nyilvánosságra került dokumentumok között szerepel B. Tóth László rádiós műsorvezető 6-os kartonja is.A BM III/III-as osztálya által 1981-ben kiállított iraton a beszerv...",
-    "content_hu": "A nyitottaktak.hu oldalon nyilvánosságra került dokumentumok között szerepel B. Tóth László rádiós műsorvezető 6-os kartonja is.A BM III/III-as osztálya által 1981-ben kiállított iraton a beszerv...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_35dd6133f5",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/dkcsz20261014051-e1793820081150-1024x575.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "group_id": "group_d33d7cf433",
+    "fingerprint": "d6a5a6782ea2b2d9bd12302a0b221673",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/horvath-kamilla-virag-lead-e1793887487434.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
-        "title": "Borbély Balázs a Milan elleni meccsről: Erre a napra vártunk!",
-        "link": "https://24.hu/sport/foci/2026/11/04/europa-liga-milan-fradi-borbely-balazs-sajtotajekoztato/"
-      }
-    ],
-    "published_at": 1793820361,
-    "title_hu": "Borbély Balázs a Milan elleni meccsről: Erre a napra vártunk!",
-    "lead_hu": "Megtartotta az AC Milan elleni Európa Liga-mérkőzés előtti sajtótájékoztatóját a Ferencváros edzője. The post Borbély Balázs a Milan elleni meccsről: Erre a napra vártunk! first appeared on 24.hu.",
-    "content_hu": "Megtartotta az AC Milan elleni Európa Liga-mérkőzés előtti sajtótájékoztatóját a Ferencváros edzője. The post Borbély Balázs a Milan elleni meccsről: Erre a napra vártunk! first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0b4f75fa41",
-    "category": "Kultúra",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2607/24/nothing_ear_3a_tws_fulhallgato_teszt_tws_fulhallgato_fules_bluetooth_anc_130830_3_original_390x220_cover.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "Két hete megszökött a kórházból egy kislány, azóta sincs meg",
+        "link": "https://24.hu/belfold/2026/11/05/miskolc-korhazbol-megszokott-kislany/"
+      },
       {
-        "source": "PC World",
-        "title": "Sokkal élvezetesebb lesz a blutetooth füleseket használni 2027-ben, de van egy nagy bökkenő",
-        "link": "https://www.pcwplus.hu/pcwlite/sokkal-elvezetesebb-lesz-a-blutetooth-fuleseket-hasznalni-2027ben-de-van-egy-nagy-bokkeno-390444.html"
+        "source": "Index - Címlap",
+        "title": "Két hete megszökött a kórházból egy kislány, azóta sincs meg",
+        "link": "https://index.hu/belfold/2026/11/05/miskolc-korhaz-megszokott-kislany-kereses/"
       }
     ],
-    "published_at": 1793820121,
-    "title_hu": "Sokkal élvezetesebb lesz a blutetooth füleseket használni 2027-ben, de van egy nagy bökkenő",
-    "lead_hu": "Na, ez bizony jól &#34;hangzik!",
-    "content_hu": "Na, ez bizony jól &#34;hangzik!",
-    "importance_score": 0.0
+    "published_at": 1793891160,
+    "title_hu": "Két hete keresik a kórházból megszökött 14 éves lányt",
+    "lead_hu": "Horváth Kamilla Virág október 20-án, egészségügyi ellátása közben távozott a Borsod-Abaúj-Zemplén Vármegyei Központi Kórházból. A rendőrség a lakosság segítségét kéri a lány megtalálásához.",
+    "content_hu": "• **Eltűnése** A 14 éves Horváth Kamilla Virág október 20-án szökött meg a kórházból, azóta ismeretlen helyen tartózkodik.\n\n• **Személyleírása** A lány körülbelül 160 centiméter magas, vékony testalkatú, barna félhosszú hajú és barna szemű. Az esztergomi lakóotthonban él.\n\n• **Bejelentés** Aki tud valamit a hollétéről, az Esztergomi Rendőrkapitányságot a 06/34-517-777-es telefonszámon, a Telefontanút a 06-80-555-111-es számon vagy szükség esetén a 112-t hívhatja.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_29c7f2bb24",
