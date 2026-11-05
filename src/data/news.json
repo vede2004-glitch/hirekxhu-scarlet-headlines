@@ -1439,32 +1439,6 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_0aafad4848",
-    "fingerprint": "62dcfe051d177c2ae10c09bc4cee76f9",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793866517-temp-lmetg4bd929kfpiiilm_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A magyar kormány megszüntette a Boszniai Szerb Köztársaságnak szánt támogatási programot",
-        "link": "https://telex.hu/gazdasag/2026/11/05/a-magyar-kormany-megszuntette-a-boszniai-szerb-koztarsasagnak-szant-tamogatasi-programot"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Leállította a magyar kormány a boszniai szerbek támogatási programját",
-        "link": "https://hvg.hu/gazdasag/20261105_bosznia-szerb-tamogatas"
-      }
-    ],
-    "published_at": 1793885586,
-    "title_hu": "Megszüntette a kormány a boszniai szerb gazdáknak szánt támogatási programot",
-    "lead_hu": "A magyar kormány leállította a Boszniai Szerb Köztársaságnak szánt támogatást, amelyből a helyi gazdák magyar mezőgazdasági gépeket vásárolhattak. A program a 2022-ben bejelentett, 100 millió eurós segélycsomag része volt; a megszüntetés okáról és a fennmaradó források sorsáról egyelőre nincs nyilvános információ.",
-    "content_hu": "• **Megszűnt a támogatás** A magyar kormány leállította a Boszniai Szerb Köztársaság mezőgazdasági gépvásárlásait segítő programot.\n\n• **A 2022-es segélycsomag része volt** A programot Orbán Viktor és Milorad Dodik jelentette be a 100 millió eurós csomag részeként. A boszniai szerb gazdák magyar gyártású gépeket vásárolhattak, legalább 30 százalékos önrész vállalásával.\n\n• **Nem ismert a döntés indoka** A sajtóbeszámolók szerint a magyar kormány és a programot lebonyolító Közép-európai Gazdaságfejlesztési Hálózat nem adott tájékoztatást a leállítás okáról, a program esetleges folytatásáról vagy a fennmaradó pénz sorsáról.",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_d59684dd5a",
     "fingerprint": "898f968f1dbac969193c99a3efb6a687",
     "category": "Politika",
@@ -1956,6 +1930,32 @@
     "lead_hu": "A Pest Vármegyei Kormányhivatal higiéniai és élelmiszer-biztonsági hiányosságok, köztük jelentős rágcsálószennyezettség miatt felfüggesztette a Semmelweis Egyetem étkeztetését végző Gasztvitál-csoport Balassa utcai főzőkonyhájának három helyiségét. Az egyetem szerint a klinikai étkeztetés zavartalan, megbetegedésről sem az intézmény, sem a hatóság nem tud. Az egyetem napi belső ellenőrzést vezetett be, a Gasztvitál szerződése pedig hamarosan lejár.",
     "content_hu": "• **Október 12-i ellenőrzés** A kormányhivatal élelmiszer-biztonsági felügyelői jelentős rágcsálószennyezettséget és további higiéniai problémákat tártak fel, ezért még aznap elrendelték egyes helyiségek használatának felfüggesztését.\n\n• **Három helyiség érintett** A korlátozás a gluténmentes konyhára, az a la carte ételek kiadására szolgáló helyiségre, valamint a kis étkezésekhez használt krémek készítőhelyiségére vonatkozik.\n\n• **A lezárás a hibák kijavításáig tart** A Gasztvitál-csoportnak igazolnia kell a hiányosságok megszüntetését; a hatóság eljárást is indított az üzemeltetővel szemben.\n\n• **Az étkeztetés zavartalan** A Semmelweis Egyetem közlése szerint a részleges lezárás nem okoz fennakadást a klinikai étkeztetésben és a betegellátásban. Sem az egyetem, sem a kormányhivatal nem tud a higiéniai helyzettel összefüggő megbetegedésről vagy fertőzésről.\n\n• **Napi belső ellenőrzés** Az egyetem a jegyzőkönyv kézhezvétele után, október 13-án azonnali hatállyal felszólította a Gasztvitált a szerződésszegő állapot megszüntetésére. A vizsgálat óta napi szintű belső minőségellenőrzést tartanak a konyhán.\n\n• **Napi több ezer adag étel** A Gasztvitál 2024-ben vette át az egyetem étkeztetését. A Balassa utcai főzőkonyha és étterem mellett a Pető András Kar éttermét és az Elméleti Orvostudományi Központ büféjét is működteti; naponta átlagosan mintegy kétezer adag ételt készít a betegeknek, és körülbelül ezer dolgozó ebédjéről gondoskodik.\n\n• **Hamarosan lejár a szerződés** A Gasztvitállal kötött határozott idejű szerződés hamarosan lejár, az egyetem pedig várhatóan még idén kiírja az új közbeszerzést.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_0aafad4848",
+    "fingerprint": "62dcfe051d177c2ae10c09bc4cee76f9",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793866517-temp-lmetg4bd929kfpiiilm_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A magyar kormány megszüntette a Boszniai Szerb Köztársaságnak szánt támogatási programot",
+        "link": "https://telex.hu/gazdasag/2026/11/05/a-magyar-kormany-megszuntette-a-boszniai-szerb-koztarsasagnak-szant-tamogatasi-programot"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Leállította a magyar kormány a boszniai szerbek támogatási programját",
+        "link": "https://hvg.hu/gazdasag/20261105_bosznia-szerb-tamogatas"
+      }
+    ],
+    "published_at": 1793885586,
+    "title_hu": "Megszüntette a kormány a boszniai szerb gazdáknak szánt támogatási programot",
+    "lead_hu": "A magyar kormány leállította a Boszniai Szerb Köztársaságnak szánt támogatást, amelyből a helyi gazdák magyar mezőgazdasági gépeket vásárolhattak. A program a 2022-ben bejelentett, 100 millió eurós segélycsomag része volt; a megszüntetés okáról és a fennmaradó források sorsáról egyelőre nincs nyilvános információ.",
+    "content_hu": "• **Megszűnt a támogatás** A magyar kormány leállította a Boszniai Szerb Köztársaság mezőgazdasági gépvásárlásait segítő programot.\n\n• **A 2022-es segélycsomag része volt** A programot Orbán Viktor és Milorad Dodik jelentette be a 100 millió eurós csomag részeként. A boszniai szerb gazdák magyar gyártású gépeket vásárolhattak, legalább 30 százalékos önrész vállalásával.\n\n• **Nem ismert a döntés indoka** A sajtóbeszámolók szerint a magyar kormány és a programot lebonyolító Közép-európai Gazdaságfejlesztési Hálózat nem adott tájékoztatást a leállítás okáról, a program esetleges folytatásáról vagy a fennmaradó pénz sorsáról.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_470c144651",
@@ -3507,6 +3507,25 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_d091af8920",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7243/72430/724301/72430137_5337557_ca074ef37853cf4805942366ac2d2412_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Lelki segélyvonalakkal segíti a kormány azokat, akiket megvisel az ügynökakták nyilvánosságra hozatala",
+        "link": "https://index.hu/belfold/2026/11/05/ugynokaktak-nyilvanossagra-hozatala-lelki-segelyvonal-tisza-kormany/"
+      }
+    ],
+    "published_at": 1793896320,
+    "title_hu": "Lelki segélyvonalakkal segíti a kormány azokat, akiket megvisel az ügynökakták nyilvánosságra hozatala",
+    "lead_hu": "„Ezen az úton senkit sem hagyunk egyedül” – hangsúlyozta Tarr Zoltán miniszter....",
+    "content_hu": "„Ezen az úton senkit sem hagyunk egyedül” – hangsúlyozta Tarr Zoltán miniszter.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_56b8524ac9",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7242/72429/724291/72429131_9a7a1afdebbeb132c91bd9b461a81de9_wm.jpg",
@@ -3523,6 +3542,25 @@
     "title_hu": "Megérkeztek az első fotók a The Housemaid 2. forgatásáról, de a rajongók szerint a készítők már most nagyot hibáztak",
     "lead_hu": "",
     "content_hu": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f550a2ae30",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1090143239-e1793895934375-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Jövőre Beton.Hofitól a Bagira is szól majd a margitszigeti Zenélő Szökőkútból",
+        "link": "https://24.hu/kultura/2026/11/05/beton-hofi-margitsziget-zenelo-szokokut/"
+      }
+    ],
+    "published_at": 1793896021,
+    "title_hu": "Jövőre Beton.Hofitól a Bagira is szól majd a margitszigeti Zenélő Szökőkútból",
+    "lead_hu": "Húsz új dallal bővült a 2027-es zenei kínálat. The post Jövőre Beton.Hofitól a Bagira is szól majd a margitszigeti Zenélő Szökőkútból first appeared on 24.hu....",
+    "content_hu": "Húsz új dallal bővült a 2027-es zenei kínálat. The post Jövőre Beton.Hofitól a Bagira is szól majd a margitszigeti Zenélő Szökőkútból first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
@@ -13821,139 +13859,6 @@
     "title_hu": "Szita Károly már 2005-ben tisztázta az ügynökügyet, most újra üzent",
     "lead_hu": "Először 2005-ben támadták azzal Kaposvár polgármesterét, hogy ügynök volt.",
     "content_hu": "Először 2005-ben támadták azzal Kaposvár polgármesterét, hogy ügynök volt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_1b30b66b87",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793803699-temp-s3o5siea9oa50dldmlf_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Így érdemes beszélni a vacsoraasztalnál arról, ha a rokonunkról kiderül: ügynök volt",
-        "link": "https://telex.hu/ugynokaktak/2026/11/04/joob-mate-ugynokaktak-tarsadalom-emlekezet-nyilvanossag"
-      }
-    ],
-    "published_at": 1793810118,
-    "title_hu": "Így érdemes beszélni a vacsoraasztalnál arról, ha a rokonunkról kiderül: ügynök volt",
-    "lead_hu": "A megismert információkból nem az egész élettörténet rajzolódik ki. Az ügynökakták feldolgozása hasonlít a gyászfolyamatra: időre, türelemre, és a még élő érintettek esetén nyílt beszélgetésre van szü…",
-    "content_hu": "A megismert információkból nem az egész élettörténet rajzolódik ki. Az ügynökakták feldolgozása hasonlít a gyászfolyamatra: időre, türelemre, és a még élő érintettek esetén nyílt beszélgetésre van szükség. Joób Máté, a Semmelweis Egyetem Mentálhigiéné Intézetének egyetemi docense öt tanácsot osztott meg a feldolgozáshoz.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_06c7bbb37c",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/d_mtz20260321011-e1778230484508-1140x643-1-1024x578.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Katolikus főpapok 6-os kartonjai is előkerültek",
-        "link": "https://24.hu/belfold/2026/11/04/katolikus-fopapok-6-os-karton/"
-      }
-    ],
-    "published_at": 1793810079,
-    "title_hu": "Katolikus főpapok 6-os kartonjai is előkerültek",
-    "lead_hu": "Kiss-Rigó Lászlóról és Beer Miklósról is készült beszervezési dokumentum. The post Katolikus főpapok 6-os kartonjai is előkerültek first appeared on 24.hu.",
-    "content_hu": "Kiss-Rigó Lászlóról és Beer Miklósról is készült beszervezési dokumentum. The post Katolikus főpapok 6-os kartonjai is előkerültek first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_3b0c8923d7",
-    "category": "Általános",
-    "image": "https://cdn.hirtv.hu/2026/11/VzoPxl7Kv34F6jjNX27iWgcQPeeEtUCOre529BaOcYQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ2MjZiYTEwYWYxYzQ3ZTA5ZmVkMmNmNzI5MWI3ZjFl.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Megnyíltak az ügynökakták, de az utcán sokan azt sem tudták, mik azok",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-utcai-velemenyek-nyilvanossag"
-      }
-    ],
-    "published_at": 1793810019,
-    "title_hu": "Megnyíltak az ügynökakták, de az utcán sokan azt sem tudták, mik azok",
-    "lead_hu": "Megnyíltak az akták, az emberek véleménye megoszlik.",
-    "content_hu": "Megnyíltak az akták, az emberek véleménye megoszlik.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f82b0a6f6f",
-    "category": "Kultúra",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dfc727e9-8b75-41ef-9ccf-1bedb5ee8b61.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Titkos üzenetet küldtek Budáról Pestre és vissza, senki nem tudta lehallgatni",
-        "link": "https://hvg.hu/tudomany/20261104_kvantumkulcs-titkositas-uzenetkuldes-magyar-kutatok"
-      }
-    ],
-    "published_at": 1793809980,
-    "title_hu": "Titkos üzenetet küldtek Budáról Pestre és vissza, senki nem tudta lehallgatni",
-    "lead_hu": "Magyar kutatók a világon elsőként küldhettek kvantumkulccsal titkosított üzenetet egymásnak.",
-    "content_hu": "Magyar kutatók a világon elsőként küldhettek kvantumkulccsal titkosított üzenetet egymásnak.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_2d89f8373f",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/000_c2lm34c-e1793809903997-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Trump a baráti Fox News-t okolja a választási vereségért",
-        "link": "https://24.hu/kulfold/2026/11/04/trump-felidos-valasztas-fox-news/"
-      }
-    ],
-    "published_at": 1793809942,
-    "title_hu": "Trump a baráti Fox News-t okolja a választási vereségért",
-    "lead_hu": "Több posztot is szentelt nekik. The post Trump a baráti Fox News-t okolja a választási vereségért first appeared on 24.hu.",
-    "content_hu": "Több posztot is szentelt nekik. The post Trump a baráti Fox News-t okolja a választási vereségért first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6f95b206f3",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/08/eBDYbJZ3vwfm1OdyTUNtAxveHEIYaRtHO00VD9FH7zw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4NzhmNmViMDkwOTQ0NzQ4ZWUxYjg4OGIxZmU3OGJk.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Rekordösszegű támogatást kapnak a gazdák, mégis egyre sebezhetőbb a mezőgazdaság – az OECD szerint rossz helyre megy a pénz",
-        "link": "https://www.vg.hu/agrar/2026/11/tamogatas-rekordosszeg-gazdak-mezogazdasag-megelozes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793809829,
-    "title_hu": "Rekordösszegű támogatást kapnak a gazdák, mégis egyre sebezhetőbb a mezőgazdaság – az OECD szerint rossz helyre megy a pénz",
-    "lead_hu": "Az OECD szerint nem a forráscsökkentésre kellene koncentrálni, hanem a rendelkezésre álló pénz észszerűbb elosztására.",
-    "content_hu": "Az OECD szerint nem a forráscsökkentésre kellene koncentrálni, hanem a rendelkezésre álló pénz észszerűbb elosztására.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4805794ab8",
-    "category": "Általános",
-    "image": "https://cdn.borsonline.hu/2026/10/MqQk8qoVBZ3RPDpRXNRwhpCrvUNseCBcfMFvJyoQWjg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RjMjExYTUyYjk1YjQwYjFhMjk5YThkZmExYmJlOTJh.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "„Kiszálltam, megyünk most haza” – az Ázsia Expressz versenyzői kiakadtak a mai feladat miatt",
-        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/azsia-expressz-toklopas"
-      }
-    ],
-    "published_at": 1793809800,
-    "title_hu": "„Kiszálltam, megyünk most haza” – az Ázsia Expressz versenyzői kiakadtak a mai feladat miatt",
-    "lead_hu": "Valaki titokban hátráltatta az Ázsia Expressz sztárjait.",
-    "content_hu": "Valaki titokban hátráltatta az Ázsia Expressz sztárjait.",
     "importance_score": 0.0
   },
   {
