@@ -6,7 +6,7 @@
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 15,
+    "sources_count": 16,
     "sources": [
       {
         "source": "444.hu",
@@ -82,13 +82,18 @@
         "source": "ATV",
         "title": "Bocsánatot kért Lezsák Sándortól Magyar Péter: „Ilyen hiba nem fordulhat elő”",
         "link": "https://www.atv.hu/belfold/20261105/magyar-peter-lezsak-sandor/"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Magyar Péter bocsánatot kért Lezsák Sándortól, aki tévesen szerepelt az ügynökaktákban",
+        "link": "https://nlc.hu/ezvan/20261105/magyar-peter-bocsanatkeres-lezsak-sandor/d31wred"
       }
     ],
     "published_at": 1793875260,
     "title_hu": "Lezsák megfigyelt volt, Magyar Péter is bocsánatot kért tőle",
     "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára elismerte, hogy informatikai hiba miatt hálózati személyként jelent meg Lezsák Sándor neve a Nyitott Akták adatbázisában, holott megfigyelt volt. A levéltár és Magyar Péter miniszterelnök is bocsánatot kért tőle; az adatbázis érintett részét felülvizsgálják.",
     "content_hu": "• **A levéltár elismerte a tévedést:** Az ÁBTL közölte, hogy Lezsák Sándor neve informatikai hiba miatt jelent meg hálózati személyként az adatbázisban. A mágnesszalagokon megfigyeltként szerepel, nem együttműködőként.\n\n• **Lezsák tiltakozott a besorolás ellen:** A volt országgyűlési képviselő azt mondta, őt figyelték meg, és jogi lépéseket helyezett kilátásba. Szerinte a téves besorolás okozta erkölcsi kárt a jogi eljárás sem teheti jóvá.\n\n• **A levéltár bocsánatot kért:** Az intézmény elnézést kért Lezsáktól, és közölte, hogy vizsgálja, illetve elhárítja a technikai hibát. Cseh Gergő Bendegúz főigazgató azt mondta, személyesen is bocsánatot kér mindenkitől, akit a hibás adatok rossz hírbe kevertek.\n\n• **Magyar Péter is elnézést kért:** A miniszterelnök a közösségi oldalán kért bocsánatot Lezsáktól, miután telefonon nem sikerült elérnie.\n\n• **Lezsák adatait eltávolították a keresőből:** A 444 beszámolója szerint csütörtök délelőttre a névre keresve már nem jelent meg találat az adatbázisban.\n\n• **Az adatbázis további ellenőrzése folyik:** A levéltár megkezdte az érintett adatok felülvizsgálatát és intézkedéseket ígért a hasonló esetek megelőzésére. A 444 értesülése szerint egy Excel-fájl feldolgozásakor történhetett hiba; az ÁBTL a hiba pontos természetét nem részletezte. A közel 60 ezer nyilvánosságra került személy adatát is ellenőrzik, miközben a levéltárnál egyedi esetnek tartják a téves azonosítást.\n\n• **A mágnesszalagos bejegyzés önmagában nem bizonyít együttműködést:** A Telex szerint Lezsák neve nem szerepel 6-os kartonon és a beszervezéseket nyilvántartó B-naplóban sem. A mágnesszalagok H-adattára mintegy 58 ezer nevet tartalmaz, köztük olyanokét is, akik nem voltak informátorok vagy ügynökök.\n\n• **A Fidesz politikai felelősséget követelt:** Bóka János frakcióvezető a teljes honlap elérhetetlenné tételét, Magyar Péter bocsánatkérését és Tarr Zoltán távozását sürgette.",
-    "importance_score": 165.0
+    "importance_score": 175.0
   },
   {
     "group_id": "group_7118536b97",
@@ -315,52 +320,6 @@
     "importance_score": 80.0
   },
   {
-    "group_id": "group_532641c020",
-    "fingerprint": "e46ffebe332256d3e541119ca28eeab0",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b11ee6d1-9662-4d14-8d0f-57a36a0f32f8.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Windisch László nem hagyja annyiban: fellebbezett Biró Ferenc IH-elnök kirúgatása érdekében",
-        "link": "https://hvg.hu/itthon/20261105_windisch-laszlo-asz-ih-elnok-fellebbezes-biro-ferenc-kirugatas"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Tovább folyik a háború az ÁSZ és az Irányító Hatóság között: Windisch László újabb lépést tett Bíró Ferenc kirúgása érdekében",
-        "link": "https://www.vg.hu/kozelet/2026/11/windisch-laszlo-asz-biro-ferenc-iranyito-hatosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Az ÁSZ-elnök fellebbezett annak érdekében, hogy kirúgják az Integritás Hatóság vezetőjét",
-        "link": "https://24.hu/belfold/2026/11/05/windisch-fellebezes-kirugas-birosag/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Az Integritás Hatóság elnökének leváltásáért fellebbezett Windisch László, szerinte nem késett el az indítványával",
-        "link": "https://telex.hu/belfold/2026/11/05/asz-elnok-windisch-laszlo-kozigazgatasi-per-ih-elnok-biro-ferenc-pal-levaltas"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Windisch László fellebbezett, hogy elmozdítsa Biró Ferencet az Integritás Hatóság éléről",
-        "link": "https://index.hu/belfold/2026/11/05/windisch-laszlo-allami-szamvevoszek-biro-ferenc-integritas-hatosag-fellebezes/"
-      },
-      {
-        "source": "ATV",
-        "title": "Fellebbezett Windisch László, továbbra is leváltaná az Integritás Hatóság elnökét",
-        "link": "https://www.atv.hu/belfold/20261105/windisch-laszlo-integritas-hatosag/"
-      }
-    ],
-    "published_at": 1793867940,
-    "title_hu": "Fellebbezett az ÁSZ elnöke Biró Ferenc elmozdítása érdekében",
-    "lead_hu": "Windisch László, az Állami Számvevőszék elnöke fellebbezett a Fővárosi Ítélőtáblánál, miután a törvényszék októberben elkésettség miatt megszüntette a Biró Ferenc Pál, az Integritás Hatóság elnöke hivatalvesztését célzó pert. Az ÁSZ vitatja a megszüntetés indokát; a fellebbezésről és arról, hogy folytatódhat-e az eljárás, még nincs döntés.",
-    "content_hu": "• **Fellebbezés:** Windisch László az ítélőtáblához fordult, mert vitatja a törvényszék végzésének indokát. A bíróság megerősítette, hogy a fellebbezés határidőben érkezett; annak részleteiről egyelőre nincs nyilvános információ.\n\n• **A per megszüntetése:** A Fővárosi Törvényszék októberben elkésettnek találta az ÁSZ elnökének keresetét. A bíróság szerint Windischnek a Legfőbb Ügyészség 2025. február 27-i tájékoztatásától számított 90 napon belül kellett volna elindítania az eljárást, és a kereset 384 napos késéssel érkezett.\n\n• **A határidő vitája:** Windisch június közepén, 11 nappal a június 5-i vádemelés után nyújtotta be a keresetet. A törvényszék szerint a vádemelés és a büntetőeljárás más későbbi fejleményei nem indították újra a keresetindítási határidőt.\n\n• **Az eljárás jogi alapja:** Az IH elnökének hivatalvesztése nem automatikus: a közigazgatási eljárást az ÁSZ elnökének kell kezdeményeznie. A szabályozás alapján már a gyanúsítás is elegendő lehet ahhoz, hogy az elnök büntetőeljárás részesévé váljon; nem feltétel a vádemelés vagy a gyanú bizonyítottsága.\n\n• **A Biró elleni vádak:** Az ügyészség hűtlen kezeléssel és más bűncselekményekkel vádolja Biró Ferenc Pált. A vádhatóság szerint többek között felesége luxusautó-használata, fiktív brüsszeli szerződések és egy ismerős foglalkoztatása miatt több mint 140 millió forint vagyoni hátrány érte a hatóságot. Biró tagadja a vádakat, és politikai indíttatásúnak tartja az eljárást.\n\n• **Biró ellenkérelme:** Az IH elnöke azt közölte, hogy az elmozdítását célzó kereset szerinte ellentétes Magyarország helyreállítási tervével, és veszélyezteti az uniós források hazahozatalát. A törvényszék a per megszüntetése miatt érdemben nem vizsgálta az ellenkérelmet.",
-    "importance_score": 80.0
-  },
-  {
     "group_id": "group_0301239126",
     "fingerprint": "301b5c2d7ce3dc1cb407206cd26e37c1",
     "category": "Politika",
@@ -410,6 +369,52 @@
     "lead_hu": "Nyilas Zoltán András északpesti esperest választották meg a Dunamelléki Református Egyházkerület püspökévé, Balog Zoltán utódjául. Nyilas 172 szavazatot kapott a 292 érvényes voksból; a választásról szóló újabb beszámoló az egyházon belüli, kegyelmi ügy utáni elszámoltatás hiányára is kitért.",
     "content_hu": "• **Nyilas Zoltán András kapta a legtöbb szavazatot:** a 292 érvényes voksból 172-vel választották püspökké, míg Lovas András 120 szavazatot szerzett.\n\n• **Új főgondnokot is választottak:** Szathmáry Gergely Zoltán 164 szavazattal nyerte el a tisztséget a 291 érvényes voksból; Szalai Zsolt 127 szavazatot kapott.\n\n• **Balog Zoltán nem indult újra:** 2021 óta vezette az egyházkerületet, és Nyilas váltja a tisztségben. A kegyelmi ügy után lemondott a református egyház zsinati elnökségéről, püspöki címét azonban a mostani választásig megtartotta.\n\n• **Nyilas 2015 óta északpesti esperes:** 1975-ben született Budapesten, teológiai tanulmányait a Károli Gáspár Református Egyetem Hittudományi Karán végezte. 2006 óta a Pomáz–Csobánkai Református Társegyházközség lelkipásztora; nős, három gyermek édesapja.\n\n• **Hat évre szól a megbízatás:** a református egyház tisztújításának részeként mind a négy egyházkerület élére új tisztségviselőket választanak.\n\n• **2027 februárjában ülhet össze az új zsinat:** a testület megválasztja majd a zsinat lelkészi és presbiteri elnökét, alelnökét, valamint jegyzőit.\n\n• **Szerdán tartották az urnabontó és szavazatszámláló ülést:** ezen döntöttek Balog Zoltán utódjáról.\n\n• **Balog a lemondásakor politikai hibáról beszélt:** úgy fogalmazott, hogy „súlyos politikai hibát” vétett a kegyelmi ügyben, kegyelmet kért és valakinek kegyelmet akart.\n\n• **A kegyelmi ügy utáni egyházi szembenézés hiányát is bírálták:** a 444 beszámolója szerint Fekete Károly tiszántúli püspök májusban arról beszélt, hogy elmaradt a közegyházi feltisztulás, és az ügy hitelességi válságba sodorta az egyházat.",
     "importance_score": 78.0
+  },
+  {
+    "group_id": "group_532641c020",
+    "fingerprint": "e46ffebe332256d3e541119ca28eeab0",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b11ee6d1-9662-4d14-8d0f-57a36a0f32f8.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Windisch László nem hagyja annyiban: fellebbezett Biró Ferenc IH-elnök kirúgatása érdekében",
+        "link": "https://hvg.hu/itthon/20261105_windisch-laszlo-asz-ih-elnok-fellebbezes-biro-ferenc-kirugatas"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Tovább folyik a háború az ÁSZ és az Irányító Hatóság között: Windisch László újabb lépést tett Bíró Ferenc kirúgása érdekében",
+        "link": "https://www.vg.hu/kozelet/2026/11/windisch-laszlo-asz-biro-ferenc-iranyito-hatosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Az ÁSZ-elnök fellebbezett annak érdekében, hogy kirúgják az Integritás Hatóság vezetőjét",
+        "link": "https://24.hu/belfold/2026/11/05/windisch-fellebezes-kirugas-birosag/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Az Integritás Hatóság elnökének leváltásáért fellebbezett Windisch László, szerinte nem késett el az indítványával",
+        "link": "https://telex.hu/belfold/2026/11/05/asz-elnok-windisch-laszlo-kozigazgatasi-per-ih-elnok-biro-ferenc-pal-levaltas"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Windisch László fellebbezett, hogy elmozdítsa Biró Ferencet az Integritás Hatóság éléről",
+        "link": "https://index.hu/belfold/2026/11/05/windisch-laszlo-allami-szamvevoszek-biro-ferenc-integritas-hatosag-fellebezes/"
+      },
+      {
+        "source": "ATV",
+        "title": "Fellebbezett Windisch László, továbbra is leváltaná az Integritás Hatóság elnökét",
+        "link": "https://www.atv.hu/belfold/20261105/windisch-laszlo-integritas-hatosag/"
+      }
+    ],
+    "published_at": 1793867940,
+    "title_hu": "Fellebbezett az ÁSZ elnöke Biró Ferenc elmozdítása érdekében",
+    "lead_hu": "Windisch László, az Állami Számvevőszék elnöke fellebbezett a Fővárosi Ítélőtáblánál, miután a törvényszék októberben elkésettség miatt megszüntette a Biró Ferenc Pál, az Integritás Hatóság elnöke hivatalvesztését célzó pert. Az ÁSZ vitatja a megszüntetés indokát; a fellebbezésről és arról, hogy folytatódhat-e az eljárás, még nincs döntés.",
+    "content_hu": "• **Fellebbezés:** Windisch László az ítélőtáblához fordult, mert vitatja a törvényszék végzésének indokát. A bíróság megerősítette, hogy a fellebbezés határidőben érkezett; annak részleteiről egyelőre nincs nyilvános információ.\n\n• **A per megszüntetése:** A Fővárosi Törvényszék októberben elkésettnek találta az ÁSZ elnökének keresetét. A bíróság szerint Windischnek a Legfőbb Ügyészség 2025. február 27-i tájékoztatásától számított 90 napon belül kellett volna elindítania az eljárást, és a kereset 384 napos késéssel érkezett.\n\n• **A határidő vitája:** Windisch június közepén, 11 nappal a június 5-i vádemelés után nyújtotta be a keresetet. A törvényszék szerint a vádemelés és a büntetőeljárás más későbbi fejleményei nem indították újra a keresetindítási határidőt.\n\n• **Az eljárás jogi alapja:** Az IH elnökének hivatalvesztése nem automatikus: a közigazgatási eljárást az ÁSZ elnökének kell kezdeményeznie. A szabályozás alapján már a gyanúsítás is elegendő lehet ahhoz, hogy az elnök büntetőeljárás részesévé váljon; nem feltétel a vádemelés vagy a gyanú bizonyítottsága.\n\n• **A Biró elleni vádak:** Az ügyészség hűtlen kezeléssel és más bűncselekményekkel vádolja Biró Ferenc Pált. A vádhatóság szerint többek között felesége luxusautó-használata, fiktív brüsszeli szerződések és egy ismerős foglalkoztatása miatt több mint 140 millió forint vagyoni hátrány érte a hatóságot. Biró tagadja a vádakat, és politikai indíttatásúnak tartja az eljárást.\n\n• **Biró ellenkérelme:** Az IH elnöke azt közölte, hogy az elmozdítását célzó kereset szerinte ellentétes Magyarország helyreállítási tervével, és veszélyezteti az uniós források hazahozatalát. A törvényszék a per megszüntetése miatt érdemben nem vizsgálta az ellenkérelmet.",
+    "importance_score": 73.0
   },
   {
     "group_id": "group_abcb435c76",
@@ -548,6 +553,47 @@
     "lead_hu": "A Nyitott Akták mágnesszalagos adatbázisában Surányi György volt jegybankelnök az „Otto” fedőnév és a 04-es kategóriakód mellett szerepel. Surányi tagadja, hogy a hálózat tagja lett volna; állítása szerint 1986-ban megpróbálták beszervezni, de visszautasította a nyilatkozat aláírását. A nyilvántartás önmagában nem bizonyítja, hogy valaki ügynök volt: a mágnesszalagok sokféle személy adatait tartalmazzák, dokumentumokat viszont nem.",
     "content_hu": "• **Surányi neve az adatbázisban** „Otto” fedőnéven, 04-es kategóriakóddal szerepel a Nyitott Akták oldalán közzétett állambiztonsági bejegyzésben. A beszámoló szerint az azonosító adatok, köztük a születési hely és az édesanya neve, egyeznek Surányi adataival.\n\n• **Surányi tagadja, hogy a hálózat tagja lett volna.** Azt mondta, nincs 6-os kartonja, operatív jelentés vagy munkadosszié, és állítása szerint nem szolgáltatott információt a politikai rendőrségnek. Szerinte a 04-es kód alatt nem található tőle származó, felhasznált vagy iktatott információ, jelentés vagy feljegyzés.\n\n• **Beszervezési kísérletet említett.** Surányi elmondása szerint 1986 nyarán, amikor Washingtonba, a Világbank munkatársának vették fel, megpróbálták beszervezni, de a nyilatkozat aláírását megtagadta, annak ellenére, hogy kilátásba helyezték az amerikai állás megakadályozását.\n\n• **A főnökétől kért segítséget.** Surányi közölte, hogy tájékoztatta akkori főnökét, Hagelmayer Istvánt, aki ezután felhívta a Belügyminisztérium egyik magas rangú munkatársát. Surányi szerint ezt követően megszűnt a nyomásgyakorlás; úgy véli, neve adminisztratív nyomként kerülhetett az adatbázisba.\n\n• **Korábban is beszélt az esetről.** Surányi szerint a sikertelen beszervezési kísérletet a Lengyel Lászlóval közösen írt, 2013-ban megjelent Határátkelés című beszélgetőkönyvben is felidézte. Kérte az Állambiztonsági Szolgálatok Történeti Levéltárát, hogy a neve mellett tüntessék fel a beszervezést cáfoló közlését.\n\n• **Járai Zsigmond neve is szerepel az adatbázisban.** A róla szóló bejegyzés a „Bihari” fedőnevet és ugyancsak 04-es kategóriakódot tüntet fel.\n\n• **A 04-es kód a forrás ismertetése szerint foglalkoztatott hálózati személyt jelölt.** A Vadhajtások cikke szerint a 07-es kód például a hálózatból kizárt személyekre utalt; a kód önmagában nem igazolja Surányi állításainak cáfolatát, aki vitatja, hogy hálózati személy lett volna.\n\n• **Járai adatlapján a nyilvántartó szerv is szerepel.** A Vadhajtások szerint a mágnesszalagos bejegyzés a BM III/II-8-B alosztályt jelöli meg nyilvántartóként; ez a Belügyminisztérium III/II. Csoportfőnökségéhez, a kémelhárításhoz tartozott. A cikk felveti, hogy a „Bihari” fedőnév Járai Biharkeresztesen történt születésére utalhat, ezt azonban lehetőségként említi.\n\n• **A mágnesszalagos nyilvántartás önmagában nem bizonyítja, hogy valaki ügynök volt.** A Telex ismertetése szerint a H-adattár mintegy 58 ezer, az 1970-es évektől felvett nevet tartalmaz. A bejegyzések között nemcsak beszervezett hálózati személyek, hanem olyanok is szerepelnek, akik fontosak voltak a szolgálatoknak, de nem váltak informátorrá; a mágnesszalagokon dokumentumok és fényképek sincsenek.\n\n• **A nyilvánosságra hozatal több ütemben történik.** Az Index szerint november 4-től regisztráció nélkül lehet keresni az iratok között; első körben mintegy 25 ezer 6-os karton és több tízezer nyilvántartási bejegyzés vált hozzáférhetővé, a tervek szerint pedig a következő februárig több mint kilencezer beszervezési dossziét is közzétesznek. A 6-os karton a személyes azonosító adatokat, a beszervezés körülményeit és a foglalkoztatás területét is tartalmazza.",
     "importance_score": 68.0
+  },
+  {
+    "group_id": "group_820ec77ce7",
+    "fingerprint": "f75fab1d24cc28ec4bdcdb1c0a8a6d4a",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7242/72429/724291/72429173_5337497_3fa93a2111ac0dfb878e5e6120a64a2e_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Visszavonult a portugál válogatottól Cristiano Ronaldo",
+        "link": "https://index.hu/sport/futball/2026/11/05/cristiano-ronaldo-portugal-valogatott-visszavonulas/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hivatalos: Cristiano Ronaldo visszavonult a válogatottól",
+        "link": "https://24.hu/sport/foci/2026/11/05/hivatalos-cristiano-ronaldo-visszavonult-a-valogatottol/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Cristiano Ronaldo bejelentette, hogy visszavonult a portugál válogatottól",
+        "link": "https://telex.hu/sport/2026/11/05/cristiano-ronaldo-bejelentette-hogy-visszavonult-a-portugal-valogatottol"
+      },
+      {
+        "source": "444.hu",
+        "title": "Cristiano Ronaldo visszavonul a portugál valogatottságtól",
+        "link": "https://444.hu/2026/11/05/cristiano-ronaldo-visszavonul-a-portugal-valogatottsagtol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Cristiano Ronaldo levelét megírta, a búcsúvideós baki találgatásokra ad okot",
+        "link": "https://magyarnemzet.hu/sport/2026/11/cristiano-ronaldo-visszavonul-portugal-7-mez-figo-jesus?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793875981,
+    "title_hu": "Cristiano Ronaldo befejezi szereplését a portugál válogatottban",
+    "lead_hu": "Cristiano Ronaldo közösségi oldalán jelentette be, hogy 23 év után többé nem lép pályára a portugál válogatottban. Az ötszörös aranylabdás támadó 234 mérkőzésen 146 gólt szerzett a nemzeti csapatban.",
+    "content_hu": "• **A bejelentés** Ronaldo egy Instagram-videóban közölte, hogy visszaadja a hetes mezt a válogatottnak, és átadja a helyét a következő nemzedéknek.\n\n• **A búcsú indoklása** A játékos szerint nem volt könnyű döntés, de szívvel és ésszel is mérlegelte, hogy eljött az idő a távozásra.\n\n• **Válogatott mérleg** Ronaldo 234 alkalommal szerepelt Portugália színeiben, 146 gólt szerzett, és a csapattal Európa-bajnokságot nyert.",
+    "importance_score": 65.0
   },
   {
     "group_id": "group_6ac4aed4e9",
@@ -756,42 +802,6 @@
     "lead_hu": "Vasárnapról hétfőre virradó éjjel hackerek három, vérkészítményeket tároló hűtőraktár vezérléséhez fértek hozzá Franciaországban, és szélsőségesen magasra állították a hőmérsékleti, illetve leolvasztási küszöbértékeket. A riasztásoknak köszönhetően a készítmények nem károsodtak; az érintett készleteket másik telephelyre szállították.",
     "content_hu": "• **A készleteket átszállították:** az érintett vérkészítményeket másik telephelyre vitték, miután a szakemberek a riasztások alapján még időben beavatkoztak.\n\n• **Értesítették a hatóságokat:** az EFS tájékoztatta a francia nemzeti kiberbiztonsági ügynökséget és az egészségügyi minisztériumot, továbbá megerősítette a berendezések felügyeletét. A hatóságok vizsgálatot indítottak.\n\n• **Uniós egyeztetések indultak:** az Európai Bizottság szóvivője szerint az uniós ügynökségek sürgős tárgyalásokat folytatnak a tagállami hatóságokkal, és a hasonló incidensekre is fel kell készülni.\n\n• **Hibrid támadás lehetősége is felmerült:** egyes hatóságok és szakértők államilag támogatott támadásoktól tartanak, de az érintettség egyelőre nem bizonyított.",
     "importance_score": 58.0
-  },
-  {
-    "group_id": "group_820ec77ce7",
-    "fingerprint": "f75fab1d24cc28ec4bdcdb1c0a8a6d4a",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7242/72429/724291/72429173_5337497_3fa93a2111ac0dfb878e5e6120a64a2e_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Visszavonult a portugál válogatottól Cristiano Ronaldo",
-        "link": "https://index.hu/sport/futball/2026/11/05/cristiano-ronaldo-portugal-valogatott-visszavonulas/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Hivatalos: Cristiano Ronaldo visszavonult a válogatottól",
-        "link": "https://24.hu/sport/foci/2026/11/05/hivatalos-cristiano-ronaldo-visszavonult-a-valogatottol/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Cristiano Ronaldo bejelentette, hogy visszavonult a portugál válogatottól",
-        "link": "https://telex.hu/sport/2026/11/05/cristiano-ronaldo-bejelentette-hogy-visszavonult-a-portugal-valogatottol"
-      },
-      {
-        "source": "444.hu",
-        "title": "Cristiano Ronaldo visszavonul a portugál valogatottságtól",
-        "link": "https://444.hu/2026/11/05/cristiano-ronaldo-visszavonul-a-portugal-valogatottsagtol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793875981,
-    "title_hu": "Cristiano Ronaldo befejezi szereplését a portugál válogatottban",
-    "lead_hu": "Cristiano Ronaldo közösségi oldalán jelentette be, hogy 23 év után többé nem lép pályára a portugál válogatottban. Az ötszörös aranylabdás támadó 234 mérkőzésen 146 gólt szerzett a nemzeti csapatban.",
-    "content_hu": "• **A bejelentés** Ronaldo egy Instagram-videóban közölte, hogy visszaadja a hetes mezt a válogatottnak, és átadja a helyét a következő nemzedéknek.\n\n• **A búcsú indoklása** A játékos szerint nem volt könnyű döntés, de szívvel és ésszel is mérlegelte, hogy eljött az idő a távozásra.\n\n• **Válogatott mérleg** Ronaldo 234 alkalommal szerepelt Portugália színeiben, 146 gólt szerzett, és a csapattal Európa-bajnokságot nyert.",
-    "importance_score": 55.0
   },
   {
     "group_id": "group_5c8b4cb013",
@@ -1680,6 +1690,30 @@
     "importance_score": 38.0
   },
   {
+    "group_id": "group_aaed98dfe3",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/v/a/r/varga-mihaly-mnb-elnok-jegybankelnok-742035.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Hamarosan megszólal Matolcsy György ügyvédje és Varga Mihály az MNB-botrányról",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/hamarosan-megszolal-matolcsy-gyorgy-ugyvedje-es-varga-mihaly-az-mnb-botranyrol-874454"
+      },
+      {
+        "source": "ATV",
+        "title": "Varga Mihályt hallgatja meg az MNB Működésével Kapcsolatos Visszaéléseit Feltáró Vizsgálóbizottság – Nézze itt élőben",
+        "link": "https://www.atv.hu/belfold/20261105/varga-mihaly-mnb-meghallgatas/"
+      }
+    ],
+    "published_at": 1793878200,
+    "title_hu": "Hamarosan megszólal Matolcsy György ügyvédje és Varga Mihály az MNB-botrányról",
+    "lead_hu": "Csütörtök délután tartja következő ülését az MNB Működésével Kapcsolatos Visszaéléseit Feltáró Vizsgálóbizottság a parlamentben. A testület még a letartóztatása előtt beidézte Matolcsy György korábbi ...",
+    "content_hu": "Csütörtök délután tartja következő ülését az MNB Működésével Kapcsolatos Visszaéléseit Feltáró Vizsgálóbizottság a parlamentben. A testület még a letartóztatása előtt beidézte Matolcsy György korábbi jegybankelnököt és Varga Mihályt, az MNB jelenlegi vezetőjét. Az előzetes letartóztatásban lévő Matolcsyt ma biztos nem hallgatja meg a bizottság, a védője viszont a hírek szerint beszámol az álláspontjáról, második napirendi pontként pedig Varga Mihály személyesen beszél a képviselők előtt.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_4112183747",
     "category": "Bulvár",
     "image": "https://femina.hu/neon/media/images/GettyImages-225716980_5ho8EWv.2e16d0ba.format-jpeg.fill-1024x768.jpg",
@@ -1905,6 +1939,30 @@
     "title_hu": "Megérkezett az ősz eddigi leghidegebb reggele",
     "lead_hu": "Az ország nagy részén fagyott, a legalacsonyabb hőmérsékletet a Nógrád vármegyei Zabaron mérték. A következő napokban is lehetnek éjszakai fagyok, hajnalonként pedig többfelé köd képződhet.",
     "content_hu": "• **Zabarban –7,3 fokot mértek** az ősz eddigi leghidegebb reggelén.\n\n• **Az ország nagy részén fagypont alá süllyedt a hőmérséklet:** sokfelé 0 és –5 fok közötti értékeket regisztráltak, a fagyzugokban pedig –6, –7 fok is előfordult.\n\n• **A Dunántúlon több helyen köd alakult ki** a fagyos időben.\n\n• **A következő napokban is várhatók éjszakai fagyok.** A fagyzugokban ismét –5 fok alá süllyedhet a hőmérséklet; hajnalban pára és köd képződhet, amely a nyugati tájakon napközben is lassan oszolhat fel.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_32197ad2df",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793871328-temp-28de0fuprles9jmmadb_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Az ÁBTL főigazgatója szerint Lezsák Sándor mellett több ezren lehetnek még, akik megfigyeltként szerepelnek a mágnesszalagokon",
+        "link": "https://telex.hu/ugynokaktak/2026/11/05/abtl-foigazgato-reakcio-lezsak-sandor-informatikai-hiba"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "ÁBTL-főigazgató: több ezren nem ügynökként, hanem megfigyeltként szerepelhetnek a mágnesszalagokon",
+        "link": "https://24.hu/belfold/2026/11/05/abtl-lezsak-ugynokaktak-hiba/"
+      }
+    ],
+    "published_at": 1793872171,
+    "title_hu": "Az ÁBTL főigazgatója szerint Lezsák Sándor mellett több ezren lehetnek még, akik megfigyeltként szerepelnek a mágnesszalagokon",
+    "lead_hu": "Cseh Gergő Bendegúz azt mondta, arról most folyik vizsgálat, hogy a több ezer névből mennyi került fel az adatbázisba....",
+    "content_hu": "Cseh Gergő Bendegúz azt mondta, arról most folyik vizsgálat, hogy a több ezer névből mennyi került fel az adatbázisba.",
     "importance_score": 35.0
   },
   {
@@ -3507,6 +3565,25 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_34525f3d60",
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HWSW",
+        "title": "Intel-szindrómában szenved a Qualcomm",
+        "link": "https://www.hwsw.hu/hirek/71174/qualcom-negyedeves-jelentes-okostelefon-piac-adatkozopont-cpu-soc.html"
+      }
+    ],
+    "published_at": 1793878883,
+    "title_hu": "Intel-szindrómában szenved a Qualcomm",
+    "lead_hu": "A kilábalási terv is ugyanaz: az okostelefon-piacból élő cég próbál az adatközpontok felé húzni....",
+    "content_hu": "A kilábalási terv is ugyanaz: az okostelefon-piacból élő cég próbál az adatközpontok felé húzni.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_73ae3946cc",
     "category": "Bulvár",
     "image": "https://femina.hu/neon/media/images/shanetusup.2e16d0ba.format-jpeg.fill-1024x768.jpg",
@@ -3580,25 +3657,6 @@
     "title_hu": "Közel 150 millió forint közpénzből repült Szijjártó Péter Japánba és Azerbajdzsánba",
     "lead_hu": "A 2021-es útról szóló információkat két év pereskedés után szerezte meg az Átlátszó....",
     "content_hu": "A 2021-es útról szóló információkat két év pereskedés után szerezte meg az Átlátszó.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_aaed98dfe3",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/v/a/r/varga-mihaly-mnb-elnok-jegybankelnok-742035.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Hamarosan megszólal Matolcsy György ügyvédje és Varga Mihály az MNB-botrányról",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/hamarosan-megszolal-matolcsy-gyorgy-ugyvedje-es-varga-mihaly-az-mnb-botranyrol-874454"
-      }
-    ],
-    "published_at": 1793878200,
-    "title_hu": "Hamarosan megszólal Matolcsy György ügyvédje és Varga Mihály az MNB-botrányról",
-    "lead_hu": "Csütörtök délután tartja következő ülését az MNB Működésével Kapcsolatos Visszaéléseit Feltáró Vizsgálóbizottság a parlamentben. A testület még a letartóztatása előtt beidézte Matolcsy György korábbi ...",
-    "content_hu": "Csütörtök délután tartja következő ülését az MNB Működésével Kapcsolatos Visszaéléseit Feltáró Vizsgálóbizottság a parlamentben. A testület még a letartóztatása előtt beidézte Matolcsy György korábbi jegybankelnököt és Varga Mihályt, az MNB jelenlegi vezetőjét. Az előzetes letartóztatásban lévő Matolcsyt ma biztos nem hallgatja meg a bizottság, a védője viszont a hírek szerint beszámol az álláspontjáról, második napirendi pontként pedig Varga Mihály személyesen beszél a képviselők előtt.",
     "importance_score": 0.0
   },
   {
@@ -4777,25 +4835,6 @@
     "title_hu": "Az összes hírportált megelőzte olvasottságban nyitónapján az ügynökaktás oldal",
     "lead_hu": "Már az első napján csaknem 800 ezer felhasználója volt a nyitottaktak.hu oldalnak, amit 5,7 milliószor kattintottak le – megelőzve ezzel a legnagyobb hírportálokat is.",
     "content_hu": "Már az első napján csaknem 800 ezer felhasználója volt a nyitottaktak.hu oldalnak, amit 5,7 milliószor kattintottak le – megelőzve ezzel a legnagyobb hírportálokat is.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_32197ad2df",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793871328-temp-28de0fuprles9jmmadb_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Az ÁBTL főigazgatója szerint Lezsák Sándor mellett több ezren lehetnek még, akik megfigyeltként szerepelnek a mágnesszalagokon",
-        "link": "https://telex.hu/ugynokaktak/2026/11/05/abtl-foigazgato-reakcio-lezsak-sandor-informatikai-hiba"
-      }
-    ],
-    "published_at": 1793872171,
-    "title_hu": "Az ÁBTL főigazgatója szerint Lezsák Sándor mellett több ezren lehetnek még, akik megfigyeltként szerepelnek a mágnesszalagokon",
-    "lead_hu": "Cseh Gergő Bendegúz azt mondta, arról most folyik vizsgálat, hogy a több ezer névből mennyi került fel az adatbázisba....",
-    "content_hu": "Cseh Gergő Bendegúz azt mondta, arról most folyik vizsgálat, hogy a több ezer névből mennyi került fel az adatbázisba.",
     "importance_score": 0.0
   },
   {
@@ -14752,139 +14791,6 @@
     "title_hu": "Sokaknak ad, de így is sokan elégedetlenek lesznek a 2027-es költségvetéssel",
     "lead_hu": "A rászorulók valamelyest jobban járnak jövőre, mint az Orbán-kormány idején, a leggazdagabbak pedig – közkívánatra – fizetni fognak. Bár a 2027. évi költségvetés a jövedelempolitikában csak óvatos kor…",
     "content_hu": "A rászorulók valamelyest jobban járnak jövőre, mint az Orbán-kormány idején, a leggazdagabbak pedig – közkívánatra – fizetni fognak. Bár a 2027. évi költségvetés a jövedelempolitikában csak óvatos korrekciókat hajt végre, beterjesztése meglepően erős indulatokat váltott ki.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_7c5e8e2b5f",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/08/mvvuwdsG3f8oSa_HrUnesSPqnameAmQVx0bRZHYvq7g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U0NGUzZGQzZDZkNzQyYjQ4ODNkNTk2NTA4N2MwNzE4.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Ők jelenthetnek veszélyt Magyar Péterre – ezek az erőközpontok rajzolódnak ki a Tisza-kormányban",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/ok-jelenthetnek-veszelyt-magyar-peterre-ezek-az-erokozpontok-rajzolodnak-ki-a-tisza-kormanyban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793792460,
-    "title_hu": "Ők jelenthetnek veszélyt Magyar Péterre – ezek az erőközpontok rajzolódnak ki a Tisza-kormányban",
-    "lead_hu": "Ki az igazi erős ember a Tisza-kormányban?",
-    "content_hu": "Ki az igazi erős ember a Tisza-kormányban?",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_99c8c01c34",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/_/m/d-mtz20260903001-866814.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Iratokat foglaltak le a nyomozók a Külügyminisztériumban",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/iratokat-foglaltak-le-a-nyomozok-a-kulugyminiszteriumban-874212"
-      }
-    ],
-    "published_at": 1793792460,
-    "title_hu": "Iratokat foglaltak le a nyomozók a Külügyminisztériumban",
-    "lead_hu": "Újabb szakaszába lépett a koronavírus járvány alatti egészségügyi eszközbeszerzések miatt indult, többmilliárdos költségvetési csalás gyanújával zajló büntetőeljárás: a hatóságok a külügyi tárcánál fo…",
-    "content_hu": "Újabb szakaszába lépett a koronavírus járvány alatti egészségügyi eszközbeszerzések miatt indult, többmilliárdos költségvetési csalás gyanújával zajló büntetőeljárás: a hatóságok a külügyi tárcánál foglaltak le dokumentumokat – közölte Orbán Anita miniszterelnök-helyettes, külügyminiszter Facebook-bejegyzésében.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_42557c8f86",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Blikk",
-        "title": "Csiby Gergely megszólalt Dörner György leváltásáról: ez lesz az első feladata az Újszínházban",
-        "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/csiby-gergely-ujszinhaz-igazgatovaltas-csere/ermexln"
-      }
-    ],
-    "published_at": 1793792423,
-    "title_hu": "Csiby Gergely megszólalt Dörner György leváltásáról: ez lesz az első feladata az Újszínházban",
-    "lead_hu": "Csiby Gergelyt nevezték ki az Újszínház új igazgatójának, aki 2027. január 31-én veszi át a vezetést a jelenlegi igazgatótól, Dörner Györgytől. A színész tizenöt másik pályázót megelőzve nyerte el a p…",
-    "content_hu": "Csiby Gergelyt nevezték ki az Újszínház új igazgatójának, aki 2027. január 31-én veszi át a vezetést a jelenlegi igazgatótól, Dörner Györgytől. A színész tizenöt másik pályázót megelőzve nyerte el a posztot, és a döntést követően elsőként alkotótársait értesítette, akikkel közösen dolgozták ki a pályázatot. Csiby hangsúlyozta, hogy ez a siker közös eredmény, és név szerint is megemlítette csapatának tagjait.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_643e050209",
-    "category": "Belföld",
-    "image": "https://assets.telex.hu/images/20261104/1793783910-temp-o4uuqplkm1k08nkigmk_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Jellemzően 36 millió forintos hitellel keresik a Wekerle Pluszt a Bankmonitor adatai szerint",
-        "link": "https://telex.hu/nevertek/2026/11/04/wekerle-plusz-bankmonitor"
-      }
-    ],
-    "published_at": 1793792384,
-    "title_hu": "Jellemzően 36 millió forintos hitellel keresik a Wekerle Pluszt a Bankmonitor adatai szerint",
-    "lead_hu": "Az ingatlan értékéhez képest hasonló hitelaránnyal számolnak az érdeklődők a Wekerlénél, mint az Otthon Startnál, a becsült törlesztés viszont a jövedelmük nagyobb részét vinné el.",
-    "content_hu": "Az ingatlan értékéhez képest hasonló hitelaránnyal számolnak az érdeklődők a Wekerlénél, mint az Otthon Startnál, a becsült törlesztés viszont a jövedelmük nagyobb részét vinné el.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_91b8e0a320",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7241/72413/724133/72413391_00d626eb1ab68a951887119c2bcdfe5e_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "A KDNP korábbi alelnöke, Nógrádi László is szerepel az aktákban",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/a-kdnp-korabbi-alelnoke-nogradi-laszlo-is-szerepel-az-aktakban/"
-      }
-    ],
-    "published_at": 1793792340,
-    "title_hu": "A KDNP korábbi alelnöke, Nógrádi László is szerepel az aktákban",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a4ec5dab7e",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "A Külügyminisztériumban foglalt le bizonyítékokat a rendőrség a lélegeztetőgép-beszerzések ügyében",
-        "link": "https://444.hu/2026/11/04/a-kulugyminiszteriumban-foglalt-le-bizonyitekokat-a-rendorseg-a-lelegeztetogep-beszerzesek-ugyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793792311,
-    "title_hu": "A Külügyminisztériumban foglalt le bizonyítékokat a rendőrség a lélegeztetőgép-beszerzések ügyében",
-    "lead_hu": "Ezt Orbán Anita külügyminiszter üdvözli.",
-    "content_hu": "Ezt Orbán Anita külügyminiszter üdvözli.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_94464f1dd9",
-    "category": "Belföld",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Megszüntették az eljárást, majd visszahelyezték Szolnokra a katonanő által feljelentett ezredest",
-        "link": "https://magyarnarancs.hu/belpol/megszuntettek-az-eljarast-majd-visszahelyeztek-szolnokra-a-katonano-altal-feljelentett-ezredest-280518"
-      }
-    ],
-    "published_at": 1793792280,
-    "title_hu": "Megszüntették az eljárást, majd visszahelyezték Szolnokra a katonanő által feljelentett ezredest",
-    "lead_hu": "Évek óta húzódik annak a szolnoki jogász tisztnek az ügye, aki bepanaszolta, majd feljelentette egykori felettesét, amiért ő akarata ellenére közeledett hozzá. A nyár végén az ezredes ellen zajló bünt…",
-    "content_hu": "Évek óta húzódik annak a szolnoki jogász tisztnek az ügye, aki bepanaszolta, majd feljelentette egykori felettesét, amiért ő akarata ellenére közeledett hozzá. A nyár végén az ezredes ellen zajló büntetőügyet megszüntették, és november elsejével vissza is helyezték Szolnokra. A katonanő a Honvéd Vezérkartól és a Sándor-palotától sem kapott segítséget.",
     "importance_score": 0.0
   },
   {
