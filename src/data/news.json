@@ -1,5 +1,77 @@
 [
   {
+    "group_id": "group_a933241565",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7057/70575/705754/70575491_5206233_44635762055f828461e167bc43540128_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Tarr Zoltán lemondását és a nyitottaktak.hu leállítását követeli a Fidesz az informatikai hibát követően",
+        "link": "https://index.hu/belfold/2026/11/05/ugynokaktak-abtl-technikai-hiba-lezsak-sandor-boka-janos-fidesz-reakcio/"
+      }
+    ],
+    "published_at": 1793867880,
+    "title_hu": "Tarr Zoltán lemondását és a nyitottaktak.hu leállítását követeli a Fidesz az informatikai hibát követően",
+    "lead_hu": "Lezsák Sándor neve tévesen szerepel az adatbázisban....",
+    "content_hu": "Lezsák Sándor neve tévesen szerepel az adatbázisban."
+  },
+  {
+    "group_id": "group_b5a27cb145",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/i/m/g/img-0568-716852.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megbüntették az Auchant mert megtévesztette a vásárlókat",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/megbuntettek-az-auchant-mert-megtevesztette-a-vasarlokat-874418"
+      }
+    ],
+    "published_at": 1793867880,
+    "title_hu": "Megbüntették az Auchant mert megtévesztette a vásárlókat",
+    "lead_hu": "Közel 69 millió forintos bírságot szabott ki a Gazdasági Versenyhivatal (GVH) az Auchanra, miután a kiskereskedelmi lánc több kuponakciója során is megtévesztette a vásárlókat. A vállalat elismerte a ...",
+    "content_hu": "Közel 69 millió forintos bírságot szabott ki a Gazdasági Versenyhivatal (GVH) az Auchanra, miután a kiskereskedelmi lánc több kuponakciója során is megtévesztette a vásárlókat. A vállalat elismerte a jogsértést, és lemondott a jogorvoslat lehetőségéről - írta a Versenyhatóság."
+  },
+  {
+    "group_id": "group_35d7138564",
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HWSW",
+        "title": "Közel a kormánnyal kötött vállalásához a Telekom",
+        "link": "https://www.hwsw.hu/hirek/71172/magyar-telekom-kormany-megallapodas-5g-lefedettseg-gigabitkepes-vezetekes-halozat-mobilhalozat-fejlesztes.html"
+      }
+    ],
+    "published_at": 1793867786,
+    "title_hu": "Közel a kormánnyal kötött vállalásához a Telekom",
+    "lead_hu": "A piacvezető szolgáltatónál jelentősen nőtt az 5G-lefedettség és a gigabitképes igényhelyek száma....",
+    "content_hu": "A piacvezető szolgáltatónál jelentősen nőtt az 5G-lefedettség és a gigabitképes igényhelyek száma."
+  },
+  {
+    "group_id": "group_0fddf1e52a",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Szikora János rendezőt meglepte, hogy van róla egy beszervezési dosszié",
+        "link": "https://444.hu/2026/11/05/szikora-janos-rendezot-meglepte-hogy-van-rola-egy-beszervezesi-dosszie?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793867717,
+    "title_hu": "Szikora János rendezőt meglepte, hogy van róla egy beszervezési dosszié",
+    "lead_hu": "Azt állítja, nem írt alá és nem jelentett....",
+    "content_hu": "Azt állítja, nem írt alá és nem jelentett."
+  },
+  {
     "group_id": "group_6d0b279f17",
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/000_d6fd763-1-e1793867354512-1024x577.jpg",
@@ -554,7 +626,7 @@
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b11ee6d1-9662-4d14-8d0f-57a36a0f32f8.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "HVG - Itthon",
@@ -580,6 +652,11 @@
         "source": "Index - Címlap",
         "title": "Windisch László fellebbezett, hogy elmozdítsa Biró Ferencet az Integritás Hatóság éléről",
         "link": "https://index.hu/belfold/2026/11/05/windisch-laszlo-allami-szamvevoszek-biro-ferenc-integritas-hatosag-fellebezes/"
+      },
+      {
+        "source": "ATV",
+        "title": "Fellebbezett Windisch László, továbbra is leváltaná az Integritás Hatóság elnökét",
+        "link": "https://www.atv.hu/belfold/20261105/windisch-laszlo-integritas-hatosag/"
       }
     ],
     "published_at": 1793865000,
@@ -13998,222 +14075,6 @@
     "content_hu": "A Közlekedési és Beruházási Minisztérium államtitkára több oldalt is közzétett abból a szándéknyilatkozatból, amit 2022 augusztusában kötött az Orbán-kormány a kínai céggel."
   },
   {
-    "group_id": "group_8742994d4f",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/s5naPyzqlY_DoIVzbVyiGV8oAO4YPoAX8O_rxQJZv-E/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzViYWRhMGZlMzVjMjRiYWM4OGI1ZjcwZWMxYTUxZmI1.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Máris megvan Trump bukásának első áldozata: súlyos csapás érheti Elon Musk birodalmát",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/elon-musk-spacex-tesla-felidos-valasztasok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793781747,
-    "title_hu": "Máris megvan Trump bukásának első áldozata: súlyos csapás érheti Elon Musk birodalmát",
-    "lead_hu": "Esni kezdtek a Tesla és a SpaceX részvényei, miután az amerikai félidős választások első eredményei a demokraták győzelmét jelezték.",
-    "content_hu": "Esni kezdtek a Tesla és a SpaceX részvényei, miután az amerikai félidős választások első eredményei a demokraták győzelmét jelezték."
-  },
-  {
-    "group_id": "group_f35d44e342",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/6mDhGHce93KnPeJ_DcMjJRJ_iKDBhF4JfdwjOxPbqyM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YyYjJiM2ZmNjZmNjRiOTc5ZmUyZGI0MzdiNjk4N2Q4.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Demokrata előretörés az amerikai félidős választásokon",
-        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/felidos-valasztas-usa-trump-demokrata"
-      }
-    ],
-    "published_at": 1793781683,
-    "title_hu": "Demokrata előretörés az amerikai félidős választásokon",
-    "lead_hu": "Mártonfy Balázs, az NKE Amerikai Kutatóintézetének vezetője a Napindítóban.",
-    "content_hu": "Mártonfy Balázs, az NKE Amerikai Kutatóintézetének vezetője a Napindítóban."
-  },
-  {
-    "group_id": "group_135073ac34",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7030/70306/703064/70306453_5186915_d418ba9d2548157a92374a97d74c2c0b_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Belföld",
-        "title": "Nincs fordulat: már biztos, hogy rács mögött karácsonyozik Bús Balázs",
-        "link": "https://index.hu/belfold/2026/11/04/bus-balazs-letartoztatas-kecskemeti-torvenyszek-dontes-karacsony/"
-      }
-    ],
-    "published_at": 1793781660,
-    "title_hu": "Nincs fordulat: már biztos, hogy rács mögött karácsonyozik Bús Balázs",
-    "lead_hu": "A döntés végleges.",
-    "content_hu": "A döntés végleges."
-  },
-  {
-    "group_id": "group_1a55356a6f",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Nagy Ervin az ügynökaktákról: Lesznek a művészvilágban is olyanok, akikre nem gondoltunk",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/nagy-ervin-az-ugynokaktakrol-lesznek-a-muveszvilagban-is-olyanok-akikre-nem-gondoltunk/"
-      }
-    ],
-    "published_at": 1793781645,
-    "title_hu": "Nagy Ervin az ügynökaktákról: Lesznek a művészvilágban is olyanok, akikre nem gondoltunk",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_4bc1fae16f",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Nehéz lesz kiigazodni az akták rengetegében",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/nehez-lesz-kiigazodni-az-aktak-rengetegeben/"
-      }
-    ],
-    "published_at": 1793781642,
-    "title_hu": "Nehéz lesz kiigazodni az akták rengetegében",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_bd44e5fd9b",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Orbánék még azt is beígérték a CATL-nek, hogy a behozott ázsiai munkavállalókat is magyar közpénzből képzik",
-        "link": "https://444.hu/2026/11/04/orbanek-meg-azt-is-beigertek-a-catl-nek-hogy-a-behozott-azsiai-munkavallalokat-is-magyar-kozpenzbol-kepzik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793781640,
-    "title_hu": "Orbánék még azt is beígérték a CATL-nek, hogy a behozott ázsiai munkavállalókat is magyar közpénzből képzik",
-    "lead_hu": "Az Orbán-kormány mindent megígért a kínaiaknak, ami szem-szájnak ingere.",
-    "content_hu": "Az Orbán-kormány mindent megígért a kínaiaknak, ami szem-szájnak ingere."
-  },
-  {
-    "group_id": "group_6cbc6edf28",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Tarr Zoltán felkérésére külön szakértői testület alakult az akták feldolgozására",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/tarr-zoltan-felkeresere-kulon-szakertoi-testulet-alakult-az-aktak-feldolgozasara/"
-      }
-    ],
-    "published_at": 1793781639,
-    "title_hu": "Tarr Zoltán felkérésére külön szakértői testület alakult az akták feldolgozására",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_83f3588d84",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Elismerte ügynökmúltját Korniss Péter Kossuth-díjas fotográfus",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/elismerte-ugynokmultjat-korniss-peter-kossuth-dijas-fotografus/"
-      }
-    ],
-    "published_at": 1793781636,
-    "title_hu": "Elismerte ügynökmúltját Korniss Péter Kossuth-díjas fotográfus",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_c08c32dcc7",
-    "category": "Belföld",
-    "image": "https://kep.index.hu/1/0/7241/72411/724112/72411287_5336169_49191c8dfa7d0a5d7238e0cbf7c51ebe_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Belföld",
-        "title": "Megnyíltak az ügynökakták, megtaláltuk Karikó Katalin, Dévényi Tibor, Nógrádi György és Vágó István nevét is - Kövesse az ügynökakták megnyitását percről percre az Indexen!",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/"
-      }
-    ],
-    "published_at": 1793781600,
-    "title_hu": "Megnyíltak az ügynökakták, megtaláltuk Karikó Katalin, Dévényi Tibor, Nógrádi György és Vágó István nevét is - Kövesse az ügynökakták megnyitását percről percre az Indexen!",
-    "lead_hu": "Kövesse az ügynökakták megnyitását percről percre az Indexen!",
-    "content_hu": "Kövesse az ügynökakták megnyitását percről percre az Indexen!"
-  },
-  {
-    "group_id": "group_3295a8547c",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Már csak egyetlen államra vár Amerika",
-        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/mar-csak-egyetlen-allamra-var-amerika/"
-      }
-    ],
-    "published_at": 1793781596,
-    "title_hu": "Már csak egyetlen államra vár Amerika",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_8697114e13",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/m/a/g/magyar-nemzeti-bank-mnb-jegybank-742043.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Egyetlen ember mozgatta egy magyar részvény árfolyamát, súlyos bírságot szabott ki az MNB",
-        "link": "https://www.portfolio.hu/befektetes/20261104/egyetlen-ember-mozgatta-egy-magyar-reszveny-arfolyamat-sulyos-birsagot-szabott-ki-az-mnb-874154"
-      }
-    ],
-    "published_at": 1793781540,
-    "title_hu": "Egyetlen ember mozgatta egy magyar részvény árfolyamát, súlyos bírságot szabott ki az MNB",
-    "lead_hu": "A jegybank 60 millió forint piacfelügyeleti bírságot szabott ki egy magánszemélyre tiltott piaci manipulációt megvalósító tőkepiaci kereskedés miatt. Az érintett félrevezető, hamis jelzést adott a bef…",
-    "content_hu": "A jegybank 60 millió forint piacfelügyeleti bírságot szabott ki egy magánszemélyre tiltott piaci manipulációt megvalósító tőkepiaci kereskedés miatt. Az érintett félrevezető, hamis jelzést adott a befektetőknek az adott időszakban a BÉT Xtenden forgó VERTIKAL részvény valós piaci megítéléséről, keresletéről-kínálatáról. A vizsgált időszakban számos kereskedési napon a teljes kereskedési volumen fele-egésze hozzá kötődött."
-  },
-  {
-    "group_id": "group_10281a2c91",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7240/72403/724038/72403811_5335621_362bfc8013c1d2b54bb87e94bb289289_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Ha edzésterv a téma, túl optimista a ChatGPT Pista",
-        "link": "https://index.hu/techtud/2026/11/04/edzes-futas-chat-gpt-ai-teljesitmeny-google/"
-      }
-    ],
-    "published_at": 1793781480,
-    "title_hu": "Ha edzésterv a téma, túl optimista a ChatGPT Pista",
-    "lead_hu": "Ne bízzuk még rá a maratonunkat.",
-    "content_hu": "Ne bízzuk még rá a maratonunkat."
-  },
-  {
     "group_id": "group_3b18442487",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/07/D-cwnTL28Cx1CdBXSi_-B-Lu1XVBvmehqUT2PwD4ewo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBmMjRmY2ZjOTM2MjRiMmE4YWQwZjUyNjM5NjU5MjVk.jpg",
@@ -14721,59 +14582,5 @@
     "title_hu": "Európai rekordárakat fizetünk a netért és a telefonálásért – így faraghat komoly ezreket a havi számlájából",
     "lead_hu": "Évek óta csendben, mégis drasztikusan drágul a hazai távközlés: míg a vezetékes internet technológiája kiváló, a magyar mobilárak vásárlóerő-paritáson mérve az Európai Unió legdrágábbjai közé csúsztak…",
     "content_hu": "Évek óta csendben, mégis drasztikusan drágul a hazai távközlés: míg a vezetékes internet technológiája kiváló, a magyar mobilárak vásárlóerő-paritáson mérve az Európai Unió legdrágábbjai közé csúsztak vissza. A zsebünket húzó inflációkövető díjemelések és a gyengülő árverseny ellenére a fogyasztók nincsenek teljesen kiszolgáltatva. Tudatos lépésekkel havonta több ezer forint rezsi spórolható meg."
-  },
-  {
-    "group_id": "group_8123054788",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Orbán Viktor közzétette a róla szóló dokumentumokat, megfigyelték a 80-as években",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/orban-viktor-kozzetette-a-rola-szolo-dokumentumokat-megfigyeltek-a-80-as-evekben/"
-      }
-    ],
-    "published_at": 1793781633,
-    "title_hu": "Orbán Viktor közzétette a róla szóló dokumentumokat, megfigyelték a 80-as években",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_12abb8dc64",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Több tízezer akta zúdul ránk, bárki hozzáférhet",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/tobb-tizezer-akta-zudul-rank-barki-hozzaferhet/"
-      }
-    ],
-    "published_at": 1793781629,
-    "title_hu": "Több tízezer akta zúdul ránk, bárki hozzáférhet",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_c9bf8c19e1",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Köszöntjük kedves olvasóinkat, mutatjuk az ügynökaktákat!",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/koszontjuk-kedves-olvasoinkat-mutatjuk-az-ugynokaktakat-/"
-      }
-    ],
-    "published_at": 1793781620,
-    "title_hu": "Köszöntjük kedves olvasóinkat, mutatjuk az ügynökaktákat!",
-    "lead_hu": "",
-    "content_hu": ""
   }
 ]
