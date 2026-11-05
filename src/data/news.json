@@ -1,5 +1,77 @@
 [
   {
+    "group_id": "group_5e20567233",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793873170-temp-jaops0u6sqid2flojek_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Liptai Claudia 15 év után visszatér a TV2 reggeli műsorába",
+        "link": "https://telex.hu/after/2026/11/05/liptai-claudia-mokka-tv2"
+      }
+    ],
+    "published_at": 1793873586,
+    "title_hu": "Liptai Claudia 15 év után visszatér a TV2 reggeli műsorába",
+    "lead_hu": "Liptai mellett két új műsorvezetőt is bejelentett a csatorna....",
+    "content_hu": "Liptai mellett két új műsorvezetőt is bejelentett a csatorna."
+  },
+  {
+    "group_id": "group_570a9c6f6a",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-ab12875-e1793873436222-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Egyre ijesztőbb a helyzet: újabb nyugati műholdat támadhat meg Oroszország",
+        "link": "https://24.hu/tech/2026/11/05/oroszorszag-iceye-muhold-tamadas-szakerto/"
+      }
+    ],
+    "published_at": 1793873473,
+    "title_hu": "Egyre ijesztőbb a helyzet: újabb nyugati műholdat támadhat meg Oroszország",
+    "lead_hu": "Októberben alig pár száz méterre közelített meg egy orosz műhold egy nyugati szatellitet, most két másik orosz egység közeledik egy másik ICEYE-műholdhoz. The post Egyre ijesztőbb a helyzet: újabb nyu...",
+    "content_hu": "Októberben alig pár száz méterre közelített meg egy orosz műhold egy nyugati szatellitet, most két másik orosz egység közeledik egy másik ICEYE-műholdhoz. The post Egyre ijesztőbb a helyzet: újabb nyugati műholdat támadhat meg Oroszország first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_51dd8c0fea",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793872239-temp-o396fpfac5lv1dpfkgg_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "What exactly are the communist-era secret service files now opened in Hungary?",
+        "link": "https://telex.hu/english/2026/11/05/what-exactly-are-the-communist-era-secret-service-files-now-opened-in-hungary"
+      }
+    ],
+    "published_at": 1793873470,
+    "title_hu": "What exactly are the communist-era secret service files now opened in Hungary?",
+    "lead_hu": "Thirty-six years after the fall of communism, the documents commonly referred to as “agent files” have been made public in Hungary. Here's what they might reveal and what their disclosure means for th...",
+    "content_hu": "Thirty-six years after the fall of communism, the documents commonly referred to as “agent files” have been made public in Hungary. Here's what they might reveal and what their disclosure means for the country."
+  },
+  {
+    "group_id": "group_dd5875d332",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/07/IL0JYk0ZrdeMK_ZyKSb0f1CeqTSFP3QEX5dnjq08ZeE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1YjM1NGUzZDY2NzQzZWI5MWEwOWFhMzQ3ZmZjNmNl.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Nem akárki csalódott hatalmasat a Tisza kormányzásában",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/nem-akarki-csalodott-hatalmasat-a-tisza-kormanyzasaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793873325,
+    "title_hu": "Nem akárki csalódott hatalmasat a Tisza kormányzásában",
+    "lead_hu": "Az agrárbáró nagy összeggel támogatta Magyar Péteréket a választási kampányban....",
+    "content_hu": "Az agrárbáró nagy összeggel támogatta Magyar Péteréket a választási kampányban."
+  },
+  {
     "group_id": "group_01ff5dbd99",
     "category": "Bulvár",
     "image": "https://femina.hu/neon/media/images/GettyImages-228376412.2e16d0ba.format-jpeg.fill-1024x768.jpg",
@@ -538,7 +610,7 @@
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/31ed2d75-47aa-4ee7-9b4c-10d93dc2e8c7.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "HVG - Gazdaság",
@@ -554,6 +626,11 @@
         "source": "Portfolio - Gazdaság",
         "title": "Megszületett a döntés: nem engedik ki Matolcsy Györgyöt, bizonyítékok eltüntetésének veszélyére hivatkozott a bíróság",
         "link": "https://www.portfolio.hu/gazdasag/20261105/megszuletett-a-dontes-nem-engedik-ki-matolcsy-gyorgyot-bizonyitekok-eltuntetesenek-veszelyere-hivatkozott-a-birosag-874440"
+      },
+      {
+        "source": "ATV",
+        "title": "Elutasították a fellebbezését, letartóztatásban marad Matolcsy György",
+        "link": "https://www.atv.hu/belfold/20261105/letartoztatas-matolcsy-gyorgy/"
       }
     ],
     "published_at": 1793871528,
@@ -644,6 +721,24 @@
     "title_hu": "5 szülőktől tanult viselkedésminta, amely felnőttként is észrevétlenül irányíthat",
     "lead_hu": "Felnőttként sokszor észre sem vesszük, mennyire meghatározzák döntéseinket a szülőktől tanult viselkedésminták. A konfliktuskezelés, a megfelelési kényszer vagy az érzelmek elfojtása mögött gyakran gy…",
     "content_hu": "Felnőttként sokszor észre sem vesszük, mennyire meghatározzák döntéseinket a szülőktől tanult viselkedésminták. A konfliktuskezelés, a megfelelési kényszer vagy az érzelmek elfojtása mögött gyakran gyerekkori tapasztalatok állnak. Vajon felismerhetjük és megváltoztathatjuk ezeket a berögzült mintákat, mielőtt továbbadnánk őket? The post 5 szülőktől tanult viselkedésminta, amely felnőttként is észrevétlenül irányíthat first appeared on nlc."
+  },
+  {
+    "group_id": "group_bed7e2da40",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/f/e/r/ferto-to-magyarorszag-629637.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Veszélyben a Fertő tó, rekordalacsony a vízszint",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/veszelyben-a-ferto-to-rekordalacsony-a-vizszint-874436"
+      }
+    ],
+    "published_at": 1793871180,
+    "title_hu": "Veszélyben a Fertő tó, rekordalacsony a vízszint",
+    "lead_hu": "Soha nem volt még ilyen alacsony a Fertő tó vízszintje az 1965-ben kezdődött folyamatos mérések óta, csütörtökön ugyanis mindössze 114,891 métert mértek az Adriai-tenger szintje felett. Ez egy centimé…",
+    "content_hu": "Soha nem volt még ilyen alacsony a Fertő tó vízszintje az 1965-ben kezdődött folyamatos mérések óta, csütörtökön ugyanis mindössze 114,891 métert mértek az Adriai-tenger szintje felett. Ez egy centiméterrel marad el a 2022-es korábbi rekordtól. A vízállás mintegy 40 centiméterrel alacsonyabb, mint egy évvel korábban, a hosszú távú átlagnál pedig fél méterrel alacsonyabb."
   },
   {
     "group_id": "group_4d635d2f55",
@@ -1383,7 +1478,7 @@
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 11,
+    "sources_count": 13,
     "sources": [
       {
         "source": "HVG - Itthon",
@@ -1439,6 +1534,16 @@
         "source": "Portfolio - Gazdaság",
         "title": "Bocsánatot kért Magyar Péter",
         "link": "https://www.portfolio.hu/gazdasag/20261105/bocsanatot-kert-magyar-peter-874448"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Magyar Péter bocsánatot kért Lezsák Sándortól, amiért bekerült a neve a hálózati személyek nyilvántartásába",
+        "link": "https://telex.hu/ugynokaktak/2026/11/05/magyar-peter-bocsanatkeres-lezsak-sandor-megfigyelt-magnesszalag"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Magyar Péter bocsánatot kért Lezsák Sándortól",
+        "link": "https://hvg.hu/itthon/20261105_magyar-peter-bocsanatkeres-lezsak-sandor-ugynokaktak"
       }
     ],
     "published_at": 1793868991,
@@ -2074,6 +2179,24 @@
     "title_hu": "Rakétaként lőtt ki a 4iG árfolyama, a forint még erőt gyűjt a további meneteléshez",
     "lead_hu": "Emelkedéssel indított a pesti tőzsde, a Magyar Telekom jelentésére visszafogottan reagáltak a befektetők.",
     "content_hu": "Emelkedéssel indított a pesti tőzsde, a Magyar Telekom jelentésére visszafogottan reagáltak a befektetők."
+  },
+  {
+    "group_id": "group_3edcea8114",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Ügynökakták: az áldozatokat mocskolják, nem a bűnösöket",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/ugynokaktak-az-aldozatokat-mocskoljak-nem-a-bunosoket"
+      }
+    ],
+    "published_at": 1793866260,
+    "title_hu": "Ügynökakták: az áldozatokat mocskolják, nem a bűnösöket",
+    "lead_hu": "“Technikai hiba” miatt rágalmazta a rendszerváltó Lezsákot Rovar és Ruff! Ennyit az igazságról!...",
+    "content_hu": "“Technikai hiba” miatt rágalmazta a rendszerváltó Lezsákot Rovar és Ruff! Ennyit az igazságról!"
   },
   {
     "group_id": "group_3ad076de78",
@@ -7856,12 +7979,17 @@
     "category": "Általános",
     "image": "https://cdn.hirtv.hu/2026/11/8ftwn8SZdjWxO1cC61HX-q-KZE5f2MlftVO4eByz51Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc3ZTUyMjNkMzU2NzQwMDhiMzU5Zjc3MmMzNTc5ODNm.webp",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Hír TV",
         "title": "Andor Éva új podcastja az Origón: kiderült az első vendég neve is",
         "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/andor-eva-negyszemkozt-podcast-origo"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Az Origónál folytatja a Tények egykori műsorvezetője, Andor Éva",
+        "link": "https://24.hu/elet-stilus/2026/11/05/andor-eva-tenyek-origo-interjumusor/"
       }
     ],
     "published_at": 1793811950,
@@ -14149,96 +14277,6 @@
     "content_hu": "A humorista nem büszke arra, ahogyan egykori feleségével, Malaak Compton-Rockkal bánt, és ma már egészen másként látja a házasságuk éveit. Chris Rock egy friss interjúban arról is beszélt, hogyan jutott el a terápiáig, és miért tartja fontosnak, hogy szembenézzen a korábbi hibáival."
   },
   {
-    "group_id": "group_6125e8ddd2",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Blikk",
-        "title": "Egy kellemetlen kérdéssel tették próbára a mesterséges intelligenciát: ki vezet jobban, egy ember vagy egy önvezető autó?",
-        "link": "https://www.blikk.hu/auto/onvezeto-autok-biztonsag-emberi-soforok/ketprgg"
-      }
-    ],
-    "published_at": 1793787300,
-    "title_hu": "Egy kellemetlen kérdéssel tették próbára a mesterséges intelligenciát: ki vezet jobban, egy ember vagy egy önvezető autó?",
-    "lead_hu": "Egyre több önvezető autó jelenik meg az utakon, a technológia fejlődésével pedig egyre gyakrabban merül fel a kérdés: vajon egy mesterséges intelligencia által irányított jármű biztonságosabban közlek…",
-    "content_hu": "Egyre több önvezető autó jelenik meg az utakon, a technológia fejlődésével pedig egyre gyakrabban merül fel a kérdés: vajon egy mesterséges intelligencia által irányított jármű biztonságosabban közlekedik, mint egy hús-vér sofőr? A válasz nem is olyan egyértelmű, mint elsőre gondolnánk, bizonyos helyzetekben ugyanis már a gépek kerülnek előnybe."
-  },
-  {
-    "group_id": "group_696e869f4e",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7241/72412/724123/72412385_158cdde0d427624ad74eb90d5fd3005e_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Martonyi János, az első két Orbán-kormány külügyminiszterének neve is szerepel az aktákban",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/martonyi-janos-az-elso-ket-orban-kormany-kulugyminisztere-valoban-ugynok-volt/"
-      }
-    ],
-    "published_at": 1793787255,
-    "title_hu": "Martonyi János, az első két Orbán-kormány külügyminiszterének neve is szerepel az aktákban",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_5be935802f",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7241/72412/724124/72412409_5336253_55074cba7f240d0c9d922aedada0d748_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Sport",
-        "title": "A kanadai miniszterelnök nem engedi az orosz jégkorong-válogatott részvételét a junior-vb-n",
-        "link": "https://index.hu/sport/jegkorong/2026/11/04/orosz-jegkorong-valogatott-junior-vilagbajnoksag-kanadai-miniszterelnok/"
-      }
-    ],
-    "published_at": 1793787180,
-    "title_hu": "A kanadai miniszterelnök nem engedi az orosz jégkorong-válogatott részvételét a junior-vb-n",
-    "lead_hu": "„Oroszország borzalmas, illegális, igazságtalan háborút szolgál.”",
-    "content_hu": "„Oroszország borzalmas, illegális, igazságtalan háborút szolgál.”"
-  },
-  {
-    "group_id": "group_c9a8075fcd",
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/W1pEZU358PQ",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Megszületett a döntés az új tankerületi igazgatókról, de sorra érkeznek a kritikák a kormány felé",
-        "link": "https://www.atv.hu/belfold/20261104/tankerulet-igazgatok-kritika-kormany/"
-      }
-    ],
-    "published_at": 1793787060,
-    "title_hu": "Megszületett a döntés az új tankerületi igazgatókról, de sorra érkeznek a kritikák a kormány felé",
-    "lead_hu": "Nyilvánosságra hozták az új tankerületi igazgatók névsorát, ám a kiválasztási eljárás máris vitákat váltott ki. A pedagógus-szakszervezetek és a Tanítanék Mozgalom szerint a pályáztatás elkapkodott és…",
-    "content_hu": "Nyilvánosságra hozták az új tankerületi igazgatók névsorát, ám a kiválasztási eljárás máris vitákat váltott ki. A pedagógus-szakszervezetek és a Tanítanék Mozgalom szerint a pályáztatás elkapkodott és nem volt kellően átlátható. A 60 tankerületi központból 55 élére érkezik új vezető, akik november 5-én kezdik meg a munkát."
-  },
-  {
-    "group_id": "group_00b92a7cdd",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7241/72412/724123/72412355_7bdb03a77098b482ccb34094e41ee7be_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Szita Károly neve is szerepel az aktákban",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/szita-karoly-kilenc-even-at-volt-iii-ii-es-ugynok/"
-      }
-    ],
-    "published_at": 1793787016,
-    "title_hu": "Szita Károly neve is szerepel az aktákban",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
     "group_id": "group_b5a27cb145",
     "fingerprint": "30a59a3a6d614164b6262d2e3050faae",
     "category": "Gazdaság",
@@ -14267,24 +14305,6 @@
     "title_hu": "Közel 69 millió forintra bírságolta a GVH az Auchant kuponakciói miatt",
     "lead_hu": "A Gazdasági Versenyhivatal 68,9 millió forintos bírságot szabott ki az Auchanra, mert a vállalat kuponakcióinak reklámjai nem közölték megfelelően a kedvezmények feltételeit. A kifogásolt akciókat 2024 áprilisa és 2025 februárja között hirdették meg.",
     "content_hu": "• **A bírság oka** A GVH szerint az Auchan nem tájékoztatta megfelelően a vásárlókat a kuponok megszerzésének és felhasználásának feltételeiről.\n\n• **Elhallgatott részletek** A reklámokból nem derült ki egyértelműen, hogy a kedvezményekhez meghatározott összegű vásárlás és aktív Bizalomkártya kellett, továbbá az üzlettípustól és a kupontól függő eltérésekről sem adtak teljes tájékoztatást.\n\n• **Enyhítő körülmények** A bírság összegének meghatározásakor a GVH figyelembe vette, hogy a vállalat elismerte a jogsértést, együttműködött és lemondott a jogorvoslatról."
-  },
-  {
-    "group_id": "group_bed7e2da40",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/f/e/r/ferto-to-magyarorszag-629637.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Veszélyben a Fertő tó, rekordalacsony a vízszint",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/veszelyben-a-ferto-to-rekordalacsony-a-vizszint-874436"
-      }
-    ],
-    "published_at": 1793871180,
-    "title_hu": "Veszélyben a Fertő tó, rekordalacsony a vízszint",
-    "lead_hu": "Soha nem volt még ilyen alacsony a Fertő tó vízszintje az 1965-ben kezdődött folyamatos mérések óta, csütörtökön ugyanis mindössze 114,891 métert mértek az Adriai-tenger szintje felett. Ez egy centimé…",
-    "content_hu": "Soha nem volt még ilyen alacsony a Fertő tó vízszintje az 1965-ben kezdődött folyamatos mérések óta, csütörtökön ugyanis mindössze 114,891 métert mértek az Adriai-tenger szintje felett. Ez egy centiméterrel marad el a 2022-es korábbi rekordtól. A vízállás mintegy 40 centiméterrel alacsonyabb, mint egy évvel korábban, a hosszú távú átlagnál pedig fél méterrel alacsonyabb."
   },
   {
     "group_id": "group_3b18442487",
@@ -14339,6 +14359,24 @@
     "title_hu": "Dőlnek a csontvázak: lefoglalták Nagy Ervin céges részesedését két nappal a kinevezése előtt",
     "lead_hu": "Az Ellenpólus rámutatott, hogy a Szín-Acél Általános Szolgáltató Bt. az elmúlt közel két évtizedben többször is csődközelbe került.",
     "content_hu": "Az Ellenpólus rámutatott, hogy a Szín-Acél Általános Szolgáltató Bt. az elmúlt közel két évtizedben többször is csődközelbe került."
+  },
+  {
+    "group_id": "group_df0c83d42a",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Hazatérés Napja megemlékezést szervez a Igazságot Magyarországnak Szövetség",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/hazateres-napja-megemlekezest-szervez-a-igazsagot-magyarorszagnak-szovetseg"
+      }
+    ],
+    "published_at": 1793836800,
+    "title_hu": "Hazatérés Napja megemlékezést szervez a Igazságot Magyarországnak Szövetség",
+    "lead_hu": "Az est során bemutatják Skultéti Péter Láthatatlan háború című filmjét is....",
+    "content_hu": "Az est során bemutatják Skultéti Péter Láthatatlan háború című filmjét is."
   },
   {
     "group_id": "group_8640a04236",
