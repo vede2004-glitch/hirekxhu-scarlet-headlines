@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_92192120a9",
-    "category": "Belföld",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Belföld",
-        "title": "Közpénzből kampányolhatott a Szerb Haladó Párt több településvezetője",
-        "link": "https://index.hu/belfold/2026/11/04/szerb-halado-part-szerbia-valasztas/",
-        "image": "https://kep.index.hu/1/0/7241/72412/724124/72412445_5336257_eddb5c53a6cd17121234ec9bd92a15da_wm.jpg",
-        "summary": "A hatóság figyelmeztetésben részesítette az érintetteket.",
-        "category": "Belföld",
-        "published_at": 1793786700
-      }
-    ]
-  },
-  {
     "group_id": "group_fdbd10bb72",
     "category": "Belföld",
     "articles_count": 6,
@@ -170,7 +154,7 @@
   {
     "group_id": "group_08f1039cab",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "444.hu",
@@ -180,15 +164,6 @@
         "summary": "Békétlenséget szít a helyzet a Fidesz frakcióvezetője szerint.",
         "category": "Politika",
         "published_at": 1793788084
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Bóka János szerint újabb \"politikai cirkusz\" az ügynökakták megnyitása",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/boka-janos-szerint-ujabb-politikai-cirkusz-az-ugynokaktak-megnyitasa",
-        "image": "",
-        "summary": "“A több tízezer, összefüggéseiből kiragadott dokumentum minden elemzés nélküli nyilvánosságra hozatala nem visz közelebb a múltunk megismeréséhez és feldolgozásához\" - fogalmazott a frakcióvezető.",
-        "category": "Belföld",
-        "published_at": 1793786520
       }
     ]
   },
@@ -443,22 +418,6 @@
     ]
   },
   {
-    "group_id": "group_b3e689e5b1",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Mi történt októberben a költségvetésben?",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/mi-tortent-oktoberben-a-koltsegvetesben-874190",
-        "image": "https://pcdn.hu/articles/images-xl/d/e/f/deficit-penzugyminiszterium-koltsegvetes-magyar-koltsegvetes-allamhaztartasi-hiany-kol-866772.jpg",
-        "summary": "200 milliárd forintos mínusszal zárt a költségvetés októberben, ami az elmúlt évek egyik legjobb egyenlegadata.",
-        "category": "Gazdaság",
-        "published_at": 1793786640
-      }
-    ]
-  },
-  {
     "group_id": "group_b50206946f",
     "category": "Gazdaság",
     "articles_count": 3,
@@ -607,49 +566,6 @@
     ]
   },
   {
-    "group_id": "group_47f7dbb186",
-    "category": "Tech",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "HWSW",
-        "title": "Kitartóan sokkoló az utángyártott töltők helyzete",
-        "link": "https://www.hwsw.hu/hirek/71169/tolto-utangyartott-usb-szabvany-vizsgalat-nkfh-labor-forgalombol-kivonas.html",
-        "image": "",
-        "summary": "Az NKFH idén 186 USB-s töltőt vizsgált meg, melyből 156 nem teljesítette a szabvány követelményeit.",
-        "category": "Tech",
-        "published_at": 1793786681
-      },
-      {
-        "source": "Femina",
-        "title": "186 USB-töltőből csak 30 biztonságos: aggasztó eredménnyel zárult a friss vizsgálat",
-        "link": "https://femina.hu/egeszseg/186-usb-toltobol-csak-30-biztonsagos-aggaszto-eredmennyel-zarult-a-friss-vizsgalat/",
-        "image": "https://femina.hu/neon/media/images/usb_tolto.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Nagyon sok a nem biztonságos töltő!",
-        "category": "Bulvár",
-        "published_at": 1793792100
-      },
-      {
-        "source": "Rakéta.hu",
-        "title": "Lesújtó eredményt mutat egy új vizsgálat: életveszélyes lehet sok töltő, melyeket nap mint nap használunk",
-        "link": "https://raketa.hu/nkfh-usb-toltok-biztonsagossag-2026-bevizsgalas/",
-        "image": "https://raketa.hu/uploads/2026/11/tolto.jpg",
-        "summary": "A boltokban kapható USB-töltők jelentős része komoly biztonsági kockázatot rejthet: a magyar fogyasztóvédelem 186 megvizsgált termékből mindössze 30-at talált megfelelőnek. A problémás készülékek között olyanok is akadtak, amelyek használata akár áramütésveszélyt jelent.",
-        "category": "Kultúra",
-        "published_at": 1793801389
-      },
-      {
-        "source": "ATV",
-        "title": "Baj van az USB-töltőkkel: rengeteg veszélyes típust találtak, megkezdődtek a kivonások",
-        "link": "https://www.atv.hu/belfold/20261105/usb-tolto-vizsgalat-veszely/",
-        "image": "",
-        "summary": "Kimondottan aggasztó eredményeket közölt a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság az USB-töltőkről.",
-        "category": "Általános",
-        "published_at": 1793853300
-      }
-    ]
-  },
-  {
     "group_id": "group_5955f0d19d",
     "category": "Tech",
     "articles_count": 1,
@@ -662,49 +578,6 @@
         "summary": "AI-alapú funkciót kap a Netflix, amellyel akár a hangulata alapján is kereshet filmeket és sorozatokat.",
         "category": "Tech",
         "published_at": 1793790180
-      }
-    ]
-  },
-  {
-    "group_id": "group_6eaf4f0433",
-    "category": "Tech",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Bemondta Kína: 2030-ban embert küldene a Holdra",
-        "link": "https://hvg.hu/tudomany/20261104_kina-holdra-szallas-urkutatas-urverseny",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/94b80f10-6bac-4a76-a11f-c3568175f2d6.jpg",
-        "summary": "Tovább fokozódik az űrverseny az Egyesült Államok és Kína között. Utóbbi eddig csak homályos időpontokat közölt a Holddal kapcsolatos terveiről, most azonban egy konkrét menetrendet jelentett be.",
-        "category": "Tech",
-        "published_at": 1793786580
-      },
-      {
-        "source": "444.hu",
-        "title": "Kína négy éven belül űrhajósokat tervez a Holdra küldeni",
-        "link": "https://444.hu/2026/11/04/kina-negy-even-belul-urhajosokat-tervez-a-holdra-kuldeni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "2028-ban már elpróbálják a dolgot, de még emberek nélkül.",
-        "category": "Belföld",
-        "published_at": 1793791496
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Már 2030 előtt holdra szállhatnak az első kínaiak",
-        "link": "https://24.hu/tech/2026/11/04/kinai-holdra-szallas-2030-elott/",
-        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1415467685-1024x576.jpg",
-        "summary": "Hihetetlenül szoros verseny alakulhat ki Kína és az Egyesült Államok között, miután a kínai holdra szállás tervezett dátuma az eddigi 2030-asnál is közelebb került. The post Már 2030 előtt holdra szállhatnak az első kínaiak first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1793803603
-      },
-      {
-        "source": "PC World",
-        "title": "Kína még 2030 előtt embereket küld a Holdra",
-        "link": "https://www.pcwplus.hu/pcwlite/kina-meg-2030-elott-embereket-kuld-a-holdra-2030-390447.html",
-        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2505/25/kina_hold_212941_1_original_390x220_cover.jpg",
-        "summary": "Három kínai űrhajós mehet az ország első emberekkel induló holdküldetésére, de közülük csak ketten lépnének a felszínre.",
-        "category": "Politika",
-        "published_at": 1793857724
       }
     ]
   },
@@ -919,38 +792,6 @@
     ]
   },
   {
-    "group_id": "group_1093020361",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Blikk",
-        "title": "Nem csitul a Szoboszlai sérülése körüli vita: Marco Rossi visszaszólt a liverpooliaknak",
-        "link": "https://www.blikk.hu/sport/magyar-foci/marco-rossi-szoboszlai-dominik-serules/81n85gl",
-        "image": "",
-        "summary": "Marco Rossi Szoboszlai Dominik sérüléséről is beszélt a magyar labdarúgó-válogatott kerethirdetése után. A szövetségi kapitány szerint a nem a nemzeti csapatnál kapott terhelés okozta a bajt. Úgy véli, most már száz százalékos a csapatkapitány.",
-        "category": "Bulvár",
-        "published_at": 1793786739
-      }
-    ]
-  },
-  {
-    "group_id": "group_e1c7548425",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Blikk",
-        "title": "\"Kikérem magamnak!\" – Kínos bakit vétetett Vitályos Eszter a parlamentben, még saját magán is nevetett",
-        "link": "https://www.blikk.hu/politika/magyar-politika/vitalyos-eszter-novak-elod-baki-nevetes-tisza-mihazank/5eyxb5v",
-        "image": "",
-        "summary": "A parlamentben ülést vezető fideszes Vitályos Eszter szokatlan bakit követett el, amikor szót adott a Mi Hazánk Mozgalom képviselőjének, Novák Elődnek: véletlenül a Tisza Párt képviselőjeként konferálta fel. Az elszólás azonnal derültséget és nevetést váltott ki a képviselőkből. Vitályos rögtön észrevette a tévedését, majd korrigált.",
-        "category": "Bulvár",
-        "published_at": 1793786647
-      }
-    ]
-  },
-  {
     "group_id": "group_6fe308c0ac",
     "category": "Bulvár",
     "articles_count": 1,
@@ -1008,22 +849,6 @@
     ]
   },
   {
-    "group_id": "group_c90bd4db00",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Sarah Michelle Gellar és Freddi Prinze Jr. ritkán látott lánya természetes szépség: Charlotte már 17 éves",
-        "link": "https://femina.hu/vilagsztar/sarah-michelle-gellar-freddie-prinze-jr-lanya-charlotte-17-eves/",
-        "image": "https://femina.hu/neon/media/images/Sarah_Michelle_Gellar_ie2aQgg.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Sarah Michelle Gellar és Freddi Prinze Jr. 17 éves lánya ragyog a legfrissebb fotón édesanyja oldalán.",
-        "category": "Bulvár",
-        "published_at": 1793786700
-      }
-    ]
-  },
-  {
     "group_id": "group_7eae683515",
     "category": "Bulvár",
     "articles_count": 1,
@@ -1036,22 +861,6 @@
         "summary": "Kétszer is előfordult Udvaros Dorottyával, hogy egy színházi előadás elmaradt miatta. The post Udvaros Dorottya úgy érezte, megalázták: nem tudott színpadra lépni emiatt first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1793787960
-      }
-    ]
-  },
-  {
-    "group_id": "group_d6555630ac",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Így szabotálják a boldogságukat a csillagjegyek",
-        "link": "https://nlc.hu/horoszkop/20261104/igy-teszi-tonkre-a-sajat-boldogsagat-a-12-csillagjegy-es-eszre-sem-veszi/70jep25",
-        "image": "",
-        "summary": "Néha éppen a saját szokásaink akadályoznak meg bennünket abban, hogy igazán boldogok legyünk. A horoszkóp szerint minden csillagjegy másképp szabotálhatja önmagát – vajon te is ezt teszed? The post Így szabotálják a boldogságukat a csillagjegyek first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1793786580
       }
     ]
   },
@@ -1191,6 +1000,40 @@
         "summary": "Ezt Orbán Anita külügyminiszter üdvözli.",
         "category": "Politika",
         "published_at": 1793792311
+      }
+    ]
+  },
+  {
+    "group_id": "group_6eaf4f0433",
+    "category": "Belföld",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Kína négy éven belül űrhajósokat tervez a Holdra küldeni",
+        "link": "https://444.hu/2026/11/04/kina-negy-even-belul-urhajosokat-tervez-a-holdra-kuldeni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "2028-ban már elpróbálják a dolgot, de még emberek nélkül.",
+        "category": "Belföld",
+        "published_at": 1793791496
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Már 2030 előtt holdra szállhatnak az első kínaiak",
+        "link": "https://24.hu/tech/2026/11/04/kinai-holdra-szallas-2030-elott/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1415467685-1024x576.jpg",
+        "summary": "Hihetetlenül szoros verseny alakulhat ki Kína és az Egyesült Államok között, miután a kínai holdra szállás tervezett dátuma az eddigi 2030-asnál is közelebb került. The post Már 2030 előtt holdra szállhatnak az első kínaiak first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1793803603
+      },
+      {
+        "source": "PC World",
+        "title": "Kína még 2030 előtt embereket küld a Holdra",
+        "link": "https://www.pcwplus.hu/pcwlite/kina-meg-2030-elott-embereket-kuld-a-holdra-2030-390447.html",
+        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2505/25/kina_hold_212941_1_original_390x220_cover.jpg",
+        "summary": "Három kínai űrhajós mehet az ország első emberekkel induló holdküldetésére, de közülük csak ketten lépnének a felszínre.",
+        "category": "Politika",
+        "published_at": 1793857724
       }
     ]
   },
@@ -1835,6 +1678,40 @@
     ]
   },
   {
+    "group_id": "group_47f7dbb186",
+    "category": "Bulvár",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "186 USB-töltőből csak 30 biztonságos: aggasztó eredménnyel zárult a friss vizsgálat",
+        "link": "https://femina.hu/egeszseg/186-usb-toltobol-csak-30-biztonsagos-aggaszto-eredmennyel-zarult-a-friss-vizsgalat/",
+        "image": "https://femina.hu/neon/media/images/usb_tolto.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Nagyon sok a nem biztonságos töltő!",
+        "category": "Bulvár",
+        "published_at": 1793792100
+      },
+      {
+        "source": "Rakéta.hu",
+        "title": "Lesújtó eredményt mutat egy új vizsgálat: életveszélyes lehet sok töltő, melyeket nap mint nap használunk",
+        "link": "https://raketa.hu/nkfh-usb-toltok-biztonsagossag-2026-bevizsgalas/",
+        "image": "https://raketa.hu/uploads/2026/11/tolto.jpg",
+        "summary": "A boltokban kapható USB-töltők jelentős része komoly biztonsági kockázatot rejthet: a magyar fogyasztóvédelem 186 megvizsgált termékből mindössze 30-at talált megfelelőnek. A problémás készülékek között olyanok is akadtak, amelyek használata akár áramütésveszélyt jelent.",
+        "category": "Kultúra",
+        "published_at": 1793801389
+      },
+      {
+        "source": "ATV",
+        "title": "Baj van az USB-töltőkkel: rengeteg veszélyes típust találtak, megkezdődtek a kivonások",
+        "link": "https://www.atv.hu/belfold/20261105/usb-tolto-vizsgalat-veszely/",
+        "image": "",
+        "summary": "Kimondottan aggasztó eredményeket közölt a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság az USB-töltőkről.",
+        "category": "Általános",
+        "published_at": 1793853300
+      }
+    ]
+  },
+  {
     "group_id": "group_cad188b82f",
     "category": "Bulvár",
     "articles_count": 1,
@@ -2393,22 +2270,6 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1793787016
-      }
-    ]
-  },
-  {
-    "group_id": "group_6bcd282c02",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Kárpáti György neve is szerepel az ügynökakták között",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/karpati-gyorgy-halasi-fedoneven-volt-iii-iii-as-ugynok/",
-        "image": "https://kep.index.hu/1/0/7241/72412/724123/72412343_8f93b28cdb040d02a659947770b22586_wm.jpg",
-        "summary": "",
-        "category": "Általános",
-        "published_at": 1793786722
       }
     ]
   },
@@ -7343,7 +7204,7 @@
   {
     "group_id": "group_5c8b4cb013",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -7371,6 +7232,15 @@
         "summary": "Az alkotmánybírót a 6-os kartonja szerint 1988-ban hazafias alapon szervezték be.",
         "category": "Politika",
         "published_at": 1793819316
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Reagált az Alkotmánybíróság Patyi András ügynökmúltjára: Semmiképpen sem hagyható figyelmen kívül",
+        "link": "https://index.hu/belfold/2026/11/05/patyi-andras-alkotmanybirosag-ugynokaktak-reakcio/",
+        "image": "https://kep.index.hu/1/0/7242/72424/724249/72424913_5337179_28856fc21cfe3d39cae8b1b360f32fa7_wm.jpg",
+        "summary": "A Nemzeti Közszolgálati Egyetem korábbi rektorának neve is szerepel az aktákban.",
+        "category": "Általános",
+        "published_at": 1793873040
       }
     ]
   },
@@ -11616,7 +11486,7 @@
   {
     "group_id": "group_0fe0717d73",
     "category": "Politika",
-    "articles_count": 10,
+    "articles_count": 11,
     "articles": [
       {
         "source": "HVG - Itthon",
@@ -11707,6 +11577,15 @@
         "summary": "Mert tévesen bekerült a neve a hálózati személyek nyilvántartásába.",
         "category": "Politika",
         "published_at": 1793872785
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Bocsánatot kért Magyar Péter",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/bocsanatot-kert-magyar-peter-874448",
+        "image": "https://pcdn.hu/articles/images-xl/m/a/g/magyarpeter-867092.jpg",
+        "summary": "Magyar Péter miniszterelnök nyilvánosan kért bocsánatot Lezsák Sándortól a Facebook-bejegyzésében.",
+        "category": "Politika",
+        "published_at": 1793873040
       }
     ]
   },
@@ -13039,7 +12918,7 @@
   {
     "group_id": "group_314dcb80cf",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "444.hu",
@@ -13049,6 +12928,15 @@
         "summary": "Az a legrosszabb forgatókönyv, ami szerdán elkezdődött hazánkban.",
         "category": "Politika",
         "published_at": 1793869349
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Szabó Andrea az ügynökaktákról: Az a legrosszabb forgatókönyv, ami szerdán elkezdődött",
+        "link": "https://telex.hu/ugynokaktak/2026/11/05/szabo-andrea-az-ugynokaktakrol-az-a-legrosszabb-forgatokonyv-ami-szerdan-elkezdodott",
+        "image": "https://assets.telex.hu/images/20261105/1793873097-temp-11qfql7j1hk70ilmlbb_cimlap-normal.jpg",
+        "summary": "A szociológus arra utalt ezzel, hogy „embereket valamiért, valamilyen szempont szerint kitesznek az asztalra, rájuk mutatnak és bűnbakokat képeznek belőlük”.",
+        "category": "Politika",
+        "published_at": 1793873062
       }
     ]
   },
@@ -13836,7 +13724,135 @@
         "image": "https://pcdn.hu/articles/images-xl/d/_/m/d-mtz20261104007-867002.jpg",
         "summary": "Helybenhagyta Matolcsy György és két további gyanúsított letartóztatását a Fővárosi Törvényszék: csütörtöki közleményük szerint többek között bizonyítékok eltüntetésének veszélye miatt döntöttek így. Közben egyre nagyobb politikai vitát vált ki az ügynökakták nyilvánosságra hozatala. A Levéltár bocsánatot kért, amiért Lezsák Sándor neve megfigyeltként tévesen bekerült az ügynökadatbázisba, Bóka János emiatt az oldal felfüggesztését és Tarr Zoltán távozását követeli. Közben Vitézy Dávid bejelentette, hogy januártól Kállai Éva vezeti a HungaroControlt, és ismertette a kormány döntését egy gyömrői iskolaépítésről, valamint a 442-es főút fejlesztésének előkészítéséről.",
         "category": "Politika",
-        "published_at": 1793871420
+        "published_at": 1793873040
+      }
+    ]
+  },
+  {
+    "group_id": "group_ab89d0bc22",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kis híján a franciák óriásának karriercsúcsa sem volt elég a győzelemhez a texasi derbin",
+        "link": "https://index.hu/sport/kosarlabda/2026/11/05/nba-victor-wembanyama-san-antonio-spurs-karriercsucs/",
+        "image": "https://kep.index.hu/1/0/7242/72428/724283/72428367_5337439_39ffc1633596a916371c799abe99cf33_wm.jpg",
+        "summary": "Már szünetben harminc éve nem látott számokat hozott össze.",
+        "category": "Általános",
+        "published_at": 1793873160
+      }
+    ]
+  },
+  {
+    "group_id": "group_6b29f05494",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Mourinho Varga Barnabásékat méltatta, az AEK-nál viszont kitört a botrány",
+        "link": "https://magyarnemzet.hu/sport/2026/11/aek-athen-varga-koita-nikolics-mourinho-real-madrid-bl?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/WzCkMCUw3O1OXfiLq-SxKHquNPOO-Q2kOznhic4JBCc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzcyYjQ0NGQ3MTVmYjQyNGRiMDE0NzZjNDMxNDlkYzU4.jpg",
+        "summary": "Koita két szempontból is történelmet írt, az egyikről lemondtak volna Athénban.",
+        "category": "Politika",
+        "published_at": 1793872872
+      }
+    ]
+  },
+  {
+    "group_id": "group_162e8f2009",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Orosz hírszerzéshez köthető hackerek támadhattak mobiltelefonokra",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/orosz-hirszerzeshez-kotheto-hackerek-tamadhattak-mobiltelefonokra-874446",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2243444841-867090.jpg",
+        "summary": "Korábban már javított iOS- és Android-hibákat használtak ki egy mobilos támadási kampányban, amely fertőzött vagy lemásolt weboldalakon keresztül próbált adatokat szerezni a látogatók készülékeiről. Az ügy külön aktualitását adja, hogy nemrég európai hűtőrendszereknél is régi, ismert biztonsági hiányosságokat használtak ki a támadók, a nyomok pedig ott is orosz kötődésű csoportokra utaltak. A kutatók szerint a mostani mobilos művelet az APT29-hez köthető, amelyet széles körben az orosz külső hírszerzéshez kapcsolnak, de az attribúció ebben az esetben sem jelent teljes bizonyosságot.",
+        "category": "Gazdaság",
+        "published_at": 1793872800
+      }
+    ]
+  },
+  {
+    "group_id": "group_69ed40ab8d",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HWSW",
+        "title": "Sűrű év vége elé néznek a japán konzolgyártók",
+        "link": "https://www.hwsw.hu/hirek/71173/videojatek-piac-japan-sony-nintendo-playstation5-ps5-switch2-konzol-eladasok-gtavi-zelda.html",
+        "image": "",
+        "summary": "A Sonyt más üzletágak húzták fel, a Nintendo a memóriakrízistől szenved.",
+        "category": "Kultúra",
+        "published_at": 1793873162
+      }
+    ]
+  },
+  {
+    "group_id": "group_516f643a36",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Kijelző nélküli kütyüt készít a Nothing, a mesterséges intelligencia vezérli",
+        "link": "https://hvg.hu/tudomany/20261105_nothing-kijelzo-nelkuli-kutyu-mesterseges-intelligencia",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0ae3850c-a967-406e-b02d-a275aabd1ba9.jpg",
+        "summary": "Decemberben mutatkozhat be a Nothing első AI-eszköze, aminek fejlesztésére komoly energiát fordított a vállalat.",
+        "category": "Kultúra",
+        "published_at": 1793872980
+      }
+    ]
+  },
+  {
+    "group_id": "group_01ff5dbd99",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "A leandert már bevitted? Van még valami, amit nem árt megmenteni a fagytól",
+        "link": "https://femina.hu/terasz/viragcserepek-teleltetese-fagy-ellen/",
+        "image": "https://femina.hu/neon/media/images/GettyImages-228376412.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Sokan csak a növényeket menekítik a hideg elől, pedig a teraszon maradt cserepek is könnyen tönkremehetnek.",
+        "category": "Bulvár",
+        "published_at": 1793873233
+      }
+    ]
+  },
+  {
+    "group_id": "group_51113ace47",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "58 évesen háromszoros apa lett Jamie Foxx: 27 évvel fiatalabb párja életet adott gyermeküknek",
+        "link": "https://femina.hu/vilagsztar/jamie-foxx-58-evesen-apa-lett-haromgyerekes-apuka/",
+        "image": "https://femina.hu/neon/media/images/jamie_foxx_2.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Megszületett Jamie Foxx és Alyce Huckstepp első közös gyermeke.",
+        "category": "Bulvár",
+        "published_at": 1793873100
+      }
+    ]
+  },
+  {
+    "group_id": "group_651da26094",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "4 csillagjegy, aki akkor is mosolyog, amikor belül összetört",
+        "link": "https://nlc.hu/horoszkop/20261105/4-csillagjegy-aki-akkor-is-mosolyog-amikor-belul-osszetort/2bzyqx9",
+        "image": "",
+        "summary": "Vannak, akik a legnehezebb időszakokban is mosolyognak, és senki sem sejti, mennyi fájdalmat rejtenek a mosolyuk mögött. Az asztrológia szerint négy csillagjegy különösen hajlamos arra, hogy elrejtse a valódi érzéseit, még a szerettei elől is. The post 4 csillagjegy, aki akkor is mosolyog, amikor belül összetört first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1793872980
       }
     ]
   }
