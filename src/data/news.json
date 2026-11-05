@@ -1,5 +1,41 @@
 [
   {
+    "group_id": "group_2f92f53d61",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/Cooky_cover_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Ilyen elképesztő luxusban él Cooky a családjával: a házuk olyan, akár a hollywoodi filmekben",
+        "link": "https://femina.hu/hazai_sztar/cooky-haz-luxus-otthon-fotok/"
+      }
+    ],
+    "published_at": 1793857200,
+    "title_hu": "Ilyen elképesztő luxusban él Cooky a családjával: a házuk olyan, akár a hollywoodi filmekben",
+    "lead_hu": "Ebben a gyönyörű családi házban neveli Cooky és gyönyörű felesége, Debóra két tündéri kisfiukat....",
+    "content_hu": "Ebben a gyönyörű családi házban neveli Cooky és gyönyörű felesége, Debóra két tündéri kisfiukat."
+  },
+  {
+    "group_id": "group_366d0ca83a",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/07/bsKLHnOXxjtb7lBm-6fXKr_qa7FnyiiddrF_KrNoZBE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI1OTMzNGFkODhkYTQyODU5YzFhNjEzOTI0ZWM2NDgz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A főváros a kerületekre mutogat, továbbra sem világos, mi lesz a parkolóautomatákból váltott jegyekkel",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/a-fovaros-a-keruletekre-mutogat-tovabbra-sem-vilagos-mi-lesz-a-parkoloautomatakbol-valtott-jegyekkel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793857107,
+    "title_hu": "A főváros a kerületekre mutogat, továbbra sem világos, mi lesz a parkolóautomatákból váltott jegyekkel",
+    "lead_hu": "Ismét az autósok maradnak hoppon....",
+    "content_hu": "Ismét az autósok maradnak hoppon."
+  },
+  {
     "group_id": "group_6593f06132",
     "category": "Bulvár",
     "image": "",
@@ -88,6 +124,24 @@
     "title_hu": "Megszólalt a Viszkis a válása után: 500 kilométert utazik, hogy láthassa a gyerekeit",
     "lead_hu": "Ambrus Attila közel 60 évesen kénytelen újrakezdeni az életét, miután tíz év után véget ért a házassága. A Viszkisként ismert keramikus rengeteget dolgozik, új otthont épít, és mindent megtesz azért, ...",
     "content_hu": "Ambrus Attila közel 60 évesen kénytelen újrakezdeni az életét, miután tíz év után véget ért a házassága. A Viszkisként ismert keramikus rengeteget dolgozik, új otthont épít, és mindent megtesz azért, hogy továbbra is aktív része maradjon két kisgyermeke életének. Ehhez azonban rendszeresen több száz kilométert kell autóznia. The post Megszólalt a Viszkis a válása után: 500 kilométert utazik, hogy láthassa a gyerekeit first appeared on nlc."
+  },
+  {
+    "group_id": "group_de30eab689",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/79e3359d-50a6-421b-a6e5-70379f0921fd.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "A kormány az elődje által tervezettnél nagyobb iskolát épít Gyömrőn",
+        "link": "https://hvg.hu/itthon/20261105_kormany-nagyobb-iskola-epites-gyomro-hatarozat-magyar-kozlony"
+      }
+    ],
+    "published_at": 1793856300,
+    "title_hu": "A kormány az elődje által tervezettnél nagyobb iskolát épít Gyömrőn",
+    "lead_hu": "A Magyar Közlönynek külön számát adták ki szerdán késő este emiatt....",
+    "content_hu": "A Magyar Közlönynek külön számát adták ki szerdán késő este emiatt."
   },
   {
     "group_id": "group_678dfe8331",
@@ -477,12 +531,17 @@
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/58d6c11e-c3c2-4132-87f5-c3832478143e.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HVG - Világ",
         "title": "A békefeltételekről egyeztetett Zelenszkij Trump különmegbízottjával",
         "link": "https://hvg.hu/vilag/20261105_bekefeltetelek-egyeztetes-volodimir-zelenszkij-donald-trump-beketargyalas"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Zelenszkij Trump embereivel tárgyalt telefonon, Ukrajna kész megtenni a szükséges lépéseket a háború lezárása érdekében",
+        "link": "https://24.hu/kulfold/2026/11/05/zelenszkij-trump-megbizottjai-targyalas/"
       }
     ],
     "published_at": 1793854680,
@@ -13800,83 +13859,6 @@
     "title_hu": "Trump szerint nem ő a hibás, gyengék voltak a republikánus jelöltek",
     "lead_hu": "Az amerikai elnök a Fox Newsnak nyilatkozott a félidős választási vereség után.",
     "content_hu": "Az amerikai elnök a Fox Newsnak nyilatkozott a félidős választási vereség után."
-  },
-  {
-    "group_id": "group_a941da624d",
-    "category": "Tech",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "14 hónapon belül várja az első világszintű AI-szabotázsakciót az AI alapjainak Nobel-díjas kidolgozója",
-        "link": "https://444.hu/2026/11/04/14-honapon-belul-varja-az-elso-vilagszintu-ai-szabotazsakciot-az-ai-alapjainak-nobel-dijas-kidolgozoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793770854,
-    "title_hu": "14 hónapon belül várja az első világszintű AI-szabotázsakciót az AI alapjainak Nobel-díjas kidolgozója",
-    "lead_hu": "Geoffrey Hinton AI-támadás okozta világszintű áramszünetre vagy olyan hackelésre számít, ami egy hétre összeomlasztja a globális fizetési rendszert.",
-    "content_hu": "Geoffrey Hinton AI-támadás okozta világszintű áramszünetre vagy olyan hackelésre számít, ami egy hétre összeomlasztja a globális fizetési rendszert."
-  },
-  {
-    "group_id": "group_b6d453ce14",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/istenes_bence_csobot__SEwA0in.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Istenes Bence és Csobot Adél álomotthona még szebb lett: csodaszép a kertjük",
-        "link": "https://femina.hu/hazai_sztar/istenes-bence-csobot-adel-balatoni-haz-kert-pergola/"
-      }
-    ],
-    "published_at": 1793770800,
-    "title_hu": "Istenes Bence és Csobot Adél álomotthona még szebb lett: csodaszép a kertjük",
-    "lead_hu": "Istenes Bence és Csobot Adél ismét megmutatták gyönyörű kertjüket, amit még szebbé varázsoltak.",
-    "content_hu": "Istenes Bence és Csobot Adél ismét megmutatták gyönyörű kertjüket, amit még szebbé varázsoltak."
-  },
-  {
-    "group_id": "group_0559201cf6",
-    "category": "Tech",
-    "image": "https://raketa.hu/uploads/2026/11/textil_touchscreen-1.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Itt a ruhába integrált érintőképernyő, amit mosógéppel is kimoshatsz",
-        "link": "https://raketa.hu/itt-a-ruhaba-integralt-erintokepernyo-amit-mosogeppel-is-kimoshatsz/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Kifejlesztették a ruházatba épített érintőképernyőt, amely mosógépben is mosható",
-        "link": "https://index.hu/techtud/2026/11/05/ruha-erintokepernyo-okosruha-mesterseges-intelligencia-fejlesztes/"
-      }
-    ],
-    "published_at": 1793770765,
-    "title_hu": "Itt a ruhába integrált érintőképernyő, amit mosógéppel is kimoshatsz",
-    "lead_hu": "A technológia képes képek és videók megjelenítésére, reagál az ujjlenyomatokra, és vezeték nélkül csatlakozhat digitális eszközökhöz, miközben megőrzi a mindennapi anyagok légáteresztő képességét és r…",
-    "content_hu": "A technológia képes képek és videók megjelenítésére, reagál az ujjlenyomatokra, és vezeték nélkül csatlakozhat digitális eszközökhöz, miközben megőrzi a mindennapi anyagok légáteresztő képességét és rugalmasságát."
-  },
-  {
-    "group_id": "group_ed0f0d0f90",
-    "category": "Sport",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/ZcAtA1j_jOdmUSLimyu8GcUPgZkAmiD0M3mAfi_O08k/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzliMTg1YzdhYzhhMzRiYTM5Mjc3ZDg1NzdlZjhhYjBk.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Tévhír terjed Varga Barnabásról a spanyol sajtóban a Real Madrid elleni BL-meccs előtt",
-        "link": "https://magyarnemzet.hu/sport/2026/11/varga-barnabas-real-madrid-aek-athen-tevhir-serules-bl?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793770655,
-    "title_hu": "Tévhír terjed Varga Barnabásról a spanyol sajtóban a Real Madrid elleni BL-meccs előtt",
-    "lead_hu": "Az UEFA másra számít a magyar válogatott csatár kapcsán a AEK Athén–Real Madrid Bajnokok Ligája-mérkőzés előtt.",
-    "content_hu": "Az UEFA másra számít a magyar válogatott csatár kapcsán a AEK Athén–Real Madrid Bajnokok Ligája-mérkőzés előtt."
   },
   {
     "group_id": "group_3b18442487",
