@@ -1,5 +1,77 @@
 [
   {
+    "group_id": "group_5f5fae79f7",
+    "category": "Kultúra",
+    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2608/06/openai_chatgpt_223741_1_original_390x220_cover.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PC World",
+        "title": "A ChatGPT végre megkapja azt a képszerkesztő eszközt, amelyre az internet már régóta várt: Jönnek a GIF-ek!",
+        "link": "https://www.pcwplus.hu/pcwlite/a-chatgpt-vegre-megkapja-azt-a-kepszerkeszto-eszkozt-amelyre-az-internet-mar-regota-vart-jonnek-a-gifek-20261105-390459.html"
+      }
+    ],
+    "published_at": 1793872369,
+    "title_hu": "A ChatGPT végre megkapja azt a képszerkesztő eszközt, amelyre az internet már régóta várt: Jönnek a GIF-ek!",
+    "lead_hu": "Szövegből és állóképekből is rövid animációt készíthetünk....",
+    "content_hu": "Szövegből és állóképekből is rövid animációt készíthetünk."
+  },
+  {
+    "group_id": "group_3545d6efa7",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7242/72427/724277/72427723_5337393_003fc76348cda7ab50ca18327e0f1b04_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Drogdílerekre csaptak le Zuglóban, több száz gramm kábítószert és fegyvereket találtak a lakásban",
+        "link": "https://index.hu/belfold/2026/11/05/drog-zuglo-rendorseg-dilerek/"
+      }
+    ],
+    "published_at": 1793872320,
+    "title_hu": "Drogdílerekre csaptak le Zuglóban, több száz gramm kábítószert és fegyvereket találtak a lakásban",
+    "lead_hu": "A gyanúsítottak kábítószer-gyorstesztje pozitív eredményt mutatott....",
+    "content_hu": "A gyanúsítottak kábítószer-gyorstesztje pozitív eredményt mutatott."
+  },
+  {
+    "group_id": "group_f645d093d5",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/70d2435f-9343-4ad9-9f57-1866d80002c9.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Az összes hírportált megelőzte olvasottságban nyitónapján az ügynökaktás oldal",
+        "link": "https://hvg.hu/itthon/20261105_olvasottsag-nyitonap-ugynokaktak"
+      }
+    ],
+    "published_at": 1793872254,
+    "title_hu": "Az összes hírportált megelőzte olvasottságban nyitónapján az ügynökaktás oldal",
+    "lead_hu": "Már az első napján csaknem 800 ezer felhasználója volt a nyitottaktak.hu oldalnak, amit 5,7 milliószor kattintottak le – megelőzve ezzel a legnagyobb hírportálokat is....",
+    "content_hu": "Már az első napján csaknem 800 ezer felhasználója volt a nyitottaktak.hu oldalnak, amit 5,7 milliószor kattintottak le – megelőzve ezzel a legnagyobb hírportálokat is."
+  },
+  {
+    "group_id": "group_a5a4ee0c74",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7239/72397/723978/72397861_5335189_0903b49eb4073970392fee28ee88aedb_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Közös jelképek alatt lángol Európa, a mémek és lobogók mögött egyre súlyosabb indulatok feszülnek",
+        "link": "https://index.hu/kulfold/2026/11/05/tuntetes-demonstracio-europa-eroszak-szimbolum/"
+      }
+    ],
+    "published_at": 1793872140,
+    "title_hu": "Közös jelképek alatt lángol Európa, a mémek és lobogók mögött egyre súlyosabb indulatok feszülnek",
+    "lead_hu": "Megnéztük, mi jellemzi az európai demonstrációk szimbolikáját és kultúráját....",
+    "content_hu": "Megnéztük, mi jellemzi az európai demonstrációk szimbolikáját és kultúráját."
+  },
+  {
     "group_id": "group_bde38e0ff0",
     "category": "Politika",
     "image": "",
@@ -1422,12 +1494,17 @@
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1449591202-e1793866062494-1024x577.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
         "title": "Az ősz eddigi leghidegebb reggelén vagyunk túl",
         "link": "https://24.hu/tudomany/2026/11/05/idojaras-fagy-minuszok-kod-reggel/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Mínusz 7-ig süllyedtünk, túl vagyunk az idei ősz eddigi leghidegebb reggelén, szinte mindenhol fagyott",
+        "link": "https://444.hu/2026/11/05/minusz-7-ig-sullyedtunk-tul-vagyunk-az-idei-osz-eddigi-leghidegebb-reggelen-szinte-mindenhol-fagyott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
     "published_at": 1793866089,
@@ -14073,96 +14150,6 @@
     "content_hu": "Az alkotmányjogász szerint Baka András köztársasági elnök a második jelöléssel elsősorban saját tekintélyét próbálta helyreállítani."
   },
   {
-    "group_id": "group_7d748c580a",
-    "category": "Belföld",
-    "image": "https://assets.telex.hu/images/20261029/1793289607-temp-0adp2cj4pm2fbeolkgl_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Miért ilyen pocsék sok helyen a munkahelyi kávé? (x)",
-        "link": "https://telex.hu/pr-cikk/2026/11/04/miert-ilyen-pocsek-meg-mindig-a-munkahelyi-kave-x"
-      }
-    ],
-    "published_at": 1793786101,
-    "title_hu": "Miért ilyen pocsék sok helyen a munkahelyi kávé? (x)",
-    "lead_hu": "Fizetésemelés, bónusz, wellbeing és dizájneriroda – de mi a helyzet a kávéval? Miért éri be sok cég gyenge minőségű munkahelyi üzemanyaggal 2026-ban?",
-    "content_hu": "Fizetésemelés, bónusz, wellbeing és dizájneriroda – de mi a helyzet a kávéval? Miért éri be sok cég gyenge minőségű munkahelyi üzemanyaggal 2026-ban?"
-  },
-  {
-    "group_id": "group_935132f62d",
-    "category": "Belföld",
-    "image": "https://assets.telex.hu/images/20261030/1793382233-temp-5o64513f1l9vacgdaie_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Egyéves a Xiaomi Store a Westendben – kétnapos születésnapi buli lesz! (x)",
-        "link": "https://telex.hu/pr-cikk/2026/11/04/egyeves-a-xiaomi-store-a-westendben-ketnapos-szuletesnapi-unneplessel-keszulnek-x"
-      }
-    ],
-    "published_at": 1793786101,
-    "title_hu": "Egyéves a Xiaomi Store a Westendben – kétnapos születésnapi buli lesz! (x)",
-    "lead_hu": "November 6–7-én különleges születésnapi ajánlatokkal, interaktív játékokkal és értékes nyereményekkel várja a látogatókat a Westend megújult Xiaomi üzlete.",
-    "content_hu": "November 6–7-én különleges születésnapi ajánlatokkal, interaktív játékokkal és értékes nyereményekkel várja a látogatókat a Westend megújult Xiaomi üzlete."
-  },
-  {
-    "group_id": "group_252eb9261e",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Blikk",
-        "title": "Sokan inkább figyelmen kívül hagyják a reszelő szúrós oldalát – Pedig nagyon jó hasznát vehetjük a konyhában",
-        "link": "https://www.blikk.hu/eletmod/tippek/reszelo-melyik-oldal-mire-valo/p209sj9"
-      }
-    ],
-    "published_at": 1793786100,
-    "title_hu": "Sokan inkább figyelmen kívül hagyják a reszelő szúrós oldalát – Pedig nagyon jó hasznát vehetjük a konyhában",
-    "lead_hu": "A reszelő az egyik legsokoldalúbb konyhai eszköz, de vajon tudja, hogy melyik oldalát mire érdemes használni? Ha eddig csak találomra választott, ideje, hogy felfedezze a reszelők rejtett képességeit!…",
-    "content_hu": "A reszelő az egyik legsokoldalúbb konyhai eszköz, de vajon tudja, hogy melyik oldalát mire érdemes használni? Ha eddig csak találomra választott, ideje, hogy felfedezze a reszelők rejtett képességeit! Nem mindegy ugyanis, hogy milyen lyukakat, pengéket vagy tüskéket használja, hiszen az eredmény – és az élmény – nagyban múlik ezen. Lássuk, hogyan válhat a reszelő konyhai varázslattá!"
-  },
-  {
-    "group_id": "group_1b69c2e02d",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Blikk",
-        "title": "\"Egy apa bizonyos szinten mindig szexuálisan vonzódni fog a lányához\" – Steven Tyler őrült kijelentésén háborog a világ",
-        "link": "https://www.blikk.hu/sztarvilag/nemzetkozi-sztarok/steven-tyler-lanya-liv-tyler-szexualis-vonzalom/hmhe9jb"
-      }
-    ],
-    "published_at": 1793785949,
-    "title_hu": "\"Egy apa bizonyos szinten mindig szexuálisan vonzódni fog a lányához\" – Steven Tyler őrült kijelentésén háborog a világ",
-    "lead_hu": "Komoly felháborodást váltottak ki Steven Tyler közel húsz évvel ezelőtti kijelentései, amelyekben az Aerosmith frontembere a saját lánya, Liv Tyler iránt érzett vonzalomról beszélt. Az énekesnek tulaj…",
-    "content_hu": "Komoly felháborodást váltottak ki Steven Tyler közel húsz évvel ezelőtti kijelentései, amelyekben az Aerosmith frontembere a saját lánya, Liv Tyler iránt érzett vonzalomról beszélt. Az énekesnek tulajdonított, egy 2006-os könyvben megjelent szavak most ismét terjedni kezdtek az interneten, miközben a zenész ellen egy évtizedekkel ezelőtti állítólagos szexuális bántalmazás miatt polgári per folyik."
-  },
-  {
-    "group_id": "group_6c0b7be040",
-    "category": "Általános",
-    "image": "https://cdn.hirtv.hu/2026/11/vubtYkLyKb-IHSai04zPNvMfNv4a1qrT4_hUtjN3KyA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q3YWY2NTI1MTM3OTQwMjZiZWE0MTY1Yzg4NzFhMDcz.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Egy kilónyi amfetaminnal bukott le az abonyi díler",
-        "link": "https://hirtv.origo.hu/ahirtvkekhirei/2026/11/diler-amfetamin-abony-letartoztatas"
-      }
-    ],
-    "published_at": 1793785897,
-    "title_hu": "Egy kilónyi amfetaminnal bukott le az abonyi díler",
-    "lead_hu": "Letartóztatták a 38 éves férfit.",
-    "content_hu": "Letartóztatták a 38 éves férfit."
-  },
-  {
     "group_id": "group_3b18442487",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/07/D-cwnTL28Cx1CdBXSi_-B-Lu1XVBvmehqUT2PwD4ewo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBmMjRmY2ZjOTM2MjRiMmE4YWQwZjUyNjM5NjU5MjVk.jpg",
@@ -14678,7 +14665,7 @@
     "image": "https://www.youtube.com/embed/xtRn8l7Eypw",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Index - Címlap",
@@ -14699,6 +14686,11 @@
         "source": "Telex - Belföld",
         "title": "Navracsics Tibor szerint a Feledy Botond-ügy a kormány hatalmi paranoiáját mutatja",
         "link": "https://telex.hu/belfold/2026/11/04/navracsics-tibor-feledy-botond-kormany-hatalmi-paranoia"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "„Szégyelljék magukat!″ – Navracsics Tibor szerint a kormány „cirkuszt” csinál, és emberek életével játszik",
+        "link": "https://index.hu/belfold/2026/11/05/navracsics-tibor-ugynokaktak-kommunizmus/"
       }
     ],
     "published_at": 1793799909,
