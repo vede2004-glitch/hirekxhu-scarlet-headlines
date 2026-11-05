@@ -1,5 +1,41 @@
 [
   {
+    "group_id": "group_ae663fd821",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ecec9f1b-eb46-421a-bb04-e1c0298c14b3.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Itt a nagy vízügyi bejelentés, kész a vízmegtartási akcióterv, 221 milliárdot szán rá a kormány",
+        "link": "https://hvg.hu/gazdasag/20261105_vizmegtartas-orszagos-vizmegtartasi-koncepcio-es-akcioterv-aszaly-gajdos-laszlo-mta"
+      }
+    ],
+    "published_at": 1793870424,
+    "title_hu": "Itt a nagy vízügyi bejelentés, kész a vízmegtartási akcióterv, 221 milliárdot szán rá a kormány",
+    "lead_hu": "600 oldalas lett az Országos Vízmegtartási Koncepció és Akcióterv. Kijelöli a stratégiát, lesz újra független vízügyi kutatóintézet, meghatározza, mit kell már most megtenni, hogy a következő fél évbe...",
+    "content_hu": "600 oldalas lett az Országos Vízmegtartási Koncepció és Akcióterv. Kijelöli a stratégiát, lesz újra független vízügyi kutatóintézet, meghatározza, mit kell már most megtenni, hogy a következő fél évben egy Balatonnyi vizet megtartsunk."
+  },
+  {
+    "group_id": "group_f9c0451c3f",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/4054/40541/405417/40541763_3093849_f8b2d7da1497477c2d3eafb2d05bbceb_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Több mint ezer szervezetnél kopogtat a NAV, bizalmi vagyonkezeléseket és magánalapítványokat ellenőriznek",
+        "link": "https://index.hu/gazdasag/2026/11/05/bizalmi-vagyonkezeles-nav-ellenorzes-adozas-torvenymodositas/"
+      }
+    ],
+    "published_at": 1793870340,
+    "title_hu": "Több mint ezer szervezetnél kopogtat a NAV, bizalmi vagyonkezeléseket és magánalapítványokat ellenőriznek",
+    "lead_hu": "Zéró toleranciát hirdetett a hatóság....",
+    "content_hu": "Zéró toleranciát hirdetett a hatóság."
+  },
+  {
     "group_id": "group_d21761187c",
     "category": "Bulvár",
     "image": "https://femina.hu/neon/media/images/kollagen_zsele_botox.2e16d0ba.format-jpeg.fill-1024x768.jpg",
@@ -34,6 +70,24 @@
     "title_hu": "Pusztító vihar söpört végig Brazílián: egy repülőteret is letarolt, egy ember meghalt",
     "lead_hu": "Santa Catarina állam nyugati részén két tornádó is lecsapott....",
     "content_hu": "Santa Catarina állam nyugati részén két tornádó is lecsapott."
+  },
+  {
+    "group_id": "group_4feec3e121",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/b/u/d/budapest-repuloter-ferihegy-386628.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Új vezető veszi át a magyar légi közlekedés irányítását",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/uj-vezeto-veszi-at-a-magyar-legi-kozlekedes-iranyitasat-874432"
+      }
+    ],
+    "published_at": 1793869980,
+    "title_hu": "Új vezető veszi át a magyar légi közlekedés irányítását",
+    "lead_hu": "Január 1-jétől Kállai Éva veszi át a HungaroControl vezetését – jelentette be Facebook-bejegyzésében Vitézy Dávid közlekedési és beruházási miniszter....",
+    "content_hu": "Január 1-jétől Kállai Éva veszi át a HungaroControl vezetését – jelentette be Facebook-bejegyzésében Vitézy Dávid közlekedési és beruházási miniszter."
   },
   {
     "group_id": "group_4cfc865ba2",
@@ -76,12 +130,17 @@
     "category": "Általános",
     "image": "https://www.youtube.com/embed/b1A6_YutoBo",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ATV",
         "title": "„Kleopátra” néven az ügynökaktákban: Megdöbbentő vallomást tett Medveczky Ilona",
         "link": "https://www.atv.hu/belfold/20261105/medveczky-ilona-ugynokaktak-vallomas/"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Medveczky Ilona neve is felbukkant az ügynökaktákban: Kleopátra fedőnéven tartották nyilván",
+        "link": "https://nlc.hu/sztarok/20261105/medveczky-ilona-az-ugynokaktakban/tqzpfjp"
       }
     ],
     "published_at": 1793869800,
@@ -1280,12 +1339,17 @@
     "category": "Politika",
     "image": "https://pcdn.hu/articles/images-xl/d/_/m/d-mtz20261104007-867002.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
         "title": "Tisza-kormány: sorra bukkannak fel ismert nevek az ügynökaktákban",
         "link": "https://www.portfolio.hu/gazdasag/20261105/tisza-kormany-sorra-bukkannak-fel-ismert-nevek-az-ugynokaktakban-874384"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: egyre nagyobb port kavarnak az ügynökakták, új vezető a légi közlekedés élén",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/tisza-kormany-egyre-nagyobb-port-kavarnak-az-ugynokaktak-uj-vezeto-a-legi-kozlekedes-elen-874384"
       }
     ],
     "published_at": 1793865540,
@@ -1366,7 +1430,7 @@
     "image": "https://assets.telex.hu/images/20261105/1793862257-temp-4qemaq9r88n4akjdabh_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -1377,6 +1441,11 @@
         "source": "HVG - Világ",
         "title": "A szerb titkosszolgálat újságírókat, ügyészeket és egyetemistákat is megfigyelhetett",
         "link": "https://hvg.hu/vilag/20261105_szerb-titkosszolgalat-megfigyeles-ujsagiro-ugyesz-egyetemista"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Újságírókat és ügyészeket is megfigyelhetett a szerb titkosszolgálat",
+        "link": "https://index.hu/belfold/2026/11/05/biztonsagi-es-informacios-ugynokseg-szerbia-megfigyeles/"
       }
     ],
     "published_at": 1793865300,
@@ -2412,7 +2481,7 @@
     "image": "https://kep.index.hu/1/0/6040/60404/604042/60404235_4467339_3f169c99bbcc13fa1786fdef7cc93161_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Index - Címlap",
@@ -2423,6 +2492,11 @@
         "source": "ATV",
         "title": "Fagyos hajnal, napos délután: ilyen idő vár ránk csütörtökön",
         "link": "https://www.atv.hu/belfold/20261105/fagy-nap-delutan-ido-csutortok/"
+      },
+      {
+        "source": "Femina",
+        "title": "Jövő heti időjárás: 10 fokos fordulatot hoz a jövő heti időjárás",
+        "link": "https://femina.hu/terasz/jovo-heti-idojaras-novemberi-fordulat/"
       }
     ],
     "published_at": 1793860620,
@@ -14131,42 +14205,6 @@
     "content_hu": ""
   },
   {
-    "group_id": "group_96caa17cd4",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megnyíltak az ügynökakták, kiderül, kik voltak a besúgók",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/megnyiltak-az-ugynokaktak-kiderul-kik-voltak-a-besugok/"
-      }
-    ],
-    "published_at": 1793784012,
-    "title_hu": "Megnyíltak az ügynökakták, kiderül, kik voltak a besúgók",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_594ee68897",
-    "category": "Belföld",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3a8c8c3c-5d10-4ac1-8086-e43e16756208.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Történelmi pillanat, megnyíltak az ügynökakták – mutatjuk, mit találhatunk, és mi az, amit biztosan hiába keresünk",
-        "link": "https://hvg.hu/itthon/20261104_tortenelmi-pillanat-megnyiltak-az-ugynokaktak-mutatjuk-mit-talalhatunk-es-mi-az-amit-biztosan-hiaba-keresunk"
-      }
-    ],
-    "published_at": 1793783848,
-    "title_hu": "Történelmi pillanat, megnyíltak az ügynökakták – mutatjuk, mit találhatunk, és mi az, amit biztosan hiába keresünk",
-    "lead_hu": "Egyszerű kereső felületet készítettek az Állambiztonsági Szolgálatok Történeti Levéltára által létrehozott oldalnak. Egykori állambiztonsági ügynökök nevére és anyja nevére, fedőnevére és születési he…",
-    "content_hu": "Egyszerű kereső felületet készítettek az Állambiztonsági Szolgálatok Történeti Levéltára által létrehozott oldalnak. Egykori állambiztonsági ügynökök nevére és anyja nevére, fedőnevére és születési helyére vagy beszervezési dossziéjának számára is lehet keresni, s a találatokat a 6-os kartonok és a mágnesszalag H adatbázisának tartalma alapján közli majd az oldal."
-  },
-  {
     "group_id": "group_3b18442487",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/07/D-cwnTL28Cx1CdBXSi_-B-Lu1XVBvmehqUT2PwD4ewo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBmMjRmY2ZjOTM2MjRiMmE4YWQwZjUyNjM5NjU5MjVk.jpg",
@@ -14201,6 +14239,24 @@
     "title_hu": "Ezt nagyon elkúrta Rovar úr - elszabadultak a kommentelők a levéltár Facebook-oldalán",
     "lead_hu": "Miután elnézést kértek egy technikai hiba miatt dühös kommentelők jelentek meg az Állambiztonsági Szo......",
     "content_hu": "Miután elnézést kértek egy technikai hiba miatt dühös kommentelők jelentek meg az Állambiztonsági Szo..."
+  },
+  {
+    "group_id": "group_a4ff61f11c",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Bóka János: A Tisza, igazi újkommunista tempóval összemossa az elkövetőket az áldozatokkal",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/boka-janos-a-tisza-igazi-ujkommunista-tempoval-osszemossa-az-elkovetoket-az-aldozatokkal"
+      }
+    ],
+    "published_at": 1793836800,
+    "title_hu": "Bóka János: A Tisza, igazi újkommunista tempóval összemossa az elkövetőket az áldozatokkal",
+    "lead_hu": "\"Magyar Péter kérjen bocsánatot azoktól, akiket a kommunisták után most a Tisza is megalázott, besározott, emberi méltóságukban meggyalázott\" - jelentette ki a Fidesz frakcióvezetője....",
+    "content_hu": "\"Magyar Péter kérjen bocsánatot azoktól, akiket a kommunisták után most a Tisza is megalázott, besározott, emberi méltóságukban meggyalázott\" - jelentette ki a Fidesz frakcióvezetője."
   },
   {
     "group_id": "group_8640a04236",
