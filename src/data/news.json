@@ -1,5 +1,41 @@
 [
   {
+    "group_id": "group_f01e48ddd2",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/6823/68235/682359/68235945_5037393_e5ff179715ca61d2c4b3a99e351df51f_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Lázár János elhalasztotta a beruházást, most 11 milliárdból újraépül a gyömrői iskola",
+        "link": "https://index.hu/belfold/2026/11/05/gyomro-fekete-istvan-altalanos-iskola-kontener-uj-epulet-beruhazas-magyar-peter/"
+      }
+    ],
+    "published_at": 1793864280,
+    "title_hu": "Lázár János elhalasztotta a beruházást, most 11 milliárdból újraépül a gyömrői iskola",
+    "lead_hu": "600 gyereket a város szélére, ideiglenes konténeriskolába kellett költöztetni....",
+    "content_hu": "600 gyereket a város szélére, ideiglenes konténeriskolába kellett költöztetni."
+  },
+  {
+    "group_id": "group_21eb52b7fe",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793864061-temp-ju6sqso4l8l45choffl_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "24 tantermes új iskola épül a gyömrői konténeriskola helyett",
+        "link": "https://telex.hu/belfold/2026/11/05/gyomro-fekete-istvan-altalanos-iskola-uj-epulet-konteneriskola-helyett-11-milliard-forint"
+      }
+    ],
+    "published_at": 1793864228,
+    "title_hu": "24 tantermes új iskola épül a gyömrői konténeriskola helyett",
+    "lead_hu": "Magyar Péter bejelentette, hogy a kormány közel 11 milliárd forintot biztosít a beruházásra....",
+    "content_hu": "Magyar Péter bejelentette, hogy a kormány közel 11 milliárd forintot biztosít a beruházásra."
+  },
+  {
     "group_id": "group_24f4cb2f8d",
     "category": "Bulvár",
     "image": "https://femina.hu/neon/media/images/Trokan_Nora_cover_2.2e16d0ba.format-jpeg.fill-1024x768.jpg",
@@ -166,7 +202,7 @@
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
     "is_synthesized": false,
-    "sources_count": 5,
+    "sources_count": 7,
     "sources": [
       {
         "source": "HVG - Itthon",
@@ -192,6 +228,16 @@
         "source": "Telex - Belföld",
         "title": "Lezsák Sándor jogosan háborodott fel, mert tényleg megfigyelt volt és nem ügynök",
         "link": "https://telex.hu/ugynokaktak/2026/11/05/lezsak-sandor-jogosan-haborodott-fel-mert-tenyleg-megfigyelt-volt-es-nem-ugynok"
+      },
+      {
+        "source": "ATV",
+        "title": "Fejek fognak hullani? Lezsák Sándor esete megbocsáthatatlannak tűnő baki az ügynökaktáknál",
+        "link": "https://www.atv.hu/belfold/20261105/ugynokaktak-baki-lezsak-sandor-kinos/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Bocsánatot kért a levéltár, tévesen került az ügynökadatbázisba egy ismert politikus",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/bocsanatot-kert-a-leveltar-tevesen-kerult-az-ugynokadatbazisba-egy-ismert-politikus-874402"
       }
     ],
     "published_at": 1793862405,
@@ -2027,7 +2073,7 @@
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b11ee6d1-9662-4d14-8d0f-57a36a0f32f8.jpg",
     "is_synthesized": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "HVG - Itthon",
@@ -2043,6 +2089,11 @@
         "source": "Telex - Belföld",
         "title": "Az Integritás Hatóság elnökének leváltásáért fellebbezett Windisch László, szerinte nem késett el az indítványával",
         "link": "https://telex.hu/belfold/2026/11/05/asz-elnok-windisch-laszlo-kozigazgatasi-per-ih-elnok-biro-ferenc-pal-levaltas"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Tovább folyik a háború az ÁSZ és az Irányító Hatóság között: Windisch László újabb lépést tett Bíró Ferenc kirúgása érdekében",
+        "link": "https://www.vg.hu/kozelet/2026/11/windisch-laszlo-asz-biro-ferenc-iranyito-hatosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1793853900,
@@ -4012,12 +4063,17 @@
     "category": "Gazdaság",
     "image": "https://cdn.vg.hu/2026/11/QGuCE7qrH4A1dqXxCWLPq6vXiDC2p9pSeCOjfkLKWoc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBlNGI2YWUyNzViNTRmY2Q4ZTlkOTZkNGUzYWEzNDgx.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Világgazdaság",
         "title": "Ilyen se volt még: megbírságolják a túl lassú autókat az autópályán, 2027-től életbe lép az új szabály – Vitézy Dávid teljesen másra készül Magyarországon",
         "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/birsag-autopalya-olaszorszag-tul-lassu-autosok-vitezy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Új sebességhatár jön: akár 60 ezer forintra is büntethetik a túl lassan autózókat",
+        "link": "https://nlc.hu/szabadido/20261105/autopalya-minimumsebesseg-100-kmh-birsag-olaszorszag/24dxt39"
       }
     ],
     "published_at": 1793820264,
@@ -14246,78 +14302,6 @@
     "title_hu": "Demokrata előretörés az amerikai félidős választáson",
     "lead_hu": "A november 3-i amerikai félidős választáson a demokraták jelentős eredményeket értek el, és megszerezték a képviselőházi többséget. A beszámolók eltérően írnak arról, hogy a Szenátusban is többségbe kerültek-e; a republikánusok több hagyományos fellegvárában is demokrata jelöltek győztek.",
     "content_hu": "• **November 3-án** tartották az amerikai félidős választást, amelyen a képviselőház mind a 435 helyéről és 35 szenátori mandátumról döntöttek. A CNN, az NBC és a Fox News előrejelzése szerint a demokraták megszerezték a képviselőházi többséget.\n\n• **A szenátusi többségről eltérően számoltak be a források:** a Telex és a Magyar Narancs szerint a demokraták mindkét kongresszusi kamarában többségbe kerültek, míg a Magyar Nemzet a képviselőházi többség elvesztésének következményét emelte ki. A közölt adatok egy része még előrejelzésen, illetve folyamatban lévő számláláson alapult.\n\n• **Texasban és Kansasben** demokrata szenátorjelöltek győztek: a források szerint Texasban évtizedek óta először nyert demokrata jelölt, Kansasben pedig 1932 óta nem volt erre példa. A demokraták Ohióban, valamint Észak- és Dél-Karolinában is republikánusoktól szereztek meg szenátusi mandátumokat.\n\n• **Donald Trump politikája** a beszámolók szerint fontos szerepet játszott a választási eredmény értelmezésében. A Magyar Narancs a gazdasági helyzettel és a megélhetési költségekkel kapcsolatos elégedetlenséget is kiemelte; Trump a vereség után azt állította, hogy az eredmény más lett volna, ha ő is szerepel a szavazólapon.\n\n• **A képviselőházi többség elvesztése** megnehezítheti Trump programjának végrehajtását: a demokraták akadályozhatják a törvényjavaslatokat, beleszólhatnak a költségvetésbe és vizsgálatokat indíthatnak. Az elnök rendeletalkotási és külpolitikai mozgástere, valamint vétójoga ugyanakkor megmarad."
-  },
-  {
-    "group_id": "group_b8691da537",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793777952-temp-02ou79jlv85g4aidphl_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Félidős választás a tőzsdén: gyengül a dollár, esnek az MI-részvények",
-        "link": "https://telex.hu/gazdasag/2026/11/04/egyesult-allamok-felidos-valasztasok-dollar-mesterseges-intelligencia-tozsde"
-      }
-    ],
-    "published_at": 1793778000,
-    "title_hu": "Félidős választás a tőzsdén: gyengül a dollár, esnek az MI-részvények",
-    "lead_hu": "A republikánus képviselő- és szenátorjelöltek mellett a félidős választások nagy veszteseinek a mesterséges intelligenciával foglalkozó cégek és befektetőik tűnnek.",
-    "content_hu": "A republikánus képviselő- és szenátorjelöltek mellett a félidős választások nagy veszteseinek a mesterséges intelligenciával foglalkozó cégek és befektetőik tűnnek."
-  },
-  {
-    "group_id": "group_9c56b69554",
-    "category": "Belföld",
-    "image": "https://kep.index.hu/1/0/7241/72411/724110/72411063_5336149_3a44ba55532492713fb19e7e911b50b8_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Belföld",
-        "title": "Akár 90 milliárd forintos veszteséget hozhat a karácsonyi boltzár",
-        "link": "https://index.hu/belfold/2026/11/04/karacsony-munkaszuneti-nap-december-24/"
-      }
-    ],
-    "published_at": 1793777940,
-    "title_hu": "Akár 90 milliárd forintos veszteséget hozhat a karácsonyi boltzár",
-    "lead_hu": "Az Országos Kereskedelmi Szövetség azonban másként értékeli a helyzetet, mint a munkáltatói szervezetek.",
-    "content_hu": "Az Országos Kereskedelmi Szövetség azonban másként értékeli a helyzetet, mint a munkáltatói szervezetek."
-  },
-  {
-    "group_id": "group_05705052ff",
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/HigJdAu5Mcc",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Kamerák előtt próbálták ki: Seszták széfjében simán elfér egy ember állva is",
-        "link": "https://www.atv.hu/belfold/20261104/sesztak-miklos-pancelszekreny/"
-      }
-    ],
-    "published_at": 1793777880,
-    "title_hu": "Kamerák előtt próbálták ki: Seszták széfjében simán elfér egy ember állva is",
-    "lead_hu": "Egy ember is kényelmesen elférne abban a hatalmas páncélszekrényben, amelyből kettőt is találtak Seszták Miklós kisvárdai otthonában. A nyomozók szerint a trezorokban akár 9 milliárd forint készpénzt …",
-    "content_hu": "Egy ember is kényelmesen elférne abban a hatalmas páncélszekrényben, amelyből kettőt is találtak Seszták Miklós kisvárdai otthonában. A nyomozók szerint a trezorokban akár 9 milliárd forint készpénzt is tarthatott a volt miniszter, aki ügyvédjén keresztül tagadja, hogy valaha ekkora összeget tárolt volna."
-  },
-  {
-    "group_id": "group_b2b2f9b51c",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793776354-temp-5rtop4daav304pljalf_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Ez az a választási elutasítása Trumpnak, amit a demokraták tíz éve folyamatosan várnak – elemzés a demokrata tarolásról",
-        "link": "https://telex.hu/video/2026/11/04/usa-felidos-valasztas-2026-republikanis-part-demokrata-part-tabor-aron-elemzes"
-      }
-    ],
-    "published_at": 1793777866,
-    "title_hu": "Ez az a választási elutasítása Trumpnak, amit a demokraták tíz éve folyamatosan várnak – elemzés a demokrata tarolásról",
-    "lead_hu": "A jósoltnál is nagyobb győzelmet arattak a demokraták, Trump hatalma nagyobb kontroll alatt lesz a hátralevő két évében. Mik a választás legérdekesebb tanulságai és miben lesz más ettől a világ? Elemz…",
-    "content_hu": "A jósoltnál is nagyobb győzelmet arattak a demokraták, Trump hatalma nagyobb kontroll alatt lesz a hátralevő két évében. Mik a választás legérdekesebb tanulságai és miben lesz más ettől a világ? Elemzés Tábor Áronnal."
   },
   {
     "group_id": "group_3b18442487",
