@@ -1593,22 +1593,6 @@
     ]
   },
   {
-    "group_id": "group_a26e4714d2",
-    "category": "Belföld",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "A demokratáké a képviselőház, és jó úton vannak a szenátus megszerzéséhez is",
-        "link": "https://444.hu/2026/11/04/a-demokratake-a-kepviselohaz-es-jo-uton-vannak-a-szenatus-megszerzesehez-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Trump népszerűtlensége tényleg ráégett a republikánusokra, a demokraták még Texasban is nyerni tudtak. Trump azt mondta, el fogja fogadni az eredményeket.",
-        "category": "Belföld",
-        "published_at": 1793766462
-      }
-    ]
-  },
-  {
     "group_id": "group_5c5a06399d",
     "category": "Politika",
     "articles_count": 1,
@@ -3335,31 +3319,6 @@
         "summary": "A technológia képes képek és videók megjelenítésére, reagál az ujjlenyomatokra, és vezeték nélkül csatlakozhat digitális eszközökhöz, miközben megőrzi a mindennapi anyagok légáteresztő képességét és rugalmasságát.",
         "category": "Tech",
         "published_at": 1793770765
-      }
-    ]
-  },
-  {
-    "group_id": "group_5a4b896bf5",
-    "category": "Tech",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Több mint egymillió androidos eszközről derült ki, hogy a gyártójuk is közreműködhetett a megfertőzésükben",
-        "link": "https://raketa.hu/botnet-google-lekapcsolas-set-top-box-videostrong-medialejatszo/",
-        "image": "https://raketa.hu/uploads/2026/11/settopbotnet.jpg",
-        "summary": "Egy kínai eszközgyártó éveken keresztül olyan rejtett hátsó kaput építhetett Android-alapú készülékek firmware-jébe, melyen keresztül bűnözők távolról hozzáférhettek az eszközökhöz.",
-        "category": "Tech",
-        "published_at": 1793766439
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Szándékosan fertőzött meg 1,3 millió Android-eszközt egy kínai gyártó",
-        "link": "https://hvg.hu/tudomany/20261104_google-android-eszkozok-videostrong-botnet-fertozes",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dfd21a70-9508-48ef-b93d-c7ee115647e5.jpg",
-        "summary": "Éveken keresztül adott ki botnetet tartalmazó androidos eszközöket a kínai Videostrong, a Google azonban végül lefülelte a tevékenységet.",
-        "category": "Kultúra",
-        "published_at": 1793797380
       }
     ]
   },
@@ -7013,6 +6972,22 @@
         "summary": "Az euró bevezetése jelentős lehetőségeket teremthet a gazdaság és a magyar vállalatok számára, ugyanakkor önmagában nem jelent megoldást minden gazdasági kihívásra. Az MBH Bank Középvállalati Treasury Reggelijén a pénzintézet szakértői a nemzetközi gazdasági környezet, a hazai kilátások és a közös európai fizetőeszköz lehetséges hatásait vizsgálták.",
         "category": "Gazdaság",
         "published_at": 1793797235
+      }
+    ]
+  },
+  {
+    "group_id": "group_5a4b896bf5",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Szándékosan fertőzött meg 1,3 millió Android-eszközt egy kínai gyártó",
+        "link": "https://hvg.hu/tudomany/20261104_google-android-eszkozok-videostrong-botnet-fertozes",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dfd21a70-9508-48ef-b93d-c7ee115647e5.jpg",
+        "summary": "Éveken keresztül adott ki botnetet tartalmazó androidos eszközöket a kínai Videostrong, a Google azonban végül lefülelte a tevékenységet.",
+        "category": "Kultúra",
+        "published_at": 1793797380
       }
     ]
   },
@@ -13003,7 +12978,7 @@
         "image": "https://raketa.hu/uploads/2026/09/Williston_lake_aerial.jpeg",
         "summary": "Egészen szürreális látvány fogadta azokat, akik idén nyáron a kanadai Williston-víztározónál jártak: egy egész erdővel borított sziget úszott a vízen, majd nyoma veszett.",
         "category": "Kultúra",
-        "published_at": 1793852538
+        "published_at": 1793852957
       }
     ]
   },
@@ -13211,7 +13186,7 @@
         "image": "https://raketa.hu/uploads/2026/07/3f6db1a7-1d90-475a-8170-2f51ae5f45ab.jpg",
         "summary": "Közvetlenül még nem sikerült megfigyelni, létezésére azonban egyes távoli égitestek szokatlan pályája utalhat.",
         "category": "Kultúra",
-        "published_at": 1793852538
+        "published_at": 1793852957
       }
     ]
   }
