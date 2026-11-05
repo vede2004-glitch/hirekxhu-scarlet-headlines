@@ -280,22 +280,6 @@
     ]
   },
   {
-    "group_id": "group_0e77f036f0",
-    "category": "Belföld",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Belföld",
-        "title": "Visszatér a napsütés, de a reggeli órákban még fagypont alá is süllyedhet a hőmérséklet",
-        "link": "https://index.hu/belfold/2026/11/04/idojaras-elorejelzes-radar-napsutes-fagy/",
-        "image": "https://kep.index.hu/1/0/6558/65583/655839/65583961_4842017_f7cd6e24f55bba361fb68673846d18cb_wm.jpg",
-        "summary": "Csapadékra nem kell számítani.",
-        "category": "Belföld",
-        "published_at": 1793768700
-      }
-    ]
-  },
-  {
     "group_id": "group_fdbd10bb72",
     "category": "Belföld",
     "articles_count": 6,
@@ -985,49 +969,6 @@
     ]
   },
   {
-    "group_id": "group_010ec9be66",
-    "category": "Belföld",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Visszafordítottak egy Moszkvába tartó szerb repülőgépet, amelyen több fontos szerb vezető is utazott",
-        "link": "https://telex.hu/kulfold/2026/11/04/visszaforditottak-egy-moszkvaba-tarto-szerb-repulogepet-amelyen-tobb-magasrangu-szerb-vezeto-is-utazott",
-        "image": "https://assets.telex.hu/images/20261104/1793768877-temp-ku3u5rk8i9il4mbcafg_cimlap-normal.jpg",
-        "summary": "Az egyik utassal kapcsolatban további ellenőrzést tartottak szükségesnek.",
-        "category": "Belföld",
-        "published_at": 1793768888
-      },
-      {
-        "source": "444.hu",
-        "title": "Visszafordítottak egy Moszkvába tartó szerb repülőgépet, amelyen több magas rangú szerb vezető is utazott",
-        "link": "https://444.hu/2026/11/04/visszaforditottak-egy-moszkvaba-tarto-szerb-repulogepet-amelyen-tobb-magasrangu-szerb-vezeto-is-utazott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A repülőt azért fordították vissza, mert kiderült, hogy a rajta utazó miniszterelnök-helyettes a biztonsági ellenőrzés megkerülésével jutott fel a gépre.",
-        "category": "Politika",
-        "published_at": 1793773048
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Visszafordítottak egy szerb politikusokat szállító, Moszkvába tartó repülőgépet",
-        "link": "https://hvg.hu/vilag/20261104_szerbia-oroszorszag-visszaforditott-repulogep-kormanytag",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/98f821ae-eb82-4362-8668-fc47ce866840.jpg",
-        "summary": "Az Air Serbia járatára Aleksandar Vulin volt miniszterelnök-helyettes a biztonsági ellenőrzés megkerülésével szállhatott fel.",
-        "category": "Külföld",
-        "published_at": 1793768537
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Ez váratlan: az oroszok Moszkva előtt fordítottak vissza egy repülőgépet, amin Vucic szövetségese utazott",
-        "link": "https://www.vg.hu/kozelet/2026/11/szerb-moszkva-jarat-repulogep-air-serbia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/EH_fs43EVdB2D4emY2tJtMa-tARNDF7o0fn0FmZ2hUA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2MTZiZTU4MWNjYjRmYjM4ZmZlYjQ3ZTQyNGZkM2Y5.jpg",
-        "summary": "Vissza kellett térnie Belgrádba az Air Serbia Moszkvába tartó járatának.",
-        "category": "Gazdaság",
-        "published_at": 1793790312
-      }
-    ]
-  },
-  {
     "group_id": "group_af016e00f8",
     "category": "Belföld",
     "articles_count": 1,
@@ -1389,6 +1330,31 @@
         "summary": "A presszókávé definíciója annyira laza, hogy egészen eltérő mennyiségű folyadékot kaphatunk ilyen néven, amiben szélsőségesen eltérhet a koffein töménysége.",
         "category": "Belföld",
         "published_at": 1793775765
+      }
+    ]
+  },
+  {
+    "group_id": "group_010ec9be66",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Visszafordítottak egy Moszkvába tartó szerb repülőgépet, amelyen több magas rangú szerb vezető is utazott",
+        "link": "https://444.hu/2026/11/04/visszaforditottak-egy-moszkvaba-tarto-szerb-repulogepet-amelyen-tobb-magasrangu-szerb-vezeto-is-utazott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A repülőt azért fordították vissza, mert kiderült, hogy a rajta utazó miniszterelnök-helyettes a biztonsági ellenőrzés megkerülésével jutott fel a gépre.",
+        "category": "Politika",
+        "published_at": 1793773048
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Ez váratlan: az oroszok Moszkva előtt fordítottak vissza egy repülőgépet, amin Vucic szövetségese utazott",
+        "link": "https://www.vg.hu/kozelet/2026/11/szerb-moszkva-jarat-repulogep-air-serbia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/EH_fs43EVdB2D4emY2tJtMa-tARNDF7o0fn0FmZ2hUA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2MTZiZTU4MWNjYjRmYjM4ZmZlYjQ3ZTQyNGZkM2Y5.jpg",
+        "summary": "Vissza kellett térnie Belgrádba az Air Serbia Moszkvába tartó járatának.",
+        "category": "Gazdaság",
+        "published_at": 1793790312
       }
     ]
   },
@@ -2129,22 +2095,6 @@
         "summary": "Az ügyészek két év börtönbüntetést indítványoztak a férfi ellen.",
         "category": "Külföld",
         "published_at": 1793772420
-      }
-    ]
-  },
-  {
-    "group_id": "group_bcdb070e71",
-    "category": "Külföld",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Külföld",
-        "title": "Kórházakat talált el az orosz támadás Ukrajnában, több mint 200 beteget kellett kimenekíteni",
-        "link": "https://index.hu/kulfold/2026/11/04/orosz-ukran-konfliktus-volodimir-zelenszkij-vlagyimir-putyin/",
-        "image": "https://kep.index.hu/1/0/7240/72409/724094/72409465_5336017_9a484cd6ebd3d0a9483f7a017f876ae4_wm.jpg",
-        "summary": "Az Index összefoglalója az orosz–ukrán háború keddi eseményeiről.",
-        "category": "Külföld",
-        "published_at": 1793768700
       }
     ]
   },
@@ -3243,7 +3193,7 @@
   {
     "group_id": "group_0559201cf6",
     "category": "Tech",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Rakéta.hu",
@@ -3253,6 +3203,15 @@
         "summary": "A technológia képes képek és videók megjelenítésére, reagál az ujjlenyomatokra, és vezeték nélkül csatlakozhat digitális eszközökhöz, miközben megőrzi a mindennapi anyagok légáteresztő képességét és rugalmasságát.",
         "category": "Tech",
         "published_at": 1793770765
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kifejlesztették a ruházatba épített érintőképernyőt, amely mosógépben is mosható",
+        "link": "https://index.hu/techtud/2026/11/05/ruha-erintokepernyo-okosruha-mesterseges-intelligencia-fejlesztes/",
+        "image": "https://kep.index.hu/1/0/7241/72411/724112/72411241_5336163_ef8d3e8c407ad808150fc57407782402_wm.jpg",
+        "summary": "Videók lejátszására és többféle érzékelési feladat ellátására is alkalmas.",
+        "category": "Általános",
+        "published_at": 1793854980
       }
     ]
   },
@@ -3492,7 +3451,7 @@
   {
     "group_id": "group_2d4df89c65",
     "category": "Bulvár",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Blikk",
@@ -3511,6 +3470,15 @@
         "summary": "Amióta az eszét tudja, az abszolút őszinteség híve.",
         "category": "Általános",
         "published_at": 1793782800
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Vasvári Vivien: „A hazugság előbb-utóbb úgyis kiütközik; mint bármi más, ez sem tart örökké”",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/05/vasvari-vivien-multja-hazugsag-baratnok/",
+        "image": "https://kep.index.hu/1/0/7241/72415/724156/72415661_382f30e0c3fa70aa0cfb4c51cab8ea69_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1793854815
       }
     ]
   },
@@ -3938,38 +3906,6 @@
         "summary": "Őszi csillagállás november 4-ére.",
         "category": "Bulvár",
         "published_at": 1793770200
-      }
-    ]
-  },
-  {
-    "group_id": "group_266f728744",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Növeli a demencia esélyét, és a magyarok 60%-át érinti: friss kutatási eredmény",
-        "link": "https://femina.hu/egeszseg/demencia-kockazata-magyarok/",
-        "image": "https://femina.hu/neon/media/images/demencia-tulsuly.e5b10642.format-jpeg.fill-1024x768.jpg",
-        "summary": "A súlytöbblet és a mentális problémák kialakulása közötti összefüggés különösen a 65 év feletti korosztály esetében jelentős.",
-        "category": "Bulvár",
-        "published_at": 1793768701
-      }
-    ]
-  },
-  {
-    "group_id": "group_13461eb2e6",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Ő Colin Farrell ritkán látott, fogyatékkal élő fia: a 23 éves Jamesről megható felvétel került elő",
-        "link": "https://femina.hu/vilagsztar/colin-farrell-fia-james-dokumentumfilm/",
-        "image": "https://femina.hu/neon/media/images/GettyImages-227416451.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Colin Farrell nagyon ritkán mutatja meg 23 éves fiát, Jamest, aki egy ritka, genetikai betegséggel küzd.",
-        "category": "Bulvár",
-        "published_at": 1793768700
       }
     ]
   },
@@ -13104,14 +13040,14 @@
         "image": "https://raketa.hu/uploads/2026/07/3f6db1a7-1d90-475a-8170-2f51ae5f45ab.jpg",
         "summary": "Közvetlenül még nem sikerült megfigyelni, létezésére azonban egyes távoli égitestek szokatlan pályája utalhat.",
         "category": "Kultúra",
-        "published_at": 1793854922
+        "published_at": 1793855295
       }
     ]
   },
   {
     "group_id": "group_19888da89a",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "HVG - Itthon",
@@ -13121,6 +13057,15 @@
         "summary": "Kiemelt cél a rendőrség állományának tehermentesítése, a tűzoltókat ismét tűzoltóknak fogják hívni.",
         "category": "Politika",
         "published_at": 1793852580
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Társadalmi egyeztetésre kerül a rendészeti törvénycsomag",
+        "link": "https://telex.hu/belfold/2026/11/05/tarsadalmi-egyeztetesre-kerul-a-rendeszeti-torvenycsomag",
+        "image": "https://assets.telex.hu/images/20261105/1793854870-temp-pke9mndsf1g18ejmaok_cimlap-normal.jpg",
+        "summary": "Ezt Pósfai Gábor belügyminiszter jelentette be a Facebookon.",
+        "category": "Politika",
+        "published_at": 1793854945
       }
     ]
   },
@@ -13281,6 +13226,86 @@
         "summary": "Így dolgozta fel a házaspár halálát.",
         "category": "Általános",
         "published_at": 1793854800
+      }
+    ]
+  },
+  {
+    "group_id": "group_7469cafd9a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szúrós szag miatt vizsgálódtak katonák egy XII. kerületi épületben",
+        "link": "https://index.hu/belfold/2026/11/05/budapest-xii-kerulet-szuros-szag-katasztrofavedelem-honvedseg-laborvizsgalat/",
+        "image": "https://kep.index.hu/1/0/7241/72419/724191/72419125_5336765_a0764d0b030ce01ce1ee23a16abb39ea_wm.png",
+        "summary": "A helyszínen korábban vegyszereket használó vállalkozások működtek.",
+        "category": "Általános",
+        "published_at": 1793855100
+      }
+    ]
+  },
+  {
+    "group_id": "group_bd4a7d8d23",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Így beszélnek Magyarországról Londonban: a legbiztonságosabb kikötő",
+        "link": "https://index.hu/gazdasag/2026/11/05/magyarorszag-virovacz-peter-ing-gdp-forint-euro/",
+        "image": "https://kep.index.hu/1/0/7241/72412/724129/72412929_5336301_c223fcf4e6ff1da9edff51130c5631c1_wm.jpg",
+        "summary": "Az ING vezető elemzője elmagyarázta, miért tekintenek így ránk.",
+        "category": "Általános",
+        "published_at": 1793854800
+      }
+    ]
+  },
+  {
+    "group_id": "group_3c035ced5d",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Kikapcsolt telefonszám és 3 milliárdos luxus: Így próbál megszabadulni dubaji vagyonától a körözött Matolcsy Ádám",
+        "link": "https://www.atv.hu/belfold/20261105/matolcsy-adam-dubaj-milliardok/",
+        "image": "",
+        "summary": "A nemzetközi elfogatóparancs ellenére továbbra is nyilvánosan hirdetik a milliárdos Matolcsy Ádám dubaji luxuslakását és vadonatúj sportkocsiját.",
+        "category": "Általános",
+        "published_at": 1793855160
+      }
+    ]
+  },
+  {
+    "group_id": "group_73da46c896",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "A Jóbarátok Phoepe-jeként egy világ imádta: 63 évesen így néz ki Lisa Kudrow",
+        "link": "https://femina.hu/vilagsztar/lisa-kudrow-phoebe-jobaratok-most-63-evesen/",
+        "image": "https://femina.hu/neon/media/images/Lisa_Kudrow_cover_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Lisa Kudrow a Jóbarátok óta rengeteget változott, a stílusa is sokkal letisztultabb és nőiesebb lett.",
+        "category": "Bulvár",
+        "published_at": 1793855100
+      }
+    ]
+  },
+  {
+    "group_id": "group_e457b7feef",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Így hat rád, ha mindennap eszel egy tojást: meglepő dologra is jó lehet",
+        "link": "https://femina.hu/egeszseg/tojas-mindennap-egeszsegugyi-elonyok/",
+        "image": "https://femina.hu/neon/media/images/GettyImages-229105938.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Olcsó, könnyen elkészíthető, mégis rengeteg értékes tápanyagot tartalmaz. A tojásnak a reggelizőasztalon is ott a helye.",
+        "category": "Bulvár",
+        "published_at": 1793855100
       }
     ]
   }
