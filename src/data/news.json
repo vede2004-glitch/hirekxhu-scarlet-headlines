@@ -1,5 +1,41 @@
 [
   {
+    "group_id": "group_01351888ba",
+    "category": "Általános",
+    "image": "https://cdn.hirtv.hu/2026/11/f2hskh7PfGj8PHJxI0Dei7RoPw0GvlxOBFaFp7D_yAA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ2NGQwYTZhOGMwODQ0OTNiOWY1Njc5ZjE5MjQzOGM1.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Sebestyén Géza: Beígérték a repülőrajtot, de csak állunk a kifutópályán",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/sebestyen-geza-beigertek-a-repulorajtot-de-csak-allunk-a-kifutopalyan"
+      }
+    ],
+    "published_at": 1793865269,
+    "title_hu": "Sebestyén Géza: Beígérték a repülőrajtot, de csak állunk a kifutópályán",
+    "lead_hu": "A tervezett intézkedések több társadalmi csoportot is hátrányosan érinthetnek....",
+    "content_hu": "A tervezett intézkedések több társadalmi csoportot is hátrányosan érinthetnek."
+  },
+  {
+    "group_id": "group_07e0857da9",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/4E36bOJ-I6V2TZzHN6434CAo17dIUBA4MjM9ssh5PLM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI2ZTBmMzE1OWE2OTQ1ZmNhOTAxMmVjOTc2YjVmZDIy.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Hiába a hangzatos bejelentések, a rászorulók tűzifa nélkül maradhatnak a télen",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/hiaba-a-hangzatos-bejelentesek-a-raszorulok-tuzifa-nelkul-maradhatnak-a-telen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793865247,
+    "title_hu": "Hiába a hangzatos bejelentések, a rászorulók tűzifa nélkül maradhatnak a télen",
+    "lead_hu": "Komoly problémák lehetnek a szociális tűzifa programmal....",
+    "content_hu": "Komoly problémák lehetnek a szociális tűzifa programmal."
+  },
+  {
     "group_id": "group_8decba815c",
     "category": "Bulvár",
     "image": "https://femina.hu/neon/media/images/sunok_vedelme_6.2e16d0ba.format-jpeg.fill-1024x768.jpg",
@@ -291,12 +327,17 @@
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261105/1793862257-temp-4qemaq9r88n4akjdabh_cimlap-normal.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Telex - Belföld",
         "title": "Újságírókat, ügyészeket és egyetemistákat is megfigyelhetett a szerb titkosszolgálat",
         "link": "https://telex.hu/kulfold/2026/11/05/ujsagirokat-ugyeszeket-es-egyetemistakat-is-megfigyelhetett-a-szerb-titkosszolgalat"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "A szerb titkosszolgálat újságírókat, ügyészeket és egyetemistákat is megfigyelhetett",
+        "link": "https://hvg.hu/vilag/20261105_szerb-titkosszolgalat-megfigyeles-ujsagiro-ugyesz-egyetemista"
       }
     ],
     "published_at": 1793862304,
@@ -1044,7 +1085,7 @@
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261105/1793858529-temp-hrhs45412337bhiekoh_cimlap-normal.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -1055,6 +1096,11 @@
         "source": "Index - Címlap",
         "title": "Meghalt Alan Jones, ausztrál Formula‑1-es világbajnok",
         "link": "https://index.hu/sport/2026/11/05/alan-jones-formula-1-vilagbajnok-meghalt/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Rövid betegség után elhunyt a Forma–1-es világbajnok",
+        "link": "https://magyarnemzet.hu/sport/2026/11/alan-jones-elhunyt-forma-1-vilagbajnok-williams?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1793858708,
@@ -2096,7 +2142,7 @@
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b11ee6d1-9662-4d14-8d0f-57a36a0f32f8.jpg",
     "is_synthesized": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "HVG - Itthon",
@@ -2117,6 +2163,11 @@
         "source": "Világgazdaság",
         "title": "Tovább folyik a háború az ÁSZ és az Irányító Hatóság között: Windisch László újabb lépést tett Bíró Ferenc kirúgása érdekében",
         "link": "https://www.vg.hu/kozelet/2026/11/windisch-laszlo-asz-biro-ferenc-iranyito-hatosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Windisch László fellebbezett, hogy elmozdítsa Biró Ferencet az Integritás Hatóság éléről",
+        "link": "https://index.hu/belfold/2026/11/05/windisch-laszlo-allami-szamvevoszek-biro-ferenc-integritas-hatosag-fellebezes/"
       }
     ],
     "published_at": 1793853900,
@@ -4693,7 +4744,7 @@
     "image": "https://kep.index.hu/1/0/5605/56058/560581/56058141_4144759_b202671b1b2ef3f96c71d6a5ab5ca806_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Index - Belföld",
@@ -4714,6 +4765,11 @@
         "source": "ATV",
         "title": "„Érdemes lesz vigyázni” – Volt kollégáinak üzent az Operaházból kirúgott Ókovács Szilveszter",
         "link": "https://www.atv.hu/belfold/20261104/okovacs-szilveszter-uzenet-operahaz/"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "„Undorító módon menesztettek\" - kitáltalt az Operaház korábbi sajtófőnöke Ókovács Szilveszter kirúgása után",
+        "link": "https://nlc.hu/sztarok/20261105/kitalalt-okovacs-szilveszterrol-az-operahaz-volt-sajtosa/2944vy8"
       }
     ],
     "published_at": 1793815934,
@@ -11391,7 +11447,7 @@
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/w/a/b/waberer-medical-center-866594.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
@@ -11402,6 +11458,11 @@
         "source": "Portfolio - Gazdaság",
         "title": "Már a szerződést is aláírták, mégis meghiúsulni látszik Wáberer György nagy magánegészségügyi üzlete",
         "link": "https://www.portfolio.hu/gazdasag/20261104/mar-a-szerzodest-is-alairtak-megis-meghiusulni-latszik-waberer-gyorgy-nagy-maganegeszsegugyi-uzlete-874058"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Váratlan fordulat: meghiúsult Wáberer György nagy magánkórház-vásárlása?",
+        "link": "https://nlc.hu/ezvan/20261104/waberer-gyorgy-tritonlife-magan-korhazak-felvasarlas-meghiusulas/yr07965"
       }
     ],
     "published_at": 1793790000,
@@ -14169,114 +14230,6 @@
     "title_hu": "Palvin Barbara teste után Jennifer Lawrence arca került az internet boncasztalára",
     "lead_hu": "A színésznő új márkáját és filmjét szerette volna promótálni, végül fiatalos külsejével keltett közfelháborodást.",
     "content_hu": "A színésznő új márkáját és filmjét szerette volna promótálni, végül fiatalos külsejével keltett közfelháborodást."
-  },
-  {
-    "group_id": "group_5e9a9286a8",
-    "category": "Belföld",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Bayer Zsolt az ügynökaktákról: Kitisztul vagy elgennyed?",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/bayer-zsolt-az-ugynokaktakrol-kitisztul-vagy-elgennyed"
-      }
-    ],
-    "published_at": 1793778900,
-    "title_hu": "Bayer Zsolt az ügynökaktákról: Kitisztul vagy elgennyed?",
-    "lead_hu": "\"A legsötétebb gazemberek maradnak továbbra is jótékony homályban, a névtelenség puha kényelmében\" - fogalmaz a Magyar Nemzet publicistája.",
-    "content_hu": "\"A legsötétebb gazemberek maradnak továbbra is jótékony homályban, a névtelenség puha kényelmében\" - fogalmaz a Magyar Nemzet publicistája."
-  },
-  {
-    "group_id": "group_52a15f93b7",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/termekvisszahivas_26.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Ne használd, ha ilyen borotvát vettél: ezért lehet nagyon veszélyes",
-        "link": "https://femina.hu/egeszseg/borotva-visszahivas-veszelyes-termek-hasznalat/"
-      }
-    ],
-    "published_at": 1793778870,
-    "title_hu": "Ne használd, ha ilyen borotvát vettél: ezért lehet nagyon veszélyes",
-    "lead_hu": "Visszahívták ezt a veszélyes borotvát!",
-    "content_hu": "Visszahívták ezt a veszélyes borotvát!"
-  },
-  {
-    "group_id": "group_fa8d260828",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/s/z/a/szavazas-voksolas-nepszavazas-dontes-614231.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "A kormány asztalán a javaslat a választási szabályok gyökeres átalakításáról",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/a-kormany-asztalan-a-javaslat-a-valasztasi-szabalyok-gyokeres-atalakitasarol-874134"
-      }
-    ],
-    "published_at": 1793778840,
-    "title_hu": "A kormány asztalán a javaslat a választási szabályok gyökeres átalakításáról",
-    "lead_hu": "A Nemzeti Választási Iroda (NVI) több mint száz pontból álló javaslatcsomagot dolgozott ki a választási jogszabályok módosítására, amelyet már el is küldött az Igazságügyi Minisztériumnak. Az áprilisi…",
-    "content_hu": "A Nemzeti Választási Iroda (NVI) több mint száz pontból álló javaslatcsomagot dolgozott ki a választási jogszabályok módosítására, amelyet már el is küldött az Igazságügyi Minisztériumnak. Az áprilisi országgyűlési választások tapasztalatain, valamint bírósági és nemzetközi ajánlásokon alapuló tervezet célja a visszaélések visszaszorítása, az elektronikus ügyintézés kiterjesztése, valamint az eljárások észszerűsítése."
-  },
-  {
-    "group_id": "group_4fa4e92ce4",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2256840378-tozsde-reszvenypiac-tokepiac-reszvenyek-technikai-elemzes-arfolyam-ke-858898.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Reagálnak az elemzők az amerikai félidős választási eredményekre",
-        "link": "https://www.portfolio.hu/befektetes/20261104/reagalnak-az-elemzok-az-amerikai-felidos-valasztasi-eredmenyekre-874132"
-      }
-    ],
-    "published_at": 1793778780,
-    "title_hu": "Reagálnak az elemzők az amerikai félidős választási eredményekre",
-    "lead_hu": "Többséget szereztek a demokraták az amerikai szenátusban és a képviselőházban is a keddi félidős választásokon, ami politikai patthelyzetet vetít előre Donald Trump elnök utolsó ciklusának hátralévő k…",
-    "content_hu": "Többséget szereztek a demokraták az amerikai szenátusban és a képviselőházban is a keddi félidős választásokon, ami politikai patthelyzetet vetít előre Donald Trump elnök utolsó ciklusának hátralévő két évére. A piaci szereplők gyorsan reagáltak az eredményekre, így az ázsiai kereskedésben zuhantak a mesterséges intelligenciával foglalkozó cégek részvényei, estek az amerikai állampapírhozamok, a dollár pedig gyengülni kezdett. A határidős amerikai részvényindexek a kezdeti meredek esésükből később ledolgoztak valamennyit."
-  },
-  {
-    "group_id": "group_ec4a87efe1",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-lg/e/l/k/elkepeszto-amit-a-bitcoin-muvel-raketazik-az-arfolyam-316669.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Nagy hullámokat vetett az amerikai választás a bitcoinnál",
-        "link": "https://www.portfolio.hu/befektetes/20261104/nagy-hullamokat-vetett-az-amerikai-valasztas-a-bitcoinnal-874126"
-      }
-    ],
-    "published_at": 1793778720,
-    "title_hu": "Nagy hullámokat vetett az amerikai választás a bitcoinnál",
-    "lead_hu": "Visszakapaszkodott héthetes mélypontjáról a bitcoin, miután a befektetők elkezdték feldolgozni az amerikai félidős választások eredményeit. Bár a demokraták várhatóan a kongresszus mindkét házában töb…",
-    "content_hu": "Visszakapaszkodott héthetes mélypontjáról a bitcoin, miután a befektetők elkezdték feldolgozni az amerikai félidős választások eredményeit. Bár a demokraták várhatóan a kongresszus mindkét házában többséget szereznek, ami szigorúbb felügyeletet hozhat a kriptoszektor számára, az árfolyam gyorsan ledolgozta kezdeti veszteségeit - írja a Bloomberg."
-  },
-  {
-    "group_id": "group_37a88b615f",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/09/MMvfQq4BKXcyCFACqMVFsb4y1GAM79n2aJ2g2fHgq5E/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E4ZTQzZmJkNDc3MjRhMWJhZGVjODVjNWQ3MWVhMmM0.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Erősített az ipar, de így sem tudta kirángatni a stagnálásból a magyar gazdaságot: a GDP továbbra is alig mozdul",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/ipar-ksh-gdp-termelo-agazatok-jarmugyartas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793778676,
-    "title_hu": "Erősített az ipar, de így sem tudta kirángatni a stagnálásból a magyar gazdaságot: a GDP továbbra is alig mozdul",
-    "lead_hu": "A feldolgozóipari alágak többségében emelkedett a termelés az egy évvel korábbihoz képest.",
-    "content_hu": "A feldolgozóipari alágak többségében emelkedett a termelés az egy évvel korábbihoz képest."
   },
   {
     "group_id": "group_3b18442487",
