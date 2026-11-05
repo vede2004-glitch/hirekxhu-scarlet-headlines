@@ -305,21 +305,28 @@ def fetch_single_feed(item_and_cutoff):
     return extracted
 
 def calculate_importance_score(item):
-    """Intelligens pontozás: több forrás + breaking kulcsszavak + frissesség"""
+    """
+    Intelligens pontozás: KIZÁRÓLAG az összevont / többforrásos hírekre érvényes!
+    Ha a hír mögött csak 1 forrás van, 0 pontot kap, így a normál időrendi sorrendben marad.
+    """
+    sources_count = item.get("sources_count", 1)
+    
+    if sources_count <= 1:
+        return 0.0
+
     score = 0.0
     
-    # 1. Források száma (minél többen hozták le, annál fontosabb)
-    sources_count = item.get("sources_count", 1)
+    # 1. Összevont források száma szerinti bónusz
     score += sources_count * 10.0
 
-    # 2. Breaking / Sürgős kulcsszavak a címben vagy leadben
+    # 2. Breaking / Sürgős kulcsszavak az összevont hírekben
     text = f"{item.get('title_hu', '')} {item.get('lead_hu', '')}".lower()
     breaking_keywords = ["rendkívüli", "bejelentés", "friss", "döntés", "kormány", "háború", "katasztrófa", "baleset"]
     for kw in breaking_keywords:
         if kw in text:
             score += 5.0
 
-    # 3. Frissesség súlyozás (az utóbbi órákban publikált cikkek bónuszt kapnak)
+    # 3. Frissességi bónusz az összevont híreknek
     pub_time = item.get("published_at", 0)
     age_hours = (time.time() - pub_time) / 3600.0
     if age_hours < 3:
@@ -504,10 +511,11 @@ def run_pipeline():
 
         verified_list.append(item)
 
-    # INTELLIGENS SÚLYOZÁS ALAPJÁRÓL RENDSZEREZÉS
+    # INTELLIGENS SÚLYOZÁS ALAPJÁN TÖRTÉNŐ RENDSZEREZÉS
     for item in verified_list:
         item["importance_score"] = calculate_importance_score(item)
 
+    # Elődlegesen az okos fontossági pontszám, másodlagosan a frissesség számít
     verified_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
 
     # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE
