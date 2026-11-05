@@ -41,47 +41,6 @@
     ]
   },
   {
-    "group_id": "group_d8725ff164",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Ügynökakták: miért éppen a költségvetési vita idején nyitották meg őket?",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-figyelemeltereles-koltsegvetes",
-        "image": "https://cdn.hirtv.hu/2026/11/6HvpTK2u7GP9lrl3XrpXITrazC-2yugHScLcW6M_2uU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhmMTUzM2U3YzExNjQ4M2I4ZmEyMTIzMTNmNjk5MmE0.webp",
-        "summary": "Figyelemelterelést emlegetnek az ellenzéki pártok.",
-        "category": "Általános",
-        "published_at": 1793809531
-      }
-    ]
-  },
-  {
-    "group_id": "group_94c914bbd3",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Kaposvári polgármester: \"Nem voltam ügynök, soha nem ártottam senkinek\"",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/kaposvari-polgarmester-nem-voltam-ugynok-soha-nem-artottam-senkinek-874306",
-        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260316077-866932.jpg",
-        "summary": "Szita Károly kaposvári polgármester szerint nincs semmi új abban, hogy ügynöki múlttal vádolják. A 32 éve hivatalban lévő városvezető hangsúlyozza, hogy soha nem volt ügynök, és senkinek sem ártott. Állítása szerint 2005-ös feljelentése nyomán az ügyészség megállapította, hogy manipulálták az iratokat, a tettest azonban nem sikerült azonosítani. Ungváry Krisztián történész, aki elsőként írt Szita múltjáról, ezzel szemben azt mondja, hogy a most nyilvánossá vált, gazdag adatokkal kitöltött karton egyértelműen bizonyítja a beszervezés tényét.",
-        "category": "Politika",
-        "published_at": 1793809380
-      },
-      {
-        "source": "ATV",
-        "title": "Fideszes polgármester az ügynökügyről: „soha nem ártottam senkinek”",
-        "link": "https://www.atv.hu/belfold/20261104/polgarmester-kaposvar-ugynokakta-szita/",
-        "image": "",
-        "summary": "Kaposvár polgármestere szerint „nincs ebben semmi új”, Szita Károly szerint az élete nyitott könyv.",
-        "category": "Politika",
-        "published_at": 1793810820
-      }
-    ]
-  },
-  {
     "group_id": "group_1b30b66b87",
     "category": "Politika",
     "articles_count": 1,
@@ -94,22 +53,6 @@
         "summary": "A megismert információkból nem az egész élettörténet rajzolódik ki. Az ügynökakták feldolgozása hasonlít a gyászfolyamatra: időre, türelemre, és a még élő érintettek esetén nyílt beszélgetésre van szükség. Joób Máté, a Semmelweis Egyetem Mentálhigiéné Intézetének egyetemi docense öt tanácsot osztott meg a feldolgozáshoz.",
         "category": "Politika",
         "published_at": 1793810118
-      }
-    ]
-  },
-  {
-    "group_id": "group_5040aa4ce7",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A Századvég alapítója is elismerte, hogy beszervezték, de elmondása szerint elszabotálta az együttműködést",
-        "link": "https://telex.hu/ugynokaktak/2026/11/04/gyurgyak-janos-tortenesz-6-os-karton-magnesszalag",
-        "image": "https://assets.telex.hu/images/20261104/1793807203-temp-d2u2o61rjcq5ccoimch_cimlap-normal.jpg",
-        "summary": "Gyurgyák János azt mondta, bár soha nem jelentett senkiről, évtizedek óta mardossa magát a történtek miatt.",
-        "category": "Politika",
-        "published_at": 1793809739
       }
     ]
   },
@@ -517,6 +460,22 @@
         "summary": "Azt viszont mondta, hogy az alelnökének részben igaza van abban, hogy az iráni háború miatt kaptak ki.",
         "category": "Politika",
         "published_at": 1793820096
+      }
+    ]
+  },
+  {
+    "group_id": "group_94c914bbd3",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Fideszes polgármester az ügynökügyről: „soha nem ártottam senkinek”",
+        "link": "https://www.atv.hu/belfold/20261104/polgarmester-kaposvar-ugynokakta-szita/",
+        "image": "",
+        "summary": "Kaposvár polgármestere szerint „nincs ebben semmi új”, Szita Károly szerint az élete nyitott könyv.",
+        "category": "Politika",
+        "published_at": 1793810820
       }
     ]
   },
@@ -12531,7 +12490,7 @@
   {
     "group_id": "group_b262111402",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -12541,6 +12500,15 @@
         "summary": "Bejelentette új műsorvezetőjét a csatorna.",
         "category": "Általános",
         "published_at": 1793891760
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Megvan ki veszi át Rónai Egon helyét az ATV-nél",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/ronai-egon-musorvezeto-azurak-csaba-atv-egyenes-beszed?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/gB4js8X1zIw9SPdG-iHzrtUoEFe7dJbaxaacSzJUz7Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIyNzMwZGQzZGNiOTRlY2E4ZTU1OGViMjcxZDliZWYy.jpg",
+        "summary": "Miközben a csatorna ismert műsorvezetői a Magyar Péter testvérének portáljával is együttműködő médiacsoporthoz igazolnak, az ATV egy korábbi TV2-es sztárral erősít.",
+        "category": "Politika",
+        "published_at": 1793895938
       }
     ]
   },
@@ -12805,7 +12773,7 @@
   {
     "group_id": "group_b056eae7d0",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -12815,6 +12783,15 @@
         "summary": "Nemrég megváltozott a testület vezetése is. The post Kinevezés: megvan a HUN-REN új vezérigazgatója first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1793893563
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Kinevezték a HUN-REN új vezérigazgatóját",
+        "link": "https://hvg.hu/itthon/20261105_hun-ren-uj-vezerigazgato-bereczky-aron-allami-kutatohalozat",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/46017809-6f7e-4623-bb4c-ac3df898143a.jpg",
+        "summary": "A korábbi vezetés azután távozott, hogy Tanács Zoltán miniszter kijelentette, kizárt, hogy a kormány együttműködjön velük.",
+        "category": "Politika",
+        "published_at": 1793895931
       }
     ]
   },
@@ -13135,6 +13112,70 @@
         "summary": "Nem mindennapi szerelést vállalt be a vörös szőnyegre a 77 éves Vera Wang.",
         "category": "Bulvár",
         "published_at": 1793895600
+      }
+    ]
+  },
+  {
+    "group_id": "group_56b8524ac9",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megérkeztek az első fotók a The Housemaid 2. forgatásáról, de a rajongók szerint a készítők már most nagyot hibáztak",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/05/the-housemaid-2-forgatas-sydney-sweeney-paparazzi/",
+        "image": "https://kep.index.hu/1/0/7242/72429/724291/72429131_9a7a1afdebbeb132c91bd9b461a81de9_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1793896038
+      }
+    ]
+  },
+  {
+    "group_id": "group_5e1fc0a254",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Svédország „súlyos veszélyre” hivatkozva fél évig visszaállítja a határellenőrzést a schengeni övezetben",
+        "link": "https://index.hu/kulfold/2026/11/05/svedorszag-schengeni-ovezet-haterellenorzes-visszaallitas-veszely-biztonsag/",
+        "image": "",
+        "summary": "A svéd rendőrség határozza meg, hogy hol és hogyan végzik az ellenőrzéseket.",
+        "category": "Általános",
+        "published_at": 1793896020
+      }
+    ]
+  },
+  {
+    "group_id": "group_e50c4f7bbe",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Hát senkinek nem kell a Videoton FC? Kiírták a harmadik pályázati kört",
+        "link": "https://telex.hu/sport/2026/11/05/szekesfehervar-onkormanyzat-harmadik-palyazati-kor-videoton-fc-fehervar",
+        "image": "https://assets.telex.hu/images/20261105/1793895636-temp-89lbdqkaosq15kpjcna_cimlap-normal.jpg",
+        "summary": "A székesfehérvári önkormányzat tavaly júniusban vette meg az élvonalból akkor kiesett csapatot működtető céget.",
+        "category": "Politika",
+        "published_at": 1793895959
+      }
+    ]
+  },
+  {
+    "group_id": "group_b56b562746",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "PC World",
+        "title": "A megújult PCW erősebb, mint valaha",
+        "link": "https://www.gsplus.hu/pcw/pcw-bekoszono-388311.html",
+        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/gs_plus_123347_2_original_390x220_cover.jpg",
+        "summary": "Küldetésünk a professzionális szakmaiságot ötvözni a közérthető, olvasóbarát hangvétellel, hogy nélkülözhetetlen támasza lehessünk az informatikában dolgozó szakembereknek és a tudatos felhasználóknak egyaránt.",
+        "category": "Kultúra",
+        "published_at": 1793890818
       }
     ]
   }
