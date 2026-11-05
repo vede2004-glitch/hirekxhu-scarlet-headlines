@@ -112,17 +112,12 @@
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/05/-YED4oS6gkmV9w4zJGQiR6_5Uj7QQimJtsax7hV06KM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RlOTZmZGYyMGYxZTQ2MWY4M2YyMjk0MTE2MDY4NDUw.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
         "source": "Magyar Nemzet",
         "title": "Schiffer András tömör kritikát fogalmazott meg az ügynöklistáról, ezt a két nevet hiányolta",
         "link": "https://magyarnemzet.hu/belfold/2026/11/schiffer-andras-horn-gyula-medgyessy-peter-magyar-peter-ugynokaktak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Schiffer két nevet hiányol az ügynöklistáról",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/schiffer-ket-nevet-hianyol-az-ugynoklistarol"
       }
     ],
     "published_at": 1793828750,
@@ -2316,9 +2311,11 @@
   },
   {
     "group_id": "group_da84013c92",
+    "fingerprint": "e339f191a028deb13aadc2f9f8781090",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/05/-_Vt4Bqsd4eB-K3bxkJ3whg9BYpaXdhoHQH4GlG_W7M/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBlN2ZkYmQwMmQ5NDQxMjJiNDk4ZjY3OTg1ZGIxNmMz.jpg",
-    "is_synthesized": false,
+    "is_synthesized": true,
+    "rejected": false,
     "sources_count": 2,
     "sources": [
       {
@@ -2333,9 +2330,9 @@
       }
     ],
     "published_at": 1793816597,
-    "title_hu": "Surányi György volt jegybankelnök neve is felbukkant az ügynökakták között",
-    "lead_hu": "A nyilvántartási bejegyzés ugyanakkor önmagában nem bizonyítja a tényleges jelentéstételt....",
-    "content_hu": "A nyilvántartási bejegyzés ugyanakkor önmagában nem bizonyítja a tényleges jelentéstételt."
+    "title_hu": "Surányi György neve is felbukkant az ügynökaktákban",
+    "lead_hu": "A Nyitott Akták adatbázisában közzétett állambiztonsági bejegyzés „Otto” fedőnéven tünteti fel Surányi György volt jegybankelnököt. A beszámoló szerint a nyilvántartásban szereplő adatok között a 04-es kategóriakód is megtalálható; az adatbázisban Járai Zsigmond neve is felbukkan.",
+    "content_hu": "• **Surányi György neve** „Otto” fedőnéven szerepel a Nyitott Akták oldalán közzétett állambiztonsági bejegyzésben.\n\n• **Az azonosító adatok** között a beszámoló szerint a születési hely és az édesanya neve is egyezik Surányi adataival.\n\n• **A 04-es kategóriakód** a cikk szerint a foglalkoztatott hálózati személyek megjelölésére szolgált a kommunista állambiztonság nyilvántartásában.\n\n• **Járai Zsigmond neve** szintén szerepel az adatbázisban: a róla szóló bejegyzés „Bihari” fedőnevet és ugyancsak 04-es kategóriakódot tüntet fel."
   },
   {
     "group_id": "group_0f19ef436e",
@@ -2375,28 +2372,21 @@
   },
   {
     "group_id": "group_342b2458c0",
-    "fingerprint": "d34cd50067eb31c5573a628cb10f39bd",
-    "category": "Politika",
+    "category": "Általános",
     "image": "https://kep.index.hu/1/0/7241/72417/724172/72417277_5336619_7f277dfe2a905639e920a30fe016e922_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
         "source": "Index - Címlap",
         "title": "Az egyházmegye közölte: a Kiss-Rigó László ügynöki beszervezéséről szóló híresztelés valótlan, megtévesztő és jogsértő",
         "link": "https://index.hu/belfold/2026/11/04/kiss-rigo-laszlo-ugynokaktak-allambiztonsag-szeged-csanadi-egyhazmegye-beszervezes/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Valótlannak nevezte az egyházmegye a Kiss-Rigó László beszervezésére vonatkozó híreszteléseket",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/valotlannak-nevezte-az-egyhazmegye-a-kiss-rigo-laszlo-beszervezesere-vonatkozo-hireszteleseket"
       }
     ],
     "published_at": 1793816280,
-    "title_hu": "Az egyházmegye szerint valótlanok a Kiss-Rigó László beszervezéséről szóló híresztelések",
-    "lead_hu": "A Szeged-Csanádi Egyházmegye valótlanak, megtévesztőnek és jogsértőnek nevezte a Kiss-Rigó László püspök államvédelmi beszervezéséről szóló híreket. Az egyházmegye felidézte, hogy a püspök 2009-ben jogerősen megnyert egy hasonló állítások miatt indított pert.",
-    "content_hu": "• **Az egyházmegye álláspontja** A közlemény szerint a püspök személyes adatait tartalmazó úgynevezett 6-os karton létezése nem bizonyítja, hogy ügynökként foglalkoztatták.\n\n• **A 2009-es per** A bírósági eljárás során megállapították, hogy történtek próbálkozások Kiss-Rigó László beszervezésére, de a beszervezés nem valósult meg. A püspök a hasonló állítások miatt indított pert jogerősen megnyerte; az alperesek helyreigazítást tettek közzé és kártérítést fizettek.\n\n• **A mostani híresztelések** Az egyházmegye szerint ugyanaz a karton és az arra alapozott, ügynöki tevékenységről szóló valótlan állítások jelentek meg újra a sajtóban."
+    "title_hu": "Az egyházmegye közölte: a Kiss-Rigó László ügynöki beszervezéséről szóló híresztelés valótlan, megtévesztő és jogsértő",
+    "lead_hu": "A közlemény szerint korábban pert nyert ebben az ügyben a püspök.",
+    "content_hu": "A közlemény szerint korábban pert nyert ebben az ügyben a püspök."
   },
   {
     "group_id": "group_c6621f2373",
@@ -12705,17 +12695,12 @@
     "category": "Politika",
     "image": "https://cdn.vg.hu/2026/11/RR9kSnoSbwNMlm1ysK7vhpyeyc3T_24slfJlFkZ7ZxE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4OTBiNmI1Mjg4ZDQzNmI5Njg2MTgxNTQxM2ZjNmM3.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
         "source": "Világgazdaság",
         "title": "Ömlik át az ukrán gabona a határon Magyarország felé: naponta közel 6,5 ezer tonna érkezik – működik Zelenszkij és Magyar Péter megállapodása",
         "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/gabona-ukran-hataron-magyarorszag-fele-zelenszkij?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Naponta közel 6,5 ezer tonna ukrán gabona halad át Magyarország területén",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/naponta-kozel-65-ezer-tonna-ukran-gabona-halad-at-magyarorszag-teruleten"
       }
     ],
     "published_at": 1793775785,
