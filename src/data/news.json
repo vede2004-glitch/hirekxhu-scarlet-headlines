@@ -1,5 +1,60 @@
 [
   {
+    "group_id": "group_e04570aa87",
+    "fingerprint": "22572471aa778d2c0e5c170009263419",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793810344-temp-beele6nt0ran6gfgidj_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Azonnali lépést tett Magyarországon a Revolut: leállította a kereskedést több népszerű termékkel",
+        "link": "https://www.portfolio.hu/befektetes/20261104/azonnali-lepest-tett-magyarorszagon-a-revolut-leallitotta-a-kereskedest-tobb-nepszeru-termekkel-874330"
+      },
+      {
+        "source": "PC World",
+        "title": "Indoklás nélkül kivezeti a Revolut a nemesfémekkel kapcsolatos befektetési szolgáltatásait Magyarországon",
+        "link": "https://www.pcwplus.hu/pcwlite/indoklas-nelkul-kivezeti-a-revolut-a-nemesfemekkel-kapcsolatos-befektetesi-szolgaltatasait-magyarorszagon-390443.html"
+      },
+      {
+        "source": "Rakéta.hu",
+        "title": "A Revolut hirtelen leállított egy szolgáltatást, kizárólag Magyarországon - ez állhat a háttérben",
+        "link": "https://raketa.hu/revolut-leallitas-nemesfem-kereskedes-magyarazat/"
+      }
+    ],
+    "published_at": 1793869056,
+    "title_hu": "Kivezeti a Revolut Magyarországról a nemesfémek kereskedését",
+    "lead_hu": "A Revolut megszünteti a tőzsdei árukkal kapcsolatos szolgáltatását Magyarországon, így az ügyfelek már nem vásárolhatnak aranyat, ezüstöt, palládiumot vagy platinát. A meglévő pozíciókat 2027. január 4-ig lehet eladni, az értékesítési tranzakciók díját erre az időszakra elengedik. A kivezetés oka egyelőre nem ismert; egyes feltételezések szerint a magyarországi szabályozási környezet állhat a háttérben.",
+    "content_hu": "• **Csak a magyar ügyfeleket érinti a döntés:** A Revolut kivezeti a platformjáról a nemesfémekkel kapcsolatos kereskedési szolgáltatást Magyarországon.\n\n• **Négy árupiaci termék kerül ki:** Arannyal, ezüsttel, palládiummal és platinával nem lehet új vételi megbízást adni, a meglévő pozíciók pedig nem növelhetők.\n\n• **A kivezetés azonnal életbe lépett:** Bár az alkalmazásban a vételi opció továbbra is megjelenhet, a rendszer a tranzakció végrehajtását már nem engedi.\n\n• **Új ügyfelek sem csatlakozhatnak:** A szolgáltatásra új regisztrációt nem fogadnak, a meglévő felhasználók viszont megtarthatják pozícióikat az eladási határidőig.\n\n• **2027. január 4-ig lehet eladni:** A már meglévő befektetéseket eddig az időpontig értékesíthetik az ügyfelek az alkalmazásban; az eladások tranzakciós díját a Revolut elengedi.\n\n• **A megszüntetés okát nem közölték:** A brit pénzügyi felügyelet alatt működő Revolut Ltd. egyelőre nem adott hivatalos magyarázatot a szolgáltatás kivezetésére.\n\n• **A szabályozási környezet is állhat a háttérben:** A Rakéta.hu szerint valószínű, hogy nem önkéntes üzleti döntésről van szó, hanem a magyarországi szabályozás miatt kellett leállítani a nemesfém-kereskedést; ezt a feltevést a Revolut nem erősítette meg.\n\n• **Korábban a kriptoszolgáltatás is megszűnt Magyarországon:** A Revolut 2025 decemberében szintén kizárólag a magyar ügyfeleknél állította le a kriptovaluta-szolgáltatásait; ezt akkor jogszabályi változásokkal indokolta, de a funkciót azóta sem állította vissza."
+  },
+  {
+    "group_id": "group_0fe0717d73",
+    "fingerprint": "4f27e1d4937bce583730c80af0da7c75",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Lezsák Sándor nem volt ügynök, informatikai hiba miatt került közéjük",
+        "link": "https://444.hu/2026/11/05/informatikai-hiba-kovetkezteben-kerult-lezsak-sandor-az-ugynokok-koze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "444.hu",
+        "title": "Újra átnézik, nem volt-e másoknál is hiba az állambiztonsági adatbázisban, de Lezsák téves azonosítása egyedinek tűnik",
+        "link": "https://444.hu/2026/11/05/ujra-atnezik-nem-volt-e-masoknal-is-hiba-az-allambiztonsagi-adatbazisban-de-lezsak-teves-azonositasa-egyedinek-tunik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793868991,
+    "title_hu": "Kijavították Lezsák Sándor téves adatbázis-bejegyzését, más eseteket is ellenőriznek",
+    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára szerint informatikai hiba miatt jelent meg Lezsák Sándor neve hálózati személyként a Nyitott Akták adatbázisában; a mágnesszalagokon megfigyeltként szerepel. A levéltár elnézést kért, a téves találatot csütörtök reggelre kijavította, és a közel 60 ezer nyilvánosságra hozott személy adatát is ellenőrzi hasonló hibák után kutatva.",
+    "content_hu": "• **Hibás adatbázis-bejegyzés** Az ÁBTL közlése szerint technikai hiba miatt jelent meg Lezsák Sándor neve hálózati személyként a Nyitott Akták adatbázisában.\n\n• **Megfigyeltként szerepel** A levéltár szerint Lezsák neve megtalálható a mágnesszalagokon, de nem hálózati személyként, hanem megfigyeltként.\n\n• **Kijavították a téves találatot** A 444 beszámolója szerint csütörtök fél tízkor az adatbázisban Lezsák nevére keresve már nem jelent meg találat.\n\n• **Más adatokat is ellenőriznek** Az ÁBTL a közel 60 ezer nyilvánosságra hozott személy adatát is újra átvizsgálja, hogy kiderüljön, előfordult-e más téves azonosítás. A levéltárnál Lezsák esetét egyedi hibának tartják; más hasonló esetre egyelőre nem számítanak.\n\n• **A hiba lehetséges oka** A 444 információi szerint az adatokat összesítő Excel-fájl beolvasásakor történhetett informatikai hiba, ezt azonban az ÁBTL közleménye nem részletezte.\n\n• **Bocsánatkérés és intézkedések** Az intézmény elnézést kért Lezsáktól, megkezdte az adatbázis érintett részének felülvizsgálatát, és a hasonló esetek megelőzésére is intézkedéseket ígért.\n\n• **Lezsák reakciója** A volt országgyűlési képviselő azt mondta, hogy őt figyelték meg, és jogi lépéseket helyezett kilátásba azokkal szemben, akik ügynöknek nevezik."
+  },
+  {
     "group_id": "group_7d39aeb650",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/TFkVHWZ9inh9eHdOr7aPdanjvHwsUHm0Vy_Gg1n1Vek/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgyODAzNzg2ODU2NjQwN2JiNTdhNThiNjdmNjNmYmU1.jpg",
@@ -14,7 +69,7 @@
     ],
     "published_at": 1793868915,
     "title_hu": "Korábbi RTL-es újságíró lett bizalmi tanácsadó Tarr Zoltán minisztériumában",
-    "lead_hu": "Többmilliós szerződést kötött a minisztérium A szavazat ára egyik alkotójával....",
+    "lead_hu": "Többmilliós szerződést kötött a minisztérium A szavazat ára egyik alkotójával.",
     "content_hu": "Többmilliós szerződést kötött a minisztérium A szavazat ára egyik alkotójával."
   },
   {
@@ -32,7 +87,7 @@
     ],
     "published_at": 1793868703,
     "title_hu": "„A sportban nem azt kell nézni, hogy az ember mit gondol, hanem leginkább azt, hogyan teljesít” – Sipos Adriánra nem számít az új kapitány",
-    "lead_hu": "A 112-szeres válogatott beálló helyett fiatalokra építene az új kapitány. Bár nem zárta ki, hogy a jövőben meghívja a védekezőspecialistát Sótonyi László, könnyen lehet, hogy többször nem képviseli má...",
+    "lead_hu": "A 112-szeres válogatott beálló helyett fiatalokra építene az új kapitány. Bár nem zárta ki, hogy a jövőben meghívja a védekezőspecialistát Sótonyi László, könnyen lehet, hogy többször nem képviseli má…",
     "content_hu": "A 112-szeres válogatott beálló helyett fiatalokra építene az új kapitány. Bár nem zárta ki, hogy a jövőben meghívja a védekezőspecialistát Sótonyi László, könnyen lehet, hogy többször nem képviseli már hazánkat. The post „A sportban nem azt kell nézni, hogy az ember mit gondol, hanem leginkább azt, hogyan teljesít” – Sipos Adriánra nem számít az új kapitány first appeared on 24.hu."
   },
   {
@@ -50,7 +105,7 @@
     ],
     "published_at": 1793868672,
     "title_hu": "Rohamot indítottak a magyarok az import használt személyautókért – elárulta a szakértő, mik most a legnépszerűbb márkák",
-    "lead_hu": "Nyár óta felpörgött a használt gépjárművek behozatala....",
+    "lead_hu": "Nyár óta felpörgött a használt gépjárművek behozatala.",
     "content_hu": "Nyár óta felpörgött a használt gépjárművek behozatala."
   },
   {
@@ -68,7 +123,7 @@
     ],
     "published_at": 1793868600,
     "title_hu": "Melissa McCarthy a felére fogyott: 45 kilós mínusszal ilyen dögös estélyiben a vörös szőnyegen",
-    "lead_hu": "Mintha teljesen kicserélték volna a színésznőt, a vörös szőnyegen tapadós ruhájában garantáltan ellopta a show-t...",
+    "lead_hu": "Mintha teljesen kicserélték volna a színésznőt, a vörös szőnyegen tapadós ruhájában garantáltan ellopta a show-t",
     "content_hu": "Mintha teljesen kicserélték volna a színésznőt, a vörös szőnyegen tapadós ruhájában garantáltan ellopta a show-t"
   },
   {
@@ -86,8 +141,38 @@
     ],
     "published_at": 1793868600,
     "title_hu": "Áll a bál Paraguayban, a bankválság után az elnök eltávolítását követelik, tüntetések törtek ki",
-    "lead_hu": "Van, aki egész élete megtakarítását veszítette el....",
+    "lead_hu": "Van, aki egész élete megtakarítását veszítette el.",
     "content_hu": "Van, aki egész élete megtakarítását veszítette el."
+  },
+  {
+    "group_id": "group_6f2c9bee92",
+    "fingerprint": "6cad5f374a2b7eb70b13f0f35c9b616a",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/11/6WDO-L29rm-TtXtkGv_v5LsERAJLwDPNzHjdEdGA25g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxOGZlZWQyNzJjNzRkZDNiYjhhMWRiMzY3YWJjMGM3.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Az Origón tér vissza Andor Éva műsora",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/andor-eva-musora-az-origon-ter-vissza"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Andor Éva új műsorral tér vissza, mutatjuk ki lesz az első vendége",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/andor-eva-uj-musorral-ter-vissza-mutatjuk-ki-lesz-az-elso-vendege?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Femina",
+        "title": "A TV2 sztárhíradósa ebben a műsorban tér vissza a képernyőre: meglepő, hol láthatod Andor Évát",
+        "link": "https://femina.hu/hazai_sztar/andor-eva-uj-musora/"
+      }
+    ],
+    "published_at": 1793868600,
+    "title_hu": "Andor Éva új podcasttal tér vissza az Origón",
+    "lead_hu": "Andor Éva Négyszemközt Andor Évával című műsora az Origo YouTube-csatornáján indul újra. Az első, csütörtökön megjelenő epizód vendége Vidnyánszky Attila lesz, a további részek pedig hetente érkeznek.",
+    "content_hu": "• **Új platformon folytatódik a műsor** Andor Éva podcastja az Origo YouTube-csatornáján tér vissza, néhány hónapos szünet után.\n\n• **Hetente csütörtökön jelentkezik** Az első epizód csütörtökön debütál, ezt követően minden héten új beszélgetés lesz elérhető.\n\n• **Vidnyánszky Attila lesz az első vendég** A műsorvezető művészeket, tudósokat, zenészeket, sportolókat és más közéleti személyiségeket kérdez majd életükről, gondolkodásukról és értékeikről.\n\n• **Andor Éva a TV2-től való távozása után tér vissza** A műsorvezető a televízió helyett ezúttal az Origo YouTube-csatornáján folytatja a munkát.\n\n• **Korábbi podcastja három éven át fontos része volt az életének** Andor Éva elmondása szerint a néhány hónapos szünet jót tett neki, és új lendülettel várja a folytatást.\n\n• **A személyes történetek kerülnek előtérbe** A beszélgetések középpontjában nem elsősorban az aktuálpolitika, hanem a vendégek életútja és a hétköznapi híreken túlmutató témák állnak."
   },
   {
     "group_id": "group_b78366f390",
@@ -104,7 +189,7 @@
     ],
     "published_at": 1793868315,
     "title_hu": "Sam Altman végre megszólalt, miután mindenkit kiborított a RAM-okkal kapcsolatos megjegyzésével",
-    "lead_hu": "Nagyot fordult a világ, bár ha Altmant kérdezitek, ő azt mondaná, hogy mindig is az volt a véleménye, hogy annyi RAM-unk lehessen, amennyit csak akarunk....",
+    "lead_hu": "Nagyot fordult a világ, bár ha Altmant kérdezitek, ő azt mondaná, hogy mindig is az volt a véleménye, hogy annyi RAM-unk lehessen, amennyit csak akarunk.",
     "content_hu": "Nagyot fordult a világ, bár ha Altmant kérdezitek, ő azt mondaná, hogy mindig is az volt a véleménye, hogy annyi RAM-unk lehessen, amennyit csak akarunk."
   },
   {
@@ -122,7 +207,7 @@
     ],
     "published_at": 1793868300,
     "title_hu": "Átalakítaná a rendőrség és a tűzoltóság működését a kormány, a honvédségnek is nagyobb szerep jutna",
-    "lead_hu": "Társadalmi egyeztetésre bocsátják a rendészeti törvénycsomagot....",
+    "lead_hu": "Társadalmi egyeztetésre bocsátják a rendészeti törvénycsomagot.",
     "content_hu": "Társadalmi egyeztetésre bocsátják a rendészeti törvénycsomagot."
   },
   {
@@ -140,8 +225,33 @@
     ],
     "published_at": 1793868240,
     "title_hu": "Összeomlott a Rheinmetall árfolyama, egyre nagyobb a baj a német hadiipari cégnél",
-    "lead_hu": "Hatalmas eséssel reagáltak a Rheinmetall részvényei a cég legfrissebb gyorsjelentésére, a német hadiipari vállalat részvényárfolyama ma 16 százalékot zuhant. A vállalat augusztus óta már másodszor csö...",
+    "lead_hu": "Hatalmas eséssel reagáltak a Rheinmetall részvényei a cég legfrissebb gyorsjelentésére, a német hadiipari vállalat részvényárfolyama ma 16 százalékot zuhant. A vállalat augusztus óta már másodszor csö…",
     "content_hu": "Hatalmas eséssel reagáltak a Rheinmetall részvényei a cég legfrissebb gyorsjelentésére, a német hadiipari vállalat részvényárfolyama ma 16 százalékot zuhant. A vállalat augusztus óta már másodszor csökentette éves előrejelzését, fontos katonai megrendelések és lőszerszállítások csúsznak át a következő évre. Pedig a negyedév első ránézésre kifejezetten erős, 32 százalékkal nőtt az árbevétel, az üzemi eredmény pedig 62 százalékkal ugrott meg, a megrendelésállomány pedig történelmi csúcson van. A befektetők viszont egyre inkább attól tartanak, hogy az európai fegyverkezési hullám ellenére a vártnál lassabban válthatók tényleges bevételekre és profitra a gigantikus megrendelések."
+  },
+  {
+    "group_id": "group_532641c020",
+    "fingerprint": "e46ffebe332256d3e541119ca28eeab0",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b11ee6d1-9662-4d14-8d0f-57a36a0f32f8.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Windisch László nem hagyja annyiban: fellebbezett Biró Ferenc IH-elnök kirúgatása érdekében",
+        "link": "https://hvg.hu/itthon/20261105_windisch-laszlo-asz-ih-elnok-fellebbezes-biro-ferenc-kirugatas"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Tovább folyik a háború az ÁSZ és az Irányító Hatóság között: Windisch László újabb lépést tett Bíró Ferenc kirúgása érdekében",
+        "link": "https://www.vg.hu/kozelet/2026/11/windisch-laszlo-asz-biro-ferenc-iranyito-hatosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793867940,
+    "title_hu": "Fellebbezett az ÁSZ elnöke Biró Ferenc elmozdítása érdekében",
+    "lead_hu": "Windisch László, az Állami Számvevőszék elnöke fellebbezett a Fővárosi Ítélőtáblánál, miután a törvényszék októberben elkésettség miatt megszüntette a Biró Ferenc Pál, az Integritás Hatóság elnöke hivatalvesztését célzó pert. Az ÁSZ vitatja a megszüntetés indokát; a fellebbezésről és arról, hogy folytatódhat-e az eljárás, még nincs döntés.",
+    "content_hu": "• **Fellebbezés:** Windisch László az ítélőtáblához fordult, mert vitatja a törvényszék végzésének indokát. A bíróság megerősítette, hogy a fellebbezés határidőben érkezett; annak részleteiről egyelőre nincs nyilvános információ.\n\n• **A per megszüntetése:** A Fővárosi Törvényszék októberben elkésettnek találta az ÁSZ elnökének keresetét. A bíróság szerint Windischnek a Legfőbb Ügyészség 2025. február 27-i tájékoztatásától számított 90 napon belül kellett volna elindítania az eljárást, és a kereset 384 napos késéssel érkezett.\n\n• **A határidő vitája:** Windisch június közepén, 11 nappal a június 5-i vádemelés után nyújtotta be a keresetet. A törvényszék szerint a vádemelés és a büntetőeljárás más későbbi fejleményei nem indították újra a keresetindítási határidőt.\n\n• **Az eljárás jogi alapja:** Az IH elnökének hivatalvesztése nem automatikus: a közigazgatási eljárást az ÁSZ elnökének kell kezdeményeznie. A szabályozás alapján már a gyanúsítás is elegendő lehet ahhoz, hogy az elnök büntetőeljárás részesévé váljon; nem feltétel a vádemelés vagy a gyanú bizonyítottsága.\n\n• **A Biró elleni vádak:** Az ügyészség hűtlen kezeléssel és más bűncselekményekkel vádolja Biró Ferenc Pált. A vádhatóság szerint többek között felesége luxusautó-használata, fiktív brüsszeli szerződések és egy ismerős foglalkoztatása miatt több mint 140 millió forint vagyoni hátrány érte a hatóságot. Biró tagadja a vádakat, és politikai indíttatásúnak tartja az eljárást.\n\n• **Biró ellenkérelme:** Az IH elnöke azt közölte, hogy az elmozdítását célzó kereset szerinte ellentétes Magyarország helyreállítási tervével, és veszélyezteti az uniós források hazahozatalát. A törvényszék a per megszüntetése miatt érdemben nem vizsgálta az ellenkérelmet."
   },
   {
     "group_id": "group_a933241565",
@@ -158,7 +268,7 @@
     ],
     "published_at": 1793867880,
     "title_hu": "Tarr Zoltán lemondását és a nyitottaktak.hu leállítását követeli a Fidesz az informatikai hibát követően",
-    "lead_hu": "Lezsák Sándor neve tévesen szerepel az adatbázisban....",
+    "lead_hu": "Lezsák Sándor neve tévesen szerepel az adatbázisban.",
     "content_hu": "Lezsák Sándor neve tévesen szerepel az adatbázisban."
   },
   {
@@ -176,7 +286,7 @@
     ],
     "published_at": 1793867880,
     "title_hu": "Megbüntették az Auchant mert megtévesztette a vásárlókat",
-    "lead_hu": "Közel 69 millió forintos bírságot szabott ki a Gazdasági Versenyhivatal (GVH) az Auchanra, miután a kiskereskedelmi lánc több kuponakciója során is megtévesztette a vásárlókat. A vállalat elismerte a ...",
+    "lead_hu": "Közel 69 millió forintos bírságot szabott ki a Gazdasági Versenyhivatal (GVH) az Auchanra, miután a kiskereskedelmi lánc több kuponakciója során is megtévesztette a vásárlókat. A vállalat elismerte a …",
     "content_hu": "Közel 69 millió forintos bírságot szabott ki a Gazdasági Versenyhivatal (GVH) az Auchanra, miután a kiskereskedelmi lánc több kuponakciója során is megtévesztette a vásárlókat. A vállalat elismerte a jogsértést, és lemondott a jogorvoslat lehetőségéről - írta a Versenyhatóság."
   },
   {
@@ -194,7 +304,7 @@
     ],
     "published_at": 1793867786,
     "title_hu": "Közel a kormánnyal kötött vállalásához a Telekom",
-    "lead_hu": "A piacvezető szolgáltatónál jelentősen nőtt az 5G-lefedettség és a gigabitképes igényhelyek száma....",
+    "lead_hu": "A piacvezető szolgáltatónál jelentősen nőtt az 5G-lefedettség és a gigabitképes igényhelyek száma.",
     "content_hu": "A piacvezető szolgáltatónál jelentősen nőtt az 5G-lefedettség és a gigabitképes igényhelyek száma."
   },
   {
@@ -212,8 +322,33 @@
     ],
     "published_at": 1793867717,
     "title_hu": "Szikora János rendezőt meglepte, hogy van róla egy beszervezési dosszié",
-    "lead_hu": "Azt állítja, nem írt alá és nem jelentett....",
+    "lead_hu": "Azt állítja, nem írt alá és nem jelentett.",
     "content_hu": "Azt állítja, nem írt alá és nem jelentett."
+  },
+  {
+    "group_id": "group_2100baa6cc",
+    "fingerprint": "475257ddb7c4a517d8b97fec0c0c4e79",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/lJf-hnZgIxVY8RAYwaWEZR_sjHFv48zbFqDwmGCRpxg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QzMmM2ZjFhZDNhMjRhMjhhOTk2MzA5NmYyZjVkOGZk.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Nagy hírt kaptak a benzines autók tulajdonosai szerdán, a dízelesek 5000 forinttal vigasztalódhatnak: megjelentek az új üzemanyagárak",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/uzemanyagar-benzin-dizel-holtankolajak-szerda-tankolas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Femina",
+        "title": "Csütörtökön így változik a benzin ára: a gázolajról is megszólaltak a szakértők",
+        "link": "https://femina.hu/terasz/benzin-ara-csutortokon-gazolaj-szakertok/"
+      }
+    ],
+    "published_at": 1793867700,
+    "title_hu": "Újabb öt forinttal csökkent a benzin ára, a dízelé november 5-én is változatlan",
+    "lead_hu": "November 5-én újabb 5 forinttal mérséklődött a 95-ös benzin országos átlagára az előző naphoz képest, a gázolajé nem változott. A két üzemanyagtípus közötti árkülönbség már megközelíti a 100 forintot; a dízeleseknek decemberig havi 5000 forintos állami támogatás jár.",
+    "content_hu": "• **November 4-i árváltozás:** A 95-ös benzin literenként 5 forinttal lett olcsóbb keddhez képest, a gázolaj ára változatlan maradt.\n\n• **November 5-i árváltozás:** A benzin országos átlagára újabb 5 forinttal csökkent az előző naphoz képest, miközben a gázolaj ára változatlan maradt.\n\n• **Várható nagykereskedelmi árak:** A Holtankoljak.hu szerint a benzin ára stagnálhat, vagy bruttó 2–5 forinttal emelkedhet; a gázolajnál bruttó 6–10 forintos drágulásra számítanak.\n\n• **A piaci bizonytalanság okai:** A cikkek a nemzetközi piaci helyzetet, a finomítói árréseket és a közel-keleti geopolitikai feszültségeket emelik ki; a dollár árfolyamának ingadozása és az amerikai elnökválasztás körüli idegesség is hatással lehet az olajpiacra.\n\n• **Az autósok támogatása:** A Világgazdaság cikke szerint decemberig havi 5000 forintos állami támogatás jár a dízeleseknek, ami 50 liter üzemanyagra vetítve literenként 100 forinttal mérsékelheti a kiadást.\n\n• **A benzin és a dízel árkülönbsége:** Az új forrás szerint a két üzemanyagtípus közötti különbség már közelíti a 100 forintot.\n\n• **A védett árak kivezetése:** A Világgazdaság írása szerint a nyáron kivezették a védett árakat; a cikk az 595 forintos benzin- és a 615 forintos dízelárat viszonyítási pontként említi."
   },
   {
     "group_id": "group_6d0b279f17",
@@ -230,8 +365,51 @@
     ],
     "published_at": 1793867614,
     "title_hu": "Bob Dylan úgy ment a pápához, mintha csak a sarki boltba ugrott volna le",
-    "lead_hu": "A találkozóról készült fotók gyorsan bejárták az internetet, pillanatok alatt mémek születtek a különös megjelenésből. The post Bob Dylan úgy ment a pápához, mintha csak a sarki boltba ugrott volna le...",
+    "lead_hu": "A találkozóról készült fotók gyorsan bejárták az internetet, pillanatok alatt mémek születtek a különös megjelenésből. The post Bob Dylan úgy ment a pápához, mintha csak a sarki boltba ugrott volna le…",
     "content_hu": "A találkozóról készült fotók gyorsan bejárták az internetet, pillanatok alatt mémek születtek a különös megjelenésből. The post Bob Dylan úgy ment a pápához, mintha csak a sarki boltba ugrott volna le first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_d3ae6bc1c1",
+    "fingerprint": "f1c13278db42ebe2da15c6e1098cb942",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/w/a/b/waberer-medical-center-866594.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Már a szerződést is aláírták, mégis meghiúsult Wáberer György nagy magánegészségügyi üzlete",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/mar-a-szerzodest-is-alairtak-megis-meghiusult-waberer-gyorgy-nagy-maganegeszsegugyi-uzlete-874058"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Váratlan fordulat: meghiúsult Wáberer György nagy magánkórház-vásárlása?",
+        "link": "https://nlc.hu/ezvan/20261104/waberer-gyorgy-tritonlife-magan-korhazak-felvasarlas-meghiusulas/yr07965"
+      }
+    ],
+    "published_at": 1793867580,
+    "title_hu": "Meghiúsult Wáberer György TritonLife-felvásárlása",
+    "lead_hu": "A Wáberer György érdekeltségébe tartozó High Yield Vagyonkezelő visszalépett a TritonLife Magánkórházak teljes felvásárlásától, ezért a Gazdasági Versenyhivatal megszüntette az ügylet vizsgálatát. A TritonLife szerint a vevő megtagadta a szerződés teljesítését, miközben a cégvezető nyilvánosan azt jelezte, hogy a tranzakció továbbra is folyamatban van.",
+    "content_hu": "• **Visszalépett a vevő** A High Yield Vagyonkezelő 2026. szeptember 29-én értesítette a GVH-t, hogy nem kívánja megvalósítani a TritonLife Magánkórházak 100 százalékos felvásárlását.\n\n• **Megszűnt a GVH-eljárás** A versenytanács október 26-án lezárta a vizsgálatot, mert a felek bejelentése alapján a tervezett tranzakció okafogyottá vált. A hatóság nem tiltotta meg az üzletet, és nem foglalt állást a visszalépés üzleti vagy jogi okairól.\n\n• **A TritonLife szerződésszegést említett** A társaság október 13-i beadványa szerint a vevő megtagadta a szerződés teljesítését, ezért a megállapodás megszűnt. A nyilvánosságban ugyanakkor Macher Péter vezérigazgató korábbi közlése szerint a tranzakció továbbra is folyamatban volt, részletei pedig üzleti titoknak minősültek."
+  },
+  {
+    "group_id": "group_9dbb613446",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Hallod, Rovar!? A bohócodat polírozzad, valahol távol a közélettől! Takarodj!",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/artatlan-emberek-kerultek-fel-az-adatbazisba-el-kell-takarodnia-a-leveltar-foigazgatojanak"
+      }
+    ],
+    "published_at": 1793867460,
+    "title_hu": "Hallod, Rovar!? A bohócodat polírozzad, valahol távol a közélettől! Takarodj!",
+    "lead_hu": "Ártatlan emberek kerültek fel az adatbázisba - el kell takarodnia a levéltár főigazgatójának!",
+    "content_hu": "Ártatlan emberek kerültek fel az adatbázisba - el kell takarodnia a levéltár főigazgatójának!"
   },
   {
     "group_id": "group_18e8f09602",
@@ -248,7 +426,7 @@
     ],
     "published_at": 1793867440,
     "title_hu": "Anne Applebaum: Az amerikaiak a demokrácia fennmaradásáról döntöttek. Köszönet minden szavazónak!",
-    "lead_hu": "Trumpot kiütötték, de a trumpizmus még nem bukott meg. A demokraták bosszút fognak állni Trumpon és a hozzá hasonlókon. Készülni kell arra, hogy Trump most sem nyugszik bele az eredménybe, és például ...",
+    "lead_hu": "Trumpot kiütötték, de a trumpizmus még nem bukott meg. A demokraták bosszút fognak állni Trumpon és a hozzá hasonlókon. Készülni kell arra, hogy Trump most sem nyugszik bele az eredménybe, és például …",
     "content_hu": "Trumpot kiütötték, de a trumpizmus még nem bukott meg. A demokraták bosszút fognak állni Trumpon és a hozzá hasonlókon. Készülni kell arra, hogy Trump most sem nyugszik bele az eredménybe, és például a külpolitikában engedi ki a gőzt. Trump veresége nyomán Európa fellélegezhet, de csak egy kicsit. Témák és vélemények a világlapokból."
   },
   {
@@ -266,14 +444,16 @@
     ],
     "published_at": 1793867400,
     "title_hu": "Négy éve nem volt ilyen: csaknem száz forint a különbség a benzin és a gázolaj ára között",
-    "lead_hu": "További 5 forinttal mérséklődött a 95-ös benzin országos átlagára....",
+    "lead_hu": "További 5 forinttal mérséklődött a 95-ös benzin országos átlagára.",
     "content_hu": "További 5 forinttal mérséklődött a 95-ös benzin országos átlagára."
   },
   {
     "group_id": "group_57055b8245",
+    "fingerprint": "ae8f481bdbe05c6cda029f24601b7f31",
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/00a45769-3a26-444c-973f-ac6f29ea8a57.jpg",
-    "is_synthesized": false,
+    "is_synthesized": true,
+    "rejected": false,
     "sources_count": 2,
     "sources": [
       {
@@ -288,9 +468,9 @@
       }
     ],
     "published_at": 1793867241,
-    "title_hu": "Europion-felmérés az ügynökaktákról: a többség kételkedik Orbán Viktor történetében",
-    "lead_hu": "Nagy a társadalmi támogatottsága az akták nyilvánosságra hozatalának, és az emberek kétharmada számít közéleti következményekre is emiatt. Sőt, sokan várják néhány ismert szereplő lemondását vagy hátt...",
-    "content_hu": "Nagy a társadalmi támogatottsága az akták nyilvánosságra hozatalának, és az emberek kétharmada számít közéleti következményekre is emiatt. Sőt, sokan várják néhány ismert szereplő lemondását vagy háttérbe vonulását is."
+    "title_hu": "A magyarok 72 százaléka támogatja az ügynökakták nyilvánosságát",
+    "lead_hu": "Az Europion felmérése szerint a magyarok többsége támogatja az ügynökakták közzétételét, és sokan közéleti következményekre is számítanak. Orbán Viktor állítását, miszerint sorkatonaként megpróbálták beszervezni, a válaszadók többsége nem fogadja el egyértelműen.",
+    "content_hu": "• **A nyilvánosság támogatottsága:** A megkérdezettek 72 százaléka helyesli az ügynökakták közzétételét. A Tisza-szavazók körében 89 százalékos a támogatás, míg a Fidesz-szavazók 55 százaléka ellenzi a nyilvánosságra hozatalt.\n\n• **Várakozás a következményekre:** A válaszadók 63 százaléka arra számít, hogy közéleti szereplőknek kell majd lemondaniuk vagy háttérbe vonulniuk. Személyes érintettségre jóval kevesebben számítanak: 10 százalék gondolja valószínűnek, hogy közeli hozzátartozója neve is előkerül.\n\n• **Megosztó állítás Orbánról:** A válaszadók 26 százaléka egyáltalán nem hisz Orbán Viktor történetének, 18 százalék pedig inkább kételkedik benne; 36 százalék hisz neki. A pártpreferencia erősen meghatározza a véleményeket: a Fidesz-szavazók 52 százaléka teljesen hisz az állításának, a Tisza-szavazók 46 százaléka pedig egyáltalán nem.\n\n• **A felmérés módszere:** Az Europion 1727 embert kérdezett meg 2026. november 4-én, az adatbázis közzétételének napján; a becslések maximális hibahatára 3,2 százalék."
   },
   {
     "group_id": "group_ef8f9a8e79",
@@ -307,7 +487,7 @@
     ],
     "published_at": 1793867162,
     "title_hu": "Nagyot ment a New York-i tőzsde a félidős választások után",
-    "lead_hu": "Az elemzők viszont óvatosságra intenek Donald Trump kiszámíthatatlansága miatt....",
+    "lead_hu": "Az elemzők viszont óvatosságra intenek Donald Trump kiszámíthatatlansága miatt.",
     "content_hu": "Az elemzők viszont óvatosságra intenek Donald Trump kiszámíthatatlansága miatt."
   },
   {
@@ -325,7 +505,7 @@
     ],
     "published_at": 1793866797,
     "title_hu": "„Életemben már sokkal rosszabbat is átéltem” – mondta a kilenc gólt kapó csapat edzője",
-    "lead_hu": "Fabregast feldühítette a kapott gól. The post „Életemben már sokkal rosszabbat is átéltem” – mondta a kilenc gólt kapó csapat edzője first appeared on 24.hu....",
+    "lead_hu": "Fabregast feldühítette a kapott gól. The post „Életemben már sokkal rosszabbat is átéltem” – mondta a kilenc gólt kapó csapat edzője first appeared on 24.hu.",
     "content_hu": "Fabregast feldühítette a kapott gól. The post „Életemben már sokkal rosszabbat is átéltem” – mondta a kilenc gólt kapó csapat edzője first appeared on 24.hu."
   },
   {
@@ -343,7 +523,7 @@
     ],
     "published_at": 1793866740,
     "title_hu": "Hat éven át minden szünetben a mosdóban bujkált, és mindenki úgy tett, mintha ez oké lenne",
-    "lead_hu": "Átfogó kampány indul az iskolákban a november 5-ei zaklatás és bántalmazás elleni világnap alkalmából....",
+    "lead_hu": "Átfogó kampány indul az iskolákban a november 5-ei zaklatás és bántalmazás elleni világnap alkalmából.",
     "content_hu": "Átfogó kampány indul az iskolákban a november 5-ei zaklatás és bántalmazás elleni világnap alkalmából."
   },
   {
@@ -361,7 +541,7 @@
     ],
     "published_at": 1793866561,
     "title_hu": "„Fél éve keresik a fogást rajtam” – Vidnyánszky Attila megtörte a csendet a Nemzeti Színházat ért támadásokról",
-    "lead_hu": "A teátrum vezérigazgatója kultúrpolitikáról, előadásokról, tervekről, a színház jelenlegi helyzetéről és személyes megéléseiről is beszélt Andor Éva műsorában....",
+    "lead_hu": "A teátrum vezérigazgatója kultúrpolitikáról, előadásokról, tervekről, a színház jelenlegi helyzetéről és személyes megéléseiről is beszélt Andor Éva műsorában.",
     "content_hu": "A teátrum vezérigazgatója kultúrpolitikáról, előadásokról, tervekről, a színház jelenlegi helyzetéről és személyes megéléseiről is beszélt Andor Éva műsorában."
   },
   {
@@ -379,26 +559,33 @@
     ],
     "published_at": 1793866553,
     "title_hu": "A magyar kormány megszüntette a Boszniai Szerb Köztársaságnak szánt támogatási programot",
-    "lead_hu": "A megállapodás értelmében a gazdák kizárólag Magyarországon gyártott gépeket vásárolhattak....",
+    "lead_hu": "A megállapodás értelmében a gazdák kizárólag Magyarországon gyártott gépeket vásárolhattak.",
     "content_hu": "A megállapodás értelmében a gazdák kizárólag Magyarországon gyártott gépeket vásárolhattak."
   },
   {
-    "group_id": "group_9dbb613446",
-    "category": "Politika",
+    "group_id": "group_1fd41a49a2",
+    "fingerprint": "61ee5f40afbbc1ef632b4dd7f2a911c4",
+    "category": "Bulvár",
     "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
-        "source": "Vadhajtások",
-        "title": "Hallod, Rovar!? A bohócodat polírozzad, valahol távol a közélettől! Takarodj!",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/artatlan-emberek-kerultek-fel-az-adatbazisba-el-kell-takarodnia-a-leveltar-foigazgatojanak"
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Bochkor Gábor lánya élő adásban tett fontos bejelentést",
+        "link": "https://nlc.hu/sztarok/20261105/bochkor-gabor-lanya-bochkor-nora/qm8evl9"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Bochkor Gábor lánya élő adásban tett nagy bejelentést",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/05/bochkor-gabor-lanya-nora-csalad-nev-retro-radio/"
       }
     ],
-    "published_at": 1793866522,
-    "title_hu": "Hallod, Rovar!? A bohócodat polírozzad, valahol távol a közélettől! Takarodj!",
-    "lead_hu": "Ártatlan emberek kerültek fel az adatbázisba - el kell takarodnia a levéltár főigazgatójának!...",
-    "content_hu": "Ártatlan emberek kerültek fel az adatbázisba - el kell takarodnia a levéltár főigazgatójának!"
+    "published_at": 1793866379,
+    "title_hu": "Bochkor Gábor lánya megtartja a vezetéknevét házasság után is",
+    "lead_hu": "Bochkor Gábor lánya, Nóra a Retro Rádió reggeli műsorában arról beszélt, hogy egy esetleges házasság után sem szeretne lemondani a Bochkor vezetéknévről. Édesapja örömmel fogadta a bejelentést.",
+    "content_hu": "• **Nóra döntése** Bochkor Gábor lánya kijelentette, hogy ha egyszer férjhez megy, akkor is megtartja a vezetéknevét.\n\n• **A beszélgetés témája** A rádióműsorban a párkapcsolati gondoskodás mellett a házasság utáni névviselésről is szó esett.\n\n• **Bochkor álláspontja** A műsorvezető ellenzi, ha a nők házasságkötéskor feladják a saját nevüket, különösen a hagyományos „Kovács Jánosné” névforma miatt.\n\n• **Édesapja reakciója** Bochkor megkönnyebbülten és boldogan fogadta lánya döntését: „De jó, akkor mégsem hal ki a Bochkor név!”"
   },
   {
     "group_id": "group_04fe8db1be",
@@ -415,7 +602,7 @@
     ],
     "published_at": 1793866338,
     "title_hu": "Nem volt hajlandó ananászt tenni a pizzára egy olasz séf, kirúgták",
-    "lead_hu": "Az ausztrál munkaügyi bizottság elutasította Davide Tamburella panaszát....",
+    "lead_hu": "Az ausztrál munkaügyi bizottság elutasította Davide Tamburella panaszát.",
     "content_hu": "Az ausztrál munkaügyi bizottság elutasította Davide Tamburella panaszát."
   },
   {
@@ -433,7 +620,7 @@
     ],
     "published_at": 1793866318,
     "title_hu": "Rakétaként lőtt ki a 4iG árfolyama, a forint még erőt gyűjt a további meneteléshez",
-    "lead_hu": "Emelkedéssel indított a pesti tőzsde, a Magyar Telekom jelentésére visszafogottan reagáltak a befektetők....",
+    "lead_hu": "Emelkedéssel indított a pesti tőzsde, a Magyar Telekom jelentésére visszafogottan reagáltak a befektetők.",
     "content_hu": "Emelkedéssel indított a pesti tőzsde, a Magyar Telekom jelentésére visszafogottan reagáltak a befektetők."
   },
   {
@@ -451,7 +638,7 @@
     ],
     "published_at": 1793866140,
     "title_hu": "„Én leszek Mr. Vétó” – Trump nagyon dühös, nem hagyja magát a történelmi vereség után",
-    "lead_hu": "Hatalmas vereséget szenvedtek a republikánusok: a demokraták mindkét házban többséget szereztek, ami komoly figyelmeztetés Donald Trumpnak....",
+    "lead_hu": "Hatalmas vereséget szenvedtek a republikánusok: a demokraták mindkét házban többséget szereztek, ami komoly figyelmeztetés Donald Trumpnak.",
     "content_hu": "Hatalmas vereséget szenvedtek a republikánusok: a demokraták mindkét házban többséget szereztek, ami komoly figyelmeztetés Donald Trumpnak."
   },
   {
@@ -469,7 +656,7 @@
     ],
     "published_at": 1793866117,
     "title_hu": "Mészárosék milliói és Lévai Anikó erdélyi kapcsolatai: egy kolozsvári egyesületnél rengeteg szál fut össze",
-    "lead_hu": "A Mészáros Lőrinc vasútépítő cégétől kapott 65 millió forint nyomába eredtünk, és egy meglehetősen szövevényes kapcsolati hálóban találtuk magunkat, ahol ugyanazok az emberek hol egyesületi vezetőként...",
+    "lead_hu": "A Mészáros Lőrinc vasútépítő cégétől kapott 65 millió forint nyomába eredtünk, és egy meglehetősen szövevényes kapcsolati hálóban találtuk magunkat, ahol ugyanazok az emberek hol egyesületi vezetőként…",
     "content_hu": "A Mészáros Lőrinc vasútépítő cégétől kapott 65 millió forint nyomába eredtünk, és egy meglehetősen szövevényes kapcsolati hálóban találtuk magunkat, ahol ugyanazok az emberek hol egyesületi vezetőként, hol kuratóriumi tagként, hol saját vállalkozásukon keresztül bukkannak fel."
   },
   {
@@ -487,7 +674,7 @@
     ],
     "published_at": 1793866089,
     "title_hu": "Az ősz eddigi leghidegebb reggelén vagyunk túl",
-    "lead_hu": "A felhősebb nyugati, délnyugati tájak kivételével sokfelé fagyott, emellé a Dunántúl északi-északnyugati tájain többfelé köd is társult. The post Az ősz eddigi leghidegebb reggelén vagyunk túl first a...",
+    "lead_hu": "A felhősebb nyugati, délnyugati tájak kivételével sokfelé fagyott, emellé a Dunántúl északi-északnyugati tájain többfelé köd is társult. The post Az ősz eddigi leghidegebb reggelén vagyunk túl first a…",
     "content_hu": "A felhősebb nyugati, délnyugati tájak kivételével sokfelé fagyott, emellé a Dunántúl északi-északnyugati tájain többfelé köd is társult. The post Az ősz eddigi leghidegebb reggelén vagyunk túl first appeared on 24.hu."
   },
   {
@@ -505,7 +692,7 @@
     ],
     "published_at": 1793866044,
     "title_hu": "Itt az újabb üzemanyagár-változás: ezt nem ússzák meg a benzines autóval járók.",
-    "lead_hu": "Hírt kaptak a dízel meghajtású autóval közlekedők is....",
+    "lead_hu": "Hírt kaptak a dízel meghajtású autóval közlekedők is.",
     "content_hu": "Hírt kaptak a dízel meghajtású autóval közlekedők is."
   },
   {
@@ -523,7 +710,7 @@
     ],
     "published_at": 1793865900,
     "title_hu": "A magyar szépségkirálynő agyhártyagyulladással került kórházba: a szívét is érintette a súlyos fertőzés",
-    "lead_hu": "A magyar szépségkirálynő agyhártyagyulladással került kórházba, máig nem tökéletes az állapota....",
+    "lead_hu": "A magyar szépségkirálynő agyhártyagyulladással került kórházba, máig nem tökéletes az állapota.",
     "content_hu": "A magyar szépségkirálynő agyhártyagyulladással került kórházba, máig nem tökéletes az állapota."
   },
   {
@@ -541,7 +728,7 @@
     ],
     "published_at": 1793865865,
     "title_hu": "Végrehajtás alá került Nagy Ervin céges részesedése",
-    "lead_hu": "Zűrösek a kulturális államtitkár cégügyei....",
+    "lead_hu": "Zűrösek a kulturális államtitkár cégügyei.",
     "content_hu": "Zűrösek a kulturális államtitkár cégügyei."
   },
   {
@@ -559,7 +746,7 @@
     ],
     "published_at": 1793865780,
     "title_hu": "Lementené a mobiljáról a képeket, videókat a gépére? Mostantól nem kell hozzá kábel",
-    "lead_hu": "Frissítést kap az Android, így hamarosan vezeték nélkül lehet majd elvégezni a telefon tartalmainak biztonsági mentést. A folyamat ráadásul teljesen automatikus lesz, a mentés pedig a számítógépre ker...",
+    "lead_hu": "Frissítést kap az Android, így hamarosan vezeték nélkül lehet majd elvégezni a telefon tartalmainak biztonsági mentést. A folyamat ráadásul teljesen automatikus lesz, a mentés pedig a számítógépre ker…",
     "content_hu": "Frissítést kap az Android, így hamarosan vezeték nélkül lehet majd elvégezni a telefon tartalmainak biztonsági mentést. A folyamat ráadásul teljesen automatikus lesz, a mentés pedig a számítógépre kerül át."
   },
   {
@@ -577,7 +764,7 @@
     ],
     "published_at": 1793865780,
     "title_hu": "Megszólalt a NASA egykori űrhajósa: biztos benne, hogy léteznek földönkívüliek, és az űrháborút sem tartja kizártnak",
-    "lead_hu": "Winston Scott, a NASA egykori űrhajósa szerint szinte elképzelhetetlen, hogy az emberiség lenne az egyetlen intelligens életforma a világegyetemben. A veterán asztronauta ugyanakkor egy egészen földi ...",
+    "lead_hu": "Winston Scott, a NASA egykori űrhajósa szerint szinte elképzelhetetlen, hogy az emberiség lenne az egyetlen intelligens életforma a világegyetemben. A veterán asztronauta ugyanakkor egy egészen földi …",
     "content_hu": "Winston Scott, a NASA egykori űrhajósa szerint szinte elképzelhetetlen, hogy az emberiség lenne az egyetlen intelligens életforma a világegyetemben. A veterán asztronauta ugyanakkor egy egészen földi veszélyre is figyelmeztetett: úgy véli, a nagyhatalmak közötti következő katonai konfliktus akár az űrre is kiterjedhet. The post Megszólalt a NASA egykori űrhajósa: biztos benne, hogy léteznek földönkívüliek, és az űrháborút sem tartja kizártnak first appeared on nlc."
   },
   {
@@ -595,8 +782,33 @@
     ],
     "published_at": 1793865780,
     "title_hu": "Szórj szódabikarbónát az ágyra, és eltűnnek a matracból a kellemetlen szagok",
-    "lead_hu": "Így tisztítsd meg a matracodat szódabikarbónával: egyszerű és olcsó házi praktikát mutatunk. The post Szórj szódabikarbónát az ágyra, és eltűnnek a matracból a kellemetlen szagok first appeared on nlc...",
+    "lead_hu": "Így tisztítsd meg a matracodat szódabikarbónával: egyszerű és olcsó házi praktikát mutatunk. The post Szórj szódabikarbónát az ágyra, és eltűnnek a matracból a kellemetlen szagok first appeared on nlc…",
     "content_hu": "Így tisztítsd meg a matracodat szódabikarbónával: egyszerű és olcsó házi praktikát mutatunk. The post Szórj szódabikarbónát az ágyra, és eltűnnek a matracból a kellemetlen szagok first appeared on nlc."
+  },
+  {
+    "group_id": "group_47d4ead094",
+    "fingerprint": "7fb71ce57a39aea0934f71e0d33da65b",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1124250278-e1793564631352-768x443-1.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A Tisza-kormány elkerülő utakat tervez a több települést terhelő 442-es főút mentén",
+        "link": "https://24.hu/belfold/2026/11/05/kormany-elkerulo-ut-fout/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Tehermentesítenék a településeket, elkerülő utakat tervez a kormány a 442-es főút mentén",
+        "link": "https://index.hu/belfold/2026/11/05/szolnok-kunszentmarton-elkerulo-utak-epites-442-es-fout-vitezy-david/"
+      }
+    ],
+    "published_at": 1793865780,
+    "title_hu": "Elkerülő utak előkészítéséről döntött a kormány a 442-es főút mentén",
+    "lead_hu": "A kormány megindítja a Szolnok és Kunszentmárton közötti 442-es főút korszerűsítésének és új elkerülő szakaszainak előkészítését. A tervek szerint 39,5 kilométeren erősítenék meg a főút burkolatát, és mintegy 20 kilométernyi elkerülő út tervei készülhetnek el.",
+    "content_hu": "• **A tervezett fejlesztés** A 442-es főút korszerűsítését és új elkerülő szakaszok előkészítését Vitézy Dávid közlekedési és beruházási miniszter jelentette be.\n\n• **Útfelújítás** Mintegy 39,5 kilométeren erősítenék meg a meglévő út burkolatát, hogy az megfeleljen a 11,5 tonnás tengelyterhelési követelményeknek.\n\n• **Elkerülők** Összesen körülbelül 20 kilométernyi új elkerülő út tervezését készítik elő Rákóczifalva, Rákócziújfalu, Martfű és Tiszaföldvár térségében.\n\n• **A következő lépések** A tervezési szerződés idén novemberben lép hatályba; ezt tanulmányok, környezeti vizsgálatok és engedélyezési dokumentációk elkészítése követi."
   },
   {
     "group_id": "group_0427f26665",
@@ -613,8 +825,33 @@
     ],
     "published_at": 1793865600,
     "title_hu": "\"Nem lesz semmi baj!\" - szívszorító búcsúszavak után vesztette életét a fiatal hegymászó",
-    "lead_hu": "Nem sokkal a halála előtt még az anyjával beszélt telefonon....",
+    "lead_hu": "Nem sokkal a halála előtt még az anyjával beszélt telefonon.",
     "content_hu": "Nem sokkal a halála előtt még az anyjával beszélt telefonon."
+  },
+  {
+    "group_id": "group_615baba652",
+    "fingerprint": "9eacae79d13cc712be5e0d4c2dfe4b83",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/6953/69539/695393/69539375_5131561_9a485abd1890bf04bc7305cb7b50d101_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Török Gábor szerint „kapkodás és félmunka” jellemzi az ügynökakták közzétételét, ez pedig megölheti a bizalmat",
+        "link": "https://index.hu/belfold/2026/11/05/torok-gabor-ugynokaktak-kommunizmus-lezsak-sandor/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Török Gábor az ügynökaktákról: A kapkodás képes megölni a bizalmat",
+        "link": "https://24.hu/belfold/2026/11/05/torok-gabor-az-ugynokaktakrol-a-kapkodas-kepes-megolni-a-bizalmat/"
+      }
+    ],
+    "published_at": 1793865585,
+    "title_hu": "Török Gábor szerint az ügynökakták közzétételének hibái rombolják a bizalmat",
+    "lead_hu": "Török Gábor politikai elemző az ügynökaktákat tartalmazó adatbázis körüli hibákra reagálva arra figyelmeztetett, hogy a kapkodó és hiányos nyilvánosságra hozatal alááshatja a társadalmi bizalmat. Az ÁBTL közölte, hogy Lezsák Sándor neve informatikai hiba miatt jelent meg a hálózati személyek között, noha a mágnesszalagokon megfigyeltként szerepel.",
+    "content_hu": "• **Téves adatközlés** Az Állambiztonsági Szolgálatok Történeti Levéltára szerint informatikai hiba miatt került Lezsák Sándor neve a nyitottaktak.hu adatbázisába a hálózati személyek közé. A levéltár közlése szerint a mágnesszalagokon megfigyeltként szerepel, az érintett adatbázisrészt felülvizsgálják, Lezsáktól pedig elnézést kértek.\n\n• **Török Gábor figyelmeztetése** Az elemző támogatja a múlt minél teljesebb feltárását, de szerinte a közzététel módja is fontos. Úgy fogalmazott, hogy a kapkodás, a félmunka és különösen a hibák megölhetik a legfontosabbat: a bizalmat.\n\n• **Az adatbázis háttere** A november 4-én elindított felületen mintegy 60 ezer név szerepel. Az ÁBTL korábban arra is figyelmeztetett, hogy az állambiztonsági iratokat forráskritikával kell kezelni."
   },
   {
     "group_id": "group_d94a97e0a2",
@@ -631,7 +868,7 @@
     ],
     "published_at": 1793865554,
     "title_hu": "Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára",
-    "lead_hu": "A lapunk tájékoztatást kért a Budapesti Közlekedési Központtól. The post Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára first appeared on 24.hu....",
+    "lead_hu": "A lapunk tájékoztatást kért a Budapesti Közlekedési Központtól. The post Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára first appeared on 24.hu.",
     "content_hu": "A lapunk tájékoztatást kért a Budapesti Közlekedési Központtól. The post Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára first appeared on 24.hu."
   },
   {
@@ -649,8 +886,51 @@
     ],
     "published_at": 1793865540,
     "title_hu": "Két beruházásról döntött a kormány, Vitézy ismertette a részleteket",
-    "lead_hu": "A gyömrői Fekete István Általános Iskola új épületének megvalósításáról és a 442-es főút fejlesztésének előkészítéséről számolt be Vitézy Dávid közlekedési és beruházási miniszter. Az iskolára 10,65 m...",
+    "lead_hu": "A gyömrői Fekete István Általános Iskola új épületének megvalósításáról és a 442-es főút fejlesztésének előkészítéséről számolt be Vitézy Dávid közlekedési és beruházási miniszter. Az iskolára 10,65 m…",
     "content_hu": "A gyömrői Fekete István Általános Iskola új épületének megvalósításáról és a 442-es főút fejlesztésének előkészítéséről számolt be Vitézy Dávid közlekedési és beruházási miniszter. Az iskolára 10,65 milliárd forintot biztosít a kormány, az útberuházásnál egyelőre a tervezés és az engedélyezéshez szükséges vizsgálatok következnek."
+  },
+  {
+    "group_id": "group_2a2676207a",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/_/m/d-mtz20261104007-867002.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: sorra bukkannak fel ismert nevek az ügynökaktákban",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/tisza-kormany-sorra-bukkannak-fel-ismert-nevek-az-ugynokaktakban-874384"
+      }
+    ],
+    "published_at": 1793865540,
+    "title_hu": "Tisza-kormány: sorra bukkannak fel ismert nevek az ügynökaktákban",
+    "lead_hu": "Sorra kerülnek elő ismert nevek az ügynökakták kereshetővé tétele után, miközben az elszámoltatás több szálon folytatódott. Nyomozás indult Navracsics Tibor minisztériumának egy 1,8 milliárd forintos …",
+    "content_hu": "Sorra kerülnek elő ismert nevek az ügynökakták kereshetővé tétele után, miközben az elszámoltatás több szálon folytatódott. Nyomozás indult Navracsics Tibor minisztériumának egy 1,8 milliárd forintos támogatása miatt, a nyomozók iratokat foglaltak le a Külügyminisztériumban, Bús Balázs letartóztatását pedig december 25-ig meghosszabbították. A parlament a kisnyugdíjakról, az adókról és a kamarai hozzájárulásról vitázott, miközben megjelentek az Otthon Start kifutásának átmeneti szabályai és az új panelprogram részletei."
+  },
+  {
+    "group_id": "group_62eb0182cc",
+    "fingerprint": "feda9f27519b467dcc1dc4f55f37d645",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/58d6c11e-c3c2-4132-87f5-c3832478143e.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "A békefeltételekről egyeztetett Zelenszkij Trump különmegbízottjával",
+        "link": "https://hvg.hu/vilag/20261105_bekefeltetelek-egyeztetes-volodimir-zelenszkij-donald-trump-beketargyalas"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Zelenszkij Trump embereivel tárgyalt telefonon, Ukrajna kész megtenni a szükséges lépéseket a háború lezárása érdekében",
+        "link": "https://24.hu/kulfold/2026/11/05/zelenszkij-trump-megbizottjai-targyalas/"
+      }
+    ],
+    "published_at": 1793865497,
+    "title_hu": "Zelenszkij Trump különmegbízottaival egyeztetett a béketárgyalásokról",
+    "lead_hu": "Volodimir Zelenszkij ukrán elnök 90 perces telefonbeszélgetést folytatott Steve Witkoff-fal és Jared Kushnerrel az abu-dzabi háromoldalú egyeztetések előkészítéséről. Ukrajna átadta javaslatait az amerikai félnek, de csak a gyakorlatban is érvényesíthető biztonsági garanciákat tart elfogadhatónak; közben Brüsszelben az újjáépítésről és a garanciákról is tárgyalnak.",
+    "content_hu": "• **A tárgyalások előkészítése** Zelenszkij 90 perces telefonbeszélgetést folytatott Donald Trump különmegbízottaival, Steve Witkoff-fal és Jared Kushnerrel az abu-dzabi háromoldalú egyeztetésről. A felek a diplomáciai folyamat felgyorsításáról és a légvédelem megerősítéséről is beszéltek.\n\n• **Ukrajna kész a lépésekre** Az ukrán elnök azt mondta, országa kész megtenni a háború lezárásához szükséges lépéseket, javaslatait pedig már eljuttatta az amerikai félnek.\n\n• **Biztonsági garanciák és légvédelem** Zelenszkij szerint csak a gyakorlatban is érvényesíthető, „vasbeton szilárdságú” garanciák jelenthetnek elfogadható megoldást. Emellett Patriot elfogórakéták biztosítását sürgette.\n\n• **Drón- és védelmi ipari együttműködés** Zelenszkij a Washingtonnal tervezett kétoldalú együttműködés részeként kiemelte a drónmegállapodást. Madridi tárgyalásain a védelmi ipari együttműködés, a légvédelem és a polgári lakosság védelme áll a középpontban.\n\n• **Brüsszeli egyeztetések** Szerdán Ukrajna, az Egyesült Államok, az Európai Unió, Franciaország, Nagy-Britannia, Németország, a NATO és a Világbank képviselői, valamint üzleti szereplők tárgyaltak Ukrajna háború utáni újjáépítéséről. Csütörtökre külön megbeszélést terveztek az Ukrajnának nyújtandó biztonsági garanciákról.\n\n• **Tervezett abu-dzabi találkozó** A november 10–11-re tervezett, Ukrajna, az Egyesült Államok és Oroszország részvételével zajló egyeztetés a februárban megszakadt háromoldalú diplomáciai tárgyalások folytatása lehet. Az orosz delegációt Vlagyimir Putyin tanácsadója vezeti."
   },
   {
     "group_id": "group_e741817cc2",
@@ -667,7 +947,7 @@
     ],
     "published_at": 1793865486,
     "title_hu": "Washingtonba viszi a tiszás önkény tapasztalatait a demokrata párti szenátornő + videó",
-    "lead_hu": "Januárban olyan elszámoltatásokba kezdenének a washingtoni kongresszusban, mint amilyet Elissa Slotkin Magyarországon tapasztalt....",
+    "lead_hu": "Januárban olyan elszámoltatásokba kezdenének a washingtoni kongresszusban, mint amilyet Elissa Slotkin Magyarországon tapasztalt.",
     "content_hu": "Januárban olyan elszámoltatásokba kezdenének a washingtoni kongresszusban, mint amilyet Elissa Slotkin Magyarországon tapasztalt."
   },
   {
@@ -685,31 +965,33 @@
     ],
     "published_at": 1793865420,
     "title_hu": "Országgyűlés: a nyugdíjasok és a leggazdagabbak pénztárcáját is érintik a változások",
-    "lead_hu": "A kisnyugdíjasoknak emelést, a vagyonosoknak új adót hozhatnak azok a javaslatok, amelyek a parlament november eleji napirendjén szerepeltek. Az Országgyűlés tagjaira több, a családok pénzügyeit és mi...",
+    "lead_hu": "A kisnyugdíjasoknak emelést, a vagyonosoknak új adót hozhatnak azok a javaslatok, amelyek a parlament november eleji napirendjén szerepeltek. Az Országgyűlés tagjaira több, a családok pénzügyeit és mi…",
     "content_hu": "A kisnyugdíjasoknak emelést, a vagyonosoknak új adót hozhatnak azok a javaslatok, amelyek a parlament november eleji napirendjén szerepeltek. Az Országgyűlés tagjaira több, a családok pénzügyeit és mindennapjait érintő ügyben is döntés várt."
   },
   {
-    "group_id": "group_615baba652",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6953/69539/695393/69539375_5131561_9a485abd1890bf04bc7305cb7b50d101_wm.jpg",
-    "is_synthesized": false,
+    "group_id": "group_80cc8bddfb",
+    "fingerprint": "f40f0869094fd747bd66f75f6916b59b",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793862257-temp-4qemaq9r88n4akjdabh_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
     "sources_count": 2,
     "sources": [
       {
-        "source": "Index - Címlap",
-        "title": "Török Gábor szerint „kapkodás és félmunka” jellemzi az ügynökakták közzétételét, ez pedig megölheti a bizalmat",
-        "link": "https://index.hu/belfold/2026/11/05/torok-gabor-ugynokaktak-kommunizmus-lezsak-sandor/"
+        "source": "Telex - Belföld",
+        "title": "Újságírókat, ügyészeket és egyetemistákat is megfigyelhetett a szerb titkosszolgálat",
+        "link": "https://telex.hu/kulfold/2026/11/05/ujsagirokat-ugyeszeket-es-egyetemistakat-is-megfigyelhetett-a-szerb-titkosszolgalat"
       },
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "Török Gábor az ügynökaktákról: A kapkodás képes megölni a bizalmat",
-        "link": "https://24.hu/belfold/2026/11/05/torok-gabor-az-ugynokaktakrol-a-kapkodas-kepes-megolni-a-bizalmat/"
+        "source": "HVG - Világ",
+        "title": "A szerb titkosszolgálat újságírókat, ügyészeket és egyetemistákat is megfigyelhetett",
+        "link": "https://hvg.hu/vilag/20261105_szerb-titkosszolgalat-megfigyeles-ujsagiro-ugyesz-egyetemista"
       }
     ],
-    "published_at": 1793865360,
-    "title_hu": "Török Gábor szerint „kapkodás és félmunka” jellemzi az ügynökakták közzétételét, ez pedig megölheti a bizalmat",
-    "lead_hu": "Az elemző arra reagált, hogy kiderült: tévesen jelent meg Lezsák Sándor neve a hálózati személyek között....",
-    "content_hu": "Az elemző arra reagált, hogy kiderült: tévesen jelent meg Lezsák Sándor neve a hálózati személyek között."
+    "published_at": 1793865300,
+    "title_hu": "Szerb titkosszolgálati megfigyelések miatt követelnek vizsgálatot",
+    "lead_hu": "Sajtóértesülések és nyilvánosságra hozott dokumentumok szerint a szerb titkosszolgálat újságírókat, ügyészeket, egyetemistákat és ellenzéki politikusokat is megfigyelhetett. A választás utáni hatalomváltást követően egyre többen sürgetik a megfigyelések kivizsgálását, a felelősök elszámoltatását és a szolgálat átalakítását.",
+    "content_hu": "• **Érintettek** A Radar oknyomozó hetilap dokumentumai szerint a Biztonsági és Információs Ügynökség (BIA) újságírókat és ügyészeket is megfigyelt; a jelentések egyetemisták és ellenzéki politikusok megfigyeléséről is beszámolnak.\n\n• **A megfigyelések** A Radar munkatársait júniustól októberig figyelhették bírósági engedéllyel, a szolgálat pedig a szervezett bűnözés elleni ügyészség több munkatársának kommunikációjához is hozzáférhetett. A BIA visszautasította a lehallgatásra vonatkozó állításokat.\n\n• **Követelések** Újságíró-szervezetek és szakértők független vizsgálatot, felelősségre vonást és a titkosszolgálat átfogó átalakítását sürgetik. A bírálók szerint a demokratikus ellenőrzés megerősítéséhez a megfigyelési dokumentumokat is meg kell őrizni."
   },
   {
     "group_id": "group_01351888ba",
@@ -836,51 +1118,6 @@
     "content_hu": "Mindenkinek nagyon kell figyelnie a kerti munkálatok során!"
   },
   {
-    "group_id": "group_532641c020",
-    "fingerprint": "aa42b100f27be1cd056e6858c3c26f59",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b11ee6d1-9662-4d14-8d0f-57a36a0f32f8.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Windisch László nem hagyja annyiban: fellebbezett Biró Ferenc IH-elnök kirúgatása érdekében",
-        "link": "https://hvg.hu/itthon/20261105_windisch-laszlo-asz-ih-elnok-fellebbezes-biro-ferenc-kirugatas"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Az ÁSZ-elnök fellebbezett annak érdekében, hogy kirúgják az Integritás Hatóság vezetőjét",
-        "link": "https://24.hu/belfold/2026/11/05/windisch-fellebezes-kirugas-birosag/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Az Integritás Hatóság elnökének leváltásáért fellebbezett Windisch László, szerinte nem késett el az indítványával",
-        "link": "https://telex.hu/belfold/2026/11/05/asz-elnok-windisch-laszlo-kozigazgatasi-per-ih-elnok-biro-ferenc-pal-levaltas"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Tovább folyik a háború az ÁSZ és az Irányító Hatóság között: Windisch László újabb lépést tett Bíró Ferenc kirúgása érdekében",
-        "link": "https://www.vg.hu/kozelet/2026/11/windisch-laszlo-asz-biro-ferenc-iranyito-hatosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Windisch László fellebbezett, hogy elmozdítsa Biró Ferencet az Integritás Hatóság éléről",
-        "link": "https://index.hu/belfold/2026/11/05/windisch-laszlo-allami-szamvevoszek-biro-ferenc-integritas-hatosag-fellebezes/"
-      },
-      {
-        "source": "ATV",
-        "title": "Fellebbezett Windisch László, továbbra is leváltaná az Integritás Hatóság elnökét",
-        "link": "https://www.atv.hu/belfold/20261105/windisch-laszlo-integritas-hatosag/"
-      }
-    ],
-    "published_at": 1793865000,
-    "title_hu": "Fellebbezett az ÁSZ elnöke Biró Ferenc elmozdítása érdekében",
-    "lead_hu": "Windisch László, az Állami Számvevőszék elnöke fellebbezett a Fővárosi Ítélőtáblánál, miután a törvényszék októberben megszüntette a Biró Ferenc Pál, az Integritás Hatóság elnöke hivatalvesztését célzó pert. Az ÁSZ vitatja a döntés indokát; Biró ellen hűtlen kezelés és más bűncselekmények miatt emeltek vádat, de az ügyben még nem született jogerős döntés.",
-    "content_hu": "• **Fellebbezés:** Windisch László vitatja a törvényszék végzésének indokát, és a Fővárosi Ítélőtáblához fordult, hogy folytatódhasson a Biró Ferenc elmozdítását célzó eljárás.\n\n• **A per megszüntetése:** A Fővárosi Törvényszék októberben elkésettség miatt zárta le az ügyet. A bíróság szerint az ÁSZ elnökének a gyanúsításról szóló, 2025. február 27-i tájékoztatástól számított 90 napon belül kellett volna elindítania az eljárást.\n\n• **A fellebbezés indoka:** Windisch júniusban, a vádemelés után nyújtotta be keresetét, de a törvényszék szerint a vádemelés nem indította újra a keresetindítási határidőt.\n\n• **Biró ügye:** Az ügyészség hűtlen kezeléssel és más bűncselekményekkel vádolja az Integritás Hatóság elnökét, aki tagadja a vádakat, és politikai indíttatásúnak tartja az eljárást."
-  },
-  {
     "group_id": "group_5a4b896bf5",
     "fingerprint": "f2eed1412b8b251901be06e3dfbc2dfb",
     "category": "Általános",
@@ -947,79 +1184,6 @@
     "title_hu": "Lázár János elhalasztotta a beruházást, most 11 milliárdból újraépül a gyömrői iskola",
     "lead_hu": "600 gyereket a város szélére, ideiglenes konténeriskolába kellett költöztetni.",
     "content_hu": "600 gyereket a város szélére, ideiglenes konténeriskolába kellett költöztetni."
-  },
-  {
-    "group_id": "group_0fe0717d73",
-    "fingerprint": "e371f04dbd66010f1eb6fc43d3d323be",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Lezsák Sándor neve informatikai hiba miatt jelent meg az ügynökaktákban hálózati személyként – bocsánatot kért a levéltár",
-        "link": "https://hvg.hu/itthon/20261105_lezsak-sandor-informatikai-hiba-halozati-szemely-megfigyelt-bocsanatot-leveltar"
-      },
-      {
-        "source": "444.hu",
-        "title": "Lezsák Sándor nem volt ügynök, informatikai hiba miatt került közéjük",
-        "link": "https://444.hu/2026/11/05/informatikai-hiba-kovetkezteben-kerult-lezsak-sandor-az-ugynokok-koze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Ügynökakták: Lezsák Sándor neve informatikai hiba miatt jelent meg az adatbázisban",
-        "link": "https://24.hu/belfold/2026/11/05/lezsak-sandor-ugynokaktak-informatikai-hiba-breaking/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Technikai hiba miatt jelent meg Lezsák Sándor neve az ügynökaktákban hálózati személyként, megszólalt a levéltár",
-        "link": "https://index.hu/belfold/2026/11/05/lezsak-sandor-ugynokaktak-adatbazis-informatikai-hiba/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Lezsák Sándor jogosan háborodott fel, mert tényleg megfigyelt volt és nem ügynök",
-        "link": "https://telex.hu/ugynokaktak/2026/11/05/lezsak-sandor-jogosan-haborodott-fel-mert-tenyleg-megfigyelt-volt-es-nem-ugynok"
-      },
-      {
-        "source": "ATV",
-        "title": "Fejek fognak hullani? Lezsák Sándor esete megbocsáthatatlannak tűnő baki az ügynökaktáknál",
-        "link": "https://www.atv.hu/belfold/20261105/ugynokaktak-baki-lezsak-sandor-kinos/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Bocsánatot kért a levéltár, tévesen került az ügynökadatbázisba egy ismert politikus",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/bocsanatot-kert-a-leveltar-tevesen-kerult-az-ugynokadatbazisba-egy-ismert-politikus-874402"
-      },
-      {
-        "source": "444.hu",
-        "title": "Újra átnézik, nem volt-e másoknál is hiba az állambiztonsági adatbázisban, de Lezsák téves azonosítása egyedinek tűnik",
-        "link": "https://444.hu/2026/11/05/ujra-atnezik-nem-volt-e-masoknal-is-hiba-az-allambiztonsagi-adatbazisban-de-lezsak-teves-azonositasa-egyedinek-tunik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793864280,
-    "title_hu": "Informatikai hiba miatt került Lezsák Sándor neve az ügynökadatbázisba",
-    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára közölte, hogy informatikai hiba miatt hálózati személyként jelent meg Lezsák Sándor neve a Nyitott Akták adatbázisában. A levéltár szerint Lezsák a mágnesszalagokon megfigyeltként szerepel, az intézmény pedig elnézést kért tőle.",
-    "content_hu": "• **Hibás adatbázis-bejegyzés** Az ÁBTL tájékoztatása szerint technikai hiba miatt jelent meg Lezsák Sándor neve hálózati személyként a Nyitott Akták adatbázisában.\n\n• **Megfigyeltként szerepel** A levéltár közölte, hogy Lezsák neve valóban megtalálható a mágnesszalagokon, de megfigyeltként, nem ügynökként.\n\n• **Bocsánatkérés és felülvizsgálat** Az intézmény elnézést kért Lezsáktól, és megkezdte az adatbázis érintett részének felülvizsgálatát; a hiba kivizsgálása és elhárítása folyamatban van.\n\n• **Lezsák reakciója** A volt országgyűlési képviselő korábban azt mondta, hogy őt figyelték meg, és jogi lépéseket helyezett kilátásba azokkal szemben, akik ügynöknek nevezik."
-  },
-  {
-    "group_id": "group_2a2676207a",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/_/m/d-mtz20261104007-867002.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza-kormány: sorra bukkannak fel ismert nevek az ügynökaktákban",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/tisza-kormany-sorra-bukkannak-fel-ismert-nevek-az-ugynokaktakban-874384"
-      }
-    ],
-    "published_at": 1793864280,
-    "title_hu": "Tisza-kormány: sorra bukkannak fel ismert nevek az ügynökaktákban",
-    "lead_hu": "Sorra kerülnek elő ismert nevek az ügynökakták kereshetővé tétele után, miközben az elszámoltatás több szálon folytatódott. Nyomozás indult Navracsics Tibor minisztériumának egy 1,8 milliárd forintos …",
-    "content_hu": "Sorra kerülnek elő ismert nevek az ügynökakták kereshetővé tétele után, miközben az elszámoltatás több szálon folytatódott. Nyomozás indult Navracsics Tibor minisztériumának egy 1,8 milliárd forintos támogatása miatt, a nyomozók iratokat foglaltak le a Külügyminisztériumban, Bús Balázs letartóztatását pedig december 25-ig meghosszabbították. A parlament a kisnyugdíjakról, az adókról és a kamarai hozzájárulásról vitázott, miközben megjelentek az Otthon Start kifutásának átmeneti szabályai és az új panelprogram részletei."
   },
   {
     "group_id": "group_24f4cb2f8d",
@@ -1169,29 +1333,6 @@
     "title_hu": "Surányi szerint egy sikertelen beszervezési kísérlet nyoma lehet az ügynökaktákban szereplő adat",
     "lead_hu": "A Nyitott Akták mágnesszalagos adatbázisában Surányi György volt jegybankelnök az „Otto” fedőnév és a 04-es kategóriakód mellett szerepel. Surányi tagadja, hogy a hálózat tagja lett volna; állítása szerint 1986-ban megpróbálták beszervezni, de visszautasította a nyilatkozat aláírását. Az új források a 04-es kód értelmezését és a Járai Zsigmond adatlapján feltüntetett nyilvántartó szervet is ismertetik.",
     "content_hu": "• **Surányi neve az adatbázisban** „Otto” fedőnéven, 04-es kategóriakóddal szerepel a Nyitott Akták oldalán közzétett állambiztonsági bejegyzésben. A beszámoló szerint az azonosító adatok, köztük a születési hely és az édesanya neve, egyeznek Surányi adataival.\n\n• **Surányi tagadja, hogy a hálózat tagja lett volna.** Azt mondta, nincs 6-os kartonja, operatív jelentés vagy munkadosszié, és állítása szerint nem szolgáltatott információt a politikai rendőrségnek. Szerinte a 04-es kód alatt nem található tőle származó, felhasznált vagy iktatott információ, jelentés vagy feljegyzés.\n\n• **Beszervezési kísérletet említett.** Surányi elmondása szerint 1986 nyarán, amikor Washingtonba, a Világbank munkatársának vették fel, megpróbálták beszervezni, de a nyilatkozat aláírását megtagadta, annak ellenére, hogy kilátásba helyezték az amerikai állás megakadályozását.\n\n• **A főnökétől kért segítséget.** Surányi közölte, hogy tájékoztatta akkori főnökét, Hagelmayer Istvánt, aki ezután felhívta a Belügyminisztérium egyik magas rangú munkatársát. Surányi szerint ezt követően megszűnt a nyomásgyakorlás; úgy véli, neve adminisztratív nyomként kerülhetett az adatbázisba.\n\n• **Korábban is beszélt az esetről.** Surányi szerint a sikertelen beszervezési kísérletet a Lengyel Lászlóval közösen írt, 2013-ban megjelent Határátkelés című beszélgetőkönyvben is felidézte. Kérte az Állambiztonsági Szolgálatok Történeti Levéltárát, hogy a neve mellett tüntessék fel a beszervezést cáfoló közlését.\n\n• **Járai Zsigmond neve is szerepel az adatbázisban.** A róla szóló bejegyzés a „Bihari” fedőnevet és ugyancsak 04-es kategóriakódot tüntet fel.\n\n• **A 04-es kód a forrás ismertetése szerint foglalkoztatott hálózati személyt jelölt.** A Vadhajtások cikke szerint a 07-es kód például a hálózatból kizárt személyekre utalt; a kód önmagában nem igazolja Surányi állításainak cáfolatát, aki vitatja, hogy hálózati személy lett volna.\n\n• **Járai adatlapján a nyilvántartó szerv is szerepel.** A Vadhajtások szerint a mágnesszalagos bejegyzés a BM III/II-8-B alosztályt jelöli meg nyilvántartóként; ez a Belügyminisztérium III/II. Csoportfőnökségéhez, a kémelhárításhoz tartozott. A cikk felveti, hogy a „Bihari” fedőnév Járai Biharkeresztesen történt születésére utalhat, ezt azonban lehetőségként említi."
-  },
-  {
-    "group_id": "group_47d4ead094",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1124250278-e1793564631352-768x443-1.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A Tisza-kormány elkerülő utakat tervez a több települést terhelő 442-es főút mentén",
-        "link": "https://24.hu/belfold/2026/11/05/kormany-elkerulo-ut-fout/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Tehermentesítenék a településeket, elkerülő utakat tervez a kormány a 442-es főút mentén",
-        "link": "https://index.hu/belfold/2026/11/05/szolnok-kunszentmarton-elkerulo-utak-epites-442-es-fout-vitezy-david/"
-      }
-    ],
-    "published_at": 1793863304,
-    "title_hu": "A Tisza-kormány elkerülő utakat tervez a több települést terhelő 442-es főút mentén",
-    "lead_hu": "Vitézy Dávid szerint még mindig túl sok országos főút miatt kell a településeken élőknek nap mint nap jelentős átmenő forgalommal, zajjal és közlekedésbiztonsági kockázatokkal együtt élniük. The post …",
-    "content_hu": "Vitézy Dávid szerint még mindig túl sok országos főút miatt kell a településeken élőknek nap mint nap jelentős átmenő forgalommal, zajjal és közlekedésbiztonsági kockázatokkal együtt élniük. The post A Tisza-kormány elkerülő utakat tervez a több települést terhelő 442-es főút mentén first appeared on 24.hu."
   },
   {
     "group_id": "group_05bf642844",
@@ -1379,6 +1520,24 @@
     "content_hu": "• **Holtan találták Berlinben** Az 55 éves Hubert Aiwanger holttestére szerda este bukkantak rá a Berlin-Mitte városrészben, a Friedrichstrassén található Neuer Fritz Hotel egyik szobájában.\n\n• **Vizsgálják a halál körülményeit** A rendőrség és az ügyészség a halál pontos okát és körülményeit próbálja tisztázni, valamint kizárni, hogy más személynek szerepe lehetett az esetben. A hatóságok további részleteket egyelőre nem közöltek.\n\n• **Egészségi okból lemondta a szereplését** Aiwangernek beszédet kellett volna mondania pártja berlini irodájának megnyitóján, de egészségi okokra hivatkozva lemondta a részvételt. Sajtóbeszámolók szerint aznap rosszul érezte magát.\n\n• **Bajorország vezető politikusa volt** Aiwanger miniszterelnök-helyettesként és gazdasági miniszterként dolgozott, emellett a Szabad Választók (Freie Wähler) elnöke volt. Markus Söder bajor miniszterelnök tragédiának nevezte a halálát, és részvétét fejezte ki a családnak.\n\n• **A tartományi parlamenttől a kormányig** Aiwanger 2006-tól vezette a Szabad Választók bajorországi szervezetét, 2008-ban bejutott a tartományi parlamentbe, 2018-ban pedig pártja CSU-val kötött koalíciója után miniszterelnök-helyettes és gazdasági miniszter lett. A párt országos szinten nem jutott be a Bundestagba.\n\n• **2023-ban antiszemita röpirat miatt került a figyelem középpontjába** Sajtóhírek szerint diákkorában olyan röpirat került elő, amely Auschwitzot sértő módon említette. Aiwanger tagadta, hogy ő írta volna, elismerte, hogy példányok voltak az iskolatáskájában, és bocsánatot kért; lemondani nem volt hajlandó.\n\n• **Családja gyászolja** Német sajtóbeszámolók szerint Aiwangernek két gyermeke volt, és élettársával élt."
   },
   {
+    "group_id": "group_b9f925910f",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Ez gyors volt: a NAV már november közepén ellenőrzi a vagyonokat",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/ez-gyors-volt-a-nav-mar-november-kozepen-ellenorzi-a-vagyonokat"
+      }
+    ],
+    "published_at": 1793862360,
+    "title_hu": "Ez gyors volt: a NAV már november közepén ellenőrzi a vagyonokat",
+    "lead_hu": "Az ellenőrzések fő célja annak megállapítása, hogy a vagyonkezelés nem adókikerülés miatt történik, hanem valós szolgáltatás áll mögötte.",
+    "content_hu": "Az ellenőrzések fő célja annak megállapítása, hogy a vagyonkezelés nem adókikerülés miatt történik, hanem valós szolgáltatás áll mögötte."
+  },
+  {
     "group_id": "group_ba08eda0b0",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/TYlDrODnz5nQ_j9gMaTURGdzLQ2IxcoyA3EjoMPXoxQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFkZTQ0N2Q0YWUxMjQ2MTRiYTkzYjM3NDIzMGUyZjFm.jpg",
@@ -1395,29 +1554,6 @@
     "title_hu": "Három a magyar BL-átok, a francia csapat viszont egyedül kapott kilenc gólt",
     "lead_hu": "Willi Orbán épphogy lemaradt Erling Haalandról a sorsdöntő pillanatban.",
     "content_hu": "Willi Orbán épphogy lemaradt Erling Haalandról a sorsdöntő pillanatban."
-  },
-  {
-    "group_id": "group_80cc8bddfb",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793862257-temp-4qemaq9r88n4akjdabh_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Újságírókat, ügyészeket és egyetemistákat is megfigyelhetett a szerb titkosszolgálat",
-        "link": "https://telex.hu/kulfold/2026/11/05/ujsagirokat-ugyeszeket-es-egyetemistakat-is-megfigyelhetett-a-szerb-titkosszolgalat"
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "A szerb titkosszolgálat újságírókat, ügyészeket és egyetemistákat is megfigyelhetett",
-        "link": "https://hvg.hu/vilag/20261105_szerb-titkosszolgalat-megfigyeles-ujsagiro-ugyesz-egyetemista"
-      }
-    ],
-    "published_at": 1793862304,
-    "title_hu": "Újságírókat, ügyészeket és egyetemistákat is megfigyelhetett a szerb titkosszolgálat",
-    "lead_hu": "Szerbiában egyre többen követelik a titkosszolgálat működésének kivizsgálását, vezetőinek felelősségre vonását és az ügynökség átfogó átalakítását....",
-    "content_hu": "Szerbiában egyre többen követelik a titkosszolgálat működésének kivizsgálását, vezetőinek felelősségre vonását és az ügynökség átfogó átalakítását."
   },
   {
     "group_id": "group_17014012af",
@@ -1752,6 +1888,24 @@
     "title_hu": "Zelenszkij: „Javaslataink egyértelműek, már átadtuk őket az amerikai félnek”",
     "lead_hu": "Az ukrán elnök ismét egyeztetett Steve Witkoff-fal és Jared Kushnerrel.",
     "content_hu": "Az ukrán elnök ismét egyeztetett Steve Witkoff-fal és Jared Kushnerrel."
+  },
+  {
+    "group_id": "group_56c200ba15",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Fontos figyelmeztetés: zsákutcába tereli az országot a Tisza a vagyonadóval",
+        "link": "https://www.vadhajtasok.hu/2026/11/04/fontos-figyelmeztetes-zsakutcaba-tereli-az-orszagot-a-tisza-a-vagyonadoval"
+      }
+    ],
+    "published_at": 1793860920,
+    "title_hu": "Fontos figyelmeztetés: zsákutcába tereli az országot a Tisza a vagyonadóval",
+    "lead_hu": "Szalai Piroska országgyűlési képviselő szerint az adóemelésekkel, az új adónemek bevezetésével \"megfojtják a magyar gazdaságot\".",
+    "content_hu": "Szalai Piroska országgyűlési képviselő szerint az adóemelésekkel, az új adónemek bevezetésével \"megfojtják a magyar gazdaságot\"."
   },
   {
     "group_id": "group_a9c28d14fb",
@@ -2555,36 +2709,6 @@
     "content_hu": "Ismét az autósok maradnak hoppon."
   },
   {
-    "group_id": "group_62eb0182cc",
-    "fingerprint": "d4b0f9249ef13ea460e666982817f8c4",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/58d6c11e-c3c2-4132-87f5-c3832478143e.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "A békefeltételekről egyeztetett Zelenszkij Trump különmegbízottjával",
-        "link": "https://hvg.hu/vilag/20261105_bekefeltetelek-egyeztetes-volodimir-zelenszkij-donald-trump-beketargyalas"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Zelenszkij Trump embereivel tárgyalt telefonon, Ukrajna kész megtenni a szükséges lépéseket a háború lezárása érdekében",
-        "link": "https://24.hu/kulfold/2026/11/05/zelenszkij-trump-megbizottjai-targyalas/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Zelenszkij másfél órán át tárgyalt telefonon Trump különmegbízottjaival a közelgő béketárgyalások előtt",
-        "link": "https://telex.hu/kulfold/2026/11/05/zelenszkij-telefonon-egyeztetett-trump-kulonmegbizottjaival"
-      }
-    ],
-    "published_at": 1793857064,
-    "title_hu": "Zelenszkij Trump különmegbízottjaival egyeztetett a béketárgyalásokról",
-    "lead_hu": "Volodimir Zelenszkij ukrán elnök telefonon tárgyalt Steve Witkoff-fal és Jared Kushnerrel az Ukrajna, Oroszország és az Egyesült Államok részvételével tervezett abu-dzabi egyeztetések előkészítéséről. Közlése szerint Ukrajna már átadta javaslatait az amerikai félnek, de csak érvényesíthető biztonsági garanciákat tart elfogadhatónak.",
-    "content_hu": "• **A tárgyalások előkészítése** Zelenszkij 90 perces telefonbeszélgetést folytatott Donald Trump különmegbízottaival, Steve Witkoff-fal és Jared Kushnerrel az abu-dzabi háromoldalú egyeztetésről.\n\n• **Ukrajna kész a lépésekre** Az ukrán elnök azt mondta, országa kész megtenni a háború lezárásához szükséges lépéseket, javaslatait pedig már eljuttatta az amerikai félnek.\n\n• **Biztonsági garanciák és légvédelem** Zelenszkij szerint csak a gyakorlatban is érvényesíthető garanciák jelenthetnek elfogadható megoldást; emellett Patriot elfogórakétákat sürgetett.\n\n• **Tervezett abu-dzabi találkozó** A november 10–11-re tervezett egyeztetés Ukrajna, az Egyesült Államok és Oroszország részvételével folytathatja a februárban megszakadt háromoldalú diplomáciai tárgyalásokat."
-  },
-  {
     "group_id": "group_2175c22ebf",
     "fingerprint": "980c446038460061b4f5eabdde214d9b",
     "category": "Politika",
@@ -3201,17 +3325,12 @@
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9a525d98-b4ef-4c13-bbcd-f314f6199130.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
         "source": "HVG - Itthon",
         "title": "Marabu Féknyúz: Fejes Péter",
         "link": "https://hvg.hu/itthon/20261105_marabu-feknyuz-fejes-peter-legfobb-ugyesz"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Marabu Féknyúz: Föltárulás",
-        "link": "https://hvg.hu/itthon/20261104_marabu-feknyuz-foltarulas-ugynokaktak-allambiztonsag"
       }
     ],
     "published_at": 1793852880,
@@ -3328,29 +3447,6 @@
     "content_hu": "Göltl Béla akkor szerződött Líbiába, amikor Kádárék a csúcsra járatták az országgal a kapcsolatot. Történelmi siker közelébe juttatta az ország fociválogatottját, de végül éppen csak megúszta ép bőrrel a kupadöntőt."
   },
   {
-    "group_id": "group_1fd41a49a2",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Bochkor Gábor lánya élő adásban tett fontos bejelentést",
-        "link": "https://nlc.hu/sztarok/20261105/bochkor-gabor-lanya-bochkor-nora/qm8evl9"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Bochkor Gábor lánya élő adásban tett nagy bejelentést",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/05/bochkor-gabor-lanya-nora-csalad-nev-retro-radio/"
-      }
-    ],
-    "published_at": 1793851380,
-    "title_hu": "Bochkor Gábor lánya élő adásban tett fontos bejelentést",
-    "lead_hu": "Bochkor Gábor lánya, Nóra a Retro Rádió reggeli műsorában árulta el, hogy ha egyszer férjhez megy, akkor sem szeretne megválni a vezetéknevétől. The post Bochkor Gábor lánya élő adásban tett fontos be…",
-    "content_hu": "Bochkor Gábor lánya, Nóra a Retro Rádió reggeli műsorában árulta el, hogy ha egyszer férjhez megy, akkor sem szeretne megválni a vezetéknevétől. The post Bochkor Gábor lánya élő adásban tett fontos bejelentést first appeared on nlc."
-  },
-  {
     "group_id": "group_c4c6748dba",
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e30f1d54-958c-4f3f-aa94-e3b3284fb052.jpg",
@@ -3370,9 +3466,11 @@
   },
   {
     "group_id": "group_ec8400c67f",
+    "fingerprint": "f73537f002d32dbdaab7aca71d7f6d1d",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/07/SYDenAdgTTYWgi8GJrXlCBJndxqvmnoIIaSBSP7Z5pI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1OTFiZGUzYWMyNDQ4ODliODdhNmY3MzUwYWUzYWI2.jpg",
-    "is_synthesized": false,
+    "is_synthesized": true,
+    "rejected": false,
     "sources_count": 2,
     "sources": [
       {
@@ -3387,9 +3485,9 @@
       }
     ],
     "published_at": 1793851200,
-    "title_hu": "Mégis veszélyben a rezsicsökkentés: ilyen gázárak mellett szűkös lehet a rezsivédelmi alap",
-    "lead_hu": "Hortay Olivér: Ha maradnak a jelenlegi árak, akkor többletforrásokra lesz szükség!",
-    "content_hu": "Hortay Olivér: Ha maradnak a jelenlegi árak, akkor többletforrásokra lesz szükség!"
+    "title_hu": "A magas gázárak miatt pótlólagos forrásokra szorulhat a rezsivédelmi alap",
+    "lead_hu": "A 2027-es költségvetés közel 1160 milliárd forintot szán a Lakossági Rezsivédelmi Alapra, de a jelenlegi gázárak meghaladják a tervezésnél feltételezett szintet. Hortay Olivér szerint, ha a drágulás tartós marad, többletforrásra lehet szükség a rezsicsökkentés fenntartásához.",
+    "content_hu": "• **A tervezett keret** A 2027-es költségvetés közel 1160 milliárd forintot különít el a Lakossági Rezsivédelmi Alap kiadásaira.\n\n• **A gázárak alakulása** A tervezés a piaci becslések szerint megawattóránként nagyjából 75–80 eurós árral számolhatott, miközben a holland gáztőzsde jegyzései már a 100 eurós sávot is elérték.\n\n• **Többletforrás kockázata** Hortay Olivér szerint, ha a magas árszint tartós marad, az alap fenntartásához pótlólagos állami forrásra lehet szükség.\n\n• **Korábbi példa** A 2023-as rezsivédelmi keretet az eredeti 670 milliárd forintos előirányzatról végül 2610 milliárd forintra emelték az energiaárak drasztikus növekedése miatt.\n\n• **Orosz gáz** A cikk szerint Magyarország a 2027-es őszi leválásig még orosz földgázzal fűthet; az átállás új helyzetet teremthet az energiapiacon."
   },
   {
     "group_id": "group_e29ae0cfea",
@@ -3536,6 +3634,24 @@
     "content_hu": "„Elkezdték egymást felfalni a Tiszában” – írja közösségi oldalán Rétvári Bence KDNP-frakcióvezető."
   },
   {
+    "group_id": "group_3b18442487",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/07/D-cwnTL28Cx1CdBXSi_-B-Lu1XVBvmehqUT2PwD4ewo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBmMjRmY2ZjOTM2MjRiMmE4YWQwZjUyNjM5NjU5MjVk.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Nem árulja el a minisztérium, mi történt a budapesti kórházakban – bírósághoz fordul a Magyar Nemzet",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/egeszsegugyi-miniszterium-budapesti-korhazak-birosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793848200,
+    "title_hu": "Nem árulja el a minisztérium, mi történt a budapesti kórházakban – bírósághoz fordul a Magyar Nemzet",
+    "lead_hu": "A kapacitásproblémák miatt küldtünk közérdekű adatigénylést a tárcának.",
+    "content_hu": "A kapacitásproblémák miatt küldtünk közérdekű adatigénylést a tárcának."
+  },
+  {
     "group_id": "group_3b96086de7",
     "category": "Általános",
     "image": "",
@@ -3633,42 +3749,6 @@
     "content_hu": "• **A kérelmek nyilvánosságra hozatala** Tóth M. Gábor szerint túllépett a törvényes kereteken, mert a volt miniszter kapcsolattartással és hitélettel kapcsolatos személyes ügyei nem tartoznak a nyilvánosságra.\n\n• **A fodrászkérelem oka** az ügyvéd szerint az volt, hogy a ceglédi rendőrségi fogdában nem tudtak jogszabályszerű hajvágást biztosítani; Hankó október 21-én kérte saját fodrásza közreműködését.\n\n• **A kérelem elutasítása** két nappal azután történt, hogy október 26-án iktatták, amikor Hankót már átszállították a Bács-Kiskun megyei büntetés-végrehajtási intézetbe.\n\n• **Az ügyvéd kifogása** szerint az ügyészségi tájékoztatás félrevezető képet alakított ki, és a fogvatartottat indokolatlanul tette a gúny tárgyává."
   },
   {
-    "group_id": "group_56c200ba15",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Fontos figyelmeztetés: zsákutcába tereli az országot a Tisza a vagyonadóval",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/fontos-figyelmeztetes-zsakutcaba-tereli-az-orszagot-a-tisza-a-vagyonadoval"
-      }
-    ],
-    "published_at": 1793836800,
-    "title_hu": "Fontos figyelmeztetés: zsákutcába tereli az országot a Tisza a vagyonadóval",
-    "lead_hu": "Szalai Piroska országgyűlési képviselő szerint az adóemelésekkel, az új adónemek bevezetésével \"megfojtják a magyar gazdaságot\".",
-    "content_hu": "Szalai Piroska országgyűlési képviselő szerint az adóemelésekkel, az új adónemek bevezetésével \"megfojtják a magyar gazdaságot\"."
-  },
-  {
-    "group_id": "group_b9f925910f",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Ez gyors volt: a NAV már november közepén ellenőrzi a vagyonokat",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/ez-gyors-volt-a-nav-mar-november-kozepen-ellenorzi-a-vagyonokat"
-      }
-    ],
-    "published_at": 1793836800,
-    "title_hu": "Ez gyors volt: a NAV már november közepén ellenőrzi a vagyonokat",
-    "lead_hu": "Az ellenőrzések fő célja annak megállapítása, hogy a vagyonkezelés nem adókikerülés miatt történik, hanem valós szolgáltatás áll mögötte.",
-    "content_hu": "Az ellenőrzések fő célja annak megállapítása, hogy a vagyonkezelés nem adókikerülés miatt történik, hanem valós szolgáltatás áll mögötte."
-  },
-  {
     "group_id": "group_64e44ca599",
     "fingerprint": "be3fbd371b1cb09dd916a5a9a0cd0fa6",
     "category": "Politika",
@@ -3723,7 +3803,7 @@
     ],
     "published_at": 1793836800,
     "title_hu": "Botka is kiakadt: Erre miért volt szükség 37 év után?!",
-    "lead_hu": "Az alábbiakat írta a Facebookon Szeged baloldali polgármestere.Én......",
+    "lead_hu": "Az alábbiakat írta a Facebookon Szeged baloldali polgármestere.Én...",
     "content_hu": "Az alábbiakat írta a Facebookon Szeged baloldali polgármestere.Én..."
   },
   {
@@ -3741,8 +3821,26 @@
     ],
     "published_at": 1793836800,
     "title_hu": "Itt találkozhatnak a nagyhatalmak vezetői, Ursula von der Leyen még meghívót sem kap",
-    "lead_hu": "Szakértők szerint hasonló csúcstalálkozónak nincs modern kori előzménye....",
+    "lead_hu": "Szakértők szerint hasonló csúcstalálkozónak nincs modern kori előzménye.",
     "content_hu": "Szakértők szerint hasonló csúcstalálkozónak nincs modern kori előzménye."
+  },
+  {
+    "group_id": "group_09d6ffab36",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Ezt nagyon elkúrta Rovar úr - elszabadultak a kommentelők a levéltár Facebook-oldalán",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/ezt-nagyon-elkurta-rovar-ur-elszabadultak-a-kommentelok-a-leveltar-facebook-oldalan"
+      }
+    ],
+    "published_at": 1793836800,
+    "title_hu": "Ezt nagyon elkúrta Rovar úr - elszabadultak a kommentelők a levéltár Facebook-oldalán",
+    "lead_hu": "Miután elnézést kértek egy technikai hiba miatt dühös kommentelők jelentek meg az Állambiztonsági Szo...",
+    "content_hu": "Miután elnézést kértek egy technikai hiba miatt dühös kommentelők jelentek meg az Állambiztonsági Szo..."
   },
   {
     "group_id": "group_8f6520d40f",
@@ -4648,6 +4746,186 @@
     "content_hu": "A tűzifaigényre hivatkozva oldotta fel a szakminiszter az általa meghirdetett fakitermelési moratóriumot. Ám korántsem csak a szociális tűzifa miatt fűrészelnek: az erőművek is várják az erdők fáit, hogy rossz hatékonysággal menjen füstbe minden egyes köbméter."
   },
   {
+    "group_id": "group_8640a04236",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Egymás között",
+        "link": "https://magyarnarancs.hu/belpol/egymas-kozott-280533"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "Egymás között",
+    "lead_hu": "Bezáratta az esztergomi Szent István Strandfürdőt a kormányhivatal, mert a százévesnél is öregebb létesítmény állapota leromlott a fejlesztések elmaradása miatt. Közben állami támogatásból épült a pol…",
+    "content_hu": "Bezáratta az esztergomi Szent István Strandfürdőt a kormányhivatal, mert a százévesnél is öregebb létesítmény állapota leromlott a fejlesztések elmaradása miatt. Közben állami támogatásból épült a polgármester nagybátyjához, a MOL-vezér Hernádi Zsolthoz köthető hotel, amelynek a vendégei ingyenesen használhatják a szomszédságában két évtizede működő élményfürdőt."
+  },
+  {
+    "group_id": "group_6dc46f3aa7",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Magukra hagyva",
+        "link": "https://magyarnarancs.hu/belpol/magukra-hagyva-280532"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "Magukra hagyva",
+    "lead_hu": "Az aszály miatt kiszáradt talaj terhelhetősége csökken, ami az elavult technológiával felépített házak süllye­déséhez, repedezéséhez vezet. E folyamat országos jelenség, és az akár százezreket érintő …",
+    "content_hu": "Az aszály miatt kiszáradt talaj terhelhetősége csökken, ami az elavult technológiával felépített házak süllye­déséhez, repedezéséhez vezet. E folyamat országos jelenség, és az akár százezreket érintő károk kezelésének egyelőre nincs gazdája."
+  },
+  {
+    "group_id": "group_482d9db09c",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Az óvoda nem az iskola előszobája”",
+        "link": "https://magyarnarancs.hu/belpol/az-ovoda-nem-az-iskola-eloszobaja-280531"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "„Az óvoda nem az iskola előszobája”",
+    "lead_hu": "Évekig alig kapott figyelmet a 0–10 éves korosztályt ellátó intézményrendszer, ám immár önálló állam­titkárság foglalkozik ezzel. Ennek vezetőjével az óvodai alapprogram megújításáról, a rugalmas isko…",
+    "content_hu": "Évekig alig kapott figyelmet a 0–10 éves korosztályt ellátó intézményrendszer, ám immár önálló állam­titkárság foglalkozik ezzel. Ennek vezetőjével az óvodai alapprogram megújításáról, a rugalmas iskolakezdésről, az eddigi teljesítményértékelési rendszer kivezetéséről és a szakemberhiányról beszélgettünk."
+  },
+  {
+    "group_id": "group_75e1b2f78c",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Felhasználható közeg",
+        "link": "https://magyarnarancs.hu/belpol/felhasznalhato-kozeg-280529"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "Felhasználható közeg",
+    "lead_hu": "Jól felépített narratíva, a klubelnökhöz hű klientúra – a kormány összeférhetetlenségi törvénye ellenére újabb négy évre tervez a Fradi élén a Fidesz leköszönt pártigazgatója, Kubatov Gábor. Ennek meg…",
+    "content_hu": "Jól felépített narratíva, a klubelnökhöz hű klientúra – a kormány összeférhetetlenségi törvénye ellenére újabb négy évre tervez a Fradi élén a Fidesz leköszönt pártigazgatója, Kubatov Gábor. Ennek megértéséhez nem elég lopást kiáltani."
+  },
+  {
+    "group_id": "group_8ccef6319b",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Énekélet",
+        "link": "https://magyarnarancs.hu/zene2/enekelet-280541"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "Énekélet",
+    "lead_hu": "Forrai Katalin meghatározó szerepet játszott a kisgyermekkori ének-zenei nevelés korszerű, tudatos módszertani rendszerének kidolgozásában. Művei ma is az óvodai zenei nevelés fundamentumának számítan…",
+    "content_hu": "Forrai Katalin meghatározó szerepet játszott a kisgyermekkori ének-zenei nevelés korszerű, tudatos módszertani rendszerének kidolgozásában. Művei ma is az óvodai zenei nevelés fundamentumának számítanak."
+  },
+  {
+    "group_id": "group_c359669f2b",
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "A zene nyelve",
+        "link": "https://magyarnarancs.hu/zene2/a-zene-nyelve-280540"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "A zene nyelve",
+    "lead_hu": "Több szempontból is zavarba ejtő a Hamvas Béla zenei írásait összegyűjtő kötet. Kikezdhetetlen magabiztossága, nagy léptékű hivatkozásai, „megtalált” összefüggései és tévedései miatt esetlegessé, blöf…",
+    "content_hu": "Több szempontból is zavarba ejtő a Hamvas Béla zenei írásait összegyűjtő kötet. Kikezdhetetlen magabiztossága, nagy léptékű hivatkozásai, „megtalált” összefüggései és tévedései miatt esetlegessé, blöffszerűvé válik, amikor a zenéről értekezik."
+  },
+  {
+    "group_id": "group_1aca5fb45e",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Új érzékenység",
+        "link": "https://magyarnarancs.hu/zene2/uj-erzekenyseg-280539"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "Új érzékenység",
+    "lead_hu": "Lehetne vitatkozni róla, hogy számít-e, miféle életrajzi körülmények inspirálták a nagy remekműveket. Bartók önkéntes száműzetésben komponálta a Concertót, és nem nehéz vágyakozást és nosztalgiát hall…",
+    "content_hu": "Lehetne vitatkozni róla, hogy számít-e, miféle életrajzi körülmények inspirálták a nagy remekműveket. Bartók önkéntes száműzetésben komponálta a Concertót, és nem nehéz vágyakozást és nosztalgiát hallani benne, de nem biztos, hogy Mozart valóban a halálra készült, amikor a Requiemet írta."
+  },
+  {
+    "group_id": "group_5bad89ab99",
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Csak a beavatottak”",
+        "link": "https://magyarnarancs.hu/zene2/csak-a-beavatottak-280538"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "„Csak a beavatottak”",
+    "lead_hu": "Tíz éve jött létre a Cziffra Fesztivál, amely újra az érdeklődés középpontjába helyezte a gyakran mellőzött virtuóz zongoraművészt, Cziffra Györgyöt. A fesztivál alapítóját cigány zenéről, az improviz…",
+    "content_hu": "Tíz éve jött létre a Cziffra Fesztivál, amely újra az érdeklődés középpontjába helyezte a gyakran mellőzött virtuóz zongoraművészt, Cziffra Györgyöt. A fesztivál alapítóját cigány zenéről, az improvizáció fontosságáról és közelgő, nagyszabású Liszt-maratonjáról kérdeztük."
+  },
+  {
+    "group_id": "group_6bf6adac8f",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Ámulni tessék",
+        "link": "https://magyarnarancs.hu/zene2/amulni-tessek-280537"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "Ámulni tessék",
+    "lead_hu": "A kis Wolfgang Amadeus Mozart nem volt egyedülálló csodagyerek, de a hozzá hasonlók többségétől eltérően ő csodafelnőtté változott. A 18. században megváltozott, ahogy a gyermekkorra és a tehetségre t…",
+    "content_hu": "A kis Wolfgang Amadeus Mozart nem volt egyedülálló csodagyerek, de a hozzá hasonlók többségétől eltérően ő csodafelnőtté változott. A 18. században megváltozott, ahogy a gyermekkorra és a tehetségre tekintünk, miközben kialakult a modern show-biznisz és a polgári koncertélet. Mindez együttesen vezetett a gyermekvirtuózok kultuszához. De mi maradt belőle?"
+  },
+  {
+    "group_id": "group_8e4dcdeb1a",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Most gyere…”",
+        "link": "https://magyarnarancs.hu/zene2/most-gyere-280536"
+      }
+    ],
+    "published_at": 1793822400,
+    "title_hu": "„Most gyere…”",
+    "lead_hu": "Külföldön él, de sokat jár haza, a közelmúltban például Liszt Krisztus oratóriumát énekelte a Müpában. A szerepeiről, a hangjáról, az ideáljairól, a karmesterekről és a rendezői operákról kérdeztük.",
+    "content_hu": "Külföldön él, de sokat jár haza, a közelmúltban például Liszt Krisztus oratóriumát énekelte a Müpában. A szerepeiről, a hangjáról, az ideáljairól, a karmesterekről és a rendezői operákról kérdeztük."
+  },
+  {
     "group_id": "group_d52cc8b74d",
     "category": "Politika",
     "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303180094-masolat-1024x576.jpg",
@@ -4718,6 +4996,258 @@
     "title_hu": "40 hold",
     "lead_hu": "A föld mérgezett, nem terem a dudva sem, az álla­tok kihaltak, légy se zümmög, madár se jár.",
     "content_hu": "A föld mérgezett, nem terem a dudva sem, az álla­tok kihaltak, légy se zümmög, madár se jár."
+  },
+  {
+    "group_id": "group_4f71f7fb26",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "4-6",
+        "link": "https://magyarnarancs.hu/visszhang/4-6-280550"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "4-6",
+    "lead_hu": "Ifj. Vidnyánszky Attila leg­újabb rendezése az előző, hasonló koncepció mentén készült @LL3t4rgIA-hoz hasonlít.",
+    "content_hu": "Ifj. Vidnyánszky Attila leg­újabb rendezése az előző, hasonló koncepció mentén készült @LL3t4rgIA-hoz hasonlít."
+  },
+  {
+    "group_id": "group_bb0514e817",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Marcel Pagnol csodálatos élete",
+        "link": "https://magyarnarancs.hu/visszhang/marcel-pagnol-csodalatos-elete-280549"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Marcel Pagnol csodálatos élete",
+    "lead_hu": "Sylvain Chomet a kortárs rajzfilm kétségtelen hérosza, a kerékpársport szerelmesei biztosan tudják, legalább a Belleville randevú óta.",
+    "content_hu": "Sylvain Chomet a kortárs rajzfilm kétségtelen hérosza, a kerékpársport szerelmesei biztosan tudják, legalább a Belleville randevú óta."
+  },
+  {
+    "group_id": "group_e5785a4513",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Todd Snider: My Second Rodeo",
+        "link": "https://magyarnarancs.hu/visszhang/todd-snider-my-second-rodeo-280548"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Todd Snider: My Second Rodeo",
+    "lead_hu": "„Nem ma kezdtem” – mondja egy magyar. „Nem ez az első rodeóm” – mondja egy amerikai.",
+    "content_hu": "„Nem ma kezdtem” – mondja egy magyar. „Nem ez az első rodeóm” – mondja egy amerikai."
+  },
+  {
+    "group_id": "group_cb9d504f04",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Réti Anna: Back to Basic",
+        "link": "https://magyarnarancs.hu/visszhang/reti-anna-back-to-basic-280547"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Réti Anna: Back to Basic",
+    "lead_hu": "A táncos-koreográfus új performance-a az idő múlásáról és az alkotói megmutatkozás természetes vágyáról szól, nagyon személyes hangon.",
+    "content_hu": "A táncos-koreográfus új performance-a az idő múlásáról és az alkotói megmutatkozás természetes vágyáról szól, nagyon személyes hangon."
+  },
+  {
+    "group_id": "group_54aeb626ef",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Knud Romer: Lány a hegedűben",
+        "link": "https://magyarnarancs.hu/visszhang/knud-romer-lany-a-hegeduben-280546"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Knud Romer: Lány a hegedűben",
+    "lead_hu": "Vajon mennyit kell feláldozni azért, hogy valaki kivételes művésszé váljon?",
+    "content_hu": "Vajon mennyit kell feláldozni azért, hogy valaki kivételes művésszé váljon?"
+  },
+  {
+    "group_id": "group_2840b19ba8",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Nocturne",
+        "link": "https://magyarnarancs.hu/visszhang/nocturne-280545"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Nocturne",
+    "lead_hu": "Rowan Joffé sorozata minden szempontból hozza azokat a tulajdonságokat, amelyeket A bárányok hallgatnak és a skandináv noirok ötvözetétől várnánk.",
+    "content_hu": "Rowan Joffé sorozata minden szempontból hozza azokat a tulajdonságokat, amelyeket A bárányok hallgatnak és a skandináv noirok ötvözetétől várnánk."
+  },
+  {
+    "group_id": "group_637d10dc73",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Szüret 2026/45.",
+        "link": "https://magyarnarancs.hu/interaktiv/szuret-202645-280558"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Szüret 2026/45.",
+    "lead_hu": "Mókás és dühítő gyűjtemény a heti sajtóból. Többnyire az utóbbi.",
+    "content_hu": "Mókás és dühítő gyűjtemény a heti sajtóból. Többnyire az utóbbi."
+  },
+  {
+    "group_id": "group_69caac149a",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Snoblesse Oblige 2026/45.",
+        "link": "https://magyarnarancs.hu/interaktiv/snoblesse-oblige-202645-280553"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Snoblesse Oblige 2026/45.",
+    "lead_hu": "Heti kulturális programajánló",
+    "content_hu": "Heti kulturális programajánló"
+  },
+  {
+    "group_id": "group_56c0a5675d",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Egy hét tudomány 2026/45.",
+        "link": "https://magyarnarancs.hu/interaktiv/egy-het-tudomany-202645-280527"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Egy hét tudomány 2026/45.",
+    "lead_hu": "Rövid hírek: csillag, meteorit, galaxis...",
+    "content_hu": "Rövid hírek: csillag, meteorit, galaxis..."
+  },
+  {
+    "group_id": "group_cec4def021",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Egy hét kultúra 2026/45.",
+        "link": "https://magyarnarancs.hu/interaktiv/egy-het-kultura-202645-280526"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Egy hét kultúra 2026/45.",
+    "lead_hu": "Rövid hírek: kultúra itthon, külföldön és másutt",
+    "content_hu": "Rövid hírek: kultúra itthon, külföldön és másutt"
+  },
+  {
+    "group_id": "group_9f9bea4ea5",
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Mintha táncolnának!",
+        "link": "https://magyarnarancs.hu/film2/mintha-tancolnanak-280556"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Mintha táncolnának!",
+    "lead_hu": "Film, film, film!",
+    "content_hu": "Film, film, film!"
+  },
+  {
+    "group_id": "group_fdc63cdca5",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Az erdőt járjuk”",
+        "link": "https://magyarnarancs.hu/konyv/az-erdot-jarjuk-280554"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "„Az erdőt járjuk”",
+    "lead_hu": "Rubin Eszter író, gasztronómus",
+    "content_hu": "Rubin Eszter író, gasztronómus"
+  },
+  {
+    "group_id": "group_7153d639e9",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Itt van a sütőtökszezon!",
+        "link": "https://magyarnarancs.hu/gasztro/itt-van-a-sutotokszezon-280557"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Itt van a sütőtökszezon!",
+    "lead_hu": "Sütőtökös gersli rizottó barnavajas, zsályás gesztenyével",
+    "content_hu": "Sütőtökös gersli rizottó barnavajas, zsályás gesztenyével"
+  },
+  {
+    "group_id": "group_39579ef3a4",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Ikarus PALT – II. rész",
+        "link": "https://magyarnarancs.hu/lokal/ikarus-palt-ii-resz-280555"
+      }
+    ],
+    "published_at": 1793822100,
+    "title_hu": "Ikarus PALT – II. rész",
+    "lead_hu": "A majd’ 15 méter hosszú, több mint 4 méter magas és 2,86 méter széles busszal „bárhonnan bárhová” egészen biztosan nem lehetett volna eljutni, sőt a megengedettnél szélesebb tengelytávja miatt a közút…",
+    "content_hu": "A majd’ 15 méter hosszú, több mint 4 méter magas és 2,86 méter széles busszal „bárhonnan bárhová” egészen biztosan nem lehetett volna eljutni, sőt a megengedettnél szélesebb tengelytávja miatt a közúton eleve csak külön engedéllyel közlekedhetett."
   },
   {
     "group_id": "group_aa6e842402",
@@ -5609,41 +6139,6 @@
     "content_hu": "A Tisza-kormány nem pusztán egy-két elemben kíván szakítani az elődje által követett gazdaságpolitikához, hanem egy teljes fordulatot hajt végre."
   },
   {
-    "group_id": "group_e04570aa87",
-    "fingerprint": "87c79a9c60105e8dffeead95452af8de",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793810344-temp-beele6nt0ran6gfgidj_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Azonnali lépést tett Magyarországon a Revolut: leállította a kereskedést több népszerű termékkel",
-        "link": "https://www.portfolio.hu/befektetes/20261104/azonnali-lepest-tett-magyarorszagon-a-revolut-leallitotta-a-kereskedest-tobb-nepszeru-termekkel-874330"
-      },
-      {
-        "source": "PC World",
-        "title": "Indoklás nélkül kivezeti a Revolut a nemesfémekkel kapcsolatos befektetési szolgáltatásait Magyarországon",
-        "link": "https://www.pcwplus.hu/pcwlite/indoklas-nelkul-kivezeti-a-revolut-a-nemesfemekkel-kapcsolatos-befektetesi-szolgaltatasait-magyarorszagon-390443.html"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "A Revolut kivezeti Magyarországról a tőzsdei árukkal kapcsolatos szolgáltatásait",
-        "link": "https://telex.hu/gazdasag/2026/11/04/a-revolut-kivezeti-magyarorszagrol-a-tozsdei-arukkal-kapcsolatos-szolgaltatasait"
-      },
-      {
-        "source": "Rakéta.hu",
-        "title": "A Revolut hirtelen leállított egy szolgáltatást, kizárólag Magyarországon - ez állhat a háttérben",
-        "link": "https://raketa.hu/revolut-leallitas-nemesfem-kereskedes-magyarazat/"
-      }
-    ],
-    "published_at": 1793816710,
-    "title_hu": "Kivezeti a Revolut Magyarországról a nemesfémek kereskedését",
-    "lead_hu": "A Revolut megszünteti a tőzsdei árukkal kapcsolatos szolgáltatását Magyarországon, így az ügyfelek már nem vásárolhatnak aranyat, ezüstöt, palládiumot vagy platinát. A meglévő pozíciókat 2027. január 4-ig lehet eladni, az értékesítési tranzakciók díját pedig erre az időszakra elengedik. A kivezetés azonnal életbe lépett, és új ügyfelek sem regisztrálhatnak a szolgáltatásra.",
-    "content_hu": "• **Csak a magyar ügyfeleket érinti a döntés:** A Revolut kivezeti a platformjáról a nemesfémekkel kapcsolatos kereskedési szolgáltatást Magyarországon.\n\n• **Négy árupiaci termék kerül ki:** Arannyal, ezüsttel, palládiummal és platinával nem lehet új vételi megbízást adni, a meglévő pozíciók pedig nem növelhetők.\n\n• **A kivezetés azonnal életbe lépett:** Bár az alkalmazásban a vételi opció továbbra is megjelenhet, a rendszer a tranzakció végrehajtását már nem engedi.\n\n• **Új ügyfelek sem csatlakozhatnak:** A szolgáltatásra új regisztrációt nem fogadnak, a meglévő felhasználók viszont megtarthatják pozícióikat az eladási határidőig.\n\n• **2027. január 4-ig lehet eladni:** A már meglévő befektetéseket eddig az időpontig értékesíthetik az ügyfelek az alkalmazásban; az eladások tranzakciós díját a Revolut elengedi.\n\n• **A megszüntetés okát nem közölték:** A brit pénzügyi felügyelet alatt működő Revolut Ltd. egyelőre nem adott hivatalos magyarázatot a szolgáltatás kivezetésére.\n\n• **Korábban a kriptoszolgáltatás is megszűnt Magyarországon:** A Revolut 2025 decemberében szintén kizárólag a magyar ügyfeleknél állította le a kriptovaluta-szolgáltatásait; ezt akkor jogszabályi változásokkal indokolta, de a funkciót azóta sem állította vissza."
-  },
-  {
     "group_id": "group_0f19ef436e",
     "category": "Politika",
     "image": "",
@@ -6491,36 +6986,6 @@
     "title_hu": "A Xiaomi túlságosan is olcsó okosszemüvege Európába is jön",
     "lead_hu": "A Xiaomi okos volt és nem próbált kamerát és mesterséges intelligenciát rakni az okosszemüvegébe.",
     "content_hu": "A Xiaomi okos volt és nem próbált kamerát és mesterséges intelligenciát rakni az okosszemüvegébe."
-  },
-  {
-    "group_id": "group_6f2c9bee92",
-    "fingerprint": "50f1d92943fd3024a5bed3bd988c961e",
-    "category": "Kultúra",
-    "image": "https://cdn.borsonline.hu/2026/11/6WDO-L29rm-TtXtkGv_v5LsERAJLwDPNzHjdEdGA25g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxOGZlZWQyNzJjNzRkZDNiYjhhMWRiMzY3YWJjMGM3.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Az Origón tér vissza Andor Éva műsora",
-        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/andor-eva-musora-az-origon-ter-vissza"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Andor Éva új műsorral tér vissza, mutatjuk ki lesz az első vendége",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/andor-eva-uj-musorral-ter-vissza-mutatjuk-ki-lesz-az-elso-vendege?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Femina",
-        "title": "A TV2 sztárhíradósa ebben a műsorban tér vissza a képernyőre: meglepő, hol láthatod Andor Évát",
-        "link": "https://femina.hu/hazai_sztar/andor-eva-uj-musora/"
-      }
-    ],
-    "published_at": 1793812167,
-    "title_hu": "Andor Éva új podcasttal tér vissza az Origón",
-    "lead_hu": "Andor Éva Négyszemközt Andor Évával című műsora az Origo YouTube-csatornáján indul újra. Az első, csütörtökön megjelenő epizód vendége Vidnyánszky Attila lesz, a további részek pedig hetente érkeznek.",
-    "content_hu": "• **Új platformon folytatódik a műsor** Andor Éva podcastja az Origo YouTube-csatornáján tér vissza, néhány hónapos szünet után.\n\n• **Hetente csütörtökön jelentkezik** Az első epizód csütörtökön debütál, ezt követően minden héten új beszélgetés lesz elérhető.\n\n• **Vidnyánszky Attila lesz az első vendég** A műsorvezető művészeket, tudósokat, zenészeket, sportolókat és más közéleti személyiségeket kérdez majd életükről, gondolkodásukról és értékeikről."
   },
   {
     "group_id": "group_ec84f1460a",
@@ -7777,18 +8242,11 @@
   },
   {
     "group_id": "group_cb2690e530",
-    "fingerprint": "bd464521fedd610a8fa9de3fa9e320d4",
     "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://cdn.magyarnemzet.hu/2026/11/y7WZ81JrSjRdj9FWbR3pI8JRLp10vet6Oha9IEwnEtg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg0YmU1MWI3OWEzZTQ2MGU4ZDRmMDMyYmEyNjQ1ZTRk.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Árad a nepotizmus: Kátai-Németh a saját barátnőjét ültette be a miniszteri kabinetjébe",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/katai-nemeth-vilmos-a-sajat-baratnojet-ultette-be-a-miniszteri-kabinetjebe"
-      },
       {
         "source": "Magyar Nemzet",
         "title": "Kátai-Németh Vilmos a miniszteri kabinetbe ejtőernyőztette a barátnőjét",
@@ -7796,9 +8254,9 @@
       }
     ],
     "published_at": 1793806892,
-    "title_hu": "Kérdések merültek fel Kátai-Németh Vilmos kabinetjének személyi ügyében",
-    "lead_hu": "Sajtóbeszámolók szerint Antal Klára, Kátai-Németh Vilmos szociális és családügyi miniszter barátnője a miniszteri kabinet tagja lett. Az Ellenpólus közérdekű adatigénylésben kérdezett rá alkalmazásának feltételeire és arra, hogy összeférhetetlennek tartják-e a helyzetet.",
-    "content_hu": "• **Kabinetbeli szerep** Az RTL Házon kívül című műsoráról szóló beszámoló szerint Antal Klára, aki a kampányban is a miniszter munkatársa volt, a kabinet tagjaként több minisztériumi eseményen és megbeszélésen is jelen volt.\n\n• **Adatigénylés** Az Ellenpólus a minisztériumtól azt kérdezte, milyen szerződéssel és feltételekkel alkalmazzák Antal Klárát, illetve aggályosnak tartják-e, hogy a miniszter közeli személye a beosztottja és kabinetvezetői szerepet is betölt.\n\n• **A másik beszámoló** A Magyar Nemzet címe szintén arról számol be, hogy Kátai-Németh Vilmos barátnője bekerült a miniszteri kabinetbe; a közölt szöveg azonban további részleteket nem tartalmaz."
+    "title_hu": "Kátai-Németh Vilmos a miniszteri kabinetbe ejtőernyőztette a barátnőjét",
+    "lead_hu": "A tiszásoknál állítólag nincs uram-bátyám világ.",
+    "content_hu": "A tiszásoknál állítólag nincs uram-bátyám világ."
   },
   {
     "group_id": "group_6e086d5107",
@@ -8719,17 +9177,12 @@
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261104/1793802209-temp-30260q3g6chv4cdinfi_cimlap-normal.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
         "source": "Telex - Belföld",
         "title": "„Semmi különös nem volt” – Felföldi József, a szívószálpápa elismerte, hogy kapcsolatban volt az állambiztonsággal",
         "link": "https://telex.hu/belfold/2026/11/04/a-szivoszalpapa-elismerte-hogy-kapcsolatban-volt-az-allambiztonsaggal"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "„Semmi különös nem volt” – Felföldi József, a szívószálpápa elismerte, hogy kapcsolatban volt az állambiztonsággal",
-        "link": "https://telex.hu/ugynokaktak/2026/11/04/a-szivoszalpapa-elismerte-hogy-kapcsolatban-volt-az-allambiztonsaggal"
       }
     ],
     "published_at": 1793802122,
@@ -9327,18 +9780,11 @@
   },
   {
     "group_id": "group_a8d9a465ba",
-    "fingerprint": "8488564ceffe66f0afafd4cf50cc3846",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/71191713_fb56080125cd.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72413/724134/72413403_4a00b2eb13e7d2e250840ae9d4c91366_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Femina",
-        "title": "Gallusz Niki és 23 évvel fiatalabb párja kitűzték az esküvő dátumát: történelmi napon kelnének egybe",
-        "link": "https://femina.hu/hazai_sztar/gallusz-niki-fiatalabb-parja-eskuvo-datum/"
-      },
       {
         "source": "Index - Címlap",
         "title": "Összeházasodik Gallusz Niki és 23 évvel fiatalabb szerelme, már a dátum is megvan",
@@ -9346,9 +9792,9 @@
       }
     ],
     "published_at": 1793799970,
-    "title_hu": "Gallusz Niki és Tony jövő májusra tervezik az esküvőt",
-    "lead_hu": "Gallusz Niki és 23 évvel fiatalabb párja, Pazicski Tibor, vagyis Tony már az esküvőjüket tervezik, és jegyesoktatásra is járnak. Tony jövő május 1-jét javasolta időpontként, amellyel a színésznő is szimpatizál, de a dátum még nem végleges.",
-    "content_hu": "• **Esküvőtervek** Gallusz Niki és Tony kapcsolata komolyra fordult: a pár házasságra készül, és már jegyesoktatáson is részt vesz.\n\n• **Javasolt időpont** Tony jövő május 1-jét tűzte ki célul, vagy az azt megelőző időpontot. A dátum számára azért különleges, mert ezen a napon alapították a bajor illuminátus rendet.\n\n• **Gallusz Niki reakciója** A színésznőnek tetszik, hogy van egy konkrét időpont, és úgy tekint rá, mint egy keretre; szerinte a részleteket majd az élet alakítja.\n\n• **Visszafogott ünneplés** Gallusz arról beszélt, hogy nem vágyik világraszóló, szponzorokkal teli esküvőre."
+    "title_hu": "Összeházasodik Gallusz Niki és 23 évvel fiatalabb szerelme, már a dátum is megvan",
+    "lead_hu": "",
+    "content_hu": ""
   },
   {
     "group_id": "group_abcb435c76",
@@ -11427,19 +11873,30 @@
     "content_hu": "A Kísértés legújabb évada most jár a negyedik hetében, mivel október 12-én indult el az első adás. A thaiföldi realityben már javában zajlanak a drámák: a napokban például óriási fordulatként Niki és Milán története lezárult, és a lány Dáviddal együtt távozott a kísértés szigetéről. A hétfői és a keddi adás azonban másképp lett leadva, mint a korábbiak. Önnek is feltűnt a változtatás?"
   },
   {
-    "group_id": "group_f3e4cc0561",
-    "fingerprint": "9d1120b6bf7bcc6679b88a1fb3ff21c8",
+    "group_id": "group_345e4e1afd",
     "category": "Politika",
     "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Mától bárki rákereshet 60 ezer névre az ügynökakták között – itt lehet megnézni a dokumentumokat",
-        "link": "https://nlc.hu/ezvan/20261104/ugynokaktak-60-ezer-nev-kereses-nyitottaktak-hu/4lqrm4b"
-      },
+        "source": "Blikk",
+        "title": "Megérkeztek a friss adatok: így áll most a magyar költségvetés",
+        "link": "https://www.blikk.hu/gazdasag/penz/200-milliardos-hianyt-hozott-az-oktober-miniszteriumi-kiadasok/kymt9dw"
+      }
+    ],
+    "published_at": 1793793162,
+    "title_hu": "Megérkeztek a friss adatok: így áll most a magyar költségvetés",
+    "lead_hu": "Októberben a központi alrendszer hiánya 200,6 milliárd forintot tett ki, ami 138,4 milliárd forinttal kedvezőbb az egy évvel korábbi adatnál – derül ki a Pénzügyminisztérium friss gyorsjelentéséből. A…",
+    "content_hu": "Októberben a központi alrendszer hiánya 200,6 milliárd forintot tett ki, ami 138,4 milliárd forinttal kedvezőbb az egy évvel korábbi adatnál – derül ki a Pénzügyminisztérium friss gyorsjelentéséből. Az év első tíz hónapjának kumulált hiánya ezzel elérte az 5462,5 milliárd forintot. A kormány által elfogadott pótköltségvetés egész évre 7100 milliárd forintos pénzforgalmi hiányt irányoz elő, így az első tízhavi összesített deficit az éves cél 76,9 százalékán áll."
+  },
+  {
+    "group_id": "group_f3e4cc0561",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
       {
         "source": "Blikk",
         "title": "Ügynökakták: meglepő neveket találtunk, magyar sztárok a listán",
@@ -11447,9 +11904,9 @@
       }
     ],
     "published_at": 1793793145,
-    "title_hu": "Megnyílt az állambiztonsági nyilvántartások kereshető adatbázisa",
-    "lead_hu": "November 4-től bárki ingyenesen, regisztráció nélkül kereshet az egykori állambiztonsági nyilvántartások mintegy 50–60 ezer nevet tartalmazó adatbázisában. A források politikusok és ismert művészek neveiről is beszámolnak, de a levéltár figyelmeztet: egy név felbukkanása önmagában nem bizonyít tényleges együttműködést.",
-    "content_hu": "• **November 4-én megnyílt az adatbázis** a nyitottaktak.hu oldalon; a kereséshez nem kell regisztrálni, és név, születési adatok, fedőnév vagy dokumentumtípus szerint is lehet kutatni.\n\n• **Első körben háromféle nyilvántartás érhető el:** a 6-os kartonok, a beszervezési naplók és a mágnesszalagos adattárak. A részletesebb beszervezési dossziék közzétételét 2027. február 25-ig tervezik.\n\n• **A nyilvántartásban szereplés nem bizonyítja önmagában az ügynöki tevékenységet.** Egyeseket csak megpróbáltak beszervezni, mások visszautasíthatták az együttműködést, vagy nyomás és fenyegetés hatására kerülhettek kapcsolatba az állambiztonsággal.\n\n• **A nyilvánosságra került nevek között közéleti és szórakoztatóipari szereplők is vannak.** A dokumentumok értelmezéséhez további iratokra és kutatásra lehet szükség, mivel az adatbázis hiányos lehet, és nem minden fennmaradt dokumentum érhető el online."
+    "title_hu": "Ügynökakták: meglepő neveket találtunk, magyar sztárok a listán",
+    "lead_hu": "Harminchat évvel a rendszerváltás után, 2026. november 4-én nyilvánossá váltak az egykori kommunista állambiztonsági szervek hálózati nyilvántartásainak jelentős részei. A nyitottaktak.hu oldalon bárk…",
+    "content_hu": "Harminchat évvel a rendszerváltás után, 2026. november 4-én nyilvánossá váltak az egykori kommunista állambiztonsági szervek hálózati nyilvántartásainak jelentős részei. A nyitottaktak.hu oldalon bárki, regisztráció nélkül kereshet az egykori állambiztonsági hálózati személyek adatai között. A most közzétett dokumentumokban több tízezer név szerepel, köztük politikusoké, művészeké és közéleti szereplőké. Az első nap nyilvánosságra került nevei között akadnak olyanok, akik elismerték egykori együttműködésüket, olyanok, akik kényszer hatására írták alá a beszervezési nyilatkozatot, és olyanok is, akiknek a neve ugyan felbukkant a nyilvántartásban, de ez önmagában még nem bizonyítja az ügynöki tevékenységet. Összegyűjtöttük, hogy elsőre kik a legérdekesebb szórakoztatóiparból ismert nevek az ügynökaktákban."
   },
   {
     "group_id": "group_bdeb622c6e",
@@ -11844,6 +12301,24 @@
     "content_hu": ""
   },
   {
+    "group_id": "group_836bf021b4",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7241/72412/724123/72412367_1035f88e9ada2bf7386e2544e7ea2a82_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hiába bukott meg az ügyvédi vizsgán Kim Kardashian, továbbra is jogi karrierről álmodik",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/04/hiaba-bukott-meg-az-ugyvedi-vizsgan-kim-kardashian-tovabbra-is-jogi-karrierrol-almodik/"
+      }
+    ],
+    "published_at": 1793791898,
+    "title_hu": "Hiába bukott meg az ügyvédi vizsgán Kim Kardashian, továbbra is jogi karrierről álmodik",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
     "group_id": "group_9f7c2124fe",
     "category": "Bulvár",
     "image": "",
@@ -12090,6 +12565,24 @@
     "content_hu": "Lola a szülése után néhány hónappal vállalta első képernyős szereplését Az Árulók – Gyilkosság a kastélyban című műsorban, amely az RTL+ Premiumon visszanézhető. Bár kezdetben szorongással és önbizalomhiánnyal küzdött, a játék során átélt stressz és intenzív érzelmi helyzetek hatására ezek az aggodalmak hamar háttérbe szorultak. Rengeteget fogyott a forgatáson."
   },
   {
+    "group_id": "group_22d1d88f59",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Blikk",
+        "title": "Európai rekordárakat fizetünk a netért és a telefonálásért – így faraghat komoly ezreket a havi számlájából",
+        "link": "https://www.blikk.hu/ferfiaknak/tech/magyarorszagi-tavkozles-rezsi-lefaragas/0zhxv8y"
+      }
+    ],
+    "published_at": 1793790335,
+    "title_hu": "Európai rekordárakat fizetünk a netért és a telefonálásért – így faraghat komoly ezreket a havi számlájából",
+    "lead_hu": "Évek óta csendben, mégis drasztikusan drágul a hazai távközlés: míg a vezetékes internet technológiája kiváló, a magyar mobilárak vásárlóerő-paritáson mérve az Európai Unió legdrágábbjai közé csúsztak…",
+    "content_hu": "Évek óta csendben, mégis drasztikusan drágul a hazai távközlés: míg a vezetékes internet technológiája kiváló, a magyar mobilárak vásárlóerő-paritáson mérve az Európai Unió legdrágábbjai közé csúsztak vissza. A zsebünket húzó inflációkövető díjemelések és a gyengülő árverseny ellenére a fogyasztók nincsenek teljesen kiszolgáltatva. Tudatos lépésekkel havonta több ezer forint rezsi spórolható meg."
+  },
+  {
     "group_id": "group_c3a08c95a4",
     "fingerprint": "23f4ce10cec408119f89af905cd91e79",
     "category": "Politika",
@@ -12277,39 +12770,6 @@
     "content_hu": "A visegrádi várfalaktól a Dunáig visz az őszi kirándulás."
   },
   {
-    "group_id": "group_d3ae6bc1c1",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/w/a/b/waberer-medical-center-866594.jpg",
-    "is_synthesized": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Már a szerződést is aláírták, mégis meghiúsult Wáberer György nagy magánegészségügyi üzlete",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/mar-a-szerzodest-is-alairtak-megis-meghiusult-waberer-gyorgy-nagy-maganegeszsegugyi-uzlete-874058"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Már a szerződést is aláírták, mégis meghiúsulni látszik Wáberer György nagy magánegészségügyi üzlete",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/mar-a-szerzodest-is-alairtak-megis-meghiusulni-latszik-waberer-gyorgy-nagy-maganegeszsegugyi-uzlete-874058"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Váratlan fordulat: meghiúsult Wáberer György nagy magánkórház-vásárlása?",
-        "link": "https://nlc.hu/ezvan/20261104/waberer-gyorgy-tritonlife-magan-korhazak-felvasarlas-meghiusulas/yr07965"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Váratlan fordulat: meghiúsult Wáberer György nagy magánkórház-vásárlása?",
-        "link": "https://nlc.hu/ezvan/20261105/waberer-gyorgy-tritonlife-magan-korhazak-felvasarlas-meghiusulas/yr07965"
-      }
-    ],
-    "published_at": 1793790000,
-    "title_hu": "Már a szerződést is aláírták, mégis meghiúsult Wáberer György nagy magánegészségügyi üzlete",
-    "lead_hu": "A Portfolio már hónapokkal ezelőtt úgy értesült több piaci forrásból, hogy meghiúsul az elmúlt évek egyik legnagyobb tranzakciója a magánegészségügyi szektorban. Értesülésünket a Gazdasági Versenyhiva...",
-    "content_hu": "A Portfolio már hónapokkal ezelőtt úgy értesült több piaci forrásból, hogy meghiúsul az elmúlt évek egyik legnagyobb tranzakciója a magánegészségügyi szektorban. Értesülésünket a Gazdasági Versenyhivatal napokban közzétett végzése hivatalosan is megerősítette: a Wáberer György tulajdonában álló befektetőtársaság mégsem vásárolja meg a TritonLife Magánkórházakat, vagyis elmarad az egyik legnagyobb piaci konszolidáció, melynek keretében a kilencedik legnagyobb privát egészségügyi szolgáltató vásárolta volna fel a negyedik legnagyobb társaságot. A versenyhatóság dokumentumából az is kiderül, hogy a felvásárlásról már május végén aláírták az adásvételi szerződést, szeptember végén azonban a vevő közölte, hogy mégsem kívánja megvalósítani a tranzakciót. Az eladói szerepben lévő TritonLife ezt követően arról tájékoztatta a GVH-t, hogy a vevő megtagadta a szerződés teljesítését, ezért az megszűnt. A hivatalos dokumentum ugyanakkor nem tér ki arra, hogy mi állt a visszalépés hátterében."
-  },
-  {
     "group_id": "group_44653af283",
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8af6fcb5-4a02-4c76-b47e-5ffb9f92226e.jpg",
@@ -12447,32 +12907,12 @@
     "category": "Tech",
     "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/internetado_111355_3_original_390x220_cover.jpg",
     "is_synthesized": false,
-    "sources_count": 5,
+    "sources_count": 1,
     "sources": [
       {
         "source": "PC World",
         "title": "Magyarország után a franciáknál is tervezik az internetadót: Akár 10 euróba is fájhat minden egyes alkalommal csak letölteni a GTA 6-ot, amit egyébként már megvettél",
         "link": "https://www.gsplus.hu/hir/magyarorszag-utan-a-franciaknal-is-tervezik-az-internetadot-akar-10-euroba-is-fajhat-minden-egyes-alkalommal-csak-letolteni-a-mar-megvasarolt-gta-6ot-390427.html"
-      },
-      {
-        "source": "PC World",
-        "title": "Magyarország után a franciáknál is tervezik az internetadót: Akár 10 euróba is fájhat minden egyes alkalommal csak letölteni a GTA 6-ot, amit egyébként már megvettél",
-        "link": "https://www.gsplus.hu/500-milliard-dollart-esett-a-google-erteke-ezert-az-ait-is-telepakoljak-reklamokkal-390207.html"
-      },
-      {
-        "source": "PC World",
-        "title": "Magyarország után a franciáknál is tervezik az internetadót: Akár 10 euróba is fájhat minden egyes alkalommal csak letölteni a GTA 6-ot, amit egyébként már megvettél",
-        "link": "https://www.gsplus.hu/revolut-megtakaritas-bankszamla-fintech-bank-425-szazalekos-kamattal-csabitja-az-uj-magyar-ugyfeleket-a-revolut-385248.html"
-      },
-      {
-        "source": "PC World",
-        "title": "Magyarország után a franciáknál is tervezik az internetadót: Akár 10 euróba is fájhat minden egyes alkalommal csak letölteni a GTA 6-ot, amit egyébként már megvettél",
-        "link": "https://www.pcwplus.hu"
-      },
-      {
-        "source": "PC World",
-        "title": "Magyarország után a franciáknál is tervezik az internetadót: Akár 10 euróba is fájhat minden egyes alkalommal csak letölteni a GTA 6-ot, amit egyébként már megvettél",
-        "link": "https://www.gsplus.hu/norton-utilities-ultimate-bemutato-windows-tuning-390119.html"
       }
     ],
     "published_at": 1793789318,
@@ -13028,23 +13468,11 @@
   },
   {
     "group_id": "group_c9a8075fcd",
-    "fingerprint": "821bcf5761bac6f60feb68c2c312bbc5",
     "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7239/72399/723996/72399629_5335309_76fbb88692ffc8e9383a566b12a8efe8_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
+    "image": "https://www.youtube.com/embed/W1pEZU358PQ",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Index - Belföld",
-        "title": "Elkapkodhatta az új tankerületi igazgatók kiválasztását a kormány, sorra érkeznek a kritikák",
-        "link": "https://index.hu/belfold/2026/11/04/tankeruleti-igazgatok-kivalasztas-kormany-kritika-tanitanek-mozgalom-pdsz/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Kihirdették az új tankerületi igazgatók névsorát, a szakszervezetek szerint a minisztérium elkapkodta a kiválasztást",
-        "link": "https://telex.hu/belfold/2026/11/04/uj-tankeruleti-igazgatok-nevsora-szakszervezet-kritika-kapkodas-miniszterium"
-      },
       {
         "source": "ATV",
         "title": "Megszületett a döntés az új tankerületi igazgatókról, de sorra érkeznek a kritikák a kormány felé",
@@ -13052,9 +13480,9 @@
       }
     ],
     "published_at": 1793787060,
-    "title_hu": "Kihirdették az új tankerületi igazgatókat, a szakszervezetek elkapkodottnak tartják a kiválasztást",
-    "lead_hu": "Nyilvánosságra hozták az új tankerületi igazgatók névsorát: a 60 központból 55 élére választottak vezetőt, öt helyen pedig érvénytelen lett a pályázat. A szakszervezetek szerint a pályázatok véleményezésére kevés idő jutott, és több helyen nehéz volt hozzáférni a jelentkezésekhez.",
-    "content_hu": "• **55 tankerületi központ élére választottak vezetőt**: a névsort hétfő este tették közzé. Öt központban érvénytelen lett a pályázat, ezért ott új eljárást kell indítani.\n\n• **November 5-én állnak munkába az új igazgatók**. A korábbi vezetők közül csak az érdi tankerület igazgatója marad a helyén.\n\n• **A szakszervezetek elkapkodottnak bírálták a kiválasztást**: Gosztonyi Gábor, a Pedagógusok Szakszervezetének alelnöke szerint a tantestületeknek mindössze öt napjuk volt a pályázatok véleményezésére. Egyes iskolákban a jelentkezéseket csak nyomtatott formában, az igazgatói irodában lehetett megismerni.\n\n• **A szakszervezetek szerint az eljárás nem volt kellően átlátható**: a Pedagógusok Demokratikus Szakszervezetének ügyvivője, Nagy Erzsébet kifogásolta, hogy a szervezetek nem kapcsolódhattak be a jelöltek véleményezésébe. A PDSZ közérdekű adatigényléssel kéri ki az eljárás részleteit és a nyertes pályázatokat.\n\n• **Az új vezetők az oktatásirányítás átalakulása közben kezdik meg munkájukat**. A minisztérium korábbi terve szerint a tankerületek támogató és koordinációs szerepe erősödne, az iskolaigazgatók pedig visszakapnák munkáltatói jogaikat."
+    "title_hu": "Megszületett a döntés az új tankerületi igazgatókról, de sorra érkeznek a kritikák a kormány felé",
+    "lead_hu": "Nyilvánosságra hozták az új tankerületi igazgatók névsorát, ám a kiválasztási eljárás máris vitákat váltott ki. A pedagógus-szakszervezetek és a Tanítanék Mozgalom szerint a pályáztatás elkapkodott és…",
+    "content_hu": "Nyilvánosságra hozták az új tankerületi igazgatók névsorát, ám a kiválasztási eljárás máris vitákat váltott ki. A pedagógus-szakszervezetek és a Tanítanék Mozgalom szerint a pályáztatás elkapkodott és nem volt kellően átlátható. A 60 tankerületi központból 55 élére érkezik új vezető, akik november 5-én kezdik meg a munkát."
   },
   {
     "group_id": "group_00b92a7cdd",
@@ -13076,18 +13504,11 @@
   },
   {
     "group_id": "group_1093020361",
-    "fingerprint": "9e2ba645cfe8487a2d112f17258d4c1d",
-    "category": "Sport",
-    "image": "https://kep.index.hu/1/0/7187/71873/718738/71873873_5298269_4b46860cc9040b7c959b65abdf7d4b0c_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Index - Sport",
-        "title": "Marco Rossi visszaszólt a Liverpool edzőjének a Szoboszlai-ügyben",
-        "link": "https://index.hu/sport/futball/2026/11/04/szoboszlai-dominik-serules-marco-rossi-magyar-valogatott-liverpool-andoni-iraola/"
-      },
       {
         "source": "Blikk",
         "title": "Nem csitul a Szoboszlai sérülése körüli vita: Marco Rossi visszaszólt a liverpooliaknak",
@@ -13095,9 +13516,9 @@
       }
     ],
     "published_at": 1793786739,
-    "title_hu": "Rossi szerint Szoboszlai nem a válogatottnál sérült meg",
-    "lead_hu": "Marco Rossi a Nemzetek Ligája-keret kihirdetése után arról beszélt, hogy Szoboszlai Dominik sérülését nem a válogatottban kapott terhelés okozta. A kapitány úgy véli, a Liverpool középpályása már teljesen egészséges, és a Georgia, illetve Észak-Írország elleni mérkőzésen is számít rá.",
-    "content_hu": "• **Marco Rossi szerint Szoboszlai sérülése nem a válogatottnál keletkezett.** A szövetségi kapitány vitatta azt az állítást, hogy a játékos túlterhelten tért volna vissza a nemzeti csapattól; szerinte a középpályás évek óta gyakran játszik háromnaponta.\n\n• **Szoboszlai a kapitány szerint ismét százszázalékos.** Rossi úgy ítélte meg, hogy az Arsenal ellen csereként kapott félórája is azt mutatta: a játékos felépült a combhajlító-sérüléséből.\n\n• **A válogatott Georgia és Észak-Írország ellen zárja a Nemzetek Ligája csoportkörét.** Rossi legalább négy pontot vár: Georgia ellen legalább egyet, az északírek ellen pedig győzelmet. Ez a csoportelsőséget és az A ligába jutást is jelentheti.\n\n• **Urblík József alternatíva lehet Szoboszlai helyén.** Rossi a válogatottba először meghívott játékost a Liverpool középpályásának lehetséges helyetteseként említette."
+    "title_hu": "Nem csitul a Szoboszlai sérülése körüli vita: Marco Rossi visszaszólt a liverpooliaknak",
+    "lead_hu": "Marco Rossi Szoboszlai Dominik sérüléséről is beszélt a magyar labdarúgó-válogatott kerethirdetése után. A szövetségi kapitány szerint a nem a nemzeti csapatnál kapott terhelés okozta a bajt. Úgy véli…",
+    "content_hu": "Marco Rossi Szoboszlai Dominik sérüléséről is beszélt a magyar labdarúgó-válogatott kerethirdetése után. A szövetségi kapitány szerint a nem a nemzeti csapatnál kapott terhelés okozta a bajt. Úgy véli, most már száz százalékos a csapatkapitány."
   },
   {
     "group_id": "group_6bcd282c02",
@@ -13868,36 +14289,6 @@
     "content_hu": "A reklám sokakat felháborított, a kritikák zöme szerint érzéketlenség gazdagságot bemutató képsorokkal sokkolni az embereket megélhetési válság idején."
   },
   {
-    "group_id": "group_2100baa6cc",
-    "fingerprint": "30ddd4c4a4e9b3b7c7b2f63274decc61",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/lJf-hnZgIxVY8RAYwaWEZR_sjHFv48zbFqDwmGCRpxg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QzMmM2ZjFhZDNhMjRhMjhhOTk2MzA5NmYyZjVkOGZk.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Nagy hírt kaptak a benzines autók tulajdonosai szerdán, a dízelesek 5000 forinttal vigasztalódhatnak: megjelentek az új üzemanyagárak",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/uzemanyagar-benzin-dizel-holtankolajak-szerda-tankolas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Femina",
-        "title": "Így változik a benzin ára szerdán: a dízelről is megszólaltak a szakemberek",
-        "link": "https://femina.hu/terasz/benzin-ara-szerdan-dizel-szakemberek/"
-      },
-      {
-        "source": "Femina",
-        "title": "Csütörtökön így változik a benzin ára: a gázolajról is megszólaltak a szakértők",
-        "link": "https://femina.hu/terasz/benzin-ara-csutortokon-gazolaj-szakertok/"
-      }
-    ],
-    "published_at": 1793783561,
-    "title_hu": "Öt forinttal csökkent a benzin ára, a dízelé változatlan maradt november 4-én",
-    "lead_hu": "November 4-én a 95-ös benzin országos átlagára literenként 5 forinttal mérséklődött az előző naphoz képest, a gázolajé nem változott. A Holtankoljak.hu előrejelzése szerint a nagykereskedelmi árak alakulása a héten eltérhet: a dízelnél nagyobb drágulás is elképzelhető.",
-    "content_hu": "• **November 4-i árváltozás:** A 95-ös benzin literenként 5 forinttal lett olcsóbb keddhez képest, a gázolaj ára változatlan maradt.\n\n• **Várható nagykereskedelmi árak:** A Holtankoljak.hu szerint a benzin ára stagnálhat, vagy bruttó 2–5 forinttal emelkedhet; a gázolajnál bruttó 6–10 forintos drágulásra számítanak.\n\n• **A piaci bizonytalanság okai:** A cikkek a nemzetközi piaci helyzetet, a finomítói árréseket és a közel-keleti geopolitikai feszültségeket emelik ki; a dollár árfolyamának ingadozása és az amerikai elnökválasztás körüli idegesség is hatással lehet az olajpiacra.\n\n• **Az autósok támogatása:** A Világgazdaság cikke szerint decemberig havi 5000 forintos állami támogatás jár a dízeleseknek, ami 50 liter üzemanyagra vetítve literenként 100 forinttal mérsékelheti a kiadást."
-  },
-  {
     "group_id": "group_ea311fc93b",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7241/72412/724122/72412231_d1278eb7c0ac7e17b4b25e6ea3b58bec_wm.jpg",
@@ -14076,586 +14467,5 @@
     "title_hu": "A vállig érő frizura, amely 50 felett is elegáns, és nem kell minden reggel beszárítani",
     "lead_hu": "Szeretnél olyan vállig érő frizurát, amely 50 felett is elegáns, mégsem kell minden reggel hosszasan beszárítani? A finoman rétegezett long bob természetes esést adhat a hajnak, miközben könnyen kezel…",
     "content_hu": "Szeretnél olyan vállig érő frizurát, amely 50 felett is elegáns, mégsem kell minden reggel hosszasan beszárítani? A finoman rétegezett long bob természetes esést adhat a hajnak, miközben könnyen kezelhető marad. Vajon miért lehet ez a nőies, praktikus hajvágás az egyik legjobb választás, ha kevés időt szeretnél hajformázással tölteni? The post A vállig érő frizura, amely 50 felett is elegáns, és nem kell minden reggel beszárítani first appeared on nlc."
-  },
-  {
-    "group_id": "group_71ffde4e9d",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/FxVP2q_HUUTvHjbnFzI9aV7WOGuXtLfgmg1yTE5VxTk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhNDQwMGJmZWI0OTQzOWRhNTM3ZGUyNDNkNjk2ZmIw.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Nem (csak) a méret számít: miért érdemes figyelni a mikrogyárakra?",
-        "link": "https://www.vg.hu/velemeny/2026/11/mikrogyar-nem-csak-a-meret-szamit?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793782829,
-    "title_hu": "Nem (csak) a méret számít: miért érdemes figyelni a mikrogyárakra?",
-    "lead_hu": "A mikrogyárak, vagyis a vevő közelében működő, magasan automatizált kisüzemek nem váltják le a nagyipart, de alternatívát kínálnak a termelési módszerre.",
-    "content_hu": "A mikrogyárak, vagyis a vevő közelében működő, magasan automatizált kisüzemek nem váltják le a nagyipart, de alternatívát kínálnak a termelési módszerre."
-  },
-  {
-    "group_id": "group_e449fc8185",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1255683032-technikai-elemzes-grafikon-reszvenypiac-tozsde-arfolyam-befektetes-res-823010.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Elárulták az elemzők, mennyit érhetnek valójában a magyar részvények",
-        "link": "https://www.portfolio.hu/befektetes/20261104/elarultak-az-elemzok-mennyit-erhetnek-valojaban-a-magyar-reszvenyek-873864"
-      }
-    ],
-    "published_at": 1793782800,
-    "title_hu": "Elárulták az elemzők, mennyit érhetnek valójában a magyar részvények",
-    "lead_hu": "Az OTP-ben látják a legnagyobb felértékelődési lehetőséget az elemzők a magyar blue chipek közül, a Molra pedig újabb céláremelések érkeztek októberben. A kisebb hazai részvények között is akadnak kif…",
-    "content_hu": "Az OTP-ben látják a legnagyobb felértékelődési lehetőséget az elemzők a magyar blue chipek közül, a Molra pedig újabb céláremelések érkeztek októberben. A kisebb hazai részvények között is akadnak kifejezetten optimista értékelések, az Opusnál különösen nagy emelkedést vetít előre az egyik elemzőház célára az elmúlt egy évben látott jelentős esés után."
-  },
-  {
-    "group_id": "group_9eaa4f7258",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7239/72395/723956/72395655_5335009_ca215f307fdd8cd69c4e0cc6fb6cd937_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Ki tudja, meddig húzhatja Románia új, hibrid kormánya, immár magyarok nélkül",
-        "link": "https://index.hu/velemeny/2026/11/04/rostas-szabolcs-romania-kormany-luca-niculescu-rmdsz/"
-      }
-    ],
-    "published_at": 1793782740,
-    "title_hu": "Ki tudja, meddig húzhatja Románia új, hibrid kormánya, immár magyarok nélkül",
-    "lead_hu": "Az új bukaresti kormány beiktatása tüneti kezelése csupán a román politikai életben több mint fél éve húzódó válságnak.",
-    "content_hu": "Az új bukaresti kormány beiktatása tüneti kezelése csupán a román politikai életben több mint fél éve húzódó válságnak."
-  },
-  {
-    "group_id": "group_3b18442487",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/07/D-cwnTL28Cx1CdBXSi_-B-Lu1XVBvmehqUT2PwD4ewo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBmMjRmY2ZjOTM2MjRiMmE4YWQwZjUyNjM5NjU5MjVk.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Nem árulja el a minisztérium, mi történt a budapesti kórházakban – bírósághoz fordul a Magyar Nemzet",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/egeszsegugyi-miniszterium-budapesti-korhazak-birosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793848200,
-    "title_hu": "Nem árulja el a minisztérium, mi történt a budapesti kórházakban – bírósághoz fordul a Magyar Nemzet",
-    "lead_hu": "A kapacitásproblémák miatt küldtünk közérdekű adatigénylést a tárcának.",
-    "content_hu": "A kapacitásproblémák miatt küldtünk közérdekű adatigénylést a tárcának."
-  },
-  {
-    "group_id": "group_09d6ffab36",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Ezt nagyon elkúrta Rovar úr - elszabadultak a kommentelők a levéltár Facebook-oldalán",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/ezt-nagyon-elkurta-rovar-ur-elszabadultak-a-kommentelok-a-leveltar-facebook-oldalan"
-      }
-    ],
-    "published_at": 1793836800,
-    "title_hu": "Ezt nagyon elkúrta Rovar úr - elszabadultak a kommentelők a levéltár Facebook-oldalán",
-    "lead_hu": "Miután elnézést kértek egy technikai hiba miatt dühös kommentelők jelentek meg az Állambiztonsági Szo......",
-    "content_hu": "Miután elnézést kértek egy technikai hiba miatt dühös kommentelők jelentek meg az Állambiztonsági Szo..."
-  },
-  {
-    "group_id": "group_8640a04236",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Egymás között",
-        "link": "https://magyarnarancs.hu/belpol/egymas-kozott-280533"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "Egymás között",
-    "lead_hu": "Bezáratta az esztergomi Szent István Strandfürdőt a kormányhivatal, mert a százévesnél is öregebb létesítmény állapota leromlott a fejlesztések elmaradása miatt. Közben állami támogatásból épült a pol…",
-    "content_hu": "Bezáratta az esztergomi Szent István Strandfürdőt a kormányhivatal, mert a százévesnél is öregebb létesítmény állapota leromlott a fejlesztések elmaradása miatt. Közben állami támogatásból épült a polgármester nagybátyjához, a MOL-vezér Hernádi Zsolthoz köthető hotel, amelynek a vendégei ingyenesen használhatják a szomszédságában két évtizede működő élményfürdőt."
-  },
-  {
-    "group_id": "group_6dc46f3aa7",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Magukra hagyva",
-        "link": "https://magyarnarancs.hu/belpol/magukra-hagyva-280532"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "Magukra hagyva",
-    "lead_hu": "Az aszály miatt kiszáradt talaj terhelhetősége csökken, ami az elavult technológiával felépített házak süllye­déséhez, repedezéséhez vezet. E folyamat országos jelenség, és az akár százezreket érintő …",
-    "content_hu": "Az aszály miatt kiszáradt talaj terhelhetősége csökken, ami az elavult technológiával felépített házak süllye­déséhez, repedezéséhez vezet. E folyamat országos jelenség, és az akár százezreket érintő károk kezelésének egyelőre nincs gazdája."
-  },
-  {
-    "group_id": "group_482d9db09c",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "„Az óvoda nem az iskola előszobája”",
-        "link": "https://magyarnarancs.hu/belpol/az-ovoda-nem-az-iskola-eloszobaja-280531"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "„Az óvoda nem az iskola előszobája”",
-    "lead_hu": "Évekig alig kapott figyelmet a 0–10 éves korosztályt ellátó intézményrendszer, ám immár önálló állam­titkárság foglalkozik ezzel. Ennek vezetőjével az óvodai alapprogram megújításáról, a rugalmas isko…",
-    "content_hu": "Évekig alig kapott figyelmet a 0–10 éves korosztályt ellátó intézményrendszer, ám immár önálló állam­titkárság foglalkozik ezzel. Ennek vezetőjével az óvodai alapprogram megújításáról, a rugalmas iskolakezdésről, az eddigi teljesítményértékelési rendszer kivezetéséről és a szakemberhiányról beszélgettünk."
-  },
-  {
-    "group_id": "group_75e1b2f78c",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Felhasználható közeg",
-        "link": "https://magyarnarancs.hu/belpol/felhasznalhato-kozeg-280529"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "Felhasználható közeg",
-    "lead_hu": "Jól felépített narratíva, a klubelnökhöz hű klientúra – a kormány összeférhetetlenségi törvénye ellenére újabb négy évre tervez a Fradi élén a Fidesz leköszönt pártigazgatója, Kubatov Gábor. Ennek meg…",
-    "content_hu": "Jól felépített narratíva, a klubelnökhöz hű klientúra – a kormány összeférhetetlenségi törvénye ellenére újabb négy évre tervez a Fradi élén a Fidesz leköszönt pártigazgatója, Kubatov Gábor. Ennek megértéséhez nem elég lopást kiáltani."
-  },
-  {
-    "group_id": "group_8ccef6319b",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Énekélet",
-        "link": "https://magyarnarancs.hu/zene2/enekelet-280541"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "Énekélet",
-    "lead_hu": "Forrai Katalin meghatározó szerepet játszott a kisgyermekkori ének-zenei nevelés korszerű, tudatos módszertani rendszerének kidolgozásában. Művei ma is az óvodai zenei nevelés fundamentumának számítan…",
-    "content_hu": "Forrai Katalin meghatározó szerepet játszott a kisgyermekkori ének-zenei nevelés korszerű, tudatos módszertani rendszerének kidolgozásában. Művei ma is az óvodai zenei nevelés fundamentumának számítanak."
-  },
-  {
-    "group_id": "group_c359669f2b",
-    "category": "Kultúra",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "A zene nyelve",
-        "link": "https://magyarnarancs.hu/zene2/a-zene-nyelve-280540"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "A zene nyelve",
-    "lead_hu": "Több szempontból is zavarba ejtő a Hamvas Béla zenei írásait összegyűjtő kötet. Kikezdhetetlen magabiztossága, nagy léptékű hivatkozásai, „megtalált” összefüggései és tévedései miatt esetlegessé, blöf…",
-    "content_hu": "Több szempontból is zavarba ejtő a Hamvas Béla zenei írásait összegyűjtő kötet. Kikezdhetetlen magabiztossága, nagy léptékű hivatkozásai, „megtalált” összefüggései és tévedései miatt esetlegessé, blöffszerűvé válik, amikor a zenéről értekezik."
-  },
-  {
-    "group_id": "group_1aca5fb45e",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Új érzékenység",
-        "link": "https://magyarnarancs.hu/zene2/uj-erzekenyseg-280539"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "Új érzékenység",
-    "lead_hu": "Lehetne vitatkozni róla, hogy számít-e, miféle életrajzi körülmények inspirálták a nagy remekműveket. Bartók önkéntes száműzetésben komponálta a Concertót, és nem nehéz vágyakozást és nosztalgiát hall…",
-    "content_hu": "Lehetne vitatkozni róla, hogy számít-e, miféle életrajzi körülmények inspirálták a nagy remekműveket. Bartók önkéntes száműzetésben komponálta a Concertót, és nem nehéz vágyakozást és nosztalgiát hallani benne, de nem biztos, hogy Mozart valóban a halálra készült, amikor a Requiemet írta."
-  },
-  {
-    "group_id": "group_5bad89ab99",
-    "category": "Kultúra",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "„Csak a beavatottak”",
-        "link": "https://magyarnarancs.hu/zene2/csak-a-beavatottak-280538"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "„Csak a beavatottak”",
-    "lead_hu": "Tíz éve jött létre a Cziffra Fesztivál, amely újra az érdeklődés középpontjába helyezte a gyakran mellőzött virtuóz zongoraművészt, Cziffra Györgyöt. A fesztivál alapítóját cigány zenéről, az improviz…",
-    "content_hu": "Tíz éve jött létre a Cziffra Fesztivál, amely újra az érdeklődés középpontjába helyezte a gyakran mellőzött virtuóz zongoraművészt, Cziffra Györgyöt. A fesztivál alapítóját cigány zenéről, az improvizáció fontosságáról és közelgő, nagyszabású Liszt-maratonjáról kérdeztük."
-  },
-  {
-    "group_id": "group_6bf6adac8f",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Ámulni tessék",
-        "link": "https://magyarnarancs.hu/zene2/amulni-tessek-280537"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "Ámulni tessék",
-    "lead_hu": "A kis Wolfgang Amadeus Mozart nem volt egyedülálló csodagyerek, de a hozzá hasonlók többségétől eltérően ő csodafelnőtté változott. A 18. században megváltozott, ahogy a gyermekkorra és a tehetségre t…",
-    "content_hu": "A kis Wolfgang Amadeus Mozart nem volt egyedülálló csodagyerek, de a hozzá hasonlók többségétől eltérően ő csodafelnőtté változott. A 18. században megváltozott, ahogy a gyermekkorra és a tehetségre tekintünk, miközben kialakult a modern show-biznisz és a polgári koncertélet. Mindez együttesen vezetett a gyermekvirtuózok kultuszához. De mi maradt belőle?"
-  },
-  {
-    "group_id": "group_8e4dcdeb1a",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "„Most gyere…”",
-        "link": "https://magyarnarancs.hu/zene2/most-gyere-280536"
-      }
-    ],
-    "published_at": 1793822400,
-    "title_hu": "„Most gyere…”",
-    "lead_hu": "Külföldön él, de sokat jár haza, a közelmúltban például Liszt Krisztus oratóriumát énekelte a Müpában. A szerepeiről, a hangjáról, az ideáljairól, a karmesterekről és a rendezői operákról kérdeztük.",
-    "content_hu": "Külföldön él, de sokat jár haza, a közelmúltban például Liszt Krisztus oratóriumát énekelte a Müpában. A szerepeiről, a hangjáról, az ideáljairól, a karmesterekről és a rendezői operákról kérdeztük."
-  },
-  {
-    "group_id": "group_4f71f7fb26",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "4-6",
-        "link": "https://magyarnarancs.hu/visszhang/4-6-280550"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "4-6",
-    "lead_hu": "Ifj. Vidnyánszky Attila leg­újabb rendezése az előző, hasonló koncepció mentén készült @LL3t4rgIA-hoz hasonlít.",
-    "content_hu": "Ifj. Vidnyánszky Attila leg­újabb rendezése az előző, hasonló koncepció mentén készült @LL3t4rgIA-hoz hasonlít."
-  },
-  {
-    "group_id": "group_bb0514e817",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Marcel Pagnol csodálatos élete",
-        "link": "https://magyarnarancs.hu/visszhang/marcel-pagnol-csodalatos-elete-280549"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Marcel Pagnol csodálatos élete",
-    "lead_hu": "Sylvain Chomet a kortárs rajzfilm kétségtelen hérosza, a kerékpársport szerelmesei biztosan tudják, legalább a Belleville randevú óta.",
-    "content_hu": "Sylvain Chomet a kortárs rajzfilm kétségtelen hérosza, a kerékpársport szerelmesei biztosan tudják, legalább a Belleville randevú óta."
-  },
-  {
-    "group_id": "group_e5785a4513",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Todd Snider: My Second Rodeo",
-        "link": "https://magyarnarancs.hu/visszhang/todd-snider-my-second-rodeo-280548"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Todd Snider: My Second Rodeo",
-    "lead_hu": "„Nem ma kezdtem” – mondja egy magyar. „Nem ez az első rodeóm” – mondja egy amerikai.",
-    "content_hu": "„Nem ma kezdtem” – mondja egy magyar. „Nem ez az első rodeóm” – mondja egy amerikai."
-  },
-  {
-    "group_id": "group_cb9d504f04",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Réti Anna: Back to Basic",
-        "link": "https://magyarnarancs.hu/visszhang/reti-anna-back-to-basic-280547"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Réti Anna: Back to Basic",
-    "lead_hu": "A táncos-koreográfus új performance-a az idő múlásáról és az alkotói megmutatkozás természetes vágyáról szól, nagyon személyes hangon.",
-    "content_hu": "A táncos-koreográfus új performance-a az idő múlásáról és az alkotói megmutatkozás természetes vágyáról szól, nagyon személyes hangon."
-  },
-  {
-    "group_id": "group_54aeb626ef",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Knud Romer: Lány a hegedűben",
-        "link": "https://magyarnarancs.hu/visszhang/knud-romer-lany-a-hegeduben-280546"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Knud Romer: Lány a hegedűben",
-    "lead_hu": "Vajon mennyit kell feláldozni azért, hogy valaki kivételes művésszé váljon?",
-    "content_hu": "Vajon mennyit kell feláldozni azért, hogy valaki kivételes művésszé váljon?"
-  },
-  {
-    "group_id": "group_2840b19ba8",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Nocturne",
-        "link": "https://magyarnarancs.hu/visszhang/nocturne-280545"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Nocturne",
-    "lead_hu": "Rowan Joffé sorozata minden szempontból hozza azokat a tulajdonságokat, amelyeket A bárányok hallgatnak és a skandináv noirok ötvözetétől várnánk.",
-    "content_hu": "Rowan Joffé sorozata minden szempontból hozza azokat a tulajdonságokat, amelyeket A bárányok hallgatnak és a skandináv noirok ötvözetétől várnánk."
-  },
-  {
-    "group_id": "group_637d10dc73",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Szüret 2026/45.",
-        "link": "https://magyarnarancs.hu/interaktiv/szuret-202645-280558"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Szüret 2026/45.",
-    "lead_hu": "Mókás és dühítő gyűjtemény a heti sajtóból. Többnyire az utóbbi.",
-    "content_hu": "Mókás és dühítő gyűjtemény a heti sajtóból. Többnyire az utóbbi."
-  },
-  {
-    "group_id": "group_69caac149a",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Snoblesse Oblige 2026/45.",
-        "link": "https://magyarnarancs.hu/interaktiv/snoblesse-oblige-202645-280553"
-      },
-      {
-        "source": "Magyar Narancs",
-        "title": "Snoblesse Oblige 2026. tél",
-        "link": "https://magyarnarancs.hu/zene2/snoblesse-oblige-2026-tel-280542"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Snoblesse Oblige 2026/45.",
-    "lead_hu": "Heti kulturális programajánló",
-    "content_hu": "Heti kulturális programajánló"
-  },
-  {
-    "group_id": "group_56c0a5675d",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Egy hét tudomány 2026/45.",
-        "link": "https://magyarnarancs.hu/interaktiv/egy-het-tudomany-202645-280527"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Egy hét tudomány 2026/45.",
-    "lead_hu": "Rövid hírek: csillag, meteorit, galaxis...",
-    "content_hu": "Rövid hírek: csillag, meteorit, galaxis..."
-  },
-  {
-    "group_id": "group_cec4def021",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Egy hét kultúra 2026/45.",
-        "link": "https://magyarnarancs.hu/interaktiv/egy-het-kultura-202645-280526"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Egy hét kultúra 2026/45.",
-    "lead_hu": "Rövid hírek: kultúra itthon, külföldön és másutt",
-    "content_hu": "Rövid hírek: kultúra itthon, külföldön és másutt"
-  },
-  {
-    "group_id": "group_9f9bea4ea5",
-    "category": "Kultúra",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Mintha táncolnának!",
-        "link": "https://magyarnarancs.hu/film2/mintha-tancolnanak-280556"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Mintha táncolnának!",
-    "lead_hu": "Film, film, film!",
-    "content_hu": "Film, film, film!"
-  },
-  {
-    "group_id": "group_fdc63cdca5",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "„Az erdőt járjuk”",
-        "link": "https://magyarnarancs.hu/konyv/az-erdot-jarjuk-280554"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "„Az erdőt járjuk”",
-    "lead_hu": "Rubin Eszter író, gasztronómus",
-    "content_hu": "Rubin Eszter író, gasztronómus"
-  },
-  {
-    "group_id": "group_7153d639e9",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Itt van a sütőtökszezon!",
-        "link": "https://magyarnarancs.hu/gasztro/itt-van-a-sutotokszezon-280557"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Itt van a sütőtökszezon!",
-    "lead_hu": "Sütőtökös gersli rizottó barnavajas, zsályás gesztenyével",
-    "content_hu": "Sütőtökös gersli rizottó barnavajas, zsályás gesztenyével"
-  },
-  {
-    "group_id": "group_39579ef3a4",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Narancs",
-        "title": "Ikarus PALT – II. rész",
-        "link": "https://magyarnarancs.hu/lokal/ikarus-palt-ii-resz-280555"
-      }
-    ],
-    "published_at": 1793822100,
-    "title_hu": "Ikarus PALT – II. rész",
-    "lead_hu": "A majd’ 15 méter hosszú, több mint 4 méter magas és 2,86 méter széles busszal „bárhonnan bárhová” egészen biztosan nem lehetett volna eljutni, sőt a megengedettnél szélesebb tengelytávja miatt a közút…",
-    "content_hu": "A majd’ 15 méter hosszú, több mint 4 méter magas és 2,86 méter széles busszal „bárhonnan bárhová” egészen biztosan nem lehetett volna eljutni, sőt a megengedettnél szélesebb tengelytávja miatt a közúton eleve csak külön engedéllyel közlekedhetett."
-  },
-  {
-    "group_id": "group_345e4e1afd",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Blikk",
-        "title": "Megérkeztek a friss adatok: így áll most a magyar költségvetés",
-        "link": "https://www.blikk.hu/gazdasag/penz/200-milliardos-hianyt-hozott-az-oktober-miniszteriumi-kiadasok/kymt9dw"
-      }
-    ],
-    "published_at": 1793793162,
-    "title_hu": "Megérkeztek a friss adatok: így áll most a magyar költségvetés",
-    "lead_hu": "Októberben a központi alrendszer hiánya 200,6 milliárd forintot tett ki, ami 138,4 milliárd forinttal kedvezőbb az egy évvel korábbi adatnál – derül ki a Pénzügyminisztérium friss gyorsjelentéséből. A…",
-    "content_hu": "Októberben a központi alrendszer hiánya 200,6 milliárd forintot tett ki, ami 138,4 milliárd forinttal kedvezőbb az egy évvel korábbi adatnál – derül ki a Pénzügyminisztérium friss gyorsjelentéséből. Az év első tíz hónapjának kumulált hiánya ezzel elérte az 5462,5 milliárd forintot. A kormány által elfogadott pótköltségvetés egész évre 7100 milliárd forintos pénzforgalmi hiányt irányoz elő, így az első tízhavi összesített deficit az éves cél 76,9 százalékán áll."
-  },
-  {
-    "group_id": "group_836bf021b4",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7241/72412/724123/72412367_1035f88e9ada2bf7386e2544e7ea2a82_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Hiába bukott meg az ügyvédi vizsgán Kim Kardashian, továbbra is jogi karrierről álmodik",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/04/hiaba-bukott-meg-az-ugyvedi-vizsgan-kim-kardashian-tovabbra-is-jogi-karrierrol-almodik/"
-      }
-    ],
-    "published_at": 1793791898,
-    "title_hu": "Hiába bukott meg az ügyvédi vizsgán Kim Kardashian, továbbra is jogi karrierről álmodik",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_22d1d88f59",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Blikk",
-        "title": "Európai rekordárakat fizetünk a netért és a telefonálásért – így faraghat komoly ezreket a havi számlájából",
-        "link": "https://www.blikk.hu/ferfiaknak/tech/magyarorszagi-tavkozles-rezsi-lefaragas/0zhxv8y"
-      }
-    ],
-    "published_at": 1793790335,
-    "title_hu": "Európai rekordárakat fizetünk a netért és a telefonálásért – így faraghat komoly ezreket a havi számlájából",
-    "lead_hu": "Évek óta csendben, mégis drasztikusan drágul a hazai távközlés: míg a vezetékes internet technológiája kiváló, a magyar mobilárak vásárlóerő-paritáson mérve az Európai Unió legdrágábbjai közé csúsztak…",
-    "content_hu": "Évek óta csendben, mégis drasztikusan drágul a hazai távközlés: míg a vezetékes internet technológiája kiváló, a magyar mobilárak vásárlóerő-paritáson mérve az Európai Unió legdrágábbjai közé csúsztak vissza. A zsebünket húzó inflációkövető díjemelések és a gyengülő árverseny ellenére a fogyasztók nincsenek teljesen kiszolgáltatva. Tudatos lépésekkel havonta több ezer forint rezsi spórolható meg."
   }
 ]
