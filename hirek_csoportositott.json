@@ -18,7 +18,7 @@
   {
     "group_id": "group_50386839a2",
     "category": "Politika",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Vadhajtások",
@@ -55,6 +55,15 @@
         "summary": "Az orosz külügyminiszter-helyettes szerint súlyos gazdasági következményei lennének, ha az európai országok teljesen leállítanák az orosz energiahordozók importját. Dmitrij Ljubinszkij úgy véli, Magyarország nem találna kedvezőbb ajánlatot a...",
         "category": "Politika",
         "published_at": 1793836800
+      },
+      {
+        "source": "ATV",
+        "title": "Kemény üzenet érkezett Moszkvából: súlyos árat fizethetünk, ha leválunk az orosz gázról",
+        "link": "https://www.atv.hu/belfold/20261105/orosz-gaz-levalas-moszkva-valasz/",
+        "image": "",
+        "summary": "Súlyos gazdasági válságra és drágulásra figyelmeztet Oroszország, mivel a magyar kormány felgyorsítaná az elszakadást a keleti energiahordozóktól. Moszkva szerint az európai államok, köztük Magyarország is, saját maguk alatt vágják a fát, ha végleg feladják az orosz gázimportot. A céldátum szerint 2027 őszére teljesen kivezetné a kormány a hazai piacról az orosz gázt.",
+        "category": "Politika",
+        "published_at": 1793910060
       }
     ]
   },
@@ -80,31 +89,6 @@
         "summary": "Új csillagokból álló nyomot hagy maga mögött a húszmillió naptömegű kozmikus szörnyeteg.",
         "category": "Politika",
         "published_at": 1793897956
-      }
-    ]
-  },
-  {
-    "group_id": "group_633c2d8517",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Több száz harapás, félórás agónia: súlyosabb büntetést kapott a kutyák gazdája",
-        "link": "https://www.atv.hu/belfold/20261104/sulyos-buntetes-kutyak-gazda/",
-        "image": "https://www.youtube.com/embed/hS950Mwau1M",
-        "summary": "Jogerősen elítélték azt a szentesi férfit, akinek a kutyái 2021 nyarán halálos kimenetelű támadást hajtottak végre egy férfival szemben, egy nőt pedig súlyosan megsebesítettek. A Szegedi Ítélőtábla szerdai döntésében a vádlottat két év hat hónap fogházbüntetésre ítélte.",
-        "category": "Általános",
-        "published_at": 1793823660
-      },
-      {
-        "source": "Magyar Narancs",
-        "title": "Szigorított az ítélőtábla: börtönbe megy a gyilkos szentesi kutyák gazdája",
-        "link": "https://magyarnarancs.hu/bun/szigoritott-az-itelotabla-bortonbe-megy-a-gyilkos-szentesi-kutyak-gazdaja-280560",
-        "image": "",
-        "summary": "A Szegeden kimondott jogerős döntés szerint a történtekért 2 év 6 hónap letöltendő büntetés jár, és nem két év, öt évre felfüggesztve.",
-        "category": "Politika",
-        "published_at": 1793877000
       }
     ]
   },
@@ -6774,6 +6758,22 @@
     ]
   },
   {
+    "group_id": "group_633c2d8517",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Szigorított az ítélőtábla: börtönbe megy a gyilkos szentesi kutyák gazdája",
+        "link": "https://magyarnarancs.hu/bun/szigoritott-az-itelotabla-bortonbe-megy-a-gyilkos-szentesi-kutyak-gazdaja-280560",
+        "image": "",
+        "summary": "A Szegeden kimondott jogerős döntés szerint a történtekért 2 év 6 hónap letöltendő büntetés jár, és nem két év, öt évre felfüggesztve.",
+        "category": "Politika",
+        "published_at": 1793877000
+      }
+    ]
+  },
+  {
     "group_id": "group_e5d2ed213c",
     "category": "Általános",
     "articles_count": 1,
@@ -11961,7 +11961,7 @@
         "image": "https://raketa.hu/uploads/2026/11/lighthouse.jpg",
         "summary": "Ausztrália egyik leghíresebb rejtélyére ad választ egy új kutatás, amely végre tudományosan megmagyarázza, miért látnak évtizedek óta fantom-világítótornyokat a tengeren a mit sem sejtő utazók.",
         "category": "Kultúra",
-        "published_at": 1793909714
+        "published_at": 1793910143
       }
     ]
   },
