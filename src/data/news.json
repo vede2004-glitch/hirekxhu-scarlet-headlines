@@ -1,5 +1,23 @@
 [
   {
+    "group_id": "group_8decba815c",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/sunok_vedelme_6.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Erre nagyon vigyázz az őszi kerti munkák alatt: egy rossz mozdulat is tragédiát okozhat",
+        "link": "https://femina.hu/otthon/oszi-kerti-munkak-veszelyek-elovigyazatosag/"
+      }
+    ],
+    "published_at": 1793865000,
+    "title_hu": "Erre nagyon vigyázz az őszi kerti munkák alatt: egy rossz mozdulat is tragédiát okozhat",
+    "lead_hu": "Mindenkinek nagyon kell figyelnie a kerti munkálatok során!...",
+    "content_hu": "Mindenkinek nagyon kell figyelnie a kerti munkálatok során!"
+  },
+  {
     "group_id": "group_f01e48ddd2",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/6823/68235/682359/68235945_5037393_e5ff179715ca61d2c4b3a99e351df51f_wm.jpg",
@@ -22,12 +40,17 @@
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261105/1793864061-temp-ju6sqso4l8l45choffl_cimlap-normal.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Telex - Belföld",
         "title": "24 tantermes új iskola épül a gyömrői konténeriskola helyett",
         "link": "https://telex.hu/belfold/2026/11/05/gyomro-fekete-istvan-altalanos-iskola-uj-epulet-konteneriskola-helyett-11-milliard-forint"
+      },
+      {
+        "source": "444.hu",
+        "title": "11 milliárd forintból megépítik a gyömrői általános iskola új épületét, évek óta húzódó botrányos történet érhet véget",
+        "link": "https://444.hu/2026/11/05/11-milliard-forintbol-megepitik-a-gyomroi-altalanos-iskola-uj-epuletet-evek-ota-huzodo-botranyos-tortenet-erhet-veget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
     "published_at": 1793864228,
@@ -9028,12 +9051,17 @@
     "category": "Kultúra",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dfd21a70-9508-48ef-b93d-c7ee115647e5.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HVG - Tudomány & Tech",
         "title": "Szándékosan fertőzött meg 1,3 millió Android-eszközt egy kínai gyártó",
         "link": "https://hvg.hu/tudomany/20261104_google-android-eszkozok-videostrong-botnet-fertozes"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "1,3 millió androidos készüléket fertőzött meg a Google kínai partnere",
+        "link": "https://24.hu/tech/2026/11/05/google-kinai-partner-hatso-kapu-13-millio-eszkoz/"
       }
     ],
     "published_at": 1793797380,
@@ -14249,59 +14277,6 @@
     "title_hu": "Erősített az ipar, de így sem tudta kirángatni a stagnálásból a magyar gazdaságot: a GDP továbbra is alig mozdul",
     "lead_hu": "A feldolgozóipari alágak többségében emelkedett a termelés az egy évvel korábbihoz képest.",
     "content_hu": "A feldolgozóipari alágak többségében emelkedett a termelés az egy évvel korábbihoz képest."
-  },
-  {
-    "group_id": "group_27da3f4e27",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Valósághajlítás extra: „Ez egy borosüveg” – mondja Kína a Pápua-Új Guineában talált 32 kilós tüzérségi lövedékről",
-        "link": "https://444.hu/2026/11/04/valosaghajlitas-extra-ez-egy-borosuveg-mondja-kina-a-papua-uj-guineaban-talalt-32-kilos-tuzersegi-lovedekrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793778594,
-    "title_hu": "Valósághajlítás extra: „Ez egy borosüveg” – mondja Kína a Pápua-Új Guineában talált 32 kilós tüzérségi lövedékről",
-    "lead_hu": "Négy kínait tartóztattak le, amikor megtalálták.",
-    "content_hu": "Négy kínait tartóztattak le, amikor megtalálták."
-  },
-  {
-    "group_id": "group_889ade2c79",
-    "fingerprint": "fe20e5fc51f557b73c7a6fc80e71b178",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793773332-temp-erjdmqp84n7l1ppadjn_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Demokrata cunami: óriási győzelmet arattak a demokraták a félidős választásokon",
-        "link": "https://telex.hu/kulfold/2026/11/04/amerikai-felidos-valasztasok-demokrata-tortenelmi-gyozelmek-eredmenyek-kepviselohaz-szenatus-republikanus-trump-jeffries-texas-kansas"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "„Kék hullám”: Jelentős demokrata előretörést hozott az amerikai félidős választás",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/demokrata-eloretores-amerikai-felidos-valasztas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Magyar Narancs",
-        "title": "A vég kezdete: a Demokrata Párt nagyon megnyerte a félidős választást",
-        "link": "https://magyarnarancs.hu/kulpol/a-veg-kezdete-a-demokrata-part-nagyon-megnyerte-a-felidos-valasztast-280522"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Itt vannak az eredmények: jelentős demokrata előretörést hozott az amerikai félidős választás",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/itt-vannak-az-eredmenyek-jelentos-demokrata-eloretorest-hozott-az-amerikai-felidos-valasztas"
-      }
-    ],
-    "published_at": 1793778240,
-    "title_hu": "Demokrata előretörés az amerikai félidős választáson",
-    "lead_hu": "A november 3-i amerikai félidős választáson a demokraták jelentős eredményeket értek el, és megszerezték a képviselőházi többséget. A beszámolók eltérően írnak arról, hogy a Szenátusban is többségbe kerültek-e; a republikánusok több hagyományos fellegvárában is demokrata jelöltek győztek.",
-    "content_hu": "• **November 3-án** tartották az amerikai félidős választást, amelyen a képviselőház mind a 435 helyéről és 35 szenátori mandátumról döntöttek. A CNN, az NBC és a Fox News előrejelzése szerint a demokraták megszerezték a képviselőházi többséget.\n\n• **A szenátusi többségről eltérően számoltak be a források:** a Telex és a Magyar Narancs szerint a demokraták mindkét kongresszusi kamarában többségbe kerültek, míg a Magyar Nemzet a képviselőházi többség elvesztésének következményét emelte ki. A közölt adatok egy része még előrejelzésen, illetve folyamatban lévő számláláson alapult.\n\n• **Texasban és Kansasben** demokrata szenátorjelöltek győztek: a források szerint Texasban évtizedek óta először nyert demokrata jelölt, Kansasben pedig 1932 óta nem volt erre példa. A demokraták Ohióban, valamint Észak- és Dél-Karolinában is republikánusoktól szereztek meg szenátusi mandátumokat.\n\n• **Donald Trump politikája** a beszámolók szerint fontos szerepet játszott a választási eredmény értelmezésében. A Magyar Narancs a gazdasági helyzettel és a megélhetési költségekkel kapcsolatos elégedetlenséget is kiemelte; Trump a vereség után azt állította, hogy az eredmény más lett volna, ha ő is szerepel a szavazólapon.\n\n• **A képviselőházi többség elvesztése** megnehezítheti Trump programjának végrehajtását: a demokraták akadályozhatják a törvényjavaslatokat, beleszólhatnak a költségvetésbe és vizsgálatokat indíthatnak. Az elnök rendeletalkotási és külpolitikai mozgástere, valamint vétójoga ugyanakkor megmarad."
   },
   {
     "group_id": "group_3b18442487",
