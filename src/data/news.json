@@ -6034,7 +6034,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "HWSW",
@@ -6050,6 +6050,11 @@
         "source": "Rakéta.hu",
         "title": "Lesújtó eredményt mutat egy új vizsgálat: életveszélyes lehet sok töltő, melyeket nap mint nap használunk",
         "link": "https://raketa.hu/nkfh-usb-toltok-biztonsagossag-2026-bevizsgalas/"
+      },
+      {
+        "source": "ATV",
+        "title": "Baj van az USB-töltőkkel: rengeteg veszélyes típust találtak, megkezdődtek a kivonások",
+        "link": "https://www.atv.hu/belfold/20261105/usb-tolto-vizsgalat-veszely/"
       }
     ],
     "published_at": 1793800637,
@@ -11805,12 +11810,17 @@
     "category": "Belföld",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0521d08c-8d08-4f1b-bd54-c2264a4d589c.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HVG - Itthon",
         "title": "Marabu Féknyúz: Föltárulás",
         "link": "https://hvg.hu/itthon/20261104_marabu-feknyuz-foltarulas-ugynokaktak-allambiztonsag"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Marabu Féknyúz: Fejes Péter",
+        "link": "https://hvg.hu/itthon/20261105_marabu-feknyuz-fejes-peter-legfobb-ugyesz"
       }
     ],
     "published_at": 1793780692,
