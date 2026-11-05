@@ -103,7 +103,7 @@
     "title_hu": "Lezsák megfigyelt volt, több ezer névnél is vizsgálják a hibát",
     "lead_hu": "Az ÁBTL elismerte, hogy informatikai hiba miatt hálózati személyként jelent meg Lezsák Sándor neve a Nyitott Akták adatbázisában, holott megfigyelt volt. A levéltár és Magyar Péter is bocsánatot kért tőle; az intézmény szerint a mágnesszalagos nyilvántartásban több ezer olyan név is szerepelhet megfigyeltként, akik nem voltak együttműködők, ezért felülvizsgálják az adatokat.",
     "content_hu": "• **A levéltár elismerte a tévedést:** Az ÁBTL közölte, hogy Lezsák Sándor neve informatikai hiba miatt jelent meg hálózati személyként az adatbázisban. A mágnesszalagokon megfigyeltként szerepel, nem együttműködőként.\n\n• **Lezsák tiltakozott a besorolás ellen:** A volt országgyűlési képviselő azt mondta, őt figyelték meg, és jogi lépéseket helyezett kilátásba. Szerinte a téves besorolás okozta erkölcsi kárt a jogi eljárás sem teheti jóvá.\n\n• **A levéltár és Magyar Péter is bocsánatot kért:** Az ÁBTL elnézést kért Lezsáktól, Magyar Péter pedig közösségi oldalán kért bocsánatot, miután telefonon nem sikerült elérnie.\n\n• **Lezsák adata eltűnt a keresőből:** A 444 beszámolója szerint csütörtök délelőttre a nevére keresve már nem jelent meg találat az adatbázisban.\n\n• **Több ezer további név is érintett lehet:** Cseh Gergő Bendegúz, az ÁBTL főigazgatója szerint a mágnesszalagos nyilvántartásban több ezer olyan ember neve szerepelhet megfigyeltként, akik valójában nem voltak együttműködők. A levéltár vizsgálja az adatokat, és eltávolítja a hibás bejegyzéseket.\n\n• **A hiba a mágnesszalagos adatokat érinti:** A főigazgató közlése szerint a tévedés a mágnesszalagokat tartalmazó adatbázisrészhez kapcsolódik; a 6-os kartonokat és a B-naplókat nem érinti, és nem minden hibás adat került fel a honlapra.\n\n• **Az Excel-fájl feldolgozása okozhatta a hibát:** A 444 értesülése szerint az adatok összesítésére használt Excel-fájl olvasásakor történhetett informatikai hiba. Az ÁBTL a hiba pontos természetét nem részletezte.\n\n• **A mágnesszalagos bejegyzés önmagában nem bizonyít együttműködést:** Lezsák neve nem szerepel 6-os kartonon és a beszervezéseket nyilvántartó B-naplóban sem. A mágnesszalagok H-adattára olyan személyek adatait is tartalmazza, akik nem voltak informátorok vagy ügynökök.\n\n• **A Fidesz politikai felelősséget követelt:** Bóka János frakcióvezető a teljes honlap elérhetetlenné tételét, Magyar Péter bocsánatkérését és Tarr Zoltán távozását sürgette.\n\n• **A hibás közzététel a nyilvánosságba vetett bizalmat is érintheti:** Török Gábor politikai elemző arra figyelmeztetett, hogy a kapkodás, a félmunka és a hibák alááshatják az adatbázis megnyitásának legfontosabb célját, a bizalmat.",
-    "importance_score": 195.0
+    "importance_score": 188.0
   },
   {
     "group_id": "group_aaed98dfe3",
@@ -258,6 +258,67 @@
     "importance_score": 108.0
   },
   {
+    "group_id": "group_820ec77ce7",
+    "fingerprint": "a6cbf5f3a41778c537b8ece7ec8aede6",
+    "category": "Sport",
+    "image": "https://kep.index.hu/1/0/7242/72429/724291/72429173_5337497_3fa93a2111ac0dfb878e5e6120a64a2e_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Visszavonult a portugál válogatottól Cristiano Ronaldo",
+        "link": "https://index.hu/sport/futball/2026/11/05/cristiano-ronaldo-portugal-valogatott-visszavonulas/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Köszönünk mindent, kapitány!” – a portugál szövetség nagy búcsúmeccset tervez Ronaldo tiszteletére",
+        "link": "https://24.hu/sport/foci/2026/11/05/portugal-szovetseg-cristiano-ronaldo-bucsumerkozes/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hivatalos: Cristiano Ronaldo visszavonult a válogatottól",
+        "link": "https://24.hu/sport/foci/2026/11/05/hivatalos-cristiano-ronaldo-visszavonult-a-valogatottol/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Cristiano Ronaldo bejelentette, hogy visszavonult a portugál válogatottól",
+        "link": "https://telex.hu/sport/2026/11/05/cristiano-ronaldo-bejelentette-hogy-visszavonult-a-portugal-valogatottol"
+      },
+      {
+        "source": "444.hu",
+        "title": "Cristiano Ronaldo visszavonul a portugál valogatottságtól",
+        "link": "https://444.hu/2026/11/05/cristiano-ronaldo-visszavonul-a-portugal-valogatottsagtol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Cristiano Ronaldo levelét megírta, a búcsúvideós baki találgatásokra ad okot",
+        "link": "https://magyarnemzet.hu/sport/2026/11/cristiano-ronaldo-visszavonul-portugal-7-mez-figo-jesus?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Ronaldo visszavonul a portugál válogatottságtól",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/ronaldo-visszavonul-a-portugal-valogatottsagtol"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Cristiano Ronaldo bejelentette visszavonulását: nem lesz többé a portugál válogatott tagja",
+        "link": "https://nlc.hu/sztarok/20261105/cristiano-ronaldo-visszavonul/77xf4dx"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Az egész világ leborul Cristiano Ronaldo előtt a bejelentése után",
+        "link": "https://index.hu/sport/futball/2026/11/05/cristiano-ronaldo-visszavonulas-portugal-valogatott-sajto-reakcio/"
+      }
+    ],
+    "published_at": 1793894186,
+    "title_hu": "Cristiano Ronaldo visszavonult a portugál válogatottól",
+    "lead_hu": "Cristiano Ronaldo november 5-én bejelentette, hogy 23 év után befejezi válogatott-pályafutását. A 41 éves portugál csatár 234 mérkőzésen 146 gólt szerzett a nemzeti csapatban; a portugál szövetség búcsúmérkőzést tervez a tiszteletére.",
+    "content_hu": "• **Véget ért a 23 éves válogatott-pályafutás** Ronaldo egy közösségi oldalán közzétett videóban jelentette be, hogy átadja a portugál válogatott hetes mezét a következő generációnak. Döntését nehéznek nevezte, és azt mondta, a szívére is hallgatott.\n\n• **Rekorderként búcsúzik** A portugál klasszis 234 válogatott mérkőzésen 146 gólt szerzett, mindkét mutatóban világcsúcstartó. A válogatottal 2016-ban Európa-bajnokságot, 2019-ben és 2025-ben Nemzetek Ligáját nyert.\n\n• **Hat világbajnokságon szerepelt** Ronaldo hat vb-n játszott, és a portugál válogatottal 2004-ben Eb-ezüstérmet, 2012-ben bronzérmet is szerzett. A 444.hu beszámolója szerint a 2026-os világbajnokságon három gólt lőtt, Portugália pedig a nyolcaddöntőben búcsúzott.\n\n• **Fegyelmi ügy előzte meg a bejelentést** Ronaldo nézeteltérésbe került Jorge Jesus szövetségi kapitánnyal, majd elhagyta a válogatott edzőtáborát. A szövetség 30 napra felfüggesztette, és 255 eurós pénzbírságot szabott ki rá; a játékos később bocsánatot kért, korábban pedig azt mondta, nem akar visszavonulni.\n\n• **Szeptemberben játszott utoljára a válogatottban** Utolsó mérkőzése a Wales ellen megnyert találkozó volt. A Portugál Labdarúgó-szövetség közleményben köszönte meg szolgálatait, és méltatta, amiért fiatal generációkat inspirált.\n\n• **Búcsúmérkőzést tervez a portugál szövetség** Az FPF közölte, hogy szeretné megszervezni Ronaldo utolsó válogatott mérkőzését, hogy a szurkolók és az ország méltó módon ünnepelhessék a csapatkapitányt.\n\n• **Klubszinten folytatja** Az al-Nasszr csatáraként továbbra is futballozik, és pályafutása ezredik gólját szeretné elérni; a közölt adatok szerint 985-nél tart.",
+    "importance_score": 105.0
+  },
+  {
     "group_id": "group_587b1ef3d6",
     "fingerprint": "2db67977f906cdd4108f76b297a0df82",
     "category": "Politika",
@@ -378,62 +439,6 @@
     "lead_hu": "A Fővárosi Törvényszék elutasította Matolcsy György és két társa fellebbezését, így letartóztatásuk 2026. november 23-ig fennmarad. A bíróság a szökés, a bizonyítás befolyásolásának, Matolcsy esetében pedig a bűnismétlésnek a veszélyére hivatkozott, és az enyhébb kényszerintézkedéseket nem találta elegendőnek.",
     "content_hu": "• **Helybenhagyott döntés** A Fővárosi Törvényszék elutasította a volt jegybankelnök és két másik gyanúsított fellebbezését. Az elsőfokú bíróság október 23-án rendelte el letartóztatásukat, amely így november 23-ig tart; Matolcsy Györgyöt október 21-én vették őrizetbe.\n\n• **A szökés veszélye** A bíróság a gyanúsítottak anyagi helyzetére és nemzetközi mozgási lehetőségeire, a köztük fennálló szoros kapcsolatokra, valamint arra hivatkozott, hogy a feltételezett elkövetői kör két további tagja, Matolcsy Ádám és Stofa György külföldön tartózkodik.\n\n• **A bizonyítás veszélyeztetése** A törvényszék szerint az egyik gyanúsított érdekkörében a büntetőeljárással összefüggő iratokat találtak, és bizonyítékok megsemmisítésére utaló körülmények is felmerültek. A nyomozásban nagy mennyiségű lefoglalt elektronikus adatot és iratot elemeznek, további személyeket azonosítanak és hallgatnak ki.\n\n• **A gyanút alátámasztó bizonyítékok** A bíróság közlése szerint feljelentések, okirati bizonyítékok, tanúvallomások, hangfelvételek és azok leiratai támasztják alá a megalapozott gyanút; az Index beszámolója az iratok keletkezésével és visszadátumozásával kapcsolatos informatikai adatokat is említ.\n\n• **Matolcsy esetében bűnismétléstől is tartanak** A törvényszék szerint a volt jegybankelnök feltételezett informális irányító szerepe megalapozza ezt a veszélyt. Önmagában az sem zárja ki, hogy büntetlen előéletű, illetve már nem vezeti a jegybankot.\n\n• **Elutasított enyhébb intézkedések** A bíróság szerint az elektronikus nyomkövetővel végrehajtott bűnügyi felügyelet nem akadályozná meg a közvetett kommunikációt vagy a bizonyítás másokon keresztüli befolyásolását. A kapcsolattartási tilalmat és az óvadékot sem tartotta elegendőnek.\n\n• **Az ügy háttere** A gyanú egy, a jegybanki alapítvány vagyonát kezelő társaság tulajdonosi kontrollját érintő, 2025. február 28-án kötött szerződéshez kapcsolódik. Az ügyészség szerint a közel 200 milliárd forint piaci értékű vagyont kezelő társaság feletti rendelkezési jog átadását célzó szerződés színlelt lehetett; a pontos vagyoni hátrányt még vizsgálják, de az meghaladja az 500 millió forintos értékhatárt.\n\n• **A szerződés visszafordítása** Az Index beszámolója szerint Varga Mihály MNB-elnöki megbízatásának kezdetét követően öt nappal később állapodtak meg a szerződés felbontásáról. Nem tisztázott, pontosan mikor és hogyan kerültek vissza a részvények az eredeti tulajdonoshoz.\n\n• **A további őrizetbe vett személyek** Az Index szerint Matolcsy mellett Valkó Mihályt és Sándor Tamást is őrizetbe vették; Matolcsy Ádám és Stofa György ellen európai és nemzetközi elfogatóparancsot adtak ki.",
     "importance_score": 98.0
-  },
-  {
-    "group_id": "group_820ec77ce7",
-    "fingerprint": "a6cbf5f3a41778c537b8ece7ec8aede6",
-    "category": "Sport",
-    "image": "https://kep.index.hu/1/0/7242/72429/724291/72429173_5337497_3fa93a2111ac0dfb878e5e6120a64a2e_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Visszavonult a portugál válogatottól Cristiano Ronaldo",
-        "link": "https://index.hu/sport/futball/2026/11/05/cristiano-ronaldo-portugal-valogatott-visszavonulas/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "„Köszönünk mindent, kapitány!” – a portugál szövetség nagy búcsúmeccset tervez Ronaldo tiszteletére",
-        "link": "https://24.hu/sport/foci/2026/11/05/portugal-szovetseg-cristiano-ronaldo-bucsumerkozes/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Hivatalos: Cristiano Ronaldo visszavonult a válogatottól",
-        "link": "https://24.hu/sport/foci/2026/11/05/hivatalos-cristiano-ronaldo-visszavonult-a-valogatottol/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Cristiano Ronaldo bejelentette, hogy visszavonult a portugál válogatottól",
-        "link": "https://telex.hu/sport/2026/11/05/cristiano-ronaldo-bejelentette-hogy-visszavonult-a-portugal-valogatottol"
-      },
-      {
-        "source": "444.hu",
-        "title": "Cristiano Ronaldo visszavonul a portugál valogatottságtól",
-        "link": "https://444.hu/2026/11/05/cristiano-ronaldo-visszavonul-a-portugal-valogatottsagtol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Cristiano Ronaldo levelét megírta, a búcsúvideós baki találgatásokra ad okot",
-        "link": "https://magyarnemzet.hu/sport/2026/11/cristiano-ronaldo-visszavonul-portugal-7-mez-figo-jesus?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Ronaldo visszavonul a portugál válogatottságtól",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/ronaldo-visszavonul-a-portugal-valogatottsagtol"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Cristiano Ronaldo bejelentette visszavonulását: nem lesz többé a portugál válogatott tagja",
-        "link": "https://nlc.hu/sztarok/20261105/cristiano-ronaldo-visszavonul/77xf4dx"
-      }
-    ],
-    "published_at": 1793894186,
-    "title_hu": "Cristiano Ronaldo visszavonult a portugál válogatottól",
-    "lead_hu": "Cristiano Ronaldo november 5-én bejelentette, hogy 23 év után befejezi válogatott-pályafutását. A 41 éves portugál csatár 234 mérkőzésen 146 gólt szerzett a nemzeti csapatban; a portugál szövetség búcsúmérkőzést tervez a tiszteletére.",
-    "content_hu": "• **Véget ért a 23 éves válogatott-pályafutás** Ronaldo egy közösségi oldalán közzétett videóban jelentette be, hogy átadja a portugál válogatott hetes mezét a következő generációnak. Döntését nehéznek nevezte, és azt mondta, a szívére is hallgatott.\n\n• **Rekorderként búcsúzik** A portugál klasszis 234 válogatott mérkőzésen 146 gólt szerzett, mindkét mutatóban világcsúcstartó. A válogatottal 2016-ban Európa-bajnokságot, 2019-ben és 2025-ben Nemzetek Ligáját nyert.\n\n• **Hat világbajnokságon szerepelt** Ronaldo hat vb-n játszott, és a portugál válogatottal 2004-ben Eb-ezüstérmet, 2012-ben bronzérmet is szerzett. A 444.hu beszámolója szerint a 2026-os világbajnokságon három gólt lőtt, Portugália pedig a nyolcaddöntőben búcsúzott.\n\n• **Fegyelmi ügy előzte meg a bejelentést** Ronaldo nézeteltérésbe került Jorge Jesus szövetségi kapitánnyal, majd elhagyta a válogatott edzőtáborát. A szövetség 30 napra felfüggesztette, és 255 eurós pénzbírságot szabott ki rá; a játékos később bocsánatot kért, korábban pedig azt mondta, nem akar visszavonulni.\n\n• **Szeptemberben játszott utoljára a válogatottban** Utolsó mérkőzése a Wales ellen megnyert találkozó volt. A Portugál Labdarúgó-szövetség közleményben köszönte meg szolgálatait, és méltatta, amiért fiatal generációkat inspirált.\n\n• **Búcsúmérkőzést tervez a portugál szövetség** Az FPF közölte, hogy szeretné megszervezni Ronaldo utolsó válogatott mérkőzését, hogy a szurkolók és az ország méltó módon ünnepelhessék a csapatkapitányt.\n\n• **Klubszinten folytatja** Az al-Nasszr csatáraként továbbra is futballozik, és pályafutása ezredik gólját szeretné elérni; a közölt adatok szerint 985-nél tart.",
-    "importance_score": 95.0
   },
   {
     "group_id": "group_8e5556cf62",
@@ -1368,6 +1373,30 @@
     "importance_score": 43.0
   },
   {
+    "group_id": "group_a11762178e",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/s/z/e/szemelyi-igazolvany-867198.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Több tízezer embernek kell kicserélnie a személyi igazolványát – figyelmeztet a minisztérium",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/tobb-tizezer-embernek-kell-kicserelnie-a-szemelyi-igazolvanyat-figyelmeztet-a-miniszterium-874528"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Közeleg a határidő: tízezreknek kell lecserélniük a régi, könyv formátumú személyi igazolványukat",
+        "link": "https://24.hu/belfold/2026/11/05/szemelyi-igazolvany-konyv-lejar-hatarido-december-31/"
+      }
+    ],
+    "published_at": 1793893500,
+    "title_hu": "Több tízezer embernek kell kicserélnie a személyi igazolványát – figyelmeztet a minisztérium",
+    "lead_hu": "Mintegy 30 ezer ember használ még régi, könyv alakú személyi igazolványt, amellyel december 31-ig lehet eljárni egyes ügyekben. Új igazolványt bármelyik kormányablakban lehet igényelni, a 70. életévük…",
+    "content_hu": "Mintegy 30 ezer ember használ még régi, könyv alakú személyi igazolványt, amellyel december 31-ig lehet eljárni egyes ügyekben. Új igazolványt bármelyik kormányablakban lehet igényelni, a 70. életévüket betöltötteknek pedig díjmentesen állítják ki az állandó okmányt – hívja fel a figyelmet a Vidék- és Területfejlesztési Minisztérium a csütörtöki sajtóközleményében.",
+    "importance_score": 40.0
+  },
+  {
     "group_id": "group_aa2c22c738",
     "fingerprint": "aef9e1d3974ca2367bab967b8bacff12",
     "category": "Politika",
@@ -1391,66 +1420,6 @@
     "title_hu": "Bírálatok kereszttüzébe került az ügynökakták nyilvánosságra hozatala",
     "lead_hu": "A rendszerváltás előtti állambiztonsági nyilvántartások nyilvánosságra hozatala után a Mi Hazánk szerint a kormány történelmi lehetőséget szalasztott el az iratok közzétételének módjával. A párt hiányosnak és félrevezetőnek tartja az adatbázist, miközben a források arra is figyelmeztetnek, hogy egy nyilvántartási karton önmagában nem bizonyít tényleges ügynöki tevékenységet.",
     "content_hu": "• **A közzététel bírálata** Dócs Dávid, a Mi Hazánk alelnöke szerint a kormány történelmi esélyt szalasztott el: úgy véli, az iratok feltárására évtizedekkel korábban, a társadalom felkészítését követően kellett volna sort keríteni.\n\n• **Hiányos adatbázis** A politikus kifogásolta, hogy szerinte olyan embereket is beszervezettként tüntethettek fel, akiket valójában megfigyeltek, miközben operatív és tartótiszti akták nem kerültek nyilvánosságra. Horn Gyula és Medgyessy Péter nevének hiányát is szóvá tette.\n\n• **Óvatosságra intő körülmény** A nyilvántartásban való szereplés önmagában nem bizonyítja, hogy az érintett jelentéseket készített vagy érdemben együttműködött a titkosszolgálattal; a teljes képhez további iratok és történészi vizsgálat szükséges.\n\n• **További politikai bírálat** A Fidesz korábban szintén kifogásolta az eljárást, azzal vádolva a kormányt, hogy összemossa az elkövetőket az áldozatokkal.",
-    "importance_score": 40.0
-  },
-  {
-    "group_id": "group_cba6dc8eda",
-    "category": "Gazdaság",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0864262015-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyére",
-        "link": "https://24.hu/kozelet/2026/11/05/a-kormanyzati-jegyzokonyvekben-lehet-a-valasz-az-mnb-ingatlanok-vagyonvesztesi-ugyere/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyére",
-        "link": "https://24.hu/fn/gazdasag/2026/11/05/a-kormanyzati-jegyzokonyvekben-lehet-a-valasz-az-mnb-ingatlanok-vagyonvesztesi-ugyere/"
-      }
-    ],
-    "published_at": 1793886958,
-    "title_hu": "A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyére",
-    "lead_hu": "Varga Mihály a tiszás képviselők kérdésére elmondta, évtizedek óta működnek alapítványok a jegybank alatt. The post A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyér…",
-    "content_hu": "Varga Mihály a tiszás képviselők kérdésére elmondta, évtizedek óta működnek alapítványok a jegybank alatt. The post A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyére first appeared on 24.hu.",
-    "importance_score": 40.0
-  },
-  {
-    "group_id": "group_d59684dd5a",
-    "fingerprint": "898f968f1dbac969193c99a3efb6a687",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/s/z/e/szekely-janos-puspok-866964.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Ügynökakták: bocsánatot kérnek a katolikus püspökök",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/ugynokaktak-bocsanatot-kernek-a-katolikus-puspokok-874334"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Bocsánatot kért a katolikus püspöki konferencia a pártállammal együttműködő egyházi személyek nevében",
-        "link": "https://telex.hu/ugynokaktak/2026/11/04/magyar-katolikus-puspoki-konferencia-bocsanatkeres-ugynokaktak"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "A katolikus püspöki konferencia bocsánatot kért azoknak az egyházi személyeknek a nevében, akik együttműködtek a pártállammal",
-        "link": "https://hvg.hu/itthon/20261104_ugynokaktak-katolikus-puspoki-konferencia-bocsanatkeres"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Ügynökakták: a katolikus püspöki konferencia bocsánatot kért a pártállammal együttműködők nevében",
-        "link": "https://24.hu/belfold/2026/11/04/ugynokaktak-katolikus-puspoki-konferencia-bocsanatkeres/"
-      }
-    ],
-    "published_at": 1793821393,
-    "title_hu": "Bocsánatot kért a püspöki konferencia a pártállammal együttműködő egyházi személyek nevében",
-    "lead_hu": "A Magyar Katolikus Püspöki Konferencia bocsánatot kért az áldozatoktól és hozzátartozóiktól azoknak az egyházi személyeknek a nevében, akik bizalmas információkat adtak át a pártállamnak. A testület az ügynökakták értelmezésekor óvatosságra intett, és felidézte az egyházat ért kommunista üldöztetést is.",
-    "content_hu": "• **Bocsánatkérés** A püspöki konferencia az áldozatoktól és hozzátartozóiktól kért bocsánatot azoknak az egyházi személyeknek a nevében, akik bizalmas információkat juttattak el a pártállamnak.\n\n• **Eltérő történetek** A nyilatkozat szerint egyeseket megkínoztak vagy megzsaroltak, mások semmitmondó jelentéseket adtak le, és olyanok is szerepelnek az aktákban, akiket megpróbáltak beszervezni, de nem sikerült.\n\n• **Hiányos iratok** A dokumentumok egy részét korábban megsemmisítették, így a fennmaradt akták nem adnak teljes képet.\n\n• **Az egyház üldöztetése** A püspöki konferencia felidézte, hogy a kommunista diktatúra idején több mint száz papot és szerzetest öltek meg, mintegy kétezren kerültek börtönbe vagy kényszerlakhelyre, a szerzetesrendek működését pedig betiltották. Egyházi iskolákat államosítottak, közösségeket és mozgalmakat oszlattak fel.\n\n• **A felelősség kérdése** Az egyik új forrás szerint az állásfoglalás a beszervezett személyek mellett a tartótisztek és a pártállam vezetőinek felelősségére is felhívja a figyelmet.\n\n• **Óvatosságra intés** A püspökök szerint az akták megismerése segítheti a múlt feldolgozását, de nem vezethet leegyszerűsítő ítéletekhez vagy egyes emberek tönkretételéhez. A megbékéléshez a beismerést, a megbocsátást és az irgalmat tartják szükségesnek.\n\n• **Beer Miklós neve az iratokban** A Telex beszámolója szerint a szerdán nyilvánosságra hozott iratok között Beer Miklós nyugalmazott püspök neve is szerepel. A rendszerben talált karton 1988-as beszervezést és a Dunai Gábor fedőnevet tünteti fel; Beer elmondása szerint nem tudott arról, hogy hálózati személyként tartották nyilván.\n\n• **Kiss-Rigó László ügyében korábban ítélet született** A Szeged-Csanádi Egyházmegye közlése szerint a püspök beszervezéséről szóló híresztelések valótlanok. Egy 2009-es jogerős bírósági döntés megállapította, hogy a 6-os karton önmagában nem bizonyította ügynöki foglalkoztatását; a bíróság szerint beszervezésére történtek próbálkozások, de azok nem jártak sikerrel.",
     "importance_score": 40.0
   },
   {
@@ -1576,6 +1545,30 @@
     "lead_hu": "Andor Éva Négyszemközt Andor Évával címmel indít podcastot az Origo YouTube-csatornáján, ahol november 5-től csütörtökönként jelentkezik új epizód. A sorozat első vendége Vidnyánszky Attila lesz.",
     "content_hu": "• **Új podcast** Andor Éva Négyszemközt Andor Évával címmel indít beszélgetős műsort az Origo YouTube-csatornáján.\n\n• **Megjelenés** A podcast november 5-től csütörtökönként jelentkezik új epizóddal.\n\n• **Első vendég** A sorozat első adásában Vidnyánszky Attilával beszélget.\n\n• **A műsor témái** A vendégek művészek, tudósok, zenészek, sportolók és más közéleti szereplők lehetnek; a beszélgetések személyes tapasztalatokról, gondolkodásmódról és az élet nagy kérdéseiről szólnak.\n\n• **Andor Éva pályafutása** A műsorvezető 2002-ben csatlakozott a TV2-höz, ahol több mint húsz évig dolgozott, és a Tények egyik meghatározó műsorvezetője volt.\n\n• **Korábbi műsor** Andor elmondása szerint korábbi, hasonló tematikájú interjúműsorát három éven át vezette; a csatornaváltás előtti néhány hónapos szünetet feltöltődésként élte meg.\n\n• **Politikai szereplés** Andor korábban több, Orbán Viktor támogatására buzdító videóban is szerepelt kollégáival.",
     "importance_score": 38.0
+  },
+  {
+    "group_id": "group_be673b4f3d",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7243/72434/724345/72434559_5337831_ae90ee3f72afe35b5d5ee228ebbe2408_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Elkísérték végső útjára a Tenerife kedden elhunyt labdarúgóját",
+        "link": "https://index.hu/sport/futball/2026/11/05/jesus-de-miguel-tragedia-halaleset-tenerife-laliga2-jesus-owono-remetes/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Százak kísérték utolsó útjára a Tenerife kedden meghalt futballistáját",
+        "link": "https://24.hu/sport/foci/2026/11/05/spanyol-foci-tragedia-jesus-de-miguel-temetes/"
+      }
+    ],
+    "published_at": 1793897040,
+    "title_hu": "Elkísérték végső útjára a Tenerife kedden elhunyt labdarúgóját",
+    "lead_hu": "Családtagok, barátok és a spanyol futball magasrangú képviselőinek jelenlétében....",
+    "content_hu": "Családtagok, barátok és a spanyol futball magasrangú képviselőinek jelenlétében.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_b056eae7d0",
@@ -1756,32 +1749,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_cd828dc036",
-    "fingerprint": "9e843b67b65c58b0af4f098bfe58f8a2",
-    "category": "Általános",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2603/10/apple_macbook_neo_laptop_notebook_macos_215910_1_original_390x220_cover.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "PC World",
-        "title": "A Microsoft 8 GB memóriára optimalizálja a Windows 11-et és saját szoftvereit",
-        "link": "https://www.pcwplus.hu/pcwlite/microsoft-windows-11-office-edge-optimalizacio-8-gb-390461.html"
-      },
-      {
-        "source": "Rakéta.hu",
-        "title": "A Microsoft rájött, hogyan gyorsíthatja fel a Windows 11-et azokon a gépeken, amelyekben kevesebb a memória",
-        "link": "https://raketa.hu/windows-11-ram-memoriakezeles-optimalizalas/"
-      }
-    ],
-    "published_at": 1793887033,
-    "title_hu": "A Windows 11-et 8 GB memóriás gépekre optimalizálja a Microsoft",
-    "lead_hu": "A Microsoft a Windows 11, az Edge és a Microsoft 365 memóriahasználatának javításával igyekszik használhatóbbá tenni a kevesebb memóriával szerelt gépeket. A vállalat tömörítéssel és a felhasználói igények előrejelzésével csökkentené a RAM terhelését.",
-    "content_hu": "• **A memória hatékonyabb kihasználása** A Microsoft a Windows 11-et, az Edge-et és a Microsoft 365-öt is úgy optimalizálná, hogy a meglévő memóriakeretekből többet hozzon ki.\n\n• **Tömörítés és előrejelzés** A rendszer a használaton kívüli elemeket – például az Edge egyes lapjait – eltávolíthatja a RAM-ból, majd szükség esetén visszatöltheti őket. Emellett megpróbálja előre jelezni, mely alkalmazásokra és funkciókra lesz szükség.\n\n• **Belső teszt eredménye** A Microsoft beszámolója szerint egy több alkalmazást és 20 Edge-lapot megnyitó teszt 40 százalékkal gyorsabban zajlott le, mint a 2026. januári verzióban. A közlés nem részletezi a teszt pontos időtartamát, illetve azt, hogy közben előfordultak-e akadozások.\n\n• **Nem csak a Microsofton múlik** A vállalat fejlesztései önmagukban nem feltétlenül oldják meg a 8 GB-os gépek problémáját, mivel más programok is sok memóriát igényelhetnek vagy lelassulhatnak ilyen környezetben.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_95761b3fea",
     "fingerprint": "12db7362e19f7de241eb812f1a6a58f8",
     "category": "Általános",
@@ -1811,6 +1778,30 @@
     "lead_hu": "A Pest Vármegyei Kormányhivatal higiéniai és élelmiszer-biztonsági hiányosságok, köztük jelentős rágcsálószennyezettség miatt felfüggesztette a Semmelweis Egyetem étkeztetését végző Gasztvitál-csoport Balassa utcai főzőkonyhájának három helyiségét. Az egyetem szerint a klinikai étkeztetés zavartalan, megbetegedésről sem az intézmény, sem a hatóság nem tud. Az egyetem napi belső ellenőrzést vezetett be, a Gasztvitál szerződése pedig hamarosan lejár.",
     "content_hu": "• **Október 12-i ellenőrzés** A kormányhivatal élelmiszer-biztonsági felügyelői jelentős rágcsálószennyezettséget és további higiéniai problémákat tártak fel, ezért még aznap elrendelték egyes helyiségek használatának felfüggesztését.\n\n• **Három helyiség érintett** A korlátozás a gluténmentes konyhára, az a la carte ételek kiadására szolgáló helyiségre, valamint a kis étkezésekhez használt krémek készítőhelyiségére vonatkozik.\n\n• **A lezárás a hibák kijavításáig tart** A Gasztvitál-csoportnak igazolnia kell a hiányosságok megszüntetését; a hatóság eljárást is indított az üzemeltetővel szemben.\n\n• **Az étkeztetés zavartalan** A Semmelweis Egyetem közlése szerint a részleges lezárás nem okoz fennakadást a klinikai étkeztetésben és a betegellátásban. Sem az egyetem, sem a kormányhivatal nem tud a higiéniai helyzettel összefüggő megbetegedésről vagy fertőzésről.\n\n• **Napi belső ellenőrzés** Az egyetem a jegyzőkönyv kézhezvétele után, október 13-án azonnali hatállyal felszólította a Gasztvitált a szerződésszegő állapot megszüntetésére. A vizsgálat óta napi szintű belső minőségellenőrzést tartanak a konyhán.\n\n• **Napi több ezer adag étel** A Gasztvitál 2024-ben vette át az egyetem étkeztetését. A Balassa utcai főzőkonyha és étterem mellett a Pető András Kar éttermét és az Elméleti Orvostudományi Központ büféjét is működteti; naponta átlagosan mintegy kétezer adag ételt készít a betegeknek, és körülbelül ezer dolgozó ebédjéről gondoskodik.\n\n• **Hamarosan lejár a szerződés** A Gasztvitállal kötött határozott idejű szerződés hamarosan lejár, az egyetem pedig várhatóan még idén kiírja az új közbeszerzést.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_cba6dc8eda",
+    "category": "Gazdaság",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0864262015-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyére",
+        "link": "https://24.hu/kozelet/2026/11/05/a-kormanyzati-jegyzokonyvekben-lehet-a-valasz-az-mnb-ingatlanok-vagyonvesztesi-ugyere/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyére",
+        "link": "https://24.hu/fn/gazdasag/2026/11/05/a-kormanyzati-jegyzokonyvekben-lehet-a-valasz-az-mnb-ingatlanok-vagyonvesztesi-ugyere/"
+      }
+    ],
+    "published_at": 1793886958,
+    "title_hu": "A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyére",
+    "lead_hu": "Varga Mihály a tiszás képviselők kérdésére elmondta, évtizedek óta működnek alapítványok a jegybank alatt. The post A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyér…",
+    "content_hu": "Varga Mihály a tiszás képviselők kérdésére elmondta, évtizedek óta működnek alapítványok a jegybank alatt. The post A kormányzati jegyzőkönyvekben lehet a válasz az MNB-ingatlanok vagyonvesztési ügyére first appeared on 24.hu.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_f01e48ddd2",
@@ -2372,6 +2363,32 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_cd828dc036",
+    "fingerprint": "9e843b67b65c58b0af4f098bfe58f8a2",
+    "category": "Általános",
+    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2603/10/apple_macbook_neo_laptop_notebook_macos_215910_1_original_390x220_cover.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "PC World",
+        "title": "A Microsoft 8 GB memóriára optimalizálja a Windows 11-et és saját szoftvereit",
+        "link": "https://www.pcwplus.hu/pcwlite/microsoft-windows-11-office-edge-optimalizacio-8-gb-390461.html"
+      },
+      {
+        "source": "Rakéta.hu",
+        "title": "A Microsoft rájött, hogyan gyorsíthatja fel a Windows 11-et azokon a gépeken, amelyekben kevesebb a memória",
+        "link": "https://raketa.hu/windows-11-ram-memoriakezeles-optimalizalas/"
+      }
+    ],
+    "published_at": 1793887033,
+    "title_hu": "A Windows 11-et 8 GB memóriás gépekre optimalizálja a Microsoft",
+    "lead_hu": "A Microsoft a Windows 11, az Edge és a Microsoft 365 memóriahasználatának javításával igyekszik használhatóbbá tenni a kevesebb memóriával szerelt gépeket. A vállalat tömörítéssel és a felhasználói igények előrejelzésével csökkentené a RAM terhelését.",
+    "content_hu": "• **A memória hatékonyabb kihasználása** A Microsoft a Windows 11-et, az Edge-et és a Microsoft 365-öt is úgy optimalizálná, hogy a meglévő memóriakeretekből többet hozzon ki.\n\n• **Tömörítés és előrejelzés** A rendszer a használaton kívüli elemeket – például az Edge egyes lapjait – eltávolíthatja a RAM-ból, majd szükség esetén visszatöltheti őket. Emellett megpróbálja előre jelezni, mely alkalmazásokra és funkciókra lesz szükség.\n\n• **Belső teszt eredménye** A Microsoft beszámolója szerint egy több alkalmazást és 20 Edge-lapot megnyitó teszt 40 százalékkal gyorsabban zajlott le, mint a 2026. januári verzióban. A közlés nem részletezi a teszt pontos időtartamát, illetve azt, hogy közben előfordultak-e akadozások.\n\n• **Nem csak a Microsofton múlik** A vállalat fejlesztései önmagukban nem feltétlenül oldják meg a 8 GB-os gépek problémáját, mivel más programok is sok memóriát igényelhetnek vagy lelassulhatnak ilyen környezetben.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_5d660db8fa",
     "fingerprint": "0301c6b4fac85df8babdb30e43989bc5",
     "category": "Politika",
@@ -2395,6 +2412,30 @@
     "title_hu": "Zacher Gábor bírálta Orbán Viktor testképét",
     "lead_hu": "Zacher Gábor szerint Orbán Viktor korábbi testképe negatív példát mutatott az egészségmegőrzés szempontjából. Úgy véli, ha a volt miniszterelnök nyilvánosan beszélt volna a súlygyarapodásáról és az életmódváltásáról, másokat is ösztönözhetett volna.",
     "content_hu": "• **Zacher kritikája** A szakember a Maszol vendégeként azt mondta, neheztelt Orbán Viktorra, mert szerinte a volt miniszterelnök egészségmegőrzés szempontjából negatív testképet mutatott.\n\n• **Példamutatás** Zacher szerint Orbán nyilvánosan beszélhetett volna a súlygyarapodásáról és arról, hogy életmódváltásba kezd.\n\n• **Népegészségügyi hatás** A szakember úgy véli, egy ilyen nyilatkozat másokat is az egészségesebb életmód felé terelhetett volna, mivel sokan követik a közéleti szereplőket.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_38a91884cf",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "A levéltár vezetője szerint 160 megfigyelt neve került fel tévedésből a nyitottaktak.hu-ra",
+        "link": "https://444.hu/2026/11/05/a-leveltar-vezetoje-szerint-160-megfigyelt-neve-kerult-fel-tevedesbol-a-nyitottaktakhu-ra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "A levéltár vezetője szerint 160 megfigyelt neve került fel tévedésből a nyitottaktak.hu-ra",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/a-leveltar-vezetoje-szerint-160-megfigyelt-neve-kerult-fel-tevedesbol-a-nyitottaktakhu-ra"
+      }
+    ],
+    "published_at": 1793884552,
+    "title_hu": "A levéltár vezetője szerint 160 megfigyelt neve került fel tévedésből a nyitottaktak.hu-ra",
+    "lead_hu": "A főigazgató az adatvédelmi sérelemért elnézést kér Lezsák Sándortól.",
+    "content_hu": "A főigazgató az adatvédelmi sérelemért elnézést kér Lezsák Sándortól.",
     "importance_score": 28.0
   },
   {
@@ -3476,6 +3517,82 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_a56885f7a7",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7079/70790/707900/70790079_5221359_ee7afb4ef72eedda9d66376c3897d6f1_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Amerikai engedélyt kapott a Mol az orosz értékpapírok átruházásának előkészítésére a NIS-ügyletben",
+        "link": "https://index.hu/gazdasag/2026/11/05/mol-nis-felvasarlas-engedely-egyesult-allamok/"
+      }
+    ],
+    "published_at": 1793897580,
+    "title_hu": "Amerikai engedélyt kapott a Mol az orosz értékpapírok átruházásának előkészítésére a NIS-ügyletben",
+    "lead_hu": "Az ügylet végleges lezárásához külön engedély kell az amerikai pénzügyminisztériumtól....",
+    "content_hu": "Az ügylet végleges lezárásához külön engedély kell az amerikai pénzügyminisztériumtól.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_220d17d0fe",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5918c679-4c57-4a6a-b7c5-96b821fefe4d.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Nem támogatja a Médiatanács a reklámadó bevezetését",
+        "link": "https://hvg.hu/gazdasag/20261105_mediatanacs-reklamado-bevezetes"
+      }
+    ],
+    "published_at": 1793897553,
+    "title_hu": "Nem támogatja a Médiatanács a reklámadó bevezetését",
+    "lead_hu": "Azt kérik, hogy az adótörvény-javaslatból törölje az Országgyűlés a reklámadót....",
+    "content_hu": "Azt kérik, hogy az adótörvény-javaslatból törölje az Országgyűlés a reklámadót.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_17a0359e0e",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7070/70704/707040/70704061_5215175_cf7f8638c14c7e80fd77a5593688e58c_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Közel a határidő, hamarosan le kell cserélni a hibrid autók rendszámait",
+        "link": "https://index.hu/gazdasag/2026/11/05/hibrid-auto-plug-in-autok-zold-rendszamtabla-csere/"
+      }
+    ],
+    "published_at": 1793897520,
+    "title_hu": "Közel a határidő, hamarosan le kell cserélni a hibrid autók rendszámait",
+    "lead_hu": "Amennyiben ezt valaki elmulasztja, akár ki is vonhatják a forgalomból az autóját....",
+    "content_hu": "Amennyiben ezt valaki elmulasztja, akár ki is vonhatják a forgalomból az autóját.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_b2d2f570fd",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Mielőbbi segítséget kért Zelenszkij Ukrajna energiaellátásához",
+        "link": "https://444.hu/2026/11/05/mielobbi-segitseget-kert-zelenszkij-ukrajna-energiaellatasahoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793897484,
+    "title_hu": "Mielőbbi segítséget kért Zelenszkij Ukrajna energiaellátásához",
+    "lead_hu": "A kérést az iberoamerikai országok csúcstalálkozóján fogalmazta meg az ukrán elnök....",
+    "content_hu": "A kérést az iberoamerikai országok csúcstalálkozóján fogalmazta meg az ukrán elnök.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_9a9d9711c3",
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261105/1793887351-temp-cvqopcvr4qrv4ohbhhh_cimlap-normal.jpg",
@@ -3568,25 +3685,6 @@
     "title_hu": "Három Kárpát-medencei magyar könyvkiadó fogott össze az ínséges időkben",
     "lead_hu": "Határokon átívelő kulturális és könyvgyűjtemény-fejlesztési programot indított a Kún Kocsárd Egyesület....",
     "content_hu": "Határokon átívelő kulturális és könyvgyűjtemény-fejlesztési programot indított a Kún Kocsárd Egyesület.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_be673b4f3d",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7243/72434/724345/72434559_5337831_ae90ee3f72afe35b5d5ee228ebbe2408_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Elkísérték végső útjára a Tenerife kedden elhunyt labdarúgóját",
-        "link": "https://index.hu/sport/futball/2026/11/05/jesus-de-miguel-tragedia-halaleset-tenerife-laliga2-jesus-owono-remetes/"
-      }
-    ],
-    "published_at": 1793897040,
-    "title_hu": "Elkísérték végső útjára a Tenerife kedden elhunyt labdarúgóját",
-    "lead_hu": "Családtagok, barátok és a spanyol futball magasrangú képviselőinek jelenlétében....",
-    "content_hu": "Családtagok, barátok és a spanyol futball magasrangú képviselőinek jelenlétében.",
     "importance_score": 0.0
   },
   {
@@ -4081,25 +4179,6 @@
     "title_hu": "Hogy továbbra is legyen, aki utánajár",
     "lead_hu": "Minden feltárt üggyel többet tudunk arról, hogyan működik a világ körülöttünk....",
     "content_hu": "Minden feltárt üggyel többet tudunk arról, hogyan működik a világ körülöttünk.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a11762178e",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/s/z/e/szemelyi-igazolvany-867198.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Több tízezer embernek kell kicserélnie a személyi igazolványát – figyelmeztet a minisztérium",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/tobb-tizezer-embernek-kell-kicserelnie-a-szemelyi-igazolvanyat-figyelmeztet-a-miniszterium-874528"
-      }
-    ],
-    "published_at": 1793893500,
-    "title_hu": "Több tízezer embernek kell kicserélnie a személyi igazolványát – figyelmeztet a minisztérium",
-    "lead_hu": "Mintegy 30 ezer ember használ még régi, könyv alakú személyi igazolványt, amellyel december 31-ig lehet eljárni egyes ügyekben. Új igazolványt bármelyik kormányablakban lehet igényelni, a 70. életévük…",
-    "content_hu": "Mintegy 30 ezer ember használ még régi, könyv alakú személyi igazolványt, amellyel december 31-ig lehet eljárni egyes ügyekben. Új igazolványt bármelyik kormányablakban lehet igényelni, a 70. életévüket betöltötteknek pedig díjmentesen állítják ki az állandó okmányt – hívja fel a figyelmet a Vidék- és Területfejlesztési Minisztérium a csütörtöki sajtóközleményében.",
     "importance_score": 0.0
   },
   {
@@ -5544,25 +5623,6 @@
     "title_hu": "Utolsó felhívást küldött a minisztérium több tízezer autósnak",
     "lead_hu": "Ha valaki nem cseréli le a zöld rendszámát, december 1-jétől közúti ellenőrzés esetén a hatóság kezdeményezi a jármű forgalomból történő kivonását. The post Utolsó felhívást küldött a minisztérium töb…",
     "content_hu": "Ha valaki nem cseréli le a zöld rendszámát, december 1-jétől közúti ellenőrzés esetén a hatóság kezdeményezi a jármű forgalomból történő kivonását. The post Utolsó felhívást küldött a minisztérium több tízezer autósnak first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_38a91884cf",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "A levéltár vezetője szerint 160 megfigyelt neve került fel tévedésből a nyitottaktak.hu-ra",
-        "link": "https://444.hu/2026/11/05/a-leveltar-vezetoje-szerint-160-megfigyelt-neve-kerult-fel-tevedesbol-a-nyitottaktakhu-ra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793884552,
-    "title_hu": "A levéltár vezetője szerint 160 megfigyelt neve került fel tévedésből a nyitottaktak.hu-ra",
-    "lead_hu": "A főigazgató az adatvédelmi sérelemért elnézést kér Lezsák Sándortól.",
-    "content_hu": "A főigazgató az adatvédelmi sérelemért elnézést kér Lezsák Sándortól.",
     "importance_score": 0.0
   },
   {
@@ -13755,99 +13815,40 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_1b18544db0",
-    "category": "Általános",
-    "image": "https://cdn.hirtv.hu/2026/11/jKamMo6rfhU0bm4MePjUhtnbUFFNMhxK9y0MkAgLFxU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU3OGQ0OTE5OWE2YTQyODVhYTljMjY2OWZhODZjNTE2.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "group_id": "group_d59684dd5a",
+    "fingerprint": "898f968f1dbac969193c99a3efb6a687",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/s/z/e/szekely-janos-puspok-866964.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
     "sources": [
       {
-        "source": "Hír TV",
-        "title": "Orosz gáz: 2027 után honnan érkezik az energia Magyarországra?",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/orosz-gaz-orban-anita-torok-aramlat-2027"
-      }
-    ],
-    "published_at": 1793811388,
-    "title_hu": "Orosz gáz: 2027 után honnan érkezik az energia Magyarországra?",
-    "lead_hu": "Közeleg a határidő, kérdéses az orosz gáz pótlása.",
-    "content_hu": "Közeleg a határidő, kérdéses az orosz gáz pótlása.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_76b9701b01",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Az Alkotmánybíróság megsemmisítette a Kúria döntését: nem minden politikai falfirka bűncselekmény",
-        "link": "https://444.hu/2026/11/04/az-alkotmanybirosag-megsemmisitette-a-kuria-donteset-nem-minden-politikai-falfirka-buncselekmeny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793811178,
-    "title_hu": "Az Alkotmánybíróság megsemmisítette a Kúria döntését: nem minden politikai falfirka bűncselekmény",
-    "lead_hu": "A Kúria által hozott korábbi határozat nem vette figyelembe a falfrikák tartalmát.",
-    "content_hu": "A Kúria által hozott korábbi határozat nem vette figyelembe a falfrikák tartalmát.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_9caf09a110",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/GulzMCA-G6O6fTFwINOkBbDqFTb_HqTrFX7LVvae-0I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkxOTY5MmY4NzU1ZjRhYTdhMmQ4Nzc4Nzk3Yzk5ZjJk.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Ébresztő a republikánusoknak: kevesebb külpolitikára, több gazdasági eredményre van szükség",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/ebreszto-a-republikanusoknak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793811086,
-    "title_hu": "Ébresztő a republikánusoknak: kevesebb külpolitikára, több gazdasági eredményre van szükség",
-    "lead_hu": "Az amerikai félidős választások eredményeit Kiss Rajmund diplomáciai és Amerika-szakértő elemezte lapunknak.",
-    "content_hu": "Az amerikai félidős választások eredményeit Kiss Rajmund diplomáciai és Amerika-szakértő elemezte lapunknak.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_42a3e1b699",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261104/1793808423-temp-36nt73e3vj625kfhkkb_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
+        "source": "Portfolio - Gazdaság",
+        "title": "Ügynökakták: bocsánatot kérnek a katolikus püspökök",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/ugynokaktak-bocsanatot-kernek-a-katolikus-puspokok-874334"
+      },
       {
         "source": "Telex - Belföld",
-        "title": "Ha Trump fenekek helyett a fiatalokkal, a latinókkal és a munkásosztállyal foglalkozott volna, talán nem kapnak ki ennyire a republikánusok",
-        "link": "https://telex.hu/kulfold/2026/11/04/amerikai-felidos-valasztasok-demografia-szavazok"
-      }
-    ],
-    "published_at": 1793811071,
-    "title_hu": "Ha Trump fenekek helyett a fiatalokkal, a latinókkal és a munkásosztállyal foglalkozott volna, talán nem kapnak ki ennyire a republikánusok",
-    "lead_hu": "A republikánusok fontos demográfiai csoportokban veszítettek nagyot a támogatottságukból: a latinók rájöttek, hogy a bevándorlásügyiek nem csak a bűnözőket toloncolják ki, a fiatalok és a munkások ped…",
-    "content_hu": "A republikánusok fontos demográfiai csoportokban veszítettek nagyot a támogatottságukból: a latinók rájöttek, hogy a bevándorlásügyiek nem csak a bűnözőket toloncolják ki, a fiatalok és a munkások pedig arra, hogy nem lett olcsóbb a kenyér Trump elnöksége alatt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_770e13f5eb",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/10/pgpjzJHgdm-FoXs7kUnUhj959RLMibioKrl9gHdtT5I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc5MWUyOGMxNmVjNzQxNmFhYzJhY2YwOGJiN2I5YzI4.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "Bocsánatot kért a katolikus püspöki konferencia a pártállammal együttműködő egyházi személyek nevében",
+        "link": "https://telex.hu/ugynokaktak/2026/11/04/magyar-katolikus-puspoki-konferencia-bocsanatkeres-ugynokaktak"
+      },
       {
-        "source": "Magyar Nemzet",
-        "title": "Az ügynökaktákkal pörgött ma tovább az abszolút filmszínház, közben csendben a kormány is ülésezett",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/ugynokaktak-abszolut-filmszinhaz-magyar-peter-miniszterelnok-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "HVG - Itthon",
+        "title": "A katolikus püspöki konferencia bocsánatot kért azoknak az egyházi személyeknek a nevében, akik együttműködtek a pártállammal",
+        "link": "https://hvg.hu/itthon/20261104_ugynokaktak-katolikus-puspoki-konferencia-bocsanatkeres"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ügynökakták: a katolikus püspöki konferencia bocsánatot kért a pártállammal együttműködők nevében",
+        "link": "https://24.hu/belfold/2026/11/04/ugynokaktak-katolikus-puspoki-konferencia-bocsanatkeres/"
       }
     ],
-    "published_at": 1793811067,
-    "title_hu": "Az ügynökaktákkal pörgött ma tovább az abszolút filmszínház, közben csendben a kormány is ülésezett",
-    "lead_hu": "Miközben egyre rosszabb számokat produkál a gazdaság, Magyar Péter és miniszterei inkább a múlttal foglalkoznak.",
-    "content_hu": "Miközben egyre rosszabb számokat produkál a gazdaság, Magyar Péter és miniszterei inkább a múlttal foglalkoznak.",
-    "importance_score": 0.0
+    "published_at": 1793821393,
+    "title_hu": "Bocsánatot kért a püspöki konferencia a pártállammal együttműködő egyházi személyek nevében",
+    "lead_hu": "A Magyar Katolikus Püspöki Konferencia bocsánatot kért az áldozatoktól és hozzátartozóiktól azoknak az egyházi személyeknek a nevében, akik bizalmas információkat adtak át a pártállamnak. A testület az ügynökakták értelmezésekor óvatosságra intett, és felidézte az egyházat ért kommunista üldöztetést is.",
+    "content_hu": "• **Bocsánatkérés** A püspöki konferencia az áldozatoktól és hozzátartozóiktól kért bocsánatot azoknak az egyházi személyeknek a nevében, akik bizalmas információkat juttattak el a pártállamnak.\n\n• **Eltérő történetek** A nyilatkozat szerint egyeseket megkínoztak vagy megzsaroltak, mások semmitmondó jelentéseket adtak le, és olyanok is szerepelnek az aktákban, akiket megpróbáltak beszervezni, de nem sikerült.\n\n• **Hiányos iratok** A dokumentumok egy részét korábban megsemmisítették, így a fennmaradt akták nem adnak teljes képet.\n\n• **Az egyház üldöztetése** A püspöki konferencia felidézte, hogy a kommunista diktatúra idején több mint száz papot és szerzetest öltek meg, mintegy kétezren kerültek börtönbe vagy kényszerlakhelyre, a szerzetesrendek működését pedig betiltották. Egyházi iskolákat államosítottak, közösségeket és mozgalmakat oszlattak fel.\n\n• **A felelősség kérdése** Az egyik új forrás szerint az állásfoglalás a beszervezett személyek mellett a tartótisztek és a pártállam vezetőinek felelősségére is felhívja a figyelmet.\n\n• **Óvatosságra intés** A püspökök szerint az akták megismerése segítheti a múlt feldolgozását, de nem vezethet leegyszerűsítő ítéletekhez vagy egyes emberek tönkretételéhez. A megbékéléshez a beismerést, a megbocsátást és az irgalmat tartják szükségesnek.\n\n• **Beer Miklós neve az iratokban** A Telex beszámolója szerint a szerdán nyilvánosságra hozott iratok között Beer Miklós nyugalmazott püspök neve is szerepel. A rendszerben talált karton 1988-as beszervezést és a Dunai Gábor fedőnevet tünteti fel; Beer elmondása szerint nem tudott arról, hogy hálózati személyként tartották nyilván.\n\n• **Kiss-Rigó László ügyében korábban ítélet született** A Szeged-Csanádi Egyházmegye közlése szerint a püspök beszervezéséről szóló híresztelések valótlanok. Egy 2009-es jogerős bírósági döntés megállapította, hogy a 6-os karton önmagában nem bizonyította ügynöki foglalkoztatását; a bíróság szerint beszervezésére történtek próbálkozások, de azok nem jártak sikerrel.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_9ef79a4b85",
