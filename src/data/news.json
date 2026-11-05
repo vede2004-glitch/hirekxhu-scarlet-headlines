@@ -1560,6 +1560,30 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_220d17d0fe",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5918c679-4c57-4a6a-b7c5-96b821fefe4d.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Nem támogatja a Médiatanács a reklámadó bevezetését",
+        "link": "https://hvg.hu/gazdasag/20261105_mediatanacs-reklamado-bevezetes"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A Médiatanács arra kéri a kormányt, ne vezessék be a reklámadót",
+        "link": "https://24.hu/belfold/2026/11/05/mediatanacs-reklamado-bevezetes-elhalasztas/"
+      }
+    ],
+    "published_at": 1793897553,
+    "title_hu": "Nem támogatja a Médiatanács a reklámadó bevezetését",
+    "lead_hu": "Azt kérik, hogy az adótörvény-javaslatból törölje az Országgyűlés a reklámadót.",
+    "content_hu": "Azt kérik, hogy az adótörvény-javaslatból törölje az Országgyűlés a reklámadót.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_a11762178e",
     "fingerprint": "e7d0b38f3d53a8c33f0608c00ce3bacf",
     "category": "Politika",
@@ -1711,32 +1735,6 @@
     "title_hu": "Kiraboltak egy pénzszállítót Nyíregyházán",
     "lead_hu": "Csütörtök kora délután kirabolták egy pénzszállító cég munkatársát Nyíregyházán. A rendőrség nagy erőkkel keresi az elkövetőt.",
     "content_hu": "• **A rablás helyszíne** egy belvárosi pénzváltó volt.\n\n• **A rendőrség** forró nyomon, nagy erőkkel keresi az elkövetőt.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_869d11f23a",
-    "fingerprint": "cb26197a140c83629fd67cbd79fd50de",
-    "category": "Általános",
-    "image": "https://femina.hu/neon/media/images/szabadsag_hid.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Nem közlekednek ezek a villamosok a hétvégén: jelentős változások jönnek a főváros közlekedésében",
-        "link": "https://femina.hu/utazas/nem-kozlekednek-ezek-a-villamosok-a-hetvegen-jelentos-valtozasok-jonnek-a-fovaros-kozlekedeseben/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Három budapesti villamos sem közlekedik a hétvégén",
-        "link": "https://index.hu/belfold/2026/11/05/villamos-szabadsag-hid-budapest-kozlekedes/"
-      }
-    ],
-    "published_at": 1793888160,
-    "title_hu": "Hétvégén nem jár a 47-es, a 48-as és a 49-es villamos",
-    "lead_hu": "A Szabadság hídon végzett karbantartás miatt szombaton és vasárnap szünetel a 47-es, a 48-as és a 49-es villamos közlekedése. A BKK több alternatív útvonalat és pótlójáratot ajánl az utasoknak.",
-    "content_hu": "• **Karbantartás a Szabadság hídon** A híd dilatációs szerkezetének javítása miatt hétvégén nem közlekedik a 47-es, a 48-as és a 49-es villamos.\n\n• **Pesti alternatívák** A kiskörúti szakaszon a 9-es autóbusz, a 72-es trolibusz, valamint a 3-as és a 4-es metró használható.\n\n• **Budai közlekedés** A Fehérvári úton a Városház térig meghosszabbított 61-es villamos közlekedik.\n\n• **Pótlás és ajánlott útvonalak** A 49-es villamos helyett Kelenföld vasútállomás és a Móricz Zsigmond körtér között 19-es pótlóbusz jár. Pest és Buda között a BKK a 4-es metrót, a 4-es és 6-os villamost, valamint a 7-es és a 133E buszt ajánlja; szombaton kora délutánig 61B villamos is közlekedik a Széll Kálmán tér és a Savoya Park között.",
     "importance_score": 35.0
   },
   {
@@ -2271,6 +2269,32 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_869d11f23a",
+    "fingerprint": "cb26197a140c83629fd67cbd79fd50de",
+    "category": "Általános",
+    "image": "https://femina.hu/neon/media/images/szabadsag_hid.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Nem közlekednek ezek a villamosok a hétvégén: jelentős változások jönnek a főváros közlekedésében",
+        "link": "https://femina.hu/utazas/nem-kozlekednek-ezek-a-villamosok-a-hetvegen-jelentos-valtozasok-jonnek-a-fovaros-kozlekedeseben/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Három budapesti villamos sem közlekedik a hétvégén",
+        "link": "https://index.hu/belfold/2026/11/05/villamos-szabadsag-hid-budapest-kozlekedes/"
+      }
+    ],
+    "published_at": 1793888160,
+    "title_hu": "Hétvégén nem jár a 47-es, a 48-as és a 49-es villamos",
+    "lead_hu": "A Szabadság hídon végzett karbantartás miatt szombaton és vasárnap szünetel a 47-es, a 48-as és a 49-es villamos közlekedése. A BKK több alternatív útvonalat és pótlójáratot ajánl az utasoknak.",
+    "content_hu": "• **Karbantartás a Szabadság hídon** A híd dilatációs szerkezetének javítása miatt hétvégén nem közlekedik a 47-es, a 48-as és a 49-es villamos.\n\n• **Pesti alternatívák** A kiskörúti szakaszon a 9-es autóbusz, a 72-es trolibusz, valamint a 3-as és a 4-es metró használható.\n\n• **Budai közlekedés** A Fehérvári úton a Városház térig meghosszabbított 61-es villamos közlekedik.\n\n• **Pótlás és ajánlott útvonalak** A 49-es villamos helyett Kelenföld vasútállomás és a Móricz Zsigmond körtér között 19-es pótlóbusz jár. Pest és Buda között a BKK a 4-es metrót, a 4-es és 6-os villamost, valamint a 7-es és a 133E buszt ajánlja; szombaton kora délutánig 61B villamos is közlekedik a Széll Kálmán tér és a Savoya Park között.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_3516082635",
     "fingerprint": "28ab58a3ee77669118a26bd8340abcac",
     "category": "Politika",
@@ -2476,32 +2500,6 @@
     "title_hu": "Három új tévécsatornával bővül a magyar kínálat",
     "lead_hu": "A One Magyarország és a Network4 Media Group kétéves megállapodást kötött, amelynek részeként 2027 első negyedévében három új csatorna érkezik Magyarországra. A One TV Family előfizetői már 2026. december 1-jétől díjmentesen érhetik el a Network4 Go válogatott tartalmait.",
     "content_hu": "• **Három új csatorna** A Viasat True Crime bűnügyi dokumentumfilmeket és sorozatokat kínál, a Moonbug óvodásoknak szóló meséket és fejlesztő tartalmakat, a Marquee TV pedig opera-, balett-, színházi és komolyzenei előadásokat hoz a hazai kínálatba.\n\n• **Kétéves együttműködés** A megállapodás a Network4 meglévő csatornáira és a médiacsoport által képviselt Viasat World-adókra is kiterjed.\n\n• **Díjmentes streaminghozzáférés** 2026. december 1-jétől a One TV Family csomag előfizetői külön díj nélkül nézhetik a Network4 Go válogatott tartalmait, köztük sportközvetítéseket, filmeket és sorozatokat.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_fa0f3b7b34",
-    "fingerprint": "5547f97522636983a2328b16e3ea2f1a",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Már nem Amerikába tartanak a tankerek, amelyek a Trump–Putyin-alku után indultak oda orosz üzemanyaggal megrakodva",
-        "link": "https://444.hu/2026/11/05/mar-nem-amerikaba-tartanak-a-tankerek-amelyek-a-trumpputyin-alku-utan-indultak-oda-orosz-uzemanyaggal-megrakodva?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Váratlanul irányt váltottak az USA-ba tartó orosz üzemanyag-szállító hajók",
-        "link": "https://hvg.hu/gazdasag/20261105_usa-orosz-dizel-hajo"
-      }
-    ],
-    "published_at": 1793877369,
-    "title_hu": "Irányt váltottak az Egyesült Államokba tartó orosz üzemanyagszállító tankerek",
-    "lead_hu": "Két, orosz dízelt szállító tanker módosította az eredetileg amerikai úti célját: a Leruo Brazília felé fordult, a Talisman pedig Algéria partjainál várakozik. Egy harmadik hajó továbbra is az Egyesült Államok felé tart, miközben a Trump–Putyin-megállapodás nyomán engedélyezték az orosz dízel világpiaci értékesítését.",
-    "content_hu": "• **A Leruo Brazília felé tart** – A Sierra Leone-i lobogó alatt közlekedő tanker az Egyesült Államok helyett hétfőn Brazíliát jelölte meg úti célként.\n\n• **A Talisman Algéria partjainál várakozik** – Az orosz tanker a Földközi-tenger felé vette az irányt, és jelenleg utasításra vár; rakományának nincs megerősített vevője.\n\n• **Egy harmadik tanker továbbra is az USA felé tart** – Az Agioi Fanendes szintén utasításra vár, de úti célja egyelőre nem változott.\n\n• **A szállítások hátterében a Trump–Putyin-megállapodás áll** – A két elnök október 9-én egyezett meg az orosz üzemanyag értékesítéséről, az amerikai pénzügyminisztérium pedig ideiglenesen engedélyezte az orosz dízel világpiaci eladását.\n\n• **Nem ismert, mi okozta a tankerek irányváltását** – A források nem állapítanak meg közvetlen kapcsolatot a változások és a politikai fejlemények között; New Jersey kormányzója ugyanakkor arra kérte a kikötők és terminálok üzemeltetőit, hogy ne fogadjanak orosz hajókat.",
     "importance_score": 28.0
   },
   {
@@ -2759,6 +2757,32 @@
     "lead_hu": "JD Vance amerikai alelnök szerint nem a republikánus szavazók alacsony részvétele, hanem az okozta a párt félidős választási vereségét, hogy sok korábbi Trump-szavazó a demokratákra voksolt. Vance az iráni háborút nevezte meg fő okként, és a megélhetési költségek csökkentését is sürgette.",
     "content_hu": "• **A szavazók elpártolása** Vance szerint a republikánusok vereségét nem elsősorban a távolmaradás, hanem az okozta, hogy sok, 2024-ben Trumpot támogató választó ezúttal a demokratákra szavazott.\n\n• **Az iráni háború** Az alelnök a konfliktust nevezte meg a vereség fő okaként. Donald Trump is elismerte, hogy a háború szerepet játszhatott az eredményben, de továbbra is védelmébe vette a fellépést.\n\n• **Négy terület a támogatottság visszaszerzéséhez** Vance szerint a republikánusoknak le kell zárniuk a háborút, csökkenteniük kell a megélhetési költségeket, előtérbe kell helyezniük az „Amerika az első” politikát, és át kell alakítaniuk az Egyesült Államok Izraelhez fűződő kapcsolatát.\n\n• **Gazdasági elégedetlenség** Vance elismerte, hogy a republikánusok gazdasági üzenetei nem voltak elég meggyőzőek. A választói elégedetlenségben a magas megélhetési költségek és Trump vámintézkedései is szerepet játszhattak.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_fa0f3b7b34",
+    "fingerprint": "5547f97522636983a2328b16e3ea2f1a",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Már nem Amerikába tartanak a tankerek, amelyek a Trump–Putyin-alku után indultak oda orosz üzemanyaggal megrakodva",
+        "link": "https://444.hu/2026/11/05/mar-nem-amerikaba-tartanak-a-tankerek-amelyek-a-trumpputyin-alku-utan-indultak-oda-orosz-uzemanyaggal-megrakodva?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Váratlanul irányt váltottak az USA-ba tartó orosz üzemanyag-szállító hajók",
+        "link": "https://hvg.hu/gazdasag/20261105_usa-orosz-dizel-hajo"
+      }
+    ],
+    "published_at": 1793877369,
+    "title_hu": "Irányt váltottak az Egyesült Államokba tartó orosz üzemanyagszállító tankerek",
+    "lead_hu": "Két, orosz dízelt szállító tanker módosította az eredetileg amerikai úti célját: a Leruo Brazília felé fordult, a Talisman pedig Algéria partjainál várakozik. Egy harmadik hajó továbbra is az Egyesült Államok felé tart, miközben a Trump–Putyin-megállapodás nyomán engedélyezték az orosz dízel világpiaci értékesítését.",
+    "content_hu": "• **A Leruo Brazília felé tart** – A Sierra Leone-i lobogó alatt közlekedő tanker az Egyesült Államok helyett hétfőn Brazíliát jelölte meg úti célként.\n\n• **A Talisman Algéria partjainál várakozik** – Az orosz tanker a Földközi-tenger felé vette az irányt, és jelenleg utasításra vár; rakományának nincs megerősített vevője.\n\n• **Egy harmadik tanker továbbra is az USA felé tart** – Az Agioi Fanendes szintén utasításra vár, de úti célja egyelőre nem változott.\n\n• **A szállítások hátterében a Trump–Putyin-megállapodás áll** – A két elnök október 9-én egyezett meg az orosz üzemanyag értékesítéséről, az amerikai pénzügyminisztérium pedig ideiglenesen engedélyezte az orosz dízel világpiaci eladását.\n\n• **Nem ismert, mi okozta a tankerek irányváltását** – A források nem állapítanak meg közvetlen kapcsolatot a változások és a politikai fejlemények között; New Jersey kormányzója ugyanakkor arra kérte a kikötők és terminálok üzemeltetőit, hogy ne fogadjanak orosz hajókat.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_633c2d8517",
@@ -3194,7 +3218,7 @@
     "title_hu": "Hankó Balázs ügyvédje jogsértőnek tartja az ügyészség tájékoztatását",
     "lead_hu": "Tóth M. Gábor védőügyvéd szerint az ügyészség jogsértően hozta nyilvánosságra Hankó Balázs fogvatartásával kapcsolatos, fodrászra és vallásgyakorlásra vonatkozó kérelmeit. Úgy véli, a nyilvánosság tájékoztatása nem indokolta a volt miniszter személyes adatainak közlését.",
     "content_hu": "• **Az ügyvéd álláspontja** Tóth M. Gábor szerint az ügyészség túllépte a törvényes kereteket, amikor tájékoztatott Hankó Balázs fogvatartás alatti kérelmeiről.\n\n• **A fodrászati kérelem** A védő szerint Hankó a fogvatartás kezdeti körülményei miatt kérte saját fodrásza közreműködését; állítása szerint ez nem kivételezésre irányult.\n\n• **A vallási adatok védelme** Tóth M. Gábor úgy véli, a vallásgyakorlásra utaló információk különleges személyes adatnak minősülhetnek, és nyilvánosságra hozatalukhoz nem volt megfelelő hozzájárulás.\n\n• **A nyilvánosság határai** Az ügyvéd elismeri, hogy a közvéleménynek joga van megismerni a büntetőeljárás érdemi részleteit, szerinte azonban Hankó magánéletének részletei nem tartoztak ezek közé.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_ec8400c67f",
@@ -3425,6 +3449,120 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_a3f9a65e00",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/san-siro-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Európa Liga: AC Milan – Ferencváros (élő)",
+        "link": "https://24.hu/sport/foci/2026/11/05/europa-liga-ac-milan-ferencvaros-elo/"
+      }
+    ],
+    "published_at": 1793899249,
+    "title_hu": "Európa Liga: AC Milan – Ferencváros (élő)",
+    "lead_hu": "Szezonbeli legnagyobb meccsére készül a Fradi, amely Milánóban okozna meglepetést. Kövesse élőben! The post Európa Liga: AC Milan – Ferencváros (élő) first appeared on 24.hu....",
+    "content_hu": "Szezonbeli legnagyobb meccsére készül a Fradi, amely Milánóban okozna meglepetést. Kövesse élőben! The post Európa Liga: AC Milan – Ferencváros (élő) first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_0ccc7e3daf",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/felperces_hasizom_ero.e1c914cb.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Ezt a félperces gyakorlatot végezd a lapos és feszes hasért: látványosan tónusoz",
+        "link": "https://femina.hu/egeszseg/felperces-hasizom-erosito-gyakorlat-lapos-feszes-has/"
+      }
+    ],
+    "published_at": 1793899200,
+    "title_hu": "Ezt a félperces gyakorlatot végezd a lapos és feszes hasért: látványosan tónusoz",
+    "lead_hu": "Mindössze 30 másodperc, de ne becsüld alá, inkább végezd el mindennap, és győződj meg a pozitív hatásáról!...",
+    "content_hu": "Mindössze 30 másodperc, de ne becsüld alá, inkább végezd el mindennap, és győződj meg a pozitív hatásáról!",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_d88649f287",
+    "category": "Politika",
+    "image": "https://www.youtube.com/embed/-QHg9uGiOCw",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Nagy dobásra készülnek a lakótelepeken: új panelprogram indul, milliókat lehet felújításra nyerni",
+        "link": "https://www.atv.hu/belfold/20261105/panelprogram-2027-felujitas-tamogatas/"
+      }
+    ],
+    "published_at": 1793899080,
+    "title_hu": "Nagy dobásra készülnek a lakótelepeken: új panelprogram indul, milliókat lehet felújításra nyerni",
+    "lead_hu": "Új panelprogram keretében 2030-ig legalább 60 ezer panel- és társasházi lakás újulhat meg a kormány tervei szerint. A lakóközösségek lakásonként 4-5 millió forintos kamatmentes hitelt kaphatnak, amely...",
+    "content_hu": "Új panelprogram keretében 2030-ig legalább 60 ezer panel- és társasházi lakás újulhat meg a kormány tervei szerint. A lakóközösségek lakásonként 4-5 millió forintos kamatmentes hitelt kaphatnak, amelynek akár a fele is vissza nem térítendő támogatássá válhat.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_6add383c7e",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7047/70475/704756/70475663_5199105_fd001fc7b7f1a40a39d372b2db432697_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Rekordot döntött a tőkejövedelem, tarolt Pest megye, Felcsúton mégis nagyot esett a vagyon",
+        "link": "https://index.hu/gazdasag/2026/11/05/gki-tokejovedelem-nav-megtakaritas-befektetes/"
+      }
+    ],
+    "published_at": 1793899020,
+    "title_hu": "Rekordot döntött a tőkejövedelem, tarolt Pest megye, Felcsúton mégis nagyot esett a vagyon",
+    "lead_hu": "Átlagosan 8,3 milliót halmoztak fel....",
+    "content_hu": "Átlagosan 8,3 milliót halmoztak fel.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_8504027885",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7243/72435/724353/72435371_5337883_c3acea462bcc697f511c444f1454598c_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Beer Miklós titkára reagált arra, hogy a nyugalmazott püspök neve bekerült az ügynökaktákba",
+        "link": "https://index.hu/belfold/2026/11/05/beer-miklos-vaci-puspok-reti-jozsef-ugynokaktak-magnesszalag/"
+      }
+    ],
+    "published_at": 1793898960,
+    "title_hu": "Beer Miklós titkára reagált arra, hogy a nyugalmazott püspök neve bekerült az ügynökaktákba",
+    "lead_hu": "Réti József hangsúlyozta, hogy a nyugalmazott váci püspöktől nem találtak jelentést....",
+    "content_hu": "Réti József hangsúlyozta, hogy a nyugalmazott váci püspöktől nem találtak jelentést.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2d05e67d11",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/j/e/g/jeger-867214.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "JÉGER és aszály – szép csendben közzétették a minisztériumi jelentést",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/jeger-es-aszaly-szep-csendben-kozzetettek-a-miniszteriumi-jelentest-874550"
+      }
+    ],
+    "published_at": 1793898780,
+    "title_hu": "JÉGER és aszály – szép csendben közzétették a minisztériumi jelentést",
+    "lead_hu": "Sok elmélet terjedt róla a nyáron, rengeteg követelték is a leállítását, de nem a JÉGER okozta az elmúlt évek aszályait, és az adatok azt sem igazolják, hogy a rendszer 10 százaléknál jobban mérsékeln...",
+    "content_hu": "Sok elmélet terjedt róla a nyáron, rengeteg követelték is a leállítását, de nem a JÉGER okozta az elmúlt évek aszályait, és az adatok azt sem igazolják, hogy a rendszer 10 százaléknál jobban mérsékelné a jégkárokat – állapította a Magyar Tudományos Akadémia friss jelentése. Az MTA szerint a radarmérések alapján a zivatarok jégveszélyessége sem csökkent érdemben a rendszer 2018-as bevezetése óta. Az akadémiai munkacsoport ezért szigorúbb szabályozást javasol, amely előzetes hatástanulmányhoz és engedélyhez kötné az új időjárás-módosító rendszerek működését.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_2785f4c57a",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/am6o_4IrASoVVaN61EcrMSmvzfrI0pn5r0ivO4mNVOU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNhMjdhMGMwMDQ0MTQxMmRiNjIxZmZiODU1ZjA0MTI1.jpg",
@@ -3555,25 +3693,6 @@
     "title_hu": "Amerikai engedélyt kapott a Mol az orosz értékpapírok átruházásának előkészítésére a NIS-ügyletben",
     "lead_hu": "Az ügylet végleges lezárásához külön engedély kell az amerikai pénzügyminisztériumtól.",
     "content_hu": "Az ügylet végleges lezárásához külön engedély kell az amerikai pénzügyminisztériumtól.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_220d17d0fe",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5918c679-4c57-4a6a-b7c5-96b821fefe4d.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Nem támogatja a Médiatanács a reklámadó bevezetését",
-        "link": "https://hvg.hu/gazdasag/20261105_mediatanacs-reklamado-bevezetes"
-      }
-    ],
-    "published_at": 1793897553,
-    "title_hu": "Nem támogatja a Médiatanács a reklámadó bevezetését",
-    "lead_hu": "Azt kérik, hogy az adótörvény-javaslatból törölje az Országgyűlés a reklámadót.",
-    "content_hu": "Azt kérik, hogy az adótörvény-javaslatból törölje az Országgyűlés a reklámadót.",
     "importance_score": 0.0
   },
   {
@@ -13587,101 +13706,6 @@
     "title_hu": "Ügyfélroham és inflációs korrekció: történelmi csúcson a Magyar Telekom nyeresége",
     "lead_hu": "Az elemzői konszenzusra is rávert a Magyar Telekom árbevétele és nettó nyeresége.",
     "content_hu": "Az elemzői konszenzusra is rávert a Magyar Telekom árbevétele és nettó nyeresége.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_29d44e781c",
-    "category": "Politika",
-    "image": "https://cdn.portfolio.hu/articles/images-xl/p/o/r/porcher-aron-866948.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza Párt: \"abszolút az ország érdeke\" az Orbán-kormány által kötött atomenergia-megállapodás",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/tisza-part-abszolut-az-orszag-erdeke-az-orban-kormany-altal-kotott-atomenergia-megallapodas-874324"
-      }
-    ],
-    "published_at": 1793812920,
-    "title_hu": "Tisza Párt: \"abszolút az ország érdeke\" az Orbán-kormány által kötött atomenergia-megállapodás",
-    "lead_hu": "A kis moduláris reaktorokkal (smr) összefüggő, Magyarország és az Amerikai Egyesült Államok közötti, a polgári célú atomenergia-programmal kapcsolatos magyarországi együttműködés elősegítéséről szóló …",
-    "content_hu": "A kis moduláris reaktorokkal (smr) összefüggő, Magyarország és az Amerikai Egyesült Államok közötti, a polgári célú atomenergia-programmal kapcsolatos magyarországi együttműködés elősegítéséről szóló megállapodást vitatta meg szerdai ülésén a parlament.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_7f7e021679",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/GettyImages-53260879.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Idén 100 éve halt meg Houdini – Rajongói minden évben a szellemét várják",
-        "link": "https://femina.hu/terasz/harry-houdini-szelleme-halloween-szeansz/"
-      }
-    ],
-    "published_at": 1793812800,
-    "title_hu": "Idén 100 éve halt meg Houdini – Rajongói minden évben a szellemét várják",
-    "lead_hu": "Száz éve halt meg a legendás szabadulóművész, de rajongói máig remélik, hogy egyszer üzen a túlvilágról. Harry Houdini különös ígéretet hagyott hátra.",
-    "content_hu": "Száz éve halt meg a legendás szabadulóművész, de rajongói máig remélik, hogy egyszer üzen a túlvilágról. Harry Houdini különös ígéretet hagyott hátra.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_fb624d91d7",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Francia külügyminiszter: Nagyon jó hír az amerikai demokrácia számára",
-        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/francia-kulugyminiszter-nagyon-jo-hir-az-amerikai-demokracia-szamara/"
-      }
-    ],
-    "published_at": 1793812758,
-    "title_hu": "Francia külügyminiszter: Nagyon jó hír az amerikai demokrácia számára",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_3a502f09e7",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Így alakult Magyar Péter nagyapjának, Erőss Pálnak a karrierje a Kádár-korszakban",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/igy-alakult-magyar-peter-nagyapjanak-eross-palnak-a-karrierje-a-kadar-korszakban"
-      }
-    ],
-    "published_at": 1793812740,
-    "title_hu": "Így alakult Magyar Péter nagyapjának, Erőss Pálnak a karrierje a Kádár-korszakban",
-    "lead_hu": "Magyar Péter miniszterelnök rendszeresen méltatja nagyapját, Erőss Pált, akit a családi visszaemlékezések az előző rendszerrel szemben álló emberként mutatnak be. A Tűzfalcsoport most korabeli újságci…",
-    "content_hu": "Magyar Péter miniszterelnök rendszeresen méltatja nagyapját, Erőss Pált, akit a családi visszaemlékezések az előző rendszerrel szemben álló emberként mutatnak be. A Tűzfalcsoport most korabeli újságcikkek alapján mutatta be a televízióból is...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_afdbf86a25",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Zéró tolerancia: már novemberben lecsap a NAV a bizalmi vagyonkezelőkre",
-        "link": "https://www.atv.hu/belfold/20261104/zero-tolerancia-nav-vagyonkzelok/"
-      }
-    ],
-    "published_at": 1793812680,
-    "title_hu": "Zéró tolerancia: már novemberben lecsap a NAV a bizalmi vagyonkezelőkre",
-    "lead_hu": "A NAV bejelentése szerint hamarosan indul a bizalmi vagyonkezelések szigorú ellenőrzése.",
-    "content_hu": "A NAV bejelentése szerint hamarosan indul a bizalmi vagyonkezelések szigorú ellenőrzése.",
     "importance_score": 0.0
   },
   {
