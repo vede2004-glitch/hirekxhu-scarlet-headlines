@@ -15,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 from sentence_transformers import SentenceTransformer
 
 # ==============================================================================
-# 1. KONFIGURÁCIÓ (FRISSÍTETT MŰKÖDŐ RSS LINKETK ÉS FEJLÉCEK)
+# 1. KONFIGURÁCIÓ (TELJES ÉS FRISSÍTETT RSS LISTA)
 # ==============================================================================
 RSS_FEEDS = {
     # --- POLITIKA ÉS BELFÖLD ---
@@ -74,11 +74,12 @@ RSS_FEEDS = {
     "NLC (Nők Lapja Café)": "https://nlc.hu/feed/",
     "24.hu - Élet-Stílus": "https://24.hu/elet-stilus/feed/"
 }
-   
+
 MEMORY_FILE = "hirek_memoria.json"
 GROUPED_FILE = "hirek_csoportositott.json"
 ARCHIVE_FILE = "hirek_archivum.json"
 OUTPUT_FILE = "src/data/news.json"
+MANUAL_TOP_FILE = "manual_top.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
 SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
@@ -121,9 +122,6 @@ def get_model():
         _MODEL.to(torch.float32)
     return _MODEL
 
-# ==============================================================================
-# 2. SEGÉDFUNKCIÓK ÉS KATEGÓRIA OSZTÁLYOZÓ
-# ==============================================================================
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
     if pub_parsed:
@@ -176,7 +174,6 @@ def clean_text(text):
     return text
 
 def is_political_text(text):
-    """Szigorú kifejezésellenőrző politika kiszűrésére"""
     text_lower = text.lower()
     for kw in CATEGORIES["Politika"]:
         if re.search(r'\b' + re.escape(kw) + r'\b', text_lower):
@@ -189,14 +186,14 @@ def classify_article(title, summary, source_name):
     if is_political_text(text):
         return "Politika"
 
-    if source_name in ["Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", "Híradó.hu (MTI)", "Magyar Nemzet", "HVG - Itthon", "Telex - Belföld"]:
+    if source_name in ["Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", "Híradó.hu (MTI)", "Magyar Nemzet", "HVG - Itthon", "Telex - Belföld", "Hír TV"]:
         return "Politika"
 
     if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport"]:
         return "Sport"
     if "Gazdaság" in source_name or source_name in ["Portfolio - Gazdaság", "Portfolio - Befektetés", "Világgazdaság"]:
         return "Gazdaság"
-    if source_name in ["Blikk", "Femina", "NLC (Nők Lapja Café)"]:
+    if source_name in ["Blikk", "Bors", "Femina", "Velvet", "Ripost", "NLC (Nők Lapja Café)"]:
         return "Bulvár"
     if "Tech" in source_name or source_name in ["HWSW", "Prohardver", "Rakéta.hu", "PC World"]:
         return "Kultúra"
@@ -284,8 +281,6 @@ def fetch_single_feed(item_and_cutoff):
     
     try:
         response = session.get(feed_url, timeout=12, allow_redirects=True)
-        
-        # Ha a szerver HTTP 403, 500 vagy 503 hibát dob, megpróbáljuk közvetlenül a feedparser-rel beolvasni
         if response.status_code in [403, 500, 503]:
             feed = feedparser.parse(feed_url)
         else:
@@ -298,7 +293,6 @@ def fetch_single_feed(item_and_cutoff):
                 extracted.append(art)
                 
     except Exception:
-        # Fallback közvetlen hálózati megkerülésre
         try:
             feed = feedparser.parse(feed_url)
             for entry in feed.entries:
@@ -310,9 +304,33 @@ def fetch_single_feed(item_and_cutoff):
             
     return extracted
 
-# ==============================================================================
-# 3. CSOPORTOSÍTÁS, ARCHÍVUM MENTÉS ÉS NEWS.JSON BŐVÍTÉS
-# ==============================================================================
+def calculate_importance_score(item):
+    """Intelligens pontozás: több forrás + breaking kulcsszavak + frissesség"""
+    score = 0.0
+    
+    # 1. Források száma (minél többen hozták le, annál fontosabb)
+    sources_count = item.get("sources_count", 1)
+    score += sources_count * 10.0
+
+    # 2. Breaking / Sürgős kulcsszavak a címben vagy leadben
+    text = f"{item.get('title_hu', '')} {item.get('lead_hu', '')}".lower()
+    breaking_keywords = ["rendkívüli", "bejelentés", "friss", "döntés", "kormány", "háború", "katasztrófa", "baleset"]
+    for kw in breaking_keywords:
+        if kw in text:
+            score += 5.0
+
+    # 3. Frissesség súlyozás (az utóbbi órákban publikált cikkek bónuszt kapnak)
+    pub_time = item.get("published_at", 0)
+    age_hours = (time.time() - pub_time) / 3600.0
+    if age_hours < 3:
+        score += 15.0
+    elif age_hours < 6:
+        score += 8.0
+    elif age_hours < 12:
+        score += 3.0
+
+    return score
+
 def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n[{now_str}] 🔄 Magyar hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
@@ -473,8 +491,6 @@ def run_pipeline():
         if "sources" in item and isinstance(item["sources"], list):
             item["sources_count"] = len(item["sources"])
 
-    valid_news_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
-
     # STAGE 4: KÉTLÉPCSŐS FELÜLELLENŐRZÉS (POLITIKAI FELÜLBÍRÁLÁS)
     verified_list = []
     for item in valid_news_list:
@@ -488,10 +504,36 @@ def run_pipeline():
 
         verified_list.append(item)
 
+    # INTELLIGENS SÚLYOZÁS ALAPJÁRÓL RENDSZEREZÉS
+    for item in verified_list:
+        item["importance_score"] = calculate_importance_score(item)
+
+    verified_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
+
+    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE
+    manual_top_data = load_json_file(MANUAL_TOP_FILE)
+    forced_group_id = None
+    if isinstance(manual_top_data, dict):
+        forced_group_id = manual_top_data.get("group_id")
+
+    final_sorted_list = []
+    forced_item = None
+
+    for item in verified_list:
+        if forced_group_id and item.get("group_id") == forced_group_id:
+            forced_item = item
+        else:
+            final_sorted_list.append(item)
+
+    if forced_item:
+        final_sorted_list.insert(0, forced_item)
+        print(f"👑 Kézi kiemelés aktiválva a(z) {forced_group_id} azonosítójú hírhez!")
+
+    # Forrás egyensúlyozás (ne legyen ugyanaz a portál 3-szor egymás után)
     balanced_list = []
     skipped_items = []
 
-    for item in verified_list:
+    for item in final_sorted_list:
         item_source = item.get("sources", [{}])[0].get("source")
         if (
             len(balanced_list) >= 2 
@@ -505,7 +547,7 @@ def run_pipeline():
     final_list = balanced_list + skipped_items
 
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ Magyar hírfrissítés kész! Megőrizve, ellenőrizve és elmentve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
+    print(f"⚡ Magyar hírfrissítés kész! Súlyozva, rendezve és elmentve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
