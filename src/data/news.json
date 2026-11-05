@@ -1258,37 +1258,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_d8ea52a7e4",
-    "fingerprint": "aa9c2b6a475b9d98463645c5cf895fb6",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/s/z/dszzs20260929018-867126.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Lezsákon kívül még több tucat megfigyelt adatait hozták tévesen nyilvánosságra",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/lezsakon-kivul-meg-tobb-tucat-megfigyelt-adatait-hoztak-tevesen-nyilvanossagra-874486"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Lezsákkal együtt 160 megfigyelt neve is nyilvánosságra került",
-        "link": "https://hvg.hu/itthon/20261105_abtl-lezsak-sandor-160-megfigyelt-nyilvanossag-lista"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Lezsák Sándorral együtt 160 megfigyelt neve kerülhetett nyilvánosságra",
-        "link": "https://index.hu/belfold/2026/11/05/ugynokaktak-lezsak-sandor-allambiztonsagi-szolgalatok-torteneti-leveltara-informatikai-hiba/"
-      }
-    ],
-    "published_at": 1793890500,
-    "title_hu": "Lezsák mellett további 163 megfigyelt neve is tévesen került nyilvánosságra",
-    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára szerint Lezsák Sándor mellett további 163 megfigyelt adata kerülhetett tévesen az ügynökadatbázisba; az érintett adatokat azóta eltávolították. A hiba a mágnesszalagok feldolgozásakor történt, a levéltár pedig azt is ellenőrzi, előfordult-e más tévesztés a nyilvánosságra hozott mintegy 60 ezer név között.",
-    "content_hu": "• **Mintegy 160 tévesen közzétett név** Lezsák Sándoron kívül további 163 megfigyelt neve kerülhetett az adatbázisba, így összesen 164 embert érinthetett az incidens. Az érintett adatokat eltávolították.\n\n• **A hiba csak a mágnesszalagok feldolgozását érintette** A mintegy 60 ezer nyilvánosságra hozott név között a 6-os kartonok és a beszervezési naplók adatai nem érintettek; a probléma a hálózati nyilvántartást tartalmazó H-adattárnál merült fel.\n\n• **Nem tagolt Excel-táblából készült az adatbázis** A levéltár október elején kapta meg az adatokat az Alkotmányvédelmi Hivataltól, egy olyan táblázatban, amelyben a nevek, fedőnevek és más személyes adatok egy mezőben szerepeltek. Ezek szétválasztásakor kezelték hibásan az 05-ös, megfigyelteket jelölő kódot.\n\n• **A levéltár további tévesztéseket is keres** Cseh Gergő Bendegúz főigazgató vállalta a felelősséget, és azt mondta, a mintegy 60 ezer név között is alaposan ellenőrzik az adatokat. A lemondása kérdésében a hiba elhárítása után kíván visszatérni rá.\n\n• **Politikai követelések és bocsánatkérés** A Fidesz Magyar Péter bocsánatkérését, az ügynökakták keresőoldalának elérhetetlenné tételét és Tarr Zoltán lemondását követelte. A miniszterelnök nyilvánosan bocsánatot kért Lezsáktól; a levéltárhoz érkezett több száz e-mail feldolgozása folyamatban van, de hasonló téves besorolás miatti panaszról egyelőre nem tudnak.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_62eb0182cc",
     "fingerprint": "53f4ec2959075df806d5c8fe79a09a49",
     "category": "Politika",
@@ -1361,32 +1330,6 @@
     "importance_score": 43.0
   },
   {
-    "group_id": "group_aa2c22c738",
-    "fingerprint": "aef9e1d3974ca2367bab967b8bacff12",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/_/n/d-noe20261102002-866686.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza-kormány: kereshetővé váltak az ügynökakták, rács mögött marad Bús Balázs",
-        "link": "https://www.portfolio.hu/gazdasag/20261104/tisza-kormany-kereshetove-valtak-az-ugynokaktak-racs-mogott-marad-bus-balazs-874106"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Ügynökakták: a Mi Hazánk szerint történelmi esélyt szalasztott el a Tisza-kormány",
-        "link": "https://24.hu/belfold/2026/11/05/ugynokaktak-fidesz-kritika-mi-hazank/"
-      }
-    ],
-    "published_at": 1793890339,
-    "title_hu": "Bírálatok kereszttüzébe került az ügynökakták nyilvánosságra hozatala",
-    "lead_hu": "A rendszerváltás előtti állambiztonsági nyilvántartások nyilvánosságra hozatala után a Mi Hazánk szerint a kormány történelmi lehetőséget szalasztott el az iratok közzétételének módjával. A párt hiányosnak és félrevezetőnek tartja az adatbázist, miközben a források arra is figyelmeztetnek, hogy egy nyilvántartási karton önmagában nem bizonyít tényleges ügynöki tevékenységet.",
-    "content_hu": "• **A közzététel bírálata** Dócs Dávid, a Mi Hazánk alelnöke szerint a kormány történelmi esélyt szalasztott el: úgy véli, az iratok feltárására évtizedekkel korábban, a társadalom felkészítését követően kellett volna sort keríteni.\n\n• **Hiányos adatbázis** A politikus kifogásolta, hogy szerinte olyan embereket is beszervezettként tüntethettek fel, akiket valójában megfigyeltek, miközben operatív és tartótiszti akták nem kerültek nyilvánosságra. Horn Gyula és Medgyessy Péter nevének hiányát is szóvá tette.\n\n• **Óvatosságra intő körülmény** A nyilvántartásban való szereplés önmagában nem bizonyítja, hogy az érintett jelentéseket készített vagy érdemben együttműködött a titkosszolgálattal; a teljes képhez további iratok és történészi vizsgálat szükséges.\n\n• **További politikai bírálat** A Fidesz korábban szintén kifogásolta az eljárást, azzal vádolva a kormányt, hogy összemossa az elkövetőket az áldozatokkal.",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_d59684dd5a",
     "fingerprint": "898f968f1dbac969193c99a3efb6a687",
     "category": "Politika",
@@ -1421,6 +1364,37 @@
     "lead_hu": "A Magyar Katolikus Püspöki Konferencia bocsánatot kért az áldozatoktól és hozzátartozóiktól azoknak az egyházi személyeknek a nevében, akik bizalmas információkat adtak át a pártállamnak. A testület az ügynökakták értelmezésekor óvatosságra intett, és felidézte az egyházat ért kommunista üldöztetést is.",
     "content_hu": "• **Bocsánatkérés** A püspöki konferencia az áldozatoktól és hozzátartozóiktól kért bocsánatot azoknak az egyházi személyeknek a nevében, akik bizalmas információkat juttattak el a pártállamnak.\n\n• **Eltérő történetek** A nyilatkozat szerint egyeseket megkínoztak vagy megzsaroltak, mások semmitmondó jelentéseket adtak le, és olyanok is szerepelnek az aktákban, akiket megpróbáltak beszervezni, de nem sikerült.\n\n• **Hiányos iratok** A dokumentumok egy részét korábban megsemmisítették, így a fennmaradt akták nem adnak teljes képet.\n\n• **Az egyház üldöztetése** A püspöki konferencia felidézte, hogy a kommunista diktatúra idején több mint száz papot és szerzetest öltek meg, mintegy kétezren kerültek börtönbe vagy kényszerlakhelyre, a szerzetesrendek működését pedig betiltották. Egyházi iskolákat államosítottak, közösségeket és mozgalmakat oszlattak fel.\n\n• **A felelősség kérdése** Az egyik új forrás szerint az állásfoglalás a beszervezett személyek mellett a tartótisztek és a pártállam vezetőinek felelősségére is felhívja a figyelmet.\n\n• **Óvatosságra intés** A püspökök szerint az akták megismerése segítheti a múlt feldolgozását, de nem vezethet leegyszerűsítő ítéletekhez vagy egyes emberek tönkretételéhez. A megbékéléshez a beismerést, a megbocsátást és az irgalmat tartják szükségesnek.\n\n• **Beer Miklós neve az iratokban** A Telex beszámolója szerint a szerdán nyilvánosságra hozott iratok között Beer Miklós nyugalmazott püspök neve is szerepel. A rendszerben talált karton 1988-as beszervezést és a Dunai Gábor fedőnevet tünteti fel; Beer elmondása szerint nem tudott arról, hogy hálózati személyként tartották nyilván.\n\n• **Kiss-Rigó László ügyében korábban ítélet született** A Szeged-Csanádi Egyházmegye közlése szerint a püspök beszervezéséről szóló híresztelések valótlanok. Egy 2009-es jogerős bírósági döntés megállapította, hogy a 6-os karton önmagában nem bizonyította ügynöki foglalkoztatását; a bíróság szerint beszervezésére történtek próbálkozások, de azok nem jártak sikerrel.",
     "importance_score": 40.0
+  },
+  {
+    "group_id": "group_d8ea52a7e4",
+    "fingerprint": "aa9c2b6a475b9d98463645c5cf895fb6",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/s/z/dszzs20260929018-867126.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Lezsákon kívül még több tucat megfigyelt adatait hozták tévesen nyilvánosságra",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/lezsakon-kivul-meg-tobb-tucat-megfigyelt-adatait-hoztak-tevesen-nyilvanossagra-874486"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Lezsákkal együtt 160 megfigyelt neve is nyilvánosságra került",
+        "link": "https://hvg.hu/itthon/20261105_abtl-lezsak-sandor-160-megfigyelt-nyilvanossag-lista"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Lezsák Sándorral együtt 160 megfigyelt neve kerülhetett nyilvánosságra",
+        "link": "https://index.hu/belfold/2026/11/05/ugynokaktak-lezsak-sandor-allambiztonsagi-szolgalatok-torteneti-leveltara-informatikai-hiba/"
+      }
+    ],
+    "published_at": 1793890500,
+    "title_hu": "Lezsák mellett további 163 megfigyelt neve is tévesen került nyilvánosságra",
+    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára szerint Lezsák Sándor mellett további 163 megfigyelt adata kerülhetett tévesen az ügynökadatbázisba; az érintett adatokat azóta eltávolították. A hiba a mágnesszalagok feldolgozásakor történt, a levéltár pedig azt is ellenőrzi, előfordult-e más tévesztés a nyilvánosságra hozott mintegy 60 ezer név között.",
+    "content_hu": "• **Mintegy 160 tévesen közzétett név** Lezsák Sándoron kívül további 163 megfigyelt neve kerülhetett az adatbázisba, így összesen 164 embert érinthetett az incidens. Az érintett adatokat eltávolították.\n\n• **A hiba csak a mágnesszalagok feldolgozását érintette** A mintegy 60 ezer nyilvánosságra hozott név között a 6-os kartonok és a beszervezési naplók adatai nem érintettek; a probléma a hálózati nyilvántartást tartalmazó H-adattárnál merült fel.\n\n• **Nem tagolt Excel-táblából készült az adatbázis** A levéltár október elején kapta meg az adatokat az Alkotmányvédelmi Hivataltól, egy olyan táblázatban, amelyben a nevek, fedőnevek és más személyes adatok egy mezőben szerepeltek. Ezek szétválasztásakor kezelték hibásan az 05-ös, megfigyelteket jelölő kódot.\n\n• **A levéltár további tévesztéseket is keres** Cseh Gergő Bendegúz főigazgató vállalta a felelősséget, és azt mondta, a mintegy 60 ezer név között is alaposan ellenőrzik az adatokat. A lemondása kérdésében a hiba elhárítása után kíván visszatérni rá.\n\n• **Politikai követelések és bocsánatkérés** A Fidesz Magyar Péter bocsánatkérését, az ügynökakták keresőoldalának elérhetetlenné tételét és Tarr Zoltán lemondását követelte. A miniszterelnök nyilvánosan bocsánatot kért Lezsáktól; a levéltárhoz érkezett több száz e-mail feldolgozása folyamatban van, de hasonló téves besorolás miatti panaszról egyelőre nem tudnak.",
+    "importance_score": 38.0
   },
   {
     "group_id": "group_8599106235",
@@ -1747,6 +1721,32 @@
     "lead_hu": "A Pest Vármegyei Kormányhivatal higiéniai és élelmiszer-biztonsági hiányosságok, köztük jelentős rágcsálószennyezettség miatt felfüggesztette a Semmelweis Egyetem étkeztetését végző Gasztvitál-csoport Balassa utcai főzőkonyhájának három helyiségét. Az egyetem szerint a klinikai étkeztetés zavartalan, megbetegedésről sem az intézmény, sem a hatóság nem tud. Az egyetem napi belső ellenőrzést vezetett be, a Gasztvitál szerződése pedig hamarosan lejár.",
     "content_hu": "• **Október 12-i ellenőrzés** A kormányhivatal élelmiszer-biztonsági felügyelői jelentős rágcsálószennyezettséget és további higiéniai problémákat tártak fel, ezért még aznap elrendelték egyes helyiségek használatának felfüggesztését.\n\n• **Három helyiség érintett** A korlátozás a gluténmentes konyhára, az a la carte ételek kiadására szolgáló helyiségre, valamint a kis étkezésekhez használt krémek készítőhelyiségére vonatkozik.\n\n• **A lezárás a hibák kijavításáig tart** A Gasztvitál-csoportnak igazolnia kell a hiányosságok megszüntetését; a hatóság eljárást is indított az üzemeltetővel szemben.\n\n• **Az étkeztetés zavartalan** A Semmelweis Egyetem közlése szerint a részleges lezárás nem okoz fennakadást a klinikai étkeztetésben és a betegellátásban. Sem az egyetem, sem a kormányhivatal nem tud a higiéniai helyzettel összefüggő megbetegedésről vagy fertőzésről.\n\n• **Napi belső ellenőrzés** Az egyetem a jegyzőkönyv kézhezvétele után, október 13-án azonnali hatállyal felszólította a Gasztvitált a szerződésszegő állapot megszüntetésére. A vizsgálat óta napi szintű belső minőségellenőrzést tartanak a konyhán.\n\n• **Napi több ezer adag étel** A Gasztvitál 2024-ben vette át az egyetem étkeztetését. A Balassa utcai főzőkonyha és étterem mellett a Pető András Kar éttermét és az Elméleti Orvostudományi Központ büféjét is működteti; naponta átlagosan mintegy kétezer adag ételt készít a betegeknek, és körülbelül ezer dolgozó ebédjéről gondoskodik.\n\n• **Hamarosan lejár a szerződés** A Gasztvitállal kötött határozott idejű szerződés hamarosan lejár, az egyetem pedig várhatóan még idén kiírja az új közbeszerzést.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_aa2c22c738",
+    "fingerprint": "aef9e1d3974ca2367bab967b8bacff12",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/_/n/d-noe20261102002-866686.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: kereshetővé váltak az ügynökakták, rács mögött marad Bús Balázs",
+        "link": "https://www.portfolio.hu/gazdasag/20261104/tisza-kormany-kereshetove-valtak-az-ugynokaktak-racs-mogott-marad-bus-balazs-874106"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ügynökakták: a Mi Hazánk szerint történelmi esélyt szalasztott el a Tisza-kormány",
+        "link": "https://24.hu/belfold/2026/11/05/ugynokaktak-fidesz-kritika-mi-hazank/"
+      }
+    ],
+    "published_at": 1793890339,
+    "title_hu": "Bírálatok kereszttüzébe került az ügynökakták nyilvánosságra hozatala",
+    "lead_hu": "A rendszerváltás előtti állambiztonsági nyilvántartások nyilvánosságra hozatala után a Mi Hazánk szerint a kormány történelmi lehetőséget szalasztott el az iratok közzétételének módjával. A párt hiányosnak és félrevezetőnek tartja az adatbázist, miközben a források arra is figyelmeztetnek, hogy egy nyilvántartási karton önmagában nem bizonyít tényleges ügynöki tevékenységet.",
+    "content_hu": "• **A közzététel bírálata** Dócs Dávid, a Mi Hazánk alelnöke szerint a kormány történelmi esélyt szalasztott el: úgy véli, az iratok feltárására évtizedekkel korábban, a társadalom felkészítését követően kellett volna sort keríteni.\n\n• **Hiányos adatbázis** A politikus kifogásolta, hogy szerinte olyan embereket is beszervezettként tüntethettek fel, akiket valójában megfigyeltek, miközben operatív és tartótiszti akták nem kerültek nyilvánosságra. Horn Gyula és Medgyessy Péter nevének hiányát is szóvá tette.\n\n• **Óvatosságra intő körülmény** A nyilvántartásban való szereplés önmagában nem bizonyítja, hogy az érintett jelentéseket készített vagy érdemben együttműködött a titkosszolgálattal; a teljes képhez további iratok és történészi vizsgálat szükséges.\n\n• **További politikai bírálat** A Fidesz korábban szintén kifogásolta az eljárást, azzal vádolva a kormányt, hogy összemossa az elkövetőket az áldozatokkal.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_cba6dc8eda",
@@ -2457,32 +2457,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_fb1c2dc91d",
-    "fingerprint": "a2051a35ff47917ef9a27b1c29dcef14",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/99eff34e-eda7-45b2-8540-cfa27265cc36.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Még Trump se mondhatja, hogy elcsalták, akkorát buktak – Fülke",
-        "link": "https://hvg.hu/vilag/20261104_meg-trump-se-mondhatja-hogy-elcsaltak-akkorat-buktak-fulke"
-      },
-      {
-        "source": "444.hu",
-        "title": "A világ nem dőlhet hátra a félidős választások után sem, de lesznek eszközök Trump külföldi akcióinak megfékezésére",
-        "link": "https://444.hu/2026/11/05/a-vilag-nem-dolhet-hatra-a-felidos-valasztasok-utan-sem-de-lesznek-eszkozok-trump-kulfoldi-akcioinak-megfekezesere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793879475,
-    "title_hu": "Történelmi republikánus bukás: Trump külpolitikai mozgástere megmaradhat",
-    "lead_hu": "A demokraták félidős választási sikere korlátozhatja Trump belpolitikai mozgásterét, de nem jelenti azt, hogy az elnök a külpolitikában is tehetetlenné válik. Elemzők szerint a kongresszusi nyomás és a politikai következményektől való kisebb félelem kiszámíthatatlanabb nemzetközi lépésekhez vezethet. Európai vezetőknek sem érdemes arra számítaniuk, hogy két év múlva automatikusan visszatér a régi rend.",
-    "content_hu": "• **Demokrata áttörés** A demokraták a képviselőházi, szenátusi és kormányzói versenyeken is több győzelmet arattak. Az AP előrejelzése szerint Dél-Karolinában, Kansasben és Texasban is republikánus szenátusi helyeket szereztek meg, így a szenátusi többség is a kezükbe kerülhet.\n\n• **Ritka, történelmi fordulat** Az 50 év óta mindössze harmadik alkalommal fordulhat elő, hogy egyetlen választással mindkét kongresszusi házban pártot vált a többség. 2006 óta nem történt olyan, hogy a republikánusok mindkét házban vereséget szenvedjenek.\n\n• **A választók Trumpot és a kongresszust is elmarasztalták** A CNN exit pollja szerint a megkérdezettek több mint 70 százaléka úgy vélte, hogy a republikánus többségű kongresszus nem ellenőrizte megfelelően az elnököt; hasonló arányban mondták azt is, hogy rossz irányba halad az amerikai gazdaság. A demokraták országos népszavazássá tették a választást Trump személyéről és politikájáról.\n\n• **Gazdasági elégedetlenség és külpolitikai bírálatok** Az exit pollok szerint a megélhetési költségek és a kormányzati korrupció miatti aggodalmak voltak a választók legfontosabb problémái. A beszámolók az iráni háborút és Trump vámintézkedéseit is az árak, köztük a benzin- és dízelárak emelkedésével kapcsolják össze; a háború eltávolíthatta az elnöktől azokat a támogatókat, akik az újabb külföldi konfliktusok elkerülését várták tőle.\n\n• **A republikánusok nem fékezték meg Trumpot** A párt képviselői közül sokan nem támogatták az iráni háborút elítélő határozatot, nem léptek fel élesen a vámok ellen, és az Epstein-akták nyilvánosságáról szóló képviselőházi határozat napirendre tűzéséhez is kevés republikánus állt ki. Az exit pollok szerint a választók jelentős része hiányolta az elnöki hatalom kongresszusi ellensúlyozását.\n\n• **Trump támogatottsága mélyponton volt** A New York Times által idézett adat szerint az elnök országos támogatottsága 40 százalék körül állt; ilyen alacsony mutatóval az elmúlt nyolcvan évben egyetlen elnök sem vágott neki félidős választásnak.\n\n• **Trump személyes szerepvállalása sem segített** Elon Musk több mint 200 millió dollárt költött egy republikánus jelölt támogatására, de ez nem fordította meg az eredményt. Trump által kiválasztott jelöltek Texasban és Dél-Karolinában is vereséget szenvedtek; a beszámolók szerint az elnök kampányszereplése és a jelöltek hozzá kötöttsége sem tudta kellően mozgósítani a választókat.\n\n• **Történelmi választási eredmények** New Hampshire-ben a demokrata Chris Pappas lett az első nyíltan meleg férfi, akit az amerikai szenátusba választottak. Illinoisban Juliana Stratton győzelmével először szolgál majd egyszerre három fekete nő a szenátusban.\n\n• **Trump hárította a felelősséget, de elfogadást ígért** Az elnök azt írta, hogy ha ő is szerepelt volna a szavazólapon, a republikánusok földcsuszamlásszerű győzelmet arattak volna. A vesztes jelölteket lojalitásuk és gyenge kampányuk miatt hibáztatta, miközben a Fox News közvélemény-kutatásait és tudósításait is támadta. Azt is mondta, hogy elfogadja az eredményeket, és bizonyos ügyekben együttműködhet a demokratákkal.\n\n• **Repedések a Republikánus Pártban** A vereség után Trump és a republikánus jelöltek egymást hibáztatták. A párton belül egyre többen távolodhatnak el az elnöktől, és olyan irányt kereshetnek, amely megtartja a MAGA-mozgalom egyes politikai elveit, de szakít Trump stílusával. Elemzők szerint az elnök támogatói fölötti korábbi befolyása is meggyengülhet.\n\n• **Trump vétóval fenyegetett** Az elnök a demokraták kongresszusi többségére reagálva azt mondta, hogy megvétózza az általa elfogadhatatlannak tartott javaslatokat, és „Mr. Veto”-ként hivatkozott magára. A kongresszus törvényeit az elnöki vétót csak kétharmados többséggel írhatja felül, ezért a törvényhozási patthelyzet valószínű.\n\n• **Vizsgálatok és politikai patthelyzet jöhet** A demokrata többség vizsgálatokat és idézéseket tehet lehetővé, valamint akadályozhatja Trump törvényhozási programját. Az elnök rendeletekkel továbbra is kormányozhat, a kongresszus befolyása pedig a külpolitikában korlátozottabb.\n\n• **Jogi csatározások lehetősége** A szoros körzetekben csalásvádak, perek és újraszámlálások követhetik az eredményeket, egyes mandátumok sorsa pedig akár bíróság elé is kerülhet. Trump egymillió dolláros jutalmat ígért azoknak, akik választási csalást tárnak fel.\n\n• **A vereség nem dönti el a 2028-as elnökválasztást** A demokraták félidős sikere önmagában nem jelenti azt, hogy két év múlva automatikusan elnyerik az elnökséget. A republikánusok addig még visszaerősödhetnek, de a következő időszakban úgy kell kormányozniuk, hogy a demokrata többség korlátozhatja Trump törvényhozási mozgásterét.\n\n• **Trump külpolitikai mozgástere megmaradhat** A kongresszusi vereség ellenére az elnök végrehajtói hatalma a külpolitikában jelentős marad. Elemzők szerint a demokraták által indított vizsgálatok és eljárások sarokba szoríthatják Trumpot, ami növelheti a kiszámíthatatlan nemzetközi lépések kockázatát.\n\n• **Irán lehet a külpolitikai feszültség középpontjában** Trump az iráni háború és a magas benzinár szerepét is elismerte a republikánusok vereségében, JD Vance alelnök pedig azt mondta, hogy a háború miatt vesztettek. A beszámolók szerint Trump mégis fontolóra veheti az Irán elleni légicsapások újraindítását; ez megtorló támadásokhoz és az olajárak további emelkedéséhez vezethet. Egy sok áldozattal járó szárazföldi inváziónak a republikánus táborban sincs elegendő támogatottsága.\n\n• **A vereség után Trumpot kevésbé köthetik a politikai következmények** Mivel Trump már nem indulhat újra az elnökségért, és a republikánus párt jövője a beszámoló szerint kevéssé foglalkoztatja, a választási eredmény után kevésbé tarthat attól, hogy tettei a saját újraválasztási esélyeit veszélyeztetik.\n\n• **Európai politikusok is üdvözölték a republikánusok vereségét** Pedro Sánchez spanyol miniszterelnök a megélhetési költségek növekedését, a gyűlöletpolitikát és a klímaváltozás tagadását bírálta, Radosław Sikorski lengyel külügyminiszter pedig Elon Musk költekezésére utalva jegyezte meg, hogy a politika nem pusztán pénzkérdés. Donald Tusk és a brit Andy Burnham is reagált az eredményre; utóbbi Trumpot hibáztatta a megélhetési költségek emelkedéséért.\n\n• **Európa nem számíthat automatikusan a régi rend visszatérésére** Az elemzés arra figyelmeztet, hogy tévednek azok a külföldi vezetők, akik úgy gondolják, elég két évet átvészelni, és utána az amerikai politika visszatér a korábbi kerékvágásba. A választási eredmény nem szünteti meg Trump külpolitikai hatalmát, és a következő időszak kiszámíthatatlansága tartós következményekkel járhat.\n\n• **A sarokba szorított Trump nemzetközi ellenlépésekhez folyamodhat** Daniel W. Drezner és Elizabeth N. Saunders Foreign Affairsben megjelent elemzése szerint korábbi amerikai elnökök is a külpolitika felé fordultak hasonló belpolitikai helyzetben. Úgy érvelnek, hogy a demokrata többség és az esetleges eljárások miatt sarokba szorított Trump konstruktív külpolitikai eszközök híján nemzetközi ellenlépésekkel vezetheti le a feszültséget.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_37b9fa5a95",
     "fingerprint": "dba957d7c5180e9bc49fb68b02bbb7df",
     "category": "Politika",
@@ -2761,6 +2735,32 @@
     "lead_hu": "JD Vance amerikai alelnök szerint nem a republikánus szavazók alacsony részvétele, hanem az okozta a párt félidős választási vereségét, hogy sok korábbi Trump-szavazó a demokratákra voksolt. Vance az iráni háborút nevezte meg fő okként, és a megélhetési költségek csökkentését is sürgette.",
     "content_hu": "• **A szavazók elpártolása** Vance szerint a republikánusok vereségét nem elsősorban a távolmaradás, hanem az okozta, hogy sok, 2024-ben Trumpot támogató választó ezúttal a demokratákra szavazott.\n\n• **Az iráni háború** Az alelnök a konfliktust nevezte meg a vereség fő okaként. Donald Trump is elismerte, hogy a háború szerepet játszhatott az eredményben, de továbbra is védelmébe vette a fellépést.\n\n• **Négy terület a támogatottság visszaszerzéséhez** Vance szerint a republikánusoknak le kell zárniuk a háborút, csökkenteniük kell a megélhetési költségeket, előtérbe kell helyezniük az „Amerika az első” politikát, és át kell alakítaniuk az Egyesült Államok Izraelhez fűződő kapcsolatát.\n\n• **Gazdasági elégedetlenség** Vance elismerte, hogy a republikánusok gazdasági üzenetei nem voltak elég meggyőzőek. A választói elégedetlenségben a magas megélhetési költségek és Trump vámintézkedései is szerepet játszhattak.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_fb1c2dc91d",
+    "fingerprint": "a2051a35ff47917ef9a27b1c29dcef14",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/99eff34e-eda7-45b2-8540-cfa27265cc36.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Még Trump se mondhatja, hogy elcsalták, akkorát buktak – Fülke",
+        "link": "https://hvg.hu/vilag/20261104_meg-trump-se-mondhatja-hogy-elcsaltak-akkorat-buktak-fulke"
+      },
+      {
+        "source": "444.hu",
+        "title": "A világ nem dőlhet hátra a félidős választások után sem, de lesznek eszközök Trump külföldi akcióinak megfékezésére",
+        "link": "https://444.hu/2026/11/05/a-vilag-nem-dolhet-hatra-a-felidos-valasztasok-utan-sem-de-lesznek-eszkozok-trump-kulfoldi-akcioinak-megfekezesere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793879475,
+    "title_hu": "Történelmi republikánus bukás: Trump külpolitikai mozgástere megmaradhat",
+    "lead_hu": "A demokraták félidős választási sikere korlátozhatja Trump belpolitikai mozgásterét, de nem jelenti azt, hogy az elnök a külpolitikában is tehetetlenné válik. Elemzők szerint a kongresszusi nyomás és a politikai következményektől való kisebb félelem kiszámíthatatlanabb nemzetközi lépésekhez vezethet. Európai vezetőknek sem érdemes arra számítaniuk, hogy két év múlva automatikusan visszatér a régi rend.",
+    "content_hu": "• **Demokrata áttörés** A demokraták a képviselőházi, szenátusi és kormányzói versenyeken is több győzelmet arattak. Az AP előrejelzése szerint Dél-Karolinában, Kansasben és Texasban is republikánus szenátusi helyeket szereztek meg, így a szenátusi többség is a kezükbe kerülhet.\n\n• **Ritka, történelmi fordulat** Az 50 év óta mindössze harmadik alkalommal fordulhat elő, hogy egyetlen választással mindkét kongresszusi házban pártot vált a többség. 2006 óta nem történt olyan, hogy a republikánusok mindkét házban vereséget szenvedjenek.\n\n• **A választók Trumpot és a kongresszust is elmarasztalták** A CNN exit pollja szerint a megkérdezettek több mint 70 százaléka úgy vélte, hogy a republikánus többségű kongresszus nem ellenőrizte megfelelően az elnököt; hasonló arányban mondták azt is, hogy rossz irányba halad az amerikai gazdaság. A demokraták országos népszavazássá tették a választást Trump személyéről és politikájáról.\n\n• **Gazdasági elégedetlenség és külpolitikai bírálatok** Az exit pollok szerint a megélhetési költségek és a kormányzati korrupció miatti aggodalmak voltak a választók legfontosabb problémái. A beszámolók az iráni háborút és Trump vámintézkedéseit is az árak, köztük a benzin- és dízelárak emelkedésével kapcsolják össze; a háború eltávolíthatta az elnöktől azokat a támogatókat, akik az újabb külföldi konfliktusok elkerülését várták tőle.\n\n• **A republikánusok nem fékezték meg Trumpot** A párt képviselői közül sokan nem támogatták az iráni háborút elítélő határozatot, nem léptek fel élesen a vámok ellen, és az Epstein-akták nyilvánosságáról szóló képviselőházi határozat napirendre tűzéséhez is kevés republikánus állt ki. Az exit pollok szerint a választók jelentős része hiányolta az elnöki hatalom kongresszusi ellensúlyozását.\n\n• **Trump támogatottsága mélyponton volt** A New York Times által idézett adat szerint az elnök országos támogatottsága 40 százalék körül állt; ilyen alacsony mutatóval az elmúlt nyolcvan évben egyetlen elnök sem vágott neki félidős választásnak.\n\n• **Trump személyes szerepvállalása sem segített** Elon Musk több mint 200 millió dollárt költött egy republikánus jelölt támogatására, de ez nem fordította meg az eredményt. Trump által kiválasztott jelöltek Texasban és Dél-Karolinában is vereséget szenvedtek; a beszámolók szerint az elnök kampányszereplése és a jelöltek hozzá kötöttsége sem tudta kellően mozgósítani a választókat.\n\n• **Történelmi választási eredmények** New Hampshire-ben a demokrata Chris Pappas lett az első nyíltan meleg férfi, akit az amerikai szenátusba választottak. Illinoisban Juliana Stratton győzelmével először szolgál majd egyszerre három fekete nő a szenátusban.\n\n• **Trump hárította a felelősséget, de elfogadást ígért** Az elnök azt írta, hogy ha ő is szerepelt volna a szavazólapon, a republikánusok földcsuszamlásszerű győzelmet arattak volna. A vesztes jelölteket lojalitásuk és gyenge kampányuk miatt hibáztatta, miközben a Fox News közvélemény-kutatásait és tudósításait is támadta. Azt is mondta, hogy elfogadja az eredményeket, és bizonyos ügyekben együttműködhet a demokratákkal.\n\n• **Repedések a Republikánus Pártban** A vereség után Trump és a republikánus jelöltek egymást hibáztatták. A párton belül egyre többen távolodhatnak el az elnöktől, és olyan irányt kereshetnek, amely megtartja a MAGA-mozgalom egyes politikai elveit, de szakít Trump stílusával. Elemzők szerint az elnök támogatói fölötti korábbi befolyása is meggyengülhet.\n\n• **Trump vétóval fenyegetett** Az elnök a demokraták kongresszusi többségére reagálva azt mondta, hogy megvétózza az általa elfogadhatatlannak tartott javaslatokat, és „Mr. Veto”-ként hivatkozott magára. A kongresszus törvényeit az elnöki vétót csak kétharmados többséggel írhatja felül, ezért a törvényhozási patthelyzet valószínű.\n\n• **Vizsgálatok és politikai patthelyzet jöhet** A demokrata többség vizsgálatokat és idézéseket tehet lehetővé, valamint akadályozhatja Trump törvényhozási programját. Az elnök rendeletekkel továbbra is kormányozhat, a kongresszus befolyása pedig a külpolitikában korlátozottabb.\n\n• **Jogi csatározások lehetősége** A szoros körzetekben csalásvádak, perek és újraszámlálások követhetik az eredményeket, egyes mandátumok sorsa pedig akár bíróság elé is kerülhet. Trump egymillió dolláros jutalmat ígért azoknak, akik választási csalást tárnak fel.\n\n• **A vereség nem dönti el a 2028-as elnökválasztást** A demokraták félidős sikere önmagában nem jelenti azt, hogy két év múlva automatikusan elnyerik az elnökséget. A republikánusok addig még visszaerősödhetnek, de a következő időszakban úgy kell kormányozniuk, hogy a demokrata többség korlátozhatja Trump törvényhozási mozgásterét.\n\n• **Trump külpolitikai mozgástere megmaradhat** A kongresszusi vereség ellenére az elnök végrehajtói hatalma a külpolitikában jelentős marad. Elemzők szerint a demokraták által indított vizsgálatok és eljárások sarokba szoríthatják Trumpot, ami növelheti a kiszámíthatatlan nemzetközi lépések kockázatát.\n\n• **Irán lehet a külpolitikai feszültség középpontjában** Trump az iráni háború és a magas benzinár szerepét is elismerte a republikánusok vereségében, JD Vance alelnök pedig azt mondta, hogy a háború miatt vesztettek. A beszámolók szerint Trump mégis fontolóra veheti az Irán elleni légicsapások újraindítását; ez megtorló támadásokhoz és az olajárak további emelkedéséhez vezethet. Egy sok áldozattal járó szárazföldi inváziónak a republikánus táborban sincs elegendő támogatottsága.\n\n• **A vereség után Trumpot kevésbé köthetik a politikai következmények** Mivel Trump már nem indulhat újra az elnökségért, és a republikánus párt jövője a beszámoló szerint kevéssé foglalkoztatja, a választási eredmény után kevésbé tarthat attól, hogy tettei a saját újraválasztási esélyeit veszélyeztetik.\n\n• **Európai politikusok is üdvözölték a republikánusok vereségét** Pedro Sánchez spanyol miniszterelnök a megélhetési költségek növekedését, a gyűlöletpolitikát és a klímaváltozás tagadását bírálta, Radosław Sikorski lengyel külügyminiszter pedig Elon Musk költekezésére utalva jegyezte meg, hogy a politika nem pusztán pénzkérdés. Donald Tusk és a brit Andy Burnham is reagált az eredményre; utóbbi Trumpot hibáztatta a megélhetési költségek emelkedéséért.\n\n• **Európa nem számíthat automatikusan a régi rend visszatérésére** Az elemzés arra figyelmeztet, hogy tévednek azok a külföldi vezetők, akik úgy gondolják, elég két évet átvészelni, és utána az amerikai politika visszatér a korábbi kerékvágásba. A választási eredmény nem szünteti meg Trump külpolitikai hatalmát, és a következő időszak kiszámíthatatlansága tartós következményekkel járhat.\n\n• **A sarokba szorított Trump nemzetközi ellenlépésekhez folyamodhat** Daniel W. Drezner és Elizabeth N. Saunders Foreign Affairsben megjelent elemzése szerint korábbi amerikai elnökök is a külpolitika felé fordultak hasonló belpolitikai helyzetben. Úgy érvelnek, hogy a demokrata többség és az esetleges eljárások miatt sarokba szorított Trump konstruktív külpolitikai eszközök híján nemzetközi ellenlépésekkel vezetheti le a feszültséget.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_32197ad2df",
@@ -3477,6 +3477,25 @@
     "lead_hu": "Orbán Anita külügyminiszter szerint Magyarország már vizsgálja az orosz energiahordozók kiváltásának lehetőségeit. Igor Juskov orosz energetikai szakértő arra figyelmeztetett, hogy a korábbi átállás drágább beszerzést és a hosszú távú szerződések felmondásából eredő költségeket is jelenthet.",
     "content_hu": "• **Az átállás már előkészületben van:** A Mol nem orosz eredetű kőolaj beszerzését is vizsgálja, amely a horvát JANAF vezetékrendszerén keresztül juthatna el a magyar finomítókba.\n\n• **A szerződések felmondása költséges lehet:** Juskov szerint önkéntes leállás esetén a Gazprom kártérítést követelhet, miközben az alternatív energiaforrások beszerzése is drágább lehet.\n\n• **A vezetékes olaj és a gáz vásárlása egyelőre lehetséges:** A források szerint az orosz vezetékes kőolajat nem tiltják az ismertetett szankciók, az uniós gáztilalom pedig 2027 őszén lépne életbe.\n\n• **A drágulás a fogyasztókat is érintheti:** A szakértő szerint a magasabb olajbeszerzési költség az üzemanyagárakban, a gáz ára pedig a villamos energia és a fűtés költségeiben jelenhet meg.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_77788b3c92",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/o/r/b/orban-anita-867216.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Bejelentették a döntést: 2028-ban ismét védelmi feladatot vállalnak a magyar katonák egy idegen országban",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/bejelentettek-a-dontest-2028-ban-ismet-vedelmi-feladatot-vallalnak-a-magyar-katonak-egy-idegen-orszagban-874552"
+      }
+    ],
+    "published_at": 1793901060,
+    "title_hu": "Bejelentették a döntést: 2028-ban ismét védelmi feladatot vállalnak a magyar katonák egy idegen országban",
+    "lead_hu": "Magyarország és Litvánia szorosabbra fűzi diplomáciai és gazdasági kapcsolatait, és kiemelt figyelmet fordít az európai versenyképesség javítására, valamint az illegális migráció elleni közös fellépés...",
+    "content_hu": "Magyarország és Litvánia szorosabbra fűzi diplomáciai és gazdasági kapcsolatait, és kiemelt figyelmet fordít az európai versenyképesség javítására, valamint az illegális migráció elleni közös fellépésre. Orbán Anita miniszterelnök-helyettes, külügyminiszter bejelentette, hogy a két ország szorosan együttműködik a 2027 első félévében esedékes litván EU-elnökség idején. Újraindulnak a külügyminisztériumok közötti szakmai konzultációk, és megkezdődik egy új együttműködési szándéknyilatkozat előkészítése is. Magyarország 2028-ban ismét részt vesz a balti légtérrendészeti misszióban, a kormány pedig arra ösztönzi a magyar diákokat, hogy Vilniusban tanuljanak. Budapest emellett csatlakozik ahhoz a litván kezdeményezéshez, amelynek célja, hogy Brüsszelben emlékművet állítsanak a totalitárius rendszerek áldozatainak.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_84a8af78e5",
@@ -13508,63 +13527,6 @@
     "title_hu": "Máris mentenék, ami menthető: munkacsoport kezelné az ügynökakták okozta traumákat",
     "lead_hu": "Munkacsoportot hoznak létre a nyilvánosságra hozott ügynökakták okozta társadalmi traumák feldolgozásához – közölte Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter - akinek az ap…",
     "content_hu": "Munkacsoportot hoznak létre a nyilvánosságra hozott ügynökakták okozta társadalmi traumák feldolgozásához – közölte Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter - akinek az apja is szerepel az",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_effc0b6c74",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7241/72417/724174/72417449_08677e198a3d4b25979062e5530232c7_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Árpa Attila reagált az ügynökakták megnyitására, nem is akárhogyan",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/04/ugynokaktak-megnyitasa-arpa-attila-reakcio-arulok/"
-      }
-    ],
-    "published_at": 1793814796,
-    "title_hu": "Árpa Attila reagált az ügynökakták megnyitására, nem is akárhogyan",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_1eb443427e",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7241/72417/724170/72417071_5336605_d44004af71c54ab1a10fa52077c7a314_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Nincs alku a Matolcsy Ádám körével, Varga Mihályék újabb csapást mérhetnek rájuk",
-        "link": "https://index.hu/gazdasag/2026/11/04/mnb-szekhaz-felujitas-matolcsy-gyorgy-varga-mihaly-jegybank/"
-      }
-    ],
-    "published_at": 1793814780,
-    "title_hu": "Nincs alku a Matolcsy Ádám körével, Varga Mihályék újabb csapást mérhetnek rájuk",
-    "lead_hu": "Varga Mihályék új dokumentumokkal fordultak a rendőrséghez.",
-    "content_hu": "Varga Mihályék új dokumentumokkal fordultak a rendőrséghez.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_23545788d1",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/bdy4bhXPH1uGXRJ8RqnCroWITR7DU0NSMZlS5XUtrC0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhMmE5YTI3Y2ZhNDQ1N2U5NDQyNGEwOGViNmYxY2Q2.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Bankcsőd a szomszédban: ezt Magyarország sem ússza meg, az egyik legnagyobb állami cég is érintett – súlyos pénzek váltak elérhetetlenné",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/bank-csod-altabank-szerbia-mvm?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793814778,
-    "title_hu": "Bankcsőd a szomszédban: ezt Magyarország sem ússza meg, az egyik legnagyobb állami cég is érintett – súlyos pénzek váltak elérhetetlenné",
-    "lead_hu": "",
-    "content_hu": "",
     "importance_score": 0.0
   },
   {
