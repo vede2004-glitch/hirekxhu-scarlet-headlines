@@ -57,22 +57,6 @@
     ]
   },
   {
-    "group_id": "group_e61f6f3429",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Előkerült Szijjártó Péter, elejét vette a találgatásoknak",
-        "link": "https://www.atv.hu/belfold/20261104/szijjarto-peter-nev-csalad-ugynokaktak/",
-        "image": "",
-        "summary": "Július óta most először nyilvánult meg közösségi oldalán Szijjártó Péter.",
-        "category": "Politika",
-        "published_at": 1793805360
-      }
-    ]
-  },
-  {
     "group_id": "group_bb8e746435",
     "category": "Általános",
     "articles_count": 1,
@@ -5195,7 +5179,7 @@
   {
     "group_id": "group_19888da89a",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "HVG - Itthon",
@@ -5223,6 +5207,15 @@
         "summary": "Több szabadság, gyorsított eljárás a közlekedési balesetek ügyében, lakossági felkészítés a tűzvédelemben, határvadászok a rendőrök mellett – ilyesmik vannak a kormány törvénycsomagjában.",
         "category": "Politika",
         "published_at": 1793857740
+      },
+      {
+        "source": "ATV",
+        "title": "Társadalmi egyeztetésen a rendészeti törvénycsomag: több szabadság és új feladatok jöhetnek",
+        "link": "https://www.atv.hu/belfold/20261105/rendeszet-torveny-feladat-egyeztet/",
+        "image": "https://www.youtube.com/embed/uslUV0gqi6A",
+        "summary": "A kormány társadalmi egyeztetésre bocsátja a korábban bejelentett rendészeti törvénycsomagot, mielőtt a több tucat módosítást tartalmazó javaslatot az Országgyűlés elé terjesztené – közölte Pósfai Gábor belügyminiszter szerda késő este a közösségi oldalán.",
+        "category": "Politika",
+        "published_at": 1793891760
       }
     ]
   },
@@ -9780,7 +9773,7 @@
         "image": "",
         "summary": "Hivatalos források szerint több európai járatot is bombafenyegetés ért csütörtök délelőtt. Mindössze két nappal korábban hét repülőgépet kutattak át, de egyik repülőgépen sem találtak robbanóanyagot - írja a BBC.",
         "category": "Politika",
-        "published_at": 1793836800
+        "published_at": 1793883900
       },
       {
         "source": "Femina",
@@ -10820,7 +10813,7 @@
         "image": "https://pcdn.hu/articles/images-lg/k/e/s/keszul-valami-strategiai-cel-lett-az-mnb-nel-a-bankok-hatekonyabba-tetele-303097.jpg",
         "summary": "Nem jelent meg a parlamenti vizsgálóbizottság előtt Matolcsy György, az MNB letartóztatásban lévő egykori elnöke nem kíván nyilatkozatot tenni - derült ki a bizottság csütörtöki ülésén. A képviselők ennek ellenére felmérik a lehetőségeket, hogyan lehetne rábírni Matolcsyt, hogy személyesen jelentse ki ezt. A bizottság az ülésen személyesen hallgatja meg Varga Mihály jelenlegi MNB-elnököt.",
         "category": "Politika",
-        "published_at": 1793890800
+        "published_at": 1793891760
       }
     ]
   },
@@ -13227,6 +13220,38 @@
         "summary": "Új sorozatokkal, szórakoztató műsorokkal és népszerű produkciók visszatérésével készül a csatorna. A kínálatban egy különleges közéleti műsor és egy új tévécsatorna is helyet kap. The post Tovább bővül a Most Wanted-univerzum: ezt tervezi 2027-re az RTL first appeared on 24.hu.",
         "category": "Bulvár",
         "published_at": 1793891378
+      }
+    ]
+  },
+  {
+    "group_id": "group_b262111402",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megvan, ki veszi át Rónai Egon helyét az ATV-nél",
+        "link": "https://index.hu/belfold/2026/11/05/atv-musorvezeto-azurak-csaba-bejelentes-ronai-egon/",
+        "image": "https://kep.index.hu/1/0/7243/72432/724325/72432507_5337705_935af16879139d29e1572f6298208fcb_wm.jpg",
+        "summary": "Bejelentette új műsorvezetőjét a csatorna.",
+        "category": "Általános",
+        "published_at": 1793891760
+      }
+    ]
+  },
+  {
+    "group_id": "group_e3e49217e3",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hermann Veronika: Az identitáspolitika azoknak a fegyvere, akiknek nincs érdemi mondanivalója a világról",
+        "link": "https://24.hu/belfold/2026/11/05/hermann-veronika-identitaspolitika-halloween/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1113546248-masolat-1024x576.jpg",
+        "summary": "A szélsőséges baloldali és liberális identitáspolitika visszaüthet, és ha csak ez a mondanivalójuk a világról, akkor kiüresedetté válik, mint a gyűlölködés. The post Hermann Veronika: Az identitáspolitika azoknak a fegyvere, akiknek nincs érdemi mondanivalója a világról first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1793891846
       }
     ]
   }
