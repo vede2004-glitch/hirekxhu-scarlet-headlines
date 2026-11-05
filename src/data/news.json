@@ -1,5 +1,59 @@
 [
   {
+    "group_id": "group_1dff2fe090",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/ellenorzes_21.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Országos ellenőrzés kezdődik november közepén: most ezt nézik szigorúan a hatóságok",
+        "link": "https://femina.hu/terasz/orszagos-ellenorzes-kezdodik-november-kozepen-most-ezt-nezik-szigoruan-a-hatosagok/"
+      }
+    ],
+    "published_at": 1793874900,
+    "title_hu": "Országos ellenőrzés kezdődik november közepén: most ezt nézik szigorúan a hatóságok",
+    "lead_hu": "Hamarosan kezdődik az ellenőrzés....",
+    "content_hu": "Hamarosan kezdődik az ellenőrzés."
+  },
+  {
+    "group_id": "group_2313fa2935",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/profimedia-0487720754.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Udvaros Dorottyát aktfotójával alázták meg: a sírástól színpadra sem tudott állni",
+        "link": "https://femina.hu/hazai_sztar/udvaros-dorottya-megalazas-szinhaz/"
+      }
+    ],
+    "published_at": 1793874900,
+    "title_hu": "Udvaros Dorottyát aktfotójával alázták meg: a sírástól színpadra sem tudott állni",
+    "lead_hu": "Két olyan alkalom volt, amikor Udvaros Dorottya miatt nem valósult meg egy színházi előadás. Mindkettőnek nyomós oka volt....",
+    "content_hu": "Két olyan alkalom volt, amikor Udvaros Dorottya miatt nem valósult meg egy színházi előadás. Mindkettőnek nyomós oka volt."
+  },
+  {
+    "group_id": "group_16d0bc636c",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Papp István ÁBTL-főosztályvezető a beszervezési dossziékról: A nagyjából egymillió oldal rengeteg érzékeny adatot tartalmaz",
+        "link": "https://444.hu/2026/11/05/papp-istvan-abtl-foosztalyvezeto-a-beszervezesi-dossziekrol-a-nagyjabol-egymillio-oldal-rengeteg-erzekeny-adatot-tartalmaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793874540,
+    "title_hu": "Papp István ÁBTL-főosztályvezető a beszervezési dossziékról: A nagyjából egymillió oldal rengeteg érzékeny adatot tartalmaz",
+    "lead_hu": "A héten nyilvánosságra hozott információkból viszont nem érdemes messzemenő következtetéseket levonni....",
+    "content_hu": "A héten nyilvánosságra hozott információkból viszont nem érdemes messzemenő következtetéseket levonni."
+  },
+  {
     "group_id": "group_6ac4aed4e9",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/JSDKdaQ3FfS5nUOaiX22CYv0SE8K6eKyY0gfh8fAwSI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2ZTdlM2ZiNjU1OTRkMzViOTM0OGY1NjQxYzliMGMz.jpg",
@@ -723,7 +777,7 @@
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/31ed2d75-47aa-4ee7-9b4c-10d93dc2e8c7.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "HVG - Gazdaság",
@@ -749,6 +803,11 @@
         "source": "Index - Címlap",
         "title": "Letartóztatásban marad Matolcsy György",
         "link": "https://index.hu/belfold/2026/11/05/matolcsy-gyorgy-fovarosi-torvenyszek-letartoztatas-elsofoku-nyomozasi-biroi-dontes-jegybankelnok/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Másodfokon is döntött a bíróság: Matolcsy György letartóztatásban marad",
+        "link": "https://telex.hu/gazdasag/2026/11/05/matolcsy-gyorgy-mnb-letartoztatas-fovarosi-torvenyszek"
       }
     ],
     "published_at": 1793871528,
@@ -2272,12 +2331,17 @@
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261105/1793866205-temp-g40qi7qlvesg2emkpkg_cimlap-normal.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Telex - Belföld",
         "title": "Nem volt hajlandó ananászt tenni a pizzára egy olasz séf, kirúgták",
         "link": "https://telex.hu/kulfold/2026/11/05/nem-volt-hajlando-ananaszt-tenni-a-pizzara-egy-olasz-sef-kirugtak-ausztralia-queensland-la-costa-etterem"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Nem volt hajlandó ananászt tenni a pizzára, kirúgták az olasz szakácsot",
+        "link": "https://index.hu/kulfold/2026/11/05/ananasz-pizza-szakacs-kirugas-etterem/"
       }
     ],
     "published_at": 1793866338,
@@ -14098,78 +14162,6 @@
     "title_hu": "Nagyon valószínű, hogy késni fog a RTX 5080 Super, ha egyáltalán létezik",
     "lead_hu": "Az ipar azt reméli, hogy a piac borzalmas helyzetét valamelyest enyhítheti az új variáns érkezése, de a 24 GB-os kártya kiadási folyamata elakadhatott.",
     "content_hu": "Az ipar azt reméli, hogy a piac borzalmas helyzetét valamelyest enyhítheti az új variáns érkezése, de a 24 GB-os kártya kiadási folyamata elakadhatott."
-  },
-  {
-    "group_id": "group_a9f9bdd1c7",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7241/72412/724122/72412201_10056f8de248bfb5d2adda65f62a6a1c_wm.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Csobot Adél a Visszavágóban ismerte meg sosem látott unokatestvérét, videón a nagy találkozás",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/04/csobot-adel-unokatestver-a-visszavago-barcelona/"
-      }
-    ],
-    "published_at": 1793788580,
-    "title_hu": "Csobot Adél a Visszavágóban ismerte meg sosem látott unokatestvérét, videón a nagy találkozás",
-    "lead_hu": "",
-    "content_hu": ""
-  },
-  {
-    "group_id": "group_92a4be1cbe",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Blikk",
-        "title": "Sharon Stone megrázó vallomása, 25 évvel a súlyos agyvérzése után is küzd a következményekkel: „Mindent elveszítettem”",
-        "link": "https://www.blikk.hu/sztarvilag/nemzetkozi-sztarok/sharon-stone-agyverzes-megrazo-vallomas-kovetkezmenyek/3hp5b8x"
-      }
-    ],
-    "published_at": 1793788550,
-    "title_hu": "Sharon Stone megrázó vallomása, 25 évvel a súlyos agyvérzése után is küzd a következményekkel: „Mindent elveszítettem”",
-    "lead_hu": "Sharon Stone 25 évvel ezelőtt életveszélybe került, agyvérzést kapott, amely után hosszú és rendkívül nehéz rehabilitáció várt rá. A 68 éves színésznő most ismét őszintén beszélt arról, hogy a történt…",
-    "content_hu": "Sharon Stone 25 évvel ezelőtt életveszélybe került, agyvérzést kapott, amely után hosszú és rendkívül nehéz rehabilitáció várt rá. A 68 éves színésznő most ismét őszintén beszélt arról, hogy a történtek nyomai a mai napig nem múltak el teljesen, és továbbra is tudatosan kell tennie az egészségéért."
-  },
-  {
-    "group_id": "group_cc47c8c84a",
-    "category": "Általános",
-    "image": "https://cdn.hirtv.hu/2026/11/3Akuw7ZDuObr7McQ6QDsFpPZNWkjRvKHTDDzVo23bRA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IwMzc2OGQ1ZjZhNTQ0Y2M5YThmMTYzYzEwMjg3YjVk.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Négy agyműtét és két újraélesztés után zongorázott a bevásárlóközpontban a fiatal fehérvári fiú",
-        "link": "https://hirtv.origo.hu/hirtvszines/2026/11/varga-lorinc-csaba-agymutet-szekesfehervar-anya"
-      }
-    ],
-    "published_at": 1793788435,
-    "title_hu": "Négy agyműtét és két újraélesztés után zongorázott a bevásárlóközpontban a fiatal fehérvári fiú",
-    "lead_hu": "Varga Lőrinc Csaba soha nem adta fel, és többször is visszatért az életbe.",
-    "content_hu": "Varga Lőrinc Csaba soha nem adta fel, és többször is visszatért az életbe."
-  },
-  {
-    "group_id": "group_0b41aefd54",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/ugynokaktak.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Nyilvánossá váltak az ügynökakták: itt érhető el az online adatbázis",
-        "link": "https://femina.hu/terasz/ugynokaktak-nyilvanossag-kereso/"
-      }
-    ],
-    "published_at": 1793788276,
-    "title_hu": "Nyilvánossá váltak az ügynökakták: itt érhető el az online adatbázis",
-    "lead_hu": "2026 novemberétől bárki megnézheti a nyilvánossá vált ügynökaktákat.",
-    "content_hu": "2026 novemberétől bárki megnézheti a nyilvánossá vált ügynökaktákat."
   },
   {
     "group_id": "group_b5a27cb145",
