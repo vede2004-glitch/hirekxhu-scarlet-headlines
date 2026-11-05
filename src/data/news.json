@@ -1,5 +1,23 @@
 [
   {
+    "group_id": "group_9e65c72b95",
+    "category": "Gazdaság",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0810650835-e1793862810529-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Újabb milliókat akartak kicsalni egy nőtől, de a pénz helyett már a rendőrök várták őket",
+        "link": "https://24.hu/fn/gazdasag/2026/11/05/milliokat-csaltak-ki-megtakaritas-rendorseg/"
+      }
+    ],
+    "published_at": 1793862821,
+    "title_hu": "Újabb milliókat akartak kicsalni egy nőtől, de a pénz helyett már a rendőrök várták őket",
+    "lead_hu": "Ukrajnából érkezett Budapestre két nő, hogy személyesen vegyék át a nőtől a megtakarítását, azután, hogy már átutaltattak vele hétmillió forintot. The post Újabb milliókat akartak kicsalni egy nőtől, ...",
+    "content_hu": "Ukrajnából érkezett Budapestre két nő, hogy személyesen vegyék át a nőtől a megtakarítását, azután, hogy már átutaltattak vele hétmillió forintot. The post Újabb milliókat akartak kicsalni egy nőtől, de a pénz helyett már a rendőrök várták őket first appeared on 24.hu."
+  },
+  {
     "group_id": "group_6de2f42523",
     "category": "Politika",
     "image": "https://cdn.magyarnemzet.hu/2026/11/_jbsggHRReR68Jl1QqM9InYpylgPKc65PH1QPkjURsY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M3MTRmNzM3ZWIzMzRlYWE5OTg3MzY3Y2YzNzk4ZWJi.jpg",
@@ -76,12 +94,17 @@
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HVG - Itthon",
         "title": "Lezsák Sándor neve informatikai hiba miatt jelent meg az ügynökaktákban hálózati személyként – bocsánatot kért a levéltár",
         "link": "https://hvg.hu/itthon/20261105_lezsak-sandor-informatikai-hiba-halozati-szemely-megfigyelt-bocsanatot-leveltar"
+      },
+      {
+        "source": "444.hu",
+        "title": "Lezsák Sándor nem volt ügynök, informatikai hiba miatt került közéjük",
+        "link": "https://444.hu/2026/11/05/informatikai-hiba-kovetkezteben-kerult-lezsak-sandor-az-ugynokok-koze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
     "published_at": 1793862405,
@@ -294,7 +317,7 @@
     "image": "https://cdn.magyarnemzet.hu/2026/05/-_Vt4Bqsd4eB-K3bxkJ3whg9BYpaXdhoHQH4GlG_W7M/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBlN2ZkYmQwMmQ5NDQxMjJiNDk4ZjY3OTg1ZGIxNmMz.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Vadhajtások",
@@ -315,6 +338,11 @@
         "source": "Magyar Nemzet",
         "title": "Surányi György volt jegybankelnök neve is felbukkant az ügynökakták között",
         "link": "https://magyarnemzet.hu/belfold/2026/11/suranyi-gyorgy-volt-jegybankelnok-ugynokakta?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Surányi György reagált arra, miért került be a neve az ügynökaktákba",
+        "link": "https://telex.hu/ugynokaktak/2026/11/05/suranyi-gyorgy-ugynokaktak-reakcio-volt-jegybankelnok"
       }
     ],
     "published_at": 1793861551,
@@ -860,12 +888,17 @@
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261105/1793858529-temp-hrhs45412337bhiekoh_cimlap-normal.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Telex - Belföld",
         "title": "Meghalt Alan Jones, a Forma–1 korábbi világbajnoka",
         "link": "https://telex.hu/sport/2026/11/05/meghalt-alan-jones-a-forma-1-korabbi-vilagbajnoka-utolso-ausztral-f1-es-bajnok"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Meghalt Alan Jones, ausztrál Formula‑1-es világbajnok",
+        "link": "https://index.hu/sport/2026/11/05/alan-jones-formula-1-vilagbajnok-meghalt/"
       }
     ],
     "published_at": 1793858708,
@@ -4529,7 +4562,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "444.hu",
@@ -4550,6 +4583,11 @@
         "source": "Telex - Belföld",
         "title": "Kibertámadás érte a francia vérellátó hűtőit, nagyon magasra állították a hűtőkamrák hőmérsékletét",
         "link": "https://telex.hu/techtud/2026/11/04/hutos-kibertamadas-hekkertamadas-hutoszekreny-hutokamra-franciaorszag"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Vérkészítményeket tároló hűtőraktárak vezérlésébe hatoltak be hekkerek Franciaországban",
+        "link": "https://index.hu/kulfold/2026/11/05/hekkertamadas-franciaorszag-hutoraktar-verkeszitmeny-thomas-regnier/"
       }
     ],
     "published_at": 1793815847,
@@ -14368,42 +14406,6 @@
     "title_hu": "Itt a politikai fordulat Amerikában - máris kilőtt az arany és az ezüst",
     "lead_hu": "Az amerikai félidős választások eredményeire a nemesfémek piaca is látványosan reagált, az arany 2,2, az ezüst 3,9, a palládium 4,2, a platina pedig 1,9 százalékkal drágult. Az emelkedést a gyengülő d…",
     "content_hu": "Az amerikai félidős választások eredményeire a nemesfémek piaca is látványosan reagált, az arany 2,2, az ezüst 3,9, a palládium 4,2, a platina pedig 1,9 százalékkal drágult. Az emelkedést a gyengülő dollár és a csökkenő amerikai államkötvényhozamok támogatják, miután a demokraták nagy győzelmeket arattak."
-  },
-  {
-    "group_id": "group_780e63d566",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Vizsgálat a Trump család pénzügyeiről és megakasztott elnöki kinevezések: új korszak jön Washingtonban a demokraták elsöprő győzelme után",
-        "link": "https://444.hu/2026/11/04/vizsgalat-a-trump-csalad-penzugyeirol-es-megakasztott-elnoki-kinevezesek-uj-korszak-jon-washingtonban-a-demokratak-elsopro-gyozelme-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793776595,
-    "title_hu": "Vizsgálat a Trump család pénzügyeiről és megakasztott elnöki kinevezések: új korszak jön Washingtonban a demokraták elsöprő győzelme után",
-    "lead_hu": "A Kongresszus mindkét házának elfoglalásával a demokraták sok lehetőséget kapnak, hogy megnehezítsék Trump elnöki ciklusának utolsó két évét.",
-    "content_hu": "A Kongresszus mindkét házának elfoglalásával a demokraták sok lehetőséget kapnak, hogy megnehezítsék Trump elnöki ciklusának utolsó két évét."
-  },
-  {
-    "group_id": "group_d6c2f2d180",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c6116b72-4425-4e2f-889c-5dd3211865e5.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Drónokkal és rakétákkal támadta Oroszország az ukrán áramrendszert",
-        "link": "https://hvg.hu/vilag/20261104_orosz-ukran-haboru-oroszorszag-drontamadas-rakekatamadas-energetikai-infrastruktura-targyalas"
-      }
-    ],
-    "published_at": 1793776575,
-    "title_hu": "Drónokkal és rakétákkal támadta Oroszország az ukrán áramrendszert",
-    "lead_hu": "Egy héttel az Abu-Dzabiba tervezett tárgyalások előtt az oroszok tovább támadják az ukrán energetikai infrastruktúrát, de Ukrajna is felgyújtott egy orosz finomítót.",
-    "content_hu": "Egy héttel az Abu-Dzabiba tervezett tárgyalások előtt az oroszok tovább támadják az ukrán energetikai infrastruktúrát, de Ukrajna is felgyújtott egy orosz finomítót."
   },
   {
     "group_id": "group_3b18442487",
