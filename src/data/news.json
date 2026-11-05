@@ -1898,32 +1898,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_b02fd868bf",
-    "fingerprint": "1313adceaa6927c5be7d505a8cc965d5",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2302869772-e1793871656417-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Az Aranylabda után Európa legjobb fizetését is megkaphatta Harry Kane",
-        "link": "https://24.hu/sport/foci/2026/11/05/bayern-munchen-harry-kane-szerzodeshosszabbitas/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Szerződést hosszabbított a friss aranylabdás: Európa legjobban fizetett játékosává vált Harry Kane",
-        "link": "https://index.hu/sport/futball/2026/11/05/harry-kane-bayern-munchen-szerzodeshosszabbitas/"
-      }
-    ],
-    "published_at": 1793873760,
-    "title_hu": "Harry Kane 2029-ig hosszabbított a Bayernnel",
-    "lead_hu": "A Bayern München bejelentette, hogy 2029 nyaráig meghosszabbította Harry Kane szerződését. Sajtóértesülések szerint az angol csatár ezzel Európa legjobban fizetett labdarúgójává vált.",
-    "content_hu": "• **2029 nyaráig marad** A Bayern München csütörtökön jelentette be, hogy szerződést hosszabbított a 33 éves Harry Kane-nel.\n\n• **Európa legmagasabb fizetése** A The Athletic értesülése szerint az új megállapodással Kane keresete a legmagasabb lett az európai futballisták között.\n\n• **Kiemelkedő müncheni mérleg** Kane 2023-as érkezése óta 161 mérkőzésen 156 gólt szerzett a Bayernben; 2026-ban Aranylabdát nyert.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_95761b3fea",
     "fingerprint": "12db7362e19f7de241eb812f1a6a58f8",
     "category": "Általános",
@@ -2413,6 +2387,32 @@
     "lead_hu": "Az államháztartás központi alrendszerének októberi hiánya 200,6 milliárd forintot tett ki, 138,4 milliárddal kevesebbet, mint egy évvel korábban. Az első tíz hónap deficitje 5462,5 milliárd forint volt, ami a módosított éves hiánycél 76,9 százaléka; az uniós források előfinanszírozásával korrigált egyenleg kedvezőbb a tavalyinál.",
     "content_hu": "• **Októberi deficit:** 200,6 milliárd forint volt a központi alrendszer hiánya, 138,4 milliárddal alacsonyabb a 2025. októberinél, amikor 339 milliárd forintot tett ki.\n\n• **Tíz havi egyenleg:** Az első tíz hónap összesített hiánya 5462,5 milliárd forintot ért el, ami a módosított, 7,1 ezermilliárd forintos éves hiánycél 76,9 százaléka.\n\n• **Uniós források előfinanszírozása:** Az RRF-források előfinanszírozása augusztusban 2186,9 milliárd forinttal növelte a kumulált hiányt. E tétel nélkül az első tíz havi deficit 3275,6 milliárd forint volt, 392,1 milliárddal kevesebb, mint 2025 azonos időszakában.\n\n• **Bevételek:** A pénzügyminiszter közlése szerint az államháztartás bevételei az első tíz hónapban 3,5 százalékkal haladták meg az egy évvel korábbit.\n\n• **Kiadások:** A költségvetési szervek és a fejezeti kezelésű előirányzatok októberi kiadásai 189 milliárd forinttal maradtak el az egy évvel korábbitól.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_b02fd868bf",
+    "fingerprint": "1313adceaa6927c5be7d505a8cc965d5",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2302869772-e1793871656417-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Az Aranylabda után Európa legjobb fizetését is megkaphatta Harry Kane",
+        "link": "https://24.hu/sport/foci/2026/11/05/bayern-munchen-harry-kane-szerzodeshosszabbitas/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Szerződést hosszabbított a friss aranylabdás: Európa legjobban fizetett játékosává vált Harry Kane",
+        "link": "https://index.hu/sport/futball/2026/11/05/harry-kane-bayern-munchen-szerzodeshosszabbitas/"
+      }
+    ],
+    "published_at": 1793873760,
+    "title_hu": "Harry Kane 2029-ig hosszabbított a Bayernnel",
+    "lead_hu": "A Bayern München bejelentette, hogy 2029 nyaráig meghosszabbította Harry Kane szerződését. Sajtóértesülések szerint az angol csatár ezzel Európa legjobban fizetett labdarúgójává vált.",
+    "content_hu": "• **2029 nyaráig marad** A Bayern München csütörtökön jelentette be, hogy szerződést hosszabbított a 33 éves Harry Kane-nel.\n\n• **Európa legmagasabb fizetése** A The Athletic értesülése szerint az új megállapodással Kane keresete a legmagasabb lett az európai futballisták között.\n\n• **Kiemelkedő müncheni mérleg** Kane 2023-as érkezése óta 161 mérkőzésen 156 gólt szerzett a Bayernben; 2026-ban Aranylabdát nyert.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_314dcb80cf",
@@ -3489,6 +3489,101 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_a7101ea796",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0787695298-e1793884700452-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Utolsó felhívást küldött a minisztérium több tízezer autósnak",
+        "link": "https://24.hu/tech/2026/11/05/utolso-felhivas-zold-rendszam-plug-in-hibrid/"
+      }
+    ],
+    "published_at": 1793884743,
+    "title_hu": "Utolsó felhívást küldött a minisztérium több tízezer autósnak",
+    "lead_hu": "Ha valaki nem cseréli le a zöld rendszámát, december 1-jétől közúti ellenőrzés esetén a hatóság kezdeményezi a jármű forgalomból történő kivonását. The post Utolsó felhívást küldött a minisztérium töb...",
+    "content_hu": "Ha valaki nem cseréli le a zöld rendszámát, december 1-jétől közúti ellenőrzés esetén a hatóság kezdeményezi a jármű forgalomból történő kivonását. The post Utolsó felhívást küldött a minisztérium több tízezer autósnak first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_38a91884cf",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "A levéltár vezetője szerint 160 megfigyelt neve került fel tévedésből a nyitottaktak.hu-ra",
+        "link": "https://444.hu/2026/11/05/a-leveltar-vezetoje-szerint-160-megfigyelt-neve-kerult-fel-tevedesbol-a-nyitottaktakhu-ra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793884552,
+    "title_hu": "A levéltár vezetője szerint 160 megfigyelt neve került fel tévedésből a nyitottaktak.hu-ra",
+    "lead_hu": "A főigazgató az adatvédelmi sérelemért elnézést kér Lezsák Sándortól....",
+    "content_hu": "A főigazgató az adatvédelmi sérelemért elnézést kér Lezsák Sándortól.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_dd663403e6",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/09/FFk7Jj65KCbmlF220M-PHHe6Woo1hHA0Fj5wFf5OG8Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U3ZmUzNGViYzYwYzQxNDFiODgzZDAwYTFjZTNmOWNm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Baka András az utolsó pillanatig kitartott: elhallgatott részletek az államfő pártállami múltjából",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/baka-andras-az-utolso-pillanatig-kitartott-elhallgatott-reszletek-az-allamfo-partallami-multjabol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793884505,
+    "title_hu": "Baka András az utolsó pillanatig kitartott: elhallgatott részletek az államfő pártállami múltjából",
+    "lead_hu": "Az MSZMP-főtitkár Grósz Károllyal egy fórumon beszélt, majd az utolsó kommunista kormány mellett is felszólalt a rendszerváltás hajnalán a jelenlegi köztársasági elnök....",
+    "content_hu": "Az MSZMP-főtitkár Grósz Károllyal egy fórumon beszélt, majd az utolsó kommunista kormány mellett is felszólalt a rendszerváltás hajnalán a jelenlegi köztársasági elnök.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_872b56bea6",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7243/72430/724304/72430485_5337581_fa4e11595d02f1c59bf3039bf95c9e94_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Klasszikus Formula–1-es helyszínen zárul Molnár Martinék szezonja",
+        "link": "https://index.hu/sport/motorsport/2026/11/05/molnar-martin-brit-f3-gb-3-szezonzaro-motam-barcelona/"
+      }
+    ],
+    "published_at": 1793884440,
+    "title_hu": "Klasszikus Formula–1-es helyszínen zárul Molnár Martinék szezonja",
+    "lead_hu": "Csapatának bajnoki címe a tét....",
+    "content_hu": "Csapatának bajnoki címe a tét.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_df2121ee0b",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/o/l/i/oliva-867120.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Zuhan a világ legnagyobb olívaolajgyártójának árfolyama, két riválisa vásárolja fel a céget",
+        "link": "https://www.portfolio.hu/befektetes/20261105/zuhan-a-vilag-legnagyobb-olivaolajgyartojanak-arfolyama-ket-rivalisa-vasarolja-fel-a-ceget-874484"
+      }
+    ],
+    "published_at": 1793884380,
+    "title_hu": "Zuhan a világ legnagyobb olívaolajgyártójának árfolyama, két riválisa vásárolja fel a céget",
+    "lead_hu": "Közel 18 százalékot zuhant ma a világ legnagyobb olívaolajipari vállalatának, a spanyol Deoleónak a részvényárfolyama. Két hazai versenytársa bejelentette a társaság felvásárlását, a Dcoop és az Acesu...",
+    "content_hu": "Közel 18 százalékot zuhant ma a világ legnagyobb olívaolajipari vállalatának, a spanyol Deoleónak a részvényárfolyama. Két hazai versenytársa bejelentette a társaság felvásárlását, a Dcoop és az Acesur egyenlő arányban osztozna a vállalaton, amivel újabb meghatározó szereplő jöhet létre a globális olívaolajpiacon.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_944fec858c",
     "category": "Gazdaság",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ff9f4911-fedb-4a5a-9d63-8a12561ce4bb.jpg",
@@ -3600,6 +3695,25 @@
     "title_hu": "A republikánusokkal együtt az adatközpontok is elbuktak az amerikai félidős választáson",
     "lead_hu": "Több helyen is referendumot tartottak az Egyesült Államokban a félidős szavazással egyidőben, amelyeken arról kellett dönteni, hogy a helyiek támogatják-e az adatközpontok építését....",
     "content_hu": "Több helyen is referendumot tartottak az Egyesült Államokban a félidős szavazással egyidőben, amelyeken arról kellett dönteni, hogy a helyiek támogatják-e az adatközpontok építését.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_3df9b5aa94",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "A reggeli szokásaid alapján megmondjuk, milyen a stressztűrő képességed",
+        "link": "https://nlc.hu/otthon/20261105/reggeli-szokasok-stresszturo-kepesseg-kviz/rfgrfd9"
+      }
+    ],
+    "published_at": 1793883780,
+    "title_hu": "A reggeli szokásaid alapján megmondjuk, milyen a stressztűrő képességed",
+    "lead_hu": "A reggeli szokásaid nemcsak azt befolyásolják, hogyan indul a napod, hanem a stressztűrő képességedről is árulkodhatnak. Vajon nyugodtan kezeled a váratlan helyzeteket, vagy már ébredés után úgy érzed...",
+    "content_hu": "A reggeli szokásaid nemcsak azt befolyásolják, hogyan indul a napod, hanem a stressztűrő képességedről is árulkodhatnak. Vajon nyugodtan kezeled a váratlan helyzeteket, vagy már ébredés után úgy érzed, összecsapnak a fejed felett a hullámok? Töltsd ki 10 kérdéses személyiségkvízünket, és fedezd fel, melyik stresszkezelési típusba tartozol! The post A reggeli szokásaid alapján megmondjuk, milyen a stressztűrő képességed first appeared on nlc.",
     "importance_score": 0.0
   },
   {
@@ -14145,82 +14259,6 @@
     "title_hu": "Járai Zsigmond „Bihari\" fedőnéven szerepel az aktákban",
     "lead_hu": "",
     "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d710006240",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Fontos erre is figyelni, amikor az aktákat böngésszük",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/fontos-erre-is-figyelni-amikor-az-aktakat-bongesszuk/"
-      }
-    ],
-    "published_at": 1793798340,
-    "title_hu": "Fontos erre is figyelni, amikor az aktákat böngésszük",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_47dfcd9580",
-    "category": "Kultúra",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/04/windows_11_kereso_133953_1_original_390x220_cover.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PC World",
-        "title": "Borzasztóan működik a Windows 11 beépített keresője, de ennek most egyetlen mozdulattal véget vethetsz",
-        "link": "https://www.pcwplus.hu/pcwlite/borzasztoan-mukodik-a-windows-11-beepitett-keresoje-de-ennek-most-egyetlen-mozdulattal-veget-vethetsz-390433.html"
-      }
-    ],
-    "published_at": 1793798260,
-    "title_hu": "Borzasztóan működik a Windows 11 beépített keresője, de ennek most egyetlen mozdulattal véget vethetsz",
-    "lead_hu": "Egy évtized után a Microsoft lehetővé tette, hogy orvosoljuk a dolgot.",
-    "content_hu": "Egy évtized után a Microsoft lehetővé tette, hogy orvosoljuk a dolgot.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_1e1d1ca585",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2212166509-tozsde-reszvenypiac-technikai-elemzes-grafikon-arfolyam-befektetes-pen-809600.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Szárnyalnak a megütött európai bankrészvények",
-        "link": "https://www.portfolio.hu/befektetes/20261104/szarnyalnak-a-megutott-europai-bankreszvenyek-874242"
-      }
-    ],
-    "published_at": 1793798220,
-    "title_hu": "Szárnyalnak a megütött európai bankrészvények",
-    "lead_hu": "Erőteljes emelkedést mutatnak az európai bankrészvények, miután az amerikai félidős választásokon aratott elsöprő demokrata győzelem eloszlatta az elmúlt hetek piaci bizonytalanságait. A pénzügyi szek…",
-    "content_hu": "Erőteljes emelkedést mutatnak az európai bankrészvények, miután az amerikai félidős választásokon aratott elsöprő demokrata győzelem eloszlatta az elmúlt hetek piaci bizonytalanságait. A pénzügyi szektor papírjainak szárnyalását a kötvényhozamok egyidejű csökkenése is érdemben támogatta, ami látványos fordulatot hozott a megelőző időszak esései után - tudósított a Bloomberg.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c54cec0c9a",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/09/tp87OrQcSbEjJwl5AKsRRNaBrrfBQf0zZ1nVogk07qU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I4MjY3MGQxYjk2MjQwNDQ5YTJlYTkyN2UwOTZhMGFj.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Kapitányék most a szélpályázat eredményét kozmetikázzák",
-        "link": "https://magyarnemzet.hu/gazdasag/2026/11/ujabb-szamhaboruba-menekul-a-kormany-szelenergia-palyazat-gdp-adatok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793798133,
-    "title_hu": "Kapitányék most a szélpályázat eredményét kozmetikázzák",
-    "lead_hu": "Hiába harsog több mint kétszeres túljelentkezést a szaktárca, valójában a felkínált lehetősegek tekintélyes része érdektelenséget hagyott maga után.",
-    "content_hu": "Hiába harsog több mint kétszeres túljelentkezést a szaktárca, valójában a felkínált lehetősegek tekintélyes része érdektelenséget hagyott maga után.",
     "importance_score": 0.0
   },
   {
