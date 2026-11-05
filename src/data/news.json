@@ -773,6 +773,42 @@
     "importance_score": 55.0
   },
   {
+    "group_id": "group_0945b791af",
+    "fingerprint": "0c105b2848169d846a24311d0b5e1020",
+    "category": "Kultúra",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0785739884-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Krug Emília a Network4 Media Grouphoz igazol",
+        "link": "https://24.hu/elet-stilus/2026/11/05/krug-emilia-network4-igazolas/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Krug Emília a Network4-nél folytatja",
+        "link": "https://telex.hu/after/2026/11/05/krug-emilia-network4-nel-folytatja"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Kiderült, hol láthatjuk Krug Emíliát mostantól: ide szerződött a népszerű tévés",
+        "link": "https://nlc.hu/sztarok/20261105/kiderult-krug-emiliat-is-szerzodtette-a-network4/30wmk00"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Rónai Egon után Krug Emília is csatlakozik a Network4 csapatához",
+        "link": "https://index.hu/belfold/2026/11/05/krug-emilia-network4-borsany-gyenes-andras/"
+      }
+    ],
+    "published_at": 1793887747,
+    "title_hu": "Krug Emília a Network4-nél folytatja",
+    "lead_hu": "Krug Emília műsorvezető a Network4 Media Grouphoz igazol, amit Borsány-Gyenes András elnök-vezérigazgató jelentett be a Big Picture konferencián. A médiavállalat szerint hamarosan a Network4 csatornáin is találkozhatnak vele a nézők; a vezető arról is beszélt, hogy sokoldalú személyiségét új szerepekben is megmutathatja.",
+    "content_hu": "• **Új munkahely** Krug Emília a Network4 Media Group csapatához csatlakozik; érkezését a médiavállalat vezérigazgatója jelentette be a Big Picture konferencián.\n\n• **Korábbi műsorai** Krug tavaly novemberben, 12 év után távozott az ATV-től, ahol a Start, a Civil a pályán és az Aktuál műsorokban szerepelt. A Telexszel közösen készített Szinten túl című műsorából nemrég jelentkezett utoljára.\n\n• **A Network4 tervei** A médiacsoport az utóbbi időben több ismert műsorvezetőt igazolt le, és célja, hogy a TV2 Csoport és az RTL Magyarország mögött a magyar televíziós piac harmadik meghatározó szereplőjévé váljon.\n\n• **Az utolsó Szinten túl-adás** Krug a Lengyel Tamással készített epizóddal búcsúzott a Telexszel közös műsortól.\n\n• **Új kollégák és együttműködés** A Network4-hez Rónai Egon, Borbás Marcsi és Papp Gergő is csatlakozott; a médiacsoport a Kontroll.hu-val is együttműködik, és több műsoruk mindkét vállalat csatornáin elérhető.\n\n• **A Network4 portfóliója** A médiacsoport hét tévécsatornát, valamint a NET4+ streamingplatformot és online felületeket működtet.\n\n• **Új szerepek lehetősége** Borsány-Gyenes András szerint Kruggal az első beszélgetése a tervezettnél kétszer tovább tartott. Úgy véli, a műsorvezető a Network4 széles kínálatában a közéleti újságíráson túl személyiségének más oldalait is megmutathatja.",
+    "importance_score": 55.0
+  },
+  {
     "group_id": "group_9d6f91382e",
     "fingerprint": "3cbb3f6210a6fcbcfcb2f413fd85360d",
     "category": "Sport",
@@ -1095,6 +1131,35 @@
     "importance_score": 48.0
   },
   {
+    "group_id": "group_0a40de8010",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fd1d7a71-6e04-44f3-b5e6-3e1d95e7a0c5.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Azurák Csaba lett az Egyenes Beszéd új műsorvezetője",
+        "link": "https://hvg.hu/itthon/20261105_azurak-csaba-egyenes-beszed-musorvezeto"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Azurák Csaba visszatér a képernyőre, az ATV-nél kapott fontos szerepet",
+        "link": "https://24.hu/elet-stilus/2026/11/05/azurak-csaba-atv-egyenes-beszed/"
+      },
+      {
+        "source": "ATV",
+        "title": "Az ATV-nél folytatja Azurák Csaba, januártól az Egyenes Beszéd műsorvezetője lesz",
+        "link": "https://www.atv.hu/belfold/20261105/atv-azurak-csaba-egyenes-beszed/"
+      }
+    ],
+    "published_at": 1793892850,
+    "title_hu": "Azurák Csaba lett az Egyenes Beszéd új műsorvezetője",
+    "lead_hu": "A műsorvezető Rónai Egont váltja, azt mondta, már régóta napirenden volt az ATV-s leigazolása....",
+    "content_hu": "A műsorvezető Rónai Egont váltja, azt mondta, már régóta napirenden volt az ATV-s leigazolása.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_d8ea52a7e4",
     "fingerprint": "aa9c2b6a475b9d98463645c5cf895fb6",
     "category": "Politika",
@@ -1155,37 +1220,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_0945b791af",
-    "fingerprint": "0c105b2848169d846a24311d0b5e1020",
-    "category": "Kultúra",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0785739884-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Krug Emília a Network4 Media Grouphoz igazol",
-        "link": "https://24.hu/elet-stilus/2026/11/05/krug-emilia-network4-igazolas/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Krug Emília a Network4-nél folytatja",
-        "link": "https://telex.hu/after/2026/11/05/krug-emilia-network4-nel-folytatja"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Kiderült, hol láthatjuk Krug Emíliát mostantól: ide szerződött a népszerű tévés",
-        "link": "https://nlc.hu/sztarok/20261105/kiderult-krug-emiliat-is-szerzodtette-a-network4/30wmk00"
-      }
-    ],
-    "published_at": 1793887747,
-    "title_hu": "Krug Emília a Network4-nél folytatja",
-    "lead_hu": "Krug Emília műsorvezető a Network4 Media Grouphoz igazol, amit Borsány-Gyenes András elnök-vezérigazgató jelentett be a Big Picture konferencián. A médiavállalat szerint hamarosan a Network4 csatornáin is találkozhatnak vele a nézők; a vezető arról is beszélt, hogy sokoldalú személyiségét új szerepekben is megmutathatja.",
-    "content_hu": "• **Új munkahely** Krug Emília a Network4 Media Group csapatához csatlakozik; érkezését a médiavállalat vezérigazgatója jelentette be a Big Picture konferencián.\n\n• **Korábbi műsorai** Krug tavaly novemberben, 12 év után távozott az ATV-től, ahol a Start, a Civil a pályán és az Aktuál műsorokban szerepelt. A Telexszel közösen készített Szinten túl című műsorából nemrég jelentkezett utoljára.\n\n• **A Network4 tervei** A médiacsoport az utóbbi időben több ismert műsorvezetőt igazolt le, és célja, hogy a TV2 Csoport és az RTL Magyarország mögött a magyar televíziós piac harmadik meghatározó szereplőjévé váljon.\n\n• **Az utolsó Szinten túl-adás** Krug a Lengyel Tamással készített epizóddal búcsúzott a Telexszel közös műsortól.\n\n• **Új kollégák és együttműködés** A Network4-hez Rónai Egon, Borbás Marcsi és Papp Gergő is csatlakozott; a médiacsoport a Kontroll.hu-val is együttműködik, és több műsoruk mindkét vállalat csatornáin elérhető.\n\n• **A Network4 portfóliója** A médiacsoport hét tévécsatornát, valamint a NET4+ streamingplatformot és online felületeket működtet.\n\n• **Új szerepek lehetősége** Borsány-Gyenes András szerint Kruggal az első beszélgetése a tervezettnél kétszer tovább tartott. Úgy véli, a műsorvezető a Network4 széles kínálatában a közéleti újságíráson túl személyiségének más oldalait is megmutathatja.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_376e13b10d",
     "fingerprint": "20840946b9d5b388516738679029b536",
     "category": "Politika",
@@ -1214,37 +1248,6 @@
     "title_hu": "Vita az ügynökakták feltárásáról: jogi aggályok és politikai bírálatok",
     "lead_hu": "Az ügynökakták nyilvánosságra hozataláról szóló vitában Magyar Péter és Ruff Bálint érvelése is bírálatot kapott. Egy szakjogász alkotmányjogi és adatvédelmi kockázatokra figyelmeztetett, miközben Lezsák Sándor családja és Rétvári Bence is kritikát fogalmazott meg.",
     "content_hu": "• **Jogi aggályok** Egy szakjogász szerint az iratok feltárása visszatérő alkotmányjogi és adatvédelmi problémákat vet fel, és a közvélemény téves következtetéseket vonhat le.\n\n• **Politikai bírálatok** Lezsák Sándor lánya a család közleményét olvasta fel, Rétvári Bence pedig úgy vélte, nem az ügyintéző dolgozókat kell felelőssé tenni a történtekért.\n\n• **Magyar Péter érvelése** A nyilvánosságra hozatal körüli vitában Magyar Péter álláspontját is élesen bírálták.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_8599106235",
-    "fingerprint": "2159abfe84c3d25562568047e57b95fd",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Közleményt adott ki a Lezsák-család: követelik a téves közzététel teljes kivizsgálását és a felelősök megnevezését",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/kozlemenyt-adott-ki-a-lezsak-csalad-kovetelik-a-teves-kozzetetel-teljes-kivizsgalasat-es-a-felelosok-megnevezeset"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Lezsák Sándor lánya: A bocsánatkérést tudomásul vesszük, de ezzel az ügy nem zárulhat le",
-        "link": "https://telex.hu/ugynokaktak/2026/11/05/boka-janos-retvari-bence-lezsak-anna-sajtotajekoztato-ugynokaktak"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Tiszás ügynökbotrány - Bóka János szerint Magyar Péter elkésett a bocsánatkéréssel",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/tiszas-ugynokbotrany-sajtotajekoztato-a-magyar-emberek-tizezreit-erinto-sulyos-torvenysertesrol"
-      }
-    ],
-    "published_at": 1793882754,
-    "title_hu": "A Lezsák család kivizsgálást és felelősségre vonást követel az adatközlési hiba miatt",
-    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára bocsánatot kért, miután Lezsák Sándor neve tévesen jelent meg egy nyilvános adatbázisban; a levéltár szerint informatikai hiba történt, Lezsák pedig megfigyelt személy volt. A család elfogadja a bocsánatkérést, de teljes körű vizsgálatot és felelősségre vonást követel.",
-    "content_hu": "• **A család követelései** Lezsák Anna a család közleményét felolvasva azt mondta: a bocsánatkérés nem zárja le az ügyet. A család a téves közzététel körülményeinek kivizsgálását, a felelősök megnevezését és a jogi következmények érvényesítését követeli, továbbá a levéltár vezetőjének lemondását is szorgalmazza.\n\n• **A téves adatközlés háttere** Az ÁBTL tájékoztatása szerint Lezsák Sándor nem volt hálózati személy, hanem a kommunista rendszer megfigyeltje; neve informatikai hiba miatt került az adatbázisba. A levéltár bocsánatot kért, a téves adatot pedig eltávolították.\n\n• **Politikai követelések** A sajtótájékoztatón Bóka János és Rétvári Bence politikai felelősség megállapítását sürgette. Bóka a honlap leállítását és parlamenti vizsgálóbizottság kezdeményezését is kilátásba helyezte, ha nem tisztázódik, hogy szerepelnek-e további tévesen megjelölt nevek.",
     "importance_score": 45.0
   },
   {
@@ -1453,32 +1456,6 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_470c144651",
-    "fingerprint": "a7d159b40c78d729e36a281531ddd356",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0803252722-61-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Baleset és mentőhelikopter az M1-esen",
-        "link": "https://24.hu/belfold/2026/11/05/m1-es-autopalya-baleset-mentohelikopter-2/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Lezárták az M1-es autópálya Budapest felé vezető egyik szakaszát, kamion és kisbusz karambolozott",
-        "link": "https://index.hu/belfold/2026/11/05/m1-autopalya-baleset-budapest-bicske-kamion-kisbusz-mentohelikopter/"
-      }
-    ],
-    "published_at": 1793882880,
-    "title_hu": "Kamion és kisbusz ütközött az M1-es autópályán",
-    "lead_hu": "Kamion és kisbusz karambolozott az M1-es autópálya Budapest felé vezető oldalán, Bicske közelében. A sztrádaszakaszt lezárták, a balesethez mentőhelikoptert is riasztottak.",
-    "content_hu": "• **Lezárták az érintett szakaszt:** Kamion és kisbusz ütközött az M1-es autópálya Budapest felé vezető oldalán, Bicske közelében.\n\n• **Terelés:** Az autósok a 48-as, Szárliget-csomópontnál hajthatnak le, majd az 1-es főúton kerülhetnek, és Herceghalomnál térhetnek vissza az autópályára.\n\n• **Mentés:** A bicskei önkormányzati tűzoltók feszítővágóval emeltek ki egy embert a furgonból. A helyszínre mentőhelikopter is érkezett.",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_d59684dd5a",
     "fingerprint": "898f968f1dbac969193c99a3efb6a687",
     "category": "Politika",
@@ -1549,6 +1526,37 @@
     "lead_hu": "Közzétették Szita Károly kaposvári polgármester 6-os kartonját, amely szerint 1980-ban „hazafias” alapon, „Krakus Péter” fedőnéven szervezték be, és 1989-ig tartották nyilván. Szita videóüzenetében visszautasította az ügynök megnevezést, azt mondta, nem ártott senkinek, és állítása szerint múltja a kaposváriak előtt mindig is nyitott könyv volt. Az ügyről korábban is jelentek meg cikkek, Szita pedig azt állítja, hogy egy 2005-ös eljárás manipulált iratokat állapított meg.",
     "content_hu": "• **A karton adatai szerint** Szita Károlyt 1980. július 1-jén szervezték be „titkos megbízottként”, „Krakus Péter” fedőnéven; 1989. május 9-ig szerepelt hálózati személyként a nyilvántartásban.\n\n• **Szita visszautasította az ügynökvádat:** videóüzenetében azt mondta, „nem voltam ügynök”, és állítása szerint soha nem ártott senkinek. Hozzátette, hogy múltja a kaposváriak előtt nyitott könyv, és a választók ennek ismeretében választották újra; azt is mondta, hogy 32 éve polgármester, és ötször választották újra.\n\n• **Az ügyről már korábban is jelentek meg cikkek:** Szita múltja 2004-ben került először a nyilvánosság elé, 2005-ben pedig Ungváry Krisztián történész kutatásai alapján több írás is foglalkozott vele. 2018-ban a Magyar Nemzet Szitával kapcsolatos iratokat is közzétett, és korábbi cikkében jelentésekből idézett.\n\n• **Ungváry szerint a karton a beszervezés tényét bizonyítja:** a történész úgy vélte, a most közzétett 6-os karton részletessége, valamint a kitöltött napló-, dosszié- és irattári szám önmagában is egyértelműen alátámasztja Szita beszervezését.\n\n• **Szita a 2005-ös eljárásra hivatkozott:** állítása szerint feljelentést tett, és az ügyészség megállapította, hogy manipulálták az iratokat, amivel bűncselekményt követtek el, de az elkövetőt nem tudták azonosítani. A most nyilvánosságra került kartonról nem állította, hogy manipulálták.\n\n• **A most közzétett adatok korlátosak:** az elérhető anyagban a 6-os karton és a mágnesszalag-találat szerepel, friss jelentések nem. A dokumentumok önmagukban nem mutatják meg a beszervezés körülményeit vagy az esetleges tevékenység részleteit; korábban azonban a Magyar Nemzet jelentésekre hivatkozva azt írta, hogy Szita nyugati állampolgárokról és az őket fogadó magyar vendéglátókról jelenthetett. A források arra is figyelmeztetnek, hogy hamis iratok is lehetnek az adatbázisban.",
     "importance_score": 40.0
+  },
+  {
+    "group_id": "group_8599106235",
+    "fingerprint": "2159abfe84c3d25562568047e57b95fd",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Közleményt adott ki a Lezsák-család: követelik a téves közzététel teljes kivizsgálását és a felelősök megnevezését",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/kozlemenyt-adott-ki-a-lezsak-csalad-kovetelik-a-teves-kozzetetel-teljes-kivizsgalasat-es-a-felelosok-megnevezeset"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Lezsák Sándor lánya: A bocsánatkérést tudomásul vesszük, de ezzel az ügy nem zárulhat le",
+        "link": "https://telex.hu/ugynokaktak/2026/11/05/boka-janos-retvari-bence-lezsak-anna-sajtotajekoztato-ugynokaktak"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Tiszás ügynökbotrány - Bóka János szerint Magyar Péter elkésett a bocsánatkéréssel",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/tiszas-ugynokbotrany-sajtotajekoztato-a-magyar-emberek-tizezreit-erinto-sulyos-torvenysertesrol"
+      }
+    ],
+    "published_at": 1793882754,
+    "title_hu": "A Lezsák család kivizsgálást és felelősségre vonást követel az adatközlési hiba miatt",
+    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára bocsánatot kért, miután Lezsák Sándor neve tévesen jelent meg egy nyilvános adatbázisban; a levéltár szerint informatikai hiba történt, Lezsák pedig megfigyelt személy volt. A család elfogadja a bocsánatkérést, de teljes körű vizsgálatot és felelősségre vonást követel.",
+    "content_hu": "• **A család követelései** Lezsák Anna a család közleményét felolvasva azt mondta: a bocsánatkérés nem zárja le az ügyet. A család a téves közzététel körülményeinek kivizsgálását, a felelősök megnevezését és a jogi következmények érvényesítését követeli, továbbá a levéltár vezetőjének lemondását is szorgalmazza.\n\n• **A téves adatközlés háttere** Az ÁBTL tájékoztatása szerint Lezsák Sándor nem volt hálózati személy, hanem a kommunista rendszer megfigyeltje; neve informatikai hiba miatt került az adatbázisba. A levéltár bocsánatot kért, a téves adatot pedig eltávolították.\n\n• **Politikai követelések** A sajtótájékoztatón Bóka János és Rétvári Bence politikai felelősség megállapítását sürgette. Bóka a honlap leállítását és parlamenti vizsgálóbizottság kezdeményezését is kilátásba helyezte, ha nem tisztázódik, hogy szerepelnek-e további tévesen megjelölt nevek.",
+    "importance_score": 38.0
   },
   {
     "group_id": "group_57055b8245",
@@ -1768,30 +1776,6 @@
     "importance_score": 38.0
   },
   {
-    "group_id": "group_0a40de8010",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fd1d7a71-6e04-44f3-b5e6-3e1d95e7a0c5.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Azurák Csaba lett az Egyenes Beszéd új műsorvezetője",
-        "link": "https://hvg.hu/itthon/20261105_azurak-csaba-egyenes-beszed-musorvezeto"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Azurák Csaba visszatér a képernyőre, az ATV-nél kapott fontos szerepet",
-        "link": "https://24.hu/elet-stilus/2026/11/05/azurak-csaba-atv-egyenes-beszed/"
-      }
-    ],
-    "published_at": 1793892850,
-    "title_hu": "Azurák Csaba lett az Egyenes Beszéd új műsorvezetője",
-    "lead_hu": "A műsorvezető Rónai Egont váltja, azt mondta, már régóta napirenden volt az ATV-s leigazolása....",
-    "content_hu": "A műsorvezető Rónai Egont váltja, azt mondta, már régóta napirenden volt az ATV-s leigazolása.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_e22bd3f89f",
     "fingerprint": "87bcd4b7a58f383e9a7570a375ff433e",
     "category": "Gazdaság",
@@ -1996,32 +1980,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_a4ff61f11c",
-    "fingerprint": "f6db056dc26e40bc83cfabf2e6cca34a",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Bóka János: A Tisza, igazi újkommunista tempóval összemossa az elkövetőket az áldozatokkal",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/boka-janos-a-tisza-igazi-ujkommunista-tempoval-osszemossa-az-elkovetoket-az-aldozatokkal"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Lezsák Anna: Az ügynökaktákkal a Tisza erkölcsileg és politikailag megbukott",
-        "link": "https://index.hu/belfold/2026/11/05/ugynokaktak-boka-janos-retvari-bence-lezsak-anna-sajtotajekoztato/"
-      }
-    ],
-    "published_at": 1793882880,
-    "title_hu": "Politikai felelősséget követelnek a Lezsák Sándort érintő adatközlési hiba miatt",
-    "lead_hu": "Lezsák Sándor neve tévesen ügynökként jelent meg az állambiztonsági iratokat közzétevő adatbázisban, holott megfigyelt személy volt. A Fidesz és a KDNP politikusai vizsgálatot, felelősségre vonást és a nyilvános adatbázis átmeneti leállítását követelték; az ÁBTL informatikai hibára hivatkozva bocsánatot kért.",
-    "content_hu": "• **Téves adatközlés:** Lezsák Sándor neve az ügynökakták nyilvános adatbázisában hálózati személyként jelent meg, noha megfigyelt volt; az ÁBTL ezt informatikai hibával magyarázta.\n\n• **Politikai követelések:** Bóka János a honlap átmeneti leállítását és a politikai felelősség megállapítását sürgette. A Fidesz parlamenti vizsgálóbizottságot is kezdeményezhet, ha nem rendezik az ügyet.\n\n• **Lezsák Anna álláspontja:** A képviselő családja elfogadta a levéltár bocsánatkérését, de vizsgálatot, felelősségre vonást és a levéltár főigazgatójának lemondását követelte.\n\n• **Bocsánatkérés:** Magyar Péter is elnézést kért Lezsák Sándortól. A Fidesz és a KDNP politikusai szerint azonban a bocsánatkérés nem helyettesíti a politikai felelősség tisztázását.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_95761b3fea",
     "fingerprint": "12db7362e19f7de241eb812f1a6a58f8",
     "category": "Általános",
@@ -2051,6 +2009,32 @@
     "lead_hu": "A Pest Vármegyei Kormányhivatal higiéniai és élelmiszer-biztonsági hiányosságok, köztük jelentős rágcsálószennyezettség miatt felfüggesztette a Semmelweis Egyetem étkeztetését végző Gasztvitál-csoport Balassa utcai főzőkonyhájának három helyiségét. Az egyetem szerint a klinikai étkeztetés zavartalan, megbetegedésről sem az intézmény, sem a hatóság nem tud. Az egyetem napi belső ellenőrzést vezetett be, a Gasztvitál szerződése pedig hamarosan lejár.",
     "content_hu": "• **Október 12-i ellenőrzés** A kormányhivatal élelmiszer-biztonsági felügyelői jelentős rágcsálószennyezettséget és további higiéniai problémákat tártak fel, ezért még aznap elrendelték egyes helyiségek használatának felfüggesztését.\n\n• **Három helyiség érintett** A korlátozás a gluténmentes konyhára, az a la carte ételek kiadására szolgáló helyiségre, valamint a kis étkezésekhez használt krémek készítőhelyiségére vonatkozik.\n\n• **A lezárás a hibák kijavításáig tart** A Gasztvitál-csoportnak igazolnia kell a hiányosságok megszüntetését; a hatóság eljárást is indított az üzemeltetővel szemben.\n\n• **Az étkeztetés zavartalan** A Semmelweis Egyetem közlése szerint a részleges lezárás nem okoz fennakadást a klinikai étkeztetésben és a betegellátásban. Sem az egyetem, sem a kormányhivatal nem tud a higiéniai helyzettel összefüggő megbetegedésről vagy fertőzésről.\n\n• **Napi belső ellenőrzés** Az egyetem a jegyzőkönyv kézhezvétele után, október 13-án azonnali hatállyal felszólította a Gasztvitált a szerződésszegő állapot megszüntetésére. A vizsgálat óta napi szintű belső minőségellenőrzést tartanak a konyhán.\n\n• **Napi több ezer adag étel** A Gasztvitál 2024-ben vette át az egyetem étkeztetését. A Balassa utcai főzőkonyha és étterem mellett a Pető András Kar éttermét és az Elméleti Orvostudományi Központ büféjét is működteti; naponta átlagosan mintegy kétezer adag ételt készít a betegeknek, és körülbelül ezer dolgozó ebédjéről gondoskodik.\n\n• **Hamarosan lejár a szerződés** A Gasztvitállal kötött határozott idejű szerződés hamarosan lejár, az egyetem pedig várhatóan még idén kiírja az új közbeszerzést.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_470c144651",
+    "fingerprint": "a7d159b40c78d729e36a281531ddd356",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0803252722-61-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Baleset és mentőhelikopter az M1-esen",
+        "link": "https://24.hu/belfold/2026/11/05/m1-es-autopalya-baleset-mentohelikopter-2/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Lezárták az M1-es autópálya Budapest felé vezető egyik szakaszát, kamion és kisbusz karambolozott",
+        "link": "https://index.hu/belfold/2026/11/05/m1-autopalya-baleset-budapest-bicske-kamion-kisbusz-mentohelikopter/"
+      }
+    ],
+    "published_at": 1793882880,
+    "title_hu": "Kamion és kisbusz ütközött az M1-es autópályán",
+    "lead_hu": "Kamion és kisbusz karambolozott az M1-es autópálya Budapest felé vezető oldalán, Bicske közelében. A sztrádaszakaszt lezárták, a balesethez mentőhelikoptert is riasztottak.",
+    "content_hu": "• **Lezárták az érintett szakaszt:** Kamion és kisbusz ütközött az M1-es autópálya Budapest felé vezető oldalán, Bicske közelében.\n\n• **Terelés:** Az autósok a 48-as, Szárliget-csomópontnál hajthatnak le, majd az 1-es főúton kerülhetnek, és Herceghalomnál térhetnek vissza az autópályára.\n\n• **Mentés:** A bicskei önkormányzati tűzoltók feszítővágóval emeltek ki egy embert a furgonból. A helyszínre mentőhelikopter is érkezett.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_40667424c3",
@@ -2470,6 +2454,32 @@
     "lead_hu": "Dmitrij Peszkov, a Kreml szóvivője szerint Oroszország bízik abban, hogy Donald Trump az amerikai félidős választások után is folytatja az ukrajnai konfliktus rendezésére irányuló erőfeszítéseit. Peszkov Melania Trump humanitárius munkáját is említette, és reményét fejezte ki, hogy ezek az erőfeszítések folytatódnak.",
     "content_hu": "• **A Kreml reménye** Dmitrij Peszkov szerint Oroszország azt szeretné, ha Donald Trump a félidős választások után is folytatná az ukrajnai konfliktus rendezésére irányuló békeerőfeszítéseit.\n\n• **Közelgő tárgyalások** Peszkov azt mondta, már történt előrelépés, és hamarosan sor kerülhet az orosz–amerikai–ukrán háromoldalú tárgyalások újabb fordulójára.\n\n• **Melania Trump humanitárius munkája** Peszkov az amerikai first lady humanitárius erőfeszítéseit is megemlítette, és azt mondta, remélik, hogy ezek folytatódnak.\n\n• **Amerikai belügy** Arra a kérdésre, hogy a Kongresszus akadályozhatja-e Trump erőfeszítéseit, Peszkov azt felelte: „ez Amerika belügye”.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_a4ff61f11c",
+    "fingerprint": "f6db056dc26e40bc83cfabf2e6cca34a",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Bóka János: A Tisza, igazi újkommunista tempóval összemossa az elkövetőket az áldozatokkal",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/boka-janos-a-tisza-igazi-ujkommunista-tempoval-osszemossa-az-elkovetoket-az-aldozatokkal"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Lezsák Anna: Az ügynökaktákkal a Tisza erkölcsileg és politikailag megbukott",
+        "link": "https://index.hu/belfold/2026/11/05/ugynokaktak-boka-janos-retvari-bence-lezsak-anna-sajtotajekoztato/"
+      }
+    ],
+    "published_at": 1793882880,
+    "title_hu": "Politikai felelősséget követelnek a Lezsák Sándort érintő adatközlési hiba miatt",
+    "lead_hu": "Lezsák Sándor neve tévesen ügynökként jelent meg az állambiztonsági iratokat közzétevő adatbázisban, holott megfigyelt személy volt. A Fidesz és a KDNP politikusai vizsgálatot, felelősségre vonást és a nyilvános adatbázis átmeneti leállítását követelték; az ÁBTL informatikai hibára hivatkozva bocsánatot kért.",
+    "content_hu": "• **Téves adatközlés:** Lezsák Sándor neve az ügynökakták nyilvános adatbázisában hálózati személyként jelent meg, noha megfigyelt volt; az ÁBTL ezt informatikai hibával magyarázta.\n\n• **Politikai követelések:** Bóka János a honlap átmeneti leállítását és a politikai felelősség megállapítását sürgette. A Fidesz parlamenti vizsgálóbizottságot is kezdeményezhet, ha nem rendezik az ügyet.\n\n• **Lezsák Anna álláspontja:** A képviselő családja elfogadta a levéltár bocsánatkérését, de vizsgálatot, felelősségre vonást és a levéltár főigazgatójának lemondását követelte.\n\n• **Bocsánatkérés:** Magyar Péter is elnézést kért Lezsák Sándortól. A Fidesz és a KDNP politikusai szerint azonban a bocsánatkérés nem helyettesíti a politikai felelősség tisztázását.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_6f4b582bb4",
@@ -3552,30 +3562,42 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_e0e8f297a4",
-    "fingerprint": "50fd4f719efe94d60d124f2f1a28b5e2",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "group_id": "group_b056eae7d0",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/mta.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "Index - Címlap",
-        "title": "Közösségi oldalán üzent a Fehér Ház: Trump továbbra is az elnökötök",
-        "link": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/feher-haz-trump-tovabbra-is-az-elnokotok/"
-      },
-      {
-        "source": "444.hu",
-        "title": "A Fehér Ház emlékeztette az amerikaikat, hogy még mindig Trump az elnök",
-        "link": "https://444.hu/2026/11/04/a-feher-haz-emlekeztette-az-amerikaikat-hogy-meg-mindig-trump-az-elnok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        "source": "24.hu - Legfrissebb",
+        "title": "Kinevezés: megvan a HUN-REN új vezérigazgatója",
+        "link": "https://24.hu/belfold/2026/11/05/kinevezes-hun-ren-vezerigazgato/"
       }
     ],
-    "published_at": 1793807221,
-    "title_hu": "A Fehér Ház emlékeztetett: Trump továbbra is az elnök",
-    "lead_hu": "A demokraták félidős választási győzelme után a Fehér Ház az X-en közzétett üzenetben emlékeztetett arra, hogy Donald Trump továbbra is az Egyesült Államok elnöke. A választási eredmények nyomán januártól a demokratáké lesz a többség a Kongresszus mindkét házában.",
-    "content_hu": "• **A Fehér Ház üzenete** Egy morcos Trump-fotó mellé azt írták az X-en: „Közérdekű közlemény: Trump még mindig az elnökötök”, majd hozzátették: „Köszönjük, hogy figyelmet szenteltetek ennek az ügynek.”\n\n• **Demokrata győzelem** A félidős választások eredménye alapján a demokraták átveszik a többséget a Kongresszus mindkét házában, ami új politikai helyzetet teremt Washingtonban.\n\n• **Következmények Trump számára** A demokrata többség nagyobb ellenőrzést gyakorolhat az elnöki hatalom felett, és megnehezítheti Trump ciklusának hátralévő két évét.",
-    "importance_score": 20.0
+    "published_at": 1793893563,
+    "title_hu": "Kinevezés: megvan a HUN-REN új vezérigazgatója",
+    "lead_hu": "Nemrég megváltozott a testület vezetése is. The post Kinevezés: megvan a HUN-REN új vezérigazgatója first appeared on 24.hu....",
+    "content_hu": "Nemrég megváltozott a testület vezetése is. The post Kinevezés: megvan a HUN-REN új vezérigazgatója first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a11762178e",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/s/z/e/szemelyi-igazolvany-867198.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Több tízezer embernek kell kicserélnie a személyi igazolványát – figyelmeztet a minisztérium",
+        "link": "https://www.portfolio.hu/gazdasag/20261105/tobb-tizezer-embernek-kell-kicserelnie-a-szemelyi-igazolvanyat-figyelmeztet-a-miniszterium-874528"
+      }
+    ],
+    "published_at": 1793893500,
+    "title_hu": "Több tízezer embernek kell kicserélnie a személyi igazolványát – figyelmeztet a minisztérium",
+    "lead_hu": "Mintegy 30 ezer ember használ még régi, könyv alakú személyi igazolványt, amellyel december 31-ig lehet eljárni egyes ügyekben. Új igazolványt bármelyik kormányablakban lehet igényelni, a 70. életévük...",
+    "content_hu": "Mintegy 30 ezer ember használ még régi, könyv alakú személyi igazolványt, amellyel december 31-ig lehet eljárni egyes ügyekben. Új igazolványt bármelyik kormányablakban lehet igényelni, a 70. életévüket betöltötteknek pedig díjmentesen állítják ki az állandó okmányt – hívja fel a figyelmet a Vidék- és Területfejlesztési Minisztérium a csütörtöki sajtóközleményében.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_e9a743f17d",
@@ -10836,6 +10858,25 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_178d52765d",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Önt is megviselte a tiszás rágalmazó lista? Lelkisegélyért hívja Tarr elvtársat!",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/ont-is-megviselte-a-tiszas-ragalmazo-lista-lelkisegelyert-hivja-tarr-elvtarsat"
+      }
+    ],
+    "published_at": 1793836800,
+    "title_hu": "Önt is megviselte a tiszás rágalmazó lista? Lelkisegélyért hívja Tarr elvtársat!",
+    "lead_hu": "Egy ország szégyenkezik szemlesütve, mert Rovar, Ruff és Tarr elvtárs az áldozatokat rágalmazza.Ezek bármihez nyúlnak, az teljes elbaszás.Nyilvánosságot ígértek a pártállam ügynökaktáiról.Erre összeke...",
+    "content_hu": "Egy ország szégyenkezik szemlesütve, mert Rovar, Ruff és Tarr elvtárs az áldozatokat rágalmazza.Ezek bármihez nyúlnak, az teljes elbaszás.Nyilvánosságot ígértek a pártállam ügynökaktáiról.Erre összekeverték a tettete...",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_8f6520d40f",
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/mgye_24-hu_4-pr-cikk_suzuki-1-1024x576.jpg",
@@ -14006,82 +14047,6 @@
     "title_hu": "Jóslásra kérték Orbán Viktort",
     "lead_hu": "A Fidesz elnöke a Tisza Párt jövőjéről beszélt.",
     "content_hu": "A Fidesz elnöke a Tisza Párt jövőjéről beszélt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_62b3cc8232",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1140533347-e1793802132714-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Ókovács Szilveszter a 24.hu-nak: Harácsolónak akarnak bemutatni, és ha nem lenne igazam, nem is perelnék",
-        "link": "https://24.hu/kultura/2026/11/04/okovacs-szilveszter-operahaz-kirugas-nagy-ervin-magyar-peter/"
-      }
-    ],
-    "published_at": 1793807258,
-    "title_hu": "Ókovács Szilveszter a 24.hu-nak: Harácsolónak akarnak bemutatni, és ha nem lenne igazam, nem is perelnék",
-    "lead_hu": "Megkerestük Ókovács Szilvesztert, miután november 2-án felmentették az Operaház főigazgatói posztjáról. Kérdeztük vádakról, Nagy Ervinről, Magyar Péterről is. Írásban válaszolt. The post Ókovács Szilv…",
-    "content_hu": "Megkerestük Ókovács Szilvesztert, miután november 2-án felmentették az Operaház főigazgatói posztjáról. Kérdeztük vádakról, Nagy Ervinről, Magyar Péterről is. Írásban válaszolt. The post Ókovács Szilveszter a 24.hu-nak: Harácsolónak akarnak bemutatni, és ha nem lenne igazam, nem is perelnék first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b53c2ef113",
-    "category": "Általános",
-    "image": "https://www.youtube.com/embed/dAu1lA7rrlI",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Rég nem látott mínuszok röpködnek hamarosan, már most menekítse be a muskátlikat",
-        "link": "https://www.atv.hu/belfold/20261104/minusz-nap-sut-ido/"
-      }
-    ],
-    "published_at": 1793807160,
-    "title_hu": "Rég nem látott mínuszok röpködnek hamarosan, már most menekítse be a muskátlikat",
-    "lead_hu": "Északkelet felől csökken a felhőzet, csütörtökön a ködfoltok feloszlását követően napos, csapadékmentes idő várható. Éjszaka helyenként fagypont alatti értékekre, napközben 9–12 fokos csúcsértékekre l…",
-    "content_hu": "Északkelet felől csökken a felhőzet, csütörtökön a ködfoltok feloszlását követően napos, csapadékmentes idő várható. Éjszaka helyenként fagypont alatti értékekre, napközben 9–12 fokos csúcsértékekre lehet számítani.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_3591ef4858",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Ausztriában és Németországban is találtak olyan gyerekeknek szánt édességet, amibe éles fémeket rejtettek",
-        "link": "https://index.hu/kulfold/2026/11/04/halloween-edessegek-szog-csavar-gyomro-nemetorszag/"
-      }
-    ],
-    "published_at": 1793807160,
-    "title_hu": "Ausztriában és Németországban is találtak olyan gyerekeknek szánt édességet, amibe éles fémeket rejtettek",
-    "lead_hu": "A rendőrség négy tartományban nyomoz.",
-    "content_hu": "A rendőrség négy tartományban nyomoz.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_103ca0fc6a",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Lemondott a spanyol közlekedési miniszter az urdai vasúti katasztrófa miatt",
-        "link": "https://www.vadhajtasok.hu/2026/11/04/lemondott-a-spanyol-kozlekedesi-miniszter-az-urdai-vasuti-katasztrofa-miatt"
-      }
-    ],
-    "published_at": 1793807100,
-    "title_hu": "Lemondott a spanyol közlekedési miniszter az urdai vasúti katasztrófa miatt",
-    "lead_hu": "Lemondott kedd este Óscar Puente spanyol közlekedési miniszter a hat nappal korábban Urda kisvárosnál történt, 69 halálos áldozatot követelő vasúti katasztrófa miatt.Többórás parlamenti meghallgatása …",
-    "content_hu": "Lemondott kedd este Óscar Puente spanyol közlekedési miniszter a hat nappal korábban Urda kisvárosnál történt, 69 halálos áldozatot követelő vasúti katasztrófa miatt.Többórás parlamenti meghallgatása után Puente közölte, hogy...",
     "importance_score": 0.0
   },
   {
