@@ -32,47 +32,6 @@
     ]
   },
   {
-    "group_id": "group_bbca009a15",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Szikora Róbert hálózati személy volt, az énekes szerint senkiről nem jelentett semmit",
-        "link": "https://telex.hu/ugynokaktak/2026/11/04/r-go-szikora-robert-kornyei-attila-hungaria-kekes-zoltan",
-        "image": "https://assets.telex.hu/images/20261104/1793796811-temp-7hi637de7c2s5klheop_cimlap-normal.jpg",
-        "summary": "Szikora mellett az R-GO másik alapítótagjáról, Környei Attiláról és a Hungáriából vagy a Dolly Rollból ismert Kékes Zoltánról is előkerült 6-os karton. Róluk korábban nem lehetett tudni, hogy hálózati személyek voltak.",
-        "category": "Politika",
-        "published_at": 1793797652
-      }
-    ]
-  },
-  {
-    "group_id": "group_5a4b896bf5",
-    "category": "Kultúra",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Szándékosan fertőzött meg 1,3 millió Android-eszközt egy kínai gyártó",
-        "link": "https://hvg.hu/tudomany/20261104_google-android-eszkozok-videostrong-botnet-fertozes",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dfd21a70-9508-48ef-b93d-c7ee115647e5.jpg",
-        "summary": "Éveken keresztül adott ki botnetet tartalmazó androidos eszközöket a kínai Videostrong, a Google azonban végül lefülelte a tevékenységet.",
-        "category": "Kultúra",
-        "published_at": 1793797380
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "1,3 millió androidos készüléket fertőzött meg a Google kínai partnere",
-        "link": "https://24.hu/tech/2026/11/05/google-kinai-partner-hatso-kapu-13-millio-eszkoz/",
-        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1311125683-e1793864672226-1024x577.jpg",
-        "summary": "A Google egyik kínai partnere, a Videostrong a fertőzött eszközöket a tulajdonosok tudta nélkül használta fel „rosszindulatú tevékenységekhez”. The post 1,3 millió androidos készüléket fertőzött meg a Google kínai partnere first appeared on 24.hu.",
-        "category": "Kultúra",
-        "published_at": 1793864704
-      }
-    ]
-  },
-  {
     "group_id": "group_9ba6b24fba",
     "category": "Politika",
     "articles_count": 1,
@@ -304,22 +263,6 @@
         "summary": "Egy évtized után a Microsoft lehetővé tette, hogy orvosoljuk a dolgot.",
         "category": "Kultúra",
         "published_at": 1793798260
-      }
-    ]
-  },
-  {
-    "group_id": "group_0a8d40671b",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "6 elfeledett őszi magyar étel, amelyet érdemes újra elővenni",
-        "link": "https://nlc.hu/ezvan/20261104/hagyomanyos-oszi-magyar-etelek/0kwe986",
-        "image": "",
-        "summary": "A régi magyar konyha tele volt olyan őszi ételekkel, amelyek egyszerű, olcsó alapanyagokból készültek, mégis igazán laktatóak voltak. Nagyanyáink sokszor néhány hozzávalóból varázsoltak tartalmas ebédet, ezek a hagyományos fogások azonban mára háttérbe szorultak. Vajon melyik hat elfeledett receptet érdemes újra elővenni a hűvös napokon? The post 6 elfeledett őszi magyar étel, amelyet érdemes újra elővenni first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1793797380
       }
     ]
   },
@@ -903,22 +846,6 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1793798642
-      }
-    ]
-  },
-  {
-    "group_id": "group_56d455c0bb",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Baczakó Péter neve is szerepel az aktákban",
-        "link": "https://index.hu/belfold/2026/11/04/ugynokaktak-megnyitasa-ugynokaktak-hu-allambiztonsag-dokumentumok-adatbazis/baczako-peter-titkos-megbizott-volt-az-aktak-szerint/",
-        "image": "https://kep.index.hu/1/0/7241/72414/724140/72414061_5a652fd13778a5362247884810c02a4f_wm.jpg",
-        "summary": "",
-        "category": "Általános",
-        "published_at": 1793797593
       }
     ]
   },
@@ -9128,6 +9055,22 @@
     ]
   },
   {
+    "group_id": "group_5a4b896bf5",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "1,3 millió androidos készüléket fertőzött meg a Google kínai partnere",
+        "link": "https://24.hu/tech/2026/11/05/google-kinai-partner-hatso-kapu-13-millio-eszkoz/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1311125683-e1793864672226-1024x577.jpg",
+        "summary": "A Google egyik kínai partnere, a Videostrong a fertőzött eszközöket a tulajdonosok tudta nélkül használta fel „rosszindulatú tevékenységekhez”. The post 1,3 millió androidos készüléket fertőzött meg a Google kínai partnere first appeared on 24.hu.",
+        "category": "Kultúra",
+        "published_at": 1793864704
+      }
+    ]
+  },
+  {
     "group_id": "group_8decba815c",
     "category": "Bulvár",
     "articles_count": 1,
@@ -9648,7 +9591,7 @@
   {
     "group_id": "group_a933241565",
     "category": "Politika",
-    "articles_count": 5,
+    "articles_count": 6,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -9694,6 +9637,15 @@
         "summary": "Bóka János kijelentette, követelik Ruff Bálint, Tarr Zoltán és Tanács Zoltán lemondását is, illetve parlamenti vizsgálóbizottság felállítását helyezte kilátásba. Rétvári Bence szerint Magyar Péter az, akinek vállalnia kell a felelősséget, Lezsák Sándor lánya pedig az ÁBLT főigazgatójának lemondását követeli. The post Lezsák Anna az ÁBTL főigazgatójának lemondását követeli first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1793881063
+      },
+      {
+        "source": "444.hu",
+        "title": "Forradalmi hangulatba került a Fidesz-KDNP: követelik Ruff, Tanács és Tarr lemondását, kirúgatnák a levéltár főigazgatóját, és mindenkit beperelnek",
+        "link": "https://444.hu/2026/11/05/forradalmi-hangulatba-kerult-a-fidesz-kdnp-kovetelik-ruff-tanacs-es-tarr-lemondasat-kirugatnak-a-leveltar-foigazgatojat-es-mindenkit-beperelnek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Lezsák Sándor lánya a Fidesz és a KDNP frakcióvezetőinek oldalán jelentette be Magyar Péter bukását az apját érintő informatikai hiba miatt.",
+        "category": "Politika",
+        "published_at": 1793883792
       }
     ]
   },
@@ -11970,7 +11922,7 @@
   {
     "group_id": "group_cd828dc036",
     "category": "Kultúra",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "PC World",
@@ -11980,6 +11932,15 @@
         "summary": "Több tényező is irányváltásra kényszeríti a redmondi anyahajót.",
         "category": "Kultúra",
         "published_at": 1793875944
+      },
+      {
+        "source": "Rakéta.hu",
+        "title": "A Microsoft rájött, hogyan gyorsíthatja fel a Windows 11-et azokon a gépeken, amelyekben kevesebb a memória",
+        "link": "https://raketa.hu/windows-11-ram-memoriakezeles-optimalizalas/",
+        "image": "https://raketa.hu/uploads/2026/11/windowslaptop.jpg",
+        "summary": "A memóriadrágulás miatt egyre nagyobb kihívást jelent, hogy a számítógépek megfizethetőek maradjanak, miközben a Windows 11 erőforrásigénye sem csökken. A Microsoft most szokatlan megoldással próbál javítani a helyzeten.",
+        "category": "Kultúra",
+        "published_at": 1793884096
       }
     ]
   },
@@ -12437,7 +12398,7 @@
         "image": "https://pcdn.hu/articles/images-lg/k/e/s/keszul-valami-strategiai-cel-lett-az-mnb-nel-a-bankok-hatekonyabba-tetele-303097.jpg",
         "summary": "Csütörtök délután tartja következő ülését az MNB Működésével Kapcsolatos Visszaéléseit Feltáró Vizsgálóbizottság a parlamentben. A testület még a letartóztatása előtt beidézte Matolcsy György korábbi jegybankelnököt és Varga Mihályt, az MNB jelenlegi vezetőjét. Az előzetes letartóztatásban lévő Matolcsyt ma biztos nem hallgatja meg a bizottság, a védője viszont a hírek szerint beszámol az álláspontjáról, második napirendi pontként pedig Varga Mihály személyesen beszél a képviselők előtt.",
         "category": "Politika",
-        "published_at": 1793883360
+        "published_at": 1793883900
       }
     ]
   },
@@ -13290,6 +13251,86 @@
         "summary": "Több mint 13 ezer szavazat érkezett: ők lettek a Mesélő Pedagógus és Könyvtáros Díj közönségdíjasai The post Több mint 13 ezer szavazat érkezett: ők lettek a Mesélő Pedagógus és Könyvtáros Díj közönségdíjasai first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1793883066
+      }
+    ]
+  },
+  {
+    "group_id": "group_10ece8807e",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Dohánygyár #15: Vége az Otthon Start Programnak, indul a Wekerle+. És akkor most mi lesz?",
+        "link": "https://444.hu/2026/11/05/dohanygyar-15-vege-az-otthon-start-programnak-indul-a-wekerle-es-akkor-most-mi-lesz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Ki jár jobban, ki rosszabbul? Milyen szigorításokkal számoljunk? Milyen hatással lesz mindez a lakáspiacra? És az építőiparra? És még megannyi kínzó kérdés.",
+        "category": "Politika",
+        "published_at": 1793883657
+      }
+    ]
+  },
+  {
+    "group_id": "group_64d223ad0c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Hankó-ügy: megszólaltattuk a NAV elnökét",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/hanko-ugy-megszolaltattuk-a-nav-elnok-sadt-monika-kiseres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/10/4sYL9ULax0WDEk9065WvZyzBBlZv0GfhmW3zsPSf0cU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQwNjRkMjI0YjI3MTRmNTA5MWI0NmZlYmRjYmNmZGNj.jpg",
+        "summary": "A frissen kinevezett Sádt Mónikától azt kérdeztük, nem tart-e attól, hogy a volt miniszter elleni eljárásban tanúsított fellépése miatt a NAV-ot a hatalom kiszolgálójának bélyegzi majd a nyilvánosság.",
+        "category": "Politika",
+        "published_at": 1793883873
+      }
+    ]
+  },
+  {
+    "group_id": "group_83c4576062",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Megkeresik az érintetteket",
+        "link": "https://24.hu/fn/gazdasag/2026/11/05/megkeresik-az-erintetteket/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-0864262015-1024x576.jpg",
+        "summary": "A napirendi pontról szóló vita végén a vizsgálóbizottság egyhangúlag amellett szavazott, hogy Csőszi keresse meg az érintett szervetket és a volt jegybankelnök ügyvédjét arról, hogy milyen meghallgatás volna lehetséges. The post Megkeresik az érintetteket first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1793883833
+      }
+    ]
+  },
+  {
+    "group_id": "group_46ec55b206",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ígéretes fiatalból könnyes szemű legenda – Cristiano Ronaldo válogatottságának története képekben",
+        "link": "https://24.hu/sport/foci/2026/11/05/cristiano-ronaldo-valogatott-palyafutasa-galeria/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-546032468-e1793883729797-1024x575.jpg",
+        "summary": "Egy 23 évig tartó hihetetlen időszak legfontosabb állomásai. The post Ígéretes fiatalból könnyes szemű legenda – Cristiano Ronaldo válogatottságának története képekben first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1793883765
+      }
+    ]
+  },
+  {
+    "group_id": "group_7a2ecee1bd",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "A republikánusokkal együtt az adatközpontok is elbuktak az amerikai félidős választáson",
+        "link": "https://hvg.hu/tudomany/20261105_amerikai-felidos-valasztas-szavazas-adatkozpont-epitese",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/810f8719-9585-40d0-9b19-a39e3fb6f2ae.jpg",
+        "summary": "Több helyen is referendumot tartottak az Egyesült Államokban a félidős szavazással egyidőben, amelyeken arról kellett dönteni, hogy a helyiek támogatják-e az adatközpontok építését.",
+        "category": "Kultúra",
+        "published_at": 1793883780
       }
     ]
   }
