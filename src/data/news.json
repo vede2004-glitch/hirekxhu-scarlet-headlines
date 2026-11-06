@@ -1915,32 +1915,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_aa1f812207",
-    "fingerprint": "86ff02a68f8d8781227d914256f250ba",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0803254288-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "60 kilométeren át menekült kilőtt kerékkel az M0-son, forgalommal szemben a BMW-s",
-        "link": "https://24.hu/belfold/2026/11/05/autos-uldozes-bmw-autopalya-kilott-kerek-forgalommal-szemben/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Több mint 60 kilométeren át üldöztek egy forgalommal szemben menekülő sofőrt az M0-s autópályán",
-        "link": "https://telex.hu/belfold/2026/11/05/rendorseg-uldozes-auto-utkozes-m0"
-      }
-    ],
-    "published_at": 1793907158,
-    "title_hu": "Hatvan kilométeren át menekült a rendőrök elől egy sofőr az M0-son",
-    "lead_hu": "A rendőrök Dányban akarták megállítani a biztosítás nélkül közlekedő autóst, aki menekülni kezdett. Egy járőr kilőtte az autó egyik kerekét, de a sofőr a felnin gurulva, egy ideig a forgalommal szemben haladva is tovább menekült.",
-    "content_hu": "• **Az üldözés kezdete:** A rendőrök Dányban akarták megállítani a sofőrt, mert az autóján nem volt kötelező biztosítás, ám a férfi a felszólítás ellenére elhajtott.\n\n• **Kilőtt kerékkel is továbbment:** Egy járőr kilőtte az autó egyik kerekét, de a sofőr a felnin gurulva folytatta az útját.\n\n• **Hatvan kilométeren át tartott a menekülés:** Az autós az M0-son egy ideig a forgalommal szemben haladt, majd Nagytéténynél a szalagkorlátnak ütközött.\n\n• **A sofőrt és utasait kórházba vitték:** A férfit elfogták, őt és két utasát könnyű sérülésekkel szállították kórházba. A sofőr ellen közúti veszélyeztetés miatt indulhat eljárás.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_cba6dc8eda",
     "category": "Gazdaság",
     "image": "https://s.24.hu/app/uploads/2026/11/central-0864262015-1024x576.jpg",
@@ -2014,7 +1988,7 @@
     "title_hu": "Megszüntette a kormány a boszniai szerb gazdáknak szánt támogatási programot",
     "lead_hu": "A magyar kormány leállította a Boszniai Szerb Köztársaságnak szánt támogatást, amelyből a helyi gazdák magyar mezőgazdasági gépeket vásárolhattak. A program a 2022-ben bejelentett, 100 millió eurós segélycsomag része volt; a megszüntetés okáról és a fennmaradó források sorsáról egyelőre nincs nyilvános információ.",
     "content_hu": "• **Megszűnt a támogatás** A magyar kormány leállította a Boszniai Szerb Köztársaság mezőgazdasági gépvásárlásait segítő programot.\n\n• **A 2022-es segélycsomag része volt** A programot Orbán Viktor és Milorad Dodik jelentette be a 100 millió eurós csomag részeként. A boszniai szerb gazdák magyar gyártású gépeket vásárolhattak, legalább 30 százalékos önrész vállalásával.\n\n• **Nem ismert a döntés indoka** A sajtóbeszámolók szerint a magyar kormány és a programot lebonyolító Közép-európai Gazdaságfejlesztési Hálózat nem adott tájékoztatást a leállítás okáról, a program esetleges folytatásáról vagy a fennmaradó pénz sorsáról.",
-    "importance_score": 28.0
+    "importance_score": 25.0
   },
   {
     "group_id": "group_470c144651",
@@ -2271,6 +2245,32 @@
     "lead_hu": "Gadi Ejzenkot, az Egyenesen (Jasár) párt vezetője a várakozások szerint több képviselő támogatását szerezheti meg a kormányalakítási megbízáshoz, mint Benjamin Netanjahu. Jichák Hercog államfő a pártvezetőkkel folytatott egyeztetések alapján dönt arról, kit bíz meg a kormány létrehozásával.",
     "content_hu": "• **Ejzenkot előnyben van az ajánlásoknál:** Várhatóan legalább 56 képviselő támogatja őt, míg Netanjahu mögött 53 ajánlás áll.\n\n• **Legfeljebb 42 napja lehet a kormányalakításra:** Ha Hercog Ejzenkotot bízza meg, ennyi idő áll rendelkezésére egy új koalíció létrehozására.\n\n• **A mandátumok száma önmagában nem döntő:** Bár Netanjahu Likudja szerezte a legtöbb mandátumot, az államfő annak a képviselőnek adja a megbízást, akinek a legnagyobb esélyt látja a kormányalakításra.\n\n• **Megosztottak a pártok:** Több párt Ejzenkotot, mások Netanjahut támogatják; egyes képviselők még nem döntöttek, vagy nem neveztek meg jelöltet.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_aa1f812207",
+    "fingerprint": "86ff02a68f8d8781227d914256f250ba",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0803254288-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "60 kilométeren át menekült kilőtt kerékkel az M0-son, forgalommal szemben a BMW-s",
+        "link": "https://24.hu/belfold/2026/11/05/autos-uldozes-bmw-autopalya-kilott-kerek-forgalommal-szemben/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Több mint 60 kilométeren át üldöztek egy forgalommal szemben menekülő sofőrt az M0-s autópályán",
+        "link": "https://telex.hu/belfold/2026/11/05/rendorseg-uldozes-auto-utkozes-m0"
+      }
+    ],
+    "published_at": 1793907158,
+    "title_hu": "Hatvan kilométeren át menekült a rendőrök elől egy sofőr az M0-son",
+    "lead_hu": "A rendőrök Dányban akarták megállítani a biztosítás nélkül közlekedő autóst, aki menekülni kezdett. Egy járőr kilőtte az autó egyik kerekét, de a sofőr a felnin gurulva, egy ideig a forgalommal szemben haladva is tovább menekült.",
+    "content_hu": "• **Az üldözés kezdete:** A rendőrök Dányban akarták megállítani a sofőrt, mert az autóján nem volt kötelező biztosítás, ám a férfi a felszólítás ellenére elhajtott.\n\n• **Kilőtt kerékkel is továbbment:** Egy járőr kilőtte az autó egyik kerekét, de a sofőr a felnin gurulva folytatta az útját.\n\n• **Hatvan kilométeren át tartott a menekülés:** Az autós az M0-son egy ideig a forgalommal szemben haladt, majd Nagytéténynél a szalagkorlátnak ütközött.\n\n• **A sofőrt és utasait kórházba vitték:** A férfit elfogták, őt és két utasát könnyű sérülésekkel szállították kórházba. A sofőr ellen közúti veszélyeztetés miatt indulhat eljárás.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_088680356a",
