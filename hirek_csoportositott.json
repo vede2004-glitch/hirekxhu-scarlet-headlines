@@ -32,22 +32,6 @@
     ]
   },
   {
-    "group_id": "group_6535e7a29d",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Marabu Féknyúz: Fejes Péter",
-        "link": "https://hvg.hu/itthon/20261105_marabu-feknyuz-fejes-peter-legfobb-ugyesz",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9a525d98-b4ef-4c13-bbcd-f314f6199130.jpg",
-        "summary": "Ne is próbálj befolyásolni!",
-        "category": "Politika",
-        "published_at": 1793852880
-      }
-    ]
-  },
-  {
     "group_id": "group_47f7dbb186",
     "category": "Általános",
     "articles_count": 1,
@@ -60,49 +44,6 @@
         "summary": "Kimondottan aggasztó eredményeket közölt a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság az USB-töltőkről.",
         "category": "Általános",
         "published_at": 1793853300
-      }
-    ]
-  },
-  {
-    "group_id": "group_19888da89a",
-    "category": "Politika",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Társadalmi egyeztetésre bocsátja a rendészeti törvénycsomagot a kormány",
-        "link": "https://hvg.hu/itthon/20261105_tarsadalmi-egyeztetes-rendeszeti-torvenycsomag-kormany-posfai-gabor",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9218bee3-bbf7-411a-85b8-7ba0934d3314.jpg",
-        "summary": "Kiemelt cél a rendőrség állományának tehermentesítése, a tűzoltókat ismét tűzoltóknak fogják hívni.",
-        "category": "Politika",
-        "published_at": 1793852580
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Társadalmi egyeztetésre kerül a rendészeti törvénycsomag",
-        "link": "https://telex.hu/belfold/2026/11/05/tarsadalmi-egyeztetesre-kerul-a-rendeszeti-torvenycsomag",
-        "image": "https://assets.telex.hu/images/20261105/1793854870-temp-pke9mndsf1g18ejmaok_cimlap-normal.jpg",
-        "summary": "Ezt Pósfai Gábor belügyminiszter jelentette be a Facebookon.",
-        "category": "Politika",
-        "published_at": 1793854945
-      },
-      {
-        "source": "444.hu",
-        "title": "Társadalmi egyeztetés kezdődik, mindenki elmondhatja, hogy mit gondol az új rendészeti törvénycsomagról",
-        "link": "https://444.hu/2026/11/05/tarsadalmi-egyeztetes-kezdodik-mindenki-elmondhatja-hogy-mit-gondol-az-uj-rendeszeti-torvenycsomagrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Több szabadság, gyorsított eljárás a közlekedési balesetek ügyében, lakossági felkészítés a tűzvédelemben, határvadászok a rendőrök mellett – ilyesmik vannak a kormány törvénycsomagjában.",
-        "category": "Politika",
-        "published_at": 1793857740
-      },
-      {
-        "source": "ATV",
-        "title": "Társadalmi egyeztetésen a rendészeti törvénycsomag: több szabadság és új feladatok jöhetnek",
-        "link": "https://www.atv.hu/belfold/20261105/rendeszet-torveny-feladat-egyeztet/",
-        "image": "https://www.youtube.com/embed/uslUV0gqi6A",
-        "summary": "A kormány társadalmi egyeztetésre bocsátja a korábban bejelentett rendészeti törvénycsomagot, mielőtt a több tucat módosítást tartalmazó javaslatot az Országgyűlés elé terjesztené – közölte Pósfai Gábor belügyminiszter szerda késő este a közösségi oldalán.",
-        "category": "Politika",
-        "published_at": 1793891760
       }
     ]
   },
@@ -365,6 +306,40 @@
         "summary": "Az ING vezető elemzője elmagyarázta, miért tekintenek így ránk.",
         "category": "Általános",
         "published_at": 1793854800
+      }
+    ]
+  },
+  {
+    "group_id": "group_19888da89a",
+    "category": "Politika",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Társadalmi egyeztetésre kerül a rendészeti törvénycsomag",
+        "link": "https://telex.hu/belfold/2026/11/05/tarsadalmi-egyeztetesre-kerul-a-rendeszeti-torvenycsomag",
+        "image": "https://assets.telex.hu/images/20261105/1793854870-temp-pke9mndsf1g18ejmaok_cimlap-normal.jpg",
+        "summary": "Ezt Pósfai Gábor belügyminiszter jelentette be a Facebookon.",
+        "category": "Politika",
+        "published_at": 1793854945
+      },
+      {
+        "source": "444.hu",
+        "title": "Társadalmi egyeztetés kezdődik, mindenki elmondhatja, hogy mit gondol az új rendészeti törvénycsomagról",
+        "link": "https://444.hu/2026/11/05/tarsadalmi-egyeztetes-kezdodik-mindenki-elmondhatja-hogy-mit-gondol-az-uj-rendeszeti-torvenycsomagrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Több szabadság, gyorsított eljárás a közlekedési balesetek ügyében, lakossági felkészítés a tűzvédelemben, határvadászok a rendőrök mellett – ilyesmik vannak a kormány törvénycsomagjában.",
+        "category": "Politika",
+        "published_at": 1793857740
+      },
+      {
+        "source": "ATV",
+        "title": "Társadalmi egyeztetésen a rendészeti törvénycsomag: több szabadság és új feladatok jöhetnek",
+        "link": "https://www.atv.hu/belfold/20261105/rendeszet-torveny-feladat-egyeztet/",
+        "image": "https://www.youtube.com/embed/uslUV0gqi6A",
+        "summary": "A kormány társadalmi egyeztetésre bocsátja a korábban bejelentett rendészeti törvénycsomagot, mielőtt a több tucat módosítást tartalmazó javaslatot az Országgyűlés elé terjesztené – közölte Pósfai Gábor belügyminiszter szerda késő este a közösségi oldalán.",
+        "category": "Politika",
+        "published_at": 1793891760
       }
     ]
   },
@@ -11700,7 +11675,7 @@
         "image": "https://raketa.hu/uploads/2026/03/jelszo.jpg",
         "summary": "Karbantartás miatt vasárnap 0 és 5 óra között leállnak az online közigazgatási portálok, így a felületükön nem lehet majd ügyeket intézni – közölte a Digitális Magyarország Ügynökség.",
         "category": "Kultúra",
-        "published_at": 1793938943
+        "published_at": 1793939365
       }
     ]
   },
