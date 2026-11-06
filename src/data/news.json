@@ -854,6 +854,40 @@
     "importance_score": 60.0
   },
   {
+    "group_id": "group_dc49aefa63",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261106/1793947443-temp-j7es5tvuhb0h3dckpna_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
+        "link": "https://telex.hu/belfold/2026/11/06/rogan-antal-vegrehajtasi-visszaeleseket-feltaro-parlamenti-vizsgalobizottsag"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Rogán Antalt december 17-re idézte be a végrehajtási visszaéléseket feltáró vizsgálóbizottság",
+        "link": "https://hvg.hu/itthon/20261106_orszaggyules-vegrehajtasi-visszaeleseket-feltaro-vizsgalobizottsag-rogan-antal-szemelyes-meghallgatas"
+      },
+      {
+        "source": "444.hu",
+        "title": "December 17-én hallgathatja meg Rogán Antalt a végrehajtási visszaéléseket feltáró bizottság",
+        "link": "https://444.hu/2026/11/06/december-17-en-hallgathatja-meg-rogan-antalt-a-vegrehajtasi-visszaeleseket-feltaro-bizottsag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
+        "link": "https://www.vadhajtasok.hu/2026/11/06/december-17-en-hallgatna-meg-rogan-antalt-a-parlament-vegrehajtasi-visszaeleseket-feltaro-bizottsaga"
+      }
+    ],
+    "published_at": 1793947488,
+    "title_hu": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
+    "lead_hu": "A testület csütörtökön döntött arról is, hogy Schadl Györgyöt és Völner Pált december 15-ra idézik be személyes meghallgatásra....",
+    "content_hu": "A testület csütörtökön döntött arról is, hogy Schadl Györgyöt és Völner Pált december 15-ra idézik be személyes meghallgatásra.",
+    "importance_score": 55.0
+  },
+  {
     "group_id": "group_a4ff61f11c",
     "fingerprint": "918e88dc5e1353e702b336b137ce430b",
     "category": "Politika",
@@ -1070,6 +1104,42 @@
     "importance_score": 50.0
   },
   {
+    "group_id": "group_2100baa6cc",
+    "fingerprint": "f0db97bc660af6c05863aa28a62d473f",
+    "category": "Gazdaság",
+    "image": "https://femina.hu/neon/media/images/benzinar_306.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Csütörtökön így változik a benzin ára: a gázolajról is megszólaltak a szakértők",
+        "link": "https://femina.hu/terasz/benzin-ara-csutortokon-gazolaj-szakertok/"
+      },
+      {
+        "source": "ATV",
+        "title": "Jelentős a különbség a benzin és a gázolaj ára között, de van egy jó hír",
+        "link": "https://www.atv.hu/belfold/20261106/benzin-gazolaj-arcsokkenes-uzemanyag/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megjött a bejelentés: így változik a benzin és a dízel ára!",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/megjott-a-bejelentes-igy-valtozik-a-benzin-es-a-dizel-ara-874632"
+      },
+      {
+        "source": "Femina",
+        "title": "Jelentősen változik pénteken a benzin ára: a gázolajért ennyit kell fizetni",
+        "link": "https://femina.hu/terasz/benzin-gazolaj-ara-pentek-uzemanyag/"
+      }
+    ],
+    "published_at": 1793939700,
+    "title_hu": "Csökkent a benzin ára, a dízelé változatlan maradt",
+    "lead_hu": "November 5-én a 95-ös benzin országos átlagára 5 forinttal mérséklődött, miközben a gázolajé nem változott. Egyes kutakon már 99 forinttal drágább a dízel literje, és a szakértők a következő hetekben nem számítanak árcsökkenésre.",
+    "content_hu": "• **Benzinár** A 95-ös benzin országos átlagára november 5-én 5 forinttal csökkent az előző naphoz képest.\n\n• **Gázolaj** A dízel ára változatlan maradt; egyes kutakon literenként akár 99 forinttal is többe kerülhet a benzinnél.\n\n• **Kilátások** A szakértők az európai dízelhiány miatt a következő hetekben nem várnak árcsökkenést, hosszabb távon viszont javulhat a helyzet.",
+    "importance_score": 48.0
+  },
+  {
     "group_id": "group_b5a27cb145",
     "fingerprint": "d1717a08d0e085db54e1cbdec9af507a",
     "category": "Gazdaság",
@@ -1134,35 +1204,6 @@
     "title_hu": "Kijavították az ügynökakták adatbázisának hibáját",
     "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára kijavította azt az informatikai hibát, amely miatt megfigyelt személyek, köztük Lezsák Sándor neve is hálózati személyként jelent meg az adatbázisban. Az ÁBTL főigazgatója szerint 164 esetben fordult elő téves adatközlés, és minden érintettől elnézést kértek.",
     "content_hu": "• **Kijavították a hibát** Cseh Gergő Bendegúz, az ÁBTL főigazgatója szerint a nyitottaktak.hu adatbázisában már nem szerepelnek tévesen felkerült nevek.\n\n• **Lezsák Sándor neve is érintett volt** A volt országgyűlési képviselő neve tévedésből került a hálózati személyek közé, noha megfigyeltként tartották nyilván.\n\n• **164 téves adatközlés történt** A főigazgató elmondta, hogy minden érintettől elnézést kértek, és továbbra is ellenőrzik a közzétett adatokat.\n\n• **Politikai és jogi következményeket sürgettek** Lezsák Anna a főigazgató lemondását követelte, a család pedig jogi lépésekre készül. A Fidesz és a KDNP az adatbázis teljes leállítását is követelte.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_dc49aefa63",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261106/1793947443-temp-j7es5tvuhb0h3dckpna_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
-        "link": "https://telex.hu/belfold/2026/11/06/rogan-antal-vegrehajtasi-visszaeleseket-feltaro-parlamenti-vizsgalobizottsag"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Rogán Antalt december 17-re idézte be a végrehajtási visszaéléseket feltáró vizsgálóbizottság",
-        "link": "https://hvg.hu/itthon/20261106_orszaggyules-vegrehajtasi-visszaeleseket-feltaro-vizsgalobizottsag-rogan-antal-szemelyes-meghallgatas"
-      },
-      {
-        "source": "444.hu",
-        "title": "December 17-én hallgathatja meg Rogán Antalt a végrehajtási visszaéléseket feltáró bizottság",
-        "link": "https://444.hu/2026/11/06/december-17-en-hallgathatja-meg-rogan-antalt-a-vegrehajtasi-visszaeleseket-feltaro-bizottsag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793947488,
-    "title_hu": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
-    "lead_hu": "A testület csütörtökön döntött arról is, hogy Schadl Györgyöt és Völner Pált december 15-ra idézik be személyes meghallgatásra....",
-    "content_hu": "A testület csütörtökön döntött arról is, hogy Schadl Györgyöt és Völner Pált december 15-ra idézik be személyes meghallgatásra.",
     "importance_score": 45.0
   },
   {
@@ -1668,37 +1709,6 @@
     "lead_hu": "Az ausztrál munkaügyi bizottság elutasította Davide Tamburella panaszát....",
     "content_hu": "Az ausztrál munkaügyi bizottság elutasította Davide Tamburella panaszát.",
     "importance_score": 40.0
-  },
-  {
-    "group_id": "group_2100baa6cc",
-    "fingerprint": "f0db97bc660af6c05863aa28a62d473f",
-    "category": "Gazdaság",
-    "image": "https://femina.hu/neon/media/images/benzinar_306.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Csütörtökön így változik a benzin ára: a gázolajról is megszólaltak a szakértők",
-        "link": "https://femina.hu/terasz/benzin-ara-csutortokon-gazolaj-szakertok/"
-      },
-      {
-        "source": "ATV",
-        "title": "Jelentős a különbség a benzin és a gázolaj ára között, de van egy jó hír",
-        "link": "https://www.atv.hu/belfold/20261106/benzin-gazolaj-arcsokkenes-uzemanyag/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Megjött a bejelentés: így változik a benzin és a dízel ára!",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/megjott-a-bejelentes-igy-valtozik-a-benzin-es-a-dizel-ara-874632"
-      }
-    ],
-    "published_at": 1793939700,
-    "title_hu": "Csökkent a benzin ára, a dízelé változatlan maradt",
-    "lead_hu": "November 5-én a 95-ös benzin országos átlagára 5 forinttal mérséklődött, miközben a gázolajé nem változott. Egyes kutakon már 99 forinttal drágább a dízel literje, és a szakértők a következő hetekben nem számítanak árcsökkenésre.",
-    "content_hu": "• **Benzinár** A 95-ös benzin országos átlagára november 5-én 5 forinttal csökkent az előző naphoz képest.\n\n• **Gázolaj** A dízel ára változatlan maradt; egyes kutakon literenként akár 99 forinttal is többe kerülhet a benzinnél.\n\n• **Kilátások** A szakértők az európai dízelhiány miatt a következő hetekben nem várnak árcsökkenést, hosszabb távon viszont javulhat a helyzet.",
-    "importance_score": 38.0
   },
   {
     "group_id": "group_cd22bc8b91",
@@ -2544,32 +2554,6 @@
     "importance_score": 25.0
   },
   {
-    "group_id": "group_21eb52b7fe",
-    "fingerprint": "2e5cb7080165bd935c2724a3e3eae7bb",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793864061-temp-ju6sqso4l8l45choffl_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "24 tantermes új iskola épül a gyömrői konténeriskola helyett",
-        "link": "https://telex.hu/belfold/2026/11/05/gyomro-fekete-istvan-altalanos-iskola-uj-epulet-konteneriskola-helyett-11-milliard-forint"
-      },
-      {
-        "source": "444.hu",
-        "title": "11 milliárd forintból megépítik a gyömrői általános iskola új épületét, évek óta húzódó botrányos történet érhet véget",
-        "link": "https://444.hu/2026/11/05/11-milliard-forintbol-megepitik-a-gyomroi-altalanos-iskola-uj-epuletet-evek-ota-huzodo-botranyos-tortenet-erhet-veget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793864658,
-    "title_hu": "Új, 24 tantermes iskola épül Gyömrőn közel 11 milliárd forintból",
-    "lead_hu": "Magyar Péter bejelentette, hogy a kormány közel 11 milliárd forintot biztosít a gyömrői Fekete István Általános Iskola új épületére. A beruházás a konténeriskolában tanuló diákok helyzetét rendezheti.",
-    "content_hu": "• **Közel 11 milliárd forintot szánnak az építkezésre:** Magyar Péter szerint a beruházás költségét a költségvetésből fedezik.\n\n• **24 tantermes, korszerű iskola épül:** Az új, mintegy 6500 négyzetméteres intézményt a régi, Kossuth Ferenc utcai épületek helyén tervezik felépíteni; három részre osztható tornaterem is lesz benne.\n\n• **A diákok jelenleg konténerekben tanulnak:** A régi iskolaépület leromlott állapota miatt ki kellett üríteni az intézményt, a tanulók pedig ideiglenes konténeriskolába költöztek. A beszámoló szerint a konténerekben szennyvízproblémák is előfordultak.\n\n• **A beruházást korábban leállították:** Magyar Péter azt mondta, Lázár János minisztériuma 2022-ben állította le a projektet.",
-    "importance_score": 25.0
-  },
-  {
     "group_id": "group_d5e11dd6e8",
     "fingerprint": "497aecb4974a7b347d30ddd5ecc9ffd0",
     "category": "Általános",
@@ -2619,7 +2603,7 @@
     "title_hu": "A Ferencváros 2–0-ra győzött az AC Milan otthonában",
     "lead_hu": "A Ferencváros 2–0-ra nyert az AC Milan vendégeként az Európa-liga alapszakaszának negyedik fordulójában. Lenny Joseph két góljával döntötte el a mérkőzést, az FTC pedig emberhátrányban fejezte be a találkozót.",
     "content_hu": "• **Győzelem Milánóban** A Ferencváros 2–0-ra verte az AC Milant az Európa-liga alapszakaszának negyedik fordulójában.\n\n• **Joseph duplázott** Lenny Joseph a második félidő elején, majd a 66. percben talált be; második gólját egy gyors ellentámadás végén szerezte.\n\n• **Kiállítás a hajrában** Az FTC a 77. perctől emberhátrányban játszott, miután a Joseph helyére beálló Bamidele Yusufot kiállították.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_115f4561b6",
@@ -3390,6 +3374,82 @@
     "lead_hu": "Már az adásvételi szerződést is aláírták, mégsem valósulhat meg Wáberer György egyik legjelentősebb egészségügyi üzlete. A milliárdos vállalkozó érdekeltségébe tartozó cég visszalépett a TritonLife Ma…",
     "content_hu": "Már az adásvételi szerződést is aláírták, mégsem valósulhat meg Wáberer György egyik legjelentősebb egészségügyi üzlete. A milliárdos vállalkozó érdekeltségébe tartozó cég visszalépett a TritonLife Magánkórházak felvásárlásától, a Gazdasági Versenyhivatal pedig megszüntette az ügylet vizsgálatát. A történet azonban tartogat még egy meglepő fordulatot. The post Váratlan fordulat: meghiúsult Wáberer György nagy magánkórház-vásárlása? first appeared on nlc.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_b12645a9dd",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7243/72430/724309/72430999_5337609_8956f3f0f90643fe44d4b4e760468328_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nagy Attila Tibor: Magyar Péter példátlan lépést tett, megbosszulta magát a sietség",
+        "link": "https://index.hu/belfold/pillanatkep/2026/11/06/pillanatkep-nagy-attila-tibor-ugynokaktak-allambiztonsag-adatbazis-magyar-peter-tisza-kormany-fidesz-lezsak-sandor/"
+      }
+    ],
+    "published_at": 1793951280,
+    "title_hu": "Nagy Attila Tibor: Magyar Péter példátlan lépést tett, megbosszulta magát a sietség",
+    "lead_hu": "A történelmi igazságtétel politikai küzdelemmé változott....",
+    "content_hu": "A történelmi igazságtétel politikai küzdelemmé változott.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_003e23e079",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7bb09151-3940-4777-ac71-e824c99b97e4.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Németh Balázs vagyonnyilatkozati eljárást kezdeményez Forsthoffer Ágnessel szemben",
+        "link": "https://hvg.hu/itthon/20261106_nemeth-balazs-forsthoffer-agnes-vagyonnyilatkozat-eljaras-kezdemenyezes-mentelmi-bizottsag"
+      }
+    ],
+    "published_at": 1793950983,
+    "title_hu": "Németh Balázs vagyonnyilatkozati eljárást kezdeményez Forsthoffer Ágnessel szemben",
+    "lead_hu": "Hidvéghi Balázs után fideszes párttársa, Németh Balázs nyújtott be panaszt a mentelmi bizottsághoz a házelnök ellen....",
+    "content_hu": "Hidvéghi Balázs után fideszes párttársa, Németh Balázs nyújtott be panaszt a mentelmi bizottsághoz a házelnök ellen.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c72dfead6a",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7244/72447/724471/72447145_5338721_0e087032f9a504ed38b6870333e88b93_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megpecsételődött Alekszandar Vucsicsék sorsa, 140 mandátummal nyertek az egyetemisták",
+        "link": "https://index.hu/kulfold/2026/11/06/szerbia-parlamenti-valasztas-hivatalos-eredmeny-egyetemista-lista-gyozelem-alekszandar-vucsics/"
+      }
+    ],
+    "published_at": 1793950920,
+    "title_hu": "Megpecsételődött Alekszandar Vucsicsék sorsa, 140 mandátummal nyertek az egyetemisták",
+    "lead_hu": "A Vajdasági Magyar Szövetség két parlamenti helyet szerzett....",
+    "content_hu": "A Vajdasági Magyar Szövetség két parlamenti helyet szerzett.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_28d9d289f4",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1402535463-793696.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Jó hírek érkeztek Németországból",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/jo-hirek-erkeztek-nemetorszagbol-874638"
+      }
+    ],
+    "published_at": 1793950920,
+    "title_hu": "Jó hírek érkeztek Németországból",
+    "lead_hu": "A magas energiaárak, a szigorú kamatkörnyezet és a nyári alacsony vízállás ellenére a német ipari termelés szeptemberben már a második egymást követő hónapban tudott bővülni - közölte az ING Bank és a...",
+    "content_hu": "A magas energiaárak, a szigorú kamatkörnyezet és a nyári alacsony vízállás ellenére a német ipari termelés szeptemberben már a második egymást követő hónapban tudott bővülni - közölte az ING Bank és a Bloomberg. A növekedést elsősorban az autóipar, az építőipar és a gyógyszergyártás húzta, miközben az ipari megrendelések is jelentősen megugrottak, ám a teljes harmadik negyedéves teljesítmény még így is elmaradt az előző negyedévitől.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_184f3e3d2b",
@@ -12775,44 +12835,6 @@
     "title_hu": "„Undorító módon menesztettek\" - kitáltalt az Operaház korábbi sajtófőnöke Ókovács Szilveszter kirúgása után",
     "lead_hu": "Várkonyi Judit, a Magyar Állami Operaház korábbi sajtófőnöke csaknem tíz év hallgatás után szólalt meg az intézmény körüli történésekről. The post „Undorító módon menesztettek\" - kitáltalt az Operaház…",
     "content_hu": "Várkonyi Judit, a Magyar Állami Operaház korábbi sajtófőnöke csaknem tíz év hallgatás után szólalt meg az intézmény körüli történésekről. The post „Undorító módon menesztettek\" - kitáltalt az Operaház korábbi sajtófőnöke Ókovács Szilveszter kirúgása után first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_8decba815c",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/sunok_vedelme_6.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Erre nagyon vigyázz az őszi kerti munkák alatt: egy rossz mozdulat is tragédiát okozhat",
-        "link": "https://femina.hu/otthon/oszi-kerti-munkak-veszelyek-elovigyazatosag/"
-      }
-    ],
-    "published_at": 1793865000,
-    "title_hu": "Erre nagyon vigyázz az őszi kerti munkák alatt: egy rossz mozdulat is tragédiát okozhat",
-    "lead_hu": "Mindenkinek nagyon kell figyelnie a kerti munkálatok során!",
-    "content_hu": "Mindenkinek nagyon kell figyelnie a kerti munkálatok során!",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5a4b896bf5",
-    "category": "Kultúra",
-    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1311125683-e1793864672226-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "1,3 millió androidos készüléket fertőzött meg a Google kínai partnere",
-        "link": "https://24.hu/tech/2026/11/05/google-kinai-partner-hatso-kapu-13-millio-eszkoz/"
-      }
-    ],
-    "published_at": 1793864704,
-    "title_hu": "1,3 millió androidos készüléket fertőzött meg a Google kínai partnere",
-    "lead_hu": "A Google egyik kínai partnere, a Videostrong a fertőzött eszközöket a tulajdonosok tudta nélkül használta fel „rosszindulatú tevékenységekhez”. The post 1,3 millió androidos készüléket fertőzött meg a…",
-    "content_hu": "A Google egyik kínai partnere, a Videostrong a fertőzött eszközöket a tulajdonosok tudta nélkül használta fel „rosszindulatú tevékenységekhez”. The post 1,3 millió androidos készüléket fertőzött meg a Google kínai partnere first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
