@@ -1258,37 +1258,6 @@
     "importance_score": 48.0
   },
   {
-    "group_id": "group_a56f1e9733",
-    "fingerprint": "0a7a14969dffa967ab482bebd3f42898",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261106/1793994267-temp-vh4d1t99ij59bgaoeip_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Először lehet női államfője Németországnak",
-        "link": "https://telex.hu/kulfold/2026/11/06/ilse-aigner-nemetorszag-elnok-allamfo-cdu-csu-megallapodas-merz"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Várhatóan Ilse Aigner, a bajor parlament jelenlegi elnöke lesz Németország első női elnöke",
-        "link": "https://index.hu/kulfold/2026/11/06/ilsi-aigner-nemetorszag-elso-noi-elnoke-csu/"
-      },
-      {
-        "source": "444.hu",
-        "title": "A bajor Ilse Aigner személyében női államfője lehet Németországnak, először a történelem során",
-        "link": "https://444.hu/2026/11/06/a-bajor-ilse-aigner-szemelyeben-noi-allamfoje-lehet-nemetorszagnak-eloszor-a-tortenelem-soran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793998021,
-    "title_hu": "Ilse Aigner lehet Németország első női államfője",
-    "lead_hu": "A CDU és a CSU Ilse Aignert támogathatja Németország következő szövetségi elnökének, így ő lehet az ország első női államfője. Jelöléséről a CDU vezető testületei várhatóan hétfőn döntenek, a megválasztására január 30-án kerülhet sor.",
-    "content_hu": "• **A CDU és a CSU támogatása** A pártok a bajor tartományi parlament 61 éves elnökét, Ilse Aignert támogathatják jelöltként.\n\n• **A jelölés jóváhagyása** A CDU vezető testületei várhatóan hétfőn hagyják jóvá Aigner jelölését.\n\n• **Várható megválasztás** A jelölés megerősítése esetén január 30-án az 1260 elektor választhatja meg Aignert Franz-Walter Steinmeier utódjának.\n\n• **Első női államfő** Megválasztásával Aigner lenne Németország történetének első női szövetségi elnöke.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_fb642fcfdc",
     "fingerprint": "ef55818af27ad9883eb7488ee484abc6",
     "category": "Politika",
@@ -1462,6 +1431,37 @@
     "lead_hu": "Forsthoffer Ágnes házelnök három ülésnapra kitiltotta Pócs Jánost az Országgyűlés épületéből, miután a képviselő egy szavazás után szóban próbálta leadni a voksát. Pócs fellebbez, és határozottan visszautasítja, hogy csalással próbálta volna megtéveszteni az ülést.",
     "content_hu": "• **A kitiltás oka** Pócs János november 3-án lekéste az egyik szavazást, majd utólag szóban próbálta leadni a voksát, amivel megakasztotta az ülést.\n\n• **A házelnöki indoklás** Forsthoffer Ágnes szerint a képviselő a korábbi figyelmeztetések ellenére is zavarta a parlamenti munkát; legutóbb október 20-án kapott írásbeli figyelmeztetést.\n\n• **Pócs válasza** A képviselő azt írta, hogy Magyar Péter követelte a kitiltását, és bejelentette, hogy fellebbez az intézkedés ellen. Tudomásul veszi a házelnök döntését, de tiltakozik az ellen, hogy csalással vádolják.\n\n• **Pócs védekezése** Azt állítja, hogy nem működött a szavazógépe, és a körülötte ülő képviselők tanúsíthatják, hogy próbálta megnyomni a gombot. Elismerte, hogy más elfoglaltsága miatt késve érkezett az ülésterembe, de szerinte egyetlen szavazat sem változtatott volna az eredményen.\n\n• **A szabályok eltérő alkalmazásának vádja** Pócs házszabályellenesnek tartja, hogy a házelnök több külön esetet vont össze a büntetés kiszabásakor, és szerinte nem mindenkire egyformán vonatkoznak a szabályok. Példaként azt hozta fel, hogy Magyar Péter bekiabálásai, egy másik képviselő szavazása, illetve egy sértő kijelentés szerinte nem járt következménnyel.\n\n• **A jogorvoslat** Pócs fellebbezéséről a Mentelmi Bizottság dönt.\n\n• **A korlátozás részletei** Kitiltás esetén a képviselő nem léphet be az Országház és hivatalainak épületébe, de a házelnök által kijelölt helyiségből részt vehet a titkos szavazásokon. A házelnök legfeljebb 15 naptári napra vagy hat ülésnapra rendelhet el kitiltást.",
     "importance_score": 40.0
+  },
+  {
+    "group_id": "group_a56f1e9733",
+    "fingerprint": "0a7a14969dffa967ab482bebd3f42898",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261106/1793994267-temp-vh4d1t99ij59bgaoeip_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Először lehet női államfője Németországnak",
+        "link": "https://telex.hu/kulfold/2026/11/06/ilse-aigner-nemetorszag-elnok-allamfo-cdu-csu-megallapodas-merz"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Várhatóan Ilse Aigner, a bajor parlament jelenlegi elnöke lesz Németország első női elnöke",
+        "link": "https://index.hu/kulfold/2026/11/06/ilsi-aigner-nemetorszag-elso-noi-elnoke-csu/"
+      },
+      {
+        "source": "444.hu",
+        "title": "A bajor Ilse Aigner személyében női államfője lehet Németországnak, először a történelem során",
+        "link": "https://444.hu/2026/11/06/a-bajor-ilse-aigner-szemelyeben-noi-allamfoje-lehet-nemetorszagnak-eloszor-a-tortenelem-soran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793998021,
+    "title_hu": "Ilse Aigner lehet Németország első női államfője",
+    "lead_hu": "A CDU és a CSU Ilse Aignert támogathatja Németország következő szövetségi elnökének, így ő lehet az ország első női államfője. Jelöléséről a CDU vezető testületei várhatóan hétfőn döntenek, a megválasztására január 30-án kerülhet sor.",
+    "content_hu": "• **A CDU és a CSU támogatása** A pártok a bajor tartományi parlament 61 éves elnökét, Ilse Aignert támogathatják jelöltként.\n\n• **A jelölés jóváhagyása** A CDU vezető testületei várhatóan hétfőn hagyják jóvá Aigner jelölését.\n\n• **Várható megválasztás** A jelölés megerősítése esetén január 30-án az 1260 elektor választhatja meg Aignert Franz-Walter Steinmeier utódjának.\n\n• **Első női államfő** Megválasztásával Aigner lenne Németország történetének első női szövetségi elnöke.",
+    "importance_score": 38.0
   },
   {
     "group_id": "group_c6f4c887c1",
@@ -1828,7 +1828,7 @@
     "title_hu": "Rákay Philip szerződése költségellenőrzést írt elő, ő a feladatok szétosztására hivatkozik",
     "lead_hu": "Rákay Philip korábban azt mondta, kreatív producerként nem foglalkozott a Most vagy soha! gyártási feladataival. Az Index által megszerzett szerződés szerint vállalta a költségfelhasználás ellenőrzését is, Rákay pedig az Indexnek arról beszélt, hogy a négy producer között felosztották a feladatokat, ő pedig a kreatív munkáért felelt.",
     "content_hu": "• **A szerződésben rögzített feladatok** Rákay Philip vállalta, hogy közreműködik a finanszírozás előteremtésében, folyamatosan ellenőrzi a film költségfelhasználását, és segíti a támogatási szerződés költségvetési előírásainak betartását.\n\n• **Rákay korábbi nyilatkozata** A producer azt mondta, hogy kreatív feladatokkal foglalkozott, a gyártási teendőket pedig nem ő végezte. A szerződés a vállalt kötelezettségeket rögzíti, de nem bizonyítja, hogy ezeket ténylegesen miként teljesítette.\n\n• **Díjazás és bevételrészesedés** Rákay cégét, a Norton Consulting Zrt.-t 49 millió forint plusz áfa produceri díj illette meg, valamint a film felhasználásából származó nettó bevétel 25 százaléka a költségek levonása után.\n\n• **NAV-nyomozás** A NAV költségvetési csalás gyanúja miatt nyomozást indított a filmre adott állami támogatás felhasználásával kapcsolatban. Az NFI az elszámolásért felelős producerként Fülöp Pétert, a film vezető producerét nevezte meg.\n\n• **Rákay magyarázata a feladatmegosztásról** Rákay az Indexnek azt mondta, a négy producer felosztotta egymás között a feladatokat, ő pedig a kreatív munkáért felelt. Azt is közölte, nem emlékszik a szerződése részleteire, és a gyártási feladatokat nem tartja a szakmájának; elvárása a társai felé az volt, hogy a produkció maradjon a költségvetésen belül.\n\n• **A film költségvetése** A Most vagy soha! gyártási költségét 7,022 milliárd forintra tették. A film 4,7 milliárd forint állami támogatást kapott, amely a gyártáshoz kapcsolódó adókedvezménnyel együtt 6,1 milliárd forintot tett ki a 444 által idézett adatok szerint.\n\n• **Nézettség és díszletváros** A filmet nagyjából 164 ezren látták, amivel a magyar alkotások nézettségi listáján a kilencedik helyre került. A fóti díszletvárost a film után egy Disney-sorozat és az Ann Lee testamentuma című musical stábja is használta az Átlátszó beszámolója szerint.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_92c0d60e3d",
