@@ -32,22 +32,6 @@
     ]
   },
   {
-    "group_id": "group_47f7dbb186",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Baj van az USB-töltőkkel: rengeteg veszélyes típust találtak, megkezdődtek a kivonások",
-        "link": "https://www.atv.hu/belfold/20261105/usb-tolto-vizsgalat-veszely/",
-        "image": "",
-        "summary": "Kimondottan aggasztó eredményeket közölt a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság az USB-töltőkről.",
-        "category": "Általános",
-        "published_at": 1793853300
-      }
-    ]
-  },
-  {
     "group_id": "group_532641c020",
     "category": "Politika",
     "articles_count": 6,
@@ -109,22 +93,6 @@
     ]
   },
   {
-    "group_id": "group_69be011377",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Az asztrológia szerint ez a 4 csillagjegy mindig ugyanabba a csapdába esik",
-        "link": "https://nlc.hu/horoszkop/20261105/csillagjegy-csapda/ygv4yxt",
-        "image": "",
-        "summary": "Vannak, akik újra és újra ugyanazokba a helyzetekbe kerülnek, mintha az élet folyton ugyanazt a leckét adná fel nekik. Az asztrológia szerint négy csillagjegy különösen hajlamos lehet arra, hogy nehezen szabaduljon a régi mintáktól. The post Az asztrológia szerint ez a 4 csillagjegy mindig ugyanabba a csapdába esik first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1793853180
-      }
-    ]
-  },
-  {
     "group_id": "group_2b34e600f7",
     "category": "Politika",
     "articles_count": 1,
@@ -137,31 +105,6 @@
         "summary": "Az S&P 500 1,58 százalékkal emelkedett, ami 1982 óta a második legnagyobb félidős választások utáni egynapi ugrása volt.",
         "category": "Politika",
         "published_at": 1793853899
-      }
-    ]
-  },
-  {
-    "group_id": "group_08dd305c11",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Tavaly is Felcsúton volt a legmagasabb az egy lakosra jutó nettó tőkejövedelem",
-        "link": "https://telex.hu/gazdasag/2026/11/05/tavaly-is-felcsuton-volt-a-legmagasabb-az-egy-lakosra-juto-netto-tokejovedelem",
-        "image": "https://assets.telex.hu/images/20261105/1793852950-temp-k8vq1v4du4tu6jkckop_cimlap-normal.jpg",
-        "summary": "Ez a megtakarításokból, befektetésekből származó jövedelem, ami összesen több mint 3000 milliárd forint volt tavaly az egész országban.",
-        "category": "Politika",
-        "published_at": 1793853022
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Ismét Felcsúton jutott egy főre a legmagasabb tőkejövedelem az országban",
-        "link": "https://24.hu/belfold/2026/11/05/tokejovedelem-elemzes-felcsut-budapest/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1079827636-1024x576.jpg",
-        "summary": "A teljes nettó tőkejövedelem 36,6 százaléka Budapesten keletkezett, ahol a tőkejövedelemmel rendelkezők 25,3 százaléka él. The post Ismét Felcsúton jutott egy főre a legmagasabb tőkejövedelem az országban first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1793861536
       }
     ]
   },
@@ -1648,6 +1591,22 @@
     ]
   },
   {
+    "group_id": "group_08dd305c11",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ismét Felcsúton jutott egy főre a legmagasabb tőkejövedelem az országban",
+        "link": "https://24.hu/belfold/2026/11/05/tokejovedelem-elemzes-felcsut-budapest/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1079827636-1024x576.jpg",
+        "summary": "A teljes nettó tőkejövedelem 36,6 százaléka Budapesten keletkezett, ahol a tőkejövedelemmel rendelkezők 25,3 százaléka él. The post Ismét Felcsúton jutott egy főre a legmagasabb tőkejövedelem az országban first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1793861536
+      }
+    ]
+  },
+  {
     "group_id": "group_42de1db203",
     "category": "Politika",
     "articles_count": 1,
@@ -2928,7 +2887,7 @@
   {
     "group_id": "group_2100baa6cc",
     "category": "Bulvár",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Femina",
@@ -2938,6 +2897,15 @@
         "summary": "Ilyen üzemanyagárak várhatók november 5-én.",
         "category": "Bulvár",
         "published_at": 1793867700
+      },
+      {
+        "source": "ATV",
+        "title": "Jelentős a különbség a benzin és a gázolaj ára között, de van egy jó hír",
+        "link": "https://www.atv.hu/belfold/20261106/benzin-gazolaj-arcsokkenes-uzemanyag/",
+        "image": "",
+        "summary": "Egyre nagyobb a különbség a benzin és a gázolaj ára között: egyes kutakon már 99 forinttal drágább a dízel literje. A Híradónak nyilatkozó szakértők szerint az európai dízelhiány miatt a következő hetekben nem várható árcsökkenés, hosszabb távon azonban javulhat a helyzet.",
+        "category": "Gazdaság",
+        "published_at": 1793939700
       }
     ]
   },
@@ -11675,7 +11643,7 @@
         "image": "https://raketa.hu/uploads/2026/03/jelszo.jpg",
         "summary": "Karbantartás miatt vasárnap 0 és 5 óra között leállnak az online közigazgatási portálok, így a felületükön nem lehet majd ügyeket intézni – közölte a Digitális Magyarország Ügynökség.",
         "category": "Kultúra",
-        "published_at": 1793939365
+        "published_at": 1793939624
       }
     ]
   },
@@ -11884,6 +11852,54 @@
         "summary": "Kilencven éve jelent meg Nyírő József Havasok könyve című elbeszéléskötének első kiadása.",
         "category": "Politika",
         "published_at": 1793938800
+      }
+    ]
+  },
+  {
+    "group_id": "group_b161d9bbf8",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Az olasz sajtó leborult a Ferencváros előtt, az eredmény még a Milanra nézve volt hízelgő",
+        "link": "https://index.hu/sport/futball/2026/11/06/ac-milan-ferencvaros-olasz-lapszemle-europa-liga-merkozes-san-siro/",
+        "image": "",
+        "summary": "„A Fradi álomszerű estét él át a San Siróban.”",
+        "category": "Általános",
+        "published_at": 1793939700
+      }
+    ]
+  },
+  {
+    "group_id": "group_aed70c46ea",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Marabu Féknyúz: Költségvetési egyensúly",
+        "link": "https://hvg.hu/gazdasag/20261106_marabu-feknyuz-koltsegvetesi-egyensuly",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/51fc3ec3-45a9-45e4-b955-eb76a2dbecb7.jpg",
+        "summary": "Príma! Nagyjából egyensúly!",
+        "category": "Gazdaság",
+        "published_at": 1793939580
+      }
+    ]
+  },
+  {
+    "group_id": "group_632879ab8b",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Új vérteszt segíthet korábban felismerni a legveszélyesebb daganatokat",
+        "link": "https://raketa.hu/uj-verteszt-segithet-korabban-felismerni-a-legveszelyesebb-daganatokat/",
+        "image": "https://raketa.hu/uploads/2026/11/orvos-doktor2-unsplash.jpg",
+        "summary": "A programban több mint 20 ezer beteg vesz részt, a cél pedig az, hogy a rákot még azelőtt észrevegyék, mielőtt súlyosabb tünetek jelentkeznének.",
+        "category": "Kultúra",
+        "published_at": 1793939788
       }
     ]
   }
