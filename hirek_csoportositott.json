@@ -16,74 +16,6 @@
     ]
   },
   {
-    "group_id": "group_01c6b68b12",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Negyvenre nőtt a zaporizzsjai iskola elleni csapás áldozatainak száma, több mint harmincan lehetnek a romok alatt",
-        "link": "https://index.hu/kulfold/2026/11/05/ukrajna-oroszorszag-orosz-ukran-haboru-drontamadas-front-volodimir-zelenszkij/",
-        "image": "https://kep.index.hu/1/0/7241/72419/724195/72419585_5336799_db006ee410d9c60d96724f56fbdbb29e_wm.jpg",
-        "summary": "Az Index napi összefoglalója az orosz–ukrán háború eseményeiről.",
-        "category": "Politika",
-        "published_at": 1793855520
-      }
-    ]
-  },
-  {
-    "group_id": "group_860fb6269c",
-    "category": "Általános",
-    "articles_count": 5,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Gyengén felhős, napos idő lesz",
-        "link": "https://index.hu/belfold/2026/11/05/idojaras-elorejelzes-radar-felhos-napos-ido/",
-        "image": "https://kep.index.hu/1/0/6040/60404/604042/60404235_4467339_3f169c99bbcc13fa1786fdef7cc93161_wm.jpg",
-        "summary": "A legmagasabb nappali hőmérséklet csütörtökön 9 és 12 fok között valószínű.",
-        "category": "Általános",
-        "published_at": 1793855700
-      },
-      {
-        "source": "ATV",
-        "title": "Fagyos hajnal, napos délután: ilyen idő vár ránk csütörtökön",
-        "link": "https://www.atv.hu/belfold/20261105/fagy-nap-delutan-ido-csutortok/",
-        "image": "https://www.youtube.com/embed/dAu1lA7rrlI",
-        "summary": "A pára- és ködfoltok feloszlása után napos, többnyire derült idő várható délután. Hajnalban többfelé fagyhat, napközben 9–12 fokig emelkedik a hőmérséklet.",
-        "category": "Általános",
-        "published_at": 1793860620
-      },
-      {
-        "source": "Femina",
-        "title": "Jövő heti időjárás: 10 fokos fordulatot hoz a jövő heti időjárás",
-        "link": "https://femina.hu/terasz/jovo-heti-idojaras-novemberi-fordulat/",
-        "image": "https://femina.hu/neon/media/images/GettyImages-842760830.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Mínusz 7 fokos fagyos reggelek után meglepő változás jön: jövő héten jelentősen enyhülhet az időjárás!",
-        "category": "Bulvár",
-        "published_at": 1793870400
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Napos, száraz idő várható a hétvégén, de a hajnalok fagyosak lesznek",
-        "link": "https://hvg.hu/itthon/20261105_napos-ido-hajnali-fagy-idojaras-hetvege",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/09e1b1fd-3e4c-485b-9471-e3e0f84f0307.jpg",
-        "summary": "A legalacsonyabb éjszakai hőmérséklet többnyire mínusz 5 és 0 fok között alakul, míg a legmagasabb nappali hőmérséklet 7 és 13 fok között valószínű.",
-        "category": "Politika",
-        "published_at": 1793889042
-      },
-      {
-        "source": "ATV",
-        "title": "Fogvacogtató reggelek, itt zuhanhat be -9 fokig a hőmérséklet a következő napokban",
-        "link": "https://www.atv.hu/belfold/20261105/reggel-hideg-fagy-minusz/",
-        "image": "https://www.youtube.com/embed/JsVpXz0gS78",
-        "summary": "Elvonultak a felhők, a derűs nappalok után fagyos reggelek jönnek. A hidegrekordok ugyan egyelőre nincsenek veszélyben, ám néhol a -10 fokot is karcolhatják a hajnalok.",
-        "category": "Általános",
-        "published_at": 1793895420
-      }
-    ]
-  },
-  {
     "group_id": "group_7f316ed2cb",
     "category": "Politika",
     "articles_count": 2,
@@ -1151,6 +1083,49 @@
         "summary": "Szerda este vezetést tartottak az állambiztonsági levéltár pincéjében, ahol a most kereshetővé tett iratok egy részét őrzik. Ennél sokkal több akta van ott, de azok soha nem lesznek nyilvánosak.",
         "category": "Politika",
         "published_at": 1793860567
+      }
+    ]
+  },
+  {
+    "group_id": "group_860fb6269c",
+    "category": "Általános",
+    "articles_count": 4,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Fagyos hajnal, napos délután: ilyen idő vár ránk csütörtökön",
+        "link": "https://www.atv.hu/belfold/20261105/fagy-nap-delutan-ido-csutortok/",
+        "image": "https://www.youtube.com/embed/dAu1lA7rrlI",
+        "summary": "A pára- és ködfoltok feloszlása után napos, többnyire derült idő várható délután. Hajnalban többfelé fagyhat, napközben 9–12 fokig emelkedik a hőmérséklet.",
+        "category": "Általános",
+        "published_at": 1793860620
+      },
+      {
+        "source": "Femina",
+        "title": "Jövő heti időjárás: 10 fokos fordulatot hoz a jövő heti időjárás",
+        "link": "https://femina.hu/terasz/jovo-heti-idojaras-novemberi-fordulat/",
+        "image": "https://femina.hu/neon/media/images/GettyImages-842760830.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Mínusz 7 fokos fagyos reggelek után meglepő változás jön: jövő héten jelentősen enyhülhet az időjárás!",
+        "category": "Bulvár",
+        "published_at": 1793870400
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Napos, száraz idő várható a hétvégén, de a hajnalok fagyosak lesznek",
+        "link": "https://hvg.hu/itthon/20261105_napos-ido-hajnali-fagy-idojaras-hetvege",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/09e1b1fd-3e4c-485b-9471-e3e0f84f0307.jpg",
+        "summary": "A legalacsonyabb éjszakai hőmérséklet többnyire mínusz 5 és 0 fok között alakul, míg a legmagasabb nappali hőmérséklet 7 és 13 fok között valószínű.",
+        "category": "Politika",
+        "published_at": 1793889042
+      },
+      {
+        "source": "ATV",
+        "title": "Fogvacogtató reggelek, itt zuhanhat be -9 fokig a hőmérséklet a következő napokban",
+        "link": "https://www.atv.hu/belfold/20261105/reggel-hideg-fagy-minusz/",
+        "image": "https://www.youtube.com/embed/JsVpXz0gS78",
+        "summary": "Elvonultak a felhők, a derűs nappalok után fagyos reggelek jönnek. A hidegrekordok ugyan egyelőre nincsenek veszélyben, ám néhol a -10 fokot is karcolhatják a hajnalok.",
+        "category": "Általános",
+        "published_at": 1793895420
       }
     ]
   },
@@ -11616,7 +11591,7 @@
         "image": "https://raketa.hu/uploads/2026/11/orvos-doktor2-unsplash.jpg",
         "summary": "A programban több mint 20 ezer beteg vesz részt, a cél pedig az, hogy a rákot még azelőtt észrevegyék, mielőtt súlyosabb tünetek jelentkeznének.",
         "category": "Kultúra",
-        "published_at": 1793941701
+        "published_at": 1793942116
       }
     ]
   },
@@ -11873,6 +11848,22 @@
         "summary": "Ma már elmagyarázni is nehéz némelyiket.",
         "category": "Bulvár",
         "published_at": 1793941500
+      }
+    ]
+  },
+  {
+    "group_id": "group_040c10151a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ezek a legjobb olcsó villanyautók",
+        "link": "https://24.hu/elet-stilus/2026/11/06/villanyauto-vasarlas-arkategoria-tanacsok/",
+        "image": "https://s.24.hu/app/uploads/2026/11/tolto-1024x576.jpg",
+        "summary": "Egyre több váhttps://24.hu/app/uploads/2026/11/dacia-spring.jpgsárló radarján tűnik fel az elektromos autó, miközben kár lenne tagadni: a kérdés és a banánhéj is több. Ezeket érdemes választani. The post Ezek a legjobb olcsó villanyautók first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1793941385
       }
     ]
   }
