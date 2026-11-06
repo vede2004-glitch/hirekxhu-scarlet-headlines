@@ -1737,6 +1737,54 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_0dab7e9ad3",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c19baabb-2a19-45e9-979f-d4e63e598402.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Súlyosbításért fellebbez az ügyészség az amerikai nőt Budapesten megfojtó ír férfi ügyében",
+        "link": "https://hvg.hu/itthon/20261106_mackenzie-elizabeth-michalski-gyilkossag-ir-ferfi-budapest-sulyosbitas-fellebbezes-ugyeszseg"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Súlyosabb büntetést kértek az ír férfire, aki szex közben megfojtott egy amerikai nőt Budapesten",
+        "link": "https://24.hu/belfold/2026/11/06/budapes-ir-gyilkos-amerikai-no/"
+      }
+    ],
+    "published_at": 1793951953,
+    "title_hu": "Súlyosbításért fellebbez az ügyészség az amerikai nőt Budapesten megfojtó ír férfi ügyében",
+    "lead_hu": "Mackenzie Elizabeth Michalski megöléséért elítélt férfit elsőfokon 14 év fegyházbüntetésre ítélték....",
+    "content_hu": "Mackenzie Elizabeth Michalski megöléséért elítélt férfit elsőfokon 14 év fegyházbüntetésre ítélték.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_2c08fbe5b7",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/n/o/r/norbi-update-572648-765543.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kész, vége, ennyi: elrendelték a Schorbert Norbert által alapított Update-hálózat felszámolását",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/kesz-vege-ennyi-elrendeltek-a-schorbert-norbert-altal-alapitott-update-halozat-felszamolasat-874620"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kész, vége, ennyi: elrendelték a Schobert Norbert által alapított Update-hálózat felszámolását",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/kesz-vege-ennyi-elrendeltek-a-schobert-norbert-altal-alapitott-update-halozat-felszamolasat-874620"
+      }
+    ],
+    "published_at": 1793949000,
+    "title_hu": "Kész, vége, ennyi: elrendelték a Schorbert Norbert által alapított Update-hálózat felszámolását",
+    "lead_hu": "Jogerősen elrendelték az egykor népszerű Update-hálózatot üzemeltető cég felszámolását. A vállalat a felhalmozott beszállítói tartozások és a sorozatos adóhatósági végrehajtások következtében fizetésk...",
+    "content_hu": "Jogerősen elrendelték az egykor népszerű Update-hálózatot üzemeltető cég felszámolását. A vállalat a felhalmozott beszállítói tartozások és a sorozatos adóhatósági végrehajtások következtében fizetésképtelenné vált, október végére pedig az utolsó üzletük is végleg bezárt - számolt be a Blikk.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_cd22bc8b91",
     "category": "Politika",
     "image": "https://s.24.hu/app/uploads/2026/11/063_2303244170-e1793948476225-1024x576.jpg",
@@ -1865,29 +1913,32 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_f99caca7c9",
-    "fingerprint": "fb756d3258150ca2c1f9e0ba4dfb5b35",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/ruben-amorim-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "group_id": "group_05be80aeef",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/40f2fa8f-6b6a-4276-a36a-d11350ada088-e1793882608663-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
-        "title": "Minősíthetetlen és elfogadhatatlan – kiakadt a Milan edzője a Fradi elleni vereség után",
-        "link": "https://24.hu/sport/foci/2026/11/06/europa-liga-ac-milan-ferencvaros-ruben-amorim/"
+        "title": "Orbán Merkely lemondásáról: Bízunk benne, hogy a Tisza-kormány rombolása nem vezet visszafordíthatatlan károkhoz",
+        "link": "https://24.hu/belfold/2026/11/05/merkely-bela-lemondas-orban-viktor/"
       },
       {
-        "source": "Magyar Nemzet",
-        "title": "Dühös kirohanás az AC Milan edzőjétől, elfogadhatatlan dolgokról beszélt a Fradi sikere után",
-        "link": "https://magyarnemzet.hu/sport/2026/11/amorim-ac-milan-ftc-0-2-el-reakcio-de-winter-bartesaghi?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "HVG - Itthon",
+        "title": "Orbán Viktor: Merkely Béla távozása a Tisza-kormány felsőoktatási rombolását jelképezi",
+        "link": "https://hvg.hu/itthon/20261105_orban-viktor-merkely-bela-tavozas-egyetem-modellvaltas"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Orbán Viktor titkársága: Merkely Béla lemondása a Tisza-kormány felsőoktatási rombolását jelképezi",
+        "link": "https://index.hu/belfold/2026/11/05/orban-viktor-titkarsag-merkely-bela-lemondas-felsooktatas/"
       }
     ],
-    "published_at": 1793941267,
-    "title_hu": "A Milan edzője elfogadhatatlannak nevezte a Fradi elleni vereséget",
-    "lead_hu": "Az AC Milan 2–0-ra kikapott hazai pályán a Ferencvárostól az Európa-ligában, a portugál vezetőedző pedig különösen az első félidő teljesítményét bírálta. Szerinte nem a rotáció vagy a technikai tudás, hanem a csapat mentális felkészületlensége okozta a kudarcot.",
-    "content_hu": "• **A Milan edzője vállalhatatlannak tartotta a teljesítményt** – Úgy fogalmazott, hogy a játékosoknak felelősséggel kell viselniük a klub mezét, és az első félidőre nincs mentség.\n\n• **Mentális problémák okozták a vereséget** – A vezetőedző szerint nem a keret összeállítása vagy a technikai tudás volt a döntő, hanem az, hogy a csapat nem állt készen a mérkőzésre. Davide Bartesaghi és Koni De Winter is a hozzáállás, illetve a mentális állapot hiányosságait emelte ki.\n\n• **A Ferencváros százszázalékos maradt** – A 2–0-s győzelemmel a Fradi négy forduló után is hibátlan az Európa-ligában, míg a Milan három ponttal áll. A milánóiak edzője jelezte, hogy nem mondanak le a továbbjutásról.",
+    "published_at": 1793882680,
+    "title_hu": "Orbán Merkely lemondásáról: Bízunk benne, hogy a Tisza-kormány rombolása nem vezet visszafordíthatatlan károkhoz",
+    "lead_hu": "A volt miniszterelnök szerint Merkely távozása egy újabb jele „a Tisza-kormány felsőoktatási rombolásának”. The post Orbán Merkely lemondásáról: Bízunk benne, hogy a Tisza-kormány rombolása nem vezet ...",
+    "content_hu": "A volt miniszterelnök szerint Merkely távozása egy újabb jele „a Tisza-kormány felsőoktatási rombolásának”. The post Orbán Merkely lemondásáról: Bízunk benne, hogy a Tisza-kormány rombolása nem vezet visszafordíthatatlan károkhoz first appeared on 24.hu.",
     "importance_score": 35.0
   },
   {
@@ -1971,7 +2022,7 @@
     "title_hu": "Megszűnhet az MMA kiemelt szerepe a kulturális támogatások elosztásában",
     "lead_hu": "A kormány jóváhagyta azt a törvényjavaslatot, amely megszüntetné a Magyar Művészeti Akadémia különleges döntési jogosítványait a Nemzeti Kulturális Alapnál. A tervezet társadalmi egyeztetésre kerül, és parlamenti elfogadása esetén 2027. január 1-jén léphet hatályba.",
     "content_hu": "• **A javaslat lényege** Az MMA elveszítené különleges beleszólását az NKA szakmai kollégiumainak működésébe és a kulturális támogatásokról szóló döntésekbe.\n\n• **Nagyobb szakmai képviselet** A minisztérium szerint a változtatás visszaállítaná a 2016 előtti működés alapelveit, és nagyobb szerepet adna a szakmai szervezetek képviselőinek a támogatások elosztásában.\n\n• **A hatálybalépés feltétele** A javaslatról társadalmi egyeztetés indul; ha az Országgyűlés elfogadja, az új szabályok 2027. január 1-jétől érvényesülhetnek.\n\n• **További reformot is terveznek** A minisztérium 2027-re az NKA működésének átfogó átalakítását is kilátásba helyezte, ennek részleteit egyelőre nem ismertette.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_dadc32707d",
@@ -2267,6 +2318,32 @@
     "lead_hu": "Török Gábor politikai elemző a nyitottaktak.hu adatbázisában megjelent téves adat után arra figyelmeztetett: a kapkodás, a félmunka, az adagolás és a hibák alááshatják a társadalmi bizalmat. Az ÁBTL közlése szerint Lezsák Sándor neve informatikai hiba miatt került a hálózati személyek közé, noha a mágnesszalagokon megfigyeltként szerepel.",
     "content_hu": "• **Téves adatközlés** Az Állambiztonsági Szolgálatok Történeti Levéltára (ÁBTL) szerint informatikai hiba miatt jelent meg Lezsák Sándor neve a nyitottaktak.hu adatbázisában a hálózati személyek között. A mágnesszalagokon megfigyeltként szerepel; az intézmény felülvizsgálja az érintett adatbázisrészt, vizsgálja és elhárítja a hibát, valamint elnézést kért Lezsáktól.\n\n• **Török Gábor figyelmeztetése** Az elemző támogatja a múlt minél teljesebb feltárását, de szerinte a nyilvánosságra hozatal módja is fontos. Bejegyzésében úgy fogalmazott: „A kapkodás, a félmunka, az adagolás és különösen a hiba képes mindent megölni. Különösen a legfontosabbat: a bizalmat.”\n\n• **Lezsák korábbi reakciója** A hiba kiderülése előtt Lezsák kikérte magának, hogy kommunista ügynöki múlttal bélyegezzék meg, és jogi lépéseket helyezett kilátásba azokkal szemben, akik ezt terjesztik.\n\n• **Az adatbázis indulása** A mintegy 60 ezer nevet tartalmazó adatbázist november 4-én, szerda délelőtt aktiválták. Az eseményen Magyar Péter miniszterelnök is sajtótájékoztatót tartott.\n\n• **Iratok forráskritikája** Az ÁBTL főigazgatója korábban arra figyelmeztetett, hogy az állambiztonsági iratokat forráskritikával kell kezelni, mert azok nem minden esetben felelnek meg maradéktalanul a valóságnak.\n\n• **További név az iratokban** Surányi György volt jegybankelnök neve is előkerült a közzétett dokumentumokban. A 24.hu-nak azt mondta, megdöbbentette a fejlemény, és arról is beszélt, hogyan próbálták beszervezni 1986 nyarán.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_f99caca7c9",
+    "fingerprint": "fb756d3258150ca2c1f9e0ba4dfb5b35",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/ruben-amorim-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Minősíthetetlen és elfogadhatatlan – kiakadt a Milan edzője a Fradi elleni vereség után",
+        "link": "https://24.hu/sport/foci/2026/11/06/europa-liga-ac-milan-ferencvaros-ruben-amorim/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Dühös kirohanás az AC Milan edzőjétől, elfogadhatatlan dolgokról beszélt a Fradi sikere után",
+        "link": "https://magyarnemzet.hu/sport/2026/11/amorim-ac-milan-ftc-0-2-el-reakcio-de-winter-bartesaghi?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793941267,
+    "title_hu": "A Milan edzője elfogadhatatlannak nevezte a Fradi elleni vereséget",
+    "lead_hu": "Az AC Milan 2–0-ra kikapott hazai pályán a Ferencvárostól az Európa-ligában, a portugál vezetőedző pedig különösen az első félidő teljesítményét bírálta. Szerinte nem a rotáció vagy a technikai tudás, hanem a csapat mentális felkészületlensége okozta a kudarcot.",
+    "content_hu": "• **A Milan edzője vállalhatatlannak tartotta a teljesítményt** – Úgy fogalmazott, hogy a játékosoknak felelősséggel kell viselniük a klub mezét, és az első félidőre nincs mentség.\n\n• **Mentális problémák okozták a vereséget** – A vezetőedző szerint nem a keret összeállítása vagy a technikai tudás volt a döntő, hanem az, hogy a csapat nem állt készen a mérkőzésre. Davide Bartesaghi és Koni De Winter is a hozzáállás, illetve a mentális állapot hiányosságait emelte ki.\n\n• **A Ferencváros százszázalékos maradt** – A 2–0-s győzelemmel a Fradi négy forduló után is hibátlan az Európa-ligában, míg a Milan három ponttal áll. A milánóiak edzője jelezte, hogy nem mondanak le a továbbjutásról.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_17a0359e0e",
@@ -3371,6 +3448,25 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_3fff0cc40a",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/j/a/p/japan-parlament-397432.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "30 éve nem nőttek így a bérek japánban",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/30-eve-nem-nottek-igy-a-berek-japanban-874648"
+      }
+    ],
+    "published_at": 1793951820,
+    "title_hu": "30 éve nem nőttek így a bérek japánban",
+    "lead_hu": "Közel három évtizede nem látott ütemben emelkedtek a nominálbérek Japánban, a reálkeresetek bővülése pedig felülmúlta a várakozásokat - írja a Bloomberg. A tartósan erős bérdinamika kellő alapot bizto...",
+    "content_hu": "Közel három évtizede nem látott ütemben emelkedtek a nominálbérek Japánban, a reálkeresetek bővülése pedig felülmúlta a várakozásokat - írja a Bloomberg. A tartósan erős bérdinamika kellő alapot biztosíthat a japán jegybanknak ahhoz, hogy már a decemberi ülésén tovább szigorítson a monetáris politikán, és újabb kamatemelést hajtson végre.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_43680ca9af",
     "category": "Gazdaság",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/72b2b9ba-651d-4c6f-aca0-a812f17b2c93.jpg",
@@ -3862,25 +3958,6 @@
     "title_hu": "Heath Ledger helyett akár Leonardo DiCaprio is lehetett volna Joker, ezért hiúsult meg",
     "lead_hu": "",
     "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_2c08fbe5b7",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/n/o/r/norbi-update-572648-765543.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Kész, vége, ennyi: elrendelték a Schorbert Norbert által alapított Update-hálózat felszámolását",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/kesz-vege-ennyi-elrendeltek-a-schorbert-norbert-altal-alapitott-update-halozat-felszamolasat-874620"
-      }
-    ],
-    "published_at": 1793949000,
-    "title_hu": "Kész, vége, ennyi: elrendelték a Schorbert Norbert által alapított Update-hálózat felszámolását",
-    "lead_hu": "Jogerősen elrendelték az egykor népszerű Update-hálózatot üzemeltető cég felszámolását. A vállalat a felhalmozott beszállítói tartozások és a sorozatos adóhatósági végrehajtások következtében fizetésk...",
-    "content_hu": "Jogerősen elrendelték az egykor népszerű Update-hálózatot üzemeltető cég felszámolását. A vállalat a felhalmozott beszállítói tartozások és a sorozatos adóhatósági végrehajtások következtében fizetésképtelenné vált, október végére pedig az utolsó üzletük is végleg bezárt - számolt be a Blikk.",
     "importance_score": 0.0
   },
   {
@@ -12698,111 +12775,6 @@
     "lead_hu": "Így tisztítsd meg a matracodat szódabikarbónával: egyszerű és olcsó házi praktikát mutatunk. The post Szórj szódabikarbónát az ágyra, és eltűnnek a matracból a kellemetlen szagok first appeared on nlc…",
     "content_hu": "Így tisztítsd meg a matracodat szódabikarbónával: egyszerű és olcsó házi praktikát mutatunk. The post Szórj szódabikarbónát az ágyra, és eltűnnek a matracból a kellemetlen szagok first appeared on nlc.",
     "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0427f26665",
-    "category": "Általános",
-    "image": "https://cdn.borsonline.hu/2026/11/K1Ht7d9iy623UjLOoDrNaIHH2-i0hkvuOWXbjle8epE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRlNjUyNTUwNDYyMDRkNzM5MTM0MDc5ZmUwMTljMDI4.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "\"Nem lesz semmi baj!\" - szívszorító búcsúszavak után vesztette életét a fiatal hegymászó",
-        "link": "https://borsonline.origo.hu/igaz-tortenetek/2026/11/hegymaszo-tragedia-bucsu-gyasz"
-      }
-    ],
-    "published_at": 1793865600,
-    "title_hu": "\"Nem lesz semmi baj!\" - szívszorító búcsúszavak után vesztette életét a fiatal hegymászó",
-    "lead_hu": "Nem sokkal a halála előtt még az anyjával beszélt telefonon.",
-    "content_hu": "Nem sokkal a halála előtt még az anyjával beszélt telefonon.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d94a97e0a2",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0945050296-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára",
-        "link": "https://24.hu/belfold/2026/11/05/budapest-kozlekedes-bkk-berletek/"
-      }
-    ],
-    "published_at": 1793865554,
-    "title_hu": "Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára",
-    "lead_hu": "A lapunk tájékoztatást kért a Budapesti Közlekedési Központtól. The post Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára first appeared on 24.hu.",
-    "content_hu": "A lapunk tájékoztatást kért a Budapesti Közlekedési Központtól. The post Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_deb85fb66c",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/d/e/dderi20261027001-867024.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Két beruházásról döntött a kormány, Vitézy ismertette a részleteket",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/ket-beruhazasrol-dontott-a-kormany-vitezy-ismertette-a-reszleteket-874408"
-      }
-    ],
-    "published_at": 1793865540,
-    "title_hu": "Két beruházásról döntött a kormány, Vitézy ismertette a részleteket",
-    "lead_hu": "A gyömrői Fekete István Általános Iskola új épületének megvalósításáról és a 442-es főút fejlesztésének előkészítéséről számolt be Vitézy Dávid közlekedési és beruházási miniszter. Az iskolára 10,65 m…",
-    "content_hu": "A gyömrői Fekete István Általános Iskola új épületének megvalósításáról és a 442-es főút fejlesztésének előkészítéséről számolt be Vitézy Dávid közlekedési és beruházási miniszter. Az iskolára 10,65 milliárd forintot biztosít a kormány, az útberuházásnál egyelőre a tervezés és az engedélyezéshez szükséges vizsgálatok következnek.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e741817cc2",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/0Zx6GJY_jDNS0S6PodUy-jyYG3LcNnCeMeF7gych5lA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzlkN2I0MTBhZjExODQ0ZTk4NGNjNDBmYjNiY2QzZjVj.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Washingtonba viszi a tiszás önkény tapasztalatait a demokrata párti szenátornő + videó",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/amerikai-szenatorno-tiszas-onkeny-demokrata-part?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793865486,
-    "title_hu": "Washingtonba viszi a tiszás önkény tapasztalatait a demokrata párti szenátornő + videó",
-    "lead_hu": "Januárban olyan elszámoltatásokba kezdenének a washingtoni kongresszusban, mint amilyet Elissa Slotkin Magyarországon tapasztalt.",
-    "content_hu": "Januárban olyan elszámoltatásokba kezdenének a washingtoni kongresszusban, mint amilyet Elissa Slotkin Magyarországon tapasztalt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_05be80aeef",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/40f2fa8f-6b6a-4276-a36a-d11350ada088-e1793882608663-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Orbán Merkely lemondásáról: Bízunk benne, hogy a Tisza-kormány rombolása nem vezet visszafordíthatatlan károkhoz",
-        "link": "https://24.hu/belfold/2026/11/05/merkely-bela-lemondas-orban-viktor/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Orbán Viktor: Merkely Béla távozása a Tisza-kormány felsőoktatási rombolását jelképezi",
-        "link": "https://hvg.hu/itthon/20261105_orban-viktor-merkely-bela-tavozas-egyetem-modellvaltas"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Orbán Viktor titkársága: Merkely Béla lemondása a Tisza-kormány felsőoktatási rombolását jelképezi",
-        "link": "https://index.hu/belfold/2026/11/05/orban-viktor-titkarsag-merkely-bela-lemondas-felsooktatas/"
-      }
-    ],
-    "published_at": 1793882680,
-    "title_hu": "Orbán Merkely lemondásáról: Bízunk benne, hogy a Tisza-kormány rombolása nem vezet visszafordíthatatlan károkhoz",
-    "lead_hu": "A volt miniszterelnök szerint Merkely távozása egy újabb jele „a Tisza-kormány felsőoktatási rombolásának”. The post Orbán Merkely lemondásáról: Bízunk benne, hogy a Tisza-kormány rombolása nem vezet ...",
-    "content_hu": "A volt miniszterelnök szerint Merkely távozása egy újabb jele „a Tisza-kormány felsőoktatási rombolásának”. The post Orbán Merkely lemondásáról: Bízunk benne, hogy a Tisza-kormány rombolása nem vezet visszafordíthatatlan károkhoz first appeared on 24.hu.",
-    "importance_score": 35.0
   },
   {
     "group_id": "group_5b099cb894",
