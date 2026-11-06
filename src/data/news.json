@@ -774,47 +774,6 @@
     "importance_score": 65.0
   },
   {
-    "group_id": "group_26ed22d3d7",
-    "fingerprint": "ecd502bdec3b0d57e86aadf30c149987",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab2e18ed-eebe-42cd-b435-3a2054281318.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Súlyos buszbaleset történt Franciaországban, többen meghaltak",
-        "link": "https://hvg.hu/vilag/20261106_franciaorszag-buszbaleset"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Halálos iskolabusz-baleset történt Franciaországban",
-        "link": "https://24.hu/kulfold/2026/11/06/franciaorszag-iskolabusz-baleset-halal/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Többen meghaltak, miután fának ütközött egy iskolabusz Franciaországban",
-        "link": "https://index.hu/kulfold/2026/11/06/franciaorszag-iskolabusz-halalos-baleset-diakok/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Ketten meghaltak, tizenhatan megsérültek egy franciaországi buszbalesetben",
-        "link": "https://telex.hu/kulfold/2026/11/06/buszbaleset-franciaorszag-aldozatok"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Halálos iskolabusz-baleset történt Franciaországban",
-        "link": "https://www.vadhajtasok.hu/2026/11/06/halalos-iskolabusz-baleset-tortent-franciaorszagban"
-      }
-    ],
-    "published_at": 1793960644,
-    "title_hu": "Két ember meghalt, tizenhatan megsérültek a franciaországi buszbalesetben",
-    "lead_hu": "Két ember – egy kiskorú és egy fiatal felnőtt – meghalt, tizenhatan pedig megsérültek a péntek reggeli buszbalesetben Franciaország keleti részén, a svájci határ közelében. A sérültek közül három állapota súlyos; a buszon utazók számáról eltérő adatok jelentek meg.",
-    "content_hu": "• **Az áldozatok és a sérültek** A beszámolók szerint egy kiskorú és egy fiatal felnőtt vesztette életét. Több forrás tizenhat sérültről ír, közülük három állapota súlyos vagy kritikus; más beszámoló három sérültről számolt be.\n\n• **A baleset körülményei** A busz letért az útról, egy árokba hajtott, majd fának ütközött a D22-es főúton. A TF1 reggel fél 8 körülre, Lent polgármestere reggel 7 óra körülre tette a baleset időpontját.\n\n• **Az utasok száma és a busz jellege** A közlések eltérnek: egyes források szerint a buszon 43-an, köztük 15 gyerek utaztak, mások 63 utast említenek. Edouard Geffray oktatási miniszter szerint feltehetően iskolásokat szállító buszról volt szó, a helyi prefektus viszont távolsági buszként hivatkozott rá.\n\n• **Mentés és segítségnyújtás** Két mentőhelikoptert vetettek be, aktiválták a helyi vészhelyzeti tervet, a szomszédos település pedig a családok fogadásáról gondoskodik. Lent polgármestere szerint a baleset után két ember szívrohamot kapott.\n\n• **A közlekedési miniszter a helyszínre tart** Philippe Tabarot közlekedési miniszter bejelentette, hogy a baleset helyszínére utazik.",
-    "importance_score": 63.0
-  },
-  {
     "group_id": "group_dc49aefa63",
     "fingerprint": "383dccf01eaa7c5ff758a87bfc4b27d3",
     "category": "Politika",
@@ -953,6 +912,47 @@
     "importance_score": 60.0
   },
   {
+    "group_id": "group_26ed22d3d7",
+    "fingerprint": "ecd502bdec3b0d57e86aadf30c149987",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab2e18ed-eebe-42cd-b435-3a2054281318.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Súlyos buszbaleset történt Franciaországban, többen meghaltak",
+        "link": "https://hvg.hu/vilag/20261106_franciaorszag-buszbaleset"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Halálos iskolabusz-baleset történt Franciaországban",
+        "link": "https://24.hu/kulfold/2026/11/06/franciaorszag-iskolabusz-baleset-halal/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Többen meghaltak, miután fának ütközött egy iskolabusz Franciaországban",
+        "link": "https://index.hu/kulfold/2026/11/06/franciaorszag-iskolabusz-halalos-baleset-diakok/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Ketten meghaltak, tizenhatan megsérültek egy franciaországi buszbalesetben",
+        "link": "https://telex.hu/kulfold/2026/11/06/buszbaleset-franciaorszag-aldozatok"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Halálos iskolabusz-baleset történt Franciaországban",
+        "link": "https://www.vadhajtasok.hu/2026/11/06/halalos-iskolabusz-baleset-tortent-franciaorszagban"
+      }
+    ],
+    "published_at": 1793960644,
+    "title_hu": "Két ember meghalt, tizenhatan megsérültek a franciaországi buszbalesetben",
+    "lead_hu": "Két ember – egy kiskorú és egy fiatal felnőtt – meghalt, tizenhatan pedig megsérültek a péntek reggeli buszbalesetben Franciaország keleti részén, a svájci határ közelében. A sérültek közül három állapota súlyos; a buszon utazók számáról eltérő adatok jelentek meg.",
+    "content_hu": "• **Az áldozatok és a sérültek** A beszámolók szerint egy kiskorú és egy fiatal felnőtt vesztette életét. Több forrás tizenhat sérültről ír, közülük három állapota súlyos vagy kritikus; más beszámoló három sérültről számolt be.\n\n• **A baleset körülményei** A busz letért az útról, egy árokba hajtott, majd fának ütközött a D22-es főúton. A TF1 reggel fél 8 körülre, Lent polgármestere reggel 7 óra körülre tette a baleset időpontját.\n\n• **Az utasok száma és a busz jellege** A közlések eltérnek: egyes források szerint a buszon 43-an, köztük 15 gyerek utaztak, mások 63 utast említenek. Edouard Geffray oktatási miniszter szerint feltehetően iskolásokat szállító buszról volt szó, a helyi prefektus viszont távolsági buszként hivatkozott rá.\n\n• **Mentés és segítségnyújtás** Két mentőhelikoptert vetettek be, aktiválták a helyi vészhelyzeti tervet, a szomszédos település pedig a családok fogadásáról gondoskodik. Lent polgármestere szerint a baleset után két ember szívrohamot kapott.\n\n• **A közlekedési miniszter a helyszínre tart** Philippe Tabarot közlekedési miniszter bejelentette, hogy a baleset helyszínére utazik.",
+    "importance_score": 58.0
+  },
+  {
     "group_id": "group_aaed98dfe3",
     "fingerprint": "a68986013829249ed91f2be51499e764",
     "category": "Politika",
@@ -1063,42 +1063,6 @@
     "title_hu": "Németh Balázs újabb vagyonnyilatkozati eljárást kezdeményezett Forsthoffer Ágnessel szemben",
     "lead_hu": "Németh Balázs fideszes országgyűlési képviselő újabb vagyonnyilatkozati eljárást kezdeményezett Forsthoffer Ágnes házelnök ellen. Azt állítja, hogy a házelnök kiegészített nyilatkozatából is kimaradt: 2026 márciusáig ügyvezetője volt egy milliárdos forgalmú cégnek.",
     "content_hu": "• **Újabb eljárás** Németh Balázs a parlament mentelmi bizottságához fordult Forsthoffer Ágnes vagyonnyilatkozata ügyében.\n\n• **A kezdeményezés indoka** A képviselő szerint a házelnök korábban kiegészített nyilatkozatából kimaradt, hogy 2026 márciusáig ügyvezetője volt egy milliárdos forgalmú cégnek.\n\n• **Előzmény** Hidvéghi Balázs korábban szintén vagyonnyilatkozati eljárást kezdeményezett Forsthofferrel szemben; ezt követően a házelnök kiegészítő tájékoztatást adott a családi vállalkozásban lévő tulajdonrészéről.\n\n• **A családi vállalkozás** A 444 szerint a vállalkozás a Margaréta Hotelt üzemeltető Fortrend Hotel Szállodafejlesztő és Szolgáltató Kft.; a cégből 2025-ben 40, 2026-ban 200 millió forint osztalékot vettek ki.\n\n• **Forsthoffer válasza** A házelnök fenntartja, hogy szabályosan töltötte ki a vagyonnyilatkozatát. Azt is közölte, hogy a nyitó vagyonnyilatkozat a 2026. május 9-i állapotot tükrözi, a kiegészítés pedig szerinte nem változtatott a vagyoni helyzet eredeti bemutatásán.",
-    "importance_score": 48.0
-  },
-  {
-    "group_id": "group_784f6a1ee3",
-    "fingerprint": "ea0eeb2e5cc2a95568fa32aab333d7c1",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d358bdb7-af25-48b4-b5ef-68f568496699.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Mészáros Zsófia megbízása véget ért a közmédiánál",
-        "link": "https://hvg.hu/itthon/20261106_kozmedia-online-igazgatosag-atvilagitas-atmeneti-vezetes-meszaros-zsofia-tavozas"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Már nincs a közmédiánál Mészáros Zsófia, visszatért korábbi munkahelyére",
-        "link": "https://24.hu/belfold/2026/11/06/meszaros-zsofia-kozmedia/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Már nem dolgozik a közmédiánál Mészáros Zsófia",
-        "link": "https://444.hu/2026/11/06/mar-nem-dolgozik-a-kozmedianal-meszaros-zsofia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Véget ért Mészáros Zsófia megbízása a közmédiánál, már nem ő felel az online igazgatóságért",
-        "link": "https://telex.hu/after/2026/11/06/kozmedia-online-meszaros-zsofia"
-      }
-    ],
-    "published_at": 1793960688,
-    "title_hu": "Véget ért Mészáros Zsófia megbízása a közmédiánál",
-    "lead_hu": "Mészáros Zsófia távozott a közmédiától, és visszatért korábbi munkahelyére. Az átmeneti időszakban az online igazgatóságért felelt, megbízatását a vezérigazgatói pályázat kiírásáig vállalta, az irányítása alá tartozó területek átvilágítását pedig elvégezte.",
-    "content_hu": "• **Lezárult a megbízatás** Mészáros Zsófia a közmédia átmeneti vezetésének tagjaként dolgozott, és a közelmúltban visszatért korábbi munkahelyére.\n\n• **Az online területet irányította** Feladata az online igazgatóság és a hírszolgáltatás átvilágítása, illetve újjászervezésének előkészítése volt. A közmédia szerint a rábízott területek átvilágítását elvégezte.\n\n• **A végleges vezetés dönt a folytatásról** A közmédia közlése szerint az online hírszolgáltatás jövőjéről a társaság végleges vezetése határoz majd.\n\n• **Korábbi szerkesztőségi és képzési munkája** Mészáros a régi Index főszerkesztője, a 444 vezető szerkesztője volt, később pedig a fiatal újságírók képzésével foglalkozó Pelikán Projektet vezette.\n\n• **Az átmeneti vezetés tagjaként érkezett** Július 7-én Horváth P. András ideiglenes vezérigazgatóval együtt kezdte meg a munkát a közmédiánál; Bodacz Balázs a hírigazgatóságot, Kerényi György a Kossuth rádiót irányította.\n\n• **A vezérigazgatói pályázatot októberben írták ki** Mészáros a közlés szerint eddig az időpontig vállalta a megbízatást.",
     "importance_score": 48.0
   },
   {
@@ -1293,35 +1257,40 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_1f3ba82d1a",
-    "fingerprint": "b4e6b9c5337eb89064c25c4896618689",
+    "group_id": "group_784f6a1ee3",
+    "fingerprint": "ea0eeb2e5cc2a95568fa32aab333d7c1",
     "category": "Politika",
-    "image": "",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d358bdb7-af25-48b4-b5ef-68f568496699.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
-        "source": "444.hu",
-        "title": "MTA: Nem a JÉGER okozza az aszályt",
-        "link": "https://444.hu/2026/11/05/mta-nem-a-jeger-okozza-az-aszalyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Nem miatta volt aszály, de nem is hatékony a jégkármérséklő rendszer",
-        "link": "https://telex.hu/techtud/2026/11/06/jeger-aszaly-magyar-tudomanyos-akademia-tanulmany-jegkarmentesites"
+        "source": "HVG - Itthon",
+        "title": "Mészáros Zsófia megbízása véget ért a közmédiánál",
+        "link": "https://hvg.hu/itthon/20261106_kozmedia-online-igazgatosag-atvilagitas-atmeneti-vezetes-meszaros-zsofia-tavozas"
       },
       {
         "source": "24.hu - Legfrissebb",
-        "title": "A JÉGER okozta az aszályt? Az MTA pontot tett a vita végére",
-        "link": "https://24.hu/tudomany/2026/11/06/jegkarmerseklo-rendszer-jeger-mta-tanulmany/"
+        "title": "Már nincs a közmédiánál Mészáros Zsófia, visszatért korábbi munkahelyére",
+        "link": "https://24.hu/belfold/2026/11/06/meszaros-zsofia-kozmedia/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Már nem dolgozik a közmédiánál Mészáros Zsófia",
+        "link": "https://444.hu/2026/11/06/mar-nem-dolgozik-a-kozmedianal-meszaros-zsofia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Véget ért Mészáros Zsófia megbízása a közmédiánál, már nem ő felel az online igazgatóságért",
+        "link": "https://telex.hu/after/2026/11/06/kozmedia-online-meszaros-zsofia"
       }
     ],
-    "published_at": 1793971665,
-    "title_hu": "Az MTA szerint nem a JÉGER okozta az aszályt, és a jégkárenyhítő hatása sem bizonyított",
-    "lead_hu": "Az MTA vizsgálata szerint nincs bizonyíték arra, hogy a JÉGER jelentősen befolyásolná a lehulló csapadék mennyiségét vagy területi eloszlását; az aszály a rendszer 2018-as országos bevezetése előtt is visszatérő jelenség volt. A jelentés ugyanakkor arra jutott, hogy a jégkárok érdemi mérséklését sem sikerült tudományosan igazolni. Az akadémia szigorúbb szabályozást javasol az időjárás-módosító berendezésekre.",
-    "content_hu": "• **Nincs kimutatható hatás a csapadékra** Az MTA vizsgálata szerint a jégkármérséklő rendszer nem befolyásolja jelentősen a felszínre hulló folyékony csapadék mennyiségét vagy térbeli eloszlását.\n\n• **Az aszály régebbi jelenség** A magyarországi időjárási adatok és műholdas megfigyelések alapján a szárazabb és csapadékosabb időszakok már a JÉGER 2018-as országos bevezetése előtt is váltották egymást. Az MTA által elemzett éghajlati idősor mintegy 170 év adatait öleli fel.\n\n• **A jégkárenyhítés eredményessége sem bizonyított** A 2014 és 2026 közötti meteorológiai radaradatok elemzése nem mutatott ki jelentős csökkenést a zivatarok jégveszélyességében. A kutatók szerint a rendszer jégkárenyhítő hatása nem igazolt, de nem is zárható ki.\n\n• **A 2026-os aszály egész Európát érintette** A nyár Magyarországon a mérések kezdete óta a legszárazabb volt, a rendkívüli csapadékhiány azonban Európa jelentős részét is sújtotta.\n\n• **A miniszter a tiltakozások után leállíttatta a rendszert** Bóna Szabolcs július végén négy megye kivételével az egész országban elrendelte a JÉGER működésének szüneteltetését. Egy, ötezer gazdálkodó megkérdezésével készült felmérésben 66,1 százalék támogatta a leállítást, 24,5 százalék pedig a folytatást.\n\n• **A kijuttatott ezüst-jodid miatt nem mutattak ki országos szennyezést** A hazai mérések egyelőre nem igazolnak országos talajszennyezést, de a generátorok közelében, a talaj felső rétegében további célzott vizsgálatokat tartanak indokoltnak.\n\n• **Bejelentéskötelességet és hatástanulmányokat javasolnak** Az MTA szerint az időjárás-módosító berendezések működtetése jelenleg nem kötött bejelentéshez. A kutatók a meglévő rendszerek bejelentéskötelessé tételét, az új berendezések engedélyezésénél pedig kötelező hatástanulmányt szorgalmaznak.",
-    "importance_score": 45.0
+    "published_at": 1793960688,
+    "title_hu": "Véget ért Mészáros Zsófia megbízása a közmédiánál",
+    "lead_hu": "Mészáros Zsófia távozott a közmédiától, és visszatért korábbi munkahelyére. Az átmeneti időszakban az online igazgatóságért felelt, megbízatását a vezérigazgatói pályázat kiírásáig vállalta, az irányítása alá tartozó területek átvilágítását pedig elvégezte.",
+    "content_hu": "• **Lezárult a megbízatás** Mészáros Zsófia a közmédia átmeneti vezetésének tagjaként dolgozott, és a közelmúltban visszatért korábbi munkahelyére.\n\n• **Az online területet irányította** Feladata az online igazgatóság és a hírszolgáltatás átvilágítása, illetve újjászervezésének előkészítése volt. A közmédia szerint a rábízott területek átvilágítását elvégezte.\n\n• **A végleges vezetés dönt a folytatásról** A közmédia közlése szerint az online hírszolgáltatás jövőjéről a társaság végleges vezetése határoz majd.\n\n• **Korábbi szerkesztőségi és képzési munkája** Mészáros a régi Index főszerkesztője, a 444 vezető szerkesztője volt, később pedig a fiatal újságírók képzésével foglalkozó Pelikán Projektet vezette.\n\n• **Az átmeneti vezetés tagjaként érkezett** Július 7-én Horváth P. András ideiglenes vezérigazgatóval együtt kezdte meg a munkát a közmédiánál; Bodacz Balázs a hírigazgatóságot, Kerényi György a Kossuth rádiót irányította.\n\n• **A vezérigazgatói pályázatot októberben írták ki** Mészáros a közlés szerint eddig az időpontig vállalta a megbízatást.",
+    "importance_score": 43.0
   },
   {
     "group_id": "group_cff34c2c0f",
@@ -1669,6 +1638,66 @@
     "lead_hu": "Panyi Szabolcs, a Vsquare oknyomozó újságírója kapja a 2026-os Magnyitszkij Emberi Jogi Díj „kiemelkedő újságírói” elismerését az orosz befolyás magyarországi működését feltáró munkájáért. A díjat jövő héten Londonban Catherine Belton, a The Washington Post újságírója adja át neki.",
     "content_hu": "• **Az elismerés oka** Panyi Szabolcs a magyarországi orosz befolyás működését feltáró tényfeltáró munkájáért kapja a 2026-os Magnyitszkij Emberi Jogi Díj újságírói elismerését.\n\n• **A díj átadója** Panyi jövő héten Londonban Catherine Beltontól, a The Washington Post oknyomozó újságírójától és a Putyin emberei című könyv szerzőjétől veheti át az elismerést.\n\n• **Belton munkássága inspirálta Panyit** Az újságíró szerint különösen sokat jelent neki, hogy Belton adja át a díjat, mert a munkássága inspirálta a magyarországi orosz titkosszolgálati befolyás történetét feldolgozó könyvének megírásában.\n\n• **Korábbi díjazottak** A korábbi kitüntetettek között szerepel John McCain amerikai szenátor, Borisz Nyemcov orosz ellenzéki politikus, Dzsamál Hasogdzsi újságíró és Maria Ressa Nobel-békedíjas újságíró.\n\n• **A díj célja** A 2015-ben alapított nemzetközi elismerést újságíróknak, politikusoknak, jogvédőknek és aktivistáknak ítélik oda a korrupció, az emberi jogi visszaélések és a hatalmi önkény feltárásáért, illetve az ezek elleni küzdelemért.\n\n• **A könyv témája** Catherine Belton a Putyin emberei című kötetben azt mutatja be, hogyan szerezték vissza a hatalmat Oroszországban a KGB egykori emberei, és miként terjesztették ki befolyásukat a nyugati világra.\n\n• **A díj névadója** Szergej Magnyitszkij orosz jogász és könyvvizsgáló orosz állami tisztviselőket érintő korrupciós és adócsalási ügyet tárt fel. Letartóztatták, majd 2009-ben, 37 évesen, embertelen fogvatartási körülmények között meghalt egy moszkvai börtönben.\n\n• **A Magnyitszkij-törvények** A névadó emlékére elfogadott törvények lehetővé teszik az emberi jogok súlyos megsértéséért és korrupcióért felelős személyek szankcionálását, vagyonuk befagyasztását és beutazásuk megtiltását.",
     "importance_score": 40.0
+  },
+  {
+    "group_id": "group_1f3ba82d1a",
+    "fingerprint": "b4e6b9c5337eb89064c25c4896618689",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "MTA: Nem a JÉGER okozza az aszályt",
+        "link": "https://444.hu/2026/11/05/mta-nem-a-jeger-okozza-az-aszalyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Nem miatta volt aszály, de nem is hatékony a jégkármérséklő rendszer",
+        "link": "https://telex.hu/techtud/2026/11/06/jeger-aszaly-magyar-tudomanyos-akademia-tanulmany-jegkarmentesites"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A JÉGER okozta az aszályt? Az MTA pontot tett a vita végére",
+        "link": "https://24.hu/tudomany/2026/11/06/jegkarmerseklo-rendszer-jeger-mta-tanulmany/"
+      }
+    ],
+    "published_at": 1793971665,
+    "title_hu": "Az MTA szerint nem a JÉGER okozta az aszályt, és a jégkárenyhítő hatása sem bizonyított",
+    "lead_hu": "Az MTA vizsgálata szerint nincs bizonyíték arra, hogy a JÉGER jelentősen befolyásolná a lehulló csapadék mennyiségét vagy területi eloszlását; az aszály a rendszer 2018-as országos bevezetése előtt is visszatérő jelenség volt. A jelentés ugyanakkor arra jutott, hogy a jégkárok érdemi mérséklését sem sikerült tudományosan igazolni. Az akadémia szigorúbb szabályozást javasol az időjárás-módosító berendezésekre.",
+    "content_hu": "• **Nincs kimutatható hatás a csapadékra** Az MTA vizsgálata szerint a jégkármérséklő rendszer nem befolyásolja jelentősen a felszínre hulló folyékony csapadék mennyiségét vagy térbeli eloszlását.\n\n• **Az aszály régebbi jelenség** A magyarországi időjárási adatok és műholdas megfigyelések alapján a szárazabb és csapadékosabb időszakok már a JÉGER 2018-as országos bevezetése előtt is váltották egymást. Az MTA által elemzett éghajlati idősor mintegy 170 év adatait öleli fel.\n\n• **A jégkárenyhítés eredményessége sem bizonyított** A 2014 és 2026 közötti meteorológiai radaradatok elemzése nem mutatott ki jelentős csökkenést a zivatarok jégveszélyességében. A kutatók szerint a rendszer jégkárenyhítő hatása nem igazolt, de nem is zárható ki.\n\n• **A 2026-os aszály egész Európát érintette** A nyár Magyarországon a mérések kezdete óta a legszárazabb volt, a rendkívüli csapadékhiány azonban Európa jelentős részét is sújtotta.\n\n• **A miniszter a tiltakozások után leállíttatta a rendszert** Bóna Szabolcs július végén négy megye kivételével az egész országban elrendelte a JÉGER működésének szüneteltetését. Egy, ötezer gazdálkodó megkérdezésével készült felmérésben 66,1 százalék támogatta a leállítást, 24,5 százalék pedig a folytatást.\n\n• **A kijuttatott ezüst-jodid miatt nem mutattak ki országos szennyezést** A hazai mérések egyelőre nem igazolnak országos talajszennyezést, de a generátorok közelében, a talaj felső rétegében további célzott vizsgálatokat tartanak indokoltnak.\n\n• **Bejelentéskötelességet és hatástanulmányokat javasolnak** Az MTA szerint az időjárás-módosító berendezések működtetése jelenleg nem kötött bejelentéshez. A kutatók a meglévő rendszerek bejelentéskötelessé tételét, az új berendezések engedélyezésénél pedig kötelező hatástanulmányt szorgalmaznak.",
+    "importance_score": 38.0
+  },
+  {
+    "group_id": "group_904bfa9f67",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/2a0978cd-da6d-4af1-807c-0bb5bd6005e6-e1793970714240-1024x575.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Lezárná a Magyarország elleni hetes cikkes eljárást az Európai Néppárt",
+        "link": "https://24.hu/kulfold/2026/11/06/epp-magyarorszag-hetes-cikk-eljatas-lezaras/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Ideje megszüntetni a hetedik cikkes eljárást, jelentette ki Budapesten a néppárti EP-frakció alelnöke",
+        "link": "https://telex.hu/kulfold/2026/11/06/eu-europai-parlament-europai-neppart-budapest"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Lezárná a Magyarország elleni hetes cikkes eljárást az Európai Néppárt",
+        "link": "https://www.vadhajtasok.hu/2026/11/06/lezarna-a-magyarorszag-elleni-hetes-cikkes-eljarast-az-europai-neppart"
+      }
+    ],
+    "published_at": 1793970842,
+    "title_hu": "Lezárná a Magyarország elleni hetes cikkes eljárást az Európai Néppárt",
+    "lead_hu": "Az Európai Néppárt EP-frakciója a Magyarországgal szembeni 7. cikk szerinti eljárás lezárását javasolja, miközben a reformok további uniós ellenőrzését is fontosnak tartja. The post Lezárná a Magyaror…",
+    "content_hu": "Az Európai Néppárt EP-frakciója a Magyarországgal szembeni 7. cikk szerinti eljárás lezárását javasolja, miközben a reformok további uniós ellenőrzését is fontosnak tartja. The post Lezárná a Magyarország elleni hetes cikkes eljárást az Európai Néppárt first appeared on 24.hu.",
+    "importance_score": 38.0
   },
   {
     "group_id": "group_fb642fcfdc",
@@ -2314,82 +2343,6 @@
     "importance_score": 30.0
   },
   {
-    "group_id": "group_5e1fc0a254",
-    "fingerprint": "59cb58ec2c3ed4ee44509c5719159dd8",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Svédország „súlyos veszélyre” hivatkozva fél évig visszaállítja a határellenőrzést a schengeni övezetben",
-        "link": "https://index.hu/kulfold/2026/11/05/svedorszag-schengeni-ovezet-haterellenorzes-visszaallitas-veszely-biztonsag/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Svédország „súlyos veszélyre” hivatkozva fél évig visszaállítja a határellenőrzést a schengeni övezetben",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/svedorszag-sulyos-veszelyre-hivatkozva-fel-evig-visszaallitja-a-hatarellenorzest-a-schengeni-ovezetben"
-      }
-    ],
-    "published_at": 1793896020,
-    "title_hu": "Svédország fél évre visszaállítja a schengeni belső határellenőrzést",
-    "lead_hu": "Svédország november 12-től hat hónapra visszaállítja a belső határellenőrzést a schengeni övezetben. A kormány a közrendet és a belső biztonságot fenyegető súlyos veszélyekkel, köztük hibrid fenyegetésekkel indokolja a döntést.",
-    "content_hu": "• **November 12-től hat hónapig** ismét ellenőrzik a schengeni belső határokon áthaladókat Svédországban; az intézkedés 2027. május 11-ig lesz érvényben.\n\n• **A döntés indoka** a svéd kormány szerint az orosz invázió nyomán kialakult súlyos biztonsági helyzet, valamint a hibrid fenyegetések és a schengeni övezeten belül mozgó ellenséges elemek jelentette veszély.\n\n• **Az ellenőrzések módjáról** a svéd rendőrség dönt: meghatározza azok helyét és gyakorlati végrehajtását, és a közrend, illetve a belső biztonság védelméhez igazítja őket.\n\n• **Az előző időszakban** Svédország csak szúrópróbaszerű ellenőrzést és megfigyelést végzett a belső határokon, nem vizsgált meg minden átutazót.",
-    "importance_score": 30.0
-  },
-  {
-    "group_id": "group_137bb6e4d8",
-    "fingerprint": "a2064a5b0afe8c84d0e7dbb06e0b3e95",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/geller-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Meghalt minden idők egyik legjobb magyar kosarasa, Gellér Sándor",
-        "link": "https://24.hu/sport/2026/11/06/kosarlabda-halal-gyasz-geller-sandor/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Meghalt Gellér Sándor, 113-szoros magyar válogatott kosárlabdázó",
-        "link": "https://index.hu/sport/kosarlabda/2026/11/06/meghalt-geller-sandor-magyar-valogatott-kosarlabdazo-gyaszhir/"
-      }
-    ],
-    "published_at": 1793971080,
-    "title_hu": "Meghalt Gellér Sándor, a magyar kosárlabda legendás alakja",
-    "lead_hu": "Elhunyt Gellér Sándor, a 113-szoros magyar válogatott kosárlabdázó. A Honvéddal húsz év alatt 15 bajnoki címet és nyolc kupagyőzelmet szerzett, később edzőként és fiatal játékosok képzőjeként dolgozott.",
-    "content_hu": "• **Pályafutása a Honvédnál** Gellér Sándor 1966-ban igazolt a klubhoz, ahol 1986-ig játszott. Ez idő alatt 15 bajnoki címet és nyolc kupagyőzelmet ünnepelhetett.\n\n• **Válogatott szereplése** A 113-szoros válogatott tagja volt az 1969-es Európa-bajnokságon nyolcadik helyen végző magyar csapatnak, és a nyolcvanas évek elején játékosedzőként is segítette a nemzeti együttest.\n\n• **Edzőként is bajnok lett** Játékos-pályafutása után sem szakadt el a kosárlabdától: 1988-ban a ZTE edzőjeként nyert bajnokságot, később fiatalok egyéni képzésével foglalkozott.\n\n• **Saját halottjuknak tekintik** A Budapesti Honvéd és a Magyar Kosárlabdázók Országos Szövetsége saját halottjaként búcsúzik Gellér Sándortól.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_904bfa9f67",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/2a0978cd-da6d-4af1-807c-0bb5bd6005e6-e1793970714240-1024x575.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Lezárná a Magyarország elleni hetes cikkes eljárást az Európai Néppárt",
-        "link": "https://24.hu/kulfold/2026/11/06/epp-magyarorszag-hetes-cikk-eljatas-lezaras/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Ideje megszüntetni a hetedik cikkes eljárást, jelentette ki Budapesten a néppárti EP-frakció alelnöke",
-        "link": "https://telex.hu/kulfold/2026/11/06/eu-europai-parlament-europai-neppart-budapest"
-      }
-    ],
-    "published_at": 1793970842,
-    "title_hu": "Lezárná a Magyarország elleni hetes cikkes eljárást az Európai Néppárt",
-    "lead_hu": "Az Európai Néppárt EP-frakciója a Magyarországgal szembeni 7. cikk szerinti eljárás lezárását javasolja, miközben a reformok további uniós ellenőrzését is fontosnak tartja. The post Lezárná a Magyaror…",
-    "content_hu": "Az Európai Néppárt EP-frakciója a Magyarországgal szembeni 7. cikk szerinti eljárás lezárását javasolja, miközben a reformok további uniós ellenőrzését is fontosnak tartja. The post Lezárná a Magyarország elleni hetes cikkes eljárást az Európai Néppárt first appeared on 24.hu.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_738c46c8db",
     "fingerprint": "54f6bf7f31c18218a5070774e64165fc",
     "category": "Politika",
@@ -2622,32 +2575,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_5d893f9caf",
-    "fingerprint": "fe5fdff0fbc1b497cdb93a7cf8c5bde2",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/kepernyokep-2026-11-06-081814-e1793949547228-1024x577.png",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Villamos gázolt Budapesten, a férfi lába a padka és a szerelvény közé szorult",
-        "link": "https://24.hu/belfold/2026/11/06/villamos-gazolas-budapest-video/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Villamos gázolt el egy idős férfit Budapesten, a lába a padka és a szerelvény közé szorult",
-        "link": "https://index.hu/belfold/2026/11/06/villamos-gazolas-xi-kerulet-idos-ferfi-katasztrofavedelem-mentok/"
-      }
-    ],
-    "published_at": 1793960700,
-    "title_hu": "Villamos gázolt el egy idős férfit Budapesten",
-    "lead_hu": "Egy idős férfit gázolt el a villamos csütörtök este Budapest XI. kerületében, a Fehérvári út és a Bocskai út kereszteződésénél. A férfi lába a padka és a szerelvény közé szorult, a tűzoltók emelőpárnával szabadították ki.",
-    "content_hu": "• **A baleset helyszíne** A villamos csütörtök este a Fehérvári út és a Bocskai út kereszteződésénél gázolta el a férfit.\n\n• **A mentés** A fővárosi hivatásos tűzoltók megbontották a megálló korlátját, majd emelőpárnával megdöntötték a szerelvényt, hogy kiszabadítsák a férfi lábát.\n\n• **Kórházba szállítás** A mentők a hordágyra fektetett férfit kórházba vitték.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_10c07ac595",
     "fingerprint": "a1d96b0a657e7498d3e3bc0bee697bad",
     "category": "Politika",
@@ -2696,6 +2623,32 @@
     "lead_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
     "content_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
     "importance_score": 28.0
+  },
+  {
+    "group_id": "group_5d893f9caf",
+    "fingerprint": "fe5fdff0fbc1b497cdb93a7cf8c5bde2",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/kepernyokep-2026-11-06-081814-e1793949547228-1024x577.png",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Villamos gázolt Budapesten, a férfi lába a padka és a szerelvény közé szorult",
+        "link": "https://24.hu/belfold/2026/11/06/villamos-gazolas-budapest-video/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Villamos gázolt el egy idős férfit Budapesten, a lába a padka és a szerelvény közé szorult",
+        "link": "https://index.hu/belfold/2026/11/06/villamos-gazolas-xi-kerulet-idos-ferfi-katasztrofavedelem-mentok/"
+      }
+    ],
+    "published_at": 1793960700,
+    "title_hu": "Villamos gázolt el egy idős férfit Budapesten",
+    "lead_hu": "Egy idős férfit gázolt el a villamos csütörtök este Budapest XI. kerületében, a Fehérvári út és a Bocskai út kereszteződésénél. A férfi lába a padka és a szerelvény közé szorult, a tűzoltók emelőpárnával szabadították ki.",
+    "content_hu": "• **A baleset helyszíne** A villamos csütörtök este a Fehérvári út és a Bocskai út kereszteződésénél gázolta el a férfit.\n\n• **A mentés** A fővárosi hivatásos tűzoltók megbontották a megálló korlátját, majd emelőpárnával megdöntötték a szerelvényt, hogy kiszabadítsák a férfi lábát.\n\n• **Kórházba szállítás** A mentők a hordágyra fektetett férfit kórházba vitték.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_7d1f4eb0ff",
@@ -3156,6 +3109,25 @@
     "lead_hu": "Csütörtökön Navahermosában helyezték végső nyugalomra Jesús de Miguelt, a Tenerife 30 éves játékosát. A búcsúztatón a családtagok és barátok mellett a spanyol futball vezető képviselői is részt vettek.",
     "content_hu": "• **A temetés** Jesús de Miguelt csütörtökön, a Toledo tartománybeli Navahermosában helyezték végső nyugalomra, szűk családi körben.\n\n• **A tragédia** A labdarúgó a Tenerife és az Andorra hétfői mérkőzésén sérült meg súlyosan, miután a vendégek kapusa a 96. percben mellkason rúgta. De Miguelt újra kellett éleszteni, halálhírét kedden jelentették be.\n\n• **A búcsúztatás** A szertartáson részt vett Rafael Louzán, a Spanyol Labdarúgó-szövetség elnöke, Luís de la Fuente szövetségi kapitány, valamint Florentino Pérez, a Real Madrid elnöke is.\n\n• **A megemlékezés és a vizsgálat** A CD Tenerife szombaton tart megemlékezést elhunyt játékosa tiszteletére. A spanyol rendőrség gondatlanságból elkövetett emberölés gyanújával nyomoz az ügyben.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_3cd891ceb7",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/dcRQ9RRhfJFCMLEgpMb6vOpSdZ9gfjNBpmQGUAFW5O0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U4OGZjMjIxMDliNTQxMjc5MmZlMzY1ODQ2YTNhOWE0.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Vidnyánszky Attila elmondta, miért nem beszél vele Nagy Ervin + videó",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/vidnyanszky-attila-elmondta-miert-nem-beszel-vele-nagy-ervin-video?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793982427,
+    "title_hu": "Vidnyánszky Attila elmondta, miért nem beszél vele Nagy Ervin + videó",
+    "lead_hu": "A színházigazgató a beszélgetésben beszámolt arról, a Nemzeti Színház 350 millió forintos stratégiai támogatáshoz nem jutott hozzá....",
+    "content_hu": "A színházigazgató a beszélgetésben beszámolt arról, a Nemzeti Színház 350 millió forintos stratégiai támogatáshoz nem jutott hozzá.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_e81616fe28",
@@ -12943,101 +12915,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_56b8524ac9",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7242/72429/724291/72429131_9a7a1afdebbeb132c91bd9b461a81de9_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megérkeztek az első fotók a The Housemaid 2. forgatásáról, de a rajongók szerint a készítők már most nagyot hibáztak",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/05/the-housemaid-2-forgatas-sydney-sweeney-paparazzi/"
-      }
-    ],
-    "published_at": 1793896038,
-    "title_hu": "Megérkeztek az első fotók a The Housemaid 2. forgatásáról, de a rajongók szerint a készítők már most nagyot hibáztak",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f550a2ae30",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1090143239-e1793895934375-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Jövőre Beton.Hofitól a Bagira is szól majd a margitszigeti Zenélő Szökőkútból",
-        "link": "https://24.hu/kultura/2026/11/05/beton-hofi-margitsziget-zenelo-szokokut/"
-      }
-    ],
-    "published_at": 1793896021,
-    "title_hu": "Jövőre Beton.Hofitól a Bagira is szól majd a margitszigeti Zenélő Szökőkútból",
-    "lead_hu": "Húsz új dallal bővült a 2027-es zenei kínálat. The post Jövőre Beton.Hofitól a Bagira is szól majd a margitszigeti Zenélő Szökőkútból first appeared on 24.hu.",
-    "content_hu": "Húsz új dallal bővült a 2027-es zenei kínálat. The post Jövőre Beton.Hofitól a Bagira is szól majd a margitszigeti Zenélő Szökőkútból first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e50c4f7bbe",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793895636-temp-89lbdqkaosq15kpjcna_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Hát senkinek nem kell a Videoton FC? Kiírták a harmadik pályázati kört",
-        "link": "https://telex.hu/sport/2026/11/05/szekesfehervar-onkormanyzat-harmadik-palyazati-kor-videoton-fc-fehervar"
-      }
-    ],
-    "published_at": 1793895959,
-    "title_hu": "Hát senkinek nem kell a Videoton FC? Kiírták a harmadik pályázati kört",
-    "lead_hu": "A székesfehérvári önkormányzat tavaly júniusban vette meg az élvonalból akkor kiesett csapatot működtető céget.",
-    "content_hu": "A székesfehérvári önkormányzat tavaly júniusban vette meg az élvonalból akkor kiesett csapatot működtető céget.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b056eae7d0",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/46017809-6f7e-4623-bb4c-ac3df898143a.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Kinevezték a HUN-REN új vezérigazgatóját",
-        "link": "https://hvg.hu/itthon/20261105_hun-ren-uj-vezerigazgato-bereczky-aron-allami-kutatohalozat"
-      }
-    ],
-    "published_at": 1793895931,
-    "title_hu": "Kinevezték a HUN-REN új vezérigazgatóját",
-    "lead_hu": "A korábbi vezetés azután távozott, hogy Tanács Zoltán miniszter kijelentette, kizárt, hogy a kormány együttműködjön velük.",
-    "content_hu": "A korábbi vezetés azután távozott, hogy Tanács Zoltán miniszter kijelentette, kizárt, hogy a kormány együttműködjön velük.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_178d52765d",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Önt is megviselte a tiszás rágalmazó lista? Lelkisegélyért hívja Tarr elvtársat!",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/ont-is-megviselte-a-tiszas-ragalmazo-lista-lelkisegelyert-hivja-tarr-elvtarsat"
-      }
-    ],
-    "published_at": 1793895840,
-    "title_hu": "Önt is megviselte a tiszás rágalmazó lista? Lelkisegélyért hívja Tarr elvtársat!",
-    "lead_hu": "Egy ország szégyenkezik szemlesütve, mert Rovar, Ruff és Tarr elvtárs az áldozatokat rágalmazza.Ezek bármihez nyúlnak, az teljes elbaszás.Nyilvánosságot ígértek a pártállam ügynökaktáiról.Erre összeke…",
-    "content_hu": "Egy ország szégyenkezik szemlesütve, mert Rovar, Ruff és Tarr elvtárs az áldozatokat rágalmazza.Ezek bármihez nyúlnak, az teljes elbaszás.Nyilvánosságot ígértek a pártállam ügynökaktáiról.Erre összekeverték a tettete...",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_c6f4c887c1",
     "fingerprint": "8e727ec136fe867f1ec8edce1b4826fc",
     "category": "Általános",
@@ -13062,6 +12939,32 @@
     "lead_hu": "Paul Mackenzie-t 200 év börtönbüntetésre ítélték 190 gyermek és egy felnőtt halála miatt. A kenyai prédikátor arra buzdította követőit, hogy éheztessék halálra magukat, mert így találkozhatnak Jézussal.",
     "content_hu": "• **200 év börtön** A mombasai bíróság 100 évet szabott ki a követők halálra éheztetéséért, további 100 évet pedig emberölésekért.\n\n• **A követők halála** Mackenzie-t 190 gyermek és egy felnőtt meggyilkolásában találták bűnösnek. A hatóságok 2023-ban több száz holttestet találtak a Shakahola-erdőben; sok áldozat éhen halt, másokat megfojtottak vagy agyonvertek.\n\n• **További elítéltek** A bíróság a szekta 28 vezetőjét is elítélte gyilkosság miatt; közülük egyesek hosszú, akár 160 éves börtönbüntetést kaptak.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_137bb6e4d8",
+    "fingerprint": "a2064a5b0afe8c84d0e7dbb06e0b3e95",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/geller-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Meghalt minden idők egyik legjobb magyar kosarasa, Gellér Sándor",
+        "link": "https://24.hu/sport/2026/11/06/kosarlabda-halal-gyasz-geller-sandor/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Meghalt Gellér Sándor, 113-szoros magyar válogatott kosárlabdázó",
+        "link": "https://index.hu/sport/kosarlabda/2026/11/06/meghalt-geller-sandor-magyar-valogatott-kosarlabdazo-gyaszhir/"
+      }
+    ],
+    "published_at": 1793971080,
+    "title_hu": "Meghalt Gellér Sándor, a magyar kosárlabda legendás alakja",
+    "lead_hu": "Elhunyt Gellér Sándor, a 113-szoros magyar válogatott kosárlabdázó. A Honvéddal húsz év alatt 15 bajnoki címet és nyolc kupagyőzelmet szerzett, később edzőként és fiatal játékosok képzőjeként dolgozott.",
+    "content_hu": "• **Pályafutása a Honvédnál** Gellér Sándor 1966-ban igazolt a klubhoz, ahol 1986-ig játszott. Ez idő alatt 15 bajnoki címet és nyolc kupagyőzelmet ünnepelhetett.\n\n• **Válogatott szereplése** A 113-szoros válogatott tagja volt az 1969-es Európa-bajnokságon nyolcadik helyen végző magyar csapatnak, és a nyolcvanas évek elején játékosedzőként is segítette a nemzeti együttest.\n\n• **Edzőként is bajnok lett** Játékos-pályafutása után sem szakadt el a kosárlabdától: 1988-ban a ZTE edzőjeként nyert bajnokságot, később fiatalok egyéni képzésével foglalkozott.\n\n• **Saját halottjuknak tekintik** A Budapesti Honvéd és a Magyar Kosárlabdázók Országos Szövetsége saját halottjaként búcsúzik Gellér Sándortól.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_544a74ab0e",
