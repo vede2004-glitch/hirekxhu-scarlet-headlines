@@ -1868,56 +1868,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_b9ebd907c8",
-    "fingerprint": "c210da8e5ce2a9a243ed131886d9eaec",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0581733225-e1793899330589-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kérhető a háziorvosnál: megérkezett az influenza elleni védőoltás",
-        "link": "https://24.hu/belfold/2026/11/05/haziorvos-influenza-oltas/"
-      },
-      {
-        "source": "Femina",
-        "title": "Már az egész országban elérhető az influenza elleni oltás a háziorvosoknál: nekik jár ingyen",
-        "link": "https://femina.hu/egeszseg/influenza-elleni-oltas-haziorvosoknal-ingyen/"
-      }
-    ],
-    "published_at": 1793949000,
-    "title_hu": "Országszerte elérhető az influenzaoltás a háziorvosoknál",
-    "lead_hu": "Már országszerte kérhető az influenza elleni védőoltás a háziorvosoknál; eddig 650 ezer adag vakcinát juttattak el a rendelőkbe. A veszélyeztetett csoportok tagjai és több meghatározott foglalkozás dolgozói térítésmentesen kaphatják meg az oltást.",
-    "content_hu": "• **650 ezer adag érkezett** a háziorvosi rendelőkbe, és igény esetén további 200 ezer adag vakcina felhasználására is lehetőség van.\n\n• **Térítésmentes oltás jár többek között** a 60 év felettieknek, bizonyos krónikus betegségben élőknek, várandósoknak, szoptató anyáknak, valamint az egészségügyi és szociális dolgozóknak. November végéig a fokozott kockázatú csoportok oltása elsőbbséget élvez.\n\n• **Érdemes még a járvány előtt kérni az oltást:** az immunvédelem kialakulásához általában két hét szükséges, az influenzajárványok pedig jellemzően januárban vagy februárban kezdődnek.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_2c08fbe5b7",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/n/o/r/norbi-update-572648-765543.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Kész, vége, ennyi: elrendelték a Schorbert Norbert által alapított Update-hálózat felszámolását",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/kesz-vege-ennyi-elrendeltek-a-schorbert-norbert-altal-alapitott-update-halozat-felszamolasat-874620"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Kész, vége, ennyi: elrendelték a Schobert Norbert által alapított Update-hálózat felszámolását",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/kesz-vege-ennyi-elrendeltek-a-schobert-norbert-altal-alapitott-update-halozat-felszamolasat-874620"
-      }
-    ],
-    "published_at": 1793949000,
-    "title_hu": "Kész, vége, ennyi: elrendelték a Schorbert Norbert által alapított Update-hálózat felszámolását",
-    "lead_hu": "Jogerősen elrendelték az egykor népszerű Update-hálózatot üzemeltető cég felszámolását. A vállalat a felhalmozott beszállítói tartozások és a sorozatos adóhatósági végrehajtások következtében fizetésk…",
-    "content_hu": "Jogerősen elrendelték az egykor népszerű Update-hálózatot üzemeltető cég felszámolását. A vállalat a felhalmozott beszállítói tartozások és a sorozatos adóhatósági végrehajtások következtében fizetésképtelenné vált, október végére pedig az utolsó üzletük is végleg bezárt - számolt be a Blikk.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_05be80aeef",
     "category": "Politika",
     "image": "https://s.24.hu/app/uploads/2026/11/40f2fa8f-6b6a-4276-a36a-d11350ada088-e1793882608663-1024x577.jpg",
@@ -2226,6 +2176,56 @@
     "lead_hu": "A történet tartalmaz még néhány csavart....",
     "content_hu": "A történet tartalmaz még néhány csavart.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_b9ebd907c8",
+    "fingerprint": "c210da8e5ce2a9a243ed131886d9eaec",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0581733225-e1793899330589-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kérhető a háziorvosnál: megérkezett az influenza elleni védőoltás",
+        "link": "https://24.hu/belfold/2026/11/05/haziorvos-influenza-oltas/"
+      },
+      {
+        "source": "Femina",
+        "title": "Már az egész országban elérhető az influenza elleni oltás a háziorvosoknál: nekik jár ingyen",
+        "link": "https://femina.hu/egeszseg/influenza-elleni-oltas-haziorvosoknal-ingyen/"
+      }
+    ],
+    "published_at": 1793949000,
+    "title_hu": "Országszerte elérhető az influenzaoltás a háziorvosoknál",
+    "lead_hu": "Már országszerte kérhető az influenza elleni védőoltás a háziorvosoknál; eddig 650 ezer adag vakcinát juttattak el a rendelőkbe. A veszélyeztetett csoportok tagjai és több meghatározott foglalkozás dolgozói térítésmentesen kaphatják meg az oltást.",
+    "content_hu": "• **650 ezer adag érkezett** a háziorvosi rendelőkbe, és igény esetén további 200 ezer adag vakcina felhasználására is lehetőség van.\n\n• **Térítésmentes oltás jár többek között** a 60 év felettieknek, bizonyos krónikus betegségben élőknek, várandósoknak, szoptató anyáknak, valamint az egészségügyi és szociális dolgozóknak. November végéig a fokozott kockázatú csoportok oltása elsőbbséget élvez.\n\n• **Érdemes még a járvány előtt kérni az oltást:** az immunvédelem kialakulásához általában két hét szükséges, az influenzajárványok pedig jellemzően januárban vagy februárban kezdődnek.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_2c08fbe5b7",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/n/o/r/norbi-update-572648-765543.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kész, vége, ennyi: elrendelték a Schorbert Norbert által alapított Update-hálózat felszámolását",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/kesz-vege-ennyi-elrendeltek-a-schorbert-norbert-altal-alapitott-update-halozat-felszamolasat-874620"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kész, vége, ennyi: elrendelték a Schobert Norbert által alapított Update-hálózat felszámolását",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/kesz-vege-ennyi-elrendeltek-a-schobert-norbert-altal-alapitott-update-halozat-felszamolasat-874620"
+      }
+    ],
+    "published_at": 1793949000,
+    "title_hu": "Kész, vége, ennyi: elrendelték a Schorbert Norbert által alapított Update-hálózat felszámolását",
+    "lead_hu": "Jogerősen elrendelték az egykor népszerű Update-hálózatot üzemeltető cég felszámolását. A vállalat a felhalmozott beszállítói tartozások és a sorozatos adóhatósági végrehajtások következtében fizetésk…",
+    "content_hu": "Jogerősen elrendelték az egykor népszerű Update-hálózatot üzemeltető cég felszámolását. A vállalat a felhalmozott beszállítói tartozások és a sorozatos adóhatósági végrehajtások következtében fizetésképtelenné vált, október végére pedig az utolsó üzletük is végleg bezárt - számolt be a Blikk.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_e403409255",
@@ -3070,6 +3070,63 @@
     "lead_hu": "„A jegyeket eddig is vette a kedves közönség, az előadások jól mentek, minden rendben volt”.",
     "content_hu": "„A jegyeket eddig is vette a kedves közönség, az előadások jól mentek, minden rendben volt”.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_1ddd2c90f9",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Kipakolt a Tisza-politikus: Szalay-Bobrovniczky levele miatt rúgták ki a norvég hadiipari cégtől?",
+        "link": "https://www.atv.hu/belfold/20261106/szalay-bobrovniczky-kurtos-zsarolas/"
+      }
+    ],
+    "published_at": 1793959860,
+    "title_hu": "Kipakolt a Tisza-politikus: Szalay-Bobrovniczky levele miatt rúgták ki a norvég hadiipari cégtől?",
+    "lead_hu": "Kürtös László eddig hallgatott, most azonban közzétette a bizonyítékot: állami szerződésekkel zsarolhatta meg a norvég multinacionális vállalatot Szalay-Bobrovniczky Kristóf....",
+    "content_hu": "Kürtös László eddig hallgatott, most azonban közzétette a bizonyítékot: állami szerződésekkel zsarolhatta meg a norvég multinacionális vállalatot Szalay-Bobrovniczky Kristóf.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_aeb01cc756",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/dszzs2026092902_3333-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ügynökakták: történész segít értelmezni a 6-os kartonok adatait",
+        "link": "https://24.hu/tudomany/2026/11/06/ugynokaktak-6-os-karton-magnesszalag-tortenesz-besugo-24extra/"
+      }
+    ],
+    "published_at": 1793959599,
+    "title_hu": "Ügynökakták: történész segít értelmezni a 6-os kartonok adatait",
+    "lead_hu": "Az adatok valójában csak tájékoztató jellegűek, egyik elemük sem alkalmas arra, hogy tényeket állapítsunk meg és erkölcsi ítéletet hozzunk. Ehhez több kell. The post Ügynökakták: történész segít értel...",
+    "content_hu": "Az adatok valójában csak tájékoztató jellegűek, egyik elemük sem alkalmas arra, hogy tényeket állapítsunk meg és erkölcsi ítéletet hozzunk. Ehhez több kell. The post Ügynökakták: történész segít értelmezni a 6-os kartonok adatait first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_248dd33e0e",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1122161712-e1793957900639-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Korda György ismét pókert közvetít, ezúttal Sváby Andrással",
+        "link": "https://24.hu/elet-stilus/2026/11/06/korda-gyorgy-svaby-andras-pokerkozvetites/"
+      }
+    ],
+    "published_at": 1793959548,
+    "title_hu": "Korda György ismét pókert közvetít, ezúttal Sváby Andrással",
+    "lead_hu": "Novembertől ismét pókerközvetítések indulnak a Sport TV-n, a World Poker Tour új évadában Kordához a sportágért szintén rajongó Sváby is csatlakozik. The post Korda György ismét pókert közvetít, ezútt...",
+    "content_hu": "Novembertől ismét pókerközvetítések indulnak a Sport TV-n, a World Poker Tour új évadában Kordához a sportágért szintén rajongó Sváby is csatlakozik. The post Korda György ismét pókert közvetít, ezúttal Sváby Andrással first appeared on 24.hu.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_d15a170f00",
@@ -11584,6 +11641,25 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_51113ace47",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/11/-2iZcztonWVcYq0JeJWnraY28pelQq2XefBnVw3UkPY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI1YmE1NWM0MWMxYjRiODRiODBhYzY4ZjM1N2MzZjI3.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Jamie Foxx 58 évesen újra apa lett: 27 évvel fiatalabb párja első közös gyereküket hozta a világra",
+        "link": "https://borsonline.origo.hu/kulfoldi-sztarhirek/2026/11/jamie-foxx-58-evesen-ujra-apa-lett"
+      }
+    ],
+    "published_at": 1793881800,
+    "title_hu": "Jamie Foxx 58 évesen újra apa lett: 27 évvel fiatalabb párja első közös gyereküket hozta a világra",
+    "lead_hu": "Az 58 éves Oscar-díjas színész háromszoros apa lett. Megszületett Jamie Foxx és a 31 éves Alyce Huckstepp első közös gyermeke....",
+    "content_hu": "Az 58 éves Oscar-díjas színész háromszoros apa lett. Megszületett Jamie Foxx és a 31 éves Alyce Huckstepp első közös gyermeke.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_61765c1b6e",
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/central-0864262015-1024x576.jpg",
@@ -13085,63 +13161,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_db118f9d45",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/v6yb-75KH32P0phLmQA-mm-J1r47Ts0maHB_DwW6jWY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRlMmI1ZDVmYTBiODQyYmY5MzhmNGM0YmQ2ODI5MTVj.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Véget ért Balog Zoltán püspöki szolgálata: megválasztották az utódját",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/veget-ert-balog-zoltan-puspoki-szolgalata-megvalasztottak-az-utodjat"
-      }
-    ],
-    "published_at": 1793873560,
-    "title_hu": "Véget ért Balog Zoltán püspöki szolgálata: megválasztották az utódját",
-    "lead_hu": "A következő időszakban mind a négy egyházkerület élére új tisztségviselőket választanak....",
-    "content_hu": "A következő időszakban mind a négy egyházkerület élére új tisztségviselőket választanak.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_51dd8c0fea",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793872239-temp-o396fpfac5lv1dpfkgg_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "What exactly are the communist-era secret service files now opened in Hungary?",
-        "link": "https://telex.hu/english/2026/11/05/what-exactly-are-the-communist-era-secret-service-files-now-opened-in-hungary"
-      }
-    ],
-    "published_at": 1793873470,
-    "title_hu": "What exactly are the communist-era secret service files now opened in Hungary?",
-    "lead_hu": "Thirty-six years after the fall of communism, the documents commonly referred to as “agent files” have been made public in Hungary. Here's what they might reveal and what their disclosure means for th…",
-    "content_hu": "Thirty-six years after the fall of communism, the documents commonly referred to as “agent files” have been made public in Hungary. Here's what they might reveal and what their disclosure means for the country.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_dd5875d332",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/07/IL0JYk0ZrdeMK_ZyKSb0f1CeqTSFP3QEX5dnjq08ZeE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1YjM1NGUzZDY2NzQzZWI5MWEwOWFhMzQ3ZmZjNmNl.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Nem akárki csalódott hatalmasat a Tisza kormányzásában",
-        "link": "https://magyarnemzet.hu/gazdasag/2026/11/nem-akarki-csalodott-hatalmasat-a-tisza-kormanyzasaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793873325,
-    "title_hu": "Nem akárki csalódott hatalmasat a Tisza kormányzásában",
-    "lead_hu": "Az agrárbáró nagy összeggel támogatta Magyar Péteréket a választási kampányban.",
-    "content_hu": "Az agrárbáró nagy összeggel támogatta Magyar Péteréket a választási kampányban.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_e7521b3be4",
     "fingerprint": "4e4a966c319ff0f3fb3d4337bfffecb2",
     "category": "Politika",
@@ -13306,6 +13325,25 @@
     "lead_hu": "Horváth Kamilla Virág október 20-án, egészségügyi ellátása közben távozott a Borsod-Abaúj-Zemplén Vármegyei Központi Kórházból. A rendőrség a lakosság segítségét kéri a lány megtalálásához.",
     "content_hu": "• **Eltűnése** A 14 éves Horváth Kamilla Virág október 20-án szökött meg a kórházból, azóta ismeretlen helyen tartózkodik.\n\n• **Személyleírása** A lány körülbelül 160 centiméter magas, vékony testalkatú, barna félhosszú hajú és barna szemű. Az esztergomi lakóotthonban él.\n\n• **Bejelentés** Aki tud valamit a hollétéről, az Esztergomi Rendőrkapitányságot a 06/34-517-777-es telefonszámon, a Telefontanút a 06-80-555-111-es számon vagy szükség esetén a 112-t hívhatja.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_d2f401c414",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/24hu_della_1006_-1024x575.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Politikai földrengés Amerikában, mit áraznak a piacok? – az ÁKK vezérigazgatóját kérdeztük",
+        "link": "https://24.hu/fn/gazdasag/2026/11/06/podcast-della-usa-felidos-piaci-hatasok-tardos-gergely-akk/"
+      }
+    ],
+    "published_at": 1793959538,
+    "title_hu": "Politikai földrengés Amerikában, mit áraznak a piacok? – az ÁKK vezérigazgatóját kérdeztük",
+    "lead_hu": "A rómaiaktól utakat kaptunk, az amerikaiaktól alacsonyabb hozamokat kaphatunk. Tardos Gergely a Dellában. The post Politikai földrengés Amerikában, mit áraznak a piacok? – az ÁKK vezérigazgatóját kérd...",
+    "content_hu": "A rómaiaktól utakat kaptunk, az amerikaiaktól alacsonyabb hozamokat kaphatunk. Tardos Gergely a Dellában. The post Politikai földrengés Amerikában, mit áraznak a piacok? – az ÁKK vezérigazgatóját kérdeztük first appeared on 24.hu.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_544a74ab0e",
