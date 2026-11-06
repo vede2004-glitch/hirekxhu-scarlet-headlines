@@ -2286,32 +2286,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_43cc249a9d",
-    "fingerprint": "bc25844618857aab6038c084204dd0dc",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/6303/63039/630395/63039517_4661691_92e69b349f6c6792358eea732068ee8e_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Varga Judit nyilvánosan számolhat be a botrányos ügyekről, meghallgatja a vizsgálóbizottság",
-        "link": "https://index.hu/belfold/2026/11/06/varga-judit-orszaggyules-parlament-vizsgalobizottsag-vegrehajtoi-rendszer/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Varga Juditot meghallgatja a vizsgálóbizottság",
-        "link": "https://www.vadhajtasok.hu/2026/11/06/varga-juditot-meghallgatja-a-vizsgalobizottsag"
-      }
-    ],
-    "published_at": 1793966940,
-    "title_hu": "Varga Juditot is meghallgatja a végrehajtási visszaéléseket vizsgáló bizottság",
-    "lead_hu": "A Végrehajtási Visszaéléseket Feltáró Vizsgálóbizottság november 11-én meghallgatja Varga Judit volt igazságügyi minisztert és Répássy Róbert korábbi államtitkárt. A testület november 13-án is ülésezik, amikor további volt minisztereket hallgathat meg.",
-    "content_hu": "• **November 11-i meghallgatás** A vizsgálóbizottság szerdán 14 órától Varga Juditot és Répássy Róbertet hallgatja meg.\n\n• **Újabb ülés pénteken** November 13-án 9:30-tól ismét összeül a testület; aznap három volt miniszter meghallgatása is napirenden lehet.\n\n• **Korábbi bizottsági ülés** Október 21-én Fürcht Pált, a Központi Nyomozó Főügyészség korábbi vezetőjét hallgatták meg. Fürcht azt állította, hogy Varga miniszterként nem tudott a végrehajtási rendszerben történtekről.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_804c5ae452",
     "fingerprint": "ca9eb3da60dcac69ceb32cfdbe1912a3",
     "category": "Politika",
@@ -2481,6 +2455,32 @@
     "lead_hu": "Svédország november 12-től hat hónapra visszaállítja a belső határellenőrzést a schengeni övezetben. A kormány a közrendet és a belső biztonságot fenyegető súlyos veszélyekkel, köztük hibrid fenyegetésekkel indokolja a döntést.",
     "content_hu": "• **November 12-től hat hónapig** ismét ellenőrzik a schengeni belső határokon áthaladókat Svédországban; az intézkedés 2027. május 11-ig lesz érvényben.\n\n• **A döntés indoka** a svéd kormány szerint az orosz invázió nyomán kialakult súlyos biztonsági helyzet, valamint a hibrid fenyegetések és a schengeni övezeten belül mozgó ellenséges elemek jelentette veszély.\n\n• **Az ellenőrzések módjáról** a svéd rendőrség dönt: meghatározza azok helyét és gyakorlati végrehajtását, és a közrend, illetve a belső biztonság védelméhez igazítja őket.\n\n• **Az előző időszakban** Svédország csak szúrópróbaszerű ellenőrzést és megfigyelést végzett a belső határokon, nem vizsgált meg minden átutazót.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_43cc249a9d",
+    "fingerprint": "bc25844618857aab6038c084204dd0dc",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/6303/63039/630395/63039517_4661691_92e69b349f6c6792358eea732068ee8e_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Varga Judit nyilvánosan számolhat be a botrányos ügyekről, meghallgatja a vizsgálóbizottság",
+        "link": "https://index.hu/belfold/2026/11/06/varga-judit-orszaggyules-parlament-vizsgalobizottsag-vegrehajtoi-rendszer/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Varga Juditot meghallgatja a vizsgálóbizottság",
+        "link": "https://www.vadhajtasok.hu/2026/11/06/varga-juditot-meghallgatja-a-vizsgalobizottsag"
+      }
+    ],
+    "published_at": 1793966940,
+    "title_hu": "Varga Juditot is meghallgatja a végrehajtási visszaéléseket vizsgáló bizottság",
+    "lead_hu": "A Végrehajtási Visszaéléseket Feltáró Vizsgálóbizottság november 11-én meghallgatja Varga Judit volt igazságügyi minisztert és Répássy Róbert korábbi államtitkárt. A testület november 13-án is ülésezik, amikor további volt minisztereket hallgathat meg.",
+    "content_hu": "• **November 11-i meghallgatás** A vizsgálóbizottság szerdán 14 órától Varga Juditot és Répássy Róbertet hallgatja meg.\n\n• **Újabb ülés pénteken** November 13-án 9:30-tól ismét összeül a testület; aznap három volt miniszter meghallgatása is napirenden lehet.\n\n• **Korábbi bizottsági ülés** Október 21-én Fürcht Pált, a Központi Nyomozó Főügyészség korábbi vezetőjét hallgatták meg. Fürcht azt állította, hogy Varga miniszterként nem tudott a végrehajtási rendszerben történtekről.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_a2cac11bc2",
@@ -2663,6 +2663,30 @@
     "importance_score": 28.0
   },
   {
+    "group_id": "group_2ed50102ba",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/jennie_garth.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "A Beverly Hills 90210 gyönyörű szőke Kellyje volt: 54 évesen így néz ki Jennie Garth",
+        "link": "https://femina.hu/vilagsztar/jennie-garth-beverly-hills-90210-kelly-54-evesen-foto/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Meghalt a Beverly Hills 90210 egykori szereplője, Kimmarie Johnson – mindössze ötven éves volt",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/meghalt-a-beverly-hills-90210-egykori-szereploje-kimmarie-johnson-mindossze-otven-eves-volt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793944500,
+    "title_hu": "A Beverly Hills 90210 gyönyörű szőke Kellyje volt: 54 évesen így néz ki Jennie Garth",
+    "lead_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
+    "content_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_a933241565",
     "fingerprint": "8b1d8b07d0eee09f2af0efd0e466c733",
     "category": "Politika",
@@ -2686,57 +2710,7 @@
     "title_hu": "164 megfigyelt neve került tévesen az ügynökakták adatbázisába, az ÁBTL főigazgatója felajánlja lemondását",
     "lead_hu": "Az ÁBTL főigazgatója szerint 164 megfigyelt személy, köztük Lezsák Sándor neve szerepelt tévesen hálózati személyként a nyitottaktak.hu adatbázisában. A levéltár közlése szerint a hibát elhárították, jelenlegi tudomásuk alapján már nincs tévesen feltüntetett név; Cseh Gergő Bendegúz felajánlja lemondását a fenntartónak. A Fidesz politikai felelősségre vonást és a honlap leállítását követeli, Lezsák Sándor pedig bírósághoz fordul.",
     "content_hu": "• **Informatikai hiba miatt jelent meg Lezsák Sándor neve** Az ÁBTL szerint Lezsák a mágnesszalagokon megfigyeltként, nem hálózati személyként szerepelt; a levéltár bocsánatot kért tőle.\n\n• **Végül 164 téves adatot azonosítottak** Cseh Gergő Bendegúz főigazgató közlése szerint ennyi megfigyelt személy adata került tévesen a hálózati személyek közé. A korábbi becslés mintegy 160 esetről szólt.\n\n• **Az 05-ös kód félreértelmezése okozhatta a hibát** A főigazgató szerint ezt a jelölést a megfigyeltekre használták, és az ilyen kartonok adatainak áttöltésekor történhetett technikai hiba.\n\n• **Más kódok is szerepeltek a nyilvántartásban** A forrás szerint a 04-es jelölést a még foglalkoztatott, a 07-est pedig a hálózatból kizárt és irattározott személyek kartonján használták.\n\n• **A mágnesszalagok adatainak átalakításakor keletkezhetett a probléma** Az ÁBTL október elején kapta meg az Alkotmányvédelmi Hivataltól a H-adattár végleges adatait egy olyan Excel-táblában, amelyben az információk egy mezőben szerepeltek; ezeket az adatbázis elkészítéséhez szét kellett bontani.\n\n• **A levéltár közlése szerint elhárították a hibát** Cseh Gergő Bendegúz pénteken azt mondta, jelenlegi tudomásuk alapján már nem található tévesen felkerült név az adatbázisban, és továbbra is ellenőrzik a közzétett adatokat. A főigazgató minden érintettől elnézést kért.\n\n• **A főigazgató felajánlja lemondását** Cseh Gergő Bendegúz szerint a hiba elhárítása után szakmailag úgy tisztességes, ha felajánlja lemondását a fenntartónak; arról, hogy a továbbiakban igényt tartanak-e a munkájára, az Országgyűlés dönt.\n\n• **Nagy érdeklődés övezi az adatbázist** A főigazgató közlése szerint november 4-én 1,1 millió látogatója volt az oldalnak, és egyetlen nap alatt több mint 5000 kérelem érkezett a levéltárhoz. Az intézmény évente 3500–4000 kérelmet tud kiszolgálni.\n\n• **A Fidesz a honlap leállítását követeli** Bóka János szerint az oldalt addig kell elérhetetlenné tenni, amíg nem tisztázható megbízhatóan, hogy az adatbázisban szereplők megfigyeltek vagy hálózati személyek voltak-e. A párt Magyar Péter bocsánatkérését megkésettnek és elégtelennek nevezte.\n\n• **A Fidesz három miniszter távozását sürgeti** Bóka János Ruff Bálint, Tarr Zoltán és Tanács Zoltán lemondását követelte, és parlamenti vizsgálóbizottság felállítását helyezte kilátásba. Azt is közölte: ha a kormánypárti többség megakadályozza a bizottság létrehozását, szerinte a Tisza-frakció egészének osztoznia kell a miniszterek politikai felelősségében. Rétvári Bence a miniszterelnök felelősségét hangsúlyozta, és azt állította, hogy politikai nyomás és szűk határidő nehezítette a levéltár munkáját.\n\n• **Lezsák Anna vizsgálatot és felelősségre vonást követel** Lezsák Sándor lánya tudomásul vette az ÁBTL bocsánatkérését, de azt mondta, az nem helyettesíti a felelősségre vonást. Teljes körű, dokumentált és ellenőrizhető vizsgálatot, a felelősök megnevezését és az esetleges szándékos manipuláció lehetőségének ellenőrzését sürgette, valamint Cseh Gergő Bendegúz lemondását követelte. A vizsgálat eredményének nyilvánosságra hozatalát is elvárja.\n\n• **Lezsák Sándor bírósághoz fordul** A család a hibásan ügynökként bemutató sajtóközlések jogi következményeit is mérlegeli, és helyesbítést vár az érintett médiumoktól. Lezsák Anna nem válaszolt arra, hogy édesapja elfogadja-e Magyar Péter bocsánatkérését.\n\n• **Lezsák Anna politikai felelősséget is emlegetett** A család képviselője azt mondta, Magyar Péter politikai nyomást gyakorolt az akták megnyitására, és szerinte a miniszterelnök, illetve a Tisza-kormány erkölcsileg és politikailag megbukott.\n\n• **A Fidesz jogi következményeket is sürget** Bóka János szerint az adatközlésnek büntető- és polgári jogi következményei is kell hogy legyenek.\n\n• **A felmérés az aktanyilvánosság támogatottságát jelezte** A HVG által ismertetett Europion-felmérés szerint a megkérdezettek közel háromnegyede támogatja az ügynökakták nyilvánosságát, kétharmaduk pedig közéleti következményekre számít.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_10c07ac595",
-    "fingerprint": "a1d96b0a657e7498d3e3bc0bee697bad",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1146163528-masolat-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Ezermilliárdos vagyonkimentést előznének meg Ruff Bálinték – villámtörvénnyel csaptak oda a magántőkealapoknak",
-        "link": "https://24.hu/fn/gazdasag/2026/11/06/magantokealapok-vagyonkimentes-24extra/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Vagyonkimentés veszélye miatt léptek Ruff Bálinték, szigorodnak az állami finanszírozás szabályai",
-        "link": "https://index.hu/gazdasag/2026/11/06/magantokealapok-torvenyjavaslat-ruff-balint-vagyonkimento-kiserletek-megakadalyozasa/"
-      }
-    ],
-    "published_at": 1793947800,
-    "title_hu": "Szigorítják az állami finanszírozás szabályait a vagyonkimentés veszélye miatt",
-    "lead_hu": "Az Országgyűlés alig több mint 24 óra alatt fogadta el Ruff Bálint miniszterelnök-helyettes törvényjavaslatát, amely a kormány indoklása szerint az állami vagyon védelmét szolgálja. A módosítás az állami bankok hitelezésénél további biztosítékokat tehet lehetővé, és szigorítja a magántőkealapok ellenőrzését.",
-    "content_hu": "• **Rendkívüli gyorsaságú elfogadás** Ruff Bálint hétfőn benyújtott javaslatát az Országgyűlés másnap megszavazta. Kármán András pénzügyminiszter azzal indokolta a sürgősséget, hogy az állami vagyon védelméhez be kell zárni az előző szabályozásban maradt kiskapukat.\n\n• **Szigorúbb feltételek az állami bankok hiteleinél** Az új szabályozás lehetővé teszi, hogy az MFB és az Eximbank állami kezességvállalás mellett további fedezeteket is előírjon. A cikkek szerint az állami bankok több ezer milliárd forinttal finanszíroztak magánvállalatokat, egyes ügyletek pedig jelentős kockázatot jelenthetnek a költségvetésnek.\n\n• **Nagyobb ellenőrzés a magántőkealapok felett** A Transparency International adatai szerint 2013 óta több mint 2600 milliárd forint közpénz került magántőkealapokba. A törvény 60 százalékra csökkenti azt a tulajdoni küszöböt, amely felett az állami befektetők kezdeményezhetik az alapkezelő leváltását, és lehetővé teszi a befizetések 90 napos felfüggesztését az átvilágítás idejére.\n\n• **Továbbra is kérdés az átláthatóság** A szakértők fontosnak tartják az állami vagyon védelmét, de arra is figyelmeztetnek, hogy a magántőkealapok adatainak nyilvántartása és ellenőrzése továbbra sem kellően átlátható.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_2ed50102ba",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/jennie_garth.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "A Beverly Hills 90210 gyönyörű szőke Kellyje volt: 54 évesen így néz ki Jennie Garth",
-        "link": "https://femina.hu/vilagsztar/jennie-garth-beverly-hills-90210-kelly-54-evesen-foto/"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Meghalt a Beverly Hills 90210 egykori szereplője, Kimmarie Johnson – mindössze ötven éves volt",
-        "link": "https://magyarnemzet.hu/kultura/2026/11/meghalt-a-beverly-hills-90210-egykori-szereploje-kimmarie-johnson-mindossze-otven-eves-volt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793944500,
-    "title_hu": "A Beverly Hills 90210 gyönyörű szőke Kellyje volt: 54 évesen így néz ki Jennie Garth",
-    "lead_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
-    "content_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
-    "importance_score": 28.0
+    "importance_score": 23.0
   },
   {
     "group_id": "group_3dd598a32b",
@@ -3071,6 +3045,30 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_c53bcb476c",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/MZPXuCCai-Y4XdADD0PjpLrdxv90Oz5RQFBI2vnj_Go/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM4OTI3NDU1MTcxYzQ4OGE5YmE1Y2IyZjUxZTE0M2Ez.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Csodás bravúr a „szebb napokat látott” Fraditól, megérdemelt siker Olaszországban is!",
+        "link": "https://magyarnemzet.hu/sport/2026/11/ac-milan-ftc-0-2-europa-liga-4-fordulo-fradi-joseph-gol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Van még feljebb? – Az nem a remeklő Fradi baja, hogy a Milan szörnyű volt",
+        "link": "https://24.hu/sport/foci/2026/11/06/ac-milan-ferencvaros-europa-liga-van-meg-feljebb/"
+      }
+    ],
+    "published_at": 1793907586,
+    "title_hu": "Csodás bravúr a „szebb napokat látott” Fraditól, megérdemelt siker Olaszországban is!",
+    "lead_hu": "Emberhátrányban is klasszis teljesítmény az AC Milan ellen! A kétgólos különbség még a milánóiaknak lehet hízelgő, hibátlan az Európa-ligában a Ferencváros.",
+    "content_hu": "Emberhátrányban is klasszis teljesítmény az AC Milan ellen! A kétgólos különbség még a milánóiaknak lehet hízelgő, hibátlan az Európa-ligában a Ferencváros.",
+    "importance_score": 20.0
+  },
+  {
     "group_id": "group_088680356a",
     "fingerprint": "8a6be8843d32cdd605797ab55755315e",
     "category": "Politika",
@@ -3199,6 +3197,101 @@
     "lead_hu": "November 4-én látták utoljára a Bőszénfán élő Tomczak Ewald Wolfgangot, aki azóta nem adott életjelet magáról. A rendőrség a lakosság segítségét kéri a felkutatásához.",
     "content_hu": "• **November 4-én látták utoljára** a 74 éves német állampolgárt Bőszénfán; azóta ismeretlen helyen tartózkodik.\n\n• **Személyleírása:** körülbelül 170 centiméter magas, átlagos testalkatú, rövidre nyírt ősz hajú. Eltűnésekor kék dzsekit és nadrágot viselt, két nagy szatyor volt nála.\n\n• **A rendőrség a lakosság segítségét kéri.** Aki információval rendelkezik, hívja a 112-t vagy a Somogy Vármegyei Rendőr-főkapitányságot a 06 82/502-700-as telefonszámon.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_0587ac4b78",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1207392980-csalad-eletkor-eletmod-generacio-gondoskodas-idosek-nyugdijas-otthon-767153.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Friss adatok jöttek Brüsszelből: az utolsók között van Magyarország a szociális kiadásokban",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/friss-adatok-jottek-brusszelbol-az-utolsok-kozott-van-magyarorszag-a-szocialis-kiadasokban-874778"
+      }
+    ],
+    "published_at": 1793977860,
+    "title_hu": "Friss adatok jöttek Brüsszelből: az utolsók között van Magyarország a szociális kiadásokban",
+    "lead_hu": "Közel 5 százalékkal emelkedtek a szociális védelmi ellátásokra fordított kiadások az Európai Unióban 2025-ben az Eurostat legfrissebb előzetes becslései szerint. Bár euróban számolva minden tagállamba...",
+    "content_hu": "Közel 5 százalékkal emelkedtek a szociális védelmi ellátásokra fordított kiadások az Európai Unióban 2025-ben az Eurostat legfrissebb előzetes becslései szerint. Bár euróban számolva minden tagállamban nőttek a ráfordítások, a GDP-arányos mutatók tekintetében jelentős különbségek mutatkoznak az egyes országok között, Magyarországon pedig a harmadik legalacsonyabb volt ez az arány az EU-ban – közölte honlapján az Eurostat.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_77542f45c9",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/07SkDFJJ3SJkXAU25hB4PjpEBu2rJg5s0P56-_TQO_s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ1N2NmYjI4ZmJjNTQ0OWZhMjA3NDZkNTg4NDA4NDVk.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Lecsaptak a NAV nyomozói",
+        "link": "https://hirtv.origo.hu/ahirtvkekhirei/2026/11/nav-cigaretta-csempesz-fogas"
+      }
+    ],
+    "published_at": 1793977781,
+    "title_hu": "Lecsaptak a NAV nyomozói",
+    "lead_hu": "Egy sofőrt a zsebéből kieső füves cigi buktatott le....",
+    "content_hu": "Egy sofőrt a zsebéből kieső füves cigi buktatott le.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_3aef46dab2",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/000_d4wz6lx-e1793977652771-1024x575.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Csalás gyanúja miatt nyomoznak a spanyol vasútfejlesztéseknél",
+        "link": "https://24.hu/kulfold/2026/11/06/spanyolorszag-gyorsvasut-eppo-csalas-nyomozas/"
+      }
+    ],
+    "published_at": 1793977737,
+    "title_hu": "Csalás gyanúja miatt nyomoznak a spanyol vasútfejlesztéseknél",
+    "lead_hu": "Az Európai Ügyészség a spanyol gyorsvasút fejlesztésére fordított uniós támogatások felhasználását vizsgálja két halálos balesetet követően. The post Csalás gyanúja miatt nyomoznak a spanyol vasútfejl...",
+    "content_hu": "Az Európai Ügyészség a spanyol gyorsvasút fejlesztésére fordított uniós támogatások felhasználását vizsgálja két halálos balesetet követően. The post Csalás gyanúja miatt nyomoznak a spanyol vasútfejlesztéseknél first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ef906a52eb",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/strangerthings-s5-0012-69270dd74-1140x641-1-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Élőszereplős sorozattal bővül a Stranger Things univerzuma",
+        "link": "https://24.hu/kultura/2026/11/06/stranger-things-univerzum-netflix-spinoff/"
+      }
+    ],
+    "published_at": 1793977711,
+    "title_hu": "Élőszereplős sorozattal bővül a Stranger Things univerzuma",
+    "lead_hu": "Nem engedi el a Netflix az egyik legsikeresebb sorozatát: készül már színházi darab és animációs sorozat is, de ez lesz az első élőszereplős spin-off. The post Élőszereplős sorozattal bővül a Stranger...",
+    "content_hu": "Nem engedi el a Netflix az egyik legsikeresebb sorozatát: készül már színházi darab és animációs sorozat is, de ez lesz az első élőszereplős spin-off. The post Élőszereplős sorozattal bővül a Stranger Things univerzuma first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_30a14f151e",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Egy 21 éves fiú egyedül hagyta a 17 éves barátnőjét a –12 fokos Zugspitzén",
+        "link": "https://444.hu/2026/11/06/egy-21-eves-fiu-egyedul-hagyta-a-17-eves-baratnojet-a-12-fokos-zugspitzen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1793977699,
+    "title_hu": "Egy 21 éves fiú egyedül hagyta a 17 éves barátnőjét a –12 fokos Zugspitzén",
+    "lead_hu": "A lányt mentőhelikopterrel hozták le a hegyről....",
+    "content_hu": "A lányt mentőhelikopterrel hozták le a hegyről.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_dd04036af3",
@@ -10516,25 +10609,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_c53bcb476c",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/MZPXuCCai-Y4XdADD0PjpLrdxv90Oz5RQFBI2vnj_Go/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM4OTI3NDU1MTcxYzQ4OGE5YmE1Y2IyZjUxZTE0M2Ez.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Csodás bravúr a „szebb napokat látott” Fraditól, megérdemelt siker Olaszországban is!",
-        "link": "https://magyarnemzet.hu/sport/2026/11/ac-milan-ftc-0-2-europa-liga-4-fordulo-fradi-joseph-gol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793907586,
-    "title_hu": "Csodás bravúr a „szebb napokat látott” Fraditól, megérdemelt siker Olaszországban is!",
-    "lead_hu": "Emberhátrányban is klasszis teljesítmény az AC Milan ellen! A kétgólos különbség még a milánóiaknak lehet hízelgő, hibátlan az Európa-ligában a Ferencváros.",
-    "content_hu": "Emberhátrányban is klasszis teljesítmény az AC Milan ellen! A kétgólos különbség még a milánóiaknak lehet hízelgő, hibátlan az Európa-ligában a Ferencváros.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_edbd8fda07",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7243/72437/724370/72437033_5338003_cf0361579bfc1e9d8e884ce461f4b0fe_wm.jpg",
@@ -13005,61 +13079,30 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_6bbff74beb",
+    "group_id": "group_10c07ac595",
+    "fingerprint": "a1d96b0a657e7498d3e3bc0bee697bad",
     "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261030/1793350268-temp-n47lg4ukpp729ajceia_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Pussy Riot a Telexnek: Európában a legtöbben nem értik a veszélyt. Ez egy hibrid háború, és Putyin nem fog leállni",
-        "link": "https://telex.hu/after/2026/11/05/pussy-riot-interju-alina-petrova-marija-aljohina-eric-breitenbach-taszo-pletnyer-riot-days-magyar-zene-haza-koncert"
-      }
-    ],
-    "published_at": 1793891482,
-    "title_hu": "Pussy Riot a Telexnek: Európában a legtöbben nem értik a veszélyt. Ez egy hibrid háború, és Putyin nem fog leállni",
-    "lead_hu": "Börtönbüntetések, száműzetés és folyamatos turnézás: ilyen ma a Pussy Riot tagjainak élete. A jövőre Budapesten koncertező orosz kollektíva tagjaival Putyin rendszeréről, a háború miatt elvesztett bar…",
-    "content_hu": "Börtönbüntetések, száműzetés és folyamatos turnézás: ilyen ma a Pussy Riot tagjainak élete. A jövőre Budapesten koncertező orosz kollektíva tagjaival Putyin rendszeréről, a háború miatt elvesztett barátokról, Orbán Viktorról és a politikai művészet erejéről beszélgettünk.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_7b29484fd0",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/3GCo9EQzRezGLLh9-kQ4bsOGYtVW_5Sdowh2BRnBokA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU0YTI3ZGU5MTRjODQ4Yjg4Y2NlZjdkZjFiYmY5NmYz.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Kiraboltak egy pénzszállítót Nyíregyháza belvárosában",
-        "link": "https://hirtv.origo.hu/ahirtvkekhirei/2026/11/penzszallito-rablas-nyiregyhaza"
-      }
-    ],
-    "published_at": 1793891385,
-    "title_hu": "Kiraboltak egy pénzszállítót Nyíregyháza belvárosában",
-    "lead_hu": "Hajtóvadászatot indított a rendőrség.",
-    "content_hu": "Hajtóvadászatot indított a rendőrség.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_af617f34d6",
-    "category": "Bulvár",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1130335885-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1146163528-masolat-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
-        "title": "Tovább bővül a Most Wanted-univerzum: ezt tervezi 2027-re az RTL",
-        "link": "https://24.hu/elet-stilus/2026/11/05/rtl-2027-musorok-most-wanted-uj-produkciok/"
+        "title": "Ezermilliárdos vagyonkimentést előznének meg Ruff Bálinték – villámtörvénnyel csaptak oda a magántőkealapoknak",
+        "link": "https://24.hu/fn/gazdasag/2026/11/06/magantokealapok-vagyonkimentes-24extra/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Vagyonkimentés veszélye miatt léptek Ruff Bálinték, szigorodnak az állami finanszírozás szabályai",
+        "link": "https://index.hu/gazdasag/2026/11/06/magantokealapok-torvenyjavaslat-ruff-balint-vagyonkimento-kiserletek-megakadalyozasa/"
       }
     ],
-    "published_at": 1793891378,
-    "title_hu": "Tovább bővül a Most Wanted-univerzum: ezt tervezi 2027-re az RTL",
-    "lead_hu": "Új sorozatokkal, szórakoztató műsorokkal és népszerű produkciók visszatérésével készül a csatorna. A kínálatban egy különleges közéleti műsor és egy új tévécsatorna is helyet kap. The post Tovább bővü…",
-    "content_hu": "Új sorozatokkal, szórakoztató műsorokkal és népszerű produkciók visszatérésével készül a csatorna. A kínálatban egy különleges közéleti műsor és egy új tévécsatorna is helyet kap. The post Tovább bővül a Most Wanted-univerzum: ezt tervezi 2027-re az RTL first appeared on 24.hu.",
-    "importance_score": 0.0
+    "published_at": 1793947800,
+    "title_hu": "Szigorítják az állami finanszírozás szabályait a vagyonkimentés veszélye miatt",
+    "lead_hu": "Az Országgyűlés alig több mint 24 óra alatt fogadta el Ruff Bálint miniszterelnök-helyettes törvényjavaslatát, amely a kormány indoklása szerint az állami vagyon védelmét szolgálja. A módosítás az állami bankok hitelezésénél további biztosítékokat tehet lehetővé, és szigorítja a magántőkealapok ellenőrzését.",
+    "content_hu": "• **Rendkívüli gyorsaságú elfogadás** Ruff Bálint hétfőn benyújtott javaslatát az Országgyűlés másnap megszavazta. Kármán András pénzügyminiszter azzal indokolta a sürgősséget, hogy az állami vagyon védelméhez be kell zárni az előző szabályozásban maradt kiskapukat.\n\n• **Szigorúbb feltételek az állami bankok hiteleinél** Az új szabályozás lehetővé teszi, hogy az MFB és az Eximbank állami kezességvállalás mellett további fedezeteket is előírjon. A cikkek szerint az állami bankok több ezer milliárd forinttal finanszíroztak magánvállalatokat, egyes ügyletek pedig jelentős kockázatot jelenthetnek a költségvetésnek.\n\n• **Nagyobb ellenőrzés a magántőkealapok felett** A Transparency International adatai szerint 2013 óta több mint 2600 milliárd forint közpénz került magántőkealapokba. A törvény 60 százalékra csökkenti azt a tulajdoni küszöböt, amely felett az állami befektetők kezdeményezhetik az alapkezelő leváltását, és lehetővé teszi a befizetések 90 napos felfüggesztését az átvilágítás idejére.\n\n• **Továbbra is kérdés az átláthatóság** A szakértők fontosnak tartják az állami vagyon védelmét, de arra is figyelmeztetnek, hogy a magántőkealapok adatainak nyilvántartása és ellenőrzése továbbra sem kellően átlátható.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_544a74ab0e",
