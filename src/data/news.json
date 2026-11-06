@@ -868,47 +868,6 @@
     "importance_score": 58.0
   },
   {
-    "group_id": "group_e40a67bed3",
-    "fingerprint": "1397594b457d9312eb100115b63f1684",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "A Tisza nem vesz részt az ügynökakták miatt összehívott nemzetbiztonsági ülésen",
-        "link": "https://444.hu/2026/11/06/a-tisza-nem-vesz-reszt-az-ugynokaktak-miatt-osszehivott-nemzetbiztonsagi-ulesen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Ügynökakták: a Tisza Párt képviselői nem vesznek részt a Nemzetbiztonsági Bizottság hétfői ülésén",
-        "link": "https://telex.hu/ugynokaktak/2026/11/06/ugynokaktak-a-tisza-part-kepviseloi-nem-vesznek-reszt-a-nemzetbiztonsagi-bizottsag-hetfoi-ulesen"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Magyar Péter: A Tisza nem vesz részt a Fidesz alvállalkozói által összehívott nemzetbiztonsági bohóckodáson",
-        "link": "https://24.hu/belfold/2026/11/06/magyar-peter-reakcio-mi-hazank-nemzetbiztonsagi-bizottsag-ugynokaktak/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Magyar Péter: A Tisza nem vesz részt a Fidesz alvállalkozói által hétfőre összehívott nemzetbiztonsági bohóckodáson",
-        "link": "https://index.hu/belfold/2026/11/06/ugynokaktak-magyar-peter-nemzetbiztonsagi-bizottsag-ules-kihagyas-mi-hazank/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Magyar Péter: A Tisza nem vesz részt a Fidesz alvállalkozói által összehívott nemzetbiztonsági bohóckodáson",
-        "link": "https://hvg.hu/itthon/20261106_magyar-peter-tisza-nemzetbiztonsagi-bizottsag"
-      }
-    ],
-    "published_at": 1793975879,
-    "title_hu": "A Tisza Párt távol marad az ügynökaktákról szóló bizottsági üléstől",
-    "lead_hu": "Magyar Péter bejelentette, hogy a Tisza Párt képviselői nem vesznek részt az Országgyűlés Nemzetbiztonsági Bizottságának hétfő reggelre összehívott nyílt ülésén. A tanácskozást Apáti István kezdeményezte az ügynökakták nyilvánosságra hozatala körül felmerült aggályok és ellentmondások miatt.",
-    "content_hu": "• **A Tisza távol marad** Magyar Péter a bizottsági ülést „nemzetbiztonsági bohóckodásnak” nevezte, és közölte, hogy pártja nem vesz részt rajta.\n\n• **Az ülést az ügynökakták miatt hívták össze** Apáti István, a Nemzetbiztonsági Bizottság elnöke hétfő reggel 8 órára nyílt ülést kezdeményezett az akták közzététele kapcsán felmerült aggályok megvitatására. A levéltár vezetőinek megjelenését is kérte.\n\n• **Lezsák Sándor neve tévesen került az adatbázisba** Informatikai hiba miatt megfigyelt személyek nevei, köztük Lezsáké is, tévesen jelentek meg az ügynököket felsoroló oldalon. A levéltár elismerte a hibát, amelyért Magyar Péter is bocsánatot kért.",
-    "importance_score": 58.0
-  },
-  {
     "group_id": "group_cd22bc8b91",
     "fingerprint": "9c0d03f8e1450a2a2803d976315256ad",
     "category": "Politika",
@@ -1027,6 +986,42 @@
     "importance_score": 55.0
   },
   {
+    "group_id": "group_7c000ac92c",
+    "fingerprint": "cced3f14dbaafcc4fb981dd39bdbab8f",
+    "category": "Általános",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/475bc630-34cf-423f-9338-f1a09766ec13.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Több mint 100 tüntető tört be a Microsoft épülő amszterdami adatközpontjába",
+        "link": "https://hvg.hu/tudomany/20261106_microsoft-amszterdam-adatkozpont-tuntetok"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Elegük lett a mesterséges intelligenciából: darukra másztak a tüntetők egy európai fővárosban",
+        "link": "https://www.portfolio.hu/befektetes/20261106/eleguk-lett-a-mesterseges-intelligenciabol-darukra-masztak-a-tuntetok-egy-europai-fovarosban-874832"
+      },
+      {
+        "source": "444.hu",
+        "title": "Aktivisták hatoltak be a Microsoft épülő adatközpontjának területére Amszterdamban, két csoport is tiltakozott",
+        "link": "https://444.hu/2026/11/06/aktivistak-hatoltak-be-a-microsoft-egy-epulo-adatkozpontjanak-teruletere-amszterdamban-ahol-ket-csoport-is-tiltakozott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Klímavédelmi és palesztinpárti tüntetők törtek be Amszterdamban a Microsoft egy építési területére",
+        "link": "https://hvg.hu/vilag/20261106_tuntetes-amszterdam-microsoft-izrael"
+      }
+    ],
+    "published_at": 1793994480,
+    "title_hu": "Több mint százan tiltakoztak egy épülő amszterdami Microsoft-adatközpontnál",
+    "lead_hu": "Több mint száz aktivista jutott be péntek reggel az Amszterdam külvárosában épülő adatközpont területére, és néhányan darukra is felmásztak. A demonstrálók az adatközpontok energia- és vízigényét, valamint környezeti és társadalmi hatásait kifogásolták.",
+    "content_hu": "• **Pénteki akció** Több mint száz tüntető behatolt a Microsoft számára épülő amszterdami adatközpont területére; néhányan felmásztak a darukra, és transzparenseket helyeztek ki.\n\n• **A beruházás** A létesítményt a brit Pure Data Centres építi, és három, egyenként 85 méter magas toronyból áll majd. A projekt a korábbi, 2016-os tervek alapján valósul meg, annak ellenére, hogy Amszterdam 2030-ig megtiltotta új adatközpontok építését.\n\n• **A tiltakozók érvei** Az aktivisták szerint az adatközpontok jelentős terhet rónak az áram- és vízhálózatra, veszélyeztetik a klímacélokat, és a szűkös erőforrásokért folytatott versenyben háttérbe szoríthatják a lakásépítést és a helyi vállalkozásokat. Új beruházások leállítását követelik, amíg nem születnek világosabb szabályok.\n\n• **A vállalatok reakciója** A Pure Data Centres békés távozásra kérte a tiltakozókat, és párbeszédet ajánlott a helyiekkel. A Microsoft közölte, hogy tiszteletben tartja a békés véleménynyilvánítást, a törvénysértő akciókat viszont elítéli.",
+    "importance_score": 55.0
+  },
+  {
     "group_id": "group_cc2b0f0a27",
     "fingerprint": "27f9e4866c9bfb04f570fb64ade4035f",
     "category": "Politika",
@@ -1135,40 +1130,45 @@
     "importance_score": 55.0
   },
   {
-    "group_id": "group_fb642fcfdc",
-    "fingerprint": "ef55818af27ad9883eb7488ee484abc6",
+    "group_id": "group_e40a67bed3",
+    "fingerprint": "1397594b457d9312eb100115b63f1684",
     "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/k/o/r/korhaz-egeszsegugy-lelegeztetogep-koronavirus-jarvany-438532.jpg",
+    "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
-        "source": "Portfolio - Gazdaság",
-        "title": "Itt a táblázat: így alakulnak a bérek az egészségügyben",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/itt-a-tablazat-igy-alakulnak-a-berek-az-egeszsegugyben-874700"
+        "source": "444.hu",
+        "title": "A Tisza nem vesz részt az ügynökakták miatt összehívott nemzetbiztonsági ülésen",
+        "link": "https://444.hu/2026/11/06/a-tisza-nem-vesz-reszt-az-ugynokaktak-miatt-osszehivott-nemzetbiztonsagi-ulesen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Ügynökakták: a Tisza Párt képviselői nem vesznek részt a Nemzetbiztonsági Bizottság hétfői ülésén",
+        "link": "https://telex.hu/ugynokaktak/2026/11/06/ugynokaktak-a-tisza-part-kepviseloi-nem-vesznek-reszt-a-nemzetbiztonsagi-bizottsag-hetfoi-ulesen"
       },
       {
         "source": "24.hu - Legfrissebb",
-        "title": "Közzétették az egészségügyi szakdolgozói bérrendezés részleteit",
-        "link": "https://24.hu/belfold/2026/11/06/egeszsegugyi-szakdolgozok-beremeles-berrendezes/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Bemutatta az Egészségügyi Minisztérium az új bértáblát – kiderült, mennyivel emelkedhetnek a fizetések",
-        "link": "https://hvg.hu/itthon/20261106_egeszsegugyi-miniszterium-bertabla-berek"
+        "title": "Magyar Péter: A Tisza nem vesz részt a Fidesz alvállalkozói által összehívott nemzetbiztonsági bohóckodáson",
+        "link": "https://24.hu/belfold/2026/11/06/magyar-peter-reakcio-mi-hazank-nemzetbiztonsagi-bizottsag-ugynokaktak/"
       },
       {
         "source": "Index - Címlap",
-        "title": "Az Egészségügyi Minisztérium közzétette a szakdolgozói béremelés részleteit",
-        "link": "https://index.hu/gazdasag/2026/11/06/egeszsegugyi-miniszterium-szakdolgozok-beremeles-hegedus-zsolt/"
+        "title": "Magyar Péter: A Tisza nem vesz részt a Fidesz alvállalkozói által hétfőre összehívott nemzetbiztonsági bohóckodáson",
+        "link": "https://index.hu/belfold/2026/11/06/ugynokaktak-magyar-peter-nemzetbiztonsagi-bizottsag-ules-kihagyas-mi-hazank/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Magyar Péter: A Tisza nem vesz részt a Fidesz alvállalkozói által összehívott nemzetbiztonsági bohóckodáson",
+        "link": "https://hvg.hu/itthon/20261106_magyar-peter-tisza-nemzetbiztonsagi-bizottsag"
       }
     ],
-    "published_at": 1793986860,
-    "title_hu": "Új, cellás bértábla rendezi az egészségügyi szakdolgozók bérezését",
-    "lead_hu": "Az Egészségügyi Minisztérium közzétette a 2027-re tervezett szakdolgozói bérrendezés részleteit: a sávos rendszert hat besorolási csoportból és 15, gyakorlati időhöz kötött fokozatból álló bértábla váltja fel. Az alapbérek átlagosan 15 százalékkal emelkedhetnek, az szja-csökkentés hatásával együtt pedig a nettó jövedelmek átlagosan 17 százalékkal nőhetnek. A tervek 123 500 dolgozót érintenek, a bérrendezésre csaknem 192 milliárd forintot szánnak.",
-    "content_hu": "• **Új bértábla** A 2024-ben bevezetett, munkáltatói döntésektől is függő sávos rendszert hat besorolási csoportból és tizenöt, gyakorlati időhöz kötött fokozatból álló cellás bértábla váltja fel. Az új rendszer a munkakörhöz szükséges végzettség és az elismert gyakorlat alapján határozza meg az alapbért, így kiszámíthatóbbá teheti az előmenetelt és mérsékelheti az azonos munkakörben kialakuló bérkülönbségeket.\n\n• **A fokozatok rendje** A belépő fokozat 0–3 év gyakorlatot fed le, ezt hároméves lépcsők követik; a legfelső fokozat 43 év gyakorlattól jár.\n\n• **Béremelés** A szakdolgozói alapbérek átlagosan 15 százalékkal nőnek, az emelés legalább 7,5 százalék. A korábbi bérsáv alsó részén keresők esetében a növekedés elérheti vagy meghaladhatja a 30–35 százalékot. A már megállapított, magasabb egyéni alapbérek nem csökkenhetnek.\n\n• **Érintettek köre** A változás az alap-, járóbeteg- és fekvőbeteg-ellátás szakdolgozóira, valamint az intézmények működését segítő munkatársakra is kiterjed. A háziorvosok, házi gyermekorvosok és fogorvosok mellett dolgozók, továbbá több közfeladatot ellátó vállalkozási és alapítványi szolgáltató munkatársai is bekerülnek a rendszerbe, többek között a betegszállítás, a dialízis, a pszichiátriai ellátás, az otthoni szakápolás és a hospice területéről.\n\n• **Többletfeladatok elismerése** Az intézmények külön keretet kapnak többek között a mentorálás, az oktatás, a vezetői munka, a nagyobb felelősség és a többletkompetenciák díjazására. A különösen megterhelő feladatok és a nehezen betölthető munkakörök sajátosságait is figyelembe vehetik; a keretet a jelenlegi bértömeghez igazítva osztják el, a felhasználás részletes szempontjait később véglegesítik.\n\n• **A bérrendezés forrása és létszáma** A tervek szerint csaknem 192 milliárd forint jut a 123 500 dolgozót érintő szakdolgozói bérrendezésre. Ez a kormány által az egészségügyi ágazatnak bejelentett 510 milliárd forintos többletforrás legnagyobb tétele.\n\n• **Nettó jövedelmek** A minisztérium számítása szerint az szja-csökkentés hatásával együtt a dolgozók nettó jövedelme átlagosan 17 százalékkal emelkedhet.\n\n• **Példák az emelésre** Egy 40 éve dolgozó segédápoló bruttó alapbére 322 800 forintról 540 200 forintra nőhet, ami 67,3 százalékos emelés. Egy tízéves gyakorlatú ápoló bére 500 ezer forintról 626 600 forintra, egy 32 éve dolgozó, mesterfokozatú gyógytornászé pedig 900 ezer forintról 1 061 500 forintra emelkedhet. A tényleges növekedés a korábbi alapbértől, a szükséges végzettségtől és az elismert gyakorlati időtől függ.\n\n• **A változtatás célja** Hegedűs Zsolt egészségügyi miniszter szerint a rendezés a fizetések emelése mellett jobban elismeri a végzettséget és a tapasztalatot. A tárca célja, hogy vonzóbbá tegye a pályakezdést, megtartsa a tapasztalt dolgozókat, mérsékelje a túlórák és helyettesítések terhét, és hozzájáruljon a betegellátás biztonságához.\n\n• **Egyeztetés** A minisztérium a bértábla kialakításáról szakdolgozói érdekképviseletekkel, szakszervezetekkel, kamarákkal és más szakmai szervezetekkel is egyeztetett.\n\n• **Érdekképviseleti észrevétel** A Magyar Egészségügyi Szakdolgozói Kamara elnöke arra hívta fel a figyelmet, hogy a szakdolgozói béremelésre szánt forrásból nem szakdolgozók is részesülnek. Szerinte az ő munkájuk is fontos, de a megoldás kedvezőtlen a szakdolgozókra nézve.\n\n• **Program** A bérrendezés a Hugonnai Vilma Egészségügyi Program része.",
-    "importance_score": 55.0
+    "published_at": 1793975879,
+    "title_hu": "A Tisza Párt távol marad az ügynökaktákról szóló bizottsági üléstől",
+    "lead_hu": "Magyar Péter bejelentette, hogy a Tisza Párt képviselői nem vesznek részt az Országgyűlés Nemzetbiztonsági Bizottságának hétfő reggelre összehívott nyílt ülésén. A tanácskozást Apáti István kezdeményezte az ügynökakták nyilvánosságra hozatala körül felmerült aggályok és ellentmondások miatt.",
+    "content_hu": "• **A Tisza távol marad** Magyar Péter a bizottsági ülést „nemzetbiztonsági bohóckodásnak” nevezte, és közölte, hogy pártja nem vesz részt rajta.\n\n• **Az ülést az ügynökakták miatt hívták össze** Apáti István, a Nemzetbiztonsági Bizottság elnöke hétfő reggel 8 órára nyílt ülést kezdeményezett az akták közzététele kapcsán felmerült aggályok megvitatására. A levéltár vezetőinek megjelenését is kérte.\n\n• **Lezsák Sándor neve tévesen került az adatbázisba** Informatikai hiba miatt megfigyelt személyek nevei, köztük Lezsáké is, tévesen jelentek meg az ügynököket felsoroló oldalon. A levéltár elismerte a hibát, amelyért Magyar Péter is bocsánatot kért.",
+    "importance_score": 53.0
   },
   {
     "group_id": "group_bc45a958fa",
@@ -1253,35 +1253,40 @@
     "importance_score": 53.0
   },
   {
-    "group_id": "group_7c000ac92c",
-    "fingerprint": "cced3f14dbaafcc4fb981dd39bdbab8f",
-    "category": "Általános",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/475bc630-34cf-423f-9338-f1a09766ec13.jpg",
+    "group_id": "group_fb642fcfdc",
+    "fingerprint": "ef55818af27ad9883eb7488ee484abc6",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/k/o/r/korhaz-egeszsegugy-lelegeztetogep-koronavirus-jarvany-438532.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Több mint 100 tüntető tört be a Microsoft épülő amszterdami adatközpontjába",
-        "link": "https://hvg.hu/tudomany/20261106_microsoft-amszterdam-adatkozpont-tuntetok"
+        "source": "Portfolio - Gazdaság",
+        "title": "Itt a táblázat: így alakulnak a bérek az egészségügyben",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/itt-a-tablazat-igy-alakulnak-a-berek-az-egeszsegugyben-874700"
       },
       {
-        "source": "Portfolio - Befektetés",
-        "title": "Elegük lett a mesterséges intelligenciából: darukra másztak a tüntetők egy európai fővárosban",
-        "link": "https://www.portfolio.hu/befektetes/20261106/eleguk-lett-a-mesterseges-intelligenciabol-darukra-masztak-a-tuntetok-egy-europai-fovarosban-874832"
+        "source": "24.hu - Legfrissebb",
+        "title": "Közzétették az egészségügyi szakdolgozói bérrendezés részleteit",
+        "link": "https://24.hu/belfold/2026/11/06/egeszsegugyi-szakdolgozok-beremeles-berrendezes/"
       },
       {
-        "source": "444.hu",
-        "title": "Aktivisták hatoltak be a Microsoft épülő adatközpontjának területére Amszterdamban, két csoport is tiltakozott",
-        "link": "https://444.hu/2026/11/06/aktivistak-hatoltak-be-a-microsoft-egy-epulo-adatkozpontjanak-teruletere-amszterdamban-ahol-ket-csoport-is-tiltakozott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        "source": "HVG - Itthon",
+        "title": "Bemutatta az Egészségügyi Minisztérium az új bértáblát – kiderült, mennyivel emelkedhetnek a fizetések",
+        "link": "https://hvg.hu/itthon/20261106_egeszsegugyi-miniszterium-bertabla-berek"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Az Egészségügyi Minisztérium közzétette a szakdolgozói béremelés részleteit",
+        "link": "https://index.hu/gazdasag/2026/11/06/egeszsegugyi-miniszterium-szakdolgozok-beremeles-hegedus-zsolt/"
       }
     ],
-    "published_at": 1793994480,
-    "title_hu": "Több mint százan tiltakoztak egy épülő amszterdami Microsoft-adatközpontnál",
-    "lead_hu": "Több mint száz aktivista jutott be péntek reggel az Amszterdam külvárosában épülő adatközpont területére, és néhányan darukra is felmásztak. A demonstrálók az adatközpontok energia- és vízigényét, valamint környezeti és társadalmi hatásait kifogásolták.",
-    "content_hu": "• **Pénteki akció** Több mint száz tüntető behatolt a Microsoft számára épülő amszterdami adatközpont területére; néhányan felmásztak a darukra, és transzparenseket helyeztek ki.\n\n• **A beruházás** A létesítményt a brit Pure Data Centres építi, és három, egyenként 85 méter magas toronyból áll majd. A projekt a korábbi, 2016-os tervek alapján valósul meg, annak ellenére, hogy Amszterdam 2030-ig megtiltotta új adatközpontok építését.\n\n• **A tiltakozók érvei** Az aktivisták szerint az adatközpontok jelentős terhet rónak az áram- és vízhálózatra, veszélyeztetik a klímacélokat, és a szűkös erőforrásokért folytatott versenyben háttérbe szoríthatják a lakásépítést és a helyi vállalkozásokat. Új beruházások leállítását követelik, amíg nem születnek világosabb szabályok.\n\n• **A vállalatok reakciója** A Pure Data Centres békés távozásra kérte a tiltakozókat, és párbeszédet ajánlott a helyiekkel. A Microsoft közölte, hogy tiszteletben tartja a békés véleménynyilvánítást, a törvénysértő akciókat viszont elítéli.",
-    "importance_score": 45.0
+    "published_at": 1793986860,
+    "title_hu": "Új, cellás bértábla rendezi az egészségügyi szakdolgozók bérezését",
+    "lead_hu": "Az Egészségügyi Minisztérium közzétette a 2027-re tervezett szakdolgozói bérrendezés részleteit: a sávos rendszert hat besorolási csoportból és 15, gyakorlati időhöz kötött fokozatból álló bértábla váltja fel. Az alapbérek átlagosan 15 százalékkal emelkedhetnek, az szja-csökkentés hatásával együtt pedig a nettó jövedelmek átlagosan 17 százalékkal nőhetnek. A tervek 123 500 dolgozót érintenek, a bérrendezésre csaknem 192 milliárd forintot szánnak.",
+    "content_hu": "• **Új bértábla** A 2024-ben bevezetett, munkáltatói döntésektől is függő sávos rendszert hat besorolási csoportból és tizenöt, gyakorlati időhöz kötött fokozatból álló cellás bértábla váltja fel. Az új rendszer a munkakörhöz szükséges végzettség és az elismert gyakorlat alapján határozza meg az alapbért, így kiszámíthatóbbá teheti az előmenetelt és mérsékelheti az azonos munkakörben kialakuló bérkülönbségeket.\n\n• **A fokozatok rendje** A belépő fokozat 0–3 év gyakorlatot fed le, ezt hároméves lépcsők követik; a legfelső fokozat 43 év gyakorlattól jár.\n\n• **Béremelés** A szakdolgozói alapbérek átlagosan 15 százalékkal nőnek, az emelés legalább 7,5 százalék. A korábbi bérsáv alsó részén keresők esetében a növekedés elérheti vagy meghaladhatja a 30–35 százalékot. A már megállapított, magasabb egyéni alapbérek nem csökkenhetnek.\n\n• **Érintettek köre** A változás az alap-, járóbeteg- és fekvőbeteg-ellátás szakdolgozóira, valamint az intézmények működését segítő munkatársakra is kiterjed. A háziorvosok, házi gyermekorvosok és fogorvosok mellett dolgozók, továbbá több közfeladatot ellátó vállalkozási és alapítványi szolgáltató munkatársai is bekerülnek a rendszerbe, többek között a betegszállítás, a dialízis, a pszichiátriai ellátás, az otthoni szakápolás és a hospice területéről.\n\n• **Többletfeladatok elismerése** Az intézmények külön keretet kapnak többek között a mentorálás, az oktatás, a vezetői munka, a nagyobb felelősség és a többletkompetenciák díjazására. A különösen megterhelő feladatok és a nehezen betölthető munkakörök sajátosságait is figyelembe vehetik; a keretet a jelenlegi bértömeghez igazítva osztják el, a felhasználás részletes szempontjait később véglegesítik.\n\n• **A bérrendezés forrása és létszáma** A tervek szerint csaknem 192 milliárd forint jut a 123 500 dolgozót érintő szakdolgozói bérrendezésre. Ez a kormány által az egészségügyi ágazatnak bejelentett 510 milliárd forintos többletforrás legnagyobb tétele.\n\n• **Nettó jövedelmek** A minisztérium számítása szerint az szja-csökkentés hatásával együtt a dolgozók nettó jövedelme átlagosan 17 százalékkal emelkedhet.\n\n• **Példák az emelésre** Egy 40 éve dolgozó segédápoló bruttó alapbére 322 800 forintról 540 200 forintra nőhet, ami 67,3 százalékos emelés. Egy tízéves gyakorlatú ápoló bére 500 ezer forintról 626 600 forintra, egy 32 éve dolgozó, mesterfokozatú gyógytornászé pedig 900 ezer forintról 1 061 500 forintra emelkedhet. A tényleges növekedés a korábbi alapbértől, a szükséges végzettségtől és az elismert gyakorlati időtől függ.\n\n• **A változtatás célja** Hegedűs Zsolt egészségügyi miniszter szerint a rendezés a fizetések emelése mellett jobban elismeri a végzettséget és a tapasztalatot. A tárca célja, hogy vonzóbbá tegye a pályakezdést, megtartsa a tapasztalt dolgozókat, mérsékelje a túlórák és helyettesítések terhét, és hozzájáruljon a betegellátás biztonságához.\n\n• **Egyeztetés** A minisztérium a bértábla kialakításáról szakdolgozói érdekképviseletekkel, szakszervezetekkel, kamarákkal és más szakmai szervezetekkel is egyeztetett.\n\n• **Érdekképviseleti észrevétel** A Magyar Egészségügyi Szakdolgozói Kamara elnöke arra hívta fel a figyelmet, hogy a szakdolgozói béremelésre szánt forrásból nem szakdolgozók is részesülnek. Szerinte az ő munkájuk is fontos, de a megoldás kedvezőtlen a szakdolgozókra nézve.\n\n• **Program** A bérrendezés a Hugonnai Vilma Egészségügyi Program része.",
+    "importance_score": 48.0
   },
   {
     "group_id": "group_c6f4c887c1",
@@ -2289,32 +2294,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_38ab722d3b",
-    "fingerprint": "829c92bbcbfaf74f0b24cd5c4043a92b",
-    "category": "Általános",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ea638203-c6ef-46ac-bcd3-be10e37bdd60.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "2800 éves bizonyítékot találtak a kannabisz ősi használatára",
-        "link": "https://hvg.hu/tudomany/20261106_sziberiai-temetkezesi-hely-regeszek-bizonyitek-kannabisz-hasznalat"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A kannabiszfogyasztás legrégebbi bizonyítékát találták meg a szkítáknál",
-        "link": "https://24.hu/tudomany/2026/11/06/kannabiszfogyasztas-legregebbi-bizonyiteka-szkitak/"
-      }
-    ],
-    "published_at": 1793976151,
-    "title_hu": "2800 éves szkíta sírban találták meg a kannabiszhasználat bizonyítékát",
-    "lead_hu": "Régészek a tudatmódosító célú kannabiszhasználat eddigi legrégebbi közvetlen bizonyítékára bukkantak egy dél-szibériai, 2800 éves szkíta temetkezési helyen. A sírból több mint 1400 kannabiszmag került elő, az eltemetettek hajában pedig a növény fogyasztására utaló nyomokat mutattak ki.",
-    "content_hu": "• **A lelet kora** A kannabiszmagok az időszámításunk előtti 8. század elejéről származnak, így a felfedezés korábbi az eddig ismert, hasonló bizonyítékoknál.\n\n• **A bizonyítékok** A kutatók több mint 1400 magot találtak, az emberi hajminták elemzése pedig a kannabisz hatóanyagaihoz köthető vegyületek nyomait tárta fel. A hajból nem állapítható meg, pontosan hogyan fogyasztották a növényt.\n\n• **A sír és a rítus** A mintegy 140 méter átmérőjű építmény a szkíta társadalom előkelőinek nyughelye lehetett. A leletek alapján a temetési szertartás során lovakat, feltehetően embereket is feláldoztak; a kannabiszmagok rituális szerepet tölthettek be.\n\n• **A történeti jelentőség** A felfedezés alátámasztja, hogy a szkítákról szóló ókori beszámolók egyes részletei a valóságon alapulhattak.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_6999cd8d12",
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2161929382-agrargazdasag-agrarium-foldmuves-gep-mezogazdasag-novenytermesztes-751771.jpg",
@@ -2461,6 +2440,32 @@
     "lead_hu": "Apró újdonságok rejtőznek a frissítésben, valamint egy nagy visszatérő is.",
     "content_hu": "Apró újdonságok rejtőznek a frissítésben, valamint egy nagy visszatérő is.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_38ab722d3b",
+    "fingerprint": "829c92bbcbfaf74f0b24cd5c4043a92b",
+    "category": "Általános",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ea638203-c6ef-46ac-bcd3-be10e37bdd60.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "2800 éves bizonyítékot találtak a kannabisz ősi használatára",
+        "link": "https://hvg.hu/tudomany/20261106_sziberiai-temetkezesi-hely-regeszek-bizonyitek-kannabisz-hasznalat"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A kannabiszfogyasztás legrégebbi bizonyítékát találták meg a szkítáknál",
+        "link": "https://24.hu/tudomany/2026/11/06/kannabiszfogyasztas-legregebbi-bizonyiteka-szkitak/"
+      }
+    ],
+    "published_at": 1793976151,
+    "title_hu": "2800 éves szkíta sírban találták meg a kannabiszhasználat bizonyítékát",
+    "lead_hu": "Régészek a tudatmódosító célú kannabiszhasználat eddigi legrégebbi közvetlen bizonyítékára bukkantak egy dél-szibériai, 2800 éves szkíta temetkezési helyen. A sírból több mint 1400 kannabiszmag került elő, az eltemetettek hajában pedig a növény fogyasztására utaló nyomokat mutattak ki.",
+    "content_hu": "• **A lelet kora** A kannabiszmagok az időszámításunk előtti 8. század elejéről származnak, így a felfedezés korábbi az eddig ismert, hasonló bizonyítékoknál.\n\n• **A bizonyítékok** A kutatók több mint 1400 magot találtak, az emberi hajminták elemzése pedig a kannabisz hatóanyagaihoz köthető vegyületek nyomait tárta fel. A hajból nem állapítható meg, pontosan hogyan fogyasztották a növényt.\n\n• **A sír és a rítus** A mintegy 140 méter átmérőjű építmény a szkíta társadalom előkelőinek nyughelye lehetett. A leletek alapján a temetési szertartás során lovakat, feltehetően embereket is feláldoztak; a kannabiszmagok rituális szerepet tölthettek be.\n\n• **A történeti jelentőség** A felfedezés alátámasztja, hogy a szkítákról szóló ókori beszámolók egyes részletei a valóságon alapulhattak.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_953dcb3e35",
@@ -3073,6 +3078,25 @@
     "lead_hu": "Az AC Milan 2–0-ra kikapott hazai pályán a Ferencvárostól az Európa-ligában, a portugál vezetőedző pedig különösen az első félidő teljesítményét bírálta. Szerinte nem a rotáció vagy a technikai tudás, hanem a csapat mentális felkészületlensége okozta a kudarcot.",
     "content_hu": "• **A Milan edzője vállalhatatlannak tartotta a teljesítményt** – Úgy fogalmazott, hogy a játékosoknak felelősséggel kell viselniük a klub mezét, és az első félidőre nincs mentség.\n\n• **Mentális problémák okozták a vereséget** – A vezetőedző szerint nem a keret összeállítása vagy a technikai tudás volt a döntő, hanem az, hogy a csapat nem állt készen a mérkőzésre. Davide Bartesaghi és Koni De Winter is a hozzáállás, illetve a mentális állapot hiányosságait emelte ki.\n\n• **A Ferencváros százszázalékos maradt** – A 2–0-s győzelemmel a Fradi négy forduló után is hibátlan az Európa-ligában, míg a Milan három ponttal áll. A milánóiak edzője jelezte, hogy nem mondanak le a továbbjutásról.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_fa8d9ad0d8",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/lannert-judit-e1793996647181-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Lannert Judit szerint az előző kormány kérdőívében is szerepelt a kérdés, ami alapján a „genderszemlélet” terjesztésével vádolja Rétvári Bence",
+        "link": "https://24.hu/belfold/2026/11/06/lannert-judit-szerint-az-elozo-kormany-kerdoiveben-is-szerepelt-a-kerdes-ami-alapjan-a-genderszemlelet-terjesztesevel-vadolja-retvari-bence/"
+      }
+    ],
+    "published_at": 1793997247,
+    "title_hu": "Lannert Judit szerint az előző kormány kérdőívében is szerepelt a kérdés, ami alapján a „genderszemlélet” terjesztésével vádolja Rétvári Bence",
+    "lead_hu": "A kérdőívet a tartalma és „a felfoghatatlanul nagy adminisztrációs teher” miatt a Pedagógusok Demokratikus Szakszervezete is kritizálta. The post Lannert Judit szerint az előző kormány kérdőívében is ...",
+    "content_hu": "A kérdőívet a tartalma és „a felfoghatatlanul nagy adminisztrációs teher” miatt a Pedagógusok Demokratikus Szakszervezete is kritizálta. The post Lannert Judit szerint az előző kormány kérdőívében is szerepelt a kérdés, ami alapján a „genderszemlélet” terjesztésével vádolja Rétvári Bence first appeared on 24.hu.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_bb5b650e92",
@@ -12762,44 +12786,6 @@
     "title_hu": "ENBÉBI is zenél a Trafóban a Karakter első születésnapján",
     "lead_hu": "A SZELEKTOR idei válogatásán a Lurkin című számmal szerepelt, szombaton kétórás DJ-szettel érkezik. Este tíztől éjfélig táncolhattok rá, a belépés ingyenes.",
     "content_hu": "A SZELEKTOR idei válogatásán a Lurkin című számmal szerepelt, szombaton kétórás DJ-szettel érkezik. Este tíztől éjfélig táncolhattok rá, a belépés ingyenes.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f88401c6c4",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/e/l/e/elesett-orosz-katonak-867240.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Elfogyott a pénz az orosz régiókban: 90 százalékkal csökkentik az elesett katonák utáni támogatást",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/elfogyott-a-penz-az-orosz-regiokban-90-szazalekkal-csokkentik-az-elesett-katonak-utani-tamogatast-874592"
-      }
-    ],
-    "published_at": 1793911320,
-    "title_hu": "Elfogyott a pénz az orosz régiókban: 90 százalékkal csökkentik az elesett katonák utáni támogatást",
-    "lead_hu": "Több orosz régió is drasztikusan csökkentette az ukrajnai háborúban elesett katonák családjainak járó helyi kifizetéseket. A lépésre az egyre súlyosbodó költségvetési hiány kényszerítette a területi h…",
-    "content_hu": "Több orosz régió is drasztikusan csökkentette az ukrajnai háborúban elesett katonák családjainak járó helyi kifizetéseket. A lépésre az egyre súlyosbodó költségvetési hiány kényszerítette a területi hatóságokat, amelyek az elégtelen szövetségi támogatások miatt már nem tudják fenntartani a korábbi, háborúhoz kapcsolódó juttatásokat - írta meg a Bloomberg.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5d7e280a7a",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/zachariassen-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "„Ez olyan este volt, amire büszkék lehetünk” – a Fradi játékosai szerint hihetetlen érzés Milánóban nyerni",
-        "link": "https://24.hu/sport/foci/2026/11/05/europa-liga-ac-milan-ftc-lenny-joseph-kristoffer-zachariassen/"
-      }
-    ],
-    "published_at": 1793911174,
-    "title_hu": "„Ez olyan este volt, amire büszkék lehetünk” – a Fradi játékosai szerint hihetetlen érzés Milánóban nyerni",
-    "lead_hu": "Kisebbfajta csodát élhettek át a ferencvárosiak a San Siróban, ahol 2-0-ra legyőzték az AC Milant. The post „Ez olyan este volt, amire büszkék lehetünk” – a Fradi játékosai szerint hihetetlen érzés Mi…",
-    "content_hu": "Kisebbfajta csodát élhettek át a ferencvárosiak a San Siróban, ahol 2-0-ra legyőzték az AC Milant. The post „Ez olyan este volt, amire büszkék lehetünk” – a Fradi játékosai szerint hihetetlen érzés Milánóban nyerni first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
