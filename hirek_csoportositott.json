@@ -32,38 +32,6 @@
     ]
   },
   {
-    "group_id": "group_ff922ce8be",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Készpénzfizetési limit: ekkor lép életbe a szigorú korlátozás",
-        "link": "https://www.atv.hu/belfold/20261105/keszpenzfizetesi-limit-magyarorszag/",
-        "image": "",
-        "summary": "Az Európai Unió közös szabályozásának alapján felső határt szabnak a nagy összegű készpénzfizetéseket illetően.",
-        "category": "Általános",
-        "published_at": 1793851500
-      }
-    ]
-  },
-  {
-    "group_id": "group_aa6b58f7fa",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "A 2000-es évek bombázó színésznője volt: 46 évesen ez a civil munkája Oszter Alexandrának",
-        "link": "https://femina.hu/hazai_sztar/oszter-alexandra-civil-munkaja-46-evesen/",
-        "image": "https://femina.hu/neon/media/images/Oszter_Alexandra_cove.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Oszter Alexandra segít megfesteni a vendégei házikedvenceit.",
-        "category": "Bulvár",
-        "published_at": 1793851500
-      }
-    ]
-  },
-  {
     "group_id": "group_878cb56423",
     "category": "Politika",
     "articles_count": 2,
@@ -85,31 +53,6 @@
         "summary": "Legalábbis Borbély Balázs szerint. A Milan elleni idegenbeli siker olyan extra élmény, hogy a Fradi edzője fel sem tudta még fogni, mi történt. The post Nemcsak Milánó és Magyarország, egész Európa hallotta a Fradi szurkolóit first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1793932432
-      }
-    ]
-  },
-  {
-    "group_id": "group_1fd41a49a2",
-    "category": "Bulvár",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Bochkor Gábor lánya élő adásban tett fontos bejelentést",
-        "link": "https://nlc.hu/sztarok/20261105/bochkor-gabor-lanya-bochkor-nora/qm8evl9",
-        "image": "",
-        "summary": "Bochkor Gábor lánya, Nóra a Retro Rádió reggeli műsorában árulta el, hogy ha egyszer férjhez megy, akkor sem szeretne megválni a vezetéknevétől. The post Bochkor Gábor lánya élő adásban tett fontos bejelentést first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1793851380
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Bochkor Gábor lánya élő adásban tett nagy bejelentést",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/05/bochkor-gabor-lanya-nora-csalad-nev-retro-radio/",
-        "image": "https://kep.index.hu/1/0/7241/72419/724191/72419197_58ad61504cf17452d4c944dc2bbfe023_wm.jpg",
-        "summary": "",
-        "category": "Általános",
-        "published_at": 1793866379
       }
     ]
   },
@@ -335,22 +278,6 @@
         "summary": "A teljes nettó tőkejövedelem 36,6 százaléka Budapesten keletkezett, ahol a tőkejövedelemmel rendelkezők 25,3 százaléka él. The post Ismét Felcsúton jutott egy főre a legmagasabb tőkejövedelem az országban first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1793861536
-      }
-    ]
-  },
-  {
-    "group_id": "group_bd7740e789",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Egy tizenegyesen múlt, hogy egy magyar edző Líbia nemzeti hőse legyen",
-        "link": "https://telex.hu/eszkombajn/2026/11/05/goltl-bela-libia-afrika-kupa-donto-kihagyott-11es",
-        "image": "https://assets.telex.hu/images/20261103/1793696254-temp-dilseg28vfvs7nmbgil_cimlap-normal.jpg",
-        "summary": "Göltl Béla akkor szerződött Líbiába, amikor Kádárék a csúcsra járatták az országgal a kapcsolatot. Történelmi siker közelébe juttatta az ország fociválogatottját, de végül éppen csak megúszta ép bőrrel a kupadöntőt.",
-        "category": "Politika",
-        "published_at": 1793851427
       }
     ]
   },
@@ -2785,6 +2712,22 @@
         "summary": "A magyar szépségkirálynő agyhártyagyulladással került kórházba, máig nem tökéletes az állapota.",
         "category": "Bulvár",
         "published_at": 1793865900
+      }
+    ]
+  },
+  {
+    "group_id": "group_1fd41a49a2",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Bochkor Gábor lánya élő adásban tett nagy bejelentést",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/05/bochkor-gabor-lanya-nora-csalad-nev-retro-radio/",
+        "image": "https://kep.index.hu/1/0/7241/72419/724191/72419197_58ad61504cf17452d4c944dc2bbfe023_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1793866379
       }
     ]
   },
@@ -9766,7 +9709,7 @@
   {
     "group_id": "group_17a0359e0e",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -9776,6 +9719,15 @@
         "summary": "Amennyiben ezt valaki elmulasztja, akár ki is vonhatják a forgalomból az autóját.",
         "category": "Általános",
         "published_at": 1793897520
+      },
+      {
+        "source": "ATV",
+        "title": "November 30-ig kaptak haladékot az autósok: kivonhatják a forgalomból a járművüket, ha nem teljesítik időben",
+        "link": "https://www.atv.hu/belfold/20261106/auto-plug-in-hibrid-rendszam/",
+        "image": "",
+        "summary": "Legkésőbb 2026. november 30-áig le kell cserélniük zöld rendszámukat a plug-in hibrid autók tulajdonosainak. A határidő jelenleg még 25 771 autóst érint – közölte az MTI-vel a Tudományos és Technológiai Minisztérium (TTM).",
+        "category": "Általános",
+        "published_at": 1793937900
       }
     ]
   },
@@ -11677,7 +11629,7 @@
         "image": "https://raketa.hu/uploads/2026/11/ai.jpeg",
         "summary": "A modern csillagászat egyik legizgalmasabb feladata, hogy a távoli világok megfigyelésével folyamatosan újragondolásra késztesse a kutatókat. Erről van most is szó.",
         "category": "Kultúra",
-        "published_at": 1793937693
+        "published_at": 1793937783
       }
     ]
   },
@@ -11789,7 +11741,7 @@
         "image": "https://raketa.hu/uploads/2026/03/jelszo.jpg",
         "summary": "Karbantartás miatt vasárnap 0 és 5 óra között leállnak az online közigazgatási portálok, így a felületükön nem lehet majd ügyeket intézni – közölte a Digitális Magyarország Ügynökség.",
         "category": "Kultúra",
-        "published_at": 1793937693
+        "published_at": 1793938099
       }
     ]
   },
@@ -11902,6 +11854,54 @@
         "summary": "Húszezer új, modern férőhely megnyitását vállalta a kampányban a Tisza.",
         "category": "Politika",
         "published_at": 1793937600
+      }
+    ]
+  },
+  {
+    "group_id": "group_b42b805640",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Az amerikai sztárfestő, aki 78 évesen kezdte el a karrierjét",
+        "link": "https://telex.hu/eszkombajn/2026/11/06/grandma-moses-78-eves-amerikai-festo",
+        "image": "https://assets.telex.hu/images/20261104/1793799064-temp-fhsg6nc6bmr2bbacfhk_cimlap-normal.jpg",
+        "summary": "Anna Mary Robertson Moses, művésznevén Grandma Moses élete nagy részét farmokon töltötte munkával, idős korában kezdett festeni, végül a 20. század egyik legkedveltebb amerikai népművészévé vált.",
+        "category": "Politika",
+        "published_at": 1793937518
+      }
+    ]
+  },
+  {
+    "group_id": "group_22b6236004",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A dolgozót is megbüntetik, ha bejelenti a feketemunkát, pedig a fehérítés az állam érdeke",
+        "link": "https://telex.hu/g7/elet/2026/11/06/adoelkerules-munkavallalas-szurke-feketegazdasag-visszaeles",
+        "image": "https://assets.telex.hu/images/20261104/1793831921-temp-75o61qtep7d82opggfe_cimlap-normal.jpg",
+        "summary": "Egy konkrét példán mutatjuk be, hogy a munkavállaló ellen is eljárás indul, ha felfedi, hogy nem megfelelően foglalkoztatták. Pedig így nehezebben deríthetők fel a visszaélések.",
+        "category": "Politika",
+        "published_at": 1793937002
+      }
+    ]
+  },
+  {
+    "group_id": "group_cb05c20e77",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Csűrös Karola ma lenne 90 éves: a Szomszédokban nagy családja volt a színésznőnek, a való életben ezért nem lett gyereke",
+        "link": "https://femina.hu/hazai_sztar/csuros-karola-90-eves-szomszedok-gyerekvallalas-vallomas/",
+        "image": "https://femina.hu/neon/media/images/csuros_karola_cover.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Csűrös Karola mindig is nyíltan felvállalta, hogy miért nem lett gyermekük férjével.",
+        "category": "Bulvár",
+        "published_at": 1793937900
       }
     ]
   }
