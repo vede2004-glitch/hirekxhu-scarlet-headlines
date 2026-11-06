@@ -1065,6 +1065,37 @@
     "importance_score": 48.0
   },
   {
+    "group_id": "group_c4eb9d9d32",
+    "fingerprint": "572aa0b5a30f0e6879fd6fe72e141923",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793881373-temp-b1cgdraoecmj7noheim_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Lezsák-ügy: az ÁBTL főigazgatója a titkosszolgálattól kapott adatbázis kijavítása után foglalkozik azzal, hogy lemond-e a hiba miatt",
+        "link": "https://telex.hu/ugynokaktak/2026/11/05/ugynokakta-lezsak-sandor-allambiztonsagi-szolgalatok-torteneti-leveltara"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Megszűnt az informatikai hiba az ügynökakták adatbázisánál",
+        "link": "https://24.hu/belfold/2026/11/06/ugynokaktak-informatikai-hiba-elharult-breaking/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Elhárították az informatikai hibát, már nem szerepel az ügynökök között a 160 megfigyelt neve",
+        "link": "https://index.hu/belfold/2026/11/06/ugynokaktak-allambiztonsagi-szolgalatok-torteneti-leveltara-cseh-gergo-bendeguz-informatikai-hiba/"
+      }
+    ],
+    "published_at": 1793947755,
+    "title_hu": "Kijavították az ügynökakták adatbázisának hibáját",
+    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára kijavította azt az informatikai hibát, amely miatt megfigyelt személyek, köztük Lezsák Sándor neve is hálózati személyként jelent meg az adatbázisban. Az ÁBTL főigazgatója szerint 164 esetben fordult elő téves adatközlés, és minden érintettől elnézést kértek.",
+    "content_hu": "• **Kijavították a hibát** Cseh Gergő Bendegúz, az ÁBTL főigazgatója szerint a nyitottaktak.hu adatbázisában már nem szerepelnek tévesen felkerült nevek.\n\n• **Lezsák Sándor neve is érintett volt** A volt országgyűlési képviselő neve tévedésből került a hálózati személyek közé, noha megfigyeltként tartották nyilván.\n\n• **164 téves adatközlés történt** A főigazgató elmondta, hogy minden érintettől elnézést kértek, és továbbra is ellenőrzik a közzétett adatokat.\n\n• **Politikai és jogi következményeket sürgettek** Lezsák Anna a főigazgató lemondását követelte, a család pedig jogi lépésekre készül. A Fidesz és a KDNP az adatbázis teljes leállítását is követelte.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_a4ff61f11c",
     "fingerprint": "918e88dc5e1353e702b336b137ce430b",
     "category": "Politika",
@@ -1093,37 +1124,6 @@
     "title_hu": "Újabb politikusok felelősségét követelik a Lezsák Sándort érintő adatközlési hiba miatt",
     "lead_hu": "Az ÁBTL informatikai hibára hivatkozva elismerte, hogy Lezsák Sándor tévesen hálózati személyként jelent meg az adatbázisban, holott megfigyelt volt. Bóka János több politikus felelősségének megállapítását és jogi eljárásokat sürgetett, Verebes István pedig a közzététel időzítését és módját bírálta.",
     "content_hu": "• **Téves adatközlés:** Lezsák Sándor neve az ügynökakták nyilvános adatbázisában hálózati személyként jelent meg, noha megfigyelt volt; az ÁBTL ezt informatikai hibával magyarázta és bocsánatot kért.\n\n• **Politikai felelősség:** Bóka János a honlap átmeneti leállítását követelte, és Ruff Bálint, Tarr Zoltán, valamint Tanács Zoltán felelősségének megállapítását sürgette. Azt mondta, ha nem rendezik az ügyet, a Fidesz parlamenti vizsgálóbizottságot kezdeményez.\n\n• **Jogi következmények:** Bóka szerint az ügyben büntető- és polgári jogi eljárások is indulhatnak. Rétvári Bence Magyar Péter felelősségét hangsúlyozta, és azt állította, hogy a miniszterelnök sürgette az akták mielőbbi nyilvánosságra hozatalát.\n\n• **Lezsák Anna követelései:** A képviselő családja tudomásul vette a levéltár bocsánatkérését, de vizsgálatot és személyi, illetve jogi következményeket követelt. Lezsák Anna a főigazgató lemondását is sürgette, és azt kérte, derítsék ki, történt-e manipuláció, illetve milyen informatikai vagy szakmai hibák vezettek a téves adatközléshez.\n\n• **Verebes István bírálata:** A színész-rendező az ügynökakták közzétételének módját és időzítését is kifogásolta, különösen azt, hogy november 4-én, az 1956-os forradalom leverésének gyásznapján tették közzé az adatokat. A Lezsák-ügy kapcsán azt kérdezte, történhettek-e hasonló hibák másoknál is.\n\n• **Személyes érintettség:** Verebes elmondása szerint édesapjáról is előkerült egy 6-os karton; az irat szerint apja 1966-ban megtagadta a további nyilatkozatokat.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_2100baa6cc",
-    "fingerprint": "f0db97bc660af6c05863aa28a62d473f",
-    "category": "Gazdaság",
-    "image": "https://femina.hu/neon/media/images/benzinar_306.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Csütörtökön így változik a benzin ára: a gázolajról is megszólaltak a szakértők",
-        "link": "https://femina.hu/terasz/benzin-ara-csutortokon-gazolaj-szakertok/"
-      },
-      {
-        "source": "ATV",
-        "title": "Jelentős a különbség a benzin és a gázolaj ára között, de van egy jó hír",
-        "link": "https://www.atv.hu/belfold/20261106/benzin-gazolaj-arcsokkenes-uzemanyag/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Megjött a bejelentés: így változik a benzin és a dízel ára!",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/megjott-a-bejelentes-igy-valtozik-a-benzin-es-a-dizel-ara-874632"
-      }
-    ],
-    "published_at": 1793939700,
-    "title_hu": "Csökkent a benzin ára, a dízelé változatlan maradt",
-    "lead_hu": "November 5-én a 95-ös benzin országos átlagára 5 forinttal mérséklődött, miközben a gázolajé nem változott. Egyes kutakon már 99 forinttal drágább a dízel literje, és a szakértők a következő hetekben nem számítanak árcsökkenésre.",
-    "content_hu": "• **Benzinár** A 95-ös benzin országos átlagára november 5-én 5 forinttal csökkent az előző naphoz képest.\n\n• **Gázolaj** A dízel ára változatlan maradt; egyes kutakon literenként akár 99 forinttal is többe kerülhet a benzinnél.\n\n• **Kilátások** A szakértők az európai dízelhiány miatt a következő hetekben nem várnak árcsökkenést, hosszabb távon viszont javulhat a helyzet.",
     "importance_score": 45.0
   },
   {
@@ -1631,29 +1631,58 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_c4eb9d9d32",
-    "fingerprint": "572aa0b5a30f0e6879fd6fe72e141923",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793881373-temp-b1cgdraoecmj7noheim_cimlap-normal.jpg",
+    "group_id": "group_2100baa6cc",
+    "fingerprint": "f0db97bc660af6c05863aa28a62d473f",
+    "category": "Gazdaság",
+    "image": "https://femina.hu/neon/media/images/benzinar_306.2e16d0ba.format-jpeg.fill-1024x768.jpg",
     "is_synthesized": true,
     "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Csütörtökön így változik a benzin ára: a gázolajról is megszólaltak a szakértők",
+        "link": "https://femina.hu/terasz/benzin-ara-csutortokon-gazolaj-szakertok/"
+      },
+      {
+        "source": "ATV",
+        "title": "Jelentős a különbség a benzin és a gázolaj ára között, de van egy jó hír",
+        "link": "https://www.atv.hu/belfold/20261106/benzin-gazolaj-arcsokkenes-uzemanyag/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megjött a bejelentés: így változik a benzin és a dízel ára!",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/megjott-a-bejelentes-igy-valtozik-a-benzin-es-a-dizel-ara-874632"
+      }
+    ],
+    "published_at": 1793939700,
+    "title_hu": "Csökkent a benzin ára, a dízelé változatlan maradt",
+    "lead_hu": "November 5-én a 95-ös benzin országos átlagára 5 forinttal mérséklődött, miközben a gázolajé nem változott. Egyes kutakon már 99 forinttal drágább a dízel literje, és a szakértők a következő hetekben nem számítanak árcsökkenésre.",
+    "content_hu": "• **Benzinár** A 95-ös benzin országos átlagára november 5-én 5 forinttal csökkent az előző naphoz képest.\n\n• **Gázolaj** A dízel ára változatlan maradt; egyes kutakon literenként akár 99 forinttal is többe kerülhet a benzinnél.\n\n• **Kilátások** A szakértők az európai dízelhiány miatt a következő hetekben nem várnak árcsökkenést, hosszabb távon viszont javulhat a helyzet.",
+    "importance_score": 38.0
+  },
+  {
+    "group_id": "group_dc49aefa63",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261106/1793947443-temp-j7es5tvuhb0h3dckpna_cimlap-normal.jpg",
+    "is_synthesized": false,
     "sources_count": 2,
     "sources": [
       {
         "source": "Telex - Belföld",
-        "title": "Lezsák-ügy: az ÁBTL főigazgatója a titkosszolgálattól kapott adatbázis kijavítása után foglalkozik azzal, hogy lemond-e a hiba miatt",
-        "link": "https://telex.hu/ugynokaktak/2026/11/05/ugynokakta-lezsak-sandor-allambiztonsagi-szolgalatok-torteneti-leveltara"
+        "title": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
+        "link": "https://telex.hu/belfold/2026/11/06/rogan-antal-vegrehajtasi-visszaeleseket-feltaro-parlamenti-vizsgalobizottsag"
       },
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "Megszűnt az informatikai hiba az ügynökakták adatbázisánál",
-        "link": "https://24.hu/belfold/2026/11/06/ugynokaktak-informatikai-hiba-elharult-breaking/"
+        "source": "HVG - Itthon",
+        "title": "Rogán Antalt december 17-re idézte be a végrehajtási visszaéléseket feltáró vizsgálóbizottság",
+        "link": "https://hvg.hu/itthon/20261106_orszaggyules-vegrehajtasi-visszaeleseket-feltaro-vizsgalobizottsag-rogan-antal-szemelyes-meghallgatas"
       }
     ],
-    "published_at": 1793947755,
-    "title_hu": "Kijavították az ügynökakták adatbázisának hibáját",
-    "lead_hu": "Az Állambiztonsági Szolgálatok Történeti Levéltára kijavította azt az informatikai hibát, amely miatt megfigyelt személyek, köztük Lezsák Sándor neve is hálózati személyként jelent meg az adatbázisban. Az ÁBTL főigazgatója szerint 164 esetben fordult elő téves adatközlés, és minden érintettől elnézést kértek.",
-    "content_hu": "• **Kijavították a hibát** Cseh Gergő Bendegúz, az ÁBTL főigazgatója szerint a nyitottaktak.hu adatbázisában már nem szerepelnek tévesen felkerült nevek.\n\n• **Lezsák Sándor neve is érintett volt** A volt országgyűlési képviselő neve tévedésből került a hálózati személyek közé, noha megfigyeltként tartották nyilván.\n\n• **164 téves adatközlés történt** A főigazgató elmondta, hogy minden érintettől elnézést kértek, és továbbra is ellenőrzik a közzétett adatokat.\n\n• **Politikai és jogi következményeket sürgettek** Lezsák Anna a főigazgató lemondását követelte, a család pedig jogi lépésekre készül. A Fidesz és a KDNP az adatbázis teljes leállítását is követelte.",
+    "published_at": 1793947488,
+    "title_hu": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
+    "lead_hu": "A testület csütörtökön döntött arról is, hogy Schadl Györgyöt és Völner Pált december 15-ra idézik be személyes meghallgatásra....",
+    "content_hu": "A testület csütörtökön döntött arról is, hogy Schadl Györgyöt és Völner Pált december 15-ra idézik be személyes meghallgatásra.",
     "importance_score": 35.0
   },
   {
@@ -2577,7 +2606,7 @@
     "title_hu": "Hatvan kilométeren át menekült a rendőrök elől egy sofőr az M0-son",
     "lead_hu": "A rendőrök Dányban akarták megállítani a biztosítás nélkül közlekedő autóst, aki menekülni kezdett. Egy járőr kilőtte az autó egyik kerekét, de a sofőr a felnin gurulva, egy ideig a forgalommal szemben haladva is tovább menekült.",
     "content_hu": "• **Az üldözés kezdete:** A rendőrök Dányban akarták megállítani a sofőrt, mert az autóján nem volt kötelező biztosítás, ám a férfi a felszólítás ellenére elhajtott.\n\n• **Kilőtt kerékkel is továbbment:** Egy járőr kilőtte az autó egyik kerekét, de a sofőr a felnin gurulva folytatta az útját.\n\n• **Hatvan kilométeren át tartott a menekülés:** Az autós az M0-son egy ideig a forgalommal szemben haladt, majd Nagytéténynél a szalagkorlátnak ütközött.\n\n• **A sofőrt és utasait kórházba vitték:** A férfit elfogták, őt és két utasát könnyű sérülésekkel szállították kórházba. A sofőr ellen közúti veszélyeztetés miatt indulhat eljárás.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_088680356a",
@@ -3298,6 +3327,196 @@
     "lead_hu": "Már az adásvételi szerződést is aláírták, mégsem valósulhat meg Wáberer György egyik legjelentősebb egészségügyi üzlete. A milliárdos vállalkozó érdekeltségébe tartozó cég visszalépett a TritonLife Ma…",
     "content_hu": "Már az adásvételi szerződést is aláírták, mégsem valósulhat meg Wáberer György egyik legjelentősebb egészségügyi üzlete. A milliárdos vállalkozó érdekeltségébe tartozó cég visszalépett a TritonLife Magánkórházak felvásárlásától, a Gazdasági Versenyhivatal pedig megszüntette az ügylet vizsgálatát. A történet azonban tartogat még egy meglepő fordulatot. The post Váratlan fordulat: meghiúsult Wáberer György nagy magánkórház-vásárlása? first appeared on nlc.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_b494ea22f3",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/bridget_fonda.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "A '90-es évek gyönyörű színésznője volt: a 62 éves Bridget Fondára rá se ismerni 45 kilós fogyása után",
+        "link": "https://femina.hu/egeszseg/bridget-fonda-fogyas-friss-fotok/"
+      }
+    ],
+    "published_at": 1793950500,
+    "title_hu": "A '90-es évek gyönyörű színésznője volt: a 62 éves Bridget Fondára rá se ismerni 45 kilós fogyása után",
+    "lead_hu": "Bridget Fonda 45 kilós fogyását friss képeken láthatod....",
+    "content_hu": "Bridget Fonda 45 kilós fogyását friss képeken láthatod.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_73ee26e14f",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7243/72437/724376/72437655_5338049_5497cf50970646d820fae500f4960e29_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Történelmi lépésre készülhet az OpenAI, ami már 2027-ben megvalósulhat",
+        "link": "https://index.hu/gazdasag/2026/11/06/openai-tozsdei-bevezetes-mesterseges-intelligencia-ai/"
+      }
+    ],
+    "published_at": 1793950440,
+    "title_hu": "Történelmi lépésre készülhet az OpenAI, ami már 2027-ben megvalósulhat",
+    "lead_hu": "A cég bevételeinek többsége már vállalati ügyfelektől származik....",
+    "content_hu": "A cég bevételeinek többsége már vállalati ügyfelektől származik.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_5f3c910f3b",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1633716-e1793949502750-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "40 éve kezdődött a Ferguson-korszak – 40 idézet és fotó a Manchester United legfontosabb emberéről",
+        "link": "https://24.hu/sport/2026/11/06/sir-alex-ferguson-40-manchester-united-galeria-idezetek/"
+      }
+    ],
+    "published_at": 1793950307,
+    "title_hu": "40 éve kezdődött a Ferguson-korszak – 40 idézet és fotó a Manchester United legfontosabb emberéről",
+    "lead_hu": "Negyven évvel a Manchester United élére történő kinevezése után felidézzük, hogyan lett az angol klub legfontosabb alakja Sir Alex Fergusonból. Galéria. The post 40 éve kezdődött a Ferguson-korszak – ...",
+    "content_hu": "Negyven évvel a Manchester United élére történő kinevezése után felidézzük, hogyan lett az angol klub legfontosabb alakja Sir Alex Fergusonból. Galéria. The post 40 éve kezdődött a Ferguson-korszak – 40 idézet és fotó a Manchester United legfontosabb emberéről first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_9ca8c843cf",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/i0NjfgfXZj3qJbuQVaAN61ofkjuUqrggIHffz7dj-RE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZjMmViNmYzZmVjMzQzZjI5YWJkMWIwYjg1MTU3Yjgz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A magyar művészet kiválóságait ünnepelték a Pesti Vigadóban – Átadták a Nemzet Művésze díjakat",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/a-magyar-muveszet-kivalosagait-unnepeltek-a-pesti-vigadoban-atadtak-a-nemzet-muvesze-dijakat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1793950290,
+    "title_hu": "A magyar művészet kiválóságait ünnepelték a Pesti Vigadóban – Átadták a Nemzet Művésze díjakat",
+    "lead_hu": "Olyan alkotókról van szó, akiknek volt erejük saját utat választani és megtalálni egyéni hangjukat Turi Attila zserint....",
+    "content_hu": "Olyan alkotókról van szó, akiknek volt erejük saját utat választani és megtalálni egyéni hangjukat Turi Attila zserint.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a480047ba3",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/6314/63143/631437/63143771_4669425_70fa6aa3a0d855f0dbe98f573a9e7282_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Vádat emeltek a férfi ellen, akinek gyorshajtása felesége életébe került",
+        "link": "https://index.hu/belfold/2026/11/06/gyorshajtas-halalos-baleset-vac-kornyeke-vademeles/"
+      }
+    ],
+    "published_at": 1793950260,
+    "title_hu": "Vádat emeltek a férfi ellen, akinek gyorshajtása felesége életébe került",
+    "lead_hu": "Az autóban két kiskorú gyerek is tartózkodott....",
+    "content_hu": "Az autóban két kiskorú gyerek is tartózkodott.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f86cc80d68",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261106/1793950186-temp-7fplcsg0mh0u4mlnpmh_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Mol: remek lett a negyedéves riport, de ennél fontosabb az, ami Washingtonban és Belgrádban történik éppen",
+        "link": "https://telex.hu/gazdasag/2026/11/06/mol-nis-olaj-foldgaz-hernadi-kitermeles"
+      }
+    ],
+    "published_at": 1793950216,
+    "title_hu": "Mol: remek lett a negyedéves riport, de ennél fontosabb az, ami Washingtonban és Belgrádban történik éppen",
+    "lead_hu": "A magas finomítói árrés segítette a profit javulását, de izgalmasabb, hogy Washingtontól érkezett egy igazi zöld lámpa a NIS megvételére és mintha a belgrádi új erők sem szeretnének keresztbe feküdni....",
+    "content_hu": "A magas finomítói árrés segítette a profit javulását, de izgalmasabb, hogy Washingtontól érkezett egy igazi zöld lámpa a NIS megvételére és mintha a belgrádi új erők sem szeretnének keresztbe feküdni.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f2d0b3ff3b",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/Morgan_Fairchild_cove.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "A Dallas szőke szépsége volt: 76 évesen ilyen fotókkal készül az OnlyFans-re",
+        "link": "https://femina.hu/vilagsztar/morgan-fairchild-dallas-onlyfans-76-evesen/"
+      }
+    ],
+    "published_at": 1793950207,
+    "title_hu": "A Dallas szőke szépsége volt: 76 évesen ilyen fotókkal készül az OnlyFans-re",
+    "lead_hu": "Morgan Fairchild jóval túl a hetedik x-en csatlakozik az OnlyFans oldalra....",
+    "content_hu": "Morgan Fairchild jóval túl a hetedik x-en csatlakozik az OnlyFans oldalra.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_fb0ead9ec2",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7244/72447/724479/72447925_5338785_aeeef4978984c3a4e116bd8d46cdf098_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megindultak a magyar vásárlók, de valami nem stimmel az élelmiszerboltoknál",
+        "link": "https://index.hu/gazdasag/2026/11/06/ksh-kiskereskedelem-novekedes-tisza-kormany-magyar-peter/"
+      }
+    ],
+    "published_at": 1793950200,
+    "title_hu": "Megindultak a magyar vásárlók, de valami nem stimmel az élelmiszerboltoknál",
+    "lead_hu": "Meglepő fordulat történt az üzletekben....",
+    "content_hu": "Meglepő fordulat történt az üzletekben.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c74de54638",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/k/s/h/ksh-kiskereskedelem-e-kereskedelem-uzemanyag-kiskereskedelmi-forgalom-fogyasztas-elelmiszer-lakos-867288.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megugrott a forgalom a magyar boltokban",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/megugrott-a-forgalom-a-magyar-boltokban-874624"
+      }
+    ],
+    "published_at": 1793950200,
+    "title_hu": "Megugrott a forgalom a magyar boltokban",
+    "lead_hu": "Szeptemberben havi alapon 1,1 százalékkal nőtt a kiskereskedelmi forgalom volumene, így folytatódott az elmúlt hónapok hullámzó teljesítménye. Éves összevetésben 4,3 százalékos bővülést mért a KSH, am...",
+    "content_hu": "Szeptemberben havi alapon 1,1 százalékkal nőtt a kiskereskedelmi forgalom volumene, így folytatódott az elmúlt hónapok hullámzó teljesítménye. Éves összevetésben 4,3 százalékos bővülést mért a KSH, amelyhez főként a nem élelmiszer-kiskereskedelem 8,7 százalékos növekedése járult hozzá, miközben az élelmiszer-kiskereskedelem forgalma enyhén csökkent. Kiemelkedően teljesített az internetes és csomagküldő kereskedelem, amelynek volumene 12 százalékkal emelkedett. A friss adatok az ipari termeléssel együtt azt jelzik, hogy a harmadik negyedéves gazdasági lassulás mögött elsősorban a mezőgazdaság gyengébb teljesítménye állhatott.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_11204fcc22",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/_/h/d-hr20261104004-867294.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: új részletek derülhetnek ki a kegyelmi botrányról, kőkemény változások jönnek",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/tisza-kormany-uj-reszletek-derulhetnek-ki-a-kegyelmi-botranyrol-kokemeny-valtozasok-jonnek-874636"
+      }
+    ],
+    "published_at": 1793950140,
+    "title_hu": "Tisza-kormány: új részletek derülhetnek ki a kegyelmi botrányról, kőkemény változások jönnek",
+    "lead_hu": "Tovább zajlik az elszámoltatás, miközben a Tisza-kormány több területen is komoly változásokat készít elő. A fideszes Pócs Jánost azonnali hatállyal kitiltották a parlamentből, mert megzavarta az Orsz...",
+    "content_hu": "Tovább zajlik az elszámoltatás, miközben a Tisza-kormány több területen is komoly változásokat készít elő. A fideszes Pócs Jánost azonnali hatállyal kitiltották a parlamentből, mert megzavarta az Országgyűlés munkáját. Szigorúbb szabályok jönnek a hulladékkoncesszióban és a MOHU működésében, emellett a kormány nagy biztosítási szabályozási csomagot is bejelentett, és véget vetne az Orbán-kabinet fizetős bevándorlási programjának. Kozármisleny visszavonta Matolcsy György díszpolgári címét, a volt jegybankelnök gyanúsítási listája pedig tovább bővülhet, ő azonban csak zárt ülésen hajlandó beszélni. A Médiatanács a reklámadó eltörlését kéri a parlamenttől, a kormány pedig tervet készített arra, hogyan pótolja a magyar talajból hiányzó, hét Balatonnyi vizet.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_7d835b4050",
@@ -12496,101 +12715,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_64e44ca599",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Letartóztatták a szerb terrorellenes egységek parancsnokát",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/letartoztattak-a-szerb-terrorellenes-egysegek-parancsnokat"
-      }
-    ],
-    "published_at": 1793864100,
-    "title_hu": "Letartóztatták a szerb terrorellenes egységek parancsnokát",
-    "lead_hu": "Csütörtökön letartóztatták Igor Žmirićet, a szerb terrorellenes egységek (SAJ) parancsnokát a belgrádi ügyészség utasítására a Nova.rs nem hivatalos értesülései szerint,",
-    "content_hu": "Csütörtökön letartóztatták Igor Žmirićet, a szerb terrorellenes egységek (SAJ) parancsnokát a belgrádi ügyészség utasítására a Nova.rs nem hivatalos értesülései szerint,",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_24f4cb2f8d",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/Trokan_Nora_cover_2.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Felismered ki ez a cuki kislány a képen? Ő hazánk egyik legsikeresebb színésznője ma",
-        "link": "https://femina.hu/gyerek/gyerekkori-foto-hazai-szineszno/"
-      }
-    ],
-    "published_at": 1793864100,
-    "title_hu": "Felismered ki ez a cuki kislány a képen? Ő hazánk egyik legsikeresebb színésznője ma",
-    "lead_hu": "Hazánk egyik leggyönyörűbb és legtehetségesebb színésznője lett a képen látható cuki kislányból.",
-    "content_hu": "Hazánk egyik leggyönyörűbb és legtehetségesebb színésznője lett a képen látható cuki kislányból.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_7a69fd3086",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/V-JMeMhQGc8fABITJ219_zzcukUVqYTSJz0bFeurOlc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzljMmRiYzVlMGExZTRiZGY4OTBkMWNiOWUwM2UyNDA3.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Megjelent a kormányfigyelő, egyetlen oldalon követhetők a miniszterek és az államtitkárok",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/megjelent-a-kormanyfigyelo-egyetlen-oldalon-kovethetok-a-miniszterek-es-az-allamtitkarok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793864020,
-    "title_hu": "Megjelent a kormányfigyelő, egyetlen oldalon követhetők a miniszterek és az államtitkárok",
-    "lead_hu": "Külön rangsorban lehet böngészni a kormánytagok és az országgyűlési képviselők járandóságát, pénzügyi vagyonát, ingatlanjait, valamint parlamenti aktivitását is.",
-    "content_hu": "Külön rangsorban lehet böngészni a kormánytagok és az országgyűlési képviselők járandóságát, pénzügyi vagyonát, ingatlanjait, valamint parlamenti aktivitását is.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_12c8cef8d6",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Új sebességhatár jön: akár 60 ezer forintra is büntethetik a túl lassan autózókat",
-        "link": "https://nlc.hu/szabadido/20261105/autopalya-minimumsebesseg-100-kmh-birsag-olaszorszag/24dxt39"
-      }
-    ],
-    "published_at": 1793863980,
-    "title_hu": "Új sebességhatár jön: akár 60 ezer forintra is büntethetik a túl lassan autózókat",
-    "lead_hu": "Nemcsak a gyorshajtók, hanem a túl lassan közlekedő autósok is komoly bírságra számíthatnak Olaszországban. A tervezett szabályozás szerint az autópályák belső sávjában legalább 100 km/órával kellene …",
-    "content_hu": "Nemcsak a gyorshajtók, hanem a túl lassan közlekedő autósok is komoly bírságra számíthatnak Olaszországban. A tervezett szabályozás szerint az autópályák belső sávjában legalább 100 km/órával kellene haladni, ha a forgalmi és időjárási körülmények ezt lehetővé teszik. A változás a külföldre autózók számára is fontos lehet. The post Új sebességhatár jön: akár 60 ezer forintra is büntethetik a túl lassan autózókat first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6ec65b0f85",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/Charles_Leclerc_2.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "29 évesen apa lett Charles Leclerc: a Forma-1 sztárjának kislánya gyönyörű nevet kapott",
-        "link": "https://femina.hu/vilagsztar/charles-leclerc-apa-lett-kislanya-neve/"
-      }
-    ],
-    "published_at": 1793863800,
-    "title_hu": "29 évesen apa lett Charles Leclerc: a Forma-1 sztárjának kislánya gyönyörű nevet kapott",
-    "lead_hu": "Charles Leclerc és felesége Instagramon jelentették be, hogy megszületett a kislányuk.",
-    "content_hu": "Charles Leclerc és felesége Instagramon jelentették be, hogy megszületett a kislányuk.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_aae5b70c65",
     "fingerprint": "8b429cb034161c9f2501e65d32504b71",
     "category": "Politika",
@@ -12615,30 +12739,6 @@
     "lead_hu": "Forsthoffer Ágnes házelnök három ülésnapra kitiltotta Pócs Jánost az Országgyűlés épületéből. A fideszes képviselő a közösségi oldalán reagált a döntésre, és közölte, hogy fellebbezni fog.",
     "content_hu": "• **A kitiltás oka** Pócs János november 3-án lekéste az egyik szavazást, majd utólag szóban próbálta leadni a voksát, ezzel megakasztva az ülést.\n\n• **A házelnöki indoklás** Forsthoffer Ágnes szerint a képviselő a korábbi figyelmeztetések ellenére is zavarta a parlamenti munkát; legutóbb október 20-án kapott írásbeli figyelmeztetést.\n\n• **Pócs válasza** A képviselő azt írta, hogy Magyar Péter követelte a kitiltását, és bejelentette, hogy fellebbez az intézkedés ellen.\n\n• **A korlátozás részletei** A kitiltás idején Pócs nem léphet be az Országház és hivatalainak épületébe, de a házelnök által kijelölt helyiségből részt vehet a titkos szavazásokon.",
     "importance_score": 40.0
-  },
-  {
-    "group_id": "group_dc49aefa63",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261106/1793947443-temp-j7es5tvuhb0h3dckpna_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
-        "link": "https://telex.hu/belfold/2026/11/06/rogan-antal-vegrehajtasi-visszaeleseket-feltaro-parlamenti-vizsgalobizottsag"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Rogán Antalt december 17-re idézte be a végrehajtási visszaéléseket feltáró vizsgálóbizottság",
-        "link": "https://hvg.hu/itthon/20261106_orszaggyules-vegrehajtasi-visszaeleseket-feltaro-vizsgalobizottsag-rogan-antal-szemelyes-meghallgatas"
-      }
-    ],
-    "published_at": 1793947488,
-    "title_hu": "December 17-én hallgatná meg Rogán Antalt a parlament végrehajtási visszaéléseket feltáró bizottsága",
-    "lead_hu": "A testület csütörtökön döntött arról is, hogy Schadl Györgyöt és Völner Pált december 15-ra idézik be személyes meghallgatásra....",
-    "content_hu": "A testület csütörtökön döntött arról is, hogy Schadl Györgyöt és Völner Pált december 15-ra idézik be személyes meghallgatásra.",
-    "importance_score": 35.0
   },
   {
     "group_id": "group_05be80aeef",
