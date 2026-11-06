@@ -2161,32 +2161,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_860fb6269c",
-    "fingerprint": "06cc21d6036ba6d54374af6a5477fad7",
-    "category": "Általános",
-    "image": "https://cdn.borsonline.hu/2026/11/9zn5GL234aRDsmHFN9oumRWGmFL910Q1OZPPqDjZaCI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMyZTc1ZmQ2MmMwNzQzOWViYTdlOTI5YWIzZDg2Y2M0.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "A hajnali mínuszok után ismét ránk mosolyog a nap",
-        "link": "https://borsonline.origo.hu/kozelet/2026/11/idojaras-hajnali-minuszok-utan-ismet-rank-mosolyog-nap"
-      },
-      {
-        "source": "ATV",
-        "title": "Becsapós hétvége jön: ragyogó napsütéssel indul a nap, de brutális fagyra ébredhetünk",
-        "link": "https://www.atv.hu/belfold/20261106/napsutes-hetvege-hajnal-fagy/"
-      }
-    ],
-    "published_at": 1793978160,
-    "title_hu": "Napos, száraz hétvége jön, vasárnap hajnalban mínusz 6 fok is lehet",
-    "lead_hu": "A hétvégén többnyire napos, száraz idő várható, de a reggelek fagyosak maradnak: vasárnap hajnalban mínusz 6 fok körüli hőmérséklet is előfordulhat. Csapadék a jövő hét közepétől valószínű.",
-    "content_hu": "• **Vasárnap hajnalban mínusz 6 fok is lehet** Az új előrejelzés szerint a hétvége napos, száraz idővel indul, de vasárnap reggel fagypont alatti, nagyjából mínusz 6 fokos hőmérséklet várható.\n\n• **Északkeleten élénk széllökések lehetnek pénteken** A gyenge vagy mérsékelt légmozgás mellett az északi, északkeleti szelet az ország északkeleti részén helyenként élénk lökések kísérhetik.\n\n• **A jövő hét közepétől jöhet eső** Az ATV előrejelzése szerint a hétvégén nem valószínű csapadék, eső inkább a jövő hét közepétől várható.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_6999cd8d12",
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2161929382-agrargazdasag-agrarium-foldmuves-gep-mezogazdasag-novenytermesztes-751771.jpg",
@@ -2335,6 +2309,32 @@
     "lead_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
     "content_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_860fb6269c",
+    "fingerprint": "06cc21d6036ba6d54374af6a5477fad7",
+    "category": "Általános",
+    "image": "https://cdn.borsonline.hu/2026/11/9zn5GL234aRDsmHFN9oumRWGmFL910Q1OZPPqDjZaCI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMyZTc1ZmQ2MmMwNzQzOWViYTdlOTI5YWIzZDg2Y2M0.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "A hajnali mínuszok után ismét ránk mosolyog a nap",
+        "link": "https://borsonline.origo.hu/kozelet/2026/11/idojaras-hajnali-minuszok-utan-ismet-rank-mosolyog-nap"
+      },
+      {
+        "source": "ATV",
+        "title": "Becsapós hétvége jön: ragyogó napsütéssel indul a nap, de brutális fagyra ébredhetünk",
+        "link": "https://www.atv.hu/belfold/20261106/napsutes-hetvege-hajnal-fagy/"
+      }
+    ],
+    "published_at": 1793978160,
+    "title_hu": "Napos, száraz hétvége jön, vasárnap hajnalban mínusz 6 fok is lehet",
+    "lead_hu": "A hétvégén többnyire napos, száraz idő várható, de a reggelek fagyosak maradnak: vasárnap hajnalban mínusz 6 fok körüli hőmérséklet is előfordulhat. Csapadék a jövő hét közepétől valószínű.",
+    "content_hu": "• **Vasárnap hajnalban mínusz 6 fok is lehet** Az új előrejelzés szerint a hétvége napos, száraz idővel indul, de vasárnap reggel fagypont alatti, nagyjából mínusz 6 fokos hőmérséklet várható.\n\n• **Északkeleten élénk széllökések lehetnek pénteken** A gyenge vagy mérsékelt légmozgás mellett az északi, északkeleti szelet az ország északkeleti részén helyenként élénk lökések kísérhetik.\n\n• **A jövő hét közepétől jöhet eső** Az ATV előrejelzése szerint a hétvégén nem valószínű csapadék, eső inkább a jövő hét közepétől várható.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_416a2caac4",
@@ -12690,25 +12690,6 @@
     "title_hu": "22 évig figyelte az univerzumot, de az elbukott mentőakció után végül lezuhant a NASA űrtávcsöve",
     "lead_hu": "Pont került egy meghatározó tudományos küldetés végére azzal, hogy a NASA Swift obszervatórium 22 év nagyszerű szolgálat után lezuhant, és a Föld légkörében nagyrészt elégett.",
     "content_hu": "Pont került egy meghatározó tudományos küldetés végére azzal, hogy a NASA Swift obszervatórium 22 év nagyszerű szolgálat után lezuhant, és a Föld légkörében nagyrészt elégett.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5a84a7c1f2",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/fazekas-gergo-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Egygólos sikerrel is megelégedett volna az új kézikapitány, 11 gólos diadal lett a vége",
-        "link": "https://24.hu/sport/2026/11/05/kezilabda-eb-selejtezo-magyarorszag-montenegro-sotonyi-laszlo/"
-      }
-    ],
-    "published_at": 1793913697,
-    "title_hu": "Egygólos sikerrel is megelégedett volna az új kézikapitány, 11 gólos diadal lett a vége",
-    "lead_hu": "Sótonyi László egy Montenegró elleni sikeres Eb-selejtezővel mutatkozott be a férfiválogatott élén. The post Egygólos sikerrel is megelégedett volna az új kézikapitány, 11 gólos diadal lett a vége fir…",
-    "content_hu": "Sótonyi László egy Montenegró elleni sikeres Eb-selejtezővel mutatkozott be a férfiválogatott élén. The post Egygólos sikerrel is megelégedett volna az új kézikapitány, 11 gólos diadal lett a vége first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
