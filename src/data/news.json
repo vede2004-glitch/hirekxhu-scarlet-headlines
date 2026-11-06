@@ -134,7 +134,7 @@
     "title_hu": "Nyílt ülést tart a nemzetbiztonsági bizottság az ügynökaktákról",
     "lead_hu": "November 9-én reggel 8 órakor nyílt ülést tart az Országgyűlés nemzetbiztonsági bizottsága a november 4-én közzétett ügynökakták körüli aggályokról. Az ÁBTL vezetőitől tájékoztatást várnak; az adatbázis hibája miatt 164 megfigyelt neve is az ügynökök között szerepelt, a hibát azóta javították.",
     "content_hu": "• **November 9-én ülésezik a bizottság** – Apáti István, a testület Mi Hazánk-os elnöke reggel 8 órára hívta össze a nyílt ülést.\n\n• **Az akták körüli aggályok lesznek napirenden** – Az egyetlen napirendi pont a 2026. november 4-én közzétett ügynökaktákkal kapcsolatban felmerült aggályokról és ellentmondásokról szóló tájékoztató.\n\n• **Az ÁBTL vezetőit várják** – Apáti bejegyzése szerint a levéltár vezetőinek meg kell jelenniük az ülésen.\n\n• **Többféle dokumentum vált kereshetővé** – A nyitottaktak.hu adatbázisában több tízezer név mellett 6-os kartonok, B-naplók és mágnesszalagok is hozzáférhetővé váltak.\n\n• **164 megfigyelt neve került tévesen a hálózati személyek közé** – Az informatikai hibát az ÁBTL elhárította. Lezsák Sándor neve is szerepelt az adatbázisban, de a mágnesszalagokon megfigyeltként, nem hálózati személyként tartották nyilván.\n\n• **Bocsánatot kért Magyar Péter, a főigazgató felajánlotta a lemondását** – Cseh Gergő Bendegúz jelezte, hogy a hiba elhárítása után felajánlja lemondását a fenntartónak.\n\n• **A Fidesz és a KDNP a honlap leállítását követeli** – A Fidesz „tiszás ügynökbotrányként” hivatkozott az ügyre, míg a bizottsági ülés napirendje az akták körüli aggályokról és ellentmondásokról szól.",
-    "importance_score": 105.0
+    "importance_score": 98.0
   },
   {
     "group_id": "group_f178b31c48",
@@ -293,6 +293,56 @@
     "lead_hu": "A Honvédelmi Minisztérium megerősítette, hogy drónelhárító rendszert telepítettek a Karmelitához, de annak képességeiről és további működéséről nem közölt részleteket. Az áprilisi kormányváltás után Magyar Péter az Alkotmány utcába helyezte át a kormányfői székhelyet; a drónvédelem városi kockázatairól és a korábbi légtérsértés részleteiről is új információk jelentek meg.",
     "content_hu": "• **A kormányfői székhely az Alkotmány utcába került** – Az áprilisi kormányváltás után Magyar Péter oda helyezte át a miniszterelnöki hivatalt, így a Karmelitában már nem a mindenkori kormányfő hivatala működik.\n\n• **A rendszer a drónok azonosítására és a fenyegetés felmérésére is alkalmas lehet** – Az általános képességek között szerepelhet az alacsonyan repülő, kisméretű drónok észlelése és követése, típusuk megállapítása, a fenyegetés értékelése, illetve az ellenintézkedés.\n\n• **A 2022-es katonai drón Zágrábig jutott** – A horvát hatóságok közlése szerint a szovjet gyártmányú Tu–141-es drón OFAB 100–120-as bombát szállított, amelyben „nagy energiájú, de nem szokványos” anyag volt.",
     "importance_score": 78.0
+  },
+  {
+    "group_id": "group_56759e2895",
+    "fingerprint": "2b1b95e95f223d1e8fe650418847c8ff",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/09/B1MH7YWt_b6K2WtDqTedWH25pEvLWKw-hBJD7f-qRSY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNhZmRiY2EyM2I0ZjQyYWNhMzdhMGYzMTM3MTMxY2Nh.jpg",
+    "is_synthesized": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Magyar Péter újabb nyugdíjügyi ígéretével szembesítették a kormányt, megérkezett a válasz",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/magyar-peter-nyugdijugy-idosotthon-parlamenti-valasz-ingatlan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Ez nem vicc: szennyezés miatt felfüggesztették egy akkumulátor-beszállító üzemét",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/ez-nem-vicc-szennyezes-miatt-felfuggesztettek-egy-akkumulator-beszallito-uzemet-874750"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A Szentgyörgy-ér elszíneződése miatt leállították egy akkumulátoripari beszállító üzemét",
+        "link": "https://telex.hu/belfold/2026/11/06/gajdos-laszlo-akkumulatorgyar-beszallito-volta-energy-solutions-hungary"
+      },
+      {
+        "source": "444.hu",
+        "title": "Hatósági döntéssel leállították egy magyar akkuipari beszállító üzemét, miután egy közeli vízfolyás elszíneződött",
+        "link": "https://444.hu/2026/11/06/hatosagi-dontessel-leallitottak-egy-magyar-akkuipari-beszallito-uzemet-miutan-egy-kozeli-vizfolyas-elszinezodott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Felfüggesztették egy akkumulátoripari beszállító üzemének termelését",
+        "link": "https://24.hu/fn/gazdasag/2026/11/06/volta-energy-solutions-hungary-felfuggesztes-akkumulatorgyar/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Gajdos László bejelentette, leállították a magyarországi akkumulátorgyárak egyik beszállítójának üzemét",
+        "link": "https://index.hu/gazdasag/2026/11/06/gajdos-laszlo-akkumulatorgyarak-beszallito-uzem-termeles-felfuggesztes/"
+      },
+      {
+        "source": "ATV",
+        "title": "Elszíneződött egy patak vize, leállították egy akkumulátoripari beszállító gyártását",
+        "link": "https://www.atv.hu/belfold/20261106/viz-leallit-akkumulator-gyartas/"
+      }
+    ],
+    "published_at": 1793937600,
+    "title_hu": "Magyar Péter újabb nyugdíjügyi ígéretével szembesítették a kormányt, megérkezett a válasz",
+    "lead_hu": "Húszezer új, modern férőhely megnyitását vállalta a kampányban a Tisza.",
+    "content_hu": "Húszezer új, modern férőhely megnyitását vállalta a kampányban a Tisza.",
+    "importance_score": 75.0
   },
   {
     "group_id": "group_bfb360a84c",
@@ -558,51 +608,6 @@
     "title_hu": "A Tisza Párt távol marad az ügynökaktákról szóló bizottsági üléstől",
     "lead_hu": "Magyar Péter bejelentette, hogy a Tisza Párt képviselői nem vesznek részt az Országgyűlés Nemzetbiztonsági Bizottságának hétfő reggelre összehívott nyílt ülésén. A tanácskozást Apáti István kezdeményezte az ügynökakták nyilvánosságra hozatala körül felmerült aggályok és ellentmondások miatt.",
     "content_hu": "• **A Tisza távol marad** Magyar Péter a bizottsági ülést „nemzetbiztonsági bohóckodásnak” nevezte, és közölte, hogy pártja nem vesz részt rajta.\n\n• **Az ülést az ügynökakták miatt hívták össze** Apáti István, a Nemzetbiztonsági Bizottság elnöke hétfő reggel 8 órára nyílt ülést kezdeményezett az akták közzététele kapcsán felmerült aggályok megvitatására. A levéltár vezetőinek megjelenését is kérte.\n\n• **Lezsák Sándor neve tévesen került az adatbázisba** Informatikai hiba miatt megfigyelt személyek nevei, köztük Lezsáké is, tévesen jelentek meg az ügynököket felsoroló oldalon. A levéltár elismerte a hibát, amelyért Magyar Péter is bocsánatot kért.",
-    "importance_score": 65.0
-  },
-  {
-    "group_id": "group_56759e2895",
-    "fingerprint": "2b1b95e95f223d1e8fe650418847c8ff",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/09/B1MH7YWt_b6K2WtDqTedWH25pEvLWKw-hBJD7f-qRSY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNhZmRiY2EyM2I0ZjQyYWNhMzdhMGYzMTM3MTMxY2Nh.jpg",
-    "is_synthesized": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Magyar Péter újabb nyugdíjügyi ígéretével szembesítették a kormányt, megérkezett a válasz",
-        "link": "https://magyarnemzet.hu/gazdasag/2026/11/magyar-peter-nyugdijugy-idosotthon-parlamenti-valasz-ingatlan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Ez nem vicc: szennyezés miatt felfüggesztették egy akkumulátor-beszállító üzemét",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/ez-nem-vicc-szennyezes-miatt-felfuggesztettek-egy-akkumulator-beszallito-uzemet-874750"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "A Szentgyörgy-ér elszíneződése miatt leállították egy akkumulátoripari beszállító üzemét",
-        "link": "https://telex.hu/belfold/2026/11/06/gajdos-laszlo-akkumulatorgyar-beszallito-volta-energy-solutions-hungary"
-      },
-      {
-        "source": "444.hu",
-        "title": "Hatósági döntéssel leállították egy magyar akkuipari beszállító üzemét, miután egy közeli vízfolyás elszíneződött",
-        "link": "https://444.hu/2026/11/06/hatosagi-dontessel-leallitottak-egy-magyar-akkuipari-beszallito-uzemet-miutan-egy-kozeli-vizfolyas-elszinezodott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Felfüggesztették egy akkumulátoripari beszállító üzemének termelését",
-        "link": "https://24.hu/fn/gazdasag/2026/11/06/volta-energy-solutions-hungary-felfuggesztes-akkumulatorgyar/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Gajdos László bejelentette, leállították a magyarországi akkumulátorgyárak egyik beszállítójának üzemét",
-        "link": "https://index.hu/gazdasag/2026/11/06/gajdos-laszlo-akkumulatorgyarak-beszallito-uzem-termeles-felfuggesztes/"
-      }
-    ],
-    "published_at": 1793937600,
-    "title_hu": "Magyar Péter újabb nyugdíjügyi ígéretével szembesítették a kormányt, megérkezett a válasz",
-    "lead_hu": "Húszezer új, modern férőhely megnyitását vállalta a kampányban a Tisza.",
-    "content_hu": "Húszezer új, modern férőhely megnyitását vállalta a kampányban a Tisza.",
     "importance_score": 65.0
   },
   {
@@ -1887,37 +1892,6 @@
     "importance_score": 38.0
   },
   {
-    "group_id": "group_17a0359e0e",
-    "fingerprint": "b17727a6cb2a687e7fa7a3cdfc3a1f02",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7070/70704/707040/70704061_5215175_cf7f8638c14c7e80fd77a5593688e58c_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Közel a határidő, hamarosan le kell cserélni a hibrid autók rendszámait",
-        "link": "https://index.hu/gazdasag/2026/11/05/hibrid-auto-plug-in-autok-zold-rendszamtabla-csere/"
-      },
-      {
-        "source": "ATV",
-        "title": "November 30-ig kaptak haladékot az autósok: kivonhatják a forgalomból a járművüket, ha nem teljesítik időben",
-        "link": "https://www.atv.hu/belfold/20261106/auto-plug-in-hibrid-rendszam/"
-      },
-      {
-        "source": "Femina",
-        "title": "Csak néhány hete maradt ezeknek az autósoknak: több tízezer autót vonhatnak ki a forgalomból, ha nem lépnek időben",
-        "link": "https://femina.hu/utazas/autok-kivonasa-forgalombol-hatarido-autosok/"
-      }
-    ],
-    "published_at": 1793961953,
-    "title_hu": "November 30-ig kell lecserélni a plug-in hibridek zöld rendszámát",
-    "lead_hu": "A plug-in hibrid autók tulajdonosainak legkésőbb 2026. november 30-ig kell lecserélniük a zöld rendszámot; a határidő jelenleg több mint 25 ezer autóst érint. December 1-jétől a régi táblával közlekedő jármű rendszámát és forgalmi engedélyét bevonhatják, a hatóság pedig kezdeményezheti az autó forgalomból kivonását.",
-    "content_hu": "• **November 30. a határidő** A plug-in hibrid autók tulajdonosainak eddig kell lecserélniük járművük zöld rendszámát; a változás jelenleg több mint 25 ezer autóst érint.\n\n• **Forgalomból kivonás is lehet a következmény** December 1-jétől az 5N és 5P környezetvédelmi osztályba sorolt autók nem vehetnek részt a forgalomban a régi zöld rendszámmal. Közúti ellenőrzéskor a hatóság bevonhatja a rendszámot és a forgalmi engedélyt, valamint kezdeményezheti a jármű kivonását; az autó csak az átrendszámozás után kerülhet vissza a forgalomba.\n\n• **Kétféle rendszámcsere közül lehet választani** Átrendszámozáskor az autó új, fehér alapszínű rendszámot kap: egy pár tábla 11 475 forintba, a forgalmi engedély cseréje további 6000 forintba kerül. A karakterazonos csere során a tulajdonos megtarthatja a betű- és számkombinációt; ennek díja 16 605 forint, és nem kell új forgalmi engedélyt kiállítani.\n\n• **A karakterazonos rendszámra várni kellhet** Az új tábla legyártása időigényes lehet, ezért ezt a lehetőséget választóknak különösen érdemes mielőbb elindítaniuk az ügyintézést.\n\n• **Az ügyintézés időpont nélkül is lehetséges** A kormányablakban előzetes időpontfoglalással vagy sorszámhúzással is intézhető a csere. Rendkívüli nyitvatartást egyelőre nem terveznek, de az ügyforgalmat figyelik, és szükség esetén hosszabb ügyfélfogadás is lehet.\n\n• **Az új rendszámot több helyen be kell jelenteni** Átrendszámozás után értesíteni kell a biztosítót, az autópálya-matrica miatt a Nemzeti Útdíjfizetési Szolgáltatót, továbbá – ha van – a parkolótársaságot és lízingelt autónál a lízingbeadót.\n\n• **A zöld rendszám kivezetéséről 2024-ben döntöttek** A szabályozás 2024. szeptember 1-jén lépett hatályba: azóta új zöld rendszámot csak tisztán elektromos és nullaemissziós járművek kaphatnak.\n\n• **A tisztán elektromos autók jogosultsága megmarad** Az 5E és 5Z környezetvédelmi osztályba sorolt járművek továbbra is kaphatnak zöld rendszámot, és az ahhoz kapcsolódó adó- és illetékkedvezmények is megmaradnak.",
-    "importance_score": 38.0
-  },
-  {
     "group_id": "group_0d54051694",
     "fingerprint": "ac00fb1319a202ce3b2ba6df6ea22797",
     "category": "Politika",
@@ -2182,30 +2156,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_d64d43a425",
-    "category": "Kultúra",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2407/26/gamer_pc_092452_1_original_390x220_cover.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "PC World",
-        "title": "Gamer-PC 300 ezer forintból – Mission Impossible?",
-        "link": "https://www.gsplus.hu/pcw/gamer-pc-300-ezer-forintbol-mission-impossible-390269.html"
-      },
-      {
-        "source": "PC World",
-        "title": "Gamer-PC 300 ezer forintból – Mission Impossible?",
-        "link": "https://www.gsplus.hu/pcw/500-milliard-dollart-esett-a-google-erteke-ezert-az-ait-is-telepakoljak-reklamokkal-390207.html"
-      }
-    ],
-    "published_at": 1793972695,
-    "title_hu": "Gamer-PC 300 ezer forintból – Mission Impossible?",
-    "lead_hu": "Építhető-e ma valódi gamer-PC háromszázezer forintból? Minden tudásunkat és rugalmasságunkat bevetettük, hogy teljesítsük ezt a lehetetlennek tűnő küldetést.",
-    "content_hu": "Építhető-e ma valódi gamer-PC háromszázezer forintból? Minden tudásunkat és rugalmasságunkat bevetettük, hogy teljesítsük ezt a lehetetlennek tűnő küldetést.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_c96bf462c4",
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/e/u/r/europai-vadaszrepulo-replgp-aviation-repls-drn-haditechnika-lgier-hadiipar-803080.jpg",
@@ -2227,6 +2177,37 @@
     "title_hu": "A deep tech pörgetheti fel az európai gazdaság motorját − Egy helyen a jövőálló technológiák döntéshozói a Portfolio konferenciáján",
     "lead_hu": "Az utóbbi évtizedek egyik sokat emlegetett hívószava nem véletlenül a deep tech, amely térnyerésének köszönhetően 2030-ra olyan, ma még alig létező termékek és szolgáltatások jönnek létre, amelyek glo…",
     "content_hu": "Az utóbbi évtizedek egyik sokat emlegetett hívószava nem véletlenül a deep tech, amely térnyerésének köszönhetően 2030-ra olyan, ma még alig létező termékek és szolgáltatások jönnek létre, amelyek globális értékteremtési potenciálja eléri az uniós államok GDP-jének felét. Itt olyan technológiai innovációkról beszélünk, amelyek mögött jellemzően jelentős tudományos vagy mérnöki áttörés áll, és nem pusztán egy új digitális üzleti modellt vagy felhasználói élményt kínálnak, hanem a fizikai világ, az ipar vagy az alapkutatás problémáira adnak új megoldást. Az USA már ráérzett a tét nagyságára, Európának − ezen belül Magyarországnak − pedig óriási esélyt tartogat, hogy ezúttal ne a tengerentúl után kullogjon, amikor innovációról van szó. Ezen lehetőségek tárházáról lesz szó a november 18-i Portfolio Deep Tech 2026-on, amelyre még elérhetők az utolsó jegyek.Támogatott tartalom",
+    "importance_score": 33.0
+  },
+  {
+    "group_id": "group_17a0359e0e",
+    "fingerprint": "b17727a6cb2a687e7fa7a3cdfc3a1f02",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7070/70704/707040/70704061_5215175_cf7f8638c14c7e80fd77a5593688e58c_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Közel a határidő, hamarosan le kell cserélni a hibrid autók rendszámait",
+        "link": "https://index.hu/gazdasag/2026/11/05/hibrid-auto-plug-in-autok-zold-rendszamtabla-csere/"
+      },
+      {
+        "source": "ATV",
+        "title": "November 30-ig kaptak haladékot az autósok: kivonhatják a forgalomból a járművüket, ha nem teljesítik időben",
+        "link": "https://www.atv.hu/belfold/20261106/auto-plug-in-hibrid-rendszam/"
+      },
+      {
+        "source": "Femina",
+        "title": "Csak néhány hete maradt ezeknek az autósoknak: több tízezer autót vonhatnak ki a forgalomból, ha nem lépnek időben",
+        "link": "https://femina.hu/utazas/autok-kivonasa-forgalombol-hatarido-autosok/"
+      }
+    ],
+    "published_at": 1793961953,
+    "title_hu": "November 30-ig kell lecserélni a plug-in hibridek zöld rendszámát",
+    "lead_hu": "A plug-in hibrid autók tulajdonosainak legkésőbb 2026. november 30-ig kell lecserélniük a zöld rendszámot; a határidő jelenleg több mint 25 ezer autóst érint. December 1-jétől a régi táblával közlekedő jármű rendszámát és forgalmi engedélyét bevonhatják, a hatóság pedig kezdeményezheti az autó forgalomból kivonását.",
+    "content_hu": "• **November 30. a határidő** A plug-in hibrid autók tulajdonosainak eddig kell lecserélniük járművük zöld rendszámát; a változás jelenleg több mint 25 ezer autóst érint.\n\n• **Forgalomból kivonás is lehet a következmény** December 1-jétől az 5N és 5P környezetvédelmi osztályba sorolt autók nem vehetnek részt a forgalomban a régi zöld rendszámmal. Közúti ellenőrzéskor a hatóság bevonhatja a rendszámot és a forgalmi engedélyt, valamint kezdeményezheti a jármű kivonását; az autó csak az átrendszámozás után kerülhet vissza a forgalomba.\n\n• **Kétféle rendszámcsere közül lehet választani** Átrendszámozáskor az autó új, fehér alapszínű rendszámot kap: egy pár tábla 11 475 forintba, a forgalmi engedély cseréje további 6000 forintba kerül. A karakterazonos csere során a tulajdonos megtarthatja a betű- és számkombinációt; ennek díja 16 605 forint, és nem kell új forgalmi engedélyt kiállítani.\n\n• **A karakterazonos rendszámra várni kellhet** Az új tábla legyártása időigényes lehet, ezért ezt a lehetőséget választóknak különösen érdemes mielőbb elindítaniuk az ügyintézést.\n\n• **Az ügyintézés időpont nélkül is lehetséges** A kormányablakban előzetes időpontfoglalással vagy sorszámhúzással is intézhető a csere. Rendkívüli nyitvatartást egyelőre nem terveznek, de az ügyforgalmat figyelik, és szükség esetén hosszabb ügyfélfogadás is lehet.\n\n• **Az új rendszámot több helyen be kell jelenteni** Átrendszámozás után értesíteni kell a biztosítót, az autópálya-matrica miatt a Nemzeti Útdíjfizetési Szolgáltatót, továbbá – ha van – a parkolótársaságot és lízingelt autónál a lízingbeadót.\n\n• **A zöld rendszám kivezetéséről 2024-ben döntöttek** A szabályozás 2024. szeptember 1-jén lépett hatályba: azóta új zöld rendszámot csak tisztán elektromos és nullaemissziós járművek kaphatnak.\n\n• **A tisztán elektromos autók jogosultsága megmarad** Az 5E és 5Z környezetvédelmi osztályba sorolt járművek továbbra is kaphatnak zöld rendszámot, és az ahhoz kapcsolódó adó- és illetékkedvezmények is megmaradnak.",
     "importance_score": 33.0
   },
   {
@@ -2402,6 +2383,56 @@
     "lead_hu": "A kormány megkezdte a Nemzeti Kulturális Alap átalakítását, amelynek első lépéseként megszüntetnék a Magyar Művészeti Akadémia több, a támogatási döntéseket érintő különleges jogosítványát. A tervezet társadalmi egyeztetésre kerül, az új szabályok elfogadásuk esetén 2027. január 1-jén léphetnek hatályba.",
     "content_hu": "• **Megszűnhetnek az MMA különleges jogkörei** az NKA alelnökének kinevezésénél, valamint a szakmai kollégiumok működésével és a kulturális források elosztásával kapcsolatban.\n\n• **Nagyobb szerepet kaphatnak a szakmai szervezetek**: a kulturális szakmai szervezetek delegáltjai nagyobb befolyással vehetnek részt a döntéshozatalban.\n\n• **A változtatás az NKA reformjának első lépése**; a tárca célként a szervezet hitelességének helyreállítását és a kulturális támogatási rendszer demokratizálását jelölte meg.\n\n• **A tervezetről társadalmi egyeztetés indul**, az új rendelkezések elfogadásuk esetén 2027. január 1-jén léphetnek hatályba.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_d64d43a425",
+    "category": "Kultúra",
+    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2407/26/gamer_pc_092452_1_original_390x220_cover.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "PC World",
+        "title": "Gamer-PC 300 ezer forintból – Mission Impossible?",
+        "link": "https://www.gsplus.hu/pcw/gamer-pc-300-ezer-forintbol-mission-impossible-390269.html"
+      },
+      {
+        "source": "PC World",
+        "title": "Gamer-PC 300 ezer forintból – Mission Impossible?",
+        "link": "https://www.gsplus.hu/pcw/500-milliard-dollart-esett-a-google-erteke-ezert-az-ait-is-telepakoljak-reklamokkal-390207.html"
+      }
+    ],
+    "published_at": 1793972695,
+    "title_hu": "Gamer-PC 300 ezer forintból – Mission Impossible?",
+    "lead_hu": "Építhető-e ma valódi gamer-PC háromszázezer forintból? Minden tudásunkat és rugalmasságunkat bevetettük, hogy teljesítsük ezt a lehetetlennek tűnő küldetést.",
+    "content_hu": "Építhető-e ma valódi gamer-PC háromszázezer forintból? Minden tudásunkat és rugalmasságunkat bevetettük, hogy teljesítsük ezt a lehetetlennek tűnő küldetést.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_137bb6e4d8",
+    "fingerprint": "a2064a5b0afe8c84d0e7dbb06e0b3e95",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/geller-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Meghalt minden idők egyik legjobb magyar kosarasa, Gellér Sándor",
+        "link": "https://24.hu/sport/2026/11/06/kosarlabda-halal-gyasz-geller-sandor/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Meghalt Gellér Sándor, 113-szoros magyar válogatott kosárlabdázó",
+        "link": "https://index.hu/sport/kosarlabda/2026/11/06/meghalt-geller-sandor-magyar-valogatott-kosarlabdazo-gyaszhir/"
+      }
+    ],
+    "published_at": 1793971080,
+    "title_hu": "Meghalt Gellér Sándor, a magyar kosárlabda legendás alakja",
+    "lead_hu": "Elhunyt Gellér Sándor, a 113-szoros magyar válogatott kosárlabdázó. A Honvéddal húsz év alatt 15 bajnoki címet és nyolc kupagyőzelmet szerzett, később edzőként és fiatal játékosok képzőjeként dolgozott.",
+    "content_hu": "• **Pályafutása a Honvédnál** Gellér Sándor 1966-ban igazolt a klubhoz, ahol 1986-ig játszott. Ez idő alatt 15 bajnoki címet és nyolc kupagyőzelmet ünnepelhetett.\n\n• **Válogatott szereplése** A 113-szoros válogatott tagja volt az 1969-es Európa-bajnokságon nyolcadik helyen végző magyar csapatnak, és a nyolcvanas évek elején játékosedzőként is segítette a nemzeti együttest.\n\n• **Edzőként is bajnok lett** Játékos-pályafutása után sem szakadt el a kosárlabdától: 1988-ban a ZTE edzőjeként nyert bajnokságot, később fiatalok egyéni képzésével foglalkozott.\n\n• **Saját halottjuknak tekintik** A Budapesti Honvéd és a Magyar Kosárlabdázók Országos Szövetsége saját halottjaként búcsúzik Gellér Sándortól.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_738c46c8db",
@@ -3264,6 +3295,25 @@
     "title_hu": "Lecserélték a zárat, balhéznak a vezetők, a gyerekek pedig kedvenc sportáguk nélkül maradtak",
     "lead_hu": "Plusz anyagi teher szakadt a szülők nyakába....",
     "content_hu": "Plusz anyagi teher szakadt a szülők nyakába.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_91e4f8552f",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Fontos bejelentést tett Magyar Péter péntek délután - bérlakásokról, vasútról és kórházakról",
+        "link": "https://nlc.hu/ezvan/20261106/magyar-peter-nadia-calvio/g150yfj"
+      }
+    ],
+    "published_at": 1793982780,
+    "title_hu": "Fontos bejelentést tett Magyar Péter péntek délután - bérlakásokról, vasútról és kórházakról",
+    "lead_hu": "Hol és mennyiért lehet majd lakást bérelni, milyen vonattal járhatunk munkába, és milyen körülmények fogadnak a kórházban? Ezeket a mindennapi kérdéseket is érintik azok a beruházási tervek, amelyek f...",
+    "content_hu": "Hol és mennyiért lehet majd lakást bérelni, milyen vonattal járhatunk munkába, és milyen körülmények fogadnak a kórházban? Ezeket a mindennapi kérdéseket is érintik azok a beruházási tervek, amelyek finanszírozásáról Magyar Péter pénteken Budapesten tárgyalt az Európai Beruházási Bank elnökével. A bank közben csaknem 400 millió eurónyi finanszírozást jelentett be magyarországi beruházásokhoz. The post Fontos bejelentést tett Magyar Péter péntek délután - bérlakásokról, vasútról és kórházakról first appeared on nlc.",
     "importance_score": 0.0
   },
   {
@@ -12900,120 +12950,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_a11762178e",
-    "category": "Kultúra",
-    "image": "https://s.24.hu/app/uploads/2026/11/imgonline-com-ua-frameblurred-atsfbv23p9-e1793193287111-2048x1149-1-1024x575.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Közeleg a határidő: tízezreknek kell lecserélniük a régi, könyv formátumú személyi igazolványukat",
-        "link": "https://24.hu/belfold/2026/11/05/szemelyi-igazolvany-konyv-lejar-hatarido-december-31/"
-      }
-    ],
-    "published_at": 1793897241,
-    "title_hu": "Közeleg a határidő: tízezreknek kell lecserélniük a régi, könyv formátumú személyi igazolványukat",
-    "lead_hu": "Januártól ezek már nem lesznek érvényesek. The post Közeleg a határidő: tízezreknek kell lecserélniük a régi, könyv formátumú személyi igazolványukat first appeared on 24.hu.",
-    "content_hu": "Januártól ezek már nem lesznek érvényesek. The post Közeleg a határidő: tízezreknek kell lecserélniük a régi, könyv formátumú személyi igazolványukat first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_82a2887aa5",
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/1B5qtLnf6J8",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Aszályügyi vészhelyzet kihirdetését követeli a Mi Hazánk",
-        "link": "https://www.atv.hu/belfold/20261105/aszalyugyi-veszhelyzet-mi-hazank/"
-      }
-    ],
-    "published_at": 1793897220,
-    "title_hu": "Aszályügyi vészhelyzet kihirdetését követeli a Mi Hazánk",
-    "lead_hu": "Dócs Dávid aszályügyi vészhelyzetet akar.",
-    "content_hu": "Dócs Dávid aszályügyi vészhelyzetet akar.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b95e3fb4d5",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/d/i/s/diszno-malac-sertes-626477.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Mélyponton a magyar állattenyésztés: akár 15 ezer forintot is bukhatnak egyetlen állaton a gazdák",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/melyponton-a-magyar-allattenyesztes-akar-15-ezer-forintot-is-bukhatnak-egyetlen-allaton-a-gazdak-874534"
-      }
-    ],
-    "published_at": 1793897220,
-    "title_hu": "Mélyponton a magyar állattenyésztés: akár 15 ezer forintot is bukhatnak egyetlen állaton a gazdák",
-    "lead_hu": "Súlyos kihívásokkal küzd a hazai agrárium, hiszen míg a sertés- és tejágazatban a magas takarmányköltségek és az alacsony felvásárlási árak miatt a gazdák sokszor önköltség alatt termelnek, addig a mi…",
-    "content_hu": "Súlyos kihívásokkal küzd a hazai agrárium, hiszen míg a sertés- és tejágazatban a magas takarmányköltségek és az alacsony felvásárlási árak miatt a gazdák sokszor önköltség alatt termelnek, addig a mindezidáig stabil baromfiszektorban is gyülekeznek a viharfelhők. A piaci szereplők egyetértenek abban, hogy a túlélés záloga a kínálat kereslethez történő igazítása, a hazai feldolgozókapacitások bővítése, valamint az energia- és munkaerő-hatékonyságot javító beruházások folytatása, miközben az érdemi piaci kilábalás legkorábban 2027-ben várható - tudósított az Agrárszektor a CIB Bank agrárkonferenciájáról, amelyen a potál is jelen volt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_da682aa5a4",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/GettyImages-640367054.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Visszatér a Csinibaba Táncdalfesztivál: már a dátumot is bejelentették",
-        "link": "https://femina.hu/utazas/csinibaba-tancdalfesztival-2027-datum-jegyek/"
-      }
-    ],
-    "published_at": 1793897100,
-    "title_hu": "Visszatér a Csinibaba Táncdalfesztivál: már a dátumot is bejelentették",
-    "lead_hu": "Újra felcsendülnek a régi kedvencek, és jöhet a nosztalgikus időutazás! A Csinibaba Táncdalfesztivál 2027-ben ismét a Budapest Parkba várja a közönséget.",
-    "content_hu": "Újra felcsendülnek a régi kedvencek, és jöhet a nosztalgikus időutazás! A Csinibaba Táncdalfesztivál 2027-ben ismét a Budapest Parkba várja a közönséget.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_72ebc22d6a",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/ODy8Mtbm5O06B2IweYgtjB1rwccAOVM6m0yjuKlNCLw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFmZjYxNGQ4NTYzNzQwMzc5YjBiMjMwOWMwMjgwYmIx.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Három Kárpát-medencei magyar könyvkiadó fogott össze az ínséges időkben",
-        "link": "https://magyarnemzet.hu/kultura/2026/11/konyv-karpat-medence-osszefogas-kun-kocsard-terv?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793897079,
-    "title_hu": "Három Kárpát-medencei magyar könyvkiadó fogott össze az ínséges időkben",
-    "lead_hu": "Határokon átívelő kulturális és könyvgyűjtemény-fejlesztési programot indított a Kún Kocsárd Egyesület.",
-    "content_hu": "Határokon átívelő kulturális és könyvgyűjtemény-fejlesztési programot indított a Kún Kocsárd Egyesület.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c7aa098e1c",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793896977-temp-e3ckfa327b857gclcfb_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Magyar Színházi Fesztivál néven új rendezvénysorozat indul",
-        "link": "https://telex.hu/karakter/kultura/2026/11/05/miskolc-magyar-szinhazi-fesztival-szinhazi-tarsasag"
-      }
-    ],
-    "published_at": 1793897037,
-    "title_hu": "Magyar Színházi Fesztivál néven új rendezvénysorozat indul",
-    "lead_hu": "Az eseményt a Miskolci Nemzeti Színházzal, a Magyar Színházi Társasággal és Miskolc Önkormányzatával együttműködésben szervezik majd meg.",
-    "content_hu": "Az eseményt a Miskolci Nemzeti Színházzal, a Magyar Színházi Társasággal és Miskolc Önkormányzatával együttműködésben szervezik majd meg.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_115f4561b6",
     "fingerprint": "bb2a32afb6674cf793123755c4dd5130",
     "category": "Sport",
@@ -13069,32 +13005,6 @@
     "lead_hu": "Paul Mackenzie-t 200 év börtönbüntetésre ítélték 190 gyermek és egy felnőtt halála miatt. A kenyai prédikátor arra buzdította követőit, hogy éheztessék halálra magukat, mert így találkozhatnak Jézussal.",
     "content_hu": "• **200 év börtön** A mombasai bíróság 100 évet szabott ki a követők halálra éheztetéséért, további 100 évet pedig emberölésekért.\n\n• **A követők halála** Mackenzie-t 190 gyermek és egy felnőtt meggyilkolásában találták bűnösnek. A hatóságok 2023-ban több száz holttestet találtak a Shakahola-erdőben; sok áldozat éhen halt, másokat megfojtottak vagy agyonvertek.\n\n• **További elítéltek** A bíróság a szekta 28 vezetőjét is elítélte gyilkosság miatt; közülük egyesek hosszú, akár 160 éves börtönbüntetést kaptak.",
     "importance_score": 35.0
-  },
-  {
-    "group_id": "group_137bb6e4d8",
-    "fingerprint": "a2064a5b0afe8c84d0e7dbb06e0b3e95",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/geller-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Meghalt minden idők egyik legjobb magyar kosarasa, Gellér Sándor",
-        "link": "https://24.hu/sport/2026/11/06/kosarlabda-halal-gyasz-geller-sandor/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Meghalt Gellér Sándor, 113-szoros magyar válogatott kosárlabdázó",
-        "link": "https://index.hu/sport/kosarlabda/2026/11/06/meghalt-geller-sandor-magyar-valogatott-kosarlabdazo-gyaszhir/"
-      }
-    ],
-    "published_at": 1793971080,
-    "title_hu": "Meghalt Gellér Sándor, a magyar kosárlabda legendás alakja",
-    "lead_hu": "Elhunyt Gellér Sándor, a 113-szoros magyar válogatott kosárlabdázó. A Honvéddal húsz év alatt 15 bajnoki címet és nyolc kupagyőzelmet szerzett, később edzőként és fiatal játékosok képzőjeként dolgozott.",
-    "content_hu": "• **Pályafutása a Honvédnál** Gellér Sándor 1966-ban igazolt a klubhoz, ahol 1986-ig játszott. Ez idő alatt 15 bajnoki címet és nyolc kupagyőzelmet ünnepelhetett.\n\n• **Válogatott szereplése** A 113-szoros válogatott tagja volt az 1969-es Európa-bajnokságon nyolcadik helyen végző magyar csapatnak, és a nyolcvanas évek elején játékosedzőként is segítette a nemzeti együttest.\n\n• **Edzőként is bajnok lett** Játékos-pályafutása után sem szakadt el a kosárlabdától: 1988-ban a ZTE edzőjeként nyert bajnokságot, később fiatalok egyéni képzésével foglalkozott.\n\n• **Saját halottjuknak tekintik** A Budapesti Honvéd és a Magyar Kosárlabdázók Országos Szövetsége saját halottjaként búcsúzik Gellér Sándortól.",
-    "importance_score": 28.0
   },
   {
     "group_id": "group_544a74ab0e",
