@@ -1560,6 +1560,30 @@
     "importance_score": 43.0
   },
   {
+    "group_id": "group_1cfa6314cd",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261106/1793992141-temp-5rudrmhcm2mh7bjahba_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Meghalt Jay Rockefeller, a családja utolsó politikusa",
+        "link": "https://telex.hu/kulfold/2026/11/06/meghalt-jay-rockefeller-dinasztia-kormanyzo-nyugat-virginia"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Meghalt Jay Rockefeller, a milliárdos dinasztia örököse, aki a szegényekért harcolt Amerikában",
+        "link": "https://index.hu/kulfold/2026/11/06/jay-rockefeller-szenator-meghalt-amerikai-dinasztia-orokos/"
+      }
+    ],
+    "published_at": 1793992463,
+    "title_hu": "Meghalt Jay Rockefeller, a családja utolsó politikusa",
+    "lead_hu": "Két cikluson keresztül Nyugat-Virginia kormányzója volt, majd demokrata szenátorként politizált....",
+    "content_hu": "Két cikluson keresztül Nyugat-Virginia kormányzója volt, majd demokrata szenátorként politizált.",
+    "importance_score": 40.0
+  },
+  {
     "group_id": "group_aae5b70c65",
     "fingerprint": "744ad7b47400b68797c691d83733d38c",
     "category": "Politika",
@@ -1593,30 +1617,6 @@
     "title_hu": "Pócs János fellebbez a kitiltása ellen, és tagadja, hogy csalt volna",
     "lead_hu": "Forsthoffer Ágnes házelnök három ülésnapra kitiltotta Pócs Jánost az Országgyűlés épületéből, miután a képviselő egy szavazás után szóban próbálta leadni a voksát. Pócs fellebbez, és határozottan visszautasítja, hogy csalással próbálta volna megtéveszteni az ülést.",
     "content_hu": "• **A kitiltás oka** Pócs János november 3-án lekéste az egyik szavazást, majd utólag szóban próbálta leadni a voksát, amivel megakasztotta az ülést.\n\n• **A házelnöki indoklás** Forsthoffer Ágnes szerint a képviselő a korábbi figyelmeztetések ellenére is zavarta a parlamenti munkát; legutóbb október 20-án kapott írásbeli figyelmeztetést.\n\n• **Pócs válasza** A képviselő azt írta, hogy Magyar Péter követelte a kitiltását, és bejelentette, hogy fellebbez az intézkedés ellen. Tudomásul veszi a házelnök döntését, de tiltakozik az ellen, hogy csalással vádolják.\n\n• **Pócs védekezése** Azt állítja, hogy nem működött a szavazógépe, és a körülötte ülő képviselők tanúsíthatják, hogy próbálta megnyomni a gombot. Elismerte, hogy más elfoglaltsága miatt késve érkezett az ülésterembe, de szerinte egyetlen szavazat sem változtatott volna az eredményen.\n\n• **A szabályok eltérő alkalmazásának vádja** Pócs házszabályellenesnek tartja, hogy a házelnök több külön esetet vont össze a büntetés kiszabásakor, és szerinte nem mindenkire egyformán vonatkoznak a szabályok. Példaként azt hozta fel, hogy Magyar Péter bekiabálásai, egy másik képviselő szavazása, illetve egy sértő kijelentés szerinte nem járt következménnyel.\n\n• **A jogorvoslat** Pócs fellebbezéséről a Mentelmi Bizottság dönt.\n\n• **A korlátozás részletei** Kitiltás esetén a képviselő nem léphet be az Országház és hivatalainak épületébe, de a házelnök által kijelölt helyiségből részt vehet a titkos szavazásokon. A házelnök legfeljebb 15 naptári napra vagy hat ülésnapra rendelhet el kitiltást.",
-    "importance_score": 43.0
-  },
-  {
-    "group_id": "group_1cfa6314cd",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261106/1793992141-temp-5rudrmhcm2mh7bjahba_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Meghalt Jay Rockefeller, a családja utolsó politikusa",
-        "link": "https://telex.hu/kulfold/2026/11/06/meghalt-jay-rockefeller-dinasztia-kormanyzo-nyugat-virginia"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Meghalt Jay Rockefeller, a milliárdos dinasztia örököse, aki a szegényekért harcolt Amerikában",
-        "link": "https://index.hu/kulfold/2026/11/06/jay-rockefeller-szenator-meghalt-amerikai-dinasztia-orokos/"
-      }
-    ],
-    "published_at": 1793992463,
-    "title_hu": "Meghalt Jay Rockefeller, a családja utolsó politikusa",
-    "lead_hu": "Két cikluson keresztül Nyugat-Virginia kormányzója volt, majd demokrata szenátorként politizált....",
-    "content_hu": "Két cikluson keresztül Nyugat-Virginia kormányzója volt, majd demokrata szenátorként politizált.",
     "importance_score": 40.0
   },
   {
@@ -2302,32 +2302,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_b433e650b6",
-    "fingerprint": "acc4c4c111e5c0516b6f295145e65655",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/o/l/dolgozo-worker-gyar-gyari-munkas-ipar-394176.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Drámai hírek érkezetek a magyarok fizetéséről: Európa szégyenpadján vagyunk",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/dramai-hirek-erkezetek-a-magyarok-fizeteserol-europa-szegyenpadjan-vagyunk-874736"
-      },
-      {
-        "source": "Femina",
-        "title": "Csak két EU-s országban keresnek rosszabbul a magyaroknál: meglepő, hol a legmagasabbak a fizetések",
-        "link": "https://femina.hu/terasz/eu-fizetesek-magyarorszag-atlagber-rangsor/"
-      }
-    ],
-    "published_at": 1793977200,
-    "title_hu": "A magyar átlagkereset az uniós szint kevesebb mint fele",
-    "lead_hu": "Az Eurostat 2025-ös adatai szerint a teljes munkaidőre korrigált éves bruttó átlagkereset Magyarországon 20 100 euró volt, az uniós átlag 48,4 százaléka. Ennél alacsonyabb értéket csak Bulgáriában és Görögországban mértek.",
-    "content_hu": "• **A magyar keresetek az uniós átlag kevesebb mint felét érik el:** 2025-ben az EU teljes munkaidős, éves bruttó átlagkeresete 41 500 euró, a magyar érték pedig 20 100 euró volt.\n\n• **Magyarország a harmadik legalacsonyabb helyen áll:** Bulgáriában 16 200, Görögországban 18 800 euró volt az éves átlagkereset.\n\n• **Luxemburg vezeti a rangsort:** ott 85 600 euró volt az átlag, Dániában 73 500, Írországban pedig 64 400 euró.\n\n• **A magyar mutató egy év alatt gyorsabban nőtt az uniós átlagnál:** 2024-hez képest 8,6 százalékkal emelkedett, míg az EU-s átlag 4,3 százalékkal.\n\n• **Az adatok bruttó, nominális kereseteket mutatnak:** nem nettó bérekről van szó, és az értékeket nem korrigálták az inflációval.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_6999cd8d12",
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2161929382-agrargazdasag-agrarium-foldmuves-gep-mezogazdasag-novenytermesztes-751771.jpg",
@@ -2474,6 +2448,32 @@
     "lead_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
     "content_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_b433e650b6",
+    "fingerprint": "acc4c4c111e5c0516b6f295145e65655",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/o/l/dolgozo-worker-gyar-gyari-munkas-ipar-394176.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Drámai hírek érkezetek a magyarok fizetéséről: Európa szégyenpadján vagyunk",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/dramai-hirek-erkezetek-a-magyarok-fizeteserol-europa-szegyenpadjan-vagyunk-874736"
+      },
+      {
+        "source": "Femina",
+        "title": "Csak két EU-s országban keresnek rosszabbul a magyaroknál: meglepő, hol a legmagasabbak a fizetések",
+        "link": "https://femina.hu/terasz/eu-fizetesek-magyarorszag-atlagber-rangsor/"
+      }
+    ],
+    "published_at": 1793977200,
+    "title_hu": "A magyar átlagkereset az uniós szint kevesebb mint fele",
+    "lead_hu": "Az Eurostat 2025-ös adatai szerint a teljes munkaidőre korrigált éves bruttó átlagkereset Magyarországon 20 100 euró volt, az uniós átlag 48,4 százaléka. Ennél alacsonyabb értéket csak Bulgáriában és Görögországban mértek.",
+    "content_hu": "• **A magyar keresetek az uniós átlag kevesebb mint felét érik el:** 2025-ben az EU teljes munkaidős, éves bruttó átlagkeresete 41 500 euró, a magyar érték pedig 20 100 euró volt.\n\n• **Magyarország a harmadik legalacsonyabb helyen áll:** Bulgáriában 16 200, Görögországban 18 800 euró volt az éves átlagkereset.\n\n• **Luxemburg vezeti a rangsort:** ott 85 600 euró volt az átlag, Dániában 73 500, Írországban pedig 64 400 euró.\n\n• **A magyar mutató egy év alatt gyorsabban nőtt az uniós átlagnál:** 2024-hez képest 8,6 százalékkal emelkedett, míg az EU-s átlag 4,3 százalékkal.\n\n• **Az adatok bruttó, nominális kereseteket mutatnak:** nem nettó bérekről van szó, és az értékeket nem korrigálták az inflációval.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_38ab722d3b",
@@ -3112,6 +3112,25 @@
     "lead_hu": "Az AC Milan 2–0-ra kikapott hazai pályán a Ferencvárostól az Európa-ligában, a portugál vezetőedző pedig különösen az első félidő teljesítményét bírálta. Szerinte nem a rotáció vagy a technikai tudás, hanem a csapat mentális felkészületlensége okozta a kudarcot.",
     "content_hu": "• **A Milan edzője vállalhatatlannak tartotta a teljesítményt** – Úgy fogalmazott, hogy a játékosoknak felelősséggel kell viselniük a klub mezét, és az első félidőre nincs mentség.\n\n• **Mentális problémák okozták a vereséget** – A vezetőedző szerint nem a keret összeállítása vagy a technikai tudás volt a döntő, hanem az, hogy a csapat nem állt készen a mérkőzésre. Davide Bartesaghi és Koni De Winter is a hozzáállás, illetve a mentális állapot hiányosságait emelte ki.\n\n• **A Ferencváros százszázalékos maradt** – A 2–0-s győzelemmel a Fradi négy forduló után is hibátlan az Európa-ligában, míg a Milan három ponttal áll. A milánóiak edzője jelezte, hogy nem mondanak le a továbbjutásról.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_37177c48bc",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/ZCH7kmYxCR2ikvEDsvQe5JF1i_u_O3XgxsM5muf7lCM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhiOThlOWNiNTIzYTRlMDdhYTdjNTliZjllMDk4MDc5.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Ügynökakták, diáktüntetés és szélerőművek: ki dönt, és ki viseli a következményeket?",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokbotrany-nke-diaktuntetes-szeleromuvek"
+      }
+    ],
+    "published_at": 1793998810,
+    "title_hu": "Ügynökakták, diáktüntetés és szélerőművek: ki dönt, és ki viseli a következményeket?",
+    "lead_hu": "Három ügy, három kérdés: ki dönt, ki felel, ki fizet?...",
+    "content_hu": "Három ügy, három kérdés: ki dönt, ki felel, ki fizet?",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_88bd795b5f",
@@ -12770,7 +12789,7 @@
     "title_hu": "Németh Balázs újabb vagyonnyilatkozati eljárást kezdeményezett Forsthoffer Ágnessel szemben",
     "lead_hu": "Németh Balázs fideszes országgyűlési képviselő a mentelmi bizottságnál kezdeményezett eljárást Forsthoffer Ágnes házelnök vagyonnyilatkozata ügyében. Indoklása szerint abból kimaradt, hogy Forsthoffer 2026 márciusáig egy milliárdos forgalmú cég ügyvezetője volt.",
     "content_hu": "• **Újabb eljárás** Németh Balázs vagyonnyilatkozati eljárást kezdeményezett Forsthoffer Ágnessel szemben az Országgyűlés mentelmi bizottságánál.\n\n• **A kifogásolt adat** Németh szerint a házelnök korábban kiegészített vagyonnyilatkozatából is kimaradt, hogy Forsthoffer 2026 márciusáig egy milliárdos forgalmú cég ügyvezetője volt.\n\n• **Forsthoffer álláspontja** A házelnök korábban azt közölte, hogy részletesen kiegészítette nyitó vagyonnyilatkozatát, de ez szerinte nem változtatott a vagyoni helyzet eredeti bemutatásán.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_f55824a80f",
