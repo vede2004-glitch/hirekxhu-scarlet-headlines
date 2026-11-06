@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_e7521b3be4",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza-kormány: nem engedik ki Matolcsy Györgyöt, legalább 160 megfigyelt adatait hozták tévesen nyilvánosságra",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/tisza-kormany-nem-engedik-ki-matolcsy-gyorgyot-legalabb-160-megfigyelt-adatait-hoztak-tevesen-nyilvanossagra-874384",
-        "image": "https://pcdn.hu/articles/images-xl/d/_/m/d-mtz20261104007-867002.jpg",
-        "summary": "Helybenhagyta Matolcsy György és két további gyanúsított letartóztatását a Fővárosi Törvényszék: csütörtöki közleményük szerint többek között bizonyítékok eltüntetésének veszélye miatt döntöttek így. Közben egyre nagyobb politikai vitát vált ki az ügynökakták nyilvánosságra hozatala. A Levéltár bocsánatot kért, amiért Lezsák Sándor mellett legalább 160 megfigyelt neve kerülhetett tévesen a nyitottaktak.hu nyilvános adatbázisába, Bóka János emiatt az oldal felfüggesztését és Tarr Zoltán távozását követeli. Közben Vitézy Dávid bejelentette, hogy januártól Kállai Éva vezeti a HungaroControlt, és ismertette a kormány döntését egy gyömrői iskolaépítésről, valamint a 442-es főút fejlesztésének előkészítéséről.",
-        "category": "Politika",
-        "published_at": 1793910180
-      }
-    ]
-  },
-  {
     "group_id": "group_48c45de26b",
     "category": "Kultúra",
     "articles_count": 1,
@@ -32,44 +16,67 @@
     ]
   },
   {
-    "group_id": "group_b00c9562bc",
+    "group_id": "group_9697f58905",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "22 évig figyelte az univerzumot, de az elbukott mentőakció után végül lezuhant a NASA űrtávcsöve",
+        "link": "https://raketa.hu/nasa-swift-urtavcso-lezuhanas/",
+        "image": "https://raketa.hu/uploads/2026/11/nasaswift.jpg",
+        "summary": "Pont került egy meghatározó tudományos küldetés végére azzal, hogy a NASA Swift obszervatórium 22 év nagyszerű szolgálat után lezuhant, és a Föld légkörében nagyrészt elégett.",
+        "category": "Kultúra",
+        "published_at": 1793913804
+      }
+    ]
+  },
+  {
+    "group_id": "group_aad5a5a031",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Tizedszer lett Daróczi Csaba az Év Természetfotósa",
+        "link": "https://index.hu/nagykep/2026/11/05/az-ev-termeszetfotosa-fotopalyazat-termeszetfotozas-nemzeti-muzeum/",
+        "image": "https://kep.index.hu/1/0/7241/72416/724169/72416969_5336597_cb4c5e5e7d3f21491328f32925099493_wm.jpg",
+        "summary": "Kihirdették Az Év Természetfotósa 2026 pályázat győzteseit.",
+        "category": "Általános",
+        "published_at": 1793910660
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Tizedszer is Daróczi Csaba lett az év természetfotósa",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/tizedszer-is-daroczi-csaba-lett-az-ev-termeszetfotosa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/HRzMPmRzNrD77npV1T8mS15IPuEmwluNht63cuIlcVU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRmN2VkYWFhMWY4ZDRmM2U5OGQ1YjI4NTdkZTM5ODdl.jpg",
+        "summary": "A soltvadkerti fotográfus több kategóriában is dobogós helyezést ért el, ám saját bevallása szerint meglepte az eredmény.",
+        "category": "Politika",
+        "published_at": 1793969207
+      }
+    ]
+  },
+  {
+    "group_id": "group_9de0eb6799",
     "category": "Általános",
     "articles_count": 1,
     "articles": [
       {
         "source": "Index - Címlap",
-        "title": "Ahol az ananász terem, ott most nem túl édes az élet",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/05/ahol-az-ananasz-terem-ott-most-nem-tul-edes-az-elet/",
-        "image": "https://galeria.index.hu/kult/2026/11/03/ahol_az_ananasz_terem_ott_most_nem_tul_edes_az_elet/",
-        "summary": "",
+        "title": "Az FTC hőse őszinte vallomást tett a San Siro fantasztikus bevétele után",
+        "link": "https://index.hu/sport/futball/2026/11/05/ac-milan-ferencvaros-ertekelesek-europa-liga-2026-2027-alapszakasz-4.-fordulo-lenny-joseph/",
+        "image": "https://kep.index.hu/1/0/7243/72438/724387/72438789_5338133_d612df08bb03516482d26aa480f3bac7_wm.jpg",
+        "summary": "Két góljával Európában tovább menetel a zöld-fehér klub.",
         "category": "Általános",
-        "published_at": 1793910249
+        "published_at": 1793910660
       }
     ]
   },
   {
     "group_id": "group_dace4b91a1",
     "category": "Politika",
-    "articles_count": 10,
+    "articles_count": 8,
     "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Azonnali hatállyal kitiltották a fideszes Pócs Jánost a magyar parlamentből",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/azonnali-hatallyal-kitiltottak-a-fideszes-pocs-janost-a-magyar-parlamentbol-874586",
-        "image": "https://pcdn.hu/articles/images-xl/p/o/c/pocsjanos-867234.jpg",
-        "summary": "Három ülésnapra kitiltotta az Országgyűlésből Pócs Jánost, a Fidesz országgyűlési képviselőjét a parlamenti munka ismételt megzavarása és a képviselői kötelezettségek figyelmen kívül hagyása miatt – közölte Facebook-bejegyzésében Forsthoffer Ágnes házelnök.",
-        "category": "Politika",
-        "published_at": 1793910180
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "A fideszes Pócs Jánost azonnali hatállyal hosszabb időre kitiltották a magyar parlamentből",
-        "link": "https://www.portfolio.hu/gazdasag/20261105/a-fideszes-pocs-janost-azonnali-hatallyal-hosszabb-idore-kitiltottak-a-magyar-parlamentbol-874586",
-        "image": "https://pcdn.hu/articles/images-xl/p/o/c/pocsjanos-867234.jpg",
-        "summary": "Három ülésnapra kitiltotta az Országgyűlésből Pócs Jánost, a Fidesz országgyűlési képviselőjét a parlamenti munka ismételt megzavarása és a képviselői kötelezettségek figyelmen kívül hagyása miatt – közölte Facebook-bejegyzésében Forsthoffer Ágnes házelnök.",
-        "category": "Politika",
-        "published_at": 1793910180
-      },
       {
         "source": "Index - Címlap",
         "title": "Kitiltotta Pócs Jánost az Országgyűlésből Forsthoffer Ágnes",
@@ -141,97 +148,6 @@
         "summary": "Három napra tiltotta el a házelnök a Fidesz képviselőjét.",
         "category": "Politika",
         "published_at": 1793947272
-      }
-    ]
-  },
-  {
-    "group_id": "group_9697f58905",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "22 évig figyelte az univerzumot, de az elbukott mentőakció után végül lezuhant a NASA űrtávcsöve",
-        "link": "https://raketa.hu/nasa-swift-urtavcso-lezuhanas/",
-        "image": "https://raketa.hu/uploads/2026/11/nasaswift.jpg",
-        "summary": "Pont került egy meghatározó tudományos küldetés végére azzal, hogy a NASA Swift obszervatórium 22 év nagyszerű szolgálat után lezuhant, és a Föld légkörében nagyrészt elégett.",
-        "category": "Kultúra",
-        "published_at": 1793913804
-      }
-    ]
-  },
-  {
-    "group_id": "group_aad5a5a031",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Tizedszer lett Daróczi Csaba az Év Természetfotósa",
-        "link": "https://index.hu/nagykep/2026/11/05/az-ev-termeszetfotosa-fotopalyazat-termeszetfotozas-nemzeti-muzeum/",
-        "image": "https://kep.index.hu/1/0/7241/72416/724169/72416969_5336597_cb4c5e5e7d3f21491328f32925099493_wm.jpg",
-        "summary": "Kihirdették Az Év Természetfotósa 2026 pályázat győzteseit.",
-        "category": "Általános",
-        "published_at": 1793910660
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Tizedszer is Daróczi Csaba lett az év természetfotósa",
-        "link": "https://magyarnemzet.hu/kultura/2026/11/tizedszer-is-daroczi-csaba-lett-az-ev-termeszetfotosa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/HRzMPmRzNrD77npV1T8mS15IPuEmwluNht63cuIlcVU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRmN2VkYWFhMWY4ZDRmM2U5OGQ1YjI4NTdkZTM5ODdl.jpg",
-        "summary": "A soltvadkerti fotográfus több kategóriában is dobogós helyezést ért el, ám saját bevallása szerint meglepte az eredmény.",
-        "category": "Politika",
-        "published_at": 1793969207
-      }
-    ]
-  },
-  {
-    "group_id": "group_9de0eb6799",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Az FTC hőse őszinte vallomást tett a San Siro fantasztikus bevétele után",
-        "link": "https://index.hu/sport/futball/2026/11/05/ac-milan-ferencvaros-ertekelesek-europa-liga-2026-2027-alapszakasz-4.-fordulo-lenny-joseph/",
-        "image": "https://kep.index.hu/1/0/7243/72438/724387/72438789_5338133_d612df08bb03516482d26aa480f3bac7_wm.jpg",
-        "summary": "Két góljával Európában tovább menetel a zöld-fehér klub.",
-        "category": "Általános",
-        "published_at": 1793910660
-      }
-    ]
-  },
-  {
-    "group_id": "group_49259c0896",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Kalifornia kormányzója 548 halálbüntetést törölt el egy egyetlen döntéssel",
-        "link": "https://444.hu/2026/11/05/kalifornia-kormanyzoja-548-halalbuntetest-torolt-el-egy-egyetlen-dontessel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "„Azért teszem ezt a lépést, mert szilárdan hiszem, hogy az állam által jóváhagyott gyilkosságok összeegyeztethetetlenek Kalifornia értékeivel”, indokolta döntését Gavin Newsom.",
-        "category": "Politika",
-        "published_at": 1793910425
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Kegyelmet adott a halálsoron mindenkinek a leköszönő kaliforniai kormányzó",
-        "link": "https://hvg.hu/vilag/20261105_kalifornia-usa-kormanyzo-newsom-kegyelem-halalraiteltek",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1e3945df-5630-47bd-afa8-6716e32940e9.jpg",
-        "summary": "Gavin Newsom 548 halálra ítéltnek adott kegyelmet.",
-        "category": "Általános",
-        "published_at": 1793913964
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Egy tollvonással eltörölték Kalifornia összes halálos ítéletét",
-        "link": "https://24.hu/kulfold/2026/11/06/kalifornia-halalra-iteltek-eletfogytiglan/",
-        "image": "https://s.24.hu/app/uploads/2026/11/063_2302639140-e1793944548723-1024x577.jpg",
-        "summary": "Az állam mind az 548 halálraítéltjének büntetését tényleges életfogytiglani szabadságvesztésre változtatták. The post Egy tollvonással eltörölték Kalifornia összes halálos ítéletét first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1793944739
       }
     ]
   },
@@ -437,6 +353,31 @@
         "summary": "Sótonyi László egy Montenegró elleni sikeres Eb-selejtezővel mutatkozott be a férfiválogatott élén. The post Egygólos sikerrel is megelégedett volna az új kézikapitány, 11 gólos diadal lett a vége first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1793913697
+      }
+    ]
+  },
+  {
+    "group_id": "group_49259c0896",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "HVG - Világ",
+        "title": "Kegyelmet adott a halálsoron mindenkinek a leköszönő kaliforniai kormányzó",
+        "link": "https://hvg.hu/vilag/20261105_kalifornia-usa-kormanyzo-newsom-kegyelem-halalraiteltek",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1e3945df-5630-47bd-afa8-6716e32940e9.jpg",
+        "summary": "Gavin Newsom 548 halálra ítéltnek adott kegyelmet.",
+        "category": "Általános",
+        "published_at": 1793913964
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Egy tollvonással eltörölték Kalifornia összes halálos ítéletét",
+        "link": "https://24.hu/kulfold/2026/11/06/kalifornia-halalra-iteltek-eletfogytiglan/",
+        "image": "https://s.24.hu/app/uploads/2026/11/063_2302639140-e1793944548723-1024x577.jpg",
+        "summary": "Az állam mind az 548 halálraítéltjének büntetését tényleges életfogytiglani szabadságvesztésre változtatták. The post Egy tollvonással eltörölték Kalifornia összes halálos ítéletét first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1793944739
       }
     ]
   },
@@ -7770,7 +7711,7 @@
         "image": "",
         "summary": "A Európai Néppárt EP-frakciója a Magyarországgal szemben folyó, úgynevezett 7. cikk szerinti uniós eljárás lezárását sürgeti.",
         "category": "Politika",
-        "published_at": 1793923200
+        "published_at": 1793984880
       }
     ]
   },
@@ -9975,7 +9916,7 @@
         "image": "",
         "summary": "Volodimir Zelenszkij ukrán elnök a kijevi városvezetést teszi felelőssé azért, hogy az ukrajnai régiók közül a fővárosban a legrosszabb az energiaellátási helyzet, írja az Ukrajinszka Pravda.",
         "category": "Politika",
-        "published_at": 1793923200
+        "published_at": 1793986560
       }
     ]
   },
@@ -11823,6 +11764,102 @@
         "summary": "Két leállás is jön a hétvégén, közölte a részleteket az MVM.",
         "category": "Általános",
         "published_at": 1793996460
+      }
+    ]
+  },
+  {
+    "group_id": "group_f66dbbb392",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A Netflix megrendelte a Stranger Things előzménysorozatát",
+        "link": "https://telex.hu/after/2026/11/06/stranger-things-other-worlds-elozmeny-netflix",
+        "image": "https://assets.telex.hu/images/20261106/1793996471-temp-dmnmi0kncifqeggkeko_cimlap-normal.jpg",
+        "summary": "Még nem sokat tudni róla, csak azt, hogy mikor és hol játszódik.",
+        "category": "Politika",
+        "published_at": 1793996601
+      }
+    ]
+  },
+  {
+    "group_id": "group_a56f1e9733",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Először lehet női államfője Németországnak",
+        "link": "https://telex.hu/kulfold/2026/11/06/ilse-aigner-nemetorszag-elnok-allamfo-cdu-csu-megallapodas-merz",
+        "image": "https://assets.telex.hu/images/20261106/1793994267-temp-vh4d1t99ij59bgaoeip_cimlap-normal.jpg",
+        "summary": "A CDU és a CSU a hírek szerint megegyezett Ilse Aigner személyében.",
+        "category": "Politika",
+        "published_at": 1793995439
+      }
+    ]
+  },
+  {
+    "group_id": "group_010799605a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Matteo Salvini: „Öröm volt fogadni a barátomat”",
+        "link": "https://www.vadhajtasok.hu/2026/11/06/matteo-salvini-orom-volt-fogadni-a-baratomat",
+        "image": "",
+        "summary": "Nemcsak az európai politikáról, hanem a gazdasági helyzetről és a kontinens jövőjéről is egyeztetett a Fidesz elnöke és Matteo Salvini Milánóban. Az olasz miniszterelnök-helyettes a találkozó után részletesen beszámolt a megbeszélés témáiról, és egyértelművé tette, hogy továbbra is szoros együttműködésre készül Orbán Viktorral.",
+        "category": "Politika",
+        "published_at": 1793923200
+      }
+    ]
+  },
+  {
+    "group_id": "group_559fa9377b",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Rutte: Ukrajna valószínűleg nem szerzi vissza az összes elveszített területét, a háború pedig kompromisszummal érhet véget",
+        "link": "https://www.vadhajtasok.hu/2026/11/06/rutte-ukrajna-valoszinuleg-nem-szerzi-vissza-az-osszes-elveszitett-teruletet-a-haboru-pedig-kompromisszummal-erhet-veget",
+        "image": "",
+        "summary": "Arra a kérdésre, hogy a háborúban bármelyik fél arathat-e teljes győzelmet, a NATO főtitkára nemmel válaszolt.",
+        "category": "Politika",
+        "published_at": 1793923200
+      }
+    ]
+  },
+  {
+    "group_id": "group_bb5b650e92",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "A Covid-pofontól szédelegnek még mindig Németország vásárlói, a magyarok bezzeg már nem, de mi lesz a jövő?",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/covid-fogyasztas-nemet-magyar-kiskereskedelem?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/K_DOZyppfbWrRQuWdinQ6I8GzXLNQmo9rx8EpSqcy4U/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgxMjc5NWY4ZjlhZTQzMzRhN2VhOTQ4ZGUzMjMzYjE1.jpg",
+        "summary": "A magyar gyógyulás javát az Orbán-kormány utolsó éve hozta.",
+        "category": "Politika",
+        "published_at": 1793996771
+      }
+    ]
+  },
+  {
+    "group_id": "group_96a17d2cc2",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Kimondták: rá akarják kötni a magyar autópályára Ukrajnát, a Tisza-kormány több millió dolláros üzleti tárgyalásokba kezdett – Kárpátalja lehet a nyertes",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/karpatalja-export-magyarorszag-beruhazas-kereskedelem?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/PQvYHEANJ-KexDCauptfPrdNrl1pHRfD5VQrfLNoS7Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzcwNzMxMDMxMjllYjQzYjNiYjJkZWRmZGViYzUzZDVi.jpg",
+        "summary": "A kétoldalú tárgyalásokon új határátkelők, közlekedési beruházások és további gazdasági együttműködések lehetősége is szóba került.",
+        "category": "Politika",
+        "published_at": 1793996302
       }
     ]
   }
