@@ -2554,7 +2554,7 @@
     "title_hu": "Csökkent a szegénységi kockázat, de a romák és a nagycsaládosok helyzete romlott",
     "lead_hu": "A KSH adatai szerint 2025-ben 1 millió 708 ezer embert, a lakosság 18,3 százalékát fenyegette a szegénység vagy a társadalmi kirekesztődés. Bár ez egy év alatt 119 ezer fős csökkenést jelent, a romák és a három vagy több gyermeket nevelő családok körében nőtt a kockázat.",
     "content_hu": "• **Évtizedes mélypontra csökkent az összesített mutató:** 2025-ben a lakosság 18,3 százaléka volt kitéve a szegénység vagy társadalmi kirekesztődés kockázatának, szemben az előző évi 19,5 százalékkal.\n\n• **A javulást főként a nélkülözés mérséklődése magyarázza:** a súlyos anyagi és szociális deprivációban élők aránya 8,5-ről 6,8 százalékra csökkent. A relatív jövedelmi szegénység lényegében stagnált, 14,0-ről 14,2 százalékra változott.\n\n• **A romák körében romlott a helyzet:** a szegénység vagy kirekesztődés kockázata 64,5-ről 71,1 százalékra emelkedett, így tízből több mint hét roma érintett.\n\n• **A nagycsaládosok kockázata is nőtt:** a két felnőttből és legalább három gyermekből álló háztartásokban 26,9-ről 32,3 százalékra emelkedett az érintettek aránya. Az egyszülős háztartásokban továbbra is magas, 34,1 százalékos a mutató.\n\n• **Nőttek a jövedelmi különbségek:** a leggazdagabb ötöd jövedelme a legszegényebb ötödének 4,9-szerese volt, ami a közölt adatok szerint eddig nem látott szint. A szegénységi küszöb alatt 1 millió 324 ezren éltek.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_7b29484fd0",
@@ -2658,6 +2658,30 @@
     "title_hu": "A Windows 11-et 8 GB memóriás gépekre optimalizálja a Microsoft",
     "lead_hu": "A Microsoft a Windows 11, az Edge és a Microsoft 365 memóriahasználatának javításával igyekszik használhatóbbá tenni a kevesebb memóriával szerelt gépeket. A vállalat tömörítéssel és a felhasználói igények előrejelzésével csökkentené a RAM terhelését.",
     "content_hu": "• **A memória hatékonyabb kihasználása** A Microsoft a Windows 11-et, az Edge-et és a Microsoft 365-öt is úgy optimalizálná, hogy a meglévő memóriakeretekből többet hozzon ki.\n\n• **Tömörítés és előrejelzés** A rendszer a használaton kívüli elemeket – például az Edge egyes lapjait – eltávolíthatja a RAM-ból, majd szükség esetén visszatöltheti őket. Emellett megpróbálja előre jelezni, mely alkalmazásokra és funkciókra lesz szükség.\n\n• **Belső teszt eredménye** A Microsoft beszámolója szerint egy több alkalmazást és 20 Edge-lapot megnyitó teszt 40 százalékkal gyorsabban zajlott le, mint a 2026. januári verzióban. A közlés nem részletezi a teszt pontos időtartamát, illetve azt, hogy közben előfordultak-e akadozások.\n\n• **Nem csak a Microsofton múlik** A vállalat fejlesztései önmagukban nem feltétlenül oldják meg a 8 GB-os gépek problémáját, mivel más programok is sok memóriát igényelhetnek vagy lelassulhatnak ilyen környezetben.",
+    "importance_score": 20.0
+  },
+  {
+    "group_id": "group_4727a49bd6",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261105/1793881815-temp-c37r6ijtrgbg3eoedfg_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Más országokban inkább fogynak a munkaszüneti napok, de kérdés, hogy mire mennek vele",
+        "link": "https://telex.hu/g7/adat/2026/11/05/munkaszuneti-nap-december-24-karacsony-koltsegvetes"
+      },
+      {
+        "source": "ATV",
+        "title": "Váratlan problémát okozhat a december 24-i munkaszüneti nap – módosításokra lehet szükség",
+        "link": "https://www.atv.hu/belfold/20261106/december-24-munkaszunet-nap/"
+      }
+    ],
+    "published_at": 1793885279,
+    "title_hu": "Más országokban inkább fogynak a munkaszüneti napok, de kérdés, hogy mire mennek vele",
+    "lead_hu": "December 24. is munkaszüneti nap lesz, így már évi 12-vel számolhatunk. Más uniós országokban viszont a költségvetésre vagy a gazdasági helyzetre hivatkozva csökkentik a piros betűs ünnepek számát.",
+    "content_hu": "December 24. is munkaszüneti nap lesz, így már évi 12-vel számolhatunk. Más uniós országokban viszont a költségvetésre vagy a gazdasági helyzetre hivatkozva csökkentik a piros betűs ünnepek számát.",
     "importance_score": 20.0
   },
   {
@@ -6744,25 +6768,6 @@
     "title_hu": "13 év után visszakerülhet a Parlament elé Lugossy Mária hányattatott sorsú emlékműve, a Forradalom lángja",
     "lead_hu": "A Kossuth térről kipaterolt, majd egy kutyafuttató mellé száműzött emlékmű egy petíció nyomán jövő októberben visszatérhet eredeti helyére.",
     "content_hu": "A Kossuth térről kipaterolt, majd egy kutyafuttató mellé száműzött emlékmű egy petíció nyomán jövő októberben visszatérhet eredeti helyére.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4727a49bd6",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793881815-temp-c37r6ijtrgbg3eoedfg_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Más országokban inkább fogynak a munkaszüneti napok, de kérdés, hogy mire mennek vele",
-        "link": "https://telex.hu/g7/adat/2026/11/05/munkaszuneti-nap-december-24-karacsony-koltsegvetes"
-      }
-    ],
-    "published_at": 1793885279,
-    "title_hu": "Más országokban inkább fogynak a munkaszüneti napok, de kérdés, hogy mire mennek vele",
-    "lead_hu": "December 24. is munkaszüneti nap lesz, így már évi 12-vel számolhatunk. Más uniós országokban viszont a költségvetésre vagy a gazdasági helyzetre hivatkozva csökkentik a piros betűs ünnepek számát.",
-    "content_hu": "December 24. is munkaszüneti nap lesz, így már évi 12-vel számolhatunk. Más uniós országokban viszont a költségvetésre vagy a gazdasági helyzetre hivatkozva csökkentik a piros betűs ünnepek számát.",
     "importance_score": 0.0
   },
   {
@@ -12786,63 +12791,6 @@
     "title_hu": "Videón az őrjöngés: puszta kézzel ütötte szét a buszmegállót egy hajdú-bihari férfi",
     "lead_hu": "A Hajdú-Bihar megyei rendőrség most közölte az esetről készült felvételt.",
     "content_hu": "A Hajdú-Bihar megyei rendőrség most közölte az esetről készült felvételt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_fd1b1591c6",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303540032-e1793832565455-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Nico Paz arra a csatárra emlékezett BL-góljánál, aki belehalt abba, hogy a kapussal ütközött",
-        "link": "https://24.hu/sport/foci/2026/11/05/bajnokok-ligaja-lens-como-nico-paz-golorom-jesus-de-miguel/"
-      }
-    ],
-    "published_at": 1793846039,
-    "title_hu": "Nico Paz arra a csatárra emlékezett BL-góljánál, aki belehalt abba, hogy a kapussal ütközött",
-    "lead_hu": "Megható pillanat volt a Bajnokok Ligájában. The post Nico Paz arra a csatárra emlékezett BL-góljánál, aki belehalt abba, hogy a kapussal ütközött first appeared on 24.hu.",
-    "content_hu": "Megható pillanat volt a Bajnokok Ligájában. The post Nico Paz arra a csatárra emlékezett BL-góljánál, aki belehalt abba, hogy a kapussal ütközött first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_017b262dfb",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Hankó Balázs ügyvédje felháborodott a fodrászügy miatt: szerinte az ügyészség túllépte a törvényes kereteket",
-        "link": "https://nlc.hu/sztarok/20261105/hanko-balazs-ugyved-fodrasz/n40pnym"
-      }
-    ],
-    "published_at": 1793845980,
-    "title_hu": "Hankó Balázs ügyvédje felháborodott a fodrászügy miatt: szerinte az ügyészség túllépte a törvényes kereteket",
-    "lead_hu": "Hankó Balázs védőügyvédje szerint az ügyészség jogszerűtlenül hozta nyilvánosságra a volt miniszter fodrászra és lelkészre vonatkozó kérelmeit. The post Hankó Balázs ügyvédje felháborodott a fodrászüg…",
-    "content_hu": "Hankó Balázs védőügyvédje szerint az ügyészség jogszerűtlenül hozta nyilvánosságra a volt miniszter fodrászra és lelkészre vonatkozó kérelmeit. The post Hankó Balázs ügyvédje felháborodott a fodrászügy miatt: szerinte az ügyészség túllépte a törvényes kereteket first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_75c2377622",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Ingyen osztogatják ezeket pénteken egész Magyarországon: itt lehet átvenni, teljes a lista",
-        "link": "https://www.atv.hu/belfold/20261105/ingyen-eszkoz-magyarorszag/"
-      }
-    ],
-    "published_at": 1793845980,
-    "title_hu": "Ingyen osztogatják ezeket pénteken egész Magyarországon: itt lehet átvenni, teljes a lista",
-    "lead_hu": "Ingyenes eszközöket biztosítanak, országszerte összesen 21 helyszínen várják az érdeklődőket.",
-    "content_hu": "Ingyenes eszközöket biztosítanak, országszerte összesen 21 helyszínen várják az érdeklődőket.",
     "importance_score": 0.0
   },
   {
