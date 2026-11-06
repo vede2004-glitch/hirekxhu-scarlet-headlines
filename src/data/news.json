@@ -1325,32 +1325,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_1cfa6314cd",
-    "fingerprint": "6cbac9b9333dc8fb1c28398c46d9bba4",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261106/1793992141-temp-5rudrmhcm2mh7bjahba_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Meghalt Jay Rockefeller, a családja utolsó politikusa",
-        "link": "https://telex.hu/kulfold/2026/11/06/meghalt-jay-rockefeller-dinasztia-kormanyzo-nyugat-virginia"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Meghalt Jay Rockefeller, a milliárdos dinasztia örököse, aki a szegényekért harcolt Amerikában",
-        "link": "https://index.hu/kulfold/2026/11/06/jay-rockefeller-szenator-meghalt-amerikai-dinasztia-orokos/"
-      }
-    ],
-    "published_at": 1793995740,
-    "title_hu": "Meghalt Jay Rockefeller volt amerikai szenátor",
-    "lead_hu": "Nyolcvankilenc éves korában elhunyt Jay Rockefeller, Nyugat-Virginia korábbi kormányzója és hosszú ideig hivatalban lévő demokrata szenátora. Politikai munkájában kiemelt figyelmet fordított a szegénység visszaszorítására és a gyermekek egészségügyi ellátására.",
-    "content_hu": "• **89 éves korában hunyt el** Jay Rockefeller pénteken, washingtoni otthonában; halálhírét a családjára hivatkozva közölték az amerikai médiumok.\n\n• **Három évtizeden át képviselte Nyugat-Virginiát** az amerikai szenátusban, 1985 és 2015 között. Ezt megelőzően, 1977 és 1985 között az állam kormányzója volt.\n\n• **A szegénységben élők támogatását tekintette fő ügyének.** Szenátorként részt vett egy olyan gyermek-egészségbiztosítási program megvalósításában, amely szerény jövedelmű családok gyermekeinek milliói számára segített hozzáférni az egészségügyi ellátáshoz.",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_003e23e079",
     "fingerprint": "865dc58531a1c9e70b634a2f5d351268",
     "category": "Politika",
@@ -1581,6 +1555,32 @@
     "lead_hu": "A szerb választási bizottság hivatalosan is elfogadta az október 25-i előrehozott parlamenti választás végeredményét. Az Egyetemista Lista 140 mandátumot szerzett, így önállóan is megalakíthatja az új kormányt.",
     "content_hu": "• **A végeredmény** Az Egyetemista Lista 140, az Aleksandar Vučić nevével fémjelzett Egyesült Szerbia lista pedig 103 mandátumot szerzett a 250 fős parlamentben.\n\n• **A kisebbségi képviselet** A fennmaradó hét helyen öt kisebbségi lista osztozik: a Vajdasági Magyar Szövetség és az Albán Koalíció két-két mandátumot kapott, három bosnyák lista pedig egy-egy képviselőt küldhet a törvényhozásba.\n\n• **A részvétel** A választásra jogosultak 68,9 százaléka, 4 444 310 ember szavazott. Az eredményt azután véglegesítették, hogy november 1-jén 53 szavazóhelyen megismételték a voksolást.\n\n• **A következő határidők** A mandátumokat tíz napon belül kell kiosztani, az új parlament alakuló ülését pedig legkésőbb harminc napon belül kell megtartani. A kormány megválasztására a parlament megalakulásától számítva kilencven nap áll rendelkezésre.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_1cfa6314cd",
+    "fingerprint": "6cbac9b9333dc8fb1c28398c46d9bba4",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261106/1793992141-temp-5rudrmhcm2mh7bjahba_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Meghalt Jay Rockefeller, a családja utolsó politikusa",
+        "link": "https://telex.hu/kulfold/2026/11/06/meghalt-jay-rockefeller-dinasztia-kormanyzo-nyugat-virginia"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Meghalt Jay Rockefeller, a milliárdos dinasztia örököse, aki a szegényekért harcolt Amerikában",
+        "link": "https://index.hu/kulfold/2026/11/06/jay-rockefeller-szenator-meghalt-amerikai-dinasztia-orokos/"
+      }
+    ],
+    "published_at": 1793995740,
+    "title_hu": "Meghalt Jay Rockefeller volt amerikai szenátor",
+    "lead_hu": "Nyolcvankilenc éves korában elhunyt Jay Rockefeller, Nyugat-Virginia korábbi kormányzója és hosszú ideig hivatalban lévő demokrata szenátora. Politikai munkájában kiemelt figyelmet fordított a szegénység visszaszorítására és a gyermekek egészségügyi ellátására.",
+    "content_hu": "• **89 éves korában hunyt el** Jay Rockefeller pénteken, washingtoni otthonában; halálhírét a családjára hivatkozva közölték az amerikai médiumok.\n\n• **Három évtizeden át képviselte Nyugat-Virginiát** az amerikai szenátusban, 1985 és 2015 között. Ezt megelőzően, 1977 és 1985 között az állam kormányzója volt.\n\n• **A szegénységben élők támogatását tekintette fő ügyének.** Szenátorként részt vett egy olyan gyermek-egészségbiztosítási program megvalósításában, amely szerény jövedelmű családok gyermekeinek milliói számára segített hozzáférni az egészségügyi ellátáshoz.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_1020830952",
@@ -3022,6 +3022,25 @@
     "lead_hu": "Az AC Milan 2–0-ra kikapott hazai pályán a Ferencvárostól az Európa-ligában, a portugál vezetőedző pedig különösen az első félidő teljesítményét bírálta. Szerinte nem a rotáció vagy a technikai tudás, hanem a csapat mentális felkészületlensége okozta a kudarcot.",
     "content_hu": "• **A Milan edzője vállalhatatlannak tartotta a teljesítményt** – Úgy fogalmazott, hogy a játékosoknak felelősséggel kell viselniük a klub mezét, és az első félidőre nincs mentség.\n\n• **Mentális problémák okozták a vereséget** – A vezetőedző szerint nem a keret összeállítása vagy a technikai tudás volt a döntő, hanem az, hogy a csapat nem állt készen a mérkőzésre. Davide Bartesaghi és Koni De Winter is a hozzáállás, illetve a mentális állapot hiányosságait emelte ki.\n\n• **A Ferencváros százszázalékos maradt** – A 2–0-s győzelemmel a Fradi négy forduló után is hibátlan az Európa-ligában, míg a Milan három ponttal áll. A milánóiak edzője jelezte, hogy nem mondanak le a továbbjutásról.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_e22eaadd2e",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Napi horoszkóp 2026. 11. 07.: esélyt kapnak a csillagjegyek a kapcsolatok harmonizálására",
+        "link": "https://nlc.hu/horoszkop/20261107/napi-horoszkop-2026-11-07/hpp2vpn"
+      }
+    ],
+    "published_at": 1794006000,
+    "title_hu": "Napi horoszkóp 2026. 11. 07.: esélyt kapnak a csillagjegyek a kapcsolatok harmonizálására",
+    "lead_hu": "Ma minden jegy más módon találhat rá a saját ritmusára, de a lényeg, hogy extra esélyt kapunk a helyzetek kiegyensúlyozására és a kapcsolatok harmonizálására. The post Napi horoszkóp 2026. 11. 07.: es...",
+    "content_hu": "Ma minden jegy más módon találhat rá a saját ritmusára, de a lényeg, hogy extra esélyt kapunk a helyzetek kiegyensúlyozására és a kapcsolatok harmonizálására. The post Napi horoszkóp 2026. 11. 07.: esélyt kapnak a csillagjegyek a kapcsolatok harmonizálására first appeared on nlc.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_3c50a9d7b8",
