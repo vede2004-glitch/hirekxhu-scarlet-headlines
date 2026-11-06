@@ -1889,32 +1889,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_73bd797790",
-    "fingerprint": "55448955b5f8a881ca91710e8a24a25f",
-    "category": "Sport",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Milánóban nyert a Ferencváros",
-        "link": "https://444.hu/2026/11/05/milanoban-nyert-a-ferencvaros?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Lefocizta a Ferencváros a Milant az Európa-ligában, 2-0-ra győzött",
-        "link": "https://telex.hu/sport/2026/11/05/milan-ferencvaros-europa-liga"
-      }
-    ],
-    "published_at": 1793908174,
-    "title_hu": "A Ferencváros 2–0-ra győzött az AC Milan otthonában",
-    "lead_hu": "A Ferencváros 2–0-ra nyert az AC Milan vendégeként az Európa-liga alapszakaszának negyedik fordulójában. Lenny Joseph két góljával döntötte el a mérkőzést, az FTC pedig emberhátrányban fejezte be a találkozót.",
-    "content_hu": "• **Győzelem Milánóban** A Ferencváros 2–0-ra verte az AC Milant az Európa-liga alapszakaszának negyedik fordulójában.\n\n• **Joseph duplázott** Lenny Joseph a második félidő elején, majd a 66. percben talált be; második gólját egy gyors ellentámadás végén szerezte.\n\n• **Kiállítás a hajrában** Az FTC a 77. perctől emberhátrányban játszott, miután a Joseph helyére beálló Bamidele Yusufot kiállították.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_cba6dc8eda",
     "category": "Gazdaság",
     "image": "https://s.24.hu/app/uploads/2026/11/central-0864262015-1024x576.jpg",
@@ -1962,7 +1936,7 @@
     "title_hu": "Új iskola épül közel 11 milliárd forintból Gyömrőn",
     "lead_hu": "A kormány közel 11 milliárd forintot fordít a gyömrői Fekete István Általános Iskola új épületének megépítésére. A leromlott állapotú régi épületből kiköltöztetett diákok jelenleg ideiglenes konténeriskolában tanulnak.",
     "content_hu": "• **Közel 11 milliárd forintból épül új iskola** a gyömrői Fekete István Általános Iskolának; a kormány döntését a miniszterelnök jelentette be.\n\n• **A diákok ideiglenes konténeriskolában tanulnak**, miután a régi épületek állapota annyira leromlott, hogy ki kellett üríteni az intézményt.\n\n• **A tervek szerint 24 tantermes, korszerű épület készül**, mintegy 6500 négyzetméteren, tornateremmel és szaktanteremmel. A beruházás részeként utak, járdák, parkolók és közművek is épülnek.\n\n• **A fejlesztés 2026 és 2028 között valósulhat meg**; a Magyar Közlönyben megjelent kormányhatározat több mint 10,5 milliárd forintot irányoz elő rá.",
-    "importance_score": 28.0
+    "importance_score": 25.0
   },
   {
     "group_id": "group_0aafad4848",
@@ -2245,6 +2219,32 @@
     "lead_hu": "Gadi Ejzenkot, az Egyenesen (Jasár) párt vezetője a várakozások szerint több képviselő támogatását szerezheti meg a kormányalakítási megbízáshoz, mint Benjamin Netanjahu. Jichák Hercog államfő a pártvezetőkkel folytatott egyeztetések alapján dönt arról, kit bíz meg a kormány létrehozásával.",
     "content_hu": "• **Ejzenkot előnyben van az ajánlásoknál:** Várhatóan legalább 56 képviselő támogatja őt, míg Netanjahu mögött 53 ajánlás áll.\n\n• **Legfeljebb 42 napja lehet a kormányalakításra:** Ha Hercog Ejzenkotot bízza meg, ennyi idő áll rendelkezésére egy új koalíció létrehozására.\n\n• **A mandátumok száma önmagában nem döntő:** Bár Netanjahu Likudja szerezte a legtöbb mandátumot, az államfő annak a képviselőnek adja a megbízást, akinek a legnagyobb esélyt látja a kormányalakításra.\n\n• **Megosztottak a pártok:** Több párt Ejzenkotot, mások Netanjahut támogatják; egyes képviselők még nem döntöttek, vagy nem neveztek meg jelöltet.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_73bd797790",
+    "fingerprint": "55448955b5f8a881ca91710e8a24a25f",
+    "category": "Sport",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Milánóban nyert a Ferencváros",
+        "link": "https://444.hu/2026/11/05/milanoban-nyert-a-ferencvaros?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Lefocizta a Ferencváros a Milant az Európa-ligában, 2-0-ra győzött",
+        "link": "https://telex.hu/sport/2026/11/05/milan-ferencvaros-europa-liga"
+      }
+    ],
+    "published_at": 1793908174,
+    "title_hu": "A Ferencváros 2–0-ra győzött az AC Milan otthonában",
+    "lead_hu": "A Ferencváros 2–0-ra nyert az AC Milan vendégeként az Európa-liga alapszakaszának negyedik fordulójában. Lenny Joseph két góljával döntötte el a mérkőzést, az FTC pedig emberhátrányban fejezte be a találkozót.",
+    "content_hu": "• **Győzelem Milánóban** A Ferencváros 2–0-ra verte az AC Milant az Európa-liga alapszakaszának negyedik fordulójában.\n\n• **Joseph duplázott** Lenny Joseph a második félidő elején, majd a 66. percben talált be; második gólját egy gyors ellentámadás végén szerezte.\n\n• **Kiállítás a hajrában** Az FTC a 77. perctől emberhátrányban játszott, miután a Joseph helyére beálló Bamidele Yusufot kiállították.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_aa1f812207",
