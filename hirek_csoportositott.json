@@ -41,65 +41,6 @@
     ]
   },
   {
-    "group_id": "group_0de5a2b5c3",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megszólalt az elnök: más arcát mutatná a NAV, miközben már a vagyonadóra készül",
-        "link": "https://index.hu/gazdasag/2026/11/05/nav-adohivatal-adozas-r.-sadt-monika-vagyonado-adozas-adopolitika-kata-adobevallas/",
-        "image": "https://kep.index.hu/1/0/6003/60033/600333/60033387_4439923_5302ff55c7660df291669f2da189f45a_wm.jpg",
-        "summary": "A hibázó adózóknak is üzent az adóhatóság új elnöke.",
-        "category": "Általános",
-        "published_at": 1793902320
-      }
-    ]
-  },
-  {
-    "group_id": "group_50386839a2",
-    "category": "Politika",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Magyarország senkitől nem kap majd az oroszokénál jobb ajánlatot az orosz külügyminiszter-helyettes szerint",
-        "link": "https://444.hu/2026/11/05/magyarorszag-senkitol-nem-kap-majd-az-oroszokenal-jobb-ajanlatot-az-orosz-kulugyminiszter-helyettes-szerint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Szerinte az európai országok lábon lövik magukat, ha lemondanak az orosz energiahordozókat.",
-        "category": "Politika",
-        "published_at": 1793902127
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Oroszország figyelmeztette Magyarországot: az övéknél jobb ajánlatot biztosan nem fogunk kapni",
-        "link": "https://index.hu/kulfold/2026/11/05/oroszorszag-europa-energiahordozo-dmitrij-ljubinszkij-magyarorszag/",
-        "image": "",
-        "summary": "Dmitrij Ljubinszkij szerint súlyos következményei lennének, ha az európai országok leállítanák az orosz energiahordozók importját.",
-        "category": "Általános",
-        "published_at": 1793904840
-      },
-      {
-        "source": "ATV",
-        "title": "Kemény üzenet érkezett Moszkvából: súlyos árat fizethetünk, ha leválunk az orosz gázról",
-        "link": "https://www.atv.hu/belfold/20261105/orosz-gaz-levalas-moszkva-valasz/",
-        "image": "",
-        "summary": "Súlyos gazdasági válságra és drágulásra figyelmeztet Oroszország, mivel a magyar kormány felgyorsítaná az elszakadást a keleti energiahordozóktól. Moszkva szerint az európai államok, köztük Magyarország is, saját maguk alatt vágják a fát, ha végleg feladják az orosz gázimportot. A céldátum szerint 2027 őszére teljesen kivezetné a kormány a hazai piacról az orosz gázt.",
-        "category": "Politika",
-        "published_at": 1793910060
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Oroszország figyelmeztette Magyarországot: Okosan a gázzal",
-        "link": "https://www.vadhajtasok.hu/2026/11/05/oroszorszag-figyelmeztette-magyarorszagot-okosan-a-gazzal",
-        "image": "",
-        "summary": "Az orosz külügyminiszter-helyettes szerint súlyos gazdasági következményei lennének, ha az európai országok teljesen leállítanák az orosz energiahordozók importját. Dmitrij Ljubinszkij úgy véli, Magyarország nem találna kedvezőbb ajánlatot a...",
-        "category": "Politika",
-        "published_at": 1793909820
-      }
-    ]
-  },
-  {
     "group_id": "group_5e1fc0a254",
     "category": "Politika",
     "articles_count": 1,
@@ -327,7 +268,7 @@
   {
     "group_id": "group_cc65bf29fb",
     "category": "Politika",
-    "articles_count": 6,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -346,15 +287,6 @@
         "summary": "Erről már pár nappal Matolcsy letartóztatása után döntött a képviselő testület.",
         "category": "Politika",
         "published_at": 1793903793
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Matolcsy György már nem Kozármisleny díszpolgára, visszavonták a címét",
-        "link": "https://telex.hu/belfold/2026/11/05/kozarmisleny-onkormanyzat-diszpolgari-cim-visszavonas-matolcsy-gyorgy",
-        "image": "https://assets.telex.hu/images/20261105/1793902028-temp-8949cccoj2ubfdfkgep_cimlap-normal.jpg",
-        "summary": "A képviselő-testület erről október 27-i ülésén szavazott.",
-        "category": "Politika",
-        "published_at": 1793902302
       },
       {
         "source": "Portfolio - Gazdaság",
@@ -478,6 +410,40 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1793904969
+      }
+    ]
+  },
+  {
+    "group_id": "group_50386839a2",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Oroszország figyelmeztette Magyarországot: az övéknél jobb ajánlatot biztosan nem fogunk kapni",
+        "link": "https://index.hu/kulfold/2026/11/05/oroszorszag-europa-energiahordozo-dmitrij-ljubinszkij-magyarorszag/",
+        "image": "",
+        "summary": "Dmitrij Ljubinszkij szerint súlyos következményei lennének, ha az európai országok leállítanák az orosz energiahordozók importját.",
+        "category": "Általános",
+        "published_at": 1793904840
+      },
+      {
+        "source": "ATV",
+        "title": "Kemény üzenet érkezett Moszkvából: súlyos árat fizethetünk, ha leválunk az orosz gázról",
+        "link": "https://www.atv.hu/belfold/20261105/orosz-gaz-levalas-moszkva-valasz/",
+        "image": "",
+        "summary": "Súlyos gazdasági válságra és drágulásra figyelmeztet Oroszország, mivel a magyar kormány felgyorsítaná az elszakadást a keleti energiahordozóktól. Moszkva szerint az európai államok, köztük Magyarország is, saját maguk alatt vágják a fát, ha végleg feladják az orosz gázimportot. A céldátum szerint 2027 őszére teljesen kivezetné a kormány a hazai piacról az orosz gázt.",
+        "category": "Politika",
+        "published_at": 1793910060
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Oroszország figyelmeztette Magyarországot: Okosan a gázzal",
+        "link": "https://www.vadhajtasok.hu/2026/11/05/oroszorszag-figyelmeztette-magyarorszagot-okosan-a-gazzal",
+        "image": "",
+        "summary": "Az orosz külügyminiszter-helyettes szerint súlyos gazdasági következményei lennének, ha az európai országok teljesen leállítanák az orosz energiahordozók importját. Dmitrij Ljubinszkij úgy véli, Magyarország nem találna kedvezőbb ajánlatot a...",
+        "category": "Politika",
+        "published_at": 1793909820
       }
     ]
   },
@@ -5766,22 +5732,6 @@
         "summary": "Téves ügynöklista és vitatott miniszteri kinevezés.",
         "category": "Politika",
         "published_at": 1793905702
-      }
-    ]
-  },
-  {
-    "group_id": "group_535d1572af",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Egy nap alatt botrány lett az ügynökaktákból, újabb ügyeket vizsgálunk a kormány körül",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokaktak-tanacs-zoltan-havasi-bertalan-feljelentes",
-        "image": "https://cdn.hirtv.hu/2026/11/B03GYoF51GAsdlTSFLIYWYC89fUwzajdnLU6CwGGV-0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzllMDAxMjU0MGMwNTQ4Njg4NGY2YTk4ZDRhMjU5ZTE4.webp",
-        "summary": "Adatbázishiba, milliárdos szerződések és feljelentés.",
-        "category": "Politika",
-        "published_at": 1793902110
       }
     ]
   },
@@ -11839,6 +11789,54 @@
         "summary": "Olyan részecskebomlásra sikerült bizonyítékot találniuk a kutatóknak, ami tízmilliárdból csak egyszer történik meg.",
         "category": "Kultúra",
         "published_at": 1793988180
+      }
+    ]
+  },
+  {
+    "group_id": "group_152432be23",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Azonnali hatállyal megszüntették az Operaház főigazgató-helyettesének munkaviszonyát",
+        "link": "https://telex.hu/karakter/kultura/2026/11/06/azonnali-hatallyal-megszuntettek-az-operahaz-foigazgato-helyettesenek-munkaviszonyat-fozo-virag-okovacs-szilveszter",
+        "image": "https://assets.telex.hu/images/20261106/1793988419-temp-72a603nq4dt59ojohch_cimlap-normal.jpg",
+        "summary": "Az indoklás szerint Főző Virág szabálytalan folyamatokban volt érintett.",
+        "category": "Politika",
+        "published_at": 1793988585
+      }
+    ]
+  },
+  {
+    "group_id": "group_3ea698ad29",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A függőségből van kiút, de az életet újra kell tanulni",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/a-fuggosegbol-van-kiut-de-az-eletet-ujra-kell-tanulni?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/nCkWwYq74mqF_9B_Ms8nJNrfaIBCW-uhsRRFDZvTrtU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBlYjI5NDhkZmZiYTQ1NzY5YjYyYTUzYTIwODYwMjEy.jpg",
+        "summary": "Bajzáth Sándor szerint a felelős munkához szakmai tudásra, önismeretre és folyamatos fejlődésre is szükség van.",
+        "category": "Politika",
+        "published_at": 1793988659
+      }
+    ]
+  },
+  {
+    "group_id": "group_3aa3b692a2",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Vitézy Dávid teljesen váratlanul bejelentette: Magyarország egymilliárd euró hitelt vehet fel az uniós banktól – ezekre a beruházásokra költené el a Tisza-kormány",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/vitezy-david-egymilliard-euro-hitel-unio-bank-beruhazas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/GU7-dYDeplXMADm_0lO9Im9LuyfQrT8aRRfoIcxHwGM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZmMzhmM2EzZTA4NjQyOWFiMjMyMjFhYjFhMWM3Yzhk.jpg",
+        "summary": "Újabb jelentős összegű hitelről tárgyal Magyarország az Európai Beruházási Bankkal, amelyből nagyszabású vasúti és városi fejlesztéseket valósíthatna meg a Tisza-kormány. Vitézy Dávid közlekedési miniszter Karácsony Gergely főpolgármester társaságában ismertette, milyen beruházások indulhatnak el, amelyek a következő években Budapest közlekedését is alapvetően átalakíthatják.",
+        "category": "Politika",
+        "published_at": 1793988256
       }
     ]
   }
