@@ -732,32 +732,6 @@
     "importance_score": 33.0
   },
   {
-    "group_id": "group_a8e6ed457c",
-    "fingerprint": "a431baedded151f15b33def9c4f67ef4",
-    "category": "Általános",
-    "image": "https://pcdn.hu/articles/images-lg/b/a/l/baleset-miatt-dugo-az-m3-ason-293831.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Baleset történt a Balatonnál: felborult egy jármű, kerülni kell az érintett útszakaszon",
-        "link": "https://www.portfolio.hu/gazdasag/20261107/baleset-tortent-a-balatonnal-felborult-egy-jarmu-kerulni-kell-az-erintett-utszakaszon-874902"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Tragédia Balatonújlaknál a 68-as főúton, közlekedési balesetben halt meg egy ember",
-        "link": "https://index.hu/belfold/2026/11/07/balatonujlak-kozlekedesi-baleset-ember-meghalt-katasztrofavedelem/"
-      }
-    ],
-    "published_at": 1794072840,
-    "title_hu": "Halálos baleset történt a 68-as főúton, Balatonújlak közelében",
-    "lead_hu": "Egy nő életét vesztette, miután egy furgon és egy személyautó összeütközött a 68-as főúton, Balatonújlak közelében. A baleset miatt az egyik jármű az árokba sodródott és felborult, az utat lezárták.",
-    "content_hu": "• **Egy ember meghalt:** A szombat délutáni karambolban egy nő olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.\n\n• **Hárman utaztak a járművekben:** A furgonban és a személyautóban összesen három ember volt; a marcali tűzoltók egy utast feszítővágó segítségével szabadítottak ki.\n\n• **Lezárták a 68-as főutat:** Az egyik jármű az árokba sodródott és az oldalára borult. A 93-as kilométerszelvénynél teljes szélességében lezárták az utat, kerülni Balatonkeresztúr felé lehetett.",
-    "importance_score": 33.0
-  },
-  {
     "group_id": "group_a852433376",
     "fingerprint": "4d43957bfeec168fd7a658298ff66f04",
     "category": "Bulvár",
@@ -1100,6 +1074,32 @@
     "title_hu": "Biztosítóberendezési hiba okozott késéseket a Déli pályaudvaron",
     "lead_hu": "Szombat este meghibásodott a biztosítóberendezés a budapesti Déli pályaudvaron, ami az induló és az érkező vonatokat is érintette. A járatok esetenként 10–15 percet késhettek; a hibát estére elhárították.",
     "content_hu": "• **Szombat este meghibásodott a biztosítóberendezés** a budapesti Déli pályaudvaron, ezért változásokra kellett számítani a vasúti közlekedésben.\n\n• **Az induló vonatok 10–15 percet késhettek**, az érkező járatok pedig a pályaudvar előtt várakozhattak néhány percet.\n\n• **A hibát estére elhárították** – közölte a Mávinform.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_a8e6ed457c",
+    "fingerprint": "a431baedded151f15b33def9c4f67ef4",
+    "category": "Általános",
+    "image": "https://pcdn.hu/articles/images-lg/b/a/l/baleset-miatt-dugo-az-m3-ason-293831.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Baleset történt a Balatonnál: felborult egy jármű, kerülni kell az érintett útszakaszon",
+        "link": "https://www.portfolio.hu/gazdasag/20261107/baleset-tortent-a-balatonnal-felborult-egy-jarmu-kerulni-kell-az-erintett-utszakaszon-874902"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Tragédia Balatonújlaknál a 68-as főúton, közlekedési balesetben halt meg egy ember",
+        "link": "https://index.hu/belfold/2026/11/07/balatonujlak-kozlekedesi-baleset-ember-meghalt-katasztrofavedelem/"
+      }
+    ],
+    "published_at": 1794072840,
+    "title_hu": "Halálos baleset történt a 68-as főúton, Balatonújlak közelében",
+    "lead_hu": "Egy nő életét vesztette, miután egy furgon és egy személyautó összeütközött a 68-as főúton, Balatonújlak közelében. A baleset miatt az egyik jármű az árokba sodródott és felborult, az utat lezárták.",
+    "content_hu": "• **Egy ember meghalt:** A szombat délutáni karambolban egy nő olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.\n\n• **Hárman utaztak a járművekben:** A furgonban és a személyautóban összesen három ember volt; a marcali tűzoltók egy utast feszítővágó segítségével szabadítottak ki.\n\n• **Lezárták a 68-as főutat:** Az egyik jármű az árokba sodródott és az oldalára borult. A 93-as kilométerszelvénynél teljes szélességében lezárták az utat, kerülni Balatonkeresztúr felé lehetett.",
     "importance_score": 28.0
   },
   {
