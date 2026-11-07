@@ -448,6 +448,45 @@
     "importance_score": 68.0
   },
   {
+    "group_id": "group_0e6a565c72",
+    "category": "Általános",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab2e18ed-eebe-42cd-b435-3a2054281318.jpg",
+    "is_synthesized": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Lövöldözés a krakkói főtéren, legalább hárman meghaltak",
+        "link": "https://hvg.hu/vilag/20261107_lengyelorszag-krakko-lovoldozes-halottak"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "A krakkói főtéren lövöldözött egy férfi, legalább öten meghaltak",
+        "link": "https://index.hu/kulfold/2026/11/07/lengyelorszag-krakko-lovoldozes-halalos-aldozatok-serultek/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Öten meghaltak Krakkóban, amikor egy álarcos autós lövöldözni kezdett a főtéren",
+        "link": "https://telex.hu/kulfold/2026/11/07/lovoldozes-krakko-lengyelorszag-meghalt"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Halálos lövöldözés történt Krakkó belvárosában",
+        "link": "https://24.hu/kulfold/2026/11/07/krakko-lovoldozes-ket-halott-tiz-serult/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Lövöldözés Krakkóban: Öt halott és legalább tíz sebesült",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/lovoldozes-krakkoban-ot-halott-es-legalabb-tiz-sebesult?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794065144,
+    "title_hu": "Lövöldözés a krakkói főtéren, legalább hárman meghaltak",
+    "lead_hu": "A BBC már öt halottról ír....",
+    "content_hu": "A BBC már öt halottról ír.",
+    "importance_score": 65.0
+  },
+  {
     "group_id": "group_32ac46cae2",
     "fingerprint": "c9056b8a1ecb6cefe39b6f3519bcc28e",
     "category": "Politika",
@@ -615,40 +654,6 @@
     "lead_hu": "A Fehér Ház közelében őrizetbe vettek egy venezuelai férfit, aki a hatóságok szerint azt mondta, a fejében hallott hangok utasították arra, hogy ölje meg Donald Trumpot. A járművében három lőfegyvert és több tucat lőszert találtak; a gyanúsított 2024-ben, Texasnál lépett be az Egyesült Államokba.",
     "content_hu": "• **Őrizetbe vétel:** A venezuelai férfit csütörtökön fogták el a Fehér Ház közelében, miután gyanús viselkedésével felhívta magára a figyelmet.\n\n• **A gyanúsított állítása:** Az amerikai belbiztonsági minisztérium közlése szerint a férfi azt mondta, a fejében hallott hangok utasították arra, hogy utazzon Washingtonba, és végezzen Donald Trump elnökkel.\n\n• **Fegyverek a járműben:** A titkosszolgálat munkatársai egy lopottként bejelentett autóban három lőfegyvert, köztük egy puskát, valamint több tucat lőszert találtak.\n\n• **Tartózkodási státusz:** A hatóságok szerint a férfi illegálisan tartózkodott az Egyesült Államokban.\n\n• **A gyanúsított személyazonossága:** A 24.hu szerint a venezuelai férfit Ronny Yordrix Guanipa Chrinósnak hívják.\n\n• **Belépése az Egyesült Államokba:** A férfi 2024 márciusában, Texas államon keresztül lépett be az országba. Az amerikai határőrség akkor őrizetbe vette, de később szabadon engedte.",
     "importance_score": 58.0
-  },
-  {
-    "group_id": "group_0e6a565c72",
-    "category": "Általános",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab2e18ed-eebe-42cd-b435-3a2054281318.jpg",
-    "is_synthesized": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Lövöldözés a krakkói főtéren, legalább hárman meghaltak",
-        "link": "https://hvg.hu/vilag/20261107_lengyelorszag-krakko-lovoldozes-halottak"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "A krakkói főtéren lövöldözött egy férfi, legalább öten meghaltak",
-        "link": "https://index.hu/kulfold/2026/11/07/lengyelorszag-krakko-lovoldozes-halalos-aldozatok-serultek/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Öten meghaltak Krakkóban, amikor egy álarcos autós lövöldözni kezdett a főtéren",
-        "link": "https://telex.hu/kulfold/2026/11/07/lovoldozes-krakko-lengyelorszag-meghalt"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Halálos lövöldözés történt Krakkó belvárosában",
-        "link": "https://24.hu/kulfold/2026/11/07/krakko-lovoldozes-ket-halott-tiz-serult/"
-      }
-    ],
-    "published_at": 1794065144,
-    "title_hu": "Lövöldözés a krakkói főtéren, legalább hárman meghaltak",
-    "lead_hu": "A BBC már öt halottról ír....",
-    "content_hu": "A BBC már öt halottról ír.",
-    "importance_score": 55.0
   },
   {
     "group_id": "group_c46e3d205d",
@@ -2043,32 +2048,6 @@
     "title_hu": "Az OTP alkotmánybírósági panasszal támadja a kamatstop törvényi fenntartását",
     "lead_hu": "Az OTP Bank, az OTP Jelzálogbank és több más piaci szereplő az Alkotmánybírósághoz fordult a lakossági kamatstopot határozatlan időre fenntartó törvényi rendelkezés miatt. Azt kérik, hogy a testület mondja ki a szabály alaptörvény-ellenességét.",
     "content_hu": "• **A panasz tárgya** Az érintettek a 2026. évi XIV. törvény kamatstopra vonatkozó paragrafusát támadják, amely a korábban veszélyhelyzeti rendeletben bevezetett intézkedést törvényi szintre emelte.\n\n• **A bankok érvei** Szerintük a szabály alkotmányos indok nélkül, utólagosan és aránytalanul avatkozik be a magánjogi szerződésekbe, és sérti a jogbiztonság követelményét.\n\n• **A kamatstop hatása** Az intézkedés a változó kamatozású jelzáloghitelek kamatszámításának alapjául szolgáló referencia-kamatlábat a 2021. október 27-i szinten korlátozza; az így meg nem fizetett kamatot a bankok nem terhelhetik később az ügyfelekre.\n\n• **Korábbi beadványok** A kamatstop miatt korábban már három alkotmányjogi panaszt nyújtottak be, ezekről az Alkotmánybíróság még nem hozott érdemi döntést.",
-    "importance_score": 20.0
-  },
-  {
-    "group_id": "group_4e4d4b7b5a",
-    "fingerprint": "bd57a5e3a428acfb587732249d9f5fe8",
-    "category": "Kultúra",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Meghalt Gali László",
-        "link": "https://index.hu/kultur/2026/11/06/meghalt-gyasz-gali-laszlo-szinhaz-rendezo/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Meghalt Gali László Jászai Mari-díjas színházi rendező",
-        "link": "https://telex.hu/karakter/kultura/2026/11/06/elhunyt-gali-laszlo-rendezo-jaszai-mari-dij-gardonyi-geza-szinhaz"
-      }
-    ],
-    "published_at": 1793979960,
-    "title_hu": "Meghalt Gali László színházi rendező",
-    "lead_hu": "Nyolcvanhárom éves korában elhunyt Gali László Jászai Mari-díjas rendező és színházigazgató. Nevéhez fűződik a Gárdonyi Géza Színház önálló társulatának újraalapítása, amelyet 1986 és 1996 között vezetett.",
-    "content_hu": "• **83 éves korában hunyt el** Gali László; halálhírét a Gárdonyi Géza Színház közölte.\n\n• **Újraalapította az egri színház önálló társulatát**, majd 1986-tól 1996-ig igazgató-főrendezőként vezette a teátrumot.\n\n• **Pályafutása során csaknem száz előadást rendezett**, klasszikus és kortárs műveket egyaránt színpadra állított, és több színésznemzedéket tanított.\n\n• **1982-ben Jászai Mari-díjat kapott** kiemelkedő munkásságáért.",
     "importance_score": 20.0
   },
   {
@@ -10030,44 +10009,6 @@
     "title_hu": "Bűnbakot keresnek a republikánusok a vereség után: Marco Rubio és Pete Hegseth is a célkeresztben",
     "lead_hu": "Egyelőre egyik miniszter sem távozik.",
     "content_hu": "Egyelőre egyik miniszter sem távozik.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d90efbac05",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Nem lett trend a Tisza visszaeséséből, befagyott a szakadék a két legnagyobb politikai erő között",
-        "link": "https://www.atv.hu/belfold/20261106/tisza-republikon-part-tamogatas/"
-      }
-    ],
-    "published_at": 1793979960,
-    "title_hu": "Nem lett trend a Tisza visszaeséséből, befagyott a szakadék a két legnagyobb politikai erő között",
-    "lead_hu": "Októberben gyakorlatilag mozdulatlanná dermedtek a pártpreferenciák, a Tisza és a Fidesz között továbbra is nagy a különbség.",
-    "content_hu": "Októberben gyakorlatilag mozdulatlanná dermedtek a pártpreferenciák, a Tisza és a Fidesz között továbbra is nagy a különbség.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5b89595c41",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/06/FxDwcEyDjZ1gI_UhIpyYGLTC4L8IGAx3Ggn1PazMu3M/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFjOWU1MDYzNDQwNTQ0MTM4YTg0NmY3MjdlMDc4ZGMw.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Újabb fordulat az MNB körüli ügyekben: rendőrséghez fordult a jegybank – a korábbi vezetés üzleti érdekeltségeit is emlegetik",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/bank-mnb-rendorseg-jegybank-korabbi-vezetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1793979831,
-    "title_hu": "Újabb fordulat az MNB körüli ügyekben: rendőrséghez fordult a jegybank – a korábbi vezetés üzleti érdekeltségeit is emlegetik",
-    "lead_hu": "Ezúttal a Szabadság téri székház felújítása és az ingatlanok üzemeltetése került a középpontba.",
-    "content_hu": "Ezúttal a Szabadság téri székház felújítása és az ingatlanok üzemeltetése került a középpontba.",
     "importance_score": 0.0
   },
   {
