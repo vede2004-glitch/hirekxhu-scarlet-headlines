@@ -48,38 +48,6 @@
     ]
   },
   {
-    "group_id": "group_8edc907209",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Magyar Péter „bohóckodásnak” nevezte a tiszás ügynökbotrány miatt összehívott nemzetbiztonsági ülést",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/magyar-pete-bohockodas-tiszas-ugynokbotrany-nemzetbiztonsagi-ules?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/10/TOrnIa74jPQCaYSfbgG-iCkR4HYwwBm9YejHVhOxzqE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJlZjk4YzlmN2MzYjRkMjlhYmQxN2JkNDBkNGJhYzUz.jpg",
-        "summary": "Bóka János szerint a miniszterelnök ahelyett, hogy vállalná a felelősséget az ügynöklisták nyilvánosságra hozataláért, áldozatként próbálja feltüntetni magát.",
-        "category": "Politika",
-        "published_at": 1793981008
-      }
-    ]
-  },
-  {
-    "group_id": "group_4dca0fdfe8",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Pénzért elmondja a Claude, mire költött sokat a hónapban",
-        "link": "https://hvg.hu/tudomany/20261106_anthropic-claude-penzugyi-asszisztens-funkcio",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0f691fd0-7f4b-4094-bced-d956f80badc3.jpg",
-        "summary": "Vannak, akik már próbálgathatják a Claude új pénzügyi funkcióját. Kérdés, hogy ki szeretne ehhez hozzáférést adni a bankszámlájához.",
-        "category": "Kultúra",
-        "published_at": 1793980980
-      }
-    ]
-  },
-  {
     "group_id": "group_111105db61",
     "category": "Általános",
     "articles_count": 2,
@@ -117,31 +85,6 @@
         "summary": "Az internet pöcegödrei egyre nagyobb teret hódítanak.",
         "category": "Általános",
         "published_at": 1793981340
-      }
-    ]
-  },
-  {
-    "group_id": "group_9214548548",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Zelenszkij szerint Klicsko a hibás, hogy Kijevben kritikus az energiaellátási helyzet",
-        "link": "https://444.hu/2026/11/06/zelenszkij-szerint-klicsko-a-hibas-hogy-kijevben-kritikus-az-energiaellatasi-helyzet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A fővárosban a legrosszabb az energiaellátási helyzet, ami az elnök szerint azért van, mert",
-        "category": "Politika",
-        "published_at": 1793981263
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Zelenszkij szerint Klicsko a hibás, hogy Kijevben kritikus az energiaellátási helyzet",
-        "link": "https://www.vadhajtasok.hu/2026/11/06/zelenszkij-szerint-klicsko-a-hibas-hogy-kijevben-kritikus-az-energiaellatasi-helyzet",
-        "image": "",
-        "summary": "Volodimir Zelenszkij ukrán elnök a kijevi városvezetést teszi felelőssé azért, hogy az ukrajnai régiók közül a fővárosban a legrosszabb az energiaellátási helyzet, írja az Ukrajinszka Pravda.",
-        "category": "Politika",
-        "published_at": 1793986560
       }
     ]
   },
@@ -190,22 +133,6 @@
         "summary": "A teljes népesség körében a Tisza támogatottsága 54, a Fidesz-KDNP-é 22 százalékon áll a Republikon Intézet felmérése szerint.",
         "category": "Politika",
         "published_at": 1793981520
-      }
-    ]
-  },
-  {
-    "group_id": "group_c8c22e5ac8",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ropogós krokett mángoldból, ha nálatok is tele van vele a kert",
-        "link": "https://nlc.hu/gasztro/20261106/mangold-krokett-tapas-recept/hg0y8xx",
-        "image": "",
-        "summary": "A spanyol krokettekben az a legjobb, hogy bármiből el lehet készíteni. Akár mángoldból is. The post Ropogós krokett mángoldból, ha nálatok is tele van vele a kert first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1793980980
       }
     ]
   },
@@ -751,6 +678,22 @@
         "summary": "Egy korábbi Forma–1-es világbajnok már megüzente az olasz istállónak a megoldást.",
         "category": "Politika",
         "published_at": 1793984700
+      }
+    ]
+  },
+  {
+    "group_id": "group_9214548548",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Zelenszkij szerint Klicsko a hibás, hogy Kijevben kritikus az energiaellátási helyzet",
+        "link": "https://www.vadhajtasok.hu/2026/11/06/zelenszkij-szerint-klicsko-a-hibas-hogy-kijevben-kritikus-az-energiaellatasi-helyzet",
+        "image": "",
+        "summary": "Volodimir Zelenszkij ukrán elnök a kijevi városvezetést teszi felelőssé azért, hogy az ukrajnai régiók közül a fővárosban a legrosszabb az energiaellátási helyzet, írja az Ukrajinszka Pravda.",
+        "category": "Politika",
+        "published_at": 1793986560
       }
     ]
   },
@@ -8596,7 +8539,7 @@
   {
     "group_id": "group_0e6a565c72",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "HVG - Világ",
@@ -8651,6 +8594,15 @@
         "summary": "Legalább öten meghaltak az incidensben.",
         "category": "Bulvár",
         "published_at": 1794066925
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Golyózápor Krakkóban: öten meghaltak, autóból tüzeltek a rendőrökre, \"mindenki rohant, sokan elestek\"",
+        "link": "https://www.vg.hu/kozelet/2026/11/krakko-lovoldozes-lengyelorszag-rendorseg-aldozatok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/zPbSLlSkqVWPjfONpxsy5oG8tDjH1MUxbsBd0jW6M9w/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRmMjQzYTZiNTExMjRkZjRiMTQ5OGExNGMxOGIxNjY2.jpg",
+        "summary": "Súlyos fegyveres támadás történt Lengyelország második legnagyobb városában.",
+        "category": "Gazdaság",
+        "published_at": 1794067554
       }
     ]
   },
@@ -8891,6 +8843,22 @@
         "summary": "A hőség gazdasági ára már mérhető veszteségként jelenik meg. A Lancet Countdown globális jelentése szerint a hőkitettség 2025-ben 573 milliárd potenciális munkaóra elvesztéséhez és 1070 milliárd dollár becsült jövedelemkieséshez vezetett. A teher eloszlása is egyenlőtlen: a kevésbé fejlett országok gazdaságát arányaiban sokkal nagyobb veszteség éri, miközben a fosszilis energiahordozók állami támogatása és a nagy olaj- és gázipari vállalatok kitermelési tervei továbbra sincsenek összhangban a klímacélokkal.",
         "category": "Gazdaság",
         "published_at": 1794067200
+      }
+    ]
+  },
+  {
+    "group_id": "group_4c2aaa1796",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Íme VV Kriszti idősebb, francia párja: az első pillanattól együtt élnek a jóképű férfivel",
+        "link": "https://femina.hu/hazai_sztar/vv-kriszti-francia-parja/",
+        "image": "https://femina.hu/neon/media/images/56675145_3b8d26cbd524.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "VV Kriszti, azaz Karnics Krisztina volt a 2023-as ValóVilág győztese, most rátalált a nagy szerelem.",
+        "category": "Bulvár",
+        "published_at": 1794067500
       }
     ]
   }
