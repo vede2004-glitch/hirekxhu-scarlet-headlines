@@ -16,79 +16,6 @@
     ]
   },
   {
-    "group_id": "group_ce4c8620b1",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Számítottak a kormány ígéretére: dühösek és elkeseredettek a szociális szférában dolgozók",
-        "link": "https://www.atv.hu/belfold/20261106/szocialis-szfera-beremeles/",
-        "image": "",
-        "summary": "Köves Ferenc, a Szociális Ágazatban Dolgozók Szakszervezetének elnöke péntek este az ATV Egyenes Beszéd vendégeként a szférát érintő súlyos problémákról beszélt.",
-        "category": "Politika",
-        "published_at": 1793994600
-      }
-    ]
-  },
-  {
-    "group_id": "group_442e5787fa",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Tragikus balesetben vesztette életét a 24 éves influenszer, megszólalt az egyetlen túlélő",
-        "link": "https://index.hu/kulfold/2026/11/06/francia-utazasi-influenszer-emma-marie-laurent-meghalt-baleset-nicaragua/",
-        "image": "https://kep.index.hu/1/0/7246/72460/724609/72460983_5339683_766711a961adf13e1d768af384bf94a3_wm.jpg",
-        "summary": "Többen meghaltak, a társaság táncóráról tartott vissza a szállására.",
-        "category": "Általános",
-        "published_at": 1793994840
-      }
-    ]
-  },
-  {
-    "group_id": "group_37499bdf07",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Két évig kampányolt a Tiszának, majd magára hagyták – Magyar Péter sógorától is hiába kért segítséget a csalódott aktivista",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/ket-evig-kampanyolt-a-tiszanak-majd-magara-hagytak-magyar-peter-sogoratol-is-hiaba-kert-segitseget-a-csalodott-aktivista?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/umRtjzqN_5yV8k8RVbj3-ta6VETdK8CjqaoQe2yi1Dc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgzZjFiZDMzMTM2MzQ4YWY4NjhlMmQ3ZTZhODNmYzhl.jpg",
-        "summary": "Az elkötelezett tiszás jogi segítséget kért Magyar Péteréktől, de ügyvéd helyett felmondólevelet kapott.",
-        "category": "Politika",
-        "published_at": 1793994612
-      }
-    ]
-  },
-  {
-    "group_id": "group_fb54a71958",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Trump lecserélte kabinetfőnökét a választási vereség után",
-        "link": "https://24.hu/kulfold/2026/11/06/trump-stephen-miller-kabinetfonok-wiles/",
-        "image": "https://s.24.hu/app/uploads/2026/11/000_d6ph4kp-e1793994691490-1024x575.jpg",
-        "summary": "Távozik a Fehér Ház kabinetfőnöke, Susie Wiles. Helyét Stephen Miller veszi át, aki Trump egyik legrégebbi és legbefolyásosabb tanácsadója, valamint a szigorú bevándorláspolitika fő alakítója. The post Trump lecserélte kabinetfőnökét a választási vereség után first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1793994976
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Donald Trump leváltotta kabinetfőnökét a félidős választási vereség után",
-        "link": "https://index.hu/kulfold/2026/11/06/donald-trump-stephen-miller-susie-wiles-kabinetfonok-szemelyi-valtozas-egyesult-allamok/",
-        "image": "",
-        "summary": "Az elnök mindkét személyt dicsérte.",
-        "category": "Politika",
-        "published_at": 1793996280
-      }
-    ]
-  },
-  {
     "group_id": "group_5e3861673e",
     "category": "Bulvár",
     "articles_count": 1,
@@ -270,6 +197,22 @@
         "link": "https://index.hu/techtud/2026/11/06/nasa-artemis-program-felgyorsitas-spacex-blue-origin-holdraszallas/",
         "image": "https://kep.index.hu/1/0/7243/72430/724300/72430065_5337553_779685e7cbc84509af7106cd6f91b277_wm.jpg",
         "summary": "Rátapostak a gázpedálra, azonnal lépniük kellett.",
+        "category": "Politika",
+        "published_at": 1793996280
+      }
+    ]
+  },
+  {
+    "group_id": "group_fb54a71958",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Donald Trump leváltotta kabinetfőnökét a félidős választási vereség után",
+        "link": "https://index.hu/kulfold/2026/11/06/donald-trump-stephen-miller-susie-wiles-kabinetfonok-szemelyi-valtozas-egyesult-allamok/",
+        "image": "",
+        "summary": "Az elnök mindkét személyt dicsérte.",
         "category": "Politika",
         "published_at": 1793996280
       }
@@ -8473,6 +8416,54 @@
         "summary": "A United pedig ezzel már búcsúzó helyen áll az élvonalban.",
         "category": "Általános",
         "published_at": 1794080220
+      }
+    ]
+  },
+  {
+    "group_id": "group_31c9c0a7bd",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "A lengyel belügyminiszter szerint a krakkói merénylő szélsőjobboldali nézeteket vallott",
+        "link": "https://444.hu/2026/11/07/a-lengyel-belugyminiszter-szerint-a-krakkoi-merenylo-szelsojobboldali-nezeteket-vallott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Otthonról vihette magával az apja fegyvereit.",
+        "category": "Politika",
+        "published_at": 1794081203
+      }
+    ]
+  },
+  {
+    "group_id": "group_0a2be0bf2b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Krakkói lövöldözés: 25 éves lengyel férfi az elkövető, akit vélhetőleg szélsőjobboldali ideológiák vezéreltek",
+        "link": "https://24.hu/kulfold/2026/11/07/krakkoi-lovoldozes-sajtotajekoztato-merenylo-elkoveto/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303509975-1-e1794081154454-1024x575.jpg",
+        "summary": "Marcin Kierwiński lengyel belügyminiszter sajtótéjékoztatón jelentette be, hogy azonosították az elkövetőt, és minden jel arra utal, hogy a férfit „szélsőjobboldali ideológiák” vezérelték. The post Krakkói lövöldözés: 25 éves lengyel férfi az elkövető, akit vélhetőleg szélsőjobboldali ideológiák vezéreltek first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794081176
+      }
+    ]
+  },
+  {
+    "group_id": "group_ce0fb4126d",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Téves egészségügyi bértábla terjed a neten, a minisztérium közzétette a hivatalos verziót",
+        "link": "https://24.hu/belfold/2026/11/07/egeszsegugyi-bertabla-miniszterium-pontatlan-adatok/",
+        "image": "https://s.24.hu/app/uploads/2026/11/dbzol20260615002-e1794080879314-1024x575.jpg",
+        "summary": "A tárca tisztázta a besorolásokhoz tartozó végzettségeket a 2027-es bérrendezés kapcsán. The post Téves egészségügyi bértábla terjed a neten, a minisztérium közzétette a hivatalos verziót first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794080943
       }
     ]
   }
