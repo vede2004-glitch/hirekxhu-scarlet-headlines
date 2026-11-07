@@ -6,7 +6,7 @@
     "image": "https://pcdn.hu/articles/images-xl/d/_/h/d-hr20261104004-1-867608.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 8,
+    "sources_count": 9,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
@@ -47,13 +47,18 @@
         "source": "Vadhajtások",
         "title": "Valami nagyon nincs rendben Rovar úréknál: egy államtitkár és négy helyettes államtitkár is távozik",
         "link": "https://www.vadhajtasok.hu/2026/11/07/valami-nagyon-nincs-rendben-poloskaeknal-egy-allamtitkar-es-negy-helyettes-allamtitkar-is-tavozik"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Három helyettes államtitkár is távozik a szociális és családügyi minisztériumból",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/harom-helyettes-allamtitkar-is-tavozik-a-szocialis-es-csaladugyi-miniszteriumbol"
       }
     ],
     "published_at": 1794028700,
     "title_hu": "Két minisztériumban is vezetőváltásokat jelentettek be",
     "lead_hu": "Három helyettes államtitkár távozik a Szociális és Családügyi Minisztériumból, közülük ketten felmentéssel, egy pedig saját lemondásával. A Vidék- és Településfejlesztési Minisztériumban is változások történnek: Szabó Mátyás államtitkár távozik, utódja Szabó Tibor lesz; az új információk szerint több távozó vezető csak néhány hónapja töltötte be tisztségét.",
     "content_hu": "• **November 7-i távozások** Bódy Éva saját lemondására távozik a Szociális és Családügyi Minisztériumból; Réthy Pált és Sepsey Krisztinát a miniszter javaslatára mentik fel.\n\n• **Új helyettes államtitkárok** Ghyczy Gellért november 8-án, Vécsei Dávid Bence november 11-én lép hivatalba a tárcánál. A kinevezési határozatok nem részletezik, mely szakterületeket irányítják majd.\n\n• **Változások a vidékfejlesztési tárcánál** Verhás Georgina Jennifer lemond, Szabó Mátyás államtitkárt pedig felmentik. Szabó Tibor, a Tisza Párt országgyűlési képviselője veszi át az államtitkári tisztséget.\n\n• **Sepsey rövid ideig volt hivatalban** A gazdasági helyettes államtitkárként dolgozó Sepsey Krisztinát júniusban nevezték ki, így csak néhány hónapot töltött a tisztségében. A felmentéséről szóló határozat nem közöl indoklást.\n\n• **Az új kinevezettek szakmai háttere** Ghyczy Gellért korábban a Baptista Integrációs Központot vezette, és tapasztalata van a hajléktalanellátás, a szociális intézményrendszer és a társadalmi integráció területén. Vécsei Dávid Bence a Gazdasági Versenyhivatal vezetői között is szerepel; a források szerint korábban a hivatal költségvetési és kontrolling területén dolgozott, de a kinevezési határozat nem nevezi meg a tárcán belüli feladatkörét.\n\n• **Verhás és Szabó Mátyás rövid hivatali ideje** Verhás Georgina Jennifer június közepén kezdte meg munkáját a minisztériumban, így kevesebb mint öt hónap után távozik. Szabó Mátyást május 26-i hatállyal nevezték ki államtitkárrá, megbízatása november 7-én szűnik meg.\n\n• **Szabó Tibor vidékfejlesztési tapasztalata** Az új államtitkár korábban a Zala Termálvölgye Egyesület munkaszervezetét vezette, és több mint húsz éve foglalkozik vidékfejlesztéssel. A parlamentben a Vidék- és Településfejlesztési Bizottság elnöke, emellett a Pénzügyi és Költségvetési Bizottság munkájában is részt vesz.",
-    "importance_score": 95.0
+    "importance_score": 105.0
   },
   {
     "group_id": "group_8edc907209",
@@ -8736,6 +8741,25 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_b12645a9dd",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/rkWDapJxyXt_jeA99tW3PW2-CqENsViLLSNXRzEtZDc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxNDNkNmZiMWJiMjQ4MmJiY2Q5MThhYmE3Zjg0NTk4.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Vidnyánszky Attila: Próbálják ellehetetleníteni a Nemzeti Színházat",
+        "link": "https://hirtv.origo.hu/kultura/2026/11/vidnyanszky-attila-nemzeti-szinhaz-tarr-zoltan"
+      }
+    ],
+    "published_at": 1793969929,
+    "title_hu": "Vidnyánszky Attila: Próbálják ellehetetleníteni a Nemzeti Színházat",
+    "lead_hu": "Tarr Zoltán miniszter és Nagy Ervin államtitkár elzárkózik a párbeszédtől....",
+    "content_hu": "Tarr Zoltán miniszter és Nagy Ervin államtitkár elzárkózik a párbeszédtől.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_bce8a80d00",
     "category": "Gazdaság",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1f4a3a58-72f8-41fb-93d6-7397b306c4af.jpg",
@@ -11925,44 +11949,6 @@
     "title_hu": "Igazi érzelmi hullámvasútra ült fel ez a négy csillagjegy, de most eljött a változás ideje",
     "lead_hu": "Te is köztük vagy?",
     "content_hu": "Te is köztük vagy?",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_3fff0cc40a",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/j/a/p/japan-parlament-397432.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "30 éve nem nőttek így a bérek japánban",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/30-eve-nem-nottek-igy-a-berek-japanban-874648"
-      }
-    ],
-    "published_at": 1793951820,
-    "title_hu": "30 éve nem nőttek így a bérek japánban",
-    "lead_hu": "Közel három évtizede nem látott ütemben emelkedtek a nominálbérek Japánban, a reálkeresetek bővülése pedig felülmúlta a várakozásokat - írja a Bloomberg. A tartósan erős bérdinamika kellő alapot bizto…",
-    "content_hu": "Közel három évtizede nem látott ütemben emelkedtek a nominálbérek Japánban, a reálkeresetek bővülése pedig felülmúlta a várakozásokat - írja a Bloomberg. A tartósan erős bérdinamika kellő alapot biztosíthat a japán jegybanknak ahhoz, hogy már a decemberi ülésén tovább szigorítson a monetáris politikán, és újabb kamatemelést hajtson végre.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_8599106235",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/5jfR2o5AN4Wz1Ln3nUbxIVR6raNFnldBw9qIj__j7M8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk5OTVkNTBhNTk3MjQxN2I4YTkwMGQxMmM1MjE1YjQ1.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Lezsák Anna: Nem rázhatja le a politikai felelősséget a miniszterelnök egy egyszerű bocsánatkéréssel",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/lezsak-anna-magyar-peter-lezsak-sandor-ugynokakta"
-      }
-    ],
-    "published_at": 1793951672,
-    "title_hu": "Lezsák Anna: Nem rázhatja le a politikai felelősséget a miniszterelnök egy egyszerű bocsánatkéréssel",
-    "lead_hu": "A Fidesz országgyűlési képviselője a Napindítóban.",
-    "content_hu": "A Fidesz országgyűlési képviselője a Napindítóban.",
     "importance_score": 0.0
   },
   {
