@@ -32,31 +32,6 @@
     ]
   },
   {
-    "group_id": "group_a17512b1b5",
-    "category": "Gazdaság",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Végre megindult lefelé a gázolaj ára is, de még mindig óriási a szakadék",
-        "link": "https://www.atv.hu/belfold/20261106/gazolaj-benzin-uzemanyag-arvaltozas/",
-        "image": "",
-        "summary": "Pénteken mindkét üzemanyag országos átlagára csökkent, a gázolaj azonban még így is jelentősen drágább, mint a benzin.",
-        "category": "Gazdaság",
-        "published_at": 1793987280
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tovább esik a benzin ára Magyarországon: jelentős a különbség a gázolajhoz képest",
-        "link": "https://www.portfolio.hu/gazdasag/20261107/tovabb-esik-a-benzin-ara-magyarorszagon-jelentos-a-kulonbseg-a-gazolajhoz-kepest-874870",
-        "image": "https://pcdn.hu/articles/images-xl/b/e/n/benzin-gazolaj-377962.jpg",
-        "summary": "Szombaton tovább mérséklődtek a hazai üzemanyagárak, a benzin esetében jelentősebb, míg a gázolajnál csekélyebb árcsökkenést tapasztalhatnak az autósok – derül ki a Holtankoljak.hu Facebook-bejegyzéséből.",
-        "category": "Gazdaság",
-        "published_at": 1794046920
-      }
-    ]
-  },
-  {
     "group_id": "group_496a01c14a",
     "category": "Általános",
     "articles_count": 2,
@@ -5239,6 +5214,22 @@
     ]
   },
   {
+    "group_id": "group_a17512b1b5",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tovább esik a benzin ára Magyarországon: jelentős a különbség a gázolajhoz képest",
+        "link": "https://www.portfolio.hu/gazdasag/20261107/tovabb-esik-a-benzin-ara-magyarorszagon-jelentos-a-kulonbseg-a-gazolajhoz-kepest-874870",
+        "image": "https://pcdn.hu/articles/images-xl/b/e/n/benzin-gazolaj-377962.jpg",
+        "summary": "Szombaton tovább mérséklődtek a hazai üzemanyagárak, a benzin esetében jelentősebb, míg a gázolajnál csekélyebb árcsökkenést tapasztalhatnak az autósok – derül ki a Holtankoljak.hu Facebook-bejegyzéséből.",
+        "category": "Gazdaság",
+        "published_at": 1794046920
+      }
+    ]
+  },
+  {
     "group_id": "group_d3caa2a3a3",
     "category": "Kultúra",
     "articles_count": 1,
@@ -7621,7 +7612,7 @@
   {
     "group_id": "group_0e6a565c72",
     "category": "Általános",
-    "articles_count": 8,
+    "articles_count": 9,
     "articles": [
       {
         "source": "HVG - Világ",
@@ -7694,6 +7685,15 @@
         "summary": "Súlyos fegyveres támadás történt Lengyelországban: a lövöldözésben legalább öten életüket vesztették, további 17-en pedig megsérültek, köztük 15 civil és két rendőr.",
         "category": "Politika",
         "published_at": 1794068145
+      },
+      {
+        "source": "Femina",
+        "title": "Újabb megrázó részletek derültek ki a krakkói halálos lövöldözésről: a gyilkos tűzharcba keveredett a rendőrökkel",
+        "link": "https://femina.hu/terasz/krakkoi-lovoldozes-gyilkos-tuzharc-rendorokkel/",
+        "image": "https://femina.hu/neon/media/images/krakkoi_lovoldozes_2.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Hatan életüket vesztették, és tizenöten megsebesültek.",
+        "category": "Bulvár",
+        "published_at": 1794073788
       }
     ]
   },
@@ -8599,6 +8599,38 @@
         "summary": "Kiket ver át új filmje, a Ki lenni én? kínos helyzeteiben Ali G? Hol van ma a helye Sacha Baron Cohen suttyó humorának, és mit mond Ali G-ről Adolf Hitler? The post Odafigyelünk-e még Ali G-re, ha Adolf Hitler kéri? first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794073062
+      }
+    ]
+  },
+  {
+    "group_id": "group_b63e25e51d",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "„Nem csicskulunk be, ez nem a leuralás kora” – harmadszor fut neki Magyarország az elszámoltatásnak",
+        "link": "https://index.hu/belfold/2026/11/07/korrupcio-integritas-hatosag-konferencia-oknyomozo-ujsagiras-kuzdelem-jogallamisag-demokracia/",
+        "image": "https://kep.index.hu/1/0/7245/72456/724566/72456691_5339371_ef23f54beb5f75bde58ad92f8e70f1b2_wm.jpg",
+        "summary": "Intézmények közötti egyeztetést sürget az Integritás Hatóság.",
+        "category": "Általános",
+        "published_at": 1794073380
+      }
+    ]
+  },
+  {
+    "group_id": "group_e2735d7a9d",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Betlehem Dávid egy másodperccel csúszott le a világkupa-aranyról",
+        "link": "https://index.hu/sport/uszas/2026/11/07/uszas-vilagkupa-cancun-betlehem-david/",
+        "image": "",
+        "summary": "Óriási csatában lett második a kieséses versenyben.",
+        "category": "Általános",
+        "published_at": 1794073320
       }
     ]
   }
