@@ -1,46 +1,5 @@
 [
   {
-    "group_id": "group_d1cd684384",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Több milliós sérelemdíj járhat a tévedésből ügynökként feltüntetett Lezsák Sándornak",
-        "link": "https://hvg.hu/itthon/20261106_lezsak-ugynokaktak-serelemdij-abtl",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b0e738a3-c100-49c6-8173-41c7a9fb0c8d.jpg",
-        "summary": "A volt politikus lánya közölte, hogy folyamatban van a jogi lépések előkészítése.",
-        "category": "Politika",
-        "published_at": 1793992591
-      }
-    ]
-  },
-  {
-    "group_id": "group_376e13b10d",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Verebes István az ügynökaktákról: „Kapkodás van, futnak az ígéreteik után”",
-        "link": "https://www.atv.hu/belfold/20261106/verebes-istvan-ugynokaktak-kapkodas/",
-        "image": "https://www.youtube.com/embed/qjm_i2mbTFk",
-        "summary": "Verebes István szerint az ügynökakták megnyitásának időzítése és módja is elhibázott volt.",
-        "category": "Általános",
-        "published_at": 1793992800
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Így ugat Magyar Péter testőre: “Mi a f.szt videózol?”",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/igy-ugat-magyar-peter-testore-mi-a-fszt-videozol",
-        "image": "",
-        "summary": "Amilyen a kutya, olyan a gazdája… Primitív agresszív, mint a szavazóik nagy része!",
-        "category": "Politika",
-        "published_at": 1794047760
-      }
-    ]
-  },
-  {
     "group_id": "group_31af6702d5",
     "category": "Politika",
     "articles_count": 1,
@@ -349,22 +308,6 @@
         "summary": "Az elkötelezett tiszás jogi segítséget kért Magyar Péteréktől, de ügyvéd helyett felmondólevelet kapott.",
         "category": "Politika",
         "published_at": 1793994612
-      }
-    ]
-  },
-  {
-    "group_id": "group_0c5e4dcd1e",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Budapest a kormányhoz fordul, hogy segítsen az önkormányzatoknak a klímaváltozás elleni harcban",
-        "link": "https://telex.hu/techtud/2026/11/06/fovarosi-onkormanyzat-orszaggyules-vizmegtartas-zold-infrastruktura-jogszabaly-kozgyules",
-        "image": "https://assets.telex.hu/images/20261106/1793965973-temp-tbn0at8in2et9ijddbg_cimlap-normal.jpg",
-        "summary": "Két törvény megalkotását és több meglévő jogszabály módosítását kérik. A fővárosi főtájépítész szerint a problémákról már a Fidesz-kormányok is tudtak, de nem tettek semmit. Most abban bíznak, hogy az új kormány meghallgatja őket.",
-        "category": "Politika",
-        "published_at": 1793992646
       }
     ]
   },
@@ -3908,7 +3851,7 @@
   {
     "group_id": "group_32ac46cae2",
     "category": "Politika",
-    "articles_count": 5,
+    "articles_count": 6,
     "articles": [
       {
         "source": "HVG - Itthon",
@@ -3954,6 +3897,15 @@
         "summary": "Török Gábor politikai elemző szerint nem indokolt forradalomnak vagy rendszerváltásnak nevezni a 2026-os választás eredményét, még akkor sem, ha az jelentős fordulópontot hozott a magyar történelemben.",
         "category": "Politika",
         "published_at": 1794009600
+      },
+      {
+        "source": "ATV",
+        "title": "Török Gábor szerint 2026-ban nem történt sem rendszerváltás, sem forradalom",
+        "link": "https://www.atv.hu/belfold/20261107/torok-gabor-forradalom-rendszervaltas/",
+        "image": "",
+        "summary": "Török Gábor politikai elemző szerint az Orbán-korszak nem volt diktatúra vagy autokrácia, a 2026-os választás pedig bár jelentős történelmi fordulópontot hozott, nem nevezhető forradalomnak vagy rendszerváltásnak.",
+        "category": "Politika",
+        "published_at": 1794079200
       }
     ]
   },
@@ -4011,6 +3963,22 @@
         "summary": "Bencsik régebben még cikkben listázta azokat az amerikai–izraeli kettős állampolgárokat, akik miatt szerinte „izraeli ügynökök” markába került Amerika.",
         "category": "Politika",
         "published_at": 1794053141
+      }
+    ]
+  },
+  {
+    "group_id": "group_376e13b10d",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Így ugat Magyar Péter testőre: “Mi a f.szt videózol?”",
+        "link": "https://www.vadhajtasok.hu/2026/11/07/igy-ugat-magyar-peter-testore-mi-a-fszt-videozol",
+        "image": "",
+        "summary": "Amilyen a kutya, olyan a gazdája… Primitív agresszív, mint a szavazóik nagy része!",
+        "category": "Politika",
+        "published_at": 1794047760
       }
     ]
   },
@@ -7647,7 +7615,7 @@
   {
     "group_id": "group_42451d67e8",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "HVG - Világ",
@@ -7666,6 +7634,15 @@
         "summary": "A hatóság szerint a maradványok állapota miatt egyelőre nem lehet pontosan megállapítani, hány emberről van szó.",
         "category": "Politika",
         "published_at": 1794078501
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Emberi madarványokra bukkantak a román partoknál kilőtt tartályhajón",
+        "link": "https://24.hu/kulfold/2026/11/07/emberi-madarvanyokra-bukkantak-a-roman-partoknal-kilott-tartalyhajon/",
+        "image": "https://s.24.hu/app/uploads/2026/11/hajo-roman-part-droncsapas-1024x576.jpg",
+        "summary": "A hajót több mint két hete érte ámadás, a fedélzeten tartózkodó 12 tengerészből közül ötöt biztonságba helyzetek, hét embert eltűntként tartottak nyilván. The post Emberi madarványokra bukkantak a román partoknál kilőtt tartályhajón first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794079222
       }
     ]
   },
@@ -8500,6 +8477,22 @@
         "summary": "Nem is kellett jó játék hozzá. The post Tizenöt góllal nyert az ETO a kézilabda Bajnokok Ligájában first appeared on 24.hu.",
         "category": "Sport",
         "published_at": 1794078383
+      }
+    ]
+  },
+  {
+    "group_id": "group_4449ee9d9b",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A nap legfontosabb hírei – 2026. november 7.",
+        "link": "https://24.hu/belfold/2026/11/07/a-nap-legfontosabb-hirei-2026-november-7/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303507437-e1794079124573-1024x575.jpg",
+        "summary": "Halálos lövöldözés Krakkóban; 9 milliárdot kell visszafizetnünk az EU-nak. The post A nap legfontosabb hírei – 2026. november 7. first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1794079221
       }
     ]
   }
