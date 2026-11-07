@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_b5a27cb145",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Nem voltak egyértelműek a kuponfeltételek, 69 millióra bírságolták az Auchant",
-        "link": "https://www.atv.hu/belfold/20261106/kupon-millio-birsag-auchan/",
-        "image": "https://www.youtube.com/embed/A1IzayB8QCg",
-        "summary": "A Gazdasági Versenyhivatal (GVH) 69 millió forintos bírságot szabott ki az Auchanra tisztességtelen kereskedelmi gyakorlat miatt. A hatóság csütörtöki tájékoztatása szerint a vállalat több kuponakciója során nem tájékoztatta megfelelően a fogyasztókat a kedvezmények igénybevételének feltételeiről.",
-        "category": "Általános",
-        "published_at": 1793934240
-      }
-    ]
-  },
-  {
     "group_id": "group_87b8d0fbcd",
     "category": "Kultúra",
     "articles_count": 1,
@@ -44,22 +28,6 @@
         "summary": "A miniszter már egy éve előrevetítette, hogy kormányon a Tisza azt csinálhat, amit csak akar.",
         "category": "Politika",
         "published_at": 1793934600
-      }
-    ]
-  },
-  {
-    "group_id": "group_e7baff50e0",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Vona Gábor: „Nem vagyok hajlandó eltűrni azt, hogy valaki nácizzon engem\"",
-        "link": "https://nlc.hu/ezvan/20261106/vona-gabor-a-nacizasrol/n1dyh45",
-        "image": "",
-        "summary": "Vona Gábor hevesen fejtette ki véleményét. Elmondta, miért nem tűri el, hogy nácinak nevezzék őt. The post Vona Gábor: „Nem vagyok hajlandó eltűrni azt, hogy valaki nácizzon engem\" first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1793934180
       }
     ]
   },
@@ -3414,7 +3382,7 @@
   {
     "group_id": "group_d2ef48f252",
     "category": "Bulvár",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Femina",
@@ -3424,6 +3392,15 @@
         "summary": "Súlyos belső sérüléseket okozhat ez a játék.",
         "category": "Bulvár",
         "published_at": 1793955900
+      },
+      {
+        "source": "ATV",
+        "title": "Életveszélyes lehet ez a népszerű gyerekjáték, riasztást adott ki a fogyasztóvédelem",
+        "link": "https://www.atv.hu/belfold/20261107/fogyasztovedelem-vizgyongy-keszlet/",
+        "image": "",
+        "summary": "Súlyos belső sérüléseket, akár életveszélyes szervi elzáródást is okozhat egy gyermekeknek szánt vízgyöngy készlet. A fogyasztóvédelem ezért figyelmeztetést adott ki: a Panduro márkájú termék két változatát visszahívják. Magyar vásárlók is érintettek lehetnek.",
+        "category": "Általános",
+        "published_at": 1794020640
       }
     ]
   },
@@ -11607,6 +11584,22 @@
         "summary": "A Vasas a Kisvárda, a Vác pedig a Mosonmagyaróvár otthonában nyert egy góllal a női kézilabda NB I-ben. The post „Sokszor az előre megbeszélt szituációkat sem oldjuk meg megfelelően” – megint kikapott a Mosonmagyaróvár first appeared on 24.hu.",
         "category": "Sport",
         "published_at": 1794018781
+      }
+    ]
+  },
+  {
+    "group_id": "group_af4b98c622",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "A pörgő pizza tésztájához hasonló fizikai trükk választja el a Naprendszert a káosztól: ezért kering szinte minden bolygó egyetlen síkban",
+        "link": "https://raketa.hu/porgo-pizza-fizikai-trukk-naprendszer-bolygok-sikja/",
+        "image": "https://raketa.hu/uploads/2026/10/solar-system.jpg",
+        "summary": "Bár a bolygók látszólag tökéletes óraműpontossággal masíroznak egyetlen láthatatlan síkon az égen, a háttérben egy olyan ősi fizikai törvény kényszerítette rájuk ezt a szigorú rendet, amely nélkül a Naprendszer ma egy teljesen kezelhetetlen káosz lenne.",
+        "category": "Politika",
+        "published_at": 1794020904
       }
     ]
   }
