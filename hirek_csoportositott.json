@@ -16,53 +16,10 @@
     ]
   },
   {
-    "group_id": "group_7c000ac92c",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "HVG - Világ",
-        "title": "Klímavédelmi és palesztinpárti tüntetők törtek be Amszterdamban a Microsoft egy építési területére",
-        "link": "https://hvg.hu/vilag/20261106_tuntetes-amszterdam-microsoft-izrael",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/59af30a3-a0f0-402a-a921-1b8e723018a6.jpg",
-        "summary": "A tüntetőknek azzal volt bajuk, hogy a multicég egy adatközpontot akar létrehozni a városban és szerintük az túl sok energiát fogyasztana, továbbá a Microsoft hozzájárul a palesztinok elnyomásához, mivel a vállalat többek között az izraeli hadsereg számára is biztosít adatkezelési szolgáltatásokat.",
-        "category": "Politika",
-        "published_at": 1793997720
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Forrnak az indulatok a Microsoft amszterdami adatközpontja miatt, több százan tüntettek a beruházás ellen",
-        "link": "https://index.hu/kulfold/2026/11/07/hollandia-amszterdam-microsoft-adatkozpont-tuntetes-rendorseg-orizetbe-vetel/",
-        "image": "https://kep.index.hu/1/0/7246/72461/724614/72461491_5339719_2de7bddcbb808aa46a56950d2b7367aa_wm.jpg",
-        "summary": "A rendőrök több demonstrálót is őrizetbe vettek.",
-        "category": "Általános",
-        "published_at": 1794034740
-      },
-      {
-        "source": "Rakéta.hu",
-        "title": "Darukra másztak és füstbombákat gyújtottak az AI ellen tiltakozó tüntetők a Microsoft épülő adatközpontjánál",
-        "link": "https://raketa.hu/tuntetes-microsoft-adatkozpont-demonstracio-hollandia/",
-        "image": "https://raketa.hu/uploads/2026/11/microsoftaktiv.jpg",
-        "summary": "Több száz tüntető hatolt be pénteken Amszterdamban az építési területre, ahol a Microsoft új adatközpontot tervez építeni. A rendőrség több demonstrálót őrizetbe vett, és paprikaspray-t is bevetett a tiltakozók ellen.",
-        "category": "Kultúra",
-        "published_at": 1794083793
-      }
-    ]
-  },
-  {
     "group_id": "group_a56f1e9733",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Várhatóan Ilse Aigner, a bajor parlament jelenlegi elnöke lesz Németország első női elnöke",
-        "link": "https://index.hu/kulfold/2026/11/06/ilsi-aigner-nemetorszag-elso-noi-elnoke-csu/",
-        "image": "https://kep.index.hu/1/0/7246/72461/724614/72461461_5339717_edbef1ded8479056496a47ab7631055e_wm.jpg",
-        "summary": "A 77 éve létrejött köztársaságnak még nem volt női államfője.",
-        "category": "Politika",
-        "published_at": 1793997780
-      },
       {
         "source": "444.hu",
         "title": "A bajor Ilse Aigner személyében női államfője lehet Németországnak, először a történelem során",
@@ -1598,6 +1555,31 @@
         "summary": "Ókovács Szilveszter szerint súlyos hiba volt megválni Főző Virágtól.",
         "category": "Politika",
         "published_at": 1794034263
+      }
+    ]
+  },
+  {
+    "group_id": "group_7c000ac92c",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Forrnak az indulatok a Microsoft amszterdami adatközpontja miatt, több százan tüntettek a beruházás ellen",
+        "link": "https://index.hu/kulfold/2026/11/07/hollandia-amszterdam-microsoft-adatkozpont-tuntetes-rendorseg-orizetbe-vetel/",
+        "image": "https://kep.index.hu/1/0/7246/72461/724614/72461491_5339719_2de7bddcbb808aa46a56950d2b7367aa_wm.jpg",
+        "summary": "A rendőrök több demonstrálót is őrizetbe vettek.",
+        "category": "Általános",
+        "published_at": 1794034740
+      },
+      {
+        "source": "Rakéta.hu",
+        "title": "Darukra másztak és füstbombákat gyújtottak az AI ellen tiltakozó tüntetők a Microsoft épülő adatközpontjánál",
+        "link": "https://raketa.hu/tuntetes-microsoft-adatkozpont-demonstracio-hollandia/",
+        "image": "https://raketa.hu/uploads/2026/11/microsoftaktiv.jpg",
+        "summary": "Több száz tüntető hatolt be pénteken Amszterdamban az építési területre, ahol a Microsoft új adatközpontot tervez építeni. A rendőrség több demonstrálót őrizetbe vett, és paprikaspray-t is bevetett a tiltakozók ellen.",
+        "category": "Kultúra",
+        "published_at": 1794084214
       }
     ]
   },
