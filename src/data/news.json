@@ -1483,6 +1483,37 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_35268d15a9",
+    "fingerprint": "3e4430f5bdec4cdf5311922f87f211d4",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/_/h/d-hr20261104004-1-867608.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Magyar Péter ma este több embert is kirúgott",
+        "link": "https://www.portfolio.hu/gazdasag/20261106/magyar-peter-ma-este-tobb-embert-is-kirugott-874846"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Három helyettes államtitkár is távozik a Szociális és Családügyi Minisztériumból",
+        "link": "https://telex.hu/belfold/2026/11/06/szocialis-es-csaladugyi-miniszterium-videk-es-telepulesfejlesztesi-miniszterium-allamtitkar"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Szép csendben zaljott le a kormányon belüli kirúgási hullám, Magyar Péter erről nem sokat beszélt, már hivatalos – alig néhány hónap után repültek minisztériumi vezetők",
+        "link": "https://www.vg.hu/kozelet/2026/11/allamtitkar-kirugas-kormany-magyar-peter-kozlony?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794003157,
+    "title_hu": "Több minisztériumban is vezetőváltásokat jelentettek be",
+    "lead_hu": "Három helyettes államtitkár távozik a Szociális és Családügyi Minisztériumból, közülük kettőt felmentettek, egy pedig lemondott. A Vidék- és Településfejlesztési Minisztériumban is személyi változások történtek: távozik egy helyettes államtitkár és Szabó Mátyás államtitkár, utóbbi tisztségét Szabó Tibor veszi át.",
+    "content_hu": "• **November 7-i távozások** Bódy Éva saját lemondására távozik a Szociális és Családügyi Minisztériumból; Réthy Pált és Sepsey Krisztinát a miniszter javaslatára mentik fel.\n\n• **Új helyettes államtitkárok** Ghyczy Gellért november 8-án, Vécsei Dávid Bence november 11-én lép hivatalba a tárcánál. A kinevezési határozatok nem részletezik, mely szakterületeket irányítják majd.\n\n• **Változások a vidékfejlesztési tárcánál** Verhás Georgina Jennifer lemond, Szabó Mátyás államtitkárt pedig felmentik. Szabó Tibor, a Tisza Párt országgyűlési képviselője veszi át az államtitkári tisztséget.",
+    "importance_score": 33.0
+  },
+  {
     "group_id": "group_a56f1e9733",
     "fingerprint": "0a7a14969dffa967ab482bebd3f42898",
     "category": "Politika",
@@ -2067,6 +2098,30 @@
     "importance_score": 25.0
   },
   {
+    "group_id": "group_aa1f812207",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Rálőttek a rendőrök egy autósra, aki ezután az M0-son forgalommal szemben próbált elmenekülni, végül balesetezett",
+        "link": "https://444.hu/2026/11/06/ralottek-a-rendorok-egy-autosra-aki-ezutan-az-m0-son-forgalommal-szemben-probalt-elmenekulni-vegul-balesetezett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Videó került elő az M0-son történt autósüldözésről",
+        "link": "https://24.hu/belfold/2026/11/07/m0-autosuldozes-video-rendorseg/"
+      }
+    ],
+    "published_at": 1793972566,
+    "title_hu": "Rálőttek a rendőrök egy autósra, aki ezután az M0-son forgalommal szemben próbált elmenekülni, végül balesetezett",
+    "lead_hu": "A több településen át tartó üldözés a szalagkorlátban ért véget, a menekülő sofőr két utasa kórházba került.",
+    "content_hu": "A több településen át tartó üldözés a szalagkorlátban ért véget, a menekülő sofőr két utasa kórházba került.",
+    "importance_score": 25.0
+  },
+  {
     "group_id": "group_c96bf462c4",
     "category": "Gazdaság",
     "image": "https://pcdn.hu/articles/images-xl/e/u/r/europai-vadaszrepulo-replgp-aviation-repls-drn-haditechnika-lgier-hadiipar-803080.jpg",
@@ -2139,32 +2194,6 @@
     "lead_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
     "content_hu": "Jennie Garth mellett egy másik régi kedvenc is felbukkan friss képén a sorozatból.",
     "importance_score": 25.0
-  },
-  {
-    "group_id": "group_35268d15a9",
-    "fingerprint": "3e4430f5bdec4cdf5311922f87f211d4",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/_/h/d-hr20261104004-1-867608.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Magyar Péter ma este több embert is kirúgott",
-        "link": "https://www.portfolio.hu/gazdasag/20261106/magyar-peter-ma-este-tobb-embert-is-kirugott-874846"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Három helyettes államtitkár is távozik a Szociális és Családügyi Minisztériumból",
-        "link": "https://telex.hu/belfold/2026/11/06/szocialis-es-csaladugyi-miniszterium-videk-es-telepulesfejlesztesi-miniszterium-allamtitkar"
-      }
-    ],
-    "published_at": 1794003157,
-    "title_hu": "Több minisztériumban is vezetőváltásokat jelentettek be",
-    "lead_hu": "Három helyettes államtitkár távozik a Szociális és Családügyi Minisztériumból, közülük kettőt felmentettek, egy pedig lemondott. A Vidék- és Településfejlesztési Minisztériumban is személyi változások történtek: távozik egy helyettes államtitkár és Szabó Mátyás államtitkár, utóbbi tisztségét Szabó Tibor veszi át.",
-    "content_hu": "• **November 7-i távozások** Bódy Éva saját lemondására távozik a Szociális és Családügyi Minisztériumból; Réthy Pált és Sepsey Krisztinát a miniszter javaslatára mentik fel.\n\n• **Új helyettes államtitkárok** Ghyczy Gellért november 8-án, Vécsei Dávid Bence november 11-én lép hivatalba a tárcánál. A kinevezési határozatok nem részletezik, mely szakterületeket irányítják majd.\n\n• **Változások a vidékfejlesztési tárcánál** Verhás Georgina Jennifer lemond, Szabó Mátyás államtitkárt pedig felmentik. Szabó Tibor, a Tisza Párt országgyűlési képviselője veszi át az államtitkári tisztséget.",
-    "importance_score": 23.0
   },
   {
     "group_id": "group_45a1e1967a",
@@ -7355,25 +7384,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_aa1f812207",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Rálőttek a rendőrök egy autósra, aki ezután az M0-son forgalommal szemben próbált elmenekülni, végül balesetezett",
-        "link": "https://444.hu/2026/11/06/ralottek-a-rendorok-egy-autosra-aki-ezutan-az-m0-son-forgalommal-szemben-probalt-elmenekulni-vegul-balesetezett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793972566,
-    "title_hu": "Rálőttek a rendőrök egy autósra, aki ezután az M0-son forgalommal szemben próbált elmenekülni, végül balesetezett",
-    "lead_hu": "A több településen át tartó üldözés a szalagkorlátban ért véget, a menekülő sofőr két utasa kórházba került.",
-    "content_hu": "A több településen át tartó üldözés a szalagkorlátban ért véget, a menekülő sofőr két utasa kórházba került.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_1580ad474b",
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261105/1793870170-temp-8amfs7svt018dgpplid_cimlap-normal.jpg",
@@ -12425,63 +12435,6 @@
     "title_hu": "Elég csak ránézni erre a képre, hogy mindenki tudja reggel, mi a dolga",
     "lead_hu": "Felvenni az összes létező meleg ruhát.",
     "content_hu": "Felvenni az összes létező meleg ruhát.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_632879ab8b",
-    "category": "Kultúra",
-    "image": "https://raketa.hu/uploads/2026/11/orvos-doktor2-unsplash.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Új vérteszt segíthet korábban felismerni a legveszélyesebb daganatokat",
-        "link": "https://raketa.hu/uj-verteszt-segithet-korabban-felismerni-a-legveszelyesebb-daganatokat/"
-      }
-    ],
-    "published_at": 1793942898,
-    "title_hu": "Új vérteszt segíthet korábban felismerni a legveszélyesebb daganatokat",
-    "lead_hu": "A programban több mint 20 ezer beteg vesz részt, a cél pedig az, hogy a rákot még azelőtt észrevegyék, mielőtt súlyosabb tünetek jelentkeznének.",
-    "content_hu": "A programban több mint 20 ezer beteg vesz részt, a cél pedig az, hogy a rákot még azelőtt észrevegyék, mielőtt súlyosabb tünetek jelentkeznének.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_1e08d55a21",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1988707979-e1793942772493-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Napos, száraz péntek jön, szombaton lehűlés kezdődik Budapesten",
-        "link": "https://24.hu/belfold/2026/11/06/idojaras-elorejelzes-november-6/"
-      }
-    ],
-    "published_at": 1793942814,
-    "title_hu": "Napos, száraz péntek jön, szombaton lehűlés kezdődik Budapesten",
-    "lead_hu": "Pénteken még 13 fok is lehet napközben. The post Napos, száraz péntek jön, szombaton lehűlés kezdődik Budapesten first appeared on 24.hu.",
-    "content_hu": "Pénteken még 13 fok is lehet napközben. The post Napos, száraz péntek jön, szombaton lehűlés kezdődik Budapesten first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e0381646ba",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Rémálom a köbön: több mint 3000, koszos zoknikban csempészett madárpókot találtak egy perui repülőtéren",
-        "link": "https://444.hu/2026/11/06/remalom-a-kobon-tobb-mint-3000-koszos-zoknikban-csempeszett-madarpokot-talaltak-egy-perui-repuloteren?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1793942680,
-    "title_hu": "Rémálom a köbön: több mint 3000, koszos zoknikban csempészett madárpókot találtak egy perui repülőtéren",
-    "lead_hu": "A pókokat Németországba akarták csempészni, ahol akár másfél millió eurót is begyűjthettek volna a példányokért.",
-    "content_hu": "A pókokat Németországba akarták csempészni, ahol akár másfél millió eurót is begyűjthettek volna a példányokért.",
     "importance_score": 0.0
   },
   {

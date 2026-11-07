@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_632879ab8b",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Új vérteszt segíthet korábban felismerni a legveszélyesebb daganatokat",
-        "link": "https://raketa.hu/uj-verteszt-segithet-korabban-felismerni-a-legveszelyesebb-daganatokat/",
-        "image": "https://raketa.hu/uploads/2026/11/orvos-doktor2-unsplash.jpg",
-        "summary": "A programban több mint 20 ezer beteg vesz részt, a cél pedig az, hogy a rákot még azelőtt észrevegyék, mielőtt súlyosabb tünetek jelentkeznének.",
-        "category": "Kultúra",
-        "published_at": 1793942898
-      }
-    ]
-  },
-  {
     "group_id": "group_5944dc8981",
     "category": "Politika",
     "articles_count": 1,
@@ -28,38 +12,6 @@
         "summary": "Ligetvári Patrik házasságról beszélt, az új szövetségi kapitány és Győri Mátyás is értékelte a biztató selejtezős kezdetet.",
         "category": "Politika",
         "published_at": 1793953742
-      }
-    ]
-  },
-  {
-    "group_id": "group_e0381646ba",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Rémálom a köbön: több mint 3000, koszos zoknikban csempészett madárpókot találtak egy perui repülőtéren",
-        "link": "https://444.hu/2026/11/06/remalom-a-kobon-tobb-mint-3000-koszos-zoknikban-csempeszett-madarpokot-talaltak-egy-perui-repuloteren?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A pókokat Németországba akarták csempészni, ahol akár másfél millió eurót is begyűjthettek volna a példányokért.",
-        "category": "Politika",
-        "published_at": 1793942680
-      }
-    ]
-  },
-  {
-    "group_id": "group_1e08d55a21",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Napos, száraz péntek jön, szombaton lehűlés kezdődik Budapesten",
-        "link": "https://24.hu/belfold/2026/11/06/idojaras-elorejelzes-november-6/",
-        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1988707979-e1793942772493-1024x577.jpg",
-        "summary": "Pénteken még 13 fok is lehet napközben. The post Napos, száraz péntek jön, szombaton lehűlés kezdődik Budapesten first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1793942814
       }
     ]
   },
@@ -677,31 +629,6 @@
     ]
   },
   {
-    "group_id": "group_0d54051694",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Hivatalos a szerbiai választás végeredménye, harminc napon belül megalakul az új parlament",
-        "link": "https://telex.hu/kulfold/2026/11/06/szerbiai-valasztas-hivatalos-vegeredmeny",
-        "image": "https://assets.telex.hu/images/20261106/1793942696-temp-s09tb9h10osh0lonhdh_cimlap-normal.jpg",
-        "summary": "Az Egyetemista Lista 140, Aleksandar Vučić pártkoalíciója 103 mandátumot szerzett.",
-        "category": "Politika",
-        "published_at": 1793942717
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Hivatalos a szerb választás végeredménye, egyedül alakíthat kormányt az Egyetemista Lista",
-        "link": "https://hvg.hu/vilag/20261106_szerbia-parlamenti-valasztas-hivatalos-vegeredmeny-egyetemista-lista-kormanyalakitas",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9533a767-7e44-4f59-8347-0e3ad068afa6.jpg",
-        "summary": "Az új parlament alakuló ülését harminc napon belül kell megtartani, majd kilencven nap áll rendelkezésre a kormányalakításra.",
-        "category": "Politika",
-        "published_at": 1793947465
-      }
-    ]
-  },
-  {
     "group_id": "group_cb1f760865",
     "category": "Bulvár",
     "articles_count": 1,
@@ -867,6 +794,22 @@
         "summary": "A gibraltári Lincoln Red Imps egy öngóllal legyőzte az eddig hibátlan Hajduk Splitet. The post Konferencia Liga: a szezon legkínosabb vereségét szenvedte el a horvát listavezető first appeared on 24.hu.",
         "category": "Sport",
         "published_at": 1793947573
+      }
+    ]
+  },
+  {
+    "group_id": "group_0d54051694",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Világ",
+        "title": "Hivatalos a szerb választás végeredménye, egyedül alakíthat kormányt az Egyetemista Lista",
+        "link": "https://hvg.hu/vilag/20261106_szerbia-parlamenti-valasztas-hivatalos-vegeredmeny-egyetemista-lista-kormanyalakitas",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9533a767-7e44-4f59-8347-0e3ad068afa6.jpg",
+        "summary": "Az új parlament alakuló ülését harminc napon belül kell megtartani, majd kilencven nap áll rendelkezésre a kormányalakításra.",
+        "category": "Politika",
+        "published_at": 1793947465
       }
     ]
   },
@@ -6835,7 +6778,7 @@
   {
     "group_id": "group_aa1f812207",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "444.hu",
@@ -6845,6 +6788,15 @@
         "summary": "A több településen át tartó üldözés a szalagkorlátban ért véget, a menekülő sofőr két utasa kórházba került.",
         "category": "Politika",
         "published_at": 1793972566
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Videó került elő az M0-son történt autósüldözésről",
+        "link": "https://24.hu/belfold/2026/11/07/m0-autosuldozes-video-rendorseg/",
+        "image": "https://s.24.hu/app/uploads/2026/11/2-1-1-e1794029046839-1024x577.jpg",
+        "summary": "A menekülő járművet három rendőrautó üldözte a forgalommal szemben több településen át. The post Videó került elő az M0-son történt autósüldözésről first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794029077
       }
     ]
   },
@@ -10757,7 +10709,7 @@
   {
     "group_id": "group_35268d15a9",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -10776,6 +10728,15 @@
         "summary": "A Vidék- és Településfejlesztési Minisztériumnál is történtek személyi változások.",
         "category": "Politika",
         "published_at": 1794003157
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Szép csendben zaljott le a kormányon belüli kirúgási hullám, Magyar Péter erről nem sokat beszélt, már hivatalos – alig néhány hónap után repültek minisztériumi vezetők",
+        "link": "https://www.vg.hu/kozelet/2026/11/allamtitkar-kirugas-kormany-magyar-peter-kozlony?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/2afKKj3BdUJEmF8_sITWQ_m8AxT54fRlPfCA9qKlKRo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2YjQ5MDRjZDUyNjQ4OTk5MmM1ODgxMjU1MjA5NTBl.jpg",
+        "summary": "Egyesek helyére újak érkeznek, de van olyan tárca, ahol még nem nevezeték meg a távozó utódját.",
+        "category": "Politika",
+        "published_at": 1794028700
       }
     ]
   },
@@ -10999,7 +10960,7 @@
         "image": "https://raketa.hu/uploads/2026/11/addis-abeba_etiopia-unsplash.jpg",
         "summary": "A döntést inkább gazdasági kényszer szülte, mintsem klímavédelmi megfontolások, mégis ez tette a kelet-afrikai országot az elektromos közlekedés egyik legizgalmasabb laboratóriumává a világon.",
         "category": "Kultúra",
-        "published_at": 1794028949
+        "published_at": 1794029151
       }
     ]
   },
