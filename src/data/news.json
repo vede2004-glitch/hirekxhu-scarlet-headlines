@@ -631,32 +631,6 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_a8e6ed457c",
-    "fingerprint": "a431baedded151f15b33def9c4f67ef4",
-    "category": "Általános",
-    "image": "https://pcdn.hu/articles/images-lg/b/a/l/baleset-miatt-dugo-az-m3-ason-293831.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Baleset történt a Balatonnál: felborult egy jármű, kerülni kell az érintett útszakaszon",
-        "link": "https://www.portfolio.hu/gazdasag/20261107/baleset-tortent-a-balatonnal-felborult-egy-jarmu-kerulni-kell-az-erintett-utszakaszon-874902"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Tragédia Balatonújlaknál a 68-as főúton, közlekedési balesetben halt meg egy ember",
-        "link": "https://index.hu/belfold/2026/11/07/balatonujlak-kozlekedesi-baleset-ember-meghalt-katasztrofavedelem/"
-      }
-    ],
-    "published_at": 1794072840,
-    "title_hu": "Halálos baleset történt a 68-as főúton, Balatonújlak közelében",
-    "lead_hu": "Egy nő életét vesztette, miután egy furgon és egy személyautó összeütközött a 68-as főúton, Balatonújlak közelében. A baleset miatt az egyik jármű az árokba sodródott és felborult, az utat lezárták.",
-    "content_hu": "• **Egy ember meghalt:** A szombat délutáni karambolban egy nő olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.\n\n• **Hárman utaztak a járművekben:** A furgonban és a személyautóban összesen három ember volt; a marcali tűzoltók egy utast feszítővágó segítségével szabadítottak ki.\n\n• **Lezárták a 68-as főutat:** Az egyik jármű az árokba sodródott és az oldalára borult. A 93-as kilométerszelvénynél teljes szélességében lezárták az utat, kerülni Balatonkeresztúr felé lehetett.",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_a852433376",
     "fingerprint": "4d43957bfeec168fd7a658298ff66f04",
     "category": "Bulvár",
@@ -857,6 +831,32 @@
     "lead_hu": "A kormányzati videó szerint a Wekerle Plusz lakáshitel azoknak is elérhető lehet, akiknek korábban legfeljebb 50 százalékos tulajdonrészük volt egy lakásban. A hatályos rendelet viszont már az 50 százalékos tulajdoni hányadot is kizáró okként határozza meg, és egyelőre nem látható, hogy módosították volna a szabályt.",
     "content_hu": "• **Eltérő tájékoztatás** Szondi Vanda kormányszóvivő egy Facebook-videóban azt közölte, hogy a korábbi vagy jelenlegi lakástulajdonban fennálló, 50 százalékot meg nem haladó részesedés nem zárja ki a Wekerle Plusz igénylését.\n\n• **A rendelet szigorúbb** A 298/2026. (X. 27.) kormányrendelet szerint főszabály alapján az érintett korábban nem rendelkezhetett lakásban 50 százalékot elérő tulajdoni hányaddal. Így a 49 százalékos részesedés még beleférhet, az 50 százalékos viszont már kizáró ok lehet.\n\n• **Nem tisztázott, mi okozza az ellentmondást** A kormányzati videó alapján akár a jogosultak körének bővítése is felmerülhet, de ehhez a rendelet módosítására lenne szükség. A források szerint a hatályos jogszabályban ilyen változásnak nincs nyoma, ezért a jogosultság megítélésénél egyelőre a rendelet az irányadó.\n\n• **A Wekerle Plusz főbb feltételei** A program a 18–45 éveseket célozza, legfeljebb 50 millió forintos hitelösszeggel és 25 éves futamidővel. A kamat használt lakás vásárlásakor 5 százalék, új lakás vásárlásakor vagy építésekor 3 százalék.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_a8e6ed457c",
+    "fingerprint": "a431baedded151f15b33def9c4f67ef4",
+    "category": "Általános",
+    "image": "https://pcdn.hu/articles/images-lg/b/a/l/baleset-miatt-dugo-az-m3-ason-293831.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Baleset történt a Balatonnál: felborult egy jármű, kerülni kell az érintett útszakaszon",
+        "link": "https://www.portfolio.hu/gazdasag/20261107/baleset-tortent-a-balatonnal-felborult-egy-jarmu-kerulni-kell-az-erintett-utszakaszon-874902"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Tragédia Balatonújlaknál a 68-as főúton, közlekedési balesetben halt meg egy ember",
+        "link": "https://index.hu/belfold/2026/11/07/balatonujlak-kozlekedesi-baleset-ember-meghalt-katasztrofavedelem/"
+      }
+    ],
+    "published_at": 1794072840,
+    "title_hu": "Halálos baleset történt a 68-as főúton, Balatonújlak közelében",
+    "lead_hu": "Egy nő életét vesztette, miután egy furgon és egy személyautó összeütközött a 68-as főúton, Balatonújlak közelében. A baleset miatt az egyik jármű az árokba sodródott és felborult, az utat lezárták.",
+    "content_hu": "• **Egy ember meghalt:** A szombat délutáni karambolban egy nő olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.\n\n• **Hárman utaztak a járművekben:** A furgonban és a személyautóban összesen három ember volt; a marcali tűzoltók egy utast feszítővágó segítségével szabadítottak ki.\n\n• **Lezárták a 68-as főutat:** Az egyik jármű az árokba sodródott és az oldalára borult. A 93-as kilométerszelvénynél teljes szélességében lezárták az utat, kerülni Balatonkeresztúr felé lehetett.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_7f43d9f83d",
@@ -1550,6 +1550,82 @@
     "lead_hu": "Észszerűbb lenne egyetlen új gázerőművet sem építeni Magyarországon – véli Mezősi András, a BCE REKK főmunkatársa.",
     "content_hu": "Észszerűbb lenne egyetlen új gázerőművet sem építeni Magyarországon – véli Mezősi András, a BCE REKK főmunkatársa.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_10614d79b4",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/zoh_jMGiNTcNLF2lvdDepM8_5DROYF_9KaZ4rPjUk9I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1OGRjNjI4MjI2NjRiNzZiZTZhMDUxZWM4Y2Q1Mjkx.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Verstappen és Hamilton is a sor végén büntetés miatt az esős időmérő után",
+        "link": "https://magyarnemzet.hu/sport/2026/11/verstappen-hamilton-buntetes-f1-idomero-eso-sao-paulo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794083701,
+    "title_hu": "Verstappen és Hamilton is a sor végén büntetés miatt az esős időmérő után",
+    "lead_hu": "Lando Norris indulhat az élről a vasárnapi versenyen....",
+    "content_hu": "Lando Norris indulhat az élről a vasárnapi versenyen.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_dbfbdbcb3e",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Meghalt Rothermel Ádám",
+        "link": "https://index.hu/sport/futball/2026/11/07/halalhir-rothermel-adam-magyar-valogatott-olimpia-1972-munchen-ezusterem-ujpest-magyar-bajnok/"
+      }
+    ],
+    "published_at": 1794083520,
+    "title_hu": "Meghalt Rothermel Ádám",
+    "lead_hu": "„Hat héten át tartó, emberfeletti harcot vívott, de a teste végül feladta a harcot.”...",
+    "content_hu": "„Hat héten át tartó, emberfeletti harcot vívott, de a teste végül feladta a harcot.”",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a7695fc57d",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261107/1794080736-temp-1gscpnoo6iasbjgjabe_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Eső miatt 1,5 órát állt a brazil időmérő, Norris nagy csatában nyert",
+        "link": "https://telex.hu/sport/2026/11/07/forma-1-f1-brazilia-sao-paulo-i-nagydij"
+      }
+    ],
+    "published_at": 1794083403,
+    "title_hu": "Eső miatt 1,5 órát állt a brazil időmérő, Norris nagy csatában nyert",
+    "lead_hu": "Norris sorban harmadszor nyerte az interlagosi időmérőt, ezúttal hatalmas esőben....",
+    "content_hu": "Norris sorban harmadszor nyerte az interlagosi időmérőt, ezúttal hatalmas esőben.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_aa2f65a568",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/TZtujMnmoMSy2JaOVTSsRDkjXKYODcwsfU1GF_BV-3k/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAxNWYyNDk3NDNmNjRmODhiODE5MmIwYzVlYzVkNDdi.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Elképesztő részlet derült ki Sebastian Kurz bukásáról, a világ egyik legkeresettebb szökevénye állítja: ő okozta",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/sebastian-kurz-bukasa-orosz-kem?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794083229,
+    "title_hu": "Elképesztő részlet derült ki Sebastian Kurz bukásáról, a világ egyik legkeresettebb szökevénye állítja: ő okozta",
+    "lead_hu": "A volt kancellár nem kommentál, de lássuk, mit állít az orosz kém....",
+    "content_hu": "A volt kancellár nem kommentál, de lássuk, mit állít az orosz kém.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_908c54cc5f",
@@ -9244,44 +9320,6 @@
     "title_hu": "Manfred Weberék küldöttséget küldtek Magyarországra, értékelték a Tisza-kormány munkáját – „Ez egy történelmi vállalkozás”",
     "lead_hu": "A delegáció a jogállamiság és a demokratikus intézmények helyzetét vizsgálta.",
     "content_hu": "A delegáció a jogállamiság és a demokratikus intézmények helyzetét vizsgálta.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_fa8d9ad0d8",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/lannert-judit-e1793996647181-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Lannert Judit szerint az előző kormány kérdőívében is szerepelt a kérdés, ami alapján a „genderszemlélet” terjesztésével vádolja Rétvári Bence",
-        "link": "https://24.hu/belfold/2026/11/06/lannert-judit-szerint-az-elozo-kormany-kerdoiveben-is-szerepelt-a-kerdes-ami-alapjan-a-genderszemlelet-terjesztesevel-vadolja-retvari-bence/"
-      }
-    ],
-    "published_at": 1793997247,
-    "title_hu": "Lannert Judit szerint az előző kormány kérdőívében is szerepelt a kérdés, ami alapján a „genderszemlélet” terjesztésével vádolja Rétvári Bence",
-    "lead_hu": "A kérdőívet a tartalma és „a felfoghatatlanul nagy adminisztrációs teher” miatt a Pedagógusok Demokratikus Szakszervezete is kritizálta. The post Lannert Judit szerint az előző kormány kérdőívében is …",
-    "content_hu": "A kérdőívet a tartalma és „a felfoghatatlanul nagy adminisztrációs teher” miatt a Pedagógusok Demokratikus Szakszervezete is kritizálta. The post Lannert Judit szerint az előző kormány kérdőívében is szerepelt a kérdés, ami alapján a „genderszemlélet” terjesztésével vádolja Rétvári Bence first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_559fa9377b",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Rutte: Ukrajna valószínűleg nem szerzi vissza az összes elveszített területét, a háború pedig kompromisszummal érhet véget",
-        "link": "https://www.vadhajtasok.hu/2026/11/06/rutte-ukrajna-valoszinuleg-nem-szerzi-vissza-az-osszes-elveszitett-teruletet-a-haboru-pedig-kompromisszummal-erhet-veget"
-      }
-    ],
-    "published_at": 1793997000,
-    "title_hu": "Rutte: Ukrajna valószínűleg nem szerzi vissza az összes elveszített területét, a háború pedig kompromisszummal érhet véget",
-    "lead_hu": "Arra a kérdésre, hogy a háborúban bármelyik fél arathat-e teljes győzelmet, a NATO főtitkára nemmel válaszolt.",
-    "content_hu": "Arra a kérdésre, hogy a háborúban bármelyik fél arathat-e teljes győzelmet, a NATO főtitkára nemmel válaszolt.",
     "importance_score": 0.0
   },
   {
