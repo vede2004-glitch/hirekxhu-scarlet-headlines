@@ -384,7 +384,7 @@
     "title_hu": "Egymilliárdos Erzsébet-tábor-reklám miatt tett feljelentést a miniszter",
     "lead_hu": "Kátai-Németh Vilmos szociális és családügyi miniszter hűtlen kezelés gyanúja miatt tett feljelentést, miután a tárca vizsgálata szerint a választás előtt több mint egymilliárd forint közpénzt fordítottak az Erzsébet-táborok reklámozására. A minisztérium szerint nem készült olyan szakmai indokolás vagy hatástanulmány, amely alátámasztotta volna a költés szükségességét.",
     "content_hu": "• **Több mint egymilliárd forint közpénz** ment el az Erzsébet-táborok reklámozására az áprilisi választás előtti időszakban.\n\n• **Kátai-Németh Vilmos feljelentést tett** hűtlen kezelés gyanúja miatt; a miniszter szerint a reklámköltésre nem volt szakmai indok, a pénzt a rászoruló gyermekek nyaraltatására is fordíthatták volna.\n\n• **Bruttó egymilliárdos megrendelés**: a tárca közlése szerint a jogelőd Kulturális és Innovációs Minisztérium 2026. február 16-án a New Land Media Kft.-től rendelt hirdetéseket, egy bruttó 3,6 milliárd forintos keretszerződés terhére.\n\n• **Hiányzó szakmai alátámasztás**: a minisztériumi vizsgálat szerint nem készült a költés szükségességét igazoló indokolás vagy hatástanulmány, és a megrendelés nem határozta meg a kampány konkrét célját, célcsoportját vagy elvárt eredményeit.\n\n• **Koncz Zsófia is közreműködött** a megrendelések előkészítésében a miniszter állítása szerint. A hirdetési megrendelések között a Mandiner és a TV2 is szerepelt, egyenként több mint 40 millió forintos összeggel.",
-    "importance_score": 68.0
+    "importance_score": 63.0
   },
   {
     "group_id": "group_b3f01243ff",
@@ -1740,28 +1740,42 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_b151cdbc85",
-    "category": "Kultúra",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2609/09/iphone_18_pro_203150_2_original_390x220_cover.jpg",
+    "group_id": "group_41449789ed",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/NyhRLzhKVGyjThkVcQa1wvZn2_xa-KnqU5EaSSK73cY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MyMDAyMTAwNDJlMjQyMjNiNDg2YjViNDIxNDkxMjRh.webp",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "PC World",
-        "title": "Az Apple egymaga teszi zsebre a globális mobilpiac bevételének a felét",
-        "link": "https://www.gsplus.hu/pcw/apple-okostelefon-eladasok-samsung-xiaomi-oppo-vivo-390512.html"
-      },
-      {
-        "source": "PC World",
-        "title": "Az Apple egymaga teszi zsebre a globális mobilpiac bevételének a felét",
-        "link": "https://www.gsplus.hu/pcw/marha-sokat-keresett-az-apple-de-a-memoriaarak-neki-is-fajtak-390395.html"
+        "source": "Hír TV",
+        "title": "Szűcs Gábor: Aránytalan Pócs János háromnapos kitiltása az Országgyűlésből",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/szucs-gabor-aranytalan-pocs-janos-haromnapos-kitiltasa-az-orszaggyulesbol"
       }
     ],
-    "published_at": 1793987520,
-    "title_hu": "Az Apple egymaga teszi zsebre a globális mobilpiac bevételének a felét",
-    "lead_hu": "Az üzleti év harmadik negyedévében az iPhone több pénzt termelt, mint eddig bármikor.",
-    "content_hu": "Az üzleti év harmadik negyedévében az iPhone több pénzt termelt, mint eddig bármikor.",
-    "importance_score": 20.0
+    "published_at": 1794074031,
+    "title_hu": "Szűcs Gábor: Aránytalan Pócs János háromnapos kitiltása az Országgyűlésből",
+    "lead_hu": "A képviselői mandátummal járó jogok és kötelezettségek gyakorlását csak szélsőséges esetben lehet korlátozni – hangsúlyozta Szűcs Gábor, a Fidesz országgyűlési képviselője....",
+    "content_hu": "A képviselői mandátummal járó jogok és kötelezettségek gyakorlását csak szélsőséges esetben lehet korlátozni – hangsúlyozta Szűcs Gábor, a Fidesz országgyűlési képviselője.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_52562d846b",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7139/71390/713906/71390679_5264219_215dc53bfd9727dae3014ab4d2263749_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Így alakítaná át az egészségbiztosítási rendszert Hegedűs Zsolt",
+        "link": "https://index.hu/belfold/2026/11/07/hegedus-zsolt-miniszter-egeszsegugy-egeszsegbiztositas-atalakitas-neak/"
+      }
+    ],
+    "published_at": 1794073920,
+    "title_hu": "Így alakítaná át az egészségbiztosítási rendszert Hegedűs Zsolt",
+    "lead_hu": "Már meg is indultak az egyeztetések....",
+    "content_hu": "Már meg is indultak az egyeztetések.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_b63e25e51d",
@@ -1780,25 +1794,6 @@
     "title_hu": "„Nem csicskulunk be, ez nem a leuralás kora” – harmadszor fut neki Magyarország az elszámoltatásnak",
     "lead_hu": "Intézmények közötti egyeztetést sürget az Integritás Hatóság....",
     "content_hu": "Intézmények közötti egyeztetést sürget az Integritás Hatóság.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e2735d7a9d",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Betlehem Dávid egy másodperccel csúszott le a világkupa-aranyról",
-        "link": "https://index.hu/sport/uszas/2026/11/07/uszas-vilagkupa-cancun-betlehem-david/"
-      }
-    ],
-    "published_at": 1794073320,
-    "title_hu": "Betlehem Dávid egy másodperccel csúszott le a világkupa-aranyról",
-    "lead_hu": "Óriási csatában lett második a kieséses versenyben....",
-    "content_hu": "Óriási csatában lett második a kieséses versenyben.",
     "importance_score": 0.0
   },
   {
@@ -9621,6 +9616,25 @@
     "lead_hu": "A paraguayi szenátus elmozdította hivatalából Santiago Peñát, akit a legnagyobb bank összeomlásával összefüggő visszaélésekkel vádolnak. A volt elnök házi őrizetbe került, és tagadja, hogy jogsértést követett volna el.",
     "content_hu": "• **Elmozdították hivatalából** A paraguayi szenátus alkotmányos eljárásban megfosztotta tisztségétől Santiago Peñát; a döntést a saját pártjának több politikusa is támogatta.\n\n• **Házi őrizetbe került** Peñát a bankcsőd ügyében hivatali visszaéléssel és más pénzügyi visszaélésekkel gyanúsítják. A volt elnök tagadja a jogsértést.\n\n• **Hárommillió betétest érintett a bankcsőd** Az Ueno Bank összeomlása után az ügyfelek elveszítették hozzáférésüket megtakarításaikhoz és nyugdíjukhoz, ami tiltakozásokat váltott ki.\n\n• **Ideiglenesen az alelnök vette át az elnöki tisztséget** Pedro Alliana azt ígérte, hogy kártalanítják a pénzügyi összeomlás miatt nehéz helyzetbe került állampolgárokat.",
     "importance_score": 28.0
+  },
+  {
+    "group_id": "group_e2735d7a9d",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Betlehem Dávid egy másodperccel csúszott le a világkupa-aranyról",
+        "link": "https://index.hu/sport/uszas/2026/11/07/uszas-vilagkupa-cancun-betlehem-david/"
+      }
+    ],
+    "published_at": 1794073320,
+    "title_hu": "Betlehem Dávid egy másodperccel csúszott le a világkupa-aranyról",
+    "lead_hu": "Óriási csatában lett második a kieséses versenyben....",
+    "content_hu": "Óriási csatában lett második a kieséses versenyben.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_52a5f1cec5",
