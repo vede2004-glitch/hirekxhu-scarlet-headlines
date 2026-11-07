@@ -48,22 +48,6 @@
     ]
   },
   {
-    "group_id": "group_3d85a4e7d9",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "A rendőrséghez került Havasi Bertalan feljelentése, amit az elmaradt végkielégítése miatt tett",
-        "link": "https://hvg.hu/itthon/20261106_havasi-bertalan-vegkielegites-felejelentes-ugyeszseg-rendorseg-brfk-ruff-balint-ducsay-zsuzsanna",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a0a67061-48eb-40d5-b776-18ff9eb4352d.jpg",
-        "summary": "Ruff Bálint miniszterelnökséget vezető miniszter és a közigazgatási államtitkár Ducsay Zsuzsanna ellen szól a feljelentés, azonban mivel nekik nincs mentelmi joguk, ezért az ügyészség helyett a rendőrség jogosult a kérdésben.",
-        "category": "Politika",
-        "published_at": 1793959085
-      }
-    ]
-  },
-  {
     "group_id": "group_3a830abb3d",
     "category": "Politika",
     "articles_count": 1,
@@ -76,22 +60,6 @@
         "summary": "A ripacs Nagy Ervin bosszúhadjáratának köszönhetően a magyar színházi életben jelentős változások zajlanak, amelyek több meghatározó intézményt érintenek. A Madách Színház és az Újszínház élére új igazgatókat neveztek ki, míg a Magyar Állami...",
         "category": "Politika",
         "published_at": 1793961600
-      }
-    ]
-  },
-  {
-    "group_id": "group_17630dea54",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Pánik a részvénypiacon - Most kell betenni a nagy pénzt a tőzsdére?",
-        "link": "https://www.portfolio.hu/befektetes/20261106/panik-a-reszvenypiacon-most-kell-betenni-a-nagy-penzt-a-tozsdere-874646",
-        "image": "https://pcdn.hu/articles/images-xl/d/o/l/dollar-867346.jpg",
-        "summary": "Azért nem sűrűn fordul elő olyan pániknap az amerikai tőzsdéken, mint amilyen tegnap volt. Nem is nagyon vagyunk ehhez hozzászokva az elmúlt évek szinte töretlen tőkepiaci emelkedésében. A mesterséges intelligenciához kapcsolódó sztorikat, a félvezető gyártókat, az adatközpont üzemeltetőket brutálisan büntette a piac, de nyugodtan kijelenthetjük, hogy széles piaci esés volt. Most adódik a kérdés, hogy az ilyen pánikhelyzetek a legjobb vételi lehetőséget adják-e, és most kell betenni a nagy pénzt a tőzsdére, vagy csak most kezdődik az igazi zuhanás. Megnéztük az elmúlt húsz év tőzsdei adatait, hogy mi történt a nagy tőzsdei pánikokat követő napokban, hetekben és hónapokban, mekkora profitot lehetett elérni, vagy éppen mekkora veszteségeket kellett átmenetileg elviselniük a befektetőknek. Van néhány igencsak meglepő számunk.",
-        "category": "Gazdaság",
-        "published_at": 1793959200
       }
     ]
   },
@@ -124,22 +92,6 @@
         "summary": "Egy Észak-Karolinában élő pár pereli a Google-t, akik szerint a Gemini chatbot segített megtervezni a 13 éves lányuk kísérletét.",
         "category": "Kultúra",
         "published_at": 1793959341
-      }
-    ]
-  },
-  {
-    "group_id": "group_e83398fef5",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "Kocsmai verekedést akadályozott meg Vilmos herceg: az ismert színész osztotta meg a részleteket",
-        "link": "https://borsonline.origo.hu/kiralyi-csalad/2026/11/vilmos-herceg-verekedes-konfliktus",
-        "image": "https://cdn.borsonline.hu/2026/11/xZwmvi07UW99I_h4O8fA1NQmOvI0d4pYIO_n6yIqzTU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZhZGM1MThlZmNmNjRkZGRhZjJkNWI4ODUyZDM1ZGM4.jpg",
-        "summary": "Váratlan fordulatot vett a kiruccanás.",
-        "category": "Bulvár",
-        "published_at": 1793959200
       }
     ]
   },
@@ -385,7 +337,7 @@
   {
     "group_id": "group_92c0d60e3d",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -413,6 +365,15 @@
         "summary": "Az ország döntő részén fagyott szombat hajnalban, csak kisebb körzetekben maradt 0 fok felett a hőmérséklet. A leghidegebb ismét Zabaron mérték, ahol még mélyebbre süllyedt a hőmérséklet, ezúttal mínusz 9,3 fokig – közölte a HungaroMet Nonprofit Zrt. egy Facebook-bejegyzésben.",
         "category": "Gazdaság",
         "published_at": 1794042240
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Szombaton is megdőlt a hidegrekord, Zabaron mínusz 9,3 fokot mértek",
+        "link": "https://telex.hu/belfold/2026/11/07/szombat-reggel-is-megdolt-a-hidegrekord",
+        "image": "",
+        "summary": "Az ország nagy részén fagyott hajnalban.",
+        "category": "Politika",
+        "published_at": 1794045432
       }
     ]
   },
@@ -1164,38 +1125,6 @@
         "summary": "A Metropolitan Múzeum nyár végén jelentette be, hogy mégsem a legendás brit tervezőnek, John Gallianónak szentelik a jövő évi kiállítást és gálát. Végre kiderült, hogy akkor minek: az ellenkezőjének.",
         "category": "Politika",
         "published_at": 1793959754
-      }
-    ]
-  },
-  {
-    "group_id": "group_612823aef3",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A New York Times 330 millió dollárért vásárolhatja meg a Letterboxdot",
-        "link": "https://telex.hu/after/2026/11/06/new-york-times-330-millio-dollar-letterboxd-felvasarlas",
-        "image": "https://assets.telex.hu/images/20261106/1793958895-temp-jli7bldpro7j4mgdafd_cimlap-normal.jpg",
-        "summary": "A filmes közösségi oldal iránt az A24 és a Sony is érdeklődött, de az amerikai lap lehet a befutó.",
-        "category": "Politika",
-        "published_at": 1793959303
-      }
-    ]
-  },
-  {
-    "group_id": "group_5d0ade225b",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Ma már nem elég négy fal: megváltoztak az irodabérlési szokások (x)",
-        "link": "https://telex.hu/g7/pr-cikk/2026/11/06/ma-mar-nem-eleg-negy-fal-megvaltoztak-az-irodaberlesi-szokasok-x",
-        "image": "https://assets.telex.hu/images/20261104/1793807926-temp-21233sah8hokfcifdnl_cimlap-normal.jpg",
-        "summary": "A modern iroda már több mint munkahely: a PP Center rugalmas terekkel és személyre szabott megoldásokkal alkalmazkodik a cégek igényeihez.",
-        "category": "Politika",
-        "published_at": 1793959219
       }
     ]
   },
@@ -8356,7 +8285,7 @@
   {
     "group_id": "group_a04ed3b58a",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -8375,6 +8304,15 @@
         "summary": "Havi többmilliós fizetés mellé jártak ezek a juttatások.",
         "category": "Gazdaság",
         "published_at": 1794043200
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "21 milliós végkielégítést kaphatott a HUN-REN előző vezetése",
+        "link": "https://24.hu/tudomany/2026/11/07/hun-ren-vegkielegites-gulyas-balazs-jakab-roland/",
+        "image": "https://s.24.hu/app/uploads/2026/11/videoframe_34509-e1794045175197-1024x578.jpg",
+        "summary": "Több mint 7 millió forintos bruttó havibérért dolgoztak, ami mellé szolgálati autó, sofőr, sőt lakás is járt. The post 21 milliós végkielégítést kaphatott a HUN-REN előző vezetése first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794045324
       }
     ]
   },
@@ -10300,6 +10238,102 @@
         "summary": "A pénzintézetek a veszélyhelyzeti rendeletek törvényi szintre emelését kifogásolják.",
         "category": "Politika",
         "published_at": 1794045374
+      }
+    ]
+  },
+  {
+    "group_id": "group_113f0baefd",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kiirtotta a családját, de a képei ma is több tízmillió forintért kelnek el",
+        "link": "https://index.hu/kultur/2026/11/07/egy-varos-bunos-titkai-kordos-szabolcs-arutluk-podcast/",
+        "image": "https://kep.index.hu/1/0/7245/72453/724538/72453865_5339185_2923a04859029df1e86c70645ca3d247_wm.jpg",
+        "summary": "A Lendvai utcai házban borzalmas kép fogadta a rendőröket.",
+        "category": "Általános",
+        "published_at": 1794045420
+      }
+    ]
+  },
+  {
+    "group_id": "group_02f2df5e57",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Gyalázkodó kommentek kísérték a győztes épület prezentációját, és még így is nyertek",
+        "link": "https://index.hu/kultur/jardasziget/2026/11/07/media-epiteszeti-dija-ferencvarosi-szocialis-berhaz-urania-nemzeti-filmszinhaz/",
+        "image": "https://kep.index.hu/1/0/7246/72461/724616/72461695_5339731_692cb53017d1d0b1934e3fa4ce30f6be_wm.jpg",
+        "summary": "Ismét ítélkeztek az újságírók.",
+        "category": "Általános",
+        "published_at": 1794045360
+      }
+    ]
+  },
+  {
+    "group_id": "group_6205508ce4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Vécépapírra írta a verseit, majd fegyverrel harcolt Budapest utcáin",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/gerecz-attila-1956-evfordulo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/tw_6sWg0EoIcVZgNEOjt__m8ZY8xaUIHJnJMu95INUI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhmOGE5OTYxMDEyYzQ3OWNiZGFjMTZjZDdjNDVlNWMy.jpg",
+        "summary": "Hetven éve, mindössze 26 évesen halt meg Gérecz Attila, aki a börtönből szabadulva csatlakozott a forradalmárokhoz.",
+        "category": "Politika",
+        "published_at": 1794045600
+      }
+    ]
+  },
+  {
+    "group_id": "group_414017aff3",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ennyi jutalomfalatot kaphat a macska naponta",
+        "link": "https://24.hu/otthon/2026/11/07/macska-jutalomfalat-naponta/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-915871250-e1794045221990-1024x577.jpg",
+        "summary": "Az elején ugyan számolgatni kell, de egy idő után már érezni lehet, hogy mi a helyes mennyiség. Ez azért is fontos, hogy a cica ne hízzon el. The post Ennyi jutalomfalatot kaphat a macska naponta first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794045262
+      }
+    ]
+  },
+  {
+    "group_id": "group_aaec818609",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Magyar Péter felmentette Rétvári Bencét a szegénység visszaszorítását célzó operatív program bizottságának éléről",
+        "link": "https://hvg.hu/gazdasag/20261107_retvari-bence-felmentes-operativ-program-monitoring-bizottsag-szegenyseg",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/da89fa5b-5123-4050-a0ab-c662c48443f1.jpg",
+        "summary": "Péntek estig a KDNP-s politikus állt az Emberi Erőforrás Fejlesztési Operatív Programot ellenőrző bizottság élén.",
+        "category": "Politika",
+        "published_at": 1794045551
+      }
+    ]
+  },
+  {
+    "group_id": "group_6575490598",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Bors",
+        "title": "Grammháború a polcokon: valóban kisebbek lettek a termékek?",
+        "link": "https://borsonline.origo.hu/toptipp/2026/11/termekek-valoban-kisebbek-lettek",
+        "image": "https://cdn.borsonline.hu/2026/11/CNdIUWiTjQJ7FkfufF5Dk9yHjMBCe9HmFe5p8UsaeX8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UwMmYzMjRiY2M3ZDQxODE5MTVhODM4ZTcwNTIxMGRl.jpg",
+        "summary": "Káprázik a szemünk, vagy tényleg egyre kisebb minden, miközben az árak változatlanok? A zsugorfláció miatt észrevétlenül fizethetünk többet. Mutatjuk, mire figyeljünk vásárláskor, hogy ne érjen kellemetlen meglepetés a pénztárnál.",
+        "category": "Bulvár",
+        "published_at": 1794045600
       }
     ]
   }
