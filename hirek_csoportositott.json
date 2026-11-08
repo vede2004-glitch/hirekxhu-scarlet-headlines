@@ -73,79 +73,6 @@
     ]
   },
   {
-    "group_id": "group_66c04a8d32",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "További öt évig marad a naptárban a pálya, amelyen Hamilton először lett világbajnok",
-        "link": "https://index.hu/sport/forma1/2026/11/07/formula-1-2026-sao-paulo-i-nagydij-hosszabbitas-hivatalos/",
-        "image": "https://kep.index.hu/1/0/7246/72468/724683/72468341_5340231_19c3f304459c7bbb211656939470f8cf_wm.jpg",
-        "summary": "Ezzel eldőlt, hogy 2035-ig láthatunk versenyt az egyik legizgalmasabb helyszínen.",
-        "category": "Általános",
-        "published_at": 1794063900
-      }
-    ]
-  },
-  {
-    "group_id": "group_72abd9133a",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Nosztalgiázik a Sony: színes, áttetsző kontrollerek jönnek a PS5-höz",
-        "link": "https://hvg.hu/tudomany/20261107_szines-attetszo-ps5-kontroller-konzoltok-sony",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f5dd1d50-b03a-4b85-914b-1228b09bed06.jpg",
-        "summary": "Az áttetsző kontroller nem újdonság a Sony kínálatában, a színes, átlátszó DualShock kontrollerek különösen emlékezetesek voltak az eredeti PlayStation korszakában, 1998 körül. Hasonlókkal rukkol ki most is, ám vannak, akik szerint ezzel csak azt akarja feledtetni, hogy meg fogja szüntetni a fizikai lemezek gyártását.",
-        "category": "Kultúra",
-        "published_at": 1794063780
-      }
-    ]
-  },
-  {
-    "group_id": "group_ea8288ed74",
-    "category": "Bulvár",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Leáll a BudapestGO: jegyeket sem lehet majd vásárolni órákig",
-        "link": "https://femina.hu/utazas/budapestgo-leallas-jegyvasarlas-szuneteles/",
-        "image": "https://femina.hu/neon/media/images/budapestgo_leallas_4.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Több órára leáll az alkalmazás!",
-        "category": "Bulvár",
-        "published_at": 1794063900
-      },
-      {
-        "source": "ATV",
-        "title": "Órákon belül leáll a BudapestGO több funkciója, jegyet sem lehet majd vásárolni a karbantartás idején",
-        "link": "https://www.atv.hu/belfold/20261107/budapestgo-karbantartas-jegy/",
-        "image": "",
-        "summary": "Karbantartás miatt órákra leáll a BudapestGO.",
-        "category": "Általános",
-        "published_at": 1794064560
-      }
-    ]
-  },
-  {
-    "group_id": "group_671ad9e8da",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "80 kilós súlyokat emelt az edzőteremben, miközben az üzemorvos javaslatára a munkahelyén kímélő munkát végzett – kirúgták",
-        "link": "https://nlc.hu/ezvan/20261107/konnyitett-munkat-irt-neki-az-uzemorvos-szabadidejeben-sulyokat-emelt-kirugtak/r3f33dc",
-        "image": "",
-        "summary": "A munkahelyén legfeljebb néhány kilogrammos tárgyakat kellett megemelnie, szabadidejében azonban személyi edzőként dolgozott, és akár 80 kilós súlyokkal is edzett. A munkáltatója szerint ezzel megszegte az orvosi előírásokat, az ügy pedig egészen a legfelsőbb bíróságig jutott. The post 80 kilós súlyokat emelt az edzőteremben, miközben az üzemorvos javaslatára a munkahelyén kímélő munkát végzett – kirúgták first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794064020
-      }
-    ]
-  },
-  {
     "group_id": "group_32ac46cae2",
     "category": "Politika",
     "articles_count": 6,
@@ -219,6 +146,22 @@
         "summary": "Ezután a bérleti díjat is beszdi az állam. A létesítmény Velencei-tavi Olimpiai és Paralimpiai Központ néven működne tovább.",
         "category": "Politika",
         "published_at": 1794064456
+      }
+    ]
+  },
+  {
+    "group_id": "group_ea8288ed74",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Órákon belül leáll a BudapestGO több funkciója, jegyet sem lehet majd vásárolni a karbantartás idején",
+        "link": "https://www.atv.hu/belfold/20261107/budapestgo-karbantartas-jegy/",
+        "image": "",
+        "summary": "Karbantartás miatt órákra leáll a BudapestGO.",
+        "category": "Általános",
+        "published_at": 1794064560
       }
     ]
   },
@@ -2103,7 +2046,7 @@
   {
     "group_id": "group_86b3d07ea4",
     "category": "Gazdaság",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -2122,6 +2065,15 @@
         "summary": "Mutatjuk, mely számokkal lehetett nyerni a 45. játékhéten.",
         "category": "Bulvár",
         "published_at": 1794076740
+      },
+      {
+        "source": "Femina",
+        "title": "Kihúzták a hatoslottó nyerőszámait: 500 millió forint volt a tét",
+        "link": "https://femina.hu/terasz/kihuztak-a-hatoslotto-nyeroszamait-500-millio-forint-volt-a-tet/",
+        "image": "https://femina.hu/neon/media/images/GettyImages-481891471_h21zzz1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Kiderült, mely számokkal lehetett nyerni ezen a héten.",
+        "category": "Bulvár",
+        "published_at": 1794150378
       }
     ]
   },
@@ -8017,6 +7969,54 @@
         "summary": "Egy gyárban le lehet állítani a gyártósort, az iskolákat viszont szeptemberben akkor is ki kell nyitni, ha közben magát a rendszert alakítják át. A siker kulcsa az intézményvezetők és a középvezetők felkészültsége, valamint a pedagógusok és a szülők bizalma.",
         "category": "Gazdaság",
         "published_at": 1794150000
+      }
+    ]
+  },
+  {
+    "group_id": "group_55eddc2976",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szoboszlai remek pontrúgása után került előnybe a Liverpool a Crystal Palce ellen",
+        "link": "https://index.hu/sport/futball/2026/11/08/szoboszlai-dominik-kerkez-milos-liverpool-crystal-palace-premier-league/",
+        "image": "https://kep.index.hu/1/0/7247/72476/724761/72476187_5340745_b451365ede734535577f468517ea68b7_wm.jpg",
+        "summary": "Megvillant a magyar középpályás.",
+        "category": "Általános",
+        "published_at": 1794150120
+      }
+    ]
+  },
+  {
+    "group_id": "group_963ad3d313",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Egy rövid ideig a palesztin zászló lobogott a német szövetségi parlament előtt",
+        "link": "https://telex.hu/kulfold/2026/11/08/palesztin-zaszlo-bundestag-nemetorszag-parlament-nemet-zaszlo-rendorseg",
+        "image": "https://assets.telex.hu/images/20261108/1794150204-temp-8n2qn7avtfpfcdabjcd_cimlap-normal.jpg",
+        "summary": "Az akciót végrehajtó férfiakat a rendőrök előállították, a palesztin zászlót pedig eltávolították.",
+        "category": "Politika",
+        "published_at": 1794150467
+      }
+    ]
+  },
+  {
+    "group_id": "group_c6fb256df2",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Esbjergben kikaptak, már nem veretlenek a Fradi kézisei",
+        "link": "https://24.hu/sport/2026/11/08/kezilabda-bajnokok-ligaja-team-esbjerg-ftc/",
+        "image": "https://s.24.hu/app/uploads/2026/11/esbjerg-ftc-1024x576.jpg",
+        "summary": "A női kézilabda BL 7. körében szenvedett először vereséget szezonban a Ferencváros. The post Esbjergben kikaptak, már nem veretlenek a Fradi kézisei first appeared on 24.hu.",
+        "category": "Sport",
+        "published_at": 1794150152
       }
     ]
   }
