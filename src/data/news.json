@@ -300,6 +300,52 @@
     "importance_score": 68.0
   },
   {
+    "group_id": "group_6dad89178a",
+    "fingerprint": "9c9486ac340cc8de5030f60e77c104eb",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Gmailje van? Önt is figyelmezteti a Google",
+        "link": "https://www.atv.hu/egyeb/20261108/gmail-google-ellenorzes/"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Ha Gmail-t használsz, ellenőrizd ezt a beállítást! - Lehet, hogy más is hozzáfér a fiókodhoz",
+        "link": "https://nlc.hu/szabadido/20261108/gmail-hozzaferes-beallitas/emtyp23"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Bejelentést tett a MÁV: drónok jelenhetnek meg a területei felett",
+        "link": "https://www.vadhajtasok.hu/2026/11/07/bejelentest-tett-a-mav-dronok-jelenhetnek-meg-a-teruletei-felett"
+      },
+      {
+        "source": "ATV",
+        "title": "Elegük lett az életveszélyes akciókból: drónokkal csap le a behatolókra a MÁV",
+        "link": "https://www.atv.hu/belfold/20261108/mav-dronok-mi-palyaudvar-orzes/"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Drónokkal figyeli meg a MÁV a pályaudvarokat, betörőket és rendbontókat keresnek",
+        "link": "https://hvg.hu/tudomany/20261108_dronokkal-figyeli-meg-a-mav-a-palyaudvarokat-betoroket-es-rendbontokat-keresnek"
+      },
+      {
+        "source": "444.hu",
+        "title": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
+        "link": "https://444.hu/2026/11/08/okos-dronokkal-fogja-a-mav-felugyelni-a-hozza-tartozo-uzemi-teruleteket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794123180,
+    "title_hu": "A Google biztonsági ellenőrzést javasol a Gmail-felhasználóknak",
+    "lead_hu": "A Google arra kéri a Gmail-felhasználókat, hogy ellenőrizzék, milyen eszközök és külső alkalmazások férnek hozzá a fiókjukhoz. A biztonsági átvizsgálással az ismeretlen vagy már nem használt hozzáférések megszüntethetők.",
+    "content_hu": "• **Biztonsági ellenőrzés** A Google által javasolt Security Checkup segítségével áttekinthető, milyen eszközökön vannak bejelentkezve a Gmail-fiókba.\n\n• **Ismeretlen eszközök** A gyanús vagy már nem használt telefonokról, táblagépekről és számítógépekről távolról is kijelentkeztethető a fiók.\n\n• **Külső alkalmazások** A szükségtelenné vált programok hozzáférési jogosultságainak visszavonásával megakadályozható, hogy továbbra is elérjék a levelezőrendszert és a személyes adatokat.",
+    "importance_score": 63.0
+  },
+  {
     "group_id": "group_5ce171abf1",
     "fingerprint": "9941acbfcf9a7c1b679432e537f6c765",
     "category": "Általános",
@@ -441,47 +487,6 @@
     "title_hu": "57–60 milliárd forintos fásítási és települészöldítési programot indít a kormány",
     "lead_hu": "A kormány országfásítási és települészöldítési programot indít, amelynek keretét egyes új források 57 milliárd, mások mintegy 60 milliárd forintra teszik. A fejlesztések célja a hőhullámok és a klímaváltozás hatásaihoz való alkalmazkodás, többek között új közparkokkal és a városi hőszigethatás mérséklésével.",
     "content_hu": "• **Eltérő összeg szerepel az új forrásokban:** a Portfolio és a Telex 57 milliárd forintos programról ír, míg a korábbi bejelentés mintegy 60 milliárd forintos keretet említ.\n\n• **A hőhullámok már az energiabiztonságot és a gazdaságot is érintik:** a Portfolio szerint az egyre melegebb és szárazabb nyári időjárás idén az ország energiabiztonságát is veszélyeztette, hatása pedig a gazdasági mutatókban is megjelent.\n\n• **A települészöldítés új közparkokra és a hőszigethatás csökkentésére is kiterjed:** a Telex összefoglalója ezeket is a program céljai között említi.\n\n• **Korszerűsítenék az önkormányzati zöldfelület-gazdálkodást:** a tervek szerint a helyi közösségeket is bevonják, és szakmai segítséget biztosítanak azoknak a településeknek, ahol nincs elegendő helyi kapacitás. A projekteket az adott település klímájához és vízháztartásához igazítanák.",
-    "importance_score": 53.0
-  },
-  {
-    "group_id": "group_6dad89178a",
-    "fingerprint": "9c9486ac340cc8de5030f60e77c104eb",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Gmailje van? Önt is figyelmezteti a Google",
-        "link": "https://www.atv.hu/egyeb/20261108/gmail-google-ellenorzes/"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ha Gmail-t használsz, ellenőrizd ezt a beállítást! - Lehet, hogy más is hozzáfér a fiókodhoz",
-        "link": "https://nlc.hu/szabadido/20261108/gmail-hozzaferes-beallitas/emtyp23"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Bejelentést tett a MÁV: drónok jelenhetnek meg a területei felett",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/bejelentest-tett-a-mav-dronok-jelenhetnek-meg-a-teruletei-felett"
-      },
-      {
-        "source": "ATV",
-        "title": "Elegük lett az életveszélyes akciókból: drónokkal csap le a behatolókra a MÁV",
-        "link": "https://www.atv.hu/belfold/20261108/mav-dronok-mi-palyaudvar-orzes/"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Drónokkal figyeli meg a MÁV a pályaudvarokat, betörőket és rendbontókat keresnek",
-        "link": "https://hvg.hu/tudomany/20261108_dronokkal-figyeli-meg-a-mav-a-palyaudvarokat-betoroket-es-rendbontokat-keresnek"
-      }
-    ],
-    "published_at": 1794123180,
-    "title_hu": "A Google biztonsági ellenőrzést javasol a Gmail-felhasználóknak",
-    "lead_hu": "A Google arra kéri a Gmail-felhasználókat, hogy ellenőrizzék, milyen eszközök és külső alkalmazások férnek hozzá a fiókjukhoz. A biztonsági átvizsgálással az ismeretlen vagy már nem használt hozzáférések megszüntethetők.",
-    "content_hu": "• **Biztonsági ellenőrzés** A Google által javasolt Security Checkup segítségével áttekinthető, milyen eszközökön vannak bejelentkezve a Gmail-fiókba.\n\n• **Ismeretlen eszközök** A gyanús vagy már nem használt telefonokról, táblagépekről és számítógépekről távolról is kijelentkeztethető a fiók.\n\n• **Külső alkalmazások** A szükségtelenné vált programok hozzáférési jogosultságainak visszavonásával megakadályozható, hogy továbbra is elérjék a levelezőrendszert és a személyes adatokat.",
     "importance_score": 53.0
   },
   {
@@ -877,6 +882,37 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_ff449eab5b",
+    "fingerprint": "c4901c3b42be58f2ba83ea921a195952",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/egetes-e1794121151547-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "300 ezer forintra is büntethetik, ha ezt teszi",
+        "link": "https://24.hu/belfold/2026/11/08/ekfm-illegalis-hulladekegetes-birsag/"
+      },
+      {
+        "source": "Femina",
+        "title": "Szigorúan tilos, 300 ezer forintos büntetés jár érte: komoly figyelmeztetést adott ki a minisztérium",
+        "link": "https://femina.hu/otthon/300-ezer-forintos-birsag-szemetegetes-miniszteriumi-figyelmeztetes/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Figyelmeztet a minisztérium, több százezres bírságot kaphat, aki hulladékot éget otthon",
+        "link": "https://index.hu/belfold/2026/11/08/penzbirsag-komposztalas-egetes-hulladek-elo-kornyezetert-felelos-miniszterium/"
+      }
+    ],
+    "published_at": 1794138660,
+    "title_hu": "Akár 300 ezer forintos bírság is járhat az illegális hulladékégetésért",
+    "lead_hu": "Az Égetésellenes Világnap alkalmából az Élő Környezetért Felelős Minisztérium az illegális hulladékégetés egészségügyi és környezeti veszélyeire figyelmeztetett. A szabályszegőket akár 300 ezer forintos bírsággal is sújthatják, a tevékenység pedig súlyosabb esetben bűncselekménynek minősülhet.",
+    "content_hu": "• **Tilos a hulladékégetés** Magyarországon nyílt téren, háztartási berendezésekben pedig csak a háztartásban keletkező papírhulladék és a veszélyesnek nem minősülő, kezeletlen fahulladék égethető.\n\n• **Akár 300 ezer forintos bírság is kiszabható** az előírások megszegéséért; az illegális égetés bizonyos esetekben bűncselekménynek is minősülhet.\n\n• **Súlyos egészségügyi kockázatot jelent** a műanyagok és más hulladékok elégetése: növelheti többek között a rák, a szívinfarktus, az agyvérzés és a magzatok genetikai károsodásának veszélyét.\n\n• **A levegőszennyezés messzire terjedhet:** egy hulladékkal tüzelő háztartás vagy kisüzem kilométeres körzetben is ronthatja a levegő minőségét.\n\n• **A hulladékégetés különösen karbonintenzív:** a források szerint kétszer annyi szén-dioxidot bocsát ki, mint a szén- vagy olajtüzelésű erőművek.\n\n• **A minisztérium a hulladék csökkentését és hasznosítását javasolja:** a megoldások között említi az újrahasználatot, az újrahasznosítást, a zöldhulladék komposztálását.\n\n• **A fűtési szezonban a kerti hulladék égetése is ronthatja a levegőt:** a tökéletlen égés során veszélyes anyagok, köztük formaldehid és benz(a)pirén kerülhetnek a levegőbe.\n\n• **Egy hazai, tizenegy éven át tartó kutatás szerint** a szilárd tüzelőanyagok égéséből származó mikroszkopikus részecskék egy része tartósan leülepedhet a légzőrendszerben, különösen intenzív fizikai aktivitás közben.",
+    "importance_score": 38.0
+  },
+  {
     "group_id": "group_6543248acb",
     "fingerprint": "63e47fe52bc6923b414a461c4d73fd1c",
     "category": "Politika",
@@ -1160,58 +1196,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_9245cd87c0",
-    "fingerprint": "33ebb520a299b9dc4d2d7d9d5b58b83e",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Zelenszkij kemény lépéseket ígért az ukrán titkosszolgálatot érintő korrupciós botrány miatt",
-        "link": "https://444.hu/2026/11/08/zelenszkij-kemeny-lepeseket-igert-az-ukran-titkosszolgalatot-erinto-korrupcios-botrany-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Zelenszkij további elbocsátásokat ígért az ukrán titkosszolgálatot érintő korrupciós botrány miatt",
-        "link": "https://telex.hu/kulfold/2026/11/08/volodimir-zelenszkij-tovabbi-elbocsatasok-ukran-titkosszolgalat-korrupcios-botrany"
-      }
-    ],
-    "published_at": 1794138863,
-    "title_hu": "Zelenszkij további személyi változásokat ígért az SZBU korrupciós botránya után",
-    "lead_hu": "Volodimir Zelenszkij ukrán elnök további elbocsátásokat és teljes körű vizsgálatot ígért, miután magas rangú biztonsági és rendvédelmi tisztviselők kerültek egy súlyos korrupciós ügy gyanúsítottjai közé. Az elnök törvényjavaslatot kezdeményezne, amely az Ukrán Biztonsági Szolgálat valamennyi alkalmazottját vagyonnyilatkozat benyújtására kötelezné.",
-    "content_hu": "• **A korrupciós ügy** A hatóságok szerint magas rangú tisztviselők segíthették egy bűnszervezet működését, amely csalóközpontokat üzemeltetett, kábítószerrel kereskedett, és hamis pénzt, illetve cigarettát állított elő.\n\n• **Zelenszkij ígérete** Az elnök szégyenletesnek és elfogadhatatlannak nevezte az ügyet, és közölte, hogy az SZBU-nál már történtek elbocsátások, további személyi döntések pedig várhatók.\n\n• **Őrizetbe vételek** Egy bíróság elrendelte az SZBU egy korábbi tábornokának letartóztatását; két rendőrségi vezetőt és egy másik gyanúsítottat is őrizetbe vettek.\n\n• **Vagyonnyilatkozatok** Zelenszkij olyan törvényjavaslatot kezdeményezne, amely az SZBU minden alkalmazottját vagyonnyilatkozat benyújtására kötelezné. A korrupció elleni fellépés az EU-csatlakozás és a nemzetközi pénzügyi támogatások szempontjából is fontos.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_6000d41acd",
-    "fingerprint": "09c9221815de0183d1665cb5803b3797",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Megjelent a genderideológia az óvodákban is: a gyermekek játék közbeni viselkedését is vizsgálhatják egy kérdőívvel",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/megjelent-a-genderideologia-az-ovodakban-is-a-gyermekek-jatek-kozbeni-viselkedeset-is-vizsgalhatjak-egy-kerdoivvel"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Kérdőívháború az óvodákban: reagált a minisztérium Rétvári Bence gender-elméletére",
-        "link": "https://index.hu/belfold/2026/11/08/ogym-retvari-bence-ovoda-kerdoiv-vita/"
-      }
-    ],
-    "published_at": 1794138720,
-    "title_hu": "Vita az óvodai kérdőív nemi szerepekre vonatkozó kérdéseiről",
-    "lead_hu": "Rétvári Bence bírálta az oviKRÉTA óvodai kérdőívét, mert szerinte az a gyermekek játék közbeni nemi szerepeiről kérdez, a szülők tájékoztatása nélkül. Az oktatási tárca szerint a kérdések fejlődéspszichológiai célt szolgálnak, 2021 óta nem változtak, a kérdőív pedig átszámozás miatt átmenetileg nem volt elérhető.",
-    "content_hu": "• **Rétvári Bence bírálata** A KDNP politikusa azt állította, hogy az óvodapedagógusoknak a gyermekek játék közbeni, nemi szerepekhez kapcsolódó viselkedéséről kell válaszolniuk, és kifogásolta, hogy erről a szülőket nem tájékoztatták.\n\n• **A tárca szakmai indoklása** Az oktatási minisztérium szerint a kérdés a gyermek identitásának fejlődéséhez kapcsolódik, és pedagógiai, illetve fejlődéspszichológiai szempontból indokolt.\n\n• **A kérdőív háttere** A minisztérium közlése szerint a kérdőívet 2017 és 2021 között dolgozták ki, 2024–2025-ben újravalidálták, a kérdései pedig 2021 óta változatlanok.\n\n• **Átmeneti elérhetetlenség** A tárca szerint a kérdőívet az átszámozás idejére tették elérhetetlenné, hogy egyértelmű legyen, mely kérdéscsoport vonatkozik az egyes gyermekekre; a tervek szerint ezt követően ismét kitölthetővé vált.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_bd27b514e5",
     "fingerprint": "30506b9bfc90a5ba2aadcfa227b2af48",
     "category": "Politika",
@@ -1317,6 +1301,58 @@
     "importance_score": 33.0
   },
   {
+    "group_id": "group_9245cd87c0",
+    "fingerprint": "33ebb520a299b9dc4d2d7d9d5b58b83e",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Zelenszkij kemény lépéseket ígért az ukrán titkosszolgálatot érintő korrupciós botrány miatt",
+        "link": "https://444.hu/2026/11/08/zelenszkij-kemeny-lepeseket-igert-az-ukran-titkosszolgalatot-erinto-korrupcios-botrany-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Zelenszkij további elbocsátásokat ígért az ukrán titkosszolgálatot érintő korrupciós botrány miatt",
+        "link": "https://telex.hu/kulfold/2026/11/08/volodimir-zelenszkij-tovabbi-elbocsatasok-ukran-titkosszolgalat-korrupcios-botrany"
+      }
+    ],
+    "published_at": 1794138863,
+    "title_hu": "Zelenszkij további személyi változásokat ígért az SZBU korrupciós botránya után",
+    "lead_hu": "Volodimir Zelenszkij ukrán elnök további elbocsátásokat és teljes körű vizsgálatot ígért, miután magas rangú biztonsági és rendvédelmi tisztviselők kerültek egy súlyos korrupciós ügy gyanúsítottjai közé. Az elnök törvényjavaslatot kezdeményezne, amely az Ukrán Biztonsági Szolgálat valamennyi alkalmazottját vagyonnyilatkozat benyújtására kötelezné.",
+    "content_hu": "• **A korrupciós ügy** A hatóságok szerint magas rangú tisztviselők segíthették egy bűnszervezet működését, amely csalóközpontokat üzemeltetett, kábítószerrel kereskedett, és hamis pénzt, illetve cigarettát állított elő.\n\n• **Zelenszkij ígérete** Az elnök szégyenletesnek és elfogadhatatlannak nevezte az ügyet, és közölte, hogy az SZBU-nál már történtek elbocsátások, további személyi döntések pedig várhatók.\n\n• **Őrizetbe vételek** Egy bíróság elrendelte az SZBU egy korábbi tábornokának letartóztatását; két rendőrségi vezetőt és egy másik gyanúsítottat is őrizetbe vettek.\n\n• **Vagyonnyilatkozatok** Zelenszkij olyan törvényjavaslatot kezdeményezne, amely az SZBU minden alkalmazottját vagyonnyilatkozat benyújtására kötelezné. A korrupció elleni fellépés az EU-csatlakozás és a nemzetközi pénzügyi támogatások szempontjából is fontos.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_6000d41acd",
+    "fingerprint": "09c9221815de0183d1665cb5803b3797",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Megjelent a genderideológia az óvodákban is: a gyermekek játék közbeni viselkedését is vizsgálhatják egy kérdőívvel",
+        "link": "https://www.vadhajtasok.hu/2026/11/07/megjelent-a-genderideologia-az-ovodakban-is-a-gyermekek-jatek-kozbeni-viselkedeset-is-vizsgalhatjak-egy-kerdoivvel"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kérdőívháború az óvodákban: reagált a minisztérium Rétvári Bence gender-elméletére",
+        "link": "https://index.hu/belfold/2026/11/08/ogym-retvari-bence-ovoda-kerdoiv-vita/"
+      }
+    ],
+    "published_at": 1794138720,
+    "title_hu": "Vita az óvodai kérdőív nemi szerepekre vonatkozó kérdéseiről",
+    "lead_hu": "Rétvári Bence bírálta az oviKRÉTA óvodai kérdőívét, mert szerinte az a gyermekek játék közbeni nemi szerepeiről kérdez, a szülők tájékoztatása nélkül. Az oktatási tárca szerint a kérdések fejlődéspszichológiai célt szolgálnak, 2021 óta nem változtak, a kérdőív pedig átszámozás miatt átmenetileg nem volt elérhető.",
+    "content_hu": "• **Rétvári Bence bírálata** A KDNP politikusa azt állította, hogy az óvodapedagógusoknak a gyermekek játék közbeni, nemi szerepekhez kapcsolódó viselkedéséről kell válaszolniuk, és kifogásolta, hogy erről a szülőket nem tájékoztatták.\n\n• **A tárca szakmai indoklása** Az oktatási minisztérium szerint a kérdés a gyermek identitásának fejlődéséhez kapcsolódik, és pedagógiai, illetve fejlődéspszichológiai szempontból indokolt.\n\n• **A kérdőív háttere** A minisztérium közlése szerint a kérdőívet 2017 és 2021 között dolgozták ki, 2024–2025-ben újravalidálták, a kérdései pedig 2021 óta változatlanok.\n\n• **Átmeneti elérhetetlenség** A tárca szerint a kérdőívet az átszámozás idejére tették elérhetetlenné, hogy egyértelmű legyen, mely kérdéscsoport vonatkozik az egyes gyermekekre; a tervek szerint ezt követően ismét kitölthetővé vált.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_1df0420c33",
     "fingerprint": "0b99325edfbf303e7f852d6cadc70522",
     "category": "Sport",
@@ -1390,32 +1426,6 @@
     "title_hu": "Húszmillió dolláros jutalmat ajánl az USA az iráni atomprogramról szóló információkért",
     "lead_hu": "Az amerikai külügyminisztérium akár 20 millió dollárt fizethet azoknak, akik megbízható információkat adnak Irán nukleáris programjáról, annak létesítményeiről vagy résztvevőiről. Az informátoroknak szükség esetén az áttelepülésben is segítséget nyújthatnak, miközben a nemzetközi ellenőröknek nincs teljes rálátásuk az iráni nukleáris készletekre és centrifugákra.",
     "content_hu": "• **Akár 20 millió dolláros jutalom** – Az amerikai külügyminisztérium Rewards for Justice programja megbízható információkat vár az iráni atomprogramról, a nukleáris létesítményekről, berendezésekről és az abban részt vevő személyekről. Az informátorok áttelepítését is felajánlhatják.\n\n• **Hiányos ellenőrzési rálátás** – A Nemzetközi Atomenergia-ügynökség nem rendelkezik teljes körű információkkal az iráni centrifugákról és készletekről. Teherán továbbra is azt állítja, hogy atomprogramja békés célokat szolgál.\n\n• **Feszültség és közvetítési kísérletek** – A jutalom bejelentése olyan időszakban érkezett, amikor az Egyesült Államok és Irán között továbbra is feszült a helyzet, a közvetítők pedig a konfliktus rendezésén dolgoznak.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_fd67004aa2",
-    "fingerprint": "c1a78f579f3dded8b12ff77b531b518d",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7246/72469/724691/72469105_5340287_8cbe83b30cb99a9a010d8f9eb38336fe_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megszólalt a Külügyminisztérium a krakkói lövöldözésről, nem tudnak magyar áldozatról",
-        "link": "https://index.hu/kulfold/2026/11/07/kulugyminiszterium-krakko-lovoldozes-magyar-aldozatok/"
-      },
-      {
-        "source": "Hír TV",
-        "title": "Krakkó: Nem tudnak magyar áldozatokról",
-        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/aldozatok-magyarokkrakko"
-      }
-    ],
-    "published_at": 1794128205,
-    "title_hu": "Krakkói lövöldözés: nincs hír magyar áldozatokról",
-    "lead_hu": "A krakkói lövöldözésben a beszámolók szerint legalább öt ember meghalt, és több mint tízen megsérültek; a Hír TV hat halálos áldozatról és 16 sebesültről ír. A magyar külügyminisztérium egyelőre nem tud magyar érintettről.",
-    "content_hu": "• **Áldozatok és sérültek** Az Index legalább öt halálos áldozatról és több mint tíz sérültről számolt be, míg a Hír TV hat halottról és 16 sebesültről írt.\n\n• **Magyar érintettség** A Külügyminisztérium közlése szerint egyelőre nincs tudomásuk magyar áldozatról vagy sérültről; a krakkói főkonzulátus kapcsolatban áll a lengyel hatóságokkal.\n\n• **A támadás minősítése** A Hír TV szerint a lengyel hatóságok terrorcselekménynek minősítették a támadást, az elkövetőt pedig elfogták.",
     "importance_score": 28.0
   },
   {
@@ -1519,6 +1529,32 @@
     "lead_hu": "Egy nő életét vesztette, miután egy furgon és egy személyautó összeütközött a 68-as főúton, Balatonújlak közelében. A baleset miatt az egyik jármű az árokba sodródott és felborult, az utat lezárták.",
     "content_hu": "• **Egy ember meghalt:** A szombat délutáni karambolban egy nő olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.\n\n• **Hárman utaztak a járművekben:** A furgonban és a személyautóban összesen három ember volt; a marcali tűzoltók egy utast feszítővágó segítségével szabadítottak ki.\n\n• **Lezárták a 68-as főutat:** Az egyik jármű az árokba sodródott és az oldalára borult. A 93-as kilométerszelvénynél teljes szélességében lezárták az utat, kerülni Balatonkeresztúr felé lehetett.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_fd67004aa2",
+    "fingerprint": "c1a78f579f3dded8b12ff77b531b518d",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7246/72469/724691/72469105_5340287_8cbe83b30cb99a9a010d8f9eb38336fe_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt a Külügyminisztérium a krakkói lövöldözésről, nem tudnak magyar áldozatról",
+        "link": "https://index.hu/kulfold/2026/11/07/kulugyminiszterium-krakko-lovoldozes-magyar-aldozatok/"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Krakkó: Nem tudnak magyar áldozatokról",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/aldozatok-magyarokkrakko"
+      }
+    ],
+    "published_at": 1794128205,
+    "title_hu": "Krakkói lövöldözés: nincs hír magyar áldozatokról",
+    "lead_hu": "A krakkói lövöldözésben a beszámolók szerint legalább öt ember meghalt, és több mint tízen megsérültek; a Hír TV hat halálos áldozatról és 16 sebesültről ír. A magyar külügyminisztérium egyelőre nem tud magyar érintettről.",
+    "content_hu": "• **Áldozatok és sérültek** Az Index legalább öt halálos áldozatról és több mint tíz sérültről számolt be, míg a Hír TV hat halottról és 16 sebesültről írt.\n\n• **Magyar érintettség** A Külügyminisztérium közlése szerint egyelőre nincs tudomásuk magyar áldozatról vagy sérültről; a krakkói főkonzulátus kapcsolatban áll a lengyel hatóságokkal.\n\n• **A támadás minősítése** A Hír TV szerint a lengyel hatóságok terrorcselekménynek minősítették a támadást, az elkövetőt pedig elfogták.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_5286946e9f",
@@ -1947,6 +1983,44 @@
     "lead_hu": "Sade-et és zenekarát november 14-én iktatják be a Rock and Roll Hírességek Csarnokába, olyan előadók társaságában, mint Phil Collins, Billy Idol és az Iron Maiden.",
     "content_hu": "Sade-et és zenekarát november 14-én iktatják be a Rock and Roll Hírességek Csarnokába, olyan előadók társaságában, mint Phil Collins, Billy Idol és az Iron Maiden.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_6c5d01c484",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7247/72473/724730/72473051_5340521_c4df75b2c46e105cc486eed932486bab_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Egyenesen a rendőrök karjaiba száguldott Kaposváron egy ámokfutó",
+        "link": "https://index.hu/belfold/2026/11/08/kaposvar-gyorshajtas-szaguldas-amokfuto-rendorok-somogy-megye/"
+      }
+    ],
+    "published_at": 1794149760,
+    "title_hu": "Egyenesen a rendőrök karjaiba száguldott Kaposváron egy ámokfutó",
+    "lead_hu": "A történteket a térfigyelő-kamerarendszer is rögzítette....",
+    "content_hu": "A történteket a térfigyelő-kamerarendszer is rögzítette.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_4804a9f2c3",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/4330/43302/433024/43302488_3305146_b03191a490f37818e24af11122404098_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Összehangolt külföldi fenyegetésről beszélt Ruszin-Szendi Romulusz, ezért szállnak fel a Gripenek",
+        "link": "https://index.hu/belfold/2026/11/08/magyar-honvedseg-gripen-vadaszgep-bombafenyegetes-ruszin-szendi-romulusz/"
+      }
+    ],
+    "published_at": 1794149580,
+    "title_hu": "Összehangolt külföldi fenyegetésről beszélt Ruszin-Szendi Romulusz, ezért szállnak fel a Gripenek",
+    "lead_hu": "A honvédelmi miniszter elmondta, miért van szükség a vadászgépek bevetésére....",
+    "content_hu": "A honvédelmi miniszter elmondta, miért van szükség a vadászgépek bevetésére.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_e937b19d37",
@@ -8815,37 +8889,6 @@
     "title_hu": "Esős, enyhe idő érkezik jövő héten, pénteken akár 21 fokkal",
     "lead_hu": "Jövő héten több hullámban érkezhet csapadék Magyarországra, és egyes helyeken szombatig 30–50 milliméter eső is hullhat. A hét második felében átmenetileg jelentősen melegszik az idő, délen akár 20–21 fok is lehet, a hétvégére azonban visszaesik a hőmérséklet.",
     "content_hu": "• **Több hullámban érkezik csapadék** – Kedden, majd szerda estétől és pénteken is többfelé várható eső, zápor; egyes helyeken az ég is megdörrenhet.\n\n• **Akár 50 milliméter eső is hullhat** – Az előrejelzés szerint szombatig helyenként 30–40, elszórtan akár 50 milliméter csapadék gyűlhet össze. A mediterrán ciklon pályája miatt a csapadék területi és időbeli eloszlása még bizonytalan.\n\n• **Pénteken délen 20 fok fölé emelkedhet a hőmérséklet** – A hét második felében átmeneti felmelegedés várható, a déli országrészben akár 21 fok is lehet.\n\n• **A hétvégére lehűlés érkezik** – A ciklon mögött betörő hidegebb levegő hatására szombaton több fokkal visszaesik a hőmérséklet; az eső elállása után vasárnap nagyrészt száraz idő valószínű.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_ff449eab5b",
-    "fingerprint": "c4901c3b42be58f2ba83ea921a195952",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/egetes-e1794121151547-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "300 ezer forintra is büntethetik, ha ezt teszi",
-        "link": "https://24.hu/belfold/2026/11/08/ekfm-illegalis-hulladekegetes-birsag/"
-      },
-      {
-        "source": "Femina",
-        "title": "Szigorúan tilos, 300 ezer forintos büntetés jár érte: komoly figyelmeztetést adott ki a minisztérium",
-        "link": "https://femina.hu/otthon/300-ezer-forintos-birsag-szemetegetes-miniszteriumi-figyelmeztetes/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Figyelmeztet a minisztérium, több százezres bírságot kaphat, aki hulladékot éget otthon",
-        "link": "https://index.hu/belfold/2026/11/08/penzbirsag-komposztalas-egetes-hulladek-elo-kornyezetert-felelos-miniszterium/"
-      }
-    ],
-    "published_at": 1794138660,
-    "title_hu": "Akár 300 ezer forintos bírság is járhat az illegális hulladékégetésért",
-    "lead_hu": "Az Égetésellenes Világnap alkalmából az Élő Környezetért Felelős Minisztérium az illegális hulladékégetés egészségügyi és környezeti veszélyeire figyelmeztetett. A szabályszegőket akár 300 ezer forintos bírsággal is sújthatják, a tevékenység pedig súlyosabb esetben bűncselekménynek minősülhet.",
-    "content_hu": "• **Tilos a hulladékégetés** Magyarországon nyílt téren, háztartási berendezésekben pedig csak a háztartásban keletkező papírhulladék és a veszélyesnek nem minősülő, kezeletlen fahulladék égethető.\n\n• **Akár 300 ezer forintos bírság is kiszabható** az előírások megszegéséért; az illegális égetés bizonyos esetekben bűncselekménynek is minősülhet.\n\n• **Súlyos egészségügyi kockázatot jelent** a műanyagok és más hulladékok elégetése: növelheti többek között a rák, a szívinfarktus, az agyvérzés és a magzatok genetikai károsodásának veszélyét.\n\n• **A levegőszennyezés messzire terjedhet:** egy hulladékkal tüzelő háztartás vagy kisüzem kilométeres körzetben is ronthatja a levegő minőségét.\n\n• **A hulladékégetés különösen karbonintenzív:** a források szerint kétszer annyi szén-dioxidot bocsát ki, mint a szén- vagy olajtüzelésű erőművek.\n\n• **A minisztérium a hulladék csökkentését és hasznosítását javasolja:** a megoldások között említi az újrahasználatot, az újrahasznosítást, a zöldhulladék komposztálását.\n\n• **A fűtési szezonban a kerti hulladék égetése is ronthatja a levegőt:** a tökéletlen égés során veszélyes anyagok, köztük formaldehid és benz(a)pirén kerülhetnek a levegőbe.\n\n• **Egy hazai, tizenegy éven át tartó kutatás szerint** a szilárd tüzelőanyagok égéséből származó mikroszkopikus részecskék egy része tartósan leülepedhet a légzőrendszerben, különösen intenzív fizikai aktivitás közben.",
     "importance_score": 45.0
   },
   {

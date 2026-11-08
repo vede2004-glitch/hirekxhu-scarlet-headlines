@@ -2156,7 +2156,7 @@
   {
     "group_id": "group_6dad89178a",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Vadhajtások",
@@ -2184,6 +2184,15 @@
         "summary": "Többször előfordult az is, hogy fiatalok másztak fel vasúti kocsik tetejére, és halálos áramütést kaptak: az új technika ezt is megakadályozhatná.",
         "category": "Kultúra",
         "published_at": 1794144144
+      },
+      {
+        "source": "444.hu",
+        "title": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
+        "link": "https://444.hu/2026/11/08/okos-dronokkal-fogja-a-mav-felugyelni-a-hozza-tartozo-uzemi-teruleteket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A drónok a vasúttársaság vezérigazgatója szerint „magyar AI-technológiának köszönhetően felismerik a kritikus mozgást és értesítik a helyszínt őrző kollégáinkat”.",
+        "category": "Politika",
+        "published_at": 1794149267
       }
     ]
   },
@@ -7942,6 +7951,38 @@
         "summary": "Az Irán elleni blokád kijátszásával gyanúsított egyik teherhajóra mértek csapást az amerikai erők az Ománi-öbölben - közölte az amerikai középső parancsnokság (CENTCOM) az X-en.",
         "category": "Általános",
         "published_at": 1794149262
+      }
+    ]
+  },
+  {
+    "group_id": "group_6c5d01c484",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Egyenesen a rendőrök karjaiba száguldott Kaposváron egy ámokfutó",
+        "link": "https://index.hu/belfold/2026/11/08/kaposvar-gyorshajtas-szaguldas-amokfuto-rendorok-somogy-megye/",
+        "image": "https://kep.index.hu/1/0/7247/72473/724730/72473051_5340521_c4df75b2c46e105cc486eed932486bab_wm.jpg",
+        "summary": "A történteket a térfigyelő-kamerarendszer is rögzítette.",
+        "category": "Általános",
+        "published_at": 1794149760
+      }
+    ]
+  },
+  {
+    "group_id": "group_4804a9f2c3",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Összehangolt külföldi fenyegetésről beszélt Ruszin-Szendi Romulusz, ezért szállnak fel a Gripenek",
+        "link": "https://index.hu/belfold/2026/11/08/magyar-honvedseg-gripen-vadaszgep-bombafenyegetes-ruszin-szendi-romulusz/",
+        "image": "https://kep.index.hu/1/0/4330/43302/433024/43302488_3305146_b03191a490f37818e24af11122404098_wm.jpg",
+        "summary": "A honvédelmi miniszter elmondta, miért van szükség a vadászgépek bevetésére.",
+        "category": "Politika",
+        "published_at": 1794149580
       }
     ]
   }
