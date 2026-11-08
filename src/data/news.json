@@ -1328,32 +1328,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_03a00e718a",
-    "fingerprint": "a20b5e43cf493ff091788f99abec3334",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/6988/69886/698866/69886683_5156349_a68d6710e1da1f9ca76fa8025ba46bcc_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megszűnhet Balaton környékén a torlódás, új bekötőutat jelentett be Vitézy Dávid",
-        "link": "https://index.hu/belfold/2026/11/08/vitezy-david-kozlekedes-miniszter-fejlesztes-balaton-keszthely-bekotout/"
-      },
-      {
-        "source": "ATV",
-        "title": "Nagy bejelentéssel kezdte a napot Vitézy Dávid, komoly fejlesztések indulhatnak a Balatonnál",
-        "link": "https://www.atv.hu/belfold/20261108/vitezy-david-keszthely-balaton/"
-      }
-    ],
-    "published_at": 1794139980,
-    "title_hu": "Új bekötőút és kerékpáros fejlesztések tervei indulnak a Balaton nyugati medencéjében",
-    "lead_hu": "Vitézy Dávid közlekedési és beruházási miniszter bejelentette, hogy megkezdik egy mintegy hét kilométeres, Keszthely megközelítését javító út tervezését. Emellett három kerékpáros kapcsolat és a 76-os főút egy szakaszának felújítását is előkészítik.",
-    "content_hu": "• **Új bekötőút tervezése** Megkezdik egy mintegy hét kilométeres, kétszer egysávos út tervezését, amely az M76-os jelenlegi végcsomópontját kötné össze a 75-ös főúttal.\n\n• **Torlódások enyhítése** Az új kapcsolat gyorsabb és biztonságosabb eljutást tehet lehetővé Keszthely felé, és tehermentesítheti a 71-es főút fenékpusztai szakaszát.\n\n• **További fejlesztések** Előkészítik a 76-os főút Fenékpuszta és a Sármellék csomópont közötti szakaszának felújítását, valamint három kerékpáros kapcsolat tervezését. Az M76-os bekötésénél a Kis-Balaton védelmét is figyelembe veszik.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_761ac5d511",
     "fingerprint": "5b60dec726af70e55b2811fde252482b",
     "category": "Politika",
@@ -1476,6 +1450,32 @@
     "lead_hu": "Több mint egy hete rendszeresen felbukkan egy vaddisznó a XIII. kerületi Marina-parton, többek között játszótér és kutyafuttató közelében. Az önkormányzat szakemberekkel egyeztet az állat befogásáról, a vadászkamara szóvivője pedig arra figyelmeztetett, hogy senki ne közelítse meg.",
     "content_hu": "• **Több mint egy hete a környéken kószál** a termetes vaddisznó a Marina-parton; a Duna mellett, játszótér és kutyafuttató közelében is látták.\n\n• **A lakóknak azt tanácsolják, ne menjenek az állat közelébe.** Földvári Attila, a vadászkamara szóvivője szerint a vaddisznó veszélyessé válhat, különösen, ha menekülni kezd.\n\n• **Az önkormányzat egyeztet a szakemberekkel** az állat befogásáról. A vadőrök korábban a rossz fényviszonyok miatt nem tudták kilőni a vaddisznót.",
     "importance_score": 28.0
+  },
+  {
+    "group_id": "group_03a00e718a",
+    "fingerprint": "a20b5e43cf493ff091788f99abec3334",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/6988/69886/698866/69886683_5156349_a68d6710e1da1f9ca76fa8025ba46bcc_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megszűnhet Balaton környékén a torlódás, új bekötőutat jelentett be Vitézy Dávid",
+        "link": "https://index.hu/belfold/2026/11/08/vitezy-david-kozlekedes-miniszter-fejlesztes-balaton-keszthely-bekotout/"
+      },
+      {
+        "source": "ATV",
+        "title": "Nagy bejelentéssel kezdte a napot Vitézy Dávid, komoly fejlesztések indulhatnak a Balatonnál",
+        "link": "https://www.atv.hu/belfold/20261108/vitezy-david-keszthely-balaton/"
+      }
+    ],
+    "published_at": 1794139980,
+    "title_hu": "Új bekötőút és kerékpáros fejlesztések tervei indulnak a Balaton nyugati medencéjében",
+    "lead_hu": "Vitézy Dávid közlekedési és beruházási miniszter bejelentette, hogy megkezdik egy mintegy hét kilométeres, Keszthely megközelítését javító út tervezését. Emellett három kerékpáros kapcsolat és a 76-os főút egy szakaszának felújítását is előkészítik.",
+    "content_hu": "• **Új bekötőút tervezése** Megkezdik egy mintegy hét kilométeres, kétszer egysávos út tervezését, amely az M76-os jelenlegi végcsomópontját kötné össze a 75-ös főúttal.\n\n• **Torlódások enyhítése** Az új kapcsolat gyorsabb és biztonságosabb eljutást tehet lehetővé Keszthely felé, és tehermentesítheti a 71-es főút fenékpusztai szakaszát.\n\n• **További fejlesztések** Előkészítik a 76-os főút Fenékpuszta és a Sármellék csomópont közötti szakaszának felújítását, valamint három kerékpáros kapcsolat tervezését. Az M76-os bekötésénél a Kis-Balaton védelmét is figyelembe veszik.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_849eb7132f",
@@ -1705,7 +1705,7 @@
     "title_hu": "A Fidesz politikai felelősséget követel az ügynökakták közzététele miatt",
     "lead_hu": "A Fidesz szerint a rendszerváltás előtti állambiztonsági iratok közzététele körüli botránynak nincs vége, és tisztázni kell a politikai felelősséget. A párt adatvédelmi vizsgálatot és elégtételt követel azoknak, akiknek a neve egy informatikai hiba miatt tévesen hálózati személyként jelent meg.",
     "content_hu": "• **Informatikai hiba árnyékolta be az iratok közzétételét:** a nyilvánosságra hozott dokumentumok között olyanok neve is megjelent hálózati személyként, akiket annak idején megfigyeltek; köztük volt Lezsák Sándor is.\n\n• **A Fidesz politikai kezdeményezésnek tartja az akták nyilvánosságra hozatalát:** a párt Magyar Pétert, Ruff Bálintot és Tarr Zoltánt nevezte meg, és azt állította, hogy az ügy politikai célokat szolgált. Ezek a Fidesz állításai.\n\n• **A párt vizsgálatot és felelősségre vonást sürget:** adatvédelmi vizsgálatot, az érintetteknek elégtételt, valamint a politikai felelősök megnevezését követeli.\n\n• **További kérdésekre várnak választ:** a Fidesz többek között az eltűnt 6-os kartonok és beszervezési dossziék sorsát, illetve az iratok közzétételének körülményeit firtatja.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_f80f0821b6",
@@ -1784,6 +1784,25 @@
     "lead_hu": "Lando Norris szerezte meg a pole pozíciót a 2026-os São Pauló-i Nagydíj eső miatt hosszú időre félbeszakított időmérőjén. George Russell végzett mögötte, de rajtbüntetése miatt hátrébb kerül, így a már világbajnok Kimi Antonelli indulhat Norris mellől.",
     "content_hu": "• **Hosszú csúszás** A zuhogó eső miatt az időmérőt röviddel a rajt után piros zászlóval félbeszakították, majd hosszas várakozás után folytatták.\n\n• **Norrisé a pole** Lando Norris volt a leggyorsabb a változó, egyre vizesebb körülmények között rendezett kvalifikáción; George Russell lett a második.\n\n• **Büntetések rendezik át a rajtrácsot** Russell rajtbüntetése miatt a hetedik helyről indulhat, így Kimi Antonelli kerül Norris mellé az első sorba. Charles Leclerc büntetése szintén hátrébb sorolja a Ferrarit.\n\n• **Baleset a Q2-ben** Rafael Câmara gumifalnak csapódása miatt idő előtt véget ért a második szakasz, több versenyzőnek pedig nem maradt ideje befejezni a gyors körét.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_a225b2b620",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/LaQdNTIKFDnzwQQwVZNKIrsE-ifv9A113D-_fgnpuKY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA3MGU3ZDNmOGNhNjRjYjY5NzdmYzIxNTM4NDM1MDhj.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Vasúti katasztrófa történt Egyiptomban",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/vasuti-katasztrofa-tortent-egyiptomban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794161426,
+    "title_hu": "Vasúti katasztrófa történt Egyiptomban",
+    "lead_hu": "A nagyon régi és rossz állapotban levő hálózaton sűrűn vannak balesetek....",
+    "content_hu": "A nagyon régi és rossz állapotban levő hálózaton sűrűn vannak balesetek.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_32c518278a",
@@ -8509,82 +8528,6 @@
     "title_hu": "Sallai gólpasszt adott, de nem azzal tette a legtöbbet az Orbanék elleni sikerért",
     "lead_hu": "A török bajnokság parádézó újonca a Galatasaray otthonában sem vallott szégyent.",
     "content_hu": "A török bajnokság parádézó újonca a Galatasaray otthonában sem vallott szégyent.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0a8fd4c6d1",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7246/72469/724699/72469937_5340329_97b0b54e569fa38f51c0a9b5d6c186b5_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Özönvíz zúdult Brazíliára, két perc után félbe is szakadt az időmérő – videó!",
-        "link": "https://index.hu/sport/forma1/2026/11/07/formula-1-2026-sao-paulo-i-nagydij-brazilia-idomero-edzes-ozonviz/"
-      }
-    ],
-    "published_at": 1794075300,
-    "title_hu": "Özönvíz zúdult Brazíliára, két perc után félbe is szakadt az időmérő – videó!",
-    "lead_hu": "Voltak, akik már a bokszutcában visszamentek új gumiért, de mind hiába.",
-    "content_hu": "Voltak, akik már a bokszutcában visszamentek új gumiért, de mind hiába.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d4cfbc712f",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/l5vBrzIbyUj9aDzV2EPwLhpBUqmITyLZONnsmVk3HNE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NkYjZmMTllMmZkMDRkOWQ5NzYzNGU3MTY5N2I0NzE4.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Magánrepülő, helikopter, luxusbirtok: ilyen a magyar közbeszerzéseken nyertes osztrák milliárdosok fényűzése – a Strabag és a Swietelsky jól keresett az Orbán-kormányok alatt",
-        "link": "https://www.vg.hu/kozelet/2026/11/swietelsky-strabag-meszaros-lorinc-luxus-kozbeszerzes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794074975,
-    "title_hu": "Magánrepülő, helikopter, luxusbirtok: ilyen a magyar közbeszerzéseken nyertes osztrák milliárdosok fényűzése – a Strabag és a Swietelsky jól keresett az Orbán-kormányok alatt",
-    "lead_hu": "A hazai sajtó egy része feltűnően másképp viszonyul a magyar és a külföldi milliárdosok életmódjához és költekezéséhez.",
-    "content_hu": "A hazai sajtó egy része feltűnően másképp viszonyul a magyar és a külföldi milliárdosok életmódjához és költekezéséhez.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_bef80dff81",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793878108-temp-tuteundap4sk8odomkl_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Piros Vera: Názsi, nági, nagy",
-        "link": "https://telex.hu/karakter/telextarcak/2026/11/07/piros-vera-nazsi-nagi-nagy-tarcanovella-irodalom"
-      }
-    ],
-    "published_at": 1794074963,
-    "title_hu": "Piros Vera: Názsi, nági, nagy",
-    "lead_hu": "„Egyre többen vagyunk, nagy a jövés-menés, talán hazamegyek, gondolom, bár nem tudom, hogyan, a legapróbb mozdulat is fáj, mikor végre meghallom a nevem.” E heti novellánk egy portugál kórházban játsz…",
-    "content_hu": "„Egyre többen vagyunk, nagy a jövés-menés, talán hazamegyek, gondolom, bár nem tudom, hogyan, a legapróbb mozdulat is fáj, mikor végre meghallom a nevem.” E heti novellánk egy portugál kórházban játszódik.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_abdab248bc",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261107/1794074655-temp-offloof39i0kfjmlmlg_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Atlanti kék tarisznyarák integetett ki a Rákos-patakból Zuglóban",
-        "link": "https://telex.hu/belfold/2026/11/07/atlanti-kek-tarisznyarak-rakos-patak-zuglo"
-      }
-    ],
-    "published_at": 1794074915,
-    "title_hu": "Atlanti kék tarisznyarák integetett ki a Rákos-patakból Zuglóban",
-    "lead_hu": "Az ollós a biciklis fahíd mellett, közvetlenül a mederbe vezető beton lépcső alatt kandikált ki a vízből.",
-    "content_hu": "Az ollós a biciklis fahíd mellett, közvetlenül a mederbe vezető beton lépcső alatt kandikált ki a vízből.",
     "importance_score": 0.0
   },
   {
