@@ -116,47 +116,6 @@
     ]
   },
   {
-    "group_id": "group_3b0c44f8de",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Miniszteri feljelentés történt az Erzsébet-táborok miatt, súlyos visszaélés gyanúja merült fel",
-        "link": "https://www.atv.hu/belfold/20261107/miniszter-feljelentes-erzsebet-tabor/",
-        "image": "https://www.youtube.com/embed/uejrej9Nmxk",
-        "summary": "Hűtlen kezelés gyanúja miatt feljelentést tett Kátai-Németh Vilmos szociális és családügyi miniszter az Erzsébet-táborok reklámozására fordított közpénzek felhasználása ügyében.",
-        "category": "Politika",
-        "published_at": 1794049920
-      },
-      {
-        "source": "444.hu",
-        "title": "Hűtlen kezelésre gyanakszik az Erzsébet-táborok választások előtti reklámozása ügyében Kátai-Németh Vilmos",
-        "link": "https://444.hu/2026/11/07/hutlen-kezelesre-gyanakszik-az-erzsebet-taborok-valasztasok-elotti-reklamozasa-ugyeben-katai-nemeth-vilmos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A miniszter azt kifogásolta, hogy a választás előtt a kormány egymilliárd forintot költött az Erzsébet-táborok reklámozására.",
-        "category": "Politika",
-        "published_at": 1794052318
-      }
-    ]
-  },
-  {
-    "group_id": "group_4380d4e4ca",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Hátulról direkt felrúgta az ellenfelét, tömegverekedés lett belőle",
-        "link": "https://24.hu/sport/foci/2026/11/07/ekstraklasa-wisla-krakko-cracovia-mateusz-klich-piros-lap/",
-        "image": "https://s.24.hu/app/uploads/2026/11/klich-e1794049315386-1024x578.png",
-        "summary": "36 évesen ennél többre számít az ember. The post Hátulról direkt felrúgta az ellenfelét, tömegverekedés lett belőle first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794049752
-      }
-    ]
-  },
-  {
     "group_id": "group_19e960f6e5",
     "category": "Általános",
     "articles_count": 1,
@@ -169,22 +128,6 @@
         "summary": "2027 márciusában indulhat a jelentkezés.",
         "category": "Általános",
         "published_at": 1794050340
-      }
-    ]
-  },
-  {
-    "group_id": "group_cb175a280f",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Agykárosultnak nevezte egy kommentelőjét Takács Péter, Magyar Péter is beszállt a vitába",
-        "link": "https://index.hu/belfold/2026/11/07/takacs-peter-magyar-peter-komment-facebook-agykarosodas-vita/",
-        "image": "https://kep.index.hu/1/0/6993/69931/699319/69931915_5159707_426fdfa9159c95b7f432578a80b551b4_wm.jpg",
-        "summary": "Ismét előkerült a lélegeztetőgép-ügy.",
-        "category": "Politika",
-        "published_at": 1794050040
       }
     ]
   },
@@ -399,6 +342,22 @@
         "summary": "Hiába az MNB-botrány, nem tervezik átnevezni a közterületet.",
         "category": "Politika",
         "published_at": 1794052500
+      }
+    ]
+  },
+  {
+    "group_id": "group_3b0c44f8de",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Hűtlen kezelésre gyanakszik az Erzsébet-táborok választások előtti reklámozása ügyében Kátai-Németh Vilmos",
+        "link": "https://444.hu/2026/11/07/hutlen-kezelesre-gyanakszik-az-erzsebet-taborok-valasztasok-elotti-reklamozasa-ugyeben-katai-nemeth-vilmos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A miniszter azt kifogásolta, hogy a választás előtt a kormány egymilliárd forintot költött az Erzsébet-táborok reklámozására.",
+        "category": "Politika",
+        "published_at": 1794052318
       }
     ]
   },
@@ -4130,7 +4089,7 @@
   {
     "group_id": "group_6dad89178a",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Vadhajtások",
@@ -4140,6 +4099,15 @@
         "summary": "Év végétől mesterséges intelligenciával támogatott drónokat állítanak szolgálatba a nagyobb vasúti üzemi területek védelmére és a balesetek megelőzésére.",
         "category": "Politika",
         "published_at": 1794077580
+      },
+      {
+        "source": "ATV",
+        "title": "Elegük lett az életveszélyes akciókból: drónokkal csap le a behatolókra a MÁV",
+        "link": "https://www.atv.hu/belfold/20261108/mav-dronok-mi-palyaudvar-orzes/",
+        "image": "",
+        "summary": "Új módszerrel próbálja megakadályozni a vasúti területeken történő veszélyes mutatványokat a MÁV, ezért az év végétől mesterséges intelligenciával támogatott drónok figyelik majd a nagyobb vasúti csomópontokat.",
+        "category": "Általános",
+        "published_at": 1794136320
       }
     ]
   },
@@ -7806,7 +7774,7 @@
   {
     "group_id": "group_2d6144e131",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -7816,6 +7784,15 @@
         "summary": "Ezek csak a 2021 és 2025 közötti adatok, amelyeket a K-Monitor segítségével ismert meg egy gazdasági szakember. The post K-Monitor: Ókovács Szilveszter több mint 73 milliót kapott az alapfizetésén felül az Operaháztól first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794133748
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A K-Monitor szerint öt év alatt több mint 73 millió forintnyi pluszjuttatást fizetett az Operaház Ókovács Szilveszternek",
+        "link": "https://telex.hu/karakter/kultura/2026/11/08/73-millio-forintnyi-pluszjuttatas-operahaz-okovacs-szilveszter-ot-ev-alapberen-tul",
+        "image": "https://assets.telex.hu/images/20261108/1794136192-temp-7i2vtejt6hub8boeonh_cimlap-normal.jpg",
+        "summary": "Csak 2023-ban több mint 19 millió forintot fizettek ki neki szabadságmegváltásra.",
+        "category": "Politika",
+        "published_at": 1794136250
       }
     ]
   },
@@ -8056,6 +8033,70 @@
         "summary": "Ősszel Toszkána és Umbria legalább olyan izgalmas úti cél, mint nyáron a tengerparti nagyágyúk.",
         "category": "Bulvár",
         "published_at": 1794135900
+      }
+    ]
+  },
+  {
+    "group_id": "group_b332c6e21a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "A felhők fölötti város, amelyet nem tudtak elpusztítani, mivel a spanyolok soha nem bukkantak rá",
+        "link": "https://index.hu/kultur/multkep/2026/11/08/peru-andok-lamak-machu-picchu/",
+        "image": "https://kep.index.hu/1/0/7085/70853/708533/70853329_5225955_73d8ca874770cb30591ee7827c9f40d3_wm.jpg",
+        "summary": "A Machu Picchu és az ország, ahol négyezer méteren élnek: az Inka Birodalomtól a lámák titkáig.",
+        "category": "Általános",
+        "published_at": 1794136140
+      }
+    ]
+  },
+  {
+    "group_id": "group_905ccc3030",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A Marina partra jár vacsorázni egy vaddisznó",
+        "link": "https://telex.hu/belfold/2026/11/08/vaddiszno-duna-marina-part-onkormanyzat",
+        "image": "https://assets.telex.hu/images/20261108/1794132702-temp-c8t435jf17th0gelfcf_cimlap-normal.jpg",
+        "summary": "Az állat egy hete rendszeresen megjelenik a Duna mellett, a lakók egy kutyafuttató és egy játszótér közelében is látták.",
+        "category": "Politika",
+        "published_at": 1794136373
+      }
+    ]
+  },
+  {
+    "group_id": "group_2ce21500e5",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Umami #10: Az olívaolaj sztártermék lett, de a termesztés egyre kiszámíthatatlanabb",
+        "link": "https://444.hu/2026/11/08/umami-10-az-olivaolaj-sztartermek-lett-de-a-termesztes-egyre-kiszamithatatlanabb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Harminc év alatt 161-szeresére nőtt a magyar olívapiac, közben egyre többeket érdekel, pontosan honnan jön és hogyan készül az olívaolaj. Laki Julival, a görögországi Honest Oil társalapítójával beszélgettünk arról, mitől jó az extra szűz olívaolaj, hogyan lesz a leszedett bogyóból még aznap olaj, és mit jelent a termelőknek az egyre kiszámíthatatlanabb időjárás.",
+        "category": "Politika",
+        "published_at": 1794136066
+      }
+    ]
+  },
+  {
+    "group_id": "group_2e3e005ede",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Lindsay Clancy tragédiája újra ráirányította a figyelmet a szülés utáni pszichózisra",
+        "link": "https://nlc.hu/ezvan/20261108/lindsay-clancy-szules-utani-pszichozis/0btc02p",
+        "image": "",
+        "summary": "A három gyermekének megölésével vádolt Lindsay Clancy ügye körül nem csitulnak az internetes találgatások, a bizonyíték nélküli vádaskodások, és előkerült egy hangfelvétel is, ami miatt az üggyel foglalkozó influenszer ellen is büntetőeljárás indult. Összeszedtük, mit tudunk eddig az ügyről, mi várható a következő hónapokban, és arról is szó esik a cikkben, hogy miért kellene komolyabban venni a kisgyerekes nők mentális állapotát. The post Lindsay Clancy tragédiája újra ráirányította a figyelmet a szülés utáni pszichózisra first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1794135780
       }
     ]
   }
