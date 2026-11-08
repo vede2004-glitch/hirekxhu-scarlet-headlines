@@ -950,32 +950,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_16c8e4ce96",
-    "fingerprint": "d9847a6d33fda95d4ba5ab3ff3656c6b",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Gmailje van? Önt is figyelmezteti a Google",
-        "link": "https://www.atv.hu/egyeb/20261108/gmail-google-ellenorzes/"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ha Gmail-t használsz, ellenőrizd ezt a beállítást! - Lehet, hogy más is hozzáfér a fiókodhoz",
-        "link": "https://nlc.hu/szabadido/20261108/gmail-hozzaferes-beallitas/emtyp23"
-      }
-    ],
-    "published_at": 1794123180,
-    "title_hu": "Ellenőrizze Gmail-fiókja hozzáféréseit – erre kér a Google",
-    "lead_hu": "A Google biztonsági ellenőrzést javasol a Gmail-felhasználóknak, amellyel áttekinthetik, milyen eszközök és külső alkalmazások férnek hozzá a fiókjukhoz. Az ismeretlen vagy már nem használt hozzáférések megszüntethetők.",
-    "content_hu": "• **Eszközök áttekintése** A Google Biztonsági ellenőrzés funkciójával megtekinthető, mely telefonokon, táblagépeken és számítógépeken van bejelentkezve a Gmail-fiók.\n\n• **Hozzáférések visszavonása** Az ismeretlen vagy már nem használt eszközökről távolról ki lehet jelentkezni, a feleslegessé vált külső alkalmazások jogosultságai pedig megszüntethetők.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_bd27b514e5",
     "fingerprint": "30506b9bfc90a5ba2aadcfa227b2af48",
     "category": "Politika",
@@ -1069,6 +1043,32 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_16c8e4ce96",
+    "fingerprint": "d9847a6d33fda95d4ba5ab3ff3656c6b",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Gmailje van? Önt is figyelmezteti a Google",
+        "link": "https://www.atv.hu/egyeb/20261108/gmail-google-ellenorzes/"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Ha Gmail-t használsz, ellenőrizd ezt a beállítást! - Lehet, hogy más is hozzáfér a fiókodhoz",
+        "link": "https://nlc.hu/szabadido/20261108/gmail-hozzaferes-beallitas/emtyp23"
+      }
+    ],
+    "published_at": 1794123180,
+    "title_hu": "Ellenőrizze Gmail-fiókja hozzáféréseit – erre kér a Google",
+    "lead_hu": "A Google biztonsági ellenőrzést javasol a Gmail-felhasználóknak, amellyel áttekinthetik, milyen eszközök és külső alkalmazások férnek hozzá a fiókjukhoz. Az ismeretlen vagy már nem használt hozzáférések megszüntethetők.",
+    "content_hu": "• **Eszközök áttekintése** A Google Biztonsági ellenőrzés funkciójával megtekinthető, mely telefonokon, táblagépeken és számítógépeken van bejelentkezve a Gmail-fiók.\n\n• **Hozzáférések visszavonása** Az ismeretlen vagy már nem használt eszközökről távolról ki lehet jelentkezni, a feleslegessé vált külső alkalmazások jogosultságai pedig megszüntethetők.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_9ea25517d2",
     "category": "Politika",
     "image": "",
@@ -1114,6 +1114,30 @@
     "title_hu": "300 ezer forintra is büntethetik, ha ezt teszi",
     "lead_hu": "Súlyos pénzbírságra számíthat, aki illegálisan éget hulladékot – figyelmeztetett vasárnap az Élő Környezetért Felelős Minisztérium. The post 300 ezer forintra is büntethetik, ha ezt teszi first appear…",
     "content_hu": "Súlyos pénzbírságra számíthat, aki illegálisan éget hulladékot – figyelmeztetett vasárnap az Élő Környezetért Felelős Minisztérium. The post 300 ezer forintra is büntethetik, ha ezt teszi first appeared on 24.hu.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_259d49d791",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/dXXgz4oCP0dEA6--yyeVdE4-hvO_s6_w9jwthqHw1oc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgyMDhmMzg4OTExNzQ5Yjc5MWJhNGI1Nzk3ZmI0N2Qx.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Kérdés, hogy meddig marad meg a rezsicsökkentés. A tét nagy!",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/rezsicsokketes-szalai-piroska?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Kérdésessé vált meddig marad a rezsicsökkentés, nagy a tét",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/kerdesesse-valt-meddig-marad-a-rezsicsokkentes-nagy-a-tet"
+      }
+    ],
+    "published_at": 1794121578,
+    "title_hu": "Kérdés, hogy meddig marad meg a rezsicsökkentés. A tét nagy!",
+    "lead_hu": "Rezsivédelem nélkül a mostani árak háromszorosát is fizetnénk.",
+    "content_hu": "Rezsivédelem nélkül a mostani árak háromszorosát is fizetnénk.",
     "importance_score": 28.0
   },
   {
@@ -1657,6 +1681,101 @@
     "lead_hu": "Június 1-jei hatállyal lemondott az Excellent Game Mozgásakadémia és Sportcentrum Közhasznú Nonprofit Kft. felügyelőbizottságából Rogán-Szendrei Cecília, Mészáros Dániel és Szivek Réka. A városmajori Budapest Tenisz Centrumot üzemeltető társaságban a megüresedett helyeket már betöltötték.",
     "content_hu": "• **Június 1-jei hatállyal** lemondott felügyelőbizottsági tagságáról Rogán-Szendrei Cecília, Mészáros Dániel és Szivek Réka az Excellent Game nevű társaságnál.\n\n• **A teniszközpont üzemeltetése** húszéves bérleti és üzemeltetési szerződés alapján került az Excellent Game-hez; a városmajori központ alapvetően az MTK tulajdonában áll.\n\n• **A cég tulajdonosa** Bessenyei István, Sarka Kata férje. Bessenyei 2019-ben vásárolta meg a társaságot.\n\n• **A júniusi taggyűlésen** a cég székhelyét is áthelyezték, törzstőkéjét pedig 3 millióról 11,705 millió forintra emelték.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_e7a5c3b563",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/Sipos_Peti_cover_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Ők Sipos Peti ritkán látott felnőtt fiai: Levente és Gergő totál szívtiprók",
+        "link": "https://femina.hu/hazai_sztar/sipos-peti-fiai-levente-gergo-fotok/"
+      }
+    ],
+    "published_at": 1794134100,
+    "title_hu": "Ők Sipos Peti ritkán látott felnőtt fiai: Levente és Gergő totál szívtiprók",
+    "lead_hu": "Sipos Peti fiai túlnőttek az apjukon, nagyon magas férfiakká nőttek....",
+    "content_hu": "Sipos Peti fiai túlnőttek az apjukon, nagyon magas férfiakká nőttek.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_02310feb11",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/TMm5BoXvEEr8TYg8M9QRLzHFRmf2FOZ933LhdFYpfV4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViMzNhOWRlZGUxNzQ3OGY5NjI4ZTVhNDZkMDk4Yzcw.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Amerika kevesebb mint 60 nap múlva boríthat Kínával szemben – ezt a háborút nem fegyverekkel fogják vívni, és kérdés, elég lesz-e hozzá Trumpék és a Pentagon konoksága",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/ritkafoldfem-finomitas-pentagon-kina-fegyverrendszer?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794133845,
+    "title_hu": "Amerika kevesebb mint 60 nap múlva boríthat Kínával szemben – ezt a háborút nem fegyverekkel fogják vívni, és kérdés, elég lesz-e hozzá Trumpék és a Pentagon konoksága",
+    "lead_hu": "Óriási az időnyomás egyes vállalatokon, Washington veszélyes időszakban készül nagy horderejű lépésre....",
+    "content_hu": "Óriási az időnyomás egyes vállalatokon, Washington veszélyes időszakban készül nagy horderejű lépésre.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_133d997c06",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261106/1793958281-temp-hsfvp12r22rsechckak_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Mitől lesz láthatatlan egy almatorta?",
+        "link": "https://telex.hu/gasztro/2026/11/08/lathatatlan-almatorta-sharlotka"
+      }
+    ],
+    "published_at": 1794133834,
+    "title_hu": "Mitől lesz láthatatlan egy almatorta?",
+    "lead_hu": "Szuperegyszerű, de nagyon látványos almás sütemény, aminek kulturális összefonódásai annyira bonyolultak, hogy angol-francia gyökerei és orosz rokonai is vannak....",
+    "content_hu": "Szuperegyszerű, de nagyon látványos almás sütemény, aminek kulturális összefonódásai annyira bonyolultak, hogy angol-francia gyökerei és orosz rokonai is vannak.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2d6144e131",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1140534100-e1794132650576-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "K-Monitor: Ókovács Szilveszter több mint 73 milliót kapott az alapfizetésén felül az Operaháztól",
+        "link": "https://24.hu/kultura/2026/11/08/okovacs-szilveszter-opera-k-monitor-meleghegyi-tamas/"
+      }
+    ],
+    "published_at": 1794133748,
+    "title_hu": "K-Monitor: Ókovács Szilveszter több mint 73 milliót kapott az alapfizetésén felül az Operaháztól",
+    "lead_hu": "Ezek csak a 2021 és 2025 közötti adatok, amelyeket a K-Monitor segítségével ismert meg egy gazdasági szakember. The post K-Monitor: Ókovács Szilveszter több mint 73 milliót kapott az alapfizetésén fel...",
+    "content_hu": "Ezek csak a 2021 és 2025 közötti adatok, amelyeket a K-Monitor segítségével ismert meg egy gazdasági szakember. The post K-Monitor: Ókovács Szilveszter több mint 73 milliót kapott az alapfizetésén felül az Operaháztól first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_201c812ef0",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7247/72473/724734/72473491_5340553_1f6a03ae4f6c817f39165b61c27886a5_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nyugdíjazzák a Tisza Párt kampánybuszát, a Közlekedési Múzeumban állítják ki",
+        "link": "https://index.hu/belfold/2026/11/08/ricsi-kisbusz-magyar-peter-kampany-tisza-kozlekedesi-muzeum/"
+      }
+    ],
+    "published_at": 1794133740,
+    "title_hu": "Nyugdíjazzák a Tisza Párt kampánybuszát, a Közlekedési Múzeumban állítják ki",
+    "lead_hu": "A Ford Transit 2024. április 6-án kapta meg jelenlegi megjelenését....",
+    "content_hu": "A Ford Transit 2024. április 6-án kapta meg jelenlegi megjelenését.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_bdfec3244d",
@@ -2986,25 +3105,6 @@
     "title_hu": "Zelenszkij kemény lépéseket ígért az ukrán titkosszolgálatot érintő korrupciós botrány miatt",
     "lead_hu": "Az elnök újabb személyi döntéseket ígért.",
     "content_hu": "Az elnök újabb személyi döntéseket ígért.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_259d49d791",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/dXXgz4oCP0dEA6--yyeVdE4-hvO_s6_w9jwthqHw1oc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgyMDhmMzg4OTExNzQ5Yjc5MWJhNGI1Nzk3ZmI0N2Qx.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Kérdés, hogy meddig marad meg a rezsicsökkentés. A tét nagy!",
-        "link": "https://magyarnemzet.hu/gazdasag/2026/11/rezsicsokketes-szalai-piroska?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794121578,
-    "title_hu": "Kérdés, hogy meddig marad meg a rezsicsökkentés. A tét nagy!",
-    "lead_hu": "Rezsivédelem nélkül a mostani árak háromszorosát is fizetnénk.",
-    "content_hu": "Rezsivédelem nélkül a mostani árak háromszorosát is fizetnénk.",
     "importance_score": 0.0
   },
   {
@@ -8952,158 +9052,6 @@
     "title_hu": "Megbénítja a forgalmat New Yorkban Jude Bellingham alsónadrágos óriásplakátja",
     "lead_hu": "Többen kifejezetten azért látogatnak el a helyszínre, hogy megörökítsék a futballistát.",
     "content_hu": "Többen kifejezetten azért látogatnak el a helyszínre, hogy megörökítsék a futballistát.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d2425711b6",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Szombaton is megdőlt a hidegrekord, de a vasárnap még erre is rátehet egy lapáttal",
-        "link": "https://index.hu/belfold/2026/11/07/idojaras-meteorologia-elorejelzes-hungaromet-hidegrekord-fagy-zabar/"
-      }
-    ],
-    "published_at": 1794047760,
-    "title_hu": "Szombaton is megdőlt a hidegrekord, de a vasárnap még erre is rátehet egy lapáttal",
-    "lead_hu": "Érdemes lesz jól betakarózni éjszakára.",
-    "content_hu": "Érdemes lesz jól betakarózni éjszakára.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_376e13b10d",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Így ugat Magyar Péter testőre: “Mi a f.szt videózol?”",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/igy-ugat-magyar-peter-testore-mi-a-fszt-videozol"
-      }
-    ],
-    "published_at": 1794047760,
-    "title_hu": "Így ugat Magyar Péter testőre: “Mi a f.szt videózol?”",
-    "lead_hu": "Amilyen a kutya, olyan a gazdája… Primitív agresszív, mint a szavazóik nagy része!",
-    "content_hu": "Amilyen a kutya, olyan a gazdája… Primitív agresszív, mint a szavazóik nagy része!",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b8fcf845c2",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/fejes_tamas.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "A Kincsvadászok Fejes Tamásának lánya már 1 éves: a cuki Mirát ritkán mutatja meg",
-        "link": "https://femina.hu/hazai_sztar/fejes-tamas-kislanya-mira-egy-eves-foto/"
-      }
-    ],
-    "published_at": 1794047700,
-    "title_hu": "A Kincsvadászok Fejes Tamásának lánya már 1 éves: a cuki Mirát ritkán mutatja meg",
-    "lead_hu": "Fejes Tamás friss fotókon mutatta meg, milyen nagy már a kislánya.",
-    "content_hu": "Fejes Tamás friss fotókon mutatta meg, milyen nagy már a kislánya.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_576cb94663",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Az önismeret nem célállomás, hanem folyamatos felfedezés – tíz kvízkérdés, ami tükröt tart",
-        "link": "https://nlc.hu/szabadido/20261107/onismeret-pszichologia-kviz/ebqh2ej"
-      }
-    ],
-    "published_at": 1794047580,
-    "title_hu": "Az önismeret nem célállomás, hanem folyamatos felfedezés – tíz kvízkérdés, ami tükröt tart",
-    "lead_hu": "Azt gondolod, pontosan tudod, ki vagy, mit szeretnél, és mi mozgatja a döntéseidet? Ez az önismereti kvíz 10 egyszerű kérdéssel segít feltárni, mennyire ismered önmagad, és milyen rejtett szokások bef…",
-    "content_hu": "Azt gondolod, pontosan tudod, ki vagy, mit szeretnél, és mi mozgatja a döntéseidet? Ez az önismereti kvíz 10 egyszerű kérdéssel segít feltárni, mennyire ismered önmagad, és milyen rejtett szokások befolyásolhatnak. Vajon tudatosan alakítod az életedet, vagy gyakrabban hagyatkozol a megszokásokra, mint hinnéd? A válaszaidból kiderülhet! The post Az önismeret nem célállomás, hanem folyamatos felfedezés – tíz kvízkérdés, ami tükröt tart first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ce50cece46",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/ZiYM1fcTwQPhLSWDwZFEcNoaf7Iry43kf7GfxhGd66o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ2ZTNkMDdlMDI5NjQ2YmRiZDg5MGZlMzA0YmQwZmE0.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Pusztító lakástüzekkel indult a hideg idő Bács-Kiskunban",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/pusztito-lakastuzekkel-indult-a-hideg-ido-bacs-kiskunban"
-      }
-    ],
-    "published_at": 1794047465,
-    "title_hu": "Pusztító lakástüzekkel indult a hideg idő Bács-Kiskunban",
-    "lead_hu": "A fagyosabb időjárás megérkezésével ugrásszerűen megnőtt a súlyos lakástüzek száma Bács-Kiskun megyében.",
-    "content_hu": "A fagyosabb időjárás megérkezésével ugrásszerűen megnőtt a súlyos lakástüzek száma Bács-Kiskun megyében.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d3caa2a3a3",
-    "category": "Kultúra",
-    "image": "https://kep.index.hu/1/0/7246/72461/724618/72461841_5339741_915966e0b5112a1f564bba32d3854ae7_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Benkő Péter szerint őt is megfigyelhette az állambiztonság, ezért kerülhetett az ügynökaktákba",
-        "link": "https://index.hu/kultur/2026/11/07/benko-peter-ugynokaktak-dokumentumok-beszervezes/"
-      }
-    ],
-    "published_at": 1794047460,
-    "title_hu": "Benkő Péter szerint őt is megfigyelhette az állambiztonság, ezért kerülhetett az ügynökaktákba",
-    "lead_hu": "A színész Bánkúti fedőnéven szerepel a mágnesszalagokon.",
-    "content_hu": "A színész Bánkúti fedőnéven szerepel a mágnesszalagokon.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_cf31e7f7d8",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/eizQSJu-EievJXFgA_2phi5Cp2uYdkHQ9gq5ZfAiHlE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZjZmYxYzg1MzAxZjQxYjE5ZjRkYWIyZmZmOTg3OTg0.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Jogsértéssel vádolják az Agrárminisztériumot az agrárérdekképviseletek – a Magosz és a MOSZ is nekiment a tárcának",
-        "link": "https://www.vg.hu/agrar/2026/11/beruhazasi-palyazat-jogsertes-agrarminiszterium-magosz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794047457,
-    "title_hu": "Jogsértéssel vádolják az Agrárminisztériumot az agrárérdekképviseletek – a Magosz és a MOSZ is nekiment a tárcának",
-    "lead_hu": "A forráshiányra történő hivatkozás nem fogadható el, ráadásul a minisztériumnak lehetősége lenne a pénzek átcsoportosítására is.",
-    "content_hu": "A forráshiányra történő hivatkozás nem fogadható el, ráadásul a minisztériumnak lehetősége lenne a pénzek átcsoportosítására is.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_9d74b77b7a",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a3b7b0b9-e6de-4669-b78b-bfdb217f0683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Továbbra is a költségvetés fizeti a távhőszolgáltatókat",
-        "link": "https://hvg.hu/gazdasag/20261107_magyar-kozlony-kormany-tavhoszolgaltatas-rezsivedelmi-alap"
-      }
-    ],
-    "published_at": 1794047413,
-    "title_hu": "Továbbra is a költségvetés fizeti a távhőszolgáltatókat",
-    "lead_hu": "Erre a célra 40 milliárd forintot csoportosított át a kormány, további 9 milliárdot pedig a brit kilépés miatt az Európai Unióban létrehozott alapból.",
-    "content_hu": "Erre a célra 40 milliárd forintot csoportosított át a kormány, további 9 milliárdot pedig a brit kilépés miatt az Európai Unióban létrehozott alapból.",
     "importance_score": 0.0
   },
   {
