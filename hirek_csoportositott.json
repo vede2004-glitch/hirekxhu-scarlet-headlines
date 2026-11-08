@@ -1,53 +1,5 @@
 [
   {
-    "group_id": "group_adec8b99f5",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Meglepő, amit közöltek a Jéger rendszerről, miniszteri kérésre derítették ki",
-        "link": "https://www.atv.hu/belfold/20261107/jeger-rendszer-vizsgalat-mta/",
-        "image": "",
-        "summary": "Minisztériumi kérésre vizsgálták a JÉGER rendszert, hogy van-e bármilyen hatása a felszínre hulló csapadék mennyiségére.",
-        "category": "Általános",
-        "published_at": 1794029760
-      }
-    ]
-  },
-  {
-    "group_id": "group_990df2b4bc",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Beszédes adatok a magyarországi szegénységről – infografikán mutatjuk",
-        "link": "https://hvg.hu/gazdasag/20261107_szegenyseg-regiok-statisztika-jarvany-2019-es-2025",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ef13f3fa-25b3-463a-9ddb-a06dede50ef9.jpg",
-        "summary": "Felemásan változott a szegénységi „térkép” a járvány előtti szinthez képest. Vannak régiók, ahol romlott a helyzet, Budapest pedig jelentős előnnyel vezeti a mezőnyt.",
-        "category": "Gazdaság",
-        "published_at": 1794029400
-      }
-    ]
-  },
-  {
-    "group_id": "group_afa37afcc6",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Samponnal takarítani? 6 meglepő dolog, amit tisztává varázsolhatsz vele",
-        "link": "https://nlc.hu/otthon/20261107/sampon-takaritas/wfnv80p",
-        "image": "",
-        "summary": "Ha eddig azt hitted, a sampon kizárólag a hajápolásban játszik szerepet, ideje újragondolni. Meglepően sokoldalú segítség lehet a lakás különböző pontjain is. The post Samponnal takarítani? 6 meglepő dolog, amit tisztává varázsolhatsz vele first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794029580
-      }
-    ]
-  },
-  {
     "group_id": "group_f2c0ae3d2a",
     "category": "Általános",
     "articles_count": 1,
@@ -542,7 +494,7 @@
   {
     "group_id": "group_fb642fcfdc",
     "category": "Gazdaság",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -552,6 +504,15 @@
         "summary": "Jelentős béremelés jön az egészségügyben: 15 százalékkal nőhet a szakdolgozók alapbére, új bértábla is érkezik",
         "category": "Gazdaság",
         "published_at": 1794032134
+      },
+      {
+        "source": "ATV",
+        "title": "Januárban 15 százalékos béremelés jöhet, itt vannak a részletek",
+        "link": "https://www.atv.hu/belfold/20261108/beremeles-egeszsegugy-hegedus-zsolt/",
+        "image": "https://www.youtube.com/embed/aifogzM0iHE",
+        "summary": "Átlagosan 15 százalékos béremelésre számíthat januártól mintegy 123 ezer egészségügyi szakdolgozó. A minisztérium közzétette a bérrendezés részleteit.",
+        "category": "Általános",
+        "published_at": 1794116160
       }
     ]
   },
@@ -8104,6 +8065,54 @@
         "summary": "Délután akár 13 fok is lehet. The post Az ország felén még zavartalan lesz a napsütés vasárnap, mutatjuk, hol fordulhat elő eső first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794115078
+      }
+    ]
+  },
+  {
+    "group_id": "group_e9a1d0f84c",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Tömeges légitámadás érte Kijevet, egyre kilátástalanabb a helyzet",
+        "link": "https://index.hu/kulfold/2026/11/08/orosz-ukran-haboru-kijev-raketatamadas-volodimir-zelenszkij-donald-trump/",
+        "image": "https://kep.index.hu/1/0/7247/72470/724702/72470223_5340351_9c9fe2aad89770d66e72c404480ecd8c_wm.jpg",
+        "summary": "Hiába az ígéretek, úgy tűnik, egyáltalán nem számít az emberélet.",
+        "category": "Általános",
+        "published_at": 1794116040
+      }
+    ]
+  },
+  {
+    "group_id": "group_f035bbb3dc",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nem elég a krakkói tragédia, német katonai beavatkozással és hadiállapottal riogatják a lengyeleket",
+        "link": "https://index.hu/kulfold/2026/11/08/lengyelorszag-alkotmanybirosag-valsag-alhir-manipulalt-video/",
+        "image": "https://kep.index.hu/1/0/7246/72468/724687/72468727_5340259_28250367dc565ae418f0d8586ef78312_wm.jpg",
+        "summary": "Álhírek és manipulált videók terjednek.",
+        "category": "Általános",
+        "published_at": 1794115800
+      }
+    ]
+  },
+  {
+    "group_id": "group_a800b9a5aa",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Ez a 3 csillagjegy különös eseményekre számíthat a jövő héten",
+        "link": "https://nlc.hu/horoszkop/20261108/horoszkop-november-masodik-hete-2026/f3qjw24",
+        "image": "",
+        "summary": "A november 9–15. közötti hét különös véletleneket, váratlan találkozásokat és meglepő fordulatokat tartogathat. Három csillagjegy különösen furcsa helyzetekbe kerülhet, amelyeknek később fontos jelentőségük lehet. The post Ez a 3 csillagjegy különös eseményekre számíthat a jövő héten first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1794115980
       }
     ]
   }
