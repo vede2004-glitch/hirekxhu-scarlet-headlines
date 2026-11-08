@@ -1539,6 +1539,30 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_5ce171abf1",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7246/72461/724618/72461815_5339739_272fa036b6fa72c2e915d5953a3749b7_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Fényes nappal, fegyverrel raboltak ki egy pénzszállítót Nyíregyházán",
+        "link": "https://index.hu/belfold/2026/11/07/rablas-fegyveres-rablas-nyiregyhaza/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Egy nap alatt elfogták a férfit, aki kirabolt egy pénzszállítót Nyíregyházán",
+        "link": "https://24.hu/belfold/2026/11/08/nyiregyhaza-penzszallito-rablas-elfogtak/"
+      }
+    ],
+    "published_at": 1794036180,
+    "title_hu": "Fényes nappal, fegyverrel raboltak ki egy pénzszállítót Nyíregyházán",
+    "lead_hu": "A támadó legalább tízmillió forintot zsákmányolhatott.",
+    "content_hu": "A támadó legalább tízmillió forintot zsákmányolhatott.",
+    "importance_score": 20.0
+  },
+  {
     "group_id": "group_fb642fcfdc",
     "category": "Gazdaság",
     "image": "https://cdn.vg.hu/2026/10/YrG_MWu3jBAtds9zmQ78LUx2th-_38EF9xBtkew9SDg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y5YTUyOGFmMDcxZjQxZTFhMDA0YjY3YjNjZTYzMzg1.jpg",
@@ -1585,6 +1609,25 @@
     "lead_hu": "Észszerűbb lenne egyetlen új gázerőművet sem építeni Magyarországon – véli Mezősi András, a BCE REKK főmunkatársa.",
     "content_hu": "Észszerűbb lenne egyetlen új gázerőművet sem építeni Magyarországon – véli Mezősi András, a BCE REKK főmunkatársa.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_f04dbc8cf4",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/GettyImages-227113448.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Eltussolhatta a palota Meghan apjának pedofil ügyét: botrány lehet készülőben",
+        "link": "https://femina.hu/vilagsztar/meghan-markle-apja-pedofil-botrany-kiralya-csalad/"
+      }
+    ],
+    "published_at": 1794117300,
+    "title_hu": "Eltussolhatta a palota Meghan apjának pedofil ügyét: botrány lehet készülőben",
+    "lead_hu": "Most vizsgálják, milyen szerepe lehetett a palotának Meghan hercegné édesapja ügyének eltussolásában....",
+    "content_hu": "Most vizsgálják, milyen szerepe lehetett a palotának Meghan hercegné édesapja ügyének eltussolásában.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_64f2fee8e3",
@@ -8142,25 +8185,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_5ce171abf1",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7246/72461/724618/72461815_5339739_272fa036b6fa72c2e915d5953a3749b7_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Fényes nappal, fegyverrel raboltak ki egy pénzszállítót Nyíregyházán",
-        "link": "https://index.hu/belfold/2026/11/07/rablas-fegyveres-rablas-nyiregyhaza/"
-      }
-    ],
-    "published_at": 1794036180,
-    "title_hu": "Fényes nappal, fegyverrel raboltak ki egy pénzszállítót Nyíregyházán",
-    "lead_hu": "A támadó legalább tízmillió forintot zsákmányolhatott.",
-    "content_hu": "A támadó legalább tízmillió forintot zsákmányolhatott.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_93853a263f",
     "category": "Gazdaság",
     "image": "https://cdn.vg.hu/2026/11/hL1J8det57tMdwkf8to4wTD7uCAvMRBNQnDBg-uwr0Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y4NGY0ZGFmMTliMDRiYzg5NDZlNTEyNzhhOGUyMGM1.jpg",
@@ -8804,101 +8828,6 @@
     "title_hu": "Fizessenek a gazdagok? Az igazság a sokat vitatott vagyonadóról",
     "lead_hu": "Közeleg a vagyonadó, a törvénytervezet már ismert, és a politikai támogatás is biztos, a közgazdászok többsége azonban ellenzi vagy legalábbis óvatosságra int. A tőke–munka modellből kiindulva vizsgál…",
     "content_hu": "Közeleg a vagyonadó, a törvénytervezet már ismert, és a politikai támogatás is biztos, a közgazdászok többsége azonban ellenzi vagy legalábbis óvatosságra int. A tőke–munka modellből kiindulva vizsgálom meg, hogy közgazdasági nézőpontból mennyire indokolható az új adó, és arra jutok, hogy lényegében kettős adóztatásaról van szó.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ae0152d79b",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/5569/55697/556972/55697209_4117267_b079ff4a094dbfab7b91e7ddbdd1a1d0_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Ha már tényleg ilyen bunkó, legalább a TikTokot ne bömböltesse a vonaton",
-        "link": "https://index.hu/fomo/2026/11/07/tomegkozlekedes-busz-vonat-villamos-viselkedes-normak-etikett-szabalyok-mav-bkk/"
-      }
-    ],
-    "published_at": 1794030900,
-    "title_hu": "Ha már tényleg ilyen bunkó, legalább a TikTokot ne bömböltesse a vonaton",
-    "lead_hu": "A közösségi közlekedésen minden van, csak közösség nincs.",
-    "content_hu": "A közösségi közlekedésen minden van, csak közösség nincs.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6e85aeade1",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/Helen_Hunt_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "A 90-es években szépsége miatt kapkodtak érte Hollywoodban: 63 évesen felismerhetetlenné változott Helen Hunt",
-        "link": "https://femina.hu/vilagsztar/helen-hunt-ma-63-evesen/"
-      }
-    ],
-    "published_at": 1794030900,
-    "title_hu": "A 90-es években szépsége miatt kapkodtak érte Hollywoodban: 63 évesen felismerhetetlenné változott Helen Hunt",
-    "lead_hu": "Helen Hunt ma már nem a természetes bájával és szépségével kelti fel az emberek figyelmét.",
-    "content_hu": "Helen Hunt ma már nem a természetes bájával és szépségével kelti fel az emberek figyelmét.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0fefaf913d",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7137/71371/713710/71371037_5262887_a8ed7ba99eac9964a08c4b26a65b5937_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Ókovács Szilveszter ismét megszólalt, ezt írta: Perelünk",
-        "link": "https://index.hu/kultur/2026/11/07/okovacs-szilveszter-allami-operahaz-fozo-virag-per-menesztettek/"
-      }
-    ],
-    "published_at": 1794030720,
-    "title_hu": "Ókovács Szilveszter ismét megszólalt, ezt írta: Perelünk",
-    "lead_hu": "Főző Virág menesztése után, szinte azonnal.",
-    "content_hu": "Főző Virág menesztése után, szinte azonnal.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0fd982d634",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793900001-temp-i4klt8vs15lh7dlenho_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Sopronban színre lépett egy új formáció, ismert ellenzékiek adták hozzá az arcukat",
-        "link": "https://telex.hu/belfold/2026/11/07/sopron-husegkapu-egyesulet-onkormanyzati-valasztas-helyi-tudositas"
-      }
-    ],
-    "published_at": 1794030703,
-    "title_hu": "Sopronban színre lépett egy új formáció, ismert ellenzékiek adták hozzá az arcukat",
-    "lead_hu": "Egykori szocialista és momentumos politikusok bukkantak fel a Hűségkapu Egyesületben, indulnának a következő önkormányzati választáson.",
-    "content_hu": "Egykori szocialista és momentumos politikusok bukkantak fel a Hűségkapu Egyesületben, indulnának a következő önkormányzati választáson.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f271aa26ca",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/10/e2guVZcH3Szm-Mmy_dmsNdbkhCR0S7NIN4IPwuCdXlo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM4NGI4MjY5MTRjNjRkY2M4NjdiNzIwMTI2YzljNWMw.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Közeledhet a nagy gázfordulat, Kapitány István most lengethette be a jövőt – Magyarország alighanem a román tengerterületekre kacsintgat",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/gaz-romania-neptun-deep-kapitany-istvan-vezetek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794030678,
-    "title_hu": "Közeledhet a nagy gázfordulat, Kapitány István most lengethette be a jövőt – Magyarország alighanem a román tengerterületekre kacsintgat",
-    "lead_hu": "Újabb lépést tett Magyarország a román földgáz felé: Kapitány István már egyeztetett Bukaresttel.",
-    "content_hu": "Újabb lépést tett Magyarország a román földgáz felé: Kapitány István már egyeztetett Bukaresttel.",
     "importance_score": 0.0
   },
   {
