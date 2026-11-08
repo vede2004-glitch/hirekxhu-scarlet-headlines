@@ -57,22 +57,6 @@
     ]
   },
   {
-    "group_id": "group_e7ee4180a4",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Lakat került az erzsébetvárosi náci kocsmára, megszólalt a polgármester",
-        "link": "https://index.hu/belfold/2026/11/07/naci-kocsma-budapest-erzsebetvaros-niedermuller-peter/",
-        "image": "https://kep.index.hu/1/0/7246/72467/724679/72467981_5340191_45ce1365cc89a4c1dd985dc0389320f3_wm.png",
-        "summary": "Ajándékbolt és kocsma mögé bújtatták a fajvédő eszméket.",
-        "category": "Politika",
-        "published_at": 1794062880
-      }
-    ]
-  },
-  {
     "group_id": "group_4b88ce8bd9",
     "category": "Politika",
     "articles_count": 1,
@@ -85,38 +69,6 @@
         "summary": "Magyar Péter felmentette Rétvári Bencét az EFOP és az EFOP Plusz monitoring bizottságainak elnöki tisztségéből. A KDNP-s politikus megbízatása november 6-án szűnt meg a pénteken megjelent miniszterelnöki határozat alapján. A két testület élé...",
         "category": "Politika",
         "published_at": 1794065940
-      }
-    ]
-  },
-  {
-    "group_id": "group_736174d6dc",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kína egy cégvezetőt szervezett be, hogy kémkedjen az Nvidia vezére után",
-        "link": "https://24.hu/tech/2026/11/07/jensen-huang-kina-kem-beszervezes/",
-        "image": "https://s.24.hu/app/uploads/2026/11/jensen-huang-nvidia-kina-kem-beszervezes-2301328017-e1794062782688-1024x574.jpg",
-        "summary": "A New York Times értesülései szerint azzal bízták meg egy MI-cég egyik vezetőjét, hogy szerezzen információkat az amerikai MI-chipekről. The post Kína egy cégvezetőt szervezett be, hogy kémkedjen az Nvidia vezére után first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794062907
-      }
-    ]
-  },
-  {
-    "group_id": "group_f036a85229",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Készül az autósokat is felokosító okossztráda a mostanában káromkodásra ingerlő M1-esen",
-        "link": "https://hvg.hu/360/20261107_hvg-okossztradak-m1m7-bme-forgalomiranyitas-kornyezetszennyezes",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/01397697-9965-4ad6-a8e4-b6702f6515b4.jpg",
-        "summary": "Többen és egyenletesebben haladhatnak rajtuk kevesebb balesetet okozva, viszont környezetszennyezőbbek és kis bajból is nagyot generálhatnak – hangzanak a pró és kontra érvek. De mitől okos egy út, és mire lehet még használni a forgalomirányításon túl? Ennek kutatásában élenjárnak a hazai szakemberek is.",
-        "category": "Kultúra",
-        "published_at": 1794062700
       }
     ]
   },
@@ -7587,7 +7539,7 @@
   {
     "group_id": "group_2859d6c3fa",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -7597,6 +7549,15 @@
         "summary": "Ezzel együtt több szakaszon megszűnik a sebességkorlátozás, ami rövidebb menetidőt és kevesebb késést eredményezhet.",
         "category": "Általános",
         "published_at": 1794146220
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Kőbánya-Kispestre ért a Budapest – Cegléd vasútvonal felújítása",
+        "link": "https://hvg.hu/itthon/20261108_kobanya-kispestre-ert-a-budapest-cegled-vasutvonal-felujitasa",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/34630c00-74ed-4ce2-8627-926ccdfacd6b.jpg",
+        "summary": "Vitézy Dávid közölte: az ország egyik legforgalmasabb vasútvonalán megszűnnek a jelenlegi, akár 20 km/h-s sebességkorlátozások, és egy hónap múlva helyreállhat a 80 km/h-s közlekedés.",
+        "category": "Politika",
+        "published_at": 1794148957
       }
     ]
   },
@@ -7628,7 +7589,7 @@
         "image": "",
         "summary": "Legalább hat ember meghalt, és több mint egy tucatnyian megsérültek, amikor egy ámokfutó fegyveres tüz...",
         "category": "Politika",
-        "published_at": 1794148981
+        "published_at": 1794149280
       }
     ]
   },
@@ -7933,6 +7894,54 @@
         "summary": "Egyszerre kapott fájó csapást a nemzeti büszkeség és a németek hagyományos érzékenysége Izraelt illetően.",
         "category": "Gazdaság",
         "published_at": 1794148037
+      }
+    ]
+  },
+  {
+    "group_id": "group_8808603317",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Nekik az az ünnep, amikor megkapják az adóbevallást",
+        "link": "https://telex.hu/eletmod/2026/11/08/szocialis-farm-foglalkoztatas-mezogazdasag-foglalkoztatas-miskolc-barathegyi-majorsag-jakubinyi-laszlo",
+        "image": "https://assets.telex.hu/images/20261022/1792671286-temp-4qo5ph6cd9mifhomabg_cimlap-normal.jpg",
+        "summary": "„A szociális farm egy jól eladható termék lenne politikusként. Munkahelyet teremtesz, megoldod a hátrányos helyzetűek problémáját, még olcsóbban is, mint a meglévő rendszer” – mondja Jakubinyi László, akinek célja, hogy értékteremtő munkát és méltóságteljes életet kínáljon fogyatékkal élőknek és megváltozott munkaképességűeknek.",
+        "category": "Politika",
+        "published_at": 1794148699
+      }
+    ]
+  },
+  {
+    "group_id": "group_e937b19d37",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Jó móka volt elkészíteni a koporsómat” – aki szeretné, a temetésig könyvesszekrényként is használhatja",
+        "link": "https://24.hu/kulfold/2026/11/08/temetkezes-koporso-video-deutsche-welle/",
+        "image": "https://s.24.hu/app/uploads/2026/11/dw-koporso-kiemelt-1024x576.png",
+        "summary": "Egy németországi asztalosműhelyben bárki elkészítheti azt a koporsót vagy urnát, amelyben majd eltemetik vagy elhamvasztják. De miért? A Deutsche Welle riportja. The post „Jó móka volt elkészíteni a koporsómat” – aki szeretné, a temetésig könyvesszekrényként is használhatja first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794149308
+      }
+    ]
+  },
+  {
+    "group_id": "group_f3adc12b39",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Világ",
+        "title": "Csapást mért egy teherhajóra Amerika az iráni blokád kijátszására hivatkozva",
+        "link": "https://hvg.hu/vilag/20261108_csapast-mert-egy-teherhajora-amerika-az-irani-blokad-kijatszasara-hivatkozva",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c2578b2c-ba63-44ec-bb93-00c7eff52bf5.jpg",
+        "summary": "Az Irán elleni blokád kijátszásával gyanúsított egyik teherhajóra mértek csapást az amerikai erők az Ománi-öbölben - közölte az amerikai középső parancsnokság (CENTCOM) az X-en.",
+        "category": "Általános",
+        "published_at": 1794149262
       }
     ]
   }
