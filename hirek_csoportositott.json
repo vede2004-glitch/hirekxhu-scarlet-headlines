@@ -16,22 +16,6 @@
     ]
   },
   {
-    "group_id": "group_01c939287a",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "9 milliárd forintot kell visszafizetnünk az EU-nak egy olyan program miatt, amiben Matolcsy Ádám bútorgyára is nyertes volt",
-        "link": "https://telex.hu/gazdasag/2026/11/07/9-milliard-brexit-program-visszafizetes-eu",
-        "image": "https://assets.telex.hu/images/20261107/1794069821-temp-f78oudhn4iqg8gjafae_cimlap-normal.jpg",
-        "summary": "A forrásra elvileg azok a cégek pályázhattak, amelyek igazolni tudták, hogy káruk keletkezett a brexitből.",
-        "category": "Politika",
-        "published_at": 1794069866
-      }
-    ]
-  },
-  {
     "group_id": "group_a852433376",
     "category": "Általános",
     "articles_count": 1,
@@ -4518,7 +4502,7 @@
   {
     "group_id": "group_f237e47b4a",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -4528,6 +4512,15 @@
         "summary": "Kiderült, hol van „Tesóka”.",
         "category": "Általános",
         "published_at": 1794128400
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Matolcsy Ádámot kereste Dubajban az ismert youtuber, végül Szijjártót találta meg",
+        "link": "https://nlc.hu/sztarok/20261108/horvath-andras-dubaj-matolcsy-adam-szijjarto-peter/xxr6qw4",
+        "image": "",
+        "summary": "Matolcsy Ádám helyett Szijjártó Péter bukkant fel Dubajban. Horváth András youtuber szúrta ki, hogy ott tölti az idejét a volt külgazdasági és külügyminiszter. The post Matolcsy Ádámot kereste Dubajban az ismert youtuber, végül Szijjártót találta meg first appeared on nlc.",
+        "category": "Politika",
+        "published_at": 1794155580
       }
     ]
   },
@@ -7871,6 +7864,38 @@
         "summary": "A legtöbben túlhasználják és az egészségüket kockáztatják.",
         "category": "Bulvár",
         "published_at": 1794155400
+      }
+    ]
+  },
+  {
+    "group_id": "group_e1a808b181",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Sporttörténelmi káosz jöhet a jégkorongban: a nemzetközi szövetség kirúgta Norvégiát a juniorvébéről, és visszavette a helyére Oroszországot",
+        "link": "https://444.hu/2026/11/08/sporttortenelmi-kaosz-johet-a-jegkorongban-a-nemzetkozi-szovetseg-kirugta-norvegiat-a-juniorveberol-es-visszavette-a-helyere-oroszorszagot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Norvégia, Dánia, Svédország, Finnország, Lettország és Csehország már kijelentették: nem hajlandók az oroszokkal játszani. A botránysorozat a Nemzetközi Sportdöntőbíróság ítélete nyomán dagad egyre nagyobbra.",
+        "category": "Politika",
+        "published_at": 1794156453
+      }
+    ]
+  },
+  {
+    "group_id": "group_cad03715f0",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Már a sörgyártók is aggódnak a GLP-1-készítmények miatt: a fogyókúrás gyógyszerek a kocsmák forgalmát is visszavethetik",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/glp-1-sorgyartok-ozempic-fogyokuras-gyogyszerek-alkohol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/fVbNF09EyRoxvx-WDc-vyS8Pd0VRIEZ4aeFPW_P_47o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E2NjRlOGE3NzlhZTRjYjE5YmM4OTgwNjgyZGI4M2Iy.jpg",
+        "summary": "Egyre több bizonyíték utal az alkoholfogyasztás visszaesésére a fogyókúrás készítményekkel összefüggésben.",
+        "category": "Gazdaság",
+        "published_at": 1794156043
       }
     ]
   }
