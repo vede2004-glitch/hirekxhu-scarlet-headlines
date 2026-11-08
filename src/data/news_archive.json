@@ -1,5 +1,613 @@
 [
   {
+    "group_id": "group_6c5d01c484",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7247/72473/724730/72473051_5340521_c4df75b2c46e105cc486eed932486bab_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Egyenesen a rendőrök karjaiba száguldott Kaposváron egy ámokfutó",
+        "link": "https://index.hu/belfold/2026/11/08/kaposvar-gyorshajtas-szaguldas-amokfuto-rendorok-somogy-megye/"
+      }
+    ],
+    "published_at": 1794149760,
+    "title_hu": "Egyenesen a rendőrök karjaiba száguldott Kaposváron egy ámokfutó",
+    "lead_hu": "A történteket a térfigyelő-kamerarendszer is rögzítette.",
+    "content_hu": "A történteket a térfigyelő-kamerarendszer is rögzítette."
+  },
+  {
+    "group_id": "group_4804a9f2c3",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/4330/43302/433024/43302488_3305146_b03191a490f37818e24af11122404098_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Összehangolt külföldi fenyegetésről beszélt Ruszin-Szendi Romulusz, ezért szállnak fel a Gripenek",
+        "link": "https://index.hu/belfold/2026/11/08/magyar-honvedseg-gripen-vadaszgep-bombafenyegetes-ruszin-szendi-romulusz/"
+      }
+    ],
+    "published_at": 1794149580,
+    "title_hu": "Összehangolt külföldi fenyegetésről beszélt Ruszin-Szendi Romulusz, ezért szállnak fel a Gripenek",
+    "lead_hu": "A honvédelmi miniszter elmondta, miért van szükség a vadászgépek bevetésére.",
+    "content_hu": "A honvédelmi miniszter elmondta, miért van szükség a vadászgépek bevetésére."
+  },
+  {
+    "group_id": "group_e937b19d37",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/dw-koporso-kiemelt-1024x576.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Jó móka volt elkészíteni a koporsómat” – aki szeretné, a temetésig könyvesszekrényként is használhatja",
+        "link": "https://24.hu/kulfold/2026/11/08/temetkezes-koporso-video-deutsche-welle/"
+      }
+    ],
+    "published_at": 1794149308,
+    "title_hu": "„Jó móka volt elkészíteni a koporsómat” – aki szeretné, a temetésig könyvesszekrényként is használhatja",
+    "lead_hu": "Egy németországi asztalosműhelyben bárki elkészítheti azt a koporsót vagy urnát, amelyben majd eltemetik vagy elhamvasztják. De miért? A Deutsche Welle riportja. The post „Jó móka volt elkészíteni a k…",
+    "content_hu": "Egy németországi asztalosműhelyben bárki elkészítheti azt a koporsót vagy urnát, amelyben majd eltemetik vagy elhamvasztják. De miért? A Deutsche Welle riportja. The post „Jó móka volt elkészíteni a koporsómat” – aki szeretné, a temetésig könyvesszekrényként is használhatja first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_ea0d88a730",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Ócska sátánista, kereszténygyűlölő kommunista volt a krakkói lövöldöző",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/ocska-satanista-keresztenygyulolo-kommunista-volt-a-krakkoi-lovoldozo"
+      }
+    ],
+    "published_at": 1794149280,
+    "title_hu": "Ócska sátánista, kereszténygyűlölő kommunista volt a krakkói lövöldöző",
+    "lead_hu": "Legalább hat ember meghalt, és több mint egy tucatnyian megsérültek, amikor egy ámokfutó fegyveres tüz...",
+    "content_hu": "Legalább hat ember meghalt, és több mint egy tucatnyian megsérültek, amikor egy ámokfutó fegyveres tüz..."
+  },
+  {
+    "group_id": "group_6dad89178a",
+    "fingerprint": "8879f36a8754f05a4f3ac2d67df3ab74",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Bejelentést tett a MÁV: drónok jelenhetnek meg a területei felett",
+        "link": "https://www.vadhajtasok.hu/2026/11/07/bejelentest-tett-a-mav-dronok-jelenhetnek-meg-a-teruletei-felett"
+      },
+      {
+        "source": "ATV",
+        "title": "Elegük lett az életveszélyes akciókból: drónokkal csap le a behatolókra a MÁV",
+        "link": "https://www.atv.hu/belfold/20261108/mav-dronok-mi-palyaudvar-orzes/"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Drónokkal figyeli meg a MÁV a pályaudvarokat, betörőket és rendbontókat keresnek",
+        "link": "https://hvg.hu/tudomany/20261108_dronokkal-figyeli-meg-a-mav-a-palyaudvarokat-betoroket-es-rendbontokat-keresnek"
+      },
+      {
+        "source": "444.hu",
+        "title": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
+        "link": "https://444.hu/2026/11/08/okos-dronokkal-fogja-a-mav-felugyelni-a-hozza-tartozo-uzemi-teruleteket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794149267,
+    "title_hu": "MI-vezérelt drónokkal figyeli a vasúti területeket a MÁV",
+    "lead_hu": "A MÁV az év végétől mesterséges intelligenciával támogatott drónokkal őrizné a nagyobb vasúti üzemi területeket. A rendszer a gyanús mozgásokat észleli, majd értesíti a helyszínen szolgálatot teljesítő biztonsági munkatársakat; ezzel a vagyonvédelem mellett a balesetek megelőzése is a cél.",
+    "content_hu": "• **Év végi indulás** A MÁV az év végétől állítja szolgálatba az MI-vel támogatott drónokat. A tesztüzem december elején Szolnokon indulhat.\n\n• **Bővítés több pályaudvarra** Ha beválik a rendszer, jövőre 20–25 pályaudvarra is kiterjeszthetik, elsősorban a nagy kiterjedésű üzemi területeken.\n\n• **Gyanús mozgások észlelése** A drónok magyar mesterségesintelligencia-technológia segítségével ismerik fel a kritikus tevékenységeket, és riasztják a helyszíni őröket, akik kivizsgálják az esetet.\n\n• **Vagyonvédelem és baleset-megelőzés** A megfigyelés a vasúti járművek és a szállított áruk védelmét, valamint a behatolások, rongálások és veszélyes helyzetek megelőzését szolgálja.\n\n• **Életveszélyes felmászások** Hegyi Zsolt vezérigazgató elmondása szerint az elmúlt évben tíz alkalommal kaptak el embereket, akik vonatok tetejére másztak. A felsővezeték közelsége miatt az ilyen esetek halálos áramütéssel is végződhetnek; a HVG beszámolója szerint idén már három halálos baleset történt ilyen körülmények között."
+  },
+  {
+    "group_id": "group_f3adc12b39",
+    "category": "Általános",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c2578b2c-ba63-44ec-bb93-00c7eff52bf5.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Csapást mért egy teherhajóra Amerika az iráni blokád kijátszására hivatkozva",
+        "link": "https://hvg.hu/vilag/20261108_csapast-mert-egy-teherhajora-amerika-az-irani-blokad-kijatszasara-hivatkozva"
+      }
+    ],
+    "published_at": 1794149262,
+    "title_hu": "Csapást mért egy teherhajóra Amerika az iráni blokád kijátszására hivatkozva",
+    "lead_hu": "Az Irán elleni blokád kijátszásával gyanúsított egyik teherhajóra mértek csapást az amerikai erők az Ománi-öbölben - közölte az amerikai középső parancsnokság (CENTCOM) az X-en.",
+    "content_hu": "Az Irán elleni blokád kijátszásával gyanúsított egyik teherhajóra mértek csapást az amerikai erők az Ománi-öbölben - közölte az amerikai középső parancsnokság (CENTCOM) az X-en."
+  },
+  {
+    "group_id": "group_2859d6c3fa",
+    "fingerprint": "63ea3cce40bb5b321224dedb18c90ae8",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7247/72475/724756/72475643_5340715_8276637a68506b2d8483b18eeba11cbf_wm.png",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Vitézy Dávid: Kőbánya-Kispesten folytatódik a Budapest–Cegléd vasútvonal felújítása",
+        "link": "https://index.hu/belfold/2026/11/08/vitezy-david-kozlekedes-miniszter-mav-vasut-felujitas/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Kőbánya-Kispestre ért a Budapest – Cegléd vasútvonal felújítása",
+        "link": "https://hvg.hu/itthon/20261108_kobanya-kispestre-ert-a-budapest-cegled-vasutvonal-felujitasa"
+      }
+    ],
+    "published_at": 1794148957,
+    "title_hu": "Folytatódik a Budapest–Cegléd vasútvonal felújítása Kőbánya-Kispesten",
+    "lead_hu": "November 4. és december 1. között a MÁV szakemberei a kőbánya-kispesti állomáson újítják fel a Budapest–Cegléd vasútvonalat. A munkák után több szakaszon megszűnhetnek a sebességkorlátozások, a 80 km/órás pályasebesség helyreállítása december közepére várható.",
+    "content_hu": "• **November 4. és december 1. között** a 100a vasútvonal felújítása Kőbánya-Kispesten folytatódik, ahol a 4. és 5. vágányt építik át.\n\n• **Jelentős pályafelújítás zajlik:** mintegy 80 vasutas és nagy teljesítményű munkagépek dolgoznak; új kitérőket és vágányszakaszokat építenek, sínt cserélnek, 1250 vasbetonaljat helyeznek el, valamint felújítják a perontetőket.\n\n• **Csökkenhetnek a menetidők és a késések:** négy rövid szakaszon megszűnnek a 20 és 40 km/órás korlátozások, a 80 km/órás pályasebesség visszaállítása pedig a december 10–13. közötti utószabályozáskor várható.\n\n• **Átmeneti menetrendváltozások lesznek:** egyes InterCityk korábban indulnak, az elővárosi járatok menetrendje módosul, néhány késő esti és hajnali vonat helyett pótlóbusz közlekedik. Indulás előtt érdemes ellenőrizni a járatokat a MÁVPluszban."
+  },
+  {
+    "group_id": "group_8808603317",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261022/1792671286-temp-4qo5ph6cd9mifhomabg_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Nekik az az ünnep, amikor megkapják az adóbevallást",
+        "link": "https://telex.hu/eletmod/2026/11/08/szocialis-farm-foglalkoztatas-mezogazdasag-foglalkoztatas-miskolc-barathegyi-majorsag-jakubinyi-laszlo"
+      }
+    ],
+    "published_at": 1794148699,
+    "title_hu": "Nekik az az ünnep, amikor megkapják az adóbevallást",
+    "lead_hu": "„A szociális farm egy jól eladható termék lenne politikusként. Munkahelyet teremtesz, megoldod a hátrányos helyzetűek problémáját, még olcsóbban is, mint a meglévő rendszer” – mondja Jakubinyi László,…",
+    "content_hu": "„A szociális farm egy jól eladható termék lenne politikusként. Munkahelyet teremtesz, megoldod a hátrányos helyzetűek problémáját, még olcsóbban is, mint a meglévő rendszer” – mondja Jakubinyi László, akinek célja, hogy értékteremtő munkát és méltóságteljes életet kínáljon fogyatékkal élőknek és megváltozott munkaképességűeknek."
+  },
+  {
+    "group_id": "group_33fc27c790",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/dz92jaxLw4aMmdytvZ6eZDI7O6Qv6REi5-9cDnzAz2M/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgzZDMwYjBiYTcxMDRmZWJiYzc3MzMzOGM5M2FjZmFl.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Nagyot hajrázott a Fradi, de edzője régi-új csapata elvette idénybeli veretlenségét",
+        "link": "https://magyarnemzet.hu/sport/2026/11/esbjerg-ftc-noi-kezilabda-bl-jensen-klujber-mork?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794148521,
+    "title_hu": "Nagyot hajrázott a Fradi, de edzője régi-új csapata elvette idénybeli veretlenségét",
+    "lead_hu": "Nora Mörk és Henny Reistad párosa túl nagy falatnak bizonyult.",
+    "content_hu": "Nora Mörk és Henny Reistad párosa túl nagy falatnak bizonyult."
+  },
+  {
+    "group_id": "group_422e04a588",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Több mint 1200 embert vettek őrizetbe Guineában illegális aranybányászat miatt",
+        "link": "https://index.hu/kulfold/2026/11/08/guinea-illegalis-aranybanyaszat-orizetbe-vetel-tilalom-nepessegaramlas/"
+      }
+    ],
+    "published_at": 1794148140,
+    "title_hu": "Több mint 1200 embert vettek őrizetbe Guineában illegális aranybányászat miatt",
+    "lead_hu": "A kormány tilalma soha nem látott mértékű népességáramlást váltott ki a térségben.",
+    "content_hu": "A kormány tilalma soha nem látott mértékű népességáramlást váltott ki a térségben."
+  },
+  {
+    "group_id": "group_ac18bf9ef0",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Az Értelem és érzelem 2026-ban sem váltja meg a világot, de nem is ez a dolga",
+        "link": "https://444.hu/jo/2026/11/08/az-ertelem-es-erzelem-2026-ban-sem-valtja-meg-a-vilagot-de-nem-is-ez-a-dolga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794148131,
+    "title_hu": "Az Értelem és érzelem 2026-ban sem váltja meg a világot, de nem is ez a dolga",
+    "lead_hu": "Nagy kérdés volt, hogy teljesít majd az 1995-ös, etalonnak számító feldolgozáshoz képest. de igazából kér méricskélni: jó nézni, és ez a lényeg.",
+    "content_hu": "Nagy kérdés volt, hogy teljesít majd az 1995-ös, etalonnak számító feldolgozáshoz képest. de igazából kér méricskélni: jó nézni, és ez a lényeg."
+  },
+  {
+    "group_id": "group_9ea323d001",
+    "fingerprint": "5a9b41c65354d8fd976ed545cde90ea7",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Halálos baleset történt Horvátországban, átszakította a szalagkorlátot és oldalára borult egy busz",
+        "link": "https://index.hu/kulfold/2026/11/08/buszbaleset-halalos-baleset-horvatorszag-mentohelikopter-rendorseg/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Áttörte az autópálya korlátját és felborult egy szerb busz Horvátországban, ketten meghaltak",
+        "link": "https://telex.hu/kulfold/2026/11/08/felborult-szerb-busz-horvatorszag-ketten-meghaltak-serult"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Súlyos baleset a horvát autópályán: áttörte a szalagkorlátot, majd felborult egy busz",
+        "link": "https://24.hu/kulfold/2026/11/08/autobusz-baleset-horvatorszag/"
+      }
+    ],
+    "published_at": 1794148057,
+    "title_hu": "Két halálos áldozata és 33 sérültje van a horvátországi buszbalesetnek",
+    "lead_hu": "Két ember meghalt, 33-an pedig megsérültek, amikor egy szerb busz november 8-án reggel felborult a horvátországi A3-as autópályán. A Niš és Zágráb között közlekedő járat áttörte a szalagkorlátot, majd az úttesttől mintegy tíz méterre állt meg; a baleset körülményeit vizsgálják.",
+    "content_hu": "• **A baleset helyszíne és ideje** November 8-án reggel 7 óra 25 perc körül, az A3-as autópályán, az Ivanić-Grad csomópont közelében borult fel a Zágráb felé tartó busz.\n\n• **Áldozatok és sérültek** Két ember meghalt, 33-an megsérültek; közülük hatan súlyosan, 27-en könnyebben. A sérülteket öt zágrábi kórházba szállították.\n\n• **A baleset körülményei** A Niš Express menetrend szerinti járata eddig tisztázatlan okból letért az útról, áttörte a védőkorlátot, majd az úttesttől körülbelül tíz méterre az oldalára borult.\n\n• **A helyszín pontosítása** A busz az A3-as autópálya 61. kilométerénél, az Ivanić-Grad csomópont után szenvedett balesetet, Zágrábtól mintegy 40 kilométerre keletre.\n\n• **Mentés** A mentésben mentők és tűzoltók vettek részt, a súlyosabb esetek ellátásához mentőhelikoptert is bevetettek.\n\n• **Vizsgálat** A horvát rendőrség vizsgálja, mi okozta a balesetet; egyelőre nem tudni, miért vesztette el a sofőr az uralmát a jármű felett."
+  },
+  {
+    "group_id": "group_4a2ac04846",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/bAPJOb_BYBIfaIHvRN_CAkz2-k3JsFYp3ddk3Q_nJ0M/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdjNGI1MjM4M2NhMzRkMmU5NDUwZWIwYjQyM2U3MzU3.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Botrány, ebből lassan elegük lesz: ledobta a Reichstag német zászlóját és palesztinre cserélte – másfél órát lógott fent a férfi",
+        "link": "https://www.vg.hu/kozelet/2026/11/reichstag-palesztin-zaszlo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794148037,
+    "title_hu": "Botrány, ebből lassan elegük lesz: ledobta a Reichstag német zászlóját és palesztinre cserélte – másfél órát lógott fent a férfi",
+    "lead_hu": "Egyszerre kapott fájó csapást a nemzeti büszkeség és a németek hagyományos érzékenysége Izraelt illetően.",
+    "content_hu": "Egyszerre kapott fájó csapást a nemzeti büszkeség és a németek hagyományos érzékenysége Izraelt illetően."
+  },
+  {
+    "group_id": "group_a91e682c3b",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a12c8157-af53-44eb-9aad-8ff5c13321d1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Nógrádi László: Megfigyelt voltam, nem pedig megfigyelő",
+        "link": "https://hvg.hu/itthon/20261108_nogradi-laszlo-kdnp-allambiztonsag-ugynoklista-nyitott-aktak"
+      }
+    ],
+    "published_at": 1794148021,
+    "title_hu": "Nógrádi László: Megfigyelt voltam, nem pedig megfigyelő",
+    "lead_hu": "A volt KDNP-alelnök levéltári iratokkal bizonyítja, hogy nem volt besúgó az államszocializmus alatt, éppen ellenkezőleg.",
+    "content_hu": "A volt KDNP-alelnök levéltári iratokkal bizonyítja, hogy nem volt besúgó az államszocializmus alatt, éppen ellenkezőleg."
+  },
+  {
+    "group_id": "group_22bbcbae64",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/lazio-napoli-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Továbbra is félelmetes szezonkezdetet produkál a Lazio",
+        "link": "https://24.hu/sport/foci/2026/11/08/serie-a-olasz-foci-lazio-napoli/"
+      }
+    ],
+    "published_at": 1794148010,
+    "title_hu": "Továbbra is félelmetes szezonkezdetet produkál a Lazio",
+    "lead_hu": "A 11. fordulóban csupán másodszor veszített pontokat, és még mindig veretlen. The post Továbbra is félelmetes szezonkezdetet produkál a Lazio first appeared on 24.hu.",
+    "content_hu": "A 11. fordulóban csupán másodszor veszített pontokat, és még mindig veretlen. The post Továbbra is félelmetes szezonkezdetet produkál a Lazio first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_f6fc1a802e",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7247/72473/724734/72473439_0947d0360f160adf3682effba76ec282_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megasztár: T. Danny keményen odaszólt Herceg Erikának, aki szerinte részeg volt a forgatáson",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/08/megasztar-herceg-erika-t-danny-reszeg-beszolas-konfliktus/"
+      }
+    ],
+    "published_at": 1794147901,
+    "title_hu": "Megasztár: T. Danny keményen odaszólt Herceg Erikának, aki szerinte részeg volt a forgatáson",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_44257c3a5c",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7247/72473/724732/72473257_5340539_1a49881eb96c622e63fa59781cce3c28_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "„Nekem mindenki jöhet” – meglepő vallomást tett szexualitásáról Alanis Morissette",
+        "link": "https://index.hu/fomo/2026/11/08/alanis-morissette-panszexualitas-coming-out/"
+      }
+    ],
+    "published_at": 1794147420,
+    "title_hu": "„Nekem mindenki jöhet” – meglepő vallomást tett szexualitásáról Alanis Morissette",
+    "lead_hu": "Az énekesnő egy podcastben beszélt kendőzetlenül.",
+    "content_hu": "Az énekesnő egy podcastben beszélt kendőzetlenül."
+  },
+  {
+    "group_id": "group_905ccc3030",
+    "fingerprint": "dd360ce21bbf1dbc83234203b5e91dfb",
+    "category": "Általános",
+    "image": "https://assets.telex.hu/images/20261108/1794132702-temp-c8t435jf17th0gelfcf_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A Marina partra jár vacsorázni egy vaddisznó",
+        "link": "https://telex.hu/belfold/2026/11/08/vaddiszno-duna-marina-part-onkormanyzat"
+      },
+      {
+        "source": "ATV",
+        "title": "Vaddisznó tartja félelemben a lakókat a pesti Duna-parton",
+        "link": "https://www.atv.hu/belfold/20261108/vaddiszno-budapest-duna-marina-part/"
+      }
+    ],
+    "published_at": 1794147300,
+    "title_hu": "Vaddisznó jár rendszeresen a Marina partra",
+    "lead_hu": "Több mint egy hete rendszeresen feltűnik egy vaddisznó a budapesti Marina parton, a Duna közelében. A környék lakói aggódnak, mert az állatot játszótér és kutyafuttató mellett is látták; a szakemberek dolgoznak a befogásán.",
+    "content_hu": "• **Több mint egy hete visszatér** a vaddisznó a XIII. kerületi Marina partra, ahol a lakók szerint rendszerint esténként jelenik meg.\n\n• **Játszótér és kutyafuttató közelében is látták** az állatot, ezért többen tartanak attól, hogy találkoznak vele.\n\n• **A befogásán dolgoznak:** az önkormányzat egyeztet a szakemberekkel, a rendőrség pedig több bejelentést kapott, de eddig nem találta meg a vadkant.\n\n• **A lakókat óvatosságra intették:** a Vadászkamara szóvivője szerint senki ne közelítse meg az állatot, mert menekülés közben veszélyessé válhat."
+  },
+  {
+    "group_id": "group_982fc7f2d0",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/pzm2lNicAiGvsxLs-4-wCEDHcs8S2wb6QSi2L-_UxmI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M3ZDQyNzkwZjUxYTRlYzM5YTJkNThjMjNlOTlmYTQy.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Azonnal átpolitizálták a krakkói merényletet - a belügyminiszter is felelős",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/azonnal-atpolitizaltak-a-krakkoi-merenyletet-a-belugyminiszter-is-felelos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794147127,
+    "title_hu": "Azonnal átpolitizálták a krakkói merényletet - a belügyminiszter is felelős",
+    "lead_hu": "Már a vizsgálat előtt megállapították, hogy milyen elveket vall a támadó",
+    "content_hu": "Már a vizsgálat előtt megállapították, hogy milyen elveket vall a támadó"
+  },
+  {
+    "group_id": "group_40fabf386a",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "A szaúdi fővárost támadták a húszik, Jemenben pedig a húszik szerint szaúdi rakéták öltek meg gyerekeket",
+        "link": "https://444.hu/2026/11/08/a-szaudi-fovarost-tamadtak-a-huszik-jemenben-pedig-a-huszik-szerint-szaudi-raketak-oltek-meg-gyerekeket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794146998,
+    "title_hu": "A szaúdi fővárost támadták a húszik, Jemenben pedig a húszik szerint szaúdi rakéták öltek meg gyerekeket",
+    "lead_hu": "A szaúdiak egy olyan koalíciót vezetnek, amely több mint egy évtizede harcol a húszik ellen, támogatva Jemen nemzetközileg elismert kormányát. A konfliktus az iráni háború miatt eszkalálódott.",
+    "content_hu": "A szaúdiak egy olyan koalíciót vezetnek, amely több mint egy évtizede harcol a húszik ellen, támogatva Jemen nemzetközileg elismert kormányát. A konfliktus az iráni háború miatt eszkalálódott."
+  },
+  {
+    "group_id": "group_31c9c0a7bd",
+    "fingerprint": "dfb8903d9428a886511e8aa732c4cda7",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "A lengyel belügyminiszter szerint a krakkói merénylő szélsőjobboldali nézeteket vallott",
+        "link": "https://444.hu/2026/11/07/a-lengyel-belugyminiszter-szerint-a-krakkoi-merenylo-szelsojobboldali-nezeteket-vallott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Biztos, hogy szélsőjobboldali volt a krakkói merénylő?",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/krakkoi-merenylo-szelsojobboldal"
+      }
+    ],
+    "published_at": 1794146880,
+    "title_hu": "Vita a krakkói lövöldözés elkövetőjének nézeteiről és a rendőri jelenlétről",
+    "lead_hu": "A krakkói főtéren történt lövöldözésben hat ember meghalt, tizenöten megsérültek. A lengyel belügyminiszter szélsőjobboldali nézeteket tulajdonított a gyanúsítottnak, de később óvatosabban fogalmazott; az eset nyomán a rendőri jelenlétről és a lengyel belpolitikai feszültségekről is vita alakult ki.",
+    "content_hu": "• **Hat halálos áldozat** A krakkói főtéren egy férfi válogatás nélkül tüzet nyitott a járókelőkre; a támadásban hatan meghaltak, tizenöten megsérültek.\n\n• **Vitatott indíték** Marcin Kierwiński belügyminiszter kezdetben szélsőjobboldali nézeteket tulajdonított a gyanúsítottnak, később azonban lehetséges szélsőjobboldali indítékról beszélt. Lengyel ellenzéki politikusok és újságírók megkérdőjelezték, mire alapozta a miniszter az állítását.\n\n• **Kérdések a rendőri jelenlétről** Az ellenzék azt is bírálta, hogy kevés rendőr volt a helyszínen, és felvetette: a rendőri állomány egy részét Varsóba vezényelhették a tüntetések miatt. A lövöldözés a Függetlenségi Menet megtartásáról szóló vitát is felerősítette."
+  },
+  {
+    "group_id": "group_e6fa7f3ea5",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7247/72475/724757/72475795_5340723_62e0f189c10e8107c1e9a8b6f37778e4_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Meztelen nők és egy elhagyott bor a Parlamentben, titkos helyekre jutott be Magyar Péter",
+        "link": "https://index.hu/belfold/2026/11/08/magyar-peter-parlament-house-tour-kupola-csucs-dugi-borospince-panorama/"
+      }
+    ],
+    "published_at": 1794146820,
+    "title_hu": "Meztelen nők és egy elhagyott bor a Parlamentben, titkos helyekre jutott be Magyar Péter",
+    "lead_hu": "A kormányfő tériszonyát leküzdve mászott fel az Országház legmagasabb pontjára.",
+    "content_hu": "A kormányfő tériszonyát leküzdve mászott fel az Országház legmagasabb pontjára."
+  },
+  {
+    "group_id": "group_24efc30b92",
+    "category": "Bulvár",
+    "image": "https://kep.index.hu/1/0/7247/72475/724757/72475725_5340721_764ce56b10daf41617935caa8892254b_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kisebb botrány árnyékolta be a Real Madrid sikerét",
+        "link": "https://index.hu/sport/futball/2026/11/08/real-madrid-valencia-jude-bellingham-antonio-rudiger-dulakodas-la-liga/"
+      }
+    ],
+    "published_at": 1794146820,
+    "title_hu": "Kisebb botrány árnyékolta be a Real Madrid sikerét",
+    "lead_hu": "Jude Bellingham reakciója indította be az eseményeket.",
+    "content_hu": "Jude Bellingham reakciója indította be az eseményeket."
+  },
+  {
+    "group_id": "group_e02bf686af",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/000_d24y3g4-e1794146755481-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Autóbusz ütött el egy vándorcirkuszból elszökött tevét Bajorországban",
+        "link": "https://24.hu/kulfold/2026/11/08/autobusz-utott-el-egy-vandorcirkuszbol-elszokott-tevet-bajororszagban/"
+      }
+    ],
+    "published_at": 1794146783,
+    "title_hu": "Autóbusz ütött el egy vándorcirkuszból elszökött tevét Bajorországban",
+    "lead_hu": "Az állatnak nem esett baja. The post Autóbusz ütött el egy vándorcirkuszból elszökött tevét Bajorországban first appeared on 24.hu.",
+    "content_hu": "Az állatnak nem esett baja. The post Autóbusz ütött el egy vándorcirkuszból elszökött tevét Bajorországban first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_da64a47b1a",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7246/72469/724695/72469583_5340307_148ffb756098c6e55149b7b6ca258255_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Vidámparkot álmodtak a helyére, de Budapest volt szeméttelepe már a fúrt kutakat is szennyezi",
+        "link": "https://index.hu/belfold/2026/11/08/csery-telep-budapest-fovaros-szemettelep-hulladeklerako-szennyezes-talajviz-szaniszlo-sandor-greenpeace/"
+      }
+    ],
+    "published_at": 1794146640,
+    "title_hu": "Vidámparkot álmodtak a helyére, de Budapest volt szeméttelepe már a fúrt kutakat is szennyezi",
+    "lead_hu": "Annyira szörnyű a helyzet, hogy a környéken élőknek már a locsolást sem javasolják az érintett kutak vizével.",
+    "content_hu": "Annyira szörnyű a helyzet, hogy a környéken élőknek már a locsolást sem javasolják az érintett kutak vizével."
+  },
+  {
+    "group_id": "group_54d8ea953e",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Szülők altatás után: ezért nem tudod letenni a mobilod este",
+        "link": "https://nlc.hu/eletmod/20261108/miert-gorgetjuk-a-telefonunkat-este/"
+      }
+    ],
+    "published_at": 1794146580,
+    "title_hu": "Szülők altatás után: ezért nem tudod letenni a mobilod este",
+    "lead_hu": "A szülők gyakran kialakítanak egészséges esti rutint a gyerekeiknek: fürdetés, meseolvasás, altatódal. De mi a helyzet a felnőttekkel? Miután a gyerekek végre ágyba kerülnek, sokan közülünk fejest ugr…",
+    "content_hu": "A szülők gyakran kialakítanak egészséges esti rutint a gyerekeiknek: fürdetés, meseolvasás, altatódal. De mi a helyzet a felnőttekkel? Miután a gyerekek végre ágyba kerülnek, sokan közülünk fejest ugranak a végtelen görgetésbe. The post Szülők altatás után: ezért nem tudod letenni a mobilod este first appeared on nlc."
+  },
+  {
+    "group_id": "group_750eaa706f",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/veradas-verkeszlet-orszagos-verellato-szolgalat-riport-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Ha négy-öt napig senki nem adna vért, a rendszer nem tudna működni”",
+        "link": "https://24.hu/kozelet/2026/11/08/veradas-verkeszlet-orszagos-verellato-szolgalat-riport/"
+      }
+    ],
+    "published_at": 1794146437,
+    "title_hu": "„Ha négy-öt napig senki nem adna vért, a rendszer nem tudna működni”",
+    "lead_hu": "Magyarország vérkészlete normál körülmények között mindössze öt napra elegendő. Egyetlen súlyosan vérző beteg ellátása akár harminc egység vért is igényelhet, a ritkább vércsoportokból összegyűjtött k…",
+    "content_hu": "Magyarország vérkészlete normál körülmények között mindössze öt napra elegendő. Egyetlen súlyosan vérző beteg ellátása akár harminc egység vért is igényelhet, a ritkább vércsoportokból összegyűjtött készlet pedig órák alatt elfogyhat. Az Országos Vérellátó Szolgálatnál megnéztük, milyen út vezet a véradó karjától a kórházi betegig, és miért mondja a rendszer egyik vezetője, hogy „nagyon vékony jégen járunk”. The post „Ha négy-öt napig senki nem adna vért, a rendszer nem tudna működni” first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_939ffab94b",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/0CGCRRkqljG08uXN7trEJ4jYE3o_dTJZg54W3x3PnbY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRmZDdkMTkzNDZiODQ1NzhhNDI5ZWY4ZTVkZTJhNDAz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Orbán Viktor egy német professzor videóját osztotta meg, aki kimondta, mi vezetett Németország gazdasági összeomlásához – mit állít pontosan a tekintélyes közgazdász?",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/nemet-gazdasag-autoipar-demografia-energia-valsag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794146414,
+    "title_hu": "Orbán Viktor egy német professzor videóját osztotta meg, aki kimondta, mi vezetett Németország gazdasági összeomlásához – mit állít pontosan a tekintélyes közgazdász?",
+    "lead_hu": "A közgazdász szerint gyökeres fordulat nélkül a német gazdaság végképp parkolópályára kerül.",
+    "content_hu": "A közgazdász szerint gyökeres fordulat nélkül a német gazdaság végképp parkolópályára kerül."
+  },
+  {
+    "group_id": "group_09985564d0",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2282890005-867636.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kevesebb munkaóra, lassabb növekedés – így fizet Európa a hőségért",
+        "link": "https://www.portfolio.hu/gazdasag/20261108/kevesebb-munkaora-lassabb-novekedes-igy-fizet-europa-a-hosegert-874820"
+      }
+    ],
+    "published_at": 1794146400,
+    "title_hu": "Kevesebb munkaóra, lassabb növekedés – így fizet Európa a hőségért",
+    "lead_hu": "A globális Lancet-jelentés mellett az európai adatok is azt mutatják, hogy a hőség egyszerre egészségügyi és gazdasági kockázat. A sorozat második részében azt nézzük meg, hogyan jelenik meg ez Európá…",
+    "content_hu": "A globális Lancet-jelentés mellett az európai adatok is azt mutatják, hogy a hőség egyszerre egészségügyi és gazdasági kockázat. A sorozat második részében azt nézzük meg, hogyan jelenik meg ez Európában a munkaerőpiacon, a növekedésben és a költségvetési ösztönzőkben. A jelentés szerint az európai fosszilis támogatások 2023-ban 444 milliárd eurót értek el, miközben a karbonárazási bevételek csak 79,1 milliárd eurót tettek ki."
+  },
+  {
+    "group_id": "group_9bc47e1509",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/11/lKC9D6wOM9TVo31lvQ8Syi_VoC7rK3nEIgoFUvWBQOE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VkNDA2ZWY1ZjdhMzRmNGM5NDlhOTQ3OGRjMjYzYzVl.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "A szezon legédesebb trendje: Öltsük magunkra a forró csokit!",
+        "link": "https://borsonline.origo.hu/divat/2026/11/oltsuk-magunkra-a-forro-csokit"
+      }
+    ],
+    "published_at": 1794146400,
+    "title_hu": "A szezon legédesebb trendje: Öltsük magunkra a forró csokit!",
+    "lead_hu": "Ahogy hűvösebbre fordul az idő, egyre jobban vágyunk a melengető finomságokra. Miért ne csempészhetnénk egy kis csokis hangulatot az öltözködésünkbe is? Mutatjuk a legízletesebb barna összeállításokat…",
+    "content_hu": "Ahogy hűvösebbre fordul az idő, egyre jobban vágyunk a melengető finomságokra. Miért ne csempészhetnénk egy kis csokis hangulatot az öltözködésünkbe is? Mutatjuk a legízletesebb barna összeállításokat!"
+  },
+  {
+    "group_id": "group_78098791b3",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/abzROycFEmaWwO21zUg4fVGG9c95u8hxQ6dek_-HdZU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA4YjVhNjdjMzM3ZDQ5NzE4ZTAxN2ZiZGI4MjNhMjY4.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Tarr Zoltán több mint ötven napja képtelen válaszolni Schmidt Mária kérdésére",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/tarr-zoltan-schmidt-maria-terror-haza-muzeum?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794146372,
+    "title_hu": "Tarr Zoltán több mint ötven napja képtelen válaszolni Schmidt Mária kérdésére",
+    "lead_hu": "Elnémult a miniszter.",
+    "content_hu": "Elnémult a miniszter."
+  },
+  {
     "group_id": "group_a3f50e3c86",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7247/72475/724754/72475403_5340701_42a1a2b45eca8be7ed95309e2641de87_wm.jpg",
@@ -72,31 +680,6 @@
     "content_hu": "Rákosi Mátyás autója mellé kerülhet Ricsi?"
   },
   {
-    "group_id": "group_9ea323d001",
-    "fingerprint": "36e6ac2a84a1d0ca034b9eaaa625148e",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Halálos baleset történt Horvátországban, átszakította a szalagkorlátot és oldalára borult egy busz",
-        "link": "https://index.hu/kulfold/2026/11/08/buszbaleset-halalos-baleset-horvatorszag-mentohelikopter-rendorseg/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Áttörte az autópálya korlátját és felborult egy szerb busz Horvátországban, ketten meghaltak",
-        "link": "https://telex.hu/kulfold/2026/11/08/felborult-szerb-busz-horvatorszag-ketten-meghaltak-serult"
-      }
-    ],
-    "published_at": 1794145691,
-    "title_hu": "Két halálos áldozata és 33 sérültje van a horvátországi buszbalesetnek",
-    "lead_hu": "Két ember meghalt, 33-an pedig megsérültek, amikor egy szerb busz vasárnap reggel felborult a horvátországi A3-as autópályán. A Niš és Zágráb között közlekedő járat áttörte a szalagkorlátot; a baleset körülményeit vizsgálják.",
-    "content_hu": "• **A baleset helyszíne és ideje** Vasárnap reggel 7 óra 25 perc körül, az A3-as autópályán, az Ivanić-Grad csomópont közelében borult fel a Zágráb felé tartó busz.\n\n• **Áldozatok és sérültek** Két ember meghalt, 33-an megsérültek; közülük hatan súlyosan, 27-en könnyebben. A sérülteket zágrábi kórházakba szállították.\n\n• **A baleset körülményei** A Niš Express járata eddig tisztázatlan okból letért az útról, áttörte a védőkorlátot, majd az oldalára borult. A mentésben mentők és tűzoltók vettek részt, helikoptert is bevetettek.\n\n• **Vizsgálat** A horvát rendőrség vizsgálja, mi okozta a balesetet."
-  },
-  {
     "group_id": "group_9a219c71e8",
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/dalian-yingbo-1024x576.jpg",
@@ -131,6 +714,31 @@
     "title_hu": "Megszólalt a volt miniszter, kikéri magának a besúgói vádakat",
     "lead_hu": "„Nem én jelentettem, rólam jelentettek” – közölte Nógrádi László.",
     "content_hu": "„Nem én jelentettem, rólam jelentettek” – közölte Nógrádi László."
+  },
+  {
+    "group_id": "group_7098bc2c84",
+    "fingerprint": "d64deeea6dd348d96c4919a8f4cfe992",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261107/1794081865-temp-jt6410lra61h9kimlgm_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Netanjahu legnagyobb riválisát bízta meg új kormány alakításával az izraeli elnök",
+        "link": "https://telex.hu/kulfold/2026/11/07/gadi-ejzenkot-kormanyalakitas-izrael-benjamin-netanjahu"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A Netanjahu-ellenes erők vezetőjét, Gadi Ejzenkotot bízták meg kormányalakítással Izraelben",
+        "link": "https://24.hu/kulfold/2026/11/08/gadi-ejzenkot-izrael-kormanyalakitas/"
+      }
+    ],
+    "published_at": 1794145428,
+    "title_hu": "Eisenkot kapta az első esélyt a kormányalakításra, de a patthelyzet megmarad",
+    "lead_hu": "Jichák Hercog izraeli államfő szombaton közölte, hogy Gadi Eisenkotot bízza meg kormányalakítással; a hivatalos felkérésre vasárnap kerül sor. Bár az arab pártok vezetői külső támogatást ajánlottak neki, egyelőre nem világos, hogy Eisenkot elfogadja-e ezt, így a parlamenti patthelyzet továbbra is nehezíti a kormányalakítást.",
+    "content_hu": "• **Külső támogatást ajánlottak az arab pártok** Vezetőik Eisenkotot támogatták a kormányalakítási folyamatban, de nem egyértelmű, hogy a politikus elfogadja-e a segítségüket; korábban kizárta, hogy velük közösen alakítson kormányt.\n\n• **Eisenkot elutasítja a független palesztin államot** Kampányában ellenezte egy önálló palesztin állam létrehozását, és azt ígérte, véget vet a Hamász gázai uralmának, valamint megsemmisíti a szervezet katonai szárnyát.\n\n• **„Zsidó terrorizmusnak” nevezte a telepesek erőszakát** Eisenkot a ciszjordániai palesztinok elleni közelmúltbeli támadásokról ezt mondta, és azzal vádolta Netanjahu kormányát, hogy támogatja az erőszakot."
   },
   {
     "group_id": "group_571fc055ba",
@@ -191,7 +799,8 @@
     "published_at": 1794145039,
     "title_hu": "Nem folytatják az M76-os gyorsforgalmi utat Sármellék felé",
     "lead_hu": "Vitézy Dávid közlekedési és beruházási miniszter bejelentése szerint nem épül tovább az M76-os gyorsforgalmi út Sármellék irányába, így Zalaegerszeg nem kap közvetlen gyorsforgalmi kapcsolatot az M7-essel. A Kis-Balaton védelmére hivatkozva más közúti fejlesztéseket terveznek a térségben.",
-    "content_hu": "• **Nem épül tovább az M76-os** Sármellék felé, ezért Zalaegerszeg ebből az irányból nem kap közvetlen gyorsforgalmi összeköttetést az M7-essel.\n\n• **A döntés indoka a Kis-Balaton védelme:** Vitézy szerint a folytatás jelentős környezeti károkat okozna.\n\n• **Másik útfejlesztést terveznek:** egy körülbelül hét kilométeres, kétszer egysávos út kötné össze az M76-os jelenlegi végét a 75-ös főúttal. A fejlesztés Keszthely megközelíthetőségét javítaná, és enyhítené a 71-es főút fenékpusztai szakaszának forgalmát.\n\n• **Kerékpáros fejlesztések is előkészülnek** a Balaton nyugati medencéjében, többek között Fenékpuszta és Sármellék között, valamint Keszthely és Vonyarcvashegy térségében."
+    "content_hu": "• **Nem épül tovább az M76-os** Sármellék felé, ezért Zalaegerszeg ebből az irányból nem kap közvetlen gyorsforgalmi összeköttetést az M7-essel.\n\n• **A döntés indoka a Kis-Balaton védelme:** Vitézy szerint a folytatás jelentős környezeti károkat okozna.\n\n• **Másik útfejlesztést terveznek:** egy körülbelül hét kilométeres, kétszer egysávos út kötné össze az M76-os jelenlegi végét a 75-ös főúttal. A fejlesztés Keszthely megközelíthetőségét javítaná, és enyhítené a 71-es főút fenékpusztai szakaszának forgalmát.\n\n• **Kerékpáros fejlesztések is előkészülnek** a Balaton nyugati medencéjében, többek között Fenékpuszta és Sármellék között, valamint Keszthely és Vonyarcvashegy térségében.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_da3fe68dd4",
@@ -200,7 +809,7 @@
     "image": "https://pcdn.hu/articles/images-md/i/d/o/idojaras-hidegfront-fagy-homerseklet-elorejelzes-balkan-csapadek-osz-ciklon-villamarvi-777922.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
@@ -211,12 +820,18 @@
         "source": "444.hu",
         "title": "Jövő héten annyit fog esni, mint már rég nem, és egyik nap akár 20 fok is lehet",
         "link": "https://444.hu/2026/11/08/jovo-heten-annyit-fog-esni-mint-mar-reg-nem-es-egyik-nap-akar-20-fok-is-lehet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Ilyen időnk lesz a hétvége hátralévő részében",
+        "link": "https://www.portfolio.hu/gazdasag/20261107/ilyen-idonk-lesz-a-hetvege-hatralevo-reszeben-874928"
       }
     ],
     "published_at": 1794144916,
     "title_hu": "Esős, enyhe idő érkezik jövő héten, pénteken akár 21 fokkal",
     "lead_hu": "Jövő héten több hullámban érkezhet csapadék Magyarországra, és egyes helyeken szombatig 30–50 milliméter eső is hullhat. A hét második felében átmenetileg jelentősen melegszik az idő, délen akár 20–21 fok is lehet, a hétvégére azonban visszaesik a hőmérséklet.",
-    "content_hu": "• **Több hullámban érkezik csapadék** – Kedden, majd szerda estétől és pénteken is többfelé várható eső, zápor; egyes helyeken az ég is megdörrenhet.\n\n• **Akár 50 milliméter eső is hullhat** – Az előrejelzés szerint szombatig helyenként 30–40, elszórtan akár 50 milliméter csapadék gyűlhet össze. A mediterrán ciklon pályája miatt a csapadék területi és időbeli eloszlása még bizonytalan.\n\n• **Pénteken délen 20 fok fölé emelkedhet a hőmérséklet** – A hét második felében átmeneti felmelegedés várható, a déli országrészben akár 21 fok is lehet.\n\n• **A hétvégére lehűlés érkezik** – A ciklon mögött betörő hidegebb levegő hatására szombaton több fokkal visszaesik a hőmérséklet; az eső elállása után vasárnap nagyrészt száraz idő valószínű."
+    "content_hu": "• **Több hullámban érkezik csapadék** – Kedden, majd szerda estétől és pénteken is többfelé várható eső, zápor; egyes helyeken az ég is megdörrenhet.\n\n• **Akár 50 milliméter eső is hullhat** – Az előrejelzés szerint szombatig helyenként 30–40, elszórtan akár 50 milliméter csapadék gyűlhet össze. A mediterrán ciklon pályája miatt a csapadék területi és időbeli eloszlása még bizonytalan.\n\n• **Pénteken délen 20 fok fölé emelkedhet a hőmérséklet** – A hét második felében átmeneti felmelegedés várható, a déli országrészben akár 21 fok is lehet.\n\n• **A hétvégére lehűlés érkezik** – A ciklon mögött betörő hidegebb levegő hatására szombaton több fokkal visszaesik a hőmérséklet; az eső elállása után vasárnap nagyrészt száraz idő valószínű.",
+    "importance_score": 45.0
   },
   {
     "group_id": "group_154a077920",
@@ -241,7 +856,8 @@
     "published_at": 1794144875,
     "title_hu": "Barnier: Nagy-Britannia visszatérhet az EU-ba, de nem válogathat a feltételek között",
     "lead_hu": "Michel Barnier volt brexit-főtárgyaló szerint nyitva áll az Európai Unió ajtaja Nagy-Britannia előtt, ha az ország ismét csatlakozni kíván. A briteknek azonban a teljes tagsági feltételrendszert, köztük a négy szabadságjogot is el kellene fogadniuk.",
-    "content_hu": "• **A feltételek egységesek** Barnier a BBC-nek azt mondta, Nagy-Britannia nem válogathat az uniós tagság kötelezettségei között; az egységes piac négy szabadságjoga – az emberek, az áruk, a szolgáltatások és a tőke szabad mozgása – csak együtt érvényesülhet.\n\n• **Korábbi engedményekre sem számíthatnának** A volt főtárgyaló szerint az Egyesült Királyság nem kapná vissza automatikusan a korábbi különkedvezményeit, például a brit költségvetési visszatérítést.\n\n• **A csatlakozási folyamat rövidebb lehet** Barnier szerint az újbóli belépésről szóló tárgyalások a brexitnél gyorsabban lezárulhatnának, mert az ország a kilépése óta nem távolodott el jelentősen az uniós szabályozástól.\n\n• **A brit kormány közeledést mérlegel** Andy Burnham miniszterelnök felvetette az EU-val való szorosabb gazdasági kapcsolatok lehetőségét, és a teljes tagságot sem zárta ki, bár a kérdés a jelenlegi parlamenti ciklusban nem kerül napirendre."
+    "content_hu": "• **A feltételek egységesek** Barnier a BBC-nek azt mondta, Nagy-Britannia nem válogathat az uniós tagság kötelezettségei között; az egységes piac négy szabadságjoga – az emberek, az áruk, a szolgáltatások és a tőke szabad mozgása – csak együtt érvényesülhet.\n\n• **Korábbi engedményekre sem számíthatnának** A volt főtárgyaló szerint az Egyesült Királyság nem kapná vissza automatikusan a korábbi különkedvezményeit, például a brit költségvetési visszatérítést.\n\n• **A csatlakozási folyamat rövidebb lehet** Barnier szerint az újbóli belépésről szóló tárgyalások a brexitnél gyorsabban lezárulhatnának, mert az ország a kilépése óta nem távolodott el jelentősen az uniós szabályozástól.\n\n• **A brit kormány közeledést mérlegel** Andy Burnham miniszterelnök felvetette az EU-val való szorosabb gazdasági kapcsolatok lehetőségét, és a teljes tagságot sem zárta ki, bár a kérdés a jelenlegi parlamenti ciklusban nem kerül napirendre.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_6543248acb",
@@ -270,8 +886,8 @@
     ],
     "published_at": 1794144780,
     "title_hu": "Bocsánatot kért a férfi, aki borral öntötte le Magyar Pétert",
-    "lead_hu": "Levélben kért bocsánatot Magyar Pétertől az a férfi, aki szeptember 19-én borral öntötte le a miniszterelnököt a Szekszárdi Szüreti Napokon. Magyar megköszönte a gesztust, lezártnak tekinti az ügyet, és nem kezdeményez eljárást; a férfit az incidens után a rendőrök előállították.",
-    "content_hu": "• **Szeptember 19-én történt az incidens**: Magyar Pétert a Szekszárdi Szüreti Napokon, egy büfénél borral öntötte le egy férfi.\n\n• **A férfi levélben vállalta a felelősséget**: Szeptember 25-i keltezésű levelében elismerte, hogy hibázott, és bocsánatot kért a történtekért.\n\n• **Magyar Péter lezártnak tekinti az ügyet**: Megköszönte a bocsánatkérést, és közölte, hogy nem indít eljárást.\n\n• **A biztonságiak elvezették a férfit**: A miniszterelnököt leöntő férfit az incidens után a helyszínről kísérték el.\n\n• **A rendőrség is intézkedett**: A Szekszárdi Rendőrkapitányság a férfit tettleges becsületsértés gyanújával előállította."
+    "lead_hu": "Levélben kért bocsánatot Magyar Pétertől a férfi, aki szeptember 19-én borral öntötte le a miniszterelnököt a Szekszárdi Szüreti Napokon. Magyar elfogadta a bocsánatkérést, lezártnak tekinti az ügyet, és nem kezdeményez eljárást; a rendőrség az incidens után előállította a férfit.",
+    "content_hu": "• **Szeptember 19-én történt az incidens**: Magyar Pétert a Szekszárdi Szüreti Napokon, egy büfénél borral öntötte le egy férfi, akit a biztonságiak elvezettek a helyszínről.\n\n• **A férfi levélben vállalta a felelősséget**: Szeptember 25-i keltezésű levelében elismerte, hogy hibázott, és azt írta, cselekedete nem volt méltó sem emberileg, sem a közéletben elvárható tisztelethez. Hozzátette, hogy a véleménykülönbségekből fakadó indulatoknak is csak kulturált, tiszteletteljes véleménynyilvánítás keretében van helyük.\n\n• **Magyar Péter lezártnak tekinti az ügyet**: Megköszönte és elfogadta a bocsánatkérést, közölte, hogy nem indít eljárást, és részéről lezártnak tekinti az esetet.\n\n• **A rendőrség előállította a férfit**: A Szekszárdi Rendőrkapitányság a történtek után tettleges becsületsértés gyanújával intézkedett ellene."
   },
   {
     "group_id": "group_eb38061df0",
@@ -296,7 +912,8 @@
     "published_at": 1794144600,
     "title_hu": "A Starlink-kiesés megmutatta, mennyire kiszolgáltatott Ukrajna",
     "lead_hu": "Az októberi Starlink-kimaradás átmenetileg megbénította az ukrán hadsereg egyes drónműveleteit, és ráirányította a figyelmet az ország műholdas kommunikációtól való függésére. Európa egyelőre nem képes gyorsan pótolni a rendszert, miközben Elon Musk döntései bármikor újabb fennakadást okozhatnak.",
-    "content_hu": "• **Októberi kiesés:** A Starlink szolgáltatásának akadozása miatt több ukrán drón a földre kényszerült, és katonai műveleteket kellett felfüggeszteni.\n\n• **Ukrajna kiszolgáltatottsága:** Az ukrán hadsereg a Starlinket drónok irányítására és harctéri kommunikációra is használja, ezért a hozzáférés korlátozása jelentős működési kockázatot jelent.\n\n• **Musk döntő szerepe:** A szolgáltatás működése nagyrészt Elon Musk és a SpaceX döntéseitől függ; a kimaradás után helyreállt az elérés, de újabb korlátozás lehetősége továbbra is fennáll.\n\n• **Európa lemaradása:** Az európai műholdas rendszerek kapacitása és katonai használhatósága egyelőre nem elegendő a Starlink gyors kiváltására. Az EU saját rendszere várhatóan csak 2030 körül kezdheti meg működését.\n\n• **Hosszú távú alternatívák:** Ukrajna és szövetségesei alternatív megoldásokat keresnek, de a Starlinkhez mérhető műholdhálózat kiépítése még éveket vehet igénybe."
+    "content_hu": "• **Októberi kiesés:** A Starlink szolgáltatásának akadozása miatt több ukrán drón a földre kényszerült, és katonai műveleteket kellett felfüggeszteni.\n\n• **Ukrajna kiszolgáltatottsága:** Az ukrán hadsereg a Starlinket drónok irányítására és harctéri kommunikációra is használja, ezért a hozzáférés korlátozása jelentős működési kockázatot jelent.\n\n• **Musk döntő szerepe:** A szolgáltatás működése nagyrészt Elon Musk és a SpaceX döntéseitől függ; a kimaradás után helyreállt az elérés, de újabb korlátozás lehetősége továbbra is fennáll.\n\n• **Európa lemaradása:** Az európai műholdas rendszerek kapacitása és katonai használhatósága egyelőre nem elegendő a Starlink gyors kiváltására. Az EU saját rendszere várhatóan csak 2030 körül kezdheti meg működését.\n\n• **Hosszú távú alternatívák:** Ukrajna és szövetségesei alternatív megoldásokat keresnek, de a Starlinkhez mérhető műholdhálózat kiépítése még éveket vehet igénybe.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_97be7f78cc",
@@ -318,7 +935,7 @@
   },
   {
     "group_id": "group_5ce171abf1",
-    "fingerprint": "a79ca7d61781387932480634050fd8be",
+    "fingerprint": "8906c58c83963a263299bc61eb14cab1",
     "category": "Általános",
     "image": "https://s.24.hu/app/uploads/2026/11/central-0803252728-2026-07-23t102203-779-1-1024x576.jpg",
     "is_synthesized": true,
@@ -343,8 +960,8 @@
     ],
     "published_at": 1794144396,
     "title_hu": "Egy nap alatt elfogták a nyíregyházi pénzszállító-rablás gyanúsítottját",
-    "lead_hu": "Kevesebb mint egy nap alatt elfogták azt az 54 éves férfit, akit egy nyíregyházi valutaváltó kirablásával gyanúsítanak. A támadó mintegy 19 millió forint értékű befektetési aranyat és 100 ezer japán jent vitt el; a rendőrség a zsákmány egy részét szerezte vissza.",
-    "content_hu": "• **Elfogás:** A rendőrök a rablást követő egy napon belül, a férfi otthonában fogták el az 54 éves gyanúsítottat.\n\n• **A zsákmány:** A támadó mintegy 19 millió forint értékű befektetési aranyat és 100 ezer japán jent vitt el a valutaváltóból.\n\n• **A támadás:** A férfi akkor jutott be az üzletbe, amikor az alkalmazott beengedte a pénzszállítót a biztonsági ajtón. A két embert az ajtók közötti zárt térbe lökte, majd légpisztollyal fenyegetőzött.\n\n• **A nyomozás:** A rendőrök megtalálták a meneküléshez használt rollert és a légpisztolyt, az ellopott értékeknek azonban csak egy része került elő.\n\n• **A gyanúsítás:** L. Ferencet fegyveresen, jelentős értékre elkövetett rablás gyanújával kihallgatták és őrizetbe vették. A hatóságok kezdeményezték a letartóztatását, amelyről a bíróság dönthet.\n\n• **A bőrönd:** A rablás után az utcán többen is látták, amint a férfi megpróbálja kinyitni a megszerzett bőröndöt.\n\n• **A támadás előkészítése:** A nyomozás szerint a férfi előre, aprólékosan megtervezte a rablást.\n\n• **A felvételek:** Az RTL Híradó a rablás utáni pillanatokat rögzítő biztonságikamera-felvételeket is bemutatta."
+    "lead_hu": "Kevesebb mint egy nap alatt elfogták azt az 54 éves férfit, akit egy nyíregyházi valutaváltó kirablásával gyanúsítanak. A támadó mintegy 19 millió forint értékű befektetési aranyat és 100 ezer japán jent vitt el; a rendőrség a zsákmány egy részét szerezte vissza. A rablás után szemtanúk látták, ahogy a férfi megpróbálja kinyitni a bőröndöt.",
+    "content_hu": "• **A rablás időpontja:** A támadás csütörtökön, napközben történt, és a nyomozás szerint a férfi előre, alaposan felkészült rá.\n\n• **A menekülés után:** Többen látták az utcán, amint a gyanúsított megpróbálja kinyitni a zsákmányolt bőröndöt.\n\n• **Biztonsági felvételek:** A rablás utáni pillanatokat rögzítő ipari kamerák felvételeit az RTL Híradó riportjában is bemutatták."
   },
   {
     "group_id": "group_8b1aa3f0b8",
@@ -371,7 +988,7 @@
     "image": "https://cdn.vg.hu/2026/11/fijUBb6v7eZ19weThF0jkL35gNAWhfjlxYUCatqjgxs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAxYjEzZGNhZWY5YzQ4ZDQ4MWVkYzZhMGM2ZWRjMTE5.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Világgazdaság",
@@ -382,12 +999,18 @@
         "source": "Index - Címlap",
         "title": "A krakkói mészárlás után egy 23 éves férfi késsel fenyegetőzött a városban, a rendőrök lövéseket adtak le",
         "link": "https://index.hu/kulfold/2026/11/08/lengyelorszag-krakko-kes-fenyegetozes-loves-rendorseg-ferfi/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Hajnalban is rendőrségi lövések dördültek Krakkóban, egy késsel fenyegetőző férfit kellett megállítani",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/ujabb-rendorsegi-lovesek-dordultek-krakkoban"
       }
     ],
     "published_at": 1794144000,
     "title_hu": "Késsel fenyegetőző férfit fogtak el a hajnali lövések után Krakkóban",
     "lead_hu": "A rendőrök vasárnap hajnali három óra után intézkedtek egy késsel fenyegetőző 23 éves férfival szemben Krakkóban. Figyelmeztető, majd célzott lövést is leadtak, de senki sem sérült meg; a férfit elfogták, és a hatóságok szerint elképzelhető, hogy pszichés problémákkal küzd.",
-    "content_hu": "• **Hajnali intézkedés** A rendőröket vasárnap hajnali három óra után riasztották a Kapelanka utca környékére, ahol egy késsel fenyegetőző férfit jelentettek.\n\n• **Lövések és elfogás** A járőrök előbb figyelmeztető lövéseket adtak le, majd egyikük a férfi irányába lőtt, de nem találta el. A 23 éves férfi végül eldobta a kést, és elfogták.\n\n• **Nem volt sérült** Az incidensben senki sem sérült meg; a férfit kórházba szállították.\n\n• **Lehetséges pszichés probléma** A hatóságok elsődleges információi szerint elképzelhető, hogy a férfi pszichés zavarokkal küzd.\n\n• **Nincs kapcsolat a korábbi támadással** A rendőrség közlése szerint a hajnali intézkedés nem függ össze a krakkói főtéren előző nap történt halálos lövöldözéssel."
+    "content_hu": "• **Hajnali intézkedés** A rendőröket vasárnap hajnali három óra után riasztották a Kapelanka utca környékére, ahol egy késsel fenyegetőző férfit jelentettek.\n\n• **Lövések és elfogás** A járőrök előbb figyelmeztető lövéseket adtak le, majd egyikük a férfi irányába lőtt, de nem találta el. A 23 éves férfi végül eldobta a kést, és elfogták.\n\n• **Nem volt sérült** Az incidensben senki sem sérült meg; a férfit kórházba szállították.\n\n• **Lehetséges pszichés probléma** A hatóságok elsődleges információi szerint elképzelhető, hogy a férfi pszichés zavarokkal küzd.\n\n• **Nincs kapcsolat a korábbi támadással** A rendőrség közlése szerint a hajnali intézkedés nem függ össze a krakkói főtéren előző nap történt halálos lövöldözéssel.",
+    "importance_score": 45.0
   },
   {
     "group_id": "group_b647c8b814",
@@ -414,7 +1037,7 @@
     "image": "https://s.24.hu/app/uploads/2026/11/central-1140534100-e1794132650576-1024x576.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
@@ -425,12 +1048,18 @@
         "source": "Telex - Belföld",
         "title": "A K-Monitor szerint öt év alatt több mint 73 millió forintnyi pluszjuttatást fizetett az Operaház Ókovács Szilveszternek",
         "link": "https://telex.hu/karakter/kultura/2026/11/08/73-millio-forintnyi-pluszjuttatas-operahaz-okovacs-szilveszter-ot-ev-alapberen-tul"
+      },
+      {
+        "source": "ATV",
+        "title": "Ókovács Szilveszter több mint 73 millió forint pluszpénzt kaphatott az Operaháztól öt év alatt",
+        "link": "https://www.atv.hu/belfold/20261108/okovacs-szilveszter-operahaz-fizetes/"
       }
     ],
     "published_at": 1794143640,
     "title_hu": "Több mint 73 millió forintnyi pluszjuttatást kapott Ókovács Szilveszter az Operaháztól",
     "lead_hu": "A bíróság kötelezte a Magyar Állami Operaházat, hogy adja ki vezetői kifizetéseinek adatait. A K-Monitor által ismertetett kimutatás szerint Ókovács Szilveszter 2021 és 2025 között több mint 73,4 millió forintot kapott az alapfizetésén felül.",
-    "content_hu": "• **Bírósági döntés nyomán váltak nyilvánossá az adatok:** Meleghegyi Tamás József a K-Monitor segítségével indított pert, miután az Operaház nem adta ki vezetőinek kifizetéseit.\n\n• **Ókovács alapbére közel 119 százalékkal emelkedett:** Havi fizetése a 2021-es 2 millió forintról 2025-re 4,371 millióra nőtt. A különböző jogcímeken kapott juttatásai 2021-ben 4,8 millió, 2025-ben pedig 13,6 millió forintot tettek ki.\n\n• **2023-ban kapta a legtöbb pluszjuttatást:** Az alapfizetésén felül összesen 33,432 millió forintot fizettek ki neki, ebből több mint 19 millió forintot szabadságmegváltásként.\n\n• **Jelentős üzemanyag-térítésben és jutalmakban részesült:** Ókovács öt év alatt összesen 11 964 929 forint üzemanyag-térítést és 7,9 millió forint törzsgárdajutalmat kapott. A főigazgató-helyettesnek 9,4 millió forint törzsgárdajutalom és további 5,6 millió forint jutalom jutott.\n\n• **Ókovács vitatta az átvilágítás eljárását:** A volt főigazgató azt mondta, hogy nem ismerhette meg a vizsgálat megállapításait, és az álláspontját sem kérték ki.\n\n• **November 2-án azonnali hatállyal megszüntették a megbízását:** Tarr Zoltán miniszter az Operaház átvilágításának megállapításaival indokolta a döntést. Nagy Ervin államtitkár korábban az alapfizetés kiegészítéseinek engedélyezése körül felmerült kifogásokról beszélt."
+    "content_hu": "• **Bírósági döntés nyomán váltak nyilvánossá az adatok:** Meleghegyi Tamás József a K-Monitor segítségével indított pert, miután az Operaház nem adta ki vezetőinek kifizetéseit.\n\n• **Ókovács alapbére közel 119 százalékkal emelkedett:** Havi fizetése a 2021-es 2 millió forintról 2025-re 4,371 millióra nőtt. A különböző jogcímeken kapott juttatásai 2021-ben 4,8 millió, 2025-ben pedig 13,6 millió forintot tettek ki.\n\n• **2023-ban kapta a legtöbb pluszjuttatást:** Az alapfizetésén felül összesen 33,432 millió forintot fizettek ki neki, ebből több mint 19 millió forintot szabadságmegváltásként.\n\n• **Jelentős üzemanyag-térítésben és jutalmakban részesült:** Ókovács öt év alatt összesen 11 964 929 forint üzemanyag-térítést és 7,9 millió forint törzsgárdajutalmat kapott. A főigazgató-helyettesnek 9,4 millió forint törzsgárdajutalom és további 5,6 millió forint jutalom jutott.\n\n• **Ókovács vitatta az átvilágítás eljárását:** A volt főigazgató azt mondta, hogy nem ismerhette meg a vizsgálat megállapításait, és az álláspontját sem kérték ki.\n\n• **November 2-án azonnali hatállyal megszüntették a megbízását:** Tarr Zoltán miniszter az Operaház átvilágításának megállapításaival indokolta a döntést. Nagy Ervin államtitkár korábban az alapfizetés kiegészítéseinek engedélyezése körül felmerült kifogásokról beszélt.",
+    "importance_score": 45.0
   },
   {
     "group_id": "group_3cb0e1a53c",
@@ -1195,22 +1824,15 @@
     "title_hu": "Zelenszkij további személyi változásokat ígért az SZBU korrupciós botránya után",
     "lead_hu": "Volodimir Zelenszkij ukrán elnök további elbocsátásokat és teljes körű vizsgálatot ígért, miután magas rangú biztonsági és rendvédelmi tisztviselők kerültek egy súlyos korrupciós ügy gyanúsítottjai közé. Az elnök törvényjavaslatot kezdeményezne, amely az Ukrán Biztonsági Szolgálat valamennyi alkalmazottját vagyonnyilatkozat benyújtására kötelezné.",
     "content_hu": "• **A korrupciós ügy** A hatóságok szerint magas rangú tisztviselők segíthették egy bűnszervezet működését, amely csalóközpontokat üzemeltetett, kábítószerrel kereskedett, és hamis pénzt, illetve cigarettát állított elő.\n\n• **Zelenszkij ígérete** Az elnök szégyenletesnek és elfogadhatatlannak nevezte az ügyet, és közölte, hogy az SZBU-nál már történtek elbocsátások, további személyi döntések pedig várhatók.\n\n• **Őrizetbe vételek** Egy bíróság elrendelte az SZBU egy korábbi tábornokának letartóztatását; két rendőrségi vezetőt és egy másik gyanúsítottat is őrizetbe vettek.\n\n• **Vagyonnyilatkozatok** Zelenszkij olyan törvényjavaslatot kezdeményezne, amely az SZBU minden alkalmazottját vagyonnyilatkozat benyújtására kötelezné. A korrupció elleni fellépés az EU-csatlakozás és a nemzetközi pénzügyi támogatások szempontjából is fontos.",
-    "importance_score": 35.0
+    "importance_score": 28.0
   },
   {
     "group_id": "group_6000d41acd",
-    "fingerprint": "09c9221815de0183d1665cb5803b3797",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7247/72473/724737/72473735_5340571_34c42fc2c56cd47aa2e757a28a7d68ad_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Megjelent a genderideológia az óvodákban is: a gyermekek játék közbeni viselkedését is vizsgálhatják egy kérdőívvel",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/megjelent-a-genderideologia-az-ovodakban-is-a-gyermekek-jatek-kozbeni-viselkedeset-is-vizsgalhatjak-egy-kerdoivvel"
-      },
       {
         "source": "Index - Címlap",
         "title": "Kérdőívháború az óvodákban: reagált a minisztérium Rétvári Bence gender-elméletére",
@@ -1218,10 +1840,9 @@
       }
     ],
     "published_at": 1794138720,
-    "title_hu": "Vita az óvodai kérdőív nemi szerepekre vonatkozó kérdéseiről",
-    "lead_hu": "Rétvári Bence bírálta az oviKRÉTA óvodai kérdőívét, mert szerinte az a gyermekek játék közbeni nemi szerepeiről kérdez, a szülők tájékoztatása nélkül. Az oktatási tárca szerint a kérdések fejlődéspszichológiai célt szolgálnak, 2021 óta nem változtak, a kérdőív pedig átszámozás miatt átmenetileg nem volt elérhető.",
-    "content_hu": "• **Rétvári Bence bírálata** A KDNP politikusa azt állította, hogy az óvodapedagógusoknak a gyermekek játék közbeni, nemi szerepekhez kapcsolódó viselkedéséről kell válaszolniuk, és kifogásolta, hogy erről a szülőket nem tájékoztatták.\n\n• **A tárca szakmai indoklása** Az oktatási minisztérium szerint a kérdés a gyermek identitásának fejlődéséhez kapcsolódik, és pedagógiai, illetve fejlődéspszichológiai szempontból indokolt.\n\n• **A kérdőív háttere** A minisztérium közlése szerint a kérdőívet 2017 és 2021 között dolgozták ki, 2024–2025-ben újravalidálták, a kérdései pedig 2021 óta változatlanok.\n\n• **Átmeneti elérhetetlenség** A tárca szerint a kérdőívet az átszámozás idejére tették elérhetetlenné, hogy egyértelmű legyen, mely kérdéscsoport vonatkozik az egyes gyermekekre; a tervek szerint ezt követően ismét kitölthetővé vált.",
-    "importance_score": 35.0
+    "title_hu": "Kérdőívháború az óvodákban: reagált a minisztérium Rétvári Bence gender-elméletére",
+    "lead_hu": "Kedden újraindul a teszt, mely többek között a gyermekek nemi hovatartozás tudatosulását is méri.",
+    "content_hu": "Kedden újraindul a teszt, mely többek között a gyermekek nemi hovatartozás tudatosulását is méri."
   },
   {
     "group_id": "group_ff449eab5b",
@@ -1252,7 +1873,25 @@
     "title_hu": "Akár 300 ezer forintos bírság is járhat az illegális hulladékégetésért",
     "lead_hu": "Az Égetésellenes Világnap alkalmából az Élő Környezetért Felelős Minisztérium az illegális hulladékégetés egészségügyi és környezeti veszélyeire figyelmeztetett. A szabályszegőket akár 300 ezer forintos bírsággal is sújthatják, a tevékenység pedig súlyosabb esetben bűncselekménynek minősülhet.",
     "content_hu": "• **Tilos a hulladékégetés** Magyarországon nyílt téren, háztartási berendezésekben pedig csak a háztartásban keletkező papírhulladék és a veszélyesnek nem minősülő, kezeletlen fahulladék égethető.\n\n• **Akár 300 ezer forintos bírság is kiszabható** az előírások megszegéséért; az illegális égetés bizonyos esetekben bűncselekménynek is minősülhet.\n\n• **Súlyos egészségügyi kockázatot jelent** a műanyagok és más hulladékok elégetése: növelheti többek között a rák, a szívinfarktus, az agyvérzés és a magzatok genetikai károsodásának veszélyét.\n\n• **A levegőszennyezés messzire terjedhet:** egy hulladékkal tüzelő háztartás vagy kisüzem kilométeres körzetben is ronthatja a levegő minőségét.\n\n• **A hulladékégetés különösen karbonintenzív:** a források szerint kétszer annyi szén-dioxidot bocsát ki, mint a szén- vagy olajtüzelésű erőművek.\n\n• **A minisztérium a hulladék csökkentését és hasznosítását javasolja:** a megoldások között említi az újrahasználatot, az újrahasznosítást, a zöldhulladék komposztálását.\n\n• **A fűtési szezonban a kerti hulladék égetése is ronthatja a levegőt:** a tökéletlen égés során veszélyes anyagok, köztük formaldehid és benz(a)pirén kerülhetnek a levegőbe.\n\n• **Egy hazai, tizenegy éven át tartó kutatás szerint** a szilárd tüzelőanyagok égéséből származó mikroszkopikus részecskék egy része tartósan leülepedhet a légzőrendszerben, különösen intenzív fizikai aktivitás közben.",
-    "importance_score": 45.0
+    "importance_score": 38.0
+  },
+  {
+    "group_id": "group_53e796f72d",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Nyugdíjba megy a Tisza kampányautója, aminek platójáról Rovar úr többször eszét vesztve üvöltözött",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/nyugdijba-megy-a-tisza-kampanyautoja-aminek-platojarol-rovar-ur-tobbszor-eszet-vesztve-uvoltozott"
+      }
+    ],
+    "published_at": 1794138540,
+    "title_hu": "Nyugdíjba megy a Tisza kampányautója, aminek platójáról Rovar úr többször eszét vesztve üvöltözött",
+    "lead_hu": "A Ricsi nevű Ford Transitot Nagy Ervin a Közlekedési Múzeumnak ajánlja fel.",
+    "content_hu": "A Ricsi nevű Ford Transitot Nagy Ervin a Közlekedési Múzeumnak ajánlja fel."
   },
   {
     "group_id": "group_0c9a3f6de9",
@@ -1332,7 +1971,7 @@
     "title_hu": "A Puskás Akadémia elleni vereség után menesztették Supka Attilát",
     "lead_hu": "A Kisvárda vasárnap bejelentette, hogy megválik Supka Attila vezetőedzőtől, miután a csapat hazai pályán 1–0-ra kikapott a Puskás Akadémiától. A szakember a vereség után a csapat gyenge eredményeit a „realitással” magyarázta; utódjáról egyelőre nem közöltek részleteket.",
     "content_hu": "• **A menesztés előzménye:** A Kisvárda szombaton 1–0-s vereséget szenvedett hazai pályán a Puskás Akadémiától, majd a klub másnap bejelentette, hogy szakít Supka Attilával.\n\n• **Supka értékelése:** Az edző a vereség után azt mondta, hogy a gyenge eredmények „a realitást” tükrözik, és a csapat hiába igyekszik, nem tud eredményes lenni.\n\n• **A Kisvárda mérlege:** A csapat 13 forduló alatt 12 pontot gyűjtött, és a tabella 11. helyén állt. Legutóbbi hat bajnokijából egyet sem nyert meg.\n\n• **Az utódlás:** Supka második kisvárdai edzői időszaka 13 bajnoki mérkőzés után ért véget; a klub közlése szerint utódjának megtalálása folyamatban van.",
-    "importance_score": 35.0
+    "importance_score": 28.0
   },
   {
     "group_id": "group_e1a629ca98",
@@ -1458,7 +2097,7 @@
     "title_hu": "Orbán Viktor a német gazdaság példájával figyelmeztetett a Tisza-kormányra",
     "lead_hu": "Orbán Viktor megosztotta Hans-Werner Sinn német közgazdász előadásának videóját, és azt állította, hogy a német gazdaság problémái Magyarország számára is tanulságosak. Szerinte ha a Tisza-kormány „így folytatja”, Magyarországra is hasonló sors várhat.",
     "content_hu": "• **Videót osztott meg Orbán Viktor** a Szabad Magyarországért Tudásközpont YouTube-csatornáján közzétett, Hans-Werner Sinn előadására épülő anyagból.\n\n• **Sinn a német gazdaság problémáiról beszél**: a videó a német ipar hanyatlását, valamint az Angela Merkel-korszak politikájának, az orosz–ukrán háborúnak, az energiapolitikának és Brüsszelnek a lehetséges szerepét tárgyalja. A felvétel magyar felirattal is elérhető.\n\n• **Sinn gazdasági tisztségeket töltött be**: a Világgazdaság ismertetése szerint a Müncheni Lajos–Miksa Egyetem emeritus professzora, valamint az ifo Gazdaságkutató Intézet emeritus elnöke.\n\n• **Orbán Magyarországot is figyelmeztette**: bejegyzésében „kényelmetlen igazságnak” nevezte a videóban elhangzókat, és azt írta, ha a Tisza-kormány „így folytatja”, Magyarországra is hasonló sors várhat. A kijelentés a politikus véleményét tükrözi.",
-    "importance_score": 60.0
+    "importance_score": 53.0
   },
   {
     "group_id": "group_619d6af7c0",
@@ -1477,55 +2116,6 @@
     "title_hu": "Ritkán látni olyan hatalmas tömegbunyót, mint ami kitört a szorítóban és a nézőtéren is",
     "lead_hu": "Elszabadultak az indulatok az isztambuli és manchesteri gálán.",
     "content_hu": "Elszabadultak az indulatok az isztambuli és manchesteri gálán."
-  },
-  {
-    "group_id": "group_905ccc3030",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261108/1794132702-temp-c8t435jf17th0gelfcf_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A Marina partra jár vacsorázni egy vaddisznó",
-        "link": "https://telex.hu/belfold/2026/11/08/vaddiszno-duna-marina-part-onkormanyzat"
-      }
-    ],
-    "published_at": 1794136373,
-    "title_hu": "A Marina partra jár vacsorázni egy vaddisznó",
-    "lead_hu": "Az állat egy hete rendszeresen megjelenik a Duna mellett, a lakók egy kutyafuttató és egy játszótér közelében is látták.",
-    "content_hu": "Az állat egy hete rendszeresen megjelenik a Duna mellett, a lakók egy kutyafuttató és egy játszótér közelében is látták."
-  },
-  {
-    "group_id": "group_6dad89178a",
-    "fingerprint": "9c9486ac340cc8de5030f60e77c104eb",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Bejelentést tett a MÁV: drónok jelenhetnek meg a területei felett",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/bejelentest-tett-a-mav-dronok-jelenhetnek-meg-a-teruletei-felett"
-      },
-      {
-        "source": "ATV",
-        "title": "Elegük lett az életveszélyes akciókból: drónokkal csap le a behatolókra a MÁV",
-        "link": "https://www.atv.hu/belfold/20261108/mav-dronok-mi-palyaudvar-orzes/"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Drónokkal figyeli meg a MÁV a pályaudvarokat, betörőket és rendbontókat keresnek",
-        "link": "https://hvg.hu/tudomany/20261108_dronokkal-figyeli-meg-a-mav-a-palyaudvarokat-betoroket-es-rendbontokat-keresnek"
-      }
-    ],
-    "published_at": 1794136320,
-    "title_hu": "MI-alapú drónokkal védi vasúti területeit a MÁV",
-    "lead_hu": "A MÁV az év végétől mesterséges intelligenciával támogatott drónokat állít szolgálatba a nagyobb vasúti üzemi területek megfigyelésére. A rendszer a gyanús mozgásokat felismeri, és értesíti a helyszínen dolgozó biztonsági munkatársakat.",
-    "content_hu": "• **Az év végétől** MI-alapú drónok figyelik a nagyobb vasúti csomópontokat és üzemi területeket.\n\n• **A gyanús mozgások felismerése** után a rendszer riasztja a helyszínen szolgálatot teljesítő biztonsági munkatársakat.\n\n• **A vagyonvédelem mellett a balesetmegelőzés is cél:** a MÁV vezetője szerint az elmúlt évben tíz alkalommal másztak fel illetéktelenek üzemi területen veszteglő vasúti járművek tetejére, ahol a felsővezetékek miatt életveszélyes az érintkezés.",
-    "importance_score": 45.0
   },
   {
     "group_id": "group_b332c6e21a",
@@ -1669,7 +2259,7 @@
     "title_hu": "Mínusz 10,3 fokot mértek Zabaron, újabb őszi hidegrekord született",
     "lead_hu": "Vasárnap hajnalban mínusz 10,3 Celsius-fokot mértek a Nógrád megyei Zabarban, így az őszi szezonban először csökkent mínusz 10 fok alá a hőmérséklet. Sorozatban negyedik napja dőlt meg a szezon hidegrekordja; vasárnap napközben még többnyire napos idő várható, később azonban helyenként csapadék is érkezhet.",
     "content_hu": "• **Vasárnap újabb rekord született:** Zabaron mínusz 10,3 Celsius-fokot mértek, ez az idei őszi szezon eddigi legalacsonyabb hőmérséklete.\n\n• **Négy egymást követő napon dőlt meg a szezonrekord:** csütörtökön mínusz 7,1, pénteken mínusz 8,3, szombaton mínusz 9,3, vasárnap pedig mínusz 10,3 fokot regisztráltak Zabaron.\n\n• **Most először süllyedt mínusz 10 fok alá a hőmérséklet ősszel:** a vasárnapi mérés új szezonrekord, de nem a november 8-i országos hidegrekord. A dátumhoz tartozó legalacsonyabb érték mínusz 13,6 fok, amelyet 1908-ban Debrecen-Pallagon mértek.\n\n• **Zabar fagyzugos fekvése kedvez a szélsőséges minimumoknak:** a környező magaslatokról leáramló hideg levegő összegyűlhet a településen.\n\n• **Vasárnap napközben többnyire napos idő várható:** nyugat felől megnövekedhet a felhőzet, a déli és középső országrészben estétől eső vagy zápor is előfordulhat, az Északi-középhegységben pedig gyenge ónos eső sem kizárt.\n\n• **Hétfőn változóan felhős időre van kilátás:** a Dunántúlon nagyrészt napos lehet az idő, keleten lassan szakadozhat fel a felhőzet, és a tartósan borult tájakon délelőtt kisebb csapadék is előfordulhat.\n\n• **Kedden nyugat felől érkezhet csapadék:** főként délutántól többfelé esőre, záporra lehet számítani, míg szerdán az ország nagy részén felhős vagy borult idő várható.",
-    "importance_score": 55.0
+    "importance_score": 48.0
   },
   {
     "group_id": "group_dd13c69959",
@@ -2379,13 +2969,18 @@
   },
   {
     "group_id": "group_b52c763479",
-    "fingerprint": "85a46b438ff9a4e6166e40c3796ef8a6",
+    "fingerprint": "2d05b7c025231f7b89296cbcded6306e",
     "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7246/72467/724672/72467235_5340133_d5c52acf640bcee35481629bb98bca9f_wm.jpg",
+    "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 3,
     "sources": [
+      {
+        "source": "ATV",
+        "title": "Közel 60 milliárd forintból zöldítené az országot a kormány, 12 millió facsemetét ültetnek el",
+        "link": "https://www.atv.hu/belfold/20261108/gajdos-laszlo-fa-erdo-zold/"
+      },
       {
         "source": "Portfolio - Gazdaság",
         "title": "Magyar Péter bejelentette: 57 milliárd forintos programot indít a kormány országfásításra és települészöldítésre",
@@ -2395,23 +2990,12 @@
         "source": "Telex - Belföld",
         "title": "Magyar Péter 57 milliárd forintos országfásítási és települészöldítési programot jelentett be",
         "link": "https://telex.hu/techtud/2026/11/08/orszagos-fasitasi-es-telepules-zolditesi-programot-hirdet-a-kormany"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Mintegy 60 milliárd forintból indít fásítási és települészöldítési programot a kormány",
-        "link": "https://index.hu/belfold/2026/11/07/orszagfasitasi-program-telepuleszoldites-kormany-gajdos-laszlo/"
-      },
-      {
-        "source": "ATV",
-        "title": "Közel 60 milliárd forintból zöldítené az országot a kormány, 12 millió facsemetét ültetnek el",
-        "link": "https://www.atv.hu/belfold/20261108/gajdos-laszlo-fa-erdo-zold/"
       }
     ],
     "published_at": 1794130713,
-    "title_hu": "57–60 milliárd forintos fásítási és települészöldítési programot indít a kormány",
-    "lead_hu": "A kormány országfásítási és települészöldítési programot indít, amelynek keretét egyes új források 57 milliárd, mások mintegy 60 milliárd forintra teszik. A fejlesztések célja a hőhullámok és a klímaváltozás hatásaihoz való alkalmazkodás, többek között új közparkokkal és a városi hőszigethatás mérséklésével.",
-    "content_hu": "• **Eltérő összeg szerepel az új forrásokban:** a Portfolio és a Telex 57 milliárd forintos programról ír, míg a korábbi bejelentés mintegy 60 milliárd forintos keretet említ.\n\n• **A hőhullámok már az energiabiztonságot és a gazdaságot is érintik:** a Portfolio szerint az egyre melegebb és szárazabb nyári időjárás idén az ország energiabiztonságát is veszélyeztette, hatása pedig a gazdasági mutatókban is megjelent.\n\n• **A települészöldítés új közparkokra és a hőszigethatás csökkentésére is kiterjed:** a Telex összefoglalója ezeket is a program céljai között említi.\n\n• **Korszerűsítenék az önkormányzati zöldfelület-gazdálkodást:** a tervek szerint a helyi közösségeket is bevonják, és szakmai segítséget biztosítanak azoknak a településeknek, ahol nincs elegendő helyi kapacitás. A projekteket az adott település klímájához és vízháztartásához igazítanák.",
-    "importance_score": 53.0
+    "title_hu": "Több mint 57 milliárd forintból indít négyéves fásítási és települészöldítési programot a kormány",
+    "lead_hu": "A következő négy évben több mint 57 milliárd forintot fordít a kormány országfásításra és települészöldítésre; az ATV közel 60 milliárdos keretről ír. A programban legalább 12 millió facsemetét ültetnek el, és önkormányzati pályázatokkal támogatják a hosszú távon fenntartható zöldfelületek kialakítását.",
+    "content_hu": "• **Eltérő összeg szerepel a forrásokban:** a Portfolio és a Telex több mint 57 milliárd forintos keretről ír, az ATV közel 60 milliárd forintot említ.\n\n• **Négy év alatt legalább 12 millió facsemetét ültetnek el:** az országfásítási programra 18,2 milliárd forintot különítenek el; több mint 1300 hektárnyi új erdőt telepítenek, és 20 ezer kilométernyi csatornaszakaszt fásítanak.\n\n• **A meglévő erdők védelmére és az erdőtüzek megelőzésére is jut pénz:** négymilliárd forintot fordítanak az erdők fenntarthatóbbá tételére, egymilliárdból pedig integrált erdőtűz-védelmi akciótervet indítanak.\n\n• **A keret legnagyobb részét a települészöldítés kapja:** erre 39,6 milliárd forintot szánnak, többek között közkertek, közparkok, fasorok és települési zöldfelületek létrehozására, illetve fenntartására.\n\n• **Négyféle önkormányzati pályázatot írnak ki:** ezekre bármely magyar település jelentkezhet, a projektek előkészítésébe pedig szakmai szervezeteket, köztük erdőgazdaságokat, vízügyi szakembereket, tájépítészeket és kutatókat is bevonnak.\n\n• **A fejlesztéseket a helyi adottságokhoz igazítják:** a tervek szerint a települések klímáját és vízháztartását is figyelembe veszik, a cél pedig nem pusztán a fák elültetése, hanem azok hosszú távú gondozása és életben tartása."
   },
   {
     "group_id": "group_541688303a",
@@ -2533,12 +3117,12 @@
   },
   {
     "group_id": "group_32ac46cae2",
-    "fingerprint": "0f13cb29a58518ec377a1c3b6d1811c9",
+    "fingerprint": "ffba6d1016ca8c88b4caf6301dcb167c",
     "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1143558987-e1794061574154-1024x577.jpg",
+    "image": "https://kep.index.hu/1/0/4196/41967/419675/41967590_3203568_b1dcfb152b8713630ca092f5d8c16df3_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 7,
+    "sources_count": 2,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
@@ -2549,38 +3133,12 @@
         "source": "Index - Címlap",
         "title": "Török Gábor pontosította, mit értett Orbán-korszak alatt",
         "link": "https://index.hu/belfold/2026/11/08/torok-gabor-orban-korszak-demokracia-abszolut-koztarsasag-orban-viktor/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Török Gábor: Az Orbán-korszak nem volt diktatúra vagy autokrácia, nem történt sem forradalom, sem rendszerváltás",
-        "link": "https://24.hu/belfold/2026/11/07/torok-gabor-orban-korszak-nem-diktatura-forradalom-rendszervaltas/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Török Gábor: Az Orbán-korszak nem volt diktatúra, 2026-ban nem történt rendszerváltás",
-        "link": "https://index.hu/belfold/2026/11/07/torok-gabor-orban-kormany-rendszervaltas-forradalom-politikai-elemzo-szakerto/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Török Gábor: Az Orbán-korszak nem volt diktatúra, 2026-ban nem történt rendszerváltás",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/torok-gabor-az-orban-korszak-nem-volt-diktatura-2026-ban-nem-tortent-rendszervaltas"
-      },
-      {
-        "source": "ATV",
-        "title": "Török Gábor szerint 2026-ban nem történt sem rendszerváltás, sem forradalom",
-        "link": "https://www.atv.hu/belfold/20261107/torok-gabor-forradalom-rendszervaltas/"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Török Gábor megsemmisítő ítéletet hozott: nem volt rendszerváltás 2026-ban",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/torok-gabor-orban-korszak-demokracia-diktatura-rendszervaltas-tisza-2026?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1794129660,
     "title_hu": "Török Gábor szerint az Orbán-korszak parlamentáris abszolút köztársaság volt",
-    "lead_hu": "Török Gábor politológus pontosította korábbi állítását: szerinte az Orbán-korszak sok ponton eltért a „normális demokráciától”, de nem volt diktatúra vagy autokrácia. A Zárug Péter Farkassal közösen írt könyvük alapján parlamentáris abszolút köztársaság épült ki, amely demokratikus alapokon jött létre, és demokratikus választáson le is váltható volt.",
-    "content_hu": "• **Török Gábor értékelése** A politológus szerint az Orbán-korszakot nem lehet diktatúrának vagy autokráciának nevezni, és 2026-ban sem történt forradalom vagy rendszerváltás.\n\n• **A demokrácia értelmezése** Török szerint a demokratikus körülmények között kialakuló túlhatalom önmagában nem jelenti a demokrácia megszűnését, ha reális lehetőség marad a demokratikus úton történő változásra.\n\n• **Eltérő demokráciafelfogások** Török szerint egyesek akkor is a demokrácia elhagyásáról beszélnek, ha olyanok kormányoznak, akikkel nem értenek egyet; mások a tartós túlhatalmat, például az alkotmányozó többséget vagy a több cikluson át fennálló dominanciát tekintik határátlépésnek.\n\n• **A választás jelentősége** Az elemző fontos fordulópontnak nevezte a 2026-os választást, de szerinte sem 2010-ben, sem 2026-ban nem történt olyan, amit indokolt lenne forradalomnak nevezni.\n\n• **A választói döntés** Török szerint közel 3,4 millió ember döntött úgy, hogy demokratikus úton leváltja a korábban négy választáson is kétharmados többséget szerző pártot.\n\n• **Mit nevez forradalomnak?** Török Tóka Gábor meghatározását idézte: forradalom akkor történik, amikor valaki az érvényes törvényes rend helyett a nép nevében új legitimitási forrást hirdet meg. Szerinte 2026-ban törvényes választáson dőlt el a kormányváltás.\n\n• **Magyar Péter politikai szerepe** Török arra utalt, hogy egy, a korábbi hatalmi pártból kilépő politikus két év politikai munkájával jutott el oda, hogy pártja a választáson jóval több szavazatot szerzett korábbi politikai közösségénél.\n\n• **Új politikai fejezet** Török kormány- és rezsimváltásként írta le a történteket, amelyekkel új szakasz kezdődött az 1990-ben, az egypártrendszerű kommunista diktatúra után létrejött politikai rendszerben.\n\n• **A bejegyzés előzménye** Török Kováts Eszter cikkére reagált. Kováts szerint a szavak jelentésének és súlyának megőrzése érdekében nem érdemes választási forradalomnak nevezni a politikai hatalom leváltását.\n\n• **A változás tanulsága** Török szerint az emberek felismerték, hogy nem kell elfogadniuk azt, amit korábban megváltoztathatatlannak hittek; a múlt feldolgozását is fontos kérdésnek nevezte.\n\n• **A változás ellenzőinek reakciója** Török szerint azok, akiknek nem tetszik a történtek értelmezése, már most önkényről és a demokrácia végéről beszélnek.\n\n• **A vitatott fogalmak használata** Törököt nem zavarja, ha mások politikai célból vagy őszinte meggyőződésből forradalomnak vagy rendszerváltásnak nevezik a történteket. Úgy véli, az idő majd kiszűri azokat az elnevezéseket, amelyeknek hamar lejár a szavatosságuk.\n\n• **Pontosítás a demokráciáról** Török szerint az elmúlt 16 év sok ponton eltért a „normális demokráciától”; azt is kérdésesnek nevezte, hogy egyáltalán létezik-e ilyen. A pontosítást azoknak a véleményeknek a kapcsán tette, amelyek szerint ő normális demokráciának tartotta az elmúlt időszakot.\n\n• **A parlamentáris abszolút köztársaság fogalma** A Zárug Péter Farkassal közösen jegyzett könyvük alapján Török úgy írta le az Orbán-kort, mint parlamentáris abszolút köztársaságot: formailag pluralista, de szerkezetében aszimmetrikus rendszert, amelyben a domináns hatalom alakítja a politikai verseny feltételeit.\n\n• **Az Orbán-kor mint politikai modell** Török szerint az Orbán-kor nem pusztán egy kormányzati időszak volt, hanem sajátos államszervezési és politikai logika, illetve modell kiterjedése.\n\n• **A rendszer működése** A könyvből idézett meghatározás szerint ebben a rendszerben a szuverenitás formálisan demokratikus forrásból ered, miközben intézményes korlátai fokozatosan meggyengülnek; a pluralizmus létezik, de a politikai szereplők nem egyenrangúak.\n\n• **Az alkotmányos korlátok** A könyv idézett részlete szerint a koncentrált szuverenitás fölött nincs érdemi alkotmányos korlát, vagy az ilyen korlát csupán republikánus formalitás, amelyen a hatalmi akarat akadálytalanul áthatolhat.\n\n• **Demokratikus eredet és leválthatóság** Török szerint az abszolút köztársaság demokratikus alapokon is létrejöhet, demokratikus választásokon meg is bukhat, ugyanakkor más formában tovább élhet.",
-    "importance_score": 78.0
+    "lead_hu": "Török Gábor politológus pontosította korábbi állítását: szerinte az Orbán-korszak sok ponton eltért a „normális demokráciától”, de nem volt diktatúra vagy autokrácia. A Zárug Péter Farkassal közösen jegyzett Orbán kora című könyvük alapján parlamentáris abszolút köztársaság épült ki, amely demokratikus alapokon jött létre, és választáson leváltható volt.",
+    "content_hu": "• **Török Gábor értékelése** A politológus szerint az Orbán-korszakot nem lehet diktatúrának vagy autokráciának nevezni, és 2026-ban sem történt forradalom vagy rendszerváltás.\n\n• **A demokrácia értelmezése** Török szerint a demokratikus körülmények között kialakuló túlhatalom önmagában nem jelenti a demokrácia megszűnését, ha reális lehetőség marad a demokratikus úton történő változásra.\n\n• **Eltérő demokráciafelfogások** Török szerint egyesek akkor is a demokrácia elhagyásáról beszélnek, ha olyanok kormányoznak, akikkel nem értenek egyet; mások a tartós túlhatalmat, például az alkotmányozó többséget vagy a több cikluson át fennálló dominanciát tekintik határátlépésnek.\n\n• **A választás jelentősége** Az elemző fontos fordulópontnak nevezte a 2026-os választást, de szerinte sem 2010-ben, sem 2026-ban nem történt olyan, amit indokolt lenne forradalomnak nevezni.\n\n• **A választói döntés** Török szerint közel 3,4 millió ember döntött úgy, hogy demokratikus úton leváltja a korábban négy választáson is kétharmados többséget szerző pártot.\n\n• **Mit nevez forradalomnak?** Török Tóka Gábor meghatározását idézte: forradalom akkor történik, amikor valaki az érvényes törvényes rend helyett a nép nevében új legitimitási forrást hirdet meg. Szerinte 2026-ban törvényes választáson dőlt el a kormányváltás.\n\n• **Magyar Péter politikai szerepe** Török arra utalt, hogy egy, a korábbi hatalmi pártból kilépő politikus két év politikai munkájával jutott el oda, hogy pártja a választáson jóval több szavazatot szerzett korábbi politikai közösségénél.\n\n• **Új politikai fejezet** Török kormány- és rezsimváltásként írta le a történteket, amelyekkel új szakasz kezdődött az 1990-ben, az egypártrendszerű kommunista diktatúra után létrejött politikai rendszerben.\n\n• **A bejegyzés előzménye** Török Kováts Eszter cikkére reagált. Kováts szerint a szavak jelentésének és súlyának megőrzése érdekében nem érdemes választási forradalomnak nevezni a politikai hatalom leváltását; írása az Orbán Viktor és Aleksandar Vučić rendszerének leváltását is említette.\n\n• **A változás tanulsága** Török szerint az emberek felismerték, hogy nem kell elfogadniuk azt, amit korábban megváltoztathatatlannak hittek; a múlt feldolgozását is fontos kérdésnek nevezte.\n\n• **A változás ellenzőinek reakciója** Török szerint azok, akiknek nem tetszik a történtek értelmezése, már most önkényről és a demokrácia végéről beszélnek.\n\n• **A vitatott fogalmak használata** Törököt nem zavarja, ha mások politikai célból vagy őszinte meggyőződésből forradalomnak vagy rendszerváltásnak nevezik a történteket. Úgy véli, az idő majd kiszűri azokat az elnevezéseket, amelyeknek hamar lejár a szavatosságuk.\n\n• **Pontosítás a demokráciáról** Török szerint az elmúlt 16 év sok ponton eltért a „normális demokráciától”; azt is kérdésesnek nevezte, hogy egyáltalán létezik-e ilyen. Bejegyzésével azokra reagált, akik úgy értelmezték korábbi posztját, mintha normális demokráciának tartaná az időszakot.\n\n• **A parlamentáris abszolút köztársaság fogalma** A Zárug Péter Farkassal közösen jegyzett, Orbán kora című könyvük alapján Török úgy írta le az Orbán-kort, mint parlamentáris abszolút köztársaságot: formailag pluralista, de szerkezetében aszimmetrikus rendszert, amelyben a domináns hatalom alakítja a politikai verseny feltételeit.\n\n• **A pluralizmus korlátai** A könyv idézett részlete szerint vannak választások, pártok és civil szervezetek, de ezek nem egyenrangú szereplői a politikai mezőnek; a pluralizmus hierarchikusan működik.\n\n• **Az Orbán-kor mint politikai modell** Török szerint az Orbán-kor nem pusztán egy kormányzati időszak volt, hanem sajátos államszervezési és politikai logika, illetve modell kiterjedése.\n\n• **A rendszer működése** A könyvből idézett meghatározás szerint ebben a rendszerben a szuverenitás formálisan demokratikus forrásból ered, miközben intézményes korlátai fokozatosan meggyengülnek.\n\n• **Az alkotmányos korlátok** A könyv idézett részlete szerint a koncentrált szuverenitás fölött nincs érdemi alkotmányos korlát, vagy az ilyen korlát csupán republikánus formalitás, amelyen a hatalmi akarat akadálytalanul áthatolhat.\n\n• **Demokratikus eredet és leválthatóság** Török szerint az abszolút köztársaság demokratikus alapokon is létrejöhet, demokratikus választásokon meg is bukhat, ugyanakkor más formában tovább élhet."
   },
   {
     "group_id": "group_082e76a54c",
@@ -2933,7 +3491,7 @@
     "title_hu": "Krakkói lövöldözés: nincs hír magyar áldozatokról",
     "lead_hu": "A krakkói lövöldözésben a beszámolók szerint legalább öt ember meghalt, és több mint tízen megsérültek; a Hír TV hat halálos áldozatról és 16 sebesültről ír. A magyar külügyminisztérium egyelőre nem tud magyar érintettről.",
     "content_hu": "• **Áldozatok és sérültek** Az Index legalább öt halálos áldozatról és több mint tíz sérültről számolt be, míg a Hír TV hat halottról és 16 sebesültről írt.\n\n• **Magyar érintettség** A Külügyminisztérium közlése szerint egyelőre nincs tudomásuk magyar áldozatról vagy sérültről; a krakkói főkonzulátus kapcsolatban áll a lengyel hatóságokkal.\n\n• **A támadás minősítése** A Hír TV szerint a lengyel hatóságok terrorcselekménynek minősítették a támadást, az elkövetőt pedig elfogták.",
-    "importance_score": 28.0
+    "importance_score": 23.0
   },
   {
     "group_id": "group_722cf52858",
@@ -3121,7 +3679,7 @@
     "title_hu": "Vaddisznó tűnt fel a Marina-parton, a lakókat óvatosságra intik",
     "lead_hu": "Több mint egy hete rendszeresen felbukkan egy vaddisznó a XIII. kerületi Marina-parton, többek között játszótér és kutyafuttató közelében. Az önkormányzat szakemberekkel egyeztet az állat befogásáról, a vadászkamara szóvivője pedig arra figyelmeztetett, hogy senki ne közelítse meg.",
     "content_hu": "• **Több mint egy hete a környéken kószál** a termetes vaddisznó a Marina-parton; a Duna mellett, játszótér és kutyafuttató közelében is látták.\n\n• **A lakóknak azt tanácsolják, ne menjenek az állat közelébe.** Földvári Attila, a vadászkamara szóvivője szerint a vaddisznó veszélyessé válhat, különösen, ha menekülni kezd.\n\n• **Az önkormányzat egyeztet a szakemberekkel** az állat befogásáról. A vadőrök korábban a rossz fényviszonyok miatt nem tudták kilőni a vaddisznót.",
-    "importance_score": 33.0
+    "importance_score": 28.0
   },
   {
     "group_id": "group_b25e9c13ce",
@@ -3236,7 +3794,7 @@
     "title_hu": "A krakkói lövöldöző családtagjait azonosították, újabb részletek derültek ki az áldozatokról",
     "lead_hu": "A rendőrség azonosította a krakkói lövöldöző otthonában talált három holttestet: az áldozatok a férfi szülei és 21 éves húga voltak, testükön lőtt sebeket találtak. A főtéri támadásban hatan meghaltak, tizenhatan megsérültek; az áldozatok közül négy nő és két férfi, a két súlyosan sérült rendőr egyikét pedig Jakub Kuliknak, a másikát Artur Morańskinak hívják.",
     "content_hu": "• **A merénylő családtagjait találták holtan** a Krakkótól mintegy 200 kilométerre fekvő Ostrowiec Świętokrzyskiben: a rendőrség szerint az áldozatok a gyanúsított 53 éves apja, 52 éves anyja és 21 éves húga. Az elsődleges vizsgálatok alapján lőtt sebeket találtak rajtuk.\n\n• **A házkutatás során hét lőfegyvert foglaltak le** a lakásban, a nyomozók pedig az ingatlan más részeit is átvizsgálják. A rendőrség egyelőre vizsgálja, pontosan kié volt a támadásnál használt fegyver.\n\n• **A feltételezett elkövetőt Michał Oksińskiként azonosították.** A rendőrség szerint volt fegyvertartási engedélye, korábban nem volt büntetve, és nem került a hatóságok látókörébe. Az engedélye a sajtóértesülések szerint egy karabélyra és egy maroklőfegyverre vonatkozott.\n\n• **A támadásban hatan meghaltak és tizenhatan megsérültek.** Az áldozatok között három lengyel és egy brit állampolgárt azonosítottak; két ember személyazonossága egyelőre nem ismert. A sérültek között portugál és orosz állampolgár is van.\n\n• **A halálos áldozatok közül négy nő és két férfi volt.** A sérültek között egy 74 éves portugál nő is van.\n\n• **A hatóságok terrorista jellegű bűncselekményként vizsgálják a lövöldözést.** A belügyminiszter szerint az elkövetőt szélsőjobboldali, ultranacionalista nézetek vezérelhették, de az indítéka még nem tisztázott. A nyomozók azt is ellenőrzik, hogy részt vett-e szélsőséges online csoportokban, illetve voltak-e segítői; eddigi információik szerint egyedül cselekedett.\n\n• **A rendőrök három percen belül a helyszínre értek, és tűzharc után megállították a támadót.** Két rendőr súlyosan megsérült, őket megműtötték; állapotuk a legfrissebb tájékoztatás szerint stabil, de továbbra is súlyos. A sérült rendőröket Jakub Kuliknak és Artur Morańskinak hívják; Jakub Kulik számára véradást szerveztek.\n\n• **A támadó továbbra is kórházban, rendőri felügyelet alatt van.** Állapota súlyos, de stabil; egészségi állapota miatt egyelőre hivatalosan nem vették őrizetbe, és kihallgatni sem tudták. Az ügyészség a történteket terrorista jellegű bűncselekményként kívánja minősíteni; a várható vádak akár életfogytig tartó szabadságvesztéssel is büntethetők.\n\n• **A krakkói lovaskocsisok közül is többen megsérültek.** A helyi szövetség elnöke szerint ketten életveszélyes állapotban voltak, többen súlyos sérüléseket szenvedtek.\n\n• **A támadó autójában nem találtak robbanóanyagot.** A kormányfő közlése szerint a jármű nem jelentett pirotechnikai veszélyt; a rendőrség cáfolta, hogy második támadót keresnének.\n\n• **A támadó katonai jellegű ruházatot viselt, de nem szolgált a hadseregben.** A rendőrség szerint fegyvertartási engedéllyel rendelkezett; az autójában további fegyvereket és lőszert találtak.\n\n• **A szomszédok eltérően emlékeztek az elkövető viselkedésére.** Egyesek udvarias, hétköznapi fiatalemberként írták le, mások időnként gyanúsnak és aggasztónak találták; a hatóságokat nem értesítették.\n\n• **November 8-át és 9-ét nemzeti gyásznappá nyilvánították Lengyelországban, Krakkóban pedig november 11-ig tart a városi gyász.** A gyász idejére az ellenzék egyik vezetője arra kérte a párt híveit, hogy függesszék fel a kormány intézkedései ellen tervezett tüntetéseket.",
-    "importance_score": 98.0
+    "importance_score": 93.0
   },
   {
     "group_id": "group_90aaaf8960",
@@ -3456,18 +4014,11 @@
   },
   {
     "group_id": "group_5286946e9f",
-    "fingerprint": "40627477f5f42e5431a34130b549a734",
     "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fcbcfe40-e284-41bc-bb64-4b3bc6920688.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://kep.index.hu/1/0/7246/72468/724680/72468007_5340193_8c744abb1e130f0bffb746e98dce85d0_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Donald Trump a világ legnagyobb légibemutatóját szervezné Floridában",
-        "link": "https://hvg.hu/vilag/20261107_donald-trump-nasa-florida-kennedy-urkozpont-legibemutato-parizs-emmanuel-macron"
-      },
       {
         "source": "Index - Címlap",
         "title": "Donald Trump és a NASA a világ legnagyobb légibemutatójára készül",
@@ -3475,10 +4026,9 @@
       }
     ],
     "published_at": 1794123960,
-    "title_hu": "Trump 2028-ban új légibemutatót indítana Floridában",
-    "lead_hu": "Donald Trump és a NASA bejelentette a CapeWeek nevű űr- és repülőipari rendezvény terveit. Az eseményt 2028 tavaszán tartanák a floridai Kennedy Űrközpontban, és a szervezők a világ legnagyobb légibemutatói közé emelnék.",
-    "content_hu": "• **Időpont és helyszín:** A CapeWeek első alkalommal 2028. március 27. és április 2. között lehet a floridai Kennedy Űrközpontban.\n\n• **Program:** A rendezvényen űr- és repülőipari kiállítás, valamint légibemutató is szerepelne.\n\n• **Célkitűzés:** Az Egyesült Államok bemutatná űrkutatási és repülőipari képességeit, miközben nemzetközi üzleti kapcsolatokat teremtene az ágazat szereplőinek.\n\n• **Nemzetközi verseny:** A szervezők a párizsi, farnborough-i és dubaji eseményekkel vennék fel a versenyt. A terv előzménye, hogy Trump korábban arra kérte az ágazat szereplőit, ne vegyenek részt a párizsi rendezvényen.",
-    "importance_score": 23.0
+    "title_hu": "Donald Trump és a NASA a világ legnagyobb légibemutatójára készül",
+    "lead_hu": "Egyhetes programsorozatot terveznek.",
+    "content_hu": "Egyhetes programsorozatot terveznek."
   },
   {
     "group_id": "group_e32927c593",
@@ -3497,52 +4047,6 @@
     "title_hu": "Életmentő akció Budapesten, répás trükkel mentették ki a medencébe szorult hódot",
     "lead_hu": "Először nem akart távozni a csapdából, inkább pancsolt még egy kicsit.",
     "content_hu": "Először nem akart távozni a csapdából, inkább pancsolt még egy kicsit."
-  },
-  {
-    "group_id": "group_7098bc2c84",
-    "fingerprint": "c671e5a822d43f34f9766a3f5c7f2297",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261107/1794081865-temp-jt6410lra61h9kimlgm_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Netanjahu legnagyobb riválisát bízta meg új kormány alakításával az izraeli elnök",
-        "link": "https://telex.hu/kulfold/2026/11/07/gadi-ejzenkot-kormanyalakitas-izrael-benjamin-netanjahu"
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Gadi Eisenkotot bízza meg a kormányalakítással az izraeli államfő",
-        "link": "https://hvg.hu/vilag/20261107_gadi-eisenkot-izrael-kormanyalakitas-megbizas"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Megvan a jelölt, idáig kellett várni rá: ő lehet Izrael új kormányfője – Netanjahu még így is megőrizheti hatalmát",
-        "link": "https://www.vg.hu/kozelet/2026/11/izrael-valasztas-uj-kormanyfo-netanjahu-gadi-eizenkot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Benjamin Netanjahu kihívóját kérte fel kormányalakításra Izrael elnöke",
-        "link": "https://index.hu/kulfold/2026/11/08/izrael-kormanyalakitas-jichak-hercog-gadi-ejzenkot/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Netanjahu riválisát bízta meg új kormány alakításával az izraeli elnök",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/netanjahu-rivalisat-bizta-meg-uj-kormany-alakitasaval-az-izraeli-elnok"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A Netanjahu-ellenes erők vezetőjét, Gadi Ejzenkotot bízták meg kormányalakítással Izraelben",
-        "link": "https://24.hu/kulfold/2026/11/08/gadi-ejzenkot-izrael-kormanyalakitas/"
-      }
-    ],
-    "published_at": 1794123780,
-    "title_hu": "Eisenkot kapja a kormányalakítási megbízást, de a patthelyzet megmarad",
-    "lead_hu": "Jichák Hercog izraeli államfő vasárnap Gadi Eisenkotot bízza meg kormányalakítással, miután a kneszet 67 képviselője őt javasolta kormányfőnek. A választás után egyik politikai tömbnek sincs parlamenti többsége, az arab pártok támogatása pedig nem jelent biztos koalíciós támaszt.",
-    "content_hu": "• **Eisenkot kapja a megbízást** Jichák Hercog államfő vasárnap délután fogadja jeruzsálemi rezidenciáján, és hivatalosan ekkor bízza meg a kormányalakítással.\n\n• **A képviselők többsége őt javasolta** Az államfő pártokkal folytatott egyeztetésein a kneszet 67 tagja támogatta Eisenkot kormányfői megbízását.\n\n• **Nincs biztos parlamenti többség** Netanjahu tábora 53, az ellenzéki cionista blokk 48 mandátumot szerzett a 120 fős kneszetben; a két arab pártnak összesen 19 képviselője van.\n\n• **A Likud lett a legnagyobb párt** Netanjahu pártja 27 mandátumot szerzett, és tábora relatív többségben van, de a kormányzáshoz szükséges 61 képviselőt nem tudhatja maga mögött.\n\n• **Eisenkot nem számít az arab pártok koalíciós támogatására** Bár képviselőik támogatták a megbízását, a politikus korábban kizárta, hogy velük közösen alakítson kormányt.\n\n• **Nemzeti egységkormányt sürget** Eisenkot az X-en azt írta, eljött az ideje egy nemzeti egységkormány létrehozásának, és mindent megtesz azért, hogy megfeleljen az ország elvárásainak.\n\n• **Nehéz koalíciós tárgyalások várhatók** Eisenkot Jasar (Egyenesen) pártja 21 mandátummal a második helyen végzett. A kormányalakításra 28 nap áll rendelkezésére, amely további 14 nappal meghosszabbítható.\n\n• **Kudarc esetén másik jelölt próbálkozhat** Ha Eisenkot nem jár sikerrel, egy másik politikus kaphat lehetőséget, majd a parlament is jelölhet miniszterelnököt. Ha a nagyjából száz napos folyamat alatt senkinek sem sikerül kormányt alakítania, új választást kell tartani.\n\n• **A választás az október 7-i Hamász-támadás óta az első volt** A voksolás után az is kérdés, véget ér-e a kortárs izraeli politikát évtizedek óta meghatározó Netanjahu-korszak.\n\n• **Eisenkot lehetne Izrael első mizrahi származású miniszterelnöke** A 66 éves politikus marokkói bevándorlók gyermeke; a mizrahi közösség tagjainak családi gyökerei a Közel-Keletre és Észak-Afrikára vezethetők vissza.\n\n• **Bírálta a palesztinok elleni telepeserőszakot** Eisenkot korábban elítélte a ciszjordániai telepesek palesztinokkal szembeni erőszakos fellépését, ami élesen eltér Netanjahu szélsőjobboldali szövetségeseinek politikájától.\n\n• **Eisenkot korábban az izraeli hadsereg vezérkari főnöke volt** A nyugalmazott altábornagy 2015 és 2019 között vezette a hadsereget, 2022-ben lépett politikai pályára, saját Jasar pártját pedig 2025-ben alapította. A Hamász 2023. október 7-i támadása után rövid ideig Netanjahu háborús kabinetjének tagja volt.",
-    "importance_score": 68.0
   },
   {
     "group_id": "group_8f5059c6e0",
@@ -3673,10 +4177,9 @@
       }
     ],
     "published_at": 1794123180,
-    "title_hu": "A Google biztonsági ellenőrzést javasol a Gmail-felhasználóknak",
-    "lead_hu": "A Google arra kéri a Gmail-felhasználókat, hogy ellenőrizzék, milyen eszközök és külső alkalmazások férnek hozzá a fiókjukhoz. A biztonsági átvizsgálással az ismeretlen vagy már nem használt hozzáférések megszüntethetők.",
-    "content_hu": "• **Biztonsági ellenőrzés** A Google által javasolt Security Checkup segítségével áttekinthető, milyen eszközökön vannak bejelentkezve a Gmail-fiókba.\n\n• **Ismeretlen eszközök** A gyanús vagy már nem használt telefonokról, táblagépekről és számítógépekről távolról is kijelentkeztethető a fiók.\n\n• **Külső alkalmazások** A szükségtelenné vált programok hozzáférési jogosultságainak visszavonásával megakadályozható, hogy továbbra is elérjék a levelezőrendszert és a személyes adatokat.",
-    "importance_score": 23.0
+    "title_hu": "A Google gyors biztonsági ellenőrzést javasol a Gmail-felhasználóknak",
+    "lead_hu": "A Google arra kéri a Gmail használóit, hogy nézzék át, milyen eszközök és külső alkalmazások férnek hozzá a fiókjukhoz. A biztonsági ellenőrzéssel az ismeretlen vagy már nem használt hozzáférések megszüntethetők.",
+    "content_hu": "• **Eszközök áttekintése** A Google Biztonsági ellenőrzés megmutatja, mely telefonokon, táblagépeken és számítógépeken van bejelentkezve a Gmail-fiók.\n\n• **Ismeretlen hozzáférések megszüntetése** A felhasználók távolról kijelentkeztethetik azokat az eszközöket, amelyeket nem ismernek vagy már nem használnak.\n\n• **Külső alkalmazások jogosultságai** A már szükségtelen programok hozzáférésének visszavonásával megakadályozható, hogy továbbra is kapcsolatot tartsanak a levelezőrendszerrel és hozzáférjenek személyes adatokhoz."
   },
   {
     "group_id": "group_d6dcf19f47",
@@ -4476,18 +4979,13 @@
   },
   {
     "group_id": "group_8f2c013f5c",
-    "fingerprint": "c81c39b748247fb74139bdd677c2fefb",
+    "fingerprint": "38aa6a9dc95539f7e4ac2050b04b4e00",
     "category": "Politika",
-    "image": "",
+    "image": "https://kep.index.hu/1/0/7246/72468/724686/72468673_5340255_533937a3475bb91579d856bb317a15d0_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 3,
     "sources": [
-      {
-        "source": "444.hu",
-        "title": "Öt évre kitiltották az európai stadionokból a Mussolinit éltető Fradi-szurkolót",
-        "link": "https://444.hu/2026/11/07/ot-evre-kitiltottak-az-europai-stadionokbol-a-mussolinit-elteto-fradi-szurkolot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
       {
         "source": "Index - Címlap",
         "title": "Öt évre kitiltották a Mussolini-pólós Fradi-ultrát az EU stadionjaiból",
@@ -4506,9 +5004,8 @@
     ],
     "published_at": 1794117565,
     "title_hu": "Öt évre kitiltották az EU stadionjaiból a Mussolinit éltető Fradi-szurkolót",
-    "lead_hu": "Az olasz hatóságok azonosítottak egy 50 éves magyar szurkolót, aki Mussolinit ábrázoló pólót viselt a milánói Dóm téren, és öt évre kitiltották az olasz, illetve az uniós stadionokból. Kubatov Gábor elítélte a kirekesztő megnyilvánulásokat, Orbán Balázs viszont hazafiasnak nevezte a szurkolókat. Az olasz rendőrség a Dóm téren történt további jogsértések elkövetőit is keresi.",
-    "content_hu": "• **Ötéves stadiontilalom** A milánói rendőrfőkapitány öt évre elrendelte a Daspo-t az 50 éves magyar férfival szemben. Ezalatt Olaszországban és az Európai Unió többi tagállamában sem látogathat labdarúgó-mérkőzéseket rendező sportlétesítményeket.\n\n• **Eljárás indult a férfi ellen** A szurkolót a San Siro beléptetőkapuinál azonosították. Az olasz Mancino-törvény alapján feljelentették, Mussolinit ábrázoló pólóját lefoglalták; szabadlábon védekezhet. A rendőrség a Dóm téren történt további jogsértések résztvevőit is keresi.\n\n• **Szélsőjobboldali jelképek és rigmusok** A Dóm előtt Fradi-szurkolók „Meg kell védeni Európát!” feliratú drapériát feszítettek ki, és LMBTQ-ellenes molinót is vittek magukkal. A tömegből többen Mussolinit éltető rigmusokat skandáltak és karlendítéseket mutattak be.\n\n• **A csoport létszáma** Az Index beszámolója szerint a Mussolini-pólós férfi egy mintegy százfős szélsőjobboldali ultracsoporttal tartózkodott a Dóm téren.\n\n• **Kubatov elítélte a történteket** A Ferencváros elnöke szerint a Dóm előtt történtek „őszintén felháborítóak”, és ellentétesek a klub alapértékeivel. Azt mondta, 15 éve küzdenek a kirekesztés ellen, és a mérkőzés előtt több ezer e-mailben figyelmeztették a szurkolókat a szabályok betartására.\n\n• **Kubatov a résztvevők távolmaradását kérte** A klubelnök hangsúlyozta, hogy a kirekesztő megnyilvánulások akkor sem elfogadhatók, ha nem a stadionban történnek. Szerinte a történtek komoly kárt okoztak a Ferencvárosnak és elvették a győzelem egy részét a csapattól, ezért azt kérte a rigmusokat elindítóktól, hogy ne menjenek többé Fradi-meccsre. Hozzátette, hogy a szurkolók túlnyomó többsége méltó volt a klubhoz.\n\n• **Orbán Balázs méltatta a szurkolókat** A Fidesz európai parlamenti képviselője hazafiasnak nevezte a Milánóban megjelent Fradi-tábort, és azt írta, hogy büszkén, méltósággal érkeztek emlékeztetni Európát arra, hogy van mit megvédeni.\n\n• **A Fradi legyőzte az AC Milant** A Ferencváros 2-0-ra nyert idegenben az Európa-liga-mérkőzésen. A csapat a ligaszakasz első négy fordulójában mind a négy találkozóját megnyerte, 12 ponttal a 36 csapatos mezőny harmadik helyén állt.\n\n• **Több ezer magyar szurkoló érkezett Milánóba** A Telex szerint a Dóm téren mintegy négyezer fős, Magyarországról érkezett szurkolói csoport tartózkodott; a Mussolini-pólós férfit a rendőrök már délután észrevették a tömegben.\n\n• **A rendőrség felvételeket elemez** Az olasz hatóságok további nyomozást folytatnak, és felvételek elemzésével próbálják azonosítani a Dóm téren történt, büntetőjogi szempontból releváns cselekmények további elkövetőit.\n\n• **Kubatov szerint a klubot bárhol képviselik a szurkolók** A klubelnök úgy fogalmazott, hogy a Ferencváros színeit viselő drukkerek a világ bármely pontján a klubot képviselik, ezért az sem mentség, ha a kirekesztő megnyilvánulások nem a stadionban történnek. Azt is jelezte, hogy a kirekesztés elleni fellépésből akkor sem enged, ha emiatt kevesebben maradnak a lelátón.",
-    "importance_score": 43.0
+    "lead_hu": "Az olasz hatóságok azonosítottak és feljelentettek egy 50 éves magyar szurkolót, aki Mussolinit ábrázoló pólót viselt a milánói Dóm téren; a férfi öt évre szóló stadiontilalmat kapott. Kubatov Gábor elítélte a kirekesztő megnyilvánulásokat, Orbán Balázs viszont hazafiasnak nevezte a szurkolókat. Az olasz rendőrség a Dóm téren történt további jogsértések résztvevőit is keresi.",
+    "content_hu": "• **Ötéves stadiontilalom** A milánói rendőrfőkapitány öt évre elrendelte a Daspo-t az 50 éves magyar férfival szemben. Ezalatt Olaszországban és az Európai Unió többi tagállamában sem látogathat labdarúgó-mérkőzések idején sportlétesítményeket.\n\n• **A Daspo célja** A sportrendezvények látogatásától eltiltó intézkedést 1989-ben vezették be, elsősorban a stadionokban tapasztalható erőszak, különösen az ultrákhoz köthető erőszak visszaszorítására.\n\n• **Eljárás indult a férfi ellen** A szurkolót a San Siro beléptetőkapuinál, a belépők ellenőrzése közben azonosították és kísérték be a rendőrségre. Az olasz Mancino-törvény 2. cikke alapján feljelentették, Mussolinit ábrázoló pólóját lefoglalták; szabadlábon védekezhet.\n\n• **Szélsőjobboldali jelképek és rigmusok** A Dóm előtt Fradi-szurkolók „Meg kell védeni Európát!” feliratú drapériát feszítettek ki, és LMBTQ-ellenes molinót is vittek magukkal. A tömegből többen Mussolinit éltető rigmusokat skandáltak és karlendítéseket mutattak be.\n\n• **A csoport létszáma** Az Index beszámolója szerint a Mussolini-pólós férfi egy mintegy százfős szélsőjobboldali ultracsoporttal tartózkodott a Dóm téren. A Telex szerint a téren összesen mintegy négyezer, Magyarországról érkezett szurkoló gyűlt össze.\n\n• **Kubatov elítélte a történteket** A Ferencváros elnöke szerint a Dóm előtt történtek „őszintén felháborítóak”, és ellentétesek a klub alapértékeivel. Azt mondta, 15 éve küzdenek a kirekesztés ellen, és a mérkőzés előtt több ezer e-mailben figyelmeztették a szurkolókat a szabályok betartására, valamint arra, hogy tartózkodjanak a kirekesztő megnyilvánulásoktól.\n\n• **Kubatov a résztvevők távolmaradását kérte** A klubelnök hangsúlyozta, hogy a kirekesztő megnyilvánulások akkor sem elfogadhatók, ha nem a stadionban történnek, hiszen a Ferencváros színeit viselő drukkerek bárhol a világon a klubot képviselik. Szerinte a történtek komoly kárt okoztak a Ferencvárosnak, és elvették a győzelem egy részét a csapattól, ezért azt kérte a rigmusokat elindítóktól, hogy ne menjenek többé Fradi-meccsre. Hozzátette, hogy a kirekesztés elleni fellépésből akkor sem enged, ha emiatt kevesebben maradnak a lelátón.\n\n• **Orbán Balázs méltatta a szurkolókat** A Fidesz európai parlamenti képviselője hazafiasnak nevezte a Milánóban megjelent Fradi-tábort, és azt írta, hogy büszkén, méltósággal érkeztek emlékeztetni Európát arra, hogy van mit megvédeni.\n\n• **A Fradi legyőzte az AC Milant** A Ferencváros 2-0-ra nyert idegenben az Európa-liga-mérkőzésen. A csapat a ligaszakasz első négy fordulójában mind a négy találkozóját megnyerte, 12 ponttal a 36 csapatos mezőny harmadik helyén állt.\n\n• **A rendőrség felvételeket elemez** Az olasz hatóságok további nyomozást folytatnak, és felvételek elemzésével próbálják azonosítani a Dóm téren történt, büntetőjogi szempontból releváns cselekmények további elkövetőit."
   },
   {
     "group_id": "group_4d608effd0",
@@ -5260,24 +5757,6 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_53e796f72d",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Nyugdíjba megy a Tisza kampányautója, aminek platójáról Rovar úr többször eszét vesztve üvöltözött",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/nyugdijba-megy-a-tisza-kampanyautoja-aminek-platojarol-rovar-ur-tobbszor-eszet-vesztve-uvoltozott"
-      }
-    ],
-    "published_at": 1794096000,
-    "title_hu": "Nyugdíjba megy a Tisza kampányautója, aminek platójáról Rovar úr többször eszét vesztve üvöltözött",
-    "lead_hu": "A Ricsi nevű Ford Transitot Nagy Ervin a Közlekedési Múzeumnak ajánlja fel.",
-    "content_hu": "A Ricsi nevű Ford Transitot Nagy Ervin a Közlekedési Múzeumnak ajánlja fel."
-  },
-  {
     "group_id": "group_adc3adffcb",
     "category": "Politika",
     "image": "",
@@ -5755,24 +6234,6 @@
     "title_hu": "Nem hittek a szemüknek a repülőgép utasai: a folyosó közepén tolta le nadrágját egy részeg nő",
     "lead_hu": "Akár börtönbe is kerülhet az a brit nő, aki nemcsak részegen száll fel egy repülőgépre, de még nemi szervét is közszemlére tette. A vádirat szerint a nő először mosdóba akart menni felszállás közben, …",
     "content_hu": "Akár börtönbe is kerülhet az a brit nő, aki nemcsak részegen száll fel egy repülőgépre, de még nemi szervét is közszemlére tette. A vádirat szerint a nő először mosdóba akart menni felszállás közben, majd letolta nadrágját és alsóneműjét a gép folyosóján."
-  },
-  {
-    "group_id": "group_31c9c0a7bd",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "A lengyel belügyminiszter szerint a krakkói merénylő szélsőjobboldali nézeteket vallott",
-        "link": "https://444.hu/2026/11/07/a-lengyel-belugyminiszter-szerint-a-krakkoi-merenylo-szelsojobboldali-nezeteket-vallott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794081203,
-    "title_hu": "A lengyel belügyminiszter szerint a krakkói merénylő szélsőjobboldali nézeteket vallott",
-    "lead_hu": "Otthonról vihette magával az apja fegyvereit.",
-    "content_hu": "Otthonról vihette magával az apja fegyvereit."
   },
   {
     "group_id": "group_ce0fb4126d",
@@ -6744,18 +7205,11 @@
   },
   {
     "group_id": "group_a8e6ed457c",
-    "fingerprint": "a431baedded151f15b33def9c4f67ef4",
     "category": "Általános",
-    "image": "https://pcdn.hu/articles/images-lg/b/a/l/baleset-miatt-dugo-az-m3-ason-293831.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://kep.index.hu/1/0/6872/68724/687241/68724131_5072567_c7879cebf0cb0c2acd7d8503899146f4_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Baleset történt a Balatonnál: felborult egy jármű, kerülni kell az érintett útszakaszon",
-        "link": "https://www.portfolio.hu/gazdasag/20261107/baleset-tortent-a-balatonnal-felborult-egy-jarmu-kerulni-kell-az-erintett-utszakaszon-874902"
-      },
       {
         "source": "Index - Címlap",
         "title": "Tragédia Balatonújlaknál a 68-as főúton, közlekedési balesetben halt meg egy ember",
@@ -6763,10 +7217,9 @@
       }
     ],
     "published_at": 1794072840,
-    "title_hu": "Halálos baleset történt a 68-as főúton, Balatonújlak közelében",
-    "lead_hu": "Egy nő életét vesztette, miután egy furgon és egy személyautó összeütközött a 68-as főúton, Balatonújlak közelében. A baleset miatt az egyik jármű az árokba sodródott és felborult, az utat lezárták.",
-    "content_hu": "• **Egy ember meghalt:** A szombat délutáni karambolban egy nő olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.\n\n• **Hárman utaztak a járművekben:** A furgonban és a személyautóban összesen három ember volt; a marcali tűzoltók egy utast feszítővágó segítségével szabadítottak ki.\n\n• **Lezárták a 68-as főutat:** Az egyik jármű az árokba sodródott és az oldalára borult. A 93-as kilométerszelvénynél teljes szélességében lezárták az utat, kerülni Balatonkeresztúr felé lehetett.",
-    "importance_score": 25.0
+    "title_hu": "Tragédia Balatonújlaknál a 68-as főúton, közlekedési balesetben halt meg egy ember",
+    "lead_hu": "Furgon és személygépkocsi karambolozott.",
+    "content_hu": "Furgon és személygépkocsi karambolozott."
   },
   {
     "group_id": "group_2d3c002eec",
@@ -7966,7 +8419,8 @@
     "published_at": 1794063660,
     "title_hu": "Kínainak nem volt elég kínai, magyarnak sem magyar, de az ENSZ tárt karokkal várta",
     "lead_hu": "Kínai szülők gyerekeként született Budapesten Li Weirong, aki a generációk és kulturális különbségek áthidalására készített kommunikációs modellt.",
-    "content_hu": "Kínai szülők gyerekeként született Budapesten Li Weirong, aki a generációk és kulturális különbségek áthidalására készített kommunikációs modellt."
+    "content_hu": "Kínai szülők gyerekeként született Budapesten Li Weirong, aki a generációk és kulturális különbségek áthidalására készített kommunikációs modellt.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_6755e1ad34",
@@ -7984,7 +8438,8 @@
     "published_at": 1794063613,
     "title_hu": "„A nők szövetségi kapitánya végig fúrt a háttérből” – a külföldön sikeres tornaedző itthon nem bírt a közeggel",
     "lead_hu": "A brit és a svájci tornasportban elért sikerei után a hazai utánpótlásban szerette volna hasznosítani a tapasztalatait Jordanov Zoltán, ám azzal szembesült, hogy az edzőkollégák egy része szabotálja a…",
-    "content_hu": "A brit és a svájci tornasportban elért sikerei után a hazai utánpótlásban szerette volna hasznosítani a tapasztalatait Jordanov Zoltán, ám azzal szembesült, hogy az edzőkollégák egy része szabotálja a közös munkát. Jordanov úgy véli, a női szövetségi kapitány hangolta ellene a többi edzőt. The post „A nők szövetségi kapitánya végig fúrt a háttérből” – a külföldön sikeres tornaedző itthon nem bírt a közeggel first appeared on 24.hu."
+    "content_hu": "A brit és a svájci tornasportban elért sikerei után a hazai utánpótlásban szerette volna hasznosítani a tapasztalatait Jordanov Zoltán, ám azzal szembesült, hogy az edzőkollégák egy része szabotálja a közös munkát. Jordanov úgy véli, a női szövetségi kapitány hangolta ellene a többi edzőt. The post „A nők szövetségi kapitánya végig fúrt a háttérből” – a külföldön sikeres tornaedző itthon nem bírt a közeggel first appeared on 24.hu.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_ed029e5572",
@@ -8002,7 +8457,8 @@
     "published_at": 1794063600,
     "title_hu": "Szépsége és bársonyos hangja generációkat varázsolt el, most a zenei halhatatlanok közé kerül",
     "lead_hu": "Sade-et és zenekarát november 14-én iktatják be a Rock and Roll Hírességek Csarnokába, olyan előadók társaságában, mint Phil Collins, Billy Idol és az Iron Maiden.",
-    "content_hu": "Sade-et és zenekarát november 14-én iktatják be a Rock and Roll Hírességek Csarnokába, olyan előadók társaságában, mint Phil Collins, Billy Idol és az Iron Maiden."
+    "content_hu": "Sade-et és zenekarát november 14-én iktatják be a Rock and Roll Hírességek Csarnokába, olyan előadók társaságában, mint Phil Collins, Billy Idol és az Iron Maiden.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_5f6f7e6b0c",
@@ -8020,7 +8476,8 @@
     "published_at": 1794063600,
     "title_hu": "Lewis Hamilton Kim Kardashiannal versenyez: esélye sincs a Forma-1-es sztárnak",
     "lead_hu": "Ezen a téren verhetetlen az amerikai valóságshow-sztár.",
-    "content_hu": "Ezen a téren verhetetlen az amerikai valóságshow-sztár."
+    "content_hu": "Ezen a téren verhetetlen az amerikai valóságshow-sztár.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_736174d6dc",
