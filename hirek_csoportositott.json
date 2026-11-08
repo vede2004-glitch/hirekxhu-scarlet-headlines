@@ -41,49 +41,6 @@
     ]
   },
   {
-    "group_id": "group_6dad89178a",
-    "category": "Gazdaság",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Drónok jelenhetnek meg a MÁV területei fölött – fokozott védelmet jelentett be a vezérigazgató",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/dron-mav-uzemi-terulet-vedelem?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/acJLQTHQwXR9_83k6IKRnQw_XjmAkbJriIz-EfQXwQo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU3ZjdjMWY2NTM5YTRkYjlhMDRlOWJiODY0YTlhM2I2.jpg",
-        "summary": "Okosdrónokkal is védi a vasúti területeket a MÁV, a mesterséges intelligencia is segít a betolakodók felismerésében",
-        "category": "Gazdaság",
-        "published_at": 1794040056
-      },
-      {
-        "source": "ATV",
-        "title": "Okosdrónokat vet be a MÁV, mesterséges intelligencia segít kiszúrni az illetéktelen behatolókat",
-        "link": "https://www.atv.hu/belfold/20261107/dron-mav-mesterseges-intelligencia/",
-        "image": "",
-        "summary": "Mesterséges intelligenciával támogatott drónokkal ellenőrzi majd hatalmas kiterjedésű üzemi területeit a MÁV az év végétől.",
-        "category": "Általános",
-        "published_at": 1794046260
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Hamarosan okos drónokkal őrzi a MÁV az üzemi területeket",
-        "link": "https://hvg.hu/gazdasag/20261107_mav-vasuti-uzemi-teruletek-okos-dron-orzes",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7e823c7d-944f-431b-819d-971418a58482.jpg",
-        "summary": "Az elmúlt években több halálos áramütés lett abból, hogy felmásztak a vagonok tetejére, a magyar fejlesztésű AI eszközzel ezt akadályoznák meg.",
-        "category": "Gazdaság",
-        "published_at": 1794049649
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Bejelentést tett a MÁV: drónok jelenhetnek meg a területei felett",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/bejelentest-tett-a-mav-dronok-jelenhetnek-meg-a-teruletei-felett",
-        "image": "",
-        "summary": "Év végétől mesterséges intelligenciával támogatott drónokat állítanak szolgálatba a nagyobb vasúti üzemi területek védelmére és a balesetek megelőzésére.",
-        "category": "Politika",
-        "published_at": 1794077580
-      }
-    ]
-  },
-  {
     "group_id": "group_924acb8da6",
     "category": "Kultúra",
     "articles_count": 1,
@@ -1380,6 +1337,40 @@
         "summary": "Ügynökügyi ügyifogyi. Lázárnak számlázni. Mándoki Leányfalun. Kelemen Hunor regényes gyermekkora – saját bevallása szerint. Winkler George Michaelről álmodik. Uj Péter ügyintéz. Bede Márton életvezetési tanácsokat ad az ügyintézéshez.",
         "category": "Politika",
         "published_at": 1794046189
+      }
+    ]
+  },
+  {
+    "group_id": "group_6dad89178a",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Okosdrónokat vet be a MÁV, mesterséges intelligencia segít kiszúrni az illetéktelen behatolókat",
+        "link": "https://www.atv.hu/belfold/20261107/dron-mav-mesterseges-intelligencia/",
+        "image": "",
+        "summary": "Mesterséges intelligenciával támogatott drónokkal ellenőrzi majd hatalmas kiterjedésű üzemi területeit a MÁV az év végétől.",
+        "category": "Általános",
+        "published_at": 1794046260
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Hamarosan okos drónokkal őrzi a MÁV az üzemi területeket",
+        "link": "https://hvg.hu/gazdasag/20261107_mav-vasuti-uzemi-teruletek-okos-dron-orzes",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7e823c7d-944f-431b-819d-971418a58482.jpg",
+        "summary": "Az elmúlt években több halálos áramütés lett abból, hogy felmásztak a vagonok tetejére, a magyar fejlesztésű AI eszközzel ezt akadályoznák meg.",
+        "category": "Gazdaság",
+        "published_at": 1794049649
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Bejelentést tett a MÁV: drónok jelenhetnek meg a területei felett",
+        "link": "https://www.vadhajtasok.hu/2026/11/07/bejelentest-tett-a-mav-dronok-jelenhetnek-meg-a-teruletei-felett",
+        "image": "",
+        "summary": "Év végétől mesterséges intelligenciával támogatott drónokat állítanak szolgálatba a nagyobb vasúti üzemi területek védelmére és a balesetek megelőzésére.",
+        "category": "Politika",
+        "published_at": 1794077580
       }
     ]
   },
@@ -7376,7 +7367,7 @@
   {
     "group_id": "group_8e865a5751",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -7386,6 +7377,15 @@
         "summary": "Videók is készültek a vadkanról. The post Kutyafuttató és játszótér közelében portyázik egy vaddisznó a pesti Duna-parton first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794119160
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Vaddisznó kószál a pesti Duna-parton, egy kutyafuttató és játszótér közelében is felbukkant",
+        "link": "https://index.hu/belfold/2026/11/08/budapest-marina-part-vaddiszno-kiloves-foldvari-attila-orszagos-magyar-vadaszkamara-xiii-kerulet-rendorseg/",
+        "image": "",
+        "summary": "Több szemtanú először kutyának vagy medvének nézte az állatot.",
+        "category": "Általános",
+        "published_at": 1794126420
       }
     ]
   },
@@ -8270,6 +8270,22 @@
         "summary": "Kovács István, vagy ahogyan sokan ismerik, Kovi alatt már 200 kilónál is többet mutatott a mérleg, amikor rájött, hogy változtatnia kell életvitelén.",
         "category": "Bulvár",
         "published_at": 1794126000
+      }
+    ]
+  },
+  {
+    "group_id": "group_b25e9c13ce",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megvannak a 2026-os X-Faktor élő show-s versenyzői",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/08/x-faktor-2026-elo-show-versenyzok/",
+        "image": "https://kep.index.hu/1/0/7247/72472/724722/72472251_55c789cfd55253f0a93f117067f64c4c_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1794126372
       }
     ]
   }
