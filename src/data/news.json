@@ -1011,32 +1011,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_03a00e718a",
-    "fingerprint": "a20b5e43cf493ff091788f99abec3334",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/6988/69886/698866/69886683_5156349_a68d6710e1da1f9ca76fa8025ba46bcc_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megszűnhet Balaton környékén a torlódás, új bekötőutat jelentett be Vitézy Dávid",
-        "link": "https://index.hu/belfold/2026/11/08/vitezy-david-kozlekedes-miniszter-fejlesztes-balaton-keszthely-bekotout/"
-      },
-      {
-        "source": "ATV",
-        "title": "Nagy bejelentéssel kezdte a napot Vitézy Dávid, komoly fejlesztések indulhatnak a Balatonnál",
-        "link": "https://www.atv.hu/belfold/20261108/vitezy-david-keszthely-balaton/"
-      }
-    ],
-    "published_at": 1794139980,
-    "title_hu": "Új bekötőút és kerékpáros fejlesztések tervei indulnak a Balaton nyugati medencéjében",
-    "lead_hu": "Vitézy Dávid közlekedési és beruházási miniszter bejelentette, hogy megkezdik egy mintegy hét kilométeres, Keszthely megközelítését javító út tervezését. Emellett három kerékpáros kapcsolat és a 76-os főút egy szakaszának felújítását is előkészítik.",
-    "content_hu": "• **Új bekötőút tervezése** Megkezdik egy mintegy hét kilométeres, kétszer egysávos út tervezését, amely az M76-os jelenlegi végcsomópontját kötné össze a 75-ös főúttal.\n\n• **Torlódások enyhítése** Az új kapcsolat gyorsabb és biztonságosabb eljutást tehet lehetővé Keszthely felé, és tehermentesítheti a 71-es főút fenékpusztai szakaszát.\n\n• **További fejlesztések** Előkészítik a 76-os főút Fenékpuszta és a Sármellék csomópont közötti szakaszának felújítását, valamint három kerékpáros kapcsolat tervezését. Az M76-os bekötésénél a Kis-Balaton védelmét is figyelembe veszik.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_bd27b514e5",
     "fingerprint": "30506b9bfc90a5ba2aadcfa227b2af48",
     "category": "Politika",
@@ -1264,6 +1238,32 @@
     "lead_hu": "A 2026. november 7-i, 45. heti ötöslottó-sorsoláson a 19, 21, 42, 75 és 76 számokat húzták ki. Telitalálat ezúttal sem született, így jövő héten várhatóan 460 millió forint lesz a főnyeremény.",
     "content_hu": "• **A nyerőszámok:** 19, 21, 42, 75 és 76 voltak a 45. heti sorsolás kihúzott számai.\n\n• **Nem volt telitalálat:** A 320 millió forintos főnyereményt senki sem vitte el, ezért a következő heti várható nyeremény 460 millió forintra emelkedik.\n\n• **A Joker-sorsoláson sem volt telitalálat:** A Joker nyerőszámai 5, 2, 0, 0, 6 és 3 voltak; a következő héten 110 millió forint lesz a tét.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_03a00e718a",
+    "fingerprint": "a20b5e43cf493ff091788f99abec3334",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/6988/69886/698866/69886683_5156349_a68d6710e1da1f9ca76fa8025ba46bcc_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megszűnhet Balaton környékén a torlódás, új bekötőutat jelentett be Vitézy Dávid",
+        "link": "https://index.hu/belfold/2026/11/08/vitezy-david-kozlekedes-miniszter-fejlesztes-balaton-keszthely-bekotout/"
+      },
+      {
+        "source": "ATV",
+        "title": "Nagy bejelentéssel kezdte a napot Vitézy Dávid, komoly fejlesztések indulhatnak a Balatonnál",
+        "link": "https://www.atv.hu/belfold/20261108/vitezy-david-keszthely-balaton/"
+      }
+    ],
+    "published_at": 1794139980,
+    "title_hu": "Új bekötőút és kerékpáros fejlesztések tervei indulnak a Balaton nyugati medencéjében",
+    "lead_hu": "Vitézy Dávid közlekedési és beruházási miniszter bejelentette, hogy megkezdik egy mintegy hét kilométeres, Keszthely megközelítését javító út tervezését. Emellett három kerékpáros kapcsolat és a 76-os főút egy szakaszának felújítását is előkészítik.",
+    "content_hu": "• **Új bekötőút tervezése** Megkezdik egy mintegy hét kilométeres, kétszer egysávos út tervezését, amely az M76-os jelenlegi végcsomópontját kötné össze a 75-ös főúttal.\n\n• **Torlódások enyhítése** Az új kapcsolat gyorsabb és biztonságosabb eljutást tehet lehetővé Keszthely felé, és tehermentesítheti a 71-es főút fenékpusztai szakaszát.\n\n• **További fejlesztések** Előkészítik a 76-os főút Fenékpuszta és a Sármellék csomópont közötti szakaszának felújítását, valamint három kerékpáros kapcsolat tervezését. Az M76-os bekötésénél a Kis-Balaton védelmét is figyelembe veszik.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_c508ab56fe",
@@ -1794,6 +1794,25 @@
     "title_hu": "Egy rövid ideig a palesztin zászló lobogott a német szövetségi parlament előtt",
     "lead_hu": "Az akciót végrehajtó férfiakat a rendőrök előállították, a palesztin zászlót pedig eltávolították....",
     "content_hu": "Az akciót végrehajtó férfiakat a rendőrök előállították, a palesztin zászlót pedig eltávolították.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_304ede9c63",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Vomberg Frigyes az Ázsia Expresszről: „Azóta a pszichiátriára járok”",
+        "link": "https://nlc.hu/sztarok/20261108/vomberg-frigyes-velemeny-azsia-expressz/mw3sp60"
+      }
+    ],
+    "published_at": 1794150420,
+    "title_hu": "Vomberg Frigyes az Ázsia Expresszről: „Azóta a pszichiátriára járok”",
+    "lead_hu": "Vomberg Frigyes meglepő vallomással rukkolt elő az Ázsia Expressz után a TV2 stúdiójában. Kiderült, a séf életére még ma is kihat a kaland-reality-ben való szereplése. The post Vomberg Frigyes az Ázsi...",
+    "content_hu": "Vomberg Frigyes meglepő vallomással rukkolt elő az Ázsia Expressz után a TV2 stúdiójában. Kiderült, a séf életére még ma is kihat a kaland-reality-ben való szereplése. The post Vomberg Frigyes az Ázsia Expresszről: „Azóta a pszichiátriára járok” first appeared on nlc.",
     "importance_score": 0.0
   },
   {
@@ -8656,60 +8675,22 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_8dfc07ad51",
-    "category": "Politika",
+    "group_id": "group_ea8288ed74",
+    "category": "Általános",
     "image": "",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
-        "source": "444.hu",
-        "title": "Lekerült Kovács Katalin neve a sukorói Kajak-Kenu Akadémiáról",
-        "link": "https://444.hu/2026/11/07/lekerult-kovacs-katalin-neve-a-sukoroi-kajak-kenu-akademiarol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        "source": "ATV",
+        "title": "Órákon belül leáll a BudapestGO több funkciója, jegyet sem lehet majd vásárolni a karbantartás idején",
+        "link": "https://www.atv.hu/belfold/20261107/budapestgo-karbantartas-jegy/"
       }
     ],
-    "published_at": 1794064456,
-    "title_hu": "Lekerült Kovács Katalin neve a sukorói Kajak-Kenu Akadémiáról",
-    "lead_hu": "Ezután a bérleti díjat is beszdi az állam. A létesítmény Velencei-tavi Olimpiai és Paralimpiai Központ néven működne tovább.",
-    "content_hu": "Ezután a bérleti díjat is beszdi az állam. A létesítmény Velencei-tavi Olimpiai és Paralimpiai Központ néven működne tovább.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_fa912fa5ad",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2256565460-812526.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Megszólalt a fideszes polgármester a Tisza-kormány költségvetéséről: egymilliárd forintot spórolhatnak egyetlen lépésen",
-        "link": "https://www.portfolio.hu/gazdasag/20261107/megszolalt-a-fideszes-polgarmester-a-tisza-kormany-koltsegveteserol-egymilliard-forintot-sporolhatnak-egyetlen-lepesen-874906"
-      }
-    ],
-    "published_at": 1794064440,
-    "title_hu": "Megszólalt a fideszes polgármester a Tisza-kormány költségvetéséről: egymilliárd forintot spórolhatnak egyetlen lépésen",
-    "lead_hu": "A benyújtott 2027-es központi költségvetési javaslat egyes elemei enyhíthetik Kecskemét pénzügyi terheit, de továbbra is szoros gazdálkodásra kell készülni - közölte a megyei jogú város polgármestere …",
-    "content_hu": "A benyújtott 2027-es központi költségvetési javaslat egyes elemei enyhíthetik Kecskemét pénzügyi terheit, de továbbra is szoros gazdálkodásra kell készülni - közölte a megyei jogú város polgármestere az MTI-vel.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_eb96ddce98",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Ukrán ellenállónak követelnek szobrot Budapestre Zelenszkijék",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/ukran-ellenallonak-kovetelnek-szobrot-budapestre-zelenszkijek"
-      }
-    ],
-    "published_at": 1794064260,
-    "title_hu": "Ukrán ellenállónak követelnek szobrot Budapestre Zelenszkijék",
-    "lead_hu": "Vaszil Sztusz ukrán költőnek és szovjetellenes ellenállónak a szobrát szeretnék látni az ukránok Budapesten azt követően, hogy ők Kijevben felállították Nagy Imre egykori magyar miniszterelnök mellszo…",
-    "content_hu": "Vaszil Sztusz ukrán költőnek és szovjetellenes ellenállónak a szobrát szeretnék látni az ukránok Budapesten azt követően, hogy ők Kijevben felállították Nagy Imre egykori magyar miniszterelnök mellszobrát az elhíresült Ceber Roland Ivanovics javaslat...",
+    "published_at": 1794064560,
+    "title_hu": "Órákon belül leáll a BudapestGO több funkciója, jegyet sem lehet majd vásárolni a karbantartás idején",
+    "lead_hu": "Karbantartás miatt órákra leáll a BudapestGO....",
+    "content_hu": "Karbantartás miatt órákra leáll a BudapestGO.",
     "importance_score": 0.0
   },
   {
