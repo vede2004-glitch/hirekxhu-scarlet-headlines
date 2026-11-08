@@ -1269,30 +1269,6 @@
     "importance_score": 25.0
   },
   {
-    "group_id": "group_5f232bd03a",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Ez egy \"pancserkormány\" - Németh Balázs lesújtó listát közölt",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/ez-egy-pancserkormany-nemeth-balazs-lesujto-listat-kozolt"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Tiszás ügynökbotrány: Magyar Péternek hirtelen nem fűlik a foga a parlamenti abszolút filmszínházhoz, inkább megúszná a balhét",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/magyar-peter-miniszterelnok-tisza-parlament-ugynokakta?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794040920,
-    "title_hu": "Ez egy \"pancserkormány\" - Németh Balázs lesújtó listát közölt",
-    "lead_hu": "\"Az alkalmatlanságot agresszióval, önkénnyel, filmszínházzal próbálja leplezni Magyar Péter\" - összegezte Rovar úrék eddigi teljesítményét a fideszes képviselő.",
-    "content_hu": "\"Az alkalmatlanságot agresszióval, önkénnyel, filmszínházzal próbálja leplezni Magyar Péter\" - összegezte Rovar úrék eddigi teljesítményét a fideszes képviselő.",
-    "importance_score": 25.0
-  },
-  {
     "group_id": "group_a5e75be310",
     "fingerprint": "900e0629bfa7d15def0f0071af156d76",
     "category": "Általános",
@@ -1779,6 +1755,44 @@
     "lead_hu": "Azonnali hatállyal megszüntették dr. Főző Virág munkaviszonyát a Magyar Állami Operaháznál, Ókovács Szilveszter perrel és kemény szavakkal üzent.",
     "content_hu": "Azonnali hatállyal megszüntették dr. Főző Virág munkaviszonyát a Magyar Állami Operaháznál, Ókovács Szilveszter perrel és kemény szavakkal üzent.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_2a983f188e",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Izraeli katonák öltek meg egy terroristát, egy másikat őrizetbe vettek Ciszjordániában",
+        "link": "https://www.atv.hu/kulfold/20261108/izrael-terrorista-katona/"
+      }
+    ],
+    "published_at": 1794127140,
+    "title_hu": "Izraeli katonák öltek meg egy terroristát, egy másikat őrizetbe vettek Ciszjordániában",
+    "lead_hu": "Egy terroristát megöltek, egy másikat pedig őrizetbe vettek az izraeli hadsereg katonái egy éjszakai művelet során a ciszjordániai Kalkíliában – közölte vasárnap az Izraeli Védelmi Erők (IDF)....",
+    "content_hu": "Egy terroristát megöltek, egy másikat pedig őrizetbe vettek az izraeli hadsereg katonái egy éjszakai művelet során a ciszjordániai Kalkíliában – közölte vasárnap az Izraeli Védelmi Erők (IDF).",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_38ef616659",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794126654-temp-7dcrsqeoq79jeghfjnn_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Vitézy bejelentette, hogy Zalaegerszeg nem kap Sármellék felől közvetlen gyorsforgalmi kapcsolatot az M7-essel",
+        "link": "https://telex.hu/belfold/2026/11/08/nem-epitik-tovabb-m76-gyorsforgalmi-ut-zalaegerszeg-m7-vitezy-david"
+      }
+    ],
+    "published_at": 1794127030,
+    "title_hu": "Vitézy bejelentette, hogy Zalaegerszeg nem kap Sármellék felől közvetlen gyorsforgalmi kapcsolatot az M7-essel",
+    "lead_hu": "A Kis-Balaton védelmére hivatkozva nem építik tovább az M76-ost, a félbehagyott szakaszt egy új úttal kötnék össze a 760-as főúttal....",
+    "content_hu": "A Kis-Balaton védelmére hivatkozva nem építik tovább az M76-ost, a félbehagyott szakaszt egy új úttal kötnék össze a 760-as főúttal.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_cf8ed969ae",
@@ -9093,82 +9107,6 @@
     "title_hu": "Tüdőrákműtétje után megszólalt XIV. Leó pápa",
     "lead_hu": "Többek közt azt üzente, „ne féljetek!”",
     "content_hu": "Többek közt azt üzente, „ne féljetek!”",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b9c03ff3b4",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7246/72463/724633/72463365_5339855_b21752dfef7634ae2e676e00cfcc71d6_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Ezer napja adott interjút Magyar Péter a Partizánban, szerinte azóta történelem íródott",
-        "link": "https://index.hu/belfold/2026/11/07/magyar-peter-partizan-kegyelmi-ugy-kegyelmi-botrany-tisza-part/"
-      }
-    ],
-    "published_at": 1794040740,
-    "title_hu": "Ezer napja adott interjút Magyar Péter a Partizánban, szerinte azóta történelem íródott",
-    "lead_hu": "A kegyelmi botrány kirobbanásakor jelent meg a stúdióban.",
-    "content_hu": "A kegyelmi botrány kirobbanásakor jelent meg a stúdióban.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_00360e33bf",
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/Blhqjhucfng",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Felmentette Rétvári Bencét a miniszterelnök",
-        "link": "https://www.atv.hu/belfold/20261107/retvari-bence-efop-unio/"
-      }
-    ],
-    "published_at": 1794040740,
-    "title_hu": "Felmentette Rétvári Bencét a miniszterelnök",
-    "lead_hu": "Felmentette Rétvári Bencét az Emberi Erőforrás Fejlesztési Operatív Program (EFOP), valamint az Emberi Erőforrás Fejlesztési Operatív Program Plusz (EFOP Plusz) monitoring bizottságának elnöki tisztsé…",
-    "content_hu": "Felmentette Rétvári Bencét az Emberi Erőforrás Fejlesztési Operatív Program (EFOP), valamint az Emberi Erőforrás Fejlesztési Operatív Program Plusz (EFOP Plusz) monitoring bizottságának elnöki tisztségéből Magyar Péter.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_33137b1c3e",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6826/68267/682671/68267111_5039653_be2acb2d71e0e7d124445fb4c796b80b_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Beton.Hofi és Zara Larsson is felkerült a margitszigeti szökőkút 2027-es lejátszási listájára",
-        "link": "https://index.hu/fomo/2026/11/07/margitsziget-zenelo-szokokut-lejatszasi-lista-kozonsegszavazas-beton.hofi-zara-larsson/"
-      }
-    ],
-    "published_at": 1794040620,
-    "title_hu": "Beton.Hofi és Zara Larsson is felkerült a margitszigeti szökőkút 2027-es lejátszási listájára",
-    "lead_hu": "A nemzetközi előadók mellett szól majd Azahriah és a Carson Coma is.",
-    "content_hu": "A nemzetközi előadók mellett szól majd Azahriah és a Carson Coma is.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f2626ae1b0",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Palik László bevallotta: „Nem tudom, hogy kell gyereket nevelni”",
-        "link": "https://nlc.hu/sztarok/20261107/palik-laszlo-nem-tudja-hogy-kell-gyereket-nevelni/0p9mm5m"
-      }
-    ],
-    "published_at": 1794040620,
-    "title_hu": "Palik László bevallotta: „Nem tudom, hogy kell gyereket nevelni”",
-    "lead_hu": "Palik László három gyermekére a világon a legbüszkébb, és bár úgy érzi, szülőként sok mindenre lehetnek büszkék Marsi Anikóval, egy dolgot egészen biztosan nem állít magáról: hogy tudja, hogyan kell g…",
-    "content_hu": "Palik László három gyermekére a világon a legbüszkébb, és bár úgy érzi, szülőként sok mindenre lehetnek büszkék Marsi Anikóval, egy dolgot egészen biztosan nem állít magáról: hogy tudja, hogyan kell gyereket nevelni. The post Palik László bevallotta: „Nem tudom, hogy kell gyereket nevelni” first appeared on nlc.",
     "importance_score": 0.0
   },
   {
