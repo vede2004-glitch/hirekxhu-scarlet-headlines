@@ -1813,30 +1813,61 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_e6040869bf",
-    "fingerprint": "c357abe120a6431ac85e9ab93675dd3a",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/hzEdzJAdhFkMGAZNgNe0A3Jun8n-GZumy7plJXhQZXM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE4NzYzZmQ5MTY2NzQwNmVhMzU1ZDBhYjk3ZmRlZmY5.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "group_id": "group_9b81a82c82",
+    "category": "Kultúra",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b102829f-279d-448f-ace4-658716bb68e7.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "Magyar Nemzet",
-        "title": "Földi László: A politika cirkuszt akart, nem a múlt valódi feltárását",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/foldi-laszlo-a-politika-cirkuszt-akart-nem-a-mult-valodi-feltarasat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Földi László: A politika cirkuszt akart, nem a múlt valódi feltárását",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/foldi-laszlo-a-politika-cirkuszt-akart-nem-a-mult-valodi-feltarasat"
+        "source": "HVG - Tudomány & Tech",
+        "title": "Rendben van az ingyen Photoshop és Word? Egyre több program esik le az AI-kamionról",
+        "link": "https://hvg.hu/360/20261108_hvg-ai-klonozott-szoftverek-szabadalom-szerzoi-jog-artcraft"
       }
     ],
-    "published_at": 1794038438,
-    "title_hu": "Földi László szerint politikai cirkusz lett az állambiztonsági akták nyilvánosságra hozatalából",
-    "lead_hu": "Földi László a Hír TV műsorában bírálta az állambiztonsági iratok nyilvánosságra hozatalának módját, mert szerinte az ellenőrizetlen adatok téves megbélyegzéshez és társadalmi konfliktusokhoz vezethetnek. A nemzetbiztonsági szakértő a történeti feltárás mellett az adatok védelmének és a politikai felelősségnek a jelentőségét is hangsúlyozta.",
-    "content_hu": "• **Téves következtetések veszélye** Földi szerint egy név adatbázisbeli szereplése önmagában nem bizonyít együttműködést; a hiányos iratok és az összekeverhető kategóriák miatt téves megítélés alakulhat ki.\n\n• **Hiányos nyilvántartások** A műsorban elhangzott levéltári becslés szerint mintegy 160 ezer ember kapcsolódhatott az állambiztonsági hálózathoz; a nyilvánosságra hozott anyagban körülbelül 60 ezer hatos karton szerepel, és öt mágnesszalag maradt fenn.\n\n• **Nemzetbiztonsági aggályok** Földi arra figyelmeztetett, hogy az érzékeny információk közzététele a titkosszolgálatokba vetett bizalmat és a nemzetközi együttműködéseket is érintheti.\n\n• **Felelősség és ellenőrzés** A szakértő szerint, ha ellenőrizetlen adatok kerültek nyilvánosságra, a levéltár vezetőjének le kell mondania; a döntés politikai felelősségét pedig kormányzati mérlegeléshez kötötte.",
-    "importance_score": 20.0
+    "published_at": 1794124800,
+    "title_hu": "Rendben van az ingyen Photoshop és Word? Egyre több program esik le az AI-kamionról",
+    "lead_hu": "Derült égből villámcsapásként érte a szoftverpiacot, hogy az elmúlt hetekben sorra jelentek meg közismert programok mesterséges intelligenciával újraalkotott, fejlesztőik által szabadon használhatónak...",
+    "content_hu": "Derült égből villámcsapásként érte a szoftverpiacot, hogy az elmúlt hetekben sorra jelentek meg közismert programok mesterséges intelligenciával újraalkotott, fejlesztőik által szabadon használhatónak mondott alternatívái.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_e1328b214f",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/10/gvk8A5okBdeGHV6pb-XXNsVYqZSC5n9Erbhmwe25fOo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZjN2FlMjIzNTU1NjQwYjNhM2ViY2E1M2U0NDMzZjQ1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Halálos betegséget idézett elő az influenza egy fiatal nőnél - mindössze 25 évesen életét vesztette",
+        "link": "https://borsonline.origo.hu/igaz-tortenetek/2026/11/influenza-fiatal-nonel-halalos-betegseget-idezett-elo"
+      }
+    ],
+    "published_at": 1794124800,
+    "title_hu": "Halálos betegséget idézett elő az influenza egy fiatal nőnél - mindössze 25 évesen életét vesztette",
+    "lead_hu": "Egy meglehetősen ritka betegségre próbálja felhívni a figyelmet egy gyászoló család, akik 25 éves lányukat váratlanul elvesztették. A fiatal nő egy hónappal egy átlagos influenza után hunyt el, mint u...",
+    "content_hu": "Egy meglehetősen ritka betegségre próbálja felhívni a figyelmet egy gyászoló család, akik 25 éves lányukat váratlanul elvesztették. A fiatal nő egy hónappal egy átlagos influenza után hunyt el, mint utóbb kiderült, a vírus egy halálos betegséget idézett elő.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_facc69d202",
+    "category": "Általános",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/72b2b9ba-651d-4c6f-aca0-a812f17b2c93.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Aknára futott és lángokban áll két újabb tanker hajó a Hormuzi-szorosban Teherán szerint",
+        "link": "https://hvg.hu/vilag/20261108_aknara-futott-es-langokban-all-ket-ujabb-tanker-hajo-a-hormuzi-szorosban-teheran-szerint"
+      }
+    ],
+    "published_at": 1794124716,
+    "title_hu": "Aknára futott és lángokban áll két újabb tanker hajó a Hormuzi-szorosban Teherán szerint",
+    "lead_hu": "Újabb két olajszállító hajó áll lángokban a Hormuzi-szorosban azt követően, hogy Teherán által nem engedélyezett útvonalakon haladva aknára futottak – közölte vasárnap az iráni állami hírügynökség, az...",
+    "content_hu": "Újabb két olajszállító hajó áll lángokban a Hormuzi-szorosban azt követően, hogy Teherán által nem engedélyezett útvonalakon haladva aknára futottak – közölte vasárnap az iráni állami hírügynökség, az IRNA. Washington azt állítja, nagyrészt megtisztították az övezetet az aknáktól.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_b3f9fab874",
@@ -9113,44 +9144,6 @@
     "title_hu": "Trump megharcol Amerikáért: keményvonalas vezető a Fehér Házban",
     "lead_hu": "A megerősödött demokraták kemény ellenféllel találják magukat szemben.",
     "content_hu": "A megerősödött demokraták kemény ellenféllel találják magukat szemben.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_1b6791387f",
-    "category": "Bulvár",
-    "image": "https://cdn.borsonline.hu/2026/11/BfSfZGyNwT9RKwM3S4KOWxg9sbi0SrGRt6xfHJ2UTxQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MzZDYyNjIwZWRlNTQ4OWZiNTU3OTdmZmYxNWE2OTk4.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Vilmos herceg a trónra készíti fel fiát, György herceget? Kitálalt a szakértő",
-        "link": "https://borsonline.origo.hu/kiralyi-csalad/2026/11/vilmos-herceg-a-tronra-kesziti-fel-fiat-gyorgy-herceget"
-      }
-    ],
-    "published_at": 1794038400,
-    "title_hu": "Vilmos herceg a trónra készíti fel fiát, György herceget? Kitálalt a szakértő",
-    "lead_hu": "Vilmos herceg és fia, György herceg élőben nézték az Aston Villa-Barcelona meccset. Azonban a szakértők szerint ez nemcsak egy apa-fia program volt, hanem a fiatal herceg felkészítése a jövőbeli nyilv…",
-    "content_hu": "Vilmos herceg és fia, György herceg élőben nézték az Aston Villa-Barcelona meccset. Azonban a szakértők szerint ez nemcsak egy apa-fia program volt, hanem a fiatal herceg felkészítése a jövőbeli nyilvános feladatokra.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c47be3b398",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Katonai létesítményben őrzik a hozzá köthető nagybank összeomlásába belebukott paraguayi elnököt",
-        "link": "https://444.hu/2026/11/07/katonai-letesitmenyben-orzik-a-hozza-kotheto-nagybank-osszeomlasaba-belebukott-paraguayi-elnokot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794038310,
-    "title_hu": "Katonai létesítményben őrzik a hozzá köthető nagybank összeomlásába belebukott paraguayi elnököt",
-    "lead_hu": "Az ország főügyésze három büntetőeljárást is indított a volt elnök és más, a bankválsághoz köthető egykori tisztviselők ellen.",
-    "content_hu": "Az ország főügyésze három büntetőeljárást is indított a volt elnök és más, a bankválsághoz köthető egykori tisztviselők ellen.",
     "importance_score": 0.0
   },
   {
