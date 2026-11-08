@@ -291,42 +291,6 @@
     "importance_score": 63.0
   },
   {
-    "group_id": "group_6dad89178a",
-    "fingerprint": "8879f36a8754f05a4f3ac2d67df3ab74",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Bejelentést tett a MÁV: drónok jelenhetnek meg a területei felett",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/bejelentest-tett-a-mav-dronok-jelenhetnek-meg-a-teruletei-felett"
-      },
-      {
-        "source": "ATV",
-        "title": "Elegük lett az életveszélyes akciókból: drónokkal csap le a behatolókra a MÁV",
-        "link": "https://www.atv.hu/belfold/20261108/mav-dronok-mi-palyaudvar-orzes/"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Drónokkal figyeli meg a MÁV a pályaudvarokat, betörőket és rendbontókat keresnek",
-        "link": "https://hvg.hu/tudomany/20261108_dronokkal-figyeli-meg-a-mav-a-palyaudvarokat-betoroket-es-rendbontokat-keresnek"
-      },
-      {
-        "source": "444.hu",
-        "title": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
-        "link": "https://444.hu/2026/11/08/okos-dronokkal-fogja-a-mav-felugyelni-a-hozza-tartozo-uzemi-teruleteket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794149267,
-    "title_hu": "MI-vezérelt drónokkal figyeli a vasúti területeket a MÁV",
-    "lead_hu": "A MÁV az év végétől mesterséges intelligenciával támogatott drónokkal őrizné a nagyobb vasúti üzemi területeket. A rendszer a gyanús mozgásokat észleli, majd értesíti a helyszínen szolgálatot teljesítő biztonsági munkatársakat; ezzel a vagyonvédelem mellett a balesetek megelőzése is a cél.",
-    "content_hu": "• **Év végi indulás** A MÁV az év végétől állítja szolgálatba az MI-vel támogatott drónokat. A tesztüzem december elején Szolnokon indulhat.\n\n• **Bővítés több pályaudvarra** Ha beválik a rendszer, jövőre 20–25 pályaudvarra is kiterjeszthetik, elsősorban a nagy kiterjedésű üzemi területeken.\n\n• **Gyanús mozgások észlelése** A drónok magyar mesterségesintelligencia-technológia segítségével ismerik fel a kritikus tevékenységeket, és riasztják a helyszíni őröket, akik kivizsgálják az esetet.\n\n• **Vagyonvédelem és baleset-megelőzés** A megfigyelés a vasúti járművek és a szállított áruk védelmét, valamint a behatolások, rongálások és veszélyes helyzetek megelőzését szolgálja.\n\n• **Életveszélyes felmászások** Hegyi Zsolt vezérigazgató elmondása szerint az elmúlt évben tíz alkalommal kaptak el embereket, akik vonatok tetejére másztak. A felsővezeték közelsége miatt az ilyen esetek halálos áramütéssel is végződhetnek; a HVG beszámolója szerint idén már három halálos baleset történt ilyen körülmények között.",
-    "importance_score": 60.0
-  },
-  {
     "group_id": "group_c702ea7bd8",
     "fingerprint": "cb32b41514c8f2815afc1592ff931ded",
     "category": "Politika",
@@ -367,40 +331,40 @@
     "importance_score": 58.0
   },
   {
-    "group_id": "group_fd67004aa2",
-    "fingerprint": "bb456d4af2d709e99e23d445c4ad0f88",
+    "group_id": "group_6dad89178a",
+    "fingerprint": "8879f36a8754f05a4f3ac2d67df3ab74",
     "category": "Általános",
-    "image": "https://cdn.hirtv.hu/2026/11/ttmB9u6NUcPG60cYEAyrQ_zO4kRxtJiincrPCS4B47Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JkN2NjNzg0M2YxNTQ3MDM4ZTM5MGFiMmRiODg1YTM0.webp",
+    "image": "",
     "is_synthesized": true,
     "rejected": false,
     "sources_count": 4,
     "sources": [
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "Külügy: Nincs magyar érintettje a krakkói lövöldözésnek",
-        "link": "https://24.hu/kulfold/2026/11/08/krakkoi-lovoldozes-krakko-magyar-erintett/"
+        "source": "Vadhajtások",
+        "title": "Bejelentést tett a MÁV: drónok jelenhetnek meg a területei felett",
+        "link": "https://www.vadhajtasok.hu/2026/11/07/bejelentest-tett-a-mav-dronok-jelenhetnek-meg-a-teruletei-felett"
       },
       {
-        "source": "HVG - Világ",
-        "title": "Krakkói lövöldözés: nincs magyar áldozat",
-        "link": "https://hvg.hu/vilag/20261108_krakko-lovoldozes-amokfutas-gyilkossag-aldozatok"
+        "source": "ATV",
+        "title": "Elegük lett az életveszélyes akciókból: drónokkal csap le a behatolókra a MÁV",
+        "link": "https://www.atv.hu/belfold/20261108/mav-dronok-mi-palyaudvar-orzes/"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Drónokkal figyeli meg a MÁV a pályaudvarokat, betörőket és rendbontókat keresnek",
+        "link": "https://hvg.hu/tudomany/20261108_dronokkal-figyeli-meg-a-mav-a-palyaudvarokat-betoroket-es-rendbontokat-keresnek"
       },
       {
         "source": "444.hu",
-        "title": "A krakkói vérengzésnek nincs magyar áldozata és sérültje, de egy brit és egy osztrák turista is meghalt",
-        "link": "https://444.hu/2026/11/08/a-krakkoi-verengzesnek-nincs-magyar-aldozata-es-serultje-de-egy-brit-es-egy-osztrak-turista-is-meghalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Hír TV",
-        "title": "Krakkó: Nem tudnak magyar áldozatokról",
-        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/aldozatok-magyarokkrakko"
+        "title": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
+        "link": "https://444.hu/2026/11/08/okos-dronokkal-fogja-a-mav-felugyelni-a-hozza-tartozo-uzemi-teruleteket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
-    "published_at": 1794156162,
-    "title_hu": "Krakkói lövöldözés: hat halálos áldozat, nincs magyar érintett",
-    "lead_hu": "A krakkói lövöldözésben hat ember meghalt, a támadóval együtt 16-an kerültek kórházba; a magyar Külügyminisztérium szerint nincs köztük magyar állampolgár. Az áldozatok között négy lengyel, egy brit és egy osztrák volt, a támadó lakásában pedig hét lőfegyvert találtak.",
-    "content_hu": "• **Áldozatok és sérültek** A lövöldözésben hat ember meghalt, a támadóval együtt 16-an szorultak kórházi ellátásra. A sérültek között két rendőr is van; egyikük állapota súlyos, de stabil, a másiké stabil.\n\n• **Az áldozatok állampolgársága** A halottak közül négy lengyel, egy brit és egy osztrák állampolgárt azonosítottak. A négy lengyel áldozat három nő – 47, 53 és 61 évesek – és egy 50 éves férfi; a brit férfi 32, az osztrák nő 51 éves volt. A sérültek között öt külföldi is van.\n\n• **Magyar érintettség** A Külügyminisztérium szerint nincs magyar áldozat vagy sérült. A tárca részvétét fejezte ki az áldozatok hozzátartozóinak, és köszönetet mondott a lengyel hatóságoknak.\n\n• **A támadás és az elkövető** A lengyel hatóságok terrorcselekménynek minősítették a támadást. A férfi szombat délután autójából nyitott tüzet a krakkói főtéren tartózkodókra; a rendőrök meglőtték és őrizetbe vették, állapota a többszöri műtét után válságos. A lakásában három holttestet találtak: a rendőrség megerősítette, hogy az áldozatok a szülei és a testvére.\n\n• **Fegyverek és felszerelés** A támadó lakásában hét lőfegyvert foglaltak le. A férfi taktikai ruházatot és golyóálló mellényt viselt, a fegyverét pedig a beszámolók szerint engedéllyel tartotta; ő és az apja is lövészklub tagja volt.\n\n• **További intézkedések** A lövöldözés miatt több lengyel városban megerősítették a rendőri jelenlétet, és úttorlaszokat is kihelyeztek. Lengyelországban kétnapos nemzeti gyászt hirdettek.",
-    "importance_score": 55.0
+    "published_at": 1794149267,
+    "title_hu": "MI-vezérelt drónokkal figyeli a vasúti területeket a MÁV",
+    "lead_hu": "A MÁV az év végétől mesterséges intelligenciával támogatott drónokkal őrizné a nagyobb vasúti üzemi területeket. A rendszer a gyanús mozgásokat észleli, majd értesíti a helyszínen szolgálatot teljesítő biztonsági munkatársakat; ezzel a vagyonvédelem mellett a balesetek megelőzése is a cél.",
+    "content_hu": "• **Év végi indulás** A MÁV az év végétől állítja szolgálatba az MI-vel támogatott drónokat. A tesztüzem december elején Szolnokon indulhat.\n\n• **Bővítés több pályaudvarra** Ha beválik a rendszer, jövőre 20–25 pályaudvarra is kiterjeszthetik, elsősorban a nagy kiterjedésű üzemi területeken.\n\n• **Gyanús mozgások észlelése** A drónok magyar mesterségesintelligencia-technológia segítségével ismerik fel a kritikus tevékenységeket, és riasztják a helyszíni őröket, akik kivizsgálják az esetet.\n\n• **Vagyonvédelem és baleset-megelőzés** A megfigyelés a vasúti járművek és a szállított áruk védelmét, valamint a behatolások, rongálások és veszélyes helyzetek megelőzését szolgálja.\n\n• **Életveszélyes felmászások** Hegyi Zsolt vezérigazgató elmondása szerint az elmúlt évben tíz alkalommal kaptak el embereket, akik vonatok tetejére másztak. A felsővezeték közelsége miatt az ilyen esetek halálos áramütéssel is végződhetnek; a HVG beszámolója szerint idén már három halálos baleset történt ilyen körülmények között.",
+    "importance_score": 53.0
   },
   {
     "group_id": "group_9ea323d001",
@@ -1902,6 +1866,82 @@
     "lead_hu": "Szombat este meghibásodott a biztosítóberendezés a budapesti Déli pályaudvaron, ami az induló és az érkező vonatokat is érintette. A járatok esetenként 10–15 percet késhettek; a hibát estére elhárították.",
     "content_hu": "• **Szombat este meghibásodott a biztosítóberendezés** a budapesti Déli pályaudvaron, ezért változásokra kellett számítani a vasúti közlekedésben.\n\n• **Az induló vonatok 10–15 percet késhettek**, az érkező járatok pedig a pályaudvar előtt várakozhattak néhány percet.\n\n• **A hibát estére elhárították** – közölte a Mávinform.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_e7f1f81141",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/xCQLFTcGQpcXvfCzThJk2HjeK-IAJbdNiaBjiCEMLLM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M5ODMwNmNmZTY4NzRlZTlhNzk4MWVhZTRhNzVkZDQz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Bartucz Lászlónál csak négy koszovói játékos dobott több gólt az Eb-selejtezőn",
+        "link": "https://magyarnemzet.hu/sport/2026/11/kezilabda-ferfi-eb-selejtezo-koszovo-magyarorszag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794160130,
+    "title_hu": "Bartucz Lászlónál csak négy koszovói játékos dobott több gólt az Eb-selejtezőn",
+    "lead_hu": "A parázs balkáni hangulatban nem jól kezdett, de remekül folytatta a magyar válogatott....",
+    "content_hu": "A parázs balkáni hangulatban nem jól kezdett, de remekül folytatta a magyar válogatott.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_1b00571631",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/Zbi5gRxj_TSobEz2Yb0naINtyjWSirT4Sis2jrD-XRY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA0YmExMDZiNTNhODRlOGE5YjVmN2E4M2Y5NDE3YmVj.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Schmidt Mária gondolatkísérlete: Orbán Viktor fa kisszékét L. Simon László a Néprajzi Múzeumnak ajánlja fel",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/schmidt-maria-gondolatkiserlete-orban-viktor-fa-kisszeket-l-simon-laszlo-a-neprajzi-muzeumnak-ajanlja-fel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794160075,
+    "title_hu": "Schmidt Mária gondolatkísérlete: Orbán Viktor fa kisszékét L. Simon László a Néprajzi Múzeumnak ajánlja fel",
+    "lead_hu": "Ricsi begurul, a szakmaiság kiszorul? Nincs könnyű helyzetben a múzeum, a történész szerint....",
+    "content_hu": "Ricsi begurul, a szakmaiság kiszorul? Nincs könnyű helyzetben a múzeum, a történész szerint.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a92848e592",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-lg/s/z/e/szelenergia-beszallitokent-valhat-nagyhatalomma-magyarorszag-287961.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kapitány István: 700 megawattnyi új szélenergia-kapacitás kaphat zöld utat",
+        "link": "https://www.portfolio.hu/gazdasag/20261108/kapitany-istvan-700-megawattnyi-uj-szelenergia-kapacitas-kaphat-zold-utat-874996"
+      }
+    ],
+    "published_at": 1794159840,
+    "title_hu": "Kapitány István: 700 megawattnyi új szélenergia-kapacitás kaphat zöld utat",
+    "lead_hu": "A napenergia-termelésben elért eredmények után a villamosenergia-hálózat korszerűsítése, az energiatárolási kapacitások bővítése és a szélenergia térnyerése jelenti a következő kiemelt feladatot a haz...",
+    "content_hu": "A napenergia-termelésben elért eredmények után a villamosenergia-hálózat korszerűsítése, az energiatárolási kapacitások bővítése és a szélenergia térnyerése jelenti a következő kiemelt feladatot a hazai energiapolitikában – közölte Facebook-bejegyzésében Kapitány István gazdasági és energetikai miniszter.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_cabf3b8b79",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/Irm-DOG9wLtGjB05fV7W9wJyEDh5mKP3Ymxapox9ijg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzN2EwY2FjZGU0MTQ5NmRhZTYzZDg5ZDVmMTVhOGZl.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Robbanásveszélyes helyzetben jön „a lengyel békemenet”, Nawrocki és Tusk újra megütközik egymással",
+        "link": "https://www.vg.hu/kozelet/2026/11/lengyelorszag-merenylet-feszultseg-tusk-nawrocki?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794159643,
+    "title_hu": "Robbanásveszélyes helyzetben jön „a lengyel békemenet”, Nawrocki és Tusk újra megütközik egymással",
+    "lead_hu": "A krakkói merénylet tovább mélyítheti a politikai válságot....",
+    "content_hu": "A krakkói merénylet tovább mélyítheti a politikai válságot.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_da9ce48f35",
@@ -8571,6 +8611,42 @@
     "lead_hu": "Már meg is indultak az egyeztetések.",
     "content_hu": "Már meg is indultak az egyeztetések.",
     "importance_score": 0.0
+  },
+  {
+    "group_id": "group_fd67004aa2",
+    "fingerprint": "bb456d4af2d709e99e23d445c4ad0f88",
+    "category": "Általános",
+    "image": "https://cdn.hirtv.hu/2026/11/ttmB9u6NUcPG60cYEAyrQ_zO4kRxtJiincrPCS4B47Q/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JkN2NjNzg0M2YxNTQ3MDM4ZTM5MGFiMmRiODg1YTM0.webp",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Külügy: Nincs magyar érintettje a krakkói lövöldözésnek",
+        "link": "https://24.hu/kulfold/2026/11/08/krakkoi-lovoldozes-krakko-magyar-erintett/"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Krakkói lövöldözés: nincs magyar áldozat",
+        "link": "https://hvg.hu/vilag/20261108_krakko-lovoldozes-amokfutas-gyilkossag-aldozatok"
+      },
+      {
+        "source": "444.hu",
+        "title": "A krakkói vérengzésnek nincs magyar áldozata és sérültje, de egy brit és egy osztrák turista is meghalt",
+        "link": "https://444.hu/2026/11/08/a-krakkoi-verengzesnek-nincs-magyar-aldozata-es-serultje-de-egy-brit-es-egy-osztrak-turista-is-meghalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Krakkó: Nem tudnak magyar áldozatokról",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/aldozatok-magyarokkrakko"
+      }
+    ],
+    "published_at": 1794156162,
+    "title_hu": "Krakkói lövöldözés: hat halálos áldozat, nincs magyar érintett",
+    "lead_hu": "A krakkói lövöldözésben hat ember meghalt, a támadóval együtt 16-an kerültek kórházba; a magyar Külügyminisztérium szerint nincs köztük magyar állampolgár. Az áldozatok között négy lengyel, egy brit és egy osztrák volt, a támadó lakásában pedig hét lőfegyvert találtak.",
+    "content_hu": "• **Áldozatok és sérültek** A lövöldözésben hat ember meghalt, a támadóval együtt 16-an szorultak kórházi ellátásra. A sérültek között két rendőr is van; egyikük állapota súlyos, de stabil, a másiké stabil.\n\n• **Az áldozatok állampolgársága** A halottak közül négy lengyel, egy brit és egy osztrák állampolgárt azonosítottak. A négy lengyel áldozat három nő – 47, 53 és 61 évesek – és egy 50 éves férfi; a brit férfi 32, az osztrák nő 51 éves volt. A sérültek között öt külföldi is van.\n\n• **Magyar érintettség** A Külügyminisztérium szerint nincs magyar áldozat vagy sérült. A tárca részvétét fejezte ki az áldozatok hozzátartozóinak, és köszönetet mondott a lengyel hatóságoknak.\n\n• **A támadás és az elkövető** A lengyel hatóságok terrorcselekménynek minősítették a támadást. A férfi szombat délután autójából nyitott tüzet a krakkói főtéren tartózkodókra; a rendőrök meglőtték és őrizetbe vették, állapota a többszöri műtét után válságos. A lakásában három holttestet találtak: a rendőrség megerősítette, hogy az áldozatok a szülei és a testvére.\n\n• **Fegyverek és felszerelés** A támadó lakásában hét lőfegyvert foglaltak le. A férfi taktikai ruházatot és golyóálló mellényt viselt, a fegyverét pedig a beszámolók szerint engedéllyel tartotta; ő és az apja is lövészklub tagja volt.\n\n• **További intézkedések** A lövöldözés miatt több lengyel városban megerősítették a rendőri jelenlétet, és úttorlaszokat is kihelyeztek. Lengyelországban kétnapos nemzeti gyászt hirdettek.",
+    "importance_score": 55.0
   },
   {
     "group_id": "group_b8dc67da17",
