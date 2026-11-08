@@ -1,5 +1,66 @@
 [
   {
+    "group_id": "group_9c68e37c05",
+    "fingerprint": "ab9270433386cc8ba9894bb30bc99be2",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794161541-temp-64if48vhvpn9cckajgo_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Oroszország került Norvégia helyére a kanadai junior jégkorong-vb-n, több ország tiltakozik",
+        "link": "https://telex.hu/sport/2026/11/08/oroszorszag-norvegia-kanada-junior-jegkorong-vilagbajnoksag"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kell a hely az oroszoknak, ezért Norvégia nem vehet részt az U20-as jégkorong-világbajnokságon",
+        "link": "https://index.hu/sport/jegkorong/2026/11/08/oroszorszag-orosz-valogatott-norvegia-u20-as-vilagbajnoksag-iihf/"
+      }
+    ],
+    "published_at": 1794173460,
+    "title_hu": "Norvégia helyére kerülhet Oroszország a junior jégkorong-vb-n",
+    "lead_hu": "A nemzetközi Sportdöntőbíróság döntése nyomán az IIHF-nek vissza kell engednie az orosz csapatokat a világbajnoki tornákra. A kanadai U20-as vb-n Norvégiát a divízió I/A-ba sorolták vissza, miközben több ország tiltakozik, Kanada pedig nem adna vízumot az orosz játékosoknak.",
+    "content_hu": "• **A CAS döntése** Október 30-án a nemzetközi Sportdöntőbíróság arra kötelezte az IIHF-et, hogy engedje vissza az ukrajnai háború miatt korábban kizárt orosz csapatokat a világbajnoki tornákra.\n\n• **Norvégia visszasorolása** A kanadai U20-as világbajnokságon a norvég válogatottat a legalacsonyabban kiemelt csapatként a divízió I/A-ba sorolták vissza, hogy helyet biztosítsanak az oroszoknak.\n\n• **Tiltakozások és bizonytalanság** Svédország, Finnország, Csehország, Dánia, Ausztria, Lettország, Ukrajna és junior szinten Svájc is jelezte, hogy nem játszana az oroszok ellen. Kanada közölte, hogy nem ad vízumot az orosz hokisoknak, a torna lebonyolítása ezért továbbra sem tisztázott."
+  },
+  {
+    "group_id": "group_3d8610d2c7",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Kínai kémnő csábíthatta el az Nvidia vezérigazgatóját",
+        "link": "https://telex.hu/kulfold/2026/11/08/nvidia-vezerigazgato-kinai-kem-szereto-vizsgalat"
+      }
+    ],
+    "published_at": 1794172939,
+    "title_hu": "Kínai kémnő csábíthatta el az Nvidia vezérigazgatóját",
+    "lead_hu": "Nagyon úgy tűnik, hogy a klasszikus módszert vetették be Trump chipgyártó tanácsadója ellen.",
+    "content_hu": "Nagyon úgy tűnik, hogy a klasszikus módszert vetették be Trump chipgyártó tanácsadója ellen."
+  },
+  {
+    "group_id": "group_bd2b7ad40e",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261106/1793983421-temp-ulnps8ld2vah3ggbgop_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Úgy érezte, ki tudja használni a felfokozott spanyol közhangulatot, de egy váratlan tragédia felülírt mindent",
+        "link": "https://telex.hu/kulfold/2026/11/08/spanyolorszag-elorehozott-valasztas-szocialistak-neppart-vox-szelsojobboldal-vonatbaleset-pedro-sanchez-alberto-nunez-feijoo"
+      }
+    ],
+    "published_at": 1794172559,
+    "title_hu": "Úgy érezte, ki tudja használni a felfokozott spanyol közhangulatot, de egy váratlan tragédia felülírt mindent",
+    "lead_hu": "Pedro Sánchez spanyol kormányfő a lakhatási tüntetések közepette jelentett be előrehozott választást, de aztán a súlyos vonatbalesetről szólt minden az elmúlt másfél hétben. A jobbközép Néppárt és a s…",
+    "content_hu": "Pedro Sánchez spanyol kormányfő a lakhatási tüntetések közepette jelentett be előrehozott választást, de aztán a súlyos vonatbalesetről szólt minden az elmúlt másfél hétben. A jobbközép Néppárt és a szélsőjobboldali Vox kereszttüzében lemondott a közlekedési miniszter. A nagy túlélő Sáncheznek alapból is nehéz dolga volt, de már óriási fordulatra lenne szüksége."
+  },
+  {
     "group_id": "group_0434af8df6",
     "category": "Politika",
     "image": "https://cdn.hirtv.hu/2026/11/OTNcRmxdjheoPmu1un3mxVrTaCiaejJg7Fql7AUz4l4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFhMmI3MWFkYWYxYTRlOTRhYzZiZGExZWViNDhjOGY5.webp",
@@ -94,7 +155,8 @@
     "published_at": 1794170202,
     "title_hu": "Két új polgármestert és két képviselőt választottak négy településen",
     "lead_hu": "Vasárnap négy településen tartottak időközi önkormányzati választást. Perenyén újraválasztották a hivatalban lévő polgármestert, Tárkányban pedig új polgármestert választottak; Békésen és Bátonyterenyén képviselői helyekről döntöttek.",
-    "content_hu": "• **Perenye** Imre Viktóriát választotta újra polgármesternek; ő volt az egyetlen jelölt.\n\n• **Tárkányban** a független Zalkáné Havacs Beáta győzött a szavazatok közel 59 százalékával. Ellenfele, Mészáros Tamásné 229 szavazatot kapott, Zalkáné 328-at.\n\n• **Békésen** a független Rónai Sándor nyerte meg a képviselői időközi választást 253 szavazattal; a Mi Hazánk jelöltje, Jenei Sándor 174 voksot szerzett.\n\n• **Bátonyterenyén** az egyedüli induló, Bodolai Zoltán győzött a 4. számú egyéni választókerületben."
+    "content_hu": "• **Perenye** Imre Viktóriát választotta újra polgármesternek; ő volt az egyetlen jelölt.\n\n• **Tárkányban** a független Zalkáné Havacs Beáta győzött a szavazatok közel 59 százalékával. Ellenfele, Mészáros Tamásné 229 szavazatot kapott, Zalkáné 328-at.\n\n• **Békésen** a független Rónai Sándor nyerte meg a képviselői időközi választást 253 szavazattal; a Mi Hazánk jelöltje, Jenei Sándor 174 voksot szerzett.\n\n• **Bátonyterenyén** az egyedüli induló, Bodolai Zoltán győzött a 4. számú egyéni választókerületben.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_c1d92cd747",
@@ -137,7 +199,8 @@
     "published_at": 1794169740,
     "title_hu": "Azbeszttel szennyezett kőzúzalékot találtak egy gyömrői iskola mellett",
     "lead_hu": "Azbesztet mutattak ki a Gyömrői Fekete István Általános Iskolához vezető út kőzúzalékában. A területet lezárták és geotextíliával letakarták; a szülők további méréseket, az önkormányzat pedig a szennyezett anyag mielőbbi elszállítását sürgeti.",
-    "content_hu": "• **Egy helyszínen találtak azbesztet** Kilenc helyszínről vettek mintát, és a szennyezést az iskola mellett, az odavezető úton mutatták ki. Az érintett út 470 méter hosszú, a parkolóban pedig mintegy 20 négyzetméternyi területen található hasonló mart aszfalt.\n\n• **További vizsgálatokat követelnek a szülők** Petíciót indítottak, hogy kiderüljön, a környező telkek is szennyezettek-e; a kezdeményezést eddig 50 család írta alá.\n\n• **Lezárták és lefedték az érintett területet** Szakértői javaslatra geotextíliát terítettek a szennyezett részre, a porzást pedig locsolással igyekeznek csökkenteni. A belélegezhető azbesztrostok hosszú távon súlyos egészségügyi kockázatot jelenthetnek.\n\n• **Az önkormányzat az anyag elszállítását kéri** A tavalyi útépítésért felelős Magyar Közút vizsgálatot ígért. Ha az azbeszt jelenlétét megerősítik, elszállítják a szennyezett anyagot; megállapodás hiányában az önkormányzat saját költségén intézkedne, majd megpróbálná behajtani a kiadásokat."
+    "content_hu": "• **Egy helyszínen találtak azbesztet** Kilenc helyszínről vettek mintát, és a szennyezést az iskola mellett, az odavezető úton mutatták ki. Az érintett út 470 méter hosszú, a parkolóban pedig mintegy 20 négyzetméternyi területen található hasonló mart aszfalt.\n\n• **További vizsgálatokat követelnek a szülők** Petíciót indítottak, hogy kiderüljön, a környező telkek is szennyezettek-e; a kezdeményezést eddig 50 család írta alá.\n\n• **Lezárták és lefedték az érintett területet** Szakértői javaslatra geotextíliát terítettek a szennyezett részre, a porzást pedig locsolással igyekeznek csökkenteni. A belélegezhető azbesztrostok hosszú távon súlyos egészségügyi kockázatot jelenthetnek.\n\n• **Az önkormányzat az anyag elszállítását kéri** A tavalyi útépítésért felelős Magyar Közút vizsgálatot ígért. Ha az azbeszt jelenlétét megerősítik, elszállítják a szennyezett anyagot; megállapodás hiányában az önkormányzat saját költségén intézkedne, majd megpróbálná behajtani a kiadásokat.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_f0e8e2f7d8",
@@ -239,7 +302,8 @@
     "published_at": 1794168841,
     "title_hu": "A húszik a rijádi Aramco-tornyát támadták, Jemenben 33 halottról számoltak be",
     "lead_hu": "Az Irán támogatását élvező jemeni húszik támadást intéztek Rijád üzleti negyede ellen, és megrongálták a 34 emeletes Aramco Tower üveghomlokzatát. A szaúdi tájékoztatás szerint a fővárosi csapásban senki sem sérült meg, a húszikhoz köthető források viszont 33 jemeni halottról és 39 sebesültről számoltak be a koalíciós légicsapások után.",
-    "content_hu": "• **Rijádi támadás:** A húszik a főváros Abdullah király nevű banknegyedét támadták; a 34 emeletes Aramco Tower üveghomlokzatán a felvételek alapján jelentős károk keletkeztek, bár a szaúdi energetikai minisztérium mérsékelt kárról számolt be.\n\n• **Nincsenek sérültek Rijádban:** A szaúdi tájékoztatás szerint az Aramco épületét ért csapásnak nem volt halálos vagy sérült áldozata. A fővárosban légiriadót rendeltek el.\n\n• **További húszi célpontok:** A húszik katonai szóvivője azt állította, hogy a fővárosi repülőteret, az Aramco kelet-szaúd-arábiai érdekeltségeit és szaúdi csapatokat is támadtak. A szaúdi vezetésű koalíció közlése szerint robotrepülőgépeket és drónokat lőttek le Rijád, illetve az ország déli részei felett.\n\n• **Jemeni áldozatok:** A húszikhoz köthető források szerint a koalíciós légicsapásokban Szanaában 33 ember meghalt, 39 pedig megsebesült. Az áldozatok között nők és gyermekek is voltak; az adatokat a húszik közléseként kell kezelni.\n\n• **Rakétaindítókat semmisített meg a koalíció:** A szaúdi vezetésű koalíció azt közölte, hogy az északnyugat-jemeni Szaadában ballisztikusrakéta-indítóállásokat semmisített meg.\n\n• **A konfliktus kiújulása:** A húszik és a Szaúd-Arábia által támogatott jemeni kormányerők 2022-ben tűzszünetet kötöttek, a harcok azonban a február végén kirobbant, Irán elleni amerikai–izraeli háború nyomán ismét fellángoltak. A húszik rakétákkal és drónokkal támadják a szaúdi repülőtereket, kikötőket és olajlétesítményeket, Szaúd-Arábia pedig légicsapásokat hajt végre Jemenben.\n\n• **Szíriai katonák Szaúd-Arábiában:** Három, név nélkül nyilatkozó szíriai tisztségviselő az AP-nek azt mondta, hogy Rijád kérésére Szíria katonákat küld a húszik elleni harcra a jemeni határ közelébe. Szíriai katonai tanácsadók már az országban vannak, de a közlés szerint harcoló alakulatok még nem érkeztek."
+    "content_hu": "• **Rijádi támadás:** A húszik a főváros Abdullah király nevű banknegyedét támadták; a 34 emeletes Aramco Tower üveghomlokzatán a felvételek alapján jelentős károk keletkeztek, bár a szaúdi energetikai minisztérium mérsékelt kárról számolt be.\n\n• **Nincsenek sérültek Rijádban:** A szaúdi tájékoztatás szerint az Aramco épületét ért csapásnak nem volt halálos vagy sérült áldozata. A fővárosban légiriadót rendeltek el.\n\n• **További húszi célpontok:** A húszik katonai szóvivője azt állította, hogy a fővárosi repülőteret, az Aramco kelet-szaúd-arábiai érdekeltségeit és szaúdi csapatokat is támadtak. A szaúdi vezetésű koalíció közlése szerint robotrepülőgépeket és drónokat lőttek le Rijád, illetve az ország déli részei felett.\n\n• **Jemeni áldozatok:** A húszikhoz köthető források szerint a koalíciós légicsapásokban Szanaában 33 ember meghalt, 39 pedig megsebesült. Az áldozatok között nők és gyermekek is voltak; az adatokat a húszik közléseként kell kezelni.\n\n• **Rakétaindítókat semmisített meg a koalíció:** A szaúdi vezetésű koalíció azt közölte, hogy az északnyugat-jemeni Szaadában ballisztikusrakéta-indítóállásokat semmisített meg.\n\n• **A konfliktus kiújulása:** A húszik és a Szaúd-Arábia által támogatott jemeni kormányerők 2022-ben tűzszünetet kötöttek, a harcok azonban a február végén kirobbant, Irán elleni amerikai–izraeli háború nyomán ismét fellángoltak. A húszik rakétákkal és drónokkal támadják a szaúdi repülőtereket, kikötőket és olajlétesítményeket, Szaúd-Arábia pedig légicsapásokat hajt végre Jemenben.\n\n• **Szíriai katonák Szaúd-Arábiában:** Három, név nélkül nyilatkozó szíriai tisztségviselő az AP-nek azt mondta, hogy Rijád kérésére Szíria katonákat küld a húszik elleni harcra a jemeni határ közelébe. Szíriai katonai tanácsadók már az országban vannak, de a közlés szerint harcoló alakulatok még nem érkeztek.",
+    "importance_score": 45.0
   },
   {
     "group_id": "group_a960fc832c",
@@ -372,7 +436,8 @@
     "published_at": 1794167905,
     "title_hu": "Aggódnak Szoboszlai térde miatt a válogatott szünet előtt",
     "lead_hu": "A Liverpool edzője szerint Szoboszlai Dominik térde nincs százszázalékos állapotban, ezért orvosi vizsgálatra és óvatosságra van szükség. A magyar válogatott csapatkapitánya a Crystal Palace elleni mérkőzésen sérült le, és nem játszotta végig a találkozót.",
-    "content_hu": "• **Szoboszlai térde nincs teljesen rendben** A Liverpool edzője szerint a középpályás állapotát orvosoknak kell megvizsgálniuk, mielőtt kiderül, hogy pályára léphet-e a válogatottban.\n\n• **A Crystal Palace ellen sérült le** Szoboszlait a mérkőzés 69. percében lecserélték, így nem játszotta végig a találkozót.\n\n• **A Liverpool óvatos lenne** Az edző nem szeretné, ha a válogatott szünetben újabb játékos sérülne meg, ugyanakkor megérti, hogy Szoboszlai szeretne csatlakozni a nemzeti csapathoz."
+    "content_hu": "• **Szoboszlai térde nincs teljesen rendben** A Liverpool edzője szerint a középpályás állapotát orvosoknak kell megvizsgálniuk, mielőtt kiderül, hogy pályára léphet-e a válogatottban.\n\n• **A Crystal Palace ellen sérült le** Szoboszlait a mérkőzés 69. percében lecserélték, így nem játszotta végig a találkozót.\n\n• **A Liverpool óvatos lenne** Az edző nem szeretné, ha a válogatott szünetben újabb játékos sérülne meg, ugyanakkor megérti, hogy Szoboszlai szeretne csatlakozni a nemzeti csapathoz.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_3bc78d567c",
@@ -397,7 +462,8 @@
     "published_at": 1794167880,
     "title_hu": "Lövöldözés történt Split közelében, elfogták a gyanúsítottat",
     "lead_hu": "Vasárnap délután lövéseket adtak le a horvátországi Split közelében, Radošić térségében. Senki sem sérült meg; a rendőrség még aznap elfogta a menekülő gyanúsítottat, az eset körülményeit vizsgálják.",
-    "content_hu": "• **A lövöldözés helyszíne** Vasárnap délután a Split közelében fekvő Radošić település térségében egy férfi lőfegyverből adott le lövéseket, majd elmenekült.\n\n• **Nem történt sérülés** A lövöldözésben senki sem sérült meg.\n\n• **Elfogták a gyanúsítottat** A rendőrség hajtóvadászatot indított, majd 18 óra 50 perc körül megtalálta és őrizetbe vette a férfit.\n\n• **Vizsgálják az esetet** A hatóságok büntetőeljárásban vizsgálják a történteket; a lövöldözés oka egyelőre nem ismert."
+    "content_hu": "• **A lövöldözés helyszíne** Vasárnap délután a Split közelében fekvő Radošić település térségében egy férfi lőfegyverből adott le lövéseket, majd elmenekült.\n\n• **Nem történt sérülés** A lövöldözésben senki sem sérült meg.\n\n• **Elfogták a gyanúsítottat** A rendőrség hajtóvadászatot indított, majd 18 óra 50 perc körül megtalálta és őrizetbe vette a férfit.\n\n• **Vizsgálják az esetet** A hatóságok büntetőeljárásban vizsgálják a történteket; a lövöldözés oka egyelőre nem ismert.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_5230dc8842",
@@ -482,7 +548,8 @@
     "published_at": 1794167160,
     "title_hu": "Fekete-Győr András új progresszív politikai közösséget építene",
     "lead_hu": "A Momentumból kilépett Fekete-Győr András új, progresszív politikai erőt hozna létre, amely szerinte kiegészíthetné a Tisza Pártot. A közösség a tervek szerint már a 2029-es önkormányzati és európai parlamenti választásokon elindulna, hosszabb távon pedig a parlamentbe is bejutna.",
-    "content_hu": "• **Új politikai közösség** Fekete-Győr független véleményformálókkal építene progresszív erőt, amely az oktatás, a klímavédelem és a lakhatás ügyére összpontosítana.\n\n• **Választási tervek** A szervezet 2029-ben az önkormányzati és európai parlamenti választásokon indulna; a politikus 2030-ra parlamenti jelenlétet is elérne.\n\n• **Elszámoltatás** Fekete-Győr szerint a felelősségre vonásnak a legmagasabb politikai és gazdasági szintekig kell elérnie, Orbán Viktort is beleértve.\n\n• **Olimpiai népszavazás** A budapesti olimpia megrendezéséről 2028-ban, a költségek ismeretében tartana népszavazást; elutasítás esetére más fejlesztési terveket javasol."
+    "content_hu": "• **Új politikai közösség** Fekete-Győr független véleményformálókkal építene progresszív erőt, amely az oktatás, a klímavédelem és a lakhatás ügyére összpontosítana.\n\n• **Választási tervek** A szervezet 2029-ben az önkormányzati és európai parlamenti választásokon indulna; a politikus 2030-ra parlamenti jelenlétet is elérne.\n\n• **Elszámoltatás** Fekete-Győr szerint a felelősségre vonásnak a legmagasabb politikai és gazdasági szintekig kell elérnie, Orbán Viktort is beleértve.\n\n• **Olimpiai népszavazás** A budapesti olimpia megrendezéséről 2028-ban, a költségek ismeretében tartana népszavazást; elutasítás esetére más fejlesztési terveket javasol.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_a949cf0839",
@@ -930,7 +997,7 @@
     "title_hu": "Norris nyerte az esős Brazil Nagydíjat, Verstappen a 21. helyről lett második",
     "lead_hu": "Lando Norris győzött a São Pauló-i Nagydíjon, amelynek hajráját az eső és a gumistratégia tette izgalmassá. Max Verstappen a mezőny végéről rajtolva a második helyre kapaszkodott fel, Isack Hadjar pedig harmadikként ért célba.",
     "content_hu": "• **Norris győzelme** A McLaren brit pilótája nyerte a futamot, ezzel idei harmadik és pályafutása 14. Forma–1-es győzelmét szerezte meg.\n\n• **Verstappen felzárkózása** A 21. rajtkockából induló holland 19 helyet javítva második lett.\n\n• **Dobogósok** Isack Hadjar a harmadik helyen zárt.\n\n• **Esős hajrá** A verseny utolsó szakaszában felerősödött az eső, ezért a mezőny átmeneti esőgumikra váltott.",
-    "importance_score": 35.0
+    "importance_score": 28.0
   },
   {
     "group_id": "group_c017fee594",
@@ -979,7 +1046,7 @@
     "title_hu": "Bizalomhiány miatt visszalépett az új észak-budapesti tankerületi vezető",
     "lead_hu": "Balogh Tamás László a kinevezése és a munkakezdése közötti időszakban arra jutott, hogy nem alakult ki a közös munkához szükséges kölcsönös bizalom a helyi intézményekkel, ezért nem fogadta el a posztot. A tankerületet átmenetileg a szakmai vezető irányítja, a tisztségre új pályázatot írnak ki.",
     "content_hu": "• **A visszalépés oka** Balogh Tamás László Facebook-bejegyzésében azt írta, a kinevezése és az átadás-átvétel megkezdése között olyan tapasztalatok érték, amelyek alapján úgy látta, nem áll fenn a kellő kölcsönös bizalom a helyi intézményekkel.\n\n• **A döntés indoka** Balogh szerint a kölcsönös bizalom a közös munka előfeltétele lett volna, ezért mérlegelés után úgy döntött, nem fogadja el a kinevezést.\n\n• **A vezetői poszt betöltése** November 5-től ideiglenesen a tankerület szakmai vezetője veszi át az irányítást, a Klebelsberg Központ pedig új pályázatot ír ki az Észak-Budapesti Tankerületi Központ vezetésére.\n\n• **A kinevezési folyamat bírálata** A tankerületi vezetők kiválasztási eljárását pedagógus-szakszervezetek és a Tanítanék Mozgalom is bírálta; szerintük a pályáztatás elkapkodott és átláthatatlan volt.",
-    "importance_score": 45.0
+    "importance_score": 38.0
   },
   {
     "group_id": "group_799325586c",
@@ -1126,6 +1193,24 @@
     "content_hu": "A bankok számára új lehetőségeket kínálhat a piaci hitelezés, de kérdéses, hogy ez ellensúlyozhatja-e a támogatott kölcsönök iránti kereslet csökkenését."
   },
   {
+    "group_id": "group_b388872ecb",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr csúcsra járatja a terelést - videó",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/ha-a-tereles-ilyen-utemben-megy-tovabb-rovar-ur-meg-fogja-kurni-iliket-a-kupolaban-live-ban"
+      }
+    ],
+    "published_at": 1794162000,
+    "title_hu": "Rovar úr csúcsra járatja a terelést - videó",
+    "lead_hu": "Egészen durva terelés vette kezdetét.Csaszi így kommentálta az eseményeket:Na!Bár fent a magasban, de ennél lejjebb, már nem lehet süllyedni.Megy a terelés!",
+    "content_hu": "Egészen durva terelés vette kezdetét.Csaszi így kommentálta az eseményeket:Na!Bár fent a magasban, de ennél lejjebb, már nem lehet süllyedni.Megy a terelés!"
+  },
+  {
     "group_id": "group_f0fd324d85",
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261108/1794161842-temp-ogkqa2qnhst0daclahc_cimlap-normal.jpg",
@@ -1200,7 +1285,7 @@
     "title_hu": "Havasi Bertalan politikai támadásnak nevezte az Erzsébet-táborok reklámköltései miatti feljelentést",
     "lead_hu": "Kátai-Németh Vilmos szociális és családügyi miniszter hűtlen kezelés gyanúja miatt tett feljelentést az Erzsébet-táborok reklámozására fordított közpénzek ügyében. Havasi Bertalan politikai támadásnak nevezte a lépést, és „ordas hazugságnak” mondta, hogy a pénzt másra is lehetett volna fordítani. A miniszter közlése szerint a vizsgálatuk során feltárt dokumentumok alapján a választás előtt alig több mint egy hónap alatt több mint egymilliárd forintot költöttek reklámra.",
     "content_hu": "• **Több mint egymilliárd forintot költöttek reklámra:** Kátai-Németh Vilmos szerint a kormány az áprilisi országgyűlési választás előtt alig több mint egy hónap alatt fordított ennyit az Erzsébet-táborok népszerűsítésére.\n\n• **Feljelentést tett a miniszter:** Kátai-Németh hűtlen kezelés gyanúja miatt fordult a hatóságokhoz. Szerinte a reklámokra költött pénzt a gyermekek nyaraltatására is lehetett volna fordítani.\n\n• **Havasi politikai támadásnak nevezte az ügyet:** Orbán Viktor volt miniszterelnök titkárságának szóvivője szerint az Erzsébet-táborok tájékoztatása jogszerű és célszerű volt, a forrást pedig törvényileg társadalmi tájékoztatásra lehetett fordítani. „Ordas hazugságnak” nevezte, hogy az összeget át lehetett volna csoportosítani.\n\n• **Havasi a tárca és a családpolitika állapotát is bírálta:** Közleményében azt állította, hogy folyamatosan leépítik a családtámogatásokat, miközben a minisztériumtól sorra távoznak a szakemberek. Szerinte a miniszter a rászoruló diákok, nagycsaládosok és hátrányos helyzetű gyermekek táborozását segítő tájékoztatást állítja be bűnként.\n\n• **Egy másik feljelentést is tett Kátai-Németh:** A miniszter október közepén hivatali visszaélés és hűtlen kezelés gyanúja miatt fordult a Központi Nyomozó Főügyészséghez. Állítása szerint a korábbi kormánypárt mintegy 600 millió forint közpénzt fordított Koncz Zsófia választási rendezvényeire.\n\n• **A miniszter dokumentumokra hivatkozott:** Kátai-Németh a minisztérium által feltárt dokumentumok alapján indokolta a feljelentést; erről szombaton, Facebook-videóban számolt be, Havasi pedig vasárnap reagált.\n\n• **Havasi a Fidesz sajtófőnöke is:** A Világgazdaság a volt miniszterelnöki titkársági szóvivő mellett a Fidesz sajtófőnökeként is hivatkozott rá.",
-    "importance_score": 65.0
+    "importance_score": 58.0
   },
   {
     "group_id": "group_7187896edd",
@@ -1219,24 +1304,6 @@
     "title_hu": "Trump bedurvult: egy ketrecharcost akar rászabadítani a fehér házi tudósítókra",
     "lead_hu": "Az amerikai elnök az MMA globális szervezetének elnökét kérte fel a Fehér Ház szóvivői posztjára. Dana White már úton is van Washingtonba.",
     "content_hu": "Az amerikai elnök az MMA globális szervezetének elnökét kérte fel a Fehér Ház szóvivői posztjára. Dana White már úton is van Washingtonba."
-  },
-  {
-    "group_id": "group_9c68e37c05",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261108/1794161541-temp-64if48vhvpn9cckajgo_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Oroszország került Norvégia helyére a kanadai junior jégkorong-vb-n, több ország tiltakozik",
-        "link": "https://telex.hu/sport/2026/11/08/oroszorszag-norvegia-kanada-junior-jegkorong-vilagbajnoksag"
-      }
-    ],
-    "published_at": 1794161780,
-    "title_hu": "Oroszország került Norvégia helyére a kanadai junior jégkorong-vb-n, több ország tiltakozik",
-    "lead_hu": "Kaotikus helyzet alakult ki a nemzetközi Sportdöntőbíróság döntése miatt.",
-    "content_hu": "Kaotikus helyzet alakult ki a nemzetközi Sportdöntőbíróság döntése miatt."
   },
   {
     "group_id": "group_a225b2b620",
@@ -1321,7 +1388,7 @@
     "title_hu": "Több hullámban érkezik az eső jövő héten, pénteken akár 21 fok is lehet",
     "lead_hu": "Jövő héten több hullámban érkezhet csapadék Magyarországra, szombatig helyenként 30–50 milliméter eső hullhat, bár a mediterrán ciklon miatt a mennyiség és az eső eloszlása még bizonytalan. A hét elején 5–13 fokos maximumok várhatók, pénteken délen akár 21 fok is lehet, a hétvégén viszont lehűlés jön. A kiadós csapadék a talaj mélyebb rétegeit is átnedvesítheti, és mérsékelheti az aszályt.",
     "content_hu": "• **Több hullámban érkezik csapadék** – Kedden többfelé, majd szerda estétől és pénteken is várható eső, zápor; délen zivatar is kialakulhat. Kedden a Nyugat-Dunántúl egyes részei kimaradhatnak a csapadékból.\n\n• **Akár 50 milliméter eső is hullhat** – Szombatig helyenként 30–40, elszórtan akár 50 milliméter csapadék gyűlhet össze. A mediterrán ciklon pályája miatt az eső területi és időbeli eloszlása még bizonytalan.\n\n• **Mérséklődhet az aszály** – A kiadós eső a talaj mélyebb rétegeit is átnedvesítheti, így tovább enyhülhet az aszályhelyzet.\n\n• **Hétfőn a Dunántúlon lehet naposabb az idő** – Keleten fokozatosan csökken a felhőzet, de tartósan borult tájakon délelőtt még kisebb csapadék is előfordulhat. A maximumok többnyire 8–12 fok között alakulnak, borult helyeken 5–7 fok várható.\n\n• **Kedden hajnalban akár mínusz 5 fok is lehet** – A hőmérséklet kora délután 4–13 fok között alakul, délnyugaton lesz enyhébb az idő. A szél déliesről délután északnyugatira, északira fordulhat.\n\n• **Szerdán és csütörtökön párás, felhős idő várható** – Hajnalban köd is képződhet, napközben pedig helyenként gyenge eső vagy zápor fordulhat elő; szerda estétől gyakoribbá válhatnak a záporok. Csütörtökön hajnalban 1–10, délután általában 10–16 fokra lehet számítani.\n\n• **Pénteken délen akár 21 fok is lehet** – Hajnalban 5–14, napközben 9–21 fok várható, a déli, délkeleti országrészben lesz a legmelegebb. Többfelé eshet, és a szél helyenként erős, akár viharos lökéseket is kaphat.\n\n• **A hétvégére lehűlés érkezik** – Szombaton megszűnhet a csapadék, a hőmérséklet délután 7–12 fok között alakulhat. Vasárnap napos, száraz idő valószínű, délután 6–11 fokkal, hajnalban pedig mínusz 8 és plusz 1 fok közötti értékekkel.",
-    "importance_score": 45.0
+    "importance_score": 38.0
   },
   {
     "group_id": "group_d58fda125f",
@@ -2278,7 +2345,7 @@
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f1c6480f-311b-407c-af58-9bcb091f6c5a.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Világgazdaság",
@@ -2299,12 +2366,23 @@
         "source": "Index - Címlap",
         "title": "Vészhelyzeti kormány alakulhat Izraelben, Netanjahu legfőbb szövetségese lemondott mandátumáról",
         "link": "https://index.hu/kulfold/2026/11/08/izrael-valasztasok-benjamin-netanjahu-likud-sasz-arije-deri-ultraortodox-veszhelyzeti-kormany-gadi-ejzenkot-egyenesen/"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Gadi Eisenkotot bízza meg a kormányalakítással az izraeli államfő",
+        "link": "https://hvg.hu/vilag/20261107_gadi-eisenkot-izrael-kormanyalakitas-megbizas"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Netanjahu riválisát bízta meg új kormány alakításával az izraeli elnök",
+        "link": "https://www.vadhajtasok.hu/2026/11/07/netanjahu-rivalisat-bizta-meg-uj-kormany-alakitasaval-az-izraeli-elnok"
       }
     ],
     "published_at": 1794155460,
     "title_hu": "Eisenkot átvette a kormányalakítási megbízást, nemzeti vészhelyzeti kormányt akar",
     "lead_hu": "Gadi Eisenkot vasárnap hivatalosan is átvette Jichák Hercog izraeli államfőtől a kormányalakítási megbízást: a parlamenti pártokkal folytatott egyeztetéseken 67 képviselő őt, 46 pedig Benjamin Netanjahut javasolta. Eisenkot nemzeti vészhelyzeti kormányt alakítana, de a parlamenti patthelyzet miatt továbbra sem biztos, hogy többséget szerez; a kormányalakításra 28 napja van, amelyet az államfő további 14 nappal meghosszabbíthat.",
-    "content_hu": "• **67 képviselő támogatta a felkérését** Jichák Hercog a megbízólevél átadásakor közölte, hogy a kneszetbe bekerült pártok képviselőivel folytatott konzultációkon 67-en Eisenkotot, 46-an pedig Netanjahut javasolták kormányfőnek.\n\n• **Nemzeti vészhelyzeti kormányt akar** Eisenkot a megbízás átvételekor azt mondta, a lehető legrövidebb időn belül ilyen kormányt alakítana, és minden izraeli állampolgár miniszterelnöke kíván lenni.\n\n• **A parlamenti erőviszonyok patthelyzetet jeleznek** Netanjahu tábora 53, az Eisenkot mögötti zsidó pártokból álló blokk 48 mandátumot szerzett a 120 fős kneszetben; a két arab párté összesen 19 hely. Eisenkot Jásár pártja 21, a Likud 27 mandátumot kapott.\n\n• **Az arab pártok támogatása nem jelent biztos koalíciót** Vezetőik Eisenkotot javasolták a kormányalakítási folyamatban, de ő korábban kizárta, hogy velük közösen alakítson kormányt, így egyelőre nem világos, elfogadja-e a külső támogatásukat.\n\n• **28 napja van a kormányalakításra** A határidő egyszer 14 nappal meghosszabbítható. Ha Eisenkot nem jár sikerrel, másik politikus kaphat lehetőséget; ezt követően a kneszet is jelölhet miniszterelnököt, és ha nagyjából száz napon belül sem alakul kormány, új választás következhet.\n\n• **Deri távozik a kneszetből, de pártelnök maradhat** Netanjahu fontos szövetségese, a Sasz pártot vezető Arije Deri bejelentette, hogy nem lesz tagja az új parlamentnek. A párt hat mandátumot szerzett; bár Deri a vezetői tisztségéről is távozna, a rabbik tanácsa arra kérte, maradjon a párt élén. Mandátum nélkül is megőrizheti befolyását a pártban és a koalíciós tárgyalásokon.\n\n• **Eisenkot lehetne az első mizrahi származású miniszterelnök** A 66 éves politikus marokkói bevándorlók gyermeke; a mizrahi közösséghez tartoznak azok a zsidók, akiknek családi gyökerei a Közel-Keletre vagy Észak-Afrikára vezethetők vissza.\n\n• **A politikai pályára a hadseregből érkezett** Eisenkot 2015 és 2019 között az izraeli hadsereg vezérkari főnöke volt, 2022-ben lépett politikai pályára, majd a Hamász 2023. október 7-i támadása után rövid ideig Netanjahu háborús kabinetjében is részt vett. Saját, Jásár nevű pártját 2025-ben alapította.\n\n• **Ellenzi a palesztin állam létrehozását** Kampányában azt ígérte, hogy véget vet a Hamász gázai uralmának és megsemmisíti a szervezet katonai szárnyát.\n\n• **„Zsidó terrorizmusnak” nevezte a telepesek erőszakát** Eisenkot a ciszjordániai palesztinok elleni támadásokról ezt mondta, és azzal vádolta Netanjahu kormányát, hogy támogatja az erőszakot."
+    "content_hu": "• **67 képviselő támogatta a felkérését** Jichák Hercog a megbízólevél átadásakor közölte, hogy a kneszetbe bekerült pártok képviselőivel folytatott konzultációkon 67-en Eisenkotot, 46-an pedig Netanjahut javasolták kormányfőnek.\n\n• **Nemzeti vészhelyzeti kormányt akar** Eisenkot a megbízás átvételekor azt mondta, a lehető legrövidebb időn belül ilyen kormányt alakítana, és minden izraeli állampolgár miniszterelnöke kíván lenni.\n\n• **A parlamenti erőviszonyok patthelyzetet jeleznek** Netanjahu tábora 53, az Eisenkot mögötti zsidó pártokból álló blokk 48 mandátumot szerzett a 120 fős kneszetben; a két arab párté összesen 19 hely. Eisenkot Jásár pártja 21, a Likud 27 mandátumot kapott.\n\n• **Az arab pártok támogatása nem jelent biztos koalíciót** Vezetőik Eisenkotot javasolták a kormányalakítási folyamatban, de ő korábban kizárta, hogy velük közösen alakítson kormányt, így egyelőre nem világos, elfogadja-e a külső támogatásukat.\n\n• **28 napja van a kormányalakításra** A határidő egyszer 14 nappal meghosszabbítható. Ha Eisenkot nem jár sikerrel, másik politikus kaphat lehetőséget; ezt követően a kneszet is jelölhet miniszterelnököt, és ha nagyjából száz napon belül sem alakul kormány, új választás következhet.\n\n• **Deri távozik a kneszetből, de pártelnök maradhat** Netanjahu fontos szövetségese, a Sasz pártot vezető Arije Deri bejelentette, hogy nem lesz tagja az új parlamentnek. A párt hat mandátumot szerzett; bár Deri a vezetői tisztségéről is távozna, a rabbik tanácsa arra kérte, maradjon a párt élén. Mandátum nélkül is megőrizheti befolyását a pártban és a koalíciós tárgyalásokon.\n\n• **Eisenkot lehetne az első mizrahi származású miniszterelnök** A 66 éves politikus marokkói bevándorlók gyermeke; a mizrahi közösséghez tartoznak azok a zsidók, akiknek családi gyökerei a Közel-Keletre vagy Észak-Afrikára vezethetők vissza.\n\n• **A politikai pályára a hadseregből érkezett** Eisenkot 2015 és 2019 között az izraeli hadsereg vezérkari főnöke volt, 2022-ben lépett politikai pályára, majd a Hamász 2023. október 7-i támadása után rövid ideig Netanjahu háborús kabinetjében is részt vett. Saját, Jásár nevű pártját 2025-ben alapította.\n\n• **Ellenzi a palesztin állam létrehozását** Kampányában azt ígérte, hogy véget vet a Hamász gázai uralmának és megsemmisíti a szervezet katonai szárnyát.\n\n• **„Zsidó terrorizmusnak” nevezte a telepesek erőszakát** Eisenkot a ciszjordániai palesztinok elleni támadásokról ezt mondta, és azzal vádolta Netanjahu kormányát, hogy támogatja az erőszakot.",
+    "importance_score": 73.0
   },
   {
     "group_id": "group_5ea57d27f9",
@@ -2757,7 +2835,7 @@
     "title_hu": "Két halálos áldozata és 33 sérültje van a horvátországi buszbalesetnek",
     "lead_hu": "Két ember meghalt, 33-an pedig megsérültek, amikor november 8-án reggel felborult egy szerb busz a horvátországi A3-as autópályán. A Niš és Zágráb között közlekedő járat áttörte a szalagkorlátot; a baleset körülményeit vizsgálják.",
     "content_hu": "• **A baleset helyszíne és ideje** November 8-án reggel 7 óra 25 perc körül, az A3-as autópálya 61. kilométerénél, az Ivanić-Grad csomópont közelében borult fel a Zágráb felé tartó busz.\n\n• **Áldozatok és sérültek** Két ember meghalt, 33-an megsérültek; közülük hatan súlyosan, 27-en könnyebben. A sérülteket öt zágrábi kórházba szállították.\n\n• **A baleset körülményei** A Niš Express menetrend szerinti járata eddig tisztázatlan okból letért az útról, áttörte a védőkorlátot, majd az úttesttől körülbelül tíz méterre az oldalára borult.\n\n• **A buszon tartózkodók száma** Nem hivatalos információk szerint a járművön 33 utas és két sofőr utazott.\n\n• **Mentés** A mentésben mentők és tűzoltók vettek részt, a súlyosabb esetek ellátásához mentőhelikoptert is bevetettek. Egy szemtanú szerint több sérültet takarókba burkolva, a füves területen helyeztek el.\n\n• **Vizsgálat** A horvát rendőrség vizsgálja, mi okozta a balesetet; egyelőre nem tudni, miért vesztette el a sofőr az uralmát a jármű felett.",
-    "importance_score": 53.0
+    "importance_score": 48.0
   },
   {
     "group_id": "group_4c81309b70",
@@ -2878,7 +2956,7 @@
     "title_hu": "Barnier: Nagy-Britannia visszatérhet az EU-ba, de nem válogathat a feltételek között",
     "lead_hu": "Michel Barnier volt brexit-főtárgyaló szerint nyitva áll az Európai Unió ajtaja Nagy-Britannia előtt, ha az ország ismét csatlakozni kíván. A briteknek azonban a teljes tagsági feltételrendszert, köztük a négy szabadságjogot is el kellene fogadniuk, a visszalépés pedig akár egyetlen parlamenti ciklus alatt megvalósulhatna.",
     "content_hu": "• **A feltételek egységesek** Barnier a BBC-nek azt mondta, Nagy-Britannia nem válogathat az uniós tagság kötelezettségei között; az egységes piac négy szabadságjoga – az emberek, az áruk, a szolgáltatások és a tőke szabad mozgása – csak együtt érvényesülhet.\n\n• **Korábbi engedményekre sem számíthatnának** A volt főtárgyaló szerint az Egyesült Királyság nem kapná vissza automatikusan a korábbi különkedvezményeit, például a Margaret Thatcher által 1984-ben kiharcolt költségvetési visszatérítést.\n\n• **A brexit összetett folyamat volt** Barnier felidézte, hogy a kilépéskor Nagy-Britanniának 600 nemzetközi szerződésből is ki kellett lépnie.\n\n• **A csatlakozási folyamat rövidebb lehet** Barnier szerint az újbóli belépésről szóló tárgyalások a brexitnél gyorsabban lezárulhatnának, mert az ország a kilépése óta nem távolodott el jelentősen az uniós szabályozástól.\n\n• **Akár öt év alatt is megvalósulhatna a visszalépés** A Best for Britain nevű EU-párti szervezet elemzése szerint Nagy-Britannia egyetlen, ötéves parlamenti ciklus alatt vissza tudna lépni az unióba, mivel továbbra is szorosan illeszkedik az EU intézményrendszeréhez és szabályozási környezetéhez.\n\n• **A brit kormány közeledést mérlegel** Andy Burnham felvetette az EU-val való szorosabb gazdasági kapcsolatok, valamint a szabad mozgás helyreállításáról szóló tárgyalások lehetőségét. A teljes tagságot sem zárta ki, de a kérdés a 2029-ig tartó jelenlegi parlamenti ciklusban nem kerül napirendre.",
-    "importance_score": 38.0
+    "importance_score": 33.0
   },
   {
     "group_id": "group_f7de2aa117",
@@ -2940,7 +3018,7 @@
     "title_hu": "Bóka János visszalépésnek nevezte a Tisza fásítási programját",
     "lead_hu": "Magyar Péter miniszterelnök négy évre szóló, 57,8 milliárd forintos zöld stratégiájára Bóka János úgy reagált: szerinte a Tisza terve visszalépés a korábbi programokhoz képest. A Fidesz frakcióvezetője a korábbi kormányzati forrásokat és célkitűzéseket idézte, és kérdésesnek nevezte, hogy az új összeg teljes egészében új forrás-e.",
     "content_hu": "• **57,8 milliárd forintos zöld stratégia** Magyar Péter bejelentése szerint a következő négy évben 18,2 milliárd forint jutna országfásításra, 39,6 milliárd pedig a települések zöldítésére.\n\n• **Bóka szerint a terv visszalépés** A politikus azt állította, hogy a Fidesz–KDNP-kormány 2025–2026-ra 98,2 milliárd forintot irányzott elő erdőtelepítésre, fásításra és kapcsolódó beruházásokra. Arra is emlékeztetett, hogy az Országfásítási Program 2019-es indulása óta közel 200 millió fát ültettek el, és 2030-ra 27 százalékos erdősültséget tűztek ki célul.\n\n• **Kérdéses, mennyi az új forrás** Bóka szerint nem világos, hogy a Tisza által megnevezett 57,8 milliárd forint teljes egészében új pénz-e, vagy korábbi intézkedések finanszírozását is tartalmazza.",
-    "importance_score": 33.0
+    "importance_score": 28.0
   },
   {
     "group_id": "group_57adc156e4",
@@ -3102,7 +3180,7 @@
     "title_hu": "Gáspár Virág szerint származásuk miatt nem engedték be őket egy budapesti klubba",
     "lead_hu": "Gáspár Virág TikTok-videóban azt állította, hogy őt, nővérét, Gáspár Evelint és barátaikat roma származásuk miatt nem engedték be egy budapesti szórakozóhelyre. Elmondása szerint elővételes jegyük volt, szerepeltek a vendéglistán, asztalt foglaltak, és megfeleltek a dresszkódnak; Virág azt mondta, nem a klub lejáratása, hanem a véleménye megosztása volt a célja. A beszámolóra reagáló kommentelők között együttérzők és kétkedők is voltak.",
     "content_hu": "• **A bejutás megtagadása:** Gáspár Virág beszámolója szerint a társaságot annak ellenére nem engedték be a klubba, hogy elővételes jegyük és asztalfoglalásuk volt, valamint a vendéglistán is szerepeltek.\n\n• **A diszkriminációra vonatkozó állítás:** Virág azt mondta, közölték velük, hogy romák, ezért nem mehetnek be. Állítása szerint korábban egy másik budapesti szórakozóhelyen is hasonló eset történt.\n\n• **A klubok megnevezése:** Virág a Dűne Bár & Clubot nevezte meg a történtek helyszíneként, a Dojo Clubot pedig egy korábbi hasonló eset kapcsán említette. A klubokat megkeresték, válaszuk esetén frissítik a cikket.\n\n• **Virág szándéka:** A TikTok-videó végén azt mondta, nem szeretné megbántani vagy lejáratni a klubot, csak a véleményét akarta megosztani.\n\n• **Kommentelői reakciók:** A Bors beszámolója szerint többen együttérzően reagáltak a történetre, egyikük feljelentést javasolt, más pedig azt kérdezte, visszakapták-e a jegyek árát. Akadt olyan kommentelő is, aki kételkedett a történetben, egy hozzászóló viszont azt írta, vele is történt már hasonló.",
-    "importance_score": 48.0
+    "importance_score": 43.0
   },
   {
     "group_id": "group_9dd2df02d9",
@@ -3273,7 +3351,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "HVG - Tudomány & Tech",
@@ -3284,12 +3362,18 @@
         "source": "444.hu",
         "title": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
         "link": "https://444.hu/2026/11/08/okos-dronokkal-fogja-a-mav-felugyelni-a-hozza-tartozo-uzemi-teruleteket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "ATV",
+        "title": "Elegük lett az életveszélyes akciókból: drónokkal csap le a behatolókra a MÁV",
+        "link": "https://www.atv.hu/belfold/20261108/mav-dronok-mi-palyaudvar-orzes/"
       }
     ],
     "published_at": 1794149267,
     "title_hu": "MI-vezérelt drónokkal figyeli a vasúti területeket a MÁV",
     "lead_hu": "A MÁV az év végétől mesterséges intelligenciával támogatott drónokkal őrizné a nagyobb vasúti üzemi területeket. A rendszer a gyanús mozgásokat észleli, majd értesíti a helyszínen szolgálatot teljesítő biztonsági munkatársakat; a vagyonvédelem mellett a balesetek megelőzése is cél.",
-    "content_hu": "• **Év végi indulás** A MÁV az év végétől állítja szolgálatba az MI-vel támogatott drónokat. A tesztüzem december elején Szolnokon indulhat.\n\n• **Bővítés több pályaudvarra** Ha beválik a rendszer, jövőre 20–25 pályaudvarra is kiterjeszthetik, elsősorban a nagy kiterjedésű üzemi területeken.\n\n• **Gyanús mozgások észlelése** A drónok magyar mesterségesintelligencia-technológia segítségével ismerik fel a kritikus tevékenységeket, és riasztják a helyszíni őröket, akik kivizsgálják az esetet.\n\n• **Vagyonvédelem és baleset-megelőzés** A megfigyelés a vasúti járművek és a szállított áruk védelmét, valamint a behatolások, rongálások és veszélyes helyzetek megelőzését szolgálja.\n\n• **Életveszélyes felmászások** Hegyi Zsolt vezérigazgató elmondása szerint az elmúlt évben tíz alkalommal kaptak el embereket, akik vonatok tetejére másztak. A felsővezeték közelsége miatt az ilyen esetek halálos áramütéssel is végződhetnek; a HVG beszámolója szerint idén már három halálos baleset történt ilyen körülmények között.\n\n• **Júliusi baleset részletei** A HVG szerint júliusban egy 17 éves fiú halálos áramütést szenvedett, egy 16 éves lány életveszélyes égési sérülésekkel került kórházba, a velük lévő harmadik kamasz pedig sokkot kapott.\n\n• **Rendőri elfogás egy eset után** A 444.hu beszámolója szerint egy vagonra felmászó ember végül lemászott és elmenekült, a rendőrség azonban rövid időn belül elfogta."
+    "content_hu": "• **Év végi indulás** A MÁV az év végétől állítja szolgálatba az MI-vel támogatott drónokat. A tesztüzem december elején Szolnokon indulhat.\n\n• **Bővítés több pályaudvarra** Ha beválik a rendszer, jövőre 20–25 pályaudvarra is kiterjeszthetik, elsősorban a nagy kiterjedésű üzemi területeken.\n\n• **Gyanús mozgások észlelése** A drónok magyar mesterségesintelligencia-technológia segítségével ismerik fel a kritikus tevékenységeket, és riasztják a helyszíni őröket, akik kivizsgálják az esetet.\n\n• **Vagyonvédelem és baleset-megelőzés** A megfigyelés a vasúti járművek és a szállított áruk védelmét, valamint a behatolások, rongálások és veszélyes helyzetek megelőzését szolgálja.\n\n• **Életveszélyes felmászások** Hegyi Zsolt vezérigazgató elmondása szerint az elmúlt évben tíz alkalommal kaptak el embereket, akik vonatok tetejére másztak. A felsővezeték közelsége miatt az ilyen esetek halálos áramütéssel is végződhetnek; a HVG beszámolója szerint idén már három halálos baleset történt ilyen körülmények között.\n\n• **Júliusi baleset részletei** A HVG szerint júliusban egy 17 éves fiú halálos áramütést szenvedett, egy 16 éves lány életveszélyes égési sérülésekkel került kórházba, a velük lévő harmadik kamasz pedig sokkot kapott.\n\n• **Rendőri elfogás egy eset után** A 444.hu beszámolója szerint egy vagonra felmászó ember végül lemászott és elmenekült, a rendőrség azonban rövid időn belül elfogta.",
+    "importance_score": 38.0
   },
   {
     "group_id": "group_f3adc12b39",
@@ -4356,18 +4440,11 @@
   },
   {
     "group_id": "group_0a2be0bf2b",
-    "fingerprint": "8798ca81e28ccd146cd2c5505a93f9da",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794135328-temp-kue6l0ipi196ebepaho_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Krakkói lövöldözés: 25 éves lengyel férfi az elkövető - az apjának 11 fegyvere volt",
-        "link": "https://www.vadhajtasok.hu/2026/11/07/krakkoi-lovoldozes-25-eves-lengyel-ferfi-az-elkoveto-az-apjanak-11-fegyvere-volt"
-      },
       {
         "source": "Telex - Belföld",
         "title": "„Futásnak eredtünk, nem néztem hátra, annyira féltem” – sokkolta Lengyelországot a krakkói lövöldözés",
@@ -4375,9 +4452,9 @@
       }
     ],
     "published_at": 1794140815,
-    "title_hu": "Újabb részletek a krakkói lövöldözésről: a gyanúsított családtagjainak holttestét is megtalálták",
-    "lead_hu": "A hat halálos áldozat között egy 51 éves osztrák nő is van, a sérültek számáról szóló beszámolók 15 és 16 között eltérnek. Az új információk szerint a lengyel gyanúsítottat a rendőrök meglőtték, elfogása után kórházba vitték; lakásában családtagjai holttestére is rábukkantak.",
-    "content_hu": "• **Az áldozatok életkora és állampolgársága** A hat halott között három lengyel nő – egy 61, egy 47 és egy 53 éves –, egy 50 éves lengyel férfi, egy 32 éves brit férfi, valamint egy 51 éves osztrák nő van. Az osztrák nő férje is megsérült.\n\n• **A támadás útvonala és a villamos** A lövöldözés szombaton nem sokkal délután három óra után kezdődött: a támadó fekete Subaruval hajtott be a főtérre a Sławkowska utca felől. A Mindenszentek terén egy villamosra is rálőtt, betörve a vezetőfülke egyik ablakát; a jármű vezetője és utasai nem sérültek meg.\n\n• **A megsérült lovak** Két, turisták által használt lovaskocsi elé fogott ló is megsérült, de mindkettő életben maradt. Az egyik állatot egy lövedék súrolta, a másik a lábán sérült meg.\n\n• **A fegyver és a támadó felszerelése** A beszámolók szerint a férfi terepszínű ruhát és golyóálló mellényt viselt, és egy AR–15-ös típusú félautomata puskát használhatott. Az autóban talált fegyverek és lőszerek mellett katonai hátizsákot, tárakat és bajonettet is találtak; a lakásában szintén fegyverekre bukkantak.\n\n• **A rendőrök állapota és személye** A két meglőtt rendőr, Artur Morański és Jakub Kulik vasárnapra magához tért; Kulik korábban katonaként szolgált. A lengyel vezetők hősként méltatták őket, a hatóságok pedig véradásra szólítottak fel a sérültek megsegítésére.\n\n• **A gyanúsított előélete** A rendőrség közlése szerint a feltételezett elkövetőnek korábban nem volt rendőrségi ügye, és nem került a hatóságok látókörébe.\n\n• **Városi gyász és turizmus** Krakkó polgármestere szerdáig tartó hivatalos gyászt hirdetett, ugyanakkor jelezte, hogy a város továbbra is nyitva áll a turisták előtt.\n\n• **Magyar áldozatokról nincs információ** A magyar Külügyminisztérium közlése szerint nem tudnak arról, hogy a lövöldözésnek magyar áldozata lenne.\n\n• **A gyanúsított személyazonossága és életkora** A lengyel belügyi tárca szerint az elkövető lengyel állampolgár; egy lengyel lap Michał O.-ként azonosította, aki a Szentkereszt vajdaságból származik. Életkoráról eltérő adat jelent meg: az egyik forrás 24, a másik 25 évesnek írta.\n\n• **Fegyvertartási engedélyek és az autó** A beszámoló szerint a gyanúsítottnak két lőfegyver tartására volt engedélye, a lövöldözés helyszínére pedig az apja nevén nyilvántartott autóval érkezett. Az 52 éves apa legálisan tartott 11 fegyvert; a forrás szerint sem ő, sem a fia nem szerepelt korábban a hatóságok nyilvántartásában.\n\n• **A gyanúsított állapota és a lakásában talált holttestek** A rendőrök az elfogásakor meglőtték a férfit, akit stabil állapotban kórházban ápolnak. Lakásában családtagjai holttestét is megtalálták.\n\n• **Példa nélküli támadásként írták le** A Telex beszámolója szerint Lengyelországban korábban nem történt hasonló lövöldözés."
+    "title_hu": "„Futásnak eredtünk, nem néztem hátra, annyira féltem” – sokkolta Lengyelországot a krakkói lövöldözés",
+    "lead_hu": "Hat ember meghalt, tizenöten pedig megsérültek, miután szombaton egy fegyveres autójából válogatás nélkül lövöldözni kezdett a Krakkó főterén sétálókra. A támadót, egy 24 éves lengyel férfit elfogták,…",
+    "content_hu": "Hat ember meghalt, tizenöten pedig megsérültek, miután szombaton egy fegyveres autójából válogatás nélkül lövöldözni kezdett a Krakkó főterén sétálókra. A támadót, egy 24 éves lengyel férfit elfogták, lakásában később megtalálták családtagjai holttestét is. A gyászoló ország hősként ünnepli azokat a rendőröket, akik közvetlen tűzpárbajt vívtak vele. Lengyelországban eddig még soha nem történt hasonló."
   },
   {
     "group_id": "group_54eeb56aca",
@@ -5617,7 +5694,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "NLC (Nők Lapja Café)",
@@ -5638,12 +5715,18 @@
         "source": "HVG - Világ",
         "title": "Saját szüleit és húgát is meggyilkolta a krakkói terrorista",
         "link": "https://hvg.hu/vilag/20261108_sajat-szuleit-es-hugat-is-meggyilkolta-a-krakkoi-terrorista-ebx"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Saját családját is kiirthatta a krakkói mészáros – nemzeti gyász Lengyelországban",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/csaladjat-is-kiirthatta-a-krakkoi-meszaros-nemzeti-gyasz-lengyelorszagban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1794131797,
     "title_hu": "Terrortámadásként vizsgálják a krakkói lövöldözést; a támadó családtagjait is meggyilkolhatták",
     "lead_hu": "A krakkói főtéren történt lövöldözésben hat ember meghalt, a támadóval együtt tizenhatan sérültek meg; öt sérült külföldi állampolgár volt. A rendőrség megerősítette, hogy a 24 éves elkövető otthonában talált három holttest a szüleié és a húgáé. A hatóságok terrorcselekményként vizsgálják az ügyet, és a férfi feltételezett szélsőjobboldali nézeteit, valamint az indítékát is kutatják.",
-    "content_hu": "• **A támadó és a lövöldözés** A sajtó Michal Oksinskiként nevezte meg a 24 éves lengyel férfit, aki autójából nyitott tüzet a krakkói főtéren a járókelőkre. Katonai jellegű ruhát és golyóálló mellényt viselt, és a rendőrökkel folytatott tűzharcban azt követően is lövéseket adott le, hogy megsebesült. A rendőrök meglőtték és elfogták; a férfit kórházba vitték.\n\n• **A használt fegyver és az engedélyek** A rendőrség szerint a támadó egy AR–15-öshöz hasonló félautomata puskával és egy pisztollyal lőtt. Volt fegyvertartási engedélye, de a hatóságok még vizsgálják, hogy a támadásnál használt fegyver az övé vagy valamelyik családtagjáé volt-e. Az autóban további fegyvereket és lőszert találtak. A férfi nem szolgált a lengyel hadseregben, és korábban nem volt rendőrségi ügye.\n\n• **Terrortámadásként vizsgálják az ügyet** A lengyel hatóságok terrorcselekményként kezelik az esetet, és vizsgálják a támadó feltételezett szélsőjobboldali, radikális nézeteit, valamint az indítékát. A jelenlegi információk szerint egyedül cselekedhetett; a rendőrség nem keres más gyanúsítottakat, de a lehetséges kapcsolatait is ellenőrzi.\n\n• **A támadó családtagjai is meghaltak** A rendőrség megerősítette, hogy a férfi Ostrowiec Świętokrzyskiben található otthonában talált holttestek az 53 éves apjáé, az 52 éves anyjáé és a 20 éves húgáé. Mindhármukon lőtt sebeket találtak; haláluk körülményeit vizsgálják.\n\n• **Az áldozatok és a sérültek** A lövöldözésben hat ember meghalt, a támadóval együtt tizenhatan sérültek meg. A halálos áldozatok egyike brit állampolgár; a sérültek között öt külföldi volt, köztük brit, német, orosz, osztrák és portugál állampolgárok. A sérültek között volt a két rendőr is, aki közbelépett. Donald Tusk miniszterelnök Jakub Kulik és Artur Moranski rendőröket hősöknek nevezte, és azt mondta, valószínűleg több ember életét mentették meg.\n\n• **A támadó korábbi viselkedéséről szóló beszámoló** Egy volt osztálytársa azt mondta, hogy Oksinski az iskolában olyan rajzokat készített, amelyeken fegyveres támadó és egy iskolában fekvő holttestek szerepeltek; állítása szerint a férfi iskolai merényletként írta le a jeleneteket. A nő egy gázálarcos távoktatási bejelentkezést is felidézett. Ezek az információk sajtóbeszámolón alapulnak.\n\n• **A fegyverekkel és a családdal kapcsolatos sajtóértesülések** Nem hivatalos információk szerint a támadó apja 11 legálisan tartott fegyverrel rendelkezett, a lövöldözésnél használt autó pedig az apjáé lehetett. Ezeket az értesüléseket a hatóságok még vizsgálják. A férfi sportlövészettel való kapcsolatáról szóló beszámolót az érintett sportklub nem erősítette meg.\n\n• **A családról és a támadóról szóló szomszédi emlékek** Egy szomszéd a családot békés, barátságos és konfliktuskerülő emberekként jellemezte. A férfira csendes, udvarias fiatalemberként emlékezett, aki korábban készségesen megjavította a lámpáját; a történtek ezért különösen megrázták a környék lakóit.\n\n• **Gyász és biztonsági intézkedések** Karol Nawrocki lengyel államfő november 8-át és 9-ét nemzeti gyásznappá nyilvánította. A rendőrök a bejelentéstől számított három percen belül a helyszínre értek; a cseh rendőrség a krakkói események után megelőző intézkedéseket, köztük fokozott utcai jelenlétet jelentett be.\n\n• **Magyar reakciók** A magyar külügyminisztérium közlése szerint nem volt információ magyar áldozatokról vagy sérültekről. A magyar köztársasági elnök és Magyar Péter is részvétét, illetve együttérzését fejezte ki az áldozatok hozzátartozóinak."
+    "content_hu": "• **A támadó és a lövöldözés** A sajtó Michal Oksinskiként nevezte meg a 24 éves lengyel férfit, aki autójából nyitott tüzet a krakkói főtéren a járókelőkre. Katonai jellegű ruhát és golyóálló mellényt viselt, és a rendőrökkel folytatott tűzharcban azt követően is lövéseket adott le, hogy megsebesült. A rendőrök meglőtték és elfogták; a férfit kórházba vitték.\n\n• **A használt fegyver és az engedélyek** A rendőrség szerint a támadó egy AR–15-öshöz hasonló félautomata puskával és egy pisztollyal lőtt. Volt fegyvertartási engedélye, de a hatóságok még vizsgálják, hogy a támadásnál használt fegyver az övé vagy valamelyik családtagjáé volt-e. Az autóban további fegyvereket és lőszert találtak. A férfi nem szolgált a lengyel hadseregben, és korábban nem volt rendőrségi ügye.\n\n• **Terrortámadásként vizsgálják az ügyet** A lengyel hatóságok terrorcselekményként kezelik az esetet, és vizsgálják a támadó feltételezett szélsőjobboldali, radikális nézeteit, valamint az indítékát. A jelenlegi információk szerint egyedül cselekedhetett; a rendőrség nem keres más gyanúsítottakat, de a lehetséges kapcsolatait is ellenőrzi.\n\n• **A támadó családtagjai is meghaltak** A rendőrség megerősítette, hogy a férfi Ostrowiec Świętokrzyskiben található otthonában talált holttestek az 53 éves apjáé, az 52 éves anyjáé és a 20 éves húgáé. Mindhármukon lőtt sebeket találtak; haláluk körülményeit vizsgálják.\n\n• **Az áldozatok és a sérültek** A lövöldözésben hat ember meghalt, a támadóval együtt tizenhatan sérültek meg. A halálos áldozatok egyike brit állampolgár; a sérültek között öt külföldi volt, köztük brit, német, orosz, osztrák és portugál állampolgárok. A sérültek között volt a két rendőr is, aki közbelépett. Donald Tusk miniszterelnök Jakub Kulik és Artur Moranski rendőröket hősöknek nevezte, és azt mondta, valószínűleg több ember életét mentették meg.\n\n• **A támadó korábbi viselkedéséről szóló beszámoló** Egy volt osztálytársa azt mondta, hogy Oksinski az iskolában olyan rajzokat készített, amelyeken fegyveres támadó és egy iskolában fekvő holttestek szerepeltek; állítása szerint a férfi iskolai merényletként írta le a jeleneteket. A nő egy gázálarcos távoktatási bejelentkezést is felidézett. Ezek az információk sajtóbeszámolón alapulnak.\n\n• **A fegyverekkel és a családdal kapcsolatos sajtóértesülések** Nem hivatalos információk szerint a támadó apja 11 legálisan tartott fegyverrel rendelkezett, a lövöldözésnél használt autó pedig az apjáé lehetett. Ezeket az értesüléseket a hatóságok még vizsgálják. A férfi sportlövészettel való kapcsolatáról szóló beszámolót az érintett sportklub nem erősítette meg.\n\n• **A családról és a támadóról szóló szomszédi emlékek** Egy szomszéd a családot békés, barátságos és konfliktuskerülő emberekként jellemezte. A férfira csendes, udvarias fiatalemberként emlékezett, aki korábban készségesen megjavította a lámpáját; a történtek ezért különösen megrázták a környék lakóit.\n\n• **Gyász és biztonsági intézkedések** Karol Nawrocki lengyel államfő november 8-át és 9-ét nemzeti gyásznappá nyilvánította. A rendőrök a bejelentéstől számított három percen belül a helyszínre értek; a cseh rendőrség a krakkói események után megelőző intézkedéseket, köztük fokozott utcai jelenlétet jelentett be.\n\n• **Magyar reakciók** A magyar külügyminisztérium közlése szerint nem volt információ magyar áldozatokról vagy sérültekről. A magyar köztársasági elnök és Magyar Péter is részvétét, illetve együttérzését fejezte ki az áldozatok hozzátartozóinak.",
+    "importance_score": 50.0
   },
   {
     "group_id": "group_d596b1c972",
@@ -5764,7 +5847,7 @@
     "title_hu": "Több mint 57 milliárd forintból indít négyéves fásítási és települészöldítési programot a kormány",
     "lead_hu": "A következő négy évben több mint 57 milliárd forintot fordít a kormány országfásításra és települészöldítésre; az ATV közel 60 milliárdos keretről ír. A programban legalább 12 millió facsemetét ültetnek el, és önkormányzati pályázatokkal támogatják a hosszú távon fenntartható zöldfelületek kialakítását.",
     "content_hu": "• **Eltérő összeg szerepel a forrásokban:** a Portfolio és a Telex több mint 57 milliárd forintos keretről ír, az ATV közel 60 milliárd forintot említ.\n\n• **Négy év alatt legalább 12 millió facsemetét ültetnek el:** az országfásítási programra 18,2 milliárd forintot különítenek el; több mint 1300 hektárnyi új erdőt telepítenek, és 20 ezer kilométernyi csatornaszakaszt fásítanak.\n\n• **A meglévő erdők védelmére és az erdőtüzek megelőzésére is jut pénz:** négymilliárd forintot fordítanak az erdők fenntarthatóbbá tételére, egymilliárdból pedig integrált erdőtűz-védelmi akciótervet indítanak.\n\n• **A keret legnagyobb részét a települészöldítés kapja:** erre 39,6 milliárd forintot szánnak, többek között közkertek, közparkok, fasorok és települési zöldfelületek létrehozására, illetve fenntartására.\n\n• **Négyféle önkormányzati pályázatot írnak ki:** ezekre bármely magyar település jelentkezhet, a projektek előkészítésébe pedig szakmai szervezeteket, köztük erdőgazdaságokat, vízügyi szakembereket, tájépítészeket és kutatókat is bevonnak.\n\n• **A fejlesztéseket a helyi adottságokhoz igazítják:** a tervek szerint a települések klímáját és vízháztartását is figyelembe veszik, a cél pedig nem pusztán a fák elültetése, hanem azok hosszú távú gondozása és életben tartása.",
-    "importance_score": 38.0
+    "importance_score": 35.0
   },
   {
     "group_id": "group_541688303a",
@@ -5887,7 +5970,7 @@
     "title_hu": "Félmillió liter olaj ömlött ki a horvát vezetékből, 6600 négyzetméter szennyeződött be",
     "lead_hu": "A Janaf közlése szerint mintegy 500 ezer liter kőolaj került a környezetbe, ebből szombat estig körülbelül 200 ezret gyűjtöttek össze. A szennyezés 6600 négyzetmétert érintett; a környéken több mint tizenöten kértek sürgősségi ellátást, de a vizsgálatok után mindenkit hazaengedtek.",
     "content_hu": "• **Pontosított káradat** A Janaf korábban kisebb mennyiségről számolt be, később azonban közölte, hogy mintegy 500 köbméter, azaz 500 ezer liter kőolaj jutott a környezetbe. Szombat estig körülbelül 200 ezer litert sikerült visszagyűjteni.\n\n• **A baleset helye és oka** A Sziszek és Szlavonbród közötti vezeték 88. kilométerénél, Prvca közelében történt baleset: egy külső kivitelező munkagépe pénteken, felújítási munkálatok közben rongálta meg a csövet. A Janaf első közlése szerint a gép lezuhanó alkatrésze okozta a sérülést.\n\n• **A szennyezés kiterjedése** Mintegy 6600 négyzetméter szennyeződött be: körülbelül 6000 négyzetméternyi mezőgazdasági terület, valamint a Masic-patak medrének és partjának további 600 négyzetmétere. A patak a szárazság miatt jelenleg víz nélkül van, az olaj főként a növényzetet és a talaj felső rétegét érintette.\n\n• **Vízminőség és ellenőrzés** A hatósági vizsgálatok sem a felszíni, sem a felszín alatti vizekben nem mutattak ki szennyezést. A víz és a levegő minőségét folyamatosan ellenőrzik. A Janaf közlése szerint a lakosságot nem fenyegeti veszély, az ivóvízellátás sincs veszélyben.\n\n• **Panaszok a környéken** Az olajszag a környező településeken, köztük Nova Gradiskában is érezhető volt. Több mint tizenöten fejfájás, hányinger és légzési nehézségek miatt fordultak sürgősségi ellátáshoz; a vizsgálatok után mindenkit hazaengedtek, kórházi ellátásra senkinek nem volt szüksége.\n\n• **Kármentesítés** A sérült vezetékszakaszon leállították a szállítást, a cső sérülését szombaton lezárták. A következő napokban folytatják az olaj összegyűjtését, a visszanyert olajat visszajuttatják a Janaf rendszerébe, majd eltávolítják a szennyezett talajt és helyreállítják a területet. A teljes kárelhárítás várhatóan mintegy tíz napig tart, utána független laboratórium vizsgálja meg a talajt.\n\n• **A szállítás újraindítása és a magyar ellátás** A Janaf egyelőre nem közölte, mikor indulhat újra a szállítás, és azt sem jelezte, hogy a leállás okozott-e fennakadást a magyarországi szállításokban. A Mol korábbi közlése szerint az eset nem befolyásolja a magyarországi kőolajellátást.\n\n• **Az olajszag** A Janaf szerint jelenleg nincs olyan műszaki megoldás, amellyel megakadályozhatnák a kellemetlen szag terjedését; a szag a kármentesítés előrehaladtával várhatóan csökken.",
-    "importance_score": 73.0
+    "importance_score": 70.0
   },
   {
     "group_id": "group_32ac46cae2",
@@ -5917,7 +6000,8 @@
     "published_at": 1794129660,
     "title_hu": "Török Gábor szerint az Orbán-korszak parlamentáris abszolút köztársaság volt",
     "lead_hu": "Török Gábor politológus szerint az Orbán-korszak sok ponton eltért a „normális demokráciától”, de nem volt diktatúra vagy autokrácia. A Zárug Péter Farkassal közösen írt könyvük alapján parlamentáris abszolút köztársaság épült ki, amely demokratikus alapokon jött létre, és választáson leváltható volt. Egy újonnan idézett mondatában a kultúra haláláról beszélőknek parlamenti közvetítés megtekintését javasolta.",
-    "content_hu": "• **Török Gábor értékelése** A politológus szerint az Orbán-korszak sok ponton eltért a „normális demokráciától”, de nem diktatúra vagy autokrácia volt.\n\n• **A parlamentáris abszolút köztársaság** A Zárug Péter Farkassal közösen jegyzett Orbán kora című könyvük alapján az időszakban formailag pluralista, de szerkezetében aszimmetrikus rendszer épült ki, amelyben a domináns hatalom alakította a politikai verseny feltételeit.\n\n• **A pluralizmus korlátai** Vannak választások, pártok és civil szervezetek, de a politikai szereplők nem egyenrangúak; a pluralizmus hierarchikusan működik.\n\n• **A hatalom intézményi korlátai** A könyv szerint a szuverenitás formálisan demokratikus forrásból ered, miközben az intézményes és alkotmányos korlátok fokozatosan meggyengülnek.\n\n• **Demokratikus eredet és leválthatóság** Török szerint az abszolút köztársaság demokratikus alapokon is létrejöhet, demokratikus választáson meg is bukhat, és más formában tovább élhet.\n\n• **A 2026-os választás értelmezése** Török fontos történelmi fordulópontnak nevezte a választást, de szerinte nem történt forradalom vagy rendszerváltás: a kormányváltás törvényes, demokratikus választáson dőlt el.\n\n• **A kultúráról szóló megjegyzés** Az új forrásban idézett mondat szerint a kultúra haláláról beszélőknek azt javasolta, hogy nézzenek bele egy parlamenti közvetítésbe."
+    "content_hu": "• **Török Gábor értékelése** A politológus szerint az Orbán-korszak sok ponton eltért a „normális demokráciától”, de nem diktatúra vagy autokrácia volt.\n\n• **A parlamentáris abszolút köztársaság** A Zárug Péter Farkassal közösen jegyzett Orbán kora című könyvük alapján az időszakban formailag pluralista, de szerkezetében aszimmetrikus rendszer épült ki, amelyben a domináns hatalom alakította a politikai verseny feltételeit.\n\n• **A pluralizmus korlátai** Vannak választások, pártok és civil szervezetek, de a politikai szereplők nem egyenrangúak; a pluralizmus hierarchikusan működik.\n\n• **A hatalom intézményi korlátai** A könyv szerint a szuverenitás formálisan demokratikus forrásból ered, miközben az intézményes és alkotmányos korlátok fokozatosan meggyengülnek.\n\n• **Demokratikus eredet és leválthatóság** Török szerint az abszolút köztársaság demokratikus alapokon is létrejöhet, demokratikus választáson meg is bukhat, és más formában tovább élhet.\n\n• **A 2026-os választás értelmezése** Török fontos történelmi fordulópontnak nevezte a választást, de szerinte nem történt forradalom vagy rendszerváltás: a kormányváltás törvényes, demokratikus választáson dőlt el.\n\n• **A kultúráról szóló megjegyzés** Az új forrásban idézett mondat szerint a kultúra haláláról beszélőknek azt javasolta, hogy nézzenek bele egy parlamenti közvetítésbe.",
+    "importance_score": 30.0
   },
   {
     "group_id": "group_5261900c23",
@@ -5997,7 +6081,7 @@
     "title_hu": "Húszmillió dolláros jutalmat ajánl az USA az iráni atomprogramról szóló információkért",
     "lead_hu": "Az amerikai külügyminisztérium akár 20 millió dollárt fizethet azoknak, akik megbízható információkat adnak Irán nukleáris programjáról, annak létesítményeiről vagy résztvevőiről. Az informátoroknak szükség esetén az áttelepülésben is segítséget nyújthatnak, miközben a nemzetközi ellenőröknek nincs teljes rálátásuk az iráni nukleáris készletekre és centrifugákra.",
     "content_hu": "• **Akár 20 millió dolláros jutalom** – Az amerikai külügyminisztérium Rewards for Justice programja megbízható információkat vár az iráni atomprogramról, a nukleáris létesítményekről, berendezésekről és az abban részt vevő személyekről. Az informátorok áttelepítését is felajánlhatják.\n\n• **Hiányos ellenőrzési rálátás** – A Nemzetközi Atomenergia-ügynökség nem rendelkezik teljes körű információkkal az iráni centrifugákról és készletekről. Teherán továbbra is azt állítja, hogy atomprogramja békés célokat szolgál.\n\n• **Feszültség és közvetítési kísérletek** – A jutalom bejelentése olyan időszakban érkezett, amikor az Egyesült Államok és Irán között továbbra is feszült a helyzet, a közvetítők pedig a konfliktus rendezésén dolgoznak.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_f205fbbbc7",
@@ -6046,7 +6130,7 @@
     "title_hu": "5,7-es erősségű földrengés rázta meg Japán középső részét",
     "lead_hu": "Vasárnap kora reggel 5,7-es erősségű földrengés történt a japán Sizuoka prefektúra nyugati részén. A helyi sajtó legalább 24 sérültről számolt be, a rengés pedig a vasúti közlekedésben, köztük a Sinkanzen járatainál is fennakadásokat okozott.",
     "content_hu": "• **A rengés helye és erőssége** A földrengés 40 kilométeres mélységben, Tokiótól mintegy 200 kilométerre nyugatra történt. Egy közösségi médiás tájékoztatás szerint helyi idő szerint november 8-án 1 óra 4 perckor következett be.\n\n• **Sérültek és károk** A helyi sajtó legalább 24 sérültről számolt be Sizuoka és Aicsi prefektúrából. Az aicsi mentőszolgálat egyik vezetője 16 könnyű sérültet említett; Tojohasiban betört ablakokról is beszámoltak.\n\n• **Közlekedési fennakadások** A rengés után a térség vasúti forgalmában, köztük a Sinkanzen szuperexpressz közlekedésében is zavarok alakultak ki.\n\n• **Cunamiveszély** A japán meteorológiai hatóság tájékoztatására hivatkozó közlés szerint nem volt cunamiveszély.\n\n• **Földrengésveszélyes ország** Japán négy nagy tektonikus lemez találkozásánál fekszik, és a világon regisztrált földrengések mintegy 18 százaléka az ország területén történik.\n\n• **A 2011-es katasztrófa** Japánt máig meghatározza a 2011. március 11-i, 9-es erősségű földrengés és az azt követő szökőár, amely több mint 18 500 ember halálát vagy eltűnését okozta, és nukleáris katasztrófához vezetett a fukusimai atomerőműben.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_318adb2524",
@@ -8392,24 +8476,6 @@
     "content_hu": "A focisták rohantak a hordággyal. The post Félbeszakadt a Real Madrid meccse, mert rosszul lett egy néző first appeared on 24.hu."
   },
   {
-    "group_id": "group_b388872ecb",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Rovar úr csúcsra járatja a terelést - videó",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/ha-a-tereles-ilyen-utemben-megy-tovabb-rovar-ur-meg-fogja-kurni-iliket-a-kupolaban-live-ban"
-      }
-    ],
-    "published_at": 1794096000,
-    "title_hu": "Rovar úr csúcsra járatja a terelést - videó",
-    "lead_hu": "Egészen durva terelés vette kezdetét.Csaszi így kommentálta az eseményeket:Na!Bár fent a magasban, de ennél lejjebb, már nem lehet süllyedni.Megy a terelés!",
-    "content_hu": "Egészen durva terelés vette kezdetét.Csaszi így kommentálta az eseményeket:Na!Bár fent a magasban, de ennél lejjebb, már nem lehet süllyedni.Megy a terelés!"
-  },
-  {
     "group_id": "group_4e44b9ee61",
     "category": "Politika",
     "image": "",
@@ -8446,6 +8512,24 @@
     "content_hu": "De a biztonság témája könnyen ellene fordulhat, ha a vizsgálatok mulasztásokat tárnak fel - hívta fel a figyelmet Deák Dániel."
   },
   {
+    "group_id": "group_92b1e07fca",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Alanis Morisette meglepte rajongóit, pánszexuálisnak vallotta magát",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/alanis-morisette-meglepte-rajongoit-panszexualisnak-vallotta-magat"
+      }
+    ],
+    "published_at": 1794096000,
+    "title_hu": "Alanis Morisette meglepte rajongóit, pánszexuálisnak vallotta magát",
+    "lead_hu": "Egy podcast beszélgetés során többek között az is szóba került, milyen szenvedést okoztak neki élete során a férfiak.",
+    "content_hu": "Egy podcast beszélgetés során többek között az is szóba került, milyen szenvedést okoztak neki élete során a férfiak."
+  },
+  {
     "group_id": "group_6eecf7bf70",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7247/72470/724709/72470983_5340377_32d2656cde02e77cd7ca625cef34d8bb_wm.jpg",
@@ -8461,7 +8545,8 @@
     "published_at": 1794088920,
     "title_hu": "A Real Madrid a 2000-es BL-döntőt másolva nyerte meg zsinórban a nyolcadik meccsét",
     "lead_hu": "Morientes, McManaman és Raúl szerepében ezúttal Valverde, Güler és Mbappé volt.",
-    "content_hu": "Morientes, McManaman és Raúl szerepében ezúttal Valverde, Güler és Mbappé volt."
+    "content_hu": "Morientes, McManaman és Raúl szerepében ezúttal Valverde, Güler és Mbappé volt.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_67005f6383",
