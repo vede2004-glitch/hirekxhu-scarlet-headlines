@@ -823,37 +823,6 @@
     "importance_score": 38.0
   },
   {
-    "group_id": "group_b52c763479",
-    "fingerprint": "2d05b7c025231f7b89296cbcded6306e",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Közel 60 milliárd forintból zöldítené az országot a kormány, 12 millió facsemetét ültetnek el",
-        "link": "https://www.atv.hu/belfold/20261108/gajdos-laszlo-fa-erdo-zold/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Magyar Péter bejelentette: 57 milliárd forintos programot indít a kormány országfásításra és települészöldítésre",
-        "link": "https://www.portfolio.hu/gazdasag/20261108/magyar-peter-bejelentette-57-milliard-forintos-programot-indit-a-kormany-orszagfasitasra-es-telepuleszolditesre-874962"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Magyar Péter 57 milliárd forintos országfásítási és települészöldítési programot jelentett be",
-        "link": "https://telex.hu/techtud/2026/11/08/orszagos-fasitasi-es-telepules-zolditesi-programot-hirdet-a-kormany"
-      }
-    ],
-    "published_at": 1794130713,
-    "title_hu": "Több mint 57 milliárd forintból indít négyéves fásítási és települészöldítési programot a kormány",
-    "lead_hu": "A következő négy évben több mint 57 milliárd forintot fordít a kormány országfásításra és települészöldítésre; az ATV közel 60 milliárdos keretről ír. A programban legalább 12 millió facsemetét ültetnek el, és önkormányzati pályázatokkal támogatják a hosszú távon fenntartható zöldfelületek kialakítását.",
-    "content_hu": "• **Eltérő összeg szerepel a forrásokban:** a Portfolio és a Telex több mint 57 milliárd forintos keretről ír, az ATV közel 60 milliárd forintot említ.\n\n• **Négy év alatt legalább 12 millió facsemetét ültetnek el:** az országfásítási programra 18,2 milliárd forintot különítenek el; több mint 1300 hektárnyi új erdőt telepítenek, és 20 ezer kilométernyi csatornaszakaszt fásítanak.\n\n• **A meglévő erdők védelmére és az erdőtüzek megelőzésére is jut pénz:** négymilliárd forintot fordítanak az erdők fenntarthatóbbá tételére, egymilliárdból pedig integrált erdőtűz-védelmi akciótervet indítanak.\n\n• **A keret legnagyobb részét a települészöldítés kapja:** erre 39,6 milliárd forintot szánnak, többek között közkertek, közparkok, fasorok és települési zöldfelületek létrehozására, illetve fenntartására.\n\n• **Négyféle önkormányzati pályázatot írnak ki:** ezekre bármely magyar település jelentkezhet, a projektek előkészítésébe pedig szakmai szervezeteket, köztük erdőgazdaságokat, vízügyi szakembereket, tájépítészeket és kutatókat is bevonnak.\n\n• **A fejlesztéseket a helyi adottságokhoz igazítják:** a tervek szerint a települések klímáját és vízháztartását is figyelembe veszik, a cél pedig nem pusztán a fák elültetése, hanem azok hosszú távú gondozása és életben tartása.",
-    "importance_score": 38.0
-  },
-  {
     "group_id": "group_f2386d1150",
     "fingerprint": "f537fb7c21a9189d928599d013ff6a48",
     "category": "Sport",
@@ -979,6 +948,37 @@
     "title_hu": "Norris nyerte az esős Brazil Nagydíjat, Verstappen a 21. helyről lett második",
     "lead_hu": "Lando Norris győzött a São Pauló-i Nagydíjon, amelynek hajráját az eső és a gumistratégia tette izgalmassá. Max Verstappen a mezőny végéről rajtolva a második helyre kapaszkodott fel, Isack Hadjar pedig harmadikként ért célba.",
     "content_hu": "• **Norris győzelme** A McLaren brit pilótája nyerte a futamot, ezzel idei harmadik és pályafutása 14. Forma–1-es győzelmét szerezte meg.\n\n• **Verstappen felzárkózása** A 21. rajtkockából induló holland 19 helyet javítva második lett.\n\n• **Dobogósok** Isack Hadjar a harmadik helyen zárt.\n\n• **Esős hajrá** A verseny utolsó szakaszában felerősödött az eső, ezért a mezőny átmeneti esőgumikra váltott.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_b52c763479",
+    "fingerprint": "2d05b7c025231f7b89296cbcded6306e",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Közel 60 milliárd forintból zöldítené az országot a kormány, 12 millió facsemetét ültetnek el",
+        "link": "https://www.atv.hu/belfold/20261108/gajdos-laszlo-fa-erdo-zold/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Magyar Péter bejelentette: 57 milliárd forintos programot indít a kormány országfásításra és települészöldítésre",
+        "link": "https://www.portfolio.hu/gazdasag/20261108/magyar-peter-bejelentette-57-milliard-forintos-programot-indit-a-kormany-orszagfasitasra-es-telepuleszolditesre-874962"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Magyar Péter 57 milliárd forintos országfásítási és települészöldítési programot jelentett be",
+        "link": "https://telex.hu/techtud/2026/11/08/orszagos-fasitasi-es-telepules-zolditesi-programot-hirdet-a-kormany"
+      }
+    ],
+    "published_at": 1794130713,
+    "title_hu": "Több mint 57 milliárd forintból indít négyéves fásítási és települészöldítési programot a kormány",
+    "lead_hu": "A következő négy évben több mint 57 milliárd forintot fordít a kormány országfásításra és települészöldítésre; az ATV közel 60 milliárdos keretről ír. A programban legalább 12 millió facsemetét ültetnek el, és önkormányzati pályázatokkal támogatják a hosszú távon fenntartható zöldfelületek kialakítását.",
+    "content_hu": "• **Eltérő összeg szerepel a forrásokban:** a Portfolio és a Telex több mint 57 milliárd forintos keretről ír, az ATV közel 60 milliárd forintot említ.\n\n• **Négy év alatt legalább 12 millió facsemetét ültetnek el:** az országfásítási programra 18,2 milliárd forintot különítenek el; több mint 1300 hektárnyi új erdőt telepítenek, és 20 ezer kilométernyi csatornaszakaszt fásítanak.\n\n• **A meglévő erdők védelmére és az erdőtüzek megelőzésére is jut pénz:** négymilliárd forintot fordítanak az erdők fenntarthatóbbá tételére, egymilliárdból pedig integrált erdőtűz-védelmi akciótervet indítanak.\n\n• **A keret legnagyobb részét a települészöldítés kapja:** erre 39,6 milliárd forintot szánnak, többek között közkertek, közparkok, fasorok és települési zöldfelületek létrehozására, illetve fenntartására.\n\n• **Négyféle önkormányzati pályázatot írnak ki:** ezekre bármely magyar település jelentkezhet, a projektek előkészítésébe pedig szakmai szervezeteket, köztük erdőgazdaságokat, vízügyi szakembereket, tájépítészeket és kutatókat is bevonnak.\n\n• **A fejlesztéseket a helyi adottságokhoz igazítják:** a tervek szerint a települések klímáját és vízháztartását is figyelembe veszik, a cél pedig nem pusztán a fák elültetése, hanem azok hosszú távú gondozása és életben tartása.",
     "importance_score": 35.0
   },
   {
