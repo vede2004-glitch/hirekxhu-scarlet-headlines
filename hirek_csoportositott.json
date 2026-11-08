@@ -75,22 +75,6 @@
     ]
   },
   {
-    "group_id": "group_9aba59ba15",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "A győri kézisek 15 gólos győzelmet arattak a németországi BL-meccsükön",
-        "link": "https://index.hu/sport/kezilabda/2026/11/07/noi-kezilabda-bajnokok-ligaja-2026-2027-b-csoport-7.-fordulo-blomberg-lippe-gyori-audi-eto-kc/",
-        "image": "",
-        "summary": "Szemerey Zsófi kilenc, Hatadou Sako nyolc védéssel járult hozzá a két pont megszerzéséhez.",
-        "category": "Általános",
-        "published_at": 1794077160
-      }
-    ]
-  },
-  {
     "group_id": "group_96e74995d1",
     "category": "Politika",
     "articles_count": 1,
@@ -6830,7 +6814,7 @@
   {
     "group_id": "group_95a27c5921",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "444.hu",
@@ -6849,6 +6833,15 @@
         "summary": "Azt is írta, hogy meglepetésként érte a kinevezése. The post Bizalomhiánnyal indokolja lemondását a tankerületi vezető, aki egy nappal a kinevezése után távozott first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794162941
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt a visszalépett tankerületi igazgató, elárulta, miért nem vállalta a posztot",
+        "link": "https://index.hu/belfold/2026/11/08/balogh-tamas-laszlo-tankerulet-igazgato-kinevezes-visszalepes-magyarazat/",
+        "image": "https://kep.index.hu/1/0/7247/72477/724774/72477497_5340861_13328506741eacb51adc067971c9e2a4_wm.png",
+        "summary": "Első napján mégsem állt munkába.",
+        "category": "Általános",
+        "published_at": 1794163500
       }
     ]
   },
@@ -7850,6 +7843,54 @@
         "summary": "A fagyos éjszakák után tavaszias meleg érkezik a jövő héten. The post A kemény fagyok után óriási fordulatot vesz az időjárás first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794162780
+      }
+    ]
+  },
+  {
+    "group_id": "group_c94c466dcd",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "RTL: azbesztet találtak a gyömrői iskola mellett",
+        "link": "https://hvg.hu/zhvg/20261108_rtl-azbesztet-talaltak-a-gyomroi-iskola-mellett",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5c680f3a-0ddb-4bc8-aa38-2ec68202c8c6.jpg",
+        "summary": "Félszáz helybéli család követel újabb vizsgálatokat.",
+        "category": "Politika",
+        "published_at": 1794163635
+      }
+    ]
+  },
+  {
+    "group_id": "group_c017fee594",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Nem hagyják annyiban: a nemzetbiztonsági bizottság is összeül a tiszás ügynökbotrány miatt",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/nem-hagyjak-annyiban-a-nemzetbiztonsagi-bizottsag-is-osszeul-a-tiszas-ugynokbotrany-miatt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/yAZitXizzOtGquLi1KAtDjLI_6COTGXsu72naFHLs8s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFlNzU1YTI5ZWVlZjQxYTNiZWEyZGY5YWUyMzM3ZDc4.jpg",
+        "summary": "Szeretetország miniszterelnöke pedig „bohóckodásnak” nevezte az ülést.",
+        "category": "Politika",
+        "published_at": 1794163704
+      }
+    ]
+  },
+  {
+    "group_id": "group_799325586c",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Így találhatsz nevetségesen olcsó repjegyeket percek alatt: ezt a Google-trükköt érdemes ismerni",
+        "link": "https://femina.hu/utazas/olcso-repjegy-google-flights-trukk/",
+        "image": "https://femina.hu/neon/media/images/olcso-repjegy-google-.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Egyetlen jól megválasztott keresés egészen új lehetőségeket mutathat.",
+        "category": "Bulvár",
+        "published_at": 1794163500
       }
     ]
   }
