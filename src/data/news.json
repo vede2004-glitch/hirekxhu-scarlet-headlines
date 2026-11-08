@@ -1251,6 +1251,30 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_0167b7ad21",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Aznap lépett vissza az új tankerületi vezető, amikor elkezdte volna a munkát",
+        "link": "https://444.hu/2026/11/07/aznap-lepett-vissza-az-uj-tankeruleti-vezeto-amikor-elkezdte-volna-a-munkat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megbízatása első napján visszalépett az új tankerületi igazgató",
+        "link": "https://index.hu/belfold/2026/11/08/balogh-tamas-laszlo-tankerulet-visszalepes-oktatasi-es-gyermekugyi-miniszterium-igazgato-lannert-judit/"
+      }
+    ],
+    "published_at": 1794070469,
+    "title_hu": "Aznap lépett vissza az új tankerületi vezető, amikor elkezdte volna a munkát",
+    "lead_hu": "Alig néhány napja derült ki, hogy kik az új tankerületi igazgatók.",
+    "content_hu": "Alig néhány napja derült ki, hogy kik az új tankerületi igazgatók.",
+    "importance_score": 20.0
+  },
+  {
     "group_id": "group_6bfbbc5efd",
     "fingerprint": "e9dd64d7dc9034d8576bc46774653a38",
     "category": "Politika",
@@ -1633,28 +1657,61 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_fb642fcfdc",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/10/YrG_MWu3jBAtds9zmQ78LUx2th-_38EF9xBtkew9SDg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y5YTUyOGFmMDcxZjQxZTFhMDA0YjY3YjNjZTYzMzg1.jpg",
+    "group_id": "group_f69ae3456e",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/M9vjx2TyuKXGguOEl5RokLOV-GrESeIo-xDHgemJlgk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViMzU2ZDY1NTA3YTQyZTU4MmM1MGNlYWQ0ZjBhMDYy.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "Világgazdaság",
-        "title": "Megjöttek a részletek, ezek a konkrét számok: ekkora fizetést kaphatnak 2027-től az egészségügyi szakdolgozók",
-        "link": "https://www.vg.hu/kozelet/2026/11/alapber-rendezes-egeszsegugyi-szakdolgozo-koltsegvetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "ATV",
-        "title": "Januárban 15 százalékos béremelés jöhet, itt vannak a részletek",
-        "link": "https://www.atv.hu/belfold/20261108/beremeles-egeszsegugy-hegedus-zsolt/"
+        "source": "Magyar Nemzet",
+        "title": "Gyászol a magyar futball: elhunyt az Újpest válogatott legendája",
+        "link": "https://magyarnemzet.hu/sport/2026/11/gyasz-rothermel-adam-elhunyt-ujpest-olimpiai-ezustermes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "published_at": 1794032134,
-    "title_hu": "Megjöttek a részletek, ezek a konkrét számok: ekkora fizetést kaphatnak 2027-től az egészségügyi szakdolgozók",
-    "lead_hu": "Jelentős béremelés jön az egészségügyben: 15 százalékkal nőhet a szakdolgozók alapbére, új bértábla is érkezik",
-    "content_hu": "Jelentős béremelés jön az egészségügyben: 15 százalékkal nőhet a szakdolgozók alapbére, új bértábla is érkezik",
-    "importance_score": 20.0
+    "published_at": 1794118667,
+    "title_hu": "Gyászol a magyar futball: elhunyt az Újpest válogatott legendája",
+    "lead_hu": "A család megrendítő sorokkal búcsúzott a háromszoros magyar bajnok, olimpiai ezüstérmes labdarúgótól....",
+    "content_hu": "A család megrendítő sorokkal búcsúzott a háromszoros magyar bajnok, olimpiai ezüstérmes labdarúgótól.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_52739605e4",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "5,7-es erősségű földrengés volt Japánban",
+        "link": "https://444.hu/2026/11/08/57-es-erossegu-foldrenges-volt-japanban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794118597,
+    "title_hu": "5,7-es erősségű földrengés volt Japánban",
+    "lead_hu": "Könnyebb sérülésekről és kisebb károkról tudni egyelőre....",
+    "content_hu": "Könnyebb sérülésekről és kisebb károkról tudni egyelőre.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c712a47f33",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7175/71753/717538/71753871_5289851_49fb6429e78966c8b5588cdba075d30e_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége, a kérdések száma pedig egyre csak nő",
+        "link": "https://index.hu/belfold/2026/11/08/ugynokaktak-ruff-balint-boka-janos-magyar-peter-tarr-zoltan/"
+      }
+    ],
+    "published_at": 1794118500,
+    "title_hu": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége, a kérdések száma pedig egyre csak nő",
+    "lead_hu": "Politikai célokat sejtenek a háttérben....",
+    "content_hu": "Politikai célokat sejtenek a háttérben.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_3277279851",
@@ -4048,25 +4105,6 @@
     "title_hu": "A felmérések jól mutatták a demokraták győzelmét, de egyben nagyot tévedtek",
     "lead_hu": "A félidős választásokon demokrata fölényre lehetett számítani, de a tarolás mértéke mindenkit meglepett. Köztük a közvélemény-kutatókat is, akik látták a hullámot, de a cunamit nem.",
     "content_hu": "A félidős választásokon demokrata fölényre lehetett számítani, de a tarolás mértéke mindenkit meglepett. Köztük a közvélemény-kutatókat is, akik látták a hullámot, de a cunamit nem.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0167b7ad21",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Aznap lépett vissza az új tankerületi vezető, amikor elkezdte volna a munkát",
-        "link": "https://444.hu/2026/11/07/aznap-lepett-vissza-az-uj-tankeruleti-vezeto-amikor-elkezdte-volna-a-munkat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794070469,
-    "title_hu": "Aznap lépett vissza az új tankerületi vezető, amikor elkezdte volna a munkát",
-    "lead_hu": "Alig néhány napja derült ki, hogy kik az új tankerületi igazgatók.",
-    "content_hu": "Alig néhány napja derült ki, hogy kik az új tankerületi igazgatók.",
     "importance_score": 0.0
   },
   {

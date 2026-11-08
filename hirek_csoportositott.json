@@ -32,31 +32,6 @@
     ]
   },
   {
-    "group_id": "group_fb642fcfdc",
-    "category": "Gazdaság",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Megjöttek a részletek, ezek a konkrét számok: ekkora fizetést kaphatnak 2027-től az egészségügyi szakdolgozók",
-        "link": "https://www.vg.hu/kozelet/2026/11/alapber-rendezes-egeszsegugyi-szakdolgozo-koltsegvetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/10/YrG_MWu3jBAtds9zmQ78LUx2th-_38EF9xBtkew9SDg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y5YTUyOGFmMDcxZjQxZTFhMDA0YjY3YjNjZTYzMzg1.jpg",
-        "summary": "Jelentős béremelés jön az egészségügyben: 15 százalékkal nőhet a szakdolgozók alapbére, új bértábla is érkezik",
-        "category": "Gazdaság",
-        "published_at": 1794032134
-      },
-      {
-        "source": "ATV",
-        "title": "Januárban 15 százalékos béremelés jöhet, itt vannak a részletek",
-        "link": "https://www.atv.hu/belfold/20261108/beremeles-egeszsegugy-hegedus-zsolt/",
-        "image": "https://www.youtube.com/embed/aifogzM0iHE",
-        "summary": "Átlagosan 15 százalékos béremelésre számíthat januártól mintegy 123 ezer egészségügyi szakdolgozó. A minisztérium közzétette a bérrendezés részleteit.",
-        "category": "Általános",
-        "published_at": 1794116160
-      }
-    ]
-  },
-  {
     "group_id": "group_eba3c843fc",
     "category": "Általános",
     "articles_count": 1,
@@ -5749,7 +5724,7 @@
   {
     "group_id": "group_0167b7ad21",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "444.hu",
@@ -5759,6 +5734,15 @@
         "summary": "Alig néhány napja derült ki, hogy kik az új tankerületi igazgatók.",
         "category": "Politika",
         "published_at": 1794070469
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megbízatása első napján visszalépett az új tankerületi igazgató",
+        "link": "https://index.hu/belfold/2026/11/08/balogh-tamas-laszlo-tankerulet-visszalepes-oktatasi-es-gyermekugyi-miniszterium-igazgato-lannert-judit/",
+        "image": "https://kep.index.hu/1/0/7247/72471/724715/72471511_5340405_69eb1d67bee829e3875537c43327f79b_wm.jpg",
+        "summary": "A minisztérium jelezte, a napokban új kiírás jelenik meg.",
+        "category": "Általános",
+        "published_at": 1794118440
       }
     ]
   },
@@ -7788,6 +7772,22 @@
     ]
   },
   {
+    "group_id": "group_fb642fcfdc",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Januárban 15 százalékos béremelés jöhet, itt vannak a részletek",
+        "link": "https://www.atv.hu/belfold/20261108/beremeles-egeszsegugy-hegedus-zsolt/",
+        "image": "https://www.youtube.com/embed/aifogzM0iHE",
+        "summary": "Átlagosan 15 százalékos béremelésre számíthat januártól mintegy 123 ezer egészségügyi szakdolgozó. A minisztérium közzétette a bérrendezés részleteit.",
+        "category": "Általános",
+        "published_at": 1794116160
+      }
+    ]
+  },
+  {
     "group_id": "group_a800b9a5aa",
     "category": "Bulvár",
     "articles_count": 1,
@@ -8040,6 +8040,54 @@
         "summary": "Felvételeket is közzétettek a helyszínről.",
         "category": "Általános",
         "published_at": 1794118380
+      }
+    ]
+  },
+  {
+    "group_id": "group_c712a47f33",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége, a kérdések száma pedig egyre csak nő",
+        "link": "https://index.hu/belfold/2026/11/08/ugynokaktak-ruff-balint-boka-janos-magyar-peter-tarr-zoltan/",
+        "image": "https://kep.index.hu/1/0/7175/71753/717538/71753871_5289851_49fb6429e78966c8b5588cdba075d30e_wm.jpg",
+        "summary": "Politikai célokat sejtenek a háttérben.",
+        "category": "Politika",
+        "published_at": 1794118500
+      }
+    ]
+  },
+  {
+    "group_id": "group_52739605e4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "5,7-es erősségű földrengés volt Japánban",
+        "link": "https://444.hu/2026/11/08/57-es-erossegu-foldrenges-volt-japanban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Könnyebb sérülésekről és kisebb károkról tudni egyelőre.",
+        "category": "Politika",
+        "published_at": 1794118597
+      }
+    ]
+  },
+  {
+    "group_id": "group_f69ae3456e",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Gyászol a magyar futball: elhunyt az Újpest válogatott legendája",
+        "link": "https://magyarnemzet.hu/sport/2026/11/gyasz-rothermel-adam-elhunyt-ujpest-olimpiai-ezustermes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/M9vjx2TyuKXGguOEl5RokLOV-GrESeIo-xDHgemJlgk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViMzU2ZDY1NTA3YTQyZTU4MmM1MGNlYWQ0ZjBhMDYy.jpg",
+        "summary": "A család megrendítő sorokkal búcsúzott a háromszoros magyar bajnok, olimpiai ezüstérmes labdarúgótól.",
+        "category": "Politika",
+        "published_at": 1794118667
       }
     ]
   }
