@@ -1,53 +1,5 @@
 [
   {
-    "group_id": "group_4ff7efede4",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Így válassz tökéletes szemüveget! (x)",
-        "link": "https://femina.hu/egeszseg/igy-valassz-tokeletes-szemuveget/",
-        "image": "https://femina.hu/neon/media/images/femina_vNfgLfy.hu_nov_Alensa_.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Kényelmetlen a keret, vagy estére megfájdul a fejed? Ismerd meg a vásárlói típusokat, és válassz életmódodhoz illő szemüveget az Alensával!",
-        "category": "Bulvár",
-        "published_at": 1794178800
-      }
-    ]
-  },
-  {
-    "group_id": "group_6cf261c5bd",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Mit keresnek a befektetők? – Jövőálló műszaki megoldások, közösségi terek",
-        "link": "https://24.hu/fn/gazdasag/2026/11/09/mit-keresnek-a-befektetok-jovoallo-muszaki-megoldasok-kozossegi-terek/",
-        "image": "https://s.24.hu/app/uploads/2026/11/beat-view-03-1-1024x576.jpg",
-        "summary": "A tudatos ingatlanbefektetés új alapjai Az ingatlanpiaci befektetés továbbra is az értékálló The post Mit keresnek a befektetők? – Jövőálló műszaki megoldások, közösségi terek first appeared on 24.hu.",
-        "category": "Gazdaság",
-        "published_at": 1794178842
-      }
-    ]
-  },
-  {
-    "group_id": "group_ee65e0a8fa",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Napi horoszkóp: lendület, érzékenység és türelem segíthet a csillagjegyeknek az újhold napján",
-        "link": "https://nlc.hu/horoszkop/20261109/napi-horoszkop-friss-otletek-es-jo-beszelgetesek-hozhatnak-lenduletet-ma/05mn4ec",
-        "image": "",
-        "summary": "Ma sokat számít, hogyan hangolódsz rá a helyzetekre és a kapcsolatokra is: a lendület, az érzékenység és a friss ötletek is jól működhetnek. The post Napi horoszkóp: lendület, érzékenység és türelem segíthet a csillagjegyeknek az újhold napján first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794178800
-      }
-    ]
-  },
-  {
     "group_id": "group_89eb68c2c3",
     "category": "Általános",
     "articles_count": 1,
@@ -11925,6 +11877,31 @@
         "summary": "A GTA-sorozat fiktív rádióadói több generáció zenei ízlésére is nagy hatással voltak. Ehhez kellett az alkotók elhivatottsága mellett az is, hogy egyre nagyobb zenei legendákat tudtak leigazolni.",
         "category": "Politika",
         "published_at": 1794260857
+      }
+    ]
+  },
+  {
+    "group_id": "group_f7b6ccf2ab",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Már nem kizárólag a banki díjak számítanak: új szempontok alakítják a számlaválasztást",
+        "link": "https://magyarnemzet.hu/pr/2026/11/mar-nem-kizarolag-a-banki-dijak-szamitanak-uj-szempontok-alakitjak-a-szamlavalasztast?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/60Kag51MLmerxwrSFbuW_AehKte0zz-UxP2NPPo8u3Y/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFkMzc0MDU4NDMwMTQ4MTM5NmYwMmRiMDIxM2Y3ODUx.jpg",
+        "summary": "A bankszámlaválasztás fő szempontjai.",
+        "category": "Politika",
+        "published_at": 1794265080
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Már nem kizárólag a banki díjak számítanak: új szempontok alakítják a számlaválasztást",
+        "link": "https://www.vg.hu/hirdetes/2026/11/nem-kizarolag-banki-dijak-szamitanak-szamlavalasztas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/d-RSicYD2OF4-FAR5gDEI4znxQE15YlDVo-9qo0WKAg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I4Y2U3MjIwMGNlNDRmZTZiOGYzM2YxN2E4MDhjNTNi.jpg",
+        "summary": "A bankszámla kiválasztásakor ma már nem feltétlenül a havi számlavezetési díj az egyetlen mérlegelendő szempont.",
+        "category": "Gazdaság",
+        "published_at": 1794265190
       }
     ]
   }
