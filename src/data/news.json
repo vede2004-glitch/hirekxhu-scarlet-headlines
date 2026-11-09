@@ -1785,58 +1785,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_6d2571ba11",
-    "fingerprint": "9f313ba593b3efb2e0139563fad1b7c9",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Vannak, akiknek napi 4 óra alvás is elég – Honnan tudhatod, hogy te is közéjük tartozol?",
-        "link": "https://nlc.hu/eletmod/20261109/emberek-akiknek-napi-negy-ora-alvas-is-eleg-valaszt-ad-a-genetika/26ty338"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Döbbenetes, mennyien beérik csupán 4 óra alvással, és meg is van az oka",
-        "link": "https://index.hu/tudomany/2026/11/09/alvas-genetika-pihenes-alzheimer-parkinson-betegseg/"
-      }
-    ],
-    "published_at": 1794247200,
-    "title_hu": "Miért van, akinek kevés alvás is elegendő?",
-    "lead_hu": "A legtöbb felnőttnek napi hét-kilenc óra alvásra van szüksége, de ritka genetikai eltérések miatt egyesek kevesebb pihenéssel is jól működhetnek. A kutatók szerint az alvásigényt számos gén befolyásolja, ám a kevés alvásra való hajlam nem feltétlenül véd meg az egészségügyi kockázatoktól.",
-    "content_hu": "• **Ritka örökletes állapot** A familiáris természetes rövid alvásban (FNSS) érintettek rendszerint négy-hat és fél órát alszanak, mégis kipihentnek érezhetik magukat. A kutatók több, az állapottal összefüggő genetikai mutációt azonosítottak.\n\n• **Lehetséges védelem** Állatkísérletek és egy ikerpárral végzett vizsgálat arra utalnak, hogy bizonyos mutációk mérsékelhetik az alváshiány memóriára és teljesítményre gyakorolt hatását. Az eredmények egyelőre nem magyarázzák teljesen, hogyan működik ez a védelem.\n\n• **Sok gén befolyásolja az alvást** Az alvás időtartamának örökölhetőségét 30–65 százalékra becsülik. Egy közel 650 ezer felnőtt adatait elemző, még nem lektorált kutatás mintegy 244, az alvással összefüggő genetikai tényezőt talált.\n\n• **A kevés alvás nem mindenkinek előny** A rövid alvással összefüggő génváltozatok más vizsgálatokban álmatlansággal, fáradtsággal és különféle egészségi problémákkal is kapcsolatot mutattak. Az alvásmegvonás közben az emberek teljesítménye úgy is romolhat, hogy ezt nem érzékelik pontosan.\n\n• **További kutatásokra van szükség** A tudósok szerint nem elég az érintettek közérzetére hagyatkozni: a genetikai háttér és az esetleges hosszú távú következmények megértéséhez további vizsgálatok kellenek.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_8141e7e13a",
-    "fingerprint": "6afd4fce52caa1d357f84addd55b8ac3",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Egy volt fideszes országgyűlési képviselő beperelt egy nyíradonyi lakost, aki AI-val íratott róla dalt",
-        "link": "https://444.hu/2026/11/09/egy-volt-fideszes-orszaggyulesi-kepviselo-beperelt-egy-nyiradonyi-lakost-aki-ai-val-iratott-rola-dalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Beperelt egy férfit Tasó László, miután az dalt írt róla az AI segítségével",
-        "link": "https://hvg.hu/itthon/20261109_per-taso-laszlo-dal-ai-nyiradony"
-      }
-    ],
-    "published_at": 1794247138,
-    "title_hu": "Per indult Tasó László ellen AI-val készített dal miatt",
-    "lead_hu": "Tasó László volt fideszes országgyűlési képviselő rágalmazás és kegyeletsértés miatt beperelt egy nyíradonyi férfit, aki mesterséges intelligenciával készített róla dalt. Az első tárgyaláson nem értettek egyet abban, hogy a szerzemény nyilvánosan elérhető volt-e; az ügyben tanúkat is meghallgatnak.",
-    "content_hu": "• **A dal tartalma** M. Tibor a Suno.ai segítségével készített szerzeménye azt állította Tasóról, hogy lopott és csalt, valamint egyebek mellett a képviselő nagyapjának történelmi szerepére is utalt.\n\n• **Eltérő állítások a közzétételről** M. Tibor azt mondta, privát üzenetben küldte el a dalt Tasónak és egyik családtagjának, Tasó szerint viszont az interneten nyilvánosan is elérhető volt.\n\n• **Folytatódik az eljárás** Az első tárgyalást a Debreceni Törvényszéken tartották; a vita tisztázására több tanút hallgatnak meg. M. Tibor magánvéleményének és alkotói szabadságának nevezte a dalszöveget, Tasó pedig azt állította, hogy lejárató kampány folyik ellene.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_9c0af0f275",
     "fingerprint": "40c5514342f08ba0c6ec254088487d0d",
     "category": "Politika",
@@ -2096,6 +2044,58 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_6d2571ba11",
+    "fingerprint": "9f313ba593b3efb2e0139563fad1b7c9",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Vannak, akiknek napi 4 óra alvás is elég – Honnan tudhatod, hogy te is közéjük tartozol?",
+        "link": "https://nlc.hu/eletmod/20261109/emberek-akiknek-napi-negy-ora-alvas-is-eleg-valaszt-ad-a-genetika/26ty338"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Döbbenetes, mennyien beérik csupán 4 óra alvással, és meg is van az oka",
+        "link": "https://index.hu/tudomany/2026/11/09/alvas-genetika-pihenes-alzheimer-parkinson-betegseg/"
+      }
+    ],
+    "published_at": 1794247200,
+    "title_hu": "Miért van, akinek kevés alvás is elegendő?",
+    "lead_hu": "A legtöbb felnőttnek napi hét-kilenc óra alvásra van szüksége, de ritka genetikai eltérések miatt egyesek kevesebb pihenéssel is jól működhetnek. A kutatók szerint az alvásigényt számos gén befolyásolja, ám a kevés alvásra való hajlam nem feltétlenül véd meg az egészségügyi kockázatoktól.",
+    "content_hu": "• **Ritka örökletes állapot** A familiáris természetes rövid alvásban (FNSS) érintettek rendszerint négy-hat és fél órát alszanak, mégis kipihentnek érezhetik magukat. A kutatók több, az állapottal összefüggő genetikai mutációt azonosítottak.\n\n• **Lehetséges védelem** Állatkísérletek és egy ikerpárral végzett vizsgálat arra utalnak, hogy bizonyos mutációk mérsékelhetik az alváshiány memóriára és teljesítményre gyakorolt hatását. Az eredmények egyelőre nem magyarázzák teljesen, hogyan működik ez a védelem.\n\n• **Sok gén befolyásolja az alvást** Az alvás időtartamának örökölhetőségét 30–65 százalékra becsülik. Egy közel 650 ezer felnőtt adatait elemző, még nem lektorált kutatás mintegy 244, az alvással összefüggő genetikai tényezőt talált.\n\n• **A kevés alvás nem mindenkinek előny** A rövid alvással összefüggő génváltozatok más vizsgálatokban álmatlansággal, fáradtsággal és különféle egészségi problémákkal is kapcsolatot mutattak. Az alvásmegvonás közben az emberek teljesítménye úgy is romolhat, hogy ezt nem érzékelik pontosan.\n\n• **További kutatásokra van szükség** A tudósok szerint nem elég az érintettek közérzetére hagyatkozni: a genetikai háttér és az esetleges hosszú távú következmények megértéséhez további vizsgálatok kellenek.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_8141e7e13a",
+    "fingerprint": "6afd4fce52caa1d357f84addd55b8ac3",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Egy volt fideszes országgyűlési képviselő beperelt egy nyíradonyi lakost, aki AI-val íratott róla dalt",
+        "link": "https://444.hu/2026/11/09/egy-volt-fideszes-orszaggyulesi-kepviselo-beperelt-egy-nyiradonyi-lakost-aki-ai-val-iratott-rola-dalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Beperelt egy férfit Tasó László, miután az dalt írt róla az AI segítségével",
+        "link": "https://hvg.hu/itthon/20261109_per-taso-laszlo-dal-ai-nyiradony"
+      }
+    ],
+    "published_at": 1794247138,
+    "title_hu": "Per indult Tasó László ellen AI-val készített dal miatt",
+    "lead_hu": "Tasó László volt fideszes országgyűlési képviselő rágalmazás és kegyeletsértés miatt beperelt egy nyíradonyi férfit, aki mesterséges intelligenciával készített róla dalt. Az első tárgyaláson nem értettek egyet abban, hogy a szerzemény nyilvánosan elérhető volt-e; az ügyben tanúkat is meghallgatnak.",
+    "content_hu": "• **A dal tartalma** M. Tibor a Suno.ai segítségével készített szerzeménye azt állította Tasóról, hogy lopott és csalt, valamint egyebek mellett a képviselő nagyapjának történelmi szerepére is utalt.\n\n• **Eltérő állítások a közzétételről** M. Tibor azt mondta, privát üzenetben küldte el a dalt Tasónak és egyik családtagjának, Tasó szerint viszont az interneten nyilvánosan is elérhető volt.\n\n• **Folytatódik az eljárás** Az első tárgyalást a Debreceni Törvényszéken tartották; a vita tisztázására több tanút hallgatnak meg. M. Tibor magánvéleményének és alkotói szabadságának nevezte a dalszöveget, Tasó pedig azt állította, hogy lejárató kampány folyik ellene.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_7c8a89a9c0",
     "fingerprint": "0366119c7167f11068ee43bd4fecf71f",
     "category": "Általános",
@@ -2223,58 +2223,6 @@
     "title_hu": "Novák-Soós Zsuzsanna vezeti a Közbeszerzési és Ellátási Főigazgatóságot",
     "lead_hu": "Kármán András pénzügyminiszter bejelentette, hogy hétfőtől Novák-Soós Zsuzsanna lesz a Közbeszerzési és Ellátási Főigazgatóság (KEF) új vezetője. Az új főigazgató feladata a szervezet megújítása, valamint az állami beszerzések átláthatóbbá és költséghatékonyabbá tétele.",
     "content_hu": "• **Hétfőtől új vezető** Novák-Soós Zsuzsanna irányítja a Közbeszerzési és Ellátási Főigazgatóságot; a posztra nyílt pályázatot írtak ki.\n\n• **Szakmai tapasztalat** Az új főigazgató közbeszerzési szakjogász, több mint 25 éves közbeszerzési, projektirányítási és vezetői tapasztalattal rendelkezik.\n\n• **A KEF megújítása** Kármán András szerint a szervezet korábbi működését egyoldalú közbeszerzések, túlárazások, versenykorlátozás és részrehajlás jellemezte. Az új vezetés feladata a tisztességes verseny és az átláthatóbb, takarékosabb működés biztosítása.\n\n• **Költségvetési cél** A miniszter a KEF szerepét is fontosnak nevezte a 2027-es költségvetésben szereplő, a működési költségek 1465 milliárd forintos csökkentésére irányuló cél elérésében.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_4863b052cd",
-    "fingerprint": "f9ee3e008f469b6c6f6df5aabfb678cb",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ennyivel több pénz érkezhet februárban a nyugdíjasoknak – mutatjuk a pontos összegeket",
-        "link": "https://nlc.hu/ezvan/20261109/nyugdij-penz-2027/rhgt0yw"
-      },
-      {
-        "source": "Femina",
-        "title": "Ennyivel magasabb nyugdíj érkezik a megszokottnál 2027 februárjában: több juttatás is jön egyszerre",
-        "link": "https://femina.hu/terasz/13-14-havi-nyugdij-erkezese/"
-      }
-    ],
-    "published_at": 1794236400,
-    "title_hu": "Jelentős pluszpénzt kaphatnak a nyugdíjasok 2027 februárjában",
-    "lead_hu": "A tervek szerint 2027 februárjában a rendes nyugdíj mellett a teljes 13. havi ellátást és a 14. havi nyugdíj negyedét is kifizethetik. Az összegek a januári emelés és az egyéni nyugdíj alapján alakulnak, a jogosultság pedig feltételekhez kötött.",
-    "content_hu": "• **Háromféle kifizetés érkezhet februárban** A nyugdíjasok a rendes havi ellátásuk mellett a teljes 13. havi nyugdíjat és a 14. havi juttatás egynegyedét kaphatják meg.\n\n• **A 14. havi juttatás az ellátás negyede lehet** A februári nyugdíj összegének 25 százaléka járhat ezen a címen. Például 120 ezer forintos ellátásnál 30 ezer, 200 ezer forintosnál – a tervezett 3 százalékos emeléssel számolva – 51 500 forint lehet a plusz.\n\n• **Emelés és sávos korrekció is módosíthatja az összegeket** A források 3 százalékos januári emeléssel számolnak; az egyik beszámoló szerint a legalacsonyabb ellátások 120 ezer forintra emelkedhetnek, a 146 ezer forint alatti nyugdíjaknál pedig sávos növelés jöhet.\n\n• **A jogosultsághoz korábbi ellátás is szükséges** A 13. és 14. havi juttatást azok kaphatják meg, akik 2026 legalább egy napján és 2027 februárjában is nyugellátásban részesülnek. Aki csak 2027 januárjában vonul nyugdíjba, a februári extra kifizetésekre nem lesz jogosult.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_541ce80b3f",
-    "fingerprint": "ce9e60e26b4b46a9ea1248ded7cda818",
-    "category": "Kultúra",
-    "image": "https://assets.telex.hu/images/20261109/1794228202-temp-uorhc0r2i1469genmoj_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A főváros kulturális közalapítványa 142 millió forintot osztott szét a függetlenek között",
-        "link": "https://telex.hu/karakter/kultura/2026/11/09/pro-cultura-urbis-kozalapitvany-142-milliot-osztott-szet-fuggetlenek-kozott"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "695 millió forintot igényeltek a független előadó-művészeti területen, alig 142 milliót osztottak szét",
-        "link": "https://magyarnemzet.hu/kultura/2026/11/fuggetlen-eloado-muveszet-pro-urbis?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794236300,
-    "title_hu": "142 millió forint támogatást osztottak szét a független előadó-művészeti területen",
-    "lead_hu": "A fővárosi támogatási programban 142 millió forint jutott független előadó-művészeti szervezeteknek és alkotóknak, miközben 695 millió forintnyi igény érkezett. A tanácsadó testület szerint a forrás fontos segítség, de nem pótolja az ágazat stabil, központi finanszírozását.",
-    "content_hu": "• **142 millió forint támogatás** A főváros kulturális közalapítványa ennyit osztott szét a független előadó-művészeti területen.\n\n• **Jelentős túligénylés** A pályázók összesen 695 millió forintot igényeltek; támogatáshoz tíz szervezet és 26 alkotói projekt jutott.\n\n• **Támogatott szervezetek** Egyenként több mint 8 millió forintot kapott például a Freeszfe, a Stúdió K és a Szkéné.\n\n• **Tartós finanszírozási gondok** A tanácsadó testület szerint a program csak korlátozott segítséget jelent, ezért érdemi központi forrásbővítést és kiszámíthatóbb finanszírozást sürget.",
     "importance_score": 28.0
   },
   {
@@ -2558,6 +2506,58 @@
     "lead_hu": "Megérkeztek a legfrissebb uniós adatok, és a megismert számok szerint az Európai Unió harmadik legalacsonyabb éves átlagfizetése Magyarországon volt 2025-ben.",
     "content_hu": "Megérkeztek a legfrissebb uniós adatok, és a megismert számok szerint az Európai Unió harmadik legalacsonyabb éves átlagfizetése Magyarországon volt 2025-ben.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_4863b052cd",
+    "fingerprint": "f9ee3e008f469b6c6f6df5aabfb678cb",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Ennyivel több pénz érkezhet februárban a nyugdíjasoknak – mutatjuk a pontos összegeket",
+        "link": "https://nlc.hu/ezvan/20261109/nyugdij-penz-2027/rhgt0yw"
+      },
+      {
+        "source": "Femina",
+        "title": "Ennyivel magasabb nyugdíj érkezik a megszokottnál 2027 februárjában: több juttatás is jön egyszerre",
+        "link": "https://femina.hu/terasz/13-14-havi-nyugdij-erkezese/"
+      }
+    ],
+    "published_at": 1794236400,
+    "title_hu": "Jelentős pluszpénzt kaphatnak a nyugdíjasok 2027 februárjában",
+    "lead_hu": "A tervek szerint 2027 februárjában a rendes nyugdíj mellett a teljes 13. havi ellátást és a 14. havi nyugdíj negyedét is kifizethetik. Az összegek a januári emelés és az egyéni nyugdíj alapján alakulnak, a jogosultság pedig feltételekhez kötött.",
+    "content_hu": "• **Háromféle kifizetés érkezhet februárban** A nyugdíjasok a rendes havi ellátásuk mellett a teljes 13. havi nyugdíjat és a 14. havi juttatás egynegyedét kaphatják meg.\n\n• **A 14. havi juttatás az ellátás negyede lehet** A februári nyugdíj összegének 25 százaléka járhat ezen a címen. Például 120 ezer forintos ellátásnál 30 ezer, 200 ezer forintosnál – a tervezett 3 százalékos emeléssel számolva – 51 500 forint lehet a plusz.\n\n• **Emelés és sávos korrekció is módosíthatja az összegeket** A források 3 százalékos januári emeléssel számolnak; az egyik beszámoló szerint a legalacsonyabb ellátások 120 ezer forintra emelkedhetnek, a 146 ezer forint alatti nyugdíjaknál pedig sávos növelés jöhet.\n\n• **A jogosultsághoz korábbi ellátás is szükséges** A 13. és 14. havi juttatást azok kaphatják meg, akik 2026 legalább egy napján és 2027 februárjában is nyugellátásban részesülnek. Aki csak 2027 januárjában vonul nyugdíjba, a februári extra kifizetésekre nem lesz jogosult.",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_541ce80b3f",
+    "fingerprint": "ce9e60e26b4b46a9ea1248ded7cda818",
+    "category": "Kultúra",
+    "image": "https://assets.telex.hu/images/20261109/1794228202-temp-uorhc0r2i1469genmoj_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A főváros kulturális közalapítványa 142 millió forintot osztott szét a függetlenek között",
+        "link": "https://telex.hu/karakter/kultura/2026/11/09/pro-cultura-urbis-kozalapitvany-142-milliot-osztott-szet-fuggetlenek-kozott"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "695 millió forintot igényeltek a független előadó-művészeti területen, alig 142 milliót osztottak szét",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/fuggetlen-eloado-muveszet-pro-urbis?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794236300,
+    "title_hu": "142 millió forint támogatást osztottak szét a független előadó-művészeti területen",
+    "lead_hu": "A fővárosi támogatási programban 142 millió forint jutott független előadó-művészeti szervezeteknek és alkotóknak, miközben 695 millió forintnyi igény érkezett. A tanácsadó testület szerint a forrás fontos segítség, de nem pótolja az ágazat stabil, központi finanszírozását.",
+    "content_hu": "• **142 millió forint támogatás** A főváros kulturális közalapítványa ennyit osztott szét a független előadó-művészeti területen.\n\n• **Jelentős túligénylés** A pályázók összesen 695 millió forintot igényeltek; támogatáshoz tíz szervezet és 26 alkotói projekt jutott.\n\n• **Támogatott szervezetek** Egyenként több mint 8 millió forintot kapott például a Freeszfe, a Stúdió K és a Szkéné.\n\n• **Tartós finanszírozási gondok** A tanácsadó testület szerint a program csak korlátozott segítséget jelent, ezért érdemi központi forrásbővítést és kiszámíthatóbb finanszírozást sürget.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_97ba31ea48",
@@ -12806,25 +12806,6 @@
     "title_hu": "Úgy érezte, ki tudja használni a felfokozott spanyol közhangulatot, de egy váratlan tragédia felülírt mindent",
     "lead_hu": "Pedro Sánchez spanyol kormányfő a lakhatási tüntetések közepette jelentett be előrehozott választást, de aztán a súlyos vonatbalesetről szólt minden az elmúlt másfél hétben. A jobbközép Néppárt és a s…",
     "content_hu": "Pedro Sánchez spanyol kormányfő a lakhatási tüntetések közepette jelentett be előrehozott választást, de aztán a súlyos vonatbalesetről szólt minden az elmúlt másfél hétben. A jobbközép Néppárt és a szélsőjobboldali Vox kereszttüzében lemondott a közlekedési miniszter. A nagy túlélő Sáncheznek alapból is nehéz dolga volt, de már óriási fordulatra lenne szüksége.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_bdde5901fe",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Elemző: a krakkói merénylet átírta a napirendet, háttérbe szorult Tusk alkotmányos válsága",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/elemzo-a-krakkoi-merenylet-atirta-a-napirendet-hatterbe-szorult-tusk-alkotmanyos-valsaga"
-      }
-    ],
-    "published_at": 1794171540,
-    "title_hu": "Elemző: a krakkói merénylet átírta a napirendet, háttérbe szorult Tusk alkotmányos válsága",
-    "lead_hu": "De a biztonság témája könnyen ellene fordulhat, ha a vizsgálatok mulasztásokat tárnak fel - hívta fel a figyelmet Deák Dániel.",
-    "content_hu": "De a biztonság témája könnyen ellene fordulhat, ha a vizsgálatok mulasztásokat tárnak fel - hívta fel a figyelmet Deák Dániel.",
     "importance_score": 0.0
   },
   {
