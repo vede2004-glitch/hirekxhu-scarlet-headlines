@@ -118,7 +118,7 @@
     "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -139,13 +139,18 @@
         "source": "Index - Címlap",
         "title": "Kínai hírszerzésnek dolgozhatott a nő, akivel viszonyba keveredett az Nvidia vezére",
         "link": "https://index.hu/kulfold/2026/11/09/nvidia-jensen-huang-vezerigazgato-alice-huang-kina-kemkedes/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kínai kémnő csábította el az Nvidia vezetőjét, a cég vizsgálatot indított",
+        "link": "https://24.hu/tech/2026/11/09/nvidia-vizsgalat-jensen-huang-kinai-kembotrany/"
       }
     ],
     "published_at": 1794199999,
     "title_hu": "Vizsgálat indul az Nvidia vezérének feltételezett kínai kémkapcsolata miatt",
     "lead_hu": "Az Nvidia igazgatótanácsa független vizsgálatot indított, miután sajtóértesülések szerint Jensen Huang vezérigazgató viszonyt folytatott Alice Huanggal, akit kínai hírszerzési tevékenységgel gyanúsítanak. A vállalat közlése szerint egyelőre nincs bizonyíték arra, hogy bizalmas információk kerültek volna illetéktelen kezekbe.",
     "content_hu": "• **Független vizsgálat indul** Az Nvidia igazgatótanácsa a vezérigazgató és Alice Huang kapcsolatáról, valamint a feltételezett külföldi hírszerzési műveletről szóló sajtóhírek miatt indított vizsgálatot.\n\n• **Kémkedés gyanúja merült fel** Amerikai hírszerzési forrásokra hivatkozó beszámolók szerint Alice Huang Peking megbízásából gyűjthetett információkat Jensen Huangról, és segíthetett fejlett Nvidia-chipek Kínába juttatásában. A vádakat a források nem tekintik bizonyítottnak.\n\n• **Egyelőre nem jeleztek adatszivárgást** Az Nvidia szerint jelenleg nincs okuk azt feltételezni, hogy üzleti titkok vagy az Egyesült Államok nemzetbiztonsági érdekei sérültek volna, de minden rendelkezésre álló információt megvizsgálnak.\n\n• **Huang bocsánatot kért** A vezérigazgató elismerte, hogy hűtlen volt a feleségéhez, bocsánatot kért családjától, és teljes együttműködést ígért a vizsgálatban.\n\n• **Politikai figyelem kíséri az ügyet** Három republikánus képviselőházi bizottsági vezető tájékoztatást kért Huangtól a vállalat biztonsági intézkedéseiről. Donald Trump korábbi értesüléseiről is kérdések merültek fel, az elnök pedig azt mondta, nem bánja, hogy korábban nem intézkedett.",
-    "importance_score": 55.0
+    "importance_score": 65.0
   },
   {
     "group_id": "group_755d5750af",
@@ -999,7 +1004,7 @@
     "title_hu": "Palesztin zászlót vontak fel a Reichstag előtt",
     "lead_hu": "Három férfi eltávolította a német zászlót a berlini Reichstag előtti zászlórúdról, és helyére palesztin lobogót tett vasárnap délelőtt. A zászló csaknem egy órán át lengett; a rendőrség nyomozást indított a nemzeti jelképek megsértésének gyanúja miatt.",
     "content_hu": "• **Vasárnap délelőtt** három férfi levette a német zászlót a Reichstag előtti zászlórúdról, és palesztin lobogót vont fel a helyére.\n\n• **Csaknem egy órán át** maradt fent a palesztin zászló, amelyet később a rendőrök a tűzoltóság segítségével távolítottak el.\n\n• **Egy 22 éves férfit őrizetbe vettek**; a rendőrség szerint két, 20 és 32 éves társa lentről segítette az akcióban.\n\n• **Nyomozás indult** a nemzeti jelképek megsértése miatt. A gyanúsított azt mondta, Palesztinával való szolidaritásból cselekedett.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_571fc055ba",
@@ -2035,6 +2040,25 @@
     "lead_hu": "A Fidesz szerint a rendszerváltás előtti állambiztonsági iratok közzététele körüli botránynak nincs vége, és tisztázni kell a politikai felelősséget. A párt adatvédelmi vizsgálatot és elégtételt követel azoknak, akiknek a neve egy informatikai hiba miatt tévesen hálózati személyként jelent meg.",
     "content_hu": "• **Informatikai hiba árnyékolta be az iratok közzétételét:** a nyilvánosságra hozott dokumentumok között olyanok neve is megjelent hálózati személyként, akiket annak idején megfigyeltek; köztük volt Lezsák Sándor is.\n\n• **A Fidesz politikai kezdeményezésnek tartja az akták nyilvánosságra hozatalát:** a párt Magyar Pétert, Ruff Bálintot és Tarr Zoltánt nevezte meg, és azt állította, hogy az ügy politikai célokat szolgált. Ezek a Fidesz állításai.\n\n• **A párt vizsgálatot és felelősségre vonást sürget:** adatvédelmi vizsgálatot, az érintetteknek elégtételt, valamint a politikai felelősök megnevezését követeli.\n\n• **További kérdésekre várnak választ:** a Fidesz többek között az eltűnt 6-os kartonok és beszervezési dossziék sorsát, illetve az iratok közzétételének körülményeit firtatja.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_4a723f01b2",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/hYw-aaX8tvKrlhp33XkokTPb5il3kXBHlnl5o6WZ9DA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA4NTVmOWVmNmI4OTQxNTA5MTQyYjM4MWNkNmJiNTE4.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Nem várt fordulat, ő lehet az ENSZ következő főtitkára: Orbán Viktor neve hirtelen eltűnt, nagy meglepetés készül a végén – nem a legesélyesebb jelölt nyerhet",
+        "link": "https://www.vg.hu/kozelet/2026/11/fotitkar-ensz-orban-viktor-jelolt-guterres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794203482,
+    "title_hu": "Nem várt fordulat, ő lehet az ENSZ következő főtitkára: Orbán Viktor neve hirtelen eltűnt, nagy meglepetés készül a végén – nem a legesélyesebb jelölt nyerhet",
+    "lead_hu": "Megvan, ki a legesélyesebb, de mégis egy palesztin–emírségekbeli diplomata lehet az ENSZ új főtitkára....",
+    "content_hu": "Megvan, ki a legesélyesebb, de mégis egy palesztin–emírségekbeli diplomata lehet az ENSZ új főtitkára.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_dc16e664ce",
@@ -9197,44 +9221,6 @@
     "title_hu": "Súlyos ára lett a Fradi-szurkolók milánói botrányának, lecsapott az olasz rendőrség",
     "lead_hu": "Egész Európára kiterjedő, öt évre szóló büntetés lett Mussolini éltetéséből, még többen is bajba kerülhetnek.",
     "content_hu": "Egész Európára kiterjedő, öt évre szóló büntetés lett Mussolini éltetéséből, még többen is bajba kerülhetnek.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4d608effd0",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7247/72471/724712/72471235_5340389_ca8ce5196232ea8cf404ef7e7ee1d4b5_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Két év után visszatér a boksztörténelem legvitatottabb olimpiai bajnoka, Hámori Luca legyőzője",
-        "link": "https://index.hu/sport/boksz/2026/11/08/iman-helif-hamori-luca-boksz-profi/"
-      }
-    ],
-    "published_at": 1794117420,
-    "title_hu": "Két év után visszatér a boksztörténelem legvitatottabb olimpiai bajnoka, Hámori Luca legyőzője",
-    "lead_hu": "Rengeteg kérdőjel övezi a történetét, úgy tűnik, megtalálta, hol nincs genderteszt.",
-    "content_hu": "Rengeteg kérdőjel övezi a történetét, úgy tűnik, megtalálta, hol nincs genderteszt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f04dbc8cf4",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/GettyImages-227113448.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Eltussolhatta a palota Meghan apjának pedofil ügyét: botrány lehet készülőben",
-        "link": "https://femina.hu/vilagsztar/meghan-markle-apja-pedofil-botrany-kiralya-csalad/"
-      }
-    ],
-    "published_at": 1794117300,
-    "title_hu": "Eltussolhatta a palota Meghan apjának pedofil ügyét: botrány lehet készülőben",
-    "lead_hu": "Most vizsgálják, milyen szerepe lehetett a palotának Meghan hercegné édesapja ügyének eltussolásában.",
-    "content_hu": "Most vizsgálják, milyen szerepe lehetett a palotának Meghan hercegné édesapja ügyének eltussolásában.",
     "importance_score": 0.0
   },
   {
