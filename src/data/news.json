@@ -861,7 +861,7 @@
     "title_hu": "Rekordveszteségről számolt be az ukrán vezérkar, kiszivárgott adatok is napvilágra kerültek",
     "lead_hu": "Az ukrán vezérkar szerint november 8-án 2980 orosz katona halt meg vagy esett ki súlyos sérülés miatt a harcokból, ami új napi rekord lenne. Egy kiszivárgott orosz adatbázisban 412 576, a háborúhoz köthető halotti bizonyítvány szerepel, de a számok hitelessége és a tényleges veszteség mértéke továbbra is bizonytalan.",
     "content_hu": "• **Toborzási nehézségek** A 24.hu értékelése szerint az orosz hadsereg több hónapja több katonát veszíthet, mint amennyit toborozni tud. A lap szerint ez hosszabb távon a jelenlegi hadviselés fenntarthatóságát is megkérdőjelezi; lehetséges válaszként a teljes mozgósítást vagy a tűzszünet felé mozdulást említi.\n\n• **Egyenlőtlenül oszlanak meg a halálesetek** A kiszivárgott adatok elemzése szerint Burjátföldön, Tuvában és a Bajkálontúli határterületen a háborús halálesetek a 18–49 éves férfiak összes halálozásának mintegy harmadát tették ki a vizsgált időszakban; Moszkvában és Szentpéterváron ez az arány körülbelül 10 százalék volt.\n\n• **Havonta akár 15 ezernél is több halott** A 24.hu által ismertetett elemzés szerint egyes hónapokban 15 ezer fölé emelkedhetett az elesett orosz katonák száma, ami napi átlagban mintegy 500 halálesetnek felel meg.\n\n• **Az ukrán veszteségekről is vannak becslések** Az amerikai Stratégiai és Nemzetközi Tanulmányok Központjának 2026 januárjában közzétett jelentése szerint Ukrajna 2022 februárja és 2025 decembere között becslések szerint 500–600 ezer katonai veszteséget szenvedhetett el, köztük 100–140 ezer halottat. A források eltérő módszertana és időszakai miatt ezek az adatok nem hasonlíthatók össze közvetlenül az orosz veszteségekre vonatkozó számokkal.",
-    "importance_score": 80.0
+    "importance_score": 73.0
   },
   {
     "group_id": "group_fa70681b48",
@@ -1628,32 +1628,6 @@
     "importance_score": 33.0
   },
   {
-    "group_id": "group_9c0af0f275",
-    "fingerprint": "40c5514342f08ba0c6ec254088487d0d",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8ddc968d-f041-4c3a-a54d-04ad263f4940.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Átlátszó: kétezer milliárd forintnyi kínai hitelt készítettek elő Nagy Mártonék a választás előtti hetekben",
-        "link": "https://hvg.hu/gazdasag/20261109_atlatszo-ketezer-milliard-forint-kina-hitel-elokeszit-nagy-marton-valasztas-elott"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Átlátszó: Kétezer milliárdos kínai gigahitelt készített elő Nagy Márton a választások előtt",
-        "link": "https://index.hu/gazdasag/2026/11/09/kina-hitel-nagy-marton-targyalas-orban-kormany-valasztasok-dokumentumok/"
-      }
-    ],
-    "published_at": 1794244380,
-    "title_hu": "Ötmilliárd eurós kínai finanszírozásról tárgyalt a kormány a választás előtt",
-    "lead_hu": "Az Átlátszó birtokába került tervezet szerint a Nemzetgazdasági Minisztérium és a kínai CEXIM egy mintegy 2000 milliárd forintos finanszírozási együttműködésről egyeztetett az áprilisi választás előtti hetekben. A dokumentum nem végleges megállapodás, és a tárgyalások állapota, valamint a finanszírozás feltételei sem ismertek.",
-    "content_hu": "• **Ötmilliárd eurós keret** A tervezett együttműködés mintegy 2000 milliárd forintnak felelt volna meg, és az Átlátszó szerint a 2024-es, egymilliárd eurós kínai hitelkeret ötszöröse lehetett volna.\n\n• **Stratégiai beruházások** A tervezet vasúti fejlesztéseket, geotermikus energiát, az akkumulátoripari értékláncot és kis moduláris atomreaktorok fejlesztését is említette.\n\n• **Nem végleges megállapodás** A dokumentumból nem derül ki, milyen előrehaladott állapotban voltak a tárgyalások, és az sem, hogy létrejött-e később egyezség.\n\n• **Ismeretlen pénzügyi feltételek** A finanszírozás különböző projektalapú hitelek, beruházási eszközök vagy tőkepiaci tranzakciók formájában valósulhatott volna meg; a kamatokról nem közöltek adatot.\n\n• **Átláthatósági aggályok** Az Átlátszó arra hívta fel a figyelmet, hogy a kínai hitelezés gyakran kínai vállalatok kivitelezői vagy beszállítói részvételéhez kapcsolódik, a konstrukciók részletei pedig nehezen hozzáférhetők.",
-    "importance_score": 33.0
-  },
-  {
     "group_id": "group_d6f10527f2",
     "fingerprint": "c3a2b006d2403ff2d54df98d0e8c4cba",
     "category": "Gazdaság",
@@ -1744,7 +1718,7 @@
     "title_hu": "Ombudsmani vizsgálat indult az OTP menekült ügyfeleinek számlái miatt",
     "lead_hu": "A Magyar Helsinki Bizottság szerint az OTP tartózkodási engedélyhez köti a banki szolgáltatásokat, és hivatalosan elismert menekültek számláit szüntette meg vagy korlátozta. Az alapvető jogok biztosa a szervezet kérelmére vizsgálatot indított; az OTP közölte, hogy együttműködik a hatósággal, és elutasítja a diszkrimináció minden formáját.",
     "content_hu": "• **Ombudsmani vizsgálat indult** az OTP ellen, miután a Magyar Helsinki Bizottság közérdekű igényérvényesítőként az alapvető jogok biztosához fordult a menekült ügyfelek bankszámláinak megszüntetése miatt.\n\n• **A jogvédők szerint a bank tartózkodási engedélyt követel** a hivatalosan elismert menekültektől, miközben állításuk szerint a menekülteknek nincs ilyen okmányuk, és ezt hazai jogszabály sem írja elő. A Helsinki Bizottság szerint a bank nem fogadta el a menekültstátuszt igazoló iratokat, még az idegenrendészeti hatóság hivatalos igazolását sem.\n\n• **Egy orosz pszichológus hat éve működő számláját megszüntették** az adategyeztetést követően. A Helsinki Bizottság beszámolója szerint az OTP azt közölte vele, hogy vagy önként zárja be a számláját, vagy a bank szünteti meg; a férfi végül egy másik banknál vezetett számlára utalta megtakarításait.\n\n• **Más menekült ügyfelek pénzéhez való hozzáférését is korlátozhatták**, egyeseknél a szervezet szerint zárolták a pénzt és letiltották a bankkártyákat. A Helsinki Bizottság orosz és palesztin menekült ügyfelekről is beszámolt.\n\n• **Egy orosz egyetemista és édesanyja számláit is megszüntették** a jogvédők szerint. A szervezet közlése alapján a bank 2025 májusában még bocsánatot kért, amiért tévesen hivatkozott a pénzmosás és a terrorizmus finanszírozása elleni törvényre, amikor tartózkodási engedélyt kért az egyetemistától; augusztusban azonban felmondta a számlaszerződését, és az édesanyjáét is megszüntette.\n\n• **A számlák zárolása mindennapi nehézségeket okozott a családnak** a Helsinki Bizottság beszámolója szerint: késve fizették be a számláikat, pótdíjakat kaptak, munkáltatóik pedig nem tudták hová utalni a fizetésüket. Egyes kiadások fedezéséhez baráti segítséget kértek.\n\n• **Az OTP azt közölte, hogy együttműködik az ombudsmannal**, a vizsgálathoz szükséges információkat átadja, és tevékenységét a jogszabályokkal, illetve felügyeleti előírásokkal összhangban végzi. A bank elutasítja a diszkrimináció minden formáját, és kivizsgálja az ügyféljelzéseket.\n\n• **Az eljárás még nem állapított meg jogsértést.** Az OTP jogszabályokra és belső szabályaira hivatkozott, a Helsinki Bizottság ezt téves jogértelmezésnek tartja, és azt várja, hogy az ombudsmani vizsgálat más bankoknak is iránymutatást adjon.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_dc16e664ce",
@@ -2043,6 +2017,32 @@
     "title_hu": "Szétszakadt egy tehervonat, pótlóbuszok járnak a térségben",
     "lead_hu": "Tehervonat szakadt szét Székesfehérvár és Sárszentmihály között, ezért ezen a szakaszon nem közlekednek a vonatok. Székesfehérvár és Várpalota között pótlóbuszok szállítják az utasokat, a Szombathelyre tartó Bakony InterCity pedig Székesfehérvárról indul.",
     "content_hu": "• **Vasúti fennakadás** Tehervonat szakadt szét Székesfehérvár és Sárszentmihály között, ezért a két állomás között leállt a vonatközlekedés.\n\n• **Pótlóbuszok** Székesfehérvár és Várpalota között autóbuszokkal szállítják az utasokat.\n\n• **Bakony InterCity** A Déli pályaudvarról 18 órakor Szombathelyre induló járat Székesfehérvártól közlekedik.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_9c0af0f275",
+    "fingerprint": "40c5514342f08ba0c6ec254088487d0d",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8ddc968d-f041-4c3a-a54d-04ad263f4940.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Átlátszó: kétezer milliárd forintnyi kínai hitelt készítettek elő Nagy Mártonék a választás előtti hetekben",
+        "link": "https://hvg.hu/gazdasag/20261109_atlatszo-ketezer-milliard-forint-kina-hitel-elokeszit-nagy-marton-valasztas-elott"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Átlátszó: Kétezer milliárdos kínai gigahitelt készített elő Nagy Márton a választások előtt",
+        "link": "https://index.hu/gazdasag/2026/11/09/kina-hitel-nagy-marton-targyalas-orban-kormany-valasztasok-dokumentumok/"
+      }
+    ],
+    "published_at": 1794244380,
+    "title_hu": "Ötmilliárd eurós kínai finanszírozásról tárgyalt a kormány a választás előtt",
+    "lead_hu": "Az Átlátszó birtokába került tervezet szerint a Nemzetgazdasági Minisztérium és a kínai CEXIM egy mintegy 2000 milliárd forintos finanszírozási együttműködésről egyeztetett az áprilisi választás előtti hetekben. A dokumentum nem végleges megállapodás, és a tárgyalások állapota, valamint a finanszírozás feltételei sem ismertek.",
+    "content_hu": "• **Ötmilliárd eurós keret** A tervezett együttműködés mintegy 2000 milliárd forintnak felelt volna meg, és az Átlátszó szerint a 2024-es, egymilliárd eurós kínai hitelkeret ötszöröse lehetett volna.\n\n• **Stratégiai beruházások** A tervezet vasúti fejlesztéseket, geotermikus energiát, az akkumulátoripari értékláncot és kis moduláris atomreaktorok fejlesztését is említette.\n\n• **Nem végleges megállapodás** A dokumentumból nem derül ki, milyen előrehaladott állapotban voltak a tárgyalások, és az sem, hogy létrejött-e később egyezség.\n\n• **Ismeretlen pénzügyi feltételek** A finanszírozás különböző projektalapú hitelek, beruházási eszközök vagy tőkepiaci tranzakciók formájában valósulhatott volna meg; a kamatokról nem közöltek adatot.\n\n• **Átláthatósági aggályok** Az Átlátszó arra hívta fel a figyelmet, hogy a kínai hitelezés gyakran kínai vállalatok kivitelezői vagy beszállítói részvételéhez kapcsolódik, a konstrukciók részletei pedig nehezen hozzáférhetők.",
     "importance_score": 28.0
   },
   {
@@ -3074,6 +3074,44 @@
     "lead_hu": "Tizennégy ember vesztette életét egy vasárnap délutáni tűzben az észak-kínai Tajjüan egyik toronyházában. A lángokat mintegy két óra alatt oltották el, a tűz keletkezésének okát vizsgálják.",
     "content_hu": "• **A tűz helyszíne és időpontja** A lángok vasárnap délután csaptak fel a Sanhszi tartomány székhelyén, Tajjüanban álló toronyházban.\n\n• **Áldozatok és sérültek** A hatóságok 14 halálos áldozatot erősítettek meg, 38 embert pedig kórházba szállítottak.\n\n• **Oltás és vizsgálat** A tüzet mintegy két óra alatt sikerült eloltani, a mentést később fejezték be. A tűz keletkezésének okát vizsgálják.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_67e69feb38",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Napi horoszkóp 2026. 11. 10.: Felszabaduló energiák pezsdíthetik fel napunkat",
+        "link": "https://nlc.hu/horoszkop/20261110/napi-horoszkop-2026-11-10/tn8y0k5"
+      }
+    ],
+    "published_at": 1794265200,
+    "title_hu": "Napi horoszkóp 2026. 11. 10.: Felszabaduló energiák pezsdíthetik fel napunkat",
+    "lead_hu": "Ma a gyors felismerések és a nyugodt jelenlét egyszerre segítenek. Engedd, hogy a figyelem a lényegre szűkítse a napot, és sok minden könnyebben a helyére kerülhet. The post Napi horoszkóp 2026. 11. 1...",
+    "content_hu": "Ma a gyors felismerések és a nyugodt jelenlét egyszerre segítenek. Engedd, hogy a figyelem a lényegre szűkítse a napot, és sok minden könnyebben a helyére kerülhet. The post Napi horoszkóp 2026. 11. 10.: Felszabaduló energiák pezsdíthetik fel napunkat first appeared on nlc.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a111d41d42",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261109/1794261957-temp-cptdttfos27bebccoba_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Saját párttársa kezdeményezett impeachment eljárást Trump minisztere, Pete Hegseth ellen",
+        "link": "https://telex.hu/kulfold/2026/11/09/pete-hegseth-impeachment-thomas-massie-republikanus-egyesult-allamok"
+      }
+    ],
+    "published_at": 1794264617,
+    "title_hu": "Saját párttársa kezdeményezett impeachment eljárást Trump minisztere, Pete Hegseth ellen",
+    "lead_hu": "Szerdán szavazhatnak az eljárásról, de Hegseth aggódik az elmozdítása miatt....",
+    "content_hu": "Szerdán szavazhatnak az eljárásról, de Hegseth aggódik az elmozdítása miatt.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_f43aea1162",
