@@ -13,7 +13,7 @@ describe("news feed views", () => {
     expect(splitNewsFeed(items).top.map(n => n.group_id)).toEqual([
       "story-0", "story-2", "story-4", "story-6", "story-8", "story-10",
     ]);
-    const many = Array.from({ length: 12 }, (_, i) => ({ ...items[0], group_id: `ai-${i}`, is_synthesized: true }));
+    const many = normalizeNewsList(Array.from({ length: 12 }, (_, i) => ({ group_id: `ai-${i}`, title_hu: `AI ${i}`, sources: [], is_synthesized: true })));
     expect(splitNewsFeed(many).top).toHaveLength(12);
   });
   it("shows every AI story in Latest, strictly newest first", () => {
