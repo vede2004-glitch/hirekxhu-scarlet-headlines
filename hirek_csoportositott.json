@@ -32,38 +32,6 @@
     ]
   },
   {
-    "group_id": "group_5b8356d1d1",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Rekorddrága GTA 6, megúszós költségvetés, Trump elszabadul - Gazdasági bejárat",
-        "link": "https://hvg.hu/gazdasag/20261108_rekorddraga-gta-6-meguszos-koltsegvetes-trump-elszabadul-gazdasagi-bejarat",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dcdd9a9f-f4b4-4b22-b9bc-d61f71469273.jpg",
-        "summary": "A HVG gazdasági hírösszefoglaló podcastjának vendége az e-heti adásban Nagy Imre közgazdász, krízismenedzser, aki Pitner Gábor műsorvezetővel beszélget például arról, hogy az egész EU-ban miért nálunk a legdrágább a GTA, és kik a 2027-es költségetés nyertesei és vesztesei. De az is kiderül, hogy Donald Trump amerikai elnök félidős választásokon elszenvedett történelmi veresége milyen gazdasági következményeket hordozhat magában.",
-        "category": "Politika",
-        "published_at": 1794127472
-      }
-    ]
-  },
-  {
-    "group_id": "group_6dbfdafb9c",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Házi kollagénbomba 4 összetevőből: csodát tesz a bőrrel, és végtelenül egyszerű",
-        "link": "https://femina.hu/egeszseg/hazi-kollagen-bomba-4-osszetevo/",
-        "image": "https://femina.hu/neon/media/images/GettyImages-628102266.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Pillanatok alatt elkészül a házi kollagén gél, amit a hűtőben tárolhatsz és bármikor fogyaszthatod.",
-        "category": "Bulvár",
-        "published_at": 1794127800
-      }
-    ]
-  },
-  {
     "group_id": "group_f9360e0f35",
     "category": "Általános",
     "articles_count": 1,
@@ -3868,7 +3836,7 @@
   {
     "group_id": "group_f69ae3456e",
     "category": "Politika",
-    "articles_count": 8,
+    "articles_count": 9,
     "articles": [
       {
         "source": "Vadhajtások",
@@ -3941,6 +3909,15 @@
         "summary": "Cseh Gergő Bendegúz, az ÁBTL főigazgatója elárulta, miért nem tudták ellenőrizni a mágnesszalagokat",
         "category": "Politika",
         "published_at": 1794210020
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr álmodozik: \"Mind a 106 egyéni képviselői helyet a TISZA nyerné\"",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/rovar-ur-almodozik-mind-a-106-egyeni-kepviseloi-helyet-a-tisza-nyerne",
+        "image": "",
+        "summary": "Jellemzően a Tisza akkor dobálódzik felmérésekkel és látványtárlatvezetésekkel, ha nagy a baj a színfalak mögött.",
+        "category": "Politika",
+        "published_at": 1794182400
       }
     ]
   },
@@ -4079,7 +4056,7 @@
         "image": "",
         "summary": "Azt is írta, hogy meglepetésként érte a kinevezése.",
         "category": "Politika",
-        "published_at": 1794182400
+        "published_at": 1794206400
       }
     ]
   },
@@ -8385,7 +8362,7 @@
   {
     "group_id": "group_73f2623825",
     "category": "Bulvár",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -8422,6 +8399,15 @@
         "summary": "A határozatképtelenség miatt elmaradt parlamenti ülésen robbant a bomba: Cseh Gergő Bendegúz benyújtotta a lemondását a 164 ártatlan embert érintő baki miatt.",
         "category": "Politika",
         "published_at": 1794212306
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Felajánlotta lemondását az ÁBTL főigazgatója",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/felajanlotta-lemondasat-az-abtl-foigazgatoja-875082",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1259075227-parlament-orszaghaz-villamos-budapest-magyarorszag-bkk-tomegkozlekedes-830012.jpg",
+        "summary": "Felajánlotta lemondását az Országgyűlés nemzetbiztonsági bizottságának ülésén Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának (ÁBTL) főigazgatója – írja a Telex. A szakember arra a múlt heti hibára reagált, mely szerint több mint 160 ember neve tévesen került nyilvánosságra az ügynökakták kapcsán.",
+        "category": "Politika",
+        "published_at": 1794213780
       }
     ]
   },
@@ -8588,7 +8574,7 @@
   {
     "group_id": "group_08778304d5",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -8598,6 +8584,15 @@
         "summary": "Az egészségügyi béremelésre szánt 192 milliárd forintból jövőre 157 milliárdot a szakdolgozók kapnak – írja a Népszabadság a minisztérium adatai alapján. A fennmaradó összeg a műszaki és gazdasági dolgozók, illetve más közfinanszírozott munkatársak béremelését fedezi, de számukra nem garantálja a 7,5 százalékos emelést a kormány.",
         "category": "Politika",
         "published_at": 1794211500
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kiderült, hogyan osztják szét az egészségügyi dolgozóknak szánt 192 milliárd forintot",
+        "link": "https://index.hu/belfold/2026/11/09/egeszsegugy-hegedus-zsolt-berrendezes/",
+        "image": "https://kep.index.hu/1/0/7119/71192/711921/71192179_5250083_d82303dd1ee0826ef41ac295883514e0_wm.jpg",
+        "summary": "A jövőben nagyobb mozgásteret kapnak a kórházvezetők.",
+        "category": "Általános",
+        "published_at": 1794213840
       }
     ]
   },
@@ -8854,6 +8849,166 @@
         "summary": "Az Nvidia már a kémügy kirobbanása előtt is jelentős veszteségeket szenvedett el a tőzsdén, a novemberi gyorsjelentés előtt megszellőztetett kémügy pedig újabb okot adhat a befektetőknek az Nvidia részvényeinek eladására.",
         "category": "Gazdaság",
         "published_at": 1794213588
+      }
+    ]
+  },
+  {
+    "group_id": "group_4969f08e39",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Mi van veled, Schwarzmilzferner?",
+        "link": "https://444.hu/2026/11/09/mi-van-veled-schwarzmilzferner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Ez volt az utolsó gleccser az Allgäui-Alpokban, de egy év alatt úgy megfogyatkozott, hogy a tudósok szerint elvesztette gleccserjellegét.",
+        "category": "Politika",
+        "published_at": 1794213782
+      }
+    ]
+  },
+  {
+    "group_id": "group_92b1e07fca",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Alanis Morisette meglepte rajongóit, pánszexuálisnak vallotta magát",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/alanis-morisette-meglepte-rajongoit-panszexualisnak-vallotta-magat",
+        "image": "",
+        "summary": "Egy podcast beszélgetés során többek között az is szóba került, milyen szenvedést okoztak neki élete során a férfiak.",
+        "category": "Politika",
+        "published_at": 1794174960
+      }
+    ]
+  },
+  {
+    "group_id": "group_447e43b59f",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "A lengyel belügyminiszter bevallotta, hogy nincsen bizonyíték arra vonatkozóan, hogy a krakkói lövöldöző szélsőjobboldali lenne",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/a-lengyel-belugyminiszter-bevallotta-hogy-nincsen-bizonyitek-arra-vonatkozoan-hogy-a-krakkoi-lovoldozo-szelsojobboldali-lenne",
+        "image": "",
+        "summary": "Mint megírtuk, szombat délután egy katonai jellegű ruházatot viselő fegyveres autó...",
+        "category": "Politika",
+        "published_at": 1794182400
+      }
+    ]
+  },
+  {
+    "group_id": "group_57f20fda4c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Sajtótájékoztatót tart a Fidesz a Nemzetbiztonsági Bizottsági ülés után",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/sajtotajekoztatot-tart-a-fidesz-a-nemzetbiztonsagi-bizottsagi-ules-utan",
+        "image": "",
+        "summary": "",
+        "category": "Politika",
+        "published_at": 1794182400
+      }
+    ]
+  },
+  {
+    "group_id": "group_363fb8ec71",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Nem elég a bajusznövesztés: a férfiak egészsége valódi odafigyelést kíván",
+        "link": "https://hirtv.origo.hu/hirtvszines/2026/11/nem-eleg-a-bajusznovesztes-a-ferfiak-egeszsege-valodi-odafigyelest-kivan",
+        "image": "https://cdn.hirtv.hu/2026/11/HjbTk5JT6P3xgukcQWo2_R5sbGIJvOWftpj3MoMESEs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1YjQ2Y2M2NjBhZjQ3NWFhNzA3MWY3OWJhYTEwOGJm.webp",
+        "summary": "A rendszeres szűrés és a korai felismerés életet menthet.",
+        "category": "Politika",
+        "published_at": 1794213881
+      }
+    ]
+  },
+  {
+    "group_id": "group_8e6ea47f69",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Két újabb világsztár szállt versenybe a következő James Bond szerepéért az utolsó pillanatban",
+        "link": "https://24.hu/elet-stilus/2026/11/09/james-bond-robert-pattinson-nicholas-hoult/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2266747506-e1794213072338-1024x577.jpg",
+        "summary": "Szinte már nincs olyan brit, skót, ír vagy ausztrál férfiszínész, akinek ne merült volna fel a neve a legendás titkos ügynök szerepére. The post Két újabb világsztár szállt versenybe a következő James Bond szerepéért az utolsó pillanatban first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794213846
+      }
+    ]
+  },
+  {
+    "group_id": "group_6aa8ddad29",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A Manchester United 96. perces gólt lőtt a csapatának, meg se várta a lefújást",
+        "link": "https://24.hu/sport/foci/2026/11/09/manchester-united-aston-villa-unai-emery/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303738022-e1794213588722-1024x575.jpg",
+        "summary": "Bizarr interjút adott az Aston Villa vezetőedzője. The post A Manchester United 96. perces gólt lőtt a csapatának, meg se várta a lefújást first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794213825
+      }
+    ]
+  },
+  {
+    "group_id": "group_48a2a8de0e",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Fordulat a boltok és éttermek ellenőrzésében: visszakapta korábbi jogköreit a Nébih",
+        "link": "https://www.vg.hu/agrar/2026/11/nebih-fogyasztovedelem-fordulat-a-boltok-es-ettermek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/pJf5WcSem8PAEWwBu6W4ifTUpe-ESKmymVS6DbIAm8E/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y0ZjRmYWNmODQ5MzRkNjg5NWVlNjBjNmRiNzhhYzlm.jpg",
+        "summary": "Az élelmiszer-kereskedelem és a vendéglátás felügyelete a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóságtól (NKFH) visszakerült a Nébihhez.",
+        "category": "Gazdaság",
+        "published_at": 1794213639
+      }
+    ]
+  },
+  {
+    "group_id": "group_a817c651d6",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Harmadik gyermekét várja a magyar színész sztárpár: két lány után fiuk lesz",
+        "link": "https://femina.hu/hazai_sztar/szabo-mate-harmadik-gyerek/",
+        "image": "https://femina.hu/neon/media/images/profimedia-0970741009.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Szabó Máté és színésznő felesége, Laurinyecz Réka a harmadik gyermeküket várják, két lány után most kisfiuk lesz.",
+        "category": "Bulvár",
+        "published_at": 1794214200
+      }
+    ]
+  },
+  {
+    "group_id": "group_0de2ea7a9f",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Filléres ötlet otthonra: órákra leköti a gyereket ez a szenzoros elfoglaltság",
+        "link": "https://femina.hu/gyerek/szenzoros-jatek-hazilag-gyerekeknek/",
+        "image": "https://femina.hu/neon/media/images/szenzoros_jatek.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Otthon is könnyen előkészíthetők, és játék közben remekül fejlesztik a gyerekek különböző készségeit.",
+        "category": "Bulvár",
+        "published_at": 1794214200
       }
     ]
   }
