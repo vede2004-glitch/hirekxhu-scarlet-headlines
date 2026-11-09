@@ -1355,6 +1355,30 @@
     "importance_score": 38.0
   },
   {
+    "group_id": "group_cdde06f1c0",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261109/1794235122-temp-imlj14uc1ej97lkmeih_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Tíz és fél év börtönre ítélték Russell Brandet nemi erőszak és szexuális zaklatások miatt",
+        "link": "https://telex.hu/after/2026/11/09/tiz-es-fel-ev-borton-itelet-russell-brand-nemi-eroszak-szexualis-zaklatas"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Több mint 10 év börtönre ítélték Russell Brandet",
+        "link": "https://24.hu/elet-stilus/2026/11/09/russell-brand-borton-nemi-eroszak-szexualis-kenyszerites/"
+      }
+    ],
+    "published_at": 1794235398,
+    "title_hu": "Tíz és fél év börtönre ítélték Russell Brandet nemi erőszak és szexuális zaklatások miatt",
+    "lead_hu": "A brit humoristát négy nő sérelmére elkövetett szexuális bűncselekmények miatt ítélték el. A bíró szerint Brand hírneve éveken át megvédte a felelősségre vonástól....",
+    "content_hu": "A brit humoristát négy nő sérelmére elkövetett szexuális bűncselekmények miatt ítélték el. A bíró szerint Brand hírneve éveken át megvédte a felelősségre vonástól.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_aa002296c9",
     "category": "Általános",
     "image": "https://kep.index.hu/1/0/7248/72484/724846/72484639_5341383_9ffe74fd04e235e2a742d4958a435f22_wm.jpg",
@@ -1376,6 +1400,54 @@
     "title_hu": "Kigyulladt egy lakókocsi Zuglóban, a lángok egy garázs tetejére is átterjedtek",
     "lead_hu": "A tűzoltók már az utómunkálatokat végzik....",
     "content_hu": "A tűzoltók már az utómunkálatokat végzik.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_0d265253e9",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/6834/68341/683418/68341819_5045157_35d618f68b1fb4fc2c87bcb71df86113_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Összefogtak a koreai akkugyárak, ígéretet tettek a magyaroknak",
+        "link": "https://index.hu/gazdasag/2026/11/09/akkumulatorgyar-korea-vallalas-igeret-samsung-sk-on-park-jung-sung/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Környezetvédelmi és emberi jogi vállalásokat tettek az akkugyárak",
+        "link": "https://24.hu/fn/gazdasag/2026/11/09/koreai-akkumulatorgyartok-kozos-nyilatkozat-magyarorszag/"
+      }
+    ],
+    "published_at": 1794233340,
+    "title_hu": "Összefogtak a koreai akkugyárak, ígéretet tettek a magyaroknak",
+    "lead_hu": "Felelős működést vállaltak....",
+    "content_hu": "Felelős működést vállaltak.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_ee512b3d85",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/06/BvHAnmaoizSn2AVhgDbb6Xmr1OMSWhhCQv9KqdnJum0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JjYTYxZjEyODhmODQ5N2FiOWE2NjVmOTVjNjkyZDgx.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Tündéri fotóval jelentette be: Világra jött Stana Alexandra első gyermeke",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/stana-alexandra-elso-gyermeke-megszuletett"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megszületett Stana Alexandra kisfia, tündéri fotókon a pici",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/09/megszuletett-stana-alexandra-kisfia-tunderi-fotokon-a-pici/"
+      }
+    ],
+    "published_at": 1794233115,
+    "title_hu": "Tündéri fotóval jelentette be: Világra jött Stana Alexandra első gyermeke",
+    "lead_hu": "Megérkezett Dominik, Stana Alexandra első gyermeke. A Dancing with the Stars táncosa kisfia születését közösségi oldalán jelentette be....",
+    "content_hu": "Megérkezett Dominik, Stana Alexandra első gyermeke. A Dancing with the Stars táncosa kisfia születését közösségi oldalán jelentette be.",
     "importance_score": 35.0
   },
   {
@@ -1657,32 +1729,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_1ec2e8ebfd",
-    "fingerprint": "91abcf7ae3a5dd1d1e7e415291ddb208",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/09/2uzWgej4t8JoE7cH34UVo9FoGrYvRpbo8Bk3FI6feWw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE2MDcwMzgzYTYzODQwYjA5MWZmZGRhYzBkMDhjZWQy.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "A Wekerle Plusz ott drágít, ahol a legjobban fáj: a használt lakások miatt az egész lakáshitelpiacon visszaeshet a kereslet",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/wekerle-plusz-lakashitelpiac-bankok-kamattamogatas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Hír TV",
-        "title": "Megdrágulhat a lakásvásárlás: a használt ingatlanok vevői járhatnak rosszul",
-        "link": "https://hirtv.origo.hu/hirtv-gazdasagi-hirei/2026/11/megdragulhat-a-lakasvasarlas-a-hasznalt-ingatlanok-vevoi-jarhatnak-rosszul"
-      }
-    ],
-    "published_at": 1794224654,
-    "title_hu": "Drágább lehet a használt lakások hitelből történő vásárlása",
-    "lead_hu": "Az Otthon Start helyébe lépő Wekerle Plusz a használt lakásoknál 3-ról 5 százalékra emeli a támogatott kamatot, miközben a lakáshitelek csaknem 80 százalékát ilyen ingatlanok vásárlására fordítják. A magasabb törlesztőrészletek visszafoghatják a keresletet, és egyes vevők kisebb hitelt vehetnek fel vagy elhalaszthatják a vásárlást.",
-    "content_hu": "• **Kamatemelés a használt lakásoknál** A Wekerle Plusz az új építésű lakásokra megtartja a 3 százalékos támogatott kamatot, a használt ingatlanok esetében viszont 5 százalékra emeli azt.\n\n• **A piac nagy részét érinti** A lakáshitelek közel 80 százalékát használt lakások vásárlására fordítják, az Otthon Start támogatott kölcsöneinek pedig még ennél is nagyobb része szolgálta ezt a célt.\n\n• **Nőhet a havi törlesztés** Egy 30 millió forintos, 25 éves hitel havi részlete a 3 százalékos kamat melletti mintegy 142 ezer forintról 5 százalékos kamatnál több mint 175 ezer forintra emelkedhet.\n\n• **Visszafoghatja a vásárlásokat** A drágább finanszírozás miatt egyes vevők kisebb hitelt igényelhetnek, olcsóbb ingatlant kereshetnek vagy elhalaszthatják a lakásvásárlást, ami a teljes lakáshitelpiac keresletét is mérsékelheti.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_9b593d7645",
     "category": "Politika",
     "image": "",
@@ -1730,32 +1776,6 @@
     "title_hu": "Gadi Ejzenkot kapott megbízást az izraeli kormányalakításra",
     "lead_hu": "Jichák Hercog izraeli államfő Gadi Ejzenkotot kérte fel kormányalakításra, miután a politikus megszerezte a parlamenti pártok többségének támogatását. Ejzenkot 28 napot kapott a feladat teljesítésére, amely további 14 nappal meghosszabbítható.",
     "content_hu": "• **Kormányalakítási megbízás** Jichák Hercog államfő a parlamenti pártokkal folytatott konzultációk után Gadi Ejzenkotot kérte fel kormányalakításra.\n\n• **Határidő** Ejzenkotnak 28 napja van a kormányalakításra, és a megbízatás további 14 nappal meghosszabbítható.\n\n• **Tárgyalások** A felkérést várhatóan elhúzódó egyeztetések követik; Ejzenkot arról beszélt, hogy minél előbb kormányt kell alakítani, és kreatív lépésekre is szükség lehet.",
-    "importance_score": 33.0
-  },
-  {
-    "group_id": "group_08778304d5",
-    "fingerprint": "541ac98b103104fc9fbe60b76a7a8a62",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/k/r/h/krhz-krhzi-kezels-egszsggy-beteg-gyermek-betegsg-orvosi-ellts-gygyts-gy-836382.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Friss hírek az egészségügyi béremelésről: a pénz nagy részét a szakdolgozók kapják",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/friss-hirek-az-egeszsegugyi-beremelesrol-a-penz-nagy-reszet-a-szakdolgozok-kapjak-875064"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Kiderült, hogyan osztják szét az egészségügyi dolgozóknak szánt 192 milliárd forintot",
-        "link": "https://index.hu/belfold/2026/11/09/egeszsegugy-hegedus-zsolt-berrendezes/"
-      }
-    ],
-    "published_at": 1794213840,
-    "title_hu": "Így osztják el az egészségügyi béremelésre szánt 192 milliárd forintot",
-    "lead_hu": "A 2027-re tervezett, összesen 192 milliárd forintos egészségügyi bérrendezés legnagyobb része a szakdolgozók béremelésére jut. Az új bértábla hatálya alá tartozóknak legalább 7,5 százalékkal nő az alapbérük, a kormány által ígért 15 százalékos emelés azonban átlagot jelent.",
-    "content_hu": "• **A keret legnagyobb részét a szakdolgozók kapják:** 144,3 milliárd forint jut az egészségügyi szolgálati jogviszonyban dolgozók alapbéreinek és pótlékainak emelésére.\n\n• **További 12,7 milliárd forintot különítenek el** a háziorvosok, gyermekorvosok és fogorvosok mellett dolgozó szakdolgozók bérrendezésére.\n\n• **A fennmaradó 35 milliárd forintból más egészségügyi területeken dolgozók bére emelkedhet:** a támogatás többek között kórházi gazdasági, informatikai és műszaki munkatársakra, valamint az otthoni szakápolás, a hospice-ellátás és a betegszállítás dolgozóira terjed ki.\n\n• **Az új bértábla hatálya alá tartozóknak legalább 7,5 százalékos alapbéremelés jár:** a 15 százalékos emelés átlag, ezért az egyéni növekedés eltérhet; az alacsonyabb keresetűek akár 30–35 százalékos emelést is kaphatnak.\n\n• **Az intézményvezetők 10,5 milliárd forint felhasználásáról dönthetnek:** a helyi körülmények alapján adhatnak többletjuttatásokat, döntéseiket indokolniuk kell, az elosztás szabályait pedig nyilvánosságra hozzák.",
     "importance_score": 33.0
   },
   {
@@ -1883,6 +1903,32 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_1ec2e8ebfd",
+    "fingerprint": "91abcf7ae3a5dd1d1e7e415291ddb208",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/09/2uzWgej4t8JoE7cH34UVo9FoGrYvRpbo8Bk3FI6feWw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE2MDcwMzgzYTYzODQwYjA5MWZmZGRhYzBkMDhjZWQy.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "A Wekerle Plusz ott drágít, ahol a legjobban fáj: a használt lakások miatt az egész lakáshitelpiacon visszaeshet a kereslet",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/wekerle-plusz-lakashitelpiac-bankok-kamattamogatas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Megdrágulhat a lakásvásárlás: a használt ingatlanok vevői járhatnak rosszul",
+        "link": "https://hirtv.origo.hu/hirtv-gazdasagi-hirei/2026/11/megdragulhat-a-lakasvasarlas-a-hasznalt-ingatlanok-vevoi-jarhatnak-rosszul"
+      }
+    ],
+    "published_at": 1794224654,
+    "title_hu": "Drágább lehet a használt lakások hitelből történő vásárlása",
+    "lead_hu": "Az Otthon Start helyébe lépő Wekerle Plusz a használt lakásoknál 3-ról 5 százalékra emeli a támogatott kamatot, miközben a lakáshitelek csaknem 80 százalékát ilyen ingatlanok vásárlására fordítják. A magasabb törlesztőrészletek visszafoghatják a keresletet, és egyes vevők kisebb hitelt vehetnek fel vagy elhalaszthatják a vásárlást.",
+    "content_hu": "• **Kamatemelés a használt lakásoknál** A Wekerle Plusz az új építésű lakásokra megtartja a 3 százalékos támogatott kamatot, a használt ingatlanok esetében viszont 5 százalékra emeli azt.\n\n• **A piac nagy részét érinti** A lakáshitelek közel 80 százalékát használt lakások vásárlására fordítják, az Otthon Start támogatott kölcsöneinek pedig még ennél is nagyobb része szolgálta ezt a célt.\n\n• **Nőhet a havi törlesztés** Egy 30 millió forintos, 25 éves hitel havi részlete a 3 százalékos kamat melletti mintegy 142 ezer forintról 5 százalékos kamatnál több mint 175 ezer forintra emelkedhet.\n\n• **Visszafoghatja a vásárlásokat** A drágább finanszírozás miatt egyes vevők kisebb hitelt igényelhetnek, olcsóbb ingatlant kereshetnek vagy elhalaszthatják a lakásvásárlást, ami a teljes lakáshitelpiac keresletét is mérsékelheti.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_974d836d9b",
     "fingerprint": "486968a638a86cea6bf962a53bc78940",
     "category": "Politika",
@@ -1930,6 +1976,30 @@
     "title_hu": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
     "lead_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
     "content_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_97ba31ea48",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/000_d6uz2g3_kiem-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Mi történhetett a krakkói merénylő családjában? Tarjányi Péter szerint ez lehet a nyomozás kulcsa",
+        "link": "https://24.hu/kulfold/2026/11/09/krakkoi-tragedia-lovoldozes-aldozatok-merenylo-csalad-tarjanyi-peter/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Saját családját is megölte a krakkói merénylő, újabb részletek derültek ki",
+        "link": "https://index.hu/kulfold/2026/11/09/krakko-lengyelorszag-ugyeszseg-lovoldozes-elkoveto-merenylo-csalad-reszletek/"
+      }
+    ],
+    "published_at": 1794223014,
+    "title_hu": "Mi történhetett a krakkói merénylő családjában? Tarjányi Péter szerint ez lehet a nyomozás kulcsa",
+    "lead_hu": "Meghalt az a 24 éves férfi, aki Krakkó főterén hat embert ölt meg szombaton és a családjával is végezhetett korábban. A biztonságpolitikai szakértő szerint ha családirtóról van szó, akkor az ideológia…",
+    "content_hu": "Meghalt az a 24 éves férfi, aki Krakkó főterén hat embert ölt meg szombaton és a családjával is végezhetett korábban. A biztonságpolitikai szakértő szerint ha családirtóról van szó, akkor az ideológiai tényezőknél fontosabb, hogy mi történt a merénylő otthonában. The post Mi történhetett a krakkói merénylő családjában? Tarjányi Péter szerint ez lehet a nyomozás kulcsa first appeared on 24.hu.",
     "importance_score": 28.0
   },
   {
@@ -2032,6 +2102,32 @@
     "title_hu": "Közleményt adott ki Szoboszlai Dominikról az MLSZ, de még továbbit is ígért",
     "lead_hu": "Megvizsgáljk, milyen állapotban van a középpályás. The post Közleményt adott ki Szoboszlai Dominikról az MLSZ, de még továbbit is ígért first appeared on 24.hu.",
     "content_hu": "Megvizsgáljk, milyen állapotban van a középpályás. The post Közleményt adott ki Szoboszlai Dominikról az MLSZ, de még továbbit is ígért first appeared on 24.hu.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_08778304d5",
+    "fingerprint": "541ac98b103104fc9fbe60b76a7a8a62",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/k/r/h/krhz-krhzi-kezels-egszsggy-beteg-gyermek-betegsg-orvosi-ellts-gygyts-gy-836382.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Friss hírek az egészségügyi béremelésről: a pénz nagy részét a szakdolgozók kapják",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/friss-hirek-az-egeszsegugyi-beremelesrol-a-penz-nagy-reszet-a-szakdolgozok-kapjak-875064"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kiderült, hogyan osztják szét az egészségügyi dolgozóknak szánt 192 milliárd forintot",
+        "link": "https://index.hu/belfold/2026/11/09/egeszsegugy-hegedus-zsolt-berrendezes/"
+      }
+    ],
+    "published_at": 1794213840,
+    "title_hu": "Így osztják el az egészségügyi béremelésre szánt 192 milliárd forintot",
+    "lead_hu": "A 2027-re tervezett, összesen 192 milliárd forintos egészségügyi bérrendezés legnagyobb része a szakdolgozók béremelésére jut. Az új bértábla hatálya alá tartozóknak legalább 7,5 százalékkal nő az alapbérük, a kormány által ígért 15 százalékos emelés azonban átlagot jelent.",
+    "content_hu": "• **A keret legnagyobb részét a szakdolgozók kapják:** 144,3 milliárd forint jut az egészségügyi szolgálati jogviszonyban dolgozók alapbéreinek és pótlékainak emelésére.\n\n• **További 12,7 milliárd forintot különítenek el** a háziorvosok, gyermekorvosok és fogorvosok mellett dolgozó szakdolgozók bérrendezésére.\n\n• **A fennmaradó 35 milliárd forintból más egészségügyi területeken dolgozók bére emelkedhet:** a támogatás többek között kórházi gazdasági, informatikai és műszaki munkatársakra, valamint az otthoni szakápolás, a hospice-ellátás és a betegszállítás dolgozóira terjed ki.\n\n• **Az új bértábla hatálya alá tartozóknak legalább 7,5 százalékos alapbéremelés jár:** a 15 százalékos emelés átlag, ezért az egyéni növekedés eltérhet; az alacsonyabb keresetűek akár 30–35 százalékos emelést is kaphatnak.\n\n• **Az intézményvezetők 10,5 milliárd forint felhasználásáról dönthetnek:** a helyi körülmények alapján adhatnak többletjuttatásokat, döntéseiket indokolniuk kell, az elosztás szabályait pedig nyilvánosságra hozzák.",
     "importance_score": 28.0
   },
   {
@@ -2551,6 +2647,30 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_7cfe2baf53",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794155908-temp-8ekg8quqmf39cjkemen_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A francia külügyminiszter szerint mégis lesz európai résztvevő az orosz-ukrán tárgyalásokon Abu-Dzabiban",
+        "link": "https://telex.hu/kulfold/2026/11/08/franciaorszag-oroszorszg-ukrajna-usa-haboru-abu-dzabi-targyalas"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Oroszország is megerősítette, háromoldalú tárgyalások jönnek Abu-Dzabiban",
+        "link": "https://index.hu/kulfold/2026/11/09/kreml-orosz-ukran-haboru-targyalasok-abu-dzabi-egyesult-allamok/"
+      }
+    ],
+    "published_at": 1794156177,
+    "title_hu": "A francia külügyminiszter szerint mégis lesz európai résztvevő az orosz-ukrán tárgyalásokon Abu-Dzabiban",
+    "lead_hu": "Az amerikai közvetítéssel szervezett találkozón a korábbi terv szerint nem lettek volna európai tisztviselők.",
+    "content_hu": "Az amerikai közvetítéssel szervezett találkozón a korábbi terv szerint nem lettek volna európai tisztviselők.",
+    "importance_score": 20.0
+  },
+  {
     "group_id": "group_5ce171abf1",
     "category": "Politika",
     "image": "",
@@ -2599,22 +2719,41 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_cdde06f1c0",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261109/1794235122-temp-imlj14uc1ej97lkmeih_cimlap-normal.jpg",
+    "group_id": "group_1a62752f20",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/gyori-audi-eto-d__yt20261010013-1024x576.jpg",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
-        "source": "Telex - Belföld",
-        "title": "Tíz és fél év börtönre ítélték Russell Brandet nemi erőszak és szexuális zaklatások miatt",
-        "link": "https://telex.hu/after/2026/11/09/tiz-es-fel-ev-borton-itelet-russell-brand-nemi-eroszak-szexualis-zaklatas"
+        "source": "24.hu - Legfrissebb",
+        "title": "Pénzügyi gondok az ETO-nál? – reagált a győri kéziklub",
+        "link": "https://24.hu/sport/2026/11/09/gyori-audi-eto-kc-penzugyi-gondok-klub-reakcio/"
       }
     ],
-    "published_at": 1794235398,
-    "title_hu": "Tíz és fél év börtönre ítélték Russell Brandet nemi erőszak és szexuális zaklatások miatt",
-    "lead_hu": "A brit humoristát négy nő sérelmére elkövetett szexuális bűncselekmények miatt ítélték el. A bíró szerint Brand hírneve éveken át megvédte a felelősségre vonástól....",
-    "content_hu": "A brit humoristát négy nő sérelmére elkövetett szexuális bűncselekmények miatt ítélték el. A bíró szerint Brand hírneve éveken át megvédte a felelősségre vonástól.",
+    "published_at": 1794235590,
+    "title_hu": "Pénzügyi gondok az ETO-nál? – reagált a győri kéziklub",
+    "lead_hu": "Külföldön azt írják, felére csökkenhet a játékosok fizetése és arra is nyitottak Győrben, hogy sztárokat engedjenek el. The post Pénzügyi gondok az ETO-nál? – reagált a győri kéziklub first appeared o...",
+    "content_hu": "Külföldön azt írják, felére csökkenhet a játékosok fizetése és arra is nyitottak Győrben, hogy sztárokat engedjenek el. The post Pénzügyi gondok az ETO-nál? – reagált a győri kéziklub first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2186eb1bbe",
+    "category": "Általános",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fa7dae73-ae12-49c7-835a-55e1e5fcd549.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Az ötszörös olimpiai bajnok cselgáncslegenda is indul a francia elnökválasztáson",
+        "link": "https://hvg.hu/vilag/20261109_otszoros-olimpiai-bajnok-indul-a-francia-elnoki-posztert"
+      }
+    ],
+    "published_at": 1794235550,
+    "title_hu": "Az ötszörös olimpiai bajnok cselgáncslegenda is indul a francia elnökválasztáson",
+    "lead_hu": "Teddy Riner szerint Franciaországnak nem egy profi politikusra van szüksége, aki egész nap csak kioktat másokat, hanem józan észre....",
+    "content_hu": "Teddy Riner szerint Franciaországnak nem egy profi politikusra van szüksége, aki egész nap csak kioktat másokat, hanem józan észre.",
     "importance_score": 0.0
   },
   {
@@ -2634,6 +2773,25 @@
     "title_hu": "Öt embert tartóztattak le Lengyelországban, akik a krakkói mészárlást dicsőítették",
     "lead_hu": "Tevékenységük a rendőrség szerint potenciális fenyegetést jelenthetett....",
     "content_hu": "Tevékenységük a rendőrség szerint potenciális fenyegetést jelenthetett.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_8831dfd45b",
+    "category": "Bulvár",
+    "image": "https://s.24.hu/app/uploads/2026/11/ph1109_01-1024x545.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Eltűnt, nem veszi fel a telefont: mikor kell valóban aggódnunk?",
+        "link": "https://24.hu/szorakozas/2026/11/09/eltunt-nem-veszi-fel-a-telefont-mikor-kell-valoban-aggodnunk/"
+      }
+    ],
+    "published_at": 1794235272,
+    "title_hu": "Eltűnt, nem veszi fel a telefont: mikor kell valóban aggódnunk?",
+    "lead_hu": "A telefon lett a végzetünk: ha nem vagyunk elérhetők, mindenki azonnal a legrosszabbra gondol Az RTL The post Eltűnt, nem veszi fel a telefont: mikor kell valóban aggódnunk? first appeared on 24.hu....",
+    "content_hu": "A telefon lett a végzetünk: ha nem vagyunk elérhetők, mindenki azonnal a legrosszabbra gondol Az RTL The post Eltűnt, nem veszi fel a telefont: mikor kell valóban aggódnunk? first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
@@ -3014,44 +3172,6 @@
     "title_hu": "Magyar Péter a Fidesz korábbi döntéseivel vágott vissza",
     "lead_hu": "Hát kérem szépen, képviselő asszony, messze esett az alma a fájától. The post Magyar Péter a Fidesz korábbi döntéseivel vágott vissza first appeared on 24.hu....",
     "content_hu": "Hát kérem szépen, képviselő asszony, messze esett az alma a fájától. The post Magyar Péter a Fidesz korábbi döntéseivel vágott vissza first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0d265253e9",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6834/68341/683418/68341819_5045157_35d618f68b1fb4fc2c87bcb71df86113_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Összefogtak a koreai akkugyárak, ígéretet tettek a magyaroknak",
-        "link": "https://index.hu/gazdasag/2026/11/09/akkumulatorgyar-korea-vallalas-igeret-samsung-sk-on-park-jung-sung/"
-      }
-    ],
-    "published_at": 1794233340,
-    "title_hu": "Összefogtak a koreai akkugyárak, ígéretet tettek a magyaroknak",
-    "lead_hu": "Felelős működést vállaltak....",
-    "content_hu": "Felelős működést vállaltak.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ee512b3d85",
-    "category": "Bulvár",
-    "image": "https://cdn.borsonline.hu/2026/06/BvHAnmaoizSn2AVhgDbb6Xmr1OMSWhhCQv9KqdnJum0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JjYTYxZjEyODhmODQ5N2FiOWE2NjVmOTVjNjkyZDgx.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Tündéri fotóval jelentette be: Világra jött Stana Alexandra első gyermeke",
-        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/stana-alexandra-elso-gyermeke-megszuletett"
-      }
-    ],
-    "published_at": 1794233115,
-    "title_hu": "Tündéri fotóval jelentette be: Világra jött Stana Alexandra első gyermeke",
-    "lead_hu": "Megérkezett Dominik, Stana Alexandra első gyermeke. A Dancing with the Stars táncosa kisfia születését közösségi oldalán jelentette be....",
-    "content_hu": "Megérkezett Dominik, Stana Alexandra első gyermeke. A Dancing with the Stars táncosa kisfia születését közösségi oldalán jelentette be.",
     "importance_score": 0.0
   },
   {
@@ -5180,25 +5300,6 @@
     "title_hu": "Bevásárlókosárba ültették a gyereket, az eladónő közbelépett – a szülők felháborodtak",
     "lead_hu": "Egyre furcsább jelenetek játszódnak le a szupermarketekben: egyes szülők a gurulós bevásárlókosárba ültetik a gyereküket, majd úgy húzzák végig őket a bolton, mintha egy vidámparkban lennének. Egy ela…",
     "content_hu": "Egyre furcsább jelenetek játszódnak le a szupermarketekben: egyes szülők a gurulós bevásárlókosárba ültetik a gyereküket, majd úgy húzzák végig őket a bolton, mintha egy vidámparkban lennének. Egy eladónő figyelmeztetése azonban komoly felháborodást váltott ki. The post Bevásárlókosárba ültették a gyereket, az eladónő közbelépett – a szülők felháborodtak first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_97ba31ea48",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/000_d6uz2g3_kiem-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Mi történhetett a krakkói merénylő családjában? Tarjányi Péter szerint ez lehet a nyomozás kulcsa",
-        "link": "https://24.hu/kulfold/2026/11/09/krakkoi-tragedia-lovoldozes-aldozatok-merenylo-csalad-tarjanyi-peter/"
-      }
-    ],
-    "published_at": 1794223014,
-    "title_hu": "Mi történhetett a krakkói merénylő családjában? Tarjányi Péter szerint ez lehet a nyomozás kulcsa",
-    "lead_hu": "Meghalt az a 24 éves férfi, aki Krakkó főterén hat embert ölt meg szombaton és a családjával is végezhetett korábban. A biztonságpolitikai szakértő szerint ha családirtóról van szó, akkor az ideológia…",
-    "content_hu": "Meghalt az a 24 éves férfi, aki Krakkó főterén hat embert ölt meg szombaton és a családjával is végezhetett korábban. A biztonságpolitikai szakértő szerint ha családirtóról van szó, akkor az ideológiai tényezőknél fontosabb, hogy mi történt a merénylő otthonában. The post Mi történhetett a krakkói merénylő családjában? Tarjányi Péter szerint ez lehet a nyomozás kulcsa first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
@@ -11206,25 +11307,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_7cfe2baf53",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261108/1794155908-temp-8ekg8quqmf39cjkemen_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A francia külügyminiszter szerint mégis lesz európai résztvevő az orosz-ukrán tárgyalásokon Abu-Dzabiban",
-        "link": "https://telex.hu/kulfold/2026/11/08/franciaorszag-oroszorszg-ukrajna-usa-haboru-abu-dzabi-targyalas"
-      }
-    ],
-    "published_at": 1794156177,
-    "title_hu": "A francia külügyminiszter szerint mégis lesz európai résztvevő az orosz-ukrán tárgyalásokon Abu-Dzabiban",
-    "lead_hu": "Az amerikai közvetítéssel szervezett találkozón a korábbi terv szerint nem lettek volna európai tisztviselők.",
-    "content_hu": "Az amerikai közvetítéssel szervezett találkozón a korábbi terv szerint nem lettek volna európai tisztviselők.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_cad03715f0",
     "category": "Gazdaság",
     "image": "https://cdn.vg.hu/2026/11/fVbNF09EyRoxvx-WDc-vyS8Pd0VRIEZ4aeFPW_P_47o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E2NjRlOGE3NzlhZTRjYjE5YmM4OTgwNjgyZGI4M2Iy.jpg",
@@ -12001,82 +12083,6 @@
     "title_hu": "Összehangolt külföldi fenyegetésről beszélt Ruszin-Szendi Romulusz, ezért szállnak fel a Gripenek",
     "lead_hu": "A honvédelmi miniszter elmondta, miért van szükség a vadászgépek bevetésére.",
     "content_hu": "A honvédelmi miniszter elmondta, miért van szükség a vadászgépek bevetésére.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e937b19d37",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/dw-koporso-kiemelt-1024x576.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "„Jó móka volt elkészíteni a koporsómat” – aki szeretné, a temetésig könyvesszekrényként is használhatja",
-        "link": "https://24.hu/kulfold/2026/11/08/temetkezes-koporso-video-deutsche-welle/"
-      }
-    ],
-    "published_at": 1794149308,
-    "title_hu": "„Jó móka volt elkészíteni a koporsómat” – aki szeretné, a temetésig könyvesszekrényként is használhatja",
-    "lead_hu": "Egy németországi asztalosműhelyben bárki elkészítheti azt a koporsót vagy urnát, amelyben majd eltemetik vagy elhamvasztják. De miért? A Deutsche Welle riportja. The post „Jó móka volt elkészíteni a k…",
-    "content_hu": "Egy németországi asztalosműhelyben bárki elkészítheti azt a koporsót vagy urnát, amelyben majd eltemetik vagy elhamvasztják. De miért? A Deutsche Welle riportja. The post „Jó móka volt elkészíteni a koporsómat” – aki szeretné, a temetésig könyvesszekrényként is használhatja first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ea0d88a730",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Ócska sátánista, kereszténygyűlölő kommunista volt a krakkói lövöldöző",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/ocska-satanista-keresztenygyulolo-kommunista-volt-a-krakkoi-lovoldozo"
-      }
-    ],
-    "published_at": 1794149280,
-    "title_hu": "Ócska sátánista, kereszténygyűlölő kommunista volt a krakkói lövöldöző",
-    "lead_hu": "Legalább hat ember meghalt, és több mint egy tucatnyian megsérültek, amikor egy ámokfutó fegyveres tüz...",
-    "content_hu": "Legalább hat ember meghalt, és több mint egy tucatnyian megsérültek, amikor egy ámokfutó fegyveres tüz...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6dad89178a",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
-        "link": "https://444.hu/2026/11/08/okos-dronokkal-fogja-a-mav-felugyelni-a-hozza-tartozo-uzemi-teruleteket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794149267,
-    "title_hu": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
-    "lead_hu": "A drónok a vasúttársaság vezérigazgatója szerint „magyar AI-technológiának köszönhetően felismerik a kritikus mozgást és értesítik a helyszínt őrző kollégáinkat”.",
-    "content_hu": "A drónok a vasúttársaság vezérigazgatója szerint „magyar AI-technológiának köszönhetően felismerik a kritikus mozgást és értesítik a helyszínt őrző kollégáinkat”.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f3adc12b39",
-    "category": "Általános",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c2578b2c-ba63-44ec-bb93-00c7eff52bf5.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Csapást mért egy teherhajóra Amerika az iráni blokád kijátszására hivatkozva",
-        "link": "https://hvg.hu/vilag/20261108_csapast-mert-egy-teherhajora-amerika-az-irani-blokad-kijatszasara-hivatkozva"
-      }
-    ],
-    "published_at": 1794149262,
-    "title_hu": "Csapást mért egy teherhajóra Amerika az iráni blokád kijátszására hivatkozva",
-    "lead_hu": "Az Irán elleni blokád kijátszásával gyanúsított egyik teherhajóra mértek csapást az amerikai erők az Ománi-öbölben - közölte az amerikai középső parancsnokság (CENTCOM) az X-en.",
-    "content_hu": "Az Irán elleni blokád kijátszásával gyanúsított egyik teherhajóra mértek csapást az amerikai erők az Ománi-öbölben - közölte az amerikai középső parancsnokság (CENTCOM) az X-en.",
     "importance_score": 0.0
   },
   {
