@@ -312,6 +312,37 @@
     "importance_score": 50.0
   },
   {
+    "group_id": "group_3d8610d2c7",
+    "fingerprint": "96b308840336231d92dd48747321bf60",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Kínai kémnő csábíthatta el az Nvidia vezérigazgatóját",
+        "link": "https://telex.hu/kulfold/2026/11/08/nvidia-vezerigazgato-kinai-kem-szereto-vizsgalat"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Viszonya volt az Nvidia vezérének, szeretőjéről azt gyanítják, hogy kínai kém",
+        "link": "https://hvg.hu/tudomany/20261109_nvidia-vezer-jensen-huang-kinai-kemno-vizsgalat"
+      },
+      {
+        "source": "444.hu",
+        "title": "Vizsgálatot indít a Trump-tanácsadó vezérigazgatója ellen az Nvidia, miután kiderült, hogy kínai kémnővel volt viszonya",
+        "link": "https://444.hu/2026/11/09/vizsgalatot-indit-a-trump-tanacsado-vezerigazgatoja-ellen-az-nvidia-miutan-kiderult-hogy-kinai-kemnovel-volt-viszonya?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794199999,
+    "title_hu": "Vizsgálat indul az Nvidia vezérének feltételezett kínai kémkapcsolata miatt",
+    "lead_hu": "Az Nvidia igazgatótanácsa független vizsgálatot indított, miután sajtóértesülések szerint Jensen Huang vezérigazgató viszonyt folytatott Alice Huanggal, akit kínai hírszerzési tevékenységgel gyanúsítanak. A vállalat közlése szerint egyelőre nincs bizonyíték arra, hogy bizalmas információk kerültek volna illetéktelen kezekbe.",
+    "content_hu": "• **Független vizsgálat indul** Az Nvidia igazgatótanácsa a vezérigazgató és Alice Huang kapcsolatáról, valamint a feltételezett külföldi hírszerzési műveletről szóló sajtóhírek miatt indított vizsgálatot.\n\n• **Kémkedés gyanúja merült fel** Amerikai hírszerzési forrásokra hivatkozó beszámolók szerint Alice Huang Peking megbízásából gyűjthetett információkat Jensen Huangról, és segíthetett fejlett Nvidia-chipek Kínába juttatásában. A vádakat a források nem tekintik bizonyítottnak.\n\n• **Egyelőre nem jeleztek adatszivárgást** Az Nvidia szerint jelenleg nincs okuk azt feltételezni, hogy üzleti titkok vagy az Egyesült Államok nemzetbiztonsági érdekei sérültek volna, de minden rendelkezésre álló információt megvizsgálnak.\n\n• **Huang bocsánatot kért** A vezérigazgató elismerte, hogy hűtlen volt a feleségéhez, bocsánatot kért családjától, és teljes együttműködést ígért a vizsgálatban.\n\n• **Politikai figyelem kíséri az ügyet** Három republikánus képviselőházi bizottsági vezető tájékoztatást kért Huangtól a vállalat biztonsági intézkedéseiről. Donald Trump korábbi értesüléseiről is kérdések merültek fel, az elnök pedig azt mondta, nem bánja, hogy korábban nem intézkedett.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_7098bc2c84",
     "fingerprint": "6577a2250ac68876db4d33023f41301d",
     "category": "Politika",
@@ -600,30 +631,38 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_3d8610d2c7",
-    "fingerprint": "96b308840336231d92dd48747321bf60",
+    "group_id": "group_f69ae3456e",
     "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://cdn.magyarnemzet.hu/2026/11/M9vjx2TyuKXGguOEl5RokLOV-GrESeIo-xDHgemJlgk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViMzU2ZDY1NTA3YTQyZTU4MmM1MGNlYWQ0ZjBhMDYy.jpg",
+    "is_synthesized": false,
+    "sources_count": 4,
     "sources": [
       {
-        "source": "Telex - Belföld",
-        "title": "Kínai kémnő csábíthatta el az Nvidia vezérigazgatóját",
-        "link": "https://telex.hu/kulfold/2026/11/08/nvidia-vezerigazgato-kinai-kem-szereto-vizsgalat"
+        "source": "Magyar Nemzet",
+        "title": "Gyászol a magyar futball: elhunyt az Újpest válogatott legendája",
+        "link": "https://magyarnemzet.hu/sport/2026/11/gyasz-rothermel-adam-elhunyt-ujpest-olimpiai-ezustermes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Viszonya volt az Nvidia vezérének, szeretőjéről azt gyanítják, hogy kínai kém",
-        "link": "https://hvg.hu/tudomany/20261109_nvidia-vezer-jensen-huang-kinai-kemno-vizsgalat"
+        "source": "Vadhajtások",
+        "title": "Nógrádi László: Megfigyelt voltam, nem megfigyelő",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/nogradi-laszlo-megfigyelt-voltam-nem-megfigyelo"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Előre szólt Ukrajna: olyan bírósági per készül az aranykonvoj-botrányban, ami sokkolni fogja a magyarokat – „Már nagyon-nagyon közel van”",
+        "link": "https://www.vg.hu/kozelet/2026/11/aranykonvo-ukran-magyar-talakozo-nagykovet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Előre szólt Ukrajna: olyan bírósági per készül az aranykonvoj-botrányban, ami sokkolni fogja a magyarokat – „Már nagyon-nagyon közel van”",
+        "link": "https://www.vg.hu/kozelet/2026/11/aranykonvoj-ukran-magyar-talakozo-nagykovet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "published_at": 1794199999,
-    "title_hu": "Vizsgálat indul az Nvidia vezérének feltételezett kínai kémkapcsolata miatt",
-    "lead_hu": "Az Nvidia igazgatótanácsa független vizsgálatot indított, miután sajtóértesülések szerint Jensen Huang vezérigazgató viszonyt folytatott Alice Huanggal, akit kínai hírszerzési tevékenységgel gyanúsítanak. A vállalat közlése szerint egyelőre nincs bizonyíték arra, hogy bizalmas információk kerültek volna illetéktelen kezekbe.",
-    "content_hu": "• **Független vizsgálat indul** Az Nvidia igazgatótanácsa a vezérigazgató és Alice Huang kapcsolatáról, valamint a feltételezett külföldi hírszerzési műveletről szóló sajtóhírek miatt indított vizsgálatot.\n\n• **Kémkedés gyanúja merült fel** Amerikai hírszerzési forrásokra hivatkozó beszámolók szerint Alice Huang Peking megbízásából gyűjthetett információkat Jensen Huangról, és segíthetett fejlett Nvidia-chipek Kínába juttatásában. A vádakat a források nem tekintik bizonyítottnak.\n\n• **Egyelőre nem jeleztek adatszivárgást** Az Nvidia szerint jelenleg nincs okuk azt feltételezni, hogy üzleti titkok vagy az Egyesült Államok nemzetbiztonsági érdekei sérültek volna, de minden rendelkezésre álló információt megvizsgálnak.\n\n• **Huang bocsánatot kért** A vezérigazgató elismerte, hogy hűtlen volt a feleségéhez, bocsánatot kért családjától, és teljes együttműködést ígért a vizsgálatban.\n\n• **Politikai figyelem kíséri az ügyet** Három republikánus képviselőházi bizottsági vezető tájékoztatást kért Huangtól a vállalat biztonsági intézkedéseiről. Donald Trump korábbi értesüléseiről is kérdések merültek fel, az elnök pedig azt mondta, nem bánja, hogy korábban nem intézkedett.",
-    "importance_score": 35.0
+    "published_at": 1794118667,
+    "title_hu": "Gyászol a magyar futball: elhunyt az Újpest válogatott legendája",
+    "lead_hu": "A család megrendítő sorokkal búcsúzott a háromszoros magyar bajnok, olimpiai ezüstérmes labdarúgótól.",
+    "content_hu": "A család megrendítő sorokkal búcsúzott a háromszoros magyar bajnok, olimpiai ezüstérmes labdarúgótól.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_54eeb56aca",
@@ -1086,35 +1125,6 @@
     "importance_score": 30.0
   },
   {
-    "group_id": "group_f69ae3456e",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/M9vjx2TyuKXGguOEl5RokLOV-GrESeIo-xDHgemJlgk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViMzU2ZDY1NTA3YTQyZTU4MmM1MGNlYWQ0ZjBhMDYy.jpg",
-    "is_synthesized": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Gyászol a magyar futball: elhunyt az Újpest válogatott legendája",
-        "link": "https://magyarnemzet.hu/sport/2026/11/gyasz-rothermel-adam-elhunyt-ujpest-olimpiai-ezustermes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Nógrádi László: Megfigyelt voltam, nem megfigyelő",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/nogradi-laszlo-megfigyelt-voltam-nem-megfigyelo"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Előre szólt Ukrajna: olyan bírósági per készül az aranykonvoj-botrányban, ami sokkolni fogja a magyarokat – „Már nagyon-nagyon közel van”",
-        "link": "https://www.vg.hu/kozelet/2026/11/aranykonvo-ukran-magyar-talakozo-nagykovet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794118667,
-    "title_hu": "Gyászol a magyar futball: elhunyt az Újpest válogatott legendája",
-    "lead_hu": "A család megrendítő sorokkal búcsúzott a háromszoros magyar bajnok, olimpiai ezüstérmes labdarúgótól.",
-    "content_hu": "A család megrendítő sorokkal búcsúzott a háromszoros magyar bajnok, olimpiai ezüstérmes labdarúgótól.",
-    "importance_score": 30.0
-  },
-  {
     "group_id": "group_9c68e37c05",
     "fingerprint": "ab9270433386cc8ba9894bb30bc99be2",
     "category": "Politika",
@@ -1216,7 +1226,7 @@
     "title_hu": "Tevét ütött el egy autóbusz Bajorországban",
     "lead_hu": "Három teve szökött ki egy vándorcirkusz legelőjéről a bajorországi Riederingben, és az útra tévedtek. Egy menetrend szerinti busz elütötte az egyik állatot, amely sértetlenül megúszta a balesetet.",
     "content_hu": "• **Három teve szökött el** szombat reggel egy vándorcirkusz körbekerített legelőjéről, majd Riederingben, Münchentől délkeletre egy közútra tévedt.\n\n• **Az egyik tevét elütötte egy busz**, de az állat nem sérült meg; társaival együtt visszajuttatták a cirkusz táborába.\n\n• **A busz megrongálódott:** betört a szélvédője és megsérült az egyik visszapillantó tükre. Az üzemeltető kára mintegy 500 euró.\n\n• **A szökés oka a nem megfelelő villanypásztor lehetett** a rendőrség szerint.",
-    "importance_score": 28.0
+    "importance_score": 25.0
   },
   {
     "group_id": "group_8b692edfe9",
@@ -1242,7 +1252,7 @@
     "title_hu": "Gadi Eisenkot kapott megbízást az izraeli kormány megalakítására",
     "lead_hu": "Jichák Herzog izraeli elnök Gadi Eisenkotot, az ellenzék vezetőjét bízta meg az új kormány megalakításával, miután a választás patthelyzetet eredményezett. Eisenkotnak négy hete van koalíciót építeni; a határidő szükség esetén további 14 nappal meghosszabbítható.",
     "content_hu": "• **Eisenkot kapta az első lehetőséget** Herzog azután bízta meg a Jasár párt vezetőjét, hogy a parlamentbe jutott képviselők közül 67-en őt, míg 46-an Benjamin Netanjahut javasolták miniszterelnöknek.\n\n• **Patthelyzet alakult ki a Kneszetben** Sem Netanjahu tábora, sem Eisenkot ellenzéki blokkja nem szerzett önálló többséget, ezért a kormányalakításhoz más pártok támogatására is szükség lehet.\n\n• **Nemzeti vészhelyzeti kormányt sürget** Eisenkot azt mondta, a lehető leghamarabb kormányt akar alakítani, és ehhez kreatív, szokatlan politikai lépésekre lehet szükség.\n\n• **Négy hét áll rendelkezésére** Ha Eisenkot nem jár sikerrel, Netanjahu is lehetőséget kaphat a kormányalakításra; sikertelen próbálkozások esetén új választást írhatnak ki.",
-    "importance_score": 28.0
+    "importance_score": 25.0
   },
   {
     "group_id": "group_7cfe2baf53",
@@ -1320,6 +1330,30 @@
     "title_hu": "Nem folytatják az M76-os gyorsforgalmi utat Sármellék felé",
     "lead_hu": "Vitézy Dávid közlekedési és beruházási miniszter bejelentése szerint nem épül tovább az M76-os gyorsforgalmi út Sármellék irányába, így Zalaegerszeg nem kap közvetlen gyorsforgalmi kapcsolatot az M7-essel. A Kis-Balaton védelmére hivatkozva más közúti fejlesztéseket terveznek a térségben.",
     "content_hu": "• **Nem épül tovább az M76-os** Sármellék felé, ezért Zalaegerszeg ebből az irányból nem kap közvetlen gyorsforgalmi összeköttetést az M7-essel.\n\n• **A döntés indoka a Kis-Balaton védelme:** Vitézy szerint a folytatás jelentős környezeti károkat okozna.\n\n• **Másik útfejlesztést terveznek:** egy körülbelül hét kilométeres, kétszer egysávos út kötné össze az M76-os jelenlegi végét a 75-ös főúttal. A fejlesztés Keszthely megközelíthetőségét javítaná, és enyhítené a 71-es főút fenékpusztai szakaszának forgalmát.\n\n• **Kerékpáros fejlesztések is előkészülnek** a Balaton nyugati medencéjében, többek között Fenékpuszta és Sármellék között, valamint Keszthely és Vonyarcvashegy térségében.",
+    "importance_score": 25.0
+  },
+  {
+    "group_id": "group_e7e07925c1",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/601ad714-f292-4c18-8b14-0e3dad6c9842.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "A kormány ellen tüntettek, kivégezték őket Iránban",
+        "link": "https://hvg.hu/vilag/20261108_a-kormany-ellen-tuntettek-kivegeztek-oket-iranban"
+      },
+      {
+        "source": "444.hu",
+        "title": "Kivégeztek három embert Iránban, akiket a hatóságok azzal vádoltak, hogy „fegyveres zavargásokban” vettek részt",
+        "link": "https://444.hu/2026/11/09/kivegeztek-harom-embert-iranban-akiket-a-hatosagok-azzal-vadoltak-hogy-fegyveres-zavargasokban-vettek-reszt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794134868,
+    "title_hu": "A kormány ellen tüntettek, kivégezték őket Iránban",
+    "lead_hu": "Iránban kivégeztek három férfit, akiket bűnösnek találtak abban, hogy Izrael és az Egyesült Államok érdekében cselekedtek a januári széles körű kormányellenes tüntetések során – jelentette be az iráni…",
+    "content_hu": "Iránban kivégeztek három férfit, akiket bűnösnek találtak abban, hogy Izrael és az Egyesült Államok érdekében cselekedtek a januári széles körű kormányellenes tüntetések során – jelentette be az iráni igazságszolgáltatás vasárnap.",
     "importance_score": 25.0
   },
   {
@@ -1885,6 +1919,44 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_9bb956b65a",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7240/72402/724020/72402005_5335493_e002c8ce49910018033449f73a8bbed0_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Újabb magyar teniszező lépett a világ 100 legjobbja közé",
+        "link": "https://index.hu/sport/tenisz/2026/11/09/atp-top-100-piros-zsombor-a-vilag-legjobb-100-mezonyeben-portre/"
+      }
+    ],
+    "published_at": 1794202020,
+    "title_hu": "Újabb magyar teniszező lépett a világ 100 legjobbja közé",
+    "lead_hu": "Szűk tíz évvel ezelőtt senki nem gondolta volna, ennyit kell rá várni, de végre eljött pillanat....",
+    "content_hu": "Szűk tíz évvel ezelőtt senki nem gondolta volna, ennyit kell rá várni, de végre eljött pillanat.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2929b3766c",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9d3900f6-aa0c-4c91-913e-6a11ec094eae.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Trump Putyinnal és Hszi Csin-pinggel is találkozna a kínai APEC-csúcson",
+        "link": "https://hvg.hu/vilag/20261109_donald-trump-hszi-csin-ping-vlagyimir-putyin-kina-apec-csucstalalkozo"
+      }
+    ],
+    "published_at": 1794201795,
+    "title_hu": "Trump Putyinnal és Hszi Csin-pinggel is találkozna a kínai APEC-csúcson",
+    "lead_hu": "Ha a háromoldalú egyeztetés megvalósul, az az első ilyen találkozó lenne a három vezető között. Az amerikai elnök közlése szerint a megbeszéléseken a nukleáris leszerelésről és az iráni háború lezárás...",
+    "content_hu": "Ha a háromoldalú egyeztetés megvalósul, az az első ilyen találkozó lenne a három vezető között. Az amerikai elnök közlése szerint a megbeszéléseken a nukleáris leszerelésről és az iráni háború lezárásáról is tárgyalhatnak.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_18106b300b",
     "category": "Politika",
     "image": "https://s.24.hu/app/uploads/2026/11/000_d6rt6t3-e1794201631225-1024x577.jpg",
@@ -2072,6 +2144,25 @@
     "title_hu": "Akár 10 évvel megrövidítheti az életed: ez történik a testeddel, ha egész nap ülsz",
     "lead_hu": "A modern kor egyik kellemetlen velejárója az ülő életmód, ami jelentősen megterheli a szervezetet és felgyorsítja az öregedési folyamatokat....",
     "content_hu": "A modern kor egyik kellemetlen velejárója az ülő életmód, ami jelentősen megterheli a szervezetet és felgyorsítja az öregedési folyamatokat.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f6d8c85b6e",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261109/1794198249-temp-5ljjcp60pfr9amhooef_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Trump szerint „túl kemény” volt a bevándorlásellenes fellépés, és ez is közrejátszott a republikánusok vereségében",
+        "link": "https://telex.hu/kulfold/2026/11/09/donald-trump-bevandorlas-intezkedesek-tul-kemeny-interju-felidos-valasztas"
+      }
+    ],
+    "published_at": 1794200546,
+    "title_hu": "Trump szerint „túl kemény” volt a bevándorlásellenes fellépés, és ez is közrejátszott a republikánusok vereségében",
+    "lead_hu": "Az amerikai elnök belengette, hogy hajlandó lenne együttműködni a kérdésben a demokratákkal....",
+    "content_hu": "Az amerikai elnök belengette, hogy hajlandó lenne együttműködni a kérdésben a demokratákkal.",
     "importance_score": 0.0
   },
   {
@@ -6803,25 +6894,6 @@
     "title_hu": "Ismét a Fideszt ócsárolta Kátai-Németh Vilmos, a megfelelő helyről érkezett a válasz",
     "lead_hu": "A korábbi kormányzat intézkedéseit becsmérelte a szociális és családügyi miniszter.",
     "content_hu": "A korábbi kormányzat intézkedéseit becsmérelte a szociális és családügyi miniszter.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e7e07925c1",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/601ad714-f292-4c18-8b14-0e3dad6c9842.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "A kormány ellen tüntettek, kivégezték őket Iránban",
-        "link": "https://hvg.hu/vilag/20261108_a-kormany-ellen-tuntettek-kivegeztek-oket-iranban"
-      }
-    ],
-    "published_at": 1794134868,
-    "title_hu": "A kormány ellen tüntettek, kivégezték őket Iránban",
-    "lead_hu": "Iránban kivégeztek három férfit, akiket bűnösnek találtak abban, hogy Izrael és az Egyesült Államok érdekében cselekedtek a januári széles körű kormányellenes tüntetések során – jelentette be az iráni…",
-    "content_hu": "Iránban kivégeztek három férfit, akiket bűnösnek találtak abban, hogy Izrael és az Egyesült Államok érdekében cselekedtek a januári széles körű kormányellenes tüntetések során – jelentette be az iráni igazságszolgáltatás vasárnap.",
     "importance_score": 0.0
   },
   {
