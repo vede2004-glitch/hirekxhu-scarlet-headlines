@@ -1,36 +1,38 @@
 [
   {
-    "group_id": "group_ab1a937ad2",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2201630099-hacker-kibertamadas-kiberbiztonsag-kiberbunozes-virus-adatbiztonsag-i-844002.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "group_id": "group_63bf2cc4b3",
+    "fingerprint": "2f429c9ad9b4d819b912c693cda12276",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-lg/b/e/n/benzin-337997.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
-        "title": "Kibertámadással okoztak tüzeket több száz üzletben – Irán állhat a példátlan akció mögött",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/kibertamadassal-okoztak-tuzeket-tobb-szaz-uzletben-iran-allhat-a-peldatlan-akcio-mogott-875272"
+        "title": "Megjött a bejelentés: határozatlan időre bezár egy benzinkút Magyarországon",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/megjott-a-bejelentes-hatarozatlan-idore-bezar-egy-benzinkut-magyarorszagon-875254"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Ez már ijesztő: egymás után zárnak be Magyarországon a benzinkutak, máris itt a következő – világosan megmondták, mi az oka",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/benzinkut-bezaras-magyarorszag-uzemanyag-arkepzes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
-    "published_at": 1794250500,
-    "title_hu": "Kibertámadással okoztak tüzeket több száz üzletben – Irán állhat a példátlan akció mögött",
-    "lead_hu": "Az Iráni Forradalmi Gárda áll a franciaországi áruházláncok hűtőberendezései elleni októberi kibertámadás mögött, jelentette ki hétfőn Jean-Noel Barrot francia külügyminiszter. A tárcavezető a G7 pári…",
-    "content_hu": "Az Iráni Forradalmi Gárda áll a franciaországi áruházláncok hűtőberendezései elleni októberi kibertámadás mögött, jelentette ki hétfőn Jean-Noel Barrot francia külügyminiszter. A tárcavezető a G7 párizsi külügyminiszteri tanácskozásának szünetében páratlan nagyságúnak és agresszívnek nevezte az akciót."
+    "published_at": 1794253809,
+    "title_hu": "Határozatlan időre leáll az üzemanyag-értékesítés a bekecsi benzinkúton",
+    "lead_hu": "A Buffalo Petrol november 10-től átmenetileg felfüggeszti az üzemanyag-értékesítést a Borsod-Abaúj-Zemplén vármegyei Bekecsen működő töltőállomásán. A vállalat a kisbenzinkutak nehéz helyzetével és az ellátás bizonytalanságával indokolta a döntést, az újranyitás időpontját nem közölte.",
+    "content_hu": "• **November 10-től szünetel az értékesítés** a Buffalo Petrol bekecsi töltőállomásán; a cég tájékoztatása szerint a kút átmenetileg bezár.\n\n• **Az ellátás bizonytalansága áll a döntés hátterében**: a vállalat a kisbenzinkutak körül kialakult helyzetre hivatkozott, és jelezte, hogy a körülmények javulása esetén újraindíthatja az üzemanyag-forgalmazást.\n\n• **A nyitás időpontja egyelőre ismeretlen**; a cég nem közölte, mikor fogadhat ismét vásárlókat a töltőállomás."
   },
   {
     "group_id": "group_0ddcb5f5a0",
-    "fingerprint": "11382c5e05355059625397761c873158",
+    "fingerprint": "e6077e987a39bad4b415d297203a9d3e",
     "category": "Politika",
     "image": "https://kep.index.hu/1/0/7243/72430/724309/72430999_5337609_8956f3f0f90643fe44d4b4e760468328_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 7,
     "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Gyanúsítottként hallgatták ki a felbujtót az Orbán Áront is érintő ügyben",
-        "link": "https://telex.hu/belfold/2026/11/09/nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-orban-aron-gyanusitott"
-      },
       {
         "source": "444.hu",
         "title": "Egy férfit gyanúsítottak meg felbújtóként, összesen négy embert vettek őrizetbe az Orbán Áronhoz köthető ügyben",
@@ -45,12 +47,560 @@
         "source": "HVG - Itthon",
         "title": "A HVG fotóin, ahogy Orbán Áront a Gyorskocsi utcai fogdába viszik",
         "link": "https://hvg.hu/itthon/20261109_orban-aron-gyorskocsi-utca-fogda-rendorauto"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Kiderült, hol van Orbán Áron: videóra vették az akciót, Unger Annáék még a TEK-et is magukkal vitték – eddig nem ismert részleteket közölt a rendőrség az elfogásáról",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/orban-aron-tek-elfogas-rendorseg-reszletek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Rendőrautóban fotózták le Orbán Áront a Gyorskocsi utcai fogdánál",
+        "link": "https://index.hu/belfold/2026/11/09/orban-aron-gyorskocsi-utca-fogda-rendorseg/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Hidvéghi Balázs: Orbán Áron őrizetbe vételével az ügynökaktákról akarják elterelni a figyelmet",
+        "link": "https://index.hu/belfold/2026/11/09/hidveghi-balazs-orban-aron-viktor-magyar-peter-fidesz-kdnp-mathe-zsuzsa-orizet-parlament-ugynok/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Már fotók is bizonyítják: tényleg Orbán Viktor öccsét fogták el",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/mar-fotok-is-bizonyitjak-tenyleg-orban-viktor-occset-fogtak-el-875294"
       }
     ],
-    "published_at": 1794250202,
-    "title_hu": "Négy embert gyanúsítanak az Orbán Áront is érintő embercsempészési ügyben",
-    "lead_hu": "Az NNI négy embert – egy nőt és három férfit – gyanúsít azzal, hogy vietnámi állampolgároknak segítettek vízumhoz jutni és Nyugat-Európába eljutni; a hatóságok több mint száz érintettről tudhatnak. Sajtófotók alapján Orbán Áron is az elfogottak között lehet, de a hatóságok nem nevezték meg a gyanúsítottakat. Az NVVH egy meg nem nevezett férfit külön, befolyással üzérkedés gyanújával hallgatott ki.",
-    "content_hu": "• **Összehangolt akció több helyszínen** Az NNI és az NVVH két folyamatban lévő büntetőeljárásban tartott nyomozati cselekményeket Budapesten, Fóton és Dunakeszin. Négy embert – egy nőt és három férfit – fogtak el; két helyszínen a TEK működött közre, mert a hatóságok fegyverekre számítottak. Házkutatásokat tartottak, dokumentumokat, elektronikus adatokat és más bizonyítékokat foglaltak le.\n\n• **Az embercsempészési ügy gyanúja** Az NNI szerint a négy ember 2024-ben, több hónapon át segíthetett vietnámi állampolgároknak vízumhoz jutni és Magyarországon keresztül Nyugat-Európába eljutni. A gyanú szerint személyenként toborzási díjat kértek, és anyagi haszonszerzés céljából, bűnszövetségben jártak el. A hatóságok több mint száz érintett vietnámi állampolgárról tudhatnak.\n\n• **A vízumkérelmek körülményei** A vízumokat hivatalosan rövid magyarországi képzéseken való részvételre kérték. A nyomozás adatai szerint sok érintett a képzésen nem jelent meg, és a vízum lejárta előtt sem hagyta el az országot; a hatóságok szerint céljuk az volt, hogy Magyarországon keresztül Nyugat-Európába jussanak. Az NNI mind a négy gyanúsítottal szemben személyi szabadságot korlátozó kényszerintézkedést kezdeményez.\n\n• **Orbán Áron érintettsége és a hivatalos közlés** A rendőrség nem nevezte meg az elfogottakat, és Orbán Áron gyanúsítotti státuszát sem közölte hivatalosan. Sajtófotók és a hatósági videó alapján ugyanakkor Orbán Áron az elfogottak között lehet; a HVG fotóriportere hétfő este a Gyorskocsi utcai fogda előtt fényképezte le egy rendőrautóban. A hatóságok nyilvánosan nem közölték, milyen kényszerintézkedésről döntöttek az esetében.\n\n• **Az NVVH külön gyanúja** A hivatal egy, a helyszíni intézkedések után előállított, névvel meg nem nevezett férfit felbujtóként elkövetett befolyással üzérkedés gyanújával hallgatott ki. A gyanú szerint politikai kapcsolataira és befolyására hivatkozva, közvetítő útján jogtalan előnyt kért egy munkaerő-kölcsönző cég vezetőjétől azért, hogy a vállalkozás visszakerüljön a kiemelt foglalkoztatók nyilvántartásába. A hatóság nem közölte, ki a férfi, illetve hogy az embercsempészési ügy négy gyanúsítottja között van-e.\n\n• **Az ügy előzményei** Korábbi sajtóbeszámolók szerint Orbán Áron üzleti köre vietnámi állampolgárok vízum- és tartózkodásiengedély-ügyeinek intézésében vállalhatott szerepet, többek között egy kétnapos pécsi életmentő tanfolyamra való beiratkozással. Az NVVH korábban magához vonta a politikai kapcsolatok munkavállalási célú tartózkodási engedélyek megszerzésére való felhasználását vizsgáló ügyet. A Központi Nyomozó Főügyészség 2026 áprilisában négy embert hallgatott ki gyanúsítottként; az akkori gyanú szerint két férfi 17 ezer euró előleget vett át egy vállalkozótól.\n\n• **Korábbi gyanúsítottak és sajtóértesülések** A Telex szerint korábban megszüntették G. B. letartóztatását; őt M. Jánossal együtt vették őrizetbe. A lap arról is beszámolt, hogy egy Budapesten élő vietnámi tolmács vallomást tett, és kétszer találkozott Orbán Áronnal. A Telex értesülése szerint M. János nem tett Orbán Áronra nézve terhelő vallomást; ezek sajtóértesülések, nem hatósági megállapítások.\n\n• **Politikai reakciók** Orbán Viktor az akciót politikai leszámolásnak nevezte, és azt írta, hogy ő a célpont, testvére pedig csak eszköz. Magyar Péter ezt úgy értelmezte, hogy Orbán megerősítette testvére őrizetbe vételét, noha Orbán bejegyzése ezt nem mondta ki. Bóka János Fidesz-frakcióvezető az akciót az ügynökbotránnyal kapcsolta össze; ezek politikai állítások, nem hatósági megállapítások."
+    "published_at": 1794253800,
+    "title_hu": "Orbán Áront is a Gyorskocsi utcai fogdához vitték az embercsempészési ügyben",
+    "lead_hu": "Az NNI négy embert, köztük egy nőt és három férfit gyanúsít azzal, hogy vietnámi állampolgároknak segítettek vízumhoz jutni és Nyugat-Európába eljutni; a hatóságok szerint több mint száz érintett lehet. A HVG fotóin Orbán Áron hétfő este egy rendőrautóban látható a Gyorskocsi utcai fogda előtt, és a rendőrségi videón is felismerhető, de a hatóságok hivatalosan nem nevezték meg az elfogottakat. Az NVVH egy külön eljárásban egy meg nem nevezett férfit felbujtóként elkövetett befolyással üzérkedéssel gyanúsított meg.",
+    "content_hu": "• **Négy helyszínen zajlott az akció** Az NNI és az NVVH Budapesten, Fóton és Dunakeszin hajtott végre elfogásokat és házkutatásokat. Egy élettársi kapcsolatban élő férfit és nőt, valamint két feltételezett társukat fogták el; két helyszínen a TEK működött közre, mert a hatóságok fegyverekre számítottak. Dokumentumokat, elektronikus adatokat és más bizonyítékokat foglaltak le.\n\n• **A rendőrség részletezte az embercsempészési gyanút** A hatóság szerint a négy gyanúsított 2024-ben, több hónapon át segített vietnámi állampolgároknak vízumhoz jutni és Magyarországon keresztül Nyugat-Európába eljutni. A közreműködésért személyenként toborzási díjat kértek, a gyanú szerint bűnszövetségben, anyagi haszonszerzés céljából jártak el. Az ügyben több mint száz vietnámi állampolgár lehet érintett.\n\n• **A vízumkérelmekben rövid képzések szerepeltek** A rendőrség közlése szerint a vízumokat rövid magyarországi mikroképzésekre hivatkozva kérték. A nyomozás adatai alapján sok érintett nem vett részt a megjelölt képzésen, és azok sem hagyták el Magyarországot a vízum érvényességi idején belül, akik megjelentek az oktatáson; a hatóságok szerint Nyugat-Európába akartak továbbmenni. Az NNI mind a négy gyanúsítottal szemben személyi szabadságot korlátozó kényszerintézkedést kezdeményezett.\n\n• **Orbán Áront a fogdánál fényképezték le** A HVG fotóriportere hétfő este egy rendőrautóban örökítette meg Orbán Áront a Gyorskocsi utcai fogda előtt. A sajtófotó, valamint a rendőrség által közzétett videó képei alapján felismerhető, hogy az elfogottak között volt, de a hatóságok hivatalos közleménye továbbra sem nevezte meg. Arról nem érkezett megerősített tájékoztatás, hogy milyen kényszerintézkedésről született döntés.\n\n• **Az NVVH külön befolyással üzérkedési gyanút közölt** A hivatal egy, a helyszíni intézkedések után előállított, névvel meg nem nevezett férfit felbujtóként elkövetett befolyással üzérkedés miatt hallgatott ki gyanúsítottként. A gyanú szerint politikai kapcsolataira és befolyására hivatkozva, közvetítőn keresztül jogtalan előnyt kért egy munkaerő-kölcsönző cég vezetőjétől azért, hogy a vállalkozás visszakerüljön a kiemelt foglalkoztatók nyilvántartásába. A hatóság nem közölte, hogy ez a férfi Orbán Áron-e, illetve az embercsempészési ügy gyanúsítottjai között van-e.\n\n• **A hírek és a rendőrségi közlemény időrendje vitát váltott ki** A Kontroll 9:45-kor írt az akcióról, a rendőrségi tájékoztatás 9:59-kor jelent meg, Magyar Péter pedig 10:09-kor posztolt Orbán Áron állítólagos őrizetbe vételéről. A hivatalos közlemény akkor még nem nevezett meg gyanúsítottakat; az információ átadásának körülményei nem tisztázottak.\n\n• **Orbán Viktor politikai leszámolásról beszélt** A volt miniszterelnök azt állította, hogy a hatósági fellépés az ügynökbotrányról való figyelemelterelés, és ő maga a célpont, testvére pedig csak eszköz. Magyar Péter ezt úgy értelmezte, hogy Orbán Viktor megerősítette öccse őrizetbe vételét, noha a bejegyzés ezt nem mondta ki. Bóka János és Hidvéghi Balázs szintén politikai motivációt állított; ezek politikai vélemények, nem hatósági megállapítások.\n\n• **Az ügy korábbi szálai** A vízumügyben korábban is folyt eljárás: a Központi Nyomozó Főügyészség 2026 áprilisában négy embert hallgatott ki gyanúsítottként, és két ember letartóztatását indítványozta egy 17 ezer eurós előleggel kapcsolatos ügyben. Az NVVH később magához vonta a politikai kapcsolatok munkavállalási célú tartózkodási engedélyek megszerzésére való felhasználását vizsgáló ügyet. Korábbi sajtóbeszámolók Orbán Áron üzleti körét vietnámi állampolgárok vízumügyeivel, köztük egy pécsi kétnapos életmentő tanfolyamra való beiratkozással hozták összefüggésbe."
+  },
+  {
+    "group_id": "group_b3171ed673",
+    "category": "Gazdaság",
+    "image": "https://kep.index.hu/1/0/7245/72452/724520/72452047_5339067_0159c902b8171c06f2a892a93736012e_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Jelzőrakéták az égben, 400 milliárd forint tűnt el a magyar kulcságazatból",
+        "link": "https://index.hu/gazdasag/2026/11/09/agrar-agrarium-mezogazdasag-termofold-novenytermesztes-jovedelmezoseg-gazdak-gazda-aszaly-szarazsag-kukorica/"
+      }
+    ],
+    "published_at": 1794253740,
+    "title_hu": "Jelzőrakéták az égben, 400 milliárd forint tűnt el a magyar kulcságazatból",
+    "lead_hu": "A szakértő szerint mindenkinek el kell fogadnia, hogy ez így nem mehet tovább.",
+    "content_hu": "A szakértő szerint mindenkinek el kell fogadnia, hogy ez így nem mehet tovább."
+  },
+  {
+    "group_id": "group_138870eb96",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1098292012-1-e1794252953110-1024x575.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Megszólalt Kármán András az elnöki vétó után",
+        "link": "https://24.hu/fn/gazdasag/2026/11/09/karman-andras-reakcio-alkotmanybirosag-vagyonvedelmi-torveny/"
+      }
+    ],
+    "published_at": 1794253597,
+    "title_hu": "Megszólalt Kármán András az elnöki vétó után",
+    "lead_hu": "A kormány elemzi az államfő alkotmánybírósági indítványát, de Kármán András szerint az állami vagyon védelmét célzó törvény alapvető céljai nem változtak. The post Megszólalt Kármán András az elnöki v…",
+    "content_hu": "A kormány elemzi az államfő alkotmánybírósági indítványát, de Kármán András szerint az állami vagyon védelmét célzó törvény alapvető céljai nem változtak. The post Megszólalt Kármán András az elnöki vétó után first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_058a8d2e92",
+    "fingerprint": "aac5f778c04f686f090c40f9b4b44f14",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2251447523-brsg-br-tlet-brsgi-tlet-igazsgszolgltats-igazs-865362.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Visszadobott egy törvényt Baka András, az Alkotmánybírósághoz fordul",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/visszadobott-egy-torvenyt-baka-andras-az-alkotmanybirosaghoz-fordul-875228"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Rendkívüli: Baka András nem írta alá a Tisza-kormány egyik legfontosabb törvényét, erre nem számított Ruff Bálint – a köztársasági elnök az Alkotmánybírósághoz fordult",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/alkotmanybirosag-baka-andras-alairas-torveny-aggaly?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Nem írta alá Baka András az állami vagyon védelméről szóló törvényt, az Alkotmánybírósághoz fordult",
+        "link": "https://index.hu/belfold/2026/11/09/baka-andras-koztarsasagi-elnok-torveny-alkotmanybirosag-alairas-megtagadas/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Baka András nem írta alá a NER-cégek miatt született állami vagyonról szóló törvényt",
+        "link": "https://444.hu/2026/11/09/baka-andras-nem-irta-ala-a-ner-cegek-miatt-szuletett-allami-vagyonrol-szolo-torvenyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Baka András nem írta alá az állami vagyon védelméről szóló törvényt",
+        "link": "https://hvg.hu/gazdasag/20261109_baka-andras-alair-allami-vagyon-vedelme-torveny"
+      }
+    ],
+    "published_at": 1794253290,
+    "title_hu": "Baka András az Alkotmánybírósághoz küldte az állami vagyonról szóló törvényt",
+    "lead_hu": "Baka András köztársasági elnök nem írta alá az Országgyűlés november 3-án elfogadott törvényét, hanem előzetes normakontrollt kért az Alkotmánybíróságtól. A kifogásolt rendelkezések a befektetési alapok alapkezelőváltását és a kisebbségi részvényesek védelmét érintik; ezek a testület döntéséig nem léphetnek hatályba. Az államfő a jogalkotás gyorsaságát és a pénzügyi bizalomra gyakorolt lehetséges hatást is bírálta.",
+    "content_hu": "• **Két rendelkezést kifogásol az államfő:** a törvény alapján a befektetési jegyek tulajdonosainak 60 százaléka kikényszeríthetné egy zártkörű befektetési alap alapkezelőjének leváltását. A szabály már működő, akár állami vagyont nem kezelő alapokra is kiterjedhet.\n\n• **Az állami befektető is kezdeményezhetné az alapkezelő cseréjét:** ha az átadásról 20 napon belül nem születik megállapodás, a felügyelet is közbeléphetne.\n\n• **Az alapok között állami és magántőke is lehet:** az elmúlt években az állam gyakran 70 százalékos, magánbefektetők pedig 30 százalékos részesedéssel fektettek be zártkörű alapokon keresztül.\n\n• **Sérülhet a kisebbségi részvényesek védelme:** a jogszabály bizonyos esetekben mentesítené a jelentős befolyást szerző tulajdonosokat a kisebb részvényeseknek szóló vételi ajánlat megtétele alól. Az államfő szerint a kivétel a törvényben meghatározott helyzeteken túl is kiterjedhet.\n\n• **A jogbiztonság és a tulajdonhoz való jog is érintett lehet:** az indítvány szerint a már fennálló szerződéses viszonyok utólagos megváltoztatása, valamint a szabályok hiányos vagy nem egyértelmű megfogalmazása alkotmányossági aggályokat vet fel, és a hatékony jogorvoslatot is veszélyeztetheti.\n\n• **A kisbefektetői érdekvédelmi szervezet is tiltakozott:** a TEBÉSZ azt kérte az államfőtől, hogy ne írja alá a törvényt. A szervezet szerint a módosítás egyes esetekben a korábbi 15 nap helyett akár hat hónappal is elhalaszthatná a vételi ajánlatot, illetve mentességet adhatna alóla.\n\n• **A törvény elfogadásának gyorsaságát is bírálta az államfő:** a javaslat benyújtása és elfogadása között mindössze körülbelül 26 óra telt el, társadalmi és szakmai egyeztetés nélkül. Baka András szerint a sürgősség indoka nem derül ki sem az előkészítésből, sem a törvény szövegéből.\n\n• **Az államfő figyelmeztetett a pénzügyi bizalom kockázatára:** szerinte a pénzpiaci szabályok állami érdekből történő befolyásolása megingathatja a magyar pénzügyi rendszerbe vetett bizalmat, és elbizonytalaníthatja a nemzetközi befektetőket.\n\n• **A takarékszövetkezeti integrációs szervezet megszüntetése miatt nem kezdeményezett normakontrollt:** a tervezett átalakítással megszűnne a tagbankok egymásért viselt felelőssége, a szervezet vagyona pedig az államra szállna. A szervezet alapját egy 2013-as, 136 milliárd forintos állami tőkejuttatás adta; az abból vásárolt állampapírokat később Magyar Bankholding-kötvényekre cserélték, amelyek ma a vagyon zömét adják.\n\n• **Az Eximbank szabályainak módosítása sem került az indítványba:** a törvény egyes, állami kezességgel fedezett ügyleteknél megszüntetné annak lehetőségét, hogy mellőzzék a további biztosíték szükségességének vizsgálatát.\n\n• **Az Alkotmánybíróság dönt a kifogásolt rendelkezésekről:** az előzetes normakontroll ideje alatt ezek nem léphetnek hatályba."
+  },
+  {
+    "group_id": "group_4a5d092956",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-523753418-650923.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Repedezik az AI-sztori, de a Wall Street egyik legnagyobb bankjának vezére nem aggódik",
+        "link": "https://www.portfolio.hu/befektetes/20261109/repedezik-az-ai-sztori-de-a-wall-street-egyik-legnagyobb-bankjanak-vezere-nem-aggodik-875282"
+      }
+    ],
+    "published_at": 1794253260,
+    "title_hu": "Repedezik az AI-sztori, de a Wall Street egyik legnagyobb bankjának vezére nem aggódik",
+    "lead_hu": "Továbbra is élénk a finanszírozási igény a mesterséges intelligencia infrastruktúrájának kiépítésére a legutóbbi tőzsdei visszaesések ellenére – nyilatkozta David Solomon, a Goldman Sachs vezérigazgat…",
+    "content_hu": "Továbbra is élénk a finanszírozási igény a mesterséges intelligencia infrastruktúrájának kiépítésére a legutóbbi tőzsdei visszaesések ellenére – nyilatkozta David Solomon, a Goldman Sachs vezérigazgatója. Bár a befektetők óvatosabbá váltak a hatalmas tőkeigényű fejlesztések megtérülésével kapcsolatban, a pénzintézet vezetője szerint a technológia hosszú távon meghatározó lesz a gazdasági termelékenység növelésében, az adatközpontok amerikai felépítése pedig kulcsfontosságú a versenyképesség szempontjából - közölte a CNBC."
+  },
+  {
+    "group_id": "group_3d8610d2c7",
+    "fingerprint": "37a5d9a098bacc9c56c1001eab2c5b8b",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Viszonya volt az Nvidia vezérének, szeretőjéről azt gyanítják, hogy kínai kém",
+        "link": "https://hvg.hu/tudomany/20261109_nvidia-vezer-jensen-huang-kinai-kemno-vizsgalat"
+      },
+      {
+        "source": "444.hu",
+        "title": "Vizsgálatot indít a Trump-tanácsadó vezérigazgatója ellen az Nvidia, miután kiderült, hogy kínai kémnővel volt viszonya",
+        "link": "https://444.hu/2026/11/09/vizsgalatot-indit-a-trump-tanacsado-vezerigazgatoja-ellen-az-nvidia-miutan-kiderult-hogy-kinai-kemnovel-volt-viszonya?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kínai hírszerzésnek dolgozhatott a nő, akivel viszonyba keveredett az Nvidia vezére",
+        "link": "https://index.hu/kulfold/2026/11/09/nvidia-jensen-huang-vezerigazgato-alice-huang-kina-kemkedes/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kínai kémnő csábította el az Nvidia vezetőjét, a cég vizsgálatot indított",
+        "link": "https://24.hu/tech/2026/11/09/nvidia-vizsgalat-jensen-huang-kinai-kembotrany/"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Belső vizsgálat indult az Nvidia vezére ellen, már a menesztéséről beszélnek",
+        "link": "https://www.portfolio.hu/befektetes/20261109/belso-vizsgalat-indult-az-nvidia-vezere-ellen-mar-a-meneszteserol-beszelnek-875022"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Kémbotrány az Nvidiánál: elismerte hibáját Jensen Huang",
+        "link": "https://www.portfolio.hu/befektetes/20261109/kembotrany-az-nvidianal-elismerte-hibajat-jensen-huang-875026"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Zuhanórepülésbe kezdett az Nvidia részvénye, miután híre ment, hogy kémnő hálózhatta be a vezérigazgatót",
+        "link": "https://index.hu/gazdasag/2026/11/09/nvidia-reszvenyek-jensen-huang-alice-huang-kina-kemkedes/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Pénz, szex, AI, Kína – ezeken reccsenhet meg most nemcsak az Nvidia, de akár a világgazdaság is",
+        "link": "https://444.hu/2026/11/09/penz-szex-ai-kina-ezeken-reccsenhet-meg-most-nemcsak-az-nvidia-de-akar-a-vilaggazdasag-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794253246,
+    "title_hu": "Az Nvidia vizsgálja, célpontja volt-e Huang egy kínai hírszerzési műveletnek",
+    "lead_hu": "Az Nvidia igazgatótanácsa független vizsgálatot indított, miután sajtóértesülések szerint Jensen Huang vezérigazgató kapcsolatban állt Alice Huanggal, akit az amerikai hatóságok kínai hírszerzési kapcsolatokkal hoztak összefüggésbe. Huang elismerte, hogy hűtlen volt a feleségéhez, bocsánatot kért családjától, és együttműködik a vizsgálattal; a testület egyelőre nem lát bizonyítékot arra, hogy üzleti titkok vagy nemzetbiztonsági érdekek sérültek volna.",
+    "content_hu": "• **Független vizsgálat indult** Az Nvidia igazgatótanácsa külső jogi szakértők bevonásával, független igazgatók felügyelete mellett vizsgálja, hogy Jensen Huang egy külföldi hírszerzési művelet célpontja volt-e. A testület közölte: jelenleg nincs oka azt feltételezni, hogy a cég üzleti titkai vagy az amerikai nemzetbiztonság veszélybe kerültek.\n\n• **Huang elismerte a viszonyt és bocsánatot kért** A vezérigazgató azt írta, hűtlen volt feleségéhez, fájdalmat okozott családjának, és nincs mentsége a történtekre. Teljes felelősséget vállalt, a vállalat munkatársaitól és részvényeseitől is bizalmat kért, és jelezte, hogy együttműködik a vizsgálattal.\n\n• **A gyanú Alice Huangra irányul** A sajtóértesülések szerint a szingapúri Megaspeed vezetője, Alice Huang – akit Huang Liként is emlegetnek, és nem rokona Jensen Huangnak – kínai hírszerzési kapcsolatokkal rendelkezhetett. Az amerikai hatóságok azt gyanítják, hogy információkat gyűjthetett Pekingnek, és szerepe lehetett fejlett Nvidia-chipek Kínába juttatásában, az exportkorlátozások megkerülésével. Beszámolók szerint a kínai Állambiztonsági Minisztérium azzal bízhatta meg, hogy információkat szerezzen az amerikai MI-chipekről, és próbálja befolyásolni a vállalatot, hogy fejlett termékei Kína számára is elérhetők legyenek.\n\n• **A hatóságok korábban is figyelték a nőt** A sajtó szerint Alice Huangot és a Megaspeedet már 2024 óta megfigyelhették, miután felmerült, hogy a cég közreműködhet az exportkorlátozások kijátszásában. A beszámolók azt is állítják, hogy Alice Huang az MI-chipipar más vezetőivel, köztük a Gigabyte vezetőivel is kapcsolatban állt. Jensen Huang október végén még üzleti kapcsolatként jellemezte az Alice Huanggal folytatott viszonyát; később elismerte, hogy házasságon kívüli kapcsolata volt.\n\n• **Kongresszusi meghallgatást kértek, Trumpot korábban tájékoztathatták** Három republikánus képviselőházi bizottsági vezető zárt ajtók mögötti tájékoztatásra kérte Huangot, többek között arról, hogyan védi a vállalatot a külföldi hírszerzési tevékenységtől. Sajtóbeszámolók szerint Donald Trumpot körülbelül egy évvel korábban tájékoztatták az értesülésekről, de nem intézkedett. Trump most tisztességes embernek nevezte Huangot, és azt mondta, kiváló munkát végzett az Egyesült Államokért. Egyes beszámolók szerint a hatóságok attól is tartanak, hogy a nő Huangon keresztül Trump Kínával kapcsolatos terveiről szerezhetett információkat.\n\n• **A vállalat folytatja a működését** Az Nvidia közölte, hogy továbbra is bízik Huangban, aki megszakítás nélkül vezeti a céget. Elemzők megosztottak a vezérigazgató jövőjét illetően: Gary Black szerint a leváltása is elképzelhető, más szakértők viszont nem számítanak erre. A Portfolio egyik elemzése szerint a bizonytalanságot növeli, hogy Huangnak nincs egyértelmű belső utódja.\n\n• **Eséssel reagáltak a részvények** Az Nvidia részvényei hétfőn Frankfurtban több mint 6 százalékot veszítettek értékükből, piaci értéke pedig a pénteki záráshoz képest mintegy 270 milliárd dollárral csökkenhetett. Elemzők szerint az elhúzódó vizsgálat késleltetheti a beruházásokat, a termékbevezetéseket és a szállításokat; a befektetők figyelme a november 17-re várt gyorsjelentésre is irányul.\n\n• **Az ázsiai üzleti kapcsolatokra is figyelnek** Egy dél-koreai kormánytisztviselő nem számít fennakadásra a már leszerződött GPU-szállításokban, az Nvidia fontos ázsiai beszállítóinak részvényei pedig emelkedtek. Jensen Huang lánya, Madison Huang lemondta tervezett szöuli programjait, de az Nvidia AI Day Seoul rendezvényt a tervek szerint megtartják.\n\n• **Peking visszautasította a vádakat** A kínai külügyminisztérium alaptalan vádaskodásnak, rágalmazásnak és lejárató kampánynak nevezte a kínai kémtevékenységről szóló állításokat. Bill Ackman abban reménykedett, hogy az ügy magánéleti viszonyra korlátozódik, Elon Musk pedig egy Huangot bíráló bejegyzéssel értett egyet."
+  },
+  {
+    "group_id": "group_95dfb1aed5",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/a/n/t/anthropic-868036.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Vadonatúj AI-okkal rukkolt elő az Anthropic",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/vadonatuj-ai-okkal-rukkolt-elo-az-anthropic-875278"
+      }
+    ],
+    "published_at": 1794252600,
+    "title_hu": "Vadonatúj AI-okkal rukkolt elő az Anthropic",
+    "lead_hu": "Két új, csúcskategóriás mesterségesintelligencia-modellt, a Claude Fable 5.2-t és a Claude Mythos 5.2-t mutatta be hétfőn az Anthropic, közvetlenül a vállalat akár már jövő héten esedékes, történelmi …",
+    "content_hu": "Két új, csúcskategóriás mesterségesintelligencia-modellt, a Claude Fable 5.2-t és a Claude Mythos 5.2-t mutatta be hétfőn az Anthropic, közvetlenül a vállalat akár már jövő héten esedékes, történelmi léptékűnek ígérkező tőzsdei bevezetése előtt. Az újdonságok harminc százalékkal gyorsabbak és húsz százalékkal olcsóbbak elődeiknél."
+  },
+  {
+    "group_id": "group_5c2925b7c7",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/peFX-V8HbdN6zWg20Ur7r2XMGaBZe6ZaxzD4vF7shY0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE3Y2MzMDZmM2YzMjQ0ZWZhODg4NjM2ZmNjYTFjMjA3.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Rejtélyes személycsere a Szegedi Tudományegyetem élén: még az új kancellár nevét sem árulták el",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/rejtelyes-szemelycsere-a-szegedi-tudomanyegyetem-elen-meg-az-uj-kancellar-nevet-sem-arultak-el?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794252327,
+    "title_hu": "Rejtélyes személycsere a Szegedi Tudományegyetem élén: még az új kancellár nevét sem árulták el",
+    "lead_hu": "Egyelőre semmit nem tudni a pánikszerű vezetőváltás okairól.",
+    "content_hu": "Egyelőre semmit nem tudni a pánikszerű vezetőváltás okairól."
+  },
+  {
+    "group_id": "group_9fe77ac545",
+    "fingerprint": "2551658d0cdf1dc2c41dda65e898981a",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7248/72487/724870/72487079_5341553_4446b52d002ff363af018dc83bcba891_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Autó csapódott egy biztonsági kordonnak a Fehér Háznál, két embert is őrizetbe vettek",
+        "link": "https://index.hu/kulfold/2026/11/09/egyesult-allamok-washington-feher-haz-auto-letartoztatas-kordon/"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Autó hajtott a Fehér Házat védő kordonnak",
+        "link": "https://hvg.hu/vilag/20261109_auto-feher-haz-kordon"
+      }
+    ],
+    "published_at": 1794252263,
+    "title_hu": "Két embert vettek őrizetbe a Fehér Háznál történt incidensek után",
+    "lead_hu": "Autó ütközött a Fehér Házat védő kordonoknak a washingtoni Lafayette Parkban, miközben egy másik ember gyalog próbált átjutni egy úttorlaszon. A hatóságok mindkét személyt elfogták, és vizsgálják, van-e összefüggés az esetek között.",
+    "content_hu": "• **Két őrizetbe vétel** Egy autó a Lafayette Parkban a Fehér Házat védő biztonsági korlátnak ütközött; a sofőrt, valamint egy kordont átugró másik személyt is elfogták.\n\n• **A jármű átvizsgálása** A sofőr a rendőrség szerint agresszívan viselkedett a rendfenntartókkal szemben. A washingtoni rendőrség bombaelhárító szakemberei óvintézkedésként átvizsgálták a járművet.\n\n• **Vizsgálat és zárlat** A hatóságok vizsgálják az incidenseket, valamint azt, hogy összefüggnek-e. A Fehér Házban a történtek miatt ideiglenes zárlatot rendeltek el, amelyet később feloldottak."
+  },
+  {
+    "group_id": "group_5e8c0244ed",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7248/72487/724872/72487299_5341569_d73272042546e28a79a50cc77909f279_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Liverpool klasszisa sérülés miatt elhagyta a válogatott edzőtáborát",
+        "link": "https://index.hu/sport/futball/2026/11/09/nemzetek-ligaja-virgil-van-dijk-holland-valogatott-keret-liverpool-serules/"
+      }
+    ],
+    "published_at": 1794252180,
+    "title_hu": "A Liverpool klasszisa sérülés miatt elhagyta a válogatott edzőtáborát",
+    "lead_hu": "Nem lép pályára a két Nemzetek Ligája-mérkőzésen.",
+    "content_hu": "Nem lép pályára a két Nemzetek Ligája-mérkőzésen."
+  },
+  {
+    "group_id": "group_8caf0c78cd",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/ncTTzHkBWIIgA3o-IZx9wo4IH_A_Xp-jOU1d0NR7bpQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MwNzY2NzNkMWMxMzQ3NTdhNDRiNWVmM2I2MzliODE1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Deutsch Tamás a Tisza saját adataival szégyenítette meg az őt támadó Radnai Márkot",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/deutsch-tamas-a-tisza-sajat-adataival-szegyenitette-meg-az-ot-tamado-radnai-markot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794252013,
+    "title_hu": "Deutsch Tamás a Tisza saját adataival szégyenítette meg az őt támadó Radnai Márkot",
+    "lead_hu": "A fideszes politikus keményen visszavágott a Tisza alelnökének.",
+    "content_hu": "A fideszes politikus keményen visszavágott a Tisza alelnökének."
+  },
+  {
+    "group_id": "group_44cc62e467",
+    "fingerprint": "032a8a8bc03809418aa01242bf8d8bbe",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/k/a/r/karman-andras-kovesdy-attila-860756.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Lengyel kollégájával tárgyalt Kármán András, az euróbevezetés is szóba került",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/lengyel-kollegajaval-targyalt-karman-andras-az-eurobevezetes-is-szoba-kerult-875210"
+      },
+      {
+        "source": "ATV",
+        "title": "Kiderült, miről tárgyalt Kármán András a lengyel pénzügyminiszterrel",
+        "link": "https://www.atv.hu/kulfold/20261109/karman-andras-lengyel-penzugyminiszter/"
+      }
+    ],
+    "published_at": 1794252000,
+    "title_hu": "Kármán András a visegrádi együttműködésről és az euróról tárgyalt lengyel kollégájával",
+    "lead_hu": "Kármán András pénzügyminiszter hétfőn Brüsszelben egyeztetett Andrzej Jan Domański lengyel pénzügyminiszterrel. A megbeszélésen a visegrádi együttműködés újjáélesztése, az euró bevezetésének lehetősége és az uniós költségvetés is szóba került.",
+    "content_hu": "• **Visegrádi együttműködés** A felek a regionális kapcsolatok erősítéséről és a V4-együttműködés újraindításáról tárgyaltak.\n\n• **Uniós költségvetés** Egyetértettek abban, hogy a közös regionális álláspontot az EU következő hétéves költségvetésének tárgyalásakor is képviselni kell.\n\n• **Euró és pénzügyi stabilitás** Megvitatták az euró bevezetésének lehetőségét, valamint az európai bankszektor versenyképességét, a pénzügyi stabilitást és a betétesek védelmét."
+  },
+  {
+    "group_id": "group_ef4209296a",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-lg/i/r/i/irigykednek-a-romanok-hogy-elhappoltuk-eloluk-a-bmw-t-147255.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Új akkumulátorbeszállítókat jelentett be a BMW – Akár Magyarországi szál is lehet az ügyben",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/uj-akkumulatorbeszallitokat-jelentett-be-a-bmw-akar-magyarorszagi-szal-is-lehet-az-ugyben-875274"
+      }
+    ],
+    "published_at": 1794251820,
+    "title_hu": "Új akkumulátorbeszállítókat jelentett be a BMW – Akár Magyarországi szál is lehet az ügyben",
+    "lead_hu": "Két új akkumulátorbeszállítóval bővíti partnerhálózatát a BMW: a dél-koreai Samsung SDI Európában, az LG Energy Solution pedig az Egyesült Államokban szállít majd akkumulátorcellákat a német autógyárt…",
+    "content_hu": "Két új akkumulátorbeszállítóval bővíti partnerhálózatát a BMW: a dél-koreai Samsung SDI Európában, az LG Energy Solution pedig az Egyesült Államokban szállít majd akkumulátorcellákat a német autógyártónak. Az együttműködések a tervek szerint az évtized végén indulnak, a lépés pedig a magyarországi akkumulátoripar szempontjából is érdekes lehet."
+  },
+  {
+    "group_id": "group_87a9bdc01f",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/c/u/k/cukor-554297.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Nagyot esett a termelés, drágulhat a cukor Ausztriában",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/nagyot-esett-a-termeles-dragulhat-a-cukor-ausztriaban-875276"
+      }
+    ],
+    "published_at": 1794251640,
+    "title_hu": "Nagyot esett a termelés, drágulhat a cukor Ausztriában",
+    "lead_hu": "A súlyos aszály miatt akár 40 százalékos cukorrépa-terméskiesés is várható idén Ausztriában, ami jövőre elkerülhetetlenül áremelkedéshez vezet. Az ellátás ennek ellenére biztosított, az ágazat szerepl…",
+    "content_hu": "A súlyos aszály miatt akár 40 százalékos cukorrépa-terméskiesés is várható idén Ausztriában, ami jövőre elkerülhetetlenül áremelkedéshez vezet. Az ellátás ennek ellenére biztosított, az ágazat szereplői pedig egy új minőségi védjeggyel igyekeznek a hazai termékek felé terelni a vásárlókat az osztrák cukorgyártás megmentése érdekében - írta a Der Standard."
+  },
+  {
+    "group_id": "group_50ff24bd6a",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7248/72487/724873/72487327_5341571_94c9d2017fd8026e7828002b20cb8ff5_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Budapesten koncertezik a Fall Out Boy jövő májusban",
+        "link": "https://index.hu/kultur/2026/11/09/fall-out-boy-turne-album-papp-laszlo-budapest-sportarena/"
+      }
+    ],
+    "published_at": 1794251460,
+    "title_hu": "Budapesten koncertezik a Fall Out Boy jövő májusban",
+    "lead_hu": "Tizennégy év szünet után ismét fellép a zenekar Magyarországon.",
+    "content_hu": "Tizennégy év szünet után ismét fellép a zenekar Magyarországon."
+  },
+  {
+    "group_id": "group_ebfef19e0a",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/6Ks0DOwLqtWX1VIB9eOjczk8sXFNB1U0rD7Jjp--CWc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZkOTAzZTJjY2M1ZTQzMGZhYzM1NTI4NzdhOTEwZjYy.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Megpuccsolt bizottsági ülés és váratlan hatósági akció - Bóka János leszámolásról beszél",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokbotrany-nemzetbiztonsagi-bizottsag-orban-aron"
+      }
+    ],
+    "published_at": 1794251293,
+    "title_hu": "Megpuccsolt bizottsági ülés és váratlan hatósági akció - Bóka János leszámolásról beszél",
+    "lead_hu": "Elmaradt bizottsági ülés és hatósági akció a vita középpontjában.",
+    "content_hu": "Elmaradt bizottsági ülés és hatósági akció a vita középpontjában."
+  },
+  {
+    "group_id": "group_d1224db322",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/gianni-infantino-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Borítékolható Infantino újraválasztása? – Ázsia a FIFA-elnök mögött áll",
+        "link": "https://24.hu/sport/foci/2026/11/09/boritekolhato-infantino-ujravalasztasa-azsia-a-fifa-elnok-mogott-all/"
+      }
+    ],
+    "published_at": 1794251194,
+    "title_hu": "Borítékolható Infantino újraválasztása? – Ázsia a FIFA-elnök mögött áll",
+    "lead_hu": "Márciusban lesz az elnökválasztás, van, aki szerint már előre lefutott a történet. The post Borítékolható Infantino újraválasztása? – Ázsia a FIFA-elnök mögött áll first appeared on 24.hu.",
+    "content_hu": "Márciusban lesz az elnökválasztás, van, aki szerint már előre lefutott a történet. The post Borítékolható Infantino újraválasztása? – Ázsia a FIFA-elnök mögött áll first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_f86645264c",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/QT--IhFbu5rG6BNUbpNJJa3iPqQJWT3nlFuHmKYMD-g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FhOTE2NzU0N2VmZjQwOWM4MzVlNThkMmZkZWZmZjNl.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Eldőlt az első dominó: kivonul Magyarországról a nyugati cég, napokon belül befejezik a szolgáltatást – a Tisza-kormány pont most szigorítja a szabályokat",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/szabaly-szigoritas-roller-dott-revolut?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794251089,
+    "title_hu": "Eldőlt az első dominó: kivonul Magyarországról a nyugati cég, napokon belül befejezik a szolgáltatást – a Tisza-kormány pont most szigorítja a szabályokat",
+    "lead_hu": "A döntés egy népszerű pénzügyi szolgáltató előfizetőit is kellemetlenül érinti.",
+    "content_hu": "A döntés egy népszerű pénzügyi szolgáltató előfizetőit is kellemetlenül érinti."
+  },
+  {
+    "group_id": "group_b21e09a0d5",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7247/72475/724758/72475889_03a1799a544a3355c55c1b0916076e1d_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Egy ártatlannak tűnő füllentés miatt kapott luxusélményt egy nő, aztán a hotel gesztusa kellemetlen helyzetbe hozta",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/09/japan-naszut-szallas-hazugsag-tiktok/"
+      }
+    ],
+    "published_at": 1794251051,
+    "title_hu": "Egy ártatlannak tűnő füllentés miatt kapott luxusélményt egy nő, aztán a hotel gesztusa kellemetlen helyzetbe hozta",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_829a7d4fa0",
+    "fingerprint": "530db6ec03d48faeeaf9943894d4f5bd",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261109/1794241370-temp-9aeoq577og1ucppicji_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Bocsánatot kért a dán újság, amiért nem néztek utána Bencsik János jobbikos múltjának és antiszemita kijelentéseinek",
+        "link": "https://telex.hu/kulfold/2026/11/09/bencsik-janos-the-coppenhagen-post-jobbik-bocsanatkeres"
+      },
+      {
+        "source": "444.hu",
+        "title": "Elnézést kér a Bencsik Jánossal interjút készítő dán lap, amiért nem ellenőrizték a volt jobbikos képviselő múltját",
+        "link": "https://444.hu/2026/11/09/elnezest-ker-a-bencsik-janossal-interjut-keszito-dan-lap-amiert-nem-ellenoriztek-a-volt-jobbikos-kepviselo-multjat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Bocsánatot kért a dán újság, amiért nem ellenőrizték a volt jobbikos Bencsik János múltját",
+        "link": "https://hvg.hu/vilag/20261109_bencsik-janos-copenhagen-post-bocsanatkeres"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hibáztak a Copenhagen Post főszerkesztője szerint, amikor úgy írtak cikket a Dániában újrakezdő Bencsik Jánosról, hogy nem néztek utána a múltjának",
+        "link": "https://24.hu/kulfold/2026/11/09/copenhagen-post-bencsik-janos-elnezest-kertek/"
+      }
+    ],
+    "published_at": 1794251031,
+    "title_hu": "Bocsánatot kért a dán lap, amiért kihagyta Bencsik János jobbikos múltját",
+    "lead_hu": "A Copenhagen Post elnézést kért, amiért a Bencsik Jánosról szóló cikkéből kimaradt a volt jobbikos politikus múltja. A lap elismerte, hogy nem ellenőrizte kellő alapossággal az előéletét, ezért utólag szerkesztői megjegyzéssel egészítette ki az írást. A szerkesztőség szerint a történet ettől még releváns, és nem törlik a cikket.",
+    "content_hu": "• **A mulasztás** A Copenhagen Post főszerkesztője bocsánatot kért az olvasóktól, amiért a Bencsikről szóló cikkből kimaradt a politikai múltja. Elismerte, hogy nem néztek utána kellő alapossággal a hátterének.\n\n• **A cikk frissítése** A lap a cikk elején szerkesztői megjegyzésben jelezte, hogy Bencsik korábban egy szélsőjobboldali párt tagja volt, és korábbi kijelentései miatt rasszizmussal, homofóbiával és antiszemitizmussal vádolták. A cikket és a kapcsolódó bejegyzéseket nem törlik.\n\n• **A szerkesztőség álláspontja** A Copenhagen Post szerint a Bencsik dániai újrakezdéséről szóló történet továbbra is releváns az olvasóknak. A lap azt is kiemelte, hogy Bencsik elhatárolódott korábbi vitatott kijelentéseitől, és bocsánatot kért értük.\n\n• **Bencsik politikai múltja** A volt országgyűlési képviselő 2009 és 2020 között politizált a Jobbikban; 2019-ben a párt budapesti elnöke és országgyűlési képviselője lett. Írásait rasszista és antiszemita tartalmuk miatt bírálták. 2020-ban kilépett a pártból, majd megalapította a Polgári Válasz nevű mozgalmat, amely később megszűnt.\n\n• **Diplomáciai kinevezései** Bencsik eredetileg Kanadában kapott volna főkonzuli megbízatást, de nem kapott vízumot; a források ezt rasszista és antiszemita írásaival, illetve korábbi szélsőséges kijelentéseivel hozzák összefüggésbe. Ezután a dán fővárosban dolgozott a magyar nagykövetség második embereként, megbízatása lejárta után pedig Dániában maradt.\n\n• **A Polgári Válasz szereplése** A mozgalom a 2022-es választáson mindössze egy képviselőjelöltet indított, és később megszűnt. Bencsik a választás után felhagyott a politizálással.\n\n• **Bencsik és családja Dániáról** A Copenhagen Postnak adott interjúban Bencsik arról beszélt, hogy családjával megszerették Dániát és a dán embereket."
+  },
+  {
+    "group_id": "group_3d5c9e8800",
+    "category": "Kultúra",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e390e025-7f29-4d7f-b85a-6eedb540b595.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Kiderült, miért élnek kevesebb ideig a nagytestű kutyák, és amit találtak, az az ember számára is hasznos lehet",
+        "link": "https://hvg.hu/tudomany/20261109_kutya-elettartam-egeszseg-betegseg-dns"
+      }
+    ],
+    "published_at": 1794250980,
+    "title_hu": "Kiderült, miért élnek kevesebb ideig a nagytestű kutyák, és amit találtak, az az ember számára is hasznos lehet",
+    "lead_hu": "894 kutya DNS-ét vizsgálták meg amerikai kutatók, hogy kiderüljön, miért élhetnek a kisebb testű kutyák tovább, mint a nagyobb fajtársaik.",
+    "content_hu": "894 kutya DNS-ét vizsgálták meg amerikai kutatók, hogy kiderüljön, miért élhetnek a kisebb testű kutyák tovább, mint a nagyobb fajtársaik."
+  },
+  {
+    "group_id": "group_99cb4e7bcc",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/w3ByVHxAmf_NgP-tAqOX2N6zvAVZoRgalA3Qai-SsHU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg4ZGVjZDFhYWJhYTQxNWE5OGY3NTJhZDcxNjFkMmUy.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Tudta, hogy a krimik királynője szörfözött, és régészeti ásatásokon is dolgozott?",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/agatha-christie?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794250800,
+    "title_hu": "Tudta, hogy a krimik királynője szörfözött, és régészeti ásatásokon is dolgozott?",
+    "lead_hu": "Agatha Christie még halála után ötven évvel is tartogat meglepetéseket – eddig nem látott kincseket mutatnak be Londonban.",
+    "content_hu": "Agatha Christie még halála után ötven évvel is tartogat meglepetéseket – eddig nem látott kincseket mutatnak be Londonban."
+  },
+  {
+    "group_id": "group_32aa860e7c",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/07/Hkrt0bs9HhBSJE5R-LrQIpaUYFhbaFGfnExLyD1x2M0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFkNDAwZDU0NDY2NzRkZGU4ZGY0YmY4YjI3YmNlZmI0.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Rémálommá vált Polyák Lilla és Gömöri András Máté költözése",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/polyak-lilla-gomori-andras-mate-koltozes-toronto"
+      }
+    ],
+    "published_at": 1794250800,
+    "title_hu": "Rémálommá vált Polyák Lilla és Gömöri András Máté költözése",
+    "lead_hu": "Polyák Lillák részletesen elmesélték, hogy pórul jártak.",
+    "content_hu": "Polyák Lillák részletesen elmesélték, hogy pórul jártak."
+  },
+  {
+    "group_id": "group_23109a9be0",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1090873175-e1794250555614-1024x575.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A nap legfontosabb hírei – 2026. november 9.",
+        "link": "https://24.hu/belfold/2026/11/09/a-nap-legfontosabb-hirei-2026-november-9/"
+      }
+    ],
+    "published_at": 1794250609,
+    "title_hu": "A nap legfontosabb hírei – 2026. november 9.",
+    "lead_hu": "Őrizetbe vehették Orbán öccsét; bezuhant a Fidesz. The post A nap legfontosabb hírei – 2026. november 9. first appeared on 24.hu.",
+    "content_hu": "Őrizetbe vehették Orbán öccsét; bezuhant a Fidesz. The post A nap legfontosabb hírei – 2026. november 9. first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_ab1a937ad2",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2201630099-hacker-kibertamadas-kiberbiztonsag-kiberbunozes-virus-adatbiztonsag-i-844002.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kibertámadással okoztak tüzeket több száz üzletben – Irán állhat a példátlan akció mögött",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/kibertamadassal-okoztak-tuzeket-tobb-szaz-uzletben-iran-allhat-a-peldatlan-akcio-mogott-875272"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Irán állhat az áruházak hűtőit ért kibertámadások mögött – nem ez lenne az első hasonló akciójuk",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/iran-huto-kibertamadasok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794250500,
+    "title_hu": "Kibertámadással okoztak tüzeket több száz üzletben – Irán állhat a példátlan akció mögött",
+    "lead_hu": "Az Iráni Forradalmi Gárda áll a franciaországi áruházláncok hűtőberendezései elleni októberi kibertámadás mögött, jelentette ki hétfőn Jean-Noel Barrot francia külügyminiszter. A tárcavezető a G7 pári…",
+    "content_hu": "Az Iráni Forradalmi Gárda áll a franciaországi áruházláncok hűtőberendezései elleni októberi kibertámadás mögött, jelentette ki hétfőn Jean-Noel Barrot francia külügyminiszter. A tárcavezető a G7 párizsi külügyminiszteri tanácskozásának szünetében páratlan nagyságúnak és agresszívnek nevezte az akciót.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_6d4d026d03",
@@ -108,7 +658,8 @@
     "published_at": 1794250062,
     "title_hu": "Rekordveszteségről számolt be az ukrán vezérkar, kiszivárgott adatok is napvilágra kerültek",
     "lead_hu": "Az ukrán vezérkar szerint november 8-án 2980 orosz katona halt meg vagy esett ki súlyos sérülés miatt a harcokból, ami új napi rekord lenne. Egy kiszivárgott orosz adatbázisban 412 576, a háborúhoz köthető halotti bizonyítvány szerepel, de a számok hitelessége és a tényleges veszteség mértéke továbbra is bizonytalan.",
-    "content_hu": "• **2980 fős napi veszteség** Az ukrán katonai vezetés szerint ennyi orosz katona halt meg vagy szenvedett olyan súlyos sérülést november 8-án, hogy kiesett a harcokból.\n\n• **Új napi rekord** A közölt adat meghaladja az előző, november 1-jén jelentett 2500 fős rekordot. Az ukrán vezérkar szerint 2026 októbere volt a háború kezdete óta a legsúlyosabb hónap az orosz katonák számára.\n\n• **Ukrán összesítés** A 24.hu által idézett ukrán adatok szerint a háború 2022. februári kezdete óta 1 609 380 orosz katona halt meg, esett fogságba vagy szenvedett súlyos sérülést. Ez az ukrán fél összesítése, nem függetlenül igazolt adat.\n\n• **412 576, háborúhoz köthető halotti bizonyítvány** A Cyber Partisans és a Silent Crow hackercsoportok szerint a Rosstat kiszivárgott adatbázisában ennyi olyan halotti bizonyítvány szerepel, amelyben a halál okaként vagy szöveges megjegyzésként a háborúra, harci cselekményekre utalnak. Az adatállomány több mint 11 millió halotti anyakönyvi kivonatot tartalmaz, köztük az elhunytak életkorával, lakóhelyével és halálozási helyével kapcsolatos adatokat.\n\n• **Eltérő számok és becslések** Egyes beszámolók 392 700, illetve 394–450 ezer közé teszik a háborúhoz köthető halálesetek számát; az eltérések a nyilvántartás és a becslések különböző értelmezéséből is adódhatnak. A brit hírszerzés egyik becslése mintegy 500 ezer orosz katona haláláról szólt, a Mediazona pedig korábban közel 286 ezer elesett katona személyazonosságát állapította meg nyilvános források alapján.\n\n• **A nyilvántartás valószínűleg hiányos** Az adatbázis nem feltétlenül tartalmazza az eltűntként nyilvántartott vagy azonosítatlan áldozatokat. Janis Kluge szakértő hitelesnek tűnőnek és részletesnek nevezte az adatokat, ugyanakkor arra figyelmeztetett, hogy a halálesetek hivatalos nyilvántartásba vétele jellemzően körülbelül hat hónapot késhet; szerinte a tényleges szám már közelebb lehet az 500 ezerhez.\n\n• **A teljes veszteség ennél nagyobb lehet** A Cyber Partisans számítása szerint a halottak számának akár ötszöröse is lehet a teljes katonai veszteség, ha a sebesülteket és a maradandó egészségkárosodást szenvedőket is beleszámítják. Az így kapott, akár kétmilliós érték elméleti becslés, nem igazolt halálozási adat.\n\n• **A hackertámadás és az ellenőrizhetőség kérdése** A Rosstat elismerte, hogy hackertámadás érte, de tagadta, hogy a támadók érzékeny adatokhoz fértek volna hozzá. A Guardian és a Kyiv Independent sem tudta önállóan ellenőrizni a kiszivárgott adatok teljes hitelességét."
+    "content_hu": "• **2980 fős napi veszteség** Az ukrán katonai vezetés szerint ennyi orosz katona halt meg vagy szenvedett olyan súlyos sérülést november 8-án, hogy kiesett a harcokból.\n\n• **Új napi rekord** A közölt adat meghaladja az előző, november 1-jén jelentett 2500 fős rekordot. Az ukrán vezérkar szerint 2026 októbere volt a háború kezdete óta a legsúlyosabb hónap az orosz katonák számára.\n\n• **Ukrán összesítés** A 24.hu által idézett ukrán adatok szerint a háború 2022. februári kezdete óta 1 609 380 orosz katona halt meg, esett fogságba vagy szenvedett súlyos sérülést. Ez az ukrán fél összesítése, nem függetlenül igazolt adat.\n\n• **412 576, háborúhoz köthető halotti bizonyítvány** A Cyber Partisans és a Silent Crow hackercsoportok szerint a Rosstat kiszivárgott adatbázisában ennyi olyan halotti bizonyítvány szerepel, amelyben a halál okaként vagy szöveges megjegyzésként a háborúra, harci cselekményekre utalnak. Az adatállomány több mint 11 millió halotti anyakönyvi kivonatot tartalmaz, köztük az elhunytak életkorával, lakóhelyével és halálozási helyével kapcsolatos adatokat.\n\n• **Eltérő számok és becslések** Egyes beszámolók 392 700, illetve 394–450 ezer közé teszik a háborúhoz köthető halálesetek számát; az eltérések a nyilvántartás és a becslések különböző értelmezéséből is adódhatnak. A brit hírszerzés egyik becslése mintegy 500 ezer orosz katona haláláról szólt, a Mediazona pedig korábban közel 286 ezer elesett katona személyazonosságát állapította meg nyilvános források alapján.\n\n• **A nyilvántartás valószínűleg hiányos** Az adatbázis nem feltétlenül tartalmazza az eltűntként nyilvántartott vagy azonosítatlan áldozatokat. Janis Kluge szakértő hitelesnek tűnőnek és részletesnek nevezte az adatokat, ugyanakkor arra figyelmeztetett, hogy a halálesetek hivatalos nyilvántartásba vétele jellemzően körülbelül hat hónapot késhet; szerinte a tényleges szám már közelebb lehet az 500 ezerhez.\n\n• **A teljes veszteség ennél nagyobb lehet** A Cyber Partisans számítása szerint a halottak számának akár ötszöröse is lehet a teljes katonai veszteség, ha a sebesülteket és a maradandó egészségkárosodást szenvedőket is beleszámítják. Az így kapott, akár kétmilliós érték elméleti becslés, nem igazolt halálozási adat.\n\n• **A hackertámadás és az ellenőrizhetőség kérdése** A Rosstat elismerte, hogy hackertámadás érte, de tagadta, hogy a támadók érzékeny adatokhoz fértek volna hozzá. A Guardian és a Kyiv Independent sem tudta önállóan ellenőrizni a kiszivárgott adatok teljes hitelességét.",
+    "importance_score": 70.0
   },
   {
     "group_id": "group_c59f3454ff",
@@ -207,7 +758,8 @@
     "published_at": 1794249472,
     "title_hu": "Videón az Orbán Áront is érintő ügy négy gyanúsítottjának elfogása",
     "lead_hu": "Négy embert vettek őrizetbe Budapesten, Fóton és Dunakeszin a vietnámi állampolgárok vízumügyintézésével és Nyugat-Európába jutásával kapcsolatos nyomozásban. A rendőrség videókat tett közzé az elfogásokról; a gyanú szerint a csoport több mint száz embernek segíthetett, de azt továbbra sem közölték, hogy Orbán Áron az őrizetbe vettek között van-e.",
-    "content_hu": "• **Élettársi pár és két további gyanúsított** A négy őrizetbe vett között egy élettársi kapcsolatban élő férfi és nő, valamint két további férfi van.\n\n• **Két helyszínen fegyverekre számítottak** A TEK két ingatlanban hajtotta végre az elfogásokat, mert a hatóságok információi szerint fegyverek is lehettek ott; a másik két helyszínen az ORFK taktikai egységei intézkedtek.\n\n• **Bizonyítékokat foglaltak le** A több órán át tartó házkutatások során dokumentumokat, elektronikus adatokat és más, az ügy szempontjából releváns eszközöket vittek el. A rendőrség videókat is közzétett az akcióról.\n\n• **Kényszerintézkedéseket terveznek** A kihallgatások és a nyomozati cselekmények még zajlanak; a hatóságok mind a négy gyanúsítottal szemben személyi szabadságot korlátozó intézkedést terveznek kezdeményezni.\n\n• **A képzésen részt vevők sem távoztak időben** A hatóságok szerint a vietnámi állampolgárok egy része részt vett a vízumkérelemben megjelölt képzésen, de ők sem hagyták el Magyarországot a vízumuk lejárta előtt. A többség a megjelölt oktatáson sem jelent meg."
+    "content_hu": "• **Élettársi pár és két további gyanúsított** A négy őrizetbe vett között egy élettársi kapcsolatban élő férfi és nő, valamint két további férfi van.\n\n• **Két helyszínen fegyverekre számítottak** A TEK két ingatlanban hajtotta végre az elfogásokat, mert a hatóságok információi szerint fegyverek is lehettek ott; a másik két helyszínen az ORFK taktikai egységei intézkedtek.\n\n• **Bizonyítékokat foglaltak le** A több órán át tartó házkutatások során dokumentumokat, elektronikus adatokat és más, az ügy szempontjából releváns eszközöket vittek el. A rendőrség videókat is közzétett az akcióról.\n\n• **Kényszerintézkedéseket terveznek** A kihallgatások és a nyomozati cselekmények még zajlanak; a hatóságok mind a négy gyanúsítottal szemben személyi szabadságot korlátozó intézkedést terveznek kezdeményezni.\n\n• **A képzésen részt vevők sem távoztak időben** A hatóságok szerint a vietnámi állampolgárok egy része részt vett a vízumkérelemben megjelölt képzésen, de ők sem hagyták el Magyarországot a vízumuk lejárta előtt. A többség a megjelölt oktatáson sem jelent meg.",
+    "importance_score": 75.0
   },
   {
     "group_id": "group_5e105ffd65",
@@ -270,7 +822,8 @@
     "published_at": 1794249262,
     "title_hu": "Távozik a Szegedi Tudományegyetem kancellárja",
     "lead_hu": "Fendler Judit munkaviszonya 2027. január 3-án megszűnik, addig felmentették a munkavégzés alól. A kancellári feladatokat 2026. november 10-től megbízott vezető látja el 2027. július 31-ig; a döntés okát az egyetem nem közölte.",
-    "content_hu": "• **A munkaviszony megszűnése** A Szegedi Tudományegyetemért Alapítvány kuratóriuma az Oktatási és Gyermekügyi Minisztérium jóváhagyásával döntött Fendler Judit távozásáról. A kancellár a munkaviszonyának megszűnéséig felmentést kapott a munkavégzés alól.\n\n• **Megbízott kancellár** A feladatokat 2026. november 10. és 2027. július 31. között megbízott kancellár látja el.\n\n• **A döntés indoka nem ismert** Az egyetem közleménye nem indokolta a munkaviszony megszüntetését. Fendler októberben a Partizánnak arról beszélt, hogy állítása szerint politikai kapcsolatokra hivatkozó szereplők próbáltak befolyást szerezni az egyetemi beszerzéseknél; a menesztés és az interjú közötti összefüggést nem közölték."
+    "content_hu": "• **A munkaviszony megszűnése** A Szegedi Tudományegyetemért Alapítvány kuratóriuma az Oktatási és Gyermekügyi Minisztérium jóváhagyásával döntött Fendler Judit távozásáról. A kancellár a munkaviszonyának megszűnéséig felmentést kapott a munkavégzés alól.\n\n• **Megbízott kancellár** A feladatokat 2026. november 10. és 2027. július 31. között megbízott kancellár látja el.\n\n• **A döntés indoka nem ismert** Az egyetem közleménye nem indokolta a munkaviszony megszüntetését. Fendler októberben a Partizánnak arról beszélt, hogy állítása szerint politikai kapcsolatokra hivatkozó szereplők próbáltak befolyást szerezni az egyetemi beszerzéseknél; a menesztés és az interjú közötti összefüggést nem közölték.",
+    "importance_score": 80.0
   },
   {
     "group_id": "group_4a8cdbf0b6",
@@ -315,7 +868,7 @@
     "image": "https://kep.index.hu/1/0/6834/68341/683418/68341819_5045157_35d618f68b1fb4fc2c87bcb71df86113_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Index - Címlap",
@@ -326,12 +879,18 @@
         "source": "24.hu - Legfrissebb",
         "title": "Környezetvédelmi és emberi jogi vállalásokat tettek az akkugyárak",
         "link": "https://24.hu/fn/gazdasag/2026/11/09/koreai-akkumulatorgyartok-kozos-nyilatkozat-magyarorszag/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ígéretet tettek a hazánkban működő koreai akkumulátorgyárak: szigorítanának a környezetvédelmi és munkavédelmi gyakorlaton",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/igeretet-tettek-a-hazankban-mukodo-koreai-akkumulatorgyarak-szigoritananak-a-kornyezetvedelmi-es-munkavedelmi-gyakorlaton?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1794249000,
     "title_hu": "Felelős működést ígértek a koreai akkumulátorgyárak",
     "lead_hu": "Közös nyilatkozatban vállalták a Magyarországon működő dél-koreai akkumulátoripari cégek, hogy erősítik a környezetvédelmi, biztonsági és emberi jogi szempontokat. A vállalások hátterében az ágazatot érintő viták és hatósági bírságok is állnak; a megállapodás megvalósulását a cégek a magyar kormánnyal és a helyi közösségekkel együtt követnék nyomon.",
-    "content_hu": "• **Közös nyilatkozat** Hétfőn Budapesten a Magyarországon működő dél-koreai akkumulátoripari vállalatok és a dél-koreai ipari és kereskedelmi tárca képviselői felelősségvállalási nyilatkozatot írtak alá.\n\n• **Részt vevő vállalatok** A kezdeményezéshez a Samsung SDI, az SK On, az EcoPro BM, a Dongwha Electrolyte, a W-SCOPE és a SungEel HiTech magyarországi képviselői csatlakoztak.\n\n• **Három fő terület** A vállalások a környezetvédelemre, a biztonságra és az emberi jogokra terjednek ki; a cégek az ESG-alapú működés erősítését is vállalták.\n\n• **Egyeztetések és ellenőrzés** A vállalatok rendszeres párbeszédet terveznek a magyar kormánnyal és a helyi közösségekkel, valamint közösen tekintenék át az intézkedések megvalósulását. A dél-koreai kormány is együttműködést ígért a magyar kormánnyal a vállalások teljesítéséért.\n\n• **Bírságok az SK On iváncsai gyáránál** Az Index beszámolója szerint a céget augusztusban 100 millió forintra bírságolták, miután a hatóság 65 dolgozót közvetlenül veszélyeztető munkavédelmi hiányosságokat állapított meg. Októberben újabb 100 millió forintos bírságot kapott felszín alatti vizek szennyezése és engedélyezési előírások megszegése miatt.\n\n• **Mérések Gödön** A Samsung SDI gödi üzemével kapcsolatban is viták alakultak ki; a vállalat vitatta egyes kifogásokat. Szeptemberben három levegőminőség-mérő állomást helyezett üzembe, és nyilvánossá tette azok adatait.\n\n• **Magyar–koreai gazdasági kapcsolatok** Kapitány István gazdasági és energetikai miniszter közlése szerint Dél-Korea Magyarország harmadik legnagyobb üzleti partnere és beruházója, a kétoldalú kereskedelmi-ipari együttműködés pedig 2026-ban 10 százalékkal nőtt. A miniszter a környezetvédelmi, munkavédelmi és munkajogi szabályok betartásának fontosságáról is tárgyalt a koreai féllel.\n\n• **További együttműködés tervei** Kapitány István jövő év elején üzleti delegációval utazna Koreába; a tárgyalásokon szó volt arról is, hogyan kapcsolódhatnak be jobban a magyar vállalatok az értékláncba, és miként kerülhet több kutatás-fejlesztési tevékenység Magyarországra."
+    "content_hu": "• **Közös nyilatkozat** Hétfőn Budapesten a Magyarországon működő dél-koreai akkumulátoripari vállalatok és a dél-koreai ipari és kereskedelmi tárca képviselői felelősségvállalási nyilatkozatot írtak alá.\n\n• **Részt vevő vállalatok** A kezdeményezéshez a Samsung SDI, az SK On, az EcoPro BM, a Dongwha Electrolyte, a W-SCOPE és a SungEel HiTech magyarországi képviselői csatlakoztak.\n\n• **Három fő terület** A vállalások a környezetvédelemre, a biztonságra és az emberi jogokra terjednek ki; a cégek az ESG-alapú működés erősítését is vállalták.\n\n• **Egyeztetések és ellenőrzés** A vállalatok rendszeres párbeszédet terveznek a magyar kormánnyal és a helyi közösségekkel, valamint közösen tekintenék át az intézkedések megvalósulását. A dél-koreai kormány is együttműködést ígért a magyar kormánnyal a vállalások teljesítéséért.\n\n• **Bírságok az SK On iváncsai gyáránál** Az Index beszámolója szerint a céget augusztusban 100 millió forintra bírságolták, miután a hatóság 65 dolgozót közvetlenül veszélyeztető munkavédelmi hiányosságokat állapított meg. Októberben újabb 100 millió forintos bírságot kapott felszín alatti vizek szennyezése és engedélyezési előírások megszegése miatt.\n\n• **Mérések Gödön** A Samsung SDI gödi üzemével kapcsolatban is viták alakultak ki; a vállalat vitatta egyes kifogásokat. Szeptemberben három levegőminőség-mérő állomást helyezett üzembe, és nyilvánossá tette azok adatait.\n\n• **Magyar–koreai gazdasági kapcsolatok** Kapitány István gazdasági és energetikai miniszter közlése szerint Dél-Korea Magyarország harmadik legnagyobb üzleti partnere és beruházója, a kétoldalú kereskedelmi-ipari együttműködés pedig 2026-ban 10 százalékkal nőtt. A miniszter a környezetvédelmi, munkavédelmi és munkajogi szabályok betartásának fontosságáról is tárgyalt a koreai féllel.\n\n• **További együttműködés tervei** Kapitány István jövő év elején üzleti delegációval utazna Koreába; a tárgyalásokon szó volt arról is, hogyan kapcsolódhatnak be jobban a magyar vállalatok az értékláncba, és miként kerülhet több kutatás-fejlesztési tevékenység Magyarországra.",
+    "importance_score": 45.0
   },
   {
     "group_id": "group_d7f74c400a",
@@ -350,36 +909,6 @@
     "title_hu": "„Érthetően fogalmaztam?” – élő adásban szabadultak el az indulatok a riporter miatt",
     "lead_hu": "Nyolcgólos őrület, drámai feltámadás és két rendkívül feszült interjú: a lefújás után is akadtak emlékezetes jelenetek az Old Traffordon. A Manchester United és az Aston Villa vezetőedzője, Michael Ca…",
     "content_hu": "Nyolcgólos őrület, drámai feltámadás és két rendkívül feszült interjú: a lefújás után is akadtak emlékezetes jelenetek az Old Traffordon. A Manchester United és az Aston Villa vezetőedzője, Michael Carrick és Unai Emery ugyanazzal a televíziós riporterrel keveredett kellemetlen szóváltásba, miután az egyik szakember jövőjét, a másik különös viselkedését firtatták."
-  },
-  {
-    "group_id": "group_829a7d4fa0",
-    "fingerprint": "6b74e6a05847006ffc032ed383c6174d",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261109/1794241370-temp-9aeoq577og1ucppicji_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Bocsánatot kért a dán újság, amiért nem néztek utána Bencsik János jobbikos múltjának és antiszemita kijelentéseinek",
-        "link": "https://telex.hu/kulfold/2026/11/09/bencsik-janos-the-coppenhagen-post-jobbik-bocsanatkeres"
-      },
-      {
-        "source": "444.hu",
-        "title": "Elnézést kér a Bencsik Jánossal interjút készítő dán lap, amiért nem ellenőrizték a volt jobbikos képviselő múltját",
-        "link": "https://444.hu/2026/11/09/elnezest-ker-a-bencsik-janossal-interjut-keszito-dan-lap-amiert-nem-ellenoriztek-a-volt-jobbikos-kepviselo-multjat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Bocsánatot kért a dán újság, amiért nem ellenőrizték a volt jobbikos Bencsik János múltját",
-        "link": "https://hvg.hu/vilag/20261109_bencsik-janos-copenhagen-post-bocsanatkeres"
-      }
-    ],
-    "published_at": 1794248970,
-    "title_hu": "Bocsánatot kért a dán lap, amiért kihagyta Bencsik János múltját",
-    "lead_hu": "A Copenhagen Post elnézést kért, amiért a Bencsik Jánosról szóló cikkéből kimaradt a volt jobbikos politikus múltja. A lap elismerte, hogy nem ellenőrizte kellő alapossággal az előéletét, ezért utólag szerkesztői megjegyzéssel egészítette ki az írást. A szerkesztőség szerint a történet ettől még releváns, és nem törlik a cikket.",
-    "content_hu": "• **A mulasztás** A Copenhagen Post főszerkesztője bocsánatot kért az olvasóktól, amiért a Bencsikről szóló cikkből kimaradt a politikai múltja. Elismerte, hogy nem néztek utána kellő alapossággal a hátterének.\n\n• **A cikk frissítése** A lap a cikk elején szerkesztői megjegyzésben jelezte, hogy Bencsik korábban egy szélsőjobboldali párt tagja volt, és korábbi kijelentései miatt rasszizmussal, homofóbiával és antiszemitizmussal vádolták. A cikket és a kapcsolódó bejegyzéseket nem törlik.\n\n• **A szerkesztőség álláspontja** A Copenhagen Post szerint a Bencsik dániai újrakezdéséről szóló történet továbbra is releváns az olvasóknak. A lap azt is kiemelte, hogy Bencsik elhatárolódott korábbi vitatott kijelentéseitől, és bocsánatot kért értük.\n\n• **Bencsik politikai múltja** A volt országgyűlési képviselő korábban a Jobbik politikusa volt; írásait rasszista és antiszemita tartalmuk miatt bírálták. 2020-ban kilépett a pártból, majd megalapította a Polgári Válasz nevű mozgalmat, amely később megszűnt.\n\n• **Diplomáciai kinevezései** Bencsik eredetileg Kanadában kapott volna főkonzuli megbízatást, de nem kapott vízumot; ezt a források korábbi szélsőséges kijelentéseivel hozzák összefüggésbe. Ezután a dán fővárosban dolgozott a magyar nagykövetség második embereként, megbízatása lejárta után pedig Dániában maradt.\n\n• **A Polgári Válasz szereplése** A mozgalom a 2022-es választáson mindössze egy képviselőjelöltet indított, és később megszűnt. Bencsik a választás után felhagyott a politizálással."
   },
   {
     "group_id": "group_04f03996c0",
@@ -584,7 +1113,8 @@
     "published_at": 1794247200,
     "title_hu": "Miért van, akinek kevés alvás is elegendő?",
     "lead_hu": "A legtöbb felnőttnek napi hét-kilenc óra alvásra van szüksége, de ritka genetikai eltérések miatt egyesek kevesebb pihenéssel is jól működhetnek. A kutatók szerint az alvásigényt számos gén befolyásolja, ám a kevés alvásra való hajlam nem feltétlenül véd meg az egészségügyi kockázatoktól.",
-    "content_hu": "• **Ritka örökletes állapot** A familiáris természetes rövid alvásban (FNSS) érintettek rendszerint négy-hat és fél órát alszanak, mégis kipihentnek érezhetik magukat. A kutatók több, az állapottal összefüggő genetikai mutációt azonosítottak.\n\n• **Lehetséges védelem** Állatkísérletek és egy ikerpárral végzett vizsgálat arra utalnak, hogy bizonyos mutációk mérsékelhetik az alváshiány memóriára és teljesítményre gyakorolt hatását. Az eredmények egyelőre nem magyarázzák teljesen, hogyan működik ez a védelem.\n\n• **Sok gén befolyásolja az alvást** Az alvás időtartamának örökölhetőségét 30–65 százalékra becsülik. Egy közel 650 ezer felnőtt adatait elemző, még nem lektorált kutatás mintegy 244, az alvással összefüggő genetikai tényezőt talált.\n\n• **A kevés alvás nem mindenkinek előny** A rövid alvással összefüggő génváltozatok más vizsgálatokban álmatlansággal, fáradtsággal és különféle egészségi problémákkal is kapcsolatot mutattak. Az alvásmegvonás közben az emberek teljesítménye úgy is romolhat, hogy ezt nem érzékelik pontosan.\n\n• **További kutatásokra van szükség** A tudósok szerint nem elég az érintettek közérzetére hagyatkozni: a genetikai háttér és az esetleges hosszú távú következmények megértéséhez további vizsgálatok kellenek."
+    "content_hu": "• **Ritka örökletes állapot** A familiáris természetes rövid alvásban (FNSS) érintettek rendszerint négy-hat és fél órát alszanak, mégis kipihentnek érezhetik magukat. A kutatók több, az állapottal összefüggő genetikai mutációt azonosítottak.\n\n• **Lehetséges védelem** Állatkísérletek és egy ikerpárral végzett vizsgálat arra utalnak, hogy bizonyos mutációk mérsékelhetik az alváshiány memóriára és teljesítményre gyakorolt hatását. Az eredmények egyelőre nem magyarázzák teljesen, hogyan működik ez a védelem.\n\n• **Sok gén befolyásolja az alvást** Az alvás időtartamának örökölhetőségét 30–65 százalékra becsülik. Egy közel 650 ezer felnőtt adatait elemző, még nem lektorált kutatás mintegy 244, az alvással összefüggő genetikai tényezőt talált.\n\n• **A kevés alvás nem mindenkinek előny** A rövid alvással összefüggő génváltozatok más vizsgálatokban álmatlansággal, fáradtsággal és különféle egészségi problémákkal is kapcsolatot mutattak. Az alvásmegvonás közben az emberek teljesítménye úgy is romolhat, hogy ezt nem érzékelik pontosan.\n\n• **További kutatásokra van szükség** A tudósok szerint nem elég az érintettek közérzetére hagyatkozni: a genetikai háttér és az esetleges hosszú távú következmények megértéséhez további vizsgálatok kellenek.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_6701b1f59f",
@@ -663,7 +1193,8 @@
     "published_at": 1794247138,
     "title_hu": "Per indult Tasó László ellen AI-val készített dal miatt",
     "lead_hu": "Tasó László volt fideszes országgyűlési képviselő rágalmazás és kegyeletsértés miatt beperelt egy nyíradonyi férfit, aki mesterséges intelligenciával készített róla dalt. Az első tárgyaláson nem értettek egyet abban, hogy a szerzemény nyilvánosan elérhető volt-e; az ügyben tanúkat is meghallgatnak.",
-    "content_hu": "• **A dal tartalma** M. Tibor a Suno.ai segítségével készített szerzeménye azt állította Tasóról, hogy lopott és csalt, valamint egyebek mellett a képviselő nagyapjának történelmi szerepére is utalt.\n\n• **Eltérő állítások a közzétételről** M. Tibor azt mondta, privát üzenetben küldte el a dalt Tasónak és egyik családtagjának, Tasó szerint viszont az interneten nyilvánosan is elérhető volt.\n\n• **Folytatódik az eljárás** Az első tárgyalást a Debreceni Törvényszéken tartották; a vita tisztázására több tanút hallgatnak meg. M. Tibor magánvéleményének és alkotói szabadságának nevezte a dalszöveget, Tasó pedig azt állította, hogy lejárató kampány folyik ellene."
+    "content_hu": "• **A dal tartalma** M. Tibor a Suno.ai segítségével készített szerzeménye azt állította Tasóról, hogy lopott és csalt, valamint egyebek mellett a képviselő nagyapjának történelmi szerepére is utalt.\n\n• **Eltérő állítások a közzétételről** M. Tibor azt mondta, privát üzenetben küldte el a dalt Tasónak és egyik családtagjának, Tasó szerint viszont az interneten nyilvánosan is elérhető volt.\n\n• **Folytatódik az eljárás** Az első tárgyalást a Debreceni Törvényszéken tartották; a vita tisztázására több tanút hallgatnak meg. M. Tibor magánvéleményének és alkotói szabadságának nevezte a dalszöveget, Tasó pedig azt állította, hogy lejárató kampány folyik ellene.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_5564fa22ce",
@@ -793,24 +1324,6 @@
     "title_hu": "„Dicséretből nem lehet megélni” – utcára vonultak a levéltárosok Pécsen",
     "lead_hu": "Béremelést és jobb munkakörülményeket követeltek a levéltári dolgozók Pécsen. A szakszervezet szerint az ágazat alulfinanszírozott, a fizetések pedig rendkívül alacsonyak. The post „Dicséretből nem le…",
     "content_hu": "Béremelést és jobb munkakörülményeket követeltek a levéltári dolgozók Pécsen. A szakszervezet szerint az ágazat alulfinanszírozott, a fizetések pedig rendkívül alacsonyak. The post „Dicséretből nem lehet megélni” – utcára vonultak a levéltárosok Pécsen first appeared on 24.hu."
-  },
-  {
-    "group_id": "group_9fe77ac545",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7248/72487/724870/72487079_5341553_4446b52d002ff363af018dc83bcba891_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Autó csapódott egy biztonsági kordonnak a Fehér Háznál, két embert is őrizetbe vettek",
-        "link": "https://index.hu/kulfold/2026/11/09/egyesult-allamok-washington-feher-haz-auto-letartoztatas-kordon/"
-      }
-    ],
-    "published_at": 1794246360,
-    "title_hu": "Autó csapódott egy biztonsági kordonnak a Fehér Háznál, két embert is őrizetbe vettek",
-    "lead_hu": "Az incidensek miatt zárlatot rendeltek el az elnöki rezidencián.",
-    "content_hu": "Az incidensek miatt zárlatot rendeltek el az elnöki rezidencián."
   },
   {
     "group_id": "group_1de928fb82",
@@ -1040,24 +1553,6 @@
     "title_hu": "Nagyon rossz hírt kapott Kapitány István és a magyar ipar a szegedi BYD-gyárról: még évekig tarthat a kínaiaknak a teljes beüzemelés – 300 ezer autóra vár a gazdaság",
     "lead_hu": "Újabb fordulat történt a BYD szegedi autógyárának építésében.",
     "content_hu": "Újabb fordulat történt a BYD szegedi autógyárának építésében."
-  },
-  {
-    "group_id": "group_63bf2cc4b3",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-lg/b/e/n/benzin-337997.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Megjött a bejelentés: határozatlan időre bezár egy benzinkút Magyarországon",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/megjott-a-bejelentes-hatarozatlan-idore-bezar-egy-benzinkut-magyarorszagon-875254"
-      }
-    ],
-    "published_at": 1794244920,
-    "title_hu": "Megjött a bejelentés: határozatlan időre bezár egy benzinkút Magyarországon",
-    "lead_hu": "November 10-től határozatlan időre bezárja bekecsi töltőállomását a Buffalo Petrol. Az üzemeltető a kisebb benzinkutak körül kialakult helyzettel és az üzemanyag-ellátás bizonytalanságával indokolta a…",
-    "content_hu": "November 10-től határozatlan időre bezárja bekecsi töltőállomását a Buffalo Petrol. Az üzemeltető a kisebb benzinkutak körül kialakult helyzettel és az üzemanyag-ellátás bizonytalanságával indokolta a döntést. A bejelentés nem előzmények nélküli: az elmúlt hónapokban több független benzinkúton is problémák jelentkeztek az üzemanyag-értékesítéssel."
   },
   {
     "group_id": "group_6be3b33b1a",
@@ -1520,7 +2015,8 @@
     "published_at": 1794243120,
     "title_hu": "Magyar Péter Berlinben tart Európa-beszédet, majd Friedrich Merzzel tárgyal",
     "lead_hu": "Magyar Péter hétfőn Berlinbe utazott, ahol este német nyelvű Európa-beszédet tart a Konrad Adenauer Alapítvány vendégeként. Kedden a magyar kormány több tagjával együtt Friedrich Merz német kancellárral és miniszterekkel találkozik.",
-    "content_hu": "• **Hétfő este** Magyar Péter német nyelvű Európa-beszédet tart Berlinben, a Konrad Adenauer Alapítvány vendégeként.\n\n• **Keddi tárgyalások** A magyar miniszterelnök kormánytagokkal együtt Friedrich Merz német kancellárral és miniszterekkel egyeztet.\n\n• **A megbeszélések témái** A felek fontos európai, magyar és német vonatkozású kérdésekről tárgyalnak.\n\n• **Az utazás** Magyar Péter közlése szerint Bécsből menetrend szerinti járattal utaztak Berlinbe."
+    "content_hu": "• **Hétfő este** Magyar Péter német nyelvű Európa-beszédet tart Berlinben, a Konrad Adenauer Alapítvány vendégeként.\n\n• **Keddi tárgyalások** A magyar miniszterelnök kormánytagokkal együtt Friedrich Merz német kancellárral és miniszterekkel egyeztet.\n\n• **A megbeszélések témái** A felek fontos európai, magyar és német vonatkozású kérdésekről tárgyalnak.\n\n• **Az utazás** Magyar Péter közlése szerint Bécsből menetrend szerinti járattal utaztak Berlinbe.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_453cacfe0e",
@@ -1609,7 +2105,7 @@
     "title_hu": "Meghalt a krakkói lövöldözés elkövetője",
     "lead_hu": "Hétfő hajnalban, helyi idő szerint fél öt körül meghalt a kórházban a szombati krakkói lövöldözés 24 éves elkövetője, Michał Oksiński. A támadásban hat ember vesztette életét, tizenöten kerültek kórházba; a hatóságok a férfi családtagjainak halálát és a támadás körülményeit is vizsgálják.",
     "content_hu": "• **Hétfő hajnalban meghalt az elkövető** – A 24 éves Michał Oksiński helyi idő szerint körülbelül fél öt tájban halt meg a kórházban. Állapota kritikus volt, az orvosok legalább három műtétet végeztek rajta.\n\n• **Hat halálos áldozat és tizenöt kórházi ellátásra szoruló sérült** – A lövöldözés a krakkói városközpontban történt. A kórházban ápoltak közül tizennégy állapota stabil, egy rendőré továbbra is súlyos.\n\n• **A rendőrök tűzpárbajban állították meg a támadót** – Oksiński menekülés közben is tüzet nyitott az üldözőire; az összecsapásban két rendőr sebesült meg. A közvetlenül az elfogásában részt vevő rendőr vasárnapra felébredt a mesterséges kómából, állapota továbbra is súlyos, de stabil; a másik rendőré stabil. Jakub Kulikot és Artur Morańskit állami kitüntetésre jelölhetik, Donald Tusk miniszterelnök pedig méltatta a bátorságukat.\n\n• **A hatóságok a családtagok halálát is vizsgálják** – Oksiński szüleinek és húgának holttestére a lakásukban találtak rá. Az ügyészség szerint nagyon valószínű, hogy a férfi őket is megölte, de a vizsgálat még tart; ha ez beigazolódik, összesen kilenc halálos áldozata lehet az ügynek.\n\n• **Terrorcselekményként kezelik a támadást** – Az ügyészség terrorcselekmény és sorozatgyilkosság miatt nyomoz. Oksiński halála nem állítja le az eljárást: a hatóságok az indítékait, esetleges kapcsolatait és lehetséges segítőit is vizsgálják.\n\n• **A férfi korábban nem volt büntetve, és nem került a hatóságok látókörébe** – Nem hivatalos értesülések szerint esztergályosként dolgozhatott, és egy sportlövőklub tagja lehetett, ezt azonban az egyesület nem erősítette meg.\n\n• **A fegyverek eredetét is vizsgálják** – Oksińskinek fegyvertartási engedélye volt, amely egy karabélyra és egy maroklőfegyverre szólt; a lakásában hét lőfegyvert foglaltak le. Beszámolók szerint az apja 11 fegyvert tartott legálisan. Egyelőre nem tisztázott, hogy a támadó saját vagy családtagja fegyverét használta-e.\n\n• **Külföldi áldozatai is voltak a támadásnak** – A hat halálos áldozat között négy lengyel, egy brit és egy osztrák állampolgár volt. A sérültek között is vannak külföldiek, magyar állampolgárt nem érintett a támadás.\n\n• **Kétnapos nemzeti gyászt tartanak Lengyelországban** – Hétfő este néma menetet, illetve megemlékezést tartanak az áldozatok tiszteletére Krakkó főterén.",
-    "importance_score": 125.0
+    "importance_score": 118.0
   },
   {
     "group_id": "group_a4175b410f",
@@ -1882,57 +2378,6 @@
     "content_hu": "Az Orbán- és Vučić-kormányokkal is igen közeli viszonyt ápoló vajdasági szervezetnek hosszú ideje először lesz erős ellenzéke."
   },
   {
-    "group_id": "group_058a8d2e92",
-    "fingerprint": "90386d32e4513fb1093c1471dde2212a",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2251447523-brsg-br-tlet-brsgi-tlet-igazsgszolgltats-igazs-865362.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Visszadobott egy törvényt Baka András, az Alkotmánybírósághoz fordul",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/visszadobott-egy-torvenyt-baka-andras-az-alkotmanybirosaghoz-fordul-875228"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Rendkívüli: Baka András nem írta alá a Tisza-kormány egyik legfontosabb törvényét, erre nem számított Ruff Bálint – a köztársasági elnök az Alkotmánybírósághoz fordult",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/alkotmanybirosag-baka-andras-alairas-torveny-aggaly?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Nem írta alá Baka András az állami vagyon védelméről szóló törvényt, az Alkotmánybírósághoz fordult",
-        "link": "https://index.hu/belfold/2026/11/09/baka-andras-koztarsasagi-elnok-torveny-alkotmanybirosag-alairas-megtagadas/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Baka András nem írta alá a NER-cégek miatt született állami vagyonról szóló törvényt",
-        "link": "https://444.hu/2026/11/09/baka-andras-nem-irta-ala-a-ner-cegek-miatt-szuletett-allami-vagyonrol-szolo-torvenyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Baka András nem írta alá az állami vagyon védelméről szóló törvényt",
-        "link": "https://hvg.hu/gazdasag/20261109_baka-andras-alair-allami-vagyon-vedelme-torveny"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Baka András nem írta alá az állami vagyon védelméről szóló törvényt, az Alkotmánybírósághoz fordult",
-        "link": "https://telex.hu/belfold/2026/11/09/baka-andras-nem-irta-allami-vagyon-vedelmerol-szolo-torveny-alkotmanybirosag"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Nem írta alá Baka András az állami vagyon védelméről szóló törvényt, az Alkotmánybírósághoz fordult",
-        "link": "https://www.vadhajtasok.hu/2026/11/09/nem-irta-ala-baka-andras-az-allami-vagyon-vedelmerol-szolo-torvenyt-az-alkotmanybirosaghoz-fordult"
-      }
-    ],
-    "published_at": 1794240865,
-    "title_hu": "Baka András az Alkotmánybírósághoz küldte az állami vagyonról szóló törvényt",
-    "lead_hu": "Baka András köztársasági elnök nem írta alá az Országgyűlés november 3-án elfogadott törvényét, hanem előzetes normakontrollt kért az Alkotmánybíróságtól. A kifogásolt rendelkezések a befektetési alapok alapkezelőváltását és a kisebbségi részvényesek védelmét érintik; ezek a testület döntéséig nem léphetnek hatályba.",
-    "content_hu": "• **Két rendelkezést kifogásol az államfő:** a törvény alapján a befektetési jegyek tulajdonosainak 60 százaléka kikényszeríthetné egy zártkörű befektetési alap alapkezelőjének leváltását. A szabály már működő, akár állami vagyont nem kezelő alapokra is kiterjedhet.\n\n• **Az állami befektető is kezdeményezhetné az alapkezelő cseréjét:** ha az átadásról 20 napon belül nem születik megállapodás, a felügyelet is közbeléphetne.\n\n• **Sérülhet a kisebbségi részvényesek védelme:** a jogszabály bizonyos esetekben mentesítené a jelentős befolyást szerző tulajdonosokat a kisebb részvényeseknek szóló vételi ajánlat megtétele alól. Az államfő szerint a kivétel a törvényben meghatározott helyzeteken túl is kiterjedhet.\n\n• **A jogbiztonság és a tulajdonhoz való jog is érintett lehet:** az indítvány szerint a már fennálló szerződéses viszonyok utólagos megváltoztatása, valamint a szabályok hiányos vagy nem egyértelmű megfogalmazása alkotmányossági aggályokat vet fel, és a hatékony jogorvoslatot is veszélyeztetheti.\n\n• **A kisbefektetői érdekvédelmi szervezet is tiltakozott:** a TEBÉSZ azt kérte az államfőtől, hogy ne írja alá a törvényt. A szervezet szerint a módosítás egyes esetekben a korábbi 15 nap helyett akár hat hónappal is elhalaszthatná a vételi ajánlatot, illetve mentességet adhatna alóla.\n\n• **A törvény elfogadásának gyorsaságát is bírálta az államfő:** a javaslat benyújtása és elfogadása között mindössze körülbelül 26 óra telt el, társadalmi és szakmai egyeztetés nélkül. Baka András szerint a sürgősség indoka nem derül ki sem az előkészítésből, sem a törvény szövegéből.\n\n• **Az államfő figyelmeztetett a pénzügyi bizalom kockázatára:** szerinte a pénzpiaci szabályok állami érdekből történő befolyásolása megingathatja a magyar pénzügyi rendszerbe vetett bizalmat, és elbizonytalaníthatja a nemzetközi befektetőket.\n\n• **A takarékszövetkezeti integrációs szervezet megszüntetése miatt nem kezdeményezett normakontrollt:** a tervezett átalakítással megszűnne a tagbankok egymásért viselt felelőssége, a szervezet vagyona pedig az államra szállna. A vagyon jelentős részét ma a Magyar Bankholding kötvényei adják.\n\n• **Az Eximbank szabályainak módosítása sem került az indítványba:** a törvény egyes, állami kezességgel fedezett ügyleteknél megszüntetné annak lehetőségét, hogy mellőzzék a további biztosíték szükségességének vizsgálatát.\n\n• **Az Alkotmánybíróság dönt a kifogásolt rendelkezésekről:** az előzetes normakontroll ideje alatt ezek nem léphetnek hatályba.",
-    "importance_score": 90.0
-  },
-  {
     "group_id": "group_64cee0ae49",
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261109/1794239819-temp-tm4fvoufnod72acnfjm_cimlap-normal.jpg",
@@ -2171,7 +2616,8 @@
     "published_at": 1794239940,
     "title_hu": "Bizonytalanná válhat a Győri Audi ETO női csapatának támogatása",
     "lead_hu": "A Győri Audi ETO KC női csapatának jelenlegi szponzori szerződése a 2026–2027-es idény után lejár, és egyelőre nem tudni, hogy az Audi folytatja-e a névadó főszponzori támogatást. A vállalat közölte, hogy a hatályos megállapodásban vállalt kötelezettségeit teljesíti; közben pénzügyi nehézségekről és lehetséges bércsökkentésről is megjelentek sajtóértesülések.",
-    "content_hu": "• **Lejáró szerződés** Az Audi Hungaria és a Győri Audi ETO KC női csapata közötti szponzori megállapodás a 2026–2027-es szezon után ér véget. A vállalat egyelőre csak azt erősítette meg, hogy a jelenlegi szerződésben vállalt kötelezettségeit teljesíti.\n\n• **Kérdéses folytatás** Nem biztos, hogy az Audi a 2027–2028-as idénytől is névadó főszponzorként támogatja a csapatot. Az esetleges változás a férfi szakosztályt és a győri utánpótlást nem érintené.\n\n• **Pénzügyi sajtóértesülés** A dán TV 2 Sport beszámolója szerint a klub pénzügyi gondokkal küzdhet, és akár megfelezheti játékosai fizetését, illetve megválhat néhány sztárjától. Ezek sajtóértesülések, amelyeket a források nem támasztanak alá a klub hivatalos közlésével.\n\n• **Sikeres húsz év** Az Audi 2006-ban lett a csapat főszponzora. Az együttműködés idején a győriek 16 magyar bajnoki címet, 15 Magyar Kupa-győzelmet, három Szuperkupa-elsőséget és hét Bajnokok Ligája-trófeát szereztek."
+    "content_hu": "• **Lejáró szerződés** Az Audi Hungaria és a Győri Audi ETO KC női csapata közötti szponzori megállapodás a 2026–2027-es szezon után ér véget. A vállalat egyelőre csak azt erősítette meg, hogy a jelenlegi szerződésben vállalt kötelezettségeit teljesíti.\n\n• **Kérdéses folytatás** Nem biztos, hogy az Audi a 2027–2028-as idénytől is névadó főszponzorként támogatja a csapatot. Az esetleges változás a férfi szakosztályt és a győri utánpótlást nem érintené.\n\n• **Pénzügyi sajtóértesülés** A dán TV 2 Sport beszámolója szerint a klub pénzügyi gondokkal küzdhet, és akár megfelezheti játékosai fizetését, illetve megválhat néhány sztárjától. Ezek sajtóértesülések, amelyeket a források nem támasztanak alá a klub hivatalos közlésével.\n\n• **Sikeres húsz év** Az Audi 2006-ban lett a csapat főszponzora. Az együttműködés idején a győriek 16 magyar bajnoki címet, 15 Magyar Kupa-győzelmet, három Szuperkupa-elsőséget és hét Bajnokok Ligája-trófeát szereztek.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_c9dd4725c7",
@@ -2797,90 +3243,6 @@
     "content_hu": "Jövő októberben a Barba Negrában ad koncertet a Meshuggah."
   },
   {
-    "group_id": "group_44cc62e467",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/k/a/r/karman-andras-kovesdy-attila-860756.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Lengyel kollégájával tárgyalt Kármán András, az euróbevezetés is szóba került",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/lengyel-kollegajaval-targyalt-karman-andras-az-eurobevezetes-is-szoba-kerult-875210"
-      }
-    ],
-    "published_at": 1794236520,
-    "title_hu": "Lengyel kollégájával tárgyalt Kármán András, az euróbevezetés is szóba került",
-    "lead_hu": "A visegrádi együttműködés újraindításáról, a következő uniós költségvetésről, valamint az euró bevezetésének kilátásairól és a bankszektor stabilitásáról folytatott kétoldalú megbeszélést lengyel hiva…",
-    "content_hu": "A visegrádi együttműködés újraindításáról, a következő uniós költségvetésről, valamint az euró bevezetésének kilátásairól és a bankszektor stabilitásáról folytatott kétoldalú megbeszélést lengyel hivatali partnerével Kármán András pénzügyminiszter, amiről Facebook-bejegyzésében számolt be."
-  },
-  {
-    "group_id": "group_3d8610d2c7",
-    "fingerprint": "f957ca1ac8ecf40b9270799da85cd7d3",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 10,
-    "sources": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Viszonya volt az Nvidia vezérének, szeretőjéről azt gyanítják, hogy kínai kém",
-        "link": "https://hvg.hu/tudomany/20261109_nvidia-vezer-jensen-huang-kinai-kemno-vizsgalat"
-      },
-      {
-        "source": "444.hu",
-        "title": "Vizsgálatot indít a Trump-tanácsadó vezérigazgatója ellen az Nvidia, miután kiderült, hogy kínai kémnővel volt viszonya",
-        "link": "https://444.hu/2026/11/09/vizsgalatot-indit-a-trump-tanacsado-vezerigazgatoja-ellen-az-nvidia-miutan-kiderult-hogy-kinai-kemnovel-volt-viszonya?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Kínai hírszerzésnek dolgozhatott a nő, akivel viszonyba keveredett az Nvidia vezére",
-        "link": "https://index.hu/kulfold/2026/11/09/nvidia-jensen-huang-vezerigazgato-alice-huang-kina-kemkedes/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kínai kémnő csábította el az Nvidia vezetőjét, a cég vizsgálatot indított",
-        "link": "https://24.hu/tech/2026/11/09/nvidia-vizsgalat-jensen-huang-kinai-kembotrany/"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Belső vizsgálat indult az Nvidia vezére ellen, már a menesztéséről beszélnek",
-        "link": "https://www.portfolio.hu/befektetes/20261109/belso-vizsgalat-indult-az-nvidia-vezere-ellen-mar-a-meneszteserol-beszelnek-875022"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Kémbotrány az Nvidiánál: elismerte hibáját Jensen Huang",
-        "link": "https://www.portfolio.hu/befektetes/20261109/kembotrany-az-nvidianal-elismerte-hibajat-jensen-huang-875026"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Estek az Nvidia részvényei, miután belső vizsgálat indult a vezérigazgató kínai kémnővel folytatott viszonya miatt",
-        "link": "https://telex.hu/gazdasag/2026/11/09/nvidia-eses-jensen-huang-vizsgalat-kinai-kemno-botrany"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Zuhanórepülésbe kezdett az Nvidia részvénye, miután híre ment, hogy kémnő hálózhatta be a vezérigazgatót",
-        "link": "https://index.hu/gazdasag/2026/11/09/nvidia-reszvenyek-jensen-huang-alice-huang-kina-kemkedes/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Kínai kémnő csábíthatta el az Nvidia vezérigazgatóját",
-        "link": "https://telex.hu/kulfold/2026/11/08/nvidia-vezerigazgato-kinai-kem-szereto-vizsgalat"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Kínai kémnőt kajtat Amerika — a techóriás lépre csalt vezére már kicsi ponttá szégyellte magát",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/kinai-kemugy-amerika-techceg-nvidia-huang?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794236504,
-    "title_hu": "Független vizsgálat indult az Nvidia vezérigazgatójának ügyében",
-    "lead_hu": "Az Nvidia igazgatótanácsa független vizsgálatot rendelt el, miután felmerült, hogy Jensen Huang egy kínai hírszerzési művelet célpontja lehetett. Huang elismerte házasságon kívüli viszonyát, bocsánatot kért családjától, és vállalta az együttműködést; a testület egyelőre nem lát bizonyítékot arra, hogy üzleti titkok vagy nemzetbiztonsági érdekek sérültek volna.",
-    "content_hu": "• **Független vizsgálat indult** Az Nvidia igazgatótanácsa külső jogi szakértők bevonásával, független igazgatók felügyelete mellett vizsgálja, hogy Jensen Huang egy külföldi hírszerzési művelet célpontja volt-e. A testület közölte: jelenleg nincs oka azt feltételezni, hogy a cég üzleti titkai vagy az amerikai nemzetbiztonság veszélybe kerültek.\n\n• **Huang elismerte a viszonyt és bocsánatot kért** A vezérigazgató közölte, hogy hűtlen volt feleségéhez, és fájdalmat okozott családjának. Teljes felelősséget vállalt, bocsánatot kért, és jelezte, hogy együttműködik a vizsgálattal.\n\n• **A gyanú Alice Huangra irányul** A sajtóértesülések szerint a szingapúri Megaspeed korábbi vezetője, Alice Huang – akit Huang Liként is emlegetnek, és nem rokona Jensen Huangnak – kínai hírszerzési kapcsolatokkal rendelkezhetett. Az amerikai hatóságok azt gyanítják, hogy információkat gyűjthetett Pekingnek, illetve szerepe lehetett fejlett Nvidia-chipek Kínába juttatásában, az exportkorlátozások megkerülésével.\n\n• **A cég folytatja a működését** Az Nvidia közölte, hogy továbbra is bízik Huangban, aki megszakítás nélkül vezeti a vállalatot. Az igazgatótanács egyelőre nem lát okot vezetőváltásra; elemzők ugyanakkor megosztottak arról, hogy a botrány veszélyeztetheti-e Huang pozícióját. Gary Black szerint a leváltása is elképzelhető, más szakértők viszont úgy vélik, ez nem valószínű.\n\n• **Kongresszusi meghallgatást is kértek** Három republikánus képviselőházi bizottsági vezető zárt ajtók mögötti tájékoztatásra kérte Huangot, többek között arról, hogyan védi a vállalatot a külföldi hírszerzési tevékenységtől. Sajtóbeszámolók szerint Donald Trumpot már körülbelül egy évvel korábban tájékoztatták az értesülésekről, de akkor nem intézkedett; az elnök most tisztességes embernek nevezte Huangot.\n\n• **A részvények esése mellett a cég kilátásai is kérdésesek** Az Nvidia részvényei hétfőn Frankfurtban több mint 6 százalékot veszítettek értékükből, a vállalat piaci értéke pedig a pénteki záráshoz képest mintegy 270 milliárd dollárral csökkenhetett. Elemzők szerint az elhúzódó vizsgálat késleltetheti a beruházásokat és a termékbevezetéseket, valamint a szállításokat is; a befektetők figyelme a november 17-re várt gyorsjelentésre is irányul.\n\n• **Az ázsiai üzleti kapcsolatokra is figyelnek** A dél-koreai kormány egyik tisztviselője nem számít fennakadásra a már leszerződött GPU-szállításokban, az Nvidia fontos ázsiai beszállítóinak részvényei pedig emelkedtek. Jensen Huang lánya, Madison Huang lemondta tervezett szöuli programjait, de az Nvidia AI Day Seoul rendezvényt a tervek szerint megtartják.\n\n• **Peking visszautasította a vádakat** A kínai külügyminisztérium alaptalan vádaskodásnak, rágalmazásnak és lejárató kampánynak nevezte a kínai kémtevékenységről szóló állításokat. Bill Ackman abban reménykedett, hogy az ügy magánéleti viszonyra korlátozódik, Elon Musk pedig egy Huangot bíráló bejegyzéssel értett egyet.",
-    "importance_score": 108.0
-  },
-  {
     "group_id": "group_4863b052cd",
     "fingerprint": "f9ee3e008f469b6c6f6df5aabfb678cb",
     "category": "Politika",
@@ -3143,7 +3505,7 @@
     "image": "https://kep.index.hu/1/0/7248/72480/724800/72480083_5341045_5c2f084fff6ef83ca3a6a3ec3faa6e33_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 6,
+    "sources_count": 8,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -3174,13 +3536,23 @@
         "source": "Vadhajtások",
         "title": "Tragédia történt egy gázüzemben: meghalt egy dolgozó Kazincbarcikán",
         "link": "https://www.vadhajtasok.hu/2026/11/09/tragedia-tortent-egy-gazuzemben-meghalt-egy-dolgozo-kazincbarcikan"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Meghalt egy 20 éves fiatal, miután egy autó a parkoló kocsijukba csapódott Nyíregyházán",
+        "link": "https://telex.hu/belfold/2026/11/09/meghalt-egy-20-eves-fiatal-parkolo-auto-nyiragyhaza-benzinkut"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Részeg lehetett a sofőr, aki autójával egy parkoló kocsiba csapódott, egy fiatal a helyszínen életét veszítette",
+        "link": "https://hvg.hu/itthon/20261109_halalos-baleset-reszeg-sofor-parkolo-auto-nyiregyhaza-benzinkut"
       }
     ],
     "published_at": 1794235260,
     "title_hu": "Halálos baleset történt a kazincbarcikai gázüzemben",
     "lead_hu": "Hétfő reggel egy dolgozó életét vesztette a Linde Gáz Magyarország kazincbarcikai telephelyén történt balesetben. A vállalat leállította az üzem működését, a rendőrség vizsgálja az eset körülményeit. A cég 2021-ben jelentette be, hogy Magyarország egyik legnagyobb levegőbontó üzemét építi meg a városban.",
     "content_hu": "• **Egy dolgozó meghalt** a Linde Gáz Magyarország kazincbarcikai telephelyén hétfő reggel történt balesetben.\n\n• **Leállították az üzem működését:** a vállalat biztosította a területet, és közlése szerint nincs további veszély a dolgozókra, a környéken élőkre vagy a környezetre.\n\n• **Vizsgálják a baleset körülményeit:** a cég együttműködik a hatóságokkal, a rendőrség pedig egyelőre nem közölt további részleteket. A vállalat részvétét fejezte ki az elhunyt munkatárs családjának és kollégáinak.\n\n• **A cég 2021-ben jelentett be kazincbarcikai beruházást:** közlése szerint Magyarország egyik legnagyobb levegőbontó üzemét tervezi megépíteni a városban.",
-    "importance_score": 73.0
+    "importance_score": 93.0
   },
   {
     "group_id": "group_aa002296c9",
@@ -3806,7 +4178,7 @@
     "title_hu": "Három napig tartott fogva egy osztrák nyugdíjast egy magyar férfi",
     "lead_hu": "Egy 62 éves osztrák nőt állítása szerint magyar ismerőse három napon át megkötözve tartott egy átalakított kisbuszban Magyarországon. A 41 éves férfit elfogták, a nő sérülései miatt kórházi ellátásra szorult.",
     "content_hu": "• **A fogva tartás** A nő feljelentése szerint magyar ismerőse egy győrújbaráti látogatásra hívta, majd megkötözte, és három napon át egy kisbusz rakterében tartotta fogva.\n\n• **A feltételezett indíték** Az osztrák hatóságok szerint a férfi tudomást szerzett arról, hogy a nő egy ingatlaneladásból jelentősebb készpénzhez jutott, és pénzt követelt tőle.\n\n• **Az elfogás és az eljárás** A férfit Ausztriában elfogták, előzetes letartóztatásban van; személyi szabadság korlátozása és súlyos testi sértés miatt folyik ellene eljárás. A nőt sérülései miatt kórházban kezelték.",
-    "importance_score": 28.0
+    "importance_score": 23.0
   },
   {
     "group_id": "group_67748f978e",
@@ -4030,7 +4402,7 @@
     "title_hu": "Tóth Vera szerint a Megasztár készítői Oláh Ibolyát szerették volna győztesnek",
     "lead_hu": "Több mint húsz évvel a Megasztár első évada után Tóth Vera a Civilút podcastban idézte fel a verseny kulisszái mögött tapasztaltakat. Azt mondta, úgy érezte, a műsor készítői Oláh Ibolya győzelmét támogatták, de nem maradt benne sértettség.",
     "content_hu": "• **Tóth Vera visszaemlékezése** Az énekesnő szerint már a verseny idején úgy érezte, hogy a készítők Oláh Ibolyát szerették volna győztesnek látni, és ő kevésbé fontos a műsor számára.\n\n• **Nincs benne neheztelés** Tóth Vera hangsúlyozta, hogy nem érezte úgy, hogy bántották vagy megfosztották volna bármitől, és a televízió műsoraiba is hívták.\n\n• **A verseny utáni pályaépítés** Az énekesnő szerint a Megasztár után kezdődött az igazi kihívás: tudatosan kellett építenie a karrierjét és kiválasztania a megfelelő lehetőségeket.\n\n• **Fontos szakmai kapcsolatok** Rózsa István producer segítségével olyan előadókkal dolgozhatott együtt, mint Charlie, Demjén Ferenc és Révész Sándor, akik később családtagként tekintettek rá.",
-    "importance_score": 28.0
+    "importance_score": 23.0
   },
   {
     "group_id": "group_63622c7e94",
@@ -4094,7 +4466,7 @@
     "title_hu": "Hajkefébe rejtett, kábítószergyanús port találtak egy váci börtönbe küldött csomagban",
     "lead_hu": "A Váci Fegyház és Börtön munkatársai csaknem három gramm fehér, kábítószergyanús anyagot találtak egy fogvatartottnak postázott hajkefe nyelében. A rendőrök lefoglalták és elszállították a port, így az nem jutott el a címzetthez.",
     "content_hu": "• **A hajkefe nyelében rejtették el** a csaknem három gramm fehér, kábítószergyanús anyagot, amelyet a börtön munkatársai a postai küldemény ellenőrzésekor találtak meg.\n\n• **A címzett szinte kopasz volt**, néhány milliméteresre nyírt hajjal, a láthatóan használt kefében pedig hosszú hajszálak maradtak.\n\n• **A rendőrség lefoglalta és elszállította az anyagot** az intézetből, így az nem jutott el a fogvatartotthoz. A büntetés-végrehajtás arra figyelmeztetett, hogy hétköznapi tárgyakban is megpróbálhatnak tiltott szereket becsempészni.",
-    "importance_score": 68.0
+    "importance_score": 63.0
   },
   {
     "group_id": "group_5fe66698c4",
@@ -4184,7 +4556,7 @@
     "title_hu": "Új űrhajósokat toboroz a NASA a Holdra és a Marsra készülő küldetésekhez",
     "lead_hu": "A NASA december 3-ig várja a jelentkezéseket a következő űrhajósjelölt-évfolyamba, amelynek tagjai a holdfelszíni munkára és a későbbi emberes Mars-küldetések előkészítésére is felkészülhetnek. Az Artemis–2 legénysége április 11-én sikeresen visszatért a Hold megkerülése után, a következő lépések között pedig a holdra szállás és a bázis kiépítése szerepel.",
     "content_hu": "• **December 3-ig lehet jelentkezni** a NASA űrhajósképzésének következő évfolyamába; a kiválasztási folyamat 2027 végére zárulhat le, ezt követően kezdődhet meg az új jelöltek képzése.\n\n• **A jelöltek a Holdon végzett munkára is felkészülhetnek**, és részt vehetnek a tartós emberi jelenlét kialakításában, valamint a Marsra induló emberes expedíciók előkészítésében. A NASA vezetője szerint közülük kerülhetnek ki a leendő holdbázis első lakói.\n\n• **A pályázóknak amerikai állampolgároknak kell lenniük**, és általában természettudományos vagy műszaki mesterdiplomát, valamint legalább hároméves szakmai tapasztalatot kell felmutatniuk. A mesterdiplomát bizonyos doktori vagy egészségügyi végzettség, illetve tesztpilóta-képzés válthatja ki; az orvosi rezidensképzés is beszámíthat, ha 2027 júliusáig befejezik.\n\n• **A pilóták repült órákkal is teljesíthetik a szakmai tapasztalatra vonatkozó feltételt:** sugárhajtású gépeknél legalább 750 óra parancsnokként, más merevszárnyú gépeknél 1500 óra – ebből 750 parancsnokként –, helikoptereknél pedig 1000 óra szükséges, legalább 300 órával parancsnoki beosztásban. A kiválasztás része a hosszú űrrepülésekre vonatkozó orvosi alkalmassági vizsgálat, valamint a vezetői, csapatmunkára és kommunikációra való készségek értékelése.\n\n• **Nyolc vállalat tervezhet és üzemeltethet holdi leszállóegységeket** a NASA számára; köztük van a SpaceX, a Blue Origin, az Intuitive Machines és a Lockheed Martin Space. A tízéves keretszerződés összértéke elérheti a 10 milliárd dollárt, a leszállóegységek tudományos eszközöket és a holdbázishoz szükséges rakományt juttathatnak a Holdra.\n\n• **A NASA PROMISE néven atommeghajtású holdjárót tervez**, amely a hosszú holdi éjszakákban és a tartósan árnyékos kráterekben is működhet. A hatkerekű rover fúróval és más tudományos műszerekkel vizsgálhatja a talajt; felbocsátását 2028-ra tervezik, küldetése legalább 18 hónapig tarthat.\n\n• **MiniCAST-rendszert is terveznek a Holdra:** a torony kommunikációs képességeket és napelemes energiaellátást biztosítana.\n\n• **A holdbázis építését három szakaszban tervezik:** az első már elkezdődött, és az azt megalapozó küldetések közül az elsőket még az idei év végén indíthatják útnak. A következő fázis 2029-ben, a harmadik 2032-ben kezdődhet.\n\n• **Az Artemis–2 legénysége 2026. április 11-én sikeresen visszatért a Földre** a Hold megkerülése után. A NASA tervei szerint az Artemis–3-at 2027-ben, az első emberes holdra szállást végrehajtó Artemis–4-et 2028-ban indíthatják; az utóbbi időpontot bizonytalanná teheti, hogy elkészülnek-e időben a szükséges űrruhák. Az Artemis–5-től kezdve legalább félévente küldenének űrhajósokat a Holdra.\n\n• **A legutóbbi, 2024-es pályázatra több mint nyolcezren jelentkeztek**, közülük tíz jelöltet választottak ki; a NASA aktív űrhajóshadteste jelenleg 32 tagú. Az ügynökség az 1960-as évek óta összesen 370 űrhajósjelöltet választott ki.",
-    "importance_score": 48.0
+    "importance_score": 43.0
   },
   {
     "group_id": "group_b9dc1b2fff",
@@ -4256,7 +4628,7 @@
     "title_hu": "Késelés történt Jamie Foxx halloweeni rendezvényén",
     "lead_hu": "Egy vendéget nyakon szúrtak Jamie Foxx Thousand Oaks-i birtokán tartott halloweeni rendezvényén. A sérültet a helyszínen ellátták, a rendőrök pedig egy férfit őrizetbe vettek.",
     "content_hu": "• **Sérülés a rendezvényen** A Skvlk Fest nevű halloweeni eseményen egy férfit nyakon szúrtak; sérülése felületi volt, a mentők a helyszínen ellátták.\n\n• **Rendőri intézkedés** A hatóságok egy férfit fegyverrel elkövetett támadás gyanújával őrizetbe vettek, a vendégeket pedig kiküldték a birtokról.\n\n• **A rendezvény háttere** A Jamie Foxx és 18 éves lánya, Anelise nevéhez kötődő eseményt eredetileg október 31-re tervezték, de az esős időjárás miatt november 7-re halasztották.\n\n• **Biztonsági szabályok** A szervezők táblákon jelezték, hogy valódi és játékfegyvert, jelmezkellékként sem, nem lehet bevinni. Egyelőre nem tudni, mi vezetett az incidenshez, és az sem, hogy Jamie Foxx jelen volt-e.",
-    "importance_score": 48.0
+    "importance_score": 43.0
   },
   {
     "group_id": "group_19408fa703",
@@ -4444,7 +4816,7 @@
     "title_hu": "Lejár a régi személyi igazolványokra adott haladék",
     "lead_hu": "December 31-ig le kell cserélni a régi, könyv formátumú személyi igazolványokat; a beszámolók szerint még közel 30 ezren nem intézkedtek. Januártól az érvénytelen okmánnyal nem lehet átvenni a postán érkező nyugdíjat, de a nyugdíjjogosultság nem szűnik meg.",
     "content_hu": "• **December 31. a határidő** – A régi, könyv formátumú személyi igazolványokra adott haladék ekkor lejár, és január 1-jétől ezek az okmányok nem alkalmasak személyazonosításra.\n\n• **Közel 30 ezren érintettek** – A beszámolók szerint november elején mintegy 29 500 embernek még nem volt új igazolványa. Az érvénytelen okmánnyal a postán kézbesített nyugdíj nem vehető át; a bankszámlára érkező ellátást ez nem érinti, és a nyugdíjjogosultság sem vész el.",
-    "importance_score": 28.0
+    "importance_score": 23.0
   },
   {
     "group_id": "group_09cc872e4d",
@@ -4721,7 +5093,8 @@
     "published_at": 1794228949,
     "title_hu": "Lemondásra szólítják fel a debreceni színház igazgatóját, bizalmi szavazást tartanak",
     "lead_hu": "Vadász Dániel, a debreceni Csokonai Nemzeti Színház igazgatója november 10-re rendkívüli társulati ülést hívott össze, ahol titkos szavazáson döntenek a vezetéséről. Tompa Enikő országgyűlési képviselő a szavazástól függetlenül is a lemondását kérte, miközben a Szikra aktivistái a túlórák elszámolását és egy 200 millió forintos támogatást kifogásoltak. Az újabb beszámolók szerint az igazgató csak a társulat többségének támogatásával vállalná a vezetést.",
-    "content_hu": "• **November 10-én döntenek** A rendkívüli társulati ülésen a színház dolgozói titkos szavazáson mondhatnak véleményt Vadász Dániel vezetéséről. Az igazgató a szavazás előtt szektoronkénti egyeztetéseket is tartana.\n\n• **Dolgozói jelzések vezettek a szavazáshoz** Vadász szerint színészek, magánénekesek és műszaki dolgozók is problémákról, illetve túlterheltségről számoltak be. Az igazgató úgy fogalmazott, a megfeszített munka miatti feszültségek és hibák bizalmi kérdéseket vetettek fel.\n\n• **Tompa Enikő lemondásra szólította fel az igazgatót** A térség országgyűlési képviselője szerint dolgozók már hetekkel korábban beszámoltak neki a vezetés alatt szerzett tapasztalataikról. Azt írta, közérdekű adatigényléseire még nem kapott választ, és a bizalmi szavazástól függetlenül is indokoltnak tartaná Vadász távozásának mérlegelését; nyílt pályázattal választana új igazgatót. Tompa a színházak működéséért és finanszírozásáért felelős államtitkár is.\n\n• **A túlórák elszámolását is kifogásolták** A Szikra egyik aktivistája szerint a színház az évadban 14 premiert és további rendezvényeket tervez, miközben a költségvetés nem számol túlóraköltséggel. Az aktivista késedelmes túlórakifizetésekről is beszélt.\n\n• **Egy 200 millió forintos NKA-támogatás miatt is kérdéseket vetettek fel** A Szikra aktivistái szerint a támogatást Molnár Levente operaénekes cégének ítélték oda, és az egyik tervezett program egy nemzetközi énekverseny lenne a debreceni színházban. Kifogásolták, hogy a pályázat nulla forint saját forrással és bevétellel számol, miközben a résztvevőktől 30–380 eurós regisztrációs díjat kérhetnek; a támogatás visszafizetését követelték. Ezek az aktivisták által megfogalmazott kifogások, illetve gyanúk.\n\n• **Vadász a társulat többségének támogatásához köti a vezetést** Az igazgató azt mondta, csak olyan színházban tud és akar gondolkodni, ahol a mindenkori vezető bírja a társulat többségének támogatását. A beszámoló szerint a vezetőség igyekezett orvosolni a dolgozói panaszokat, de ez nem mindenkit győzött meg.\n\n• **Tompa abúzív légkörről és közpénzügyi aggályokról írt** A képviselő a lemondásra felszólító bejegyzésében az „abúzív színházi légkört” és a közpénzek felhasználásával kapcsolatos aggályokat említette; ezek az ő állításai, nem igazolt tények."
+    "content_hu": "• **November 10-én döntenek** A rendkívüli társulati ülésen a színház dolgozói titkos szavazáson mondhatnak véleményt Vadász Dániel vezetéséről. Az igazgató a szavazás előtt szektoronkénti egyeztetéseket is tartana.\n\n• **Dolgozói jelzések vezettek a szavazáshoz** Vadász szerint színészek, magánénekesek és műszaki dolgozók is problémákról, illetve túlterheltségről számoltak be. Az igazgató úgy fogalmazott, a megfeszített munka miatti feszültségek és hibák bizalmi kérdéseket vetettek fel.\n\n• **Tompa Enikő lemondásra szólította fel az igazgatót** A térség országgyűlési képviselője szerint dolgozók már hetekkel korábban beszámoltak neki a vezetés alatt szerzett tapasztalataikról. Azt írta, közérdekű adatigényléseire még nem kapott választ, és a bizalmi szavazástól függetlenül is indokoltnak tartaná Vadász távozásának mérlegelését; nyílt pályázattal választana új igazgatót. Tompa a színházak működéséért és finanszírozásáért felelős államtitkár is.\n\n• **A túlórák elszámolását is kifogásolták** A Szikra egyik aktivistája szerint a színház az évadban 14 premiert és további rendezvényeket tervez, miközben a költségvetés nem számol túlóraköltséggel. Az aktivista késedelmes túlórakifizetésekről is beszélt.\n\n• **Egy 200 millió forintos NKA-támogatás miatt is kérdéseket vetettek fel** A Szikra aktivistái szerint a támogatást Molnár Levente operaénekes cégének ítélték oda, és az egyik tervezett program egy nemzetközi énekverseny lenne a debreceni színházban. Kifogásolták, hogy a pályázat nulla forint saját forrással és bevétellel számol, miközben a résztvevőktől 30–380 eurós regisztrációs díjat kérhetnek; a támogatás visszafizetését követelték. Ezek az aktivisták által megfogalmazott kifogások, illetve gyanúk.\n\n• **Vadász a társulat többségének támogatásához köti a vezetést** Az igazgató azt mondta, csak olyan színházban tud és akar gondolkodni, ahol a mindenkori vezető bírja a társulat többségének támogatását. A beszámoló szerint a vezetőség igyekezett orvosolni a dolgozói panaszokat, de ez nem mindenkit győzött meg.\n\n• **Tompa abúzív légkörről és közpénzügyi aggályokról írt** A képviselő a lemondásra felszólító bejegyzésében az „abúzív színházi légkört” és a közpénzek felhasználásával kapcsolatos aggályokat említette; ezek az ő állításai, nem igazolt tények.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_116737bfe0",
@@ -5495,18 +5868,11 @@
   },
   {
     "group_id": "group_00ef9c3f1e",
-    "fingerprint": "e45d2f12489e6ce4fec5a6980ee01b5e",
     "category": "Politika",
-    "image": "https://www.youtube.com/embed/gElERmSRyAI",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "ATV",
-        "title": "Magyar Péter olyat ígért, ami minden magyar települést érinthet",
-        "link": "https://www.atv.hu/belfold/20261108/magyar-peter-zold-fa-erdo/"
-      },
       {
         "source": "Index - Címlap",
         "title": "Magyar Péter elárulta, hogy mire gondolt az eskütétel közben",
@@ -5514,10 +5880,9 @@
       }
     ],
     "published_at": 1794226713,
-    "title_hu": "57 milliárd forintos országfásítási és települészöldítési programot jelentett be Magyar Péter",
-    "lead_hu": "Magyar Péter országfásítási és települészöldítési programot ismertetett, amely minden magyar települést érinthet. A tervek szerint 57 milliárd forintból facsemetéket ültetnek, parkokat létesítenek, és ahol lehet, feltörik a betont.",
-    "content_hu": "• **57 milliárd forint a zöldítésre** A program keretében facsemetéket ültetnének és új parkokat létesítenének országszerte.\n\n• **Minden települést érinthet** Magyar Péter szerint ahol erre lehetőség van, a betonburkolat egy részét is felszámolnák.\n\n• **Az Országgyűlésben ismertette a terveket** A miniszterelnök a parlamenti felszólalásában beszélt az országfásítási és települészöldítési programról.",
-    "importance_score": 23.0
+    "title_hu": "Magyar Péter elárulta, hogy mire gondolt az eskütétel közben",
+    "lead_hu": "",
+    "content_hu": ""
   },
   {
     "group_id": "group_4d53349812",
@@ -7132,7 +7497,8 @@
     "published_at": 1794219681,
     "title_hu": "Az amerikai választási vereség is ráirányította a figyelmet az üzemanyagárakra",
     "lead_hu": "A geopolitikai enyhülés reménye, az európai benzinkészletek növekedése és a forint erősödése egyaránt lefelé húzza a hazai üzemanyagárakat. Az amerikai félidős választások eredménye a háború és az üzemanyagárak politikai súlyára is rámutat, miközben az ellátás sérülékenysége és a dízelpiac feszessége miatt az áresés tartóssága bizonytalan.",
-    "content_hu": "• **Az üzemanyagárak politikai tényezővé váltak az Egyesült Államokban** A 24.hu beszámolója szerint a világsajtó elemzései az amerikai republikánusok és Donald Trump választási vereségének egyik tényezőjeként említették a drága üzemanyagot. Trump elismerte, hogy a háború rövid időre felhajtotta az árakat; J. D. Vance alelnök is a konfliktust nevezte meg a vereség okaként.\n\n• **Mérséklődő geopolitikai kockázati felár** A közel-keleti konfliktus diplomáciai rendezésének reménye csökkentheti az olajárakba épült kockázati felárat. Katar közvetítésével béketerv került Teherán elé, Vance kezdeményezésére pedig ismét kapcsolatfelvétel történt Iránnal; egy esetleges újabb eszkaláció azonban gyorsan megfordíthatja az ármozgást.\n\n• **Tárgyalási kezdeményezések az orosz–ukrán háború ügyében is** Volodimir Zelenszkij novemberre háromoldalú tárgyalásokat helyezett kilátásba Oroszország és az Egyesült Államok részvételével, ami szintén erősítheti a geopolitikai feszültségek enyhülésével kapcsolatos várakozásokat.\n\n• **Csökkenő olajárak és hazai nagykereskedelmi árak** A 24.hu beszámolója szerint az olaj ára október 30-tól 113 dollárról 94 dollárig esett, majd részben visszapattant. Grád Ottó szerint a piac már a november 2-i amerikai választások előtt elkezdte beárazni a republikánusok várható vereségét. A MOL november 2-től naponta mérsékelte a benzin nagykereskedelmi árát, november 6-tól pedig a gázolajét is.\n\n• **Az OPEC+ nem változtatott decemberi kitermelési céljain** A Világgazdaság szerint a tényleges termelés ugyanakkor elmarad a kvótáktól. Az IEA adatai alapján az öböl menti OPEC-tagországok szeptemberi termelése még mindig csak a háború előtti szint 75 százalékát érte el.\n\n• **Bővülő európai benzinkészletek** A gyengülő kereslet, a finomítók magas termelése és a nehezebbé váló export több benzint hagyhat az európai piacon. Az ARA-térség készletei az október 29-ével zárult héten közel 23 százalékkal, 868 ezer tonnára nőttek.\n\n• **A dízelpiac továbbra is feszes** Az ARA-térség dízel- és gázolajkészletei október végén 3 százalékkal, 1,72 millió tonnára csökkentek. A közel-keleti ellátási zavarok, az orosz finomítókat érő ukrán támadások, az orosz dízelexport korlátozásának tervezett meghosszabbítása és a téli fűtőolaj-kereslet is szűkítheti a kínálatot.\n\n• **Stratégiai készletek kerülnek piacra** Franciaország három hónap alatt 10 millió hordó gázolajat szabadít fel, Németország 19,5 millió hordónyi tartalék felszabadítását vállalta, Spanyolország pedig 4,4 millió hordónyi dízel- és repülőgép-üzemanyagot bocsát piacra. Hollandia október végéig 5,36 millió hordó olajat és olajterméket szabadított fel.\n\n• **A kínálati helyreállás elhúzódhat** Az IEA adatai szerint a globális készletek 509 millió hordóval maradtak el a korábbi szinttől. A Világgazdaság beszámolója szerint az energiapiac teljes helyreállása akár további két évet is igénybe vehet.\n\n• **A forint erősödése mérsékli a hazai beszerzési költséget** Mivel a kőolajat és az olajtermékeket jellemzően dollárban árazzák, az erősebb forint csökkentheti azok forintban számított árát.\n\n• **Októberben a szomszédos országok átlaga alatt voltak a magyar árak** A 95-ös benzin literenkénti átlagára Magyarországon 641 forint, a szomszédos országok átlaga pedig 660 forint volt. A gázolajnál a hazai 711 forintos átlagár 24 forinttal maradt el a 735 forintos regionális átlagtól.\n\n• **Az áresés tartóssága bizonytalan** A geopolitikai fejlemények, az ellátási zavarok és a dízelpiac szűkössége miatt a nemzetközi árak továbbra is jelentősen ingadozhatnak."
+    "content_hu": "• **Az üzemanyagárak politikai tényezővé váltak az Egyesült Államokban** A 24.hu beszámolója szerint a világsajtó elemzései az amerikai republikánusok és Donald Trump választási vereségének egyik tényezőjeként említették a drága üzemanyagot. Trump elismerte, hogy a háború rövid időre felhajtotta az árakat; J. D. Vance alelnök is a konfliktust nevezte meg a vereség okaként.\n\n• **Mérséklődő geopolitikai kockázati felár** A közel-keleti konfliktus diplomáciai rendezésének reménye csökkentheti az olajárakba épült kockázati felárat. Katar közvetítésével béketerv került Teherán elé, Vance kezdeményezésére pedig ismét kapcsolatfelvétel történt Iránnal; egy esetleges újabb eszkaláció azonban gyorsan megfordíthatja az ármozgást.\n\n• **Tárgyalási kezdeményezések az orosz–ukrán háború ügyében is** Volodimir Zelenszkij novemberre háromoldalú tárgyalásokat helyezett kilátásba Oroszország és az Egyesült Államok részvételével, ami szintén erősítheti a geopolitikai feszültségek enyhülésével kapcsolatos várakozásokat.\n\n• **Csökkenő olajárak és hazai nagykereskedelmi árak** A 24.hu beszámolója szerint az olaj ára október 30-tól 113 dollárról 94 dollárig esett, majd részben visszapattant. Grád Ottó szerint a piac már a november 2-i amerikai választások előtt elkezdte beárazni a republikánusok várható vereségét. A MOL november 2-től naponta mérsékelte a benzin nagykereskedelmi árát, november 6-tól pedig a gázolajét is.\n\n• **Az OPEC+ nem változtatott decemberi kitermelési céljain** A Világgazdaság szerint a tényleges termelés ugyanakkor elmarad a kvótáktól. Az IEA adatai alapján az öböl menti OPEC-tagországok szeptemberi termelése még mindig csak a háború előtti szint 75 százalékát érte el.\n\n• **Bővülő európai benzinkészletek** A gyengülő kereslet, a finomítók magas termelése és a nehezebbé váló export több benzint hagyhat az európai piacon. Az ARA-térség készletei az október 29-ével zárult héten közel 23 százalékkal, 868 ezer tonnára nőttek.\n\n• **A dízelpiac továbbra is feszes** Az ARA-térség dízel- és gázolajkészletei október végén 3 százalékkal, 1,72 millió tonnára csökkentek. A közel-keleti ellátási zavarok, az orosz finomítókat érő ukrán támadások, az orosz dízelexport korlátozásának tervezett meghosszabbítása és a téli fűtőolaj-kereslet is szűkítheti a kínálatot.\n\n• **Stratégiai készletek kerülnek piacra** Franciaország három hónap alatt 10 millió hordó gázolajat szabadít fel, Németország 19,5 millió hordónyi tartalék felszabadítását vállalta, Spanyolország pedig 4,4 millió hordónyi dízel- és repülőgép-üzemanyagot bocsát piacra. Hollandia október végéig 5,36 millió hordó olajat és olajterméket szabadított fel.\n\n• **A kínálati helyreállás elhúzódhat** Az IEA adatai szerint a globális készletek 509 millió hordóval maradtak el a korábbi szinttől. A Világgazdaság beszámolója szerint az energiapiac teljes helyreállása akár további két évet is igénybe vehet.\n\n• **A forint erősödése mérsékli a hazai beszerzési költséget** Mivel a kőolajat és az olajtermékeket jellemzően dollárban árazzák, az erősebb forint csökkentheti azok forintban számított árát.\n\n• **Októberben a szomszédos országok átlaga alatt voltak a magyar árak** A 95-ös benzin literenkénti átlagára Magyarországon 641 forint, a szomszédos országok átlaga pedig 660 forint volt. A gázolajnál a hazai 711 forintos átlagár 24 forinttal maradt el a 735 forintos regionális átlagtól.\n\n• **Az áresés tartóssága bizonytalan** A geopolitikai fejlemények, az ellátási zavarok és a dízelpiac szűkössége miatt a nemzetközi árak továbbra is jelentősen ingadozhatnak.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_4420592d52",
@@ -7301,18 +7667,11 @@
   },
   {
     "group_id": "group_8bba762bf9",
-    "fingerprint": "0d198f2ca4c1912cc497ec3ebe8da4b0",
     "category": "Politika",
     "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "444.hu",
-        "title": "Felébredt a kómából és állami kitüntetést kap a két rendőr, akik megállították a krakkói merénylőt",
-        "link": "https://444.hu/2026/11/08/felebredt-a-komabol-es-allami-kituntetest-kap-a-ket-rendor-akik-megallitottak-a-krakkoi-merenylot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
       {
         "source": "Vadhajtások",
         "title": "Állami kitüntetést kap az a két rendőr, akik megállították a krakkói lövöldözőt",
@@ -7320,10 +7679,9 @@
       }
     ],
     "published_at": 1794218460,
-    "title_hu": "Állami kitüntetést kaphat a krakkói lövöldözőt megállító két rendőr",
-    "lead_hu": "A szombati krakkói lövöldözésben megsérült két rendőr vasárnap felébredt a kómából; egyikük állapota továbbra is súlyos, de stabil. Karol Nawrocki lengyel elnök állami kitüntetéssel ismerné el a helytállásukat.",
-    "content_hu": "• **Felébredtek a kómából** Jakub Kulik és Artur Morański rendőrök, akik a menekülő támadóval vívott tűzpárbajban sérültek meg. Egyikük állapota súlyos, de stabil, társa stabil állapotban van.\n\n• **Állami elismerés várhat rájuk** Karol Nawrocki lengyel elnök kitüntetéssel ismerné el a rendőrök bátorságát; az ehhez szükséges kérelmek előkészítése folyamatban van.\n\n• **A rendőrök több ember életét menthették meg** Donald Tusk miniszterelnök méltatta a helytállásukat, Krakkó polgármestere pedig a város legmagasabb elismerését kezdeményezte számukra.\n\n• **A támadásban hatan meghaltak** A lövöldözés szombaton történt Krakkó főterén, és tizenöten megsérültek.",
-    "importance_score": 23.0
+    "title_hu": "Állami kitüntetést kap az a két rendőr, akik megállították a krakkói lövöldözőt",
+    "lead_hu": "A két egyenruhás súlyos sérüléseket szenvedett a hat halálos áldozatot követelő lövöldözésben, Karol Nawrocki kitüntetéssel ismeri el bátorságukat.",
+    "content_hu": "A két egyenruhás súlyos sérüléseket szenvedett a hat halálos áldozatot követelő lövöldözésben, Karol Nawrocki kitüntetéssel ismeri el bátorságukat."
   },
   {
     "group_id": "group_f16953496a",
@@ -8829,7 +9187,7 @@
     "title_hu": "Kőbánya-Kispesten és Füzesabonyban is vasúti pályafelújítás zajlik",
     "lead_hu": "November 4. és december 1. között a MÁV Kőbánya-Kispesten újítja fel a 4. és 5. vágányt, míg november 9–25. között Füzesabony térségében cserélnek kitérőket és végeznek pályakarbantartást. A füzesabonyi munkákkal a helyenként 10–20 km/órás lassújeleket számolnák fel; a menetrend több járatnál módosul, és a teljes Hatvan–Füzesabony vonalszakaszt később 160 km/órás közlekedésre alkalmassá tennék.",
     "content_hu": "• **November 4. és december 1. között** a 100a vasútvonal felújítása Kőbánya-Kispesten folytatódik, ahol a 4. és 5. vágányt építik át.\n\n• **Jelentős pályafelújítás zajlik Kőbánya-Kispesten:** mintegy 80 vasutas és nagy teljesítményű munkagépek dolgoznak; új kitérőket, vágányszakaszokat és útátjárót építenek, 6000 tonna zúzottkövet használnak fel, több száz méternyi sínt mozgatnak meg vagy cserélnek, 1250 vasbetonaljat helyeznek el, valamint felújítják az állomási perontetőket.\n\n• **Csökkenhetnek a menetidők és a késések:** négy rövid szakaszon megszűnhetnek a 20 és 40 km/órás korlátozások, a 80 km/órás pályasebesség visszaállítása pedig a december 10–13. közötti utószabályozáskor várható.\n\n• **Átmeneti menetrendváltozások lesznek:** a Tokaj és Nyírség InterCityk ismét a megszokott útvonalukon járnak, több más InterCity a Nyugati pályaudvarról 8 perccel korábban indul, az elővárosi járatok menetrendje is módosul, néhány késő esti és hajnali vonat helyett pedig pótlóbusz közlekedik.\n\n• **November 21–22-én és 28–29-én külön menetrend lesz érvényben;** indulás előtt érdemes ellenőrizni a járatokat a MÁVPluszban. A MÁV a környéken élők türelmét is kérte az éjszakai munkák miatt.\n\n• **November 9–25. között Füzesabonyban is pályafelújítás zajlik:** négy átszelési kitérőt és a hozzájuk kapcsolódó vágányszakaszokat cserélik ki. A miskolci fővonal egyes részein jelenleg 10–20 km/órás lassújelek vannak érvényben; ezek megszüntetése után több lépcsőben emelhetik vissza a megengedett sebességet.\n\n• **Füzesabony és Mezőkövesd között helyreállítják a vágánygeometriát, Mezőkövesdnél pedig ágyazatcserét végeznek.** A beavatkozás a miskolci fővonal mellett az Eger és Debrecen felé közlekedő járatokat is érinti; a lassújelek megszüntetése után ezen a szakaszon két perc menetidő takarítható meg.\n\n• **Füzesabony és Eger között egyes hajnali és késő esti vonatok helyett pótlóbuszok közlekednek,** és egyes járatok a megszokottnál korábban indulhatnak. Az utasoknak indulás előtt érdemes ellenőrizniük a menetrendet a MÁVPluszban.\n\n• **A Hatvan–Füzesabony vasútvonal teljes átépítését is előkészítik:** a Baross Gábor Vasútfejlesztési Terv részeként 160 km/órás közlekedésre alkalmas pályát alakítanának ki, a kivitelezési közbeszerzés 2027 elején indulhat.\n\n• **Bővítenék a MÁV pályafenntartó gépparkját:** két közbeszerzésben összesen 36 munkagépet és járművet, valamint három ipari mosókészletet vásárolnának; a tervezett eszközök között darus teherautók és vasúton-közúton is használható földmunkagépek szerepelnek.\n\n• **Jelentősen növelnék a kisebb pályafelújítások éves keretét:** a korábbi tájékoztatás szerint 2027-ben az idei 30 milliárd forint helyett 80 milliárd forint jutna ezekre a munkákra.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_1cf7cd8679",
@@ -8891,7 +9249,7 @@
     "title_hu": "Magyar Péter és Volodimir Zelenszkij még idén találkozhat",
     "lead_hu": "Ukrajna magyarországi nagykövete szerint még az idén sor kerülhet Magyar Péter és Volodimir Zelenszkij kétoldalú találkozójára. A helyszín egyelőre nem biztos: Budapest is szóba jöhet, Beregszász pedig később mindenképpen napirendre kerülhet.",
     "content_hu": "• **Találkozó még idén:** Sándor Fegyir ukrán nagykövet egy interjúban azt mondta, hogy a magyar miniszterelnök és az ukrán elnök még ebben az évben egyeztethet.\n\n• **Lehetséges helyszínek:** A nagykövet szerint Budapest is szóba jöhet, míg a Magyar Péter által javasolt Beregszász felmerülése külön logisztikai és protokolláris kérdés.\n\n• **Fennmaradó vitás ügyek:** A diplomata közlése szerint a két ország között számon tartott tizenegy problémás kérdésből ötöt már rendeztek, további öt megoldását pedig jövőre tervezik.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_5332b6c076",
@@ -9017,7 +9375,7 @@
     "title_hu": "Verekedés, könnygáz és köhögő nézők zavarták meg a Vasas–Fradi-meccset",
     "lead_hu": "A Vasas–Ferencváros mérkőzés előtt szurkolók csaptak össze az Illovszky Rudolf Stadion hazai bejáratánál, majd a rendőrökkel is konfliktusba kerültek. A könnygáz a széllel a lelátóra és a pálya felé sodródott; a játékosok mezükkel takarták el az orrukat, a mérkőzést végül a Ferencváros nyerte 2–0-ra.",
     "content_hu": "• **Verekedés a stadionnál** A ferencvárosi szurkolók egy kisebb csoportja a hazai drukkerek bejáratához ment, ahol összeverekedtek az érkező Vasas-szimpatizánsokkal.\n\n• **Összetűzés a rendőrökkel** A szurkolók a helyszínre érkező rendőrökkel is konfliktusba kerültek, ezért a rendfenntartók könnygázt vetettek be. A rendőri beavatkozás hamar véget vetett az összecsapásnak.\n\n• **A könnygáz a lelátóra és a pályára is eljutott** A szél a stadion belseje, a nézőtér és a pálya felé sodorta a gázt. Több néző köhögni és tüsszögni kezdett, a játékosok pedig a mérkőzés előtti üdvözlés közben mezükkel takarták el az orrukat.\n\n• **Ferencvárosi győzelem** A mérkőzést végül a Ferencváros nyerte meg 2–0-ra.",
-    "importance_score": 43.0
+    "importance_score": 40.0
   },
   {
     "group_id": "group_77c76aa402",
@@ -9143,7 +9501,7 @@
     "title_hu": "Török Gábor szerint egy ligába került a Fidesz és a Mi Hazánk",
     "lead_hu": "A Medián friss felmérése szerint jelentősen csökkent a Fidesz támogatottsága, miközben a Mi Hazánk erősödött. Török Gábor politológus úgy értékelte, hogy a két párt most először került egy súlycsoportba.",
     "content_hu": "• **A Fidesz támogatottsága visszaesett:** A Medián mérése szerint a teljes népességben hat százalékponttal, 16 százalékra csökkent a párt támogatottsága.\n\n• **Erősödött a Mi Hazánk:** A források eltérő adatot közölnek a párt támogatottságáról: három beszámoló 9 százalékot, az Index 11 százalékot ír. Török Gábor szerint a két párt most először került egy ligába, vagyis a középpártok közé.\n\n• **A Tisza megőrizte fölényét:** A Medián adatai szerint a párt támogatottsága 55 százalékos, érdemben nem változott.",
-    "importance_score": 48.0
+    "importance_score": 45.0
   },
   {
     "group_id": "group_167a63d89b",
@@ -11142,6 +11500,24 @@
     "content_hu": "Moszkva régóta hangoztatja, hogy a Kijevvel kötendő bármilyen életképes békemegállapodásnak el kell ismernie az új területi realitásokat, valamint foglalkoznia kell a konfliktus kiváltó okaival."
   },
   {
+    "group_id": "group_0cee100d4b",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Új kép került elő a krakkói \"szélsőjobbos\" terroristáról",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/uj-kep-kerult-elo-a-krakkoi-szelsojobbos-terroristarol"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Új kép került elő a krakkói \"szélsőjobbos\" terroristáról",
+    "lead_hu": "A krakkói \"szélsőjobbos\" elkövető itt épp a migránsok jogaiért és a határok eltörléséért tüntet.Hermann Tertsch spanyol EP-képviselő közölte X oldalán a képet, hogy felhívja a figyelmet a mainstream g…",
+    "content_hu": "A krakkói \"szélsőjobbos\" elkövető itt épp a migránsok jogaiért és a határok eltörléséért tüntet.Hermann Tertsch spanyol EP-képviselő közölte X oldalán a képet, hogy felhívja a figyelmet a mainstream globalista liberális sajtó hazudozása..."
+  },
+  {
     "group_id": "group_6cf261c5bd",
     "category": "Gazdaság",
     "image": "https://s.24.hu/app/uploads/2026/11/beat-view-03-1-1024x576.jpg",
@@ -11305,18 +11681,11 @@
   },
   {
     "group_id": "group_d079092ace",
-    "fingerprint": "a0b6aaf64bbf7e224202dbb6c4b56ef8",
     "category": "Politika",
-    "image": "https://kep.index.hu/1/0/6960/69602/696020/69602091_5136065_31f154cc53f41e85d49508e6fdf429a1_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Fekete-Győr András új pártot építene, a 2029-es önkormányzati és európai parlamenti választásokon már el is indulna",
-        "link": "https://index.hu/belfold/2026/11/08/fekete-gyor-andras-part-europa-parlament-valasztas-orban-viktor/"
-      },
       {
         "source": "Vadhajtások",
         "title": "FeGyőr bejelentette: új pártot alapítok, lecsukatom Orbán Viktort, indulok a választásokon",
@@ -11324,10 +11693,9 @@
       }
     ],
     "published_at": 1794173220,
-    "title_hu": "Új progresszív politikai közösséget építene Fekete-Győr András",
-    "lead_hu": "A Momentumból kilépő Fekete-Győr András új, progresszív politikai erőt hozna létre, amely a 2029-es önkormányzati és európai parlamenti választásokon is elindulna. A politikus az elszámoltatásról és a budapesti olimpia ügyéről is beszélt egy interjúban.",
-    "content_hu": "• **Új politikai közösség** Fekete-Győr független véleményformálókkal építene olyan progresszív erőt, amely az oktatás, a klímavédelem és a lakhatás témájában kiegészítheti a Tisza Pártot. A célja, hogy 2030-ra parlamenti képviseletet szerezzenek.\n\n• **Elszámoltatás** A politikus szerint a felelősségre vonásnak a legmagasabb szintekig kell elérnie, és Orbán Viktornak is felelnie kell. A rendszer felelősei között Matolcsy Györgyöt, Szijjártó Pétert, Lázár Jánost, Rogán Antalt, Mészáros Lőrincet és Tiborcz Istvánt is megnevezte.\n\n• **Olimpiai népszavazás** Fekete-Győr azt javasolta, hogy 2028-ban, a pontos költségek ismeretében népszavazás döntsön a budapesti olimpia megrendezéséről. Ha Magyarország nem vállalja a rendezést, a felszabaduló forrásokat például víztározókra és a csatornahálózat korszerűsítésére fordítaná.",
-    "importance_score": 25.0
+    "title_hu": "FeGyőr bejelentette: új pártot alapítok, lecsukatom Orbán Viktort, indulok a választásokon",
+    "lead_hu": "Független, parlamenten kívüli, progresszív politikusként határozta meg magát Fekete-Győr András, aki egy interjújában beszélt politikai terveiről és az elszámoltatásról. A Momentum volt elnöke új poli…",
+    "content_hu": "Független, parlamenten kívüli, progresszív politikusként határozta meg magát Fekete-Győr András, aki egy interjújában beszélt politikai terveiről és az elszámoltatásról. A Momentum volt elnöke új politikai közösséget építene, amely a 2029-es..."
   },
   {
     "group_id": "group_bd2b7ad40e",
@@ -11457,18 +11825,11 @@
   },
   {
     "group_id": "group_ee15aa19d3",
-    "fingerprint": "cfaeb1d765d44fc3cb953b02db6ca58c",
     "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1100572724-e1794165490787-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Azbesztet találtak egy gyömrői általános iskola mellett, a szülők további méréseket követelnek",
-        "link": "https://24.hu/belfold/2026/11/08/azbesztszennyezes-gyomroi-fekete-istvan-altalanos-iskola/"
-      },
       {
         "source": "Index - Címlap",
         "title": "Azbeszttel szennyezett kőzúzalékot találtak egy általános iskola mellett Gyömrőn",
@@ -11476,10 +11837,9 @@
       }
     ],
     "published_at": 1794169740,
-    "title_hu": "Azbeszttel szennyezett kőzúzalékot találtak egy gyömrői iskola mellett",
-    "lead_hu": "Azbesztet mutattak ki a Gyömrői Fekete István Általános Iskolához vezető út kőzúzalékában. A területet lezárták és geotextíliával letakarták; a szülők további méréseket, az önkormányzat pedig a szennyezett anyag mielőbbi elszállítását sürgeti.",
-    "content_hu": "• **Egy helyszínen találtak azbesztet** Kilenc helyszínről vettek mintát, és a szennyezést az iskola mellett, az odavezető úton mutatták ki. Az érintett út 470 méter hosszú, a parkolóban pedig mintegy 20 négyzetméternyi területen található hasonló mart aszfalt.\n\n• **További vizsgálatokat követelnek a szülők** Petíciót indítottak, hogy kiderüljön, a környező telkek is szennyezettek-e; a kezdeményezést eddig 50 család írta alá.\n\n• **Lezárták és lefedték az érintett területet** Szakértői javaslatra geotextíliát terítettek a szennyezett részre, a porzást pedig locsolással igyekeznek csökkenteni. A belélegezhető azbesztrostok hosszú távon súlyos egészségügyi kockázatot jelenthetnek.\n\n• **Az önkormányzat az anyag elszállítását kéri** A tavalyi útépítésért felelős Magyar Közút vizsgálatot ígért. Ha az azbeszt jelenlétét megerősítik, elszállítják a szennyezett anyagot; megállapodás hiányában az önkormányzat saját költségén intézkedne, majd megpróbálná behajtani a kiadásokat.",
-    "importance_score": 25.0
+    "title_hu": "Azbeszttel szennyezett kőzúzalékot találtak egy általános iskola mellett Gyömrőn",
+    "lead_hu": "A szülők petíciót indítottak, az önkormányzat a szennyezett anyag mielőbbi elszállítását követeli.",
+    "content_hu": "A szülők petíciót indítottak, az önkormányzat a szennyezett anyag mielőbbi elszállítását követeli."
   },
   {
     "group_id": "group_4e44b9ee61",
@@ -11659,7 +12019,8 @@
     "published_at": 1794168060,
     "title_hu": "„Addig iszunk, amíg el nem ájulunk” – Mark Rutte elmondta, milyen tervei vannak Volodimir Zelenszkijjel a háború végén",
     "lead_hu": "Már a helyszín is megvan az ünneplésre.",
-    "content_hu": "Már a helyszín is megvan az ünneplésre."
+    "content_hu": "Már a helyszín is megvan az ünneplésre.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_ee82433f26",
@@ -11677,7 +12038,8 @@
     "published_at": 1794168006,
     "title_hu": "A drónoké a jövő, de a hadseregek még mindig le vannak maradva: a hadiipari óriások továbbra is milliárdokat keresnek a hagyományos fegyvereken",
     "lead_hu": "Európa és az Egyesült Államok egyre többet költ katonai képességeinek fejlesztésére, miközben a hadviselés technológiai alapjai is gyorsan változnak.",
-    "content_hu": "Európa és az Egyesült Államok egyre többet költ katonai képességeinek fejlesztésére, miközben a hadviselés technológiai alapjai is gyorsan változnak."
+    "content_hu": "Európa és az Egyesült Államok egyre többet költ katonai képességeinek fejlesztésére, miközben a hadviselés technológiai alapjai is gyorsan változnak.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_37e1857c74",
@@ -11695,7 +12057,8 @@
     "published_at": 1794168000,
     "title_hu": "Kitálalt Hugh Hefner özvegye: világsztárok sötét titkairól rántotta le a leplet",
     "lead_hu": "Donald Trump, Jack Nicholson és Arnold Schwarzenegger neve is előkerült Hugh Hefner legendás magánbirodalmának titkai kapcsán. A Playboy-villa sötét titkairól most a birodalom egykori császárának özve…",
-    "content_hu": "Donald Trump, Jack Nicholson és Arnold Schwarzenegger neve is előkerült Hugh Hefner legendás magánbirodalmának titkai kapcsán. A Playboy-villa sötét titkairól most a birodalom egykori császárának özvegye, Crystal Hefner rántotta le a leplet."
+    "content_hu": "Donald Trump, Jack Nicholson és Arnold Schwarzenegger neve is előkerült Hugh Hefner legendás magánbirodalmának titkai kapcsán. A Playboy-villa sötét titkairól most a birodalom egykori császárának özvegye, Crystal Hefner rántotta le a leplet.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_3bc78d567c",
@@ -11758,24 +12121,6 @@
     "title_hu": "Tóba zuhant egy autó Brazíliában, tízen meghaltak, köztük öt gyermek",
     "lead_hu": "Mintegy harminc tűzoltót és két búvárt vonultattak fel a holttestek kiemeléséhez.",
     "content_hu": "Mintegy harminc tűzoltót és két búvárt vonultattak fel a holttestek kiemeléséhez."
-  },
-  {
-    "group_id": "group_23109a9be0",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/000_d6rl9we-e1794140314208-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A nap legfontosabb hírei – 2026. november 8.",
-        "link": "https://24.hu/belfold/2026/11/08/a-nap-legfontosabb-hirei-2026-november-8/"
-      }
-    ],
-    "published_at": 1794167390,
-    "title_hu": "A nap legfontosabb hírei – 2026. november 8.",
-    "lead_hu": "Nincs magyar érintettje a krakkói lövöldözésnek, összeütközött két vonat Egyiptomban. The post A nap legfontosabb hírei – 2026. november 8. first appeared on 24.hu.",
-    "content_hu": "Nincs magyar érintettje a krakkói lövöldözésnek, összeütközött két vonat Egyiptomban. The post A nap legfontosabb hírei – 2026. november 8. first appeared on 24.hu."
   },
   {
     "group_id": "group_a949cf0839",
