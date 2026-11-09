@@ -1,43 +1,715 @@
 [
   {
-    "group_id": "group_3d8610d2c7",
-    "fingerprint": "25b990821e6a7d83c5edb6d02fb27ef8",
+    "group_id": "group_c6d8dd6a4e",
+    "category": "Általános",
+    "image": "https://www.youtube.com/embed/zbQxL8fniGA",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "A Nemzetbiztonsági Bizottság ülése az ügynökaktákról – Nézze itt élőben",
+        "link": "https://www.atv.hu/belfold/20261109/nemzetbiztonsag-bizottsag-ugynokaktak/"
+      }
+    ],
+    "published_at": 1794207300,
+    "title_hu": "A Nemzetbiztonsági Bizottság ülése az ügynökaktákról – Nézze itt élőben",
+    "lead_hu": "Rendkívüli nyílt ülést tart a Nemzetbiztonsági Bizottság az ügynökakták körüli súlyos baki miatt: a levéltár vezetőinek is felelniük kell.",
+    "content_hu": "Rendkívüli nyílt ülést tart a Nemzetbiztonsági Bizottság az ügynökakták körüli súlyos baki miatt: a levéltár vezetőinek is felelniük kell."
+  },
+  {
+    "group_id": "group_c8f028d428",
     "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
+    "image": "https://cdn.hirtv.hu/2026/11/3xTqMHasm9OHqgZs0lrldN4yL7eimlEVdAXC8QfxAyw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU5MzhmNGJiOGQxYjRjNDY5N2Q1MDQ4ZGU3OWNhMTYz.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "A Balaton másik arca",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/balaton-vizallas-aszaly"
+      }
+    ],
+    "published_at": 1794207173,
+    "title_hu": "A Balaton másik arca",
+    "lead_hu": "A száraz nyár után a tó vízszintje ősszel is elmarad az átlagostól.",
+    "content_hu": "A száraz nyár után a tó vízszintje ősszel is elmarad az átlagostól."
+  },
+  {
+    "group_id": "group_8969e8cae7",
+    "fingerprint": "3abf32a5599c81a8f29973921ad2ecd3",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/k_epa20261107137-e1794204655615-1024x577.jpg",
     "is_synthesized": true,
     "rejected": false,
     "sources_count": 5,
     "sources": [
       {
-        "source": "Telex - Belföld",
-        "title": "Kínai kémnő csábíthatta el az Nvidia vezérigazgatóját",
-        "link": "https://telex.hu/kulfold/2026/11/08/nvidia-vezerigazgato-kinai-kem-szereto-vizsgalat"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Viszonya volt az Nvidia vezérének, szeretőjéről azt gyanítják, hogy kínai kém",
-        "link": "https://hvg.hu/tudomany/20261109_nvidia-vezer-jensen-huang-kinai-kemno-vizsgalat"
-      },
-      {
-        "source": "444.hu",
-        "title": "Vizsgálatot indít a Trump-tanácsadó vezérigazgatója ellen az Nvidia, miután kiderült, hogy kínai kémnővel volt viszonya",
-        "link": "https://444.hu/2026/11/09/vizsgalatot-indit-a-trump-tanacsado-vezerigazgatoja-ellen-az-nvidia-miutan-kiderult-hogy-kinai-kemnovel-volt-viszonya?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        "source": "24.hu - Legfrissebb",
+        "title": "Meghalt a krakkói merénylő",
+        "link": "https://24.hu/kulfold/2026/11/09/meghalt-a-krakkoi-merenylo/"
       },
       {
         "source": "Index - Címlap",
-        "title": "Kínai hírszerzésnek dolgozhatott a nő, akivel viszonyba keveredett az Nvidia vezére",
-        "link": "https://index.hu/kulfold/2026/11/09/nvidia-jensen-huang-vezerigazgato-alice-huang-kina-kemkedes/"
+        "title": "Meghalt a krakkói vérengzés elkövetője",
+        "link": "https://index.hu/kulfold/2026/11/09/meghalt-krakko-tamado-elkoveto-lengyelorszag/"
       },
+      {
+        "source": "444.hu",
+        "title": "Krakkói vérengzés: belehalt sérüléseibe a merénylő",
+        "link": "https://444.hu/2026/11/09/krakkoi-verengzes-belehalt-seruleseibe-a-merenylo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Belehalt sérüléseibe a krakkói lövöldözés elkövetője",
+        "link": "https://hvg.hu/vilag/20261109_krakkoi-lovoldozes-elkoveto-meghalt"
+      },
+      {
+        "source": "Femina",
+        "title": "Krakkói lövöldözés: az elkövető meghalt a kórházban",
+        "link": "https://femina.hu/terasz/krakkoi-lovoldozes-elkoveto-meghalt-korhazban/"
+      }
+    ],
+    "published_at": 1794207150,
+    "title_hu": "Meghalt a krakkói lövöldözés elkövetője",
+    "lead_hu": "Hétfő hajnalban a kórházban meghalt a szombati krakkói lövöldözés 24 éves elkövetője – közölte a lengyel rendőrség. A támadásban hat ember életét vesztette, tizenöten megsebesültek.",
+    "content_hu": "• **Hétfő hajnalban meghalt az elkövető** – A 24 éves Michał Oksiński sérülései kritikusak voltak; az orvosok több műtéttel sem tudták megmenteni.\n\n• **Hat halálos áldozat és tizenöt sebesült** – A lövöldözés a krakkói városközpontban történt. A sebesültek között két rendőr is van, egyikük állapota súlyos.\n\n• **A támadót a rendőrök állították meg** – A férfi a rendőrökkel vívott tűzharcban sebesült meg, majd kórházba szállították."
+  },
+  {
+    "group_id": "group_e7190a82f0",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/1UtetH5ErHhipUPUtL50OMKdK2Ruu45sJ3wERtjx3gA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IxZGFjOTg3YjFhMTQ4MzQ5MTUxMDdiYzg2OTc4YTYy.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Óriási palagáz kitermelés kezdődik Magyarországon? Már zajlik a kutatás, nyilatkozatot tett a polgármester a valóságról – „Remélem, hogy a kormány ezt is kivizsgálja”",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/palagaz-kitermeles-soltvadkert-kozeleben-polgarmester?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794207060,
+    "title_hu": "Óriási palagáz kitermelés kezdődik Magyarországon? Már zajlik a kutatás, nyilatkozatot tett a polgármester a valóságról – „Remélem, hogy a kormány ezt is kivizsgálja”",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_2a33ed34dd",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7246/72466/724663/72466325_5340067_e884f53552c24a38022f08b8a7b94392_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hívőnek tettette magát, hogy meghódítson egy nőt, aztán elszabadult a pokol",
+        "link": "https://index.hu/kultur/cinematrix/2026/11/09/pierfrancesco-dilibert-pif-isten-mindenkinek-megbocsat-film-24.-olasz-filmfesztival-olaszorszag-kritika/"
+      }
+    ],
+    "published_at": 1794206940,
+    "title_hu": "Hívőnek tettette magát, hogy meghódítson egy nőt, aztán elszabadult a pokol",
+    "lead_hu": "Majdnem mindenét elveszítette.",
+    "content_hu": "Majdnem mindenét elveszítette."
+  },
+  {
+    "group_id": "group_3d8610d2c7",
+    "fingerprint": "fbcc4e86fa2bd2e95f876cbf260db4c4",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
       {
         "source": "24.hu - Legfrissebb",
         "title": "Kínai kémnő csábította el az Nvidia vezetőjét, a cég vizsgálatot indított",
         "link": "https://24.hu/tech/2026/11/09/nvidia-vizsgalat-jensen-huang-kinai-kembotrany/"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Belső vizsgálat indult az Nvidia vezére ellen, már a menesztéséről beszélnek",
+        "link": "https://www.portfolio.hu/befektetes/20261109/belso-vizsgalat-indult-az-nvidia-vezere-ellen-mar-a-meneszteserol-beszelnek-875022"
       }
     ],
-    "published_at": 1794203636,
-    "title_hu": "Független vizsgálatot indít az Nvidia Jensen Huang feltételezett kínai kémkapcsolata miatt",
-    "lead_hu": "Az Nvidia igazgatótanácsa független igazgatók és külső jogi szakértők felügyeletével vizsgálja, hogy Jensen Huang vezérigazgató egy kínai hírszerzési művelet célpontja volt-e. A cég szerint egyelőre nincs okuk azt feltételezni, hogy üzleti titkok vagy nemzetbiztonsági érdekek sérültek, miközben amerikai törvényhozók is meghallgatást kértek az ügyben.",
-    "content_hu": "• **Független vizsgálat indul** Az Nvidia igazgatótanácsa a Jensen Huang és Alice Huang kapcsolatáról, valamint a feltételezett külföldi hírszerzési műveletről szóló sajtóhírek miatt indított vizsgálatot. Az eljárást független igazgatók felügyelik, munkájukat külső jogi szakértők segítik.\n\n• **Kémkedés gyanúja merült fel** Amerikai hírszerzési forrásokra hivatkozó beszámolók szerint Alice Huang Peking megbízásából gyűjthetett információkat Jensen Huangról, és segíthetett fejlett Nvidia-chipek Kínába juttatásában. A gyanú szerint a nő az Nvidia vezetőjén keresztül akár Donald Trump Kínával kapcsolatos terveiről is információt szerezhetett; a vádak nem bizonyítottak.\n\n• **A Megaspeed is a vizsgálat fókuszába kerülhet** Alice Huang a szingapúri Megaspeed egyik vezetője, a vállalat pedig az Nvidia ügyfele. A New York Times értesülései szerint a cég nagy mennyiségben vásárolt Nvidia-chipeket, és a kínai állam is hozzáférhetett az alkatrészekhez. A hatóságok azt vizsgálják, hogy a Megaspeed közreműködhetett-e az amerikai exportkorlátozások kijátszásában.\n\n• **Egyelőre nem jeleztek adatszivárgást** Az Nvidia közlése szerint jelenleg nincs okuk azt feltételezni, hogy üzleti titkok vagy az Egyesült Államok nemzetbiztonsági érdekei sérültek volna, de minden rendelkezésre álló információt megvizsgálnak. A vállalat továbbra is bízik Huangban, aki azt ígérte, hogy teljes körűen együttműködik, és folytatja a cég irányítását.\n\n• **Huang bocsánatot kért** A vezérigazgató elismerte, hogy hűtlen volt a feleségéhez, bocsánatot kért családjától, és teljes felelősséget vállalt a történtekért. Azt is közölte, hogy támogatja a vizsgálatot.\n\n• **Meghallgatást kértek a képviselőház bizottságai** Három republikánus bizottsági vezető tájékoztatást kért Huangtól a vállalat biztonsági intézkedéseiről. A 24.hu beszámolója szerint november 6-án három képviselőházi bizottság zárt ajtók mögötti közös meghallgatásra is felkérte a vezérigazgatót.\n\n• **Trump korábban is kaphatott tájékoztatást** Sajtóbeszámolók szerint az amerikai elnököt mintegy egy évvel korábban értesítették a hírszerzési gyanúról, de nem tett lépéseket. Trump azt mondta, tisztességes embernek tartja Huangot, és nem bánta meg, hogy korábban nem intézkedett.\n\n• **A piaci bizonytalanság is fokozhatja a kockázatot** Az Index szerint az Nvidia piaci értéke mintegy 4,5 ezer milliárd dollár, részvényei pedig az utóbbi időszakban jelentős veszteségeket szenvedtek el. A befektetők az MI-beruházási hullám fenntarthatósága miatt is aggódnak, az ügy pedig további bizonytalanságot kelthet a vállalat vezetésével kapcsolatban."
+    "published_at": 1794206640,
+    "title_hu": "Vezetőváltásról is találgatnak az Nvidia kémbotránya miatt",
+    "lead_hu": "Az Nvidia független vizsgálata mellett a vezérigazgató, Jensen Huang jövőjéről is eltérően vélekednek a piaci szakértők: egyesek szerint veszélybe kerülhet a pozíciója, mások nem számítanak leváltására. A befektetők számára a november 17-re várt gyorsjelentés lehet a következő fontos próbatétel.",
+    "content_hu": "• **A kínai hírszerzés célja is felmerült** A 24.hu által ismertetett New York Times-beszámoló szerint a kínai Állambiztonsági Minisztérium információszerzésre, illetve arra bízhatta Alice Huangot, hogy próbálja befolyásolni az Nvidiát a legfejlettebb chipek Kínába juttatása érdekében. A lap szerint a nő az MI-chipipar más vezetőivel, köztük a Gigabyte vezetőivel is kapcsolatban állt.\n\n• **Megoszlanak a vélemények Huang jövőjéről** Gary Black befektető szerint a vezérigazgató megkérdőjelezhető ítélőképessége akár a leváltásához is vezethet, és a Portfolio szerint nincs egyértelmű utódja a cégen belül. Más elemzők, köztük Chris Weston, nem számítanak vezetőváltásra; szerintük az ügy hosszú távú piaci hatása főként attól függ, bizonyítást nyer-e a kémkedés gyanúja.\n\n• **A november 17-i gyorsjelentésre figyelhetnek a befektetők** Elemzők szerint az Nvidia következő gyorsjelentése fontos próba lehet a befektetői bizalom szempontjából. Egy elhúzódó vizsgálat vagy a szállítások késése a Portfolio által idézett szakértők szerint a szélesebb félvezetőipart és a beszállítókat is érintheti."
+  },
+  {
+    "group_id": "group_dbc45d935a",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2304112254-e1794178731438-1024x574.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Leclerc és Antonelli is büntetést kapott a Sao Pauló-i futam után",
+        "link": "https://24.hu/sport/forma-1/2026/11/09/sao-pauloi-nagydij-charles-leclerc-kimi-antonelli-buntetes/"
+      }
+    ],
+    "published_at": 1794206530,
+    "title_hu": "Leclerc és Antonelli is büntetést kapott a Sao Pauló-i futam után",
+    "lead_hu": "Megváltozott a futam végeredménye is. The post Leclerc és Antonelli is büntetést kapott a Sao Pauló-i futam után first appeared on 24.hu.",
+    "content_hu": "Megváltozott a futam végeredménye is. The post Leclerc és Antonelli is büntetést kapott a Sao Pauló-i futam után first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_2940801305",
+    "fingerprint": "0947acb3a9ecd2acb807c1393d1a3af1",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1053091800-1-e1794204029966-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Török Gábor: Most először került egy ligába a Fidesz és a Mi Hazánk",
+        "link": "https://24.hu/belfold/2026/11/09/torok-gabor-median-mi-hazank-fidesz/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Először került egy ligába a Fidesz és a Mi Hazánk Török Gábor szerint",
+        "link": "https://hvg.hu/itthon/20261109_eloszor-kerult-egy-ligaba-a-fidesz-es-a-mi-hazank-torok-gabor-szerint"
+      }
+    ],
+    "published_at": 1794206514,
+    "title_hu": "Török Gábor szerint egy ligába került a Fidesz és a Mi Hazánk",
+    "lead_hu": "A friss Medián-felmérés szerint a Fidesz támogatottsága a teljes népesség körében 6 százalékponttal, 16 százalékra csökkent. Török Gábor úgy értékelte, hogy a Mi Hazánk erősödésével először kerültek egy kategóriába a pártok; a Tisza Párt támogatottsága 55 százalék.",
+    "content_hu": "• **A Fidesz támogatottsága csökkent** A Medián mérése szerint a párt a teljes népesség körében 6 százalékponttal, 16 százalékra esett vissza.\n\n• **A Mi Hazánk felzárkózott** Török Gábor szerint a párt erősödése miatt először került egy ligába a Fidesz és a Mi Hazánk. A közölt támogatottsági adatok a forrásokban eltérnek.\n\n• **A Tisza vezet** A párt támogatottsága a felmérés szerint 55 százalék, és érdemben nem változott."
+  },
+  {
+    "group_id": "group_0f6331cf28",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/liptai-nemeth-kristof.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Németh Kristóf így csókolta meg Liptai Claudiát: mutatjuk a videót róla",
+        "link": "https://femina.hu/hazai_sztar/nemeth-kristof-liptai-claudia-csok/"
+      }
+    ],
+    "published_at": 1794206400,
+    "title_hu": "Németh Kristóf így csókolta meg Liptai Claudiát: mutatjuk a videót róla",
+    "lead_hu": "Liptai Claudia és Németh Kristóf csókjára tuti, nem emlékszel ebből a sorozatból!",
+    "content_hu": "Liptai Claudia és Németh Kristóf csókjára tuti, nem emlékszel ebből a sorozatból!"
+  },
+  {
+    "group_id": "group_88ad662fd2",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7242/72429/724299/72429969_5337547_7dfab527723a9d659c23bd96db57d472_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szintet lép az ukrajnai háború, új helyet találtak az öldöklésre a harcoló felek",
+        "link": "https://index.hu/kulfold/2026/11/09/orosz-ukran-konfliktus-oroszorszag-ukrajna-foldalatti-gazvezetek-taktika/"
+      }
+    ],
+    "published_at": 1794206280,
+    "title_hu": "Szintet lép az ukrajnai háború, új helyet találtak az öldöklésre a harcoló felek",
+    "lead_hu": "Kijev lemásolta az oroszok ötletét.",
+    "content_hu": "Kijev lemásolta az oroszok ötletét."
+  },
+  {
+    "group_id": "group_3d815b3966",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1029255708-e1794206141311-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Két meteorrajt is láthatunk a következő napokban",
+        "link": "https://24.hu/tudomany/2026/11/09/eszaki-tauridak-leonidak-meteorraj-csillaghullas-2026/"
+      }
+    ],
+    "published_at": 1794206152,
+    "title_hu": "Két meteorrajt is láthatunk a következő napokban",
+    "lead_hu": "A 2026-os őszi csillaghullás igazán különleges: egy hónapon belül három meteorrajjal is megajándékozza az érdeklődőket. The post Két meteorrajt is láthatunk a következő napokban first appeared on 24.h…",
+    "content_hu": "A 2026-os őszi csillaghullás igazán különleges: egy hónapon belül három meteorrajjal is megajándékozza az érdeklődőket. The post Két meteorrajt is láthatunk a következő napokban first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_4ed113471c",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/DSC05622.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Gyerekek mellett szinte lehetetlen tisztán tartani az autót – Így tisztíttathatod ki anélkül, hogy autómosóba mennél",
+        "link": "https://femina.hu/gyerek/automosas-otthon-gyerekek-mellett-cleango/"
+      }
+    ],
+    "published_at": 1794206100,
+    "title_hu": "Gyerekek mellett szinte lehetetlen tisztán tartani az autót – Így tisztíttathatod ki anélkül, hogy autómosóba mennél",
+    "lead_hu": "Ismerős az a pillanat, amikor a reggeli rohanásban hátra nyúlsz valamiért, és a kezed egy porrá zúzott kölesgolyóba vagy egy rejtélyesen ragacsos játékba ütközik? Az autó tisztán tartása szélmalomharc…",
+    "content_hu": "Ismerős az a pillanat, amikor a reggeli rohanásban hátra nyúlsz valamiért, és a kezed egy porrá zúzott kölesgolyóba vagy egy rejtélyesen ragacsos játékba ütközik? Az autó tisztán tartása szélmalomharcnak tűnik, pedig létezik olyan megoldás, amivel egyetlen percet sem kell feláldoznod a szabadidődből."
+  },
+  {
+    "group_id": "group_9b34d6fbba",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "2 népszerű mosókonyhai rendszerezési szokás, amely valójában csak megnehezíti a dolgodat – a profi rendszerező szerint",
+        "link": "https://nlc.hu/eletmod/20261109/mosasi-trukkok-szennyestarto-ruharendszerezes-hibak/"
+      }
+    ],
+    "published_at": 1794205980,
+    "title_hu": "2 népszerű mosókonyhai rendszerezési szokás, amely valójában csak megnehezíti a dolgodat – a profi rendszerező szerint",
+    "lead_hu": "A közösségi oldalakon egyre több tökéletesen berendezett mosókonyhát látni, külön tárolókkal, szín szerint válogatott szennyestartókkal és gondosan kialakított ruhahajtogató pultokkal. Csakhogy ami a …",
+    "content_hu": "A közösségi oldalakon egyre több tökéletesen berendezett mosókonyhát látni, külön tárolókkal, szín szerint válogatott szennyestartókkal és gondosan kialakított ruhahajtogató pultokkal. Csakhogy ami a képeken praktikusnak tűnik, a mindennapokban könnyen pluszmunkát jelenthet. Egy profi rendszerezési szakértő két népszerű megoldásról is elárulta, miért nem alkalmazná őket a saját otthonában. The post 2 népszerű mosókonyhai rendszerezési szokás, amely valójában csak megnehezíti a dolgodat – a profi rendszerező szerint first appeared on nlc."
+  },
+  {
+    "group_id": "group_02910d7517",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/I34dfm0sEFEoEN0MTlFL6AcqOtTXEM1QKAfPUZWHXSs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhiOTk4MDIzMjhkMTQyMmI5OTU1MGY5ODBhNTAxMjFm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Borbély Balázs most a Fradi hét válogatott játékosa miatt aggódhat, kritikus időszak jön",
+        "link": "https://magyarnemzet.hu/sport/2026/11/borbely-balazs-fradi-valogatott-edzoi-nyilatkozat-vasas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794205974,
+    "title_hu": "Borbély Balázs most a Fradi hét válogatott játékosa miatt aggódhat, kritikus időszak jön",
+    "lead_hu": "Többen hosszú utazás előtt állnak, a Ferencváros edzője szerint nem feltétlenül jön jókor a válogatottszünet.",
+    "content_hu": "Többen hosszú utazás előtt állnak, a Ferencváros edzője szerint nem feltétlenül jön jókor a válogatottszünet."
+  },
+  {
+    "group_id": "group_d7357e4b83",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/po8c--6H6LEUwH_jG4vLaEGfIBJDcv3--X-HCBkJZ28/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZkOTk1OGRlZDcxYjRjZmVhZDdlNDI5NWE3NTZlZjk5.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Eldőlt, nem kap új autópályát a kormánytól az ötvenezres vidéki nagyváros: a tiszás parlamenti képviselő elmagyarázta, miért döntöttek így – a nyomvonal nem vethető fel komolyan",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/zala-m76-autopalya-keszthely-vitezy-nagy-tisza?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794205872,
+    "title_hu": "Eldőlt, nem kap új autópályát a kormánytól az ötvenezres vidéki nagyváros: a tiszás parlamenti képviselő elmagyarázta, miért döntöttek így – a nyomvonal nem vethető fel komolyan",
+    "lead_hu": "Egymásnak esett a Fidesz és a Tisza az M76-os miatt: Vitézy Dávid bejelentése után kitört a vita.",
+    "content_hu": "Egymásnak esett a Fidesz és a Tisza az M76-os miatt: Vitézy Dávid bejelentése után kitört a vita."
+  },
+  {
+    "group_id": "group_eba9224e88",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Értelem és csöcsök",
+        "link": "https://444.hu/2026/11/09/ertelem-es-csocsok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794205726,
+    "title_hu": "Értelem és csöcsök",
+    "lead_hu": "Kiszámíthatatlan olívaolaj, az olvasás halála, oroszbarátság extrákkal és Trump árulása a 444 napindító hírlevelében.",
+    "content_hu": "Kiszámíthatatlan olívaolaj, az olvasás halála, oroszbarátság extrákkal és Trump árulása a 444 napindító hírlevelében."
+  },
+  {
+    "group_id": "group_f664c8e122",
+    "fingerprint": "60a5c2ac16e5289364d05ecd94156c89",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8103a0c3-82a3-49ec-a3a0-117c922de1c1.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Medián: Támogatói negyedét elvesztette a Fidesz, a Tisza tábora stabil",
+        "link": "https://hvg.hu/360/20261109_median-fidesz-tisza-partpreferencia-ebx"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Mélyrepülésben a Fidesz a Medián szerint: szavazói negyedét elveszíthette Orbán Viktor pártja",
+        "link": "https://index.hu/belfold/2026/11/09/median-felmeres-kozvelemeny-kutatas-tisza-part-fidesz-tamogatottsag/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Medián: Újabb mélyponton a Fidesz, ismét nőtt a Tisza támogatottsága",
+        "link": "https://444.hu/2026/11/09/median-ujabb-melyponton-a-fidesz-ismet-nott-a-tisza-tamogatottsaga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794205129,
+    "title_hu": "Medián: 16 százalékra zuhant a Fidesz támogatottsága, a Tisza enyhén erősödött",
+    "lead_hu": "A Medián november eleji felmérése szerint a teljes népesség 16 százaléka támogatja a Fideszt, hat százalékponttal kevesebben, mint szeptemberben. A Tisza Párt támogatottsága 55 százalékra nőtt, miközben a Mi Hazánk is erősödött.",
+    "content_hu": "• **A Fidesz visszaesése** A párt a teljes népességben 16 százalékon áll, ami hat százalékpontos csökkenés a szeptemberi méréshez képest. A pártot választani tudók és a biztos szavazók körében egyaránt 20 százalékos a támogatottsága; utóbbi két csoportban 6, illetve 7 százalékpontot veszített.\n\n• **A Tisza támogatottsága** A Tisza Párt a teljes népesség 55 százalékának támogatását élvezi, ami egy százalékpontos emelkedés. A pártot választani tudók között 3, a biztos szavazók körében 4 százalékponttal erősödött.\n\n• **A Mi Hazánk és a bizonytalanok** A Mi Hazánk támogatottsága a teljes népességben 9 százalékra nőtt, két százalékponttal. A pártot választók és a biztos szavazók körében 11 százalékon áll; a Fidesz táborából többen a kisebb pártokhoz vagy a párt nélküliek közé kerülhettek.\n\n• **A Fidesz támogatói** A felmérés szerint a párt főként az alacsonyabb végzettségűek, a budapestiek, a férfiak és az 50–64 évesek körében veszített népszerűségéből.\n\n• **A választókat foglalkoztató ügyek** A megkérdezettek 40 százaléka említette a „Tisztítótűz művelettel” kapcsolatos híreket a fontos témák között; ezen belül a volt jegybankelnök és fia elleni eljárásokat 18 százalék nevezte meg. A kormány költségvetési terveinek valamely elemét 34 százalék sorolta a fontos hírek közé.\n\n• **Közhangulat és politikai érdeklődés** A válaszadók 59 százaléka szerint jó irányba mennek a dolgok Magyarországon, 32 százalékuk szerint rossz irányba. A megkérdezettek 77 százaléka legalább közepesen érdeklődik a politika iránt."
+  },
+  {
+    "group_id": "group_2c2d560a80",
+    "fingerprint": "9ea86a36f8fe0309680bd64515544480",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/10/central-0764267241-masolat-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "67 millió forintot követelnek a pilóták a Wizz Airtől – a magyar munkaerőpiac egészére hatással lehet a per",
+        "link": "https://24.hu/fn/gazdasag/2026/11/09/wizz-air-per-67-millio-forint-pilotak-24extra/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Pilóták és légiutas-kísérők perlik a Wizz Airt, az ügyek az Alkotmánybíróság elé kerültek",
+        "link": "https://telex.hu/belfold/2026/11/09/pilotak-legiutas-kiserok-perlik-wizz-airt-alkotmanybirosag-vizsgalja"
+      }
+    ],
+    "published_at": 1794204988,
+    "title_hu": "A Wizz Air dolgozóinak pere a teljes magyar munkaerőpiacra hatással lehet",
+    "lead_hu": "A Wizz Air pilótái és légiutas-kísérői azért indítottak külön pereket, mert szerintük a légitársaság hibásan számolta ki a szabadság és a betegszabadság idejére járó távolléti díjat. Az ügyek az Alkotmánybíróság elé kerültek, mert a bíróság szerint a vonatkozó munkajogi szabályozás alkotmányossága is kérdéses lehet.",
+    "content_hu": "• **Két külön per indult** – A pilóták és a légiutas-kísérők azt állítják, hogy a Wizz Air nem megfelelően számolta ki a szabadság és a betegszabadság idejére járó távolléti díjukat.\n\n• **Első fokon a dolgozóknak adtak igazat** – A Fővárosi Törvényszék a hátralék és a késedelmi kamatok megfizetésére kötelezte a légitársaságot, amely megfellebbezte az ítéleteket.\n\n• **Az Alkotmánybíróság vizsgálhatja a szabályozást** – A másodfokú eljárásokat felfüggesztették, és az ügyeket az Alkotmánybíróság elé utalták, mert felmerült, hogy a munkajogi szabályok alkotmányba vagy nemzetközi szerződésbe ütközhetnek.\n\n• **A döntés túlmutathat a Wizz Airen** – Az ügy kimenetele a magyar munkáltatókat és munkavállalókat is érintheti, ha a szabályozáson változtatni kell."
+  },
+  {
+    "group_id": "group_18106b300b",
+    "fingerprint": "b362bf3a63df09c1d70383d3fa445f0b",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/000_d6rt6t3-e1794201631225-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Trump azt mondta, csak viccelt, amikor a Fehér Ház szóvivőjének kérte fel a UFC elnökét",
+        "link": "https://24.hu/kulfold/2026/11/09/trump-feher-hazi-szovivo-ufc-dana-white-vicc/"
+      },
+      {
+        "source": "444.hu",
+        "title": "„Csak egy kis móka volt” – Trump valójában nem is akarta felkérni az UFC-s Dana White-ot fehér házi sajtófőnöknek",
+        "link": "https://444.hu/2026/11/09/csak-egy-kis-moka-volt-trump-valojaban-nem-is-akarta-felkerni-az-ufc-s-dana-white-ot-feher-hazi-sajtofonoknek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794204986,
+    "title_hu": "Trump szerint csak vicc volt Dana White sajtófőnöki felkérése",
+    "lead_hu": "Donald Trump amerikai elnök vasárnap azt mondta, tréfának szánta korábbi bejelentését, hogy a UFC vezetőjét, Dana White-ot kérné fel a Fehér Ház sajtófőnökének. Korábban azt is felvetette, hogy White MMA-harcosokat vigyen magával asszisztensnek.",
+    "content_hu": "• **Trump visszavonta a felkérést:** az elnök azt mondta, csak viccelt, amikor a Truth Socialön felkérte Dana White-ot a Fehér Ház sajtófőnöki posztjára.\n\n• **Harcosokat is említett:** Trump korábbi bejegyzésében azt írta, White MMA-harcosokat vihetne magával asszisztensnek; később azzal magyarázta a tréfát, hogy az újságírók kevésbé „szórakoznának” a sajtómunkával."
+  },
+  {
+    "group_id": "group_24ac83ae70",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/cWlHiVcXeMYt3k40_p6kn26gvhXPMUKriFYchCv_d00/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc1YzUxZTY1NDI1NzRjY2E4ZDNkMWFkZjIyYWQzNDM0.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Megtörte a hallgatást Lázár János, sokatmondó fényképet hozott nyilvánosságra: Orbán Viktor csúcsminisztere majdnem két hónap után szólalt meg",
+        "link": "https://www.vg.hu/kozelet/2026/11/lazar-janos-sokatmondo-fenykepet-hozott-nyilvanossagra?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794204934,
+    "title_hu": "Megtörte a hallgatást Lázár János, sokatmondó fényképet hozott nyilvánosságra: Orbán Viktor csúcsminisztere majdnem két hónap után szólalt meg",
+    "lead_hu": "Váratlan bejegyzést tett közzé a korábbi miniszter.",
+    "content_hu": "Váratlan bejegyzést tett közzé a korábbi miniszter."
+  },
+  {
+    "group_id": "group_dab2541903",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/068_aa_15112024_1944975-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kvíz: mennyit tudsz a botrányhős Mike Tysonról?",
+        "link": "https://24.hu/sport/foci/2026/11/09/mike-tyson-kviz-boksz-okolvivas/"
+      }
+    ],
+    "published_at": 1794204917,
+    "title_hu": "Kvíz: mennyit tudsz a botrányhős Mike Tysonról?",
+    "lead_hu": "Minden idők egyik legjobb bokszolója volt Mike Tyson, aki legalább annyiszor szerepelt a címlapon a botrányai miatt, mint a győzelmek után. Teszteld, mennyit tudsz a pályafutásáról és a viselt dolgair…",
+    "content_hu": "Minden idők egyik legjobb bokszolója volt Mike Tyson, aki legalább annyiszor szerepelt a címlapon a botrányai miatt, mint a győzelmek után. Teszteld, mennyit tudsz a pályafutásáról és a viselt dolgairól! The post Kvíz: mennyit tudsz a botrányhős Mike Tysonról? first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_47d11d7d96",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/nKyNTqnsmF9xuI-yULaXlO18PWpUR_STopO24QBnLj8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ1ODNmODAzY2UzNjQyMmU4NGJkZGFjNThkYjkxMDky.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A „szélsőjobboldali” terrorista",
+        "link": "https://magyarnemzet.hu/bayer-zsolt-blogja/2026/11/a-szelsojobboldali-terrorista?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794204559,
+    "title_hu": "A „szélsőjobboldali” terrorista",
+    "lead_hu": "Ez a rettenetes, iszonyatos, felfoghatatlan gyilkosságsorozat úgy kellett Tuskéknak, mint egy falat kenyér.",
+    "content_hu": "Ez a rettenetes, iszonyatos, felfoghatatlan gyilkosságsorozat úgy kellett Tuskéknak, mint egy falat kenyér."
+  },
+  {
+    "group_id": "group_f6d8c85b6e",
+    "fingerprint": "17146dd3e4f30c1c366db42ea9d7ee0d",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261109/1794198249-temp-5ljjcp60pfr9amhooef_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Trump szerint „túl kemény” volt a bevándorlásellenes fellépés, és ez is közrejátszott a republikánusok vereségében",
+        "link": "https://telex.hu/kulfold/2026/11/09/donald-trump-bevandorlas-intezkedesek-tul-kemeny-interju-felidos-valasztas"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Trump elismerte: túl szigorúan léptek fel a bevándorlókkal szemben, és ez közrejátszhatott a választási vereségben",
+        "link": "https://hvg.hu/vilag/20261109_donald-trump-egyesult-allamok-bevandorlas-felidos-valasztasok-vereseg"
+      }
+    ],
+    "published_at": 1794204488,
+    "title_hu": "Trump szerint a túl szigorú bevándorláspolitika is hozzájárult a republikánusok vereségéhez",
+    "lead_hu": "Donald Trump elismerte, hogy kormánya a kelleténél keményebben lépett fel az illegális bevándorlókkal szemben, és ez politikailag árthatott a republikánusoknak a félidős választásokon. Az amerikai elnök jelezte, hogy kész lenne együttműködni a kongresszusi demokratákkal, de konkrét javaslatot nem ismertetett.",
+    "content_hu": "• **Trump elismerése** Az elnök szerint a bevándorlók elleni túl szigorú fellépés is közrejátszhatott a republikánusok választási vereségében.\n\n• **Kitoloncolások** Trump arról beszélt, hogy olyan embereket is eltávolítottak az országból, akik dolgoztak, és nem követtek el súlyos bűncselekményt.\n\n• **Együttműködés a demokratákkal** Az elnök kész lenne közösen dolgozni a kongresszusi demokratákkal a bevándorlás ügyén, de konkrét terveket nem közölt."
+  },
+  {
+    "group_id": "group_37e2ad9592",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Kiakadtak a kutyatulajdonosok: 150 ezres csekkeket szór ki a gyömrői önkormányzat",
+        "link": "https://www.atv.hu/belfold/20261109/gyomro-birsag-kutyak-milliard/"
+      }
+    ],
+    "published_at": 1794204420,
+    "title_hu": "Kiakadtak a kutyatulajdonosok: 150 ezres csekkeket szór ki a gyömrői önkormányzat",
+    "lead_hu": "150 ezres bírságokat szór ki a kutyásoknak a gyömrői városvezetés a volt polgármester szerint: egymilliárdos lehúzás fenyegeti a gazdikat?",
+    "content_hu": "150 ezres bírságokat szór ki a kutyásoknak a gyömrői városvezetés a volt polgármester szerint: egymilliárdos lehúzás fenyegeti a gazdikat?"
+  },
+  {
+    "group_id": "group_b6899e8507",
+    "category": "Általános",
+    "image": "https://galeria.index.hu/kulfold/2026/11/02/tiktok-sztar_lett_jasper_a_macska/",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Ez a macska az internet legújabb sztárja, Freddie Mercurynak öltözve vitte el a show-t",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/09/tiktok-sztar-macska-freddie-mercury/"
+      }
+    ],
+    "published_at": 1794204369,
+    "title_hu": "Ez a macska az internet legújabb sztárja, Freddie Mercurynak öltözve vitte el a show-t",
+    "lead_hu": "",
+    "content_hu": ""
+  },
+  {
+    "group_id": "group_80b7f3e6b5",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/kismama-netes-rendele.548bd297.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "3 holmi, amit soha ne vegyél meg a neten! Százezreket bukhatsz rajta",
+        "link": "https://femina.hu/gyerek/gyerekholmi-online-vasarlas-veszelyei/"
+      }
+    ],
+    "published_at": 1794204300,
+    "title_hu": "3 holmi, amit soha ne vegyél meg a neten! Százezreket bukhatsz rajta",
+    "lead_hu": "Olcsónak tűnhet babakocsit az internetről vásárolni, de könnyen lehet, hogy kétszer fizetsz érte.",
+    "content_hu": "Olcsónak tűnhet babakocsit az internetről vásárolni, de könnyen lehet, hogy kétszer fizetsz érte."
+  },
+  {
+    "group_id": "group_dc1d30736a",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Mindenki őrültnek nézte, mára 60 nagymacskát nevelt fel Tibor a saját kezével – a MagánZoo története",
+        "link": "https://nlc.hu/szabadido/20261109/maganzoo-nagymacska-sajat-allatkert/w7w9m4h"
+      }
+    ],
+    "published_at": 1794204180,
+    "title_hu": "Mindenki őrültnek nézte, mára 60 nagymacskát nevelt fel Tibor a saját kezével – a MagánZoo története",
+    "lead_hu": "Tibor több mint 30 évvel ezelőtt döntötte el, ő bizony nyit egy saját állatkertet. Ötletét mindenki őrültségnek tartotta, ez viszont egy cseppet sem tántorította el a tervétől, sőt: teljesen biztos vo…",
+    "content_hu": "Tibor több mint 30 évvel ezelőtt döntötte el, ő bizony nyit egy saját állatkertet. Ötletét mindenki őrültségnek tartotta, ez viszont egy cseppet sem tántorította el a tervétől, sőt: teljesen biztos volt benne, hogy neki ez az útja. 1995-ben meg is nyitotta a MagánZoot, ahol Magyarországon egyedülállóként kezdte saját kézzel nevelni oroszlánjait és tigriseit. Tibor szerint ezek a nagymacskák közel sem olyan vérszomjasak, mint elsőre gondolnánk. A tejszínhabért például egyenesen rajonganak! The post Mindenki őrültnek nézte, mára 60 nagymacskát nevelt fel Tibor a saját kezével – a MagánZoo története first appeared on nlc."
+  },
+  {
+    "group_id": "group_9802c741ea",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261104/1793807320-temp-h1gvf4f07d3a5aibbje_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Térképen a háziorvoshiány: van, ahol 22 éve nincs orvos, kétszázhúsz településtől fél óra az út a sürgősségire",
+        "link": "https://telex.hu/belfold/2026/11/09/praxisterkep-haziorvosok-korzetek-szama-betoltetlen-orvoshiany-adatok"
+      },
+      {
+        "source": "ATV",
+        "title": "Súlyos az orvoshiány: Nógrádban harmadannyi orvos jut a betegekre",
+        "link": "https://www.atv.hu/belfold/20261109/orvos-nograd-budapest-kutatas/"
+      }
+    ],
+    "published_at": 1794204098,
+    "title_hu": "Térképen a háziorvoshiány: van, ahol 22 éve nincs orvos, kétszázhúsz településtől fél óra az út a sürgősségire",
+    "lead_hu": "Közel 1,4 millió ember él olyan körzetben, ahol nincs állandó háziorvos. A betöltetlen praxis, a szegénység, a lakosság elöregedése és a halálozás egymást erősítő tényezők. A hazai alapellátás kínzó p...",
+    "content_hu": "Közel 1,4 millió ember él olyan körzetben, ahol nincs állandó háziorvos. A betöltetlen praxis, a szegénység, a lakosság elöregedése és a halálozás egymást erősítő tényezők. A hazai alapellátás kínzó problémái válnak láthatóvá az interaktív térképre tett adatokból.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_34174176bd",
+    "category": "Gazdaság",
+    "image": "https://cdn.portfolio.hu/articles/images-xl/g/e/t/gettyimages-2170182165-serteshus-hus-elelmiszer-husipar-kiskereskedelem-elelmiszerbolt-vasar-836400.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megint beindulhat az áremelkedés Magyarországon? – Napokon belül friss számokat látunk",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/megint-beindulhat-az-aremelkedes-magyarorszagon-napokon-belul-friss-szamokat-latunk-874782"
+      }
+    ],
+    "published_at": 1794204000,
+    "title_hu": "Megint beindulhat az áremelkedés Magyarországon? – Napokon belül friss számokat látunk",
+    "lead_hu": "Összességében továbbra is nagyon visszafogott az árnyomás a magyar gazdaságban, bár az elmúlt hónapokban már láttunk némi élénkülést. Októberben ez a tendencia folytatódhat, azonban az elemzők szerint…",
+    "content_hu": "Összességében továbbra is nagyon visszafogott az árnyomás a magyar gazdaságban, bár az elmúlt hónapokban már láttunk némi élénkülést. Októberben ez a tendencia folytatódhat, azonban az elemzők szerint azonban csak most kezdhet beindulni a drágulás, 2027 végére akár 3 százalék felett is lehet az éves infláció."
+  },
+  {
+    "group_id": "group_6da21ea58b",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/09/FRj7wgEiBoCrQr7iEmfY6Oee7LUOH4SBN-vBkRL2PSc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU1ZTM5NjBmM2FlZDRmZDc4N2U3NTI3Yzc0YmNlNzlh.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Megérkeztek az eladók – az OTP és a Mol kilátásai is negatívak",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/otp-mol-richter-mtel-tozsde-technikai-elemzes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794204000,
+    "title_hu": "Megérkeztek az eladók – az OTP és a Mol kilátásai is negatívak",
+    "lead_hu": "A Magyar Telekom rövid távú technikai képe mondható kedvezőnek, a Richteré semleges, az OTP és a Mol esetében fennáll a letörés veszélye.",
+    "content_hu": "A Magyar Telekom rövid távú technikai képe mondható kedvezőnek, a Richteré semleges, az OTP és a Mol esetében fennáll a letörés veszélye."
+  },
+  {
+    "group_id": "group_9e86b4a58a",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/10/udDTcH-UfokbBQR6FOfxm4rAUDEcznyFdFNyB_78dbg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FkNWJjNjMxMTk0NzQ3NDU4NjA2MTFkN2NhNzA5MmYx.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Ne felejtsd otthon az esernyőt! Ilyen időjárással veszi kezdetét a hét",
+        "link": "https://borsonline.origo.hu/kozelet/2026/11/idojaras-elorejelzes-hetfo-kod-nap"
+      }
+    ],
+    "published_at": 1794204000,
+    "title_hu": "Ne felejtsd otthon az esernyőt! Ilyen időjárással veszi kezdetét a hét",
+    "lead_hu": "Mutatjuk a részleteket!",
+    "content_hu": "Mutatjuk a részleteket!"
+  },
+  {
+    "group_id": "group_f2386d1150",
+    "fingerprint": "bd377ae9dd46d349c3ab29d58b42aaf7",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/szoboszlai-1-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Nem jó hír a válogatottnak: a liverpooli edző szerint Szoboszlai nincs százszázalékos állapotban",
+        "link": "https://24.hu/sport/foci/2026/11/08/angol-foci-liverpool-serules-andoni-iraola-szoboszlai-dominik/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Szoboszlai azonnal üzent, miután a Liverpool edzője aggasztó kijelentést tett róla",
+        "link": "https://magyarnemzet.hu/sport/2026/11/szoboszlai-serules-iraola-liverpool-magyar-valogatott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794203945,
+    "title_hu": "Szoboszlai üzent a szurkolóknak, de továbbra is kérdéses a válogatott szereplése",
+    "lead_hu": "Szoboszlai Dominik térde nincs százszázalékos állapotban, ezért orvosi vizsgálatra van szükség, mielőtt eldől, csatlakozhat-e a magyar válogatotthoz. A Liverpool 3–1-es győzelme után a középpályás bizakodó üzenetet küldött a szurkolóknak, de állapotáról nem közölt részleteket.",
+    "content_hu": "• **Szoboszlai bizakodó üzenetet küldött** A lefújás után azt írta a Liverpool szurkolóinak: „Jó élménnyel vágunk neki a szünetnek. Hamarosan találkozunk, Vörösök!” Arról azonban nem beszélt, milyen állapotban van a térde, vagy csatlakozik-e a válogatotthoz.\n\n• **A Crystal Palace ellen a 69. percben cserélték le** A Liverpool 3–1-re nyert, Kerkez Milos végigjátszotta a találkozót, Szoboszlai viszont nem fejezte be a mérkőzést.\n\n• **Kérdéses lehet az északírek elleni mérkőzés** A Belfast News Letter szerint Szoboszlai szereplése is bizonytalan a november 17-i, budapesti Nemzetek Ligája-találkozón. Az északírek egy ponttal vezetik a csoportot Magyarország előtt, és négy mérkőzésen még gólt sem kaptak.\n\n• **Korábban is vita alakult ki a terhelése körül** Az októberi Nemzetek Ligája-szünetben Szoboszlai mind a négy mérkőzésen pályára lépett, majd izomproblémák miatt több klubmeccset kihagyott. Marco Rossi szerint elfáradva, nem sérülten tért vissza Liverpoolba; az MLSZ cáfolta, hogy sérülten érkezett volna vissza."
+  },
+  {
+    "group_id": "group_ec7a46b27e",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/sztarban-sztar-donto.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "A Sztárban Sztár nyertesén kiakadt a nézők egy része: még az énekes is bevallotta, nem ő volt a legjobb",
+        "link": "https://femina.hu/hazai_sztar/a-sztarban-sztar-nyertese-2026/"
+      }
+    ],
+    "published_at": 1794203945,
+    "title_hu": "A Sztárban Sztár nyertesén kiakadt a nézők egy része: még az énekes is bevallotta, nem ő volt a legjobb",
+    "lead_hu": "A Sztárban Sztár fináléjának eredményével még maga a győztes sem volt elégedett.",
+    "content_hu": "A Sztárban Sztár fináléjának eredményével még maga a győztes sem volt elégedett."
+  },
+  {
+    "group_id": "group_eecb8dc1a0",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2291035311-1024x575.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hétfői friss hírek, forgalom, időjárás – Reggeli pakk",
+        "link": "https://24.hu/belfold/2026/11/09/hetfoi-friss-hirek-forgalom-idojaras-reggeli-pakk-456/"
+      }
+    ],
+    "published_at": 1794203939,
+    "title_hu": "Hétfői friss hírek, forgalom, időjárás – Reggeli pakk",
+    "lead_hu": "Csökkent a Fidesz támogatottsága, kevesebbe kerülhet az üzemanyag, nyomoznak a HM 12 milliárdos szerződése miatt. The post Hétfői friss hírek, forgalom, időjárás – Reggeli pakk first appeared on 24.hu…",
+    "content_hu": "Csökkent a Fidesz támogatottsága, kevesebbe kerülhet az üzemanyag, nyomoznak a HM 12 milliárdos szerződése miatt. The post Hétfői friss hírek, forgalom, időjárás – Reggeli pakk first appeared on 24.hu."
+  },
+  {
+    "group_id": "group_2554fbfebd",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/HDWr9gMzMzAgaR-V8Q2IrFITyBAIrEdNATyQcSReMMk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZiMWE3ODYwNmJkMjRiNjZhYWQzZjUwYzg4ZjBkYzQw.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Vásárhelyi Mária páros lábbal szállt bele Magyar Péterékbe a tiszás ügynökbotrány miatt: „Nincs garancia arra, hogy az iratokat nem manipulálják”",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/vasarhelyi-maria-paros-labbal-szallt-bele-magyar-peterekbe-a-tiszas-ugynokbotrany-miatt-nincs-garancia-arra-hogy-az-iratokat-nem-manipulaljak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794203829,
+    "title_hu": "Vásárhelyi Mária páros lábbal szállt bele Magyar Péterékbe a tiszás ügynökbotrány miatt: „Nincs garancia arra, hogy az iratokat nem manipulálják”",
+    "lead_hu": "A szociológus szerint a hiányos dokumentumok közzététele nem segíti a történelmi szembenézést, miközben a valódi felelősök háttérben maradhatnak.",
+    "content_hu": "A szociológus szerint a hiányos dokumentumok közzététele nem segíti a történelmi szembenézést, miközben a valódi felelősök háttérben maradhatnak."
   },
   {
     "group_id": "group_4a723f01b2",
@@ -98,7 +770,8 @@
     "published_at": 1794203165,
     "title_hu": "Tizennégyen haltak meg egy kínai toronyház tüzében",
     "lead_hu": "Tizennégy ember vesztette életét egy vasárnap délutáni tűzben az észak-kínai Tajjüan egyik toronyházában. A lángokat mintegy két óra alatt oltották el, a tűz keletkezésének okát vizsgálják.",
-    "content_hu": "• **A tűz helyszíne és időpontja** A lángok vasárnap délután csaptak fel a Sanhszi tartomány székhelyén, Tajjüanban álló toronyházban.\n\n• **Áldozatok és sérültek** A hatóságok 14 halálos áldozatot erősítettek meg, 38 embert pedig kórházba szállítottak.\n\n• **Oltás és vizsgálat** A tüzet mintegy két óra alatt sikerült eloltani, a mentést később fejezték be. A tűz keletkezésének okát vizsgálják."
+    "content_hu": "• **A tűz helyszíne és időpontja** A lángok vasárnap délután csaptak fel a Sanhszi tartomány székhelyén, Tajjüanban álló toronyházban.\n\n• **Áldozatok és sérültek** A hatóságok 14 halálos áldozatot erősítettek meg, 38 embert pedig kórházba szállítottak.\n\n• **Oltás és vizsgálat** A tüzet mintegy két óra alatt sikerült eloltani, a mentést később fejezték be. A tűz keletkezésének okát vizsgálják.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_e15eb3a0fa",
@@ -171,31 +844,6 @@
     "title_hu": "Újabb fiaskó az ügynökaktákban, megdöbbentő név bukkant fel az iratokban",
     "lead_hu": "Újabb bonyodalom az ügynökakták körül. Nógrádi László, a KDNP korábbi alelnöke „Sziklay” fedőnéven szerepel az iratokban; a volt politikus szerint azonban a dokumentumok éppen azt bizonyítják, hogy an…",
     "content_hu": "Újabb bonyodalom az ügynökakták körül. Nógrádi László, a KDNP korábbi alelnöke „Sziklay” fedőnéven szerepel az iratokban; a volt politikus szerint azonban a dokumentumok éppen azt bizonyítják, hogy annak idején őt figyelték meg, nem pedig ő volt a megfigyelő."
-  },
-  {
-    "group_id": "group_f664c8e122",
-    "fingerprint": "7b33bc2a48fbf75fa28335245553c9fd",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8103a0c3-82a3-49ec-a3a0-117c922de1c1.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Medián: Támogatói negyedét elvesztette a Fidesz, a Tisza tábora stabil",
-        "link": "https://hvg.hu/360/20261109_median-fidesz-tisza-partpreferencia-ebx"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Medián: A Tisza Párt 1, a Fidesz 6 százalékot veszített a teljes népességben",
-        "link": "https://telex.hu/belfold/2026/11/09/median-partpreferenciak-november-felmeres-tisza-part-fidesz"
-      }
-    ],
-    "published_at": 1794202403,
-    "title_hu": "Medián: jelentősen visszaesett a Fidesz támogatottsága",
-    "lead_hu": "A Medián novemberi felmérése szerint a teljes népesség 16 százaléka támogatja a Fideszt, ami jelentős visszaesés a szeptemberi adatokhoz képest. A Tisza Párt támogatottsága eközben lényegében nem változott.",
-    "content_hu": "• **A Fidesz visszaesése** A párt támogatottsága a teljes népesség körében 16 százalékra csökkent, hat százalékponttal maradva el a szeptemberi mérés eredményétől.\n\n• **A Tisza támogatottsága** A Medián adatai szerint a Tisza Párt támogatottsága alig változott; a felmérésről szóló beszámolók az elmozdulás irányát eltérően jelzik.\n\n• **A választók témái** A kutatás szerint az elszámoltatás és a költségvetés foglalkoztatja leginkább a magyarokat."
   },
   {
     "group_id": "group_881072db63",
@@ -398,9 +1046,9 @@
       }
     ],
     "published_at": 1794201838,
-    "title_hu": "Kivégezték a januári tüntetések három vádlottját Iránban",
-    "lead_hu": "Iránban kivégeztek három férfit, akiket a januári kormányellenes tüntetések során elkövetett fegyveres cselekményekkel vádoltak. Az iráni állami források szerint a Legfelsőbb Bíróság megerősítette a halálos ítéleteket.",
-    "content_hu": "• **Három férfit végeztek ki** – Hasszán Divbandot, Hámid Kazemit és Reza Zanganeh-t a hatóságok szerint a januári megmozdulások során elkövetett fegyveres cselekmények miatt ítélték halálra.\n\n• **A vádak között gyújtogatás és fegyverhasználat szerepelt** – Az állami közlések szerint a férfiak Molotov-koktélokat, szúró-vágó eszközöket és lőfegyvereket használtak, valamint közintézményeket gyújtottak fel Karadzs városában.\n\n• **A tüntetések gazdasági okokból indultak** – A 2025 decemberében, a megélhetési költségek emelkedése miatt kezdődő demonstrációk január 8-án és 9-én tetőztek, majd kormányellenes megmozdulásokká szélesedtek.\n\n• **A hatóságok és a független szervezetek eltérően számoltak be az áldozatokról** – Az iráni hivatalos közlések több mint háromezer halálesetet említettek, míg külföldi civil szervezetek ennél magasabb áldozatszámról számoltak be."
+    "title_hu": "Kivégezték három, a januári iráni tüntetések miatt elítélt férfit",
+    "lead_hu": "Iránban kivégezték Hasszán Divbandot, Hámid Kazemit és Reza Zanganeh-t, akiket a hatóságok a januári kormányellenes tüntetések során elkövetett fegyveres cselekményekkel vádoltak. Az iráni igazságszolgáltatás szerint a Legfelsőbb Bíróság megerősítette az ítéleteket.",
+    "content_hu": "• **A kivégzések** Az iráni állami közlések szerint a három férfi halálos ítéletét a Legfelsőbb Bíróság jóváhagyása után hajtották végre.\n\n• **A vádak** A hatóságok szerint a férfiak Molotov-koktélokat és fegyvereket használtak, valamint közintézményeket gyújtottak fel a Teherántól nyugatra fekvő Karadzsban. Azt állították, hogy Izrael, az Egyesült Államok és más ellenséges csoportok érdekében cselekedtek.\n\n• **A tüntetések** A megélhetési költségek emelkedése miatt 2025 decemberében kezdődő demonstrációk január 8–9-én tetőztek, és kormányellenes megmozdulásokká szélesedtek.\n\n• **Az áldozatok száma** Az iráni hatóságok több mint háromezer halálesetről számoltak be, míg független értékelések szerint az áldozatok száma ennél magasabb lehetett."
   },
   {
     "group_id": "group_2929b3766c",
@@ -419,24 +1067,6 @@
     "title_hu": "Trump Putyinnal és Hszi Csin-pinggel is találkozna a kínai APEC-csúcson",
     "lead_hu": "Ha a háromoldalú egyeztetés megvalósul, az az első ilyen találkozó lenne a három vezető között. Az amerikai elnök közlése szerint a megbeszéléseken a nukleáris leszerelésről és az iráni háború lezárás…",
     "content_hu": "Ha a háromoldalú egyeztetés megvalósul, az az első ilyen találkozó lenne a három vezető között. Az amerikai elnök közlése szerint a megbeszéléseken a nukleáris leszerelésről és az iráni háború lezárásáról is tárgyalhatnak."
-  },
-  {
-    "group_id": "group_18106b300b",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/000_d6rt6t3-e1794201631225-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Trump azt mondta, csak viccelt, amikor a Fehér Ház szóvivőjének kérte fel a UFC elnökét",
-        "link": "https://24.hu/kulfold/2026/11/09/trump-feher-hazi-szovivo-ufc-dana-white-vicc/"
-      }
-    ],
-    "published_at": 1794201653,
-    "title_hu": "Trump azt mondta, csak viccelt, amikor a Fehér Ház szóvivőjének kérte fel a UFC elnökét",
-    "lead_hu": "A szóvivői poszt továbbra is betöltetlen. The post Trump azt mondta, csak viccelt, amikor a Fehér Ház szóvivőjének kérte fel a UFC elnökét first appeared on 24.hu.",
-    "content_hu": "A szóvivői poszt továbbra is betöltetlen. The post Trump azt mondta, csak viccelt, amikor a Fehér Ház szóvivőjének kérte fel a UFC elnökét first appeared on 24.hu."
   },
   {
     "group_id": "group_2f5e7106c8",
@@ -514,8 +1144,8 @@
     ],
     "published_at": 1794201469,
     "title_hu": "Több tényező is lefelé húzza a magyar üzemanyagárakat",
-    "lead_hu": "A nemzetközi olajárak mérséklődése és a forint erősödése hozzájárulhat az üzemanyagárak csökkenéséhez Magyarországon. A szakértők szerint a benzinpiac kedvezőbb helyzetben van, a dízel kínálata viszont továbbra is szűkös.",
-    "content_hu": "• **Enyhülő geopolitikai kockázatok** A közel-keleti konfliktushoz kapcsolódó kockázati felár csökkenése lefelé mozdíthatja az olajárakat; a piac már korábban is beárazta a feszültségek enyhülésének lehetőségét.\n\n• **Mérséklődő hazai árak** A nemzetközi olaj- és termékárak változását a forint dollárral szembeni erősödése is kiegészítheti, mivel az energiahordozókat jellemzően dollárban jegyzik. A nagykereskedelmi árak csökkenése már megjelent a hazai árazásban.\n\n• **Eltérő benzin- és dízelpiac** Európában a gyengébb kereslet, a növekvő készletek és a megfelelő kínálat a benzin árát mérsékli. A dízelpiac ezzel szemben feszes maradt az ellátási zavarok, a korlátozott export és a téli kereslet miatt.\n\n• **Továbbra is bizonytalan kilátások** Egy újabb geopolitikai eszkaláció gyorsan megfordíthatja az ármozgást, ezért a következő időszakban is jelentős ingadozások lehetségesek."
+    "lead_hu": "A nemzetközi olajárak csökkenése és a forint erősödése is hozzájárulhatott ahhoz, hogy mérséklődtek a hazai üzemanyagárak. A szakértők szerint a benzinpiacon a kereslet gyengülése és a növekvő készletek, a dízelnél pedig a stratégiai tartalékok piacra engedése enyhítheti az árnyomást.",
+    "content_hu": "• **Csökkenő olajárak** A közel-keleti konfliktus enyhülésének lehetősége mérsékelheti a geopolitikai kockázati felárat; a piaci várakozások már az amerikai választásokat megelőzően lefelé mozdították az olajárakat.\n\n• **Olcsóbb benzin** Európában a gyengébb kereslet, a finomítók magas termelése és a növekvő készletek együttesen nyomják lefelé a benzinárakat.\n\n• **A dízelpiac feszesebb** A gázolaj kínálata továbbra is szűkös, de több európai ország stratégiai készleteinek felszabadítása növelheti a rövid távon elérhető mennyiséget.\n\n• **A forint is számít** Mivel az olajat és az olajtermékeket jellemzően dollárban árazzák, a forint erősödése csökkentheti a hazai beszerzési költségeket.\n\n• **A csökkenés nem biztos, hogy tartós** A geopolitikai helyzet és az ellátási zavarok gyorsan megfordíthatják az ármozgásokat."
   },
   {
     "group_id": "group_3dd3db5028",
@@ -578,7 +1208,7 @@
     "image": "https://cdn.magyarnemzet.hu/2026/11/M9vjx2TyuKXGguOEl5RokLOV-GrESeIo-xDHgemJlgk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViMzU2ZDY1NTA3YTQyZTU4MmM1MGNlYWQ0ZjBhMDYy.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Világgazdaság",
@@ -589,12 +1219,33 @@
         "source": "Világgazdaság",
         "title": "Előre szólt Ukrajna: olyan bírósági per készül az aranykonvoj-botrányban, ami sokkolni fogja a magyarokat – „Már nagyon-nagyon közel van”",
         "link": "https://www.vg.hu/kozelet/2026/11/aranykonvoj-ukran-magyar-talakozo-nagykovet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Gyászol a magyar futball: elhunyt az Újpest válogatott legendája",
+        "link": "https://magyarnemzet.hu/sport/2026/11/gyasz-rothermel-adam-elhunyt-ujpest-olimpiai-ezustermes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Nógrádi László: Megfigyelt voltam, nem megfigyelő",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/nogradi-laszlo-megfigyelt-voltam-nem-megfigyelo"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Magyar Péter: mind a 106 egyéni helyet a Tisza nyerné, ha most lenne a választás",
+        "link": "https://hvg.hu/itthon/20261109_magyar-peter-mind-a-106-egyeni-helyet-a-tisza-nyerne-ha-most-lenne-a-valasztas"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "„Mind a 106 egyéni képviselői helyet a Tisza nyerné” – Magyar Péter reagált a Medián-felmérésre",
+        "link": "https://index.hu/belfold/2026/11/09/magyar-peter-median-felmeres-tisza-part-fidesz-tamogatottsag/"
       }
     ],
     "published_at": 1794200944,
     "title_hu": "Közel lehet az aranykonvoj ügyének bírósági tárgyalása",
     "lead_hu": "Ukrajna magyarországi nagykövete szerint hamarosan bíróság elé kerülhet az ukrán Oschadbank pénzszállítóinak 2026 márciusi letartóztatásához kapcsolódó aranykonvoj-ügy. A diplomata az ukrán–magyar kapcsolatok rendezéséről és a vitás kérdések állásáról is beszélt.",
-    "content_hu": "• **Közeleg a tárgyalás:** Sándor nagykövet szerint az aranykonvoj-ügyben már nagyon közel van a bírósági eljárás, de további részleteket nem közölt. Úgy vélte, az érintettek nevének nyilvánosságra kerülése meglepetést okozhat.\n\n• **A letartóztatásokhoz kapcsolódik:** Az ügy az ukrán állami Oschadbank pénzszállítóinak 2026 márciusában történt magyarországi letartóztatásával függ össze.\n\n• **Haladnak a kétoldalú egyeztetések:** A nagykövet közlése szerint a 11 vitás kérdésből ötöt már egyeztettek és törvényhozási szinten jóváhagytak; további öt rendezését a jövő évre tervezik. A fennmaradó ügy az ukrajnai nemzeti közösségek parlamenti képviselete.\n\n• **Oktatási jogokról is megállapodtak:** Az ukrán parlament elfogadta a nemzeti kisebbségek oktatási jogairól szóló törvényt. A nagykövet szerint a szabályozás a magyar közösség mellett valamennyi ukrajnai nemzeti közösségre kiterjed."
+    "content_hu": "• **Közeleg a tárgyalás:** Sándor nagykövet szerint az aranykonvoj-ügyben már nagyon közel van a bírósági eljárás, de további részleteket nem közölt. Úgy vélte, az érintettek nevének nyilvánosságra kerülése meglepetést okozhat.\n\n• **A letartóztatásokhoz kapcsolódik:** Az ügy az ukrán állami Oschadbank pénzszállítóinak 2026 márciusában történt magyarországi letartóztatásával függ össze.\n\n• **Haladnak a kétoldalú egyeztetések:** A nagykövet közlése szerint a 11 vitás kérdésből ötöt már egyeztettek és törvényhozási szinten jóváhagytak; további öt rendezését a jövő évre tervezik. A fennmaradó ügy az ukrajnai nemzeti közösségek parlamenti képviselete.\n\n• **Oktatási jogokról is megállapodtak:** Az ukrán parlament elfogadta a nemzeti kisebbségek oktatási jogairól szóló törvényt. A nagykövet szerint a szabályozás a magyar közösség mellett valamennyi ukrajnai nemzeti közösségre kiterjed.",
+    "importance_score": 75.0
   },
   {
     "group_id": "group_3aa6849c43",
@@ -649,24 +1300,6 @@
     "title_hu": "Akár 10 évvel megrövidítheti az életed: ez történik a testeddel, ha egész nap ülsz",
     "lead_hu": "A modern kor egyik kellemetlen velejárója az ülő életmód, ami jelentősen megterheli a szervezetet és felgyorsítja az öregedési folyamatokat.",
     "content_hu": "A modern kor egyik kellemetlen velejárója az ülő életmód, ami jelentősen megterheli a szervezetet és felgyorsítja az öregedési folyamatokat."
-  },
-  {
-    "group_id": "group_f6d8c85b6e",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261109/1794198249-temp-5ljjcp60pfr9amhooef_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Trump szerint „túl kemény” volt a bevándorlásellenes fellépés, és ez is közrejátszott a republikánusok vereségében",
-        "link": "https://telex.hu/kulfold/2026/11/09/donald-trump-bevandorlas-intezkedesek-tul-kemeny-interju-felidos-valasztas"
-      }
-    ],
-    "published_at": 1794200546,
-    "title_hu": "Trump szerint „túl kemény” volt a bevándorlásellenes fellépés, és ez is közrejátszott a republikánusok vereségében",
-    "lead_hu": "Az amerikai elnök belengette, hogy hajlandó lenne együttműködni a kérdésben a demokratákkal.",
-    "content_hu": "Az amerikai elnök belengette, hogy hajlandó lenne együttműködni a kérdésben a demokratákkal."
   },
   {
     "group_id": "group_3e953a4969",
@@ -813,24 +1446,6 @@
     "content_hu": "A Gáspár család neve összeforrt az Ázsia Expresszel."
   },
   {
-    "group_id": "group_2c2d560a80",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/10/central-0764267241-masolat-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "67 millió forintot követelnek a pilóták a Wizz Airtől – a magyar munkaerőpiac egészére hatással lehet a per",
-        "link": "https://24.hu/fn/gazdasag/2026/11/09/wizz-air-per-67-millio-forint-pilotak-24extra/"
-      }
-    ],
-    "published_at": 1794200322,
-    "title_hu": "67 millió forintot követelnek a pilóták a Wizz Airtől – a magyar munkaerőpiac egészére hatással lehet a per",
-    "lead_hu": "Első fokon a pilótáknak adtak igazat, másodfokon viszont az ítélőtábla az Alkotmánybírósághoz fordult, ugyanis probléma lehet magával a munka törvénykönyvével. The post 67 millió forintot követelnek a…",
-    "content_hu": "Első fokon a pilótáknak adtak igazat, másodfokon viszont az ítélőtábla az Alkotmánybírósághoz fordult, ugyanis probléma lehet magával a munka törvénykönyvével. The post 67 millió forintot követelnek a pilóták a Wizz Airtől – a magyar munkaerőpiac egészére hatással lehet a per first appeared on 24.hu."
-  },
-  {
     "group_id": "group_016402e011",
     "category": "Bulvár",
     "image": "",
@@ -855,7 +1470,7 @@
     "image": "https://s.24.hu/app/uploads/2026/11/hideg-e1794128365311-1024x577.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
@@ -871,12 +1486,18 @@
         "source": "Portfolio - Gazdaság",
         "title": "Ónos esővel és kemény fagyokkal rúgja be az ajtót a tél Magyarországon",
         "link": "https://www.portfolio.hu/gazdasag/20261108/onos-esovel-es-kemeny-fagyokkal-rugja-be-az-ajtot-a-tel-magyarorszagon-874972"
+      },
+      {
+        "source": "ATV",
+        "title": "Viharos szél, hatalmas eső és mínusz 8 fok: durva időjárási fordulat jön Magyarországon",
+        "link": "https://www.atv.hu/belfold/20261109/vihar-eso-szel-fagy-idojaras/"
       }
     ],
     "published_at": 1794198900,
     "title_hu": "Mínusz 10,3 fokot mértek Zabaron: jönnek a fagyos, csapadékos napok",
     "lead_hu": "Vasárnap hajnalban Zabaron mínusz 10,3 Celsius-fokig süllyedt a hőmérséklet, ezzel új szezonális hidegrekord született. A következő napokban változékonyabb idő várható: eső, zápor, helyenként ónos eső és fagy is előfordulhat.",
-    "content_hu": "• **Új szezonális hidegrekord született** vasárnap hajnalban: a Nógrád megyei Zabarban mínusz 10,3 Celsius-fokot mértek, idén ősszel először csökkent mínusz 10 fok alá a hőmérséklet.\n\n• **A héten többször is megdőlt a szezon hidegrekordja:** csütörtökön, pénteken és szombaton is új érték született; a vasárnapi mérés előtt a szombati, zabari mínusz 9,3 fok volt a rekord.\n\n• **A november 8-i országos hidegrekord továbbra is 1908-as:** Debrecen-Pallagon mínusz 13,6 Celsius-fokot mértek. A napi melegrekord 25,5 fok, amelyet 1997-ben szintén Debrecenben regisztráltak.\n\n• **Ónos eső is előfordulhat:** vasárnap éjszaka a déli és középső országrészben elszórtan eső vagy zápor várható, az Északi-középhegységben pedig gyenge ónos eső sem kizárt.\n\n• **A következő napok időjárása változékony lesz:** hétfőn helyenként még csapadék hullhat, kedden nyugat felől beborulhat az ég, és többfelé eső, zápor érkezhet. Szerdán is sokfelé felhős időre és elszórt záporokra van kilátás."
+    "content_hu": "• **Új szezonális hidegrekord született** vasárnap hajnalban: a Nógrád megyei Zabarban mínusz 10,3 Celsius-fokot mértek, idén ősszel először csökkent mínusz 10 fok alá a hőmérséklet.\n\n• **A héten többször is megdőlt a szezon hidegrekordja:** csütörtökön, pénteken és szombaton is új érték született; a vasárnapi mérés előtt a szombati, zabari mínusz 9,3 fok volt a rekord.\n\n• **A november 8-i országos hidegrekord továbbra is 1908-as:** Debrecen-Pallagon mínusz 13,6 Celsius-fokot mértek. A napi melegrekord 25,5 fok, amelyet 1997-ben szintén Debrecenben regisztráltak.\n\n• **Ónos eső is előfordulhat:** vasárnap éjszaka a déli és középső országrészben elszórtan eső vagy zápor várható, az Északi-középhegységben pedig gyenge ónos eső sem kizárt.\n\n• **A következő napok időjárása változékony lesz:** hétfőn helyenként még csapadék hullhat, kedden nyugat felől beborulhat az ég, és többfelé eső, zápor érkezhet. Szerdán is sokfelé felhős időre és elszórt záporokra van kilátás.",
+    "importance_score": 55.0
   },
   {
     "group_id": "group_d5af0d71c6",
@@ -1153,7 +1774,8 @@
     "published_at": 1794195240,
     "title_hu": "Akár 300 ezer forintos bírságot is kaphat, aki hulladékot éget otthon",
     "lead_hu": "Az Élő Környezetért Felelős Minisztérium az égetésellenes világnap alkalmából figyelmeztetett az illegális hulladékégetés veszélyeire. A szabályszegők akár 300 ezer forintos bírságot kaphatnak, súlyosabb esetben pedig bűncselekményt is elkövethetnek.",
-    "content_hu": "• **Nyílt téren tilos** Magyarországon hulladékot égetni; háztartási tüzelőberendezésben kizárólag a háztartásban keletkező papírhulladék és a veszélyesnek nem minősülő, kezeletlen fahulladék égethető el.\n\n• **Akár 300 ezer forintos bírság** is járhat a szabályok megszegéséért, súlyosabb esetben pedig az illegális hulladékégetés bűncselekménynek minősülhet.\n\n• **Egészségügyi kockázatokkal jár** a műanyagok és más hulladékok égetése: a levegőbe kerülő szennyező anyagok növelhetik többek között a rák, a szívinfarktus, az agyvérzés és a magzati genetikai károsodás kockázatát.\n\n• **Kilométeres körzetben is szennyezhet** akár egyetlen hulladékkal tüzelő háztartás vagy kisüzem. A minisztérium szerint az ilyen égetés a szén- vagy olajtüzelésű erőműveknél kétszer annyi szén-dioxidot bocsáthat ki.\n\n• **A komposztálás és az újrahasznosítás alternatíva**: a tárca a hulladék mennyiségének csökkentését, az újrahasználatot, az újrahasznosítást és a kerti zöldhulladék komposztálását javasolja."
+    "content_hu": "• **Nyílt téren tilos** Magyarországon hulladékot égetni; háztartási tüzelőberendezésben kizárólag a háztartásban keletkező papírhulladék és a veszélyesnek nem minősülő, kezeletlen fahulladék égethető el.\n\n• **Akár 300 ezer forintos bírság** is járhat a szabályok megszegéséért, súlyosabb esetben pedig az illegális hulladékégetés bűncselekménynek minősülhet.\n\n• **Egészségügyi kockázatokkal jár** a műanyagok és más hulladékok égetése: a levegőbe kerülő szennyező anyagok növelhetik többek között a rák, a szívinfarktus, az agyvérzés és a magzati genetikai károsodás kockázatát.\n\n• **Kilométeres körzetben is szennyezhet** akár egyetlen hulladékkal tüzelő háztartás vagy kisüzem. A minisztérium szerint az ilyen égetés a szén- vagy olajtüzelésű erőműveknél kétszer annyi szén-dioxidot bocsáthat ki.\n\n• **A komposztálás és az újrahasznosítás alternatíva**: a tárca a hulladék mennyiségének csökkentését, az újrahasználatot, az újrahasznosítást és a kerti zöldhulladék komposztálását javasolja.",
+    "importance_score": 48.0
   },
   {
     "group_id": "group_d0c611b373",
@@ -1306,7 +1928,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "444.hu",
@@ -1322,12 +1944,36 @@
         "source": "Index - Címlap",
         "title": "Megszólalt a visszalépett tankerületi igazgató, elárulta, miért nem vállalta a posztot",
         "link": "https://index.hu/belfold/2026/11/08/balogh-tamas-laszlo-tankerulet-igazgato-kinevezes-visszalepes-magyarazat/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Bizalomhiánnyal indokolja lemondását a tankerületi vezető, aki egy nappal a kinevezése után távozott",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/bizalomhiannyal-indokolja-lemondasat-a-tankeruleti-vezeto-aki-egy-nappal-a-kinevezese-utan-tavozott"
       }
     ],
     "published_at": 1794182400,
     "title_hu": "A helyi intézményekkel kialakult bizalomhiány miatt nem vállalta a tankerületi vezetői posztot",
     "lead_hu": "Balogh Tamás László a kinevezése és az átadás-átvétel megkezdése közötti időszakban arra jutott, hogy nem alakult ki a közös munkához szükséges kölcsönös bizalom a helyi intézményekkel, ezért nem fogadta el a posztot. A Medve Matek vezetőjeként ismert Balogh külsős pályázó volt; a tankerületet november 5-től átmenetileg a szakmai vezető irányítja, az új pályázat várhatóan november 11-én jelenik meg.",
-    "content_hu": "• **A visszalépés oka** Balogh Tamás László Facebook-bejegyzésében azt írta, a kinevezése és az átadás-átvétel megkezdése közötti napokban olyan tapasztalatok érték, amelyek alapján úgy látta, nem áll fenn kellő kölcsönös bizalom közte és a helyben érintett intézmények között.\n\n• **A döntés indoka** Balogh szerint a kölcsönös bizalom a közös munka előfeltétele lett volna, ezért rövid mérlegelés után úgy döntött, erkölcsileg az a helyes, ha nem fogadja el a kinevezést.\n\n• **Balogh szakmai háttere** Külsős jelentkezőként pályázott a posztra. Több mint egy évtizede vezeti a Medve Matek országos matematikanépszerűsítő és tehetséggondozó programsorozatot, amely évente több tízezer diákot ér el. Azt írta, a program szemléletét és ötleteit szerette volna ötvözni a tankerületi intézmények dolgozóinak tapasztalatával.\n\n• **A vezetői poszt betöltése** November 5-től ideiglenesen a tankerület szakmai vezetője veszi át az irányítást. A Klebelsberg Központ új pályázatot ír ki; a minisztérium tájékoztatása szerint a kiírás várhatóan november 11-én jelenik meg.\n\n• **A pályáztatás bírálata** A kinevezési folyamatot pedagógus-szakszervezetek és a Tanítanék Mozgalom is bírálta, elkapkodottnak és átláthatatlannak nevezve azt. Kiss László óbudai polgármester szerint több helyen nem tartottak szóbeli meghallgatást, a pályázati anyagokat pedig a jelentkezők nem feltétlenül osztották meg az iskolákkal és a polgármesterekkel. Azt is kifogásolta, hogy egyes kinevezettek alkalmassága, illetve végzettsége és tapasztalata kérdéses lehet.\n\n• **A tankerületi vezetőváltások háttere** Lannert Judit oktatási miniszter a 60 tankerületi központból 55 élére nevezett ki új vezetőt, öt helyen pedig új pályázatot írtak ki. A miniszter a tankerületek működésében a korábbi politikai szempontok helyett a szakmaiságot, az együttműködést és a kölcsönös bizalmat jelölte meg hangsúlyos szempontként."
+    "content_hu": "• **A visszalépés oka** Balogh Tamás László Facebook-bejegyzésében azt írta, a kinevezése és az átadás-átvétel megkezdése közötti napokban olyan tapasztalatok érték, amelyek alapján úgy látta, nem áll fenn kellő kölcsönös bizalom közte és a helyben érintett intézmények között.\n\n• **A döntés indoka** Balogh szerint a kölcsönös bizalom a közös munka előfeltétele lett volna, ezért rövid mérlegelés után úgy döntött, erkölcsileg az a helyes, ha nem fogadja el a kinevezést.\n\n• **Balogh szakmai háttere** Külsős jelentkezőként pályázott a posztra. Több mint egy évtizede vezeti a Medve Matek országos matematikanépszerűsítő és tehetséggondozó programsorozatot, amely évente több tízezer diákot ér el. Azt írta, a program szemléletét és ötleteit szerette volna ötvözni a tankerületi intézmények dolgozóinak tapasztalatával.\n\n• **A vezetői poszt betöltése** November 5-től ideiglenesen a tankerület szakmai vezetője veszi át az irányítást. A Klebelsberg Központ új pályázatot ír ki; a minisztérium tájékoztatása szerint a kiírás várhatóan november 11-én jelenik meg.\n\n• **A pályáztatás bírálata** A kinevezési folyamatot pedagógus-szakszervezetek és a Tanítanék Mozgalom is bírálta, elkapkodottnak és átláthatatlannak nevezve azt. Kiss László óbudai polgármester szerint több helyen nem tartottak szóbeli meghallgatást, a pályázati anyagokat pedig a jelentkezők nem feltétlenül osztották meg az iskolákkal és a polgármesterekkel. Azt is kifogásolta, hogy egyes kinevezettek alkalmassága, illetve végzettsége és tapasztalata kérdéses lehet.\n\n• **A tankerületi vezetőváltások háttere** Lannert Judit oktatási miniszter a 60 tankerületi központból 55 élére nevezett ki új vezetőt, öt helyen pedig új pályázatot írtak ki. A miniszter a tankerületek működésében a korábbi politikai szempontok helyett a szakmaiságot, az együttműködést és a kölcsönös bizalmat jelölte meg hangsúlyos szempontként.",
+    "importance_score": 43.0
+  },
+  {
+    "group_id": "group_b047abb665",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Ügynökakták: nyílt ülésen tárgyalják a felmerült aggályokat és ellentmondásokat",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/ugynokaktak-nyilt-ulesen-targyaljak-a-felmerult-aggalyokat-es-ellentmondasokat"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Ügynökakták: nyílt ülésen tárgyalják a felmerült aggályokat és ellentmondásokat",
+    "lead_hu": "A Tisza-frakció bojkotálja a bizottság ülését.",
+    "content_hu": "A Tisza-frakció bojkotálja a bizottság ülését."
   },
   {
     "group_id": "group_6cf261c5bd",
@@ -1622,18 +2268,11 @@
   },
   {
     "group_id": "group_e712e3a96e",
-    "fingerprint": "f7b27bf8963646fb6f4f26b8c7dc72e7",
     "category": "Politika",
-    "image": "https://kep.index.hu/1/0/5956/59569/595694/59569439_4404613_a8f95368d48e1aeddc6fccd9d940e55e_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1091010262-e1794170134698-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Négy településen rendeznek időközi önkormányzati választást vasárnap",
-        "link": "https://index.hu/belfold/2026/11/08/idokozi-onkormanyzati-valasztas-polgarmester-kepviselo-perenye-tarkany-bekes-batonyterenye-janossomorja/"
-      },
       {
         "source": "24.hu - Legfrissebb",
         "title": "Négy településen rendeztek időközi választást, két új polgármestert választottak",
@@ -1641,10 +2280,9 @@
       }
     ],
     "published_at": 1794170202,
-    "title_hu": "Két új polgármestert és két képviselőt választottak négy településen",
-    "lead_hu": "Vasárnap négy településen tartottak időközi önkormányzati választást. Perenyén újraválasztották a hivatalban lévő polgármestert, Tárkányban pedig új polgármestert választottak; Békésen és Bátonyterenyén képviselői helyekről döntöttek.",
-    "content_hu": "• **Perenye** Imre Viktóriát választotta újra polgármesternek; ő volt az egyetlen jelölt.\n\n• **Tárkányban** a független Zalkáné Havacs Beáta győzött a szavazatok közel 59 százalékával. Ellenfele, Mészáros Tamásné 229 szavazatot kapott, Zalkáné 328-at.\n\n• **Békésen** a független Rónai Sándor nyerte meg a képviselői időközi választást 253 szavazattal; a Mi Hazánk jelöltje, Jenei Sándor 174 voksot szerzett.\n\n• **Bátonyterenyén** az egyedüli induló, Bodolai Zoltán győzött a 4. számú egyéni választókerületben.",
-    "importance_score": 28.0
+    "title_hu": "Négy településen rendeztek időközi választást, két új polgármestert választottak",
+    "lead_hu": "A Mi Hazánk jelöltje lett a második Békésben. The post Négy településen rendeztek időközi választást, két új polgármestert választottak first appeared on 24.hu.",
+    "content_hu": "A Mi Hazánk jelöltje lett a második Békésben. The post Négy településen rendeztek időközi választást, két új polgármestert választottak first appeared on 24.hu."
   },
   {
     "group_id": "group_c1d92cd747",
@@ -1902,32 +2540,6 @@
     "content_hu": "Donald Trump, Jack Nicholson és Arnold Schwarzenegger neve is előkerült Hugh Hefner legendás magánbirodalmának titkai kapcsán. A Playboy-villa sötét titkairól most a birodalom egykori császárának özvegye, Crystal Hefner rántotta le a leplet."
   },
   {
-    "group_id": "group_f2386d1150",
-    "fingerprint": "f537fb7c21a9189d928599d013ff6a48",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/szoboszlai-1-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Nem jó hír a válogatottnak: a liverpooli edző szerint Szoboszlai nincs százszázalékos állapotban",
-        "link": "https://24.hu/sport/foci/2026/11/08/angol-foci-liverpool-serules-andoni-iraola-szoboszlai-dominik/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "A Liverpool edzője szerint Szoboszlai térde nincs százszázalékos állapotban a meccs után",
-        "link": "https://telex.hu/sport/2026/11/08/szoboszlai-dominik-futball-liverpool-serules"
-      }
-    ],
-    "published_at": 1794167905,
-    "title_hu": "Aggódnak Szoboszlai térde miatt a válogatott szünet előtt",
-    "lead_hu": "A Liverpool edzője szerint Szoboszlai Dominik térde nincs százszázalékos állapotban, ezért orvosi vizsgálatra és óvatosságra van szükség. A magyar válogatott csapatkapitánya a Crystal Palace elleni mérkőzésen sérült le, és nem játszotta végig a találkozót.",
-    "content_hu": "• **Szoboszlai térde nincs teljesen rendben** A Liverpool edzője szerint a középpályás állapotát orvosoknak kell megvizsgálniuk, mielőtt kiderül, hogy pályára léphet-e a válogatottban.\n\n• **A Crystal Palace ellen sérült le** Szoboszlait a mérkőzés 69. percében lecserélték, így nem játszotta végig a találkozót.\n\n• **A Liverpool óvatos lenne** Az edző nem szeretné, ha a válogatott szünetben újabb játékos sérülne meg, ugyanakkor megérti, hogy Szoboszlai szeretne csatlakozni a nemzeti csapathoz.",
-    "importance_score": 23.0
-  },
-  {
     "group_id": "group_3bc78d567c",
     "fingerprint": "d46d54f65d5c6e864de6add310de718f",
     "category": "Általános",
@@ -2114,6 +2726,51 @@
     "title_hu": "Hospice nővér árulta el az okát, miért halunk meg inkább egyedül, mint a családunk körében",
     "lead_hu": "A legtöbb haldokló igyekszik egyedül maradni, ha jön a vég.",
     "content_hu": "A legtöbb haldokló igyekszik egyedül maradni, ha jön a vég."
+  },
+  {
+    "group_id": "group_cb874be687",
+    "fingerprint": "2b82d11bd2394b996e2c8e264e9a3432",
+    "category": "Általános",
+    "image": "https://cdn.vg.hu/2026/11/uUlxym0zB2l8Hiqs_wuZzSaWBLBBcaEWC2xH6NBDCoI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdiMGIzOTEwOTYyMzQ4OTM4YTA1YzZjNTlkYjRmOTdm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Vallott a Janaf: félmillió liter kőolaj ömlött ki a megsérült olajvezetékből – többen rosszul lettek, egy patakhoz is elért a szennyezés",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/janaf-koolaj-vezetek-serules-szennyezes-lakossag-patak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Félmillió liter kőolaj ömlött ki a megsérült horvátországi Janaf-vezetékből",
+        "link": "https://hvg.hu/gazdasag/20261108_felmillio-liter-koolaj-omlott-ki-a-megserult-horvatorszagi-janaf-vezetekbol"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Félmillió liter kőolaj ömlött ki a horvátországi vezetékből",
+        "link": "https://24.hu/fn/gazdasag/2026/11/08/janaf-koolaj-vezetek-serules-kornyezetszennyezes-karelharitas/"
+      },
+      {
+        "source": "ATV",
+        "title": "Félmillió liter kőolaj ömlött ki a megsérült horvát vezetékből: többen kórházba kerültek, napokig is eltart a helyreállítás",
+        "link": "https://www.atv.hu/kulfold/20261108/janaf-vezetek-koolaj-kiomlott/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Félmillió liter kőolaj ömlött ki a megsérült horvátországi Janaf-vezetékből",
+        "link": "https://444.hu/2026/11/08/felmillio-liter-koolaj-omlott-ki-a-megserult-horvatorszagi-janaf-vezetekbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Félmillió liter kőolaj ömlött ki a horvátországi Janaf-vezetékből",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/felmillio-liter-koolaj-omlott-ki-a-horvatorszagi-janaf-vezetekbol"
+      }
+    ],
+    "published_at": 1794165720,
+    "title_hu": "Félmillió liter olaj ömlött ki a horvát vezetékből, 6600 négyzetméter szennyeződött be",
+    "lead_hu": "A Janaf közlése szerint mintegy 500 ezer liter kőolaj került a környezetbe, ebből szombat estig körülbelül 200 ezret gyűjtöttek össze. A szennyezés 6600 négyzetmétert érintett; a környéken több mint tizenöten kértek sürgősségi ellátást, de a vizsgálatok után mindenkit hazaengedtek.",
+    "content_hu": "• **Pontosított káradat** A Janaf korábban kisebb mennyiségről számolt be, később azonban közölte, hogy mintegy 500 köbméter, azaz 500 ezer liter kőolaj jutott a környezetbe. Szombat estig körülbelül 200 ezer litert sikerült visszagyűjteni.\n\n• **A baleset helye és oka** A Sziszek és Szlavonbród közötti vezeték 88. kilométerénél, Prvca közelében történt baleset: egy külső kivitelező munkagépe pénteken, felújítási munkálatok közben rongálta meg a csövet. A Janaf első közlése szerint a gép lezuhanó alkatrésze okozta a sérülést.\n\n• **A szennyezés kiterjedése** Mintegy 6600 négyzetméter szennyeződött be: körülbelül 6000 négyzetméternyi mezőgazdasági terület, valamint a Masic-patak medrének és partjának további 600 négyzetmétere. A patak a szárazság miatt jelenleg víz nélkül van, az olaj főként a növényzetet és a talaj felső rétegét érintette.\n\n• **Vízminőség és ellenőrzés** A hatósági vizsgálatok sem a felszíni, sem a felszín alatti vizekben nem mutattak ki szennyezést. A víz és a levegő minőségét folyamatosan ellenőrzik, a kárelhárítást pedig a környezetvédelmi felügyelőség is figyelemmel kíséri. A Janaf közlése szerint a lakosságot nem fenyegeti veszély, az ivóvízellátás sincs veszélyben.\n\n• **Panaszok a környéken** Az olajszag a környező településeken, köztük Nova Gradiskában is érezhető volt. Több mint tizenöten fejfájás, hányinger és légzési nehézségek miatt fordultak sürgősségi ellátáshoz; a vizsgálatok után mindenkit hazaengedtek, kórházi ellátásra senkinek nem volt szüksége.\n\n• **Kármentesítés** A sérült vezetékszakaszon leállították a szállítást, a cső sérülését szombaton lezárták. A következő napokban folytatják az olaj összegyűjtését, a visszanyert olajat visszajuttatják a Janaf rendszerébe, majd eltávolítják a szennyezett talajt és helyreállítják a területet. A teljes kárelhárítás várhatóan mintegy tíz napig tart, utána független laboratórium vizsgálja meg a talajt.\n\n• **A szállítás újraindítása és a magyar ellátás** A Janaf egyelőre nem közölte, mikor indulhat újra a szállítás, és azt sem jelezte, hogy a leállás okozott-e fennakadást a magyarországi szállításokban. A Mol korábbi közlése szerint az eset nem befolyásolja a magyarországi kőolajellátást.\n\n• **Az olajszag** A Janaf szerint jelenleg nincs olyan műszaki megoldás, amellyel megakadályozhatnák a kellemetlen szag terjedését; a szag a kármentesítés előrehaladtával várhatóan csökken."
   },
   {
     "group_id": "group_d95a2e6d24",
@@ -2452,7 +3109,8 @@
     "published_at": 1794163860,
     "title_hu": "Szoboszlai gólpasszával nyert a Liverpool, Kerkez megsérült egy ütközésben",
     "lead_hu": "A Liverpool 3–1-re győzött a Crystal Palace otthonában az angol bajnokság tizedik fordulójában. Szoboszlai Dominik gólpasszt adott, Kerkez Milos pedig a mérkőzés végén összefejelt egy ellenfelével.",
-    "content_hu": "• **Szoboszlai gólpassza** A magyar középpályás a 40. percben szabadrúgásból készítette elő Alexis Mac Allister vezető gólját.\n\n• **Liverpool-gólok** Florian Wirtz az 54. percben növelte az előnyt, Alexander Isak pedig a 89. percben állította be a 3–0-s állást.\n\n• **Kerkez ütközése** A mérkőzés végén Kerkez Milos összefejelt egy ellenfelével; az eset után büntetőt ítéltek, amelyet Eddie Nketiah értékesített. Kerkez végigjátszotta a találkozót, Szoboszlait a 69. percben cserélték le."
+    "content_hu": "• **Szoboszlai gólpassza** A magyar középpályás a 40. percben szabadrúgásból készítette elő Alexis Mac Allister vezető gólját.\n\n• **Liverpool-gólok** Florian Wirtz az 54. percben növelte az előnyt, Alexander Isak pedig a 89. percben állította be a 3–0-s állást.\n\n• **Kerkez ütközése** A mérkőzés végén Kerkez Milos összefejelt egy ellenfelével; az eset után büntetőt ítéltek, amelyet Eddie Nketiah értékesített. Kerkez végigjátszotta a találkozót, Szoboszlait a 69. percben cserélték le.",
+    "importance_score": 20.0
   },
   {
     "group_id": "group_7af0e11d06",
@@ -2478,7 +3136,7 @@
     "title_hu": "Norris nyerte az esős Brazil Nagydíjat, Verstappen a 21. helyről lett második",
     "lead_hu": "Lando Norris győzött a São Pauló-i Nagydíjon, amelynek hajráját az eső és a gumistratégia tette izgalmassá. Max Verstappen a mezőny végéről rajtolva a második helyre kapaszkodott fel, Isack Hadjar pedig harmadikként ért célba.",
     "content_hu": "• **Norris győzelme** A McLaren brit pilótája nyerte a futamot, ezzel idei harmadik és pályafutása 14. Forma–1-es győzelmét szerezte meg.\n\n• **Verstappen felzárkózása** A 21. rajtkockából induló holland 19 helyet javítva második lett.\n\n• **Dobogósok** Isack Hadjar a harmadik helyen zárt.\n\n• **Esős hajrá** A verseny utolsó szakaszában felerősödött az eső, ezért a mezőny átmeneti esőgumikra váltott.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_c017fee594",
@@ -2717,7 +3375,7 @@
     "title_hu": "Havasi Bertalan politikai támadásnak nevezte az Erzsébet-táborok reklámköltései miatti feljelentést",
     "lead_hu": "Kátai-Németh Vilmos szociális és családügyi miniszter hűtlen kezelés gyanúja miatt tett feljelentést az Erzsébet-táborok reklámozására fordított közpénzek ügyében. Havasi Bertalan politikai támadásnak nevezte a lépést, és „ordas hazugságnak” mondta, hogy a pénzt másra is lehetett volna fordítani. A miniszter közlése szerint a vizsgálatuk során feltárt dokumentumok alapján a választás előtt alig több mint egy hónap alatt több mint egymilliárd forintot költöttek reklámra.",
     "content_hu": "• **Több mint egymilliárd forintot költöttek reklámra:** Kátai-Németh Vilmos szerint a kormány az áprilisi országgyűlési választás előtt alig több mint egy hónap alatt fordított ennyit az Erzsébet-táborok népszerűsítésére.\n\n• **Feljelentést tett a miniszter:** Kátai-Németh hűtlen kezelés gyanúja miatt fordult a hatóságokhoz. Szerinte a reklámokra költött pénzt a gyermekek nyaraltatására is lehetett volna fordítani.\n\n• **Havasi politikai támadásnak nevezte az ügyet:** Orbán Viktor volt miniszterelnök titkárságának szóvivője szerint az Erzsébet-táborok tájékoztatása jogszerű és célszerű volt, a forrást pedig törvényileg társadalmi tájékoztatásra lehetett fordítani. „Ordas hazugságnak” nevezte, hogy az összeget át lehetett volna csoportosítani.\n\n• **Havasi a tárca és a családpolitika állapotát is bírálta:** Közleményében azt állította, hogy folyamatosan leépítik a családtámogatásokat, miközben a minisztériumtól sorra távoznak a szakemberek. Szerinte a miniszter a rászoruló diákok, nagycsaládosok és hátrányos helyzetű gyermekek táborozását segítő tájékoztatást állítja be bűnként.\n\n• **Egy másik feljelentést is tett Kátai-Németh:** A miniszter október közepén hivatali visszaélés és hűtlen kezelés gyanúja miatt fordult a Központi Nyomozó Főügyészséghez. Állítása szerint a korábbi kormánypárt mintegy 600 millió forint közpénzt fordított Koncz Zsófia választási rendezvényeire.\n\n• **A miniszter dokumentumokra hivatkozott:** Kátai-Németh a minisztérium által feltárt dokumentumok alapján indokolta a feljelentést; erről szombaton, Facebook-videóban számolt be, Havasi pedig vasárnap reagált.\n\n• **Havasi a Fidesz sajtófőnöke is:** A Világgazdaság a volt miniszterelnöki titkársági szóvivő mellett a Fidesz sajtófőnökeként is hivatkozott rá.",
-    "importance_score": 53.0
+    "importance_score": 50.0
   },
   {
     "group_id": "group_7187896edd",
@@ -2820,7 +3478,7 @@
     "title_hu": "Több hullámban érkezik az eső jövő héten, pénteken akár 21 fok is lehet",
     "lead_hu": "Jövő héten több hullámban érkezhet csapadék Magyarországra, szombatig helyenként 30–50 milliméter eső hullhat, bár a mediterrán ciklon miatt a mennyiség és az eső eloszlása még bizonytalan. A hét elején 5–13 fokos maximumok várhatók, pénteken délen akár 21 fok is lehet, a hétvégén viszont lehűlés jön. A kiadós csapadék a talaj mélyebb rétegeit is átnedvesítheti, és mérsékelheti az aszályt.",
     "content_hu": "• **Több hullámban érkezik csapadék** – Kedden többfelé, majd szerda estétől és pénteken is várható eső, zápor; délen zivatar is kialakulhat. Kedden a Nyugat-Dunántúl egyes részei kimaradhatnak a csapadékból.\n\n• **Akár 50 milliméter eső is hullhat** – Szombatig helyenként 30–40, elszórtan akár 50 milliméter csapadék gyűlhet össze. A mediterrán ciklon pályája miatt az eső területi és időbeli eloszlása még bizonytalan.\n\n• **Mérséklődhet az aszály** – A kiadós eső a talaj mélyebb rétegeit is átnedvesítheti, így tovább enyhülhet az aszályhelyzet.\n\n• **Hétfőn a Dunántúlon lehet naposabb az idő** – Keleten fokozatosan csökken a felhőzet, de tartósan borult tájakon délelőtt még kisebb csapadék is előfordulhat. A maximumok többnyire 8–12 fok között alakulnak, borult helyeken 5–7 fok várható.\n\n• **Kedden hajnalban akár mínusz 5 fok is lehet** – A hőmérséklet kora délután 4–13 fok között alakul, délnyugaton lesz enyhébb az idő. A szél déliesről délután északnyugatira, északira fordulhat.\n\n• **Szerdán és csütörtökön párás, felhős idő várható** – Hajnalban köd is képződhet, napközben pedig helyenként gyenge eső vagy zápor fordulhat elő; szerda estétől gyakoribbá válhatnak a záporok. Csütörtökön hajnalban 1–10, délután általában 10–16 fokra lehet számítani.\n\n• **Pénteken délen akár 21 fok is lehet** – Hajnalban 5–14, napközben 9–21 fok várható, a déli, délkeleti országrészben lesz a legmelegebb. Többfelé eshet, és a szél helyenként erős, akár viharos lökéseket is kaphat.\n\n• **A hétvégére lehűlés érkezik** – Szombaton megszűnhet a csapadék, a hőmérséklet délután 7–12 fok között alakulhat. Vasárnap napos, száraz idő valószínű, délután 6–11 fokkal, hajnalban pedig mínusz 8 és plusz 1 fok közötti értékekkel.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_d58fda125f",
@@ -2929,37 +3587,6 @@
     "title_hu": "5 családi film a Disney+ kínálatában, amelyek segíthetik a beszélgetést a digitális világról",
     "lead_hu": "Digitális kütyük, online közösségi élet, mesterséges intelligencia: a gyerek digitális világa gyorsabban változik, mint ahogy egy szülő követni tudja. Néha egy közös filmezés jobb beszélgetést indítha…",
     "content_hu": "Digitális kütyük, online közösségi élet, mesterséges intelligencia: a gyerek digitális világa gyorsabban változik, mint ahogy egy szülő követni tudja. Néha egy közös filmezés jobb beszélgetést indíthat el erről, mint pár jó tanács."
-  },
-  {
-    "group_id": "group_963ad3d313",
-    "fingerprint": "1a1dee81e4ca3e56c66fe89bae07ba58",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261108/1794150204-temp-8n2qn7avtfpfcdabjcd_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Egy rövid ideig a palesztin zászló lobogott a német szövetségi parlament előtt",
-        "link": "https://telex.hu/kulfold/2026/11/08/palesztin-zaszlo-bundestag-nemetorszag-parlament-nemet-zaszlo-rendorseg"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Palesztin zászló lobogott a német szövetségi parlament előtt",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/palesztin-zaszlo-lobogott-a-nemet-szovetsegi-parlament-elott"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Palesztin zászló lengett a Reichstag előtt",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/palesztin-zaszlo-lengett-a-reichstag-elott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794160260,
-    "title_hu": "Palesztin zászlót vontak fel a Reichstag előtt",
-    "lead_hu": "Három férfi eltávolította a német zászlót a berlini Reichstag előtti zászlórúdról, és helyére palesztin lobogót tett vasárnap délelőtt. A zászló csaknem egy órán át lengett; a rendőrség nyomozást indított a nemzeti jelképek megsértésének gyanúja miatt.",
-    "content_hu": "• **Vasárnap délelőtt** három férfi levette a német zászlót a Reichstag előtti zászlórúdról, és palesztin lobogót vont fel a helyére.\n\n• **Csaknem egy órán át** maradt fent a palesztin zászló, amelyet később a rendőrök a tűzoltóság segítségével távolítottak el.\n\n• **Egy 22 éves férfit őrizetbe vettek**; a rendőrség szerint két, 20 és 32 éves társa lentről segítette az akcióban.\n\n• **Nyomozás indult** a nemzeti jelképek megsértése miatt. A gyanúsított azt mondta, Palesztinával való szolidaritásból cselekedett.",
-    "importance_score": 30.0
   },
   {
     "group_id": "group_e7f1f81141",
@@ -3277,18 +3904,11 @@
   },
   {
     "group_id": "group_8b692edfe9",
-    "fingerprint": "2b28d4d36c86afd52470b0f87416edf3",
     "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://assets.telex.hu/images/20261108/1794158366-temp-b7ge76jtte646gcmiec_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "444.hu",
-        "title": "Az ellenzék vezetője alakíthat kormányt Izraelben",
-        "link": "https://444.hu/2026/11/08/az-ellenzek-vezetoje-alakithat-kormanyt-izraelben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
       {
         "source": "Telex - Belföld",
         "title": "Gadi Ejzenkot minél előbb kormányt akar alakítani Izraelben",
@@ -3296,10 +3916,9 @@
       }
     ],
     "published_at": 1794158672,
-    "title_hu": "Gadi Eisenkot kapott megbízást az izraeli kormány megalakítására",
-    "lead_hu": "Jichák Herzog izraeli elnök Gadi Eisenkotot, az ellenzék vezetőjét bízta meg az új kormány megalakításával, miután a választás patthelyzetet eredményezett. Eisenkotnak négy hete van koalíciót építeni; a határidő szükség esetén további 14 nappal meghosszabbítható.",
-    "content_hu": "• **Eisenkot kapta az első lehetőséget** Herzog azután bízta meg a Jasár párt vezetőjét, hogy a parlamentbe jutott képviselők közül 67-en őt, míg 46-an Benjamin Netanjahut javasolták miniszterelnöknek.\n\n• **Patthelyzet alakult ki a Kneszetben** Sem Netanjahu tábora, sem Eisenkot ellenzéki blokkja nem szerzett önálló többséget, ezért a kormányalakításhoz más pártok támogatására is szükség lehet.\n\n• **Nemzeti vészhelyzeti kormányt sürget** Eisenkot azt mondta, a lehető leghamarabb kormányt akar alakítani, és ehhez kreatív, szokatlan politikai lépésekre lehet szükség.\n\n• **Négy hét áll rendelkezésére** Ha Eisenkot nem jár sikerrel, Netanjahu is lehetőséget kaphat a kormányalakításra; sikertelen próbálkozások esetén új választást írhatnak ki.",
-    "importance_score": 25.0
+    "title_hu": "Gadi Ejzenkot minél előbb kormányt akar alakítani Izraelben",
+    "lead_hu": "Ejzenkot beszédében arról beszélt, hogy az izraeli demokrácia sebezhető, és kreatív lépésekre lehet szükség a gyors kormányalakításhoz.",
+    "content_hu": "Ejzenkot beszédében arról beszélt, hogy az izraeli demokrácia sebezhető, és kreatív lépésekre lehet szükség a gyors kormányalakításhoz."
   },
   {
     "group_id": "group_349f9fc850",
@@ -7220,57 +7839,6 @@
     "content_hu": "A mostani pandémia időarányosan több áldozatot szedett, mint minden korábbi. A kór megfékezését a gyenge egészségügy és a külföldi segítség elmaradása is gátolja."
   },
   {
-    "group_id": "group_cb874be687",
-    "fingerprint": "c27f7f1e63e9e3024eabdd691c38cb7b",
-    "category": "Általános",
-    "image": "https://assets.telex.hu/images/20261108/1794119427-temp-3rd3q0133bs90acepmh_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Félmillió liter kőolaj ömlött ki a Janaf vezetékének megsérülésekor",
-        "link": "https://telex.hu/gazdasag/2026/11/08/janaf-olaj-baleset-olajszennyezodes"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Vallott a Janaf: félmillió liter kőolaj ömlött ki a megsérült olajvezetékből – többen rosszul lettek, egy patakhoz is elért a szennyezés",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/janaf-koolaj-vezetek-serules-szennyezes-lakossag-patak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Félmillió liter kőolaj ömlött ki a megsérült horvátországi Janaf-vezetékből",
-        "link": "https://hvg.hu/gazdasag/20261108_felmillio-liter-koolaj-omlott-ki-a-megserult-horvatorszagi-janaf-vezetekbol"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Félmillió liter kőolaj ömlött ki a horvátországi vezetékből",
-        "link": "https://24.hu/fn/gazdasag/2026/11/08/janaf-koolaj-vezetek-serules-kornyezetszennyezes-karelharitas/"
-      },
-      {
-        "source": "ATV",
-        "title": "Félmillió liter kőolaj ömlött ki a megsérült horvát vezetékből: többen kórházba kerültek, napokig is eltart a helyreállítás",
-        "link": "https://www.atv.hu/kulfold/20261108/janaf-vezetek-koolaj-kiomlott/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Félmillió liter kőolaj ömlött ki a megsérült horvátországi Janaf-vezetékből",
-        "link": "https://444.hu/2026/11/08/felmillio-liter-koolaj-omlott-ki-a-megserult-horvatorszagi-janaf-vezetekbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Félmillió liter kőolaj ömlött ki a horvátországi Janaf-vezetékből",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/felmillio-liter-koolaj-omlott-ki-a-horvatorszagi-janaf-vezetekbol"
-      }
-    ],
-    "published_at": 1794129886,
-    "title_hu": "Félmillió liter olaj ömlött ki a horvát vezetékből, 6600 négyzetméter szennyeződött be",
-    "lead_hu": "A Janaf közlése szerint mintegy 500 ezer liter kőolaj került a környezetbe, ebből szombat estig körülbelül 200 ezret gyűjtöttek össze. A szennyezés 6600 négyzetmétert érintett; a környéken több mint tizenöten kértek sürgősségi ellátást, de a vizsgálatok után mindenkit hazaengedtek.",
-    "content_hu": "• **Pontosított káradat** A Janaf korábban kisebb mennyiségről számolt be, később azonban közölte, hogy mintegy 500 köbméter, azaz 500 ezer liter kőolaj jutott a környezetbe. Szombat estig körülbelül 200 ezer litert sikerült visszagyűjteni.\n\n• **A baleset helye és oka** A Sziszek és Szlavonbród közötti vezeték 88. kilométerénél, Prvca közelében történt baleset: egy külső kivitelező munkagépe pénteken, felújítási munkálatok közben rongálta meg a csövet. A Janaf első közlése szerint a gép lezuhanó alkatrésze okozta a sérülést.\n\n• **A szennyezés kiterjedése** Mintegy 6600 négyzetméter szennyeződött be: körülbelül 6000 négyzetméternyi mezőgazdasági terület, valamint a Masic-patak medrének és partjának további 600 négyzetmétere. A patak a szárazság miatt jelenleg víz nélkül van, az olaj főként a növényzetet és a talaj felső rétegét érintette.\n\n• **Vízminőség és ellenőrzés** A hatósági vizsgálatok sem a felszíni, sem a felszín alatti vizekben nem mutattak ki szennyezést. A víz és a levegő minőségét folyamatosan ellenőrzik. A Janaf közlése szerint a lakosságot nem fenyegeti veszély, az ivóvízellátás sincs veszélyben.\n\n• **Panaszok a környéken** Az olajszag a környező településeken, köztük Nova Gradiskában is érezhető volt. Több mint tizenöten fejfájás, hányinger és légzési nehézségek miatt fordultak sürgősségi ellátáshoz; a vizsgálatok után mindenkit hazaengedtek, kórházi ellátásra senkinek nem volt szüksége.\n\n• **Kármentesítés** A sérült vezetékszakaszon leállították a szállítást, a cső sérülését szombaton lezárták. A következő napokban folytatják az olaj összegyűjtését, a visszanyert olajat visszajuttatják a Janaf rendszerébe, majd eltávolítják a szennyezett talajt és helyreállítják a területet. A teljes kárelhárítás várhatóan mintegy tíz napig tart, utána független laboratórium vizsgálja meg a talajt.\n\n• **A szállítás újraindítása és a magyar ellátás** A Janaf egyelőre nem közölte, mikor indulhat újra a szállítás, és azt sem jelezte, hogy a leállás okozott-e fennakadást a magyarországi szállításokban. A Mol korábbi közlése szerint az eset nem befolyásolja a magyarországi kőolajellátást.\n\n• **Az olajszag** A Janaf szerint jelenleg nincs olyan műszaki megoldás, amellyel megakadályozhatnák a kellemetlen szag terjedését; a szag a kármentesítés előrehaladtával várhatóan csökken.",
-    "importance_score": 70.0
-  },
-  {
     "group_id": "group_32ac46cae2",
     "fingerprint": "46a5bbb79227a873f0b44b1aa8f0af62",
     "category": "Politika",
@@ -7755,19 +8323,30 @@
     "content_hu": "Hiába alszol hét-nyolc órát, reggel mégis kimerültnek érzed magad, és napközben is állandó fáradtság gyötör? A háttérben nem feltétlenül alváshiány áll, hanem olyan tényezők is, amelyekre ritkán gondolunk. Mutatjuk a kimerültség 6 lehetséges okát, és azt is, mikor érdemes komolyabban venni a tested figyelmeztető jeleit. The post Miért érzed magad kimerültnek akkor is, ha eleget aludtál? 6 lehetséges magyarázat first appeared on nlc."
   },
   {
-    "group_id": "group_8e865a5751",
-    "fingerprint": "5cd88baf13776faebc2d2caa255963c0",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/vadkan-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "group_id": "group_c712a47f33",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kutyafuttató és játszótér közelében portyázik egy vaddisznó a pesti Duna-parton",
-        "link": "https://24.hu/belfold/2026/11/08/vaddiszno-budapest-13-kerulet/"
-      },
+        "source": "Vadhajtások",
+        "title": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/a-fidesz-szerint-tiszas-ugynokbotranynak-meg-nincs-vege"
+      }
+    ],
+    "published_at": 1794126660,
+    "title_hu": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége",
+    "lead_hu": "A kérdések száma pedig egyre csak nő.",
+    "content_hu": "A kérdések száma pedig egyre csak nő."
+  },
+  {
+    "group_id": "group_8e865a5751",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
       {
         "source": "Index - Címlap",
         "title": "Vaddisznó kószál a pesti Duna-parton, egy kutyafuttató és játszótér közelében is felbukkant",
@@ -7775,10 +8354,9 @@
       }
     ],
     "published_at": 1794126420,
-    "title_hu": "Vaddisznó tűnt fel a Marina-parton, a lakókat óvatosságra intik",
-    "lead_hu": "Több mint egy hete rendszeresen felbukkan egy vaddisznó a XIII. kerületi Marina-parton, többek között játszótér és kutyafuttató közelében. Az önkormányzat szakemberekkel egyeztet az állat befogásáról, a vadászkamara szóvivője pedig arra figyelmeztetett, hogy senki ne közelítse meg.",
-    "content_hu": "• **Több mint egy hete a környéken kószál** a termetes vaddisznó a Marina-parton; a Duna mellett, játszótér és kutyafuttató közelében is látták.\n\n• **A lakóknak azt tanácsolják, ne menjenek az állat közelébe.** Földvári Attila, a vadászkamara szóvivője szerint a vaddisznó veszélyessé válhat, különösen, ha menekülni kezd.\n\n• **Az önkormányzat egyeztet a szakemberekkel** az állat befogásáról. A vadőrök korábban a rossz fényviszonyok miatt nem tudták kilőni a vaddisznót.",
-    "importance_score": 25.0
+    "title_hu": "Vaddisznó kószál a pesti Duna-parton, egy kutyafuttató és játszótér közelében is felbukkant",
+    "lead_hu": "Több szemtanú először kutyának vagy medvének nézte az állatot.",
+    "content_hu": "Több szemtanú először kutyának vagy medvének nézte az állatot."
   },
   {
     "group_id": "group_b25e9c13ce",
@@ -8185,28 +8763,11 @@
   },
   {
     "group_id": "group_3f334d12d7",
-    "fingerprint": "aa1cdd0586b95e3956f24b1bd983285b",
     "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1074676076-e1794060565765-1024x575.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Folytatódik a Széchenyi Kártya Program, 250 milliárdot szánnak rá",
-        "link": "https://24.hu/fn/gazdasag/2026/11/07/kapitany-istvan-kkv-tamogatas-2027-koltsegvetes/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "25 milliárd forintos Piacépítő Exportprogramot indít a kormány",
-        "link": "https://telex.hu/gazdasag/2026/11/07/piacepito-exportprogramot-indit-a-kormany-szechenyi-kartya-program"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Megszólalt Kapitány István a Széchenyi Kártya Programról – az exportban gondolkodó vállalkozásoknak pénzprogrammal üzent",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/export-program-kkv-tamogatas-kapitany-szechenyi?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
       {
         "source": "ATV",
         "title": "250 milliárd forinttal támogatják a vállalkozásokat, új exportprogramot is indít a kormány",
@@ -8214,10 +8775,9 @@
       }
     ],
     "published_at": 1794123480,
-    "title_hu": "Exportprogramot indít, és folytatja a Széchenyi Kártya Programot a kormány",
-    "lead_hu": "A kormány 2027-ben 25 milliárd forintos Piacépítő Exportprogramot indít, és 250 milliárd forintot fordít a Széchenyi Kártya Program hiteleinek kamat- és díjtámogatására. A költségvetési terv 2,4 százalékos gazdasági növekedéssel, 3 százalékos inflációval és 4,9 százalékos GDP-arányos hiánnyal számol; a beruházások 5,7, a háztartások fogyasztási kiadásai 4,1 százalékkal nőhetnek.",
-    "content_hu": "• **25 milliárd forintos exportprogram** A kormány Piacépítő Exportprogramot indít a hazai vállalkozások külpiaci terjeszkedésének ösztönzésére.\n\n• **Folytatódik a Széchenyi Kártya Program** 2027-ben 250 milliárd forint jut a programban nyújtott hitelek kamat- és díjtámogatására.\n\n• **A kkv-k súlya a gazdaságban** A több mint 900 ezer hazai kis- és középvállalkozás mintegy 2,2 millió embernek ad munkát, és a vállalati hozzáadott érték több mint 40 százalékát állítja elő.\n\n• **Kevés kkv exportál** A hazai kis- és középvállalkozásoknak mintegy 5 százaléka értékesít külföldre, az exportbevételek túlnyomó része pedig külföldi tulajdonú cégeknél keletkezik.\n\n• **Saját termékekkel a külpiacokra** Az exportprogram azt célozza, hogy több magyar vállalkozás jelenhessen meg saját termékeivel, márkájával és szolgáltatásaival a nemzetközi piacokon, és erősítse önálló piaci jelenlétét.\n\n• **Nagyobb hozzáadott érték a cél** Kapitány István szerint a korszerű technológiák és az innováció segíthetik a termelékenység növelését, a magasabb béreket, valamint azt, hogy több megtermelt érték maradjon Magyarországon. A kormány szerint a hazai gazdaságban továbbra is jelentős az alacsonyabb hozzáadott értékű, összeszerelésre épülő tevékenységek szerepe.\n\n• **A 2027-es költségvetés előrejelzései** A büdzsé tervezete 2,4 százalékos GDP-növekedéssel, 3 százalékos inflációval és 4,9 százalékos GDP-arányos hiánnyal számol. A beruházások 5,7, a háztartások fogyasztási kiadásai 4,1 százalékkal nőhetnek, az éves átlagos euróárfolyamot pedig 364,3 forintra várják.\n\n• **Több uniós forrás felhasználásával számolnak** A költségvetési terv szerint az uniós pénzből finanszírozott építkezésekre, felújításokra és vállalati fejlesztésekre 2027-ben 1615,6 milliárd forintot használhatnak fel, szemben az idei évre várt 687,8 milliárddal. A költségvetésben elkülönített összeg önmagában nem garantálja, hogy a tervezett beruházások meg is valósulnak.\n\n• **A forrásnövekedés viszonyítási alapja** A közlekedésre szánt 331 milliárd, a vízügyi és környezetvédelmi fejlesztésekre jutó 221 milliárd, valamint a mintegy 230 milliárdos vállalkozásfejlesztési keret nagyságát az idei várható felhasználáshoz mérik, nem az eredetileg tervezetthez.\n\n• **A költségvetés főösszege** A 2027-es büdzsé kiadási főösszege 47 587 milliárd forint lehet.",
-    "importance_score": 45.0
+    "title_hu": "250 milliárd forinttal támogatják a vállalkozásokat, új exportprogramot is indít a kormány",
+    "lead_hu": "Jelentős forrásokkal segítené a magyar kis- és középvállalkozásokat a kormány: 2027-ben 250 milliárd forintot fordítanak a Széchenyi Kártya Program keretében a hitelek kamat- és díjtámogatására, emell…",
+    "content_hu": "Jelentős forrásokkal segítené a magyar kis- és középvállalkozásokat a kormány: 2027-ben 250 milliárd forintot fordítanak a Széchenyi Kártya Program keretében a hitelek kamat- és díjtámogatására, emellett egy 25 milliárd forintos exportprogramot is elindítanak."
   },
   {
     "group_id": "group_726ae16e1d",
@@ -8236,6 +8796,42 @@
     "title_hu": "Elvitték a Luxor főnyereményét, tízmilliót kaszált a szerencsés nyertes",
     "lead_hu": "Az ötös lottó számait is kihúzták.",
     "content_hu": "Az ötös lottó számait is kihúzták."
+  },
+  {
+    "group_id": "group_963ad3d313",
+    "fingerprint": "1a1dee81e4ca3e56c66fe89bae07ba58",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261108/1794150204-temp-8n2qn7avtfpfcdabjcd_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Egy rövid ideig a palesztin zászló lobogott a német szövetségi parlament előtt",
+        "link": "https://telex.hu/kulfold/2026/11/08/palesztin-zaszlo-bundestag-nemetorszag-parlament-nemet-zaszlo-rendorseg"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Rendőrök bántalmaztak újságírókat a francia tüntetéseken",
+        "link": "https://www.vadhajtasok.hu/2026/11/07/rendorok-bantalmaztak-ujsagirokat-a-francia-tunteteseken"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Palesztin zászló lengett a Reichstag előtt",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/palesztin-zaszlo-lengett-a-reichstag-elott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Palesztin zászló lobogott a német szövetségi parlament előtt",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/palesztin-zaszlo-lobogott-a-nemet-szovetsegi-parlament-elott"
+      }
+    ],
+    "published_at": 1794123300,
+    "title_hu": "Rendőrök bántalmaztak újságírókat a francia tüntetéseken",
+    "lead_hu": "Elítélte az AFP francia hírügynökség azokat a rendőri fellépéseket, amelyek során több újságíró is megsérült a Franciaországban zajló megélhetési válság elleni tüntetéseken.",
+    "content_hu": "Elítélte az AFP francia hírügynökség azokat a rendőri fellépéseket, amelyek során több újságíró is megsérült a Franciaországban zajló megélhetési válság elleni tüntetéseken.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_d715aacc82",
@@ -8547,7 +9143,8 @@
     "published_at": 1794121282,
     "title_hu": "Corbu szájába akarták adni, hogy Románia az álma, de a Fradi játékosa nem mondta ki",
     "lead_hu": "A Ferencváros csángó származású középpályása, Marius Corbu kimondta, hogy miért lesz román válogatott, nem magyar.",
-    "content_hu": "A Ferencváros csángó származású középpályása, Marius Corbu kimondta, hogy miért lesz román válogatott, nem magyar."
+    "content_hu": "A Ferencváros csángó származású középpályása, Marius Corbu kimondta, hogy miért lesz román válogatott, nem magyar.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_8b290e389b",
@@ -8565,7 +9162,8 @@
     "published_at": 1794121213,
     "title_hu": "Szinte le sem ültek, rögtön egymásnak esett Herceg Erika és Dallos Bogi a Megasztárban",
     "lead_hu": "",
-    "content_hu": ""
+    "content_hu": "",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_21835793ce",
@@ -8583,7 +9181,8 @@
     "published_at": 1794121206,
     "title_hu": "„Jól befürdetett a bankunk a babaváró hitellel”",
     "lead_hu": "Egy házaspár nem tudja bebizonyítani, hogy időben beadták a második gyermekük megszületéséről a szükséges dokumentumokat, emiatt kedvezmények helyett szinte a teljes hitelösszeget visszakövetelik tőlü…",
-    "content_hu": "Egy házaspár nem tudja bebizonyítani, hogy időben beadták a második gyermekük megszületéséről a szükséges dokumentumokat, emiatt kedvezmények helyett szinte a teljes hitelösszeget visszakövetelik tőlük. The post „Jól befürdetett a bankunk a babaváró hitellel” first appeared on 24.hu."
+    "content_hu": "Egy házaspár nem tudja bebizonyítani, hogy időben beadták a második gyermekük megszületéséről a szükséges dokumentumokat, emiatt kedvezmények helyett szinte a teljes hitelösszeget visszakövetelik tőlük. The post „Jól befürdetett a bankunk a babaváró hitellel” first appeared on 24.hu.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_1723137bbf",
@@ -8601,7 +9200,8 @@
     "published_at": 1794121200,
     "title_hu": "„Aki nem élt meg nehéz perceket, az soha nem tud igazán jól bluest énekelni” – Ma lenne 78 éves Deák Bill Gyula",
     "lead_hu": "Korábbi interjúiból válogatva emlékezünk a szeptemberben elhunyt blueskirályra.",
-    "content_hu": "Korábbi interjúiból válogatva emlékezünk a szeptemberben elhunyt blueskirályra."
+    "content_hu": "Korábbi interjúiból válogatva emlékezünk a szeptemberben elhunyt blueskirályra.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_8a1b57097f",
@@ -8619,7 +9219,8 @@
     "published_at": 1794121200,
     "title_hu": "Kocogás közben késeltek meg egy fiatal nőt, az apja talált rá a vérző áldozatra",
     "lead_hu": "A támadót még keresik a rendőrök.",
-    "content_hu": "A támadót még keresik a rendőrök."
+    "content_hu": "A támadót még keresik a rendőrök.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_bc6127bde4",
@@ -8808,32 +9409,6 @@
     "title_hu": "Még küzdenek a krakkói terrortámadásban meglőtt rendőr életéért",
     "lead_hu": "A katonai ruhába öltözött merénylő szombat délután nyitott tüzet a történelmi város központjában.",
     "content_hu": "A katonai ruhába öltözött merénylő szombat délután nyitott tüzet a történelmi város központjában."
-  },
-  {
-    "group_id": "group_c712a47f33",
-    "fingerprint": "ae87167dc1d51e5c13a5727fe4548b27",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7175/71753/717538/71753871_5289851_49fb6429e78966c8b5588cdba075d30e_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége, a kérdések száma pedig egyre csak nő",
-        "link": "https://index.hu/belfold/2026/11/08/ugynokaktak-ruff-balint-boka-janos-magyar-peter-tarr-zoltan/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/a-fidesz-szerint-tiszas-ugynokbotranynak-meg-nincs-vege"
-      }
-    ],
-    "published_at": 1794118500,
-    "title_hu": "A Fidesz politikai felelősséget követel az ügynökakták közzététele miatt",
-    "lead_hu": "A Fidesz szerint a rendszerváltás előtti állambiztonsági iratok közzététele körüli botránynak nincs vége, és tisztázni kell a politikai felelősséget. A párt adatvédelmi vizsgálatot és elégtételt követel azoknak, akiknek a neve egy informatikai hiba miatt tévesen hálózati személyként jelent meg.",
-    "content_hu": "• **Informatikai hiba árnyékolta be az iratok közzétételét:** a nyilvánosságra hozott dokumentumok között olyanok neve is megjelent hálózati személyként, akiket annak idején megfigyeltek; köztük volt Lezsák Sándor is.\n\n• **A Fidesz politikai kezdeményezésnek tartja az akták nyilvánosságra hozatalát:** a párt Magyar Pétert, Ruff Bálintot és Tarr Zoltánt nevezte meg, és azt állította, hogy az ügy politikai célokat szolgált. Ezek a Fidesz állításai.\n\n• **A párt vizsgálatot és felelősségre vonást sürget:** adatvédelmi vizsgálatot, az érintetteknek elégtételt, valamint a politikai felelősök megnevezését követeli.\n\n• **További kérdésekre várnak választ:** a Fidesz többek között az eltűnt 6-os kartonok és beszervezési dossziék sorsát, illetve az iratok közzétételének körülményeit firtatja.",
-    "importance_score": 20.0
   },
   {
     "group_id": "group_0167b7ad21",
