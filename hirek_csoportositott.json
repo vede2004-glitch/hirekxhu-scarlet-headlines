@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_2485a9d987",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "A GTA 6 logóját rajzolta az égboltra egy pilóta, amihez egészen különleges mutatványt kellett végrehajtania",
-        "link": "https://raketa.hu/a-gta-6-logojat-rajzolta-az-egboltra-egy-pilota-amihez-egeszen-kulonleges-mutatvanyt-kellett-vegrehajtania/",
-        "image": "https://raketa.hu/uploads/2026/11/gta6.jpg",
-        "summary": "A Grand Theft Auto VI megjelenése előtt a rajongók egyre kreatívabb módokon fejezik ki az izgatottságukat.",
-        "category": "Kultúra",
-        "published_at": 1794110636
-      }
-    ]
-  },
-  {
     "group_id": "group_dfebe7eed4",
     "category": "Kultúra",
     "articles_count": 1,
@@ -28,22 +12,6 @@
         "summary": "A JÉGER jégkármérséklő rendszer üzemeltetése nem tehető felelőssé az elmúlt évek aszályos időjárásáért, ez egyértelműen kijelenthető a Magyar Tudományos Akadémia (MTA) jelentése szerint.",
         "category": "Kultúra",
         "published_at": 1794112413
-      }
-    ]
-  },
-  {
-    "group_id": "group_35268d15a9",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Váratlanul felmentettek két helyettes államtitkárt, többen is távoznak a minisztériumokból",
-        "link": "https://www.atv.hu/belfold/20261108/felmentettek-helyettes-allamtitkar/",
-        "image": "",
-        "summary": "Két helyettes államtitkárt felmentettek, két másik helyettes államtitkár megbízatása lemondás miatt szűnt meg, emellett egy új államtitkárt és két új helyettes államtitkárt is kineveztek.",
-        "category": "Politika",
-        "published_at": 1794110700
       }
     ]
   },
@@ -4269,7 +4237,7 @@
   {
     "group_id": "group_54eeb56aca",
     "category": "Bulvár",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Femina",
@@ -4279,6 +4247,15 @@
         "summary": "A prémium szaloncukrok kilónként 15-30 ezer forintért kaphatók.",
         "category": "Bulvár",
         "published_at": 1794140700
+      },
+      {
+        "source": "ATV",
+        "title": "Idén sem olcsó a szaloncukor: meglepő árakkal rukkoltak elő a prémium gyártók",
+        "link": "https://www.atv.hu/belfold/20261109/premium-szaloncukor-arak-2026/",
+        "image": "",
+        "summary": "Megjelent a legismertebb hazai prémium szaloncukorgyártók idei kínálata, az árak pedig tartogatnak néhány meglepetést. A Szamos, a Stühmer, a Sulyán és a Demeter termékei között 10 ezer forint körüli és közel 30 ezer forintos kilóárú édességet is találni.",
+        "category": "Gazdaság",
+        "published_at": 1794197100
       }
     ]
   },
@@ -8059,7 +8036,7 @@
         "image": "https://raketa.hu/uploads/2026/11/goolephotos.jpg",
         "summary": "Fontos változás jön a Google Fotók működésében, fele annyi ideig lesz lehetőség visszaállítani a kukába helyezett fájlokat.",
         "category": "Kultúra",
-        "published_at": 1794196903
+        "published_at": 1794197313
       }
     ]
   },
@@ -8108,6 +8085,22 @@
         "summary": "Bemutatta az Egészségügyi Minisztérium az új bértáblát. Magyar Péter kedden Berlinbe utazik, hogy Friedrich Merz német kancellárral tárgyaljon. A Fradi a Milan ellen játszott, egyes szurkolók Mussolinit éltették. Legalább hatan meghaltak miután egy lengyel férfi az autójából kezdett el lövöldözni a krakkói főtéren lévő emberekre. A francia külügyminiszter bejelentette, hogy Európa is képviselteti magát az eredetileg háromoldalúra szánt béketárgyalásokon. Kezdje a napot a HVG hírpodcastjával!",
         "category": "Politika",
         "published_at": 1794196800
+      }
+    ]
+  },
+  {
+    "group_id": "group_c0e8a3b7e5",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "István Dani éveken át volt az RTL sztárműsorvezetője: 45 évesen így él, miután visszavonult a tévézéstől",
+        "link": "https://femina.hu/hazai_sztar/istvan-dani-rtl-musorvezeto-most-45-evesen/",
+        "image": "https://femina.hu/neon/media/images/Istvan_Daniel_cover_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "István Dániel ma már a hangjával keresi a kenyerét.",
+        "category": "Bulvár",
+        "published_at": 1794197100
       }
     ]
   }
