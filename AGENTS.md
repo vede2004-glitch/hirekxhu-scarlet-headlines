@@ -10,3 +10,4 @@
 <!-- LOVABLE:END -->
 
 - Store gallery covers in `public/galeria` and select them through `src/lib/news-covers.ts` using stable URLs, so Cloudflare serves the same paths without hashed-asset manifest dependence.
+- Use a shared news-feed component for the home Top view and `/friss` chronological view, with a pure split helper before display filters, so navigation and duplicate exclusion stay consistent during live updates.
