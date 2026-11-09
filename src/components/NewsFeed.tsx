@@ -1,11 +1,11 @@
-import { useMemo, useState } from "react";
-import { Link } from "@tanstack/react-router";
+import { useMemo, useState, useSyncExternalStore, type ReactNode } from "react";
+import { Link, useLoaderData } from "@tanstack/react-router";
 import { Clock3, Flame, Layers3, Search, ExternalLink } from "lucide-react";
 import { BrandLogo } from "@/components/BrandLogo";
 import { SiteMenu } from "@/components/SiteMenu";
 import { RichText } from "@/components/RichText";
 import { Button, buttonVariants } from "@/components/ui/button";
-import { news, CATEGORIES, ALL, formatDate, type NewsItem } from "@/lib/news";
+import { news, normalizeNewsList, CATEGORIES, ALL, formatDate, type NewsItem } from "@/lib/news";
 import { splitNewsFeed } from "@/lib/news-feed";
 import { heroPhoto } from "@/lib/news-covers";
 import { useNewsVersion } from "@/lib/news-live";
@@ -15,19 +15,31 @@ function Coverage({ item }: { item: NewsItem }) {
   return item.sources.length > 1 ? <span className="inline-flex items-center gap-1.5 rounded-sm bg-primary px-2 py-1 text-[10px] font-bold text-primary-foreground"><Layers3 className="size-3" />{item.sources.length} forrás</span> : null;
 }
 
-function StoryLink({ item, className, children }: { item: NewsItem; className: string; children: React.ReactNode }) {
+function StoryLink({ item, className, children }: { item: NewsItem; className: string; children: ReactNode }) {
   const source = item.sources[0];
   return !item.is_synthesized && source?.link
     ? <a href={source.link} target="_blank" rel="noopener noreferrer" className={className}>{children}</a>
     : <Link to="/hir/$id" params={{ id: item.group_id }} className={className}>{children}</Link>;
 }
 
+const subscribeHydration = () => () => {};
+const clientHydration = () => true;
+const serverHydration = () => false;
+
 export function NewsFeed({ view }: { view: "top" | "latest" }) {
   const version = useNewsVersion();
+  const { liveNews } = useLoaderData({ from: "__root__" });
+  const hydrated = useSyncExternalStore(subscribeHydration, clientHydration, serverHydration);
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState<string>(ALL);
   const [limit, setLimit] = useState(60);
-  const feed = useMemo(() => splitNewsFeed(news), [version]);
+  const feed = useMemo(() => {
+    // Initial browser render uses the exact request snapshot, not shared mutable news.
+    if (!hydrated && liveNews) {
+      try { return splitNewsFeed(normalizeNewsList(JSON.parse(liveNews))); } catch { /* bundled fallback */ }
+    }
+    return splitNewsFeed(news);
+  }, [version, hydrated, liveNews]);
   const list = useMemo(() => (view === "top" ? feed.top : feed.latest).filter(item =>
     (category === ALL || item.category === category) &&
     `${item.title} ${item.lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"))
