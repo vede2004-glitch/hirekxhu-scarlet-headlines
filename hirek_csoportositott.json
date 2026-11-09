@@ -16,22 +16,6 @@
     ]
   },
   {
-    "group_id": "group_aa08f91455",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Akár 5 millió forintot is kaphatnak lakásonként a társasházak, mutatjuk, mire lehet fordítani",
-        "link": "https://www.atv.hu/belfold/20261108/lakas-tarsashaz-wekerle-tamogatas/",
-        "image": "https://www.youtube.com/embed/-QHg9uGiOCw",
-        "summary": "Jelentős támogatást kaphatnak a társasházak energetikai korszerűsítésre a Wekerle Plusz program keretében: lakásonként akár ötmillió forintot is igényelhetnek a lakóközösségek. A konstrukció vissza nem térítendő támogatást és kamatmentes hitelt is kínál.",
-        "category": "Általános",
-        "published_at": 1794108840
-      }
-    ]
-  },
-  {
     "group_id": "group_dfebe7eed4",
     "category": "Kultúra",
     "articles_count": 1,
@@ -1712,7 +1696,7 @@
   {
     "group_id": "group_ff449eab5b",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -1740,6 +1724,15 @@
         "summary": "Súlyosabb esetben pedig bűncselekménynek is minősülhet.",
         "category": "Általános",
         "published_at": 1794138660
+      },
+      {
+        "source": "ATV",
+        "title": "Akár 300 ezer forintos bírságot is kaphat, ha ezt csinálja a kertjében",
+        "link": "https://www.atv.hu/belfold/20261109/birsag-hulladek-eget-futes/",
+        "image": "",
+        "summary": "Akár 300 ezer forintos bírságot is kaphat, aki illegálisan éget hulladékot – figyelmeztetett az Élő Környezetért Felelős Minisztérium az égetőellenes világnap alkalmából.",
+        "category": "Általános",
+        "published_at": 1794195240
       }
     ]
   },
@@ -8051,6 +8044,38 @@
         "summary": "Franciaország kézben akarja tartani az orosz-ukrán háború folyását.",
         "category": "Politika",
         "published_at": 1794194735
+      }
+    ]
+  },
+  {
+    "group_id": "group_d0c611b373",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Szemben a világtrendekkel",
+        "link": "https://magyarnemzet.hu/velemeny/2026/11/szemben-a-vilagtrendekkel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/BXjd2Ef7WNWLotFpZNIhFwkN8tFKp86USOF6H2cT4MI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RmZDU0OTRjMTVmYTRiMzY4NjU2NTM2NjZiZDhkMWI3.jpg",
+        "summary": "A közösségileg kiadott 2.0-s püspöki körlevél tehát az évezredes építkezés, gyarapodás, magas társadalmi minőség kézikönyve.",
+        "category": "Politika",
+        "published_at": 1794195000
+      }
+    ]
+  },
+  {
+    "group_id": "group_d5af0d71c6",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "A Google bejelentette, hogy decembertől érdemes jobban vigyázni a törlés gombbal, ha emlékeinket a Google Fotókban tároljuk",
+        "link": "https://raketa.hu/google-fotok-kuka-30-nap-hatarido-visszaallitas/",
+        "image": "https://raketa.hu/uploads/2026/11/goolephotos.jpg",
+        "summary": "Fontos változás jön a Google Fotók működésében, fele annyi ideig lesz lehetőség visszaállítani a kukába helyezett fájlokat.",
+        "category": "Kultúra",
+        "published_at": 1794195384
       }
     ]
   }
