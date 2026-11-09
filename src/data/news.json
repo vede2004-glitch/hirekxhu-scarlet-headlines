@@ -991,6 +991,35 @@
     "importance_score": 48.0
   },
   {
+    "group_id": "group_fa70681b48",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7248/72486/724863/72486391_5341507_860dbc7b9d030ddcf80a4bff1d10d483_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Videón, ahogy elfogják a gyanúsítottakat az Orbán Áront érintő ügyben",
+        "link": "https://index.hu/belfold/2026/11/09/nvvh-rendorseg-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-orban-aron-gyanusitott-elfogas/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Videókon, ahogy négy embert elfognak az Orbán Áronhoz köthető embercsempészügyben",
+        "link": "https://telex.hu/belfold/2026/11/09/negy-embert-fogtak-el-embercsempeszet-orban-aront-erinto-ugy"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Orbán Áron-ügy: négy személyt fogtak el, mutatjuk videókat",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/orban-aron-ugy-negy-szemelyt-fogtak-el-mutatjuk-videokat-875258"
+      }
+    ],
+    "published_at": 1794240840,
+    "title_hu": "Videón, ahogy elfogják a gyanúsítottakat az Orbán Áront érintő ügyben",
+    "lead_hu": "Összesen négy embert vittek el a hatóságok.",
+    "content_hu": "Összesen négy embert vittek el a hatóságok.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_d6f10527f2",
     "fingerprint": "c3a2b006d2403ff2d54df98d0e8c4cba",
     "category": "Gazdaság",
@@ -1327,30 +1356,6 @@
     "title_hu": "Pécsi levéltárosok tüntetése: harmadik hete követelnek bérrendezést a kulturális dolgozók",
     "lead_hu": "Bérrendezést és érdemi tárgyalásokat követelnek Pécsen.",
     "content_hu": "Bérrendezést és érdemi tárgyalásokat követelnek Pécsen.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_fa70681b48",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7248/72486/724863/72486391_5341507_860dbc7b9d030ddcf80a4bff1d10d483_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Videón, ahogy elfogják a gyanúsítottakat az Orbán Áront érintő ügyben",
-        "link": "https://index.hu/belfold/2026/11/09/nvvh-rendorseg-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-orban-aron-gyanusitott-elfogas/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Videókon, ahogy négy embert elfognak az Orbán Áronhoz köthető embercsempészügyben",
-        "link": "https://telex.hu/belfold/2026/11/09/negy-embert-fogtak-el-embercsempeszet-orban-aront-erinto-ugy"
-      }
-    ],
-    "published_at": 1794240840,
-    "title_hu": "Videón, ahogy elfogják a gyanúsítottakat az Orbán Áront érintő ügyben",
-    "lead_hu": "Összesen négy embert vittek el a hatóságok.",
-    "content_hu": "Összesen négy embert vittek el a hatóságok.",
     "importance_score": 35.0
   },
   {
@@ -2224,56 +2229,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_974d836d9b",
-    "fingerprint": "486968a638a86cea6bf962a53bc78940",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7247/72478/724782/72478223_5340909_7c12624eb44b6dfde543afcd7b90fdf0_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Súlyos orosz csapások Ukrajnában, elment az áram a zaporizzsjai atomerőműnél",
-        "link": "https://index.hu/kulfold/2026/11/09/orosz-ukran-konfliktus-tamadasok-diplomacia-franciaorszag-abu-dzabi/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Folytatódnak az orosz rakétacsapások, egyre durvul az áram-, a víz- és a fűtésdráma Ukrajnában",
-        "link": "https://444.hu/2026/11/09/folytatodnak-az-orosz-raketacsapasok-egyre-durvul-az-aram-a-viz-es-a-futesdrama-ukrajnaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794223279,
-    "title_hu": "Orosz csapások súlyosbítják az ukrajnai közműválságot",
-    "lead_hu": "Az orosz támadások nyomán Ukrajna több térségében akadozik az áram-, víz- és fűtésellátás. A legsúlyosabb helyzet Dnyipropetrovszk és Kijev megyében alakult ki, miközben a zaporizzsjai atomerőmű külső áramellátása is megszakadt.",
-    "content_hu": "• **Kiterjedt áramszünetek** Az energetikai infrastruktúrát ért csapások miatt több megyében maradtak fogyasztók áram nélkül; Dnyipropetrovszk megyében több mint 600 ezren érintettek.\n\n• **Akadozó közműellátás** Zelenszkij szerint számos városban az áram-, a víz- és a fűtésellátás is súlyos nehézségekkel küzd. A legrosszabb állapotokról Kijev, valamint Dnyipropetrovszk, Doneck, Herszon és Szumi megyéből számoltak be.\n\n• **Atomerőmű tartalék generátorokon** Megszűnt a zaporizzsjai atomerőmű külső áramellátása, ezért a reaktorok hűtéséhez dízelgenerátorokat használnak. A NAÜ közlése szerint a rendelkezésre álló üzemanyag körülbelül két hétre elegendő.\n\n• **Vészhelyzeti segítség** Az ukrán elnök közölte, hogy az Európai Unió különleges segélymechanizmust vezet be, hogy gyorsan forrásokat biztosíthasson a legsürgetőbb szükségletekre.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_90eba62cdc",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/Ov1IBr0fFjkg8gQr85olXk-MHFm1DdwCLN2WknVflP8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY0ZDU4NzE3NDAxMTQ4MTliMjAzMzgzYzI3Njc2M2I5.webp",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nem-jelent-meg-a-tisza-frakcio-az-allambiztonsagi-iratokrol-szolo-meghallgatason"
-      },
-      {
-        "source": "Hír TV",
-        "title": "Nem ment el a Tisza a nemzetbiztonsági bizottság ülésére",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nemzetbiztonsagi-bizottsag-tisza-ugynokbotrany"
-      }
-    ],
-    "published_at": 1794223119,
-    "title_hu": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
-    "lead_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
-    "content_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_6fa1272ce5",
     "category": "Politika",
     "image": "https://pcdn.hu/articles/images-lg/t/o/b/tobb-mint-ket-evre-lezarjak-a-lanchidat-a-nyartol-268291.jpg",
@@ -2526,6 +2481,56 @@
     "lead_hu": "Azbesztet mutattak ki a Gyömrői Fekete István Általános Iskolához vezető út kőzúzalékában. A területet lezárták és geotextíliával letakarták; a szülők további méréseket, az önkormányzat pedig a szennyezett anyag mielőbbi elszállítását sürgeti.",
     "content_hu": "• **Egy helyszínen találtak azbesztet** Kilenc helyszínről vettek mintát, és a szennyezést az iskola mellett, az odavezető úton mutatták ki. Az érintett út 470 méter hosszú, a parkolóban pedig mintegy 20 négyzetméternyi területen található hasonló mart aszfalt.\n\n• **További vizsgálatokat követelnek a szülők** Petíciót indítottak, hogy kiderüljön, a környező telkek is szennyezettek-e; a kezdeményezést eddig 50 család írta alá.\n\n• **Lezárták és lefedték az érintett területet** Szakértői javaslatra geotextíliát terítettek a szennyezett részre, a porzást pedig locsolással igyekeznek csökkenteni. A belélegezhető azbesztrostok hosszú távon súlyos egészségügyi kockázatot jelenthetnek.\n\n• **Az önkormányzat az anyag elszállítását kéri** A tavalyi útépítésért felelős Magyar Közút vizsgálatot ígért. Ha az azbeszt jelenlétét megerősítik, elszállítják a szennyezett anyagot; megállapodás hiányában az önkormányzat saját költségén intézkedne, majd megpróbálná behajtani a kiadásokat.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_974d836d9b",
+    "fingerprint": "486968a638a86cea6bf962a53bc78940",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7247/72478/724782/72478223_5340909_7c12624eb44b6dfde543afcd7b90fdf0_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Súlyos orosz csapások Ukrajnában, elment az áram a zaporizzsjai atomerőműnél",
+        "link": "https://index.hu/kulfold/2026/11/09/orosz-ukran-konfliktus-tamadasok-diplomacia-franciaorszag-abu-dzabi/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Folytatódnak az orosz rakétacsapások, egyre durvul az áram-, a víz- és a fűtésdráma Ukrajnában",
+        "link": "https://444.hu/2026/11/09/folytatodnak-az-orosz-raketacsapasok-egyre-durvul-az-aram-a-viz-es-a-futesdrama-ukrajnaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794223279,
+    "title_hu": "Orosz csapások súlyosbítják az ukrajnai közműválságot",
+    "lead_hu": "Az orosz támadások nyomán Ukrajna több térségében akadozik az áram-, víz- és fűtésellátás. A legsúlyosabb helyzet Dnyipropetrovszk és Kijev megyében alakult ki, miközben a zaporizzsjai atomerőmű külső áramellátása is megszakadt.",
+    "content_hu": "• **Kiterjedt áramszünetek** Az energetikai infrastruktúrát ért csapások miatt több megyében maradtak fogyasztók áram nélkül; Dnyipropetrovszk megyében több mint 600 ezren érintettek.\n\n• **Akadozó közműellátás** Zelenszkij szerint számos városban az áram-, a víz- és a fűtésellátás is súlyos nehézségekkel küzd. A legrosszabb állapotokról Kijev, valamint Dnyipropetrovszk, Doneck, Herszon és Szumi megyéből számoltak be.\n\n• **Atomerőmű tartalék generátorokon** Megszűnt a zaporizzsjai atomerőmű külső áramellátása, ezért a reaktorok hűtéséhez dízelgenerátorokat használnak. A NAÜ közlése szerint a rendelkezésre álló üzemanyag körülbelül két hétre elegendő.\n\n• **Vészhelyzeti segítség** Az ukrán elnök közölte, hogy az Európai Unió különleges segélymechanizmust vezet be, hogy gyorsan forrásokat biztosíthasson a legsürgetőbb szükségletekre.",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_90eba62cdc",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/Ov1IBr0fFjkg8gQr85olXk-MHFm1DdwCLN2WknVflP8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY0ZDU4NzE3NDAxMTQ4MTliMjAzMzgzYzI3Njc2M2I5.webp",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nem-jelent-meg-a-tisza-frakcio-az-allambiztonsagi-iratokrol-szolo-meghallgatason"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Nem ment el a Tisza a nemzetbiztonsági bizottság ülésére",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nemzetbiztonsagi-bizottsag-tisza-ugynokbotrany"
+      }
+    ],
+    "published_at": 1794223119,
+    "title_hu": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
+    "lead_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
+    "content_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_4420592d52",
@@ -2864,6 +2869,63 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_6be3b33b1a",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/GettyImages-134043504.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Száraz, viszkető fejbőr? Ezeket az összetevőket jobb elkerülnöd samponvásárláskor",
+        "link": "https://femina.hu/szepseg/szaraz-viszketo-fejbor-kerulendo-samponosszetevok/"
+      }
+    ],
+    "published_at": 1794244800,
+    "title_hu": "Száraz, viszkető fejbőr? Ezeket az összetevőket jobb elkerülnöd samponvásárláskor",
+    "lead_hu": "Viszket, húzódik vagy hámlik a fejbőröd? Nem mindegy, milyen sampont választasz: két gyakori összetevőre is érdemes odafigyelned!...",
+    "content_hu": "Viszket, húzódik vagy hámlik a fejbőröd? Nem mindegy, milyen sampont választasz: két gyakori összetevőre is érdemes odafigyelned!",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_b301df02e3",
+    "category": "Általános",
+    "image": "https://www.youtube.com/embed/OyhqOLRmhlI",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Megálljt parancsolt a Sándor-palota: az Alkotmánybírósághoz küldte a vitatott vagyonvédelmi törvényt a köztársasági elnök",
+        "link": "https://www.atv.hu/belfold/20261109/sandor-palota-torveny-normakontroll/"
+      }
+    ],
+    "published_at": 1794244680,
+    "title_hu": "Megálljt parancsolt a Sándor-palota: az Alkotmánybírósághoz küldte a vitatott vagyonvédelmi törvényt a köztársasági elnök",
+    "lead_hu": "Nem írta alá, hanem előzetes normakontrollra az Alkotmánybírósághoz küldte a Sándor-palota a vitatott törvényt, miután az államfő szerint a jogszabály több ponton is sértheti az alaptörvényt és a jogb...",
+    "content_hu": "Nem írta alá, hanem előzetes normakontrollra az Alkotmánybírósághoz küldte a Sándor-palota a vitatott törvényt, miután az államfő szerint a jogszabály több ponton is sértheti az alaptörvényt és a jogbiztonságot.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_faa299dd36",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/9-a_O9gm-1QfKYnlFmglHsGdaHHbBGmR4JUakAW5mUA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE4N2NiNTA1ZDc2NTQyZmI5YzQyNTMwOWJjNzczMGZk.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Kaliforniai melankólia Budapesten: 11 év után visszatér a The Neighbourhood",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/the-neighbourhood-koncert-budapest-park?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794244607,
+    "title_hu": "Kaliforniai melankólia Budapesten: 11 év után visszatér a The Neighbourhood",
+    "lead_hu": "Az amerikai rockzenekar 2027. június 28-án a Budapest Parkban ad koncertet....",
+    "content_hu": "Az amerikai rockzenekar 2027. június 28-án a Budapest Parkban ad koncertet.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_845ec20646",
     "category": "Politika",
     "image": "https://kep.index.hu/1/0/6949/69499/694995/69499527_5128703_9175ea82832c3823e839b9132fed2ba3_wm.jpg",
@@ -2975,6 +3037,25 @@
     "title_hu": "A világ AI-elitje a szomszédban találkozott, de a magyar guruk sehol nem voltak",
     "lead_hu": "Robotikus plusz hüvelykujj, 3D-nyomtatott koktél és a mesterséges intelligencia veszélyeit hirdető Nobel-díjas: ez volt az idei TEDAI Vienna receptje....",
     "content_hu": "Robotikus plusz hüvelykujj, 3D-nyomtatott koktél és a mesterséges intelligencia veszélyeit hirdető Nobel-díjas: ez volt az idei TEDAI Vienna receptje.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_5f8005c361",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Sokan rosszul fagyasztják le a kenyeret: így marad finom és friss kiolvasztás után is",
+        "link": "https://nlc.hu/gasztro/20261109/kenyer-helyes-lefagyasztasi-technikaja/vrp0y04"
+      }
+    ],
+    "published_at": 1794243780,
+    "title_hu": "Sokan rosszul fagyasztják le a kenyeret: így marad finom és friss kiolvasztás után is",
+    "lead_hu": "Gyakran előfordul, hogy több kenyeret vásárolsz, mint amennyit néhány nap alatt el tudsz fogyasztani. Ilyenkor könnyen a kukában végezheti a megmaradt pékáru, pedig egy egyszerű módszerrel hosszabb id...",
+    "content_hu": "Gyakran előfordul, hogy több kenyeret vásárolsz, mint amennyit néhány nap alatt el tudsz fogyasztani. Ilyenkor könnyen a kukában végezheti a megmaradt pékáru, pedig egy egyszerű módszerrel hosszabb időre is megőrizheted a minőségét. A fagyasztás remek megoldás lehet, de egyáltalán nem mindegy, hogyan készíted elő a kenyeret, miként csomagolod el, és hogyan olvasztod ki később. The post Sokan rosszul fagyasztják le a kenyeret: így marad finom és friss kiolvasztás után is first appeared on nlc.",
     "importance_score": 0.0
   },
   {
@@ -12570,120 +12651,6 @@
     "title_hu": "Európa mégis részt vesz az orosz–ukrán béketárgyalásokon",
     "lead_hu": "Jean-Noël Barrot francia külügyminiszter arról beszélt, hogy több európai ország is ott lesz Abu-Dzabiban, a Kreml azonban ennek továbbra sem látja értelmét. The post Európa mégis részt vesz az orosz–…",
     "content_hu": "Jean-Noël Barrot francia külügyminiszter arról beszélt, hogy több európai ország is ott lesz Abu-Dzabiban, a Kreml azonban ennek továbbra sem látja értelmét. The post Európa mégis részt vesz az orosz–ukrán béketárgyalásokon first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_bc6127bde4",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Túl vagyunk az első zord éjszakán",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/tul-vagyunk-az-elso-zord-ejszakan"
-      }
-    ],
-    "published_at": 1794158460,
-    "title_hu": "Túl vagyunk az első zord éjszakán",
-    "lead_hu": "Az Időkép három állomásán is mínusz 10 fok alatti értéket mértek.",
-    "content_hu": "Az Időkép három állomásán is mínusz 10 fok alatti értéket mértek.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e6dacbbb2b",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/testapolo_Y9EgGyM.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Néhány alapanyagból készül ez a házi testvaj: hónapokig kitart egyetlen adag",
-        "link": "https://femina.hu/szepseg/hazi-testvaj-keszitese-recept/"
-      }
-    ],
-    "published_at": 1794158400,
-    "title_hu": "Néhány alapanyagból készül ez a házi testvaj: hónapokig kitart egyetlen adag",
-    "lead_hu": "Természetes összetevőkkel készül, és mélyen hidratálja a kiszáradt bőrt.",
-    "content_hu": "Természetes összetevőkkel készül, és mélyen hidratálja a kiszáradt bőrt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5c3bce67ca",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7240/72407/724077/72407767_5335901_4cca2423902fbc8d2dff33412dbf6bd8_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "A kormány számára elsődleges a lakossági tűzifaellátás, de azért áramot nem fából kellene előállítani",
-        "link": "https://index.hu/belfold/2026/11/08/erdo-erdogazdalkodas-fakitermeles-termeszetvedelem-klimavaltozas-gajdos-laszlo-sipos-katalin/"
-      }
-    ],
-    "published_at": 1794158340,
-    "title_hu": "A kormány számára elsődleges a lakossági tűzifaellátás, de azért áramot nem fából kellene előállítani",
-    "lead_hu": "Gajdos László mondott részleteket az erdőgazdálkodást érintő jövő évi tervekről.",
-    "content_hu": "Gajdos László mondott részleteket az erdőgazdálkodást érintő jövő évi tervekről.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6543248acb",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Bocsánatot kért a férfi, aki Magyar Pétert borral öntötte le még szeptemberben – így reagált a kormányfő",
-        "link": "https://www.atv.hu/belfold/20261108/magyar-peter-leont-bor-bocsanat/"
-      }
-    ],
-    "published_at": 1794158280,
-    "title_hu": "Bocsánatot kért a férfi, aki Magyar Pétert borral öntötte le még szeptemberben – így reagált a kormányfő",
-    "lead_hu": "Levélben kért bocsánatot az a férfi, aki szeptemberben a Szekszárdi Szüreti Napokon borral öntötte le Magyar Pétert.",
-    "content_hu": "Levélben kért bocsánatot az a férfi, aki szeptemberben a Szekszárdi Szüreti Napokon borral öntötte le Magyar Pétert.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6741d81acc",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7240/72405/724057/72405781_5335769_fa330a7ecfee53e75c3cae856f89d94c_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Belülről érkezett éles kritika, el kell felejteniük a biztosítóknak az apróbetűs részt",
-        "link": "https://index.hu/gazdasag/2026/11/08/biztositas-biztosito-asszisztencia-global-assistance-orvosi-ellatas-autojavitas-egeszsegugyi-ellatas-szakember-ai/"
-      }
-    ],
-    "published_at": 1794158220,
-    "title_hu": "Belülről érkezett éles kritika, el kell felejteniük a biztosítóknak az apróbetűs részt",
-    "lead_hu": "Súlyos látlelet Magyarországról, már a segítség megtalálása is luxus.",
-    "content_hu": "Súlyos látlelet Magyarországról, már a segítség megtalálása is luxus.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_78e3a352e4",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/000_d6u27v6-e1794158097693-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Feleségeik tiszteletére szólította fel a férjeket XIV. Leó pápa",
-        "link": "https://24.hu/kulfold/2026/11/08/xiv-leo-papa-csaladon-beluli-eroszak/"
-      }
-    ],
-    "published_at": 1794158134,
-    "title_hu": "Feleségeik tiszteletére szólította fel a férjeket XIV. Leó pápa",
-    "lead_hu": "Dicsérte a nők szerepét abban, hogy továbbadják a katolikus vallást az új nemzedékeknek. The post Feleségeik tiszteletére szólította fel a férjeket XIV. Leó pápa first appeared on 24.hu.",
-    "content_hu": "Dicsérte a nők szerepét abban, hogy továbbadják a katolikus vallást az új nemzedékeknek. The post Feleségeik tiszteletére szólította fel a férjeket XIV. Leó pápa first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
