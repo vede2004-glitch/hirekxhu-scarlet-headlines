@@ -427,42 +427,6 @@
     "importance_score": 65.0
   },
   {
-    "group_id": "group_2940801305",
-    "fingerprint": "0f5b2dfd0243ce5a778ecd7e2625e441",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1053091800-1-e1794204029966-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Török Gábor: Most először került egy ligába a Fidesz és a Mi Hazánk",
-        "link": "https://24.hu/belfold/2026/11/09/torok-gabor-median-mi-hazank-fidesz/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Először került egy ligába a Fidesz és a Mi Hazánk Török Gábor szerint",
-        "link": "https://hvg.hu/itthon/20261109_eloszor-kerult-egy-ligaba-a-fidesz-es-a-mi-hazank-torok-gabor-szerint"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Török Gábor szerint először került egy ligába a Fidesz és a Mi Hazánk",
-        "link": "https://telex.hu/belfold/2026/11/09/torok-gabor-eloszor-kerult-egy-ligaba-a-fidesz-es-a-mi-hazank-median"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Török Gábor: Most először került egy ligába a Fidesz és a Mi Hazánk",
-        "link": "https://index.hu/belfold/2026/11/09/torok-gabor-median-felmeres-fidesz-mi-hazank-mozgalom/"
-      }
-    ],
-    "published_at": 1794208620,
-    "title_hu": "Török Gábor szerint egy ligába került a Fidesz és a Mi Hazánk",
-    "lead_hu": "A friss Medián-felmérés szerint a Fidesz támogatottsága a teljes népesség körében 6 százalékponttal, 16 százalékra csökkent, miközben a Mi Hazánk erősödött. A párt támogatottságát a források eltérően, 9, illetve 11 százalékra teszik. Török Gábor szerint először kerültek egy ligába; a Tisza Párt 55 százalékon áll.",
-    "content_hu": "• **A Fidesz támogatottsága csökkent** A Medián mérése szerint a párt a teljes népesség körében 6 százalékponttal, 16 százalékra esett vissza.\n\n• **A Mi Hazánk felzárkózott** Török Gábor szerint a két párt először került egy ligába, és mindkettő középpártnak nevezhető. A források eltérő adatot közölnek a Mi Hazánk támogatottságáról: több beszámoló 9, az Index 11 százalékot ír.\n\n• **A Tisza vezet** A párt támogatottsága 55 százalék, és érdemben nem változott. A választani tudó biztos szavazók körében a Tisza és a Fidesz aránya 68:20.\n\n• **Magyar Péter a felmérésre reagált** A miniszterelnök szerint a Fidesz harmincéves mélypontra zuhant, és azt állította, hogy egy mostani választáson a Tisza mind a 106 egyéni választókerületet megnyerné.",
-    "importance_score": 60.0
-  },
-  {
     "group_id": "group_2859d6c3fa",
     "fingerprint": "fed4b618321e38abcc47003dde26a1b5",
     "category": "Politika",
@@ -569,6 +533,42 @@
     "lead_hu": "Vasárnap délelőtt közel egy órán át palesztin zászló lengett a berlini Reichstag előtti zászlórúdon, miután három férfi eltávolította a német lobogót. A rendőrség őrizetbe vett egy 22 éves férfit, és a nemzeti jelképek megsértése miatt nyomozást indított.",
     "content_hu": "• **Közel egy órán át** palesztin zászló lengett a Reichstag előtti zászlórúdon a német lobogó helyett.\n\n• **Három férfi vett részt az akcióban:** egy 22 éves férfi felmászott a zászlórúdra, két társa pedig a földről segítette.\n\n• **Őrizetbe vették a 22 éves férfit.** A rendőrség a nemzeti jelképek megsértése miatt indított nyomozást; a férfi azt mondta, Palesztinával való szolidaritásból cselekedett.",
     "importance_score": 55.0
+  },
+  {
+    "group_id": "group_2940801305",
+    "fingerprint": "0f5b2dfd0243ce5a778ecd7e2625e441",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1053091800-1-e1794204029966-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Török Gábor: Most először került egy ligába a Fidesz és a Mi Hazánk",
+        "link": "https://24.hu/belfold/2026/11/09/torok-gabor-median-mi-hazank-fidesz/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Először került egy ligába a Fidesz és a Mi Hazánk Török Gábor szerint",
+        "link": "https://hvg.hu/itthon/20261109_eloszor-kerult-egy-ligaba-a-fidesz-es-a-mi-hazank-torok-gabor-szerint"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Török Gábor szerint először került egy ligába a Fidesz és a Mi Hazánk",
+        "link": "https://telex.hu/belfold/2026/11/09/torok-gabor-eloszor-kerult-egy-ligaba-a-fidesz-es-a-mi-hazank-median"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Török Gábor: Most először került egy ligába a Fidesz és a Mi Hazánk",
+        "link": "https://index.hu/belfold/2026/11/09/torok-gabor-median-felmeres-fidesz-mi-hazank-mozgalom/"
+      }
+    ],
+    "published_at": 1794208620,
+    "title_hu": "Török Gábor szerint egy ligába került a Fidesz és a Mi Hazánk",
+    "lead_hu": "A friss Medián-felmérés szerint a Fidesz támogatottsága a teljes népesség körében 6 százalékponttal, 16 százalékra csökkent, miközben a Mi Hazánk erősödött. A párt támogatottságát a források eltérően, 9, illetve 11 százalékra teszik. Török Gábor szerint először kerültek egy ligába; a Tisza Párt 55 százalékon áll.",
+    "content_hu": "• **A Fidesz támogatottsága csökkent** A Medián mérése szerint a párt a teljes népesség körében 6 százalékponttal, 16 százalékra esett vissza.\n\n• **A Mi Hazánk felzárkózott** Török Gábor szerint a két párt először került egy ligába, és mindkettő középpártnak nevezhető. A források eltérő adatot közölnek a Mi Hazánk támogatottságáról: több beszámoló 9, az Index 11 százalékot ír.\n\n• **A Tisza vezet** A párt támogatottsága 55 százalék, és érdemben nem változott. A választani tudó biztos szavazók körében a Tisza és a Fidesz aránya 68:20.\n\n• **Magyar Péter a felmérésre reagált** A miniszterelnök szerint a Fidesz harmincéves mélypontra zuhant, és azt állította, hogy egy mostani választáson a Tisza mind a 106 egyéni választókerületet megnyerné.",
+    "importance_score": 53.0
   },
   {
     "group_id": "group_37e2ad9592",
@@ -1252,6 +1252,30 @@
     "title_hu": "Trump szerint csak tréfált Dana White szóvivői felkérésével",
     "lead_hu": "Donald Trump vasárnap azt mondta, csak viccelt, amikor előző nap felvetette, hogy Dana White, az UFC vezetője legyen a Fehér Ház szóvivője. A tréfát azzal magyarázta, hogy szerinte a ketrecharcosok jelenléte visszafogná az újságírókat.",
     "content_hu": "• **Trump magyarázata** Az amerikai elnök azt állította, hogy nem gondolta komolyan Dana White felkérését, noha hozzátette: szerinte az UFC vezetőjének tetszik az ötlet.\n\n• **A sajtótájékoztató** Trump arról beszélt, hogy hat harcos kíséretében White átvehetné az irányítást a sajtótájékoztató teremben, és az újságírók kevésbé mernének vele „szórakozni”.\n\n• **Erőszakos videó** Trump megosztott egy mesterséges intelligenciával készült videót is, amelyen UFC-harcosok újságírókat vernek.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_88aef4ff35",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/000_b7ux7nu-e1794211546724-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Bődületes rekordveszteséget szenvedtek el az oroszok Ukrajnában",
+        "link": "https://24.hu/kulfold/2026/11/09/orosz-ukran-haboru-orosz-vesztesegrekord/"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Egy hackercsapat kiderítette, milyen brutális veszteségeket szenvedtek eddig az oroszok Ukrajnában",
+        "link": "https://hvg.hu/vilag/20261109_eddig-400-000-orosz-halottja-van-az-orosz-ukran-haborunak"
+      }
+    ],
+    "published_at": 1794211685,
+    "title_hu": "Bődületes rekordveszteséget szenvedtek el az oroszok Ukrajnában",
+    "lead_hu": "Soha ennyi orosz katona nem halt meg egy nap alatt. The post Bődületes rekordveszteséget szenvedtek el az oroszok Ukrajnában first appeared on 24.hu.",
+    "content_hu": "Soha ennyi orosz katona nem halt meg egy nap alatt. The post Bődületes rekordveszteséget szenvedtek el az oroszok Ukrajnában first appeared on 24.hu.",
     "importance_score": 35.0
   },
   {
@@ -2015,30 +2039,6 @@
     "importance_score": 25.0
   },
   {
-    "group_id": "group_afbc355479",
-    "category": "Kultúra",
-    "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/07/windows_11_105405_1_original_390x220_cover.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "PC World",
-        "title": "Jövőre akkora frissítést kap a Windows 11, hogy akár Windows 12 is lehet belőle",
-        "link": "https://www.gsplus.hu/pcw/windows-11-12-frissites-27h2-390547.html"
-      },
-      {
-        "source": "PC World",
-        "title": "Jövőre akkora frissítést kap a Windows 11, hogy akár Windows 12 is lehet belőle",
-        "link": "https://www.gsplus.hu/pcw/500-milliard-dollart-esett-a-google-erteke-ezert-az-ait-is-telepakoljak-reklamokkal-390207.html"
-      }
-    ],
-    "published_at": 1794133100,
-    "title_hu": "Jövőre akkora frissítést kap a Windows 11, hogy akár Windows 12 is lehet belőle",
-    "lead_hu": "A Microsoft nagyon óvatos az operációs rendszer átalakítása kapcsán, de a jövő évben érkező csomag egy radikális átalakításnak ígérkezik.",
-    "content_hu": "A Microsoft nagyon óvatos az operációs rendszer átalakítása kapcsán, de a jövő évben érkező csomag egy radikális átalakításnak ígérkezik.",
-    "importance_score": 25.0
-  },
-  {
     "group_id": "group_54eeb56aca",
     "fingerprint": "e27f8be273aa4337848970e9c588297c",
     "category": "Gazdaság",
@@ -2297,6 +2297,63 @@
     "lead_hu": "A Kisvárda vasárnap bejelentette, hogy megválik Supka Attila vezetőedzőtől, miután a csapat hazai pályán 1–0-ra kikapott a Puskás Akadémiától. A szakember a vereség után a csapat gyenge eredményeit a „realitással” magyarázta; utódjáról egyelőre nem közöltek részleteket.",
     "content_hu": "• **A menesztés előzménye:** A Kisvárda szombaton 1–0-s vereséget szenvedett hazai pályán a Puskás Akadémiától, majd a klub másnap bejelentette, hogy szakít Supka Attilával.\n\n• **Supka értékelése:** Az edző a vereség után azt mondta, hogy a gyenge eredmények „a realitást” tükrözik, és a csapat hiába igyekszik, nem tud eredményes lenni.\n\n• **A Kisvárda mérlege:** A csapat 13 forduló alatt 12 pontot gyűjtött, és a tabella 11. helyén állt. Legutóbbi hat bajnokijából egyet sem nyert meg.\n\n• **Az utódlás:** Supka második kisvárdai edzői időszaka 13 bajnoki mérkőzés után ért véget; a klub közlése szerint utódjának megtalálása folyamatban van.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_4420592d52",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Ő Arnold Schwarzenegger legkisebb fia: Joseph Baena az első profi testépítőversenyén az élmezőnyben végzett",
+        "link": "https://nlc.hu/eletmod/20261109/o-joseph-baena-arnold-schwarzenegger-legkisebb-fia/ejsqg0e"
+      }
+    ],
+    "published_at": 1794219660,
+    "title_hu": "Ő Arnold Schwarzenegger legkisebb fia: Joseph Baena az első profi testépítőversenyén az élmezőnyben végzett",
+    "lead_hu": "Arnold Schwarzenegger legfiatalabb fia, Joseph Baena újabb mérföldkőhöz érkezett: első profi testépítőversenyén rögtön az első öt között végzett. The post Ő Arnold Schwarzenegger legkisebb fia: Joseph...",
+    "content_hu": "Arnold Schwarzenegger legfiatalabb fia, Joseph Baena újabb mérföldkőhöz érkezett: első profi testépítőversenyén rögtön az első öt között végzett. The post Ő Arnold Schwarzenegger legkisebb fia: Joseph Baena az első profi testépítőversenyén az élmezőnyben végzett first appeared on nlc.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_715718e053",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/10/mfIaxwULun9k64opoKTuVJiduRbtPPK77O1Ck_lDvXo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZkYmQzYzJhNGE1MjQ1OThiMzk4ZWIxZjdlNmUyMjQz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Borúsan látják a közeli jövőt az építőipari cégek, érdemi fellendülés még jövőre sem lesz",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/borusan-latjak-a-kozeli-jovot-az-epitoipari-cegek-erdemi-fellendules-meg-jovore-sem-lesz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794219635,
+    "title_hu": "Borúsan látják a közeli jövőt az építőipari cégek, érdemi fellendülés még jövőre sem lesz",
+    "lead_hu": "Hatvan százalékuk arra számít, idén csökken az árbevételük....",
+    "content_hu": "Hatvan százalékuk arra számít, idén csökken az árbevételük.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f4aef24e70",
+    "category": "Gazdaság",
+    "image": "https://www.youtube.com/embed/PbasRBxyPF0",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Elnyelte a föld a százmilliókat: hatalmasat bukott a Matolcsy Ádám könyveit is publikáló kiadó",
+        "link": "https://www.atv.hu/belfold/20261109/pallas-athene-konyvkiado-790-millio/"
+      }
+    ],
+    "published_at": 1794219540,
+    "title_hu": "Elnyelte a föld a százmilliókat: hatalmasat bukott a Matolcsy Ádám könyveit is publikáló kiadó",
+    "lead_hu": "Közel 800 millió forint támogatást kapott a jegybank alapítványától az a könyvkiadó, amely Matolcsy György több kötetét is megjelentette. A cég ennek ellenére 2025-re súlyos pénzügyi helyzetbe került,...",
+    "content_hu": "Közel 800 millió forint támogatást kapott a jegybank alapítványától az a könyvkiadó, amely Matolcsy György több kötetét is megjelentette. A cég ennek ellenére 2025-re súlyos pénzügyi helyzetbe került, az évet 155 millió forintos veszteséggel zárta, ráadásul több százmillió forint értékű könyv maradt a raktárában.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_759649165a",
@@ -3588,25 +3645,6 @@
     "title_hu": "A világ, ahogyan te látod – Mutasd, mire vagy kép-es a CEWE Photo Awardon!",
     "lead_hu": "A repülő ürge: tervezés és váratlan helyzetek Ambrus Tímea 2019 óta professzionális szinten The post A világ, ahogyan te látod – Mutasd, mire vagy kép-es a CEWE Photo Awardon! first appeared on 24.hu.",
     "content_hu": "A repülő ürge: tervezés és váratlan helyzetek Ambrus Tímea 2019 óta professzionális szinten The post A világ, ahogyan te látod – Mutasd, mire vagy kép-es a CEWE Photo Awardon! first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_88aef4ff35",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/000_b7ux7nu-e1794211546724-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Bődületes rekordveszteséget szenvedtek el az oroszok Ukrajnában",
-        "link": "https://24.hu/kulfold/2026/11/09/orosz-ukran-haboru-orosz-vesztesegrekord/"
-      }
-    ],
-    "published_at": 1794211685,
-    "title_hu": "Bődületes rekordveszteséget szenvedtek el az oroszok Ukrajnában",
-    "lead_hu": "Soha ennyi orosz katona nem halt meg egy nap alatt. The post Bődületes rekordveszteséget szenvedtek el az oroszok Ukrajnában first appeared on 24.hu.",
-    "content_hu": "Soha ennyi orosz katona nem halt meg egy nap alatt. The post Bődületes rekordveszteséget szenvedtek el az oroszok Ukrajnában first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
