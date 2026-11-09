@@ -32,22 +32,6 @@
     ]
   },
   {
-    "group_id": "group_8b1aa3f0b8",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "PC World",
-        "title": "A Doom után itt az új őrület? Meglepő platformon bírtak működésre egy LLM-et",
-        "link": "https://www.gsplus.hu/pcw/a-doom-utan-itt-az-uj-orulet-meglepo-platformon-birtak-mukodesre-egy-llmet-390562.html",
-        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2611/07/2015_kindle_paperwhite_121349_1_original_390x220_cover.jpg",
-        "summary": "Gyorsnak nem gyors, de az öreg e-könyv-olvasó internet nélkül válaszol.",
-        "category": "Kultúra",
-        "published_at": 1794144312
-      }
-    ]
-  },
-  {
     "group_id": "group_755d5750af",
     "category": "Politika",
     "articles_count": 3,
@@ -82,35 +66,10 @@
     ]
   },
   {
-    "group_id": "group_97be7f78cc",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Túszul ejtettek Szíriában egy fakó keselyűt, váltságdíjat követelnek érte",
-        "link": "https://index.hu/kulfold/2026/11/08/fako-keselyu-valtsagdij-szerbia-sziria-fogsag-termeszetvedok/",
-        "image": "https://kep.index.hu/1/0/7247/72474/724743/72474313_5340613_b971faa7c951f7dde21e117c8c016ac3_wm.jpg",
-        "summary": "Számos magánszemély és szervezet ajánlott fel pénzt a madár kiváltására.",
-        "category": "Általános",
-        "published_at": 1794144480
-      }
-    ]
-  },
-  {
     "group_id": "group_154a077920",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Az egykori brexit-főtárgyaló szerint az EU ajtaja nyitva áll a britek előtt, de ők sem válogathatnak",
-        "link": "https://telex.hu/kulfold/2026/11/08/michel-barnie-europai-bizottsag-egykori-brexit-ugyi-fotargyalo-eu-tagsag-egyesult-kiralysag",
-        "image": "https://assets.telex.hu/images/20261108/1794144010-temp-ci9fqmeapo77apnjdak_cimlap-normal.jpg",
-        "summary": "Michel Barnier szerint a négy szabadságjognak mindenkire vonatkoznia kell.",
-        "category": "Politika",
-        "published_at": 1794144182
-      },
       {
         "source": "HVG - Világ",
         "title": "Ha a Brexit után meggondolták magukat, nyitva áll az EU ajtaja Nagy-Britannia előtt, de feltételekkel",
@@ -128,31 +87,6 @@
         "summary": "Michel Barnier úgy véli, az esetleges csatlakozási folyamat rövidebb lehet, mint a kilépési.",
         "category": "Politika",
         "published_at": 1794151440
-      }
-    ]
-  },
-  {
-    "group_id": "group_5ce171abf1",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Klasszikus pénzszállító rablás Nyíregyházán: a légpisztolyos rabló meglett, az arany nagy részének nyoma veszett",
-        "link": "https://444.hu/2026/11/08/klasszikus-penzszallito-rablas-nyiregyhazan-a-legpisztolyos-rablo-meglett-az-arany-nagy-reszenek-nyoma-veszett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Az 54 éves férfi 100 ezer japán jent is elvitt, és elektromos rollert használt a meneküléshez.",
-        "category": "Politika",
-        "published_at": 1794144396
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Kiraboltak egy pénzszállítót Nyíregyházán, az elkövető 19 millió forintnyi aranyat vitt el",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/kiraboltak-egy-penzszallitot-nyiregyhazan-az-elkoveto-19-millio-forintnyi-aranyat-vitt-el",
-        "image": "",
-        "summary": "Kevesebb mint egy nap alatt elfogták azt az 54 éves férfit, akit egy nyíregyházi valutaváltó kirablásával gyanúsítanak. A csütörtökön történt támadás során mintegy 19 millió forint értékű befektetési aranyat és 100 ezer japán jent vitt el az üzletbő...",
-        "category": "Politika",
-        "published_at": 1794151080
       }
     ]
   },
@@ -921,6 +855,22 @@
         "summary": "Egyszerre kapott fájó csapást a nemzeti büszkeség és a németek hagyományos érzékenysége Izraelt illetően.",
         "category": "Gazdaság",
         "published_at": 1794148037
+      }
+    ]
+  },
+  {
+    "group_id": "group_5ce171abf1",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Kiraboltak egy pénzszállítót Nyíregyházán, az elkövető 19 millió forintnyi aranyat vitt el",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/kiraboltak-egy-penzszallitot-nyiregyhazan-az-elkoveto-19-millio-forintnyi-aranyat-vitt-el",
+        "image": "",
+        "summary": "Kevesebb mint egy nap alatt elfogták azt az 54 éves férfit, akit egy nyíregyházi valutaváltó kirablásával gyanúsítanak. A csütörtökön történt támadás során mintegy 19 millió forint értékű befektetési aranyat és 100 ezer japán jent vitt el az üzletbő...",
+        "category": "Politika",
+        "published_at": 1794151080
       }
     ]
   },
@@ -7527,7 +7477,7 @@
   {
     "group_id": "group_0ddcb5f5a0",
     "category": "Politika",
-    "articles_count": 30,
+    "articles_count": 32,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -7798,6 +7748,24 @@
         "summary": "A volt miniszterelnök szerint ő a célpont, az öccsét csak eszközként használják fel.",
         "category": "Politika",
         "published_at": 1794230118
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "„A Fidesz belesüppedt a béna kacsák vagyunk, de Orbán Viktort nem engedjük elvinni szerepkörbe”",
+        "link": "https://hvg.hu/itthon/20261109_fidesz-bena-kacsa-edian-kutatas-vox-populi",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/66b76079-7439-49d3-a1d0-0932add1c54b.jpg",
+        "summary": "A Vox Populi gyorselemzése a Medián friss kutatása mögött húzódó politikai mozgásokról.",
+        "category": "Politika",
+        "published_at": 1794230870
+      },
+      {
+        "source": "Hír TV",
+        "title": "Nem elszámoltatás, hanem leszámolás zajlik – megszólalt Orbán Viktor",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/orban-viktor-celpont-en-vagyok-ocsem-csak-eszkoz",
+        "image": "https://cdn.hirtv.hu/2026/11/Vp6Fw6QJf3aJ6_Q-SLOEfnJZPA0qPgzhUPzArpypcRo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NkY2Q1ODQ4OGMxYTQ3NTJiOWJmNzQ1ZDIxYTY5OWU4.webp",
+        "summary": "Orbán Viktor szerint ő a célpont, az öccse csak eszköz.",
+        "category": "Politika",
+        "published_at": 1794230607
       }
     ]
   },
@@ -10545,7 +10513,7 @@
         "image": "https://raketa.hu/uploads/2026/11/aimunkaero.jpg",
         "summary": "Az AI egyre szélesebb körű vállalati alkalmazása rontja a pályakezdők elhelyezkedési esélyeit, ugyanakkor egyelőre nincs jele annak, hogy munkahelyek tömeges megszűnésével járna a technológia alkalmazása az ifo gazdaságkutató intézet szerint.",
         "category": "Kultúra",
-        "published_at": 1794230558
+        "published_at": 1794230973
       }
     ]
   },
@@ -10690,6 +10658,86 @@
         "summary": "Ezen a héten az angyalok a türelmet, a tiszta szívű kapcsolódást és a nyugodt mérlegelést erősítik benned. The post Heti angyalhoroszkóp: angyali üzenetek segítenek tisztábban látni a kapcsolataidban és a mindennapokban first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794229620
+      }
+    ]
+  },
+  {
+    "group_id": "group_514d89edc0",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Indul a téli ellenőrzés a Nébih-nél, boltoktól a vásárokig vizsgálódnak a szakemberek",
+        "link": "https://index.hu/belfold/2026/11/09/nebih-ellenorzes-vizsgalat-orszagos-teli-szezonalis-elelmiszer-vasar/",
+        "image": "https://kep.index.hu/1/0/6630/66301/663017/66301735_4895281_461713149fb73d989c9c2400a238b572_wm.jpg",
+        "summary": "Fokozott jelenlétre figyelmeztet a hivatal.",
+        "category": "Általános",
+        "published_at": 1794230640
+      }
+    ]
+  },
+  {
+    "group_id": "group_d137ecb429",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "A fekete ruhás nővér kifakadt azokra, akik most türelmetlenül követelnek azonnali béremelést",
+        "link": "https://hvg.hu/itthon/20261109_a-fekete-ruhas-nover-turelemre-int-minket-az-uj-kormannyal-kapcsolatban",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d723e0cc-2786-478d-87ab-b0215b9b1576.jpg",
+        "summary": "Sándor Mária úgy érzi, olyanok verik az asztalt türelmetlenül most magasabb fizetésért, akik az elmúlt 16 évben csöndben voltak.",
+        "category": "Politika",
+        "published_at": 1794230754
+      }
+    ]
+  },
+  {
+    "group_id": "group_d337d68c3a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "A szerb Egyetemista Lista is az ügynökakták megnyitását ígéri",
+        "link": "https://444.hu/2026/11/09/a-szerb-egyetemista-lista-is-az-ugynokaktak-megnyitasat-igeri?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Ugyanez szerepelt Magyar Péter első ígéretei között is.",
+        "category": "Politika",
+        "published_at": 1794230569
+      }
+    ]
+  },
+  {
+    "group_id": "group_19408fa703",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Tiszás nyugdíjemelés: a 14. havi juttatásból csak egyheti marad",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nyugdijemeles-14-havi-szalai-piroska",
+        "image": "https://cdn.hirtv.hu/2026/11/58fXGfX8WhyCwtFRsWfPlhnx81ktemfKqTZmhyxQc-A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ4ZTBkNzc2N2JiMTRhMzFhMzA0NDAyYjQ1NTExMDdk.webp",
+        "summary": "Szalai Piroska a kormány nyugdíjpolitikájáról.",
+        "category": "Politika",
+        "published_at": 1794230773
+      }
+    ]
+  },
+  {
+    "group_id": "group_e9900612bc",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Világ",
+        "title": "Egyetemista Lista: minél hamarabb nyissák meg a szerb titkosszolgálat aktáit",
+        "link": "https://hvg.hu/vilag/20261109_szerbia-egyetemista-lista-titkosszolgalat-aktak",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a6a25472-c259-4b54-8dfc-8c84141033a7.jpg",
+        "summary": "Svetlana Stanarevics szerint az egymást váltó kormányok ugyanazokra a besúgóhálózatokra támaszkodhattak.",
+        "category": "Általános",
+        "published_at": 1794230519
       }
     ]
   }
