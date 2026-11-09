@@ -1,55 +1,5 @@
 [
   {
-    "group_id": "group_c1d92cd747",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Határozottan támogatja Pete Hegseth elmozdítását a demokraták képviselőházi vezetője",
-        "link": "https://telex.hu/kulfold/2026/11/08/egyesult-allamok-hakeem-jeffries-szenatus",
-        "image": "https://assets.telex.hu/images/20261108/1794168311-temp-e7t9h6di3l9o4accioh_cimlap-normal.jpg",
-        "summary": "Hakeem Jeffries elővenné Elon Muskot és Stephen Millert is.",
-        "category": "Politika",
-        "published_at": 1794169910
-      }
-    ]
-  },
-  {
-    "group_id": "group_c1b5dfa814",
-    "category": "Általános",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Nagy balhé és verekedés volt a Vasas–Ferencváros bajnoki előtt, az ultrák a rendőrökkel is összetűzésbe kerültek",
-        "link": "https://index.hu/sport/2026/11/08/ferencvaros-fradi-vasas-balhe-konnygaz-rendorseg-illovszky-rudolf-stadion/",
-        "image": "",
-        "summary": "A rendőrök könnygázt is bevetettek, amitől a stadionban fuldokolni kezdtek a nézők és a játékosok.",
-        "category": "Általános",
-        "published_at": 1794170160
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Könnygázzal oszlatta a rendőrség a Vasas–Fradi-meccs előtt összefeszülő szurkolókat",
-        "link": "https://telex.hu/sport/2026/11/08/fradi-meccs-verekedes-rendorseg-konnygaz",
-        "image": "https://assets.telex.hu/images/20261108/1794177101-temp-i40fahk73t5n2gkmfod_cimlap-normal.jpg",
-        "summary": "A Vasas stadionjánál verekedtek össze, de nem tartott sokáig a jelenet.",
-        "category": "Politika",
-        "published_at": 1794177162
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Verekedő szurkolókra fújt könnygáz szállt be a Vasas-Fradi meccsen a stadionba",
-        "link": "https://24.hu/sport/foci/2026/11/09/nb1-vasas-fradi-szurkolok-verekedes-konnygaz/",
-        "image": "https://s.24.hu/app/uploads/2026/11/d__yt20261108002-e1794209844305-1024x575.jpg",
-        "summary": "A találkozó előtt nagy köhögést és tüsszögést okozott, még a játékosok is szenvedtek tőle. The post Verekedő szurkolókra fújt könnygáz szállt be a Vasas-Fradi meccsen a stadionba first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794209879
-      }
-    ]
-  },
-  {
     "group_id": "group_be0156c3a8",
     "category": "Általános",
     "articles_count": 2,
@@ -410,6 +360,31 @@
         "summary": "Ma sokat számít, hogyan hangolódsz rá a helyzetekre és a kapcsolatokra is: a lendület, az érzékenység és a friss ötletek is jól működhetnek. The post Napi horoszkóp: lendület, érzékenység és türelem segíthet a csillagjegyeknek az újhold napján first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794178800
+      }
+    ]
+  },
+  {
+    "group_id": "group_c1b5dfa814",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Könnygázzal oszlatta a rendőrség a Vasas–Fradi-meccs előtt összefeszülő szurkolókat",
+        "link": "https://telex.hu/sport/2026/11/08/fradi-meccs-verekedes-rendorseg-konnygaz",
+        "image": "https://assets.telex.hu/images/20261108/1794177101-temp-i40fahk73t5n2gkmfod_cimlap-normal.jpg",
+        "summary": "A Vasas stadionjánál verekedtek össze, de nem tartott sokáig a jelenet.",
+        "category": "Politika",
+        "published_at": 1794177162
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Verekedő szurkolókra fújt könnygáz szállt be a Vasas-Fradi meccsen a stadionba",
+        "link": "https://24.hu/sport/foci/2026/11/09/nb1-vasas-fradi-szurkolok-verekedes-konnygaz/",
+        "image": "https://s.24.hu/app/uploads/2026/11/d__yt20261108002-e1794209844305-1024x575.jpg",
+        "summary": "A találkozó előtt nagy köhögést és tüsszögést okozott, még a játékosok is szenvedtek tőle. The post Verekedő szurkolókra fújt könnygáz szállt be a Vasas-Fradi meccsen a stadionba first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794209879
       }
     ]
   },
@@ -1175,7 +1150,7 @@
   {
     "group_id": "group_f69ae3456e",
     "category": "Politika",
-    "articles_count": 14,
+    "articles_count": 15,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -1302,6 +1277,15 @@
         "summary": "Az ígéretek megvalósítása helyett letartóztatásokkal igyekszik időt nyerni a Tisza-kormány.",
         "category": "Politika",
         "published_at": 1794239496
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: őrizetben Orbán Viktor öccse, Berlinben mondott beszédet Magyar Péter",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/tisza-kormany-orizetben-orban-viktor-occse-berlinben-mondott-beszedet-magyar-peter-875036",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1967690224-orszaghaz-parlament-budapest-magyarorszag-varoskep-epiteszet-epulet-864954.jpg",
+        "summary": "Hétfőn ismét plenáris ülést tart az Országgyűlés, az ülést napirend előtti felszólalásával szokás szerint a miniszterelnök nyitja meg. Napirenden lesz többek között a jövő évi adótörvények általános vitája. Magyar Péter ezt követően kedden Berlinbe utazik hivatalos látogatásra, szerdán pedig kormányülés lesz.",
+        "category": "Politika",
+        "published_at": 1794256200
       }
     ]
   },
@@ -4193,7 +4177,7 @@
   {
     "group_id": "group_0ddcb5f5a0",
     "category": "Politika",
-    "articles_count": 58,
+    "articles_count": 59,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -4716,6 +4700,15 @@
         "summary": "Kezdeményzi az NNI a letartóztatásukat.",
         "category": "Politika",
         "published_at": 1794255536
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Őrizetbe vették mind a négy gyanúsítottat az Orbán Áront érintő ügyben",
+        "link": "https://index.hu/belfold/2026/11/09/orszagos-rendor-fokapitanysag-nemzeti-nyomozo-iroda-gyanusitott-orizetbe-vetel-letartoztatas/",
+        "image": "https://kep.index.hu/1/0/7248/72487/724878/72487889_5341599_c8cb86ecc1fe6bf4121726fb45528c82_wm.jpg",
+        "summary": "A Nemzeti Nyomozó Iroda (NNI) befejezte a kihallgatásokat.",
+        "category": "Politika",
+        "published_at": 1794256440
       }
     ]
   },
@@ -11779,7 +11772,7 @@
         "image": "https://raketa.hu/uploads/2026/11/cats-tail.jpg",
         "summary": "Óriási, láthatatlan porcsíkot fedeztek fel a szomszédos csillagrendszerben. Erről a fura anomáliáról a University of Arizona csillagászai számoltak be a The Astrophysical Journal Letters folyóiratban megjelent tanulmányukban.",
         "category": "Kultúra",
-        "published_at": 1794256174
+        "published_at": 1794256593
       }
     ]
   },
@@ -11843,7 +11836,55 @@
         "image": "https://raketa.hu/uploads/2026/11/mars.jpg",
         "summary": "November 15-én, vasárnap ne bánkódjon senki, ha a koránkelők táborába tartozik: a munkaszüneti nap reggelét bearanyozza egy szép, szabad szemmel is könnyedén megfigyelhető bolygóegyüttállás.",
         "category": "Kultúra",
-        "published_at": 1794256174
+        "published_at": 1794256593
+      }
+    ]
+  },
+  {
+    "group_id": "group_57f988cf4a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szoboszlai Dominik megérkezett Telkibe, jó eséllyel pályára léphet a következő NL-meccseken",
+        "link": "https://index.hu/sport/futball/2026/11/09/szoboszlai-dominik-liverpool-magyar-valogatott-mlsz-kozlemeny-nemzetek-ligaja-merkozesek/",
+        "image": "https://kep.index.hu/1/0/7248/72486/724861/72486111_5341487_a7e92f57b10f19951fa36f19bf5b35db_wm.jpg",
+        "summary": "A magyar válogatott csapatkapitánya hétfő délelőtt orvosi vizsgálatokon vett részt.",
+        "category": "Általános",
+        "published_at": 1794256320
+      }
+    ]
+  },
+  {
+    "group_id": "group_0abfac1868",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Komoly feszültséget okozhat Hegedűsék új javaslata – már a szakdolgozói kamara is kifogásolja a bérrendezést",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/komoly-feszultseget-okozhat-hegedusek-uj-javaslata-mar-a-szakdolgozoi-kamara-is-kifogasolja-a-berrendezest?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/05/Sf1cwFlQrU-W6CTfhajc8Lp5RYfjNFe14RLdKkt30gg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E5MGM1YzU1ZWY4NTQ2Nzg5MTdiYTJiYWY1MzJkMWRh.jpg",
+        "summary": "Az átlagos emelés jelentős és igazságtalan különbségeket takar Balogh Zoltán, a MESZK elnöke szerint.",
+        "category": "Politika",
+        "published_at": 1794256517
+      }
+    ]
+  },
+  {
+    "group_id": "group_73d57c78c8",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kinevezték a Nemzeti Információs Központ új főigazgatóját",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/kineveztek-a-nemzeti-informacios-kozpont-uj-foigazgatojat-875310",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-109360676-titkosszolgalat-hirszerzes-kemkedes-biztonsag-politika-geopolitika-kulp-817708.jpg",
+        "summary": "Orosz László Pétert nevezte ki november 10-ei hatállyal a Nemzeti Információs Központ főigazgatójává Magyar Péter miniszterelnök – derült ki a hétfő esti Magyar Közlönyből.",
+        "category": "Politika",
+        "published_at": 1794256200
       }
     ]
   }
