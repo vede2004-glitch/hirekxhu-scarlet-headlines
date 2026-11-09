@@ -1061,58 +1061,6 @@
     "importance_score": 30.0
   },
   {
-    "group_id": "group_f2386d1150",
-    "fingerprint": "f537fb7c21a9189d928599d013ff6a48",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/szoboszlai-1-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Nem jó hír a válogatottnak: a liverpooli edző szerint Szoboszlai nincs százszázalékos állapotban",
-        "link": "https://24.hu/sport/foci/2026/11/08/angol-foci-liverpool-serules-andoni-iraola-szoboszlai-dominik/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "A Liverpool edzője szerint Szoboszlai térde nincs százszázalékos állapotban a meccs után",
-        "link": "https://telex.hu/sport/2026/11/08/szoboszlai-dominik-futball-liverpool-serules"
-      }
-    ],
-    "published_at": 1794167905,
-    "title_hu": "Aggódnak Szoboszlai térde miatt a válogatott szünet előtt",
-    "lead_hu": "A Liverpool edzője szerint Szoboszlai Dominik térde nincs százszázalékos állapotban, ezért orvosi vizsgálatra és óvatosságra van szükség. A magyar válogatott csapatkapitánya a Crystal Palace elleni mérkőzésen sérült le, és nem játszotta végig a találkozót.",
-    "content_hu": "• **Szoboszlai térde nincs teljesen rendben** A Liverpool edzője szerint a középpályás állapotát orvosoknak kell megvizsgálniuk, mielőtt kiderül, hogy pályára léphet-e a válogatottban.\n\n• **A Crystal Palace ellen sérült le** Szoboszlait a mérkőzés 69. percében lecserélték, így nem játszotta végig a találkozót.\n\n• **A Liverpool óvatos lenne** Az edző nem szeretné, ha a válogatott szünetben újabb játékos sérülne meg, ugyanakkor megérti, hogy Szoboszlai szeretne csatlakozni a nemzeti csapathoz.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_3bc78d567c",
-    "fingerprint": "d46d54f65d5c6e864de6add310de718f",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Lövöldözés történt Split közelében, hajtóvadászat után fogták el a tettest",
-        "link": "https://index.hu/kulfold/2026/11/08/horvatorszag-split-lovoldozes-rendorseg/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Lövöldözés történt Split közelében",
-        "link": "https://24.hu/kulfold/2026/11/08/lovoldozes-split-hajtovadaszat/"
-      }
-    ],
-    "published_at": 1794167880,
-    "title_hu": "Lövöldözés történt Split közelében, elfogták a gyanúsítottat",
-    "lead_hu": "Vasárnap délután lövéseket adtak le a horvátországi Split közelében, Radošić térségében. Senki sem sérült meg; a rendőrség még aznap elfogta a menekülő gyanúsítottat, az eset körülményeit vizsgálják.",
-    "content_hu": "• **A lövöldözés helyszíne** Vasárnap délután a Split közelében fekvő Radošić település térségében egy férfi lőfegyverből adott le lövéseket, majd elmenekült.\n\n• **Nem történt sérülés** A lövöldözésben senki sem sérült meg.\n\n• **Elfogták a gyanúsítottat** A rendőrség hajtóvadászatot indított, majd 18 óra 50 perc körül megtalálta és őrizetbe vette a férfit.\n\n• **Vizsgálják az esetet** A hatóságok büntetőeljárásban vizsgálják a történteket; a lövöldözés oka egyelőre nem ismert.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_e02bf686af",
     "fingerprint": "6acf4fc250b4162faae3d08f768f8bd6",
     "category": "Általános",
@@ -1365,6 +1313,58 @@
     "lead_hu": "Több mint egy hete rendszeresen felbukkan egy vaddisznó a XIII. kerületi Marina-parton, többek között játszótér és kutyafuttató közelében. Az önkormányzat szakemberekkel egyeztet az állat befogásáról, a vadászkamara szóvivője pedig arra figyelmeztetett, hogy senki ne közelítse meg.",
     "content_hu": "• **Több mint egy hete a környéken kószál** a termetes vaddisznó a Marina-parton; a Duna mellett, játszótér és kutyafuttató közelében is látták.\n\n• **A lakóknak azt tanácsolják, ne menjenek az állat közelébe.** Földvári Attila, a vadászkamara szóvivője szerint a vaddisznó veszélyessé válhat, különösen, ha menekülni kezd.\n\n• **Az önkormányzat egyeztet a szakemberekkel** az állat befogásáról. A vadőrök korábban a rossz fényviszonyok miatt nem tudták kilőni a vaddisznót.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_f2386d1150",
+    "fingerprint": "f537fb7c21a9189d928599d013ff6a48",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/szoboszlai-1-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Nem jó hír a válogatottnak: a liverpooli edző szerint Szoboszlai nincs százszázalékos állapotban",
+        "link": "https://24.hu/sport/foci/2026/11/08/angol-foci-liverpool-serules-andoni-iraola-szoboszlai-dominik/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A Liverpool edzője szerint Szoboszlai térde nincs százszázalékos állapotban a meccs után",
+        "link": "https://telex.hu/sport/2026/11/08/szoboszlai-dominik-futball-liverpool-serules"
+      }
+    ],
+    "published_at": 1794167905,
+    "title_hu": "Aggódnak Szoboszlai térde miatt a válogatott szünet előtt",
+    "lead_hu": "A Liverpool edzője szerint Szoboszlai Dominik térde nincs százszázalékos állapotban, ezért orvosi vizsgálatra és óvatosságra van szükség. A magyar válogatott csapatkapitánya a Crystal Palace elleni mérkőzésen sérült le, és nem játszotta végig a találkozót.",
+    "content_hu": "• **Szoboszlai térde nincs teljesen rendben** A Liverpool edzője szerint a középpályás állapotát orvosoknak kell megvizsgálniuk, mielőtt kiderül, hogy pályára léphet-e a válogatottban.\n\n• **A Crystal Palace ellen sérült le** Szoboszlait a mérkőzés 69. percében lecserélték, így nem játszotta végig a találkozót.\n\n• **A Liverpool óvatos lenne** Az edző nem szeretné, ha a válogatott szünetben újabb játékos sérülne meg, ugyanakkor megérti, hogy Szoboszlai szeretne csatlakozni a nemzeti csapathoz.",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_3bc78d567c",
+    "fingerprint": "d46d54f65d5c6e864de6add310de718f",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Lövöldözés történt Split közelében, hajtóvadászat után fogták el a tettest",
+        "link": "https://index.hu/kulfold/2026/11/08/horvatorszag-split-lovoldozes-rendorseg/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Lövöldözés történt Split közelében",
+        "link": "https://24.hu/kulfold/2026/11/08/lovoldozes-split-hajtovadaszat/"
+      }
+    ],
+    "published_at": 1794167880,
+    "title_hu": "Lövöldözés történt Split közelében, elfogták a gyanúsítottat",
+    "lead_hu": "Vasárnap délután lövéseket adtak le a horvátországi Split közelében, Radošić térségében. Senki sem sérült meg; a rendőrség még aznap elfogta a menekülő gyanúsítottat, az eset körülményeit vizsgálják.",
+    "content_hu": "• **A lövöldözés helyszíne** Vasárnap délután a Split közelében fekvő Radošić település térségében egy férfi lőfegyverből adott le lövéseket, majd elmenekült.\n\n• **Nem történt sérülés** A lövöldözésben senki sem sérült meg.\n\n• **Elfogták a gyanúsítottat** A rendőrség hajtóvadászatot indított, majd 18 óra 50 perc körül megtalálta és őrizetbe vette a férfit.\n\n• **Vizsgálják az esetet** A hatóságok büntetőeljárásban vizsgálják a történteket; a lövöldözés oka egyelőre nem ismert.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_a14edf1cc1",
