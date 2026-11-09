@@ -73,22 +73,6 @@
     ]
   },
   {
-    "group_id": "group_8eef0b2945",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A férjem nem tudhatja meg, hogy ügynök vagyok",
-        "link": "https://telex.hu/after/2026/11/08/streamingajanlo-the-paper-fekete-galamb-stick",
-        "image": "https://assets.telex.hu/images/20261106/1793966984-temp-7peojkmjh8rqbdogfdd_cimlap-normal.jpg",
-        "summary": "Heti streamingajánlónkban helyet kapott Keira Knightley ügynökdrámája, a Paper legújabb évada, Owen Wilson nagy visszatérése, és egy megható történet a Tourette-szindrómás John Davidsonról.",
-        "category": "Politika",
-        "published_at": 1794121020
-      }
-    ]
-  },
-  {
     "group_id": "group_1723137bbf",
     "category": "Politika",
     "articles_count": 1,
@@ -8386,7 +8370,7 @@
   {
     "group_id": "group_8969e8cae7",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 6,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -8423,6 +8407,24 @@
         "summary": "A szombaton történt, hat halálos áldozatot követelő terrortámadás elkövetője a kórházban hunyt el.",
         "category": "Általános",
         "published_at": 1794206259
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Meghalt a krakkói vérengző — titkokat visz magával",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/meghalt-a-krakkoi-verengzo-titkokat-visz-magaval?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/L_9t0wfoaSBNyk-YoKdyFTbhuRmnIGiFIREwE8w276A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YzMjNlMTUyMjBhMDQyOTNiNGVjMDM3ODYwNDM0NzFk.jpg",
+        "summary": "Kilenc áldozatért felelős MIchal Oksinski.",
+        "category": "Politika",
+        "published_at": 1794207150
+      },
+      {
+        "source": "Femina",
+        "title": "Krakkói lövöldözés: az elkövető meghalt a kórházban",
+        "link": "https://femina.hu/terasz/krakkoi-lovoldozes-elkoveto-meghalt-korhazban/",
+        "image": "https://femina.hu/neon/media/images/krakkoi_lovoldozes_4.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "A kórházban vesztette életét a krakkói lövöldöző.",
+        "category": "Bulvár",
+        "published_at": 1794207119
       }
     ]
   },
@@ -8615,6 +8617,54 @@
         "summary": "Megváltozott a futam végeredménye is. The post Leclerc és Antonelli is büntetést kapott a Sao Pauló-i futam után first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794206530
+      }
+    ]
+  },
+  {
+    "group_id": "group_c6d8dd6a4e",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "A Nemzetbiztonsági Bizottság ülése az ügynökaktákról – Nézze itt élőben",
+        "link": "https://www.atv.hu/belfold/20261109/nemzetbiztonsag-bizottsag-ugynokaktak/",
+        "image": "https://www.youtube.com/embed/zbQxL8fniGA",
+        "summary": "Rendkívüli nyílt ülést tart a Nemzetbiztonsági Bizottság az ügynökakták körüli súlyos baki miatt: a levéltár vezetőinek is felelniük kell.",
+        "category": "Általános",
+        "published_at": 1794207300
+      }
+    ]
+  },
+  {
+    "group_id": "group_c8f028d428",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "A Balaton másik arca",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/balaton-vizallas-aszaly",
+        "image": "https://cdn.hirtv.hu/2026/11/3xTqMHasm9OHqgZs0lrldN4yL7eimlEVdAXC8QfxAyw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU5MzhmNGJiOGQxYjRjNDY5N2Q1MDQ4ZGU3OWNhMTYz.webp",
+        "summary": "A száraz nyár után a tó vízszintje ősszel is elmarad az átlagostól.",
+        "category": "Politika",
+        "published_at": 1794207173
+      }
+    ]
+  },
+  {
+    "group_id": "group_e7190a82f0",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Óriási palagáz kitermelés kezdődik Magyarországon? Már zajlik a kutatás, nyilatkozatot tett a polgármester a valóságról – „Remélem, hogy a kormány ezt is kivizsgálja”",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/palagaz-kitermeles-soltvadkert-kozeleben-polgarmester?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/1UtetH5ErHhipUPUtL50OMKdK2Ruu45sJ3wERtjx3gA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IxZGFjOTg3YjFhMTQ4MzQ5MTUxMDdiYzg2OTc4YTYy.jpg",
+        "summary": "",
+        "category": "Politika",
+        "published_at": 1794207060
       }
     ]
   }
