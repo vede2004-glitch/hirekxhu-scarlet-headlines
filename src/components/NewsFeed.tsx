@@ -1,6 +1,6 @@
 import { useMemo, useState, useSyncExternalStore, type ReactNode } from "react";
 import { Link, useLoaderData } from "@tanstack/react-router";
-import { Clock3, Flame, Layers3, Search, Radio } from "lucide-react";
+import { Clock3, Flame, Layers3, Search, Radio, X, Library } from "lucide-react";
 import { BrandLogo } from "@/components/BrandLogo";
 import { SiteMenu } from "@/components/SiteMenu";
 import { RichText } from "@/components/RichText";
@@ -31,6 +31,7 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
   const { liveNews } = useLoaderData({ from: "__root__" });
   const hydrated = useSyncExternalStore(subscribeHydration, clientHydration, serverHydration);
   const [query, setQuery] = useState("");
+  const [mobileSearch, setMobileSearch] = useState(false);
   const [category, setCategory] = useState<string>(ALL);
   const [limit, setLimit] = useState(60);
   const feed = useMemo(() => {
@@ -64,19 +65,23 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
   return <div className="min-h-screen bg-background font-sans text-foreground">
     <header className="sticky top-0 z-50 border-b border-border bg-background/95 backdrop-blur-xl">
       <div className="mx-auto flex h-17 max-w-7xl items-center justify-between gap-4 px-4">
-        <Link to="/" aria-label="HIREKX.hu főoldal"><BrandLogo className="h-10 w-32 object-contain object-left sm:w-40" /></Link>
-        <div className="flex items-center gap-4"><span className="hidden items-center gap-2 text-[10px] font-bold uppercase text-muted-foreground sm:flex"><span className="size-2 rounded-full bg-primary motion-safe:animate-live" />Minden hír egy helyen</span><SiteMenu /></div>
+        <div className="flex min-w-0 items-center gap-5 md:gap-8">
+          <Link to="/" aria-label="HIREKX.hu főoldal"><BrandLogo className="h-10 w-32 object-contain object-left sm:w-40" /></Link>
+          <label className="hidden items-center gap-3 rounded-full border border-input bg-secondary px-4 focus-within:border-primary/50 md:flex">
+            <span className="size-2 shrink-0 rounded-full bg-primary motion-safe:animate-live" /><span className="sr-only">Keresés a hírek között</span>
+            <input type="search" value={query} onChange={e => { setQuery(e.target.value); setLimit(60); }} placeholder="Keresés hírekre…" className="h-10 w-60 min-w-0 bg-transparent text-sm outline-none placeholder:text-muted-foreground" />
+          </label>
+        </div>
+        <div className="flex shrink-0 items-center gap-2 sm:gap-4"><span className="hidden items-center gap-2 text-[10px] font-bold uppercase text-muted-foreground lg:flex"><span className="size-2 rounded-full bg-primary motion-safe:animate-live" />Minden hír egy helyen</span><Button variant="outline" size="icon" className="md:hidden" aria-label={mobileSearch ? "Kereső bezárása" : "Keresés"} onClick={() => setMobileSearch(value => !value)}>{mobileSearch ? <X className="size-4" /> : <Search className="size-4" />}</Button><SiteMenu /></div>
       </div>
+      {mobileSearch && <div className="border-t border-border px-4 py-3 md:hidden"><label className="flex items-center gap-2 rounded-md border border-input bg-secondary px-3"><Search className="size-4 shrink-0 text-muted-foreground" /><span className="sr-only">Keresés a hírek között</span><input type="search" autoFocus value={query} onChange={e => { setQuery(e.target.value); setLimit(60); }} placeholder="Keresés hírekre…" className="h-10 w-full min-w-0 bg-transparent text-sm outline-none placeholder:text-muted-foreground" /></label></div>}
     </header>
     <main className="mx-auto max-w-7xl px-4 pb-16 pt-4">
       <div className="flex items-center gap-3 border-b border-border pb-3">
         <nav aria-label="Hírkategóriák" className="flex min-w-0 flex-1 gap-1 overflow-x-auto">
           {[ALL, ...CATEGORIES].map(c => <Button key={c} variant={category === c ? "default" : "ghost"} size="sm" aria-pressed={category === c} onClick={() => { setCategory(c); setLimit(60); }} className="whitespace-nowrap">{c}</Button>)}
         </nav>
-        <label className="flex w-32 shrink-0 items-center gap-2 rounded-md border border-input bg-secondary px-2 focus-within:border-primary/50 sm:w-52">
-          <Search className="size-4 shrink-0 text-muted-foreground" /><span className="sr-only">Keresés a hírek között</span>
-          <input type="search" value={query} onChange={e => { setQuery(e.target.value); setLimit(60); }} placeholder="Keresés…" className="h-9 w-full min-w-0 bg-transparent text-xs outline-none placeholder:text-muted-foreground" />
-        </label>
+        <Link to="/osszes" className={cn(buttonVariants({ variant: "outline", size: "sm" }), "shrink-0 gap-2")}><Library className="size-3.5" /><span className="hidden sm:inline">Minden hír (archívum)</span><span className="sm:hidden">Archívum</span></Link>
       </div>
       <div className="mb-5 flex items-center justify-between gap-2 border-b border-border py-2">
         <nav aria-label="Hírnézetek" className="flex min-w-0 gap-1">
