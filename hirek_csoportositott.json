@@ -16,63 +16,6 @@
     ]
   },
   {
-    "group_id": "group_3277279851",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Több mint harminc autó rohant egymásba a sűrű köd miatt egy anglia autópályán, ketten súlyosan megsérültek",
-        "link": "https://index.hu/kulfold/2026/11/08/tomegbaleset-karambol-autopalya-anglia-serultek/",
-        "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
-        "summary": "Felvételeket is közzétettek a helyszínről.",
-        "category": "Általános",
-        "published_at": 1794118380
-      }
-    ]
-  },
-  {
-    "group_id": "group_c712a47f33",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége, a kérdések száma pedig egyre csak nő",
-        "link": "https://index.hu/belfold/2026/11/08/ugynokaktak-ruff-balint-boka-janos-magyar-peter-tarr-zoltan/",
-        "image": "https://kep.index.hu/1/0/7175/71753/717538/71753871_5289851_49fb6429e78966c8b5588cdba075d30e_wm.jpg",
-        "summary": "Politikai célokat sejtenek a háttérben.",
-        "category": "Politika",
-        "published_at": 1794118500
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/a-fidesz-szerint-tiszas-ugynokbotranynak-meg-nincs-vege",
-        "image": "",
-        "summary": "A kérdések száma pedig egyre csak nő.",
-        "category": "Politika",
-        "published_at": 1794126660
-      }
-    ]
-  },
-  {
-    "group_id": "group_0167b7ad21",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megbízatása első napján visszalépett az új tankerületi igazgató",
-        "link": "https://index.hu/belfold/2026/11/08/balogh-tamas-laszlo-tankerulet-visszalepes-oktatasi-es-gyermekugyi-miniszterium-igazgato-lannert-judit/",
-        "image": "https://kep.index.hu/1/0/7247/72471/724715/72471511_5340405_69eb1d67bee829e3875537c43327f79b_wm.jpg",
-        "summary": "A minisztérium jelezte, a napokban új kiírás jelenik meg.",
-        "category": "Általános",
-        "published_at": 1794118440
-      }
-    ]
-  },
-  {
     "group_id": "group_52739605e4",
     "category": "Politika",
     "articles_count": 3,
@@ -193,7 +136,7 @@
   {
     "group_id": "group_cb874be687",
     "category": "Politika",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -248,6 +191,15 @@
         "summary": "A vezetéket pénteken, felújítási munkálatok közben rongálta meg munkagép, és még nem tudni, mikor indulhat újra a szállítás.",
         "category": "Politika",
         "published_at": 1794129886
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Félmillió liter kőolaj ömlött ki a horvátországi Janaf-vezetékből",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/felmillio-liter-koolaj-omlott-ki-a-horvatorszagi-janaf-vezetekbol",
+        "image": "",
+        "summary": "A kőolaj erős szaga miatt több mint egy tucatnyian orvoshoz fordultak.",
+        "category": "Politika",
+        "published_at": 1794165720
       }
     ]
   },
@@ -1328,6 +1280,22 @@
         "summary": "Sok országban vizsgálják, hogy hogyan szabályozzák a fiatalok jelenlétét a közösségi platformokon: a szigorú tiltástól az enyhébb korlátozásokig rengeteg intézkedésről és tervről hallani. Mit látni a rengeteg vonatkozó kutatásból, és mi történt ott, ahol tényleg szigorú tiltást vezettek be? Interjú Timár Borbála digitális gyermekvédelmi szakértővel.",
         "category": "Politika",
         "published_at": 1794124661
+      }
+    ]
+  },
+  {
+    "group_id": "group_c712a47f33",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "A Fidesz szerint „tiszás ügynökbotránynak” még nincs vége",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/a-fidesz-szerint-tiszas-ugynokbotranynak-meg-nincs-vege",
+        "image": "",
+        "summary": "A kérdések száma pedig egyre csak nő.",
+        "category": "Politika",
+        "published_at": 1794126660
       }
     ]
   },
@@ -7635,7 +7603,7 @@
   {
     "group_id": "group_f664c8e122",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 4,
     "articles": [
       {
         "source": "HVG - Itthon",
@@ -7654,6 +7622,24 @@
         "summary": "A novemberi felmérés alapján a Tisza Párt 55, a Fidesz 16 százalékon áll a teljes népességben.",
         "category": "Politika",
         "published_at": 1794202403
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Mélyrepülésben a Fidesz a Medián szerint: szavazói negyedét elveszíthette Orbán Viktor pártja",
+        "link": "https://index.hu/belfold/2026/11/09/median-felmeres-kozvelemeny-kutatas-tisza-part-fidesz-tamogatottsag/",
+        "image": "https://kep.index.hu/1/0/7247/72479/724794/72479433_5340985_079b664d8fe5ca870457cd0efa72d896_wm.jpg",
+        "summary": "A Tisza támogatottsága tovább emelkedhetett.",
+        "category": "Politika",
+        "published_at": 1794204660
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Nagyot zuhant a Fidesz támogatottsága - egy ligában a Mi Hazánkkal.",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/nagyot-zuhant-a-fidesz-tamogatottsaga-egy-ligaban-a-mi-hazankkal-875018",
+        "image": "https://pcdn.hu/articles/images-xl/m/a/g/magyar-peter-821626.jpg",
+        "summary": "Jelentősen visszaesett a Fidesz támogatottsága, miközben a kormányzó Tisza Párt tovább erősödött a Medián felmérése szerint. A teljes népességben a Tisza 55 százalékon áll, a Fidesz viszont szeptemberi támogatóinak negyedét elveszítve 16 százalékra esett vissza. A Mi Hazánk eközben 9-ről 11 százalékra erősödött, így Török Gábor politológus szerint a két ellenzéki párt most először került egy ligába.",
+        "category": "Politika",
+        "published_at": 1794204720
       }
     ]
   },
@@ -8472,6 +8458,54 @@
         "summary": "Tibor több mint 30 évvel ezelőtt döntötte el, ő bizony nyit egy saját állatkertet. Ötletét mindenki őrültségnek tartotta, ez viszont egy cseppet sem tántorította el a tervétől, sőt: teljesen biztos volt benne, hogy neki ez az útja. 1995-ben meg is nyitotta a MagánZoot, ahol Magyarországon egyedülállóként kezdte saját kézzel nevelni oroszlánjait és tigriseit. Tibor szerint ezek a nagymacskák közel sem olyan vérszomjasak, mint elsőre gondolnánk. A tejszínhabért például egyenesen rajonganak! The post Mindenki őrültnek nézte, mára 60 nagymacskát nevelt fel Tibor a saját kezével – a MagánZoo története first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794204180
+      }
+    ]
+  },
+  {
+    "group_id": "group_47d11d7d96",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A „szélsőjobboldali” terrorista",
+        "link": "https://magyarnemzet.hu/bayer-zsolt-blogja/2026/11/a-szelsojobboldali-terrorista?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/nKyNTqnsmF9xuI-yULaXlO18PWpUR_STopO24QBnLj8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ1ODNmODAzY2UzNjQyMmU4NGJkZGFjNThkYjkxMDky.jpg",
+        "summary": "Ez a rettenetes, iszonyatos, felfoghatatlan gyilkosságsorozat úgy kellett Tuskéknak, mint egy falat kenyér.",
+        "category": "Politika",
+        "published_at": 1794204559
+      }
+    ]
+  },
+  {
+    "group_id": "group_b047abb665",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Ügynökakták: nyílt ülésen tárgyalják a felmerült aggályokat és ellentmondásokat",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/ugynokaktak-nyilt-ulesen-targyaljak-a-felmerult-aggalyokat-es-ellentmondasokat",
+        "image": "",
+        "summary": "A Tisza-frakció bojkotálja a bizottság ülését.",
+        "category": "Politika",
+        "published_at": 1794182400
+      }
+    ]
+  },
+  {
+    "group_id": "group_8969e8cae7",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Meghalt a krakkói merénylő",
+        "link": "https://24.hu/kulfold/2026/11/09/meghalt-a-krakkoi-merenylo/",
+        "image": "https://s.24.hu/app/uploads/2026/11/k_epa20261107137-e1794204655615-1024x577.jpg",
+        "summary": "A kórházban belehalt sérüléseibe. The post Meghalt a krakkói merénylő first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794204431
       }
     ]
   }
