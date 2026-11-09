@@ -1709,32 +1709,6 @@
     "importance_score": 33.0
   },
   {
-    "group_id": "group_78969e708b",
-    "fingerprint": "d48c4e57bf1f594c58b3d33c811fe587",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7248/72486/724867/72486739_5341531_1184f24d0ada303e9ac00ee257ee5b56_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Magyar Péter úton Berlinbe, Európa-beszédet tart a német fővárosban",
-        "link": "https://index.hu/belfold/2026/11/09/magyar-peter-berlin-europa-beszed-nemetorszag-kancellar-miniszter-targyalas/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Rovar úr olyasmit jelentett be, hogy Berlinben kikiáltja magát Európa vezetőjének",
-        "link": "https://www.vadhajtasok.hu/2026/11/09/rovar-ur-olyasmit-jelentett-be-hogy-berlinben-kikialtja-magat-europa-vezetojenek"
-      }
-    ],
-    "published_at": 1794243120,
-    "title_hu": "Magyar Péter Berlinben tart Európa-beszédet, majd Friedrich Merzzel tárgyal",
-    "lead_hu": "Magyar Péter hétfőn Berlinbe utazott, ahol este német nyelvű Európa-beszédet tart a Konrad Adenauer Alapítvány vendégeként. Kedden a magyar kormány több tagjával együtt Friedrich Merz német kancellárral és miniszterekkel találkozik.",
-    "content_hu": "• **Hétfő este** Magyar Péter német nyelvű Európa-beszédet tart Berlinben, a Konrad Adenauer Alapítvány vendégeként.\n\n• **Keddi tárgyalások** A magyar miniszterelnök kormánytagokkal együtt Friedrich Merz német kancellárral és miniszterekkel egyeztet.\n\n• **A megbeszélések témái** A felek fontos európai, magyar és német vonatkozású kérdésekről tárgyalnak.\n\n• **Az utazás** Magyar Péter közlése szerint Bécsből menetrend szerinti járattal utaztak Berlinbe.",
-    "importance_score": 33.0
-  },
-  {
     "group_id": "group_d6f10527f2",
     "fingerprint": "c3a2b006d2403ff2d54df98d0e8c4cba",
     "category": "Gazdaság",
@@ -2127,6 +2101,32 @@
     "importance_score": 28.0
   },
   {
+    "group_id": "group_78969e708b",
+    "fingerprint": "d48c4e57bf1f594c58b3d33c811fe587",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7248/72486/724867/72486739_5341531_1184f24d0ada303e9ac00ee257ee5b56_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Magyar Péter úton Berlinbe, Európa-beszédet tart a német fővárosban",
+        "link": "https://index.hu/belfold/2026/11/09/magyar-peter-berlin-europa-beszed-nemetorszag-kancellar-miniszter-targyalas/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr olyasmit jelentett be, hogy Berlinben kikiáltja magát Európa vezetőjének",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/rovar-ur-olyasmit-jelentett-be-hogy-berlinben-kikialtja-magat-europa-vezetojenek"
+      }
+    ],
+    "published_at": 1794243120,
+    "title_hu": "Magyar Péter Berlinben tart Európa-beszédet, majd Friedrich Merzzel tárgyal",
+    "lead_hu": "Magyar Péter hétfőn Berlinbe utazott, ahol este német nyelvű Európa-beszédet tart a Konrad Adenauer Alapítvány vendégeként. Kedden a magyar kormány több tagjával együtt Friedrich Merz német kancellárral és miniszterekkel találkozik.",
+    "content_hu": "• **Hétfő este** Magyar Péter német nyelvű Európa-beszédet tart Berlinben, a Konrad Adenauer Alapítvány vendégeként.\n\n• **Keddi tárgyalások** A magyar miniszterelnök kormánytagokkal együtt Friedrich Merz német kancellárral és miniszterekkel egyeztet.\n\n• **A megbeszélések témái** A felek fontos európai, magyar és német vonatkozású kérdésekről tárgyalnak.\n\n• **Az utazás** Magyar Péter közlése szerint Bécsből menetrend szerinti járattal utaztak Berlinbe.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_3abc89d12a",
     "fingerprint": "da4ae40376dc3594f2a437c5882ddba3",
     "category": "Politika",
@@ -2150,32 +2150,6 @@
     "title_hu": "Bírálatok érték a Tisza-kormány ügynökakták-közzétételét",
     "lead_hu": "A november 4-én nyilvánosságra hozott ügynökakták kezelése miatt Fodor Gábor szerint hibás eljárás és politikai nyomásgyakorlás ingatta meg a kezdeményezés hitelességét. A Magyar Nemzet cikke szerint Fekete-Győr András is elismerte, hogy a Tisza elrontotta az ügyet.",
     "content_hu": "• **Hibás névközlés** Fodor Gábor szerint egyes esetekben összekeveredtek a megfigyeltek és a besúgók nevei, másoknál pedig nem jelezték egyértelműen, ha a beszervezési kísérlet sikertelen volt.\n\n• **Megingott bizalom** Fodor úgy vélte, hogy a kaotikus közzététel és a levéltárra nehezedő politikai nyomás kétségessé tette a listák hitelességét.\n\n• **Fekete-Győr bírálata** A Magyar Nemzet címében azt írta, hogy Fekete-Győr András is elismerte a Tisza hibáját az ügynökakták ügyében; a cikk további része a politikus más kijelentéseivel foglalkozik.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_7cfe2baf53",
-    "fingerprint": "808b85cc8591c5ee86478ee11a84240e",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7248/72484/724841/72484129_5341341_d103020aeb13da787ed5ebaed087ce51_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Oroszország is megerősítette, háromoldalú tárgyalások jönnek Abu-Dzabiban",
-        "link": "https://index.hu/kulfold/2026/11/09/kreml-orosz-ukran-haboru-targyalasok-abu-dzabi-egyesult-allamok/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "A francia külügyminiszter szerint az európaiak is ott lesznek az ukrajnai háború lezárásáról szóló abu-dzabi tárgyalásokon",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/a-francia-kulugyminiszter-szerint-az-europaiak-is-ott-lesznek-az-ukrajnai-haboru-lezarasarol-szolo-abu-dzabi-targyalasokon"
-      }
-    ],
-    "published_at": 1794235440,
-    "title_hu": "Eltérően nyilatkoztak az európaiak részvételéről az abu-dzabi béketárgyalásokon",
-    "lead_hu": "November 10–11-én amerikai közvetítéssel tárgyal Oroszország és Ukrajna Abu-Dzabiban a háború lezárásáról. Jean-Noël Barrot francia külügyminiszter szerint az európaiak is képviseltetik magukat, a Kreml viszont háromoldalú tárgyalásként beszél a találkozóról, az európaiakkal való külön egyeztetést említve.",
-    "content_hu": "• **Európai részvétel:** Jean-Noël Barrot francia külügyminiszter azt mondta, hogy az európaiak, köztük Franciaország képviselője is jelen lesz Abu-Dzabiban.\n\n• **A Kreml álláspontja:** Dmitrij Peszkov szerint a tárgyalás háromoldalú lesz Oroszország, Ukrajna és az Egyesült Államok részvételével. Hozzátette, hogy az amerikaiak és az ukránok külön kommunikációs csatornákon egyeztetnek az európaiakkal, és saját koordinációs mechanizmust alakíthatnak ki.\n\n• **A tárgyalások témái:** A megbeszélések a biztonsági garanciákra, a feszültség csökkentésére, a humanitárius kérdésekre és a béke felé vezető lépésekre összpontosíthatnak.\n\n• **Az orosz küldöttség:** A delegációt Vlagyimir Megyinszkij elnöki tanácsadó vezeti. Tagja lesz többek között Szergej Rjabkov és Mihail Galuzin külügyminiszter-helyettes, valamint Igor Kosztyukov katonai hírszerzési vezető és helyettese, Jurij Zsigarlovszkij.\n\n• **Ukrajna feltételei:** Volodimir Zelenszkij jelezte, hogy Ukrajna kész lépéseket tenni a háború lezárásáért, cserébe azonban megkérdőjelezhetetlen biztonsági garanciákat és erősebb légvédelmet követel.\n\n• **A tárgyalások előzménye:** Az abu-dzabi találkozó a február közepén Genfben tartott, eredménytelen háromoldalú egyeztetések folytatása lesz.",
     "importance_score": 28.0
   },
   {
@@ -12782,6 +12756,32 @@
     "lead_hu": "Az NMHH pénzügyi átvilágítása szerint a Médiatanács korábbi tagjai 2022 és 2026 között összesen 197,1 millió forint jutalmat ítéltek meg maguknak. A hatóság jogászok bevonásával vizsgálja a kifizetéseket, a 2027-es költségvetési terv pedig már nem tartalmaz ilyen juttatásokat.",
     "content_hu": "• **Öt év alatt 197,1 millió forintot osztottak szét**: Koltay András elnök 80,3 millió, a testület négy tagja, Budai László, Bartóki-Gönczy Balázs, Meszleny László és Szadai Károly pedig fejenként 29,2 millió forint jutalmat kapott 2022 és 2026 között.\n\n• **Évente kétszer szavaztak meg jutalmat**: a Médiatanács azzal indokolta a kifizetéseket, hogy a költségvetésében van erre elegendő tartalék. A jutalmak éves összege a tagok háromhavi tiszteletdíjának felelt meg. Egy 2026. áprilisi döntés önmagában 28,2 millió forint kifizetéséről szólt.\n\n• **A jogszerűséget is vizsgálják**: a Médiatanács ülésén Bencsik Márta, a Tisza Párt delegáltja azt mondta, a médiatörvény a tagoknak tiszteletdíjat és költségtérítést tesz lehetővé, jutalmat nem. Az NMHH jogászok bevonásával vizsgálja a korábbi kifizetéseket, a 2027-es költségvetésben pedig már nem szerepel jutalom.\n\n• **Tavasszal alakulhat ki az új intézményi struktúra**: Polyák Gábor, a Médiatanács elnöke a HVG-nek azt mondta, hogy várakozása szerint addigra körvonalazódhat az új rendszer.",
     "importance_score": 63.0
+  },
+  {
+    "group_id": "group_7cfe2baf53",
+    "fingerprint": "808b85cc8591c5ee86478ee11a84240e",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7248/72484/724841/72484129_5341341_d103020aeb13da787ed5ebaed087ce51_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Oroszország is megerősítette, háromoldalú tárgyalások jönnek Abu-Dzabiban",
+        "link": "https://index.hu/kulfold/2026/11/09/kreml-orosz-ukran-haboru-targyalasok-abu-dzabi-egyesult-allamok/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "A francia külügyminiszter szerint az európaiak is ott lesznek az ukrajnai háború lezárásáról szóló abu-dzabi tárgyalásokon",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/a-francia-kulugyminiszter-szerint-az-europaiak-is-ott-lesznek-az-ukrajnai-haboru-lezarasarol-szolo-abu-dzabi-targyalasokon"
+      }
+    ],
+    "published_at": 1794235440,
+    "title_hu": "Eltérően nyilatkoztak az európaiak részvételéről az abu-dzabi béketárgyalásokon",
+    "lead_hu": "November 10–11-én amerikai közvetítéssel tárgyal Oroszország és Ukrajna Abu-Dzabiban a háború lezárásáról. Jean-Noël Barrot francia külügyminiszter szerint az európaiak is képviseltetik magukat, a Kreml viszont háromoldalú tárgyalásként beszél a találkozóról, az európaiakkal való külön egyeztetést említve.",
+    "content_hu": "• **Európai részvétel:** Jean-Noël Barrot francia külügyminiszter azt mondta, hogy az európaiak, köztük Franciaország képviselője is jelen lesz Abu-Dzabiban.\n\n• **A Kreml álláspontja:** Dmitrij Peszkov szerint a tárgyalás háromoldalú lesz Oroszország, Ukrajna és az Egyesült Államok részvételével. Hozzátette, hogy az amerikaiak és az ukránok külön kommunikációs csatornákon egyeztetnek az európaiakkal, és saját koordinációs mechanizmust alakíthatnak ki.\n\n• **A tárgyalások témái:** A megbeszélések a biztonsági garanciákra, a feszültség csökkentésére, a humanitárius kérdésekre és a béke felé vezető lépésekre összpontosíthatnak.\n\n• **Az orosz küldöttség:** A delegációt Vlagyimir Megyinszkij elnöki tanácsadó vezeti. Tagja lesz többek között Szergej Rjabkov és Mihail Galuzin külügyminiszter-helyettes, valamint Igor Kosztyukov katonai hírszerzési vezető és helyettese, Jurij Zsigarlovszkij.\n\n• **Ukrajna feltételei:** Volodimir Zelenszkij jelezte, hogy Ukrajna kész lépéseket tenni a háború lezárásáért, cserébe azonban megkérdőjelezhetetlen biztonsági garanciákat és erősebb légvédelmet követel.\n\n• **A tárgyalások előzménye:** Az abu-dzabi találkozó a február közepén Genfben tartott, eredménytelen háromoldalú egyeztetések folytatása lesz.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_a32b2fa303",
