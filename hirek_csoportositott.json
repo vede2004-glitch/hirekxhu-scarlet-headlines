@@ -1,62 +1,5 @@
 [
   {
-    "group_id": "group_dfebe7eed4",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Azt már tudjuk egy ideje, hogy lelőtték Magyarországon a sokak körében népszerű JÉGER-rendszert, amiről az MTA állítja, nem felelős az aszályos időjárásért",
-        "link": "https://raketa.hu/az-mta-allitja-a-jeger-nem-felelos-az-aszalyos-idojarasert/",
-        "image": "https://raketa.hu/uploads/2026/06/daschorsch-field-7378093_1920.jpg",
-        "summary": "A JÉGER jégkármérséklő rendszer üzemeltetése nem tehető felelőssé az elmúlt évek aszályos időjárásáért, ez egyértelműen kijelenthető a Magyar Tudományos Akadémia (MTA) jelentése szerint.",
-        "category": "Kultúra",
-        "published_at": 1794112413
-      }
-    ]
-  },
-  {
-    "group_id": "group_9901be07e1",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Álhír terjed a Forma–1 új világbajnokáról, aki Roger Federernek is sokat köszönhet",
-        "link": "https://magyarnemzet.hu/sport/2026/11/kimi-antonelli-f1-vilagbajnok-mercedes-olasz-portre?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/4wR0PFSU8yEIkIcLfNtEE3m0j1NulnFr5TiH6hvKCeg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JlOGEwNzVlMjVhYzRmZjM5YTc2ZWNkNjY2MzMyM2Y2.jpg",
-        "summary": "Andrea Kimi Antonelli rácáfolt a kritikusokra.",
-        "category": "Politika",
-        "published_at": 1794112200
-      }
-    ]
-  },
-  {
-    "group_id": "group_16c8e4ce96",
-    "category": "Kultúra",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Gmailje van? Önt is figyelmezteti a Google",
-        "link": "https://www.atv.hu/egyeb/20261108/gmail-google-ellenorzes/",
-        "image": "",
-        "summary": "A Google arra kéri a Gmail felhasználóit, hogy végezzenek el egy gyors biztonsági ellenőrzést, amellyel kiszűrhetik a postafiókjukhoz csatlakozó ismeretlen eszközöket és a már feleslegessé vált külső alkalmazásokat.",
-        "category": "Kultúra",
-        "published_at": 1794112500
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ha Gmail-t használsz, ellenőrizd ezt a beállítást! - Lehet, hogy más is hozzáfér a fiókodhoz",
-        "link": "https://nlc.hu/szabadido/20261108/gmail-hozzaferes-beallitas/emtyp23",
-        "image": "",
-        "summary": "Hatékony védelmet nyújt a gmaileseknek az illetéktelen hozzáférésekkel szemben a Google által javasolt biztonsági átvizsgálás. The post Ha Gmail-t használsz, ellenőrizd ezt a beállítást! - Lehet, hogy más is hozzáfér a fiókodhoz first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794123180
-      }
-    ]
-  },
-  {
     "group_id": "group_de8b1a2121",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -101,22 +44,6 @@
         "summary": "Ideális olajárral tervez a kormány, de álmodozásnak tűnik.",
         "category": "Politika",
         "published_at": 1794113040
-      }
-    ]
-  },
-  {
-    "group_id": "group_dcadc81073",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Vasárnapi holdnaptár: 5 dolog, amit érdemes megtenned a hétfői Skorpió újhold előtt",
-        "link": "https://nlc.hu/horoszkop/20261108/holdnaptar-holdhoroszkop-2026-11-08/zbe0fkf",
-        "image": "",
-        "summary": "A 2026. november 8-i, vasárnapi holdnaptár szerint a Skorpió jegyében járó fogyó Hold az elengedésnek, a lelki megtisztulásnak és a lezárásoknak kedvez. A hétfői Skorpió újhold előtt különösen érdemes figyelni az érzelmeinkre és a kapcsolatainkra. Vajon mit tanácsol a holdnaptár erre a különleges, változásokat előkészítő vasárnapra? The post Vasárnapi holdnaptár: 5 dolog, amit érdemes megtenned a hétfői Skorpió újhold előtt first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794112380
       }
     ]
   },
@@ -1846,6 +1773,22 @@
     ]
   },
   {
+    "group_id": "group_16c8e4ce96",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Ha Gmail-t használsz, ellenőrizd ezt a beállítást! - Lehet, hogy más is hozzáfér a fiókodhoz",
+        "link": "https://nlc.hu/szabadido/20261108/gmail-hozzaferes-beallitas/emtyp23",
+        "image": "",
+        "summary": "Hatékony védelmet nyújt a gmaileseknek az illetéktelen hozzáférésekkel szemben a Google által javasolt biztonsági átvizsgálás. The post Ha Gmail-t használsz, ellenőrizd ezt a beállítást! - Lehet, hogy más is hozzáfér a fiókodhoz first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1794123180
+      }
+    ]
+  },
+  {
     "group_id": "group_e32927c593",
     "category": "Általános",
     "articles_count": 1,
@@ -2603,7 +2546,7 @@
   {
     "group_id": "group_92c0d60e3d",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -2631,6 +2574,15 @@
         "summary": "A napos, száraz vasárnapot követően a jövő hét első felében felhősebb és csapadékosabb őszi idő köszönt be a HungaroMet előrejelzése szerint. A délutáni órákban jellemzően 5 és 13 fok közötti értékeket mérhetünk, éjszakánként azonban a derült tájakon fagyokra, foltokban ködre, az Északi-középhegység térségében pedig akár ónos esőre is készülni kell.",
         "category": "Gazdaság",
         "published_at": 1794135600
+      },
+      {
+        "source": "ATV",
+        "title": "Viharos szél, hatalmas eső és mínusz 8 fok: durva időjárási fordulat jön Magyarországon",
+        "link": "https://www.atv.hu/belfold/20261109/vihar-eso-szel-fagy-idojaras/",
+        "image": "https://www.youtube.com/embed/LgPCcn4RGto",
+        "summary": "Komoly időjárási fordulat várható a következő napokban: jókora eső, viharos szél és kemény fagyok érkeznek.",
+        "category": "Általános",
+        "published_at": 1794198900
       }
     ]
   },
@@ -8020,7 +7972,7 @@
         "image": "https://raketa.hu/uploads/2026/11/goolephotos.jpg",
         "summary": "Fontos változás jön a Google Fotók működésében, fele annyi ideig lesz lehetőség visszaállítani a kukába helyezett fájlokat.",
         "category": "Kultúra",
-        "published_at": 1794198549
+        "published_at": 1794198817
       }
     ]
   },
@@ -8101,6 +8053,38 @@
         "summary": "Kedden teszi közzé a Központi Statisztikai Hivatal a legfrissebb inflációs adatokat, az előjelek azonban finoman szólva sem kedvezőek.",
         "category": "Gazdaság",
         "published_at": 1794198301
+      }
+    ]
+  },
+  {
+    "group_id": "group_cd54820d89",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "„Elsősorban azoknak a felelősségét kellene vizsgálnunk, akik ezt a rendszert létrehozták és működtették” – történész az ügynökaktákról",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/elsosorban-azoknak-a-felelosseget-kellene-vizsgalnunk-akik-ezt-a-rendszert-letrehoztak-es-mukodtettek-beszelgetes-az-ugynokaktakrol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/KI4p3uGhZwQ-x4avZC5UuKyfNmmmQM6uzBOnrGm9lZE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhNzM2NDNjZTMwOTQ1OTJhMDI2ZGM5ZDQyOTFhOGY3.jpg",
+        "summary": "Az egyéni sorsok feltárása mellett a hálózat működtetőinek felelősségéről is beszélni kell, a történész szerint.",
+        "category": "Politika",
+        "published_at": 1794198540
+      }
+    ]
+  },
+  {
+    "group_id": "group_881072db63",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Amikor mindig és mindenhol biztos a net: teszten a TP-Link Archer NX505 5G és Wi-Fi 6 router",
+        "link": "https://raketa.hu/tp-link-archer-nx505-5g-router/",
+        "image": "https://raketa.hu/uploads/2026/10/tp-link-archer-nx505-raketa-10.jpg",
+        "summary": "Ha fontos, hogy mindig biztos és gyors legyen a neted, akár otthon, akár máshol, nézd meg ezt a profi routert.",
+        "category": "Kultúra",
+        "published_at": 1794198998
       }
     ]
   }
