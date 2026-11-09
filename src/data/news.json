@@ -162,7 +162,7 @@
     "image": "https://cdn.magyarnemzet.hu/2026/11/M9vjx2TyuKXGguOEl5RokLOV-GrESeIo-xDHgemJlgk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ViMzU2ZDY1NTA3YTQyZTU4MmM1MGNlYWQ0ZjBhMDYy.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 12,
+    "sources_count": 14,
     "sources": [
       {
         "source": "Világgazdaság",
@@ -223,13 +223,23 @@
         "source": "24.hu - Legfrissebb",
         "title": "Magyar Péter: Fél éve tettem esküt",
         "link": "https://24.hu/belfold/2026/11/09/magyar-peter-fel-eve-tettem-eskut/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Magyar: Több mint kormányváltás, rendszerváltás történt márciusban",
+        "link": "https://24.hu/belfold/2026/11/09/magyar-tobb-mint-kormanyvaltas-rendszervaltas-tortent-marciusban/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: őrizetben Orbán Viktor öccse, Berlinbe utazik Magyar Péter",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/tisza-kormany-orizetben-orban-viktor-occse-berlinbe-utazik-magyar-peter-875036"
       }
     ],
     "published_at": 1794200944,
     "title_hu": "Közel lehet az aranykonvoj ügyének bírósági tárgyalása",
     "lead_hu": "Ukrajna magyarországi nagykövete szerint hamarosan bíróság elé kerülhet az ukrán Oschadbank pénzszállítóinak 2026 márciusi letartóztatásához kapcsolódó aranykonvoj-ügy. A diplomata az ukrán–magyar kapcsolatok rendezéséről és a vitás kérdések állásáról is beszélt.",
     "content_hu": "• **Közeleg a tárgyalás:** Sándor nagykövet szerint az aranykonvoj-ügyben már nagyon közel van a bírósági eljárás, de további részleteket nem közölt. Úgy vélte, az érintettek nevének nyilvánosságra kerülése meglepetést okozhat.\n\n• **A letartóztatásokhoz kapcsolódik:** Az ügy az ukrán állami Oschadbank pénzszállítóinak 2026 márciusában történt magyarországi letartóztatásával függ össze.\n\n• **Haladnak a kétoldalú egyeztetések:** A nagykövet közlése szerint a 11 vitás kérdésből ötöt már egyeztettek és törvényhozási szinten jóváhagytak; további öt rendezését a jövő évre tervezik. A fennmaradó ügy az ukrajnai nemzeti közösségek parlamenti képviselete.\n\n• **Oktatási jogokról is megállapodtak:** Az ukrán parlament elfogadta a nemzeti kisebbségek oktatási jogairól szóló törvényt. A nagykövet szerint a szabályozás a magyar közösség mellett valamennyi ukrajnai nemzeti közösségre kiterjed.",
-    "importance_score": 123.0
+    "importance_score": 143.0
   },
   {
     "group_id": "group_f664c8e122",
@@ -625,6 +635,40 @@
     "importance_score": 58.0
   },
   {
+    "group_id": "group_6bf51273ee",
+    "category": "Általános",
+    "image": "https://www.youtube.com/embed/ZUafXTL-ivA",
+    "is_synthesized": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Kopasz rabnak küldtek használt hajkefét a váci börtönbe – az őrök szimata beigazolódott",
+        "link": "https://www.atv.hu/belfold/20261109/kopasz-rab-hajkefe-meglepetes/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Hajkefébe rejtve próbáltak drogot becsempészni egy kopasz rabnak a váci börtönbe",
+        "link": "https://index.hu/belfold/2026/11/09/rab-borton-hajkefe-drog/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Hajkefébe rejtett kábítószergyanús port küldtek egy rabnak a váci börtönbe, az lett gyanús, hogy a címzettnek alig van haja",
+        "link": "https://telex.hu/belfold/2026/11/09/hajkefe-kabitoszergyanus-por-rab-rovid-haj-vac-borton"
+      },
+      {
+        "source": "Femina",
+        "title": "Hajkefében próbáltak drogot csempészni egy kopasz rabnak a váci börtönbe: így buktak le",
+        "link": "https://femina.hu/terasz/hajkefeben-drogcsempeszet-borton-lebukas-rab/"
+      }
+    ],
+    "published_at": 1794222720,
+    "title_hu": "Kopasz rabnak küldtek használt hajkefét a váci börtönbe – az őrök szimata beigazolódott",
+    "lead_hu": "Használt hajkefét küldtek egy szinte kopasz fogvatartottnak Vácra: az őröknek azonnal szemet szúrt a csomag. Nem csalt a szimatuk.",
+    "content_hu": "Használt hajkefét küldtek egy szinte kopasz fogvatartottnak Vácra: az őröknek azonnal szemet szúrt a csomag. Nem csalt a szimatuk.",
+    "importance_score": 55.0
+  },
+  {
     "group_id": "group_0c3f654603",
     "fingerprint": "572a9cc582ef23ae581ecb07082f847e",
     "category": "Politika",
@@ -936,35 +980,6 @@
     "title_hu": "Ombudsmani vizsgálat indult az OTP menekült ügyfeleinek számlái miatt",
     "lead_hu": "A Magyar Helsinki Bizottság szerint az OTP tartózkodási engedélyhez köti a banki szolgáltatásokat, és hivatalosan elismert menekültek számláit szüntette meg vagy korlátozta. Az alapvető jogok biztosa a szervezet kérelmére vizsgálatot indított; az OTP közölte, hogy együttműködik a hatósággal, és elutasítja a diszkrimináció minden formáját.",
     "content_hu": "• **Ombudsmani vizsgálat indult** az OTP ellen, miután a Magyar Helsinki Bizottság közérdekű igényérvényesítőként az alapvető jogok biztosához fordult a menekült ügyfelek bankszámláinak megszüntetése miatt.\n\n• **A jogvédők szerint a bank tartózkodási engedélyt követel** a hivatalosan elismert menekültektől, miközben állításuk szerint a menekülteknek nincs ilyen okmányuk, és ezt hazai jogszabály sem írja elő. A Helsinki Bizottság szerint a bank nem fogadta el a menekültstátuszt igazoló iratokat, még az idegenrendészeti hatóság hivatalos igazolását sem.\n\n• **Egy orosz pszichológus hat éve működő számláját megszüntették** az adategyeztetést követően. A Helsinki Bizottság beszámolója szerint az OTP azt közölte vele, hogy vagy önként zárja be a számláját, vagy a bank szünteti meg; a férfi végül egy másik banknál vezetett számlára utalta megtakarításait.\n\n• **Más menekült ügyfelek pénzéhez való hozzáférését is korlátozhatták**, egyeseknél a szervezet szerint zárolták a pénzt és letiltották a bankkártyákat. A Helsinki Bizottság orosz és palesztin menekült ügyfelekről is beszámolt.\n\n• **Egy orosz egyetemista és édesanyja számláit is megszüntették** a jogvédők szerint. A szervezet közlése alapján a bank 2025 májusában még bocsánatot kért, amiért tévesen hivatkozott a pénzmosás és a terrorizmus finanszírozása elleni törvényre, amikor tartózkodási engedélyt kért az egyetemistától; augusztusban azonban felmondta a számlaszerződését, és az édesanyjáét is megszüntette.\n\n• **A számlák zárolása mindennapi nehézségeket okozott a családnak** a Helsinki Bizottság beszámolója szerint: késve fizették be a számláikat, pótdíjakat kaptak, munkáltatóik pedig nem tudták hová utalni a fizetésüket. Egyes kiadások fedezéséhez baráti segítséget kértek.\n\n• **Az OTP azt közölte, hogy együttműködik az ombudsmannal**, a vizsgálathoz szükséges információkat átadja, és tevékenységét a jogszabályokkal, illetve felügyeleti előírásokkal összhangban végzi. A bank elutasítja a diszkrimináció minden formáját, és kivizsgálja az ügyféljelzéseket.\n\n• **Az eljárás még nem állapított meg jogsértést.** Az OTP jogszabályokra és belső szabályaira hivatkozott, a Helsinki Bizottság ezt téves jogértelmezésnek tartja, és azt várja, hogy az ombudsmani vizsgálat más bankoknak is iránymutatást adjon.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_6bf51273ee",
-    "category": "Általános",
-    "image": "https://www.youtube.com/embed/ZUafXTL-ivA",
-    "is_synthesized": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Kopasz rabnak küldtek használt hajkefét a váci börtönbe – az őrök szimata beigazolódott",
-        "link": "https://www.atv.hu/belfold/20261109/kopasz-rab-hajkefe-meglepetes/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Hajkefébe rejtve próbáltak drogot becsempészni egy kopasz rabnak a váci börtönbe",
-        "link": "https://index.hu/belfold/2026/11/09/rab-borton-hajkefe-drog/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Hajkefébe rejtett kábítószergyanús port küldtek egy rabnak a váci börtönbe, az lett gyanús, hogy a címzettnek alig van haja",
-        "link": "https://telex.hu/belfold/2026/11/09/hajkefe-kabitoszergyanus-por-rab-rovid-haj-vac-borton"
-      }
-    ],
-    "published_at": 1794222720,
-    "title_hu": "Kopasz rabnak küldtek használt hajkefét a váci börtönbe – az őrök szimata beigazolódott",
-    "lead_hu": "Használt hajkefét küldtek egy szinte kopasz fogvatartottnak Vácra: az őröknek azonnal szemet szúrt a csomag. Nem csalt a szimatuk.",
-    "content_hu": "Használt hajkefét küldtek egy szinte kopasz fogvatartottnak Vácra: az őröknek azonnal szemet szúrt a csomag. Nem csalt a szimatuk.",
     "importance_score": 45.0
   },
   {
@@ -2429,6 +2444,120 @@
     "lead_hu": "Lando Norris győzött a São Pauló-i Nagydíjon, amelynek hajráját az eső és a gumistratégia tette izgalmassá. Max Verstappen a mezőny végéről rajtolva a második helyre kapaszkodott fel, Isack Hadjar pedig harmadikként ért célba.",
     "content_hu": "• **Norris győzelme** A McLaren brit pilótája nyerte a futamot, ezzel idei harmadik és pályafutása 14. Forma–1-es győzelmét szerezte meg.\n\n• **Verstappen felzárkózása** A 21. rajtkockából induló holland 19 helyet javítva második lett.\n\n• **Dobogósok** Isack Hadjar a harmadik helyen zárt.\n\n• **Esős hajrá** A verseny utolsó szakaszában felerősödött az eső, ezért a mezőny átmeneti esőgumikra váltott.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_482291aa6d",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-11118606392-e1794222163161-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Magyar ma Berlinbe utazik",
+        "link": "https://24.hu/belfold/2026/11/09/magyar-ma-berlinbe-utazik/"
+      }
+    ],
+    "published_at": 1794227604,
+    "title_hu": "Magyar ma Berlinbe utazik",
+    "lead_hu": "Magyar beszélt arról is, hogy ma Berlinbe utazik, a berlini fal leomlásának 37. The post Magyar ma Berlinbe utazik first appeared on 24.hu....",
+    "content_hu": "Magyar beszélt arról is, hogy ma Berlinbe utazik, a berlini fal leomlásának 37. The post Magyar ma Berlinbe utazik first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_5ae15c9b89",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Magyar Péter Berlinben mond beszédet",
+        "link": "https://index.hu/belfold/2026/11/09/orszaggyules-parlament-magyar-peter-miniszterelnok-beszed-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-berlinben-mond-beszedet/"
+      }
+    ],
+    "published_at": 1794227426,
+    "title_hu": "Magyar Péter Berlinben mond beszédet",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_31dcf90214",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/10/gh8Nlk6qmNLZ0HruMN0SyMAK5rWtKTjcq6vphI1mdek/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNhNTUzZGQ2Y2NjNTQxNmU5ZDk4NWI2YmI0NTQ0NjZk.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Alvó állapotban is végzetes lehet a laptop, ha ezt csinálod vele",
+        "link": "https://borsonline.origo.hu/toptipp/2026/11/laptop-alvo-allapotban-teto-lecsukas"
+      }
+    ],
+    "published_at": 1794227400,
+    "title_hu": "Alvó állapotban is végzetes lehet a laptop, ha ezt csinálod vele",
+    "lead_hu": "Kényelmes megoldás, de hosszú távon megbosszulja magát....",
+    "content_hu": "Kényelmes megoldás, de hosszú távon megbosszulja magát.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_b1c370c367",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Még nem dőlt el, hogy jönnek-e a használt svájci vonatok, új közbeszerzést írtak ki a karbantartásukra",
+        "link": "https://444.hu/2026/11/09/meg-nem-dolt-el-hogy-jonnek-e-a-hasznalt-svajci-vonatok-uj-kozbeszerzest-irtak-ki-a-karbantartasukra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794227356,
+    "title_hu": "Még nem dőlt el, hogy jönnek-e a használt svájci vonatok, új közbeszerzést írtak ki a karbantartásukra",
+    "lead_hu": "Lázár János aláírta, Vitézy Dávid visszavonta, 93 vonattal 14 ezer új ülőhely érkezne, de a karbantartás költségein múlik minden....",
+    "content_hu": "Lázár János aláírta, Vitézy Dávid visszavonta, 93 vonattal 14 ezer új ülőhely érkezne, de a karbantartás költségein múlik minden.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_e4b04b35f2",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Magyar Péter bejelentette: jön az oktatási stratégia, újragondolják a Nemzeti alaptantervet",
+        "link": "https://index.hu/belfold/2026/11/09/orszaggyules-parlament-magyar-peter-miniszterelnok-beszed-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-bejelentette-jon-az-oktatasi-strategia-ujragondoljak-a-nemzeti-alaptantervet/"
+      }
+    ],
+    "published_at": 1794227339,
+    "title_hu": "Magyar Péter bejelentette: jön az oktatási stratégia, újragondolják a Nemzeti alaptantervet",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f470045a86",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nekimentek a kormánynak Amszterdamban, százezrek vonultak utcára",
+        "link": "https://index.hu/kulfold/2026/11/09/tuntetes-demonstracio-amszterdam-izrael-palesztina/"
+      }
+    ],
+    "published_at": 1794227280,
+    "title_hu": "Nekimentek a kormánynak Amszterdamban, százezrek vonultak utcára",
+    "lead_hu": "Keményebb fellépést követeltek Izraellel szemben....",
+    "content_hu": "Keményebb fellépést követeltek Izraellel szemben.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_aa7003dfc2",
@@ -10940,25 +11069,6 @@
     "title_hu": "Gáspár Evelint és testvérét nem engedték be a szórakozóhelyre: felháborodott posztban reagált",
     "lead_hu": "A testvéreket származásuk miatt nem engedték bulizni.",
     "content_hu": "A testvéreket származásuk miatt nem engedték bulizni.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4695bc6359",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261105/1793879238-temp-qkjm1ltbtuh0edcjgfp_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Parti Nagy Lajos: Játék (részlet)",
-        "link": "https://telex.hu/karakter/konyvespolc/2026/11/08/parti-nagy-lajos-jatek-reszlet"
-      }
-    ],
-    "published_at": 1794141187,
-    "title_hu": "Parti Nagy Lajos: Játék (részlet)",
-    "lead_hu": "Parti Nagy Lajos lenyűgöző utazásra hív a nyelv, az emlékezet és a szabad cselekvés útvesztőiben. Olvasson bele!",
-    "content_hu": "Parti Nagy Lajos lenyűgöző utazásra hív a nyelv, az emlékezet és a szabad cselekvés útvesztőiben. Olvasson bele!",
     "importance_score": 0.0
   },
   {
