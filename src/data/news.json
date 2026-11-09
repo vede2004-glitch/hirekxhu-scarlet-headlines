@@ -1657,32 +1657,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_9b593d7645",
-    "fingerprint": "fef87a14ba43b2fd7d8481fef6db0c16",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Három napon át megkötözve, egy kisbuszban tartottak fogva egy osztrák nőt Magyarországon",
-        "link": "https://telex.hu/belfold/2026/11/09/harom-napon-at-egy-kisbuszban-megkotozve-tartottak-fogva-egy-osztrak-not-magyarorszagon"
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Három napig egy kisbuszban tartottak fogva egy osztrák nyugdíjast Magyarországon",
-        "link": "https://hvg.hu/vilag/20261109_harom-napig-egy-kisbuszban-tartottak-fogva-egy-osztrak-nyugdijast-magyarorszagon"
-      }
-    ],
-    "published_at": 1794232574,
-    "title_hu": "Három napig tartott fogva egy osztrák nyugdíjast egy magyar férfi",
-    "lead_hu": "Egy 62 éves osztrák nőt állítása szerint magyar ismerőse három napon át megkötözve tartott egy átalakított kisbuszban Magyarországon. A 41 éves férfit elfogták, a nő sérülései miatt kórházi ellátásra szorult.",
-    "content_hu": "• **A fogva tartás** A nő feljelentése szerint magyar ismerőse egy győrújbaráti látogatásra hívta, majd megkötözte, és három napon át egy kisbusz rakterében tartotta fogva.\n\n• **A feltételezett indíték** Az osztrák hatóságok szerint a férfi tudomást szerzett arról, hogy a nő egy ingatlaneladásból jelentősebb készpénzhez jutott, és pénzt követelt tőle.\n\n• **Az elfogás és az eljárás** A férfit Ausztriában elfogták, előzetes letartóztatásban van; személyi szabadság korlátozása és súlyos testi sértés miatt folyik ellene eljárás. A nőt sérülései miatt kórházban kezelték.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_f470045a86",
     "category": "Általános",
     "image": "",
@@ -1912,6 +1886,32 @@
     "lead_hu": "Az Irán támogatását élvező jemeni húszik támadást intéztek Rijád üzleti negyede ellen, és megrongálták a 34 emeletes Aramco Tower üveghomlokzatát. A szaúdi tájékoztatás szerint a fővárosi csapásban senki sem sérült meg, a húszikhoz köthető források viszont 33 jemeni halottról és 39 sebesültről számoltak be a koalíciós légicsapások után.",
     "content_hu": "• **Rijádi támadás:** A húszik a főváros Abdullah király nevű banknegyedét támadták; a 34 emeletes Aramco Tower üveghomlokzatán a felvételek alapján jelentős károk keletkeztek, bár a szaúdi energetikai minisztérium mérsékelt kárról számolt be.\n\n• **Nincsenek sérültek Rijádban:** A szaúdi tájékoztatás szerint az Aramco épületét ért csapásnak nem volt halálos vagy sérült áldozata. A fővárosban légiriadót rendeltek el.\n\n• **További húszi célpontok:** A húszik katonai szóvivője azt állította, hogy a fővárosi repülőteret, az Aramco kelet-szaúd-arábiai érdekeltségeit és szaúdi csapatokat is támadtak. A szaúdi vezetésű koalíció közlése szerint robotrepülőgépeket és drónokat lőttek le Rijád, illetve az ország déli részei felett.\n\n• **Jemeni áldozatok:** A húszikhoz köthető források szerint a koalíciós légicsapásokban Szanaában 33 ember meghalt, 39 pedig megsebesült. Az áldozatok között nők és gyermekek is voltak; az adatokat a húszik közléseként kell kezelni.\n\n• **Rakétaindítókat semmisített meg a koalíció:** A szaúdi vezetésű koalíció azt közölte, hogy az északnyugat-jemeni Szaadában ballisztikusrakéta-indítóállásokat semmisített meg.\n\n• **A konfliktus kiújulása:** A húszik és a Szaúd-Arábia által támogatott jemeni kormányerők 2022-ben tűzszünetet kötöttek, a harcok azonban a február végén kirobbant, Irán elleni amerikai–izraeli háború nyomán ismét fellángoltak. A húszik rakétákkal és drónokkal támadják a szaúdi repülőtereket, kikötőket és olajlétesítményeket, Szaúd-Arábia pedig légicsapásokat hajt végre Jemenben.\n\n• **Szíriai katonák Szaúd-Arábiában:** Három, név nélkül nyilatkozó szíriai tisztségviselő az AP-nek azt mondta, hogy Rijád kérésére Szíria katonákat küld a húszik elleni harcra a jemeni határ közelébe. Szíriai katonai tanácsadók már az országban vannak, de a közlés szerint harcoló alakulatok még nem érkeztek.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_9b593d7645",
+    "fingerprint": "fef87a14ba43b2fd7d8481fef6db0c16",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Három napon át megkötözve, egy kisbuszban tartottak fogva egy osztrák nőt Magyarországon",
+        "link": "https://telex.hu/belfold/2026/11/09/harom-napon-at-egy-kisbuszban-megkotozve-tartottak-fogva-egy-osztrak-not-magyarorszagon"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Három napig egy kisbuszban tartottak fogva egy osztrák nyugdíjast Magyarországon",
+        "link": "https://hvg.hu/vilag/20261109_harom-napig-egy-kisbuszban-tartottak-fogva-egy-osztrak-nyugdijast-magyarorszagon"
+      }
+    ],
+    "published_at": 1794232574,
+    "title_hu": "Három napig tartott fogva egy osztrák nyugdíjast egy magyar férfi",
+    "lead_hu": "Egy 62 éves osztrák nőt állítása szerint magyar ismerőse három napon át megkötözve tartott egy átalakított kisbuszban Magyarországon. A 41 éves férfit elfogták, a nő sérülései miatt kórházi ellátásra szorult.",
+    "content_hu": "• **A fogva tartás** A nő feljelentése szerint magyar ismerőse egy győrújbaráti látogatásra hívta, majd megkötözte, és három napon át egy kisbusz rakterében tartotta fogva.\n\n• **A feltételezett indíték** Az osztrák hatóságok szerint a férfi tudomást szerzett arról, hogy a nő egy ingatlaneladásból jelentősebb készpénzhez jutott, és pénzt követelt tőle.\n\n• **Az elfogás és az eljárás** A férfit Ausztriában elfogták, előzetes letartóztatásban van; személyi szabadság korlátozása és súlyos testi sértés miatt folyik ellene eljárás. A nőt sérülései miatt kórházban kezelték.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_56ff63ede7",
@@ -2812,6 +2812,120 @@
     "lead_hu": "Lando Norris győzött a São Pauló-i Nagydíjon, amelynek hajráját az eső és a gumistratégia tette izgalmassá. Max Verstappen a mezőny végéről rajtolva a második helyre kapaszkodott fel, Isack Hadjar pedig harmadikként ért célba.",
     "content_hu": "• **Norris győzelme** A McLaren brit pilótája nyerte a futamot, ezzel idei harmadik és pályafutása 14. Forma–1-es győzelmét szerezte meg.\n\n• **Verstappen felzárkózása** A 21. rajtkockából induló holland 19 helyet javítva második lett.\n\n• **Dobogósok** Isack Hadjar a harmadik helyen zárt.\n\n• **Esős hajrá** A verseny utolsó szakaszában felerősödött az eső, ezért a mezőny átmeneti esőgumikra váltott.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_92f00a726c",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/FWuWGMkfWF501yrvE_EgBF-Nh95J6BDMJ30493A6OWA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I2OTM1Zjg0NGE0MjQ2ZmY5NzYwMDAyZWViZGYwOTYz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A káoszkormányzás baklövéseit rendszeresen látványos nyomozati cselekményekkel fedik el",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/a-kaoszkormanyzas-bakloveseit-rendszeresen-latvanyos-nyomozati-cselekmenyekkel-fedik-el?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794243385,
+    "title_hu": "A káoszkormányzás baklövéseit rendszeresen látványos nyomozati cselekményekkel fedik el",
+    "lead_hu": "Kényes kormányzati ügyek és látványos hatósági akciók: egyre több kérdést vet fel a nyomozások időzítése....",
+    "content_hu": "Kényes kormányzati ügyek és látványos hatósági akciók: egyre több kérdést vet fel a nyomozások időzítése.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_6fa26c40a0",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7248/72486/724861/72486141_5341489_a799a5c33c52b1a8c98a1c12cc360f19_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "„Nem azért jöttünk, hogy alamizsnáért kolduljunk” – 1,6 százalékkal emelik a francia minimálbért a tüntetések miatt",
+        "link": "https://index.hu/kulfold/2026/11/09/franciaorszag-minimalber-emeles-tuntetesek-csillapitas/"
+      }
+    ],
+    "published_at": 1794243240,
+    "title_hu": "„Nem azért jöttünk, hogy alamizsnáért kolduljunk” – 1,6 százalékkal emelik a francia minimálbért a tüntetések miatt",
+    "lead_hu": "Nem hatotta meg a szakszervezeteket, ismét az utcára hívták az embereket....",
+    "content_hu": "Nem hatotta meg a szakszervezeteket, ismét az utcára hívták az embereket.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_bafa40c49f",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/uArWDsuQO9xobmE3huq5j2XlXaP98r5xu-_IU32wiyg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZmNWExMWY4ZWFjNzRhNjk4MGVmYTdhYzYzYWQwZGZi.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Kibertámadások Olaszországban: már a külügyminiszter családját is célba vették",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/kibertamadasok-olaszorszagban-rendkivuli-biztonsagi-intezkedesek"
+      }
+    ],
+    "published_at": 1794243211,
+    "title_hu": "Kibertámadások Olaszországban: már a külügyminiszter családját is célba vették",
+    "lead_hu": "Rendkívüli kiberbiztonsági egyeztetést tartanak Rómában....",
+    "content_hu": "Rendkívüli kiberbiztonsági egyeztetést tartanak Rómában.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_d8ccfc8d95",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7248/72481/724813/72481359_5341133_a0ecae95c66b9a847baf66b7f9037012_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Trump váratlanul elismerte, hogy hibáztak – de egy dologban továbbra sem enged",
+        "link": "https://index.hu/kulfold/2026/11/09/donald-trump-interju-egyesult-allamok-republikanus-part-vereseg/"
+      }
+    ],
+    "published_at": 1794243120,
+    "title_hu": "Trump váratlanul elismerte, hogy hibáztak – de egy dologban továbbra sem enged",
+    "lead_hu": "Arról is beszélt, hogy kit támogatna utódjaként....",
+    "content_hu": "Arról is beszélt, hogy kit támogatna utódjaként.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_78969e708b",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7248/72486/724867/72486739_5341531_1184f24d0ada303e9ac00ee257ee5b56_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Magyar Péter úton Berlinbe, Európa-beszédet tart a német fővárosban",
+        "link": "https://index.hu/belfold/2026/11/09/magyar-peter-berlin-europa-beszed-nemetorszag-kancellar-miniszter-targyalas/"
+      }
+    ],
+    "published_at": 1794243120,
+    "title_hu": "Magyar Péter úton Berlinbe, Európa-beszédet tart a német fővárosban",
+    "lead_hu": "Kedden többek között Friedrich Merzcel is tárgyalnak....",
+    "content_hu": "Kedden többek között Friedrich Merzcel is tárgyalnak.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_453cacfe0e",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/m/5/a/m5autopalya-868020.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "5583 tonna nátrium-kloriddal készülnek az M5-ös téli védelmére",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/5583-tonna-natrium-kloriddal-keszulnek-az-m5-os-teli-vedelmere-875244"
+      }
+    ],
+    "published_at": 1794243000,
+    "title_hu": "5583 tonna nátrium-kloriddal készülnek az M5-ös téli védelmére",
+    "lead_hu": "Több mint 5600 tonna síkosságmentesítő anyaggal és 26 bevethető járművel készült fel a télre az M5-ös autópálya üzemeltetője. Az AKA Alföld Koncessziós Autópálya Zrt. és az A-WAY Zrt. 5583 tonna nátri...",
+    "content_hu": "Több mint 5600 tonna síkosságmentesítő anyaggal és 26 bevethető járművel készült fel a télre az M5-ös autópálya üzemeltetője. Az AKA Alföld Koncessziós Autópálya Zrt. és az A-WAY Zrt. 5583 tonna nátrium-kloridot és 24 tonna kalcium-kloridot tárolt be a 156,5 kilométeres sztráda téli fenntartására.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_a4175b410f",
@@ -12425,25 +12539,6 @@
     "title_hu": "Kovács Áron rutinos apuka: „Ha úgy van, én is fürdetek, pelenkázok”",
     "lead_hu": "Az élet legszebb, egyben legfontosabb hivatása várja otthon.",
     "content_hu": "Az élet legszebb, egyben legfontosabb hivatása várja otthon.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_60fa24c95d",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/08/0A5naCJ3Tyn5v_msu15fjrm4Opb2K4eneN7jur2pynE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU5ODI4NDAwOGZjZTQ3ZGJhZjM0YzAwZjg4OGQzYjI3.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Varga Barnabás már a góllövőlista élén, ő vezette győzelemre az AEK Athént",
-        "link": "https://magyarnemzet.hu/sport/2026/11/varga-barnabas-vitalis-milan-aek-athen-levadiakos-gorog?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794156991,
-    "title_hu": "Varga Barnabás már a góllövőlista élén, ő vezette győzelemre az AEK Athént",
-    "lead_hu": "Vitális Milán is a pályán ünnepelhette az emberhátrányban aratott, régóta várt sikert.",
-    "content_hu": "Vitális Milán is a pályán ünnepelhette az emberhátrányban aratott, régóta várt sikert.",
     "importance_score": 0.0
   },
   {
