@@ -1,11 +1,12 @@
 import type { NewsItem } from "@/lib/news";
+import { newsSlug } from "@/lib/news-slug";
 
 export const SITE_URL = "https://hirekx.hu";
 
 const plain = (text: string) => text.replace(/\*\*(.+?)\*\*/g, "$1");
 
 export function articleSchema(item: NewsItem, image: string | null) {
-  const url = `${SITE_URL}/hir/${encodeURIComponent(item.group_id)}`;
+  const url = `${SITE_URL}/hir/${newsSlug(item)}`;
   const published = item.published_at ? new Date(item.published_at * 1000) : null;
   return {
     "@context": "https://schema.org",
@@ -31,7 +32,7 @@ export function articleSchema(item: NewsItem, image: string | null) {
 }
 
 export function breadcrumbSchema(item: NewsItem) {
-  const url = `${SITE_URL}/hir/${encodeURIComponent(item.group_id)}`;
+  const url = `${SITE_URL}/hir/${newsSlug(item)}`;
   return {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",

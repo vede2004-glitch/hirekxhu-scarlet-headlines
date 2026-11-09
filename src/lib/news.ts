@@ -1,6 +1,7 @@
 import raw from "@/data/news.json";
 import type { Lang } from "@/lib/lang";
 import { localTz } from "@/lib/lang";
+import { newsSlug } from "@/lib/news-slug";
 
 export type NewsSource = { source: string; title: string; link: string };
 export type LangContent = { title: string; lead: string; content: string };
@@ -200,7 +201,10 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
 export const history = buildHistory(news);
 export const archive: NewsItem[] = buildArchive(news, history);
 
-export const getNews = (id: string) => news.find((n) => n.group_id === id) ?? history.find((n) => n.group_id === id) ?? archive.find((n) => n.group_id === id);
+export const getNews = (id: string) => {
+  const items = [...news, ...history, ...archive];
+  return items.find(n => n.group_id === id) ?? items.find(n => newsSlug(n) === id);
+};
 
 /** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. Az archívumot is tartalmazza. */
 const byRelevanceCmp = (a: NewsItem, b: NewsItem) =>

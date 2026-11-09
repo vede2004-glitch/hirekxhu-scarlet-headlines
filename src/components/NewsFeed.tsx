@@ -10,6 +10,7 @@ import { splitNewsFeed } from "@/lib/news-feed";
 import { heroPhoto } from "@/lib/news-covers";
 import { useNewsVersion } from "@/lib/news-live";
 import { cn } from "@/lib/utils";
+import { newsSlug } from "@/lib/news-slug";
 
 function Coverage({ item }: { item: NewsItem }) {
   return item.sources.length > 1 ? <span className="inline-flex items-center gap-1.5 rounded-sm bg-primary px-2 py-1 text-[10px] font-bold text-primary-foreground"><Layers3 className="size-3" />{item.sources.length} forrás</span> : null;
@@ -19,7 +20,7 @@ function StoryLink({ item, className, children }: { item: NewsItem; className: s
   const source = item.sources[0];
   return !item.is_synthesized && source?.link
     ? <a href={source.link} target="_blank" rel="noopener noreferrer" className={className}>{children}</a>
-    : <Link to="/hir/$id" params={{ id: item.group_id }} className={className}>{children}</Link>;
+    : <Link to="/hir/$id" params={{ id: newsSlug(item) }} className={className}>{children}</Link>;
 }
 
 const subscribeHydration = () => () => {};
