@@ -128,7 +128,7 @@
     "image": "https://assets.telex.hu/images/20261108/1794172865-temp-mms8gau8h210bngajeh_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 7,
+    "sources_count": 8,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
@@ -164,13 +164,18 @@
         "source": "Portfolio - Befektetés",
         "title": "Kémbotrány az Nvidiánál: elismerte hibáját Jensen Huang",
         "link": "https://www.portfolio.hu/befektetes/20261109/kembotrany-az-nvidianal-elismerte-hibajat-jensen-huang-875026"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Estek az Nvidia részvényei, miután belső vizsgálat indult a vezérigazgató kínai kémnővel folytatott viszonya miatt",
+        "link": "https://telex.hu/gazdasag/2026/11/09/nvidia-eses-jensen-huang-vizsgalat-kinai-kemno-botrany"
       }
     ],
     "published_at": 1794206640,
     "title_hu": "Vezetőváltásról is találgatnak az Nvidia kémbotránya miatt",
     "lead_hu": "Az Nvidia független vizsgálata mellett a vezérigazgató, Jensen Huang jövőjéről is eltérően vélekednek a piaci szakértők: egyesek szerint veszélybe kerülhet a pozíciója, mások nem számítanak leváltására. A befektetők számára a november 17-re várt gyorsjelentés lehet a következő fontos próbatétel.",
     "content_hu": "• **A kínai hírszerzés célja is felmerült** A 24.hu által ismertetett New York Times-beszámoló szerint a kínai Állambiztonsági Minisztérium információszerzésre, illetve arra bízhatta Alice Huangot, hogy próbálja befolyásolni az Nvidiát a legfejlettebb chipek Kínába juttatása érdekében. A lap szerint a nő az MI-chipipar más vezetőivel, köztük a Gigabyte vezetőivel is kapcsolatban állt.\n\n• **Megoszlanak a vélemények Huang jövőjéről** Gary Black befektető szerint a vezérigazgató megkérdőjelezhető ítélőképessége akár a leváltásához is vezethet, és a Portfolio szerint nincs egyértelmű utódja a cégen belül. Más elemzők, köztük Chris Weston, nem számítanak vezetőváltásra; szerintük az ügy hosszú távú piaci hatása főként attól függ, bizonyítást nyer-e a kémkedés gyanúja.\n\n• **A november 17-i gyorsjelentésre figyelhetnek a befektetők** Elemzők szerint az Nvidia következő gyorsjelentése fontos próba lehet a befektetői bizalom szempontjából. Egy elhúzódó vizsgálat vagy a szállítások késése a Portfolio által idézett szakértők szerint a szélesebb félvezetőipart és a beszállítókat is érintheti.",
-    "importance_score": 85.0
+    "importance_score": 95.0
   },
   {
     "group_id": "group_f664c8e122",
@@ -223,7 +228,7 @@
     "category": "Politika",
     "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/992803dd-51df-4179-82ef-5a4b4f225fe9.jpg",
     "is_synthesized": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "HVG - Itthon",
@@ -244,13 +249,18 @@
         "source": "Vadhajtások",
         "title": "Elmaradt a Nemzetbiztonsági Bizottság ülése",
         "link": "https://www.vadhajtasok.hu/2026/11/09/elmaradt-a-nemzetbiztonsagi-bizottsag-ulese"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Ügynökakták: elmaradt a nemzetbiztonsági bizottsági ülés – de kiderült, mi volt a hiba pontos oka, ami 164 embernek okozott súlyos pillanatokat",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/ugynokaktak-koruli-botrany-magyar-peter-napirend-elott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1794208650,
     "title_hu": "Tiszás bojkott miatt kudarcba fulladt a nemzetbiztonsági bizottság ülése, mégis folytatódott",
     "lead_hu": "Rendkívüli és rövid ülést tartott az Országgyűlés nemzetbiztonsági bizottsága az ügynökakták fiaskója miatt. Az ÁBTL főigazgatója és az adatvédelmi hatóság elnöke elment, a tiszás képviselők viszont b...",
     "content_hu": "Rendkívüli és rövid ülést tartott az Országgyűlés nemzetbiztonsági bizottsága az ügynökakták fiaskója miatt. Az ÁBTL főigazgatója és az adatvédelmi hatóság elnöke elment, a tiszás képviselők viszont bojkottálták az ülést, amely végül kötetlen beszélgetéssé alakult át.",
-    "importance_score": 60.0
+    "importance_score": 70.0
   },
   {
     "group_id": "group_2940801305",
@@ -1936,7 +1946,7 @@
     "title_hu": "M0-ás üldözés: centiken múlt a frontális ütközés, az elkövető azt mondja, megijedt a lövésektől",
     "lead_hu": "A rendőrök egy forgalommal szemben menekülő sofőrt próbáltak megállítani szerda éjjel az M0-áson, több autós is életveszélybe került. The post M0-ás üldözés: centiken múlt a frontális ütközés, az elkö…",
     "content_hu": "A rendőrök egy forgalommal szemben menekülő sofőrt próbáltak megállítani szerda éjjel az M0-áson, több autós is életveszélybe került. The post M0-ás üldözés: centiken múlt a frontális ütközés, az elkövető azt mondja, megijedt a lövésektől first appeared on 24.hu.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_3bc78d567c",
@@ -2040,6 +2050,30 @@
     "title_hu": "Norris nyerte az esős Brazil Nagydíjat, Verstappen a 21. helyről lett második",
     "lead_hu": "Lando Norris győzött a São Pauló-i Nagydíjon, amelynek hajráját az eső és a gumistratégia tette izgalmassá. Max Verstappen a mezőny végéről rajtolva a második helyre kapaszkodott fel, Isack Hadjar pedig harmadikként ért célba.",
     "content_hu": "• **Norris győzelme** A McLaren brit pilótája nyerte a futamot, ezzel idei harmadik és pályafutása 14. Forma–1-es győzelmét szerezte meg.\n\n• **Verstappen felzárkózása** A 21. rajtkockából induló holland 19 helyet javítva második lett.\n\n• **Dobogósok** Isack Hadjar a harmadik helyen zárt.\n\n• **Esős hajrá** A verseny utolsó szakaszában felerősödött az eső, ezért a mezőny átmeneti esőgumikra váltott.",
+    "importance_score": 20.0
+  },
+  {
+    "group_id": "group_7187896edd",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/be4f8540-6462-43b2-8904-387400662745.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Világ",
+        "title": "Trump bedurvult: egy ketrecharcost akar rászabadítani a fehér házi tudósítókra",
+        "link": "https://hvg.hu/vilag/20261108_donald-trump-feher-haz-szovivo-dana-white-mma-ketrecharc"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Trump csak poénkodott, amikor bedobta, hogy a ketrecharcos cég vezetőjét kéri fel a Fehér Ház szóvivőjének",
+        "link": "https://telex.hu/kulfold/2026/11/09/donald-trump-feher-hazi-szovivo-dana-white-ufc-ketreharc-csak-vicc"
+      }
+    ],
+    "published_at": 1794161888,
+    "title_hu": "Trump bedurvult: egy ketrecharcost akar rászabadítani a fehér házi tudósítókra",
+    "lead_hu": "Az amerikai elnök az MMA globális szervezetének elnökét kérte fel a Fehér Ház szóvivői posztjára. Dana White már úton is van Washingtonba.",
+    "content_hu": "Az amerikai elnök az MMA globális szervezetének elnökét kérte fel a Fehér Ház szóvivői posztjára. Dana White már úton is van Washingtonba.",
     "importance_score": 20.0
   },
   {
@@ -2223,6 +2257,44 @@
     "lead_hu": "Az amerikai külügyminisztérium akár 20 millió dollárt fizethet azoknak, akik megbízható információkat adnak Irán nukleáris programjáról, annak létesítményeiről vagy résztvevőiről. Az informátoroknak szükség esetén az áttelepülésben is segítséget nyújthatnak, miközben a nemzetközi ellenőröknek nincs teljes rálátásuk az iráni nukleáris készletekre és centrifugákra.",
     "content_hu": "• **Akár 20 millió dolláros jutalom** – Az amerikai külügyminisztérium Rewards for Justice programja megbízható információkat vár az iráni atomprogramról, a nukleáris létesítményekről, berendezésekről és az abban részt vevő személyekről. Az informátorok áttelepítését is felajánlhatják.\n\n• **Hiányos ellenőrzési rálátás** – A Nemzetközi Atomenergia-ügynökség nem rendelkezik teljes körű információkkal az iráni centrifugákról és készletekről. Teherán továbbra is azt állítja, hogy atomprogramja békés célokat szolgál.\n\n• **Feszültség és közvetítési kísérletek** – A jutalom bejelentése olyan időszakban érkezett, amikor az Egyesült Államok és Irán között továbbra is feszült a helyzet, a közvetítők pedig a konfliktus rendezésén dolgoznak.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_ed0d70031f",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/kuvtQBfykSu-2374QVTINtZy97Nw3xh3j_J6R6OrjpI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E2MWExYzBiYTA2NzQ1ZmRhN2IzNGIyMjQ5OGJiNTM5.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Belebukhat a kémbotrányba a világ egyik leghatalmasabb techvezére – kínai kém lehetett a szeretője, ez az egész szektort megrázhatja",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/nvidia-jensen-huang-megaspeed-international-hirszerzes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794213588,
+    "title_hu": "Belebukhat a kémbotrányba a világ egyik leghatalmasabb techvezére – kínai kém lehetett a szeretője, ez az egész szektort megrázhatja",
+    "lead_hu": "Az Nvidia már a kémügy kirobbanása előtt is jelentős veszteségeket szenvedett el a tőzsdén, a novemberi gyorsjelentés előtt megszellőztetett kémügy pedig újabb okot adhat a befektetőknek az Nvidia rés...",
+    "content_hu": "Az Nvidia már a kémügy kirobbanása előtt is jelentős veszteségeket szenvedett el a tőzsdén, a novemberi gyorsjelentés előtt megszellőztetett kémügy pedig újabb okot adhat a befektetőknek az Nvidia részvényeinek eladására.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_8b89cf527c",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Szalay-Bobrovniczky Kristóf is a célkeresztben: indul a nyomozás a Honvédelmi Minisztérium milliárdos ügyei miatt",
+        "link": "https://www.atv.hu/belfold/20261109/honvedelmi-nyomozas-milliardok/"
+      }
+    ],
+    "published_at": 1794213540,
+    "title_hu": "Szalay-Bobrovniczky Kristóf is a célkeresztben: indul a nyomozás a Honvédelmi Minisztérium milliárdos ügyei miatt",
+    "lead_hu": "Három ügyben is nyomoz a Fővárosi Nyomozóügyészség az előző Honvédelmi Minisztérium (HM) korábbi vezetésének beszerzései miatt. Mindhárom esetben hűtlen kezelés gyanúja merült fel, a minisztérium még ...",
+    "content_hu": "Három ügyben is nyomoz a Fővárosi Nyomozóügyészség az előző Honvédelmi Minisztérium (HM) korábbi vezetésének beszerzései miatt. Mindhárom esetben hűtlen kezelés gyanúja merült fel, a minisztérium még szeptemberben tett feljelentést.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_1849a21b98",
@@ -5680,25 +5752,6 @@
     "title_hu": "Ezek a magyar srácok olyat tettek 30 évvel ezelőtt, amire egy komplett műfaj felfigyelt",
     "lead_hu": "A Sear Bliss bemutatkozó albuma meglepően nagy sikert aratott.",
     "content_hu": "A Sear Bliss bemutatkozó albuma meglepően nagy sikert aratott.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_7187896edd",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/be4f8540-6462-43b2-8904-387400662745.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Trump bedurvult: egy ketrecharcost akar rászabadítani a fehér házi tudósítókra",
-        "link": "https://hvg.hu/vilag/20261108_donald-trump-feher-haz-szovivo-dana-white-mma-ketrecharc"
-      }
-    ],
-    "published_at": 1794161888,
-    "title_hu": "Trump bedurvult: egy ketrecharcost akar rászabadítani a fehér házi tudósítókra",
-    "lead_hu": "Az amerikai elnök az MMA globális szervezetének elnökét kérte fel a Fehér Ház szóvivői posztjára. Dana White már úton is van Washingtonba.",
-    "content_hu": "Az amerikai elnök az MMA globális szervezetének elnökét kérte fel a Fehér Ház szóvivői posztjára. Dana White már úton is van Washingtonba.",
     "importance_score": 0.0
   },
   {
@@ -9670,25 +9723,6 @@
     "title_hu": "Rekorddrága GTA 6, megúszós költségvetés, Trump elszabadul - Gazdasági bejárat",
     "lead_hu": "A HVG gazdasági hírösszefoglaló podcastjának vendége az e-heti adásban Nagy Imre közgazdász, krízismenedzser, aki Pitner Gábor műsorvezetővel beszélget például arról, hogy az egész EU-ban miért nálunk…",
     "content_hu": "A HVG gazdasági hírösszefoglaló podcastjának vendége az e-heti adásban Nagy Imre közgazdász, krízismenedzser, aki Pitner Gábor műsorvezetővel beszélget például arról, hogy az egész EU-ban miért nálunk a legdrágább a GTA, és kik a 2027-es költségetés nyertesei és vesztesei. De az is kiderül, hogy Donald Trump amerikai elnök félidős választásokon elszenvedett történelmi veresége milyen gazdasági következményeket hordozhat magában.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_2a983f188e",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Izraeli katonák öltek meg egy terroristát, egy másikat őrizetbe vettek Ciszjordániában",
-        "link": "https://www.atv.hu/kulfold/20261108/izrael-terrorista-katona/"
-      }
-    ],
-    "published_at": 1794127140,
-    "title_hu": "Izraeli katonák öltek meg egy terroristát, egy másikat őrizetbe vettek Ciszjordániában",
-    "lead_hu": "Egy terroristát megöltek, egy másikat pedig őrizetbe vettek az izraeli hadsereg katonái egy éjszakai művelet során a ciszjordániai Kalkíliában – közölte vasárnap az Izraeli Védelmi Erők (IDF).",
-    "content_hu": "Egy terroristát megöltek, egy másikat pedig őrizetbe vettek az izraeli hadsereg katonái egy éjszakai művelet során a ciszjordániai Kalkíliában – közölte vasárnap az Izraeli Védelmi Erők (IDF).",
     "importance_score": 0.0
   },
   {
