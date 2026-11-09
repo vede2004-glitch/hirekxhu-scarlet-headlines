@@ -1174,37 +1174,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_ead1d7f1dc",
-    "fingerprint": "c9c70ba3c8657e13d443b39a977327d6",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261109/1794229153-temp-d500bb40jeih8jncafc_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Két részre szakad a Revolut – Kiderült, mi vár a magyar számlatulajdonosokra",
-        "link": "https://www.portfolio.hu/befektetes/20261109/ket-reszre-szakad-a-revolut-kiderult-mi-var-a-magyar-szamlatulajdonosokra-875194"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Nagy fordulat a Revolutnál: fontos akadály gördült el az átalakítás elől, egy kedvezménynek is búcsút inthetnek a magyarok",
-        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/revolut-atalakitas-engedely-ekb-valtozas-dott-kivonul?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Két európai ágra szakad a Revolut",
-        "link": "https://telex.hu/gazdasag/2026/11/09/revolut-ketteszakad-bank-litvan-francia"
-      }
-    ],
-    "published_at": 1794238163,
-    "title_hu": "Két európai központtal működik tovább a Revolut",
-    "lead_hu": "A Revolut európai működését két banki központ köré szervezi át: a litván egység a közép- és kelet-európai, a francia pedig a nyugat-európai piacra összpontosít. Az Európai Központi Bank október 22-én hagyta jóvá az átalakítást, amely december 2. és 6. között indul. A magyar ügyfelek számlái továbbra is a litván banknál maradnak.",
-    "content_hu": "• **Két európai központ** A litván Revolut Bank UAB a közép- és kelet-európai ügyfeleket szolgálja ki, míg a francia Revolut Bank S.A. a nyugat-európai piacra összpontosít.\n\n• **EKB-jóváhagyás** Az Európai Központi Bank október 22-én hagyta jóvá a határokon átnyúló átalakítást; a döntés november 6-án jelent meg a litván jegybank adatbázisában.\n\n• **Francia ügyfelek átvezetése** Az átszervezés december 2. és 6. között indul. Elsőként mintegy hétmillió francia ügyfél számlája, valamint a litván bank eszközeinek és kötelezettségeinek egy része kerül át a francia leányvállalathoz.\n\n• **További piacok** A tervek szerint később német, ír, olasz, portugál és spanyol ügyfeleket is a francia egység szolgál ki.\n\n• **A francia központ növekedése** A jelenleg mintegy 55 millió ügyfelet kezelő litván bankból hosszabb távon körülbelül 30 millió felhasználó kerülhet át a francia bankhoz, amely így méretben meg is előzheti a litván egységet.\n\n• **Magyar ügyfelek** A hazai számlatulajdonosok számára nem várható érdemi változás: számláikat továbbra is a litván Revolut Bank UAB vezeti.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_520335dc79",
     "fingerprint": "74c5a0514a01d555c63e96415d1ff7fb",
     "category": "Politika",
@@ -1420,6 +1389,37 @@
     "lead_hu": "A november 4-én nyilvánosságra hozott ügynökakták kezelése miatt Fodor Gábor szerint hibás eljárás és politikai nyomásgyakorlás ingatta meg a kezdeményezés hitelességét. A Magyar Nemzet cikke szerint Fekete-Győr András is elismerte, hogy a Tisza elrontotta az ügyet.",
     "content_hu": "• **Hibás névközlés** Fodor Gábor szerint egyes esetekben összekeveredtek a megfigyeltek és a besúgók nevei, másoknál pedig nem jelezték egyértelműen, ha a beszervezési kísérlet sikertelen volt.\n\n• **Megingott bizalom** Fodor úgy vélte, hogy a kaotikus közzététel és a levéltárra nehezedő politikai nyomás kétségessé tette a listák hitelességét.\n\n• **Fekete-Győr bírálata** A Magyar Nemzet címében azt írta, hogy Fekete-Győr András is elismerte a Tisza hibáját az ügynökakták ügyében; a cikk további része a politikus más kijelentéseivel foglalkozik.",
     "importance_score": 40.0
+  },
+  {
+    "group_id": "group_ead1d7f1dc",
+    "fingerprint": "c9c70ba3c8657e13d443b39a977327d6",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261109/1794229153-temp-d500bb40jeih8jncafc_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Két részre szakad a Revolut – Kiderült, mi vár a magyar számlatulajdonosokra",
+        "link": "https://www.portfolio.hu/befektetes/20261109/ket-reszre-szakad-a-revolut-kiderult-mi-var-a-magyar-szamlatulajdonosokra-875194"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Nagy fordulat a Revolutnál: fontos akadály gördült el az átalakítás elől, egy kedvezménynek is búcsút inthetnek a magyarok",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/revolut-atalakitas-engedely-ekb-valtozas-dott-kivonul?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Két európai ágra szakad a Revolut",
+        "link": "https://telex.hu/gazdasag/2026/11/09/revolut-ketteszakad-bank-litvan-francia"
+      }
+    ],
+    "published_at": 1794238163,
+    "title_hu": "Két európai központtal működik tovább a Revolut",
+    "lead_hu": "A Revolut európai működését két banki központ köré szervezi át: a litván egység a közép- és kelet-európai, a francia pedig a nyugat-európai piacra összpontosít. Az Európai Központi Bank október 22-én hagyta jóvá az átalakítást, amely december 2. és 6. között indul. A magyar ügyfelek számlái továbbra is a litván banknál maradnak.",
+    "content_hu": "• **Két európai központ** A litván Revolut Bank UAB a közép- és kelet-európai ügyfeleket szolgálja ki, míg a francia Revolut Bank S.A. a nyugat-európai piacra összpontosít.\n\n• **EKB-jóváhagyás** Az Európai Központi Bank október 22-én hagyta jóvá a határokon átnyúló átalakítást; a döntés november 6-án jelent meg a litván jegybank adatbázisában.\n\n• **Francia ügyfelek átvezetése** Az átszervezés december 2. és 6. között indul. Elsőként mintegy hétmillió francia ügyfél számlája, valamint a litván bank eszközeinek és kötelezettségeinek egy része kerül át a francia leányvállalathoz.\n\n• **További piacok** A tervek szerint később német, ír, olasz, portugál és spanyol ügyfeleket is a francia egység szolgál ki.\n\n• **A francia központ növekedése** A jelenleg mintegy 55 millió ügyfelet kezelő litván bankból hosszabb távon körülbelül 30 millió felhasználó kerülhet át a francia bankhoz, amely így méretben meg is előzheti a litván egységet.\n\n• **Magyar ügyfelek** A hazai számlatulajdonosok számára nem várható érdemi változás: számláikat továbbra is a litván Revolut Bank UAB vezeti.",
+    "importance_score": 38.0
   },
   {
     "group_id": "group_17c3e6beb2",
@@ -1657,32 +1657,6 @@
     "title_hu": "Eltérően nyilatkoztak az európaiak részvételéről az abu-dzabi béketárgyalásokon",
     "lead_hu": "November 10–11-én amerikai közvetítéssel tárgyal Oroszország és Ukrajna Abu-Dzabiban a háború lezárásáról. Jean-Noël Barrot francia külügyminiszter szerint az európaiak is képviseltetik magukat, a Kreml viszont háromoldalú tárgyalásként beszél a találkozóról, az európaiakkal való külön egyeztetést említve.",
     "content_hu": "• **Európai részvétel:** Jean-Noël Barrot francia külügyminiszter azt mondta, hogy az európaiak, köztük Franciaország képviselője is jelen lesz Abu-Dzabiban.\n\n• **A Kreml álláspontja:** Dmitrij Peszkov szerint a tárgyalás háromoldalú lesz Oroszország, Ukrajna és az Egyesült Államok részvételével. Hozzátette, hogy az amerikaiak és az ukránok külön kommunikációs csatornákon egyeztetnek az európaiakkal, és saját koordinációs mechanizmust alakíthatnak ki.\n\n• **A tárgyalások témái:** A megbeszélések a biztonsági garanciákra, a feszültség csökkentésére, a humanitárius kérdésekre és a béke felé vezető lépésekre összpontosíthatnak.\n\n• **Az orosz küldöttség:** A delegációt Vlagyimir Megyinszkij elnöki tanácsadó vezeti. Tagja lesz többek között Szergej Rjabkov és Mihail Galuzin külügyminiszter-helyettes, valamint Igor Kosztyukov katonai hírszerzési vezető és helyettese, Jurij Zsigarlovszkij.\n\n• **Ukrajna feltételei:** Volodimir Zelenszkij jelezte, hogy Ukrajna kész lépéseket tenni a háború lezárásáért, cserébe azonban megkérdőjelezhetetlen biztonsági garanciákat és erősebb légvédelmet követel.\n\n• **A tárgyalások előzménye:** Az abu-dzabi találkozó a február közepén Genfben tartott, eredménytelen háromoldalú egyeztetések folytatása lesz.",
-    "importance_score": 33.0
-  },
-  {
-    "group_id": "group_f470045a86",
-    "fingerprint": "06324fb5d8508dec2dc160dd50b86d15",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Nekimentek a kormánynak Amszterdamban, százezrek vonultak utcára",
-        "link": "https://index.hu/kulfold/2026/11/09/tuntetes-demonstracio-amszterdam-izrael-palesztina/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Nekimentek a kormánynak Amszterdamban, százezrek vonultak utcára",
-        "link": "https://www.vadhajtasok.hu/2026/11/09/nekimentek-a-kormanynak-amszterdamban-szazezrek-vonultak-utcara"
-      }
-    ],
-    "published_at": 1794227280,
-    "title_hu": "Több mint kétszázezren tüntettek Amszterdamban a holland kormány Izrael-politikája ellen",
-    "lead_hu": "Legalább kétszázezren vettek részt vasárnap Amszterdamban a Vörös Vonal nevű demonstráción. A tüntetők szerint a holland kormány nem lép fel elég határozottan Izraellel szemben, ezért szigorúbb intézkedéseket követeltek.",
-    "content_hu": "• **Több mint kétszázezren vonultak utcára** vasárnap Amszterdamban, hogy bírálják a holland kormány Izraellel kapcsolatos politikáját.\n\n• **A demonstrációt negyedik alkalommal rendezték meg** Vörös Vonal (Red Line) néven; sok résztvevő piros ruhában, palesztinbarát jelszavakat skandálva vonult fel.\n\n• **A tüntetők határozottabb kormányzati fellépést követeltek** Izraellel szemben. A transzparenseken többek között a „Szabad Palesztinát!” és a „Hollandia ne támogassa az apartheidet!” feliratok szerepeltek.\n\n• **Tizenhárom civil szervezet vett részt a szervezésben**, köztük az Oxfam Novib, az Amnesty International és a Save the Children. A korábbi, tavaly októberi felvonuláson mintegy 250 ezren vettek részt.",
     "importance_score": 33.0
   },
   {
@@ -2324,29 +2298,29 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_151fba5d45",
-    "fingerprint": "32658fd9be8a4e2cd2cd46b0dcdb6133",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/7b85d365-f3c3-4dab-bc1b-f34dbd6efc49-e1794223335511-1024x575.jpg",
+    "group_id": "group_f470045a86",
+    "fingerprint": "06324fb5d8508dec2dc160dd50b86d15",
+    "category": "Politika",
+    "image": "",
     "is_synthesized": true,
     "rejected": false,
     "sources_count": 2,
     "sources": [
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "NB II-es csapattól érkezik a Kisvárda új vezetőedzője",
-        "link": "https://24.hu/sport/foci/2026/11/09/nb1-kisvarda-kazincbarcika-kuttor-attila/"
+        "source": "Index - Címlap",
+        "title": "Nekimentek a kormánynak Amszterdamban, százezrek vonultak utcára",
+        "link": "https://index.hu/kulfold/2026/11/09/tuntetes-demonstracio-amszterdam-izrael-palesztina/"
       },
       {
-        "source": "Index - Címlap",
-        "title": "Feljutásért küzdő NB II-es csapattól érkezik a Kisvárda új edzője",
-        "link": "https://index.hu/sport/futball/2026/11/09/kisvarda-kuttor-attila-uj-edzo-nb-i/"
+        "source": "Vadhajtások",
+        "title": "Nekimentek a kormánynak Amszterdamban, százezrek vonultak utcára",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/nekimentek-a-kormanynak-amszterdamban-szazezrek-vonultak-utcara"
       }
     ],
-    "published_at": 1794227040,
-    "title_hu": "Kuttor Attila lett a Kisvárda új vezetőedzője",
-    "lead_hu": "A Kisvárda Kuttor Attilát nevezte ki a csapat új vezetőedzőjének, aki a Kazincbarcikától érkezik. Supka Attilával vasárnap bontott szerződést a klub, amely 13 forduló után az NB I utolsó helyén áll.",
-    "content_hu": "• **Kuttor Attila váltja Supka Attilát** a Kisvárda vezetőedzői posztján; a klub hétfőn jelentette be a kinevezést.\n\n• **A szakember a Kazincbarcikától érkezik**, amelyet 2025 nyara óta irányított. Korábban a Vasasnál és a Mezőkövesdnél is dolgozott.\n\n• **A Kisvárda 12 ponttal sereghajtó** az OTP Bank Ligában 13 forduló után.",
+    "published_at": 1794227280,
+    "title_hu": "Több mint kétszázezren tüntettek Amszterdamban a holland kormány Izrael-politikája ellen",
+    "lead_hu": "Legalább kétszázezren vettek részt vasárnap Amszterdamban a Vörös Vonal nevű demonstráción. A tüntetők szerint a holland kormány nem lép fel elég határozottan Izraellel szemben, ezért szigorúbb intézkedéseket követeltek.",
+    "content_hu": "• **Több mint kétszázezren vonultak utcára** vasárnap Amszterdamban, hogy bírálják a holland kormány Izraellel kapcsolatos politikáját.\n\n• **A demonstrációt negyedik alkalommal rendezték meg** Vörös Vonal (Red Line) néven; sok résztvevő piros ruhában, palesztinbarát jelszavakat skandálva vonult fel.\n\n• **A tüntetők határozottabb kormányzati fellépést követeltek** Izraellel szemben. A transzparenseken többek között a „Szabad Palesztinát!” és a „Hollandia ne támogassa az apartheidet!” feliratok szerepeltek.\n\n• **Tizenhárom civil szervezet vett részt a szervezésben**, köztük az Oxfam Novib, az Amnesty International és a Save the Children. A korábbi, tavaly októberi felvonuláson mintegy 250 ezren vettek részt.",
     "importance_score": 28.0
   },
   {
@@ -2604,6 +2578,32 @@
     "lead_hu": "Azbesztet mutattak ki a Gyömrői Fekete István Általános Iskolához vezető út kőzúzalékában. A területet lezárták és geotextíliával letakarták; a szülők további méréseket, az önkormányzat pedig a szennyezett anyag mielőbbi elszállítását sürgeti.",
     "content_hu": "• **Egy helyszínen találtak azbesztet** Kilenc helyszínről vettek mintát, és a szennyezést az iskola mellett, az odavezető úton mutatták ki. Az érintett út 470 méter hosszú, a parkolóban pedig mintegy 20 négyzetméternyi területen található hasonló mart aszfalt.\n\n• **További vizsgálatokat követelnek a szülők** Petíciót indítottak, hogy kiderüljön, a környező telkek is szennyezettek-e; a kezdeményezést eddig 50 család írta alá.\n\n• **Lezárták és lefedték az érintett területet** Szakértői javaslatra geotextíliát terítettek a szennyezett részre, a porzást pedig locsolással igyekeznek csökkenteni. A belélegezhető azbesztrostok hosszú távon súlyos egészségügyi kockázatot jelenthetnek.\n\n• **Az önkormányzat az anyag elszállítását kéri** A tavalyi útépítésért felelős Magyar Közút vizsgálatot ígért. Ha az azbeszt jelenlétét megerősítik, elszállítják a szennyezett anyagot; megállapodás hiányában az önkormányzat saját költségén intézkedne, majd megpróbálná behajtani a kiadásokat.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_151fba5d45",
+    "fingerprint": "32658fd9be8a4e2cd2cd46b0dcdb6133",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/7b85d365-f3c3-4dab-bc1b-f34dbd6efc49-e1794223335511-1024x575.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "NB II-es csapattól érkezik a Kisvárda új vezetőedzője",
+        "link": "https://24.hu/sport/foci/2026/11/09/nb1-kisvarda-kazincbarcika-kuttor-attila/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Feljutásért küzdő NB II-es csapattól érkezik a Kisvárda új edzője",
+        "link": "https://index.hu/sport/futball/2026/11/09/kisvarda-kuttor-attila-uj-edzo-nb-i/"
+      }
+    ],
+    "published_at": 1794227040,
+    "title_hu": "Kuttor Attila lett a Kisvárda új vezetőedzője",
+    "lead_hu": "A Kisvárda Kuttor Attilát nevezte ki a csapat új vezetőedzőjének, aki a Kazincbarcikától érkezik. Supka Attilával vasárnap bontott szerződést a klub, amely 13 forduló után az NB I utolsó helyén áll.",
+    "content_hu": "• **Kuttor Attila váltja Supka Attilát** a Kisvárda vezetőedzői posztján; a klub hétfőn jelentette be a kinevezést.\n\n• **A szakember a Kazincbarcikától érkezik**, amelyet 2025 nyara óta irányított. Korábban a Vasasnál és a Mezőkövesdnél is dolgozott.\n\n• **A Kisvárda 12 ponttal sereghajtó** az OTP Bank Ligában 13 forduló után.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_00ef9c3f1e",
@@ -3068,6 +3068,25 @@
     "lead_hu": "Lando Norris győzött a São Pauló-i Nagydíjon, amelynek hajráját az eső és a gumistratégia tette izgalmassá. Max Verstappen a mezőny végéről rajtolva a második helyre kapaszkodott fel, Isack Hadjar pedig harmadikként ért célba.",
     "content_hu": "• **Norris győzelme** A McLaren brit pilótája nyerte a futamot, ezzel idei harmadik és pályafutása 14. Forma–1-es győzelmét szerezte meg.\n\n• **Verstappen felzárkózása** A 21. rajtkockából induló holland 19 helyet javítva második lett.\n\n• **Dobogósok** Isack Hadjar a harmadik helyen zárt.\n\n• **Esős hajrá** A verseny utolsó szakaszában felerősödött az eső, ezért a mezőny átmeneti esőgumikra váltott.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_04f03996c0",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/5517/55173/551738/55173871_4077927_1d8928124613b17ec05f7e7b7ad26d00_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Milliós különbségeket találtunk, könnyen lehet, hogy végül az olcsóbb lakás kerül többe",
+        "link": "https://index.hu/gazdasag/2026/11/09/wekerle-plusz-hitel-tamogatott-hitel-uj-lakas-hasznalt-lakas-felujitas-tamogatott-hitel-otthonteremtes-lakhatas/"
+      }
+    ],
+    "published_at": 1794248880,
+    "title_hu": "Milliós különbségeket találtunk, könnyen lehet, hogy végül az olcsóbb lakás kerül többe",
+    "lead_hu": "Számolgattunk a Wekerle Plusz kapcsán, érdekes jelenségre bukkantunk....",
+    "content_hu": "Számolgattunk a Wekerle Plusz kapcsán, érdekes jelenségre bukkantunk.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_293c0e7937",
@@ -12757,44 +12776,6 @@
     "title_hu": "A kemény fagyok után óriási fordulatot vesz az időjárás",
     "lead_hu": "A fagyos éjszakák után tavaszias meleg érkezik a jövő héten. The post A kemény fagyok után óriási fordulatot vesz az időjárás first appeared on nlc.",
     "content_hu": "A fagyos éjszakák után tavaszias meleg érkezik a jövő héten. The post A kemény fagyok után óriási fordulatot vesz az időjárás first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_8193fbfd7f",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7247/72475/724755/72475537_5340705_c62f11f7140662f0cec44ae6f0fc1ef2_wm.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Életveszélyes víz alatti verekedés tört ki a Maldív-szigeteknél",
-        "link": "https://index.hu/kulfold/2026/11/08/buvar-oktato-tamadas-verekedes-viz-alatt-kina-maldiv-szigetek-legzokeszulek/"
-      }
-    ],
-    "published_at": 1794162240,
-    "title_hu": "Életveszélyes víz alatti verekedés tört ki a Maldív-szigeteknél",
-    "lead_hu": "A dulakodás közben az áldozat búvármaszkját és légzőkészülékét is megpróbálták eltávolítani.",
-    "content_hu": "A dulakodás közben az áldozat búvármaszkját és légzőkészülékét is megpróbálták eltávolítani.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_456663a3c9",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "„A házelnök asszony azért meg ne lássa” – parlamenti pronyó, csöcsös miniszterelnöki rihiröhi",
-        "link": "https://444.hu/2026/11/08/a-hazelnok-asszony-azert-meg-ne-lassa-parlamenti-pronyo-csocsos-miniszterelnoki-rihirohi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794162160,
-    "title_hu": "„A házelnök asszony azért meg ne lássa” – parlamenti pronyó, csöcsös miniszterelnöki rihiröhi",
-    "lead_hu": "A kormány és a frakció nemi összetételére tekintve azt lehet hinni, hogy új korszakot élünk, de talán még van mit tenni.",
-    "content_hu": "A kormány és a frakció nemi összetételére tekintve azt lehet hinni, hogy új korszakot élünk, de talán még van mit tenni.",
     "importance_score": 0.0
   },
   {
