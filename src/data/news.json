@@ -705,6 +705,40 @@
     "importance_score": 55.0
   },
   {
+    "group_id": "group_dc4beb4133",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7248/72480/724800/72480083_5341045_5c2f084fff6ef83ca3a6a3ec3faa6e33_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Halálos baleset történt hajnalban egy nyíregyházi benzinkúton, egy 20 éves fiatal vesztette életét",
+        "link": "https://index.hu/belfold/2026/11/09/baleset-halaleset-tragedia-nyiregyhaza/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Halálos baleset történt egy kazincbarcikai gázüzemben",
+        "link": "https://telex.hu/belfold/2026/11/09/halalos-baleset-tortent-kazincbarcikai-gazuzemben"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Meghalt egy dolgozó a kazincbarcikai gázüzemben",
+        "link": "https://24.hu/belfold/2026/11/09/tragedia-baleset-kazincbarcika-gazuzem/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Halálos tragédia történt egy gázüzemben Kazincbarcikán",
+        "link": "https://444.hu/2026/11/09/halalos-tragedia-tortent-egy-gazuzemben-kazincbarcikan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794211020,
+    "title_hu": "Halálos baleset történt hajnalban egy nyíregyházi benzinkúton, egy 20 éves fiatal vesztette életét",
+    "lead_hu": "A balesetet okozó sofőr szintén megsérült.",
+    "content_hu": "A balesetet okozó sofőr szintén megsérült.",
+    "importance_score": 53.0
+  },
+  {
     "group_id": "group_17c3e6beb2",
     "fingerprint": "86844b5f8aee7c065c5aff62cc25469c",
     "category": "Politika",
@@ -1141,35 +1175,6 @@
     "lead_hu": "Jichák Hercog izraeli államfő Gadi Eisenkotot bízta meg a kormányalakítással, miután a parlamenti pártok egyeztetésein 67 képviselő támogatta, szemben Benjamin Netanjahu 46 támogatójával. Az arab pártok külső támogatást ajánlottak neki, ám Eisenkot korábban kizárta a velük közös kormányzást; közben Arije Deri parlamenti mandátum nélkül is megőrizheti befolyását.",
     "content_hu": "• **Az arab pártok külső támogatást ajánlottak** Eisenkotnak, de továbbra sem világos, hogy az általa vezetett tömb elfogadja-e ezt. Eisenkot korábban kizárta, hogy velük közösen alakítson kormányt.\n\n• **A választást október 27-én tartották** – közölte az egyik új forrás a kneszetbe jutott képviselők megválasztásának dátumát.\n\n• **Arije Deri politikai pályáját korrupciós ügyek is beárnyékolták**: 1999-ben vesztegetés, csalás és hivatali visszaélés miatt három év börtönre ítélték, amelyből 22 hónapot letöltött. Egy 2022-es adóügyben vádalku keretében bűnösnek vallotta magát; 2023-ban a legfelsőbb bíróság korábbi büntetőítéletei miatt alkalmatlannak ítélte miniszteri tisztségre.",
     "importance_score": 45.0
-  },
-  {
-    "group_id": "group_dc4beb4133",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7248/72480/724800/72480083_5341045_5c2f084fff6ef83ca3a6a3ec3faa6e33_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Halálos baleset történt hajnalban egy nyíregyházi benzinkúton, egy 20 éves fiatal vesztette életét",
-        "link": "https://index.hu/belfold/2026/11/09/baleset-halaleset-tragedia-nyiregyhaza/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Halálos baleset történt egy kazincbarcikai gázüzemben",
-        "link": "https://telex.hu/belfold/2026/11/09/halalos-baleset-tortent-kazincbarcikai-gazuzemben"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Meghalt egy dolgozó a kazincbarcikai gázüzemben",
-        "link": "https://24.hu/belfold/2026/11/09/tragedia-baleset-kazincbarcika-gazuzem/"
-      }
-    ],
-    "published_at": 1794211020,
-    "title_hu": "Halálos baleset történt hajnalban egy nyíregyházi benzinkúton, egy 20 éves fiatal vesztette életét",
-    "lead_hu": "A balesetet okozó sofőr szintén megsérült.",
-    "content_hu": "A balesetet okozó sofőr szintén megsérült.",
-    "importance_score": 43.0
   },
   {
     "group_id": "group_8b692edfe9",
@@ -1936,32 +1941,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_9802c741ea",
-    "fingerprint": "f71d5c035c0faeeed9afab2f4b6fe5d1",
-    "category": "Általános",
-    "image": "https://assets.telex.hu/images/20261104/1793807320-temp-h1gvf4f07d3a5aibbje_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Térképen a háziorvoshiány: van, ahol 22 éve nincs orvos, kétszázhúsz településtől fél óra az út a sürgősségire",
-        "link": "https://telex.hu/belfold/2026/11/09/praxisterkep-haziorvosok-korzetek-szama-betoltetlen-orvoshiany-adatok"
-      },
-      {
-        "source": "ATV",
-        "title": "Súlyos az orvoshiány: Nógrádban harmadannyi orvos jut a betegekre",
-        "link": "https://www.atv.hu/belfold/20261109/orvos-nograd-budapest-kutatas/"
-      }
-    ],
-    "published_at": 1794206220,
-    "title_hu": "Súlyos orvoshiány sújtja Magyarország több térségét",
-    "lead_hu": "Közel 1,4 millió ember él olyan körzetben, ahol nincs állandó háziorvos, és az orvosellátottságban jelentős területi különbségek vannak. A helyzet Nógrádban különösen kedvezőtlen: százezer lakosra kevesebb mint harmadannyi orvos jut, mint Budapesten.",
-    "content_hu": "• **Háziorvoshiány** Közel 1,4 millió ember lakik olyan körzetben, ahol nincs állandó háziorvos; egyes településeken évtizedek óta betöltetlen a praxis.\n\n• **Területi különbségek** Budapesten több mint háromszor annyi orvos jut százezer lakosra, mint Nógrád vármegyében.\n\n• **Egymást erősítő problémák** A betöltetlen praxisok mellett a szegénység és a lakosság elöregedése is súlyosbítja az alapellátás gondjait.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_18106b300b",
     "fingerprint": "b362bf3a63df09c1d70383d3fa445f0b",
     "category": "Politika",
@@ -2190,6 +2169,32 @@
     "lead_hu": "Magyar Péter miniszterelnök négy évre szóló, 57,8 milliárd forintos zöld stratégiájára Bóka János úgy reagált: szerinte a Tisza terve visszalépés a korábbi programokhoz képest. A Fidesz frakcióvezetője a korábbi kormányzati forrásokat és célkitűzéseket idézte, és kérdésesnek nevezte, hogy az új összeg teljes egészében új forrás-e.",
     "content_hu": "• **57,8 milliárd forintos zöld stratégia** Magyar Péter bejelentése szerint a következő négy évben 18,2 milliárd forint jutna országfásításra, 39,6 milliárd pedig a települések zöldítésére.\n\n• **Bóka szerint a terv visszalépés** A politikus azt állította, hogy a Fidesz–KDNP-kormány 2025–2026-ra 98,2 milliárd forintot irányzott elő erdőtelepítésre, fásításra és kapcsolódó beruházásokra. Arra is emlékeztetett, hogy az Országfásítási Program 2019-es indulása óta közel 200 millió fát ültettek el, és 2030-ra 27 százalékos erdősültséget tűztek ki célul.\n\n• **Kérdéses, mennyi az új forrás** Bóka szerint nem világos, hogy a Tisza által megnevezett 57,8 milliárd forint teljes egészében új pénz-e, vagy korábbi intézkedések finanszírozását is tartalmazza.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_9802c741ea",
+    "fingerprint": "f71d5c035c0faeeed9afab2f4b6fe5d1",
+    "category": "Általános",
+    "image": "https://assets.telex.hu/images/20261104/1793807320-temp-h1gvf4f07d3a5aibbje_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Térképen a háziorvoshiány: van, ahol 22 éve nincs orvos, kétszázhúsz településtől fél óra az út a sürgősségire",
+        "link": "https://telex.hu/belfold/2026/11/09/praxisterkep-haziorvosok-korzetek-szama-betoltetlen-orvoshiany-adatok"
+      },
+      {
+        "source": "ATV",
+        "title": "Súlyos az orvoshiány: Nógrádban harmadannyi orvos jut a betegekre",
+        "link": "https://www.atv.hu/belfold/20261109/orvos-nograd-budapest-kutatas/"
+      }
+    ],
+    "published_at": 1794206220,
+    "title_hu": "Súlyos orvoshiány sújtja Magyarország több térségét",
+    "lead_hu": "Közel 1,4 millió ember él olyan körzetben, ahol nincs állandó háziorvos, és az orvosellátottságban jelentős területi különbségek vannak. A helyzet Nógrádban különösen kedvezőtlen: százezer lakosra kevesebb mint harmadannyi orvos jut, mint Budapesten.",
+    "content_hu": "• **Háziorvoshiány** Közel 1,4 millió ember lakik olyan körzetben, ahol nincs állandó háziorvos; egyes településeken évtizedek óta betöltetlen a praxis.\n\n• **Területi különbségek** Budapesten több mint háromszor annyi orvos jut százezer lakosra, mint Nógrád vármegyében.\n\n• **Egymást erősítő problémák** A betöltetlen praxisok mellett a szegénység és a lakosság elöregedése is súlyosbítja az alapellátás gondjait.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_c94eb12058",
@@ -2444,6 +2449,101 @@
     "lead_hu": "Lando Norris győzött a São Pauló-i Nagydíjon, amelynek hajráját az eső és a gumistratégia tette izgalmassá. Max Verstappen a mezőny végéről rajtolva a második helyre kapaszkodott fel, Isack Hadjar pedig harmadikként ért célba.",
     "content_hu": "• **Norris győzelme** A McLaren brit pilótája nyerte a futamot, ezzel idei harmadik és pályafutása 14. Forma–1-es győzelmét szerezte meg.\n\n• **Verstappen felzárkózása** A 21. rajtkockából induló holland 19 helyet javítva második lett.\n\n• **Dobogósok** Isack Hadjar a harmadik helyen zárt.\n\n• **Esős hajrá** A verseny utolsó szakaszában felerősödött az eső, ezért a mezőny átmeneti esőgumikra váltott.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_21678c0170",
+    "category": "Általános",
+    "image": "https://www.youtube.com/embed/3d-r-EzHnuA",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Brutális vérfürdő Pacsán: drónnal és kutyákkal vadásztak a véres ruhás gyilkosra",
+        "link": "https://www.atv.hu/belfold/20261109/verfurdo-gyilkossag-rendorseg-pacsa/"
+      }
+    ],
+    "published_at": 1794228180,
+    "title_hu": "Brutális vérfürdő Pacsán: drónnal és kutyákkal vadásztak a véres ruhás gyilkosra",
+    "lead_hu": "Befejezték a nyomozást a pacsai házaspár elleni véres támadás ügyében: a német férfi előre kitervelhette a brutális bűntényt....",
+    "content_hu": "Befejezték a nyomozást a pacsai házaspár elleni véres támadás ügyében: a német férfi előre kitervelhette a brutális bűntényt.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a1f9fac71e",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/aEDiR6aNsh6tGjgQO06gIpEziDI-ucOftbZmH-ZSHbI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhmYTQ4NGU3ODE4NDQyN2RhN2ZmMjYwM2Q3ZDAyMmI4.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "A krakkói merénylet tovább mélyítheti a lengyel politikai válságot",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/a-krakkoi-merenylet-tovabb-melyitheti-a-lengyel-politikai-valsagot"
+      }
+    ],
+    "published_at": 1794227952,
+    "title_hu": "A krakkói merénylet tovább mélyítheti a lengyel politikai válságot",
+    "lead_hu": "Kertész Dávid külpolitikai újságíró volt a vendégünk....",
+    "content_hu": "Kertész Dávid külpolitikai újságíró volt a vendégünk.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_e2ffc28c33",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Toroczkai László: Fél év után már tartalmilag is szeretnénk látni az eredményeket",
+        "link": "https://index.hu/belfold/2026/11/09/orszaggyules-parlament-magyar-peter-miniszterelnok-beszed-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/toroczkai-laszlo-fel-ev-utan-mar-tartalmilag-is-szeretnenk-latni-az-eredmenyeket/"
+      }
+    ],
+    "published_at": 1794227890,
+    "title_hu": "Toroczkai László: Fél év után már tartalmilag is szeretnénk látni az eredményeket",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_81a29717f6",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/QiFGKgUztazHIsqr-JipdEE7J_R2XBU0D-3BiZEr1Xs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhkZTcyOGYyZDQ1YjRlZjg5YWU4ODhlOTdmMTE3ZTVm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Magyar Péter fél év kormányzás után mérleget vont: százezreket érintő béremelésekről beszélt",
+        "link": "https://www.vg.hu/kozelet/2026/11/magyar-peter-parlament-orszaggyules-tisza?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794227764,
+    "title_hu": "Magyar Péter fél év kormányzás után mérleget vont: százezreket érintő béremelésekről beszélt",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2fe2e771a6",
+    "category": "Bulvár",
+    "image": "https://kep.index.hu/1/0/7248/72480/724808/72480805_dcc60f316af5985a84bca0c230e13ed5_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Gundel Takács Gábor elmondta, miért mondott igent az RTL vadonatúj realityjére",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/09/gundel-takacs-gabor-ezert-vallalta-a-hotel-bloff-musort/"
+      }
+    ],
+    "published_at": 1794227646,
+    "title_hu": "Gundel Takács Gábor elmondta, miért mondott igent az RTL vadonatúj realityjére",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_482291aa6d",
@@ -11031,44 +11131,6 @@
     "title_hu": "A húszik szerint legalább 33 ember meghalt egy szaúdi légitámadásban",
     "lead_hu": "Állításuk szerint nők és gyerekek is vannak az áldozatok között.",
     "content_hu": "Állításuk szerint nők és gyerekek is vannak az áldozatok között.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_9a7dd7a1c1",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7247/72474/724749/72474953_5340663_fc9f2ad7ed14d59696f0d96611116bcd_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Major Veronika már három éremnél tart a sportlövő-világbajnokságon",
-        "link": "https://index.hu/sport/2026/11/08/major-veronika-ezusterem-sportlovo-vilagbajnoksag-doha/"
-      }
-    ],
-    "published_at": 1794141660,
-    "title_hu": "Major Veronika már három éremnél tart a sportlövő-világbajnokságon",
-    "lead_hu": "Jól szerepelnek a magyarok Dohában.",
-    "content_hu": "Jól szerepelnek a magyarok Dohában.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_46148c3eb2",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/GEvelin.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Gáspár Evelint és testvérét nem engedték be a szórakozóhelyre: felháborodott posztban reagált",
-        "link": "https://femina.hu/hazai_sztar/gaspar-evelin-testvere-szorakozohely-felhaborodas/"
-      }
-    ],
-    "published_at": 1794141600,
-    "title_hu": "Gáspár Evelint és testvérét nem engedték be a szórakozóhelyre: felháborodott posztban reagált",
-    "lead_hu": "A testvéreket származásuk miatt nem engedték bulizni.",
-    "content_hu": "A testvéreket származásuk miatt nem engedték bulizni.",
     "importance_score": 0.0
   },
   {
