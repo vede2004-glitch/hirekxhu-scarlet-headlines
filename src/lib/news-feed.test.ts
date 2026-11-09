@@ -9,24 +9,28 @@ const items = normalizeNewsList(Array.from({ length: 12 }, (_, i) => ({
 })));
 
 describe("news feed views", () => {
-  it("keeps the first eight stories in their exact original order", () => {
+  it("keeps every AI story in original order in Top, without an eight-story limit", () => {
     expect(splitNewsFeed(items).top.map(n => n.group_id)).toEqual([
-      "story-0", "story-1", "story-2", "story-3", "story-4", "story-5", "story-6", "story-7",
+      "story-0", "story-2", "story-4", "story-6", "story-8", "story-10",
     ]);
+    const many = Array.from({ length: 12 }, (_, i) => ({ ...items[0], group_id: `ai-${i}`, is_synthesized: true }));
+    expect(splitNewsFeed(many).top).toHaveLength(12);
   });
-  it("sorts all remaining stories newest first, including synthesized stories", () => {
-    expect(splitNewsFeed(items).latest.map(n => n.group_id)).toEqual(["story-9", "story-10", "story-8", "story-11"]);
+  it("shows every AI story in Latest, strictly newest first", () => {
+    expect(splitNewsFeed(items).latest.map(n => n.group_id)).toEqual(["story-10", "story-8", "story-6", "story-4", "story-2", "story-0"]);
   });
-  it("excludes every featured story from the chronological list", () => {
+  it("includes the same complete AI set on both pages", () => {
     const { top, latest } = splitNewsFeed(items);
-    expect(latest.filter(n => top.some(t => t.group_id === n.group_id)) ).toEqual([]);
-    expect(latest).toHaveLength(4);
+    expect(latest.map(n => n.group_id).sort()).toEqual(top.map(n => n.group_id).sort());
+  });
+  it("puts only non-AI stories in the separate chronological stream", () => {
+    expect(splitNewsFeed(items).singles.map(n => n.group_id)).toEqual(["story-9", "story-1", "story-3", "story-5", "story-7", "story-11"]);
   });
   it("does not mutate the input and handles short or empty feeds", () => {
     const before = items.map(n => n.group_id);
     splitNewsFeed(items);
     expect(items.map(n => n.group_id)).toEqual(before);
-    expect(splitNewsFeed(items.slice(0, 3))).toEqual({ top: items.slice(0, 3), latest: [] });
-    expect(splitNewsFeed([])).toEqual({ top: [], latest: [] });
+    expect(splitNewsFeed(items.slice(0, 3))).toEqual({ top: [items[0], items[2]], latest: [items[2], items[0]], singles: [items[1]] });
+    expect(splitNewsFeed([])).toEqual({ top: [], latest: [], singles: [] });
   });
 });
