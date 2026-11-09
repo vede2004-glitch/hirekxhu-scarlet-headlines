@@ -1,3 +1,5 @@
 # Tasks
-- [x] Separate Top and Latest news with shared navigation and gallery covers.
-- [x] Test ordering, exclusion, and desktop/mobile navigation.
+- [x] Restore the header search and category-bar archive link; verify desktop and mobile.
+- [x] Show every AI story in both Top and Latest, with singles in Hírfolyam.
+- [x] Restore the earlier featured layout and sidebar, align search with categories, and reduce view labels.
+- [x] Verify classification, ordering, search, and desktop/mobile navigation.
