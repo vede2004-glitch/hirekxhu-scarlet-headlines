@@ -891,37 +891,6 @@
     "importance_score": 50.0
   },
   {
-    "group_id": "group_9ea323d001",
-    "fingerprint": "fceadd90ac007581b504449715f282d3",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/horvat-buszbaleset-e1794147634317-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Súlyos baleset a horvát autópályán: áttörte a szalagkorlátot, majd felborult egy busz",
-        "link": "https://24.hu/kulfold/2026/11/08/autobusz-baleset-horvatorszag/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Őrizetbe vették a Horvátországban felborult szerb busz sofőrjét",
-        "link": "https://index.hu/kulfold/2026/11/09/buszbaleset-horvatorszag-orizetbe-vetel-sofor/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Áttörte az autópálya korlátját és felborult egy szerb busz Horvátországban, ketten meghaltak",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/attorte-az-autopalya-korlatjat-es-felborult-egy-szerb-busz-horvatorszagban-ketten-meghaltak"
-      }
-    ],
-    "published_at": 1794223080,
-    "title_hu": "Két halálos áldozata és 33 sérültje van a horvátországi buszbalesetnek",
-    "lead_hu": "Vasárnap reggel 7 óra 25 perc körül felborult egy szerb menetrend szerinti busz a Zágrábtól mintegy 40 kilométerre keletre fekvő A3-as autópályán. A mentéshez helikoptert is riasztottak; a sofőr ellen halálos közúti baleset okozásának gyanúja miatt indul eljárás.",
-    "content_hu": "• **A mentés részletei** A helyszínre nagy erőkkel vonultak ki a mentők és a tűzoltók, a sérültek ellátásához helikoptert is riasztottak.\n\n• **A rendőrség megállapításai** A horvát rendőrség szerint a busz vezetője nem tartotta a járművet a forgalmi sávban, jobbra letért az útról, és nekiütközött a fém szalagkorlátnak. A busz ezután az út menti füves területre sodródott és felborult.\n\n• **A sofőr elleni eljárás** A rendőrség büntetőfeljelentést tesz az 55 éves szerb sofőr ellen, majd átadja őt az őrizetesek elhelyezéséért felelős hatóságnak.",
-    "importance_score": 50.0
-  },
-  {
     "group_id": "group_6c353f4da7",
     "fingerprint": "be4aceed2aa470bd708df64d63774eef",
     "category": "Politika",
@@ -992,6 +961,37 @@
     "lead_hu": "A Sátoraljaújhelyi Járási Ügyészség minősített szexuális erőszak és más bűncselekmények miatt emelt vádat egy borsodi férfi ellen. A vádirat szerint a 2025 januárjában történt támadás után a férfi láncfűrésszel fenyegetőzött; az ügyészség fegyházbüntetést és közügyektől eltiltást indítványozott, feltételes szabadságra bocsátás nélkül.",
     "content_hu": "• **A vádirat szerint** a férfi 2025 januárjában vendégeket hívott borsodi családi házába, ahol alkoholt fogyasztottak. A 15 éves lányt a zárt verandára hívta, szexuális ajánlatot tett neki, majd tiltakozása ellenére lefogta és szexuális erőszakot követett el rajta.\n\n• **A lány kiszabadult** azzal, hogy beleharapott a férfi karjába, majd barátjával együtt megpróbálta elhagyni a házat. A vádlott a lány barátját egyszer megütötte.\n\n• **Egy újabb vendég érkezése teremtett alkalmat a menekülésre:** a lány és a barátja ekkor tudott kifutni a házból. A férfi utánuk ment, beindított egy láncfűrészt, és azzal hadonászva fenyegetőzött az utcán.\n\n• **A lány rendőri segítséget kért** egy utcai telefonfülkéből, majd egy közeli házba menekült.\n\n• **Fegyházbüntetést indítványozott az ügyészség** a büntetett előéletű, többszörös visszaeső férfival szemben, és azt kérte, hogy ne bocsáthassák feltételes szabadságra.",
     "importance_score": 48.0
+  },
+  {
+    "group_id": "group_9ea323d001",
+    "fingerprint": "fceadd90ac007581b504449715f282d3",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/horvat-buszbaleset-e1794147634317-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Súlyos baleset a horvát autópályán: áttörte a szalagkorlátot, majd felborult egy busz",
+        "link": "https://24.hu/kulfold/2026/11/08/autobusz-baleset-horvatorszag/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Őrizetbe vették a Horvátországban felborult szerb busz sofőrjét",
+        "link": "https://index.hu/kulfold/2026/11/09/buszbaleset-horvatorszag-orizetbe-vetel-sofor/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Áttörte az autópálya korlátját és felborult egy szerb busz Horvátországban, ketten meghaltak",
+        "link": "https://www.vadhajtasok.hu/2026/11/08/attorte-az-autopalya-korlatjat-es-felborult-egy-szerb-busz-horvatorszagban-ketten-meghaltak"
+      }
+    ],
+    "published_at": 1794223080,
+    "title_hu": "Két halálos áldozata és 33 sérültje van a horvátországi buszbalesetnek",
+    "lead_hu": "Vasárnap reggel 7 óra 25 perc körül felborult egy szerb menetrend szerinti busz a Zágrábtól mintegy 40 kilométerre keletre fekvő A3-as autópályán. A mentéshez helikoptert is riasztottak; a sofőr ellen halálos közúti baleset okozásának gyanúja miatt indul eljárás.",
+    "content_hu": "• **A mentés részletei** A helyszínre nagy erőkkel vonultak ki a mentők és a tűzoltók, a sérültek ellátásához helikoptert is riasztottak.\n\n• **A rendőrség megállapításai** A horvát rendőrség szerint a busz vezetője nem tartotta a járművet a forgalmi sávban, jobbra letért az útról, és nekiütközött a fém szalagkorlátnak. A busz ezután az út menti füves területre sodródott és felborult.\n\n• **A sofőr elleni eljárás** A rendőrség büntetőfeljelentést tesz az 55 éves szerb sofőr ellen, majd átadja őt az őrizetesek elhelyezéséért felelős hatóságnak.",
+    "importance_score": 43.0
   },
   {
     "group_id": "group_37e2ad9592",
@@ -1625,56 +1625,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_974d836d9b",
-    "fingerprint": "486968a638a86cea6bf962a53bc78940",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7247/72478/724782/72478223_5340909_7c12624eb44b6dfde543afcd7b90fdf0_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Súlyos orosz csapások Ukrajnában, elment az áram a zaporizzsjai atomerőműnél",
-        "link": "https://index.hu/kulfold/2026/11/09/orosz-ukran-konfliktus-tamadasok-diplomacia-franciaorszag-abu-dzabi/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Folytatódnak az orosz rakétacsapások, egyre durvul az áram-, a víz- és a fűtésdráma Ukrajnában",
-        "link": "https://444.hu/2026/11/09/folytatodnak-az-orosz-raketacsapasok-egyre-durvul-az-aram-a-viz-es-a-futesdrama-ukrajnaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794223279,
-    "title_hu": "Orosz csapások súlyosbítják az ukrajnai közműválságot",
-    "lead_hu": "Az orosz támadások nyomán Ukrajna több térségében akadozik az áram-, víz- és fűtésellátás. A legsúlyosabb helyzet Dnyipropetrovszk és Kijev megyében alakult ki, miközben a zaporizzsjai atomerőmű külső áramellátása is megszakadt.",
-    "content_hu": "• **Kiterjedt áramszünetek** Az energetikai infrastruktúrát ért csapások miatt több megyében maradtak fogyasztók áram nélkül; Dnyipropetrovszk megyében több mint 600 ezren érintettek.\n\n• **Akadozó közműellátás** Zelenszkij szerint számos városban az áram-, a víz- és a fűtésellátás is súlyos nehézségekkel küzd. A legrosszabb állapotokról Kijev, valamint Dnyipropetrovszk, Doneck, Herszon és Szumi megyéből számoltak be.\n\n• **Atomerőmű tartalék generátorokon** Megszűnt a zaporizzsjai atomerőmű külső áramellátása, ezért a reaktorok hűtéséhez dízelgenerátorokat használnak. A NAÜ közlése szerint a rendelkezésre álló üzemanyag körülbelül két hétre elegendő.\n\n• **Vészhelyzeti segítség** Az ukrán elnök közölte, hogy az Európai Unió különleges segélymechanizmust vezet be, hogy gyorsan forrásokat biztosíthasson a legsürgetőbb szükségletekre.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_90eba62cdc",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/Ov1IBr0fFjkg8gQr85olXk-MHFm1DdwCLN2WknVflP8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY0ZDU4NzE3NDAxMTQ4MTliMjAzMzgzYzI3Njc2M2I5.webp",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nem-jelent-meg-a-tisza-frakcio-az-allambiztonsagi-iratokrol-szolo-meghallgatason"
-      },
-      {
-        "source": "Hír TV",
-        "title": "Nem ment el a Tisza a nemzetbiztonsági bizottság ülésére",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nemzetbiztonsagi-bizottsag-tisza-ugynokbotrany"
-      }
-    ],
-    "published_at": 1794223119,
-    "title_hu": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
-    "lead_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
-    "content_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_9b593d7645",
     "category": "Politika",
     "image": "",
@@ -1873,6 +1823,56 @@
     "lead_hu": "Franciaország és más európai országok képviselői is bekapcsolódnak az Oroszország és Ukrajna közötti, november 10–11-re tervezett abu-dzabi tárgyalásokba – erősítette meg Jean-Noël Barrot francia külügyminiszter. A Kreml korábban ellenezte Európa meghívását, és azt mondja, a kontinens képviselőivel elsősorban a jövőbeli biztonsági berendezkedésről kell majd egyeztetni.",
     "content_hu": "• **Európa is képviselteti magát** az Abu-Dzabiban tartandó tárgyalásokon; Barrot szerint Franciaország biztosan küld képviselőt, de annak személye egyelőre nem ismert.\n\n• **A találkozót november 10–11-én tartják** amerikai közvetítéssel, orosz és ukrán delegáció részvételével. Az orosz küldöttséget Vlagyimir Putyin tanácsadója vezeti.\n\n• **A megbeszélések tervezett témái** a háború utáni biztonsági intézkedések, a feszültség csökkentése, a humanitárius segítségnyújtás és a békefolyamat következő lépései.\n\n• **A korábbi genfi egyeztetés nem hozott áttörést**: az orosz, ukrán és amerikai delegációk február közepi találkozóján nem született eredmény.\n\n• **Zelenszkij egyeztetett az amerikai előkészítőkkel**: az ukrán elnök telefonon beszélt Steve Witkoff-fal és Jared Kushnerrel az abu-dzabi tárgyalások előkészítéséről. Ukrajna közölte, hogy kész megtenni a háború lezárásához szükséges lépéseket, és már átadta javaslatait az amerikai félnek.\n\n• **A Kreml a biztonsági kérdések tárgyalásakor tartaná szükségesnek Európa bevonását**: Dmitrij Peszkov szerint az ukrán és orosz biztonsági garanciákról, valamint a kontinens jövőbeli biztonsági rendszeréről egy ponton már nem lehet Európa nélkül dönteni.\n\n• **Moszkva bírálja az európai országokat**: Peszkov szerint Oroszország nem kapott tőlük javaslatot az érintettek biztonsági garanciáira, és az európaiak abban sem tudtak megegyezni, ki képviselje őket.\n\n• **Korábban Usakov kizárta az európaiak meghívását**: Putyin külpolitikai tanácsadója azt mondta, az amerikai féllel az orosz–ukrán–amerikai háromoldalú formátumban állapodtak meg, az európaiak pedig legfeljebb jegyet vehetnek, de nem ülhetnek tárgyalóasztalhoz.\n\n• **Trump egy szélesebb megállapodás lehetőségéről beszélt**, amely szerinte az egész Európára kiterjedhet; a Kreml szerint azonban egyelőre nem ismertek ennek részletei.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_974d836d9b",
+    "fingerprint": "486968a638a86cea6bf962a53bc78940",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7247/72478/724782/72478223_5340909_7c12624eb44b6dfde543afcd7b90fdf0_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Súlyos orosz csapások Ukrajnában, elment az áram a zaporizzsjai atomerőműnél",
+        "link": "https://index.hu/kulfold/2026/11/09/orosz-ukran-konfliktus-tamadasok-diplomacia-franciaorszag-abu-dzabi/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Folytatódnak az orosz rakétacsapások, egyre durvul az áram-, a víz- és a fűtésdráma Ukrajnában",
+        "link": "https://444.hu/2026/11/09/folytatodnak-az-orosz-raketacsapasok-egyre-durvul-az-aram-a-viz-es-a-futesdrama-ukrajnaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794223279,
+    "title_hu": "Orosz csapások súlyosbítják az ukrajnai közműválságot",
+    "lead_hu": "Az orosz támadások nyomán Ukrajna több térségében akadozik az áram-, víz- és fűtésellátás. A legsúlyosabb helyzet Dnyipropetrovszk és Kijev megyében alakult ki, miközben a zaporizzsjai atomerőmű külső áramellátása is megszakadt.",
+    "content_hu": "• **Kiterjedt áramszünetek** Az energetikai infrastruktúrát ért csapások miatt több megyében maradtak fogyasztók áram nélkül; Dnyipropetrovszk megyében több mint 600 ezren érintettek.\n\n• **Akadozó közműellátás** Zelenszkij szerint számos városban az áram-, a víz- és a fűtésellátás is súlyos nehézségekkel küzd. A legrosszabb állapotokról Kijev, valamint Dnyipropetrovszk, Doneck, Herszon és Szumi megyéből számoltak be.\n\n• **Atomerőmű tartalék generátorokon** Megszűnt a zaporizzsjai atomerőmű külső áramellátása, ezért a reaktorok hűtéséhez dízelgenerátorokat használnak. A NAÜ közlése szerint a rendelkezésre álló üzemanyag körülbelül két hétre elegendő.\n\n• **Vészhelyzeti segítség** Az ukrán elnök közölte, hogy az Európai Unió különleges segélymechanizmust vezet be, hogy gyorsan forrásokat biztosíthasson a legsürgetőbb szükségletekre.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_90eba62cdc",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/Ov1IBr0fFjkg8gQr85olXk-MHFm1DdwCLN2WknVflP8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY0ZDU4NzE3NDAxMTQ4MTliMjAzMzgzYzI3Njc2M2I5.webp",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nem-jelent-meg-a-tisza-frakcio-az-allambiztonsagi-iratokrol-szolo-meghallgatason"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Nem ment el a Tisza a nemzetbiztonsági bizottság ülésére",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nemzetbiztonsagi-bizottsag-tisza-ugynokbotrany"
+      }
+    ],
+    "published_at": 1794223119,
+    "title_hu": "Nem jelent meg a Tisza-frakció az állambiztonsági iratokról szóló meghallgatáson",
+    "lead_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
+    "content_hu": "Az eseményt korábban Magyar Péter bohóckodásnak nevezte.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_71fb05d105",
@@ -2517,6 +2517,63 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_aa002296c9",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7248/72484/724846/72484639_5341383_9ffe74fd04e235e2a742d4958a435f22_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kigyulladt egy lakókocsi Zuglóban, a lángok egy garázs tetejére is átterjedtek",
+        "link": "https://index.hu/belfold/2026/11/09/budapest-xiv.-kerulet-lakokocsi-garazs-tuz-katasztrofavedelem/"
+      }
+    ],
+    "published_at": 1794233940,
+    "title_hu": "Kigyulladt egy lakókocsi Zuglóban, a lángok egy garázs tetejére is átterjedtek",
+    "lead_hu": "A tűzoltók már az utómunkálatokat végzik....",
+    "content_hu": "A tűzoltók már az utómunkálatokat végzik.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ca60249e18",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-11118606392-e1794222163161-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A kárpátaljai magyarok oktatási garanciáiról szóló ukrán döntést méltatta a Tisza képviselője",
+        "link": "https://24.hu/belfold/2026/11/09/a-karpataljai-magyarok-oktatasi-garanciairol-szolo-ukran-dontest-meltatta-a-tisza-kepviseloje/"
+      }
+    ],
+    "published_at": 1794233939,
+    "title_hu": "A kárpátaljai magyarok oktatási garanciáiról szóló ukrán döntést méltatta a Tisza képviselője",
+    "lead_hu": "Kulcsár Krisztián beszámolt arról, hogy az ukrán parlament október 12-én elfogadta a nemzeti kisebbségek anyanyelvű oktatását megerősítő törvénymódosítást, amely a Tisza képviselője szerint fontos gar...",
+    "content_hu": "Kulcsár Krisztián beszámolt arról, hogy az ukrán parlament október 12-én elfogadta a nemzeti kisebbségek anyanyelvű oktatását megerősítő törvénymódosítást, amely a Tisza képviselője szerint fontos garanciát jelent a kárpátaljai magyar közösség számára. The post A kárpátaljai magyarok oktatási garanciáiról szóló ukrán döntést méltatta a Tisza képviselője first appeared on 24.hu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ca2d7237de",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/ETwr8gQdbuLPBypn7RCBKI1VwIvhZA3rKJ40ROjHpuQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg3NzA2NGI2OTFjNjQzMmY4OWVmZTRjZjQ1MjQwOGJh.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Az unió is észbekapott: az is elmegy az orosz–ukrán–amerikai találkozóra, akit nem hívtak",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/az-unio-is-eszbekapott-az-is-elmegy-az-orosz-ukran-amerikai-talalkozora-akit-nem-hivtak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794233884,
+    "title_hu": "Az unió is észbekapott: az is elmegy az orosz–ukrán–amerikai találkozóra, akit nem hívtak",
+    "lead_hu": "Az európaiak felvizezték a háromoldalú megbeszélést Abu-Dzabiban...",
+    "content_hu": "Az európaiak felvizezték a háromoldalú megbeszélést Abu-Dzabiban",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_48bbe15f10",
     "category": "Általános",
     "image": "",
@@ -2533,6 +2590,25 @@
     "title_hu": "Járvány egy idősek otthonában: 52 betegről érkezett hír, dolgozók is elkapták",
     "lead_hu": "Tömeges járvány tört ki egy Jász-Nagykun-Szolnok vármegyei idősotthonban: az érintettek közül ketten a személyzetből kerültek ki....",
     "content_hu": "Tömeges járvány tört ki egy Jász-Nagykun-Szolnok vármegyei idősotthonban: az érintettek közül ketten a személyzetből kerültek ki.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_b6ac0a271f",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Azonnali vizsgálatot rendeltek el a gyömrői azbesztszennyezés ügyében",
+        "link": "https://index.hu/belfold/2026/11/09/kozlekedesi-es-beruhazasi-miniszterium-vizsgalat-intezkedes-gyomro-azbeszt-magyar-kozut/"
+      }
+    ],
+    "published_at": 1794233700,
+    "title_hu": "Azonnali vizsgálatot rendeltek el a gyömrői azbesztszennyezés ügyében",
+    "lead_hu": "A KBM és a Magyar Közút kiemelten kezelik az ügyet....",
+    "content_hu": "A KBM és a Magyar Közút kiemelten kezelik az ügyet.",
     "importance_score": 0.0
   },
   {
@@ -2590,6 +2666,25 @@
     "title_hu": "Francesca, mint mindig!",
     "lead_hu": "A miniszterelnök kéjesen idézgeti egy publicista 2024-es mondatát. Lássuk akkor az övéit is!...",
     "content_hu": "A miniszterelnök kéjesen idézgeti egy publicista 2024-es mondatát. Lássuk akkor az övéit is!",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2ef8ce3fb3",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Magyar szerint érdemes megvizsgálni, hogy az ÁBTL véletlenül hibázott-e Lezsák nevével, vagy megbízásból, hogy hiteltelenítse az egészet",
+        "link": "https://444.hu/2026/11/09/magyar-szerint-erdemes-megvizsgalni-hogy-az-abtl-veletlenul-hibazott-e-lezsak-nevevel-vagy-megbizasbol-hogy-hiteltelenitse-az-egeszet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794233408,
+    "title_hu": "Magyar szerint érdemes megvizsgálni, hogy az ÁBTL véletlenül hibázott-e Lezsák nevével, vagy megbízásból, hogy hiteltelenítse az egészet",
+    "lead_hu": "A kormányfő a parlamentben beszélt erről. Arra nem utalt, hogy kinek a megbízásából történt volna mindez. A levéltár igazgatója, Cseh Gergő Bendegúz már korábban felajánlotta a lemondását....",
+    "content_hu": "A kormányfő a parlamentben beszélt erről. Arra nem utalt, hogy kinek a megbízásából történt volna mindez. A levéltár igazgatója, Cseh Gergő Bendegúz már korábban felajánlotta a lemondását.",
     "importance_score": 0.0
   },
   {
@@ -11865,44 +11960,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_1d8608810a",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "\"Példátlan politikai támadás\" - közleményt adott ki a Fidesz sajtófőnöke",
-        "link": "https://www.vadhajtasok.hu/2026/11/08/peldatlan-politikai-tamadas-kozlemenyt-adott-ki-a-fidesz-sajtofonoke"
-      }
-    ],
-    "published_at": 1794147480,
-    "title_hu": "\"Példátlan politikai támadás\" - közleményt adott ki a Fidesz sajtófőnöke",
-    "lead_hu": "Kátai-Németh Vilmos a családtámogatások folyamatos leépítése közben most a nemzeti kormány családpolitikájának egyik legsikeresebb programját, az Erzsébet-táborokat vette célba - írta Havasi Bertalan.",
-    "content_hu": "Kátai-Németh Vilmos a családtámogatások folyamatos leépítése közben most a nemzeti kormány családpolitikájának egyik legsikeresebb programját, az Erzsébet-táborokat vette célba - írta Havasi Bertalan.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_44257c3a5c",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7247/72473/724732/72473257_5340539_1a49881eb96c622e63fa59781cce3c28_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "„Nekem mindenki jöhet” – meglepő vallomást tett szexualitásáról Alanis Morissette",
-        "link": "https://index.hu/fomo/2026/11/08/alanis-morissette-panszexualitas-coming-out/"
-      }
-    ],
-    "published_at": 1794147420,
-    "title_hu": "„Nekem mindenki jöhet” – meglepő vallomást tett szexualitásáról Alanis Morissette",
-    "lead_hu": "Az énekesnő egy podcastben beszélt kendőzetlenül.",
-    "content_hu": "Az énekesnő egy podcastben beszélt kendőzetlenül.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_10e322be82",
     "category": "Politika",
     "image": "https://s.24.hu/app/uploads/2026/11/central-11118606392-e1794222163161-1024x577.jpg",
@@ -12109,6 +12166,25 @@
     "title_hu": "Bóka János: Folytatni kellett a leszámolást, valakit el kellett vinni ma is",
     "lead_hu": "A Fidesz frakcióvezetője szerint Magyarországon egypártrendszer épül.",
     "content_hu": "A Fidesz frakcióvezetője szerint Magyarországon egypártrendszer épül.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_647948aea0",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Rétvári Bence elmagyarázta Rovar úrnak, hogy miért nem ér semmit a szava",
+        "link": "https://www.vadhajtasok.hu/2026/11/09/retvari-bence-elmagyarazta-rovar-urnak-hogy-miert-nem-er-semmit-a-szava"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Rétvári Bence elmagyarázta Rovar úrnak, hogy miért nem ér semmit a szava",
+    "lead_hu": "Rétvári Bence a miniszterelnök beszédére reagálva közölte:Két évvel ezelőtt még egekbe magasztalta Orbán Viktort, majd most elmondja, hogy szörnyű volt a kormányzás. Ön Tusnádfürdőn, egy szalmakalapba...",
+    "content_hu": "Rétvári Bence a miniszterelnök beszédére reagálva közölte:Két évvel ezelőtt még egekbe magasztalta Orbán Viktort, majd most elmondja, hogy szörnyű volt a kormányzás. Ön Tusnádfürdőn, egy szalmakalapban pirosra tapsol...",
     "importance_score": 0.0
   },
   {
