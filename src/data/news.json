@@ -1744,32 +1744,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_0b1c430d71",
-    "fingerprint": "06e35f326f25dd10ff3d1428bbfc39c0",
-    "category": "Általános",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/o60OwuU68S_CMf6Loa6zzWC7DV-m37p3ao98WyFDcNE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUyODI5NTdiODU4OTQyYmVhZjJkOTZiNTE1Y2U3OWY2.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Acélgyári robbanás: legalább hatan meghaltak, többen a romok alatt rekedtek Törökországban",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/acelgyari-robbanas-legalabb-hatan-meghaltak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "444.hu",
-        "title": "Robbanás történt egy törökországi acélgyárban, legalább 16 ember meghalt",
-        "link": "https://444.hu/2026/11/09/robbanas-tortent-egy-torokorszagi-acelgyarban-legalabb-16-ember-meghalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794255421,
-    "title_hu": "Halálos robbanás történt egy törökországi acélgyárban",
-    "lead_hu": "Robbanás történt a nyugat-törökországi Izmir közelében, a Habas acélgyárban. A beszámoló szerint 16 ember meghalt, 13-an megsérültek, és a mentési munkálatok folytatása mellett vizsgálat indult az ügyben.",
-    "content_hu": "• **Áldozatok:** A robbanásban 16 gyári dolgozó meghalt, további 13 ember megsérült; két sérült állapota súlyos.\n\n• **A baleset oka:** A kormányzó szerint egy cserekazánt szállító daru összeomlott, a lezuhanó anyagok pedig az alattuk lévő kemencébe estek. A vállalat közlése szerint az eset tervezett karbantartási munkák közben történt.\n\n• **Mentés és vizsgálat:** A hatóságok kutatási és mentési munkálatokat folytattak, és vizsgálat indult a robbanás körülményeinek feltárására. A helyi sajtó beszámolói szerint legalább öt embert őrizetbe vettek.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_63bf2cc4b3",
     "fingerprint": "2f429c9ad9b4d819b912c693cda12276",
     "category": "Politika",
@@ -2128,6 +2102,32 @@
     "lead_hu": "Megérkeztek a legfrissebb uniós adatok, és a megismert számok szerint az Európai Unió harmadik legalacsonyabb éves átlagfizetése Magyarországon volt 2025-ben.",
     "content_hu": "Megérkeztek a legfrissebb uniós adatok, és a megismert számok szerint az Európai Unió harmadik legalacsonyabb éves átlagfizetése Magyarországon volt 2025-ben.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_0b1c430d71",
+    "fingerprint": "06e35f326f25dd10ff3d1428bbfc39c0",
+    "category": "Általános",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/o60OwuU68S_CMf6Loa6zzWC7DV-m37p3ao98WyFDcNE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUyODI5NTdiODU4OTQyYmVhZjJkOTZiNTE1Y2U3OWY2.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Acélgyári robbanás: legalább hatan meghaltak, többen a romok alatt rekedtek Törökországban",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/acelgyari-robbanas-legalabb-hatan-meghaltak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "444.hu",
+        "title": "Robbanás történt egy törökországi acélgyárban, legalább 16 ember meghalt",
+        "link": "https://444.hu/2026/11/09/robbanas-tortent-egy-torokorszagi-acelgyarban-legalabb-16-ember-meghalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794255421,
+    "title_hu": "Halálos robbanás történt egy törökországi acélgyárban",
+    "lead_hu": "Robbanás történt a nyugat-törökországi Izmir közelében, a Habas acélgyárban. A beszámoló szerint 16 ember meghalt, 13-an megsérültek, és a mentési munkálatok folytatása mellett vizsgálat indult az ügyben.",
+    "content_hu": "• **Áldozatok:** A robbanásban 16 gyári dolgozó meghalt, további 13 ember megsérült; két sérült állapota súlyos.\n\n• **A baleset oka:** A kormányzó szerint egy cserekazánt szállító daru összeomlott, a lezuhanó anyagok pedig az alattuk lévő kemencébe estek. A vállalat közlése szerint az eset tervezett karbantartási munkák közben történt.\n\n• **Mentés és vizsgálat:** A hatóságok kutatási és mentési munkálatokat folytattak, és vizsgálat indult a robbanás körülményeinek feltárására. A helyi sajtó beszámolói szerint legalább öt embert őrizetbe vettek.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_25bba6b76f",
