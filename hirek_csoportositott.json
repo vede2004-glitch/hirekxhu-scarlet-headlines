@@ -115,22 +115,6 @@
     ]
   },
   {
-    "group_id": "group_730831dcb1",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Már a hangulatunk alapján is tud majd néznivalót ajánlani a Netflix",
-        "link": "https://raketa.hu/netflix-ai-discover-hangulat-ajanlas-algoritmus/",
-        "image": "https://raketa.hu/uploads/2026/11/netflix.jpg",
-        "summary": "",
-        "category": "Kultúra",
-        "published_at": 1794222234
-      }
-    ]
-  },
-  {
     "group_id": "group_b58b2a88cb",
     "category": "Általános",
     "articles_count": 1,
@@ -746,104 +730,6 @@
     ]
   },
   {
-    "group_id": "group_ea70247f08",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Több mint kétszáz szervezet figyelmeztette Magyar Pétert nyílt levélben a klímatörvény miatt",
-        "link": "https://index.hu/belfold/2026/11/09/nyilt-level-figyelmeztetes-klimatorveny-magyar-peter/",
-        "image": "",
-        "summary": "Veszélybe kerülhet a jogszabály idei elfogadása.",
-        "category": "Általános",
-        "published_at": 1794222420
-      }
-    ]
-  },
-  {
-    "group_id": "group_3ecbbd97e2",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Egy lefingott Ford Transit nem történelmi emlékmű – már a balosoktól is kapja az ívet Magyar Péter",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/egy-lefingott-ford-transit-nem-tortenelmi-emlekmu-mar-a-balosoktol-is-kapja-az-ivet-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/mIrIffyPhlEWx4Y_qR1aQXiiEBruwnyS7pLrhFCnuDU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIyNWNlYTIxM2M0MDQ1Nzg4MjcwY2UxZDE2Nzc1OTkx.jpg",
-        "summary": "A HVG publicistája szerint nem a hatalom feladata, hogy saját magának állítson emlékművet.",
-        "category": "Politika",
-        "published_at": 1794222479
-      }
-    ]
-  },
-  {
-    "group_id": "group_4109e331f7",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Rajtaütöttek a Magyarországon is gyárat építő kínai autóóriáson – durva lopási botrányba keveredett a BYD",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/byd-jaguar-land-rover-defender-masolas-vad-autoipar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/QJA6lpAh0c24pRKF1l18bHt4zj223WjQ3VC5exA8Seo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I1M2YxNzI0YzliYjRjN2Q4MmJiMWE1YjIxY2QxZjhi.jpg",
-        "summary": "A Jaguar Land Rover jogi útra terelte az ügyet.",
-        "category": "Gazdaság",
-        "published_at": 1794222137
-      }
-    ]
-  },
-  {
-    "group_id": "group_56b7cb12cf",
-    "category": "Kultúra",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Feladta az álláshirdetést a NASA, a nyertesek a Holdon fognak élni",
-        "link": "https://hvg.hu/tudomany/20261109_nasa-artemis-program-urhajos-hold",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d7d44f97-69ee-4d43-927b-c044cdf0adc7.jpg",
-        "summary": "A NASA már keresi azokat az űrhajósokat, akik a jövőben a Holdon élhetnek és dolgozhatnak.",
-        "category": "Kultúra",
-        "published_at": 1794222180
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Már telepeseket toboroz a leendő holdbázisra a NASA",
-        "link": "https://telex.hu/techtud/2026/11/09/nasa-toborzas-asztronauta-hold-telepes-bazis",
-        "image": "https://assets.telex.hu/images/20261109/1794231022-temp-778cih23h749chljljj_cimlap-normal.jpg",
-        "summary": "December elejéig jelentkezhet az amerikai űrhivatalnál, aki a Holdon képzelné el a jövőjét.",
-        "category": "Politika",
-        "published_at": 1794231244
-      },
-      {
-        "source": "ATV",
-        "title": "Te élnél a Holdon? A NASA már keresi az első lakókat",
-        "link": "https://www.atv.hu/kulfold/20261110/hold-nasa-keres-lakok/",
-        "image": "https://www.youtube.com/embed/2CDndVDVfR0",
-        "summary": "A NASA pályázatot hirdetett, amelyre olyan emberek jelentkezését várják, akik hajlandóak lennének élni és dolgozni is a Holdon.",
-        "category": "Általános",
-        "published_at": 1794277980
-      }
-    ]
-  },
-  {
-    "group_id": "group_ce4814940b",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Halálos járvány szedi az áldozatait Amerikában: évtizedek óta nem volt ennyi beteg",
-        "link": "https://femina.hu/egeszseg/kanyarojarvany-amerikaban/",
-        "image": "https://femina.hu/neon/media/images/kanyaro_QDFyKtc.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Pedig létezik ellene védőoltás.",
-        "category": "Bulvár",
-        "published_at": 1794222300
-      }
-    ]
-  },
-  {
     "group_id": "group_741a124b6b",
     "category": "Politika",
     "articles_count": 1,
@@ -946,38 +832,6 @@
     ]
   },
   {
-    "group_id": "group_0021cba6db",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Magyar Péter szót kért a Parlamentben",
-        "link": "https://24.hu/belfold/2026/11/09/parlament-elo-kozvetites-magyar/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-11118606392-e1794222163161-1024x577.jpg",
-        "summary": "Élő közvetítésünk a hétfői ülésnapról. The post Magyar Péter szót kért a Parlamentben first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794222369
-      }
-    ]
-  },
-  {
-    "group_id": "group_0c6f8b2c16",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Saját zsebre dolgozott a pénztárosnő: 12 milliót sikkasztott el a munkahelyéről",
-        "link": "https://24.hu/belfold/2026/11/09/godollo-penztar-sikkasztas-vademeles/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-0803252775-2026-09-14t120510-441-4-1024x576.jpg",
-        "summary": "Minősített sikkasztás miatt állítják bíróság elé. The post Saját zsebre dolgozott a pénztárosnő: 12 milliót sikkasztott el a munkahelyéről first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794222237
-      }
-    ]
-  },
-  {
     "group_id": "group_6fa1272ce5",
     "category": "Politika",
     "articles_count": 2,
@@ -999,22 +853,6 @@
         "summary": "A megállapodás tervezete szerint jüanban kibocsátott magyar államkötvények lehetősége is felmerült.",
         "category": "Politika",
         "published_at": 1794243827
-      }
-    ]
-  },
-  {
-    "group_id": "group_476750f38f",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Sötétbe borult az egész univerzum, de utána eljött a fény korszaka",
-        "link": "https://nlc.hu/ezvan/20261109/univerzum-osrobbanas-feny-csillag-galaxis/zp514gc",
-        "image": "",
-        "summary": "Az univerzum 13,8 milliárd éve, az ősrobbanás során keletkezett, majd hosszú, sötét korszak következett, amikor még nem voltak csillagok vagy galaxisok. A Lumina nevű új számítógépes szimuláció az ősrobbanást követő 50–200 millió éves időszakot, a kozmikus sötét korszakot vizsgálja eddig példátlan részletességgel. The post Sötétbe borult az egész univerzum, de utána eljött a fény korszaka first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794222180
       }
     ]
   },
@@ -3295,6 +3133,31 @@
         "summary": "Svetlana Stanarevics szerint az egymást váltó kormányok ugyanazokra a besúgóhálózatokra támaszkodhattak.",
         "category": "Általános",
         "published_at": 1794230519
+      }
+    ]
+  },
+  {
+    "group_id": "group_56b7cb12cf",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Már telepeseket toboroz a leendő holdbázisra a NASA",
+        "link": "https://telex.hu/techtud/2026/11/09/nasa-toborzas-asztronauta-hold-telepes-bazis",
+        "image": "https://assets.telex.hu/images/20261109/1794231022-temp-778cih23h749chljljj_cimlap-normal.jpg",
+        "summary": "December elejéig jelentkezhet az amerikai űrhivatalnál, aki a Holdon képzelné el a jövőjét.",
+        "category": "Politika",
+        "published_at": 1794231244
+      },
+      {
+        "source": "ATV",
+        "title": "Te élnél a Holdon? A NASA már keresi az első lakókat",
+        "link": "https://www.atv.hu/kulfold/20261110/hold-nasa-keres-lakok/",
+        "image": "https://www.youtube.com/embed/2CDndVDVfR0",
+        "summary": "A NASA pályázatot hirdetett, amelyre olyan emberek jelentkezését várják, akik hajlandóak lennének élni és dolgozni is a Holdon.",
+        "category": "Általános",
+        "published_at": 1794277980
       }
     ]
   },
@@ -11457,7 +11320,7 @@
         "image": "https://raketa.hu/uploads/2026/11/dottsxcooters.jpg",
         "summary": "Vége a Dott magyarországi szolgáltatásának, november 15. a határidő.",
         "category": "Kultúra",
-        "published_at": 1794308532
+        "published_at": 1794308630
       }
     ]
   },
@@ -12244,6 +12107,118 @@
         "summary": "Michael Douglas gyerekei rendkívül jó géneket örököltek, lánya kiköpött édesanyja.",
         "category": "Bulvár",
         "published_at": 1794308400
+      }
+    ]
+  },
+  {
+    "group_id": "group_abde153907",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Tömegbalesetet okozott a sűrű köd Bulgáriában, legkevesebb 12 ember meghalt",
+        "link": "https://index.hu/kulfold/2026/11/10/bulgaria-autopalya-halalos-tomegbaleset-kod-a1-es/",
+        "image": "",
+        "summary": "Több tucat jármű roncsai borítják az autópályát.",
+        "category": "Általános",
+        "published_at": 1794308400
+      }
+    ]
+  },
+  {
+    "group_id": "group_d4b63425b6",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Elcsalták a választást az uniós népszavazásról? E szerint a kormányfő szerint igen + videó",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/fico-unios-nepszavazas-szlovakia-csalasvad?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/10/XKZCnV10Lm0R6BC5gAQsKR3iWqW2hz84noJHmNwAtjw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M3MWUyNTczNTA4YTRmNDU4OWY4MmM4NzY4NmU3OGVl.jpg",
+        "summary": "Robert Fico szerint manipulált lehetett a Szlovákia EU-csatlakozásáról 2003-ban tartott népszavazás. Az ő feltételeikkel nálunk sem lett volna sikeres a referendum.",
+        "category": "Politika",
+        "published_at": 1794308858
+      }
+    ]
+  },
+  {
+    "group_id": "group_986b1e26d0",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Vida Kamilla: Az algoritmus-miniszterelnök és a meztelen nők a Parlamentben",
+        "link": "https://24.hu/belfold/2026/11/10/meztelen-nok-parlament-magyar-peter/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1111860339_kiem-1024x576.jpg",
+        "summary": "A magyar nyilvánosság szívrohamot fog kapni, de nyomjuk tovább a gázt, nem állunk meg, képzeletünk központjában a lenémított kérdés: milyen lesz a csattanás? The post Vida Kamilla: Az algoritmus-miniszterelnök és a meztelen nők a Parlamentben first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1794308613
+      }
+    ]
+  },
+  {
+    "group_id": "group_a555c0e82b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Késsel támadtak focizás közben egy 12 éves kisfiúra az egyik zalaegerszegi iskolában",
+        "link": "https://24.hu/belfold/2026/11/10/zalaegerszeg-altalanos-iskola-kes/",
+        "image": "https://s.24.hu/app/uploads/2026/11/zalakes-e1794308369335.jpg",
+        "summary": "Nem ismerte be tettét a késsel fenyegetőző 15 éves fiú. The post Késsel támadtak focizás közben egy 12 éves kisfiúra az egyik zalaegerszegi iskolában first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794308496
+      }
+    ]
+  },
+  {
+    "group_id": "group_8dde2d51fa",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Brüsszel felébredt, és már látja: állnak le a gyárak, már a jövő évi termésen spórolnak a gazdák – műtrágyaválságban az unió",
+        "link": "https://www.vg.hu/agrar/2026/11/mutragya-valsag-brusszel-felebredt-gazdak-mezogazdasag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/06/5A59EOp3Hhyq6V2bwF7Yve1rvtd2Nw8fYiB2z-6fyhU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2NDRjODk0NGNlNDRhNDhhNmVkYThjYjE5ODU5MWRh.jpg",
+        "summary": "Párbeszédre hívják az érintetteket, de ez nem fogja csökkenteni az energia árát és a leállított gyárak sem indulnak el.",
+        "category": "Politika",
+        "published_at": 1794308738
+      }
+    ]
+  },
+  {
+    "group_id": "group_d8a2ab14b2",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Kicseréltek valamit a napelemekben, brutális javulás jöhet a hatékonyságban",
+        "link": "https://hvg.hu/tudomany/20261110_napelemek-hatekonysag-kutatas-attores",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7ca5737e-a546-47d9-91b2-f2d4029de758.jpg",
+        "summary": "Leküzdi a jelenlegi napelemek korlátait egy új fejlesztés, amely ráadásul nem is tesz szükségessé alapvető változásokat.",
+        "category": "Kultúra",
+        "published_at": 1794308580
+      }
+    ]
+  },
+  {
+    "group_id": "group_1f237e589d",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Túl nőiesnek tartják, ezért levágják: bizarr férfitrend tartja lázban a közösségi médiát",
+        "link": "https://femina.hu/egeszseg/ferfi-szempilla-vagasi-trend-tiktok/",
+        "image": "https://femina.hu/neon/media/images/ferfi-szempilla-vagas.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Az orvosok is kongatják a vészharangot a közösségi oldalakon terjedő legújabb őrület miatt.",
+        "category": "Bulvár",
+        "published_at": 1794308700
       }
     ]
   }
