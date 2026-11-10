@@ -513,6 +513,62 @@
     "importance_score": 105.0
   },
   {
+    "group_id": "group_3d8610d2c7",
+    "fingerprint": "7526cee6cc1fded847c2615cc90e6d22",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261109/1794213324-temp-d16kbpupbmbtfefbink_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Zuhanórepülésbe kezdett az Nvidia részvénye, miután híre ment, hogy kémnő hálózhatta be a vezérigazgatót",
+        "link": "https://index.hu/gazdasag/2026/11/09/nvidia-reszvenyek-jensen-huang-alice-huang-kina-kemkedes/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Kínai kémnőt kajtat Amerika — a techóriás lépre csalt vezére már kicsi ponttá szégyellte magát",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/kinai-kemugy-amerika-techceg-nvidia-huang?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Súlyos kérdéseket vet fel, hogy a kínaiak romantikus kémcsapdájába esett az USA egyik legfontosabb cégvezetője",
+        "link": "https://telex.hu/kulfold/2026/11/09/jensen-huang-nvidia-kina-kem-alice-huang-egyesult-kiralysag-mesterseges-intelligencia-nemzetbiztonsag"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Estek az Nvidia részvényei, miután belső vizsgálat indult a vezérigazgató kínai kémnővel folytatott viszonya miatt",
+        "link": "https://telex.hu/gazdasag/2026/11/09/nvidia-eses-jensen-huang-vizsgalat-kinai-kemno-botrany"
+      },
+      {
+        "source": "444.hu",
+        "title": "Pénz, szex, AI, Kína – ezeken reccsenhet meg most nemcsak az Nvidia, de akár a világgazdaság is",
+        "link": "https://444.hu/2026/11/09/penz-szex-ai-kina-ezeken-reccsenhet-meg-most-nemcsak-az-nvidia-de-akar-a-vilaggazdasag-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Donald Trump szerint az FBI vizsgája az Nvidia-vezér kémgyanús viszonyát",
+        "link": "https://hvg.hu/gazdasag/20261110_donald-trump-nvidia-jensen-huang-viszony-kinai-kem-fbi-vizsgalat"
+      },
+      {
+        "source": "444.hu",
+        "title": "Trump: Az FBI vizsgálja az Nvidia-vezér viszonyát a kínai kémnővel",
+        "link": "https://444.hu/2026/11/10/trump-az-fbi-vizsgalja-az-nvidia-vezer-viszonyat-a-kinai-kemnovel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Trump szerint az FBI is vizsgálja az Nvidia-vezér és a kínai kémnő viszonyát",
+        "link": "https://telex.hu/kulfold/2026/11/10/donald-trump-fbi-nyomoz-jensen-huang-viszony-kinai-kemno-nvidia"
+      }
+    ],
+    "published_at": 1794293640,
+    "title_hu": "Trump kiállt Huang mellett, és azt mondta, az FBI is vizsgálja az ügyet",
+    "lead_hu": "Donald Trump szerint az FBI vizsgálja Jensen Huang és a kínai hírszerzéshez köthető Alice Huang kapcsolatának ügyét; az elnök azt mondta, hisz az Nvidia vezérigazgatójának, aki állítása szerint nem tudta, hogy a nő kém lehet. Trump Huangot „remek embernek” nevezte, és úgy vélte, maradnia kell a cég élén. Az eset újabb kérdéseket vet fel az amerikai csipexport és a technológiai verseny biztonságáról.",
+    "content_hu": "• **Trump szerint Huang maradhat a vezérigazgató** Az elnök vasárnap azt mondta, hogy Jensen Huang kiváló munkát végzett, és szerinte a posztján kell maradnia. Azt is közölte, hogy hisz Huangnak, aki azt mondta neki, nem tudta, hogy Alice Huang kém lehet.\n\n• **Huang korábban a kínai csipexport enyhítését szorgalmazta** Sajtóértesülések szerint az Nvidia vezetője azzal érvelt Trumpnak, hogy az amerikai technológia kínai értékesítése erősítené az Egyesült Államok versenyképességét. Az elnök egy kevésbé fejlett Nvidia-csip kínai értékesítését engedélyezte, a legújabb Blackwell csipek eladását pedig fontolóra vette, de végül elállt ettől.\n\n• **A kapcsolat már 2024-ben is látható volt** A Telex által idézett beszámoló szerint Jensent és Alice Huangot már 2024-ben együtt fotózták le, de nem tudni, mikor kezdődött a kapcsolatuk, illetve mikor vált komolyabbá. A vezérigazgató állítólag nem kapott tájékoztatást arról, hogy külföldi hírszerzők próbálják megközelíteni.\n\n• **Az ügy stratégiai jelentőségű lehet** Az Nvidia csipjei és szoftveres ökoszisztémája az MI-fejlesztés mellett adatközpontokban, valamint egyes katonai és hírszerzési alkalmazásokban is fontos szerepet játszik. A szigorúbb export- és ügyfél-ellenőrzés növelheti a költségeket, és lassíthatja a vállalat ázsiai értékesítését.",
+    "importance_score": 95.0
+  },
+  {
     "group_id": "group_dc4beb4133",
     "fingerprint": "9bab0458fc8a1dd7d6252773b4336f71",
     "category": "Általános",
@@ -571,62 +627,6 @@
     "title_hu": "Halálos baleset történt a kazincbarcikai gázüzemben",
     "lead_hu": "Hétfő reggel egy dolgozó életét vesztette a Linde Gáz Magyarország kazincbarcikai telephelyén történt balesetben. A vállalat leállította az üzem működését, a rendőrség vizsgálja az eset körülményeit. A cég 2021-ben jelentette be, hogy Magyarország egyik legnagyobb levegőbontó üzemét építi meg a városban.",
     "content_hu": "• **Egy dolgozó meghalt** a Linde Gáz Magyarország kazincbarcikai telephelyén hétfő reggel történt balesetben.\n\n• **Leállították az üzem működését:** a vállalat biztosította a területet, és közlése szerint nincs további veszély a dolgozókra, a környéken élőkre vagy a környezetre.\n\n• **Vizsgálják a baleset körülményeit:** a cég együttműködik a hatóságokkal, a rendőrség pedig egyelőre nem közölt további részleteket. A vállalat részvétét fejezte ki az elhunyt munkatárs családjának és kollégáinak.\n\n• **A cég 2021-ben jelentett be kazincbarcikai beruházást:** közlése szerint Magyarország egyik legnagyobb levegőbontó üzemét tervezi megépíteni a városban.\n\n• **A Linde magyarországi vállalatát 1992-ben alapították:** a cég székhelye a Vas vármegyei Répcelakon van, kazincbarcikai telephelye mellett korábban Miskolcon is működött fióktelepe, amelyet néhány éve bezártak.",
-    "importance_score": 98.0
-  },
-  {
-    "group_id": "group_3d8610d2c7",
-    "fingerprint": "7526cee6cc1fded847c2615cc90e6d22",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261109/1794213324-temp-d16kbpupbmbtfefbink_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Zuhanórepülésbe kezdett az Nvidia részvénye, miután híre ment, hogy kémnő hálózhatta be a vezérigazgatót",
-        "link": "https://index.hu/gazdasag/2026/11/09/nvidia-reszvenyek-jensen-huang-alice-huang-kina-kemkedes/"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Kínai kémnőt kajtat Amerika — a techóriás lépre csalt vezére már kicsi ponttá szégyellte magát",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/kinai-kemugy-amerika-techceg-nvidia-huang?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Súlyos kérdéseket vet fel, hogy a kínaiak romantikus kémcsapdájába esett az USA egyik legfontosabb cégvezetője",
-        "link": "https://telex.hu/kulfold/2026/11/09/jensen-huang-nvidia-kina-kem-alice-huang-egyesult-kiralysag-mesterseges-intelligencia-nemzetbiztonsag"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Estek az Nvidia részvényei, miután belső vizsgálat indult a vezérigazgató kínai kémnővel folytatott viszonya miatt",
-        "link": "https://telex.hu/gazdasag/2026/11/09/nvidia-eses-jensen-huang-vizsgalat-kinai-kemno-botrany"
-      },
-      {
-        "source": "444.hu",
-        "title": "Pénz, szex, AI, Kína – ezeken reccsenhet meg most nemcsak az Nvidia, de akár a világgazdaság is",
-        "link": "https://444.hu/2026/11/09/penz-szex-ai-kina-ezeken-reccsenhet-meg-most-nemcsak-az-nvidia-de-akar-a-vilaggazdasag-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Donald Trump szerint az FBI vizsgája az Nvidia-vezér kémgyanús viszonyát",
-        "link": "https://hvg.hu/gazdasag/20261110_donald-trump-nvidia-jensen-huang-viszony-kinai-kem-fbi-vizsgalat"
-      },
-      {
-        "source": "444.hu",
-        "title": "Trump: Az FBI vizsgálja az Nvidia-vezér viszonyát a kínai kémnővel",
-        "link": "https://444.hu/2026/11/10/trump-az-fbi-vizsgalja-az-nvidia-vezer-viszonyat-a-kinai-kemnovel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Trump szerint az FBI is vizsgálja az Nvidia-vezér és a kínai kémnő viszonyát",
-        "link": "https://telex.hu/kulfold/2026/11/10/donald-trump-fbi-nyomoz-jensen-huang-viszony-kinai-kemno-nvidia"
-      }
-    ],
-    "published_at": 1794293640,
-    "title_hu": "Trump kiállt Huang mellett, és azt mondta, az FBI is vizsgálja az ügyet",
-    "lead_hu": "Donald Trump szerint az FBI vizsgálja Jensen Huang és a kínai hírszerzéshez köthető Alice Huang kapcsolatának ügyét; az elnök azt mondta, hisz az Nvidia vezérigazgatójának, aki állítása szerint nem tudta, hogy a nő kém lehet. Trump Huangot „remek embernek” nevezte, és úgy vélte, maradnia kell a cég élén. Az eset újabb kérdéseket vet fel az amerikai csipexport és a technológiai verseny biztonságáról.",
-    "content_hu": "• **Trump szerint Huang maradhat a vezérigazgató** Az elnök vasárnap azt mondta, hogy Jensen Huang kiváló munkát végzett, és szerinte a posztján kell maradnia. Azt is közölte, hogy hisz Huangnak, aki azt mondta neki, nem tudta, hogy Alice Huang kém lehet.\n\n• **Huang korábban a kínai csipexport enyhítését szorgalmazta** Sajtóértesülések szerint az Nvidia vezetője azzal érvelt Trumpnak, hogy az amerikai technológia kínai értékesítése erősítené az Egyesült Államok versenyképességét. Az elnök egy kevésbé fejlett Nvidia-csip kínai értékesítését engedélyezte, a legújabb Blackwell csipek eladását pedig fontolóra vette, de végül elállt ettől.\n\n• **A kapcsolat már 2024-ben is látható volt** A Telex által idézett beszámoló szerint Jensent és Alice Huangot már 2024-ben együtt fotózták le, de nem tudni, mikor kezdődött a kapcsolatuk, illetve mikor vált komolyabbá. A vezérigazgató állítólag nem kapott tájékoztatást arról, hogy külföldi hírszerzők próbálják megközelíteni.\n\n• **Az ügy stratégiai jelentőségű lehet** Az Nvidia csipjei és szoftveres ökoszisztémája az MI-fejlesztés mellett adatközpontokban, valamint egyes katonai és hírszerzési alkalmazásokban is fontos szerepet játszik. A szigorúbb export- és ügyfél-ellenőrzés növelheti a költségeket, és lassíthatja a vállalat ázsiai értékesítését.",
     "importance_score": 95.0
   },
   {
@@ -882,7 +882,7 @@
     "title_hu": "Rekordveszteségről számolt be az ukrán vezérkar, kiszivárgott adatok is napvilágra kerültek",
     "lead_hu": "Az ukrán vezérkar szerint november 8-án 2980 orosz katona halt meg vagy esett ki súlyos sérülés miatt a harcokból, ami új napi rekord lenne. Egy kiszivárgott orosz adatbázisban 412 576, a háborúhoz köthető halotti bizonyítvány szerepel, de a számok hitelessége és a tényleges veszteség mértéke továbbra is bizonytalan.",
     "content_hu": "• **Toborzási nehézségek** A 24.hu értékelése szerint az orosz hadsereg több hónapja több katonát veszíthet, mint amennyit toborozni tud. A lap szerint ez hosszabb távon a jelenlegi hadviselés fenntarthatóságát is megkérdőjelezi; lehetséges válaszként a teljes mozgósítást vagy a tűzszünet felé mozdulást említi.\n\n• **Egyenlőtlenül oszlanak meg a halálesetek** A kiszivárgott adatok elemzése szerint Burjátföldön, Tuvában és a Bajkálontúli határterületen a háborús halálesetek a 18–49 éves férfiak összes halálozásának mintegy harmadát tették ki a vizsgált időszakban; Moszkvában és Szentpéterváron ez az arány körülbelül 10 százalék volt.\n\n• **Havonta akár 15 ezernél is több halott** A 24.hu által ismertetett elemzés szerint egyes hónapokban 15 ezer fölé emelkedhetett az elesett orosz katonák száma, ami napi átlagban mintegy 500 halálesetnek felel meg.\n\n• **Az ukrán veszteségekről is vannak becslések** Az amerikai Stratégiai és Nemzetközi Tanulmányok Központjának 2026 januárjában közzétett jelentése szerint Ukrajna 2022 februárja és 2025 decembere között becslések szerint 500–600 ezer katonai veszteséget szenvedhetett el, köztük 100–140 ezer halottat. A források eltérő módszertana és időszakai miatt ezek az adatok nem hasonlíthatók össze közvetlenül az orosz veszteségekre vonatkozó számokkal.",
-    "importance_score": 68.0
+    "importance_score": 65.0
   },
   {
     "group_id": "group_fa70681b48",
@@ -1023,6 +1023,52 @@
     "importance_score": 60.0
   },
   {
+    "group_id": "group_73f2623825",
+    "fingerprint": "bd70f08c1f455c7b2945bc8e83142b07",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/adz_4179-masolat-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Felajánlotta lemondását Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója",
+        "link": "https://24.hu/belfold/2026/11/09/parlament-abtl-foigazgato-beszelgetes-lemondas-ugynokaktak/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A Lezsák-hiba miatt felajánlotta lemondását Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója",
+        "link": "https://telex.hu/ugynokaktak/2026/11/09/lezsak-hiba-felajanlotta-lemondasat-cseh-gergo-bendeguz-allambiztonsagi-szolgalatok-torteneti-leveltaranak-foigazgatoja"
+      },
+      {
+        "source": "444.hu",
+        "title": "A Lezsák-botrány miatt felajánlotta a lemondását Cseh Gergő Bendegúz levéltár-főigazgató",
+        "link": "https://444.hu/2026/11/09/a-lezsak-botrany-miatt-felajanlotta-a-lemondasat-cseh-gergo-bendeguz-leveltar-foigazgato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "ATV",
+        "title": "Felajánlotta lemondását az ÁBTL főigazgatója, majd elárulta, mi vezetett az ügynökbotrány kirobbanásához",
+        "link": "https://www.atv.hu/belfold/20261109/abtl-bizottsag-lemondas-ugynokaktak/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Felajánlotta lemondását az ÁBTL főigazgatója",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/felajanlotta-lemondasat-az-abtl-foigazgatoja-875082"
+      },
+      {
+        "source": "ATV",
+        "title": "Így keveredtek a megfigyeltek a megfigyelők közé: az ÁBTL főigazgatója elárulta az ügynökbotrány valódi okát",
+        "link": "https://www.atv.hu/belfold/20261110/ugynokaktak-leveltar-foigazgato/"
+      }
+    ],
+    "published_at": 1794213780,
+    "title_hu": "Felajánlotta lemondását az ÁBTL főigazgatója a Lezsák-ügy miatt",
+    "lead_hu": "Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója felajánlotta lemondását, miután informatikai hiba miatt Lezsák Sándor és további 163 megfigyelt neve is tévesen a hálózati személyek között jelent meg. Cseh bocsánatot kért az érintettektől, és arról beszélt, hogy a hibás besorolást egy mágnesszalagokról származó kód félreértelmezése okozta.",
+    "content_hu": "• **Lemondási felajánlás:** Cseh Gergő Bendegúz az Országgyűlés Nemzetbiztonsági Bizottságának hétfői, határozatképtelenség miatt elmaradt ülése után ajánlotta fel lemondását.\n\n• **A hiba következménye:** Lezsák Sándor és további 163 megfigyelt neve tévesen került a hálózati személyek nyilvános adatbázisába; a neveket azóta eltávolították.\n\n• **A téves besorolás oka:** A levéltár az Alkotmányvédelmi Hivataltól kapott, nagy mennyiségű, rendezetlen adatot dolgozott fel. A megfigyelteket jelölő 05-ös kód felismerésének hiánya vezetett a hibás dekódoláshoz.\n\n• **Vizsgálat indul:** Péterfalvi Attila, a NAIH elnöke közölte, hogy hatósági eljárást indítanak, és értékelik a teljes folyamatot.",
+    "importance_score": 60.0
+  },
+  {
     "group_id": "group_56b7cb12cf",
     "fingerprint": "3e765ca1e9999bc4b79b748dc696cb5f",
     "category": "Általános",
@@ -1103,47 +1149,6 @@
     "lead_hu": "A Tisza képviselőinek távolmaradása miatt nem volt határozatképes az Országgyűlés nemzetbiztonsági bizottságának rendkívüli ülése, amelyet az ügynökakták közzététele körüli hibák miatt hívtak össze. A megjelent levéltári vezetők informális beszélgetésen válaszoltak a kérdésekre: elmondásuk szerint egy mágnesszalagról származó, ömlesztve átadott adatsor feldolgozása vezetett a téves adatok közzétételéhez.",
     "content_hu": "• **Határozatképtelen ülés** A kilenctagú bizottságból Apáti István elnök és két fideszes képviselő jelent meg; a Tisza hat tagja távol maradt. A hivatalos ülést ezért rövid idő után berekesztették, majd informális beszélgetés folytatódott a jelenlévőkkel.\n\n• **A hiba oka** Cseh Gergő Bendegúz, az ÁBTL főigazgatója szerint a mágnesszalagokról kapott adatokat a várttal ellentétben nem strukturált formában adták át. A feldolgozás során nem ismerték fel a megfigyeltek és a hálózati személyek megkülönböztetésére szolgáló kódot.\n\n• **Tévesen közzétett nevek** A hiba miatt 164 megfigyelt személy, köztük Lezsák Sándor neve is hálózati személyként jelent meg. Az adatokat eltávolították, a főigazgató bocsánatot kért az érintettektől, és ismét felajánlotta lemondását.\n\n• **Adatvédelmi vizsgálat** Péterfalvi Attila, a NAIH elnöke jelezte, hogy a hatóság bejelentések nyomán vizsgálatot indított, amely még folyamatban van.",
     "importance_score": 55.0
-  },
-  {
-    "group_id": "group_73f2623825",
-    "fingerprint": "bd70f08c1f455c7b2945bc8e83142b07",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/adz_4179-masolat-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Felajánlotta lemondását Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója",
-        "link": "https://24.hu/belfold/2026/11/09/parlament-abtl-foigazgato-beszelgetes-lemondas-ugynokaktak/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "A Lezsák-hiba miatt felajánlotta lemondását Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója",
-        "link": "https://telex.hu/ugynokaktak/2026/11/09/lezsak-hiba-felajanlotta-lemondasat-cseh-gergo-bendeguz-allambiztonsagi-szolgalatok-torteneti-leveltaranak-foigazgatoja"
-      },
-      {
-        "source": "444.hu",
-        "title": "A Lezsák-botrány miatt felajánlotta a lemondását Cseh Gergő Bendegúz levéltár-főigazgató",
-        "link": "https://444.hu/2026/11/09/a-lezsak-botrany-miatt-felajanlotta-a-lemondasat-cseh-gergo-bendeguz-leveltar-foigazgato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "ATV",
-        "title": "Felajánlotta lemondását az ÁBTL főigazgatója, majd elárulta, mi vezetett az ügynökbotrány kirobbanásához",
-        "link": "https://www.atv.hu/belfold/20261109/abtl-bizottsag-lemondas-ugynokaktak/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Felajánlotta lemondását az ÁBTL főigazgatója",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/felajanlotta-lemondasat-az-abtl-foigazgatoja-875082"
-      }
-    ],
-    "published_at": 1794213780,
-    "title_hu": "Felajánlotta lemondását az ÁBTL főigazgatója a Lezsák-ügy miatt",
-    "lead_hu": "Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója felajánlotta lemondását, miután informatikai hiba miatt Lezsák Sándor és további 163 megfigyelt neve is tévesen a hálózati személyek között jelent meg. Cseh bocsánatot kért az érintettektől, és arról beszélt, hogy a hibás besorolást egy mágnesszalagokról származó kód félreértelmezése okozta.",
-    "content_hu": "• **Lemondási felajánlás:** Cseh Gergő Bendegúz az Országgyűlés Nemzetbiztonsági Bizottságának hétfői, határozatképtelenség miatt elmaradt ülése után ajánlotta fel lemondását.\n\n• **A hiba következménye:** Lezsák Sándor és további 163 megfigyelt neve tévesen került a hálózati személyek nyilvános adatbázisába; a neveket azóta eltávolították.\n\n• **A téves besorolás oka:** A levéltár az Alkotmányvédelmi Hivataltól kapott, nagy mennyiségű, rendezetlen adatot dolgozott fel. A megfigyelteket jelölő 05-ös kód felismerésének hiánya vezetett a hibás dekódoláshoz.\n\n• **Vizsgálat indul:** Péterfalvi Attila, a NAIH elnöke közölte, hogy hatósági eljárást indítanak, és értékelik a teljes folyamatot.",
-    "importance_score": 50.0
   },
   {
     "group_id": "group_ead1d7f1dc",
@@ -1870,6 +1875,37 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_39668c00e4",
+    "fingerprint": "418804ecfec75e9fb807fc68de18acbc",
+    "category": "Általános",
+    "image": "https://pcdn.hu/articles/images-xl/g/y/e/gyertya-gyasz-getty-stock-440006.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Elhunyt Palánkai Tibor közgazdász, az MTA rendes tagja",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/elhunyt-palankai-tibor-kozgazdasz-az-mta-rendes-tagja-875306"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Elhunyt Palánkai Tibor közgazdász, az MTA rendes tagja",
+        "link": "https://hvg.hu/itthon/20261109_elhunyt-palankai-tibor-kozgazdasz-az-mta-rendes-tagja"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Meghalt Palánkai Tibor közgazdász, az MTA rendes tagja",
+        "link": "https://24.hu/tudomany/2026/11/10/mta-nekrolog-palankai-tibor-kozgazdasz/"
+      }
+    ],
+    "published_at": 1794257400,
+    "title_hu": "Elhunyt Palánkai Tibor közgazdász, az MTA rendes tagja",
+    "lead_hu": "Életének 89. évében elhunyt Palánkai Tibor közgazdász, a Magyar Tudományos Akadémia rendes tagja. A nemzetközi gazdasági integráció kutatójaként és egyetemi vezetőként is meghatározó szerepet játszott.",
+    "content_hu": "• **Pályafutása** Palánkai Tibor 1960-ban szerzett közgazdászdiplomát, és még abban az évben oktatóként kezdett dolgozni egykori egyetemén. 1997 és 2000 között az intézmény rektora volt.\n\n• **Tudományos munkássága** Fő kutatási területe a nemzetközi gazdasági integráció, a fejlett országok gazdasága és a kelet-közép-európai gazdasági átalakulás volt. Jelentősen hozzájárult az integrációelmélet, különösen a monetáris integráció kutatásának fejlődéséhez.\n\n• **Elismerései** 2004-ben választották az MTA rendes tagjává. Munkásságát többek között Akadémiai Díjjal és 2009-ben Széchenyi-díjjal ismerték el.",
+    "importance_score": 33.0
+  },
+  {
     "group_id": "group_0d265253e9",
     "fingerprint": "50dbe801607f9f2fb92dece1de2ecb24",
     "category": "Politika",
@@ -2408,32 +2444,6 @@
     "title_hu": "Az MBH új számlacsomagjai digitális előfizetésekre is kínálnak kedvezményt",
     "lead_hu": "Az MBH Bank október 12-től öt konstrukcióból álló Tripla számlacsomag-családot kínál, amely a hagyományos banki szolgáltatások mellett digitális előfizetésekhez kapcsolódó visszatérítést és bankolási védelmet is tartalmazhat. A kedvezmények és a csomagdíjak csökkentése feltételekhez kötött.",
     "content_hu": "• **Öt számlacsomag közül lehet választani**: az MBH Tripla, Tripla PRO, Tripla MAX, Tripla MAX+ és Tripla SKY eltérő ügyféligényekhez igazodik; a szolgáltatások között kedvezményes átutalások, valamint bankkártyához és devizaszámlához kapcsolódó kedvezmények is szerepelnek.\n\n• **A digitális előfizetések díjából is járhat visszatérítés**: meghatározott streaming- és mesterségesintelligencia-szolgáltatásokra hat hónapig, havonta legfeljebb 8000 forintot téríthet vissza a bank, a feltételek teljesülése esetén.\n\n• **A csomagdíj kedvezménye az ügyfél pénzügyi szokásaitól függ**: rendszeres jövedelem és megtakarítás megléte esetén a havi díj 50 vagy akár 100 százalékkal csökkenhet. A számlanyitáshoz kapcsolódó promócióban az előírások teljesítésekor jóváírás, sikeres bankváltás esetén pedig további 30 ezer forint járhat.",
-    "importance_score": 23.0
-  },
-  {
-    "group_id": "group_39668c00e4",
-    "fingerprint": "418804ecfec75e9fb807fc68de18acbc",
-    "category": "Általános",
-    "image": "https://pcdn.hu/articles/images-xl/g/y/e/gyertya-gyasz-getty-stock-440006.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Elhunyt Palánkai Tibor közgazdász, az MTA rendes tagja",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/elhunyt-palankai-tibor-kozgazdasz-az-mta-rendes-tagja-875306"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Elhunyt Palánkai Tibor közgazdász, az MTA rendes tagja",
-        "link": "https://hvg.hu/itthon/20261109_elhunyt-palankai-tibor-kozgazdasz-az-mta-rendes-tagja"
-      }
-    ],
-    "published_at": 1794257400,
-    "title_hu": "Elhunyt Palánkai Tibor közgazdász, az MTA rendes tagja",
-    "lead_hu": "Életének 89. évében elhunyt Palánkai Tibor közgazdász, a Magyar Tudományos Akadémia rendes tagja. A nemzetközi gazdasági integráció kutatójaként és egyetemi vezetőként is meghatározó szerepet játszott.",
-    "content_hu": "• **Pályafutása** Palánkai Tibor 1960-ban szerzett közgazdászdiplomát, és még abban az évben oktatóként kezdett dolgozni egykori egyetemén. 1997 és 2000 között az intézmény rektora volt.\n\n• **Tudományos munkássága** Fő kutatási területe a nemzetközi gazdasági integráció, a fejlett országok gazdasága és a kelet-közép-európai gazdasági átalakulás volt. Jelentősen hozzájárult az integrációelmélet, különösen a monetáris integráció kutatásának fejlődéséhez.\n\n• **Elismerései** 2004-ben választották az MTA rendes tagjává. Munkásságát többek között Akadémiai Díjjal és 2009-ben Széchenyi-díjjal ismerték el.",
     "importance_score": 23.0
   },
   {
@@ -3257,6 +3267,25 @@
     "title_hu": "Vészfrissítést kaptak az iPhone-ok, azonnal telepíteni kell",
     "lead_hu": "Apró, de annál fontosabb frissítés jött az iPhone-okra: több veszélyes hibát is javít egy csapásra....",
     "content_hu": "Apró, de annál fontosabb frissítés jött az iPhone-okra: több veszélyes hibát is javít egy csapásra.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_3fd9a21bb0",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Kvíz: Emlékszel még a kötelező gyerekversekre? 10 kérdés, amit régen mindenki tudott - köztük vagy?",
+        "link": "https://nlc.hu/baba/20261110/kotelezo-gyerekversek-kviz/hk30fy8"
+      }
+    ],
+    "published_at": 1794297780,
+    "title_hu": "Kvíz: Emlékszel még a kötelező gyerekversekre? 10 kérdés, amit régen mindenki tudott - köztük vagy?",
+    "lead_hu": "Gyerekkorunkban sokszor kívülről kellett megtanulnunk a legismertebb magyar verseket, de vajon mennyire emlékszünk rájuk felnőttként? Ez a 10 kérdéses irodalmi kvíz a régi iskolai szavalások és kötele...",
+    "content_hu": "Gyerekkorunkban sokszor kívülről kellett megtanulnunk a legismertebb magyar verseket, de vajon mennyire emlékszünk rájuk felnőttként? Ez a 10 kérdéses irodalmi kvíz a régi iskolai szavalások és kötelező memoriterek világába repít vissza. Teszteld a memóriádat, és derítsd ki, hány gyerekkori verset tudnál ma is felidézni! Induljon a kvíz! The post Kvíz: Emlékszel még a kötelező gyerekversekre? 10 kérdés, amit régen mindenki tudott - köztük vagy? first appeared on nlc.",
     "importance_score": 0.0
   },
   {
@@ -12928,63 +12957,6 @@
     "title_hu": "Először ülhet hármasban asztalhoz Donald Trump, Vlagyimir Putyin és Hszi Csin-ping",
     "lead_hu": "A nukleáris fegyverzetkorlátozás, az iráni háború és az ukrajnai konfliktus is szóba kerülhet.",
     "content_hu": "A nukleáris fegyverzetkorlátozás, az iráni háború és az ukrajnai konfliktus is szóba kerülhet.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e08f500b4c",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/b0F3FLG--J2cmHltxhnrvjybAemUZjG0knJi3Nl57vM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzExZGYzOWJhMjVkOTQ4ZDdhOTBkZDk2YTdiZDU4OGIy.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Fordulat a BÉT-en: felfelé indult az OTP is",
-        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/fordulat-a-bet-en-felfele-indult-az-otp-is?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794211900,
-    "title_hu": "Fordulat a BÉT-en: felfelé indult az OTP is",
-    "lead_hu": "Óvatos emelkedéssel kezdte a hét első tőzsdenapját a BUX.",
-    "content_hu": "Óvatos emelkedéssel kezdte a hét első tőzsdenapját a BUX.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_950a0bf5ca",
-    "category": "Gazdaság",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Már 25 és fél milliárd euró fölött jár Románia külkereskedelmi hiánya",
-        "link": "https://index.hu/kulfold/2026/11/09/romania-ins-export-import-kulkereskedelem/"
-      }
-    ],
-    "published_at": 1794211860,
-    "title_hu": "Már 25 és fél milliárd euró fölött jár Románia külkereskedelmi hiánya",
-    "lead_hu": "Az import továbbra is jelentősen meghaladja az exportot, tovább növelve a deficitet.",
-    "content_hu": "Az import továbbra is jelentősen meghaladja az exportot, tovább növelve a deficitet.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f7b244ba34",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/10/cewe_24hu-1140x641-1-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A világ, ahogyan te látod – Mutasd, mire vagy kép-es a CEWE Photo Awardon!",
-        "link": "https://24.hu/kultura/2026/11/09/a-vilag-ahogyan-te-latod-mutasd-mire-vagy-kep-es-a-cewe-photo-awardon/"
-      }
-    ],
-    "published_at": 1794211789,
-    "title_hu": "A világ, ahogyan te látod – Mutasd, mire vagy kép-es a CEWE Photo Awardon!",
-    "lead_hu": "A repülő ürge: tervezés és váratlan helyzetek Ambrus Tímea 2019 óta professzionális szinten The post A világ, ahogyan te látod – Mutasd, mire vagy kép-es a CEWE Photo Awardon! first appeared on 24.hu.",
-    "content_hu": "A repülő ürge: tervezés és váratlan helyzetek Ambrus Tímea 2019 óta professzionális szinten The post A világ, ahogyan te látod – Mutasd, mire vagy kép-es a CEWE Photo Awardon! first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
