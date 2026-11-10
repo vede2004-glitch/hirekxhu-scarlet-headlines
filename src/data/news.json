@@ -1552,7 +1552,7 @@
     "title_hu": "Nemzetközi demonstrációval álltak ki Győrben az európai autóipari munkahelyekért",
     "lead_hu": "Hét ország munkavállalói demonstráltak november 9-én Győrben az európai autóipar jövőjéért és a munkahelyek megőrzéséért. A tiltakozás közvetlen előzménye a WKW Hungária bezárása, amely csaknem 500 dolgozó állásába kerül; a szakszervezetek támogatást, de ahhoz kötött vállalásokat sürgetnek.",
     "content_hu": "• **Nemzetközi összefogás** Németországból, Csehországból, Lengyelországból, Ausztriából, Szlovéniából és Szlovákiából is érkeztek résztvevők a győri demonstrációra. A szakszervezetek által szervezett tiltakozás magyar résztvevőit a Vasas Szakszervezeti Szövetség koordinálta; az eseménynek az Audi Aréna parkolója adott helyet.\n\n• **Bezár a WKW Hungária** A győri vállalat megszünteti magyarországi termelését, így év végén csaknem 500 ember veszíti el a munkáját. A cég prémiumautókhoz gyártott díszléceket; a dolgozók korábban sztrájkkal is tiltakoztak, de a vállalatot végül nem sikerült megmenteni vagy értékesíteni. A németországi üzem tovább működik.\n\n• **Támogatást, de feltételekkel kérnek** László Zoltán, a Vasas Szakszervezeti Szövetség alelnöke szerint az autóiparnak nyújtott támogatásokat a munkaügyi körülményekhez és olyan vállalásokhoz kellene kötni, mint az európai beszállítóktól történő beszerzés. A szakszervezetek szerint az állami segítség az európai gyártók versenyhátrányának mérséklését is szolgálhatja.\n\n• **A foglalkoztatás és a beruházások is számítanak** László Zoltán azzal érvelt, hogy a távol-keleti gyártók versenyelőnyét részben a foglalkoztatási különbségek és az állami támogatások adják. Azt is kiemelte: állítása szerint a távol-keleti autóipari vállalatok a nyereségük mintegy 90 százalékát kutatás-fejlesztésre és innovációra fordítják, miközben az európai cégek jelentős osztalékot fizetnek ki; szerinte a versenyhátrányt nem tömeges elbocsátásokkal kellene kezelni.\n\n• **Az ágazat megélhetések millióit érinti** László Zoltán adatai szerint Európa járműipara közvetlenül 2,2–2,5 millió embert foglalkoztat, a kapcsolódó területekkel és beszállítókkal együtt pedig mintegy 14 millióan dolgoznak az ágazatban. Ez az európai foglalkoztatottak 6–7 százaléka, ezért a munkahelyek veszélybe kerülése szélesebb gazdasági és társadalmi következményekkel járhat.\n\n• **A demonstráción felszólalók is részt vettek** A HVG beszámolója szerint Pintér Bence, Győr polgármestere és Judith Kirton-Darling, az Európai Szakszervezeti Szövetség főtitkára is beszédet mondott. A résztvevők a létszámleépítések, a fizetéscsökkentések és a gyárbezárások miatt emeltek szót.\n\n• **Európa versenyképessége a tét** A kínai gyártók erősödő versenye, az elektromos átállás költségei, az energiaárak és az európai autógyártás versenyképességi gondjai nyomást gyakorolnak az ágazatra. A demonstrálók szerint a gyárbezárások és elbocsátások következményei túlmutatnak az egyes üzemeken; a győri tiltakozás egy szélesebb európai munkahelyvédelmi megmozdulás része.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_97962e9d81",
@@ -2425,7 +2425,7 @@
     "title_hu": "Szétszakadt egy tehervonat, pótlóbuszok járnak a térségben",
     "lead_hu": "Tehervonat szakadt szét Székesfehérvár és Sárszentmihály között, ezért ezen a szakaszon nem közlekednek a vonatok. Székesfehérvár és Várpalota között pótlóbuszok szállítják az utasokat, a Szombathelyre tartó Bakony InterCity pedig Székesfehérvárról indul.",
     "content_hu": "• **Vasúti fennakadás** Tehervonat szakadt szét Székesfehérvár és Sárszentmihály között, ezért a két állomás között leállt a vonatközlekedés.\n\n• **Pótlóbuszok** Székesfehérvár és Várpalota között autóbuszokkal szállítják az utasokat.\n\n• **Bakony InterCity** A Déli pályaudvarról 18 órakor Szombathelyre induló járat Székesfehérvártól közlekedik.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_a618b9c128",
@@ -3122,30 +3122,42 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_c94eb12058",
-    "fingerprint": "221aaf185ce473faf9df110eb0bec31d",
-    "category": "Általános",
+    "group_id": "group_d70dfeb792",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261110/1794289748-temp-qu339sd2jndm9hkmbba_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Kaliforniában leszavazták a vagyonadó bevezetését, a Google alapítója 100 millió dollárt költött az ellenkampányra",
+        "link": "https://telex.hu/kulfold/2026/11/10/kaliforniaban-leszavaztak-a-vagyonado-bevezeteset-a-google-alapitoja-100-millio-dollart-koltott-az-ellenkampanyra"
+      }
+    ],
+    "published_at": 1794289766,
+    "title_hu": "Kaliforniában leszavazták a vagyonadó bevezetését, a Google alapítója 100 millió dollárt költött az ellenkampányra",
+    "lead_hu": "A javaslat egyszeri 5 százalékos adót vetett volna ki a milliárdosokra....",
+    "content_hu": "A javaslat egyszeri 5 százalékos adót vetett volna ki a milliárdosokra.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_1abdc0385f",
+    "category": "Politika",
     "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
         "source": "444.hu",
-        "title": "Tűz ütött ki egy kínai toronyházban, legalább 14-en meghaltak",
-        "link": "https://444.hu/2026/11/09/tuz-utott-ki-egy-kinai-toronyhazban-legalabb-14-en-meghaltak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kigyulladt egy toronyház Kínában, 14-en meghaltak",
-        "link": "https://24.hu/kulfold/2026/11/09/kina-toronyhaz-tuz-tajjuan/"
+        "title": "Trump szerint „rendkívül valószínűtlen”, hogy az Egyesült Államok újabb támadást indítson Irán ellen",
+        "link": "https://444.hu/2026/11/10/trump-szerint-rendkivul-valoszinutlen-hogy-az-egyesult-allamok-ujabb-tamadast-inditson-iran-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
-    "published_at": 1794203165,
-    "title_hu": "Tizennégyen haltak meg egy kínai toronyház tüzében",
-    "lead_hu": "Tizennégy ember vesztette életét egy vasárnap délutáni tűzben az észak-kínai Tajjüan egyik toronyházában. A lángokat mintegy két óra alatt oltották el, a tűz keletkezésének okát vizsgálják.",
-    "content_hu": "• **A tűz helyszíne és időpontja** A lángok vasárnap délután csaptak fel a Sanhszi tartomány székhelyén, Tajjüanban álló toronyházban.\n\n• **Áldozatok és sérültek** A hatóságok 14 halálos áldozatot erősítettek meg, 38 embert pedig kórházba szállítottak.\n\n• **Oltás és vizsgálat** A tüzet mintegy két óra alatt sikerült eloltani, a mentést később fejezték be. A tűz keletkezésének okát vizsgálják.",
-    "importance_score": 20.0
+    "published_at": 1794289496,
+    "title_hu": "Trump szerint „rendkívül valószínűtlen”, hogy az Egyesült Államok újabb támadást indítson Irán ellen",
+    "lead_hu": "De „teljes harckészültségben” állnak arra az esetre, ha a körülmények megváltoznának....",
+    "content_hu": "De „teljes harckészültségben” állnak arra az esetre, ha a körülmények megváltoznának.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_75c546c5b2",
@@ -3411,6 +3423,25 @@
     "title_hu": "Ügynökbotrány, politikai leszámolás és krakkói vérengzés: három súlyos ügy a Vezércikkben",
     "lead_hu": "Orbán Viktor politikai leszámolást emleget....",
     "content_hu": "Orbán Viktor politikai leszámolást emleget.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_8f01ac274c",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261109/1794238090-temp-bh72q8m6sdm8fabaofn_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Csúszik a paksi védekezésben részt vevő vízügyeseknek ígért juttatás kifizetése",
+        "link": "https://telex.hu/belfold/2026/11/10/vizugyi-foigazgatosag-oktober-23-jutalom-csuszas-paksi-fenekkuszob"
+      }
+    ],
+    "published_at": 1794287701,
+    "title_hu": "Csúszik a paksi védekezésben részt vevő vízügyeseknek ígért juttatás kifizetése",
+    "lead_hu": "Magyar Péter október 23-ára ígérte az egyhavi juttatás kifizetését, de az érintettek még november elején sem kapták meg a pénzt. Az OVF szerint több időt vesz igénybe az adatok feldolgozása....",
+    "content_hu": "Magyar Péter október 23-ára ígérte az egyhavi juttatás kifizetését, de az érintettek még november elején sem kapták meg a pénzt. Az OVF szerint több időt vesz igénybe az adatok feldolgozása.",
     "importance_score": 0.0
   },
   {
@@ -3696,6 +3727,25 @@
     "title_hu": "Megérkezett a profik ítélete az OTP-ről, most már mindenki a szerda hajnalt várja: pontosan megnevezték az elemzők a kockázatokat",
     "lead_hu": "A régió egyik legerősebb növekedési történetének tűnik.",
     "content_hu": "A régió egyik legerősebb növekedési történetének tűnik.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_242e514106",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261110/1794284591-temp-mopp8vb376na2cihoea_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "850 dolgozót elbocsát a Qantas, nagyrészt Indiába szervezik ki a munkájukat",
+        "link": "https://telex.hu/gazdasag/2026/11/10/850-dolgozot-bocsat-el-a-qantas-legitarsasag-2027-ben-ausztralia-kiszervezes-mesterseges-intelligencia"
+      }
+    ],
+    "published_at": 1794284852,
+    "title_hu": "850 dolgozót elbocsát a Qantas, nagyrészt Indiába szervezik ki a munkájukat",
+    "lead_hu": "Az ausztrál légitársaság a mesterséges intelligencia alkalmazására áll át több területen....",
+    "content_hu": "Az ausztrál légitársaság a mesterséges intelligencia alkalmazására áll át több területen.",
     "importance_score": 0.0
   },
   {
@@ -12664,25 +12714,6 @@
     "title_hu": "Nem várt fordulat, ő lehet az ENSZ következő főtitkára: Orbán Viktor neve hirtelen eltűnt, nagy meglepetés készül a végén – nem a legesélyesebb jelölt nyerhet",
     "lead_hu": "Megvan, ki a legesélyesebb, de mégis egy palesztin–emírségekbeli diplomata lehet az ENSZ új főtitkára.",
     "content_hu": "Megvan, ki a legesélyesebb, de mégis egy palesztin–emírségekbeli diplomata lehet az ENSZ új főtitkára.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e15eb3a0fa",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7245/72459/724591/72459177_5339555_010a87d6724d3b11874e44517521bc41_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Rémálommá vált az olaszországi álomnyaralás, százezreket követeltek a magyar turistáktól",
-        "link": "https://index.hu/kulfold/2026/11/09/olaszorszag-magyar-autosok-nyaralas-kozlekedesi-birsag-szabalysertesek/"
-      }
-    ],
-    "published_at": 1794203160,
-    "title_hu": "Rémálommá vált az olaszországi álomnyaralás, százezreket követeltek a magyar turistáktól",
-    "lead_hu": "Negyven éve vezetnek, de ami velük történt, arra semmi nem készítette fel őket.",
-    "content_hu": "Negyven éve vezetnek, de ami velük történt, arra semmi nem készítette fel őket.",
     "importance_score": 0.0
   },
   {
