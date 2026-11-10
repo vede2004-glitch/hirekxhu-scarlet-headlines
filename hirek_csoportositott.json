@@ -95,19 +95,124 @@
     ]
   },
   {
-    "group_id": "group_dc4beb4133",
+    "group_id": "group_0a1af81543",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
-        "source": "HVG - Itthon",
-        "title": "Részeg lehetett a sofőr, aki autójával egy parkoló kocsiba csapódott, egy fiatal a helyszínen életét veszítette",
-        "link": "https://hvg.hu/itthon/20261109_halalos-baleset-reszeg-sofor-parkolo-auto-nyiregyhaza-benzinkut",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/726cc8b4-24d0-4ff0-af6f-cd9804ae3e91.jpg",
-        "summary": "Egy nyíregyházi benzinkúton történt a tragédia.",
+        "source": "ATV",
+        "title": "„Büdösnek érzem ezt a történetet” – Orbán Áron ügye miatt heves vita robbant ki a stúdióban",
+        "link": "https://www.atv.hu/belfold/20261109/orban-aron-vita-egyenes-beszed/",
+        "image": "https://www.youtube.com/embed/_uAUN15NMUo",
+        "summary": "Az ATV Egyenes beszéd című műsorában Móna Márk és Kukorelly Endre estek egymásnak a miniszterelnök öccsének, Orbán Áronnak az ügye miatt.",
         "category": "Politika",
-        "published_at": 1794253691
+        "published_at": 1794254460
+      }
+    ]
+  },
+  {
+    "group_id": "group_e39d8521e4",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Bors",
+        "title": "Otthagyta az egyetemet a nő, hogy férfiakat fenekeljen el pénzért",
+        "link": "https://borsonline.origo.hu/szex/2026/11/domina-otthagyta-az-egyetemet-a-no",
+        "image": "https://cdn.borsonline.hu/2026/08/W3VCE_qScFbSzZ6vqM2qOr40nv97cH1a56m9TPoUh1o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FlMjVhMTVjMjg3NzQzNzc5MmZlMjEyNTA3YjlkNDE2.jpg",
+        "summary": "Melissa Todd egy oxfordi diplomának intett búcsút, hogy egy meglehetősen bizarr karrierbe kezdjen. A nő először sztriptíz táncolni kezdett, majd dominaként kezdett el dolgozni - mára pedig akad néhány meglehetősen hűséges ügyfele.",
+        "category": "Bulvár",
+        "published_at": 1794254400
+      }
+    ]
+  },
+  {
+    "group_id": "group_a53a19711e",
+    "category": "Politika",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Magyar Péter szerint a második világháború óta nem volt ennyire veszélyes a nemzetközi helyzet, mint most",
+        "link": "https://index.hu/kulfold/2026/11/09/magyar-peter-berlin-europa-beszed-masodik-vilaghaboru-migracio/",
+        "image": "https://kep.index.hu/1/0/7248/72487/724877/72487727_5341593_83ddcc68597c8817705cad9f651f4314_wm.jpg",
+        "summary": "Berlinben tart beszédet a kormányfő.",
+        "category": "Politika",
+        "published_at": 1794254640
       },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Magyar Péter Berlinben: a második világháború óta nem volt ennyire bonyolult és veszélyes a nemzetközi helyzet",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/magyar-peter-berlinben-a-masodik-vilaghaboru-ota-nem-volt-ennyire-bonyolult-es-veszelyes-a-nemzetkozi-helyzet-875304",
+        "image": "https://pcdn.hu/articles/images-xl/d/e/b/debre20261109001-868040.jpg",
+        "summary": "A második világháború óta nem volt ennyire bonyolult és veszélyes a nemzetközi helyzet, mint jelenleg - jelentette ki Magyar Péter miniszterelnök hétfőn, Berlinben a Konrad Adenauer Alapítvány által szervezett 17. State of Europe (Európa helyzete) rendezvényen, a berlini fal leomlásnak 37 évfordulóján.",
+        "category": "Politika",
+        "published_at": 1794255360
+      },
+      {
+        "source": "ATV",
+        "title": "Magyar Péter: a második világháború óta nem volt ennyire bonyolult és veszélyes a nemzetközi helyzet",
+        "link": "https://www.atv.hu/kulfold/20261109/magyar-peter-europa-beszed/",
+        "image": "",
+        "summary": "A második világháború óta nem volt ennyire bonyolult és veszélyes a nemzetközi helyzet, mint jelenleg - jelentette ki Magyar Péter miniszterelnök Berlinben, a Konrad Adenauer Alapítvány által szervezett, 17. State of Europe (Európa helyzete) című rendezvényen hétfőn, a berlini fal leomlásának 37. évfordulóján.",
+        "category": "Politika",
+        "published_at": 1794259873
+      }
+    ]
+  },
+  {
+    "group_id": "group_25bba6b76f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Augusztus óta nem volt ilyen olcsó az olaj, hatalmasat zuhant a Brent ára",
+        "link": "https://index.hu/gazdasag/2026/11/09/brent-olaj-arak-csokkenes-amerikai-irani-konfliktus-beketargyalasok/",
+        "image": "https://kep.index.hu/1/0/7248/72487/724876/72487623_5341585_85c0146be0a5ca445cb899e59ca021b3_wm.jpg",
+        "summary": "A kőolaj jegyzése 4,5 százalékos eséssel 96 dollár alá süllyedt.",
+        "category": "Általános",
+        "published_at": 1794254580
+      }
+    ]
+  },
+  {
+    "group_id": "group_e126d40637",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Gáspár Győző megérkezett az Ázsia Expresszbe, rögtön odaszúrt Stohl Andrással Kiara Lordnak",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/09/gaspar-gyozo-stohl-andrassal-szurt-oda-kiara-lordnak-az-azsia-expresszben/",
+        "image": "https://kep.index.hu/1/0/7248/72486/724867/72486765_49e88706b27ed5e2054b48e222ac8a6a_wm.png",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1794254529
+      }
+    ]
+  },
+  {
+    "group_id": "group_4365a646db",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Brutális anomáliára bukkantak: Láthatatlan, 150 milliárd kilométer hosszú porcsíkot találtak tőlünk 63 fényévre",
+        "link": "https://raketa.hu/lathatatlan-150-milliard-kilometeres-porcsik-anomalia-beta-pictoris/",
+        "image": "https://raketa.hu/uploads/2026/11/cats-tail.jpg",
+        "summary": "Óriási, láthatatlan porcsíkot fedeztek fel a szomszédos csillagrendszerben. Erről a fura anomáliáról a University of Arizona csillagászai számoltak be a The Astrophysical Journal Letters folyóiratban megjelent tanulmányukban.",
+        "category": "Kultúra",
+        "published_at": 1794258207
+      }
+    ]
+  },
+  {
+    "group_id": "group_dc4beb4133",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
       {
         "source": "24.hu - Legfrissebb",
         "title": "Benzinkúton parkoló autóba csapódott egy részeg férfi Nyíregyházán, meghalt egy 20 éves fiatal",
@@ -120,44 +225,26 @@
     ]
   },
   {
-    "group_id": "group_b3171ed673",
-    "category": "Gazdaság",
+    "group_id": "group_a8ebab5d7b",
+    "category": "Politika",
     "articles_count": 1,
     "articles": [
       {
-        "source": "Index - Címlap",
-        "title": "Jelzőrakéták az égben, 400 milliárd forint tűnt el a magyar kulcságazatból",
-        "link": "https://index.hu/gazdasag/2026/11/09/agrar-agrarium-mezogazdasag-termofold-novenytermesztes-jovedelmezoseg-gazdak-gazda-aszaly-szarazsag-kukorica/",
-        "image": "https://kep.index.hu/1/0/7245/72452/724520/72452047_5339067_0159c902b8171c06f2a892a93736012e_wm.jpg",
-        "summary": "A szakértő szerint mindenkinek el kell fogadnia, hogy ez így nem mehet tovább.",
-        "category": "Gazdaság",
-        "published_at": 1794253740
+        "source": "Világgazdaság",
+        "title": "Mielőtt elindult Berlinbe, Magyar Péter nyilvánosan megfenyegette a legfontosabb állami intézmény vezetőjét: „Le fogjuk váltani”",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-orszaggyules-allami-szamvevoszek-elnok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/pIznWu6U1ixodagAYV2jN0EyXeDA8kGmDjYpkBczrjU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg0Y2VkOWNkM2VjMTQyMmE5OTIxZjk4MTgxZTJiOWYy.jpg",
+        "summary": "Újabb fordulatot vett a miniszterelnök és az egyik legfontosabb független állami intézmény vezetője közötti konfliktus. Magyar Péter ezúttal már nem egyszerűen bírálta a számvevőszék működését, hanem egyértelművé tette, milyen személyi változást akar elérni. A kijelentés különösen annak fényében figyelemre méltó, hogy az érintett vezető mandátuma még hosszú évekig érvényes.",
+        "category": "Politika",
+        "published_at": 1794255045
       }
     ]
   },
   {
     "group_id": "group_0ddcb5f5a0",
     "category": "Politika",
-    "articles_count": 49,
+    "articles_count": 47,
     "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Hidvéghi Balázs: Orbán Áron őrizetbe vételével az ügynökaktákról akarják elterelni a figyelmet",
-        "link": "https://index.hu/belfold/2026/11/09/hidveghi-balazs-orban-aron-viktor-magyar-peter-fidesz-kdnp-mathe-zsuzsa-orizet-parlament-ugynok/",
-        "image": "https://kep.index.hu/1/0/6996/69961/699614/69961421_5161839_b305a9c04888ae9f5f06a819d12374f2_wm.jpg",
-        "summary": "A Fidesz képviselője nem tudja, bűnös-e Orbán Viktor testvére, de szerinte nem is róla szól az ügy.",
-        "category": "Politika",
-        "published_at": 1794253740
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Már fotók is bizonyítják: tényleg Orbán Viktor öccsét fogták el",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/mar-fotok-is-bizonyitjak-tenyleg-orban-viktor-occset-fogtak-el-875294",
-        "image": "https://pcdn.hu/articles/images-xl/b/i/l/bilincs-stock-660785.jpg",
-        "summary": "A hvg.hu Gyorskocsi utcai fogda előtt készült sajtófotóin egyértelműen felismerhető Orbán Viktor testvére, Orbán Áron.",
-        "category": "Politika",
-        "published_at": 1794253800
-      },
       {
         "source": "HVG - Itthon",
         "title": "Őrizetbe vették mind a négy gyanúsítottat az Orbán Áront érintő ügyben",
@@ -580,204 +667,6 @@
         "summary": "A vízumbizniszt annak ellenére sem adhatták fel, hogy 2024 őszén a rendőrség és a nyilvánosság is tudomást szerzett róla.",
         "category": "Politika",
         "published_at": 1794339060
-      }
-    ]
-  },
-  {
-    "group_id": "group_138870eb96",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Megszólalt Kármán András az elnöki vétó után",
-        "link": "https://24.hu/fn/gazdasag/2026/11/09/karman-andras-reakcio-alkotmanybirosag-vagyonvedelmi-torveny/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1098292012-1-e1794252953110-1024x575.jpg",
-        "summary": "A kormány elemzi az államfő alkotmánybírósági indítványát, de Kármán András szerint az állami vagyon védelmét célzó törvény alapvető céljai nem változtak. The post Megszólalt Kármán András az elnöki vétó után first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794253597
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Megszólalt Kármán András Baka András vétója után: nem változnak a kormány céljai",
-        "link": "https://index.hu/gazdasag/2026/11/10/allami-vagyon-vedelme-torveny-alairas-megtagadas-baka-adras-karman-andras-miniszter-reakcio/",
-        "image": "https://kep.index.hu/1/0/7249/72496/724967/72496749_5342229_916c267ae601f53e3933618dd29e267f_wm.jpg",
-        "summary": "Az államfő nem írta alá az állami vagyon védelméről szóló törvényt.",
-        "category": "Politika",
-        "published_at": 1794292860
-      },
-      {
-        "source": "444.hu",
-        "title": "Kármán Andrásék elemzik az államfő indítványát, amivel az Alkotmánybírósághoz fordult a vagyontörvény miatt",
-        "link": "https://444.hu/2026/11/10/karman-andrasek-elemzik-az-allamfo-inditvanyat-amivel-az-alkotmanybirosaghoz-fordult-a-vagyontorveny-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Baka András köztársasági elnök több kifogást is emelt a törvény ellen. A PM vizsgálja a beadványt, de Kármán András szerint a céljaik nem változtak.",
-        "category": "Politika",
-        "published_at": 1794301218
-      }
-    ]
-  },
-  {
-    "group_id": "group_63bf2cc4b3",
-    "category": "Gazdaság",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Ez már ijesztő: egymás után zárnak be Magyarországon a benzinkutak, máris itt a következő – világosan megmondták, mi az oka",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/benzinkut-bezaras-magyarorszag-uzemanyag-arkepzes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/nx2buk7apldiOsQ8Aa0kZkbSGQddrGp4ZMkO3DgYALc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAyM2YyMWJjYjBjMzQxNzViYTJjNTU5MjljZWU1MmZl.jpg",
-        "summary": "Egyre súlyosabb a helyzet.",
-        "category": "Gazdaság",
-        "published_at": 1794253809
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "A magyar benzinautósok fellélegezhetnek, a dízelesekre még nehéz idők várnak",
-        "link": "https://hvg.hu/360/20261110_uzemanyag-arak-benzin-dizel-gazolaj-mennyibe-kerul-mi-varhato",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b5ac146c-5c24-4fc7-94b2-8791b0705da6.jpg",
-        "summary": "Európában benzinből túltermelés van, gázolajból ugyanakkor hiány. Az egyéves leállás után újra teljes kapacitáson működik a Mol százhalombattai finomítója, de ez is a benzinhelyzetet segíti. Magyarországon még mindig túl olcsók az üzemanyagok, az árakat szinte biztosan a Mol kézivezérli busás finomítói nyeresége birtokában.",
-        "category": "Gazdaság",
-        "published_at": 1794308400
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Új motor hajtja a magyar ipart, megtorpant az elmúlt évek húzóágazata",
-        "link": "https://www.portfolio.hu/gazdasag/20261110/uj-motor-hajtja-a-magyar-ipart-megtorpant-az-elmult-evek-huzoagazata-875402",
-        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1742333703-gyr-csarnok-ipar-gpipar-gpek-zem-ingatlan-ipari-gyrts-termels-864082.jpg",
-        "summary": "Miközben a magyar ipar az elmúlt években látványosan gyengélkedett, a felszín alatt jelentős szerkezeti átrendeződés ment végbe - derült ki a Központi Statisztikai Hivatal (KSH) ipari statisztikákat bemutató sajtótájékoztatóján. A KSH friss termékstatisztikai adatai szerint 2019 és 2025 között az autóipar - különösen a belső égésű motoros járműgyártásé - gazdasági súlya visszaesett, a 2019-2024-es dinamikus növekedés után megtorpant az akkumulátorgyártás térnyerése is, miközben a hazai számítógép- és perifériaegységek értékesítése árhatásoktól megtisztítva csaknem megnégyszereződött ugyanebben az időszakban.",
-        "category": "Gazdaság",
-        "published_at": 1794312000
-      }
-    ]
-  },
-  {
-    "group_id": "group_0a1af81543",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "„Büdösnek érzem ezt a történetet” – Orbán Áron ügye miatt heves vita robbant ki a stúdióban",
-        "link": "https://www.atv.hu/belfold/20261109/orban-aron-vita-egyenes-beszed/",
-        "image": "https://www.youtube.com/embed/_uAUN15NMUo",
-        "summary": "Az ATV Egyenes beszéd című műsorában Móna Márk és Kukorelly Endre estek egymásnak a miniszterelnök öccsének, Orbán Áronnak az ügye miatt.",
-        "category": "Politika",
-        "published_at": 1794254460
-      }
-    ]
-  },
-  {
-    "group_id": "group_e39d8521e4",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "Otthagyta az egyetemet a nő, hogy férfiakat fenekeljen el pénzért",
-        "link": "https://borsonline.origo.hu/szex/2026/11/domina-otthagyta-az-egyetemet-a-no",
-        "image": "https://cdn.borsonline.hu/2026/08/W3VCE_qScFbSzZ6vqM2qOr40nv97cH1a56m9TPoUh1o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FlMjVhMTVjMjg3NzQzNzc5MmZlMjEyNTA3YjlkNDE2.jpg",
-        "summary": "Melissa Todd egy oxfordi diplomának intett búcsút, hogy egy meglehetősen bizarr karrierbe kezdjen. A nő először sztriptíz táncolni kezdett, majd dominaként kezdett el dolgozni - mára pedig akad néhány meglehetősen hűséges ügyfele.",
-        "category": "Bulvár",
-        "published_at": 1794254400
-      }
-    ]
-  },
-  {
-    "group_id": "group_a53a19711e",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Magyar Péter szerint a második világháború óta nem volt ennyire veszélyes a nemzetközi helyzet, mint most",
-        "link": "https://index.hu/kulfold/2026/11/09/magyar-peter-berlin-europa-beszed-masodik-vilaghaboru-migracio/",
-        "image": "https://kep.index.hu/1/0/7248/72487/724877/72487727_5341593_83ddcc68597c8817705cad9f651f4314_wm.jpg",
-        "summary": "Berlinben tart beszédet a kormányfő.",
-        "category": "Politika",
-        "published_at": 1794254640
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Magyar Péter Berlinben: a második világháború óta nem volt ennyire bonyolult és veszélyes a nemzetközi helyzet",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/magyar-peter-berlinben-a-masodik-vilaghaboru-ota-nem-volt-ennyire-bonyolult-es-veszelyes-a-nemzetkozi-helyzet-875304",
-        "image": "https://pcdn.hu/articles/images-xl/d/e/b/debre20261109001-868040.jpg",
-        "summary": "A második világháború óta nem volt ennyire bonyolult és veszélyes a nemzetközi helyzet, mint jelenleg - jelentette ki Magyar Péter miniszterelnök hétfőn, Berlinben a Konrad Adenauer Alapítvány által szervezett 17. State of Europe (Európa helyzete) rendezvényen, a berlini fal leomlásnak 37 évfordulóján.",
-        "category": "Politika",
-        "published_at": 1794255360
-      },
-      {
-        "source": "ATV",
-        "title": "Magyar Péter: a második világháború óta nem volt ennyire bonyolult és veszélyes a nemzetközi helyzet",
-        "link": "https://www.atv.hu/kulfold/20261109/magyar-peter-europa-beszed/",
-        "image": "",
-        "summary": "A második világháború óta nem volt ennyire bonyolult és veszélyes a nemzetközi helyzet, mint jelenleg - jelentette ki Magyar Péter miniszterelnök Berlinben, a Konrad Adenauer Alapítvány által szervezett, 17. State of Europe (Európa helyzete) című rendezvényen hétfőn, a berlini fal leomlásának 37. évfordulóján.",
-        "category": "Politika",
-        "published_at": 1794259873
-      }
-    ]
-  },
-  {
-    "group_id": "group_25bba6b76f",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Augusztus óta nem volt ilyen olcsó az olaj, hatalmasat zuhant a Brent ára",
-        "link": "https://index.hu/gazdasag/2026/11/09/brent-olaj-arak-csokkenes-amerikai-irani-konfliktus-beketargyalasok/",
-        "image": "https://kep.index.hu/1/0/7248/72487/724876/72487623_5341585_85c0146be0a5ca445cb899e59ca021b3_wm.jpg",
-        "summary": "A kőolaj jegyzése 4,5 százalékos eséssel 96 dollár alá süllyedt.",
-        "category": "Általános",
-        "published_at": 1794254580
-      }
-    ]
-  },
-  {
-    "group_id": "group_e126d40637",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Gáspár Győző megérkezett az Ázsia Expresszbe, rögtön odaszúrt Stohl Andrással Kiara Lordnak",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/09/gaspar-gyozo-stohl-andrassal-szurt-oda-kiara-lordnak-az-azsia-expresszben/",
-        "image": "https://kep.index.hu/1/0/7248/72486/724867/72486765_49e88706b27ed5e2054b48e222ac8a6a_wm.png",
-        "summary": "",
-        "category": "Általános",
-        "published_at": 1794254529
-      }
-    ]
-  },
-  {
-    "group_id": "group_4365a646db",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Brutális anomáliára bukkantak: Láthatatlan, 150 milliárd kilométer hosszú porcsíkot találtak tőlünk 63 fényévre",
-        "link": "https://raketa.hu/lathatatlan-150-milliard-kilometeres-porcsik-anomalia-beta-pictoris/",
-        "image": "https://raketa.hu/uploads/2026/11/cats-tail.jpg",
-        "summary": "Óriási, láthatatlan porcsíkot fedeztek fel a szomszédos csillagrendszerben. Erről a fura anomáliáról a University of Arizona csillagászai számoltak be a The Astrophysical Journal Letters folyóiratban megjelent tanulmányukban.",
-        "category": "Kultúra",
-        "published_at": 1794258207
-      }
-    ]
-  },
-  {
-    "group_id": "group_a8ebab5d7b",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Mielőtt elindult Berlinbe, Magyar Péter nyilvánosan megfenyegette a legfontosabb állami intézmény vezetőjét: „Le fogjuk váltani”",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-orszaggyules-allami-szamvevoszek-elnok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/pIznWu6U1ixodagAYV2jN0EyXeDA8kGmDjYpkBczrjU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg0Y2VkOWNkM2VjMTQyMmE5OTIxZjk4MTgxZTJiOWYy.jpg",
-        "summary": "Újabb fordulatot vett a miniszterelnök és az egyik legfontosabb független állami intézmény vezetője közötti konfliktus. Magyar Péter ezúttal már nem egyszerűen bírálta a számvevőszék működését, hanem egyértelművé tette, milyen személyi változást akar elérni. A kijelentés különösen annak fényében figyelemre méltó, hogy az érintett vezető mandátuma még hosszú évekig érvényes.",
-        "category": "Politika",
-        "published_at": 1794255045
       }
     ]
   },
@@ -2968,6 +2857,31 @@
         "summary": "Amikor kikapcsolják a TV-t és a nagy fekete téglalap mintha mindent elnyomna maga körül. Ilyenkor sokan elgondolkoznak azon, hogyan lehetne kicsit szebbé varázsolni a szobát.",
         "category": "Bulvár",
         "published_at": 1794292500
+      }
+    ]
+  },
+  {
+    "group_id": "group_138870eb96",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt Kármán András Baka András vétója után: nem változnak a kormány céljai",
+        "link": "https://index.hu/gazdasag/2026/11/10/allami-vagyon-vedelme-torveny-alairas-megtagadas-baka-adras-karman-andras-miniszter-reakcio/",
+        "image": "https://kep.index.hu/1/0/7249/72496/724967/72496749_5342229_916c267ae601f53e3933618dd29e267f_wm.jpg",
+        "summary": "Az államfő nem írta alá az állami vagyon védelméről szóló törvényt.",
+        "category": "Politika",
+        "published_at": 1794292860
+      },
+      {
+        "source": "444.hu",
+        "title": "Kármán Andrásék elemzik az államfő indítványát, amivel az Alkotmánybírósághoz fordult a vagyontörvény miatt",
+        "link": "https://444.hu/2026/11/10/karman-andrasek-elemzik-az-allamfo-inditvanyat-amivel-az-alkotmanybirosaghoz-fordult-a-vagyontorveny-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Baka András köztársasági elnök több kifogást is emelt a törvény ellen. A PM vizsgálja a beadványt, de Kármán András szerint a céljaik nem változtak.",
+        "category": "Politika",
+        "published_at": 1794301218
       }
     ]
   },
@@ -5998,7 +5912,7 @@
   {
     "group_id": "group_e0c7128d56",
     "category": "Gazdaság",
-    "articles_count": 8,
+    "articles_count": 9,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -6071,6 +5985,15 @@
         "summary": "Hosszú hónapok tárgyalásai után ismét patthelyzet az EU-ban.",
         "category": "Politika",
         "published_at": 1794335388
+      },
+      {
+        "source": "ATV",
+        "title": "Kőkemény üzenet Berlinből: az uniós költségvetésről és a gázárakról is kitálalt Magyar Péter",
+        "link": "https://www.atv.hu/belfold/20261110/magyar-peter-egyenes-beszed-elo/",
+        "image": "https://www.youtube.com/embed/tunxtOU0Tp4",
+        "summary": "Az ATV Egyenes beszédében értékelt a Magyar Péter: kőkemény uniós vitákról, energiáról és a németországi látogatás hátteréről is beszélt.",
+        "category": "Politika",
+        "published_at": 1794340200
       }
     ]
   },
@@ -6393,6 +6316,31 @@
         "summary": "Szerb állami vállalatok sora ütheti bottak a pénze nyomát.",
         "category": "Gazdaság",
         "published_at": 1794307831
+      }
+    ]
+  },
+  {
+    "group_id": "group_63bf2cc4b3",
+    "category": "Gazdaság",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "A magyar benzinautósok fellélegezhetnek, a dízelesekre még nehéz idők várnak",
+        "link": "https://hvg.hu/360/20261110_uzemanyag-arak-benzin-dizel-gazolaj-mennyibe-kerul-mi-varhato",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b5ac146c-5c24-4fc7-94b2-8791b0705da6.jpg",
+        "summary": "Európában benzinből túltermelés van, gázolajból ugyanakkor hiány. Az egyéves leállás után újra teljes kapacitáson működik a Mol százhalombattai finomítója, de ez is a benzinhelyzetet segíti. Magyarországon még mindig túl olcsók az üzemanyagok, az árakat szinte biztosan a Mol kézivezérli busás finomítói nyeresége birtokában.",
+        "category": "Gazdaság",
+        "published_at": 1794308400
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Új motor hajtja a magyar ipart, megtorpant az elmúlt évek húzóágazata",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/uj-motor-hajtja-a-magyar-ipart-megtorpant-az-elmult-evek-huzoagazata-875402",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1742333703-gyr-csarnok-ipar-gpipar-gpek-zem-ingatlan-ipari-gyrts-termels-864082.jpg",
+        "summary": "Miközben a magyar ipar az elmúlt években látványosan gyengélkedett, a felszín alatt jelentős szerkezeti átrendeződés ment végbe - derült ki a Központi Statisztikai Hivatal (KSH) ipari statisztikákat bemutató sajtótájékoztatóján. A KSH friss termékstatisztikai adatai szerint 2019 és 2025 között az autóipar - különösen a belső égésű motoros járműgyártásé - gazdasági súlya visszaesett, a 2019-2024-es dinamikus növekedés után megtorpant az akkumulátorgyártás térnyerése is, miközben a hazai számítógép- és perifériaegységek értékesítése árhatásoktól megtisztítva csaknem megnégyszereződött ugyanebben az időszakban.",
+        "category": "Gazdaság",
+        "published_at": 1794312000
       }
     ]
   },
@@ -11358,6 +11306,54 @@
         "summary": "Árulók, Facebook és szólásszabadság, rendszerváltás, Kétfarkú Kutya Párt és a nők helyzete Magyarországon. Ezek a kulcsszavak az Alany-Állítmány második adásában. Vendégünk Mérő Vera. The post Mérő Vera: Kovács Gergő nagyon jó barátom volt first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1794339416
+      }
+    ]
+  },
+  {
+    "group_id": "group_1805e3f466",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hatalmas a digitális szakadék, még mindig kétmilliárdan élnek internet nélkül a világon",
+        "link": "https://index.hu/fomo/2026/11/10/internet-felhasznalo-vilag-hianyossag-tarsadalom-tarsadalmi-egyenlotlenseg/",
+        "image": "https://kep.index.hu/1/0/7245/72456/724562/72456275_5339339_4235b18d7f36f3de74d573efa4695add_wm.jpg",
+        "summary": "A mesterséges intelligencia térnyerése még tovább növelheti a társadalmi egyenlőtlenségeket.",
+        "category": "Általános",
+        "published_at": 1794339840
+      }
+    ]
+  },
+  {
+    "group_id": "group_91997671ff",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Bemutat a tepsifonoknak ez a kompakt mobil, és még az akkumulátora is cserélhető!",
+        "link": "https://index.hu/tech/cellanaplo/2026/11/10/enough-phone-kompakt-okostelefon-kickstarter/",
+        "image": "https://kep.index.hu/1/0/7245/72453/724537/72453701_5339175_6710ae76a2f25ff79afdb3209e1d3b3f_wm.jpg",
+        "summary": "A Kickstarteren tűnt fel az Enough Phone – kérdés, hogy meg is valósul-e.",
+        "category": "Általános",
+        "published_at": 1794339780
+      }
+    ]
+  },
+  {
+    "group_id": "group_2f7c760e36",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Nvidia-botrány: független vizsgálat indul, kiderült, kit bíztak meg vele",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/nvidia-botrany-fuggetlen-vizsgalat-indul-kiderult-kit-biztak-meg-vele-875574",
+        "image": "https://pcdn.hu/articles/images-md/t/o/z/tozsde-reszveny-mesterseges-intelligencia-nvidia-eses-693895.jpg",
+        "summary": "Külső ügyvédi irodát bízott meg az Nvidia igazgatótanácsa a vállalat vezérigazgatója, Jensen Huang ügyének kivizsgálásával. A független vizsgálat arra keresi a választ, hogy a cégvezető magánéleti botránya veszélybe sodorta-e az üzleti titkokat vagy az Egyesült Államok nemzetbiztonságát - számolt be a CNBC.",
+        "category": "Gazdaság",
+        "published_at": 1794339960
       }
     ]
   }
