@@ -122,6 +122,27 @@ def get_model():
         _MODEL.to(torch.float32)
     return _MODEL
 
+# ==============================================================================
+# 2. SEGÉDFUNKCIÓK ÉS KATEGÓRIA OSZTÁLYOZÓ
+# ==============================================================================
+def slugify(text):
+    """Ékezetmentesíti és URL-baráttá alakítja a cikk címét."""
+    if not text:
+        return ""
+    char_map = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ő': 'o', 'ú': 'u', 'ű': 'u', 'ü': 'u',
+        'Á': 'a', 'É': 'e', 'Í': 'i', 'Ó': 'o', 'Ő': 'o', 'Ú': 'u', 'Ű': 'u', 'Ü': 'u',
+        'ă': 'a', 'â': 'a', 'î': 'i', 'ș': 's', 'ş': 's', 'ț': 't', 'ţ': 't',
+        'Ă': 'a', 'Â': 'a', 'Î': 'i', 'Ș': 's', 'Ş': 's', 'Ț': 't', 'Ţ': 't'
+    }
+    for orig, repl in char_map.items():
+        text = text.replace(orig, repl)
+    
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\s-]', '', text)
+    text = re.sub(r'[\s-]+', '-', text).strip('-')
+    return text[:80]
+
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
     if pub_parsed:
@@ -338,6 +359,9 @@ def calculate_importance_score(item):
 
     return score
 
+# ==============================================================================
+# 3. CSOPORTOSÍTÁS, ARCHÍVUM MENTÉS ÉS NEWS.JSON BŐVÍTÉS
+# ==============================================================================
 def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n[{now_str}] 🔄 Magyar hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
@@ -459,6 +483,10 @@ def run_pipeline():
         g_id = item.get("group_id")
         pub_time = int(item.get("fetched_at", 0))
 
+        clean_slug = slugify(item.get("title", ""))
+        short_id = g_id.replace("group_", "")[:6]
+        final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
+
         if g_id in news_map:
             existing_sources = {s.get("link") for s in news_map[g_id].get("sources", [])}
             new_source_link = item.get("link")
@@ -471,6 +499,8 @@ def run_pipeline():
                 })
             
             news_map[g_id]["sources_count"] = len(news_map[g_id]["sources"])
+            if "slug" not in news_map[g_id]:
+                news_map[g_id]["slug"] = final_slug
         
         else:
             sources_list = [{
@@ -480,6 +510,7 @@ def run_pipeline():
             }]
             news_map[g_id] = {
                 "group_id": g_id,
+                "slug": final_slug,
                 "category": item.get("category", "Általános"),
                 "image": item.get("image", ""),
                 "is_synthesized": False,
@@ -515,27 +546,31 @@ def run_pipeline():
     for item in verified_list:
         item["importance_score"] = calculate_importance_score(item)
 
-    # Elődlegesen az okos fontossági pontszám, másodlagosan a frissesség számít
     verified_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
 
-    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE
+    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE (EGYETLEN ÉS TÖBB HÍR TÁMOGATÁSA)
     manual_top_data = load_json_file(MANUAL_TOP_FILE)
-    forced_group_id = None
+    forced_group_ids = []
+
     if isinstance(manual_top_data, dict):
-        forced_group_id = manual_top_data.get("group_id")
+        if "group_ids" in manual_top_data and isinstance(manual_top_data["group_ids"], list):
+            forced_group_ids = manual_top_data["group_ids"]
+        elif "group_id" in manual_top_data:
+            forced_group_ids = [manual_top_data["group_id"]]
 
     final_sorted_list = []
-    forced_item = None
+    forced_items = []
 
     for item in verified_list:
-        if forced_group_id and item.get("group_id") == forced_group_id:
-            forced_item = item
+        if item.get("group_id") in forced_group_ids:
+            forced_items.append(item)
         else:
             final_sorted_list.append(item)
 
-    if forced_item:
-        final_sorted_list.insert(0, forced_item)
-        print(f"👑 Kézi kiemelés aktiválva a(z) {forced_group_id} azonosítójú hírhez!")
+    if forced_items:
+        forced_items.sort(key=lambda x: forced_group_ids.index(x.get("group_id")) if x.get("group_id") in forced_group_ids else 999)
+        final_sorted_list = forced_items + final_sorted_list
+        print(f"👑 Kézi kiemelés aktiválva {len(forced_items)} db hírhez a lista elején!")
 
     # Forrás egyensúlyozás (ne legyen ugyanaz a portál 3-szor egymás után)
     balanced_list = []
