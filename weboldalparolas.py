@@ -483,9 +483,7 @@ def run_pipeline():
         g_id = item.get("group_id")
         pub_time = int(item.get("fetched_at", 0))
 
-        clean_slug = slugify(item.get("title", ""))
         short_id = g_id.replace("group_", "")[:6]
-        final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
 
         if g_id in news_map:
             existing_sources = {s.get("link") for s in news_map[g_id].get("sources", [])}
@@ -499,8 +497,14 @@ def run_pipeline():
                 })
             
             news_map[g_id]["sources_count"] = len(news_map[g_id]["sources"])
-            if "slug" not in news_map[g_id]:
-                news_map[g_id]["slug"] = final_slug
+
+            # 🎯 KULCS MÓDOSÍTÁS: Ha a cikk már AI által szintetizált, a szintetizált főcímből frissítjük a slug-ot!
+            if news_map[g_id].get("is_synthesized") and news_map[g_id].get("title_hu"):
+                clean_slug = slugify(news_map[g_id]["title_hu"])
+                news_map[g_id]["slug"] = f"{clean_slug}-{short_id}" if clean_slug else g_id
+            elif "slug" not in news_map[g_id]:
+                clean_slug = slugify(item.get("title", ""))
+                news_map[g_id]["slug"] = f"{clean_slug}-{short_id}" if clean_slug else g_id
         
         else:
             sources_list = [{
@@ -508,6 +512,9 @@ def run_pipeline():
                 "title": item.get("title"),
                 "link": item.get("link")
             }]
+            clean_slug = slugify(item.get("title", ""))
+            final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
+
             news_map[g_id] = {
                 "group_id": g_id,
                 "slug": final_slug,
@@ -528,6 +535,12 @@ def run_pipeline():
     for item in valid_news_list:
         if "sources" in item and isinstance(item["sources"], list):
             item["sources_count"] = len(item["sources"])
+        # Utólagos ellenőrzés a slug-ra: ha van szintetizált title_hu, az felülírja a korábbi nyers slug-ot
+        if item.get("is_synthesized") and item.get("title_hu"):
+            short_id = item["group_id"].replace("group_", "")[:6]
+            clean_slug = slugify(item["title_hu"])
+            if clean_slug:
+                item["slug"] = f"{clean_slug}-{short_id}"
 
     # STAGE 4: KÉTLÉPCSŐS FELÜLELLENŐRZÉS (POLITIKAI FELÜLBÍRÁLÁS)
     verified_list = []
