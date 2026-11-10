@@ -70,7 +70,7 @@ function normalize(r: RawItem): NewsItem {
 
   return {
     group_id: r.group_id,
-    slug: r.slug,
+    slug: r.slug ?? null,
     image: r.image,
     is_synthesized: r.is_synthesized,
     sources_count: r.sources_count,
