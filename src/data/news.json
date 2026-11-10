@@ -1426,34 +1426,32 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_86acb5b46c",
-    "fingerprint": "701a4db60c60e6accef2e570517a17a9",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/894644023_2345896976232818_5771080760193281198_n-e1794305280669.jpg",
-    "is_synthesized": true,
-    "rejected": false,
+    "group_id": "group_e0c7128d56",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/wFjw88O9lek7YDo_gBBRj1QR-oUwOKOroRzE_EzzCKw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QzMjU0MWM5ZWNiYjRjM2FiMzMzYzg5ODc2ZjAzNDNj.jpg",
+    "is_synthesized": false,
     "sources_count": 3,
     "sources": [
       {
+        "source": "Világgazdaság",
+        "title": "Áll a bál Brüsszelben: Merz ultimátuma miatt veszélybe kerülhet az uniós költségvetés, Magyarország is célkeresztben",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/unios-koltsegvetes-merz-ultimatum-ecofin-et?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
         "source": "24.hu - Legfrissebb",
-        "title": "Prédának nézték a vonatokat: feltörtek két Railjetet",
-        "link": "https://24.hu/belfold/2026/11/10/railjet-vonatok-feltortek-hegyi-zsolt/"
+        "title": "Magyar Péter: Magyarország elutasítja az uniós költségvetési javaslat jelenlegi formáját – Merz segítené hazánk orosz energiáról való leválását",
+        "link": "https://24.hu/kulfold/2026/11/10/magyar-peter-berlin-sajtotajekoztato/"
       },
       {
-        "source": "Index - Címlap",
-        "title": "Feltörtek és megrongáltak két Railjet szerelvényt az éjszaka, a MÁV-nál betelt a pohár",
-        "link": "https://index.hu/belfold/2026/11/10/mav-railjet-keses-etkezokocsi-feltores-rendorseg-helyszineles-vizsgalat/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Két Railjet étkezőkocsiját is feltörték a Keletiben az éjjel, a MÁV vizsgálatot indít",
-        "link": "https://telex.hu/belfold/2026/11/10/mav-ket-railjet-etkezokocsi-feltortek-keleti-palyaudvar"
+        "source": "Portfolio - Gazdaság",
+        "title": "Magyar Péter keményen tárgyalt Friedrich Merzcel, az ütközőponton kívül több megállapodás is napirendre került",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/magyar-peter-kemenyen-targyalt-friedrich-merzcel-az-utkozoponton-kivul-tobb-megallapodas-is-napirendre-kerult-875472"
       }
     ],
-    "published_at": 1794306360,
-    "title_hu": "Feltörtek két Railjetet, később indulhattak csak el a szerelvények",
-    "lead_hu": "Ismeretlenek éjszaka feltörték két Railjet étkezőkocsiját, és az utasterekben is károkat okoztak. A szerelvények kedd reggel nem tudtak menetrend szerint elindulni, így utasok százainak okoztak késést; a rendőrségi helyszínelés után, egy későbbi járatban indultak Bécs felé.",
-    "content_hu": "• **Két Railjetet rongáltak meg** Az éjszaka folyamán mindkét szerelvény étkezőkocsiját feltörték, és az utasterekben is károkat okoztak.\n\n• **Az ajtóban is kár keletkezett** Az egyik ajtókeret szétrepedezett, a zárszerkezet egy része pedig kiszakadt.\n\n• **Később indultak el Bécs felé** A vonatok kedd reggel nem tudtak menetrend szerint forgalomba állni; a rendőrségi helyszínelés befejezése után, egy későbbi járatban indultak tovább.\n\n• **Vizsgálat indult az ügyben** A helyszínen rendőrségi szemle zajlott, a MÁV pedig szintén vizsgálatot indít.\n\n• **Drónokkal erősítené a MÁV a védelmet** Hegyi Zsolt vezérigazgató szerint a vasúti üzemi területek mérete miatt hagyományos eszközökkel nehéz a folyamatos ellenőrzés. A MÁV az év végétől mesterséges intelligenciával támogatott drónokkal fejlesztené az őrzést, többek között az illetéktelen behatolások és balesetek megelőzésére.",
+    "published_at": 1794306733,
+    "title_hu": "Áll a bál Brüsszelben: Merz ultimátuma miatt veszélybe kerülhet az uniós költségvetés, Magyarország is célkeresztben",
+    "lead_hu": "A német követelés pedig Magyarországot is közvetlenül érinti.",
+    "content_hu": "A német követelés pedig Magyarországot is közvetlenül érinti.",
     "importance_score": 45.0
   },
   {
@@ -1643,6 +1641,37 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_86acb5b46c",
+    "fingerprint": "701a4db60c60e6accef2e570517a17a9",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/894644023_2345896976232818_5771080760193281198_n-e1794305280669.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Prédának nézték a vonatokat: feltörtek két Railjetet",
+        "link": "https://24.hu/belfold/2026/11/10/railjet-vonatok-feltortek-hegyi-zsolt/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Feltörtek és megrongáltak két Railjet szerelvényt az éjszaka, a MÁV-nál betelt a pohár",
+        "link": "https://index.hu/belfold/2026/11/10/mav-railjet-keses-etkezokocsi-feltores-rendorseg-helyszineles-vizsgalat/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Két Railjet étkezőkocsiját is feltörték a Keletiben az éjjel, a MÁV vizsgálatot indít",
+        "link": "https://telex.hu/belfold/2026/11/10/mav-ket-railjet-etkezokocsi-feltortek-keleti-palyaudvar"
+      }
+    ],
+    "published_at": 1794306360,
+    "title_hu": "Feltörtek két Railjetet, később indulhattak csak el a szerelvények",
+    "lead_hu": "Ismeretlenek éjszaka feltörték két Railjet étkezőkocsiját, és az utasterekben is károkat okoztak. A szerelvények kedd reggel nem tudtak menetrend szerint elindulni, így utasok százainak okoztak késést; a rendőrségi helyszínelés után, egy későbbi járatban indultak Bécs felé.",
+    "content_hu": "• **Két Railjetet rongáltak meg** Az éjszaka folyamán mindkét szerelvény étkezőkocsiját feltörték, és az utasterekben is károkat okoztak.\n\n• **Az ajtóban is kár keletkezett** Az egyik ajtókeret szétrepedezett, a zárszerkezet egy része pedig kiszakadt.\n\n• **Később indultak el Bécs felé** A vonatok kedd reggel nem tudtak menetrend szerint forgalomba állni; a rendőrségi helyszínelés befejezése után, egy későbbi járatban indultak tovább.\n\n• **Vizsgálat indult az ügyben** A helyszínen rendőrségi szemle zajlott, a MÁV pedig szintén vizsgálatot indít.\n\n• **Drónokkal erősítené a MÁV a védelmet** Hegyi Zsolt vezérigazgató szerint a vasúti üzemi területek mérete miatt hagyományos eszközökkel nehéz a folyamatos ellenőrzés. A MÁV az év végétől mesterséges intelligenciával támogatott drónokkal fejlesztené az őrzést, többek között az illetéktelen behatolások és balesetek megelőzésére.",
+    "importance_score": 38.0
+  },
+  {
     "group_id": "group_b8dd8e96c5",
     "fingerprint": "bfafc57593966bf5c9ef48d7d804ba29",
     "category": "Politika",
@@ -1726,6 +1755,30 @@
     "title_hu": "125 alkalmazottjából 60-at elbocsát a parajdi sóbánya",
     "lead_hu": "A bánya beomlása óta többnyire kényszerszabadságon voltak a dolgozók, nagy részüknek most új munkahelyet kell keresniük, vélhetően egy másik városban.",
     "content_hu": "A bánya beomlása óta többnyire kényszerszabadságon voltak a dolgozók, nagy részüknek most új munkahelyet kell keresniük, vélhetően egy másik városban.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_9af20a089b",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/yeO031wyQnuCPTWYWwEEgDEmFuLeSwfLbVn3QxpRR7o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4NDA4NjcyYTNiYjRmZWY4YTkyMmVjYTc2ZGQzMmQ5.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Magyar Péter Berlinben Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-berlinben-merznek-magyarorszag-lenne-az-egyik-legnagyobb-befizeto-az-eu-ban-ez-igy-nem-lesz-jo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr visszaszólt Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
+        "link": "https://www.vadhajtasok.hu/2026/11/10/rovar-ur-visszaszolt-merznek-magyarorszag-lenne-az-egyik-legnagyobb-befizeto-az-eu-ban-ez-igy-nem-lesz-jo"
+      }
+    ],
+    "published_at": 1794314848,
+    "title_hu": "Magyar Péter Berlinben Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
+    "lead_hu": "",
+    "content_hu": "",
     "importance_score": 35.0
   },
   {
@@ -1833,6 +1886,30 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_ea5fca2f25",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261110/1794307494-temp-nvh6ujvd6svd7mcjdbk_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Oroszországnak kémkedhetett két ukrán férfi Lengyelországban",
+        "link": "https://telex.hu/kulfold/2026/11/10/lengyelorszag-oroszorszag-kemkedes-ukran-allampolgarok-orizetbe-vetel"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Kémkedés gyanújával vettek őrizetbe két ukrán férfit Lengyelországban",
+        "link": "https://hvg.hu/vilag/20261110_kemkedes-gyanu-ukranok-lengyelorszag-oroszorszag"
+      }
+    ],
+    "published_at": 1794307531,
+    "title_hu": "Oroszországnak kémkedhetett két ukrán férfi Lengyelországban",
+    "lead_hu": "A két férfit kémkedés mellett szabotázsakciók szervezésével és járművek felgyújtásával is meggyanúsították.",
+    "content_hu": "A két férfit kémkedés mellett szabotázsakciók szervezésével és járművek felgyújtásával is meggyanúsították.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_710c786ffa",
     "fingerprint": "d3c9701256372cc78eb8c1681435f4db",
     "category": "Politika",
@@ -1908,56 +1985,6 @@
     "title_hu": "Látványos Mars–Jupiter-együttállás lesz látható november 15-én hajnalban",
     "lead_hu": "November 15-én hajnalban szoros közelségbe kerül egymáshoz a Mars és a Jupiter az Oroszlán csillagképben. Derült időben szabad szemmel is megfigyelhetők lesznek, a legkedvezőbb időpont hajnali fél hat körül várható.",
     "content_hu": "• **A legjobb időpont** November 15-én 5 óra 30 perc körül a két bolygó 56 fokkal a déli horizont felett látszik majd, így akár egy déli irányba néző ablakból is megfigyelhető lehet.\n\n• **A bolygók közelsége** A Mars mindössze 1,2 fokra lesz a fényes Jupitertől; a Jupiter fehéres, a Mars vöröses árnyalatú fényével tűnik ki az égbolton.\n\n• **A Regulus is feltűnik** A bolygók közelében látható lesz az Oroszlán csillagkép legfényesebb csillaga, a kékesfehér Regulus.\n\n• **Szabad szemmel is megfigyelhető** A jelenséghez nincs szükség távcsőre, és kedvezőtlen időjárás esetén november 14-én vagy 16-án is érdemes az eget kémlelni, amikor a bolygók szintén közel látszanak egymáshoz.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_e0c7128d56",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/wFjw88O9lek7YDo_gBBRj1QR-oUwOKOroRzE_EzzCKw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QzMjU0MWM5ZWNiYjRjM2FiMzMzYzg5ODc2ZjAzNDNj.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Áll a bál Brüsszelben: Merz ultimátuma miatt veszélybe kerülhet az uniós költségvetés, Magyarország is célkeresztben",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/unios-koltsegvetes-merz-ultimatum-ecofin-et?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Magyar Péter: Magyarország elutasítja az uniós költségvetési javaslat jelenlegi formáját – Merz segítené hazánk orosz energiáról való leválását",
-        "link": "https://24.hu/kulfold/2026/11/10/magyar-peter-berlin-sajtotajekoztato/"
-      }
-    ],
-    "published_at": 1794306733,
-    "title_hu": "Áll a bál Brüsszelben: Merz ultimátuma miatt veszélybe kerülhet az uniós költségvetés, Magyarország is célkeresztben",
-    "lead_hu": "A német követelés pedig Magyarországot is közvetlenül érinti.",
-    "content_hu": "A német követelés pedig Magyarországot is közvetlenül érinti.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_ea0f1b4345",
-    "fingerprint": "c677b72a55e5f92668969f51e2cdd3af",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/12383bd6-e2b1-4a99-94e1-2ee4e01712cb.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Vizsgálatot indított a Külügyminisztérium a vajdasági levélszavazás miatt",
-        "link": "https://hvg.hu/itthon/20261110_vizsgalat-kulugyminiszterium-vajdasagi-levelszavazas"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Kiszivárgott hangfelvétel után vizsgálja a vajdasági levélszavazás körülményeit a Külügyminisztérium",
-        "link": "https://telex.hu/belfold/2026/11/10/vizsgalat-vajdasagi-levelszavazatok-aprilis-12-fidesz-kulugyminiszterium-fremond-arpad-mnt-vmsz"
-      }
-    ],
-    "published_at": 1794306366,
-    "title_hu": "Vizsgálja a Külügyminisztérium a vajdasági levélszavazásról kiszivárgott felvételt",
-    "lead_hu": "A Külügyminisztérium vizsgálatot indított egy hangfelvétel miatt, amelyen a beszámolók szerint aktivistáknak adnak eligazítást a levélszavazatokkal kapcsolatban. A felvétel választási visszaélés gyanúját vetette fel, de az abban elhangzottak hitelességét és jogszerűségét még vizsgálják.",
-    "content_hu": "• **Vizsgálat indult** A Külügyminisztérium közlése szerint a külügyminiszter elrendelte a kiszivárgott hangfelvétel ügyének azonnali kivizsgálását.\n\n• **Az eligazítás tartalma** A sajtóbeszámolók szerint a felvételen Simon Ervin szabadkai konzul és Fremond Árpád, a Magyar Nemzeti Tanács elnöke is hallható; az aktivistáknak a levélszavazatokkal kapcsolatos teendőkről beszélnek.\n\n• **Visszaélés gyanúja** A felvételről szóló beszámolók szerint szóba került, hogy aktivisták közreműködhetnek a szavazólapok kitöltésében, illetve nem ellenőriznék, ha elhunyt személy nevében adnának le szavazatot. Ezek az állítások egyelőre nem bizonyítottak.\n\n• **Fremond reakciója** Fremond korábban lejárató kísérletnek nevezte a felvétel nyilvánosságra kerülését, majd azt állította, hogy mesterséges intelligenciával hamisíthatták.",
     "importance_score": 35.0
   },
   {
@@ -2238,6 +2265,32 @@
     "lead_hu": "Magyar és külföldi szakszervezetek demonstráltak hétfőn a győri Audi Arénánál az európai autóipar és a munkahelyek védelmében. A résztvevők szerint a zöld és digitális átállás nem járhat gyárbezárásokkal és tömeges elbocsátásokkal.",
     "content_hu": "• **Nemzetközi összefogás** Magyar és több európai országból érkező szakszervezeti képviselők tüntettek Győrben az autóipari munkahelyek megőrzéséért.\n\n• **Közös követelések** A demonstrálók azt sürgették, hogy az állami támogatásban részesülő vállalatok vállaljanak kötelezettséget a munkahelyek megtartására, és a közpénzből származó előnyökből a dolgozók is részesüljenek.\n\n• **Ipari kihívások** A szakszervezetek az európai ipar védelmét is szorgalmazták az amerikai vámokkal és a kínai dömpinggel szemben, és hangsúlyozták, hogy az átállás nem vezethet gyárbezárásokhoz vagy tömeges leépítésekhez.\n\n• **Győri bezárás** A tiltakozás hátterében a WKW Hungária év végére tervezett bezárása is áll: a vállalat megszűnésével csaknem 500 ember veszítheti el az állását.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_ea0f1b4345",
+    "fingerprint": "c677b72a55e5f92668969f51e2cdd3af",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/12383bd6-e2b1-4a99-94e1-2ee4e01712cb.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Vizsgálatot indított a Külügyminisztérium a vajdasági levélszavazás miatt",
+        "link": "https://hvg.hu/itthon/20261110_vizsgalat-kulugyminiszterium-vajdasagi-levelszavazas"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Kiszivárgott hangfelvétel után vizsgálja a vajdasági levélszavazás körülményeit a Külügyminisztérium",
+        "link": "https://telex.hu/belfold/2026/11/10/vizsgalat-vajdasagi-levelszavazatok-aprilis-12-fidesz-kulugyminiszterium-fremond-arpad-mnt-vmsz"
+      }
+    ],
+    "published_at": 1794306366,
+    "title_hu": "Vizsgálja a Külügyminisztérium a vajdasági levélszavazásról kiszivárgott felvételt",
+    "lead_hu": "A Külügyminisztérium vizsgálatot indított egy hangfelvétel miatt, amelyen a beszámolók szerint aktivistáknak adnak eligazítást a levélszavazatokkal kapcsolatban. A felvétel választási visszaélés gyanúját vetette fel, de az abban elhangzottak hitelességét és jogszerűségét még vizsgálják.",
+    "content_hu": "• **Vizsgálat indult** A Külügyminisztérium közlése szerint a külügyminiszter elrendelte a kiszivárgott hangfelvétel ügyének azonnali kivizsgálását.\n\n• **Az eligazítás tartalma** A sajtóbeszámolók szerint a felvételen Simon Ervin szabadkai konzul és Fremond Árpád, a Magyar Nemzeti Tanács elnöke is hallható; az aktivistáknak a levélszavazatokkal kapcsolatos teendőkről beszélnek.\n\n• **Visszaélés gyanúja** A felvételről szóló beszámolók szerint szóba került, hogy aktivisták közreműködhetnek a szavazólapok kitöltésében, illetve nem ellenőriznék, ha elhunyt személy nevében adnának le szavazatot. Ezek az állítások egyelőre nem bizonyítottak.\n\n• **Fremond reakciója** Fremond korábban lejárató kísérletnek nevezte a felvétel nyilvánosságra kerülését, majd azt állította, hogy mesterséges intelligenciával hamisíthatták.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_9b593d7645",
@@ -3222,6 +3275,25 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_613ec87b67",
+    "category": "Gazdaság",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa937071-65a0-42b5-84c8-bfb2f00e3ba9.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Pénzmosási ügyben idézik be tanúként Alekszandar Vucsicsot",
+        "link": "https://hvg.hu/gazdasag/20261110_vucsics-szerbia-tanu-penzmosas"
+      }
+    ],
+    "published_at": 1794316851,
+    "title_hu": "Pénzmosási ügyben idézik be tanúként Alekszandar Vucsicsot",
+    "lead_hu": "Egy szerb lap azt állítja, hogy Alekszandar Vucsicsot emlegették fedőnéven, mint aki tud segíteni egy kábítószer-kereskedéshez köthető pénzmosási ügyben enyhébb ítéletet elérni....",
+    "content_hu": "Egy szerb lap azt állítja, hogy Alekszandar Vucsicsot emlegették fedőnéven, mint aki tud segíteni egy kábítószer-kereskedéshez köthető pénzmosási ügyben enyhébb ítéletet elérni.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_a21f553c1d",
     "category": "Politika",
     "image": "https://assets.telex.hu/images/20261110/1794310932-temp-8vde92mck04b8fijmap_cimlap-normal.jpg",
@@ -3599,25 +3671,6 @@
     "title_hu": "Friedrich Merz és Magyar Péter nemzetközi sajtótájékoztatót tart",
     "lead_hu": "A mai közös sajtótájékoztatót a magyar miniszterelnök élőben közvetíti, itt lehet nézni.",
     "content_hu": "A mai közös sajtótájékoztatót a magyar miniszterelnök élőben közvetíti, itt lehet nézni.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_9af20a089b",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/yeO031wyQnuCPTWYWwEEgDEmFuLeSwfLbVn3QxpRR7o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4NDA4NjcyYTNiYjRmZWY4YTkyMmVjYTc2ZGQzMmQ5.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Magyar Péter Berlinben Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-berlinben-merznek-magyarorszag-lenne-az-egyik-legnagyobb-befizeto-az-eu-ban-ez-igy-nem-lesz-jo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794314848,
-    "title_hu": "Magyar Péter Berlinben Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
-    "lead_hu": "",
-    "content_hu": "",
     "importance_score": 0.0
   },
   {
@@ -5157,25 +5210,6 @@
     "title_hu": "Magyar Péter németül elmondott beszédén pörög az internet népe",
     "lead_hu": "„Amikor kettesért küzdesz a nyelvvizsgán.”",
     "content_hu": "„Amikor kettesért küzdesz a nyelvvizsgán.”",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ea5fca2f25",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261110/1794307494-temp-nvh6ujvd6svd7mcjdbk_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Oroszországnak kémkedhetett két ukrán férfi Lengyelországban",
-        "link": "https://telex.hu/kulfold/2026/11/10/lengyelorszag-oroszorszag-kemkedes-ukran-allampolgarok-orizetbe-vetel"
-      }
-    ],
-    "published_at": 1794307531,
-    "title_hu": "Oroszországnak kémkedhetett két ukrán férfi Lengyelországban",
-    "lead_hu": "A két férfit kémkedés mellett szabotázsakciók szervezésével és járművek felgyújtásával is meggyanúsították.",
-    "content_hu": "A két férfit kémkedés mellett szabotázsakciók szervezésével és járművek felgyújtásával is meggyanúsították.",
     "importance_score": 0.0
   },
   {
@@ -13004,82 +13038,6 @@
     "title_hu": "Botrányba fulladt Jamie Foxx halloweeni bulija: Nyakon szúrtak egy vendéget",
     "lead_hu": "A rendőrök és a mentők a helyszínre siettek a sérült miatt.",
     "content_hu": "A rendőrök és a mentők a helyszínre siettek a sérült miatt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_19408fa703",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/58fXGfX8WhyCwtFRsWfPlhnx81ktemfKqTZmhyxQc-A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ4ZTBkNzc2N2JiMTRhMzFhMzA0NDAyYjQ1NTExMDdk.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Tiszás nyugdíjemelés: a 14. havi juttatásból csak egyheti marad",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nyugdijemeles-14-havi-szalai-piroska"
-      }
-    ],
-    "published_at": 1794230773,
-    "title_hu": "Tiszás nyugdíjemelés: a 14. havi juttatásból csak egyheti marad",
-    "lead_hu": "Szalai Piroska a kormány nyugdíjpolitikájáról.",
-    "content_hu": "Szalai Piroska a kormány nyugdíjpolitikájáról.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d137ecb429",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d723e0cc-2786-478d-87ab-b0215b9b1576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "A fekete ruhás nővér kifakadt azokra, akik most türelmetlenül követelnek azonnali béremelést",
-        "link": "https://hvg.hu/itthon/20261109_a-fekete-ruhas-nover-turelemre-int-minket-az-uj-kormannyal-kapcsolatban"
-      }
-    ],
-    "published_at": 1794230754,
-    "title_hu": "A fekete ruhás nővér kifakadt azokra, akik most türelmetlenül követelnek azonnali béremelést",
-    "lead_hu": "Sándor Mária úgy érzi, olyanok verik az asztalt türelmetlenül most magasabb fizetésért, akik az elmúlt 16 évben csöndben voltak.",
-    "content_hu": "Sándor Mária úgy érzi, olyanok verik az asztalt türelmetlenül most magasabb fizetésért, akik az elmúlt 16 évben csöndben voltak.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_514d89edc0",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6630/66301/663017/66301735_4895281_461713149fb73d989c9c2400a238b572_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Indul a téli ellenőrzés a Nébih-nél, boltoktól a vásárokig vizsgálódnak a szakemberek",
-        "link": "https://index.hu/belfold/2026/11/09/nebih-ellenorzes-vizsgalat-orszagos-teli-szezonalis-elelmiszer-vasar/"
-      }
-    ],
-    "published_at": 1794230640,
-    "title_hu": "Indul a téli ellenőrzés a Nébih-nél, boltoktól a vásárokig vizsgálódnak a szakemberek",
-    "lead_hu": "Fokozott jelenlétre figyelmeztet a hivatal.",
-    "content_hu": "Fokozott jelenlétre figyelmeztet a hivatal.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d337d68c3a",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "A szerb Egyetemista Lista is az ügynökakták megnyitását ígéri",
-        "link": "https://444.hu/2026/11/09/a-szerb-egyetemista-lista-is-az-ugynokaktak-megnyitasat-igeri?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794230569,
-    "title_hu": "A szerb Egyetemista Lista is az ügynökakták megnyitását ígéri",
-    "lead_hu": "Ugyanez szerepelt Magyar Péter első ígéretei között is.",
-    "content_hu": "Ugyanez szerepelt Magyar Péter első ígéretei között is.",
     "importance_score": 0.0
   },
   {
