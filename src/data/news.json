@@ -1457,42 +1457,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_40e7eb176e",
-    "fingerprint": "a3fd703164777d659e07e65dd635d995",
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/_/p/d-prg20260422018-868116.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Újabb kétmilliárdot fizet a BKV a 4-es metró miatt – már 16,6 milliárdnál tart a kártérítések összege",
-        "link": "https://www.portfolio.hu/gazdasag/20261110/ujabb-ketmilliardot-fizet-a-bkv-a-4-es-metro-miatt-mar-166-milliardnal-tart-a-karteritesek-osszege-875362"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Most kell a fővárosnak milliárdokat fizetnie a 4-es metró pere miatt",
-        "link": "https://hvg.hu/gazdasag/20261110_fovaros-budapest-4-es-metro-per"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Újabb kártérítési pert vesztett a 4-es metró miatt a BKV, emiatt 2 milliárd forintot kellett fizetnie",
-        "link": "https://telex.hu/gazdasag/2026/11/10/4-es-metro-bkv-per-karterites"
-      }
-    ],
-    "published_at": 1794314810,
-    "title_hu": "Kétmilliárd forintot fizet a főváros a 4-es metró egyik pere miatt",
-    "lead_hu": "A BAMCO konzorcium 34 millió eurót követelt a BKV-tól a 4-es metró alagútépítéséhez kapcsolódó jogvitában; a választottbíróság 5,5 millió euró kifizetéséről döntött. Az összeget a projekt kockázati tartalékából fedezik, a 2017-ben indult per hátterében pedig a konzorcium 2009-ig felmerült többletköltség-igényei állnak.",
-    "content_hu": "• **A választottbíróság döntése** A BAMCO konzorcium 34 millió eurót – akkori árfolyamon mintegy 12,4 milliárd forintot – követelt a BKV-tól. A választottbíróság 5,5 millió euró, valamivel több mint kétmilliárd forint kifizetésére kötelezte a társaságot.\n\n• **További megítélt összegek** A HVG beszámolója szerint az ítélet 5,3 millió eurót is megállapított a tőke, a késedelmi kamat és az eljárási költségek címén. A BKV-nak a kifizetést november 10-ig kellett teljesítenie.\n\n• **A kifizetés fedezete** A főváros a 4-es metró beruházására elkülönített, saját forrásból finanszírozott kockázati tartalék terhére fizet. A kifizetést Karácsony Gergely főpolgármester hagyta jóvá.\n\n• **A per előzménye** A 2017-ben indult jogvita az alagutak és a kapcsolódó műtárgyak építési szerződéséhez kapcsolódott. A konzorcium 2009-ig 150 többletköltség-igény alapján követelt az eredeti szerződéses összegen felül mintegy 35 milliárd forintot; az akkori városvezetés ezek közül 25-öt ismert el jogosnak.\n\n• **Miért húzódott el az ügy?** A BKV a választottbírók leterheltségével, az eljárás kiterjedtségével és összetettségével, valamint a per megindítása után kitört Covid-járvánnyal magyarázta a késedelmet.\n\n• **A jogvita folytatódhat** A konzorcium érvénytelenítési keresetet nyújtott be a Fővárosi Törvényszékhez.\n\n• **Az eddigi kártérítések** A BKV a 4-es metró építéséhez kapcsolódó ítéletek alapján eddig 39 millió euró tőkét fizetett ki; kamatokkal és egyéb eljárási költségekkel együtt a teljes összeg 16,6 milliárd forint.",
-    "importance_score": 38.0,
-    "slug": "ketmilliard-forintot-fizet-a-fovaros-a-4-es-metro-egyik-pere-miatt-40e7eb",
-    "tags": [
-      "gazdasag"
-    ],
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_17c3e6beb2",
     "fingerprint": "97b5f2347de09ccbec46ed14d589e6d4",
     "category": "Politika",
@@ -1655,6 +1619,42 @@
     "slug": "2027-januarjaban-indulhat-a-regionalis-bkk-erdig-hosszabbitjak-a-133e-t-2e988f",
     "tags": [
       "politika"
+    ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_40e7eb176e",
+    "fingerprint": "a3fd703164777d659e07e65dd635d995",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/_/p/d-prg20260422018-868116.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Újabb kétmilliárdot fizet a BKV a 4-es metró miatt – már 16,6 milliárdnál tart a kártérítések összege",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/ujabb-ketmilliardot-fizet-a-bkv-a-4-es-metro-miatt-mar-166-milliardnal-tart-a-karteritesek-osszege-875362"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Most kell a fővárosnak milliárdokat fizetnie a 4-es metró pere miatt",
+        "link": "https://hvg.hu/gazdasag/20261110_fovaros-budapest-4-es-metro-per"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Újabb kártérítési pert vesztett a 4-es metró miatt a BKV, emiatt 2 milliárd forintot kellett fizetnie",
+        "link": "https://telex.hu/gazdasag/2026/11/10/4-es-metro-bkv-per-karterites"
+      }
+    ],
+    "published_at": 1794314810,
+    "title_hu": "Kétmilliárd forintot fizet a főváros a 4-es metró egyik pere miatt",
+    "lead_hu": "A BAMCO konzorcium 34 millió eurót követelt a BKV-tól a 4-es metró alagútépítéséhez kapcsolódó jogvitában; a választottbíróság 5,5 millió euró kifizetéséről döntött. Az összeget a projekt kockázati tartalékából fedezik, a 2017-ben indult per hátterében pedig a konzorcium 2009-ig felmerült többletköltség-igényei állnak.",
+    "content_hu": "• **A választottbíróság döntése** A BAMCO konzorcium 34 millió eurót – akkori árfolyamon mintegy 12,4 milliárd forintot – követelt a BKV-tól. A választottbíróság 5,5 millió euró, valamivel több mint kétmilliárd forint kifizetésére kötelezte a társaságot.\n\n• **További megítélt összegek** A HVG beszámolója szerint az ítélet 5,3 millió eurót is megállapított a tőke, a késedelmi kamat és az eljárási költségek címén. A BKV-nak a kifizetést november 10-ig kellett teljesítenie.\n\n• **A kifizetés fedezete** A főváros a 4-es metró beruházására elkülönített, saját forrásból finanszírozott kockázati tartalék terhére fizet. A kifizetést Karácsony Gergely főpolgármester hagyta jóvá.\n\n• **A per előzménye** A 2017-ben indult jogvita az alagutak és a kapcsolódó műtárgyak építési szerződéséhez kapcsolódott. A konzorcium 2009-ig 150 többletköltség-igény alapján követelt az eredeti szerződéses összegen felül mintegy 35 milliárd forintot; az akkori városvezetés ezek közül 25-öt ismert el jogosnak.\n\n• **Miért húzódott el az ügy?** A BKV a választottbírók leterheltségével, az eljárás kiterjedtségével és összetettségével, valamint a per megindítása után kitört Covid-járvánnyal magyarázta a késedelmet.\n\n• **A jogvita folytatódhat** A konzorcium érvénytelenítési keresetet nyújtott be a Fővárosi Törvényszékhez.\n\n• **Az eddigi kártérítések** A BKV a 4-es metró építéséhez kapcsolódó ítéletek alapján eddig 39 millió euró tőkét fizetett ki; kamatokkal és egyéb eljárási költségekkel együtt a teljes összeg 16,6 milliárd forint.",
+    "importance_score": 33.0,
+    "slug": "ketmilliard-forintot-fizet-a-fovaros-a-4-es-metro-egyik-pere-miatt-40e7eb",
+    "tags": [
+      "gazdasag"
     ],
     "is_top_hero": false
   },
@@ -2428,97 +2428,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_9af20a089b",
-    "fingerprint": "001073f6db12e38a09bf3613b9d7047b",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/yeO031wyQnuCPTWYWwEEgDEmFuLeSwfLbVn3QxpRR7o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4NDA4NjcyYTNiYjRmZWY4YTkyMmVjYTc2ZGQzMmQ5.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Magyar Péter Berlinben Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-berlinben-merznek-magyarorszag-lenne-az-egyik-legnagyobb-befizeto-az-eu-ban-ez-igy-nem-lesz-jo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Rovar úr visszaszólt Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
-        "link": "https://www.vadhajtasok.hu/2026/11/10/rovar-ur-visszaszolt-merznek-magyarorszag-lenne-az-egyik-legnagyobb-befizeto-az-eu-ban-ez-igy-nem-lesz-jo"
-      }
-    ],
-    "published_at": 1794314848,
-    "title_hu": "Magyar Péter és Friedrich Merz az uniós költségvetésről és Ukrajna támogatásáról tárgyalt",
-    "lead_hu": "Magyar Péter Berlinben találkozott Friedrich Merz német kancellárral, akivel az uniós költségvetésről, Ukrajna támogatásáról és a magyar–német együttműködésről egyeztetett. Magyar szerint a költségvetési tervezet módosításra szorul, mert Magyarország aránytalanul nagy befizetővé válhatna, Merz pedig az Ukrajnának nyújtott támogatás folytatását sürgette.",
-    "content_hu": "• **Uniós költségvetés** Magyar Péter szerint a tervezetet módosítani kell, mert a befizetések alapján Magyarország az egyik legnagyobb hozzájárulóvá válhatna.\n\n• **Ukrajna támogatása** Merz közös európai feladatnak nevezte Ukrajna pénzügyi támogatását, Magyar pedig azt hangsúlyozta, hogy az európai biztonság egészét kell erősíteni.\n\n• **Magyar–német kapcsolatok** A felek a kereskedelem, az energiaforrások diverzifikálása és a védelmi együttműködés lehetőségeiről is beszéltek.\n\n• **Energia és versenyképesség** Magyar Péter szerint a magas energiaárak rontják a magyar vállalatok versenyképességét, ezért megfizethető energiára és energiabiztonságra van szükség.",
-    "importance_score": 28.0,
-    "slug": "magyar-peter-es-friedrich-merz-az-unios-kltsegvetesrol-es-ukrajna-tamogatasarol--9af20a",
-    "tags": [
-      "politika"
-    ],
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_df0b015123",
-    "fingerprint": "006d1901161ed1dd48065ce09ccbe9cc",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aee73618-6dfa-44de-8e03-b3e6e807f4d5.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Pert ígér egy református lelkész, aki állítja: nem szervezték be, mégis készült róla 6-os karton",
-        "link": "https://hvg.hu/itthon/20261110_per-reformatus-lelkesz-nem-beszervez-nev-nyilvanos-ugynokkarton"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Egy református lelkész azt állítja, tévesen van 6-os kartonja, per indítását helyezte kilátásba",
-        "link": "https://24.hu/belfold/2026/11/10/reformatus-lelkesz-teves-ugynokakta-pert-indit/"
-      }
-    ],
-    "published_at": 1794314795,
-    "title_hu": "Pert indítana a tévesen ügynökként nyilvántartott református lelkész",
-    "lead_hu": "Balajthy József nyugalmazott református lelkész szerint valós beszervezés nélkül állítottak ki róla 6-os kartont, amely a nyilvánosságra hozott állambiztonsági iratok között szerepel. Amint lehetősége nyílik rá, jogi lépéseket tesz az állam vagy a levéltár ellen.",
-    "content_hu": "• **Tagadja az együttműködést** Balajthy József azt állítja, soha nem írt alá semmit, és senkiről nem készített jelentést.\n\n• **Emlékszik a karton dátumára** Elmondása szerint 1986. december 5-én éppen a Trabantját javította, amikor visszautasította egy belügyi tiszt közeledését; úgy véli, a kartont ennek ellenére állították ki róla.\n\n• **Jogi lépéseket tervez** A lelkész elfogadhatatlannak tartja, hogy olyan tevékenység miatt kelljen védekeznie, amelyet állítása szerint nem végzett, ezért pert indítana az állam vagy a levéltár ellen.",
-    "importance_score": 28.0,
-    "slug": "pert-inditana-a-tevesen-ugynkkent-nyilvantartott-reformatus-lelkesz-df0b01",
-    "tags": [
-      "politika"
-    ],
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_02fa927607",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fe54a271-2d42-49a9-b6f5-f7203d0daeb8.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "A Till Tamás meggyilkolásával vádolt férfi tagadta bűnösségét, szerinte a fiú öngyilkos lett",
-        "link": "https://hvg.hu/itthon/20261110_till-tamas-gyilkossag-vallomas-elevules"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "A védelem szerint elévült Till Tamás meggyilkolása, az eljárás megszüntetését kérik",
-        "link": "https://www.vadhajtasok.hu/2026/11/10/a-vedelem-szerint-elevult-till-tamas-meggyilkolasa-az-eljaras-megszunteteset-kerik"
-      }
-    ],
-    "published_at": 1794314790,
-    "title_hu": "A Till Tamás meggyilkolásával vádolt férfi tagadta bűnösségét, szerinte a fiú öngyilkos lett",
-    "lead_hu": "Védője szerint a bűncselekmény már elévült, ezért az eljárást meg kell szüntetni.",
-    "content_hu": "Védője szerint a bűncselekmény már elévült, ezért az eljárást meg kell szüntetni.",
-    "slug": "a-till-tamas-meggyilkolasaval-vadolt-ferfi-tagadta-bunsseget-szerinte-a-fiu-ngyi-02fa92",
-    "tags": [
-      "politika"
-    ],
-    "importance_score": 28.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_1da37038b4",
     "fingerprint": "357b1b132b5e22ad6155dfdef36d6a85",
     "category": "Általános",
@@ -2573,7 +2482,7 @@
     "title_hu": "Tovább gyűrűzik az ügynökakta-botrány, vizsgálóbizottságot kezdeményezne a Fidesz–KDNP",
     "lead_hu": "Az ÁBTL tévesen közölt névsora miatt a Fidesz–KDNP parlamenti vizsgálóbizottságot állítana fel, Bóka János szerint ugyanis a politikai felelősség tisztázása is szükséges. A Hír TV beszámolója szerint Bóka úgy vélte, a nemzetbiztonsági bizottság azt is megvizsgálhatta volna, érte-e politikai nyomás a levéltárat; a Magyar Nemzet cikke pedig azt állítja, hogy a kormány adta ki a parancsot.",
     "content_hu": "• **Hibás adatközlés:** Az Állambiztonsági Szolgálatok Történeti Levéltára elismerte, hogy 164 embert tévesen tüntettek fel a nyilvánosságra hozott hálózati névsorban; az érintettek a kommunista rendszer áldozatai voltak.\n\n• **A főigazgató felelőssége:** Cseh Gergő Bendegúz, az ÁBTL főigazgatója bocsánatot kért az érintettektől, és ismét felajánlotta lemondását. Azt mondta, a levéltár a törvényi határidőket igyekezett betartani, politikai nyomásról pedig nem számolt be.\n\n• **Magyar Péter álláspontja:** A miniszterelnök a nemzetbiztonsági bizottság összehívását politikai cirkusznak nevezte, és azt írta, hogy a felelős vállalta a felelősséget.\n\n• **Vizsgálóbizottsági kezdeményezés:** A Fidesz–KDNP parlamenti vizsgálóbizottságot állítana fel az ügy politikai felelősségének tisztázására. Bóka János szerint a felelősséget nem lehet kizárólag a levéltár főigazgatójára hárítani.\n\n• **A politikai nyomás vizsgálata:** Bóka János szerint a nemzetbiztonsági bizottság megvizsgálhatta volna, milyen politikai nyomásgyakorlás vezethetett a hibás névsor nyilvánosságra hozatalához.\n\n• **A Magyar Nemzet állítása:** A lap címében azt állítja, hogy a kormány adta ki a parancsot az ügynökakták ügyében; a közölt szövegrészlet ehhez nem ad további részleteket.",
-    "importance_score": 28.0,
+    "importance_score": 25.0,
     "slug": "tovabb-gyuruzik-az-ugynkakta-botrany-vizsgalobizottsagot-kezdemenyezne-a-fideszk-2f79b8",
     "tags": [
       "politika"
@@ -2612,32 +2521,94 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_88aef4ff35",
-    "slug": "kiszivargott-adatok-szerint-oroszorszag-mar-tbb-mint-400-ezer-katonat-veszitett--88aef4",
+    "group_id": "group_9af20a089b",
+    "fingerprint": "001073f6db12e38a09bf3613b9d7047b",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/yeO031wyQnuCPTWYWwEEgDEmFuLeSwfLbVn3QxpRR7o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4NDA4NjcyYTNiYjRmZWY4YTkyMmVjYTc2ZGQzMmQ5.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Magyar Péter Berlinben Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-berlinben-merznek-magyarorszag-lenne-az-egyik-legnagyobb-befizeto-az-eu-ban-ez-igy-nem-lesz-jo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr visszaszólt Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
+        "link": "https://www.vadhajtasok.hu/2026/11/10/rovar-ur-visszaszolt-merznek-magyarorszag-lenne-az-egyik-legnagyobb-befizeto-az-eu-ban-ez-igy-nem-lesz-jo"
+      }
+    ],
+    "published_at": 1794314848,
+    "title_hu": "Magyar Péter és Friedrich Merz az uniós költségvetésről és Ukrajna támogatásáról tárgyalt",
+    "lead_hu": "Magyar Péter Berlinben találkozott Friedrich Merz német kancellárral, akivel az uniós költségvetésről, Ukrajna támogatásáról és a magyar–német együttműködésről egyeztetett. Magyar szerint a költségvetési tervezet módosításra szorul, mert Magyarország aránytalanul nagy befizetővé válhatna, Merz pedig az Ukrajnának nyújtott támogatás folytatását sürgette.",
+    "content_hu": "• **Uniós költségvetés** Magyar Péter szerint a tervezetet módosítani kell, mert a befizetések alapján Magyarország az egyik legnagyobb hozzájárulóvá válhatna.\n\n• **Ukrajna támogatása** Merz közös európai feladatnak nevezte Ukrajna pénzügyi támogatását, Magyar pedig azt hangsúlyozta, hogy az európai biztonság egészét kell erősíteni.\n\n• **Magyar–német kapcsolatok** A felek a kereskedelem, az energiaforrások diverzifikálása és a védelmi együttműködés lehetőségeiről is beszéltek.\n\n• **Energia és versenyképesség** Magyar Péter szerint a magas energiaárak rontják a magyar vállalatok versenyképességét, ezért megfizethető energiára és energiabiztonságra van szükség.",
+    "importance_score": 23.0,
+    "slug": "magyar-peter-es-friedrich-merz-az-unios-kltsegvetesrol-es-ukrajna-tamogatasarol--9af20a",
     "tags": [
       "politika"
     ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_df0b015123",
+    "fingerprint": "006d1901161ed1dd48065ce09ccbe9cc",
     "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261109/1794248858-temp-9cne4t6tt7650ilchpp_cimlap-normal.jpg",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aee73618-6dfa-44de-8e03-b3e6e807f4d5.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Pert ígér egy református lelkész, aki állítja: nem szervezték be, mégis készült róla 6-os karton",
+        "link": "https://hvg.hu/itthon/20261110_per-reformatus-lelkesz-nem-beszervez-nev-nyilvanos-ugynokkarton"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Egy református lelkész azt állítja, tévesen van 6-os kartonja, per indítását helyezte kilátásba",
+        "link": "https://24.hu/belfold/2026/11/10/reformatus-lelkesz-teves-ugynokakta-pert-indit/"
+      }
+    ],
+    "published_at": 1794314795,
+    "title_hu": "Pert indítana a tévesen ügynökként nyilvántartott református lelkész",
+    "lead_hu": "Balajthy József nyugalmazott református lelkész szerint valós beszervezés nélkül állítottak ki róla 6-os kartont, amely a nyilvánosságra hozott állambiztonsági iratok között szerepel. Amint lehetősége nyílik rá, jogi lépéseket tesz az állam vagy a levéltár ellen.",
+    "content_hu": "• **Tagadja az együttműködést** Balajthy József azt állítja, soha nem írt alá semmit, és senkiről nem készített jelentést.\n\n• **Emlékszik a karton dátumára** Elmondása szerint 1986. december 5-én éppen a Trabantját javította, amikor visszautasította egy belügyi tiszt közeledését; úgy véli, a kartont ennek ellenére állították ki róla.\n\n• **Jogi lépéseket tervez** A lelkész elfogadhatatlannak tartja, hogy olyan tevékenység miatt kelljen védekeznie, amelyet állítása szerint nem végzett, ezért pert indítana az állam vagy a levéltár ellen.",
+    "importance_score": 23.0,
+    "slug": "pert-inditana-a-tevesen-ugynkkent-nyilvantartott-reformatus-lelkesz-df0b01",
+    "tags": [
+      "politika"
+    ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_02fa927607",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fe54a271-2d42-49a9-b6f5-f7203d0daeb8.jpg",
     "is_synthesized": false,
     "sources_count": 2,
     "sources": [
       {
-        "source": "Telex - Belföld",
-        "title": "Kiszivárgott adatok szerint Oroszország már több mint 400 ezer katonát veszített a háborúban",
-        "link": "https://telex.hu/kulfold/2026/11/09/kiszivargott-adatok-szerint-tobb-mint-400-ezer-orosz-katona-halhatott-meg-a-haboruban"
+        "source": "HVG - Itthon",
+        "title": "A Till Tamás meggyilkolásával vádolt férfi tagadta bűnösségét, szerinte a fiú öngyilkos lett",
+        "link": "https://hvg.hu/itthon/20261110_till-tamas-gyilkossag-vallomas-elevules"
       },
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kiszivárgott adatok: eddig legalább 400 ezer orosz katona halhatott meg Ukrajnában",
-        "link": "https://24.hu/kulfold/2026/11/09/orosz-veszteseg-400-ezer-halott-kiszivargott-adatok/"
+        "source": "Vadhajtások",
+        "title": "A védelem szerint elévült Till Tamás meggyilkolása, az eljárás megszüntetését kérik",
+        "link": "https://www.vadhajtasok.hu/2026/11/10/a-vedelem-szerint-elevult-till-tamas-meggyilkolasa-az-eljaras-megszunteteset-kerik"
       }
     ],
-    "published_at": 1794250062,
-    "title_hu": "Kiszivárgott adatok szerint Oroszország már több mint 400 ezer katonát veszített a háborúban",
-    "lead_hu": "Az orosz állami statisztikai hivatal adatait lopták el belarusz és ukrán hekkerek....",
-    "content_hu": "Az orosz állami statisztikai hivatal adatait lopták el belarusz és ukrán hekkerek.",
-    "importance_score": 25.0,
+    "published_at": 1794314790,
+    "title_hu": "A Till Tamás meggyilkolásával vádolt férfi tagadta bűnösségét, szerinte a fiú öngyilkos lett",
+    "lead_hu": "Védője szerint a bűncselekmény már elévült, ezért az eljárást meg kell szüntetni.",
+    "content_hu": "Védője szerint a bűncselekmény már elévült, ezért az eljárást meg kell szüntetni.",
+    "slug": "a-till-tamas-meggyilkolasaval-vadolt-ferfi-tagadta-bunsseget-szerinte-a-fiu-ngyi-02fa92",
+    "tags": [
+      "politika"
+    ],
+    "importance_score": 23.0,
     "is_top_hero": false
   },
   {
@@ -3676,6 +3647,78 @@
     "tags": [
       "gazdasag"
     ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_7a786a6007",
+    "slug": "szentkiralyi-alexandra-durvan-nekiment-a-tisza-kormanynak-az-ugynkaktak-botranya-7a786a",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://www.youtube.com/embed/byEDxfIgdIA",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Szentkirályi Alexandra durván nekiment a Tisza-kormánynak az ügynökakták botránya miatt",
+        "link": "https://www.atv.hu/belfold/20261110/szentkiralyi-ugynokaktak-fidesz/"
+      }
+    ],
+    "published_at": 1794336540,
+    "title_hu": "Szentkirályi Alexandra durván nekiment a Tisza-kormánynak az ügynökakták botránya miatt",
+    "lead_hu": "Ismét a Tisza-kormány politikai felelősségvállalását követelte a Fidesz az ügynökakták nyilvánosságra hozatala körül kialakult botrány miatt. Szentkirályi Alexandra sajtótájékoztatót tartott....",
+    "content_hu": "Ismét a Tisza-kormány politikai felelősségvállalását követelte a Fidesz az ügynökakták nyilvánosságra hozatala körül kialakult botrány miatt. Szentkirályi Alexandra sajtótájékoztatót tartott.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_61c44b2560",
+    "slug": "egy-modszer-ahogy-soha-ne-szaritsd-a-cipodet-rengetegen-elrontjak-61c44b",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/71303171_5258061_b1b3.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Egy módszer, ahogy soha ne szárítsd a cipődet: rengetegen elrontják",
+        "link": "https://femina.hu/gyerek/cipo-szaritasa-radiatoron/"
+      }
+    ],
+    "published_at": 1794336300,
+    "title_hu": "Egy módszer, ahogy soha ne szárítsd a cipődet: rengetegen elrontják",
+    "lead_hu": "Ha így teszel, nagyon hamar tönkremegy....",
+    "content_hu": "Ha így teszel, nagyon hamar tönkremegy.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_2c175ba386",
+    "slug": "megingott-a-piac-hatalmas-veszteseget-okozott-az-nvidia-vezerigazgatojanak-botra-2c175b",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/n/v/i/nvidia-botrany-arfolyameses-tozsde-botrany-jensen-huang-868362.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megingott a piac: hatalmas veszteséget okozott az Nvidia vezérigazgatójának botránya",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/megingott-a-piac-hatalmas-veszteseget-okozott-az-nvidia-vezerigazgatojanak-botranya-875560"
+      }
+    ],
+    "published_at": 1794336180,
+    "title_hu": "Megingott a piac: hatalmas veszteséget okozott az Nvidia vezérigazgatójának botránya",
+    "lead_hu": "Két kereskedési nap alatt nagyjából 400 milliárd dollárral zuhant az Nvidia piaci kapitalizációja, miután súlyos vádak láttak napvilágot a vállalat vezérigazgatója, Jensen Huang magánéleti botrányával...",
+    "content_hu": "Két kereskedési nap alatt nagyjából 400 milliárd dollárral zuhant az Nvidia piaci kapitalizációja, miután súlyos vádak láttak napvilágot a vállalat vezérigazgatója, Jensen Huang magánéleti botrányával kapcsolatban. A befektetőket megrémisztette a hír, miszerint a cégvezető viszonyt folytatott egy pekingi kémkedéssel gyanúsított kínai üzletasszonnyal, amelynek révén hatalmas mennyiségű, exportkorlátozás alá eső chip juthatott el Kínába.",
+    "importance_score": 0.0,
     "is_top_hero": false
   },
   {
@@ -15218,54 +15261,6 @@
     "slug": "a-nap-legfontosabb-hirei-2026-november-9-23109a",
     "tags": [
       "politika"
-    ],
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_6d4d026d03",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7245/72454/724549/72454939_5339257_139df332ec6da4b0e974d8523f919947_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Kápolnapusztán szinte minden férfit agyonlőttek, a faluból nem maradt semmi",
-        "link": "https://index.hu/kultur/2026/11/09/balla-istvan-lakos-gabor-kihalt-falvaink-konyv-foto-recenzio/"
-      }
-    ],
-    "published_at": 1794250140,
-    "title_hu": "Kápolnapusztán szinte minden férfit agyonlőttek, a faluból nem maradt semmi",
-    "lead_hu": "Kihalt falvaink, ahogyan Balla István és Lakos Gábor rájuk talált.",
-    "content_hu": "Kihalt falvaink, ahogyan Balla István és Lakos Gábor rájuk talált.",
-    "slug": "kapolnapusztan-szinte-minden-ferfit-agyonlottek-a-falubol-nem-maradt-semmi-6d4d02",
-    "tags": [
-      "altalanos"
-    ],
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_c59f3454ff",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/kimerultseg-no.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "10 szokás, ami túlterhelt idegrendszert jelez - Talán észre sem veszed",
-        "link": "https://femina.hu/egeszseg/tulterhelt-idegrendszer-tunetei/"
-      }
-    ],
-    "published_at": 1794249900,
-    "title_hu": "10 szokás, ami túlterhelt idegrendszert jelez - Talán észre sem veszed",
-    "lead_hu": "Mindig sietsz? Akkor is, ha épp semmi nem indokolja?",
-    "content_hu": "Mindig sietsz? Akkor is, ha épp semmi nem indokolja?",
-    "slug": "10-szokas-ami-tulterhelt-idegrendszert-jelez-talan-eszre-sem-veszed-c59f34",
-    "tags": [
-      "bulvar"
     ],
     "importance_score": 0.0,
     "is_top_hero": false
