@@ -49,6 +49,6 @@ describe("elo news.json frissites", () => {
   test("az is_top_hero jeloles atjon a normalizalasbol", () => {
     expect(normalizeNewsList([{ group_id: "g1", title_hu: "A", sources: [], is_top_hero: true }])[0]?.is_top_hero).toBe(true);
     expect(normalizeNewsList([{ group_id: "g2", title_hu: "B", sources: [], is_top_hero: false }])[0]?.is_top_hero).toBe(false);
-    expect(normalizeNewsList([{ group_id: "g3", title_hu: "C", sources: }])[0]?.is_top_hero).toBe(false);
+    expect(normalizeNewsList([{ group_id: "g3", title_hu: "C", sources: [] }])[0]?.is_top_hero).toBe(false);
   });
 });
