@@ -1262,6 +1262,37 @@
     "importance_score": 48.0
   },
   {
+    "group_id": "group_40e7eb176e",
+    "fingerprint": "989ea75e24d7412cdd8a30c0f57fa217",
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/d/_/p/d-prg20260422018-868116.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Újabb kétmilliárdot fizet a BKV a 4-es metró miatt – már 16,6 milliárdnál tart a kártérítések összege",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/ujabb-ketmilliardot-fizet-a-bkv-a-4-es-metro-miatt-mar-166-milliardnal-tart-a-karteritesek-osszege-875362"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Most kell a fővárosnak milliárdokat fizetnie a 4-es metró pere miatt",
+        "link": "https://hvg.hu/gazdasag/20261110_fovaros-budapest-4-es-metro-per"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Újabb kártérítési pert vesztett a 4-es metró miatt a BKV, emiatt 2 milliárd forintot kellett fizetnie",
+        "link": "https://telex.hu/gazdasag/2026/11/10/4-es-metro-bkv-per-karterites"
+      }
+    ],
+    "published_at": 1794309456,
+    "title_hu": "Újabb kétmilliárd forintot kell fizetni a 4-es metró egyik perében",
+    "lead_hu": "A BAMCO konzorcium 34 millió eurót követelt a BKV-tól a 4-es metró alagútépítéséhez kapcsolódó vitában, a választottbíróság azonban 5,5 millió euró, vagyis mintegy kétmilliárd forint kifizetéséről döntött. A pénzt a főváros projektcélú kockázati tartalékából fedezik; a konzorcium érvénytelenítési keresetet is benyújtott.",
+    "content_hu": "• **A választottbíróság döntése** A BAMCO konzorcium 34 millió eurós követeléséből 5,5 millió eurót ítéltek meg a BKV-val szembeni jogvitában, ami hozzávetőleg kétmilliárd forint.\n\n• **A kifizetés fedezete** A főváros a 4-es metró beruházására elkülönített kockázati tartalékból fizeti az összeget. A döntéshez további eljárási költségek is kapcsolódnak.\n\n• **A jogvita folytatódhat** A konzorcium érvénytelenítési keresetet nyújtott be a Fővárosi Törvényszékhez.\n\n• **A kártérítések összege** A BKV a 4-es metró építéséhez kapcsolódó ítéletek alapján eddig összesen 16,6 milliárd forintot fizetett ki a kivitelezőknek, kamatokkal és egyéb költségekkel együtt.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_f664c8e122",
     "fingerprint": "1f69b166483b39dc46c84df6530d67ef",
     "category": "Politika",
@@ -1730,6 +1761,30 @@
     "importance_score": 38.0
   },
   {
+    "group_id": "group_df0b015123",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aee73618-6dfa-44de-8e03-b3e6e807f4d5.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Pert ígér egy református lelkész, aki állítja: nem szervezték be, mégis készült róla 6-os karton",
+        "link": "https://hvg.hu/itthon/20261110_per-reformatus-lelkesz-nem-beszervez-nev-nyilvanos-ugynokkarton"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Egy református lelkész azt állítja, tévesen van 6-os kartonja, per indítását helyezte kilátásba",
+        "link": "https://24.hu/belfold/2026/11/10/reformatus-lelkesz-teves-ugynokakta-pert-indit/"
+      }
+    ],
+    "published_at": 1794311960,
+    "title_hu": "Pert ígér egy református lelkész, aki állítja: nem szervezték be, mégis készült róla 6-os karton",
+    "lead_hu": "Balajthy József azt állítja, hogy ő is azok közé tartozik, akikről valós beszervezés nélkül állítottak ki 6-os kartont, és bár lánya Facebook-bejegyzésének köszönhetően sokakhoz eljutott, hogy alaptal...",
+    "content_hu": "Balajthy József azt állítja, hogy ő is azok közé tartozik, akikről valós beszervezés nélkül állítottak ki 6-os kartont, és bár lánya Facebook-bejegyzésének köszönhetően sokakhoz eljutott, hogy alaptalanul szerepel a nyilvántartásban, nem hagyja annyiban a történteket.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_908ab4c1e8",
     "fingerprint": "363a92f8d992c6da3b495e108ef97d2c",
     "category": "Politika",
@@ -1753,32 +1808,6 @@
     "title_hu": "Kézbesítik az iskolakezdési támogatás második, 50 ezer forintos részletét",
     "lead_hu": "A posta megkezdte az iskolakezdési támogatás második részletének kézbesítését: a közel 417 ezer jogosult gyermekenként 50 ezer forint értékű utalványcsomagot kap. A küldemények november 30-ig érkeznek meg, az utalványokat 2027. március 15-ig lehet felhasználni.",
     "content_hu": "• **Megkezdődött a kézbesítés**: a posta november 10-től ütemezetten juttatja el az utalványokat a jogosultakhoz, legkésőbb november 30-ig.\n\n• **50 ezer forint jár gyermekenként**: a támogatás második részlete közel 417 ezer jogosulthoz érkezik; ha egy család több gyermek után jogosult, minden érintett gyermek után jár az összeg. Az első, szintén 50 ezer forintos részletet augusztus végén kapták meg a családok.\n\n• **Meghatározott címletekben érkezik**: az 50 ezer forintos utalványcsomag 6 darab 5000, 6 darab 2000 és 8 darab 1000 forintos utalványból áll.\n\n• **Iskoláztatási célokra használható fel**: többek között papírtermékekre, kiadványokra, írószerekre, iskolai felszerelésekre, ruházatra, cipőre, digitális és műszaki cikkekre, fejlesztő játékokra, gyógyászati segédeszközökre és vitaminokra költhető.\n\n• **Egyes termékekre nem érvényes**: az utalványból például tapétát, sífelszerelést, munkanadrágot, golf-, tenisz- és tollaslabda-felszerelést, jég- és görkorcsolyát nem lehet vásárolni. A vízisport-felszerelések közül az iskolai úszófelszerelés kivétel.\n\n• **Március 15-ig használható fel**: az utalványcsomag 2027. március 15-ig váltható be.\n\n• **Sikertelen kézbesítés esetén átvehető a postán**: az utalványt a Magyar Államkincstár családtámogatási nyilvántartásában szereplő aktuális címre küldik. Ha nincs átvevő a címen, a küldemény a következő munkanaptól, az értesítőn feltüntetett időpontig vehető át; az NLC tájékoztatása szerint erre 10 munkanap áll rendelkezésre.\n\n• **Telefonos tájékoztatás is kérhető**: további információért ingyenesen hívható a 1818-as kormányzati ügyfélvonal.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_40e7eb176e",
-    "fingerprint": "989ea75e24d7412cdd8a30c0f57fa217",
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/d/_/p/d-prg20260422018-868116.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Újabb kétmilliárdot fizet a BKV a 4-es metró miatt – már 16,6 milliárdnál tart a kártérítések összege",
-        "link": "https://www.portfolio.hu/gazdasag/20261110/ujabb-ketmilliardot-fizet-a-bkv-a-4-es-metro-miatt-mar-166-milliardnal-tart-a-karteritesek-osszege-875362"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Most kell a fővárosnak milliárdokat fizetnie a 4-es metró pere miatt",
-        "link": "https://hvg.hu/gazdasag/20261110_fovaros-budapest-4-es-metro-per"
-      }
-    ],
-    "published_at": 1794309456,
-    "title_hu": "Újabb kétmilliárd forintot kell fizetni a 4-es metró egyik perében",
-    "lead_hu": "A BAMCO konzorcium 34 millió eurót követelt a BKV-tól a 4-es metró alagútépítéséhez kapcsolódó vitában, a választottbíróság azonban 5,5 millió euró, vagyis mintegy kétmilliárd forint kifizetéséről döntött. A pénzt a főváros projektcélú kockázati tartalékából fedezik; a konzorcium érvénytelenítési keresetet is benyújtott.",
-    "content_hu": "• **A választottbíróság döntése** A BAMCO konzorcium 34 millió eurós követeléséből 5,5 millió eurót ítéltek meg a BKV-val szembeni jogvitában, ami hozzávetőleg kétmilliárd forint.\n\n• **A kifizetés fedezete** A főváros a 4-es metró beruházására elkülönített kockázati tartalékból fizeti az összeget. A döntéshez további eljárási költségek is kapcsolódnak.\n\n• **A jogvita folytatódhat** A konzorcium érvénytelenítési keresetet nyújtott be a Fővárosi Törvényszékhez.\n\n• **A kártérítések összege** A BKV a 4-es metró építéséhez kapcsolódó ítéletek alapján eddig összesen 16,6 milliárd forintot fizetett ki a kivitelezőknek, kamatokkal és egyéb költségekkel együtt.",
     "importance_score": 35.0
   },
   {
@@ -1986,32 +2015,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_625b5dba25",
-    "fingerprint": "a4fde71621d9b4402f900bd01f45e7e0",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/karman-andras-e1794301731340-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Megszólalt a Pénzügyminisztérium az inflációs adat miatt",
-        "link": "https://24.hu/fn/gazdasag/2026/11/10/penzugyminiszterium-inflacios-adat-uzemanyagarak/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Április óta nem volt akkora infláció, mint októberben, megszólalt a pénzügyminiszter",
-        "link": "https://index.hu/gazdasag/2026/11/10/inflacios-adatok-ksh-oktober-2-szazalek-uzemanyagar-karman-andras/"
-      }
-    ],
-    "published_at": 1794304140,
-    "title_hu": "Az üzemanyagárak emelkedése hajtotta az októberi inflációt",
-    "lead_hu": "Októberben éves összevetésben 2 százalékos volt az infláció Magyarországon. A pénzügyminiszter szerint elsősorban az üzemanyagárak változása befolyásolta az adatot, miközben a Fidesz a védett ár visszaállítását sürgette.",
-    "content_hu": "• **Októberi infláció** A KSH adatai szerint a fogyasztói árak éves szinten 2 százalékkal emelkedtek.\n\n• **Üzemanyagárak** Októberben 3 százalékkal drágultak az üzemanyagok, ami 0,2 százalékponttal növelte a havi fogyasztóiár-indexet. A pénzügyminiszter szerint a nemzetközi árakat többek között az ukrajnai háború és a Hormuzi-szoros helyzete befolyásolja.\n\n• **Olcsóbb energia és élelmiszer** Az előző év azonos időszakához képest a háztartási energia ára 4,3, az élelmiszereké 1,1 százalékkal csökkent.\n\n• **Politikai reakció** A Fidesz a védett üzemanyagár visszaállítását követelte, és azt állította, hogy ez segítene fékezni az inflációt.\n\n• **Előrejelzés** A Pénzügyminisztérium szerint az októberi adat nem változtatja meg az idei éves átlagos inflációra vonatkozó várakozását.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_a53a19711e",
     "fingerprint": "91f660a9230d9adce72995e6711d8523",
     "category": "Politika",
@@ -2041,32 +2044,6 @@
     "lead_hu": "Magyar Péter a berlini State of Europe rendezvényen történelmi fordulópontról és Európa biztonsági, gazdasági és társadalmi kihívásairól beszélt. A miniszterelnök a versenyképesség és a határvédelem mellett a vízgazdálkodást, az uniós bővítést és a NATO-val közös védelmi képességek erősítését is sürgette.",
     "content_hu": "• **Történelmi fordulópont** Magyar Péter szerint a második világháború óta aligha volt ennyire összetett és veszélyes a nemzetközi helyzet. A nagyhatalmi versengés, a háborúk, a technológiai függőségek és a felhalmozódott társadalmi problémák egyszerre terhelik Európát.\n\n• **Európai cselekvés** A berlini Konrad Adenauer Alapítvány rendezvényén a kormányfő bírálta az európai vezetőket, amiért szerinte a figyelmeztetéseket nem követték időben szükséges intézkedések. A kontinens versenyképességének javítását, az energiaellátás biztonságát és a bürokrácia csökkentését nevezte fontos feladatnak.\n\n• **Határvédelem és migráció** Magyar Péter kijelentette, hogy Magyarország továbbra is megvédi déli határait, ugyanakkor az Európai Bizottsággal jogi megoldást keres a napi egymillió eurós bírság elkerülésére. Szerinte a tagállamoknak joguk van saját migrációs politikájuk meghatározására, és működő rendszert kell kialakítani a jogszerű tartózkodásra nem jogosultak visszaküldésére.\n\n• **Európai együttműködés és védelem** A miniszterelnök a kölcsönös tiszteletre épülő együttműködés mellett érvelt, és azt mondta, Európának a NATO-val és szövetségeseivel együtt kell valós védelmi képességet építenie a béke megőrzéséhez.\n\n• **Vízbiztonság** Magyar Péter szerint a vízgazdálkodást az energiabiztonsággal és a versenyképességgel egyenrangú stratégiai prioritássá kell emelni. A paksi atomerőmű példájára hivatkozva azt mondta, hogy az aszály és az apadó folyók már az energiaellátást is veszélyeztethetik; közös európai fellépést sürgetett a vízkészletek megőrzésére és a szélsőséges időjáráshoz való alkalmazkodásra.\n\n• **A klímaátállás terhei** A kormányfő hangsúlyozta, hogy az éghajlat védelme mellett az emberek megélhetését és a vállalatok működőképességét is óvni kell. Szerinte nem várható el az európai polgároktól, hogy korlátlan terheket viseljenek a jövőben jelentkező előnyökért.\n\n• **Nyugat-balkáni bővítés** Magyar Péter a nyugat-balkáni országokat Európa részének nevezte, és azt mondta, az uniós bővítés az érintett országok mellett az egész közösség gazdasági, társadalmi és biztonsági érdeke. Azt is sürgette, hogy minden tagjelöltre azonos mércét alkalmazzanak.\n\n• **Berlini tárgyalások** A miniszterelnök a rendezvényt követő napon miniszterekkel és Friedrich Merz német kancellárral tárgyal európai, magyar és német vonatkozású kérdésekről.",
     "importance_score": 35.0
-  },
-  {
-    "group_id": "group_2f79b83235",
-    "fingerprint": "200e37ec7bac7a2941fd6098d6446fdf",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/V-JMeMhQGc8fABITJ219_zzcukUVqYTSJz0bFeurOlc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzljMmRiYzVlMGExZTRiZGY4OTBkMWNiOWUwM2UyNDA3.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Hiába tolná az Országgyűlésre az ügynökbotrány felelősségét Magyar Péter, a kormány adta ki a parancsot",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/hiaba-tolna-az-orszaggyulesre-az-ugynokbotrany-felelosseget-magyar-peter-a-kormany-adta-ki-a-parancsot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Hír TV",
-        "title": "Parlamenti vizsgálóbizottságot állítana fel a Fidesz és a KDNP a tiszás ügynökbotrány miatt",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokbotrany-abtl-vizsgalobizottsag-boka-janos"
-      }
-    ],
-    "published_at": 1794293385,
-    "title_hu": "Tovább gyűrűzik az ügynökakta-botrány, vizsgálóbizottságot kezdeményezne a Fidesz–KDNP",
-    "lead_hu": "Az ÁBTL tévesen közölt névsora miatt a Fidesz–KDNP parlamenti vizsgálóbizottságot állítana fel, Bóka János szerint ugyanis a politikai felelősség tisztázása is szükséges. A Hír TV beszámolója szerint Bóka úgy vélte, a nemzetbiztonsági bizottság azt is megvizsgálhatta volna, érte-e politikai nyomás a levéltárat; a Magyar Nemzet cikke pedig azt állítja, hogy a kormány adta ki a parancsot.",
-    "content_hu": "• **Hibás adatközlés:** Az Állambiztonsági Szolgálatok Történeti Levéltára elismerte, hogy 164 embert tévesen tüntettek fel a nyilvánosságra hozott hálózati névsorban; az érintettek a kommunista rendszer áldozatai voltak.\n\n• **A főigazgató felelőssége:** Cseh Gergő Bendegúz, az ÁBTL főigazgatója bocsánatot kért az érintettektől, és ismét felajánlotta lemondását. Azt mondta, a levéltár a törvényi határidőket igyekezett betartani, politikai nyomásról pedig nem számolt be.\n\n• **Magyar Péter álláspontja:** A miniszterelnök a nemzetbiztonsági bizottság összehívását politikai cirkusznak nevezte, és azt írta, hogy a felelős vállalta a felelősséget.\n\n• **Vizsgálóbizottsági kezdeményezés:** A Fidesz–KDNP parlamenti vizsgálóbizottságot állítana fel az ügy politikai felelősségének tisztázására. Bóka János szerint a felelősséget nem lehet kizárólag a levéltár főigazgatójára hárítani.\n\n• **A politikai nyomás vizsgálata:** Bóka János szerint a nemzetbiztonsági bizottság megvizsgálhatta volna, milyen politikai nyomásgyakorlás vezethetett a hibás névsor nyilvánosságra hozatalához.\n\n• **A Magyar Nemzet állítása:** A lap címében azt állítja, hogy a kormány adta ki a parancsot az ügynökakták ügyében; a közölt szövegrészlet ehhez nem ad további részleteket.",
-    "importance_score": 33.0
   },
   {
     "group_id": "group_178162cda6",
@@ -2253,6 +2230,32 @@
     "lead_hu": "Magyar és külföldi szakszervezetek demonstráltak hétfőn a győri Audi Arénánál az európai autóipar és a munkahelyek védelmében. A résztvevők szerint a zöld és digitális átállás nem járhat gyárbezárásokkal és tömeges elbocsátásokkal.",
     "content_hu": "• **Nemzetközi összefogás** Magyar és több európai országból érkező szakszervezeti képviselők tüntettek Győrben az autóipari munkahelyek megőrzéséért.\n\n• **Közös követelések** A demonstrálók azt sürgették, hogy az állami támogatásban részesülő vállalatok vállaljanak kötelezettséget a munkahelyek megtartására, és a közpénzből származó előnyökből a dolgozók is részesüljenek.\n\n• **Ipari kihívások** A szakszervezetek az európai ipar védelmét is szorgalmazták az amerikai vámokkal és a kínai dömpinggel szemben, és hangsúlyozták, hogy az átállás nem vezethet gyárbezárásokhoz vagy tömeges leépítésekhez.\n\n• **Győri bezárás** A tiltakozás hátterében a WKW Hungária év végére tervezett bezárása is áll: a vállalat megszűnésével csaknem 500 ember veszítheti el az állását.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_625b5dba25",
+    "fingerprint": "a4fde71621d9b4402f900bd01f45e7e0",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/karman-andras-e1794301731340-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Megszólalt a Pénzügyminisztérium az inflációs adat miatt",
+        "link": "https://24.hu/fn/gazdasag/2026/11/10/penzugyminiszterium-inflacios-adat-uzemanyagarak/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Április óta nem volt akkora infláció, mint októberben, megszólalt a pénzügyminiszter",
+        "link": "https://index.hu/gazdasag/2026/11/10/inflacios-adatok-ksh-oktober-2-szazalek-uzemanyagar-karman-andras/"
+      }
+    ],
+    "published_at": 1794304140,
+    "title_hu": "Az üzemanyagárak emelkedése hajtotta az októberi inflációt",
+    "lead_hu": "Októberben éves összevetésben 2 százalékos volt az infláció Magyarországon. A pénzügyminiszter szerint elsősorban az üzemanyagárak változása befolyásolta az adatot, miközben a Fidesz a védett ár visszaállítását sürgette.",
+    "content_hu": "• **Októberi infláció** A KSH adatai szerint a fogyasztói árak éves szinten 2 százalékkal emelkedtek.\n\n• **Üzemanyagárak** Októberben 3 százalékkal drágultak az üzemanyagok, ami 0,2 százalékponttal növelte a havi fogyasztóiár-indexet. A pénzügyminiszter szerint a nemzetközi árakat többek között az ukrajnai háború és a Hormuzi-szoros helyzete befolyásolja.\n\n• **Olcsóbb energia és élelmiszer** Az előző év azonos időszakához képest a háztartási energia ára 4,3, az élelmiszereké 1,1 százalékkal csökkent.\n\n• **Politikai reakció** A Fidesz a védett üzemanyagár visszaállítását követelte, és azt állította, hogy ez segítene fékezni az inflációt.\n\n• **Előrejelzés** A Pénzügyminisztérium szerint az októberi adat nem változtatja meg az idei éves átlagos inflációra vonatkozó várakozását.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_836bbc4e64",
@@ -2508,6 +2511,32 @@
     "title_hu": "Késik a paksi védekezésben részt vevő vízügyesek jutalma",
     "lead_hu": "A paksi védekezésben és a fenékküszöb építésében részt vevő vízügyi dolgozók egy része november elején még nem kapta meg az október 23-ra ígért jutalmat. Az Országos Vízügyi Főigazgatóság szerint az érintettek körének tisztázása és az adatok feldolgozása miatt csúszik a kifizetés.",
     "content_hu": "• **1083 embernek ígértek juttatást** A kormány október 9-én jelentette be, hogy a paksi védekezésben és a fenékküszöb építésében részt vevők elismerést és egyhavi juttatást kapnak; erre 889 millió forintot különítettek el.\n\n• **A vízügyi dolgozók egy része még várt a pénzre** Az Országos Vízügyi Főigazgatóság több munkatársa arról számolt be, hogy november elején még nem kapták meg az ígért elismerést és jutalmat.\n\n• **Az érintettek adatainak feldolgozása késlelteti a kifizetést** Az OVF közlése szerint a folyamatban lévő munkálatok miatt az érintettek körének tisztázása és az adatok feldolgozása több időt vesz igénybe, ezért a forrásátcsoportosítás is később kezdődhetett meg.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_2f79b83235",
+    "fingerprint": "200e37ec7bac7a2941fd6098d6446fdf",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/V-JMeMhQGc8fABITJ219_zzcukUVqYTSJz0bFeurOlc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzljMmRiYzVlMGExZTRiZGY4OTBkMWNiOWUwM2UyNDA3.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Hiába tolná az Országgyűlésre az ügynökbotrány felelősségét Magyar Péter, a kormány adta ki a parancsot",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/hiaba-tolna-az-orszaggyulesre-az-ugynokbotrany-felelosseget-magyar-peter-a-kormany-adta-ki-a-parancsot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Parlamenti vizsgálóbizottságot állítana fel a Fidesz és a KDNP a tiszás ügynökbotrány miatt",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/ugynokbotrany-abtl-vizsgalobizottsag-boka-janos"
+      }
+    ],
+    "published_at": 1794293385,
+    "title_hu": "Tovább gyűrűzik az ügynökakta-botrány, vizsgálóbizottságot kezdeményezne a Fidesz–KDNP",
+    "lead_hu": "Az ÁBTL tévesen közölt névsora miatt a Fidesz–KDNP parlamenti vizsgálóbizottságot állítana fel, Bóka János szerint ugyanis a politikai felelősség tisztázása is szükséges. A Hír TV beszámolója szerint Bóka úgy vélte, a nemzetbiztonsági bizottság azt is megvizsgálhatta volna, érte-e politikai nyomás a levéltárat; a Magyar Nemzet cikke pedig azt állítja, hogy a kormány adta ki a parancsot.",
+    "content_hu": "• **Hibás adatközlés:** Az Állambiztonsági Szolgálatok Történeti Levéltára elismerte, hogy 164 embert tévesen tüntettek fel a nyilvánosságra hozott hálózati névsorban; az érintettek a kommunista rendszer áldozatai voltak.\n\n• **A főigazgató felelőssége:** Cseh Gergő Bendegúz, az ÁBTL főigazgatója bocsánatot kért az érintettektől, és ismét felajánlotta lemondását. Azt mondta, a levéltár a törvényi határidőket igyekezett betartani, politikai nyomásról pedig nem számolt be.\n\n• **Magyar Péter álláspontja:** A miniszterelnök a nemzetbiztonsági bizottság összehívását politikai cirkusznak nevezte, és azt írta, hogy a felelős vállalta a felelősséget.\n\n• **Vizsgálóbizottsági kezdeményezés:** A Fidesz–KDNP parlamenti vizsgálóbizottságot állítana fel az ügy politikai felelősségének tisztázására. Bóka János szerint a felelősséget nem lehet kizárólag a levéltár főigazgatójára hárítani.\n\n• **A politikai nyomás vizsgálata:** Bóka János szerint a nemzetbiztonsági bizottság megvizsgálhatta volna, milyen politikai nyomásgyakorlás vezethetett a hibás névsor nyilvánosságra hozatalához.\n\n• **A Magyar Nemzet állítása:** A lap címében azt állítja, hogy a kormány adta ki a parancsot az ügynökakták ügyében; a közölt szövegrészlet ehhez nem ad további részleteket.",
     "importance_score": 28.0
   },
   {
@@ -2949,6 +2978,30 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_32aa860e7c",
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/07/Hkrt0bs9HhBSJE5R-LrQIpaUYFhbaFGfnExLyD1x2M0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFkNDAwZDU0NDY2NzRkZGU4ZGY0YmY4YjI3YmNlZmI0.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Rémálommá vált Polyák Lilla és Gömöri András Máté költözése",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/polyak-lilla-gomori-andras-mate-koltozes-toronto"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "„Átvertek minket” – Pillanatok alatt rémálommá vált Polyák Lilla és Gömöri András Máté költözése",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/10/polyak-lilla-gomori-andras-mate-koltozes/"
+      }
+    ],
+    "published_at": 1794250800,
+    "title_hu": "Rémálommá vált Polyák Lilla és Gömöri András Máté költözése",
+    "lead_hu": "Polyák Lillák részletesen elmesélték, hogy pórul jártak.",
+    "content_hu": "Polyák Lillák részletesen elmesélték, hogy pórul jártak.",
+    "importance_score": 20.0
+  },
+  {
     "group_id": "group_ab1a937ad2",
     "fingerprint": "f8b2fa0ba6f74f211acb6958bf849a01",
     "category": "Politika",
@@ -3209,6 +3262,101 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_afa42528ad",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/D3UgBAss_M1OG9cGzJg46cSIGbP3Gh-YEO8IzDjGMAA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNjYzY1NGJiYWM5OTQwNzZiNTJjYjcwYzU3MjY5MjFm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Friedrich Merz és Magyar Péter nemzetközi sajtótájékoztatót tart",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/magyar-peter-es-friedrich-merz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794314868,
+    "title_hu": "Friedrich Merz és Magyar Péter nemzetközi sajtótájékoztatót tart",
+    "lead_hu": "A mai közös sajtótájékoztatót a magyar miniszterelnök élőben közvetíti, itt lehet nézni....",
+    "content_hu": "A mai közös sajtótájékoztatót a magyar miniszterelnök élőben közvetíti, itt lehet nézni.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_9af20a089b",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/yeO031wyQnuCPTWYWwEEgDEmFuLeSwfLbVn3QxpRR7o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M4NDA4NjcyYTNiYjRmZWY4YTkyMmVjYTc2ZGQzMmQ5.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Magyar Péter Berlinben Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-berlinben-merznek-magyarorszag-lenne-az-egyik-legnagyobb-befizeto-az-eu-ban-ez-igy-nem-lesz-jo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794314848,
+    "title_hu": "Magyar Péter Berlinben Merznek: Magyarország lenne az egyik legnagyobb befizető az EU-ban, ez így nem lesz jó",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_02fa927607",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fe54a271-2d42-49a9-b6f5-f7203d0daeb8.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "A Till Tamás meggyilkolásával vádolt férfi tagadta bűnösségét, szerinte a fiú öngyilkos lett",
+        "link": "https://hvg.hu/itthon/20261110_till-tamas-gyilkossag-vallomas-elevules"
+      }
+    ],
+    "published_at": 1794314790,
+    "title_hu": "A Till Tamás meggyilkolásával vádolt férfi tagadta bűnösségét, szerinte a fiú öngyilkos lett",
+    "lead_hu": "Védője szerint a bűncselekmény már elévült, ezért az eljárást meg kell szüntetni....",
+    "content_hu": "Védője szerint a bűncselekmény már elévült, ezért az eljárást meg kell szüntetni.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f09b48996a",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Robbanószerkezettel vetett véget életének egy ember Zágráb központjában",
+        "link": "https://index.hu/kulfold/2026/11/10/zagrab-roosevelt-ter-mimara-muzeum-robbanoszerkezet-ongyilkossag/"
+      }
+    ],
+    "published_at": 1794314640,
+    "title_hu": "Robbanószerkezettel vetett véget életének egy ember Zágráb központjában",
+    "lead_hu": "A helyszínre nagy erőkkel vonult ki a rendőrség....",
+    "content_hu": "A helyszínre nagy erőkkel vonult ki a rendőrség.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_635c81d6fb",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261110/1794313649-temp-au44784f3kg46naefhe_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Elárverezik a filmtörténelem legemlékezetesebb smaragdöld ruháját",
+        "link": "https://telex.hu/after/2026/11/10/keira-knightley-vagy-es-vezekles-zold-ruha-arveres"
+      }
+    ],
+    "published_at": 1794314624,
+    "title_hu": "Elárverezik a filmtörténelem legemlékezetesebb smaragdöld ruháját",
+    "lead_hu": "Az ikonikus ruhát Keira Knightley viselte a 2007-es Vágy és vezeklés kulcsjelenetében....",
+    "content_hu": "Az ikonikus ruhát Keira Knightley viselte a 2007-es Vágy és vezeklés kulcsjelenetében.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_70b6770825",
     "category": "Általános",
     "image": "",
@@ -3225,6 +3373,44 @@
     "title_hu": "„Határozottan cáfolják” – Újabb helyszín csapott le a Szőke Zoltánékat cserbenhagyó színházi szervezőre",
     "lead_hu": "Újabb súlyos fordulat a színházi botrányban: a székesfehérvári MindenTér határozottan cáfolja a fizetésképtelen szervező korábbi állításait....",
     "content_hu": "Újabb súlyos fordulat a színházi botrányban: a székesfehérvári MindenTér határozottan cáfolja a fizetésképtelen szervező korábbi állításait.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_26310535fd",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szakmai konferencia összerántásával oltana tüzet a kulturális tárca",
+        "link": "https://index.hu/kultur/2026/11/10/szakmai-konferencia-osszerantasaval-oltana-tuzet-a-kulturalis-tarca/"
+      }
+    ],
+    "published_at": 1794314580,
+    "title_hu": "Szakmai konferencia összerántásával oltana tüzet a kulturális tárca",
+    "lead_hu": "November elején sokan megütköztek a napvilágot látott tervezett támogatási összegeken....",
+    "content_hu": "November elején sokan megütköztek a napvilágot látott tervezett támogatási összegeken.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_dd17385a62",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0803252728-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Magyarországon még sosem látott csalást hajtott végre egy kínai férfi, „rekordidő” alatt letartóztatták",
+        "link": "https://24.hu/tech/2026/11/10/rendorseg-csalo-sms-nni-kinai-ferfi-letartoztatas/"
+      }
+    ],
+    "published_at": 1794314547,
+    "title_hu": "Magyarországon még sosem látott csalást hajtott végre egy kínai férfi, „rekordidő” alatt letartóztatták",
+    "lead_hu": "A kínai férfi rendőrségi értesítésnek álcázott adathalász smseket küldött egy mozgó gépkocsiból működtetett hamis mobil bázisállomás segítségével. The post Magyarországon még sosem látott csalást hajt...",
+    "content_hu": "A kínai férfi rendőrségi értesítésnek álcázott adathalász smseket küldött egy mozgó gépkocsiból működtetett hamis mobil bázisállomás segítségével. The post Magyarországon még sosem látott csalást hajtott végre egy kínai férfi, „rekordidő” alatt letartóztatták first appeared on 24.hu.",
     "importance_score": 0.0
   },
   {
@@ -3301,6 +3487,25 @@
     "title_hu": "David Walliams volt az a rejtélyes híresség, aki öngyilkossággal fenyegetőzve próbálta megakadályozni a szexuális visszaéléseinek részleteinek nyilvánosságra kerülését",
     "lead_hu": "A színész mindent tagad, olyan nők bosszújáról beszél, akikkel 10-20 éve volt kapcsolatban. Csakhogy egyikük például 15 éves volt, amikor megismerkedtek....",
     "content_hu": "A színész mindent tagad, olyan nők bosszújáról beszél, akikkel 10-20 éve volt kapcsolatban. Csakhogy egyikük például 15 éves volt, amikor megismerkedtek.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_6ba0ab5850",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Telefonfüggőség helyett jelenlét: egy kérdés segíthet megállítani a sodródást a pszichológus szerint",
+        "link": "https://nlc.hu/eletmod/20261110/mobiltelefon-fuggoseg-sipka-bence/xj7rse8"
+      }
+    ],
+    "published_at": 1794313980,
+    "title_hu": "Telefonfüggőség helyett jelenlét: egy kérdés segíthet megállítani a sodródást a pszichológus szerint",
+    "lead_hu": "Csak egy percre vesszük elő a telefonunkat, aztán még egyszer, majd újra. Ezek az ártatlannak tűnő pillanatok azonban összeadódnak, és közben észrevétlenül valami igazán értékessel fizetünk: a saját i...",
+    "content_hu": "Csak egy percre vesszük elő a telefonunkat, aztán még egyszer, majd újra. Ezek az ártatlannak tűnő pillanatok azonban összeadódnak, és közben észrevétlenül valami igazán értékessel fizetünk: a saját időnkkel. De miért nyúlunk automatikusan a mobilunkért, és hogyan szerezhetjük vissza a figyelmünket? The post Telefonfüggőség helyett jelenlét: egy kérdés segíthet megállítani a sodródást a pszichológus szerint first appeared on nlc.",
     "importance_score": 0.0
   },
   {
@@ -3700,25 +3905,6 @@
     "title_hu": "Így szaporítják a pénzt a profik: új alapokkal jött ki az amerikai óriás Budapesten",
     "lead_hu": "Bekukkanthatunk egy pénzügyi óriás stratégiaalkotó boszorkánykonyhájába....",
     "content_hu": "Bekukkanthatunk egy pénzügyi óriás stratégiaalkotó boszorkánykonyhájába.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_df0b015123",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aee73618-6dfa-44de-8e03-b3e6e807f4d5.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Pert ígér egy református lelkész, aki állítja: nem szervezték be, mégis készült róla 6-os karton",
-        "link": "https://hvg.hu/itthon/20261110_per-reformatus-lelkesz-nem-beszervez-nev-nyilvanos-ugynokkarton"
-      }
-    ],
-    "published_at": 1794311960,
-    "title_hu": "Pert ígér egy református lelkész, aki állítja: nem szervezték be, mégis készült róla 6-os karton",
-    "lead_hu": "Balajthy József azt állítja, hogy ő is azok közé tartozik, akikről valós beszervezés nélkül állítottak ki 6-os kartont, és bár lánya Facebook-bejegyzésének köszönhetően sokakhoz eljutott, hogy alaptal...",
-    "content_hu": "Balajthy József azt állítja, hogy ő is azok közé tartozik, akikről valós beszervezés nélkül állítottak ki 6-os kartont, és bár lánya Facebook-bejegyzésének köszönhetően sokakhoz eljutott, hogy alaptalanul szerepel a nyilvántartásban, nem hagyja annyiban a történteket.",
     "importance_score": 0.0
   },
   {
@@ -4935,6 +5121,25 @@
     "title_hu": "Fontos egészségügyi vizsgálatok lesznek most ingyenesek: így lehet rájuk regisztrálni",
     "lead_hu": "Komoly bajt előzhetsz meg ezekkel a vizsgálatokkal.",
     "content_hu": "Komoly bajt előzhetsz meg ezekkel a vizsgálatokkal.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_73fc8ad7ed",
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-951640954-szmvitel-knyvels-pnzgy-ad-adzs-kltsgvets-adminisztrci-865640.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Lezárul egy korszak Magyarországon, kivezetik a járvány idején hozott rendkívüli intézkedést",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/lezarul-egy-korszak-magyarorszagon-kivezetik-a-jarvany-idejen-hozott-rendkivuli-intezkedest-875414"
+      }
+    ],
+    "published_at": 1794306600,
+    "title_hu": "Lezárul egy korszak Magyarországon, kivezetik a járvány idején hozott rendkívüli intézkedést",
+    "lead_hu": "Hat év után megszűnhet a Covid-járvány idején bevezetett, rendkívül széles körű magyar befektetés-ellenőrzési rendszer, így a legtöbb vállalatfelvásárlás mentesülhet a különleges bejelentési kötelezet...",
+    "content_hu": "Hat év után megszűnhet a Covid-járvány idején bevezetett, rendkívül széles körű magyar befektetés-ellenőrzési rendszer, így a legtöbb vállalatfelvásárlás mentesülhet a különleges bejelentési kötelezettség alól. A társadalmi egyeztetésre bocsátott törvénytervezet szerint a 2026 végén lejáró rezsim helyett egy jóval szűkebb szabály lépne életbe, amely csak az EU-n, az EGT-n és Svájcon kívüli befektetők többségi befolyásszerzésére vonatkozna. A bejelentés hat stratégiai ágazatot érintene, és csak akkor lenne kötelező, ha a céltársaság árbevétele eléri a 180 milliárd forintot, vagy az ügylet értéke a 10 milliárdot. A nemzetbiztonsági alapú szűrés továbbra is megmarad, és több értelmezési kérdés egyelőre nyitott, a tervezet pedig november 12-ig véleményezhető.",
     "importance_score": 0.0
   },
   {
@@ -9308,25 +9513,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_32aa860e7c",
-    "category": "Bulvár",
-    "image": "https://cdn.borsonline.hu/2026/07/Hkrt0bs9HhBSJE5R-LrQIpaUYFhbaFGfnExLyD1x2M0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFkNDAwZDU0NDY2NzRkZGU4ZGY0YmY4YjI3YmNlZmI0.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Rémálommá vált Polyák Lilla és Gömöri András Máté költözése",
-        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/polyak-lilla-gomori-andras-mate-koltozes-toronto"
-      }
-    ],
-    "published_at": 1794250800,
-    "title_hu": "Rémálommá vált Polyák Lilla és Gömöri András Máté költözése",
-    "lead_hu": "Polyák Lillák részletesen elmesélték, hogy pórul jártak.",
-    "content_hu": "Polyák Lillák részletesen elmesélték, hogy pórul jártak.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_23109a9be0",
     "category": "Politika",
     "image": "https://s.24.hu/app/uploads/2026/11/central-1090873175-e1794250555614-1024x575.jpg",
@@ -13029,158 +13215,6 @@
     "title_hu": "Ez a legveszélyesebb hiba, amit a karácsonyfáddal elkövethetsz",
     "lead_hu": "A karácsonyi tűzveszély sokszor nem a gyertyáknál vagy a csillagszóróknál kezdődik. Egy volt tűzoltó szerint az egyik legveszélyesebb ünnepi szokás meglepően hétköznapi. The post Ez a legveszélyesebb …",
     "content_hu": "A karácsonyi tűzveszély sokszor nem a gyertyáknál vagy a csillagszóróknál kezdődik. Egy volt tűzoltó szerint az egyik legveszélyesebb ünnepi szokás meglepően hétköznapi. The post Ez a legveszélyesebb hiba, amit a karácsonyfáddal elkövethetsz first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b5c5465f55",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0d126983-3bff-4112-95f8-05e3f79d658f.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Vodkásüveget is bevetett, hogy kirabolja a vonaton utazó fiatalt: kétezer forintot szerzett",
-        "link": "https://hvg.hu/itthon/20261109_ketezer-forintot-rabolt-a-vonaton"
-      }
-    ],
-    "published_at": 1794228621,
-    "title_hu": "Vodkásüveget is bevetett, hogy kirabolja a vonaton utazó fiatalt: kétezer forintot szerzett",
-    "lead_hu": "Az egyik támadó feltételesen volt szabadlábon, neki és társának korábban is volt dolga a rendőrökkel rablás miatt.",
-    "content_hu": "Az egyik támadó feltételesen volt szabadlábon, neki és társának korábban is volt dolga a rendőrökkel rablás miatt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_eda6646f4f",
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/images/Dr._Matyas_cover_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Dr. Mátyás 15 kilót fogyott a Sztárban sztár miatt: így nézett ki a műsor előtt",
-        "link": "https://femina.hu/hazai_sztar/dr-matyas-fogyas-sztarban-sztar-elott-fotok/"
-      }
-    ],
-    "published_at": 1794228600,
-    "title_hu": "Dr. Mátyás 15 kilót fogyott a Sztárban sztár miatt: így nézett ki a műsor előtt",
-    "lead_hu": "15 kilós fogyása előtt Dr. Mátyás sokkal izmosabb és szálkásabb volt.",
-    "content_hu": "15 kilós fogyása előtt Dr. Mátyás sokkal izmosabb és szálkásabb volt.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_359fab7bb6",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/4HefqO7N0OOPG0kl9FP2NOrnNU9gDu0YTbx9sX5U5fk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2M5MjcwYWZiN2EwMTQ1MDFhZjk1NWQ2YWMzNmFjMTE5.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Nem is gondolnánk, milyen meglepő adománnyal vette kezdetét az MTA könyvtárának története",
-        "link": "https://magyarnemzet.hu/kultura/2026/11/konyvtar-mta-jubileum-programok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794228503,
-    "title_hu": "Nem is gondolnánk, milyen meglepő adománnyal vette kezdetét az MTA könyvtárának története",
-    "lead_hu": "Egész napos programsorozattal ünnepli kétszáz éves jubileumát az intézmény.",
-    "content_hu": "Egész napos programsorozattal ünnepli kétszáz éves jubileumát az intézmény.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6125d28c87",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-11118606392-e1794222163161-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Rétvári Magyar előző életét hánytorgatta fel",
-        "link": "https://24.hu/belfold/2026/11/09/retvari-magyar-elozo-eletet-hanytorgatta-fel/"
-      }
-    ],
-    "published_at": 1794228452,
-    "title_hu": "Rétvári Magyar előző életét hánytorgatta fel",
-    "lead_hu": "Rétvári Bence KDNP-s vezető Magyarnak egy két évvel ezelőtti interjúját vette elő, amelyben még dicsérte Orbán Viktort. The post Rétvári Magyar előző életét hánytorgatta fel first appeared on 24.hu.",
-    "content_hu": "Rétvári Bence KDNP-s vezető Magyarnak egy két évvel ezelőtti interjúját vette elő, amelyben még dicsérte Orbán Viktort. The post Rétvári Magyar előző életét hánytorgatta fel first appeared on 24.hu.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0d62764108",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "A karácsonyfa története: 7 meglepő dolog, amit talán nem tudtál a legfontosabb ünnepi díszünkről",
-        "link": "https://nlc.hu/meghitt-percek/20261109/karacsonyfa-tortenete/fxmec9j"
-      }
-    ],
-    "published_at": 1794228406,
-    "title_hu": "A karácsonyfa története: 7 meglepő dolog, amit talán nem tudtál a legfontosabb ünnepi díszünkről",
-    "lead_hu": "A karácsonyfa ma már szerves része az ünnepnek, de a története sokkal különösebb, mint elsőre gondolnánk. Tudtad, hogy az első karácsonyfák egészen másképp néztek ki, és Magyarországon sem olyan régi …",
-    "content_hu": "A karácsonyfa ma már szerves része az ünnepnek, de a története sokkal különösebb, mint elsőre gondolnánk. Tudtad, hogy az első karácsonyfák egészen másképp néztek ki, és Magyarországon sem olyan régi hagyomány a feldíszítésük? Mutatunk 7 meglepő érdekességet a karácsonyfa eredetéről és az ünnepi szokásokról. The post A karácsonyfa története: 7 meglepő dolog, amit talán nem tudtál a legfontosabb ünnepi díszünkről first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ee06821061",
-    "category": "Gazdaság",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/005ab51d-9c4e-4830-8309-7530af4e3e71.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Seszták sajátos öröksége a Nyírségben: uniós milliókból építettek óriás-emberalakokat",
-        "link": "https://hvg.hu/gazdasag/20261109_deszka-orias-emberalak-nyirseg-sesztak-ido"
-      }
-    ],
-    "published_at": 1794228241,
-    "title_hu": "Seszták sajátos öröksége a Nyírségben: uniós milliókból építettek óriás-emberalakokat",
-    "lead_hu": "Előbb Kisvárdán, majd Rakamazon is ugyanaz a beruházó emelt faembert a helyi élővilág és hagyományok bemutatását célzó uniós projekt keretében. Funkciójuk rejtély.",
-    "content_hu": "Előbb Kisvárdán, majd Rakamazon is ugyanaz a beruházó emelt faembert a helyi élővilág és hagyományok bemutatását célzó uniós projekt keretében. Funkciójuk rejtély.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a817c651d6",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Harmadszor is apa lesz Szabó Máté: kisfiút vár feleségével a színész",
-        "link": "https://nlc.hu/baba/20261109/harmadszor-is-apa-lesz-szabo-mate/pj1cl3b"
-      }
-    ],
-    "published_at": 1794228240,
-    "title_hu": "Harmadszor is apa lesz Szabó Máté: kisfiút vár feleségével a színész",
-    "lead_hu": "Az Agymenők Sheldon Cooperének magyar hangjaként is ismert színész családja hamarosan öttagúra bővül. Szabó Máté és felesége, Laurinyecz Réka már izgatottan készülnek harmadik gyermekük érkezésére. Th…",
-    "content_hu": "Az Agymenők Sheldon Cooperének magyar hangjaként is ismert színész családja hamarosan öttagúra bővül. Szabó Máté és felesége, Laurinyecz Réka már izgatottan készülnek harmadik gyermekük érkezésére. The post Harmadszor is apa lesz Szabó Máté: kisfiút vár feleségével a színész first appeared on nlc.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ba57ddb9ad",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Halálos munkahelyi baleset történt a Linde kazincbarcikai telephelyén",
-        "link": "https://index.hu/belfold/2026/11/09/kazincbarcika-linde-gaz-rtl-hirado-baleset/"
-      }
-    ],
-    "published_at": 1794228240,
-    "title_hu": "Halálos munkahelyi baleset történt a Linde kazincbarcikai telephelyén",
-    "lead_hu": "A cég közleménye szerint a történtek nem jelentenek további kockázatot a dolgozókra.",
-    "content_hu": "A cég közleménye szerint a történtek nem jelentenek további kockázatot a dolgozókra.",
     "importance_score": 0.0
   },
   {
