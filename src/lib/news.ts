@@ -8,6 +8,7 @@ export type LangContent = { title: string; lead: string; content: string };
 type RawItem = {
   group_id: string;
   slug?: string | null;
+  tags?: string[] | null;
   category?: string | null;
   image: string | null;
   is_synthesized: boolean;
@@ -50,6 +51,22 @@ const tsFromId = (id: string) => {
   return m ? Number(m[1]) : null;
 };
 
+/** Címke URL-barát alakja: kisbetű, ékezet nélkül, kötőjellel. */
+export function tagSlug(tag: string) {
+  return tag.replace(/^#/, "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+/** Címkéből olvasható felirat: "orban-aron" → "Orban Aron". */
+export const tagLabel = (tag: string) => tag.split("-").filter(Boolean).map((w) => w[0].toLocaleUpperCase("hu") + w.slice(1)).join(" ");
+
+/** Az összes cikk, amely a címkét viseli (újak elöl, ismétlés nélkül). */
+export function newsByTag(tag: string): NewsItem[] {
+  const seen = new Set<string>();
+  return [...news, ...history, ...archive]
+    .filter((n) => n.tags?.includes(tag) && !seen.has(n.group_id) && seen.add(n.group_id))
+    .sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0));
+}
+
 function normalize(r: RawItem): NewsItem {
   const huContent: LangContent = {
     title: r.title_hu ?? "",
@@ -71,6 +88,7 @@ function normalize(r: RawItem): NewsItem {
   return {
     group_id: r.group_id,
     slug: r.slug ?? null,
+    tags: Array.isArray(r.tags) ? r.tags.filter((t): t is string => typeof t === "string" && t.trim() !== "").map(tagSlug) : [],
     image: r.image,
     is_synthesized: r.is_synthesized,
     sources_count: r.sources_count,

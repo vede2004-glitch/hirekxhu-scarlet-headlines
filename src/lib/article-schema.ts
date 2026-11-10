@@ -20,7 +20,9 @@ export function articleSchema(item: NewsItem, image: string | null) {
     inLanguage: "hu",
     ...(published && Number.isFinite(published.getTime()) ? { datePublished: published.toISOString() } : {}),
     ...(image?.startsWith("https://") ? { image: [image] } : {}),
-    publisher: { "@type": "Organization", name: "HIREKX.hu", url: SITE_URL },
+    author: { "@type": "Organization", name: "HIREKX.hu", url: SITE_URL },
+    publisher: { "@type": "Organization", name: "HIREKX.hu", url: SITE_URL, logo: { "@type": "ImageObject", url: `${SITE_URL}/hirekx-logo.png` } },
+    ...(item.tags?.length ? { keywords: item.tags.join(", ") } : {}),
     citation: item.sources.filter((source) => /^https?:\/\//.test(source.link)).map((source) => ({
       "@type": "CreativeWork",
       name: source.title,

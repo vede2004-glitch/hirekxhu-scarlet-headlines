@@ -2,7 +2,8 @@ import { BrandLogo } from "@/components/BrandLogo";
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
-import { ensureHistory, getNews, timeAgo, tr } from "@/lib/news";
+import { ensureHistory, getNews, tagLabel, timeAgo, tr } from "@/lib/news";
+import { heroPhoto } from "@/lib/news-covers";
 import { getLiveNews } from "@/lib/news-live.functions";
 import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, LANGS } from "@/lib/lang";
@@ -35,12 +36,15 @@ export const Route = createFileRoute("/hir/$id")({
       { property: "og:type", content: "article" },
       { name: "twitter:card", content: "summary_large_image" },
     ];
+    const img = loaderData ? SITE_URL + heroPhoto(loaderData.category, loaderData.title, loaderData.group_id) : null;
+    if (img) meta.push({ property: "og:image", content: img }, { name: "twitter:image", content: img });
+    if (loaderData?.published_at) meta.push({ property: "article:published_time", content: new Date(loaderData.published_at * 1000).toISOString() });
     const url = loaderData ? `${SITE_URL}/hir/${encodeURIComponent(loaderData.slug || loaderData.group_id)}` : undefined;
     return {
       meta: [...meta, ...(url ? [{ property: "og:url", content: url }] : [])],
       scripts: loaderData
         ? [
-            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, null)) },
+            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, img)) },
             { type: "application/ld+json", children: serializeArticleSchema(breadcrumbSchema(loaderData)) },
           ]
         : [],
@@ -76,6 +80,11 @@ function Article() {
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
           {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>
+        {!!item.tags?.length && (
+          <div className="mt-8 flex flex-wrap gap-2">
+            {item.tags.map((tag) => <Link key={tag} to="/tag/$tagName" params={{ tagName: tag }} className="rounded-full border border-border bg-secondary px-3 py-1 text-xs font-semibold text-muted-foreground transition-colors hover:border-primary/50 hover:text-primary" title={tagLabel(tag)}>#{tag}</Link>)}
+          </div>
+        )}
         {item.is_synthesized && (
           <p className="mt-10 flex w-full items-start gap-3 rounded-lg border border-primary/25 bg-primary/10 px-4 py-3.5 text-[15px] leading-relaxed text-foreground/90">
             <Sparkles className="mt-1 size-4 shrink-0 text-primary" />
