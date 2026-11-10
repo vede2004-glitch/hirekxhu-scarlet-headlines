@@ -67,7 +67,7 @@ function AllNews() {
       <ol className="divide-y divide-border rounded-lg border border-border bg-card">
         {list.map((n) => (
           <li key={n.group_id}>
-            <Link to="/hir/$id" params={{ id: n.group_id }} className="group flex gap-4 p-4">
+            <Link to="/hir/$id" params={{ id: n.slug || n.group_id }} className="group flex gap-4 p-4">
               <span className="hidden w-1 shrink-0 rounded-full bg-primary/30 transition-colors group-hover:bg-primary sm:block" />
               <div className="min-w-0">
                 <p className="text-[10px] font-bold uppercase text-muted-foreground">
