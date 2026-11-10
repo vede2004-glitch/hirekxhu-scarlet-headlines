@@ -984,7 +984,7 @@
     "title_hu": "86 jármű ütközött össze a bolgár Trákia autópályán",
     "lead_hu": "A délutáni hivatalos adatok szerint tizenkét ember halt meg, 51-et pedig kórházba vittek, miután ködben tömeges karambolok történtek a bolgár A1-es autópálya Jambolhoz közeli szakaszán. A két balesetsorozatban összesen 86 jármű rongálódott meg, az utat mindkét irányban lezárták.",
     "content_hu": "• **A baleset helyszíne és ideje** A Trákia autópálya Zimnica csomópont közelében, a 290-es kilométernél történt a tömeges ütközés. Az első segélyhívás helyi idő szerint 7 óra 10 perckor érkezett.\n\n• **A járművek száma** A Burgasz felé tartó oldalon 63 jármű került a balesetsorozatba, a szemközti pályatesten pedig további 23 autó és teherautó ütközött össze. A hatóságok összesítése szerint 86 jármű sérült meg.\n\n• **Az ütközések körülményei** A Burgasz irányába haladó oldalon egy teherautó és egy busz ütközése indította el a karambolokat. A másik pályatesten az autósok a túloldali balesetet figyelve lassíthattak, ami további ütközésekhez vezethetett.\n\n• **Halálos áldozatok és sérültek** A délutáni hivatalos adatok tizenkét halálos áldozatról és 51 kórházba szállított sérültről szóltak. A halottak közül tizenegyen a helyszínen vesztették életüket, egy ember a kórházban halt meg; a sérültek közül tizenhárom súlyos állapotban volt.\n\n• **Lehetséges közreható tényezők** A térségben sűrű köd és nedves, csúszós útfelület nehezítette a közlekedést. A hatóságok szerint az útviszonyokhoz képest nagy sebesség is szerepet játszhatott a balesetek kialakulásában.\n\n• **Mentés és kórházi ellátás** A mentésben jamboli, szliveni és burgaszi egységek, 14 tűzoltócsapat és több mint húsz katona vett részt; a BG-Alert riasztórendszert is aktiválták. Szlivenben nyolc sérültet láttak el, közülük egy kritikus állapotban volt, a jamboli kórházba pedig három súlyos sérültet vittek. A mentőhelikopterek készen álltak, de a köd nehezítette a helyszín megközelítését.\n\n• **Lezárás és hivatalos reakciók** Az autópályát mindkét irányban lezárták, a roncsok eltávolítása és a helyszínelés hosszabb időt vehetett igénybe. A bolgár kormány lemondta az aznapra tervezett ülését, Rumen Radev törölte várnai programját, Ursula von der Leyen pedig lerövidítette bulgáriai látogatását.",
-    "importance_score": 53.0,
+    "importance_score": 48.0,
     "is_top_hero": false
   },
   {
@@ -2401,40 +2401,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_a02b41a89c",
-    "slug": "magyar-peter-dublinba-utazik-europai-egyeztetesekre-a02b41",
-    "tags": [
-      "magyar-peter",
-      "dublin",
-      "europai-politikai-kozosseg",
-      "europai-tanacs"
-    ],
-    "fingerprint": "cec994313140db31f790963395ba480f",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/900387208_1454805450120102_428799414616025845_n-1024x576.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Magyar Péter Berlin után Dublinba utazik európai csúcstalálkozóra",
-        "link": "https://24.hu/kulfold/2026/11/10/magyar-peter-berlin-dublin/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Szerdán Dublinba utazik Magyar Péter",
-        "link": "https://hvg.hu/itthon/20261110_magyar-peter-dublin-irorszag-utazas-diplomacia"
-      }
-    ],
-    "published_at": 1794329692,
-    "title_hu": "Magyar Péter Dublinba utazik európai egyeztetésekre",
-    "lead_hu": "A berlini tárgyalásait követően Magyar Péter Írországba látogat. Dublinban az Európai Politikai Közösség találkozóján, majd az Európai Tanács informális ülésén vesz részt.",
-    "content_hu": "• **Írországi út** Magyar Péter szerdán Berlinből hazatér, majd Dublinba utazik.\n\n• **Csütörtöki program** Az ír soros elnökség keretében európai országok vezetői találkoznak az Európai Politikai Közösség formátumában.\n\n• **Pénteki tanácskozás** Az Európai Unió 27 tagállamának vezetői informális megbeszélést tartanak Dublinban.\n\n• **Berlini előzmény** Magyar Péter kedden Friedrich Merz német kancellárral tárgyalt; közös sajtótájékoztatójukon többek között az orosz energiafüggőség csökkentése és az uniós költségvetés került szóba.",
-    "importance_score": 28.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_2e988f490b",
     "fingerprint": "a8f7df74c5ee372dbf96d98534208796",
     "category": "Politika",
@@ -2559,6 +2525,40 @@
     "tags": [
       "politika"
     ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_a02b41a89c",
+    "slug": "magyar-peter-dublinba-utazik-europai-egyeztetesekre-a02b41",
+    "tags": [
+      "magyar-peter",
+      "dublin",
+      "europai-politikai-kozosseg",
+      "europai-tanacs"
+    ],
+    "fingerprint": "cec994313140db31f790963395ba480f",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/900387208_1454805450120102_428799414616025845_n-1024x576.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Magyar Péter Berlin után Dublinba utazik európai csúcstalálkozóra",
+        "link": "https://24.hu/kulfold/2026/11/10/magyar-peter-berlin-dublin/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Szerdán Dublinba utazik Magyar Péter",
+        "link": "https://hvg.hu/itthon/20261110_magyar-peter-dublin-irorszag-utazas-diplomacia"
+      }
+    ],
+    "published_at": 1794329692,
+    "title_hu": "Magyar Péter Dublinba utazik európai egyeztetésekre",
+    "lead_hu": "A berlini tárgyalásait követően Magyar Péter Írországba látogat. Dublinban az Európai Politikai Közösség találkozóján, majd az Európai Tanács informális ülésén vesz részt.",
+    "content_hu": "• **Írországi út** Magyar Péter szerdán Berlinből hazatér, majd Dublinba utazik.\n\n• **Csütörtöki program** Az ír soros elnökség keretében európai országok vezetői találkoznak az Európai Politikai Közösség formátumában.\n\n• **Pénteki tanácskozás** Az Európai Unió 27 tagállamának vezetői informális megbeszélést tartanak Dublinban.\n\n• **Berlini előzmény** Magyar Péter kedden Friedrich Merz német kancellárral tárgyalt; közös sajtótájékoztatójukon többek között az orosz energiafüggőség csökkentése és az uniós költségvetés került szóba.",
+    "importance_score": 23.0,
     "is_top_hero": false
   },
   {
