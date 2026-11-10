@@ -57,7 +57,7 @@ export function tagSlug(tag: string) {
 }
 
 /** Címkéből olvasható felirat: "orban-aron" → "Orban Aron". */
-export const tagLabel = (tag: string) => tag.split("-").filter(Boolean).map((w) => w[0].toLocaleUpperCase("hu") + w.slice(1)).join(" ");
+export const tagLabel = (tag: string) => tag.split("-").filter(Boolean).map((w) => w.charAt(0).toLocaleUpperCase("hu") + w.slice(1)).join(" ");
 
 /** Az összes cikk, amely a címkét viseli (újak elöl, ismétlés nélkül). */
 export function newsByTag(tag: string): NewsItem[] {
