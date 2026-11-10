@@ -95,67 +95,205 @@
     ]
   },
   {
-    "group_id": "group_5e8c0244ed",
-    "category": "Általános",
+    "group_id": "group_95dfb1aed5",
+    "category": "Gazdaság",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Vadonatúj AI-okkal rukkolt elő az Anthropic",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/vadonatuj-ai-okkal-rukkolt-elo-az-anthropic-875278",
+        "image": "https://pcdn.hu/articles/images-xl/a/n/t/anthropic-868036.jpg",
+        "summary": "Két új, csúcskategóriás mesterségesintelligencia-modellt, a Claude Fable 5.2-t és a Claude Mythos 5.2-t mutatta be hétfőn az Anthropic, közvetlenül a vállalat akár már jövő héten esedékes, történelmi léptékűnek ígérkező tőzsdei bevezetése előtt. Az újdonságok harminc százalékkal gyorsabbak és húsz százalékkal olcsóbbak elődeiknél.",
+        "category": "Gazdaság",
+        "published_at": 1794252600
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Vadonatúj AI-modellekkel rukkolt elő az Anthropic",
+        "link": "https://www.portfolio.hu/gazdasag/20261109/vadonatuj-ai-modellekkel-rukkolt-elo-az-anthropic-875278",
+        "image": "https://pcdn.hu/articles/images-xl/a/n/t/anthropic-868036.jpg",
+        "summary": "Két új, csúcskategóriás mesterségesintelligencia-modellt, a Claude Fable 5.2-t és a Claude Mythos 5.2-t mutatta be hétfőn az Anthropic, közvetlenül a vállalat akár már jövő héten esedékes, történelmi léptékűnek ígérkező tőzsdei bevezetése előtt. Az újdonságok harminc százalékkal gyorsabbak és húsz százalékkal olcsóbbak elődeiknél.",
+        "category": "Gazdaság",
+        "published_at": 1794252600
+      }
+    ]
+  },
+  {
+    "group_id": "group_058a8d2e92",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Nem írta alá Baka András – megálljt parancsolt a Tisza vagyonvédelmi törvényének",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/nem-irta-ala-baka-andras-megalljt-parancsolt-a-tisza-vagyonvedelmi-torvenyenek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/10/xRSMNJrX7P9-uEWip4eC4vvgqzAKncJoz8ajvKaPRBs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E0MmQwMGIxNjAyMDRlNzBiYjU1NTYzZmU3ZGViNDk3.jpg",
+        "summary": "Súlyos alkotmányossági aggályok miatt fordult az Alkotmánybírósághoz a köztársasági elnök.",
+        "category": "Politika",
+        "published_at": 1794253290
+      },
+      {
+        "source": "Hír TV",
+        "title": "Nem írta alá az állami vagyon védelméről szóló törvényt a köztársasági elnök",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/baka-andras-allami-vagyon-vedelme-torveny",
+        "image": "https://cdn.hirtv.hu/2026/11/c8dqwbVOo8GLCD8hcLpl_QAzaBAgecCzmqbL3TQo4uo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YxYjUwODE3MTY5YTQxYzhiYzlhOGI0NWE3NGI0NGYy.webp",
+        "summary": "Baka András előzetes normakontrollra küldte a jogszabályt.",
+        "category": "Politika",
+        "published_at": 1794296322
+      }
+    ]
+  },
+  {
+    "group_id": "group_dc4beb4133",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Részeg lehetett a sofőr, aki autójával egy parkoló kocsiba csapódott, egy fiatal a helyszínen életét veszítette",
+        "link": "https://hvg.hu/itthon/20261109_halalos-baleset-reszeg-sofor-parkolo-auto-nyiregyhaza-benzinkut",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/726cc8b4-24d0-4ff0-af6f-cd9804ae3e91.jpg",
+        "summary": "Egy nyíregyházi benzinkúton történt a tragédia.",
+        "category": "Politika",
+        "published_at": 1794253691
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Benzinkúton parkoló autóba csapódott egy részeg férfi Nyíregyházán, meghalt egy 20 éves fiatal",
+        "link": "https://24.hu/belfold/2026/11/09/nyiregyhaza-benzinkut-halalos-baleset/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-0803252728-73-1-1024x576.jpg",
+        "summary": "A balesetet okozó sofőr letartóztatását kezdeményezik, ezt a kórházban közölték vele. The post Benzinkúton parkoló autóba csapódott egy részeg férfi Nyíregyházán, meghalt egy 20 éves fiatal first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794254904
+      }
+    ]
+  },
+  {
+    "group_id": "group_3d8610d2c7",
+    "category": "Politika",
+    "articles_count": 9,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Pénz, szex, AI, Kína – ezeken reccsenhet meg most nemcsak az Nvidia, de akár a világgazdaság is",
+        "link": "https://444.hu/2026/11/09/penz-szex-ai-kina-ezeken-reccsenhet-meg-most-nemcsak-az-nvidia-de-akar-a-vilaggazdasag-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Jensen Huang a világ egyik leggazdagabb és legbefolyásosabb embere, Trump tanácsadója és a világ vezető AI-chipgyártó vállalatának vezetője viszonyba keveredett egy kínai kémővel. Ez nem egy forgatókönyv alapja, hanem a valóság, és súlyos következményekkel is járhat.",
+        "category": "Politika",
+        "published_at": 1794253246
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Súlyos kérdéseket vet fel, hogy a kínaiak romantikus kémcsapdájába esett az USA egyik legfontosabb cégvezetője",
+        "link": "https://telex.hu/kulfold/2026/11/09/jensen-huang-nvidia-kina-kem-alice-huang-egyesult-kiralysag-mesterseges-intelligencia-nemzetbiztonsag",
+        "image": "https://assets.telex.hu/images/20261109/1794244289-temp-ea2280m0jf6ddfplmao_cimlap-normal.jpg",
+        "summary": "Egy olyan kínai üzletasszony csábította el az Nvidia vezérét, akiről nemrég kiderült, hogy kémként jelent a saját országának. Jensen Huang most a családjának magyarázkodik, miközben az MI-versenyfutásban kulcsfontosságú cégében független vizsgálat indul. Trumpot nem aggasztja az ügy, pedig komoly nemzetbiztonsági következményei is lehetnek.",
+        "category": "Politika",
+        "published_at": 1794254540
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Donald Trump szerint az FBI vizsgája az Nvidia-vezér kémgyanús viszonyát",
+        "link": "https://hvg.hu/gazdasag/20261110_donald-trump-nvidia-jensen-huang-viszony-kinai-kem-fbi-vizsgalat",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c017f1f0-0b2d-49c5-9dc5-d51c787830bd.jpg",
+        "summary": "Trump ugyanakkor elhiszi Jensen Huangnak, hogy nem tudott arról, hogy a nő kínai kém lenne.",
+        "category": "Politika",
+        "published_at": 1794286901
+      },
+      {
+        "source": "444.hu",
+        "title": "Trump: Az FBI vizsgálja az Nvidia-vezér viszonyát a kínai kémnővel",
+        "link": "https://444.hu/2026/11/10/trump-az-fbi-vizsgalja-az-nvidia-vezer-viszonyat-a-kinai-kemnovel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "És felidézte azt is, micsoda alapos és mélyenszántó párbeszédet folytatott Jensen Huanggal, aki nemcsak cégvezér, hanem a szövetségese és tanácsadója is.",
+        "category": "Politika",
+        "published_at": 1794287747
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Trump szerint az FBI is vizsgálja az Nvidia-vezér és a kínai kémnő viszonyát",
+        "link": "https://telex.hu/kulfold/2026/11/10/donald-trump-fbi-nyomoz-jensen-huang-viszony-kinai-kemno-nvidia",
+        "image": "https://assets.telex.hu/images/20261110/1794291428-temp-skk3urpdfrk9dbogdmn_cimlap-normal.jpg",
+        "summary": "Az amerikai elnök hétfőn felhívta Jensen Huangot, „csak hogy megkérdezzem, jól van-e.”",
+        "category": "Politika",
+        "published_at": 1794293640
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Donald Trump bejelentette, az FBI is nyomoz az Nvidia vezére körüli kínai kémügyben",
+        "link": "https://index.hu/kulfold/2026/11/10/nvidia-vezerigazgato-viszony-kinai-kemno-donald-trump-fbi-vizsgalat/",
+        "image": "https://kep.index.hu/1/0/7249/72497/724978/72497853_5342305_d504e4a4069d162c5abe1cfcea34010b_wm.jpg",
+        "summary": "Az amerikai elnök bízik a vezérigazgatóban, akit becsületes embernek tart.",
+        "category": "Politika",
+        "published_at": 1794298800
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Beperelték az Nvidiát és Jensen Hunagot a kínai kémbotrány miatt, amit már az FBI is vizsgál",
+        "link": "https://24.hu/tech/2026/11/10/jensen-huang-nvidia-kembotrany-per-reszvenyesek/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2301328091-e1794301920780-1024x577.jpg",
+        "summary": "Donald Trump tanácsadója egy kínai kémmel folytatott viszonyt, de az amerikai elnök elmondása szerint nem izgul, mivel Huang nem tudta, hogy a nő kém. The post Beperelték az Nvidiát és Jensen Hunagot a kínai kémbotrány miatt, amit már az FBI is vizsgál first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1794302107
+      },
+      {
+        "source": "ATV",
+        "title": "Lecsapott az FBI: kínai kémmel folytathatott viszonyt a világ legértékesebb cégének vezére",
+        "link": "https://www.atv.hu/kulfold/20261110/kem-nvidia-elnok-nyomoz-fbi/",
+        "image": "https://www.youtube.com/embed/DVnV6Zy5kmU",
+        "summary": "Az FBI vizsgálatot folytat Jensen Huang, az Nvidia vezérigazgatója ellen egy feltételezett kémmel való kapcsolata miatt. Ezt Donald Trump amerikai elnök közölte hétfőn, a Fehér Házban tartott sajtótájékoztatón, ahol egyúttal támogatásáról biztosította a vállalatvezetőt.",
+        "category": "Politika",
+        "published_at": 1794309120
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Gyanúsan keveset tudunk a sikeres üzleti karrierről, ami összehozta az állítólagos kínai kémnőt az Nvidia vezérigazgatójával",
+        "link": "https://hvg.hu/gazdasag/20261110_gyanusan-keveset-tudunk-a-sikeres-uzleti-karrierrol-ami-osszehozta-az-allitolagos-kinai-kemnot-az-nvidia-vezerigazgatojaval",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/16b1baf6-5d85-41ec-9837-18e3d6df6725.jpg",
+        "summary": "A kínai pénzügyi szektorból jutott el az Nvidia üzleti partnerei közé Alice Huang, az Nvidia-vezér állítólagos szeretője, de sok megválaszolatlan kérdés vetődik fel nő a karrierjével kapcsolatban.",
+        "category": "Gazdaság",
+        "published_at": 1794328923
+      }
+    ]
+  },
+  {
+    "group_id": "group_4a5d092956",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Repedezik az AI-sztori, de a Wall Street egyik legnagyobb bankjának vezére nem aggódik",
+        "link": "https://www.portfolio.hu/befektetes/20261109/repedezik-az-ai-sztori-de-a-wall-street-egyik-legnagyobb-bankjanak-vezere-nem-aggodik-875282",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-523753418-650923.jpg",
+        "summary": "Továbbra is élénk a finanszírozási igény a mesterséges intelligencia infrastruktúrájának kiépítésére a legutóbbi tőzsdei visszaesések ellenére – nyilatkozta David Solomon, a Goldman Sachs vezérigazgatója. Bár a befektetők óvatosabbá váltak a hatalmas tőkeigényű fejlesztések megtérülésével kapcsolatban, a pénzintézet vezetője szerint a technológia hosszú távon meghatározó lesz a gazdasági termelékenység növelésében, az adatközpontok amerikai felépítése pedig kulcsfontosságú a versenyképesség szempontjából - közölte a CNBC.",
+        "category": "Gazdaság",
+        "published_at": 1794253260
+      }
+    ]
+  },
+  {
+    "group_id": "group_b3171ed673",
+    "category": "Gazdaság",
     "articles_count": 1,
     "articles": [
       {
         "source": "Index - Címlap",
-        "title": "A Liverpool klasszisa sérülés miatt elhagyta a válogatott edzőtáborát",
-        "link": "https://index.hu/sport/futball/2026/11/09/nemzetek-ligaja-virgil-van-dijk-holland-valogatott-keret-liverpool-serules/",
-        "image": "https://kep.index.hu/1/0/7248/72487/724872/72487299_5341569_d73272042546e28a79a50cc77909f279_wm.jpg",
-        "summary": "Nem lép pályára a két Nemzetek Ligája-mérkőzésen.",
-        "category": "Általános",
-        "published_at": 1794252180
-      }
-    ]
-  },
-  {
-    "group_id": "group_5c2925b7c7",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Rejtélyes személycsere a Szegedi Tudományegyetem élén: még az új kancellár nevét sem árulták el",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/rejtelyes-szemelycsere-a-szegedi-tudomanyegyetem-elen-meg-az-uj-kancellar-nevet-sem-arultak-el?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/peFX-V8HbdN6zWg20Ur7r2XMGaBZe6ZaxzD4vF7shY0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE3Y2MzMDZmM2YzMjQ0ZWZhODg4NjM2ZmNjYTFjMjA3.jpg",
-        "summary": "Egyelőre semmit nem tudni a pánikszerű vezetőváltás okairól.",
-        "category": "Politika",
-        "published_at": 1794252327
-      }
-    ]
-  },
-  {
-    "group_id": "group_9fe77ac545",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Világ",
-        "title": "Autó hajtott a Fehér Házat védő kordonnak",
-        "link": "https://hvg.hu/vilag/20261109_auto-feher-haz-kordon",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab5e4bac-487b-4f54-b022-b442ddd187bc.jpg",
-        "summary": "Egy ember kocsival, egy másik pedig gyalog próbált átjutni az úttorlaszokon.",
-        "category": "Általános",
-        "published_at": 1794252263
+        "title": "Jelzőrakéták az égben, 400 milliárd forint tűnt el a magyar kulcságazatból",
+        "link": "https://index.hu/gazdasag/2026/11/09/agrar-agrarium-mezogazdasag-termofold-novenytermesztes-jovedelmezoseg-gazdak-gazda-aszaly-szarazsag-kukorica/",
+        "image": "https://kep.index.hu/1/0/7245/72452/724520/72452047_5339067_0159c902b8171c06f2a892a93736012e_wm.jpg",
+        "summary": "A szakértő szerint mindenkinek el kell fogadnia, hogy ez így nem mehet tovább.",
+        "category": "Gazdaság",
+        "published_at": 1794253740
       }
     ]
   },
   {
     "group_id": "group_0ddcb5f5a0",
     "category": "Politika",
-    "articles_count": 49,
+    "articles_count": 48,
     "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Rendőrautóban fotózták le Orbán Áront a Gyorskocsi utcai fogdánál",
-        "link": "https://index.hu/belfold/2026/11/09/orban-aron-gyorskocsi-utca-fogda-rendorseg/",
-        "image": "https://kep.index.hu/1/0/7248/72487/724875/72487559_5341581_291f2a0ebd7794c9e5cc9270019ecbf6_wm.jpg",
-        "summary": "A készenléti rendőrség három mikrobuszával szállították oda a gyanúsítottakat.",
-        "category": "Politika",
-        "published_at": 1794252540
-      },
       {
         "source": "Index - Címlap",
         "title": "Hidvéghi Balázs: Orbán Áron őrizetbe vételével az ügynökaktákról akarják elterelni a figyelmet",
@@ -587,201 +725,6 @@
         "summary": "Elfogás, politikai vádak és kérdések a hatóságok szerepéről.",
         "category": "Politika",
         "published_at": 1794338004
-      }
-    ]
-  },
-  {
-    "group_id": "group_95dfb1aed5",
-    "category": "Gazdaság",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Vadonatúj AI-okkal rukkolt elő az Anthropic",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/vadonatuj-ai-okkal-rukkolt-elo-az-anthropic-875278",
-        "image": "https://pcdn.hu/articles/images-xl/a/n/t/anthropic-868036.jpg",
-        "summary": "Két új, csúcskategóriás mesterségesintelligencia-modellt, a Claude Fable 5.2-t és a Claude Mythos 5.2-t mutatta be hétfőn az Anthropic, közvetlenül a vállalat akár már jövő héten esedékes, történelmi léptékűnek ígérkező tőzsdei bevezetése előtt. Az újdonságok harminc százalékkal gyorsabbak és húsz százalékkal olcsóbbak elődeiknél.",
-        "category": "Gazdaság",
-        "published_at": 1794252600
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Vadonatúj AI-modellekkel rukkolt elő az Anthropic",
-        "link": "https://www.portfolio.hu/gazdasag/20261109/vadonatuj-ai-modellekkel-rukkolt-elo-az-anthropic-875278",
-        "image": "https://pcdn.hu/articles/images-xl/a/n/t/anthropic-868036.jpg",
-        "summary": "Két új, csúcskategóriás mesterségesintelligencia-modellt, a Claude Fable 5.2-t és a Claude Mythos 5.2-t mutatta be hétfőn az Anthropic, közvetlenül a vállalat akár már jövő héten esedékes, történelmi léptékűnek ígérkező tőzsdei bevezetése előtt. Az újdonságok harminc százalékkal gyorsabbak és húsz százalékkal olcsóbbak elődeiknél.",
-        "category": "Gazdaság",
-        "published_at": 1794252600
-      }
-    ]
-  },
-  {
-    "group_id": "group_058a8d2e92",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Nem írta alá Baka András – megálljt parancsolt a Tisza vagyonvédelmi törvényének",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/nem-irta-ala-baka-andras-megalljt-parancsolt-a-tisza-vagyonvedelmi-torvenyenek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/10/xRSMNJrX7P9-uEWip4eC4vvgqzAKncJoz8ajvKaPRBs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E0MmQwMGIxNjAyMDRlNzBiYjU1NTYzZmU3ZGViNDk3.jpg",
-        "summary": "Súlyos alkotmányossági aggályok miatt fordult az Alkotmánybírósághoz a köztársasági elnök.",
-        "category": "Politika",
-        "published_at": 1794253290
-      },
-      {
-        "source": "Hír TV",
-        "title": "Nem írta alá az állami vagyon védelméről szóló törvényt a köztársasági elnök",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/baka-andras-allami-vagyon-vedelme-torveny",
-        "image": "https://cdn.hirtv.hu/2026/11/c8dqwbVOo8GLCD8hcLpl_QAzaBAgecCzmqbL3TQo4uo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YxYjUwODE3MTY5YTQxYzhiYzlhOGI0NWE3NGI0NGYy.webp",
-        "summary": "Baka András előzetes normakontrollra küldte a jogszabályt.",
-        "category": "Politika",
-        "published_at": 1794296322
-      }
-    ]
-  },
-  {
-    "group_id": "group_dc4beb4133",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Részeg lehetett a sofőr, aki autójával egy parkoló kocsiba csapódott, egy fiatal a helyszínen életét veszítette",
-        "link": "https://hvg.hu/itthon/20261109_halalos-baleset-reszeg-sofor-parkolo-auto-nyiregyhaza-benzinkut",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/726cc8b4-24d0-4ff0-af6f-cd9804ae3e91.jpg",
-        "summary": "Egy nyíregyházi benzinkúton történt a tragédia.",
-        "category": "Politika",
-        "published_at": 1794253691
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Benzinkúton parkoló autóba csapódott egy részeg férfi Nyíregyházán, meghalt egy 20 éves fiatal",
-        "link": "https://24.hu/belfold/2026/11/09/nyiregyhaza-benzinkut-halalos-baleset/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-0803252728-73-1-1024x576.jpg",
-        "summary": "A balesetet okozó sofőr letartóztatását kezdeményezik, ezt a kórházban közölték vele. The post Benzinkúton parkoló autóba csapódott egy részeg férfi Nyíregyházán, meghalt egy 20 éves fiatal first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794254904
-      }
-    ]
-  },
-  {
-    "group_id": "group_3d8610d2c7",
-    "category": "Politika",
-    "articles_count": 9,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Pénz, szex, AI, Kína – ezeken reccsenhet meg most nemcsak az Nvidia, de akár a világgazdaság is",
-        "link": "https://444.hu/2026/11/09/penz-szex-ai-kina-ezeken-reccsenhet-meg-most-nemcsak-az-nvidia-de-akar-a-vilaggazdasag-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Jensen Huang a világ egyik leggazdagabb és legbefolyásosabb embere, Trump tanácsadója és a világ vezető AI-chipgyártó vállalatának vezetője viszonyba keveredett egy kínai kémővel. Ez nem egy forgatókönyv alapja, hanem a valóság, és súlyos következményekkel is járhat.",
-        "category": "Politika",
-        "published_at": 1794253246
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Súlyos kérdéseket vet fel, hogy a kínaiak romantikus kémcsapdájába esett az USA egyik legfontosabb cégvezetője",
-        "link": "https://telex.hu/kulfold/2026/11/09/jensen-huang-nvidia-kina-kem-alice-huang-egyesult-kiralysag-mesterseges-intelligencia-nemzetbiztonsag",
-        "image": "https://assets.telex.hu/images/20261109/1794244289-temp-ea2280m0jf6ddfplmao_cimlap-normal.jpg",
-        "summary": "Egy olyan kínai üzletasszony csábította el az Nvidia vezérét, akiről nemrég kiderült, hogy kémként jelent a saját országának. Jensen Huang most a családjának magyarázkodik, miközben az MI-versenyfutásban kulcsfontosságú cégében független vizsgálat indul. Trumpot nem aggasztja az ügy, pedig komoly nemzetbiztonsági következményei is lehetnek.",
-        "category": "Politika",
-        "published_at": 1794254540
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Donald Trump szerint az FBI vizsgája az Nvidia-vezér kémgyanús viszonyát",
-        "link": "https://hvg.hu/gazdasag/20261110_donald-trump-nvidia-jensen-huang-viszony-kinai-kem-fbi-vizsgalat",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c017f1f0-0b2d-49c5-9dc5-d51c787830bd.jpg",
-        "summary": "Trump ugyanakkor elhiszi Jensen Huangnak, hogy nem tudott arról, hogy a nő kínai kém lenne.",
-        "category": "Politika",
-        "published_at": 1794286901
-      },
-      {
-        "source": "444.hu",
-        "title": "Trump: Az FBI vizsgálja az Nvidia-vezér viszonyát a kínai kémnővel",
-        "link": "https://444.hu/2026/11/10/trump-az-fbi-vizsgalja-az-nvidia-vezer-viszonyat-a-kinai-kemnovel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "És felidézte azt is, micsoda alapos és mélyenszántó párbeszédet folytatott Jensen Huanggal, aki nemcsak cégvezér, hanem a szövetségese és tanácsadója is.",
-        "category": "Politika",
-        "published_at": 1794287747
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Trump szerint az FBI is vizsgálja az Nvidia-vezér és a kínai kémnő viszonyát",
-        "link": "https://telex.hu/kulfold/2026/11/10/donald-trump-fbi-nyomoz-jensen-huang-viszony-kinai-kemno-nvidia",
-        "image": "https://assets.telex.hu/images/20261110/1794291428-temp-skk3urpdfrk9dbogdmn_cimlap-normal.jpg",
-        "summary": "Az amerikai elnök hétfőn felhívta Jensen Huangot, „csak hogy megkérdezzem, jól van-e.”",
-        "category": "Politika",
-        "published_at": 1794293640
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Donald Trump bejelentette, az FBI is nyomoz az Nvidia vezére körüli kínai kémügyben",
-        "link": "https://index.hu/kulfold/2026/11/10/nvidia-vezerigazgato-viszony-kinai-kemno-donald-trump-fbi-vizsgalat/",
-        "image": "https://kep.index.hu/1/0/7249/72497/724978/72497853_5342305_d504e4a4069d162c5abe1cfcea34010b_wm.jpg",
-        "summary": "Az amerikai elnök bízik a vezérigazgatóban, akit becsületes embernek tart.",
-        "category": "Politika",
-        "published_at": 1794298800
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Beperelték az Nvidiát és Jensen Hunagot a kínai kémbotrány miatt, amit már az FBI is vizsgál",
-        "link": "https://24.hu/tech/2026/11/10/jensen-huang-nvidia-kembotrany-per-reszvenyesek/",
-        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2301328091-e1794301920780-1024x577.jpg",
-        "summary": "Donald Trump tanácsadója egy kínai kémmel folytatott viszonyt, de az amerikai elnök elmondása szerint nem izgul, mivel Huang nem tudta, hogy a nő kém. The post Beperelték az Nvidiát és Jensen Hunagot a kínai kémbotrány miatt, amit már az FBI is vizsgál first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794302107
-      },
-      {
-        "source": "ATV",
-        "title": "Lecsapott az FBI: kínai kémmel folytathatott viszonyt a világ legértékesebb cégének vezére",
-        "link": "https://www.atv.hu/kulfold/20261110/kem-nvidia-elnok-nyomoz-fbi/",
-        "image": "https://www.youtube.com/embed/DVnV6Zy5kmU",
-        "summary": "Az FBI vizsgálatot folytat Jensen Huang, az Nvidia vezérigazgatója ellen egy feltételezett kémmel való kapcsolata miatt. Ezt Donald Trump amerikai elnök közölte hétfőn, a Fehér Házban tartott sajtótájékoztatón, ahol egyúttal támogatásáról biztosította a vállalatvezetőt.",
-        "category": "Politika",
-        "published_at": 1794309120
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Gyanúsan keveset tudunk a sikeres üzleti karrierről, ami összehozta az állítólagos kínai kémnőt az Nvidia vezérigazgatójával",
-        "link": "https://hvg.hu/gazdasag/20261110_gyanusan-keveset-tudunk-a-sikeres-uzleti-karrierrol-ami-osszehozta-az-allitolagos-kinai-kemnot-az-nvidia-vezerigazgatojaval",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/16b1baf6-5d85-41ec-9837-18e3d6df6725.jpg",
-        "summary": "A kínai pénzügyi szektorból jutott el az Nvidia üzleti partnerei közé Alice Huang, az Nvidia-vezér állítólagos szeretője, de sok megválaszolatlan kérdés vetődik fel nő a karrierjével kapcsolatban.",
-        "category": "Gazdaság",
-        "published_at": 1794328923
-      }
-    ]
-  },
-  {
-    "group_id": "group_4a5d092956",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Repedezik az AI-sztori, de a Wall Street egyik legnagyobb bankjának vezére nem aggódik",
-        "link": "https://www.portfolio.hu/befektetes/20261109/repedezik-az-ai-sztori-de-a-wall-street-egyik-legnagyobb-bankjanak-vezere-nem-aggodik-875282",
-        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-523753418-650923.jpg",
-        "summary": "Továbbra is élénk a finanszírozási igény a mesterséges intelligencia infrastruktúrájának kiépítésére a legutóbbi tőzsdei visszaesések ellenére – nyilatkozta David Solomon, a Goldman Sachs vezérigazgatója. Bár a befektetők óvatosabbá váltak a hatalmas tőkeigényű fejlesztések megtérülésével kapcsolatban, a pénzintézet vezetője szerint a technológia hosszú távon meghatározó lesz a gazdasági termelékenység növelésében, az adatközpontok amerikai felépítése pedig kulcsfontosságú a versenyképesség szempontjából - közölte a CNBC.",
-        "category": "Gazdaság",
-        "published_at": 1794253260
-      }
-    ]
-  },
-  {
-    "group_id": "group_b3171ed673",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Jelzőrakéták az égben, 400 milliárd forint tűnt el a magyar kulcságazatból",
-        "link": "https://index.hu/gazdasag/2026/11/09/agrar-agrarium-mezogazdasag-termofold-novenytermesztes-jovedelmezoseg-gazdak-gazda-aszaly-szarazsag-kukorica/",
-        "image": "https://kep.index.hu/1/0/7245/72452/724520/72452047_5339067_0159c902b8171c06f2a892a93736012e_wm.jpg",
-        "summary": "A szakértő szerint mindenkinek el kell fogadnia, hogy ez így nem mehet tovább.",
-        "category": "Gazdaság",
-        "published_at": 1794253740
       }
     ]
   },
@@ -10893,7 +10836,7 @@
   {
     "group_id": "group_cdd029c587",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -10903,6 +10846,15 @@
         "summary": "Közeledtek a munkavállalói és a munkáltatói álláspontok a jövő évi bérekről, de megállapodás nem született a Versenyszféra és a Kormány Állandó Konzultációs Fórumán (VKF) kedden.",
         "category": "Politika",
         "published_at": 1794334500
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "VKF: közeledtek az álláspontok, de még nincs megállapodás a jövő évi bérekről",
+        "link": "https://hvg.hu/gazdasag/20261110_vkf-beremeles-egyeztetes-kormany-szakszervezetek",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2224dc55-8e1b-467e-a07f-956ad60a786a.jpg",
+        "summary": "A keddi megbeszélésen az eddigi százalékos emelés helyett fix összegű minimálbérről és garantált bérminimumról kezdtek tárgyalni, de ennek összegét egyelőre nem szeretnék nyilvánosságra hozni.",
+        "category": "Gazdaság",
+        "published_at": 1794338681
       }
     ]
   },
@@ -11303,6 +11255,70 @@
         "summary": "Nyilvánosságra hozták az egészségügyi szaktárca honlapján azt a hat, összesen mintegy 1650 oldalas BCG-tanulmányt, amelyet még az előző kormány rendelt meg közpénzből az egészségügy helyzetének feltárására - írta meg az Egészségügyi Minisztérium Facebook-oldalán.",
         "category": "Politika",
         "published_at": 1794337320
+      }
+    ]
+  },
+  {
+    "group_id": "group_e31c4b49d2",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nick Cannon megpróbálta összehozni a hat gyermeke anyját, de csúfos vége lett a dolognak",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/10/nick-cannon-megprobalta-osszehozni-a-hat-gyermeke-anyjat-de-csufos-vege-lett-a-dolognak/",
+        "image": "https://kep.index.hu/1/0/7250/72508/725084/72508499_8df4cb977979a000e7a0632a5c01bde4_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1794338769
+      }
+    ]
+  },
+  {
+    "group_id": "group_8fdbbd2152",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "„Nehéz döntések” előtt áll az anyagilag megszorult Győri ETO KC",
+        "link": "https://444.hu/2026/11/10/nehez-dontesek-elott-all-az-anyagilag-megszorult-gyori-eto-kc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "„A magyar sport működését hosszú éveken át meghatározó támogatási rendszer megváltozása klubunkat rendkívüli gazdasági kihívás elé állítja” – írja a női kézilabdacsapat.",
+        "category": "Politika",
+        "published_at": 1794338765
+      }
+    ]
+  },
+  {
+    "group_id": "group_7205cedeaf",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Kétmilliárdos oka lenne Brüsszelnek észbe kapnia: így vezetik katasztrófa felé az EU-t Ursula von der Leyenék",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/brusszel-katasztrofa-ursula-von-der-leyen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/oprm8EAQNvkqfFEl5lqBXOihAUgxW9-s8169KIoAuGA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI1MDI1ZTYzYWQ1ZTRmZTdhYThlNzIzZWJlMjUyN2Qz.jpg",
+        "summary": "Ha nem segítenek helyben a 30 millió gyermeket oktató egyházaknak, a tömegek el fognak indulni Európa felé, a fiatalokra pedig a radikális szervezetek vadásznak majd.",
+        "category": "Politika",
+        "published_at": 1794338778
+      }
+    ]
+  },
+  {
+    "group_id": "group_b1699e34a7",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megszólalt Karikó Katalin: új reményt kaphatnak az örökletes betegséggel küzdők",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/megszolalt-kariko-katalin-uj-remenyt-kaphatnak-az-orokletes-betegseggel-kuzdok-875568",
+        "image": "https://pcdn.hu/articles/images-xl/k/a/r/kariko-katalin-terapia-orvostudomany-orokletes-betegseg-868366.jpg",
+        "summary": "Karikó Katalin együtt dolgozik lányával olyan örökletes betegségek kezelésére alkalmas terápián, amelyeknél a génhibát bázisszakaszok normálisnál többszöri ismétlődése okozza.",
+        "category": "Gazdaság",
+        "published_at": 1794338640
       }
     ]
   }

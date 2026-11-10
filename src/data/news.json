@@ -1000,6 +1000,35 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_cdd029c587",
+    "slug": "kzeledtek-az-allaspontok-de-nincs-megallapodas-a-j-cdd029",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/b/e/r/bermegallpaodas-beremeles-minimalber-berminimum-bertargyalas-868358.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Közeledtek az álláspontok, de nincs megállapodás a jövő évi bérekről",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/kozeledtek-az-allaspontok-de-nincs-megallapodas-a-jovo-evi-berekrol-875558"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "VKF: közeledtek az álláspontok, de még nincs megállapodás a jövő évi bérekről",
+        "link": "https://hvg.hu/gazdasag/20261110_vkf-beremeles-egyeztetes-kormany-szakszervezetek"
+      }
+    ],
+    "published_at": 1794334500,
+    "title_hu": "Közeledtek az álláspontok, de nincs megállapodás a jövő évi bérekről",
+    "lead_hu": "Közeledtek a munkavállalói és a munkáltatói álláspontok a jövő évi bérekről, de megállapodás nem született a Versenyszféra és a Kormány Állandó Konzultációs Fórumán (VKF) kedden.",
+    "content_hu": "Közeledtek a munkavállalói és a munkáltatói álláspontok a jövő évi bérekről, de megállapodás nem született a Versenyszféra és a Kormány Állandó Konzultációs Fórumán (VKF) kedden.",
+    "importance_score": 40.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_aba16c6e0a",
     "slug": "buzas-norbert-lesz-a-szegedi-tudomanyegyetem-kancellarja-aba16c",
     "tags": [
@@ -2340,68 +2369,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_5fe51df113",
-    "fingerprint": "354db7ef4f8b1c600396a6b380ed0be5",
-    "category": "Sport",
-    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2301673317-e1794313126226-1024x575.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Visszatért a Bayern München vezetőedzője, aki edzésen esett össze",
-        "link": "https://24.hu/sport/foci/2026/11/10/bayern-munchen-vincent-kompany-visszateres/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Örömhír a Bayern szurkolóinak, újra munkába állt a súlyos betegségen átesett tréner",
-        "link": "https://index.hu/sport/futball/2026/11/10/labdarugas-bundesliga-bayern-munchen-vincent-kampany/"
-      }
-    ],
-    "published_at": 1794317340,
-    "title_hu": "Visszatért a Bayern München edzőközpontjába Vincent Kompany",
-    "lead_hu": "A Bayern München vezetőedzője, Vincent Kompany bő két hét kihagyás után visszatért a klub edzőközpontjába. A szakember október 23-án lett rosszul edzés közben, majd hat napig orvosi megfigyelés alatt állt.",
-    "content_hu": "• **Visszatérés** Kompany kedden ismét megjelent a Bayern edzőközpontjában, ahol a klub orvosaival konzultált.\n\n• **Betegség** A 40 éves belga tréner október 23-án, egy edzésen esett össze, és agyhártyát érintő betegséget diagnosztizáltak nála. Hat napot töltött orvosi megfigyelés alatt.\n\n• **Helyettesítés** Távollétében Aaron Danks másodedző irányította a csapatot, amely négy győzelmet és egy döntetlent szerzett.\n\n• **Következő mérkőzés** Kompany akár már a Bayern következő, 1. FC Köln elleni Bundesliga-meccsén visszaülhet a kispadra.",
-    "importance_score": 28.0,
-    "slug": "visszatert-a-bayern-munchen-edzokzpontjaba-vincent-kompany-5fe51d",
-    "tags": [
-      "altalanos"
-    ],
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_ea5fca2f25",
-    "fingerprint": "c457b6cab3df35ecd64551bb02a3ecb3",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261110/1794307494-temp-nvh6ujvd6svd7mcjdbk_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Oroszországnak kémkedhetett két ukrán férfi Lengyelországban",
-        "link": "https://telex.hu/kulfold/2026/11/10/lengyelorszag-oroszorszag-kemkedes-ukran-allampolgarok-orizetbe-vetel"
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Kémkedés gyanújával vettek őrizetbe két ukrán férfit Lengyelországban",
-        "link": "https://hvg.hu/vilag/20261110_kemkedes-gyanu-ukranok-lengyelorszag-oroszorszag"
-      }
-    ],
-    "published_at": 1794316978,
-    "title_hu": "Oroszországnak kémkedhetett két ukrán férfi Lengyelországban",
-    "lead_hu": "A lengyel belbiztonság őrizetbe vett két ukrán férfit, akiket azzal gyanúsítanak, hogy Oroszországnak kémkedtek. A gyanú szerint stratégiai és katonai létesítményeket figyeltek meg, valamint szabotázsakciókat szerveztek.",
-    "content_hu": "• **Őrizetbe vétel** A 24 és 25 éves férfit a Varsóhoz közeli Mińsk Mazowieckiben fogták el.\n\n• **Kémkedés gyanúja** A hatóságok szerint a férfiak lengyel stratégiai infrastruktúráról és katonai létesítményekről készítettek felvételeket Oroszország számára.\n\n• **Szabotázs és dezinformáció** A két férfit járművek felgyújtásával is meggyanúsították; a rendszámokat állítólag úgy módosították, hogy azok az ukrán hadsereg járműveinek rendszámaira hasonlítsanak.\n\n• **Lehetséges büntetés** A gyanúsítottak kriptovalutában kapták a fizetésüket, és bűnösségük esetén akár életfogytiglani szabadságvesztésre is ítélhetik őket.",
-    "importance_score": 28.0,
-    "slug": "oroszorszagnak-kemkedhetett-ket-ukran-ferfi-lengyelorszagban-ea5fca",
-    "tags": [
-      "politika"
-    ],
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_1da37038b4",
     "fingerprint": "357b1b132b5e22ad6155dfdef36d6a85",
     "category": "Általános",
@@ -2489,6 +2456,68 @@
     "content_hu": "• **Történelmi fordulópont** Magyar Péter a Konrad Adenauer Alapítvány berlini rendezvényén úgy értékelte, hogy a nagyhatalmi vetélkedés, a háborúk és a világrend átalakulása alapjaiban rázza meg Európát.\n\n• **Energia és versenyképesség** A miniszterelnök szerint az energiafüggőség és a vállalatok magas energiaköltségei rontják Európa globális versenyképességét. A hatékonyság növelését, a bürokrácia csökkentését és a magasabb hozzáadott értékű tevékenységek támogatását sürgette.\n\n• **Migráció és bírság** Magyar Péter azt mondta, a kormány olyan jogi megoldást keres, amely fenntartja a déli határ védelmét, miközben elkerülhetővé teszi a napi egymillió eurós uniós bírság megfizetését. Hangsúlyozta, hogy Magyarország megvédi az ország és Európa külső határait.",
     "importance_score": 25.0,
     "slug": "magyar-peter-berlinben-europa-trtenelmi-fordulopontjarol-beszelt-8e7887",
+    "tags": [
+      "politika"
+    ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_5fe51df113",
+    "fingerprint": "354db7ef4f8b1c600396a6b380ed0be5",
+    "category": "Sport",
+    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2301673317-e1794313126226-1024x575.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Visszatért a Bayern München vezetőedzője, aki edzésen esett össze",
+        "link": "https://24.hu/sport/foci/2026/11/10/bayern-munchen-vincent-kompany-visszateres/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Örömhír a Bayern szurkolóinak, újra munkába állt a súlyos betegségen átesett tréner",
+        "link": "https://index.hu/sport/futball/2026/11/10/labdarugas-bundesliga-bayern-munchen-vincent-kampany/"
+      }
+    ],
+    "published_at": 1794317340,
+    "title_hu": "Visszatért a Bayern München edzőközpontjába Vincent Kompany",
+    "lead_hu": "A Bayern München vezetőedzője, Vincent Kompany bő két hét kihagyás után visszatért a klub edzőközpontjába. A szakember október 23-án lett rosszul edzés közben, majd hat napig orvosi megfigyelés alatt állt.",
+    "content_hu": "• **Visszatérés** Kompany kedden ismét megjelent a Bayern edzőközpontjában, ahol a klub orvosaival konzultált.\n\n• **Betegség** A 40 éves belga tréner október 23-án, egy edzésen esett össze, és agyhártyát érintő betegséget diagnosztizáltak nála. Hat napot töltött orvosi megfigyelés alatt.\n\n• **Helyettesítés** Távollétében Aaron Danks másodedző irányította a csapatot, amely négy győzelmet és egy döntetlent szerzett.\n\n• **Következő mérkőzés** Kompany akár már a Bayern következő, 1. FC Köln elleni Bundesliga-meccsén visszaülhet a kispadra.",
+    "importance_score": 23.0,
+    "slug": "visszatert-a-bayern-munchen-edzokzpontjaba-vincent-kompany-5fe51d",
+    "tags": [
+      "altalanos"
+    ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_ea5fca2f25",
+    "fingerprint": "c457b6cab3df35ecd64551bb02a3ecb3",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261110/1794307494-temp-nvh6ujvd6svd7mcjdbk_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Oroszországnak kémkedhetett két ukrán férfi Lengyelországban",
+        "link": "https://telex.hu/kulfold/2026/11/10/lengyelorszag-oroszorszag-kemkedes-ukran-allampolgarok-orizetbe-vetel"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Kémkedés gyanújával vettek őrizetbe két ukrán férfit Lengyelországban",
+        "link": "https://hvg.hu/vilag/20261110_kemkedes-gyanu-ukranok-lengyelorszag-oroszorszag"
+      }
+    ],
+    "published_at": 1794316978,
+    "title_hu": "Oroszországnak kémkedhetett két ukrán férfi Lengyelországban",
+    "lead_hu": "A lengyel belbiztonság őrizetbe vett két ukrán férfit, akiket azzal gyanúsítanak, hogy Oroszországnak kémkedtek. A gyanú szerint stratégiai és katonai létesítményeket figyeltek meg, valamint szabotázsakciókat szerveztek.",
+    "content_hu": "• **Őrizetbe vétel** A 24 és 25 éves férfit a Varsóhoz közeli Mińsk Mazowieckiben fogták el.\n\n• **Kémkedés gyanúja** A hatóságok szerint a férfiak lengyel stratégiai infrastruktúráról és katonai létesítményekről készítettek felvételeket Oroszország számára.\n\n• **Szabotázs és dezinformáció** A két férfit járművek felgyújtásával is meggyanúsították; a rendszámokat állítólag úgy módosították, hogy azok az ukrán hadsereg járműveinek rendszámaira hasonlítsanak.\n\n• **Lehetséges büntetés** A gyanúsítottak kriptovalutában kapták a fizetésüket, és bűnösségük esetén akár életfogytiglani szabadságvesztésre is ítélhetik őket.",
+    "importance_score": 23.0,
+    "slug": "oroszorszagnak-kemkedhetett-ket-ukran-ferfi-lengyelorszagban-ea5fca",
     "tags": [
       "politika"
     ],
@@ -3455,6 +3484,102 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_7205cedeaf",
+    "slug": "ketmilliardos-oka-lenne-brusszelnek-eszbe-kapnia-igy-vezetik-katasztrofa-fele-az-7205ce",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/oprm8EAQNvkqfFEl5lqBXOihAUgxW9-s8169KIoAuGA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI1MDI1ZTYzYWQ1ZTRmZTdhYThlNzIzZWJlMjUyN2Qz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Kétmilliárdos oka lenne Brüsszelnek észbe kapnia: így vezetik katasztrófa felé az EU-t Ursula von der Leyenék",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/brusszel-katasztrofa-ursula-von-der-leyen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794338778,
+    "title_hu": "Kétmilliárdos oka lenne Brüsszelnek észbe kapnia: így vezetik katasztrófa felé az EU-t Ursula von der Leyenék",
+    "lead_hu": "Ha nem segítenek helyben a 30 millió gyermeket oktató egyházaknak, a tömegek el fognak indulni Európa felé, a fiatalokra pedig a radikális szervezetek vadásznak majd....",
+    "content_hu": "Ha nem segítenek helyben a 30 millió gyermeket oktató egyházaknak, a tömegek el fognak indulni Európa felé, a fiatalokra pedig a radikális szervezetek vadásznak majd.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_e31c4b49d2",
+    "slug": "nick-cannon-megprobalta-sszehozni-a-hat-gyermeke-anyjat-de-csufos-vege-lett-a-do-e31c4b",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7250/72508/725084/72508499_8df4cb977979a000e7a0632a5c01bde4_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nick Cannon megpróbálta összehozni a hat gyermeke anyját, de csúfos vége lett a dolognak",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/10/nick-cannon-megprobalta-osszehozni-a-hat-gyermeke-anyjat-de-csufos-vege-lett-a-dolognak/"
+      }
+    ],
+    "published_at": 1794338769,
+    "title_hu": "Nick Cannon megpróbálta összehozni a hat gyermeke anyját, de csúfos vége lett a dolognak",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_8fdbbd2152",
+    "slug": "nehez-dntesek-elott-all-az-anyagilag-megszorult-gyori-eto-kc-8fdbbd",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "„Nehéz döntések” előtt áll az anyagilag megszorult Győri ETO KC",
+        "link": "https://444.hu/2026/11/10/nehez-dontesek-elott-all-az-anyagilag-megszorult-gyori-eto-kc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794338765,
+    "title_hu": "„Nehéz döntések” előtt áll az anyagilag megszorult Győri ETO KC",
+    "lead_hu": "„A magyar sport működését hosszú éveken át meghatározó támogatási rendszer megváltozása klubunkat rendkívüli gazdasági kihívás elé állítja” – írja a női kézilabdacsapat....",
+    "content_hu": "„A magyar sport működését hosszú éveken át meghatározó támogatási rendszer megváltozása klubunkat rendkívüli gazdasági kihívás elé állítja” – írja a női kézilabdacsapat.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_b1699e34a7",
+    "slug": "megszolalt-kariko-katalin-uj-remenyt-kaphatnak-az-rkletes-betegseggel-kuzdok-b1699e",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/k/a/r/kariko-katalin-terapia-orvostudomany-orokletes-betegseg-868366.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megszólalt Karikó Katalin: új reményt kaphatnak az örökletes betegséggel küzdők",
+        "link": "https://www.portfolio.hu/gazdasag/20261110/megszolalt-kariko-katalin-uj-remenyt-kaphatnak-az-orokletes-betegseggel-kuzdok-875568"
+      }
+    ],
+    "published_at": 1794338640,
+    "title_hu": "Megszólalt Karikó Katalin: új reményt kaphatnak az örökletes betegséggel küzdők",
+    "lead_hu": "Karikó Katalin együtt dolgozik lányával olyan örökletes betegségek kezelésére alkalmas terápián, amelyeknél a génhibát bázisszakaszok normálisnál többszöri ismétlődése okozza....",
+    "content_hu": "Karikó Katalin együtt dolgozik lányával olyan örökletes betegségek kezelésére alkalmas terápián, amelyeknél a génhibát bázisszakaszok normálisnál többszöri ismétlődése okozza.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_62a7cf924c",
     "slug": "sajat-anyja-sem-ismerte-fel-a-megkinzott-ferfit-aki-17-halaltabort-elt-tul-majd--62a7cf",
     "tags": [
@@ -4051,30 +4176,6 @@
     "title_hu": "TESZT: vivo X Fold6 – Van még mit tanulnia az iPhone Duónak",
     "lead_hu": "Míg a versenytársak kompromisszumokat kötnek az üzemidő vagy a kamerák kárára, addig a vivo X Fold6 ezen már túllépett. Óriási akku: pipa csúcs fotós részleg: pipa, de kérdés, hogy ilyen áron mennyi e…",
     "content_hu": "Míg a versenytársak kompromisszumokat kötnek az üzemidő vagy a kamerák kárára, addig a vivo X Fold6 ezen már túllépett. Óriási akku: pipa csúcs fotós részleg: pipa, de kérdés, hogy ilyen áron mennyi esélye van a népszerűbb Samsung és Apple mellett.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_cdd029c587",
-    "slug": "kzeledtek-az-allaspontok-de-nincs-megallapodas-a-j-cdd029",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/b/e/r/bermegallpaodas-beremeles-minimalber-berminimum-bertargyalas-868358.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Közeledtek az álláspontok, de nincs megállapodás a jövő évi bérekről",
-        "link": "https://www.portfolio.hu/gazdasag/20261110/kozeledtek-az-allaspontok-de-nincs-megallapodas-a-jovo-evi-berekrol-875558"
-      }
-    ],
-    "published_at": 1794334500,
-    "title_hu": "Közeledtek az álláspontok, de nincs megállapodás a jövő évi bérekről",
-    "lead_hu": "Közeledtek a munkavállalói és a munkáltatói álláspontok a jövő évi bérekről, de megállapodás nem született a Versenyszféra és a Kormány Állandó Konzultációs Fórumán (VKF) kedden.",
-    "content_hu": "Közeledtek a munkavállalói és a munkáltatói álláspontok a jövő évi bérekről, de megállapodás nem született a Versenyszféra és a Kormány Állandó Konzultációs Fórumán (VKF) kedden.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -15115,78 +15216,6 @@
     "title_hu": "Az ukrán határok a konfliktus befejezése után megváltozhatnak – mondta Trump",
     "lead_hu": "Moszkva régóta hangoztatja, hogy a Kijevvel kötendő bármilyen életképes békemegállapodásnak el kell ismernie az új területi realitásokat, valamint foglalkoznia kell a konfliktus kiváltó okaival.",
     "content_hu": "Moszkva régóta hangoztatja, hogy a Kijevvel kötendő bármilyen életképes békemegállapodásnak el kell ismernie az új területi realitásokat, valamint foglalkoznia kell a konfliktus kiváltó okaival.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_5c2925b7c7",
-    "slug": "rejtelyes-szemelycsere-a-szegedi-tudomanyegyetem-e-5c2925",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/peFX-V8HbdN6zWg20Ur7r2XMGaBZe6ZaxzD4vF7shY0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE3Y2MzMDZmM2YzMjQ0ZWZhODg4NjM2ZmNjYTFjMjA3.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Rejtélyes személycsere a Szegedi Tudományegyetem élén: még az új kancellár nevét sem árulták el",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/rejtelyes-szemelycsere-a-szegedi-tudomanyegyetem-elen-meg-az-uj-kancellar-nevet-sem-arultak-el?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794252327,
-    "title_hu": "Rejtélyes személycsere a Szegedi Tudományegyetem élén: még az új kancellár nevét sem árulták el",
-    "lead_hu": "Egyelőre semmit nem tudni a pánikszerű vezetőváltás okairól.",
-    "content_hu": "Egyelőre semmit nem tudni a pánikszerű vezetőváltás okairól.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_9fe77ac545",
-    "slug": "auto-hajtott-a-feher-hazat-vedo-kordonnak-9fe77a",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab5e4bac-487b-4f54-b022-b442ddd187bc.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Autó hajtott a Fehér Házat védő kordonnak",
-        "link": "https://hvg.hu/vilag/20261109_auto-feher-haz-kordon"
-      }
-    ],
-    "published_at": 1794252263,
-    "title_hu": "Autó hajtott a Fehér Házat védő kordonnak",
-    "lead_hu": "Egy ember kocsival, egy másik pedig gyalog próbált átjutni az úttorlaszokon.",
-    "content_hu": "Egy ember kocsival, egy másik pedig gyalog próbált átjutni az úttorlaszokon.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_5e8c0244ed",
-    "slug": "a-liverpool-klasszisa-serules-miatt-elhagyta-a-val-5e8c02",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7248/72487/724872/72487299_5341569_d73272042546e28a79a50cc77909f279_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "A Liverpool klasszisa sérülés miatt elhagyta a válogatott edzőtáborát",
-        "link": "https://index.hu/sport/futball/2026/11/09/nemzetek-ligaja-virgil-van-dijk-holland-valogatott-keret-liverpool-serules/"
-      }
-    ],
-    "published_at": 1794252180,
-    "title_hu": "A Liverpool klasszisa sérülés miatt elhagyta a válogatott edzőtáborát",
-    "lead_hu": "Nem lép pályára a két Nemzetek Ligája-mérkőzésen.",
-    "content_hu": "Nem lép pályára a két Nemzetek Ligája-mérkőzésen.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
