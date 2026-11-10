@@ -19,7 +19,7 @@ function StoryLink({ item, className, children }: { item: NewsItem; className: s
   const source = item.sources[0];
   return !item.is_synthesized && source?.link
     ? <a href={source.link} target="_blank" rel="noopener noreferrer" className={className}>{children}</a>
-    : <Link to="/hir/$id" params={{ id: item.group_id }} className={className}>{children}</Link>;
+    : <Link to="/hir/$id" params={{ id: item.slug || item.group_id }} className={className}>{children}</Link>;
 }
 
 const subscribeHydration = () => () => {};

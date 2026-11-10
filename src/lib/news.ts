@@ -7,6 +7,7 @@ export type LangContent = { title: string; lead: string; content: string };
 
 type RawItem = {
   group_id: string;
+  slug?: string | null;
   category?: string | null;
   image: string | null;
   is_synthesized: boolean;
@@ -69,6 +70,7 @@ function normalize(r: RawItem): NewsItem {
 
   return {
     group_id: r.group_id,
+    slug: r.slug,
     image: r.image,
     is_synthesized: r.is_synthesized,
     sources_count: r.sources_count,
@@ -200,7 +202,14 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
 export const history = buildHistory(news);
 export const archive: NewsItem[] = buildArchive(news, history);
 
-export const getNews = (id: string) => news.find((n) => n.group_id === id) ?? history.find((n) => n.group_id === id) ?? archive.find((n) => n.group_id === id);
+/** Supplied slugs take priority; older articles and links retain their group ID fallback. */
+export const getNews = (slugOrId: string) =>
+  news.find((n) => n.slug === slugOrId) ??
+  history.find((n) => n.slug === slugOrId) ??
+  archive.find((n) => n.slug === slugOrId) ??
+  news.find((n) => n.group_id === slugOrId) ??
+  history.find((n) => n.group_id === slugOrId) ??
+  archive.find((n) => n.group_id === slugOrId);
 
 /** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. Az archívumot is tartalmazza. */
 const byRelevanceCmp = (a: NewsItem, b: NewsItem) =>

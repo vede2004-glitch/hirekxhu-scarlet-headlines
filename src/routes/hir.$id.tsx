@@ -25,7 +25,7 @@ export const Route = createFileRoute("/hir/$id")({
     return item;
   },
   head: ({ loaderData }) => {
-    const title = loaderData ? `${loaderData.title} – HIREKX.hu` : "Hír – HIREKX.hu";
+    const title = loaderData?.title || "Hír – HIREKX.hu";
     const desc = plainBold(loaderData?.lead ?? "").slice(0, 160) ?? "HIREKX.hu hír";
     const meta = [
       { title },
@@ -35,7 +35,7 @@ export const Route = createFileRoute("/hir/$id")({
       { property: "og:type", content: "article" },
       { name: "twitter:card", content: "summary_large_image" },
     ];
-    const url = loaderData ? `${SITE_URL}/hir/${encodeURIComponent(loaderData.group_id)}` : undefined;
+    const url = loaderData ? `${SITE_URL}/hir/${encodeURIComponent(loaderData.slug || loaderData.group_id)}` : undefined;
     return {
       meta: [...meta, ...(url ? [{ property: "og:url", content: url }] : [])],
       scripts: loaderData

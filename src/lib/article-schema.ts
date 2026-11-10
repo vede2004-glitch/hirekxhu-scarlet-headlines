@@ -5,7 +5,7 @@ export const SITE_URL = "https://hirekx.hu";
 const plain = (text: string) => text.replace(/\*\*(.+?)\*\*/g, "$1");
 
 export function articleSchema(item: NewsItem, image: string | null) {
-  const url = `${SITE_URL}/hir/${encodeURIComponent(item.group_id)}`;
+  const url = `${SITE_URL}/hir/${encodeURIComponent(item.slug || item.group_id)}`;
   const published = item.published_at ? new Date(item.published_at * 1000) : null;
   return {
     "@context": "https://schema.org",
@@ -31,7 +31,7 @@ export function articleSchema(item: NewsItem, image: string | null) {
 }
 
 export function breadcrumbSchema(item: NewsItem) {
-  const url = `${SITE_URL}/hir/${encodeURIComponent(item.group_id)}`;
+  const url = `${SITE_URL}/hir/${encodeURIComponent(item.slug || item.group_id)}`;
   return {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
