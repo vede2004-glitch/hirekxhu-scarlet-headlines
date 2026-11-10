@@ -12,6 +12,8 @@ type RawItem = {
   category?: string | null;
   image: string | null;
   is_synthesized: boolean;
+  /** A hírfájl jelöli az egyetlen kiemelt (hero) cikket: `is_top_hero: true`. */
+  is_top_hero?: boolean | null;
   sources_count?: number | undefined;
   sources: NewsSource[];
   published_at?: number | null;
@@ -31,6 +33,7 @@ export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "ti
   lead: string;
   content: string;
   category: string;
+  is_top_hero: boolean;
   i18n: Record<Lang, LangContent>;
 };
 
@@ -91,6 +94,7 @@ function normalize(r: RawItem): NewsItem {
     tags: Array.isArray(r.tags) ? r.tags.filter((t): t is string => typeof t === "string" && t.trim() !== "").map(tagSlug) : [],
     image: r.image,
     is_synthesized: r.is_synthesized,
+    is_top_hero: r.is_top_hero === true,
     sources_count: r.sources_count,
     sources: r.sources || [],
     published_at: r.published_at ?? tsFromId(r.group_id),
@@ -208,6 +212,7 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
       group_id: id,
       image: arts.find((x) => x.image)?.image ?? null,
       is_synthesized: false,
+      is_top_hero: false,
       sources: arts.map((x) => ({ source: x.source ?? "", title: x.title ?? "", link: x.link ?? "" })),
       published_at: Math.max(...arts.map((x) => x.fetched_at ?? 0)) || null,
       title: c.title, lead: c.lead, content: c.content,
