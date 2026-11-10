@@ -20,6 +20,7 @@ import { Route as TamogatasRouteImport } from './routes/tamogatas'
 import { Route as VisszajelzesRouteImport } from './routes/visszajelzes'
 import { Route as ApiAskRouteImport } from './routes/api/ask'
 import { Route as HirIdRouteImport } from './routes/hir.$id'
+import { Route as TagTagNameRouteImport } from './routes/tag.$tagName'
 import { Route as ApiPublicNewsRouteImport } from './routes/api/public/news'
 
 const IndexRoute = IndexRouteImport.update({
@@ -77,6 +78,11 @@ const HirIdRoute = HirIdRouteImport.update({
   path: '/hir/$id',
   getParentRoute: () => rootRouteImport,
 } as any)
+const TagTagNameRoute = TagTagNameRouteImport.update({
+  id: '/tag/$tagName',
+  path: '/tag/$tagName',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ApiPublicNewsRoute = ApiPublicNewsRouteImport.update({
   id: '/api/public/news',
   path: '/api/public/news',
@@ -95,6 +101,7 @@ export interface FileRoutesByFullPath {
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
+  '/tag/$tagName': typeof TagTagNameRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
 export interface FileRoutesByTo {
@@ -109,6 +116,7 @@ export interface FileRoutesByTo {
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
+  '/tag/$tagName': typeof TagTagNameRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
 export interface FileRoutesById {
@@ -124,6 +132,7 @@ export interface FileRoutesById {
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
+  '/tag/$tagName': typeof TagTagNameRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
 export interface FileRouteTypes {
@@ -140,6 +149,7 @@ export interface FileRouteTypes {
     | '/visszajelzes'
     | '/api/ask'
     | '/hir/$id'
+    | '/tag/$tagName'
     | '/api/public/news'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -154,6 +164,7 @@ export interface FileRouteTypes {
     | '/visszajelzes'
     | '/api/ask'
     | '/hir/$id'
+    | '/tag/$tagName'
     | '/api/public/news'
   id:
     | '__root__'
@@ -168,6 +179,7 @@ export interface FileRouteTypes {
     | '/visszajelzes'
     | '/api/ask'
     | '/hir/$id'
+    | '/tag/$tagName'
     | '/api/public/news'
   fileRoutesById: FileRoutesById
 }
@@ -183,6 +195,7 @@ export interface RootRouteChildren {
   VisszajelzesRoute: typeof VisszajelzesRoute
   ApiAskRoute: typeof ApiAskRoute
   HirIdRoute: typeof HirIdRoute
+  TagTagNameRoute: typeof TagTagNameRoute
   ApiPublicNewsRoute: typeof ApiPublicNewsRoute
 }
 
@@ -265,6 +278,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof HirIdRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/tag/$tagName': {
+      id: '/tag/$tagName'
+      path: '/tag/$tagName'
+      fullPath: '/tag/$tagName'
+      preLoaderRoute: typeof TagTagNameRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/api/public/news': {
       id: '/api/public/news'
       path: '/api/public/news'
@@ -287,6 +307,7 @@ const rootRouteChildren: RootRouteChildren = {
   VisszajelzesRoute: VisszajelzesRoute,
   ApiAskRoute: ApiAskRoute,
   HirIdRoute: HirIdRoute,
+  TagTagNameRoute: TagTagNameRoute,
   ApiPublicNewsRoute: ApiPublicNewsRoute,
 }
 export const routeTree = rootRouteImport
