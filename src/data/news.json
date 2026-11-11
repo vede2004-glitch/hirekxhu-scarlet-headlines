@@ -2129,40 +2129,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_dd17385a62",
-    "slug": "hamis-mobilhalozattal-kuldtt-rendorsegi-csalouzeneteket-egy-kinai-ferfi-dd1738",
-    "tags": [
-      "adathalaszat",
-      "kiberbunozes",
-      "rendorseg",
-      "mobilhalozat"
-    ],
-    "fingerprint": "43308014efb244ddddaa8dfd1f312a98",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0803252728-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Magyarországon még sosem látott csalást hajtott végre egy kínai férfi, „rekordidő” alatt letartóztatták",
-        "link": "https://24.hu/tech/2026/11/10/rendorseg-csalo-sms-nni-kinai-ferfi-letartoztatas/"
-      },
-      {
-        "source": "ATV",
-        "title": "A rendőrség nevében küldözgetett SMS-eket, rekordidő alatt fogták el a csalót",
-        "link": "https://www.atv.hu/belfold/20261110/rendorseg-sms-csalo-yettel/"
-      }
-    ],
-    "published_at": 1794338400,
-    "title_hu": "Hamis mobilhálózattal küldött rendőrségi csalóüzeneteket egy kínai férfi",
-    "lead_hu": "Egy 27 éves kínai állampolgárt azonosítottak és fogtak el, miután rendőrségi értesítésnek álcázott adathalász SMS-eket küldött. A hatóságok szerint egy autóból működtetett hamis mobil bázisállomást használt; az ügyben kilenc sértettet tartanak nyilván.",
-    "content_hu": "• **A csalás módszere** Az üzenetek azt állították, hogy a címzett közlekedési szabályszegést követett el, és egy hivatkozáson keresztül kínáltak további információt. A küldéshez egy mozgó gépkocsiból működtetett, hamis mobil bázisállomást használtak.\n\n• **A nyomozás gyorsan eljutott a gyanúsítotthoz** A rendőrség július 22-én indította meg az eljárást Budapesten, és még aznap Pécsen azonosította a férfit. A felderítésben a Nemzeti Média- és Hírközlési Hatóság szakemberei is részt vettek.\n\n• **A szolgáltató is jelezte a rendellenességet** A bejelentések mellett a Yettel hálózati problémát észlelt, majd értesítette a rendőrséget.\n\n• **Kilenc sértett és csaknem ötmillió forint kár** A hamis állomáshoz több mint 88 ezer hálózati csatlakozást rögzítettek. A hatóságok a 27 éves kínai állampolgárt gyanúsítják; külföldi kapcsolatait tovább vizsgálják.",
-    "importance_score": 28.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_2e988f490b",
     "fingerprint": "a8f7df74c5ee372dbf96d98534208796",
     "category": "Politika",
@@ -2287,6 +2253,40 @@
     "tags": [
       "politika"
     ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_dd17385a62",
+    "slug": "hamis-mobilhalozattal-kuldtt-rendorsegi-csalouzeneteket-egy-kinai-ferfi-dd1738",
+    "tags": [
+      "adathalaszat",
+      "kiberbunozes",
+      "rendorseg",
+      "mobilhalozat"
+    ],
+    "fingerprint": "43308014efb244ddddaa8dfd1f312a98",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0803252728-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Magyarországon még sosem látott csalást hajtott végre egy kínai férfi, „rekordidő” alatt letartóztatták",
+        "link": "https://24.hu/tech/2026/11/10/rendorseg-csalo-sms-nni-kinai-ferfi-letartoztatas/"
+      },
+      {
+        "source": "ATV",
+        "title": "A rendőrség nevében küldözgetett SMS-eket, rekordidő alatt fogták el a csalót",
+        "link": "https://www.atv.hu/belfold/20261110/rendorseg-sms-csalo-yettel/"
+      }
+    ],
+    "published_at": 1794338400,
+    "title_hu": "Hamis mobilhálózattal küldött rendőrségi csalóüzeneteket egy kínai férfi",
+    "lead_hu": "Egy 27 éves kínai állampolgárt azonosítottak és fogtak el, miután rendőrségi értesítésnek álcázott adathalász SMS-eket küldött. A hatóságok szerint egy autóból működtetett hamis mobil bázisállomást használt; az ügyben kilenc sértettet tartanak nyilván.",
+    "content_hu": "• **A csalás módszere** Az üzenetek azt állították, hogy a címzett közlekedési szabályszegést követett el, és egy hivatkozáson keresztül kínáltak további információt. A küldéshez egy mozgó gépkocsiból működtetett, hamis mobil bázisállomást használtak.\n\n• **A nyomozás gyorsan eljutott a gyanúsítotthoz** A rendőrség július 22-én indította meg az eljárást Budapesten, és még aznap Pécsen azonosította a férfit. A felderítésben a Nemzeti Média- és Hírközlési Hatóság szakemberei is részt vettek.\n\n• **A szolgáltató is jelezte a rendellenességet** A bejelentések mellett a Yettel hálózati problémát észlelt, majd értesítette a rendőrséget.\n\n• **Kilenc sértett és csaknem ötmillió forint kár** A hamis állomáshoz több mint 88 ezer hálózati csatlakozást rögzítettek. A hatóságok a 27 éves kínai állampolgárt gyanúsítják; külföldi kapcsolatait tovább vizsgálják.",
+    "importance_score": 23.0,
     "is_top_hero": false
   },
   {
