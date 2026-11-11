@@ -199,6 +199,75 @@
     "is_top_hero": true
   },
   {
+    "group_id": "group_9b83360b2c",
+    "slug": "haromnapos-rendkivuli-parlamenti-ulest-kezdemenyeztek-9b8336",
+    "tags": [
+      "orszaggyules",
+      "2027-es-koltsegvetes",
+      "ruff-balint",
+      "althea-misszio"
+    ],
+    "fingerprint": "328132395e3a802844facd3897d508a0",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261111/1794392222-temp-f4is61jjlbtoffmhjap_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Ruff Bálint rendkívüli parlamenti ülést kezdeményez jövő hétre a kormány nevében",
+        "link": "https://telex.hu/belfold/2026/11/11/ruff-balint-rendkivuli-ules-parlament-kezdemenyez-jovo-hetre-a-kormany-neveben"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Ruff Bálint rendkívüli parlamenti ülést kezdeményezett jövő hétre a költségvetés miatt",
+        "link": "https://index.hu/belfold/2026/11/11/ruff-balint-kormany-tisza-parlament-orszaggyules-ules-koltsegvetes/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Rendkívüli ülésen tárgyalhatja jövő héten a költségvetést a parlament",
+        "link": "https://hvg.hu/gazdasag/20261111_rendkivuli-ulesen-targyalhatja-jovo-heten-a-koltsegvetest-a-parlament"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Rendkívüli parlamenti ülés jön, kezdődik a 2027-es költségvetés tárgyalása",
+        "link": "https://www.portfolio.hu/gazdasag/20261111/rendkivuli-parlamenti-ules-jon-kezdodik-a-2027-es-koltsegvetes-targyalasa-875740"
+      },
+      {
+        "source": "444.hu",
+        "title": "Ruff Bálint jövő hétre összehívná a parlamentet, költségvetésről és amerikai atomenergia-programról vitáznának",
+        "link": "https://444.hu/2026/11/11/ruff-balint-jovo-hetre-osszehivna-a-parlamentet-koltsegvetesrol-es-amerikai-atomenergia-programrol-vitaznanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Háromnapos rendkívüli ülést kezdeményezett Ruff Bálint",
+        "link": "https://24.hu/belfold/2026/11/11/parlament-rendkivuli-ules-koltsegvetes-ruff/"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Rendkívüli parlamenti ülés jön: Magyar Péteréknek 2000 milliárd forintos lyukat kell betömniük a 2027-es költségvetésben",
+        "link": "https://www.vg.hu/kozelet/2026/11/koltsegvetes-deficit-rendkivuli-ules-parlament?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ruff Bálint lépett, rendkívüli parlamenti ülést hívott össze",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/ruff-balint-lepett-rendkivuli-parlamenti-ulest-hivott-ossze?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Bolsevik Ruff rendkívüli parlamenti ülést kezdeményez jövő hétre a kormány nevében",
+        "link": "https://www.vadhajtasok.hu/2026/11/11/bolsevik-ruff-rendkivuli-parlamenti-ulest-kezdemenyez-jovo-hetre-a-kormany-neveben"
+      }
+    ],
+    "published_at": 1794397875,
+    "title_hu": "Háromnapos rendkívüli parlamenti ülést kezdeményeztek",
+    "lead_hu": "Ruff Bálint a kormány nevében november 16–18-ra rendkívüli parlamenti ülést javasolt. A képviselők a 2027-es költségvetés mellett egy magyar–amerikai atomenergetikai megállapodásról és a bosznia-hercegovinai ALTHEA-misszióban való magyar részvételről is tárgyalhatnak.",
+    "content_hu": "• **November 16–18.** Ruff Bálint Miniszterelnökséget vezető miniszter háromnapos rendkívüli ülés összehívását kezdeményezte Forsthoffer Ágnes házelnöknél.\n\n• **A 2027-es büdzsé** A javasolt napirenden szerepel a jövő évi központi költségvetés és az annak megalapozásához benyújtott törvényjavaslat.\n\n• **Polgári atomenergia** A képviselők megvitathatják a Magyarország és az Egyesült Államok közötti, a polgári célú atomenergetikai együttműködéshez kapcsolódó megállapodás kihirdetését.\n\n• **ALTHEA-misszió** A napirend része lehet a magyar katonák bosznia-hercegovinai, uniós irányítású békefenntartó műveletben való szerepvállalásáról szóló beszámoló is.",
+    "importance_score": 110.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_e0c7128d56",
     "slug": "magyar-peter-vitatja-az-unios-budzse-tervezetet-merz-az-ukrajnai-tamogatast-is-n-e0c712",
     "tags": [
@@ -269,76 +338,7 @@
     "title_hu": "Magyar Péter vitatja az uniós büdzsé tervezetét, Merz az ukrajnai támogatást is napirendre tűzte",
     "lead_hu": "Magyar Péter Berlinben közölte, hogy Magyarország részt vesz a 2028–2034-es uniós költségvetésről szóló tárgyalásokon, de a jelenlegi javaslatot módosítaná. Friedrich Merz Ukrajna finanszírozását és a közös költségvetési megállapodást összekapcsolná, a német kancellár pedig LNG-kapacitásokkal és energetikai tapasztalattal is segítené Magyarországot.",
     "content_hu": "• **Magyarország változtatásokat kér a költségvetési javaslatban** Magyar Péter szerint a tervezet alapján Magyarország az egy főre jutó nettó befizetés tekintetében az élmezőnybe kerülne, amit egy kohéziós országnál elfogadhatatlannak tart. A kormányfő kész tárgyalni a kompromisszumról, ugyanakkor a nemzeti érdekekből nem engedne.\n\n• **Budapest megőrizné az agrár- és kohéziós kereteket** A magyar prioritások között szerepel, hogy az agrárpolitikai és kohéziós támogatások, valamint az országok számára elkülönített pénzügyi keretek ne csökkenjenek érdemben. Magyar Péter a költségvetés bevételi oldalának módosítását is szorgalmazta.\n\n• **Merz nagyobb versenyképességi és védelmi kiadásokat sürget** A német kancellár szerint az új, hétéves keretnek több forrást kellene biztosítania a versenyképességre és a védelemre, miközben a tagállamok számára pénzügyileg vállalhatónak kell maradnia. Merz érdemi változtatásokat vár António Costától, az Európai Tanács elnökétől.\n\n• **Merz az Ukrajnának nyújtott segítséget a közös biztonság részének tekinti** A német kancellár szerint nem szabad visszafogni Ukrajna támogatását, és a hosszú távú finanszírozásnak az uniós költségvetésben kell helyet kapnia. Azt is sürgette, hogy minden tagállam méltányosan vegyen részt az ország támogatásában.\n\n• **A 2027-es ukrajnai finanszírozási hiány elérheti a 70 milliárd eurót** Andrej Babiš szerint az EU ebből mintegy 45 milliárd eurót vállalhatna, miközben a 2028-tól tervezett, Ukrajnának szánt 100 milliárd euró nem fedezné a következő évi szükségleteket. Az uniós vezetők november 12–13-án Dublinban is tárgyalnak a hiány finanszírozásáról.\n\n• **Magyarország nem vállalna új, egymilliárd eurós hitelterhet vagy garanciát** Magyar Péter a humanitárius segítség folytatását támogatja, de elutasítja, hogy Magyarország Ukrajna javára ekkora összegű hitelt vegyen fel vagy ilyen értékű garanciát adjon. Magyarország, Szlovákia és Csehország korábban mentességet kapott a 90 milliárd eurós ukrán hitel kamatterhei alól.\n\n• **Fico zsarolásnak nevezte Merz javaslatát** A szlovák kormányfő szerint Szlovákiának Németországhoz hasonlóan vétójoga van. Babiš ellenezte az uniós költségvetés blokkolását, és azt sürgette, hogy az EU közvetlenül vegyen részt az ukrajnai béketárgyalásokban. Bóka János támogatásáról biztosította a szlovák és a cseh kormányfő fellépését.\n\n• **A 2027-es uniós költségvetésről is egyeztetnek** Az ECOFIN, majd az Európai Tanács és az Európai Parlament egyeztetőbizottsága tárgyal a következő évi büdzséről. Siegfried Mureșan szerint az EP nem fogadna el olyan megállapodást, amely korlátozná az uniós források felhasználása feletti ellenőrzési jogát.\n\n• **A német LNG-ajánlatnál az ár és a szállítási költség lehet döntő** Merz felajánlotta a német LNG-terminálok kapacitásainak, valamint a megújuló energiákkal kapcsolatos tapasztalatoknak a megosztását. Magyar Péter szerint Magyarország a szomszédos országokkal kialakított összeköttetéseken keresztül több irányból is beszerezhet földgázt; a német ajánlat megítéléséhez az árakat és az útvonalak tranzitdíjait is össze kell vetni. A kormányfő úgy véli, az orosz gáz ára is a holland TTF-hez igazodik, a több beszerzési útvonal pedig erősítheti az ország alkupozícióját.\n\n• **Az energiaárak a versenyképességet is befolyásolják** Magyar Péter szerint a beszerzési lehetőségek bővítése mellett arra is figyelni kell, hogy a költségek ne terheljék tovább a háztartásokat és a vállalkozásokat. A magas energiaárakat a gazdasági versenyképességet gyengítő tényezőnek nevezte.\n\n• **Védelmi együttműködésről és uniós bővítésről is szó esett** A két vezető a védelmi és légvédelmi együttműködésről, valamint a SAFE-programról is tárgyalt. Merz Montenegró csatlakozási tárgyalásainak lezárását, továbbá az ukrán és moldovai tárgyalási fejezetek év végi megnyitását sürgette. Magyar Péter a tagjelöltek felkészültsége alapján döntene; Moldovát késznek tartja, Ukrajna esetében pedig a kárpátaljai magyarok oktatási jogainak ügyében további lépéseket vár.\n\n• **Közös kulturális évadot rendezhet Magyarország és Németország** A két ország 2028-ra közös kulturális programsorozatot tervez. Merz a magyarországi reformok ütemét is méltatta.",
-    "importance_score": 115.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_9b83360b2c",
-    "slug": "haromnapos-rendkivuli-parlamenti-ulest-kezdemenyeztek-9b8336",
-    "tags": [
-      "orszaggyules",
-      "2027-es-koltsegvetes",
-      "ruff-balint",
-      "althea-misszio"
-    ],
-    "fingerprint": "328132395e3a802844facd3897d508a0",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261111/1794392222-temp-f4is61jjlbtoffmhjap_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Ruff Bálint rendkívüli parlamenti ülést kezdeményez jövő hétre a kormány nevében",
-        "link": "https://telex.hu/belfold/2026/11/11/ruff-balint-rendkivuli-ules-parlament-kezdemenyez-jovo-hetre-a-kormany-neveben"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Ruff Bálint rendkívüli parlamenti ülést kezdeményezett jövő hétre a költségvetés miatt",
-        "link": "https://index.hu/belfold/2026/11/11/ruff-balint-kormany-tisza-parlament-orszaggyules-ules-koltsegvetes/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Rendkívüli ülésen tárgyalhatja jövő héten a költségvetést a parlament",
-        "link": "https://hvg.hu/gazdasag/20261111_rendkivuli-ulesen-targyalhatja-jovo-heten-a-koltsegvetest-a-parlament"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Rendkívüli parlamenti ülés jön, kezdődik a 2027-es költségvetés tárgyalása",
-        "link": "https://www.portfolio.hu/gazdasag/20261111/rendkivuli-parlamenti-ules-jon-kezdodik-a-2027-es-koltsegvetes-targyalasa-875740"
-      },
-      {
-        "source": "444.hu",
-        "title": "Ruff Bálint jövő hétre összehívná a parlamentet, költségvetésről és amerikai atomenergia-programról vitáznának",
-        "link": "https://444.hu/2026/11/11/ruff-balint-jovo-hetre-osszehivna-a-parlamentet-koltsegvetesrol-es-amerikai-atomenergia-programrol-vitaznanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Háromnapos rendkívüli ülést kezdeményezett Ruff Bálint",
-        "link": "https://24.hu/belfold/2026/11/11/parlament-rendkivuli-ules-koltsegvetes-ruff/"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Rendkívüli parlamenti ülés jön: Magyar Péteréknek 2000 milliárd forintos lyukat kell betömniük a 2027-es költségvetésben",
-        "link": "https://www.vg.hu/kozelet/2026/11/koltsegvetes-deficit-rendkivuli-ules-parlament?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Ruff Bálint lépett, rendkívüli parlamenti ülést hívott össze",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/ruff-balint-lepett-rendkivuli-parlamenti-ulest-hivott-ossze?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Bolsevik Ruff rendkívüli parlamenti ülést kezdeményez jövő hétre a kormány nevében",
-        "link": "https://www.vadhajtasok.hu/2026/11/11/bolsevik-ruff-rendkivuli-parlamenti-ulest-kezdemenyez-jovo-hetre-a-kormany-neveben"
-      }
-    ],
-    "published_at": 1794397875,
-    "title_hu": "Háromnapos rendkívüli parlamenti ülést kezdeményeztek",
-    "lead_hu": "Ruff Bálint a kormány nevében november 16–18-ra rendkívüli parlamenti ülést javasolt. A képviselők a 2027-es költségvetés mellett egy magyar–amerikai atomenergetikai megállapodásról és a bosznia-hercegovinai ALTHEA-misszióban való magyar részvételről is tárgyalhatnak.",
-    "content_hu": "• **November 16–18.** Ruff Bálint Miniszterelnökséget vezető miniszter háromnapos rendkívüli ülés összehívását kezdeményezte Forsthoffer Ágnes házelnöknél.\n\n• **A 2027-es büdzsé** A javasolt napirenden szerepel a jövő évi központi költségvetés és az annak megalapozásához benyújtott törvényjavaslat.\n\n• **Polgári atomenergia** A képviselők megvitathatják a Magyarország és az Egyesült Államok közötti, a polgári célú atomenergetikai együttműködéshez kapcsolódó megállapodás kihirdetését.\n\n• **ALTHEA-misszió** A napirend része lehet a magyar katonák bosznia-hercegovinai, uniós irányítású békefenntartó műveletben való szerepvállalásáról szóló beszámoló is.",
-    "importance_score": 110.0,
+    "importance_score": 108.0,
     "is_top_hero": false
   },
   {
@@ -596,6 +596,55 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_4df334b234",
+    "slug": "varga-juditot-is-meghallgatja-a-vegrehajtasi-vissz-4df334",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://www.youtube.com/embed/4a0IF8fYkLU",
+    "is_synthesized": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Varga Juditot is meghallgatja a Végrehajtási visszaéléseket vizsgáló bizottság – Nézze itt élőben",
+        "link": "https://www.atv.hu/belfold/20261111/varga-judit-vegrehajtas-bizottsag/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Varga Juditot és volt államtitkárát hallgatja meg a parlament bizottsága – kövesse velünk élőben",
+        "link": "https://hvg.hu/itthon/20261111_varga-judit-repassy-robert-meghallgatas-vegrehajtas-vizsgalobizottsag-elo"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Varga Juditot hallgatja meg a Parlament végrehajtási vizsgálóbizottsága",
+        "link": "https://24.hu/belfold/2026/11/11/varga-judit-parlament-vegrehajtas-vizsgalobizottsag-meghallgatas/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Varga Juditot és Völner Pál utódját hallgatja meg a végrehajtói ügyeket feltáró vizsgálóbizottság",
+        "link": "https://telex.hu/belfold/2026/11/11/varga-judit-repassy-robert-meghallgatas-vegrehajtoi-visszaeleseket-feltaro-vizsgalobizottsag-parlament"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Varga Juditot hallgatja meg a végrehajtási visszaéléseket vizsgáló bizottság",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/varga-judit-vegrehajtasi-visszaeleseket-vizsgalo-bizottsag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Varga Judit és Répássy Róbert is megjelent a végrehajtási visszaéléseket vizsgáló bizottság előtt",
+        "link": "https://www.vg.hu/kozelet/2026/11/vegrehajtasi-visszaeleseket-vizsgalo-bizottsag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794400980,
+    "title_hu": "Varga Juditot is meghallgatja a Végrehajtási visszaéléseket vizsgáló bizottság – Nézze itt élőben",
+    "lead_hu": "Ma ül össze az Országházban a vizsgálóbizottság: a volt igazságügyi miniszter, Varga Judit és Répássy Róbert volt államtitkár is a testület elé áll.",
+    "content_hu": "Ma ül össze az Országházban a vizsgálóbizottság: a volt igazságügyi miniszter, Varga Judit és Répássy Róbert volt államtitkár is a testület elé áll.",
+    "importance_score": 75.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_a21f553c1d",
     "slug": "tarr-zoltan-szerint-nem-az-o-feladatkre-volt-az-adatbazis-kezelese-a21f55",
     "tags": [
@@ -652,50 +701,6 @@
     "lead_hu": "Tarr Zoltán a 164 hibás adat miatt nem tartja magát személyesen felelősnek: elmondása szerint sem a névsort nem ő állította össze, sem az informatikai rendszert nem ő kezelte. Azt is közölte, hogy korábban azért nem nyilatkozott, mert nem tudott volna érdemi információval szolgálni; a tárcájához ugyanakkor az ügy társadalmi hatásai is kapcsolódnak.",
     "content_hu": "• **164 téves adat került nyilvánosságra:** A november 4-én elindított, kereshető Nyitott Akták adatbázisában Lezsák Sándor neve is hibásan szerepelt. Az ÁBTL másnap informatikai problémát jelölt meg, és elnézést kért.\n\n• **Tarr nem vállal személyes felelősséget:** A miniszter azzal indokolta álláspontját, hogy nem vett részt a névsor összeállításában, és nem ő kezelte az adatbázis rendszerét. Szerinte az ÁBTL a kormánytól függetlenül működik.\n\n• **A korábbi hallgatását is megmagyarázta:** Tarr azt mondta, azért nem válaszolt korábban a megkeresésekre, mert nem tartotta magát illetékesnek, és nem tudott volna érdemben többet hozzátenni. A tárcája feladatköréhez ugyanakkor az ügynökakták nyilvánosságának társadalmi következményei is tartoznak.\n\n• **A szándékos hibáról szóló felvetés tisztázását sürgette:** Magyar Péter az Országgyűlésben vetette fel, hogy a hibák mögött szándékosság állhatott. Tarr nem tudta, milyen információra alapozta ezt, de fontosnak nevezte annak kiderítését, hogy véletlenről vagy az adatbázis hitelének rontására irányuló lépésről volt-e szó.\n\n• **Magyar Péter is bocsánatot kért, a Fidesz és a KDNP leállítaná az oldalt:** A téves bejegyzések nyilvánosságra kerülése után a két párt a honlap teljes megszüntetését követelte.\n\n• **Az ÁBTL főigazgatója felajánlotta lemondását:** Cseh Gergő Bendegúz a hibák kijavítása után jelezte ezt a levéltár fenntartójának. Beszámolója szerint az adatok feldolgozására kevesebb mint egy hónap jutott, a november 4-i indulást pedig Magyar Péter is sürgette.\n\n• **Tanácsadó testület segíthet a rendezésben:** Tarr szerint a problémák kezelésére létrehozott kísérőtestület közreműködhet az ügy megoldásában.",
     "importance_score": 70.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_4df334b234",
-    "slug": "varga-juditot-is-meghallgatja-a-vegrehajtasi-vissz-4df334",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/4a0IF8fYkLU",
-    "is_synthesized": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Varga Juditot is meghallgatja a Végrehajtási visszaéléseket vizsgáló bizottság – Nézze itt élőben",
-        "link": "https://www.atv.hu/belfold/20261111/varga-judit-vegrehajtas-bizottsag/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Varga Juditot és volt államtitkárát hallgatja meg a parlament bizottsága – kövesse velünk élőben",
-        "link": "https://hvg.hu/itthon/20261111_varga-judit-repassy-robert-meghallgatas-vegrehajtas-vizsgalobizottsag-elo"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Varga Juditot hallgatja meg a Parlament végrehajtási vizsgálóbizottsága",
-        "link": "https://24.hu/belfold/2026/11/11/varga-judit-parlament-vegrehajtas-vizsgalobizottsag-meghallgatas/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Varga Juditot és Völner Pál utódját hallgatja meg a végrehajtói ügyeket feltáró vizsgálóbizottság",
-        "link": "https://telex.hu/belfold/2026/11/11/varga-judit-repassy-robert-meghallgatas-vegrehajtoi-visszaeleseket-feltaro-vizsgalobizottsag-parlament"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Varga Juditot hallgatja meg a végrehajtási visszaéléseket vizsgáló bizottság",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/varga-judit-vegrehajtasi-visszaeleseket-vizsgalo-bizottsag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794400980,
-    "title_hu": "Varga Juditot is meghallgatja a Végrehajtási visszaéléseket vizsgáló bizottság – Nézze itt élőben",
-    "lead_hu": "Ma ül össze az Országházban a vizsgálóbizottság: a volt igazságügyi miniszter, Varga Judit és Répássy Róbert volt államtitkár is a testület elé áll.",
-    "content_hu": "Ma ül össze az Országházban a vizsgálóbizottság: a volt igazságügyi miniszter, Varga Judit és Répássy Róbert volt államtitkár is a testület elé áll.",
-    "importance_score": 65.0,
     "is_top_hero": false
   },
   {
@@ -848,6 +853,50 @@
     "lead_hu": "A debreceni Csokonai Nemzeti Színház anonim bizalmi szavazásán 160-an ellene, 73-an mellette voksoltak. Vadász Dániel közölte, hogy egyeztetést kezdeményez a munkáltatójával a munkaviszony közös megegyezéssel történő lezárásáról; a távozásáról szóló megállapodás még nem született meg.",
     "content_hu": "• **A bizalmi szavazás eredménye** A november 10-i rendkívüli társulati ülésen tartott anonim voksoláson 160 dolgozó nem támogatta Vadász Dániel igazgatói munkájának folytatását, 73-an viszont bizalmat szavaztak neki. Az igazgató a szavazás után egyeztetést helyezett kilátásba munkáltatójával a munkaviszonya közös megegyezéses megszüntetéséről, és köszönetet mondott támogatóinak.\n\n• **A színház működésének folytonossága** Az intézmény vezetése arra törekszik, hogy a következő igazgatói ciklus kezdetéig fennmaradjon a színház működése és szakmai munkája.\n\n• **A szavazás háttere** Vadász a dolgozók több fórumon jelzett elégedetlensége után hívta össze a rendkívüli ülést, és maga kezdeményezte a bizalmi voksolást. Színészek és műszaki munkatársak túlterheltségről, feszültségekről és munkahelyi problémákról számoltak be.\n\n• **Tompa Enikő fellépése** Az országgyűlési képviselő november 8-án a szavazástól függetlenül is távozásra kérte az igazgatót, és nyílt pályázatot javasolt az utód kiválasztására. Elmondása szerint a színház dolgozói már hetekkel korábban megkeresték, ő pedig felkereste az intézményt és közérdekű adatigényléseket nyújtott be.\n\n• **Önkormányzati vizsgálat és támogatási kérdések** Debrecen önkormányzata belső vizsgálatot rendelt el a színház finanszírozása, külső produkciós együttműködései és a dolgozók terhelése ügyében. A Szikra Mozgalom helyi aktivistái egy sajtótájékoztatón egy 200 millió forintos NKA-pályázatot és a dolgozók tapasztalatait is felvetették.\n\n• **Vadász kinevezése** A debreceni közgyűlés 2025 októberében öt évre bízta meg Vadászt az igazgatói feladatokkal; kinevezését a szakmai és kulturális bizottság egyhangúlag támogatta.",
     "importance_score": 63.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_3335f86c53",
+    "slug": "tavozik-gilly-gyula-hegedus-zsolt-politikai-fotanacsadoja-3335f8",
+    "tags": [
+      "gilly-gyula",
+      "hegedus-zsolt",
+      "egeszsegugy",
+      "tisza-part"
+    ],
+    "fingerprint": "1103a31fabcfa8cd4b34cb9149708dc5",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/gilly-e1794399524784-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Távozik a tárcától Hegedűs Zsolt politikai főtanácsadója",
+        "link": "https://24.hu/belfold/2026/11/11/em-hegedus-zsolt-gilly-gyula-fotanacsado-tavozas/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Távozik Hegedűs Zsolt politikai főtanácsadója",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/tavozik-hegedus-zsolt-politikai-fotanacsadoja?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Távozik az egészségügyi miniszter főtanácsadója, Gilly Gyula",
+        "link": "https://telex.hu/belfold/2026/11/11/tavozik-az-egeszsegugyi-miniszter-fotanacsadoja-gilly-gyula"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Távozik Hegedűs Zsolt egészségügyi miniszter politikai főtanácsadója, Gilly Gyula",
+        "link": "https://hvg.hu/gazdasag/20261111_tavozik-hegedus-zsolt-egeszsegugyi-miniszter-politikai-fotanacsadoja-gilly-gyula"
+      }
+    ],
+    "published_at": 1794401370,
+    "title_hu": "Távozik Gilly Gyula, Hegedűs Zsolt politikai főtanácsadója",
+    "lead_hu": "December 1-jei hatállyal elhagyja az Egészségügyi Minisztériumot Gilly Gyula politikai főtanácsadó. A távozásról szóló döntést közösnek nevezte, részleteket azonban nem közölt.",
+    "content_hu": "• **December 1-jén távozik** Gilly Gyula az Egészségügyi Minisztériumból, ahol Hegedűs Zsolt politikai főtanácsadójaként dolgozott.\n\n• **Közös döntésről beszélt** Gilly, amikor a távozásáról kérdezték; az okokról és a körülményekről nem kívánt nyilatkozni.\n\n• **Egészségügyi szakértőként is dolgozott** a Tisza Párt programján: a párt szakértői csapatában az ágazatirányítás, a rendszerszintű átalakítások és az integrált ellátás tartozott hozzá.",
+    "importance_score": 60.0,
     "is_top_hero": false
   },
   {
@@ -1179,41 +1228,41 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_3335f86c53",
-    "slug": "tavozik-gilly-gyula-hegedus-zsolt-politikai-fotanacsadoja-3335f8",
+    "group_id": "group_f32a62b514",
+    "slug": "eisenkot-kapott-megbizast-az-izraeli-kormany-megalakitasara-f32a62",
     "tags": [
-      "gilly-gyula",
-      "hegedus-zsolt",
-      "egeszsegugy",
-      "tisza-part"
+      "izrael",
+      "gadi-eisenkot",
+      "benjamin-netanjahu",
+      "kneszet"
     ],
-    "fingerprint": "1103a31fabcfa8cd4b34cb9149708dc5",
+    "fingerprint": "466f31466223035e97f3e5105991a3f3",
     "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/gilly-e1794399524784-1024x577.jpg",
+    "image": "https://kep.index.hu/1/0/7248/72483/724837/72483709_5341315_896e078ea185c11f37d47b08e218cedb_wm.jpg",
     "is_synthesized": true,
     "rejected": false,
     "sources_count": 3,
     "sources": [
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "Távozik a tárcától Hegedűs Zsolt politikai főtanácsadója",
-        "link": "https://24.hu/belfold/2026/11/11/em-hegedus-zsolt-gilly-gyula-fotanacsado-tavozas/"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Távozik Hegedűs Zsolt politikai főtanácsadója",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/tavozik-hegedus-zsolt-politikai-fotanacsadoja?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "Index - Címlap",
+        "title": "Fordulat Izraelben, a korábbi katonai parancsnok válthatja Netanjahut",
+        "link": "https://index.hu/kulfold/2026/11/10/gadi-eisenkot-izrael-kormanyalakitas-arab-partok-egyeztetes-targyalasaok/"
       },
       {
         "source": "Telex - Belföld",
-        "title": "Távozik az egészségügyi miniszter főtanácsadója, Gilly Gyula",
-        "link": "https://telex.hu/belfold/2026/11/11/tavozik-az-egeszsegugyi-miniszter-fotanacsadoja-gilly-gyula"
+        "title": "Már az izraeli parlament alakuló ülésén egymásnak esett Netanjáhu és a leváltására készülő ellenzéke",
+        "link": "https://telex.hu/kulfold/2026/11/11/izrael-torvenyhozas-kneszet-alakulo-ules-netanjahu-ejzenkot-tobbseg"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Netanjahu nekiment az arab pártoknak: nemzeti egységkormányt követel Izraelben",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/netanjahu-nekiment-az-arab-partoknak-nemzeti-egysegkormanyt-kovetel-izraelben"
       }
     ],
-    "published_at": 1794401370,
-    "title_hu": "Távozik Gilly Gyula, Hegedűs Zsolt politikai főtanácsadója",
-    "lead_hu": "December 1-jei hatállyal elhagyja az Egészségügyi Minisztériumot Gilly Gyula politikai főtanácsadó. A távozásról szóló döntést közösnek nevezte, részleteket azonban nem közölt.",
-    "content_hu": "• **December 1-jén távozik** Gilly Gyula az Egészségügyi Minisztériumból, ahol Hegedűs Zsolt politikai főtanácsadójaként dolgozott.\n\n• **Közös döntésről beszélt** Gilly, amikor a távozásáról kérdezték; az okokról és a körülményekről nem kívánt nyilatkozni.\n\n• **Egészségügyi szakértőként is dolgozott** a Tisza Párt programján: a párt szakértői csapatában az ágazatirányítás, a rendszerszintű átalakítások és az integrált ellátás tartozott hozzá.",
+    "published_at": 1794400538,
+    "title_hu": "Eisenkot kapott megbízást az izraeli kormány megalakítására",
+    "lead_hu": "Az izraeli választás után egyik politikai tömbnek sincs önálló parlamenti többsége. Jichák Herzog államfő Gadi Eisenkotot bízta meg a kormányalakítással, miközben a kneszet alakuló ülésén éles vita bontakozott ki a lehetséges koalícióról.",
+    "content_hu": "• **Nincs biztos parlamenti többség** A 120 fős kneszetben sem a Benjámin Netanjahu vezette jobboldali oldal, sem az Eisenkot köré szerveződő ellenzék nem rendelkezik a kormányalakításhoz szükséges 61 mandátummal.\n\n• **Eisenkot kapta a feladatot** Jichák Herzog államfő az ellenzéki politikust kérte fel az új kormány létrehozására. A rendelkezésére álló 28 napot az elnök további két héttel meghosszabbíthatja.\n\n• **Vita a lehetséges arab pártok szerepéről** Netanjahu egységkormány létrehozását javasolta, és ellenezte, hogy arab pártok kerüljenek kormányzati pozícióba. Eisenkot a beszéd után közölte, hogy az ellenzék megszakítja az előzetes egyeztetéseket a Likuddal.\n\n• **Tiltakozók gyűltek össze a parlamentnél** A kneszet alakuló ülésének idején Netanjahut támogató tüntetők jelentek meg az épület előtt; egyesek az arab pártok esetleges kormányzati szerepvállalása ellen léptek fel.",
     "importance_score": 50.0,
     "is_top_hero": false
   },
@@ -1346,6 +1395,50 @@
     "title_hu": "Két nap alatt 9–10 forinttal mérséklődtek az üzemanyagárak",
     "lead_hu": "November 11-én tovább csökkent a benzin és a gázolaj országos átlagára, így két nap alatt 9, illetve 10 forintos mérséklődés történt. A dízel literenként 109 forinttal drágább a benzinnél, miközben a nemzetközi olajpiacon ismét emelkedtek a jegyzések.",
     "content_hu": "• **November 11-i változás** A 95-ös benzin országos átlagára 4, a gázolajé 6 forinttal lett alacsonyabb a keddi szintnél.\n\n• **Kétnapos árcsökkenés** A korábbi napi mérséklődéssel együtt a benzin ára 9, a dízelé 10 forinttal esett két nap alatt.\n\n• **109 forintos árkülönbség** A gázolaj literenkénti átlagára ennyivel haladja meg a 95-ös benzinét.\n\n• **Emelkedő olajárak és közel-keleti kockázatok** Szerda reggel a Brent hordónkénti ára megközelítette a 92 dollárt, a WTI-é pedig 86 dollár fölé került. A Hormuzi-szoros térségében októberben 37 hajótámadást regisztráltak, novemberben pedig további tízet; az olajszállítások helyreállását egy esetleges amerikai–iráni megállapodás után is lassíthatja az aknamentesítés, a biztosítás és a hajók biztonságával kapcsolatos bizonytalanság.",
+    "importance_score": 48.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_ff4c910dc9",
+    "slug": "a-charles-ciklon-esot-hoz-eszakkeleten-40-millimeter-is-hullhat-ff4c91",
+    "tags": [
+      "idojaras",
+      "charles-ciklon",
+      "csapadek",
+      "hidegfront"
+    ],
+    "fingerprint": "47ffbe1a279858ee8c10b2ba532f600e",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/5652/56523/565237/56523797_4179287_778b54d0030061e028eb05e2a88b4b85_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Jön az újabb ónos eső Magyarországra",
+        "link": "https://index.hu/belfold/2026/11/11/idojaras-elorejelzes-radar-onos-eso-melegfront/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Eléri Magyarországot a Charles ciklon: hatalmas zuhé érkezik",
+        "link": "https://www.portfolio.hu/gazdasag/20261111/eleri-magyarorszagot-a-charles-ciklon-hatalmas-zuhe-erkezik-875652"
+      },
+      {
+        "source": "444.hu",
+        "title": "A Charles ciklon Magyarországra érkezik csütörtökön, esőt hoz",
+        "link": "https://444.hu/2026/11/11/a-charles-ciklon-magyarorszagra-erkezik-csutortokon-esot-hoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Megérkezik Magyarországra a Charles ciklon: kiadós eső és jelentős lehűlés vár ránk",
+        "link": "https://nlc.hu/eletmod/20261111/charles-ciklon-idojaras-elorejelzes-eso/2rhzje5"
+      }
+    ],
+    "published_at": 1794389007,
+    "title_hu": "A Charles ciklon esőt hoz, északkeleten 40 milliméter is hullhat",
+    "lead_hu": "Szerdán párás, többnyire borult idő várható, helyenként ónos szitálással és gyenge esővel. A Charles ciklon csapadékrendszere csütörtök este érkezhet meg, pénteken pedig többfelé 20–30 milliméter, északon és északkeleten akár 40 milliméter eső is eshet.",
+    "content_hu": "• **Szerdai időjárás** Országszerte felhős, párás idő valószínű; szitálás bárhol előfordulhat, reggel pedig a fagypont alatti területeken ónos szitálás is lehet. Délen elszórtan gyenge eső várható, estétől déli, délnyugati irányból nő az eső és zápor esélye. A délutáni hőmérséklet többnyire 4–10 fok között alakul, északon, északkeleten ennél hűvösebb, a Viharsarokban valamivel enyhébb lehet.\n\n• **Szél szerdán** A Dunától keletre keleties, a Dunántúlon délies légmozgás várható; az Alpokalján élénk széllökések is előfordulhatnak.\n\n• **Eső csütörtök estétől** A Charles ciklonhoz kapcsolódó csapadékzóna az előrejelzés szerint csütörtök este érheti el Magyarországot. Pénteken az ország nagy részén tartós eső várható: jellemzően 20–30 milliméter, északon és északkeleten helyenként akár 40 milliméter csapadék hullhat.\n\n• **A ciklon európai hatásai** Portugália és Spanyolország egyes részein a többnapos esőzés során 200 milliméter fölötti csapadék is összegyűlhet, a széllökések pedig elérhetik a 120–140 km/órát. Észak-Olaszországban és az Adria horvátországi partvidékén szintén intenzív esőzések várhatók.\n\n• **Hidegfront és lehűlés** A magyarországi csapadékrendszer mögött pénteken hidegfront vonul át, megerősödő északi széllel. A hétvégén lehűlés kezdődik.",
     "importance_score": 48.0,
     "is_top_hero": false
   },
@@ -1722,40 +1815,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_f32a62b514",
-    "slug": "eisenkot-kapott-megbizast-az-izraeli-kormany-megalakitasara-f32a62",
-    "tags": [
-      "izrael",
-      "gadi-eisenkot",
-      "benjamin-netanjahu",
-      "kneszet"
-    ],
-    "fingerprint": "466f31466223035e97f3e5105991a3f3",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7248/72483/724837/72483709_5341315_896e078ea185c11f37d47b08e218cedb_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Fordulat Izraelben, a korábbi katonai parancsnok válthatja Netanjahut",
-        "link": "https://index.hu/kulfold/2026/11/10/gadi-eisenkot-izrael-kormanyalakitas-arab-partok-egyeztetes-targyalasaok/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Már az izraeli parlament alakuló ülésén egymásnak esett Netanjáhu és a leváltására készülő ellenzéke",
-        "link": "https://telex.hu/kulfold/2026/11/11/izrael-torvenyhozas-kneszet-alakulo-ules-netanjahu-ejzenkot-tobbseg"
-      }
-    ],
-    "published_at": 1794400538,
-    "title_hu": "Eisenkot kapott megbízást az izraeli kormány megalakítására",
-    "lead_hu": "Az izraeli választás után egyik politikai tömbnek sincs önálló parlamenti többsége. Jichák Herzog államfő Gadi Eisenkotot bízta meg a kormányalakítással, miközben a kneszet alakuló ülésén éles vita bontakozott ki a lehetséges koalícióról.",
-    "content_hu": "• **Nincs biztos parlamenti többség** A 120 fős kneszetben sem a Benjámin Netanjahu vezette jobboldali oldal, sem az Eisenkot köré szerveződő ellenzék nem rendelkezik a kormányalakításhoz szükséges 61 mandátummal.\n\n• **Eisenkot kapta a feladatot** Jichák Herzog államfő az ellenzéki politikust kérte fel az új kormány létrehozására. A rendelkezésére álló 28 napot az elnök további két héttel meghosszabbíthatja.\n\n• **Vita a lehetséges arab pártok szerepéről** Netanjahu egységkormány létrehozását javasolta, és ellenezte, hogy arab pártok kerüljenek kormányzati pozícióba. Eisenkot a beszéd után közölte, hogy az ellenzék megszakítja az előzetes egyeztetéseket a Likuddal.\n\n• **Tiltakozók gyűltek össze a parlamentnél** A kneszet alakuló ülésének idején Netanjahut támogató tüntetők jelentek meg az épület előtt; egyesek az arab pártok esetleges kormányzati szerepvállalása ellen léptek fel.",
-    "importance_score": 40.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_60a4265ee7",
     "slug": "a-szakertoi-testulet-szerint-buntetot-kellett-volna-kapnia-a-liverpoolnak-60a426",
     "tags": [
@@ -1831,45 +1890,6 @@
     "lead_hu": "A brit hatóságok Gloucester közelében elfogtak egy 41 éves amerikai katonát, akit azzal gyanúsítanak, hogy Oroszországnak segített. Az ügyben brit és amerikai szervek folytatnak nyomozást.",
     "content_hu": "• **Őrizetbe vétel:** A férfit kedden fogták el Gloucester közelében, majd Londonba vitték, ahol rendőrségi őrizetben van.\n\n• **A gyanú:** A brit hatóságok az Egyesült Királyság 2023-as nemzetbiztonsági törvénye alapján vizsgálják, hogy a férfi védett információk megszerzésével vagy közzétételével, illetve külföldi hírszerzés támogatásával megsértette-e a törvényt. A gyanú Oroszországhoz kapcsolódik.\n\n• **Folyamatban lévő nyomozás:** A rendőrök két helyszínen tartanak házkutatást Gloucestershire megyében; a brit és amerikai hatóságok együttműködnek az ügyben.\n\n• **FBI-adatok:** Kash Patel, az FBI igazgatója azt közölte, hogy a hivatal az előző 21 hónapban 167, kémelhárítással vagy kémkedéssel összefüggő letartóztatást hajtott végre, ami 53 százalékos emelkedés az összehasonlított időszakhoz képest.",
     "importance_score": 40.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_ff4c910dc9",
-    "slug": "a-charles-ciklon-esot-hoz-eszakkeleten-40-millimeter-is-hullhat-ff4c91",
-    "tags": [
-      "idojaras",
-      "charles-ciklon",
-      "csapadek",
-      "hidegfront"
-    ],
-    "fingerprint": "47ffbe1a279858ee8c10b2ba532f600e",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/5652/56523/565237/56523797_4179287_778b54d0030061e028eb05e2a88b4b85_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Jön az újabb ónos eső Magyarországra",
-        "link": "https://index.hu/belfold/2026/11/11/idojaras-elorejelzes-radar-onos-eso-melegfront/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Eléri Magyarországot a Charles ciklon: hatalmas zuhé érkezik",
-        "link": "https://www.portfolio.hu/gazdasag/20261111/eleri-magyarorszagot-a-charles-ciklon-hatalmas-zuhe-erkezik-875652"
-      },
-      {
-        "source": "444.hu",
-        "title": "A Charles ciklon Magyarországra érkezik csütörtökön, esőt hoz",
-        "link": "https://444.hu/2026/11/11/a-charles-ciklon-magyarorszagra-erkezik-csutortokon-esot-hoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794389007,
-    "title_hu": "A Charles ciklon esőt hoz, északkeleten 40 milliméter is hullhat",
-    "lead_hu": "Szerdán párás, többnyire borult idő várható, helyenként ónos szitálással és gyenge esővel. A Charles ciklon csapadékrendszere csütörtök este érkezhet meg, pénteken pedig többfelé 20–30 milliméter, északon és északkeleten akár 40 milliméter eső is eshet.",
-    "content_hu": "• **Szerdai időjárás** Országszerte felhős, párás idő valószínű; szitálás bárhol előfordulhat, reggel pedig a fagypont alatti területeken ónos szitálás is lehet. Délen elszórtan gyenge eső várható, estétől déli, délnyugati irányból nő az eső és zápor esélye. A délutáni hőmérséklet többnyire 4–10 fok között alakul, északon, északkeleten ennél hűvösebb, a Viharsarokban valamivel enyhébb lehet.\n\n• **Szél szerdán** A Dunától keletre keleties, a Dunántúlon délies légmozgás várható; az Alpokalján élénk széllökések is előfordulhatnak.\n\n• **Eső csütörtök estétől** A Charles ciklonhoz kapcsolódó csapadékzóna az előrejelzés szerint csütörtök este érheti el Magyarországot. Pénteken az ország nagy részén tartós eső várható: jellemzően 20–30 milliméter, északon és északkeleten helyenként akár 40 milliméter csapadék hullhat.\n\n• **A ciklon európai hatásai** Portugália és Spanyolország egyes részein a többnapos esőzés során 200 milliméter fölötti csapadék is összegyűlhet, a széllökések pedig elérhetik a 120–140 km/órát. Észak-Olaszországban és az Adria horvátországi partvidékén szintén intenzív esőzések várhatók.\n\n• **Hidegfront és lehűlés** A magyarországi csapadékrendszer mögött pénteken hidegfront vonul át, megerősödő északi széllel. A hétvégén lehűlés kezdődik.",
-    "importance_score": 38.0,
     "is_top_hero": false
   },
   {
@@ -2112,6 +2132,35 @@
     "title_hu": "Tiltakozók dobálták meg Ursula von der Leyen konvoját Várnában",
     "lead_hu": "Ursula von der Leyen bulgáriai látogatásán tüntetők tojással és zöldségekkel dobálták meg az őt szállító konvojt. A várnai programot a tervezettnél korábban befejezték.",
     "content_hu": "• **Tojással és zöldségekkel dobálták meg a konvojt** Ursula von der Leyen keddi várnai látogatásakor, amikor a járművek megérkeztek a haditengerészeti akadémiához.\n\n• **A demonstrálók Bulgária katonai szerepvállalása ellen tiltakoztak**, és bírálták az Ukrajnának nyújtott uniós támogatást, valamint az euró bevezetését.\n\n• **A látogatás a tervezettnél rövidebb lett:** a beszámoló szerint az eredetileg 24 órásra tervezett program három órára csökkent.",
+    "importance_score": 35.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_6e9250a51a",
+    "slug": "nagyszabasu-hadifogolycsererol-allapodott-meg-oros-6e9250",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Nagyszabású hadifogolycseréről állapodott meg Oroszország és Ukrajna az abu-dzabi béketárgyalásokon",
+        "link": "https://444.hu/2026/11/11/nagyszabasu-hadifogolycsererol-allapodott-meg-oroszorszag-es-ukrajna-az-abu-dzabi-beketargyalasokon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Folytatódtak az orosz–ukrán béketárgyalások, túszcserében is megyeztek a felek",
+        "link": "https://24.hu/kulfold/2026/11/11/oroszorszag-ukrajna-beketargyalasok-usa-tuszcsere/"
+      }
+    ],
+    "published_at": 1794400333,
+    "title_hu": "Nagyszabású hadifogolycseréről állapodott meg Oroszország és Ukrajna az abu-dzabi béketárgyalásokon",
+    "lead_hu": "A tárgyalásokon részt vevő Jared Kushner, Donald Trump veje „nagyon érdeminek” nevezte a megbeszéléseket, bár elismerte, hogy azok „meglehetősen nehezek” voltak.",
+    "content_hu": "A tárgyalásokon részt vevő Jared Kushner, Donald Trump veje „nagyon érdeminek” nevezte a megbeszéléseket, bár elismerte, hogy azok „meglehetősen nehezek” voltak.",
     "importance_score": 35.0,
     "is_top_hero": false
   },
@@ -3363,6 +3412,35 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_63b6d5119d",
+    "slug": "orbanek-titkos-kormanyhatarozatba-foglaltak-mennyi-63b6d5",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/9e16de7b-192d-4321-abd1-325fea7aae41-e1793983544193-1024x565.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Orbánék titkos kormányhatározatba foglalták, mennyit fizetnek Rahimkulovnak a World Aquatics-székházért, de valami közbejött",
+        "link": "https://24.hu/fn/gazdasag/2026/11/11/titkos-kormanyhatarozat-world-aquatics-rahimkulov/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "24.hu: titkos kormányhatározatban döntött az Orbán-kormány, mennyivel támogatják a World Aquatics-székház megépítését",
+        "link": "https://index.hu/gazdasag/2026/11/11/orban-kormany-rahimkulov-ruszlan-world-aquatics-lang-negyed-beruhazas-szekhaz-mnv-egyhazkerulet-havasi-bertalan/"
+      }
+    ],
+    "published_at": 1794373259,
+    "title_hu": "Orbánék titkos kormányhatározatba foglalták, mennyit fizetnek Rahimkulovnak a World Aquatics-székházért, de valami közbejött",
+    "lead_hu": "A dokumentum azt irányozta elő, hogy az állam megvesz egy két futballpályányi részt az egykori Láng Gépgyár területéből. The post Orbánék titkos kormányhatározatba foglalták, mennyit fizetnek Rahimkul…",
+    "content_hu": "A dokumentum azt irányozta elő, hogy az állam megvesz egy két futballpályányi részt az egykori Láng Gépgyár területéből. The post Orbánék titkos kormányhatározatba foglalták, mennyit fizetnek Rahimkulovnak a World Aquatics-székházért, de valami közbejött first appeared on 24.hu.",
+    "importance_score": 28.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_618754ef48",
     "slug": "elozetes-vizsgalat-indult-fegyelmi-eljaras-meg-nem-horvath-lorant-ugyeben-618754",
     "tags": [
@@ -3882,6 +3960,35 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_1ced6a60fb",
+    "slug": "okovacs-szerint-meg-80-millio-jar-neki-az-operahaz-1ced6a",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Ókovács szerint még 80 millió jár neki az Operaháztól",
+        "link": "https://444.hu/2026/11/10/okovacs-szerint-tovabbi-80-millioval-tartozik-neki-az-operahaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Ókovács Szilveszter állítja: 80 millió forint értékben dolgozott ingyen az Operaháznak",
+        "link": "https://nlc.hu/sztarok/20261111/okovacs-szilveszter-80-millio-ingyen-munka/bg2jwjn"
+      }
+    ],
+    "published_at": 1794325710,
+    "title_hu": "Ókovács szerint még 80 millió jár neki az Operaháztól",
+    "lead_hu": "Az Opera kirúgott igazgatója szerint a halmozott juttatások nem személy szerint neki, hanem „a pozícióhoz jártak.”",
+    "content_hu": "Az Opera kirúgott igazgatója szerint a halmozott juttatások nem személy szerint neki, hanem „a pozícióhoz jártak.”",
+    "importance_score": 20.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_400dcf3474",
     "slug": "kiadtak-a-riasztast-hatalmas-esozuhatag-kzelit-haz-400dcf",
     "tags": [
@@ -4095,6 +4202,54 @@
     "tags": [
       "politika"
     ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_4b7ef14273",
+    "slug": "sesztak-ugy-az-nvvh-is-reagalt-a-nyomkveto-kutya-miatt-kert-szakvelemenyre-4b7ef1",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261111/1794399485-temp-n4s01vr31eiffahfnag_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Seszták-ügy: az NVVH is reagált a nyomkövető kutya miatt kért szakvéleményre",
+        "link": "https://telex.hu/belfold/2026/11/11/nvvh-reakcio-sesztak-miklos-szakvelemeny-szef-nyomkoveto-kutya"
+      }
+    ],
+    "published_at": 1794403131,
+    "title_hu": "Seszták-ügy: az NVVH is reagált a nyomkövető kutya miatt kért szakvéleményre",
+    "lead_hu": "A nyomozóhatóság szerint a kriminálkinológus nem szakkérdésben, hanem jogkérdésben nyilatkozott. Rosszul....",
+    "content_hu": "A nyomozóhatóság szerint a kriminálkinológus nem szakkérdésben, hanem jogkérdésben nyilatkozott. Rosszul.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_016f0a15d2",
+    "slug": "a-keruletvezetok-tbbe-nem-hagynak-hogy-karacsony-nelkuluk-egyezkedjen-a-kormanny-016f0a",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/_/s/d-sos20260918003-2-868576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "A kerületvezetők többé nem hagynák, hogy Karácsony nélkülük egyezkedjen a kormánnyal",
+        "link": "https://www.portfolio.hu/gazdasag/20261111/a-keruletvezetok-tobbe-nem-hagynak-hogy-karacsony-nelkuluk-egyezkedjen-a-kormannyal-875784"
+      }
+    ],
+    "published_at": 1794403020,
+    "title_hu": "A kerületvezetők többé nem hagynák, hogy Karácsony nélkülük egyezkedjen a kormánnyal",
+    "lead_hu": "Baranyi Krisztinát, Ferencváros polgármesterét választotta társelnöknek Karácsony Gergely főpolgármester mellé a kerületi polgármestereket tömörítő Budapesti Önkormányzati Szövetség (BÖSZ) keddi tiszt...",
+    "content_hu": "Baranyi Krisztinát, Ferencváros polgármesterét választotta társelnöknek Karácsony Gergely főpolgármester mellé a kerületi polgármestereket tömörítő Budapesti Önkormányzati Szövetség (BÖSZ) keddi tisztújító ülésén. A szervezet egyúttal határozatban utasította el a Fővárosi Közfejlesztések Tanácsának (FKT) parkolási rendszerrel kapcsolatos korábbi döntéshozatalát, annak felülvizsgálatát kezdeményezte, és szeretnék elérni, hogy a fórum a jövőben kizárólag olyan javaslatokat tárgyaljon, amelyeket előzetesen a BÖSZ is véleményezhetett. A közleményből az is kiderült, hogy elmarad az FKT november 12-re tervezett ülése.",
+    "importance_score": 0.0,
     "is_top_hero": false
   },
   {
@@ -4670,30 +4825,6 @@
     "title_hu": "Élve került elő a kutyaszállító dobozban eltemetett csecsemő",
     "lead_hu": "Élve bukkantak rá az Egyesült Államokban egy kutyaszállító dobozban eltemetett kisbabára. A csöppség egy napot tölthetett a dobozban a föld alatt. The post Élve került elő a kutyaszállító dobozban elt…",
     "content_hu": "Élve bukkantak rá az Egyesült Államokban egy kutyaszállító dobozban eltemetett kisbabára. A csöppség egy napot tölthetett a dobozban a föld alatt. The post Élve került elő a kutyaszállító dobozban eltemetett csecsemő first appeared on nlc.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_6e9250a51a",
-    "slug": "nagyszabasu-hadifogolycsererol-allapodott-meg-oros-6e9250",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Nagyszabású hadifogolycseréről állapodott meg Oroszország és Ukrajna az abu-dzabi béketárgyalásokon",
-        "link": "https://444.hu/2026/11/11/nagyszabasu-hadifogolycsererol-allapodott-meg-oroszorszag-es-ukrajna-az-abu-dzabi-beketargyalasokon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794400333,
-    "title_hu": "Nagyszabású hadifogolycseréről állapodott meg Oroszország és Ukrajna az abu-dzabi béketárgyalásokon",
-    "lead_hu": "A tárgyalásokon részt vevő Jared Kushner, Donald Trump veje „nagyon érdeminek” nevezte a megbeszéléseket, bár elismerte, hogy azok „meglehetősen nehezek” voltak.",
-    "content_hu": "A tárgyalásokon részt vevő Jared Kushner, Donald Trump veje „nagyon érdeminek” nevezte a megbeszéléseket, bár elismerte, hogy azok „meglehetősen nehezek” voltak.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -10314,30 +10445,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_63b6d5119d",
-    "slug": "orbanek-titkos-kormanyhatarozatba-foglaltak-mennyi-63b6d5",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/9e16de7b-192d-4321-abd1-325fea7aae41-e1793983544193-1024x565.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Orbánék titkos kormányhatározatba foglalták, mennyit fizetnek Rahimkulovnak a World Aquatics-székházért, de valami közbejött",
-        "link": "https://24.hu/fn/gazdasag/2026/11/11/titkos-kormanyhatarozat-world-aquatics-rahimkulov/"
-      }
-    ],
-    "published_at": 1794373259,
-    "title_hu": "Orbánék titkos kormányhatározatba foglalták, mennyit fizetnek Rahimkulovnak a World Aquatics-székházért, de valami közbejött",
-    "lead_hu": "A dokumentum azt irányozta elő, hogy az állam megvesz egy két futballpályányi részt az egykori Láng Gépgyár területéből. The post Orbánék titkos kormányhatározatba foglalták, mennyit fizetnek Rahimkul…",
-    "content_hu": "A dokumentum azt irányozta elő, hogy az állam megvesz egy két futballpályányi részt az egykori Láng Gépgyár területéből. The post Orbánék titkos kormányhatározatba foglalták, mennyit fizetnek Rahimkulovnak a World Aquatics-székházért, de valami közbejött first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_d6358f5506",
     "slug": "nemzetegyesito-ero-lett-amerikaban-az-adatkzpontok-d6358f",
     "tags": [
@@ -13050,6 +13157,30 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_a1217cc113",
+    "slug": "a-fidesz-azonnal-leallitana-a-nyitott-aktak-oldalt-a1217c",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "A Fidesz azonnal leállítaná a Nyitott Akták oldalt",
+        "link": "https://www.vadhajtasok.hu/2026/11/10/a-fidesz-azonnal-leallitana-a-nyitott-aktak-oldalt"
+      }
+    ],
+    "published_at": 1794331020,
+    "title_hu": "A Fidesz azonnal leállítaná a Nyitott Akták oldalt",
+    "lead_hu": "Az ügynökakták nyilvánosságra hozatalának körülményeit vizsgáló parlamenti bizottság felállítását, a nyitottaktak.hu oldal azonnali leállítását és a történtek politikai felelősének megnevezését követe...",
+    "content_hu": "Az ügynökakták nyilvánosságra hozatalának körülményeit vizsgáló parlamenti bizottság felállítását, a nyitottaktak.hu oldal azonnali leállítását és a történtek politikai felelősének megnevezését követeli a Fidesz. Szentkirályi Alexandra orszá...",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_d83865adc4",
     "slug": "eu-orosz-befolyast-ellensulyozo-biztonsagi-kzpont--d83865",
     "tags": [
@@ -13886,30 +14017,6 @@
     "title_hu": "Ifjabb Lomnici Zoltán: Gombnyomásra, kézivezérléssel indulhatnak eljárások",
     "lead_hu": "Az alkotmányjogász elemezte az elmúlt időszak politikai leszámolásait.",
     "content_hu": "Az alkotmányjogász elemezte az elmúlt időszak politikai leszámolásait.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_1ced6a60fb",
-    "slug": "okovacs-szerint-meg-80-millio-jar-neki-az-operahaz-1ced6a",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Ókovács szerint még 80 millió jár neki az Operaháztól",
-        "link": "https://444.hu/2026/11/10/okovacs-szerint-tovabbi-80-millioval-tartozik-neki-az-operahaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794325710,
-    "title_hu": "Ókovács szerint még 80 millió jár neki az Operaháztól",
-    "lead_hu": "Az Opera kirúgott igazgatója szerint a halmozott juttatások nem személy szerint neki, hanem „a pozícióhoz jártak.”",
-    "content_hu": "Az Opera kirúgott igazgatója szerint a halmozott juttatások nem személy szerint neki, hanem „a pozícióhoz jártak.”",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -16070,30 +16177,6 @@
     "title_hu": "Kémkedés gyanújával vettek őrizetbe két ukrán férfit Lengyelországban",
     "lead_hu": "Oroszoknak kémkedhettek.",
     "content_hu": "Oroszoknak kémkedhettek.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_613ec87b67",
-    "slug": "penzmosasi-ugyben-idezik-be-tanukent-alekszandar-v-613ec8",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa937071-65a0-42b5-84c8-bfb2f00e3ba9.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Pénzmosási ügyben idézik be tanúként Alekszandar Vucsicsot",
-        "link": "https://hvg.hu/gazdasag/20261110_vucsics-szerbia-tanu-penzmosas"
-      }
-    ],
-    "published_at": 1794316851,
-    "title_hu": "Pénzmosási ügyben idézik be tanúként Alekszandar Vucsicsot",
-    "lead_hu": "Egy szerb lap azt állítja, hogy Alekszandar Vucsicsot emlegették fedőnéven, mint aki tud segíteni egy kábítószer-kereskedéshez köthető pénzmosási ügyben enyhébb ítéletet elérni.",
-    "content_hu": "Egy szerb lap azt állítja, hogy Alekszandar Vucsicsot emlegették fedőnéven, mint aki tud segíteni egy kábítószer-kereskedéshez köthető pénzmosási ügyben enyhébb ítéletet elérni.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
