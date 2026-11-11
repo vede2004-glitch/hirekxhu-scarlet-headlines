@@ -1782,46 +1782,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_61743e4088",
-    "slug": "csomagkezbesitokent-dolgozik-es-a-mediaba-keszul-vissza-lukacs-miki-61743e",
-    "tags": [
-      "lukacs-miki",
-      "rtl-reggeli",
-      "csomagkezbesites",
-      "media",
-      "mesterseges-intelligencia"
-    ],
-    "fingerprint": "2fe8eeddb30fbe69ac04243ba5d32d45",
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Csomagkézbesítőként dolgozik az RTL egykori műsorvezetője, Lukács Miki",
-        "link": "https://nlc.hu/eletmod/20261111/lukacs-miki-csomagkezbesito-allas/v3wrgxt"
-      },
-      {
-        "source": "Femina",
-        "title": "Az RTL Reggeli imádott műsorvezetője volt, ma csomagfutárként dolgozik: egyre kevesebb tévés felkérést kapott",
-        "link": "https://femina.hu/hazai_sztar/lukacs-miki-civil-munkaja/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Cvil munkát vállalt az RTL egykori műsorvezetője, Lukács Miki",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/11/lukacs-miki-foglalkozasa-civil-allas-csomagkezbesito-rtl-reggeli/"
-      }
-    ],
-    "published_at": 1794414055,
-    "title_hu": "Csomagkézbesítőként dolgozik, és a médiába készül vissza Lukács Miki",
-    "lead_hu": "Lukács Miki október eleje óta heti néhány napot csomagkézbesítéssel tölt egy barátja, a Magyar Posta alvállalkozójaként működő vállalkozásánál. A korábbi RTL-es műsorvezető szerint csökkent a médiás felkéréseinek száma, de január-februárban új szerepben visszatérhet a médiába.",
-    "content_hu": "• **Október elején kezdett csomagokat kézbesíteni** Lukács Miki egy barátja vállalkozásánál, amely a Magyar Posta alvállalkozója. Hetente néhány napot dolgozik, amikor az ideje engedi, és a munkát nem tekinti végleges pályaváltásnak.\n\n• **Öt éve távozott az RTL-től**, ahol a Reggeli műsorvezetője volt. Az elmúlt másfél évben kisfia, Máté születése után lassított a tempón, miközben kevesebb televíziós és rádiós felkérést kapott.\n\n• **Január-februárra tervezi a médiás visszatérést**, de az új munkahelyéről és szerepköréről egyelőre nem árult el részleteket. Annyit közölt, hogy ezúttal nem műsorvezetőként dolgozik majd.\n\n• **Az MI térnyerése miatt további munkacsökkenésre számít:** szerinte a technológia akár két éven belül kiválthatja a munkáját, és a szinkronszakmára is hatással lehet. Úgy látja, a mesterséges intelligencia már magyarul is képes megszólalni, és színészi hangokat utánozni.",
-    "importance_score": 38.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_da5d25cf65",
     "slug": "megszuntettek-a-nyomozast-a-plakatokra-uzeneteket-festo-tanitono-ugyeben-da5d25",
     "tags": [
@@ -2271,6 +2231,46 @@
     "title_hu": "Eltérő vélemények az Orbán-kormány szereplőinek felelősségre vonásáról",
     "lead_hu": "Két publicisztika az Orbán-kormány egykori tisztségviselőivel szembeni eljárásokról és a politikai elszámoltatásról fogalmaz meg álláspontot. Az egyik írás Orbán Áron rendőrségi előállítását is említi, a másik Orbán Viktor jövőbeli felelősségre vonását sürgeti.",
     "content_hu": "• **Több korábbi kormányzati szereplő őrizetbe került:** Az egyik cikk Hankó Balázs, Seszták Miklós és Matolcsy György letartóztatásáról, valamint Orbán Áron rendőrségi előállításáról ír.\n\n• **A jogállamiság kérdése is előkerül:** Az első publicisztika azt vizsgálja, hogy a kormányváltás miként függhet össze a korábbi tisztségviselőkkel szembeni eljárásokkal, és hangsúlyozza a pártatlan igazságszolgáltatás fontosságát.\n\n• **A másik szerző Orbán Viktor elszámoltatását sürgeti:** Véleménye szerint a volt miniszterelnök felelősségre vonásának is napirendre kell kerülnie; írásában a három korábbi tisztségviselő fogva tartását is megemlíti.",
+    "importance_score": 33.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_61743e4088",
+    "slug": "csomagkezbesitokent-dolgozik-es-a-mediaba-keszul-vissza-lukacs-miki-61743e",
+    "tags": [
+      "lukacs-miki",
+      "rtl-reggeli",
+      "csomagkezbesites",
+      "media",
+      "mesterseges-intelligencia"
+    ],
+    "fingerprint": "2fe8eeddb30fbe69ac04243ba5d32d45",
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Csomagkézbesítőként dolgozik az RTL egykori műsorvezetője, Lukács Miki",
+        "link": "https://nlc.hu/eletmod/20261111/lukacs-miki-csomagkezbesito-allas/v3wrgxt"
+      },
+      {
+        "source": "Femina",
+        "title": "Az RTL Reggeli imádott műsorvezetője volt, ma csomagfutárként dolgozik: egyre kevesebb tévés felkérést kapott",
+        "link": "https://femina.hu/hazai_sztar/lukacs-miki-civil-munkaja/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Cvil munkát vállalt az RTL egykori műsorvezetője, Lukács Miki",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/11/lukacs-miki-foglalkozasa-civil-allas-csomagkezbesito-rtl-reggeli/"
+      }
+    ],
+    "published_at": 1794414055,
+    "title_hu": "Csomagkézbesítőként dolgozik, és a médiába készül vissza Lukács Miki",
+    "lead_hu": "Lukács Miki október eleje óta heti néhány napot csomagkézbesítéssel tölt egy barátja, a Magyar Posta alvállalkozójaként működő vállalkozásánál. A korábbi RTL-es műsorvezető szerint csökkent a médiás felkéréseinek száma, de január-februárban új szerepben visszatérhet a médiába.",
+    "content_hu": "• **Október elején kezdett csomagokat kézbesíteni** Lukács Miki egy barátja vállalkozásánál, amely a Magyar Posta alvállalkozója. Hetente néhány napot dolgozik, amikor az ideje engedi, és a munkát nem tekinti végleges pályaváltásnak.\n\n• **Öt éve távozott az RTL-től**, ahol a Reggeli műsorvezetője volt. Az elmúlt másfél évben kisfia, Máté születése után lassított a tempón, miközben kevesebb televíziós és rádiós felkérést kapott.\n\n• **Január-februárra tervezi a médiás visszatérést**, de az új munkahelyéről és szerepköréről egyelőre nem árult el részleteket. Annyit közölt, hogy ezúttal nem műsorvezetőként dolgozik majd.\n\n• **Az MI térnyerése miatt további munkacsökkenésre számít:** szerinte a technológia akár két éven belül kiválthatja a munkáját, és a szinkronszakmára is hatással lehet. Úgy látja, a mesterséges intelligencia már magyarul is képes megszólalni, és színészi hangokat utánozni.",
     "importance_score": 33.0,
     "is_top_hero": false
   },
@@ -2899,40 +2899,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_d5d101c9ab",
-    "slug": "szervezeti-gondokat-es-belso-feszultsegeket-lat-a-tiszanal-a-republikon-kutatoja-d5d101",
-    "tags": [
-      "tisza-part",
-      "schlanger-marton",
-      "republikon",
-      "magyar-peter"
-    ],
-    "fingerprint": "7ae2ce7c84ae16bb380ad53b30af59e7",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/zsj3JB-2N0OB2ck7TdysTRPNwrs64L0PwS6FuQRk3t4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FhNDIxNDBkMGEyZTRlNTFiZTNiMzdmNTdhZjAzYmM2.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "„A Tisza Párt egy harmincfős valami” – identitásválságról és elkerülhetetlen szakadásokról beszélt a Republikon kutatója",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/a-tisza-part-egy-harmincfos-valami-identitasvalsagrol-es-elkerulhetetlen-szakadasokrol-beszelt-a-republikon-kutatoja?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Republikon kutatója szerint a Tisza egy harmincfős valami",
-        "link": "https://www.vadhajtasok.hu/2026/11/11/republikon-kutatoja-szerint-a-tisza-egy-harmincfos-valami"
-      }
-    ],
-    "published_at": 1794413774,
-    "title_hu": "Szervezeti gondokat és belső feszültségeket lát a Tiszánál a Republikon kutatója",
-    "lead_hu": "Schlanger Márton, a Republikon Intézet kutatója a Magyar Közöny november 9-i műsorában a Tisza Párt gyors növekedéséről és szervezeti működéséről beszélt. Szerinte a párton belül később nézetkülönbségek és szakítások is kialakulhatnak.",
-    "content_hu": "• **A párt szervezeti mérete** Schlanger úgy jellemezte a Tiszát, hogy a politikai közösség működése jelenleg egy nagyjából harmincfős központra épül, miközben a választói támogatása ennél jóval szélesebb.\n\n• **A gyors növekedés következményei** A kutató szerint a párt bővülése során több szervezetfejlesztési lépés elmaradhatott, a Tisza-szigetek pedig identitáskereséssel küzdenek.\n\n• **Átláthatósági kérdések** A műsorvezető a párton belüli döntéshozatalról, a személyi kiválasztásról és az intézményi kinevezésekről is információhiányt említett.\n\n• **Várható belső viták** Schlanger szerint a különböző politikai nézeteket képviselő csoportok együttműködése nehézségekbe ütközhet, ezért a jövőben kisebb-nagyobb törések is bekövetkezhetnek.",
-    "importance_score": 28.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_e46fd791b1",
     "slug": "november-15-en-tavozik-vadasz-daniel-a-csokonai-elerol-e46fd7",
     "tags": [
@@ -3203,6 +3169,40 @@
     "lead_hu": "A Szerencsejáték Service Nonprofit Kft. 2026. április 13. óta nem hozott új támogatási döntést. A társaság vezetésében ősszel változás történt, az anyacég közlése szerint pedig a folyamatban lévő szerződések áttekintése még tart.",
     "content_hu": "• **A támogatások szünetelnek:** A Szerencsejáték Zrt. közlése szerint leányvállalata 2026. április 13. óta nem döntött új szponzorációs támogatásokról.\n\n• **Vezetőcsere történt:** A Szerencsejáték Zrt. vezérigazgatói posztját október 27-én Sólyom Zoltán vette át. A Szerencsejáték Service Nonprofit Kft. korábbi ügyvezetője, Bozóky Anita október 21-én távozott, utódja Váradi Bence György lett.\n\n• **Átvilágítás zajlik:** Az anyacég tájékoztatása alapján a menedzsment megkezdte a folyamatban lévő szerződések felülvizsgálatát, amely még nem zárult le.",
     "importance_score": 25.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_d5d101c9ab",
+    "slug": "szervezeti-gondokat-es-belso-feszultsegeket-lat-a-tiszanal-a-republikon-kutatoja-d5d101",
+    "tags": [
+      "tisza-part",
+      "schlanger-marton",
+      "republikon",
+      "magyar-peter"
+    ],
+    "fingerprint": "7ae2ce7c84ae16bb380ad53b30af59e7",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/zsj3JB-2N0OB2ck7TdysTRPNwrs64L0PwS6FuQRk3t4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FhNDIxNDBkMGEyZTRlNTFiZTNiMzdmNTdhZjAzYmM2.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "„A Tisza Párt egy harmincfős valami” – identitásválságról és elkerülhetetlen szakadásokról beszélt a Republikon kutatója",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/a-tisza-part-egy-harmincfos-valami-identitasvalsagrol-es-elkerulhetetlen-szakadasokrol-beszelt-a-republikon-kutatoja?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Republikon kutatója szerint a Tisza egy harmincfős valami",
+        "link": "https://www.vadhajtasok.hu/2026/11/11/republikon-kutatoja-szerint-a-tisza-egy-harmincfos-valami"
+      }
+    ],
+    "published_at": 1794413774,
+    "title_hu": "Szervezeti gondokat és belső feszültségeket lát a Tiszánál a Republikon kutatója",
+    "lead_hu": "Schlanger Márton, a Republikon Intézet kutatója a Magyar Közöny november 9-i műsorában a Tisza Párt gyors növekedéséről és szervezeti működéséről beszélt. Szerinte a párton belül később nézetkülönbségek és szakítások is kialakulhatnak.",
+    "content_hu": "• **A párt szervezeti mérete** Schlanger úgy jellemezte a Tiszát, hogy a politikai közösség működése jelenleg egy nagyjából harmincfős központra épül, miközben a választói támogatása ennél jóval szélesebb.\n\n• **A gyors növekedés következményei** A kutató szerint a párt bővülése során több szervezetfejlesztési lépés elmaradhatott, a Tisza-szigetek pedig identitáskereséssel küzdenek.\n\n• **Átláthatósági kérdések** A műsorvezető a párton belüli döntéshozatalról, a személyi kiválasztásról és az intézményi kinevezésekről is információhiányt említett.\n\n• **Várható belső viták** Schlanger szerint a különböző politikai nézeteket képviselő csoportok együttműködése nehézségekbe ütközhet, ezért a jövőben kisebb-nagyobb törések is bekövetkezhetnek.",
+    "importance_score": 23.0,
     "is_top_hero": false
   },
   {
