@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_b0fb3ab1b4",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Idén már nem fogják vetíteni karácsonykor a Reszkessetek betörők-filmeket a TV2-n, másik csatornán nézhetjük Kevin kalandjait",
-        "link": "https://www.atv.hu/egyeb/20261110/reszkessetek-betorok-tv2-rtl/",
-        "image": "https://www.youtube.com/embed/MkwZcZJDAXg",
-        "summary": "Ne is keressük majd a TV2-n a Reszkessetek betörők-filmeket.",
-        "category": "Bulvár",
-        "published_at": 1794279840
-      }
-    ]
-  },
-  {
     "group_id": "group_f70206b134",
     "category": "Kultúra",
     "articles_count": 1,
@@ -28,22 +12,6 @@
         "summary": "Egy űrhajónak nem elég eljutnia a világűrbe: a visszatéréskor olyan hőterhelést kell kibírnia, amelynek túléléséhez a megfelelő aerodinamikai kialakítás és a speciális hővédelem egyaránt nélkülözhetetlen.",
         "category": "Kultúra",
         "published_at": 1794283395
-      }
-    ]
-  },
-  {
-    "group_id": "group_32f013681d",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "A bíróság döntött: soha ne zárd be az ajtót éjszakára",
-        "link": "https://nlc.hu/eletmod/20261110/bejarati-ajto-ejszaka/fr8zkkz",
-        "image": "",
-        "summary": "Sokan automatikusan kulcsra zárják a társasház bejárati ajtaját éjszakára, hogy megakadályozzák a betöréseket. Egy német bírósági döntés azonban arra figyelmeztet, hogy ez a szokás akár emberéleteket is veszélyeztethet. The post A bíróság döntött: soha ne zárd be az ajtót éjszakára first appeared on nlc.",
-        "category": "Politika",
-        "published_at": 1794280020
       }
     ]
   },
@@ -11560,6 +11528,38 @@
         "summary": "Várkonyi Andrea a férjével és a lányával vett részt a Hogyan tudnék élni nélküled? 2. díszbemutatóján. The post Várkonyi Andrea és Mészáros Lőrinc is megjelent a Hogyan tudnék élni nélküled? 2. díszbemutatóján first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794364800
+      }
+    ]
+  },
+  {
+    "group_id": "group_a4b4152103",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Menet közben rátámadt a buszsofőrre az agresszív férfi: döbbenet, mitől pöccent be",
+        "link": "https://www.atv.hu/belfold/20261111/busz-agressziv-rendor-sofor/",
+        "image": "",
+        "summary": "Elfogták azt a 31 éves férfit, aki Sárvár és Bögöte között közlekedő helyközi autóbuszon támadt rá a jármű vezetőjére.",
+        "category": "Általános",
+        "published_at": 1794366240
+      }
+    ]
+  },
+  {
+    "group_id": "group_9271a8e807",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Lehetett-e fejlett civilizáció a Földön az ember előtt? Különös megállapításra jutott egy szokatlan gondolatkísérlet",
+        "link": "https://raketa.hu/sziluuri-hipotezis-osi-civilizacio-nyomai-geologia/",
+        "image": "https://raketa.hu/uploads/2026/11/earth.jpg",
+        "summary": "Vajon a mai emberiség az első technológiai faj a Földön, vagy sok millió évvel előttünk már létezett egy ipari civilizáció, amelynek emlékeit szinte teljesen eltüntette az idő és a bolygó emlékezete?",
+        "category": "Kultúra",
+        "published_at": 1794366507
       }
     ]
   }
