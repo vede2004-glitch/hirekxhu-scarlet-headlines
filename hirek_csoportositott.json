@@ -2,7 +2,7 @@
   {
     "group_id": "group_f69ae3456e",
     "category": "Politika",
-    "articles_count": 21,
+    "articles_count": 22,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -192,6 +192,15 @@
         "summary": "Magyar Péter havi 600 ezer forintot fizet Varga Juditnak, noha erre a bíróság nem kötelezte.",
         "category": "Politika",
         "published_at": 1794414787
+      },
+      {
+        "source": "Hír TV",
+        "title": "Gyermektartásdíj: Varga Judit személyes mondatára Magyar Péter is reagált",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/gyermektartasdij-varga-judit-magyar-peter",
+        "image": "https://cdn.hirtv.hu/2026/11/ynpXhSccF7Vklc97Y2w9U-XZUmsjX9ovdl4SAWOUvwQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM1OGM3MjdkOTdhYzRjYWY5ZGVhMzc1NjY4NmUwNmQ2.webp",
+        "summary": "Varga Judit a tartásdíjról beszélt, Magyar Péter is reagált.",
+        "category": "Politika",
+        "published_at": 1794417979
       }
     ]
   },
@@ -258,56 +267,6 @@
         "summary": "A miniszter kiemelte, négy megye vízellátásához járul hozzá a csatorna.",
         "category": "Politika",
         "published_at": 1794332040
-      }
-    ]
-  },
-  {
-    "group_id": "group_b3d860d69e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Éleződik a francia–iráni konfliktus, elindult a diplomáciai adok-kapok a meghackelt hűtők ügyében",
-        "link": "https://index.hu/kulfold/2026/11/10/franciaorszag-huto-meghibasodas-kibertamadas-iran-reakcio/",
-        "image": "https://kep.index.hu/1/0/7250/72508/725088/72508803_5343041_e54c06298ae1a9783b62f707de0135f7_wm.jpg",
-        "summary": "Párizs bekérette az iráni nagykövetet.",
-        "category": "Általános",
-        "published_at": 1794331740
-      }
-    ]
-  },
-  {
-    "group_id": "group_f839a663ab",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "„A házigazdák értékelték” – Magyar Péter nem hagyta szó nélkül a német kiejtését ért kritikákat",
-        "link": "https://index.hu/belfold/2026/11/10/magyar-peter-berlin-nemet-beszed-deak-daniel-deutch-tamas/",
-        "image": "https://kep.index.hu/1/0/7250/72509/725094/72509439_5343087_fc95870dc6aa24bac53b995f8bf7e4a6_wm.jpg",
-        "summary": "A miniszterelnök 50 perces beszédet tartott Berlinben német nyelven.",
-        "category": "Politika",
-        "published_at": 1794331560
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Rovar úr fölszólította Magyarországot: az én németem gut! A németeknek bejött!",
-        "link": "https://www.vadhajtasok.hu/2026/11/10/rovar-ur-folszolitotta-magyarorszagot-az-en-nemetem-gut-a-nemeteknek-bejott",
-        "image": "",
-        "summary": "A semmilyen idegen nyelven nem beszélő megmondóemberek kritizálták az 50 perces német beszédemben hallott akcentust. Szerencsére a német házigazdák értékelték, hogy az ünnepükön az anyanyelvükön beszéltemUnd es ist gut so.- írta a rovar.",
-        "category": "Politika",
-        "published_at": 1794334620
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Magyar Péter keményen visszaszólt a német kiejtésén gúnyolódóknak",
-        "link": "https://nlc.hu/eletmod/20261111/magyar-peter-nemet-kiejtes/48mtz78",
-        "image": "",
-        "summary": "Reagált a bírálatokra Magyar Péter. Kiosztotta a német kiejtésén élcelődőket. The post Magyar Péter keményen visszaszólt a német kiejtésén gúnyolódóknak first appeared on nlc.",
-        "category": "Politika",
-        "published_at": 1794369780
       }
     ]
   },
@@ -748,6 +707,31 @@
         "summary": "Az amerikai elnök ugyanakkor leszögezte, a perzsa állam nem juthat atomfegyverhez.",
         "category": "Politika",
         "published_at": 1794343620
+      }
+    ]
+  },
+  {
+    "group_id": "group_f839a663ab",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr fölszólította Magyarországot: az én németem gut! A németeknek bejött!",
+        "link": "https://www.vadhajtasok.hu/2026/11/10/rovar-ur-folszolitotta-magyarorszagot-az-en-nemetem-gut-a-nemeteknek-bejott",
+        "image": "",
+        "summary": "A semmilyen idegen nyelven nem beszélő megmondóemberek kritizálták az 50 perces német beszédemben hallott akcentust. Szerencsére a német házigazdák értékelték, hogy az ünnepükön az anyanyelvükön beszéltemUnd es ist gut so.- írta a rovar.",
+        "category": "Politika",
+        "published_at": 1794334620
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Magyar Péter keményen visszaszólt a német kiejtésén gúnyolódóknak",
+        "link": "https://nlc.hu/eletmod/20261111/magyar-peter-nemet-kiejtes/48mtz78",
+        "image": "",
+        "summary": "Reagált a bírálatokra Magyar Péter. Kiosztotta a német kiejtésén élcelődőket. The post Magyar Péter keményen visszaszólt a német kiejtésén gúnyolódóknak first appeared on nlc.",
+        "category": "Politika",
+        "published_at": 1794369780
       }
     ]
   },
@@ -12281,6 +12265,22 @@
         "summary": "Örök sötétség, dermesztő hideg és elképesztő nyomás. A Mariana-árok mélyén mégis különös élőlényekkel találkozhatunk.",
         "category": "Bulvár",
         "published_at": 1794417600
+      }
+    ]
+  },
+  {
+    "group_id": "group_cdbc8c88aa",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt Orbán Áron üzlettársának ügyvédje: A korlátozás érdemben nem változtat a helyzetén",
+        "link": "https://index.hu/belfold/2026/11/11/orban-aron-uzlettars-ugyved-birosag-letartoztatas-orizet/",
+        "image": "https://kep.index.hu/1/0/7252/72521/725218/72521887_5343919_a51b276787943e21aa72bc1637b35b47_wm.jpg",
+        "summary": "Lakatos Ádám szerint a nyomozási bíró gyakorlatilag elutasította az ügyészség indítványát.",
+        "category": "Politika",
+        "published_at": 1794417780
       }
     ]
   }
