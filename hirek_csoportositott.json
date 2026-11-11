@@ -57,72 +57,6 @@
     ]
   },
   {
-    "group_id": "group_8141e7e13a",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Tasó László beperelt egy férfit egy mesterséges intelligenciával készült dal miatt",
-        "link": "https://index.hu/belfold/2026/11/10/taso-laszlo-fidesz-volt-kepviselo-per-mesterseges-intelligencia-dal/",
-        "image": "https://kep.index.hu/1/0/6913/69135/691351/69135199_5102515_16d8ea124cb9ef1e777a1eec643ff79b_wm.jpg",
-        "summary": "A politikus rágalmazás és kegyeletsértés miatt tett feljelentést.",
-        "category": "Politika",
-        "published_at": 1794291900
-      }
-    ]
-  },
-  {
-    "group_id": "group_b4184da9ee",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Légi csapás érte Szaúd-Arábiát, ballisztikus rakétát lőttek ki a fővárosra",
-        "link": "https://index.hu/kulfold/2026/11/10/szaud-arabia-rijad-robbantas-ballisztikus-raketa-jemeni-huszik/",
-        "image": "",
-        "summary": "A lakosságot üzenetben értesítették.",
-        "category": "Általános",
-        "published_at": 1794291780
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Légicsapás érte Szaúd-Arábiát, ballisztikus rakétával lőtték a fővárost",
-        "link": "https://www.vadhajtasok.hu/2026/11/10/legi-csapas-erte-szaud-arabiat-ballisztikus-raketaval-lottek-a-fovarost",
-        "image": "",
-        "summary": "Figyelmeztető üzeneteket kaptak a lakosok.",
-        "category": "Politika",
-        "published_at": 1794300120
-      }
-    ]
-  },
-  {
-    "group_id": "group_73d57c78c8",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Magyar Péter döntött: az éjszaka közepén kinevezte a legfontosabb magyar titkosszolgálat új vezetőjét – Rogán Antal felügyelte korábban a szervezetet",
-        "link": "https://www.vg.hu/kozelet/2026/11/magyar-peter-nemzeti-informacios-kozpont-orosz-laszlo-magyar-kozlony?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/-g_dMZzQ9BLOqCsoym7rrVV-ivzAlzc6gJrbtGgSfXw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg5MTAxMmJmZDJmOTQ4MDJhZmE1OWZjNTRlZWY2YmQx.jpg",
-        "summary": "Orosz László Péter lett a Nemzeti Információs Központ új főigazgatója. Magyar Péter miniszterelnök november 10-i hatállyal nevezte ki a titkosszolgálati csúcsszerv vezetőjét.",
-        "category": "Politika",
-        "published_at": 1794291777
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Rovar úr új vezetőt nevezett ki a magyar titkosszolgálati csúcsszerv élére",
-        "link": "https://www.vadhajtasok.hu/2026/11/10/rovar-ur-uj-vezetot-nevezett-ki-a-magyar-titkosszolgalati-csucsszerv-elere",
-        "image": "",
-        "summary": "Orosz László Péter kinevezésével a kormány megerősítette a Nemzeti Információs Központ vezetői megbízatását.",
-        "category": "Politika",
-        "published_at": 1794297000
-      }
-    ]
-  },
-  {
     "group_id": "group_0ddcb5f5a0",
     "category": "Politika",
     "articles_count": 38,
@@ -1123,6 +1057,22 @@
     ]
   },
   {
+    "group_id": "group_73d57c78c8",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr új vezetőt nevezett ki a magyar titkosszolgálati csúcsszerv élére",
+        "link": "https://www.vadhajtasok.hu/2026/11/10/rovar-ur-uj-vezetot-nevezett-ki-a-magyar-titkosszolgalati-csucsszerv-elere",
+        "image": "",
+        "summary": "Orosz László Péter kinevezésével a kormány megerősítette a Nemzeti Információs Központ vezetői megbízatását.",
+        "category": "Politika",
+        "published_at": 1794297000
+      }
+    ]
+  },
+  {
     "group_id": "group_25e9b78ee5",
     "category": "Általános",
     "articles_count": 2,
@@ -1747,6 +1697,22 @@
         "summary": "A kormányzati tájékoztatás hiányosságaira figyelmeztet a MÚOSZ.",
         "category": "Politika",
         "published_at": 1794297286
+      }
+    ]
+  },
+  {
+    "group_id": "group_b4184da9ee",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Légicsapás érte Szaúd-Arábiát, ballisztikus rakétával lőtték a fővárost",
+        "link": "https://www.vadhajtasok.hu/2026/11/10/legi-csapas-erte-szaud-arabiat-ballisztikus-raketaval-lottek-a-fovarost",
+        "image": "",
+        "summary": "Figyelmeztető üzeneteket kaptak a lakosok.",
+        "category": "Politika",
+        "published_at": 1794300120
       }
     ]
   },
@@ -11624,7 +11590,7 @@
         "image": "https://raketa.hu/uploads/2026/11/2Connect-NOC_108.jpg",
         "summary": "Benéztünk Magyarország láthatatlan, 0–24-ben működő digitális központjába, ahol 42 ezer kilométernyi optikai idegszálat felügyelnek, és ahol az a legnagyobb siker, ha nem történik semmi.",
         "category": "Kultúra",
-        "published_at": 1794378149
+        "published_at": 1794378564
       }
     ]
   },
@@ -11737,6 +11703,22 @@
         "summary": "Van, aki ilyenkor listákat ír, van, aki takarítani kezd, és olyan is akad, aki egy időre eltűnik a világ elől. A stresszt mindenki másképp kezeli – de vajon te melyik típusba tartozol? The post Kvíz: Magas az EQ-d, ha stresszhelyzetben is jól reagálsz first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794377400
+      }
+    ]
+  },
+  {
+    "group_id": "group_2a4df2d484",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Ha hivatást szeretnél, ne karrierben gondolkodj",
+        "link": "https://444.hu/2026/11/11/ha-hivatast-szeretnel-ne-karrierben-gondolkodj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Miért csapda a work-life balance? A Saját Tőke podcast soron következő adásában Orbán Krisztián és Nagy Tamás beszélgetnek karrierről, hivatásról, külföldi munkáról és a fiatalok pályaválasztásáról.",
+        "category": "Politika",
+        "published_at": 1794378047
       }
     ]
   }
