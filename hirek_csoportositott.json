@@ -152,88 +152,6 @@
     ]
   },
   {
-    "group_id": "group_3afe1a93b9",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Változásokat követelnek az előadóművészek jogaiért, ötpilléres életpályamodellt javasolnak",
-        "link": "https://index.hu/kultur/2026/11/10/eloadomuvesz-jogvedelem-eji-javaslatcsomag/",
-        "image": "",
-        "summary": "Átfogó javaslatcsomagot dolgoztak ki.",
-        "category": "Általános",
-        "published_at": 1794317820
-      }
-    ]
-  },
-  {
-    "group_id": "group_9f4b484253",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Nekilátott az átvilágításnak a HUN-REN új vezetése",
-        "link": "https://telex.hu/techtud/2026/11/10/hun-ren-uj-vezetes-atvilagitas",
-        "image": "https://assets.telex.hu/images/20261110/1794316572-temp-sm1vnr32kq12ajlfkbo_cimlap-normal.jpg",
-        "summary": "Azt ígérik, hogy az audit alapján hozott intézkedések biztosíthatják a transzparens működést és a közpénzek hatékony, a korábbinál takarékosabb felhasználását.",
-        "category": "Politika",
-        "published_at": 1794318113
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Teljesen átvilágítja a HUN-REN-t az új vezetőség",
-        "link": "https://hvg.hu/itthon/20261110_hun-ren-atvilagitas-allami-kutatohalozat",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a07c13e4-97dd-4ae4-9ca8-212f6db0faf0.jpg",
-        "summary": "Az állami kutatóhálózat korábban Hankó Balázs felügyelete alatt működött.",
-        "category": "Politika",
-        "published_at": 1794324246
-      }
-    ]
-  },
-  {
-    "group_id": "group_9e91e90302",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Ezzel az erővel a telefonkönyvet is nyilvánosságra hozhatták volna – már Pottyondy Edinánál is betelt a pohár, nekiment a Tiszának az ügynökbotrány miatt",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/ezzel-az-erovel-a-telefonkonyvet-is-nyilvanossagra-hozhattak-volna-mar-pottyondy-edinanal-is-betelt-a-pohar-nekiment-a-tiszanak-az-ugynokbotrany-miatt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/JxX4rj2JeZfjdXWeYkNC_v6r1liLEuUqduwYdQK_Mws/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUwOTY4NDBhODg3YjQ4ZmE4OTYwNTVhMDcyZjhkMGM4.jpg",
-        "summary": "Az influenszer számonkérte a politikai kapkodást is.",
-        "category": "Politika",
-        "published_at": 1794317812
-      }
-    ]
-  },
-  {
-    "group_id": "group_d47a0bb946",
-    "category": "Gazdaság",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Vizsgálat indul a Miniszterelnökség ellen, gyanús szerződésekre bukkantak",
-        "link": "https://index.hu/belfold/2026/11/10/nkoh-eljaras-miniszterelnokseg-p2m-szolgaltato/",
-        "image": "",
-        "summary": "A megrendelések értéke 142,1 millió forint volt.",
-        "category": "Gazdaság",
-        "published_at": 1794318120
-      },
-      {
-        "source": "ATV",
-        "title": "Vizsgálat indult a Miniszterelnökség ellen: aranyáras számlák és furcsa tanulmányok bukkantak fel",
-        "link": "https://www.atv.hu/belfold/20261110/nkoh-eljaras-p2m-miniszterelnokseg/",
-        "image": "",
-        "summary": "Gyanús tanácsadói megrendelések miatt kezdeményezett közbeszerzési jogorvoslati eljárásokat a Nemzeti Kommunikációs Hivatal (NKOH), miután felmerült a gyanú, hogy 2023 és 2026 között a Miniszterelnökség jogellenesen kiterjesztett szerződésekkel rendelt meg nettó 142,1 millió forint értékben tanulmányokat és elemzéseket a p2m cégektől.",
-        "category": "Gazdaság",
-        "published_at": 1794334740
-      }
-    ]
-  },
-  {
     "group_id": "group_2e988f490b",
     "category": "Általános",
     "articles_count": 1,
@@ -2320,6 +2238,22 @@
     ]
   },
   {
+    "group_id": "group_9f4b484253",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Teljesen átvilágítja a HUN-REN-t az új vezetőség",
+        "link": "https://hvg.hu/itthon/20261110_hun-ren-atvilagitas-allami-kutatohalozat",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a07c13e4-97dd-4ae4-9ca8-212f6db0faf0.jpg",
+        "summary": "Az állami kutatóhálózat korábban Hankó Balázs felügyelete alatt működött.",
+        "category": "Politika",
+        "published_at": 1794324246
+      }
+    ]
+  },
+  {
     "group_id": "group_b8314c8866",
     "category": "Politika",
     "articles_count": 1,
@@ -3582,6 +3516,22 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1794334870
+      }
+    ]
+  },
+  {
+    "group_id": "group_d47a0bb946",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Vizsgálat indult a Miniszterelnökség ellen: aranyáras számlák és furcsa tanulmányok bukkantak fel",
+        "link": "https://www.atv.hu/belfold/20261110/nkoh-eljaras-p2m-miniszterelnokseg/",
+        "image": "",
+        "summary": "Gyanús tanácsadói megrendelések miatt kezdeményezett közbeszerzési jogorvoslati eljárásokat a Nemzeti Kommunikációs Hivatal (NKOH), miután felmerült a gyanú, hogy 2023 és 2026 között a Miniszterelnökség jogellenesen kiterjesztett szerződésekkel rendelt meg nettó 142,1 millió forint értékben tanulmányokat és elemzéseket a p2m cégektől.",
+        "category": "Gazdaság",
+        "published_at": 1794334740
       }
     ]
   },
@@ -12040,6 +11990,70 @@
         "summary": "A rosszul száradt ruhákból gyakran még újabb mosás sem űzi el a szagot. Mutatjuk, mit érdemes kipróbálni, és mire kell figyelni, hogy a szag ne térjen vissza. The post Bebüdösödött ruhák ellen ez a módszer a leghatásosabb first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794403980
+      }
+    ]
+  },
+  {
+    "group_id": "group_6769fbb152",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Nehéz volt enyhíteni a vita hangnemét” – véget ért az orosz-ukrán háború lezárását célzó háromoldalú tárgyalások első köre Abu-Dzabiban",
+        "link": "https://24.hu/kulfold/2026/11/11/orosz-ukran-haboru-beketargyalasok-abu-dzabi/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2304031536-e1794404256111-1024x577.jpg",
+        "summary": "A felek pozitívan értékelték az első tárgylasi kört, ám az orosz delegáció vezetője így is kijelentette: „Minden talpalatnyi földünk visszatér Oroszországhoz. Így vagy úgy.” The post „Nehéz volt enyhíteni a vita hangnemét” – véget ért az orosz-ukrán háború lezárását célzó háromoldalú tárgyalások első köre Abu-Dzabiban first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1794404314
+      }
+    ]
+  },
+  {
+    "group_id": "group_a5d8fb2114",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Így szerezték meg Erdélyt a Habsburgok",
+        "link": "https://24.hu/tudomany/2026/11/11/zsiboi-csata-erdely-megszerzese/",
+        "image": "https://s.24.hu/app/uploads/2026/11/service-pnp-cph-3b10000-3b14000-3b14700-3b14719r-1-e1794404269187-1024x577.jpg",
+        "summary": "A zsibói csatának ugyan nem volt sok áldozata, mégis sorsdöntő ütközetnek bizonyult, amely tragikus következményekkel járt. The post Így szerezték meg Erdélyt a Habsburgok first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794404290
+      }
+    ]
+  },
+  {
+    "group_id": "group_88ff5c5bdb",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A győri kézicsapat edzője is reagált arra, hogy krízisben van az ETO",
+        "link": "https://24.hu/sport/2026/11/11/gyori-audi-eto-kc-krizis-per-johansson-kezilabda/",
+        "image": "https://s.24.hu/app/uploads/2026/11/johansson-1024x576.jpg",
+        "summary": "Per Johanssont Svédországban faggatták a klubnál kialakult helyzetről és a jövőjéről. The post A győri kézicsapat edzője is reagált arra, hogy krízisben van az ETO first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794404113
+      }
+    ]
+  },
+  {
+    "group_id": "group_bff27bbc0a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Varga Judit: „Ki fog ezért tőlem bocsánatot kérni?”",
+        "link": "https://24.hu/belfold/2026/11/11/varga-judit-ki-fog-ezert-tolem-bocsanatot-kerni/",
+        "image": "https://s.24.hu/app/uploads/2026/11/varga-judit-e1794400716593-1024x577.jpg",
+        "summary": "Platón Szókratész védőbeszédéből származó idézettel kezdte Varga Judit a megszólalását. The post Varga Judit: „Ki fog ezért tőlem bocsánatot kérni?” first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794403154
       }
     ]
   }
