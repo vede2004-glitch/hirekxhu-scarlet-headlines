@@ -277,22 +277,6 @@
     ]
   },
   {
-    "group_id": "group_c6036c6ed1",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Mérő Vera: Kovács Gergő nagyon jó barátom volt",
-        "link": "https://24.hu/kultura/2026/11/10/podcast-alany-allitmany-mero-vera-arulok/",
-        "image": "https://s.24.hu/app/uploads/2026/11/ill24_alanyallitmany_00_1105-1024x576.jpg",
-        "summary": "Árulók, Facebook és szólásszabadság, rendszerváltás, Kétfarkú Kutya Párt és a nők helyzete Magyarországon. Ezek a kulcsszavak az Alany-Állítmány második adásában. Vendégünk Mérő Vera. The post Mérő Vera: Kovács Gergő nagyon jó barátom volt first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794339416
-      }
-    ]
-  },
-  {
     "group_id": "group_1805e3f466",
     "category": "Általános",
     "articles_count": 1,
@@ -305,22 +289,6 @@
         "summary": "A mesterséges intelligencia térnyerése még tovább növelheti a társadalmi egyenlőtlenségeket.",
         "category": "Általános",
         "published_at": 1794339840
-      }
-    ]
-  },
-  {
-    "group_id": "group_91997671ff",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Bemutat a tepsifonoknak ez a kompakt mobil, és még az akkumulátora is cserélhető!",
-        "link": "https://index.hu/tech/cellanaplo/2026/11/10/enough-phone-kompakt-okostelefon-kickstarter/",
-        "image": "https://kep.index.hu/1/0/7245/72453/724537/72453701_5339175_6710ae76a2f25ff79afdb3209e1d3b3f_wm.jpg",
-        "summary": "A Kickstarteren tűnt fel az Enough Phone – kérdés, hogy meg is valósul-e.",
-        "category": "Általános",
-        "published_at": 1794339780
       }
     ]
   },
@@ -363,7 +331,7 @@
         "image": "",
         "summary": "Havasi Bertalan szerint Friedrich Merz világossá tette Magyar Péternek, hogy tőle kell vásárolni LNG-t az orosz gáz helyett, illetve, hogy Magyarország sem kaphat mentességet Ukrajna pénzügyi támogatása alól. A volt miniszterelnök titkárságá...",
         "category": "Politika",
-        "published_at": 1794355200
+        "published_at": 1794418260
       }
     ]
   },
@@ -12315,6 +12283,86 @@
         "summary": "Az ilyen találkozások különleges üzeneteket hordozhatnak.",
         "category": "Bulvár",
         "published_at": 1794425400
+      }
+    ]
+  },
+  {
+    "group_id": "group_003f6bb7f4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Gajdos László szerint a megbüntetett akkugyárak rájöttek, hogy fel kell venni a tempót, mert különben nem tudnak termelni",
+        "link": "https://telex.hu/belfold/2026/11/11/gajdos-laszlo-atv-interju-nemzeti-parkok-erdosites-vizmegtartas",
+        "image": "https://assets.telex.hu/images/20261111/1794425582-temp-0r63qijdn00b4dbogjk_cimlap-normal.jpg",
+        "summary": "Az ATV műsorában az élő környezetért felelős miniszter azt is mondta, hogy nem normális fa elégetésével áramot termelni.",
+        "category": "Politika",
+        "published_at": 1794425954
+      }
+    ]
+  },
+  {
+    "group_id": "group_42c27a58c6",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Valóban részeg volt a sofőr, aki egy 20 éves egyetemista halálát okozta Nyíregyházán",
+        "link": "https://hvg.hu/itthon/20261111_halalos-baleset-reszeg-sofor-letartoztatas-nyiregyhaza",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/726cc8b4-24d0-4ff0-af6f-cd9804ae3e91.jpg",
+        "summary": "A bíróság elrendelte a férfi letartóztatását.",
+        "category": "Politika",
+        "published_at": 1794426000
+      }
+    ]
+  },
+  {
+    "group_id": "group_551351ee2f",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Magyar Péter és a pokol",
+        "link": "https://www.vadhajtasok.hu/2026/11/11/magyar-peter-es-a-pokol",
+        "image": "",
+        "summary": "Pilhál Tamás írása a Magyar Nemzeten.",
+        "category": "Politika",
+        "published_at": 1794426203
+      }
+    ]
+  },
+  {
+    "group_id": "group_b6df467a0f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Svédországban lett vezetőedző Lőrincz Ábel",
+        "link": "https://24.hu/sport/foci/2026/11/11/allsvenskan-djurgarden-lorincz-abel/",
+        "image": "https://s.24.hu/app/uploads/2026/11/lorinczabel-e1794425832364-1024x576.jpg",
+        "summary": "Két mérkőzést kap. The post Svédországban lett vezetőedző Lőrincz Ábel first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794425955
+      }
+    ]
+  },
+  {
+    "group_id": "group_6cf0855157",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Vitézy Dávid szerda este bejelentette a ferihegyi gyorsforgalmi út teljes átépítését: még a látványtervet is megmutatta, így fog kinézni – 300 ingatlant sajátít ki az állam",
+        "link": "https://www.vg.hu/kozelet/2026/11/vitezy-david-ferihegyi-gyorsforgalmi-ut-atepites-tisza?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/a1kS4WVqRMtkdt5Pk85IYrmoCqiXdN77duOib9YnNyg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RjZWYwNDE1NTJiNDQ2MDdhOWJkMDhiZmI3NDNjMzQ2.jpg",
+        "summary": "Több mint tíz év ígérgetés után a Tisza-kormány elindítja a ferihegyi gyorsforgalmi út átépítésének előkészítését.",
+        "category": "Politika",
+        "published_at": 1794425815
       }
     ]
   }
