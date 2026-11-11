@@ -35,6 +35,9 @@ RSS_FEEDS = {
     "Konfront": "https://konfront.hu/feed",
     "Hír TV": "https://hirtv.origo.hu/publicapi/hu/rss/hirtv/articles",
     "24.hu - Legfrissebb": "https://24.hu/feed/",
+    "Infostart": "https://infostart.hu/rss",
+    "RTL.hu": "https://rtl.hu/rss/belfold",
+    "Ellenpólus": "https://ellenpolus.hu/feed/",
 
     # --- ORIGO ---
     "Origo - Címlap": "https://www.origo.hu/rss/origo.xml",
@@ -53,7 +56,7 @@ RSS_FEEDS = {
     "Világgazdaság": "https://www.vg.hu/feed",
 
     # --- SPORT ---
-    "Nemzeti Sport": "https://www.nemzetisport.hu/rss/nemzetisport.xml",
+    "Nemzeti Sport": "https://www.nemzetisport.hu/rss",
     "M4 Sport": "https://m4sport.hu/feed/",
     "24.hu - Sport": "https://24.hu/sport/feed/",
 
