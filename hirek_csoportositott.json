@@ -179,58 +179,6 @@
     ]
   },
   {
-    "group_id": "group_3d8610d2c7",
-    "category": "Politika",
-    "articles_count": 5,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Trump szerint az FBI is vizsgálja az Nvidia-vezér és a kínai kémnő viszonyát",
-        "link": "https://telex.hu/kulfold/2026/11/10/donald-trump-fbi-nyomoz-jensen-huang-viszony-kinai-kemno-nvidia",
-        "image": "https://assets.telex.hu/images/20261110/1794291428-temp-skk3urpdfrk9dbogdmn_cimlap-normal.jpg",
-        "summary": "Az amerikai elnök hétfőn felhívta Jensen Huangot, „csak hogy megkérdezzem, jól van-e.”",
-        "category": "Politika",
-        "published_at": 1794293640
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Donald Trump bejelentette, az FBI is nyomoz az Nvidia vezére körüli kínai kémügyben",
-        "link": "https://index.hu/kulfold/2026/11/10/nvidia-vezerigazgato-viszony-kinai-kemno-donald-trump-fbi-vizsgalat/",
-        "image": "https://kep.index.hu/1/0/7249/72497/724978/72497853_5342305_d504e4a4069d162c5abe1cfcea34010b_wm.jpg",
-        "summary": "Az amerikai elnök bízik a vezérigazgatóban, akit becsületes embernek tart.",
-        "category": "Politika",
-        "published_at": 1794298800
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Beperelték az Nvidiát és Jensen Hunagot a kínai kémbotrány miatt, amit már az FBI is vizsgál",
-        "link": "https://24.hu/tech/2026/11/10/jensen-huang-nvidia-kembotrany-per-reszvenyesek/",
-        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2301328091-e1794301920780-1024x577.jpg",
-        "summary": "Donald Trump tanácsadója egy kínai kémmel folytatott viszonyt, de az amerikai elnök elmondása szerint nem izgul, mivel Huang nem tudta, hogy a nő kém. The post Beperelték az Nvidiát és Jensen Hunagot a kínai kémbotrány miatt, amit már az FBI is vizsgál first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794302107
-      },
-      {
-        "source": "ATV",
-        "title": "Lecsapott az FBI: kínai kémmel folytathatott viszonyt a világ legértékesebb cégének vezére",
-        "link": "https://www.atv.hu/kulfold/20261110/kem-nvidia-elnok-nyomoz-fbi/",
-        "image": "https://www.youtube.com/embed/DVnV6Zy5kmU",
-        "summary": "Az FBI vizsgálatot folytat Jensen Huang, az Nvidia vezérigazgatója ellen egy feltételezett kémmel való kapcsolata miatt. Ezt Donald Trump amerikai elnök közölte hétfőn, a Fehér Házban tartott sajtótájékoztatón, ahol egyúttal támogatásáról biztosította a vállalatvezetőt.",
-        "category": "Politika",
-        "published_at": 1794309120
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Gyanúsan keveset tudunk a sikeres üzleti karrierről, ami összehozta az állítólagos kínai kémnőt az Nvidia vezérigazgatójával",
-        "link": "https://hvg.hu/gazdasag/20261110_gyanusan-keveset-tudunk-a-sikeres-uzleti-karrierrol-ami-osszehozta-az-allitolagos-kinai-kemnot-az-nvidia-vezerigazgatojaval",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/16b1baf6-5d85-41ec-9837-18e3d6df6725.jpg",
-        "summary": "A kínai pénzügyi szektorból jutott el az Nvidia üzleti partnerei közé Alice Huang, az Nvidia-vezér állítólagos szeretője, de sok megválaszolatlan kérdés vetődik fel nő a karrierjével kapcsolatban.",
-        "category": "Gazdaság",
-        "published_at": 1794328923
-      }
-    ]
-  },
-  {
     "group_id": "group_3fd43b98a1",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -1663,6 +1611,49 @@
         "summary": "Gyerekkorunkban sokszor kívülről kellett megtanulnunk a legismertebb magyar verseket, de vajon mennyire emlékszünk rájuk felnőttként? Ez a 10 kérdéses irodalmi kvíz a régi iskolai szavalások és kötelező memoriterek világába repít vissza. Teszteld a memóriádat, és derítsd ki, hány gyerekkori verset tudnál ma is felidézni! Induljon a kvíz! The post Kvíz: Emlékszel még a kötelező gyerekversekre? 10 kérdés, amit régen mindenki tudott - köztük vagy? first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794297780
+      }
+    ]
+  },
+  {
+    "group_id": "group_3d8610d2c7",
+    "category": "Politika",
+    "articles_count": 4,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Donald Trump bejelentette, az FBI is nyomoz az Nvidia vezére körüli kínai kémügyben",
+        "link": "https://index.hu/kulfold/2026/11/10/nvidia-vezerigazgato-viszony-kinai-kemno-donald-trump-fbi-vizsgalat/",
+        "image": "https://kep.index.hu/1/0/7249/72497/724978/72497853_5342305_d504e4a4069d162c5abe1cfcea34010b_wm.jpg",
+        "summary": "Az amerikai elnök bízik a vezérigazgatóban, akit becsületes embernek tart.",
+        "category": "Politika",
+        "published_at": 1794298800
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Beperelték az Nvidiát és Jensen Hunagot a kínai kémbotrány miatt, amit már az FBI is vizsgál",
+        "link": "https://24.hu/tech/2026/11/10/jensen-huang-nvidia-kembotrany-per-reszvenyesek/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2301328091-e1794301920780-1024x577.jpg",
+        "summary": "Donald Trump tanácsadója egy kínai kémmel folytatott viszonyt, de az amerikai elnök elmondása szerint nem izgul, mivel Huang nem tudta, hogy a nő kém. The post Beperelték az Nvidiát és Jensen Hunagot a kínai kémbotrány miatt, amit már az FBI is vizsgál first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1794302107
+      },
+      {
+        "source": "ATV",
+        "title": "Lecsapott az FBI: kínai kémmel folytathatott viszonyt a világ legértékesebb cégének vezére",
+        "link": "https://www.atv.hu/kulfold/20261110/kem-nvidia-elnok-nyomoz-fbi/",
+        "image": "https://www.youtube.com/embed/DVnV6Zy5kmU",
+        "summary": "Az FBI vizsgálatot folytat Jensen Huang, az Nvidia vezérigazgatója ellen egy feltételezett kémmel való kapcsolata miatt. Ezt Donald Trump amerikai elnök közölte hétfőn, a Fehér Házban tartott sajtótájékoztatón, ahol egyúttal támogatásáról biztosította a vállalatvezetőt.",
+        "category": "Politika",
+        "published_at": 1794309120
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Gyanúsan keveset tudunk a sikeres üzleti karrierről, ami összehozta az állítólagos kínai kémnőt az Nvidia vezérigazgatójával",
+        "link": "https://hvg.hu/gazdasag/20261110_gyanusan-keveset-tudunk-a-sikeres-uzleti-karrierrol-ami-osszehozta-az-allitolagos-kinai-kemnot-az-nvidia-vezerigazgatojaval",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/16b1baf6-5d85-41ec-9837-18e3d6df6725.jpg",
+        "summary": "A kínai pénzügyi szektorból jutott el az Nvidia üzleti partnerei közé Alice Huang, az Nvidia-vezér állítólagos szeretője, de sok megválaszolatlan kérdés vetődik fel nő a karrierjével kapcsolatban.",
+        "category": "Gazdaság",
+        "published_at": 1794328923
       }
     ]
   },
@@ -10889,7 +10880,7 @@
   {
     "group_id": "group_233b24cc6f",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -10908,6 +10899,15 @@
         "summary": "Pete Hegseth-et azzal vádolta egy republikánus képviselő, hogy a Kongresszus jóváhagyása nélkül indított háborút Irán ellen.",
         "category": "Politika",
         "published_at": 1794378013
+      },
+      {
+        "source": "444.hu",
+        "title": "A republikánus képviselőházi többség megakadályozta a Pete Hegseth elleni alkotmányos vádeljárást",
+        "link": "https://444.hu/2026/11/11/a-republikanus-kepviselohazi-tobbseg-megakadalyozta-a-pete-hegseth-elleni-alkotmanyos-vadeljarast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "De a januártól hivatalba lépő, már demokrata többségű kongresszus újra előveheti majd az ügyet.",
+        "category": "Politika",
+        "published_at": 1794379796
       }
     ]
   },
@@ -11368,7 +11368,7 @@
         "image": "https://raketa.hu/uploads/2026/11/2Connect-NOC_108.jpg",
         "summary": "Benéztünk Magyarország láthatatlan, 0–24-ben működő digitális központjába, ahol 42 ezer kilométernyi optikai idegszálat felügyelnek, és ahol az a legnagyobb siker, ha nem történik semmi.",
         "category": "Kultúra",
-        "published_at": 1794379831
+        "published_at": 1794380247
       }
     ]
   },
@@ -11711,7 +11711,7 @@
   {
     "group_id": "group_5dd2faac6d",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -11721,6 +11721,47 @@
         "summary": "A tárca szerint a fenyegetések azt jelzik, a miniszter Irán elleni stratégiája működik. The post Iráni fenyegetések miatt katonai támaszpontra költöztették az amerikai pénzügyminisztert first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1794379735
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Iráni fenyegetések miatt egy katonai bázisra költöztették az amerikai pénzügyminisztert",
+        "link": "https://hvg.hu/vilag/20261111_egyesult-allamok-scott-bessent-penzugyminiszter-iran-fenyegetes-koltozes-katonai-bazis",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b80a2e12-3cb0-492d-97ce-3601337b1742.jpg",
+        "summary": "A lépésre azért volt szükség, mert a hírszerzés szerint fokozott szintet értek el a fenyegetések.",
+        "category": "Általános",
+        "published_at": 1794380103
+      }
+    ]
+  },
+  {
+    "group_id": "group_fa7706d728",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Nagy a baj: nem kap kőolajat a finomító, amit a Mol meg akar vásárolni – Magyarország adhatja meg a végső megoldást egy új csővezetékkel Szerbiának",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/nis-koolaj-finomito-mol-janaf-csovezetek-szerbia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/3xrNhZpLD1tv-AldduLwX9EQiKEdXuOu-APMIdKPCkw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZiYmZkZWQxYjVlNzQ3OTQ4N2NhMjhhYTc2YzU1NDRl.jpg",
+        "summary": "Továbbra sem tudni, mikor indulhat újra a szállítás.",
+        "category": "Gazdaság",
+        "published_at": 1794379860
+      }
+    ]
+  },
+  {
+    "group_id": "group_8f19ff127e",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "26 kilót dobott le Kóka János, elárulta fogyása titkát az exminiszter",
+        "link": "https://nlc.hu/eletmod/20261111/koka-janos-fogyas/jdq6hy8",
+        "image": "",
+        "summary": "Huszonhat kilótól szabadult meg az egykori gazdasági miniszter. Kóka János elárulta a fogyása okait. The post 26 kilót dobott le Kóka János, elárulta fogyása titkát az exminiszter first appeared on nlc.",
+        "category": "Politika",
+        "published_at": 1794379200
       }
     ]
   }
