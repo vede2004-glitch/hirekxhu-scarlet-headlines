@@ -1,71 +1,5 @@
 [
   {
-    "group_id": "group_56b7cb12cf",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Te élnél a Holdon? A NASA már keresi az első lakókat",
-        "link": "https://www.atv.hu/kulfold/20261110/hold-nasa-keres-lakok/",
-        "image": "https://www.youtube.com/embed/2CDndVDVfR0",
-        "summary": "A NASA pályázatot hirdetett, amelyre olyan emberek jelentkezését várják, akik hajlandóak lennének élni és dolgozni is a Holdon.",
-        "category": "Általános",
-        "published_at": 1794277980
-      },
-      {
-        "source": "Rakéta.hu",
-        "title": "Olyan embereket keres a NASA, akik a Holdra költöznének",
-        "link": "https://raketa.hu/nasa-urhajosok-artemis-program-kivalasztas-hold/",
-        "image": "https://raketa.hu/uploads/2026/11/holdnasa.jpg",
-        "summary": "Az űrügynökség megnyitotta az új űrhajósjelöltek jelentkezését, ám a kiválasztásra csak szigorú szakmai és egészségügyi feltételek teljesítésével lehet esélyt szerezni.",
-        "category": "Kultúra",
-        "published_at": 1794319338
-      }
-    ]
-  },
-  {
-    "group_id": "group_ca502da3e2",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kezdő volt az Arsenalban, a magyarok ellen nem játszhat",
-        "link": "https://24.hu/sport/foci/2026/11/10/nemzetek-ligaja-magyarorszag-eszak-irorszag-ceadach-oneill/",
-        "image": "https://s.24.hu/app/uploads/2026/11/ceadach-oneill-gettyimages-2302439364-1024x576.jpg",
-        "summary": "Ceadach O'Neill hiányozni fog az északír keretből a következő két Nemzetek Ligája-mérkőzésen. The post Kezdő volt az Arsenalban, a magyarok ellen nem játszhat first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794278020
-      }
-    ]
-  },
-  {
-    "group_id": "group_cdde06f1c0",
-    "category": "Bulvár",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Tíz és fél év börtönre ítélték Russell Brandet nemi erőszak és szexuális zaklatás miatt",
-        "link": "https://nlc.hu/eletmod/20261110/russal-brand-borton/3vpmnd4",
-        "image": "",
-        "summary": "Tíz év és hat hónap börtönbüntetésre ítélték Russell Brand brit humoristát és színészt nemi erőszak és szexuális bűncselekmények miatt. The post Tíz és fél év börtönre ítélték Russell Brandet nemi erőszak és szexuális zaklatás miatt first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794277980
-      },
-      {
-        "source": "Femina",
-        "title": "Hollywood egyik kedvenc vígjátékszínésze volt: Russell Brandet most 10 év börtönre ítélték",
-        "link": "https://femina.hu/vilagsztar/russell-brand-szinesz-10-ev-bortonbuntetes-itelet/",
-        "image": "https://femina.hu/neon/media/renditions/437/437286/1c8b972359e432a3.jpg",
-        "summary": "Russell Brandet nemi erőszak és szexuális zaklatás miatt ítélte el a bíróság.",
-        "category": "Bulvár",
-        "published_at": 1794295800
-      }
-    ]
-  },
-  {
     "group_id": "group_b0fb3ab1b4",
     "category": "Bulvár",
     "articles_count": 1,
@@ -2978,6 +2912,22 @@
         "summary": "Felismered, mely magyar versekből idézünk?",
         "category": "Bulvár",
         "published_at": 1794296100
+      }
+    ]
+  },
+  {
+    "group_id": "group_cdde06f1c0",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Hollywood egyik kedvenc vígjátékszínésze volt: Russell Brandet most 10 év börtönre ítélték",
+        "link": "https://femina.hu/vilagsztar/russell-brand-szinesz-10-ev-bortonbuntetes-itelet/",
+        "image": "https://femina.hu/neon/media/renditions/437/437286/1c8b972359e432a3.jpg",
+        "summary": "Russell Brandet nemi erőszak és szexuális zaklatás miatt ítélte el a bíróság.",
+        "category": "Bulvár",
+        "published_at": 1794295800
       }
     ]
   },
@@ -7389,6 +7339,22 @@
     ]
   },
   {
+    "group_id": "group_56b7cb12cf",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Olyan embereket keres a NASA, akik a Holdra költöznének",
+        "link": "https://raketa.hu/nasa-urhajosok-artemis-program-kivalasztas-hold/",
+        "image": "https://raketa.hu/uploads/2026/11/holdnasa.jpg",
+        "summary": "Az űrügynökség megnyitotta az új űrhajósjelöltek jelentkezését, ám a kiválasztásra csak szigorú szakmai és egészségügyi feltételek teljesítésével lehet esélyt szerezni.",
+        "category": "Kultúra",
+        "published_at": 1794319338
+      }
+    ]
+  },
+  {
     "group_id": "group_a1217cc113",
     "category": "Politika",
     "articles_count": 2,
@@ -11562,6 +11528,22 @@
         "summary": "A nemzetközi szövetség elnöke Torontóba utazott, hogy tárgyaljon a kanadai illetékesekkel az orosz jégkorong-válogatott junior világbajnoki szerepléséről. The post Trükkösen engedhetik vissza az oroszokat az elitbe first appeared on 24.hu.",
         "category": "Sport",
         "published_at": 1794363780
+      }
+    ]
+  },
+  {
+    "group_id": "group_079d88e0d0",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Magyarország felkerült egy komoly világlistára, három helyet is befoglaltunk magunknak",
+        "link": "https://www.atv.hu/belfold/20261111/magyar-barlang-miskolc-lillafured/",
+        "image": "",
+        "summary": "Három magyarországi barlang is bekerült a világ 100 legjobb látogatható barlangja közé a Worldworthy független nemzetközi rangsorában. Mutatjuk, melyik három.",
+        "category": "Általános",
+        "published_at": 1794364380
       }
     ]
   }
