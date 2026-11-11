@@ -75,47 +75,6 @@
     ]
   },
   {
-    "group_id": "group_ede552dddd",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Citromsárga riasztást adtak ki: jön az ónos eső ezekben a megyékben",
-        "link": "https://femina.hu/terasz/onos-eso-riasztas-idojaras-megyek-2026-11-10/",
-        "image": "https://femina.hu/neon/media/renditions/437/437299/40452f380ee875dd.jpg",
-        "summary": "Figyelmeztetést adtak ki a meteorológusok: csúszós utakra kell készülni az ország egyes részein.",
-        "category": "Bulvár",
-        "published_at": 1794299217
-      }
-    ]
-  },
-  {
-    "group_id": "group_d1733d6891",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "„A politika vonuljon ki a tudományos életből” – az ügynökaktás hiba után üzent a kormánynak a szakszervezet",
-        "link": "https://hvg.hu/itthon/20261110_leveltar-szakszervezet-abtl-ugynokaktak-politikai-keres-lezsak-sandor-hiba",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aee73618-6dfa-44de-8e03-b3e6e807f4d5.jpg",
-        "summary": "Úgy gondolják, a politikai befolyás könnyen okozhat hibákat, visszafordíthatatlan károkat.",
-        "category": "Politika",
-        "published_at": 1794299286
-      },
-      {
-        "source": "444.hu",
-        "title": "„A politika vonuljon ki a tudományos életből” – üzeni a szakszervezet az ügynöklistás fiaskó után",
-        "link": "https://444.hu/2026/11/10/a-politika-vonuljon-ki-a-tudomanyos-eletbol-uzeni-a-szakszervezet-az-ugynoklistas-fiasko-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A szakszervezet szerint „kimondottan politikai kérésre, a Tisza Párt vállalásának teljesítése érdekében került sor az ÁBTL-ben őrzött »ügynökakták« néven futó levéltári anyag gyors nyilvánossá tételére”.",
-        "category": "Politika",
-        "published_at": 1794301878
-      }
-    ]
-  },
-  {
     "group_id": "group_aca63abf77",
     "category": "Politika",
     "articles_count": 1,
@@ -239,7 +198,7 @@
   {
     "group_id": "group_8db6fea5ee",
     "category": "Bulvár",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Femina",
@@ -267,6 +226,15 @@
         "summary": "Ennyivel változnak az üzemanyagárak november 11-én.",
         "category": "Bulvár",
         "published_at": 1794384600
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ma is tovább csökken idehaza a benzinár",
+        "link": "https://24.hu/fn/gazdasag/2026/11/11/tovabb-csokken-benzinar-2026-november-11/",
+        "image": "https://s.24.hu/app/uploads/2026/11/tankol-e1794384830220-1024x577.jpg",
+        "summary": "Viszont megmaradt a benzin és a dízel közötti árkülönbség, amely jelenleg 109 forint literenként. The post Ma is tovább csökken idehaza a benzinár first appeared on 24.hu.",
+        "category": "Gazdaság",
+        "published_at": 1794385293
       }
     ]
   },
@@ -825,6 +793,22 @@
         "summary": "A gyerekeit meggyilkoló Lindsay Clancy ügyvédei szerették volna elérni, hogy ejtsék a nő elleni eljárást. A bíró elutasította az indítványt.",
         "category": "Politika",
         "published_at": 1794300375
+      }
+    ]
+  },
+  {
+    "group_id": "group_d1733d6891",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "„A politika vonuljon ki a tudományos életből” – üzeni a szakszervezet az ügynöklistás fiaskó után",
+        "link": "https://444.hu/2026/11/10/a-politika-vonuljon-ki-a-tudomanyos-eletbol-uzeni-a-szakszervezet-az-ugynoklistas-fiasko-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A szakszervezet szerint „kimondottan politikai kérésre, a Tisza Párt vállalásának teljesítése érdekében került sor az ÁBTL-ben őrzött »ügynökakták« néven futó levéltári anyag gyors nyilvánossá tételére”.",
+        "category": "Politika",
+        "published_at": 1794301878
       }
     ]
   },
@@ -1439,7 +1423,7 @@
   {
     "group_id": "group_0ddcb5f5a0",
     "category": "Politika",
-    "articles_count": 33,
+    "articles_count": 34,
     "articles": [
       {
         "source": "Hír TV",
@@ -1737,6 +1721,15 @@
         "summary": "Nem válaszol Magyar Péter házimédiája arra, hogy honnan tudták előre, milyen közleményt fog kiadni a hatóság az Orbán Áront is érintő házkutatással kapcsolatban. A Kontroll cikke hétfőn percekkel azelőtt élesedett, hogy a police.hu-n megjele...",
         "category": "Politika",
         "published_at": 1794384780
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Orbán Áron és az embercsempészet gyanúja",
+        "link": "https://telex.hu/belfold/2026/11/11/orban-aron-orizet-embercsempeszet-befolyassal-uzerkedes-nvvh-musor",
+        "image": "https://assets.telex.hu/images/20261110/1794323517-temp-oi50bpcjasijbadigep_cimlap-normal.jpg",
+        "summary": "Az ügyészség indítványozta a volt miniszterelnök öccsének és társainak letartóztatását egy korrupcióval és embercsempészettel kapcsolatos ügyben. A Vezető legújabb adásában az ügyet feltáró újságíró, Dezső András segítségével mutatjuk be a történetet.",
+        "category": "Politika",
+        "published_at": 1794385755
       }
     ]
   },
@@ -8622,7 +8615,7 @@
         "image": "https://raketa.hu/uploads/2026/11/woltfutaro-bot.jpg",
         "summary": "A Wolt robotfutárja már Magyarországon is bemutatkozott: a Coco nevű önvezető eszköz egy budapesti rendezvényen szállított italokat a résztvevőknek.",
         "category": "Kultúra",
-        "published_at": 1794385354
+        "published_at": 1794385774
       }
     ]
   },
@@ -10929,7 +10922,7 @@
   {
     "group_id": "group_5dd2faac6d",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -10957,6 +10950,15 @@
         "summary": "Scott Bessent jelképezi az Irán ellen indított amerikai szankciós hadviselést.",
         "category": "Politika",
         "published_at": 1794382831
+      },
+      {
+        "source": "444.hu",
+        "title": "Bessent pénzügyminiszter Washingtonból egy katonai bázisra költözött, miután az iráni vezetés halálosan megfenyegette",
+        "link": "https://444.hu/2026/11/11/bessent-penzugyminiszter-washingtonbol-egy-katonai-bazisra-koltozott-miutan-az-irani-vezetes-halalosan-megfenyegette?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Bessent felel azért, hogy Iránt és szövetségeseit szankciókkal rávegyék a Hormuzi-szoros megnyitására.",
+        "category": "Politika",
+        "published_at": 1794385318
       }
     ]
   },
@@ -11718,6 +11720,70 @@
         "summary": "Vélhetően rosszul lett a balesetet okozó sofőr. The post Elszabadult autó tarolta le a favágó munkásokat Miskolcon, öten megsérültek first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794385210
+      }
+    ]
+  },
+  {
+    "group_id": "group_ac0146eeea",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Őrizetbe vettek egy román kamionsofőrt a bulgáriai autópályán történt tömegbaleset után",
+        "link": "https://telex.hu/transtelex/2026/11/11/bulgaria-tomegbaleset-roman-sofor",
+        "image": "https://assets.telex.hu/images/20261111/1794383940-temp-iai9a51f254qejighce_cimlap-normal.jpg",
+        "summary": "November 11-ét nemzeti gyásznappá nyilvánították Bulgáriában a 12 halálos áldozat emlékére.",
+        "category": "Politika",
+        "published_at": 1794384878
+      }
+    ]
+  },
+  {
+    "group_id": "group_a27d9dba4c",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Úgy terjed a mérgező tüskéjű hal Horvátországban, hogy már célzott programokra van szükség",
+        "link": "https://www.portfolio.hu/gazdasag/20261111/ugy-terjed-a-mergezo-tuskeju-hal-horvatorszagban-hogy-mar-celzott-programokra-van-szukseg-875662",
+        "image": "https://cdn.portfolio.hu/articles/images-xl/g/e/t/gettyimages-1286553899-hal-tenger-ocean-allat-allatvilag-termeszet-868434.jpg",
+        "summary": "Egyre gyakrabban bukkan fel a horvátországi vizekben a Vörös-tengerből származó inváziós tűzhal, vagy kőhal amely súlyos fenyegetést jelenthet az őshonos tengeri élővilágra. A mérgező tüskéiről ismert ragadozó gyors terjedése a tengervíz melegedésével függ össze, visszaszorítására pedig már célzott lehalászási programok indultak az Adrián - jelentette a Croatia Week.",
+        "category": "Gazdaság",
+        "published_at": 1794385440
+      }
+    ]
+  },
+  {
+    "group_id": "group_a26e03e64e",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Jól húz a Mol a nap elején, az OTP jelentésére is pozitavan reagált a tőzsde – a forint egyelőre nagyon bizonytalan",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/forint-euro-dollar-otp-mol-richter-tozsde-bux?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/3Gsb6pfqBW56RHju_bG_WaV4dwDj9myry1jHGdW9De0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhYzIzYzM1ZjgzNDQ2NjM5ZTg4ODdhODRhYjA0MDY5.jpg",
+        "summary": "Felpattant a pesti tőzsde a szerdai piacnyitást követően. A forint csekély mértékben gyengült az euróval és a dollárral szemben.",
+        "category": "Gazdaság",
+        "published_at": 1794385274
+      }
+    ]
+  },
+  {
+    "group_id": "group_72330b0108",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Liptai Claudia és 20 éves lánya összeöltözött a tegnap esti premierre: Panka ragyogó szépség",
+        "link": "https://femina.hu/gyerek/liptai-claudia-lanya-gesztesi-panka-premier/",
+        "image": "https://femina.hu/neon/media/renditions/437/437426/95df11bd8e71bd58.jpg",
+        "summary": "Liptai Claudia és lánya, Gesztesi Panka is megjelentek kedd este a Hogyan tudnék élni nélküled? 2. díszbemutatóján, anya és lánya össze is öltöztek.",
+        "category": "Bulvár",
+        "published_at": 1794385500
       }
     ]
   }
