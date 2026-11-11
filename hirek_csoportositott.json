@@ -25,63 +25,6 @@
     ]
   },
   {
-    "group_id": "group_d242d7df47",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Kim Dzsongun nem fér a bőrébe, Észak-Korea újabb nagy sebességű torpedót tesztelt",
-        "link": "https://444.hu/2026/11/10/kim-dzsongun-nem-fer-a-borebe-eszak-korea-ujabb-nagy-sebessegu-torpedot-tesztelt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Phenjan már október közepén is tesztelt egy mesterséges intelligenciát használó torpedót.",
-        "category": "Politika",
-        "published_at": 1794290275
-      }
-    ]
-  },
-  {
-    "group_id": "group_d539f8feef",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Az AI a HR hőtérképén is egyre jobban izzik − Jövőálló üzemmódba kapcsol a szakma",
-        "link": "https://www.portfolio.hu/gazdasag/20261110/az-ai-a-hr-hoterkepen-is-egyre-jobban-izzik-jovoallo-uzemmodba-kapcsol-a-szakma-874696",
-        "image": "https://pcdn.hu/articles/images-md/g/e/t/gettyimages-2245827887-mesterseges-intelligencia-chatgpt-artificial-intelligence-mobilalkalmazas-o-858246.jpg",
-        "summary": "A mesterséges intelligencia két év alatt megduplázta stratégiai súlyát a HR-esek körében, miközben a vezetőfejlesztés továbbra is a legfőbb üzleti prioritás marad – derül ki a DEVELOR több mint 1300 nemzetközi HR- és L&D-vezető megkérdezésével készült L&D Kaleidoscope kutatásából. Ezen túl a kulcsemberek megtartása továbbra is fontos szempont a munkaügyi tervezés során. Szabó Csaba, a vállalat vezérigazgatója ugyanakkor hangsúlyozta a Portfolio-nak, hogy a globális trendek honosítása során érdemes figyelemmel lenni a helyi és régiós sajátosságokra is. A témáról Csaba a november 17-i HR Revolution 2026 konferencián mond többet, amelyre az utolsó jegyek még elérhetők.Támogatott tartalom",
-        "category": "Gazdaság",
-        "published_at": 1794290400
-      }
-    ]
-  },
-  {
-    "group_id": "group_d2cac3778f",
-    "category": "Bulvár",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "Jobb lesz magunknál tartani az esernyőt: akár ónos eső is lehet",
-        "link": "https://borsonline.origo.hu/kozelet/2026/11/idojaras-onos-eso-is-lehet",
-        "image": "https://cdn.borsonline.hu/2026/11/ItOvjlmlIR9TgQXF0gxGFbx3Pd8_Z5ZL0n31_KNmwWE/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzA5L2ViYmJhNzFmYzhiNTA2ZTBhYTNhODk5OWIzYjlkY2Q2MzNmNDdlNzMyNjQ2OGJiN2M3YWRiOThhZjNmMDA5MWI.jpg",
-        "summary": "Érdemes lesz odafigyelni az utakon: az Északi-középhegységben átmenetileg ónos eső is eshet. Mutatjuk, milyen lesz a keddi időjárás!",
-        "category": "Bulvár",
-        "published_at": 1794290400
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Borongós, esős időt hoz a kedd, az Északi-középhegységben ónos eső is lehet",
-        "link": "https://telex.hu/belfold/2026/11/10/idojaras-eso-onos-eso-borongos-ido",
-        "image": "https://assets.telex.hu/images/20261110/1794290382-temp-pqmn8jav1qhm1kgopnb_cimlap-normal.jpg",
-        "summary": "Egészen hétvégéig velünk marad a borongós, esős idő.",
-        "category": "Politika",
-        "published_at": 1794290794
-      }
-    ]
-  },
-  {
     "group_id": "group_8ee3fe16ef",
     "category": "Általános",
     "articles_count": 1,
@@ -110,6 +53,31 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1794290533
+      }
+    ]
+  },
+  {
+    "group_id": "group_d2cac3778f",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Borongós, esős időt hoz a kedd, az Északi-középhegységben ónos eső is lehet",
+        "link": "https://telex.hu/belfold/2026/11/10/idojaras-eso-onos-eso-borongos-ido",
+        "image": "https://assets.telex.hu/images/20261110/1794290382-temp-pqmn8jav1qhm1kgopnb_cimlap-normal.jpg",
+        "summary": "Egészen hétvégéig velünk marad a borongós, esős idő.",
+        "category": "Politika",
+        "published_at": 1794290794
+      },
+      {
+        "source": "Bors",
+        "title": "Ónos eső is jöhet: ilyen időjárás vár ránk szerdán és a következő napokban",
+        "link": "https://borsonline.origo.hu/kozelet/2026/11/idojaras-november-11",
+        "image": "https://cdn.borsonline.hu/2026/11/yqNv_PAN07xRKajejWdoYIHt5DInFAFwr8SEdKuZDys/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzEwLzdmZDVlNGZjZWIzMzk2MTlkODg5ZTk4OGJkOTU2ZWQ5OGRlZmM3ODVhMWUyMzJjNzc1MGY3M2RhMDVlN2I4ZDQ.jpg",
+        "summary": "Folytatódik az esős idő.",
+        "category": "Bulvár",
+        "published_at": 1794376800
       }
     ]
   },
@@ -591,22 +559,6 @@
         "summary": "Bár a kormány korábban azt ígérte, hogy az október 23-i nemzeti ünnepen elismerést és egyhavi pluszjuttatást kapnak a paksi atomerőmű védelmében részt vevő szakemberek, a kifizetések november elejéig még nem történtek meg. Az Országos Vízügyi Főigazgatóság tájékoztatása szerint a csúszást az elhúzódó adminisztráció okozza, ám az ígért jutalmat minden érintett megkapja majd - tudta meg a Telex.",
         "category": "Politika",
         "published_at": 1794297840
-      }
-    ]
-  },
-  {
-    "group_id": "group_fac354bc8e",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Táguló spreadek és új lehetőségek az európai kötvénypiacokon",
-        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/kotveny-kotvenypiacok-tagulo-spreadek-uj-lehetosegek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/4XzFqOuIZ-nRLsJdQMwvB3u-XaLzL-NkBEAOt8TCHVs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZmYmRhNDMzNGU3ZDRkNjY4ODcyNTQ3MDQzYWQxNzYw.jpg",
-        "summary": "A látszólag kedvező értékeltség mögött azonban komoly strukturális kockázatok rejtőzhetnek.",
-        "category": "Gazdaság",
-        "published_at": 1794290361
       }
     ]
   },
@@ -11671,6 +11623,22 @@
         "summary": "A román államfő támogatja a SAFE-program keretében kötött szerződések nyilvánosságra hozatalát.",
         "category": "Gazdaság",
         "published_at": 1794376205
+      }
+    ]
+  },
+  {
+    "group_id": "group_0eaed6e876",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Vezetőváltás a NER-pénzcsap élén: az osztogatás leállt, az átvilágítás még zajlik a Szerencsejáték-cégnél",
+        "link": "https://hvg.hu/itthon/20261111_vezetovaltas-szrencsejatek-service-ner-penzcsap-vizsgalat-koncepciovaltas",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ef1a2e36-364a-472f-bcdc-28938582e095.jpg",
+        "summary": "A választások után azonnal leállt a Szerencsejáték-cég szponzorációs tevékenysége, 7 hónapja egy fillért nem ítéltek meg senkinek, pedig korábban menetrendszerűen ment a pénz a NER kisebb-nagyobb kegyeltjeinek. Az anyacég után a szponzortársaságnál is vezetőváltás volt nemrég, kérdés, lesz-e érdemi felülvizsgálat és átláthatóbb működés.",
+        "category": "Politika",
+        "published_at": 1794376800
       }
     ]
   }
