@@ -217,6 +217,7 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
       image: arts.find((x) => x.image)?.image ?? null,
       is_synthesized: false,
       is_top_hero: false,
+      top_rank: null,
       sources: arts.map((x) => ({ source: x.source ?? "", title: x.title ?? "", link: x.link ?? "" })),
       published_at: Math.max(...arts.map((x) => x.fetched_at ?? 0)) || null,
       title: c.title, lead: c.lead, content: c.content,
