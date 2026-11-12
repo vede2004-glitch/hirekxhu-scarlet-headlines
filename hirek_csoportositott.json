@@ -1,30 +1,5 @@
 [
   {
-    "group_id": "group_a4b4152103",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Menet közben rátámadt a buszsofőrre az agresszív férfi: döbbenet, mitől pöccent be",
-        "link": "https://www.atv.hu/belfold/20261111/busz-agressziv-rendor-sofor/",
-        "image": "",
-        "summary": "Elfogták azt a 31 éves férfit, aki Sárvár és Bögöte között közlekedő helyközi autóbuszon támadt rá a jármű vezetőjére.",
-        "category": "Általános",
-        "published_at": 1794366240
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Fejbe ütötte a sofőrt és menet közben rángatta a busz kormányát egy feldühödött férfi Vas megyében",
-        "link": "https://index.hu/belfold/2026/11/11/buszsofor-tamadas-sarvar-bogote-rendorseg-koveteles/",
-        "image": "https://kep.index.hu/1/0/7251/72514/725147/72514743_5343415_d00b9f7de6e2a26f458a702d63dfc1a3_wm.jpg",
-        "summary": "A vészkalapácsot is kitörte.",
-        "category": "Általános",
-        "published_at": 1794415080
-      }
-    ]
-  },
-  {
     "group_id": "group_9271a8e807",
     "category": "Kultúra",
     "articles_count": 1,
@@ -10182,6 +10157,22 @@
     ]
   },
   {
+    "group_id": "group_a4b4152103",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Fejbe ütötte a sofőrt és menet közben rángatta a busz kormányát egy feldühödött férfi Vas megyében",
+        "link": "https://index.hu/belfold/2026/11/11/buszsofor-tamadas-sarvar-bogote-rendorseg-koveteles/",
+        "image": "https://kep.index.hu/1/0/7251/72514/725147/72514743_5343415_d00b9f7de6e2a26f458a702d63dfc1a3_wm.jpg",
+        "summary": "A vészkalapácsot is kitörte.",
+        "category": "Általános",
+        "published_at": 1794415080
+      }
+    ]
+  },
+  {
     "group_id": "group_5173291db2",
     "category": "Általános",
     "articles_count": 1,
@@ -12836,6 +12827,38 @@
         "summary": "Fata Edina a Debrecen elleni mérkőzés előtt nyilatkozott. The post Az ETO ügyvezetője: A legfontosabb célunk a szezon befejezése first appeared on 24.hu.",
         "category": "Sport",
         "published_at": 1794451175
+      }
+    ]
+  },
+  {
+    "group_id": "group_4eba50db2c",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Veszélyes sarokcsiszolót hívott vissza a hatóság – Ha ilyen barkácsgépet vett, ne használja",
+        "link": "https://www.atv.hu/belfold/20261112/sarokcsiszolo-visszahiv-balesetveszely/",
+        "image": "",
+        "summary": "Súlyos balesetveszély miatt visszahívnak egy akkumulátoros mini sarokcsiszoló készletet. A Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság (NKFH) szerdán közölte, a termék Magyarországon is elérhető lehet, aki vásárolt belőle, ne használja tovább.",
+        "category": "Általános",
+        "published_at": 1794452640
+      }
+    ]
+  },
+  {
+    "group_id": "group_c2e43843e3",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Holnap összeomlik a világ? Egy 66 éves tanulmány pontosan 2026. november 13-ra tette a világvégét",
+        "link": "https://raketa.hu/2026-november-13-1960-as-tudomanyos-joslat-vilagvege/",
+        "image": "https://raketa.hu/uploads/2026/11/doomsday-3.jpg",
+        "summary": "Holnap, azaz november 13-án jön el a világvége, legalábbis ez derül ki abból a matematikai modellszámításból, amelyet hatvanhat évvel ezelőtt készítettek a szakértők. Az évtizedekkel ezelőtti teóriával ellentétben azonban ma már teljesen más képet mutatnak az emberiség előtt álló valódi veszélyekről.",
+        "category": "Kultúra",
+        "published_at": 1794452922
       }
     ]
   }
