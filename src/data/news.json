@@ -2174,41 +2174,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_0a8ede5af4",
-    "slug": "tizenhat-beruhazas-kiemelt-statusza-kerulhet-veszelybe-0a8ede",
-    "tags": [
-      "kiemelt-beruhazasok",
-      "tiborcz-istvan",
-      "so-budapest",
-      "bosnyak-ter"
-    ],
-    "fingerprint": "2cadf4c61520c5d77b71f7e4ba2cc48e",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-0968390407-e1794467006507-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Elvesztheti kiemelt jellegét Tiborcz szállodája",
-        "link": "https://24.hu/belfold/2026/11/12/elvesztheti-kiemelt-jelleget-tiborcz-szallodaja/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Elbukhatja kiemelt jellegét Tiborcz István szállodája is – összesen 16 beruházás került célkeresztbe",
-        "link": "https://index.hu/belfold/2026/11/12/tiborcz-istvan-kiemelt-beruhazas-torles-atvizsgalas/"
-      }
-    ],
-    "published_at": 1794472080,
-    "title_hu": "Tizenhat beruházás kiemelt státusza kerülhet veszélybe",
-    "lead_hu": "Sajtóértesülések szerint a kormány további 16 fejlesztés kiemelt beruházási besorolását vonhatja vissza. Az érintettek között van a Tiborcz Istvánhoz köthető, Eötvös téri szállodaprojekt és a Bosnyák téri irodakomplexum is.",
-    "content_hu": "• **Tizenhat projekt** A Népszabadság értesülésére hivatkozó beszámolók szerint újabb 16 beruházás veszítheti el kiemelt státuszát. A besorolás gyorsított engedélyezést tett lehetővé.\n\n• **Eötvös téri hotel** Az egykori Átrium Hyatt, később Sofitel Chain Bridge épületéből SO/Budapest néven 350 szobás szállodát alakítanak ki. A nyitást 2026 végére vagy 2027 elejére tervezik; az Eximbank 59 milliárd forint hitelt nyújtott a projekthez.\n\n• **Bosnyák téri fejlesztés** A zuglói irodakomplexum is szerepel az érintett beruházások között. A kormány korábban leállította az állami szervek beköltözését, és kiszállt az ügyletből; a beszámoló szerint 244 milliárd forintot követel vissza.\n\n• **A besorolás következményei** A már építési engedéllyel rendelkező vagy befejezéshez közel álló projekteknél korlátozott lehet a változás hatása. Az engedély nélküliek esetében késedelmet vagy újratervezést eredményezhet.",
-    "importance_score": 40.0,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_dd399f8363",
     "slug": "a-mercedes-a-nemet-gyartas-kltsegeinek-cskkenteset-surgeti-dd399f",
     "tags": [
@@ -2364,6 +2329,36 @@
     "title_hu": "Menesztették Michael Carricket a Manchester Unitedtől",
     "lead_hu": "Sajtóértesülések szerint a Manchester United azonnali hatállyal megvált Michael Carrick vezetőedzőtől. A klub hivatalos megerősítése az egyik beszámoló szerint még nem érkezett meg.",
     "content_hu": "• **Carrick távozása** A Magyar Nemzet címe és Fabrizio Romano értesülése egyaránt arról számolt be, hogy a Manchester United menesztette a vezetőedzőt.\n\n• **A klub állása** Az Index beszámolója szerint a csapat a novemberi válogatottszünet előtt a Premier League 18. helyén állt.\n\n• **A hivatalos megerősítés** Az Index cikke azt írta, hogy a Manchester United egyelőre nem közölte hivatalosan az edzőváltást.",
+    "importance_score": 35.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_9c0928dd60",
+    "slug": "a-macskad-nem-beszel-de-a-teste-mindent-elarul-9c0928",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "A macskád nem beszél. De a teste mindent elárul.",
+        "link": "https://nlc.hu/eletmod/20261112/macska-stressz-jelei-farokcsapkodas-rejtozkodes-es-etvagytalansag-is-figyelmeztethet/5lexh3h"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Régóta gyanakodtak a szakemberek: kiderült, miért nyávognak valójában a macskák a gazdáiknak",
+        "link": "https://www.portfolio.hu/gazdasag/20261112/regota-gyanakodtak-a-szakemberek-kiderult-miert-nyavognak-valojaban-a-macskak-a-gazdaiknak-876030"
+      }
+    ],
+    "published_at": 1794480625,
+    "title_hu": "A macskád nem beszél. De a teste mindent elárul.",
+    "lead_hu": "A macskák ritkán mutatják, ha valami nincs rendben. Nem panaszkodnak, nem sírnak, nem kérnek segítséget. Mégis, ha odafigyelünk rájuk, észrevehetjük, hogy viselkedésükkel folyamatosan jelzéseket külde…",
+    "content_hu": "A macskák ritkán mutatják, ha valami nincs rendben. Nem panaszkodnak, nem sírnak, nem kérnek segítséget. Mégis, ha odafigyelünk rájuk, észrevehetjük, hogy viselkedésükkel folyamatosan jelzéseket küldenek. The post A macskád nem beszél. De a teste mindent elárul. first appeared on nlc.",
     "importance_score": 35.0,
     "is_top_hero": false,
     "is_top_list": true
@@ -2605,6 +2600,41 @@
     "lead_hu": "A rendőrség bűncselekmény hiányában lezárta a Schneider Flóra ellen indított rongálási nyomozást. A tanítónő februárban, Óbudán írt tiltakozó üzeneteket korábban már sérült kormányzati plakátokra.",
     "content_hu": "• **Lezárták a nyomozást** A rendőrség szerint nem történt bűncselekmény, és nem sikerült bizonyítani, hogy az egyetlen sértetlen plakátot is Schneider Flóra festette át.\n\n• **Februári óbudai eset** A tanítónő festékszóróval írt üzeneteket több olyan kormányzati hirdetésre, amelyek korábban már megsérültek; lehetőség szerint a leszakadt részekre festett.\n\n• **Rongálás gyanúja** A rendőrök előállították Schneidert, nyolc órán át bent tartották, lefoglalták a telefonját, majd rongálással gyanúsították meg.\n\n• **Jogi segítség** Schneider Flóra a Magyar Helsinki Bizottsághoz fordult. Ügyvédje arra hivatkozott, hogy a korábban megrongált plakátok átfestésével nem keletkezett újabb kár.",
     "importance_score": 35.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_0a8ede5af4",
+    "slug": "tizenhat-beruhazas-kiemelt-statusza-kerulhet-veszelybe-0a8ede",
+    "tags": [
+      "kiemelt-beruhazasok",
+      "tiborcz-istvan",
+      "so-budapest",
+      "bosnyak-ter"
+    ],
+    "fingerprint": "2cadf4c61520c5d77b71f7e4ba2cc48e",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-0968390407-e1794467006507-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Elvesztheti kiemelt jellegét Tiborcz szállodája",
+        "link": "https://24.hu/belfold/2026/11/12/elvesztheti-kiemelt-jelleget-tiborcz-szallodaja/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Elbukhatja kiemelt jellegét Tiborcz István szállodája is – összesen 16 beruházás került célkeresztbe",
+        "link": "https://index.hu/belfold/2026/11/12/tiborcz-istvan-kiemelt-beruhazas-torles-atvizsgalas/"
+      }
+    ],
+    "published_at": 1794472080,
+    "title_hu": "Tizenhat beruházás kiemelt státusza kerülhet veszélybe",
+    "lead_hu": "Sajtóértesülések szerint a kormány további 16 fejlesztés kiemelt beruházási besorolását vonhatja vissza. Az érintettek között van a Tiborcz Istvánhoz köthető, Eötvös téri szállodaprojekt és a Bosnyák téri irodakomplexum is.",
+    "content_hu": "• **Tizenhat projekt** A Népszabadság értesülésére hivatkozó beszámolók szerint újabb 16 beruházás veszítheti el kiemelt státuszát. A besorolás gyorsított engedélyezést tett lehetővé.\n\n• **Eötvös téri hotel** Az egykori Átrium Hyatt, később Sofitel Chain Bridge épületéből SO/Budapest néven 350 szobás szállodát alakítanak ki. A nyitást 2026 végére vagy 2027 elejére tervezik; az Eximbank 59 milliárd forint hitelt nyújtott a projekthez.\n\n• **Bosnyák téri fejlesztés** A zuglói irodakomplexum is szerepel az érintett beruházások között. A kormány korábban leállította az állami szervek beköltözését, és kiszállt az ügyletből; a beszámoló szerint 244 milliárd forintot követel vissza.\n\n• **A besorolás következményei** A már építési engedéllyel rendelkező vagy befejezéshez közel álló projekteknél korlátozott lehet a változás hatása. Az engedély nélküliek esetében késedelmet vagy újratervezést eredményezhet.",
+    "importance_score": 33.0,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3877,6 +3907,136 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_4139717f2c",
+    "slug": "26-uj-ado-bevezeteset-tervezi-a-tisza-part-figyelm-413971",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/9cR5LTt01OeHYd44l3qlKNyd_6lr4t27Ml2uL0FUwdo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1YTAyZGJlYTc4NDRiYzU4ZTJiMjIzOWE3YjgzZWFj.webp",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "26 új adó bevezetését tervezi a Tisza Párt – figyelmeztet a Fidesz képviselője",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/26-uj-ado-bevezeteset-tervezi-a-tisza-part-figyelmeztet-a-fidesz-kepviseloje"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Százmilliárdos extra bevételt remél a Tisza-kormány, de a cégek döntő többsége egyetlen fillér kiegészítő adót sem fizetett",
+        "link": "https://www.portfolio.hu/gazdasag/20261112/szazmilliardos-extra-bevetelt-remel-a-tisza-kormany-de-a-cegek-donto-tobbsege-egyetlen-filler-kiegeszito-adot-sem-fizetett-876024"
+      }
+    ],
+    "published_at": 1794403716,
+    "title_hu": "26 új adó bevezetését tervezi a Tisza Párt – figyelmeztet a Fidesz képviselője",
+    "lead_hu": "Palóc André szerint a tervezett intézkedések komoly következményekkel járhatnak a magyar családok, a munkavállalók és a vállalkozások számára.",
+    "content_hu": "Palóc André szerint a tervezett intézkedések komoly következményekkel járhatnak a magyar családok, a munkavállalók és a vállalkozások számára.",
+    "importance_score": 20.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_4ec900d5ce",
+    "slug": "varga-judit-visszaterese-lehet-a-kvetkezo-nagy-politikai-fordulat-4ec900",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/Un7ye3wf2V9YtcbiNXAflDzwomm5vK6OEprDglYGIrA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNiNGI1NjgxZTM3OTQ4ODY4MDU1MmMxZTgxNmZiYTQx.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Varga Judit visszatérése lehet a következő nagy politikai fordulat?",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/varga-judit-visszaterese-lehet-a-kovetkezo-nagy-politikai-fordulat"
+      }
+    ],
+    "published_at": 1794482768,
+    "title_hu": "Varga Judit visszatérése lehet a következő nagy politikai fordulat?",
+    "lead_hu": "A témában most kapcsoltuk Pálfalvi Milán politikai elemzőt....",
+    "content_hu": "A témában most kapcsoltuk Pálfalvi Milán politikai elemzőt.",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_2ee57e8ace",
+    "slug": "itt-van-magyar-peter-ujabb-bosszuja-kivonultak-a-hatosagok-lezsak-sandor-alapitv-2ee57e",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/c_qAuLWJ3KdNdRXLue4sMB8WYgLdGi7y8FIRaXt9TaA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkyNGQwNTE3ODE5YjRlM2FhNmE0MTg4MTUwOGM5ZmU2.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Itt van Magyar Péter újabb bosszúja: kivonultak a hatóságok Lezsák Sándor alapítványához",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/itt-van-magyar-peter-ujabb-bosszuja-kivonultak-a-hatosagok-lezsak-sandor-alapitvanyahoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794482731,
+    "title_hu": "Itt van Magyar Péter újabb bosszúja: kivonultak a hatóságok Lezsák Sándor alapítványához",
+    "lead_hu": "A Fidesz frakcióvezetője politikai megtorlást emleget....",
+    "content_hu": "A Fidesz frakcióvezetője politikai megtorlást emleget.",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_661543a610",
+    "slug": "a-nav-emberei-jelentek-meg-a-videotonnal-nagy-bajban-a-fehervari-klub-661543",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/rF2h2At79Qjz9w812QwsPctRZoFxLjtKOh6r7ez52ZY/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTIvN2IzZmY5Yzk0NmNkODRiNzVmOWI4NjkzZWJiZTA2ODEzNzFhYjI0NjZkMWVmNjAyNzlkM2UxOTczYzY4OWM3MQ.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A NAV emberei jelentek meg a Videotonnál, nagy bajban a fehérvári klub",
+        "link": "https://magyarnemzet.hu/sport/2026/11/videoton-nav-cser-palkovics-andras?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794482644,
+    "title_hu": "A NAV emberei jelentek meg a Videotonnál, nagy bajban a fehérvári klub",
+    "lead_hu": "Cser-Palkovics András polgármester a Facebookon tett drámai bejelentést....",
+    "content_hu": "Cser-Palkovics András polgármester a Facebookon tett drámai bejelentést.",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_a4d264253a",
+    "slug": "kiszalltak-a-nav-nyomozoi-a-szekesfehervari-sostoi-stadionhoz-es-iratokat-adatho-a4d264",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e444c704-291c-413f-b26c-0adb6b9d68b2.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Kiszálltak a NAV nyomozói a székesfehérvári Sóstói Stadionhoz és iratokat, adathordozókat foglaltak le",
+        "link": "https://hvg.hu/gazdasag/20261112_kiszalltak-a-nav-nyomozoi-a-szekesfehervari-sostoi-stadionhoz-es-iratokat-adathordozokat-foglaltak-le"
+      }
+    ],
+    "published_at": 1794482536,
+    "title_hu": "Kiszálltak a NAV nyomozói a székesfehérvári Sóstói Stadionhoz és iratokat, adathordozókat foglaltak le",
+    "lead_hu": "A Videoton tavalyi megmentése körül hűtlen kezelés merült fel, az önkormányzat szerint nincsen félnivalójuk....",
+    "content_hu": "A Videoton tavalyi megmentése körül hűtlen kezelés merült fel, az önkormányzat szerint nincsen félnivalójuk.",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_070e6559cb",
     "slug": "trk-gabor-magyar-bejelenteserol-a-tegnapi-esemenyek-utan-feltehetoen-ugy-itelhet-070e65",
     "tags": [
@@ -3922,6 +4082,31 @@
     "title_hu": "Ez a szerved jelzi a haragot, és ez a félelmet: itt lapulnak az érzések a testedben",
     "lead_hu": "Így üzen a tested, ha baj van a lelkeddel....",
     "content_hu": "Így üzen a tested, ha baj van a lelkeddel.",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_9220eb4a58",
+    "slug": "hatalmas-fordulat-tevedett-az-eu-trvenyszeke-a-google-nek-ez-masfelmilliard-euro-9220eb",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/ivPwnj-1t74EKonPRXq_ZZqLFNAQjKeESaGMNHLZhh8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA2ZjBjNmNmZmY2MTQ2OGI4N2IzYjc5YzU3Y2YwYjA5.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Hatalmas fordulat: tévedett az EU Törvényszéke, a Google-nek ez másfélmilliárd eurójába kerülhet",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/google-tevedett-az-eu-torvenyszeke-versenyjogi-birsag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794482298,
+    "title_hu": "Hatalmas fordulat: tévedett az EU Törvényszéke, a Google-nek ez másfélmilliárd eurójába kerülhet",
+    "lead_hu": "A megtámadott ítéletet hatályon kívül helyezhetik....",
+    "content_hu": "A megtámadott ítéletet hatályon kívül helyezhetik.",
     "importance_score": 0.0,
     "is_top_hero": false,
     "is_top_list": false
@@ -4297,31 +4482,6 @@
     "title_hu": "Kevesebb mint 3 év alatt 51 millió forintot perkált a soproni színház Eperjes Károlynak művészeti tanácsadásért",
     "lead_hu": "Ez idő alatt rendezésért, és színjátszásért Eperjes további 16 és fél millió forintot számlázott ki a színháznak....",
     "content_hu": "Ez idő alatt rendezésért, és színjátszásért Eperjes további 16 és fél millió forintot számlázott ki a színháznak.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_9c0928dd60",
-    "slug": "a-macskad-nem-beszel-de-a-teste-mindent-elarul-9c0928",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "A macskád nem beszél. De a teste mindent elárul.",
-        "link": "https://nlc.hu/eletmod/20261112/macska-stressz-jelei-farokcsapkodas-rejtozkodes-es-etvagytalansag-is-figyelmeztethet/5lexh3h"
-      }
-    ],
-    "published_at": 1794480625,
-    "title_hu": "A macskád nem beszél. De a teste mindent elárul.",
-    "lead_hu": "A macskák ritkán mutatják, ha valami nincs rendben. Nem panaszkodnak, nem sírnak, nem kérnek segítséget. Mégis, ha odafigyelünk rájuk, észrevehetjük, hogy viselkedésükkel folyamatosan jelzéseket külde…",
-    "content_hu": "A macskák ritkán mutatják, ha valami nincs rendben. Nem panaszkodnak, nem sírnak, nem kérnek segítséget. Mégis, ha odafigyelünk rájuk, észrevehetjük, hogy viselkedésükkel folyamatosan jelzéseket küldenek. The post A macskád nem beszél. De a teste mindent elárul. first appeared on nlc.",
     "importance_score": 0.0,
     "is_top_hero": false,
     "is_top_list": false
@@ -15352,31 +15512,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_4139717f2c",
-    "slug": "26-uj-ado-bevezeteset-tervezi-a-tisza-part-figyelm-413971",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/9cR5LTt01OeHYd44l3qlKNyd_6lr4t27Ml2uL0FUwdo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q1YTAyZGJlYTc4NDRiYzU4ZTJiMjIzOWE3YjgzZWFj.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "26 új adó bevezetését tervezi a Tisza Párt – figyelmeztet a Fidesz képviselője",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/26-uj-ado-bevezeteset-tervezi-a-tisza-part-figyelmeztet-a-fidesz-kepviseloje"
-      }
-    ],
-    "published_at": 1794403716,
-    "title_hu": "26 új adó bevezetését tervezi a Tisza Párt – figyelmeztet a Fidesz képviselője",
-    "lead_hu": "Palóc André szerint a tervezett intézkedések komoly következményekkel járhatnak a magyar családok, a munkavállalók és a vállalkozások számára.",
-    "content_hu": "Palóc André szerint a tervezett intézkedések komoly következményekkel járhatnak a magyar családok, a munkavállalók és a vállalkozások számára.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_65afee848d",
     "slug": "az-nvvh-szerint-nem-megalapozott-sesztak-miklos-ug-65afee",
     "tags": [
@@ -17597,81 +17732,6 @@
     "title_hu": "Ez a legtrükkösebb autós csapda: ha ilyet látsz a szélvédőn, azonnal hívj rendőrt",
     "lead_hu": "Egyre kreatívabb módszereket vetnek be a tolvajok.",
     "content_hu": "Egyre kreatívabb módszereket vetnek be a tolvajok.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_599004e19d",
-    "slug": "felvasarolt-egy-urkutatasi-ceget-a-4ig-599004",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/remred-1080-830-1111-1-e1794396375692-1024x574.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Felvásárolt egy űrkutatási céget a 4iG",
-        "link": "https://24.hu/tech/2026/11/11/4ig-urvallalat-remred-felvasarlasa/"
-      }
-    ],
-    "published_at": 1794396549,
-    "title_hu": "Felvásárolt egy űrkutatási céget a 4iG",
-    "lead_hu": "A vállalat az Európai Űrügynökség (ESA) felkérésére egy olyan műholdat fejleszt, amely a Hold körül keringve lát majd el kommunikációs és navigációs feladatokat. The post Felvásárolt egy űrkutatási cé…",
-    "content_hu": "A vállalat az Európai Űrügynökség (ESA) felkérésére egy olyan műholdat fejleszt, amely a Hold körül keringve lát majd el kommunikációs és navigációs feladatokat. The post Felvásárolt egy űrkutatási céget a 4iG first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_4740515a4c",
-    "slug": "rubik-erno-meg-sosem-rakta-ki-a-rubik-kockat-ezert-474051",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/JzgMPBeqgmiA-Ck0d2lw5ADRFJWp8_-xmVLoSglT5QE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I4MzgwMjY5OTdiYTRhNTM5MGM5M2E0MjEyZjFiMGU1.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Rubik Ernő még sosem rakta ki a Rubik-kockát, ezért - videó",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/rubik-erno-kocka-jaszbereny"
-      }
-    ],
-    "published_at": 1794396412,
-    "title_hu": "Rubik Ernő még sosem rakta ki a Rubik-kockát, ezért - videó",
-    "lead_hu": "Újra Magyarországon gyártják mostantól a magyar feltaláló híres találmányát, a folyamathoz több különleges dolgot is társítottak.",
-    "content_hu": "Újra Magyarországon gyártják mostantól a magyar feltaláló híres találmányát, a folyamathoz több különleges dolgot is társítottak.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_af4a0d3427",
-    "slug": "egykor-mesterinek-tunt-mostanra-zatonyra-futott-pu-af4a0d",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2157681144-rubel-oroszorszag-tozsde-arfolyam-reszvenypiac-deviza-penzugy-gazdasa-850470.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Egykor mesterinek tűnt, mostanra zátonyra futott Putyin és Hszi Csinping nagy terve",
-        "link": "https://www.portfolio.hu/gazdasag/20261111/egykor-mesterinek-tunt-mostanra-zatonyra-futott-putyin-es-hszi-csinping-nagy-terve-875744"
-      }
-    ],
-    "published_at": 1794396240,
-    "title_hu": "Egykor mesterinek tűnt, mostanra zátonyra futott Putyin és Hszi Csinping nagy terve",
-    "lead_hu": "Az amerikai másodlagos szankciók nyomására Oroszország gyakorlatilag feladta azt a törekvését, hogy a nemzetközi kereskedelemben a kínai jüannal váltsa ki a dollárt. Bár a Kínával folytatott áruforgal…",
-    "content_hu": "Az amerikai másodlagos szankciók nyomására Oroszország gyakorlatilag feladta azt a törekvését, hogy a nemzetközi kereskedelemben a kínai jüannal váltsa ki a dollárt. Bár a Kínával folytatott áruforgalom továbbra is bővül, az orosz exportbevételeken belül a jüan aránya idén a felére, 22 százalékra zuhant a 2024 közepén mért csúcshoz képest, miközben az ázsiai kivitel 69 százalékát már rubelben egyenlítik ki. A visszavonulás miatt az orosz vállalatok nemzetközi utalásai jelentősen lelassultak, megdrágultak és kiszámíthatatlanná váltak - írta a Bloomberg.",
     "importance_score": 0.0,
     "is_top_hero": false,
     "is_top_list": false
