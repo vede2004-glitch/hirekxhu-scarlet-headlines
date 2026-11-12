@@ -137,7 +137,7 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
             <div className="lg:sticky lg:top-24"><h2 className="mb-6 flex items-center justify-between font-display text-sm font-extrabold uppercase"><Link to="/hirfolyam" className="hover:text-primary">Hírfolyam →</Link><span className="flex items-center gap-2 text-[10px] text-muted-foreground"><span className="size-2 rounded-full bg-primary motion-safe:animate-live" />Élő</span></h2>
               <div className="max-h-[60vh] overflow-y-auto pl-1">{timeline(sidebar)}{!sidebar.length && <p className="text-xs text-muted-foreground">Nincs találat.</p>}</div>
             </div>
-          </aside>
+          </aside>}
         </section>
       </> : <section aria-label="Hírfolyam időrendben" className="max-w-4xl py-3">
         {timeline(list.slice(0, limit))}
