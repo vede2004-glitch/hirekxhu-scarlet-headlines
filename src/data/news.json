@@ -403,7 +403,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 13,
+    "sources_count": 14,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
@@ -469,13 +469,18 @@
         "source": "ATV",
         "title": "Történelmi lépéseket jelentett be Magyar Péter: régi kormányzati mulasztást pótolnak ezzel",
         "link": "https://www.atv.hu/belfold/20261112/magyar-peter-nok-varandos-tabletta/"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Az Isztambuli egyezmény ratifikálását kezdeményezi a kormány",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/az-isztambuli-egyezmeny-ratifikalasat-kezdemenyezi-a-kormany"
       }
     ],
     "published_at": 1794487260,
     "title_hu": "Nővédelmi intézkedéseket és az Isztambuli Egyezmény ratifikációját kezdeményezi a kormány",
     "lead_hu": "Magyar Péter csütörtökön több, a nők biztonságát és egészségügyi ellátását érintő intézkedést jelentett be. A kormány kezdeményezi az Isztambuli Egyezmény ratifikálását, és büntetőjogi, valamint egészségügyi változtatásokat is tervez.",
     "content_hu": "• **Az egyezmény ratifikációja** A kormány kezdeményezi az Isztambuli Egyezmény ratifikálását. Az Európa Tanács 2011-ben fogadta el a nők elleni és a családon belüli erőszak megelőzését célzó megállapodást; Magyarország 2014-ben aláírta, de eddig nem ratifikálta.\n\n• **A csomag előkészítése** A bejelentés szerint az intézkedéseket szakértők közreműködésével, társadalmi egyeztetésre támaszkodva dolgozták ki az elmúlt hónapokban. Szakértői becslések alapján évente mintegy 50 nő hal meg párkapcsolati erőszak következtében Magyarországon.\n\n• **Büntetőjogi változtatások** Szigorítanák a távoltartás szabályait, önálló bűncselekményként kezelnék az intim felvételekkel való visszaélést, és különleges eljárási bánásmódot biztosítanának a kapcsolati erőszak áldozatainak. A tervek szerint a szexuális cselekményhez a másik fél önkéntes beleegyezése szükséges.\n\n• **Egészségügyi szabályok** Módosítanák a szívhangrendeletet: megfelelő orvosi tájékoztatást követően a nők dönthetnének arról, hogy élnek-e az ott meghatározott lehetőséggel. A csomag része az esemény utáni tabletta vénykötelességének megszüntetése is.\n\n• **További támogatások** Összehangolnák és megerősítenék a várandós nők egészségügyi, szociális, anyagi és lelki támogatását. A menstruációs szegénység enyhítésére a rászoruló nők és lányok menstruációs termékekhez jutását is segítenék.\n\n• **Ellenzéki bírálatok** A KDNP közölte, hogy ellenzi az egyezmény ratifikálását. A párt kifogásai között szerepelt a társadalmi nem fogalmának használata és az egyezmény migrációval kapcsolatos értelmezése; Szentkirályi Alexandra, a Fidesz képviselője pedig politikai célú bejelentésnek nevezte Magyar Péter intézkedéseit.",
-    "importance_score": 150.0,
+    "importance_score": 160.0,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1148,51 +1153,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_78744c7e44",
-    "slug": "gyori-tanulmanyok-ujabb-reszletek-a-rendorsegi-vizsgalatrol-78744c",
-    "tags": [
-      "gyor",
-      "hajto-peter",
-      "pinter-bence",
-      "ipari-park-kft"
-    ],
-    "fingerprint": "1f88bc20faa3a10e6958326c1c527027",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/pinter-bence-e1794425359343-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Pintér Bence: Közpénzből fizetett, de mesterséges intelligenciával generált tanulmányok miatt nyomoz a rendőrség Győrben",
-        "link": "https://24.hu/belfold/2026/11/11/gyor-mesterseges-intelligencia-tanulmany-nyomozas-kozpenz/"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Tízmilliókat fizettek egy mesterséges intelligenciával készült kiadványért: feljelentést tett a polgármester",
-        "link": "https://www.portfolio.hu/befektetes/20261111/tizmilliokat-fizettek-egy-mesterseges-intelligenciaval-keszult-kiadvanyert-feljelentest-tett-a-polgarmester-875878"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Pintér Bence: Közpénzből készült, mesterséges intelligenciával generált tanulmányok ügyében nyomoz a rendőrség, egy exfideszes képviselő is érintett",
-        "link": "https://hvg.hu/itthon/20261111_pinter-bence-gyor-nyomozas-mesterseges-intelligencia-tanulmany"
-      },
-      {
-        "source": "ATV",
-        "title": "Botrány Győrben: Pintér Bence szerint mesterséges intelligenciával készülhettek a 30 milliós tanulmányok",
-        "link": "https://www.atv.hu/belfold/20261112/gyor-tanulmany-pinter-bence/"
-      }
-    ],
-    "published_at": 1794478260,
-    "title_hu": "Győri tanulmányok: újabb részletek a rendőrségi vizsgálatról",
-    "lead_hu": "A rendőrség jelentős vagyoni hátrányt okozó hűtlen kezelés gyanújával vizsgálja az Ipari Park Kft. összesen bruttó 30,7 millió forintos megrendeléseit. Pintér Bence polgármester szerint a dokumentumok mesterséges intelligenciával készülhettek; a városvezető újabb önkormányzati lépéseket is kezdeményez.",
-    "content_hu": "• **Rendőrségi nyomozás** A Veszprém Megyei Rendőr-főkapitányság hűtlen kezelés gyanúja miatt vizsgálja az Ipari Park Kft. megrendeléseit. Pintér Bence közlése szerint az ügy Hajtó Péter önkormányzati képviselőt, a Borkai-kampány korábbi vezetőjét és annak élettársát érinti.\n\n• **30,7 millió forintos kifizetés** A polgármester szerint az érintetteknek összesen bruttó 30,7 millió forintot fizettek ki, ebből Hajtó Péter 14 millió forintot kapott egy 37 oldalas, magyar és angol szövegeket is tartalmazó kiadványért. A dokumentum a megrendelő vállalatnál elektronikus formában nem érhető el.\n\n• **A kiadvány tartalma és illusztrációi** Pintér állítása szerint a brosúrában általános szövegek, véletlenszerű számadatok és a város helyszíneit pontatlanul ábrázoló képek szerepelnek. Példaként azt említette, hogy az Audi Arénát a Duna mellé helyező, illetve a Dunakapu térnél londoni épületeket megjelenítő képek is készültek.\n\n• **Feljelentés és az ügyészi felügyelet áthelyezése** Pintér elmondása szerint augusztusban, egy belső átvilágítást követően tett feljelentést ismeretlen tettes ellen. A Legfőbb Ügyészség a nyomozás ügyészi felügyeletét Győrből Veszprémbe helyezte át; a polgármester által közzétett dokumentum ezt a pártatlan eljárás biztosításával indokolta.\n\n• **Belső vizsgálat és tervezett intézkedések** A közgyűlés korábban elutasította Hajtó bizottsági tisztségeinek megszüntetését, és vizsgálatot kért a Győr-Szoltól. Pintér szerint a vizsgálat nem adott érdemi indoklást a megrendelésekre. A következő közgyűlésen ismét kezdeményezi Hajtó bizottsági pozícióinak megszüntetését, valamint az ügyvezető leváltását az Ipari Park Kft. és a Győr-Pér Repülőtér Kft. éléről.\n\n• **További háttéradatok** Hajtó Péter a 2024-es választáson a Borkai Zsolttal Közösen a Jövőnkért Egyesület jelöltjeként szerzett mandátumot. Egy másik ügyben kényszerítés miatt pénzbüntetést szabtak ki rá büntetővégzésben, de tárgyalást kért.",
-    "importance_score": 60.0,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_ff4c910dc9",
     "slug": "a-charles-ciklon-esot-es-tiszai-arhullamot-hozhat-ff4c91",
     "tags": [
@@ -1491,6 +1451,51 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_78744c7e44",
+    "slug": "gyori-tanulmanyok-ujabb-reszletek-a-rendorsegi-vizsgalatrol-78744c",
+    "tags": [
+      "gyor",
+      "hajto-peter",
+      "pinter-bence",
+      "ipari-park-kft"
+    ],
+    "fingerprint": "1f88bc20faa3a10e6958326c1c527027",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/pinter-bence-e1794425359343-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Pintér Bence: Közpénzből fizetett, de mesterséges intelligenciával generált tanulmányok miatt nyomoz a rendőrség Győrben",
+        "link": "https://24.hu/belfold/2026/11/11/gyor-mesterseges-intelligencia-tanulmany-nyomozas-kozpenz/"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Tízmilliókat fizettek egy mesterséges intelligenciával készült kiadványért: feljelentést tett a polgármester",
+        "link": "https://www.portfolio.hu/befektetes/20261111/tizmilliokat-fizettek-egy-mesterseges-intelligenciaval-keszult-kiadvanyert-feljelentest-tett-a-polgarmester-875878"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Pintér Bence: Közpénzből készült, mesterséges intelligenciával generált tanulmányok ügyében nyomoz a rendőrség, egy exfideszes képviselő is érintett",
+        "link": "https://hvg.hu/itthon/20261111_pinter-bence-gyor-nyomozas-mesterseges-intelligencia-tanulmany"
+      },
+      {
+        "source": "ATV",
+        "title": "Botrány Győrben: Pintér Bence szerint mesterséges intelligenciával készülhettek a 30 milliós tanulmányok",
+        "link": "https://www.atv.hu/belfold/20261112/gyor-tanulmany-pinter-bence/"
+      }
+    ],
+    "published_at": 1794478260,
+    "title_hu": "Győri tanulmányok: újabb részletek a rendőrségi vizsgálatról",
+    "lead_hu": "A rendőrség jelentős vagyoni hátrányt okozó hűtlen kezelés gyanújával vizsgálja az Ipari Park Kft. összesen bruttó 30,7 millió forintos megrendeléseit. Pintér Bence polgármester szerint a dokumentumok mesterséges intelligenciával készülhettek; a városvezető újabb önkormányzati lépéseket is kezdeményez.",
+    "content_hu": "• **Rendőrségi nyomozás** A Veszprém Megyei Rendőr-főkapitányság hűtlen kezelés gyanúja miatt vizsgálja az Ipari Park Kft. megrendeléseit. Pintér Bence közlése szerint az ügy Hajtó Péter önkormányzati képviselőt, a Borkai-kampány korábbi vezetőjét és annak élettársát érinti.\n\n• **30,7 millió forintos kifizetés** A polgármester szerint az érintetteknek összesen bruttó 30,7 millió forintot fizettek ki, ebből Hajtó Péter 14 millió forintot kapott egy 37 oldalas, magyar és angol szövegeket is tartalmazó kiadványért. A dokumentum a megrendelő vállalatnál elektronikus formában nem érhető el.\n\n• **A kiadvány tartalma és illusztrációi** Pintér állítása szerint a brosúrában általános szövegek, véletlenszerű számadatok és a város helyszíneit pontatlanul ábrázoló képek szerepelnek. Példaként azt említette, hogy az Audi Arénát a Duna mellé helyező, illetve a Dunakapu térnél londoni épületeket megjelenítő képek is készültek.\n\n• **Feljelentés és az ügyészi felügyelet áthelyezése** Pintér elmondása szerint augusztusban, egy belső átvilágítást követően tett feljelentést ismeretlen tettes ellen. A Legfőbb Ügyészség a nyomozás ügyészi felügyeletét Győrből Veszprémbe helyezte át; a polgármester által közzétett dokumentum ezt a pártatlan eljárás biztosításával indokolta.\n\n• **Belső vizsgálat és tervezett intézkedések** A közgyűlés korábban elutasította Hajtó bizottsági tisztségeinek megszüntetését, és vizsgálatot kért a Győr-Szoltól. Pintér szerint a vizsgálat nem adott érdemi indoklást a megrendelésekre. A következő közgyűlésen ismét kezdeményezi Hajtó bizottsági pozícióinak megszüntetését, valamint az ügyvezető leváltását az Ipari Park Kft. és a Győr-Pér Repülőtér Kft. éléről.\n\n• **További háttéradatok** Hajtó Péter a 2024-es választáson a Borkai Zsolttal Közösen a Jövőnkért Egyesület jelöltjeként szerzett mandátumot. Egy másik ügyben kényszerítés miatt pénzbüntetést szabtak ki rá büntetővégzésben, de tárgyalást kért.",
+    "importance_score": 53.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_7bcaecacce",
     "slug": "szerbiaban-tbb-mint-90-embert-vettek-orizetbe-a-valasztas-ota-kztuk-egy-volt-min-7bcaec",
     "tags": [
@@ -1706,51 +1711,6 @@
     "title_hu": "Medián: a többség szerint Orbán Viktornak is felelnie kellene",
     "lead_hu": "A Medián felmérésében a válaszadók 68 százaléka támogatná az Orbán Viktor elleni jogi eljárást, és 57 százalék valószínűnek tartja a felelősségre vonását. A kutatás idején Matolcsy György már őrizetben volt, Orbán Áron ügyéig viszont még nem jutottak el a nyomozók.",
     "content_hu": "• **A válaszadók 68 százaléka támogatná az Orbán Viktor elleni eljárást**, 25 százalék ellenezné, 7 százalék pedig nem válaszolt vagy bizonytalan volt. A Fidesz-szavazók 16 százaléka is pártolja a bírósági felelősségre vonást; körükben május óta 4 százalékpontos emelkedést mértek. Májusban a teljes mintában 65 százalék támogatta az eljárást.\n\n• **A megkérdezettek 57 százaléka reálisnak tartja, hogy Orbán Viktort is elérje az elszámoltatás.** Ezt a Tisza szavazóinak 73, a Fidesz támogatóinak 34 százaléka gondolja így.\n\n• **A válaszadók négyötöde lényegesnek tartja az elmúlt 16 év korrupciós ügyeinek kivizsgálását és az érintettek felelősségre vonását.** A teljes mintában 70 százalék nagyon fontosnak, 8 százalék kevéssé fontosnak ítélte ezt. A Fidesz-szavazók 67 százaléka legalább közepes jelentőséget tulajdonít a vizsgálatoknak, 29 százalékuk pedig kiemelten fontosnak tartja azokat.\n\n• **Az elszámoltatás eddigi alakulásával a megkérdezettek 57 százaléka elégedett, 19 százalékuk elégedetlen.** Az elégedettség a Tisza szavazói között 83, a Fidesz táborában 8 százalékos; utóbbiak kétharmada szerint kedvezőtlen irányú a folyamat. A kisebb pártok szavazói és a párt nélküliek körében hasonló az elégedettek és elégedetlenek aránya. A felmérés időszakában Matolcsy György már őrizetben volt, Orbán Áron ügyében azonban még nem jutottak el hozzá a nyomozók.\n\n• **A megkérdezettek 56 százaléka megfelelőnek ítélte a hatóságok munkáját.**\n\n• **A Medián 2026. október 29. és november 4. között telefonon kérdezett meg 1000 embert.** Az országosan reprezentatív mintát KSH-adatok alapján, településtípus, nem, életkor és iskolai végzettség szerint súlyozták; a hibahatár legfeljebb 3,1 százalékpont.",
-    "importance_score": 48.0,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_1c00e28267",
-    "slug": "bocsanatot-kert-a-lidl-nagy-anettol-a-biztonsagi-or-miatt-1c00e2",
-    "tags": [
-      "lidl",
-      "nagy-anett",
-      "diszkriminacio",
-      "sefek-sefe"
-    ],
-    "fingerprint": "28a4ab6e451abf80d5815e8ea12669a9",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Bocsánatot kért a Lidl a TV2-ből ismert roma séftől, akire rászállt egy biztonsági őr vásárlás közben",
-        "link": "https://444.hu/2026/11/11/bocsanatot-kert-a-lidl-a-tv2-bol-ismert-roma-seftol-akire-raszallt-egy-biztonsagi-or-vasarlas-kozben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Bocsánatot kért a Lidl a roma séftől, akit egy biztonsági őr követett, és aki ettől még megy feljebb",
-        "link": "https://telex.hu/belfold/2026/11/11/nagy-anett-sef-lidl-bocsanatkeres"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "A biztonsági őr követte az ismert roma séfet, bocsánatot kért a Lidl",
-        "link": "https://hvg.hu/elet/20261111_lidl-biztonsagi-or-roma-sef-bocsanatkeres"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Biztonsági őr követte vásárlás közben a roma séfet, bocsánatot kért a Lidl",
-        "link": "https://nlc.hu/gasztro/20261112/roma-sef-biztonsagi-or-lidl/0x1ffvp"
-      }
-    ],
-    "published_at": 1794467640,
-    "title_hu": "Bocsánatot kért a Lidl Nagy Anettől a biztonsági őr miatt",
-    "lead_hu": "Nagy Anett, a Séfek séfe korábbi szereplője szerint egy kispesti Lidlben vásárlás közben őt és fiát feltűnően figyelte egy biztonsági őr. A vállalat levélben kért bocsánatot, és a kamerarendszer hibájával magyarázta az őr üzleten belüli mozgását; Nagy vitatja a magyarázatot, és jelezte, hogy továbbviszi az ügyet.",
-    "content_hu": "• **A kispesti Lidlben történt az eset:** Nagy Anett elmondása szerint fiával vásárolt, amikor egy biztonsági őr többször a közelükben állt, és figyelte, mit tesznek a bevásárlókocsiba. Nagy úgy vélte, roma származása miatt kerültek a figyelem középpontjába.\n\n• **Panaszt tett az üzletben:** A fizetés után elkérte a panaszkönyvet, és az üzletvezetőnek is jelezte a történteket. Beszámolója szerint a biztonsági őr azt mondta, nem őket figyelte.\n\n• **A Lidl levélben kért bocsánatot:** A vállalat a kamerarendszer meghibásodásával indokolta, hogy az őrnek folyamatosan körbe kellett járnia az üzletet. A levél szerint a szolgálatvezető arra kérte a vagyonőrt, hogy munkája során ügyeljen a diszkrécióra, és ne okozzon kellemetlenséget a vásárlóknak.\n\n• **Nagy nem fogadta el maradéktalanul az indoklást:** Kétségbe vonta, hogy egy óránál is tovább tartózkodtak volna az üzletben, és azt is felvetette, hogy működésképtelen kamerák mellett miként állapíthatták meg a bent töltött időt. Közölte, hogy további lépéseket tesz az ügyben.\n\n• **Nagy a Séfek séfe 2026-os évadában szerepelt:** A műsorba 35 év szakmai tapasztalattal érkezett, korábban séfként és séfhelyettesként is dolgozott. A verseny döntő hetében esett ki.",
     "importance_score": 48.0,
     "is_top_hero": false,
     "is_top_list": true
@@ -1997,6 +1957,51 @@
     "title_hu": "Új részletek derültek ki három volt ellenzéki politikus diplomata-útleveléről",
     "lead_hu": "Fodor Gábor, Veres János és Szilágyi György egyéni kérelemre, miniszteri engedéllyel jutott diplomata-útlevélhez, amelyeket a Tisza-kormány felülvizsgálata után visszavontak. A kérelmek időpontja és indoklása eltért, az útleveleket pedig 2026-ban vonták vissza vagy tiltották le.",
     "content_hu": "• **Fodor kétszer is igényelt útlevelet** 2018-ban, a Magyar Liberális Párt elnökeként nemzetközi kapcsolatainak fenntartására hivatkozott. Miután 2019-ben távozott a párt éléről, 2022-ben ismét kérelmet adott be; ennek engedélyét 2026 júniusában visszavonták, az okmányt szeptemberben letiltották. Fodor azt mondta, külföldi konferenciák miatt kérte, de nem használta.\n\n• **Veres útlevelét 2023-ban állították ki** A volt pénzügyminiszter szerint felesége, Dobolyi Alexandra kezdeményezte a kérelmet Szijjártó Péternél. Veres egy bakui eseménnyel indokolta, hogy biztonsági okokból el akarta kísérni feleségét az útjaira: elmondása szerint egy takarítónő fémszéket hajított a delegáció felé. Az okmányt 2026 júliusában vonták vissza, Veres augusztusban adta le.\n\n• **Szilágyi 2022 szeptemberében kapta meg az útlevelet** A volt jobbikos képviselő korábban kialakított külföldi kapcsolatainak ápolását jelölte meg indokként. Az engedélyt 2026 júliusában visszavonták, az okmányt szeptemberben letiltották; Szilágyi elmondta, hogy ritkán használta.\n\n• **A minisztérium szerint sok esetben nem volt diplomáciai indok** Velkey György László miniszterhelyettes úgy nyilatkozott, hogy a korábban kiadott diplomata-útlevelek túlnyomó részét nem támasztotta alá diplomáciai érdek.",
+    "importance_score": 43.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_1c00e28267",
+    "slug": "bocsanatot-kert-a-lidl-nagy-anettol-a-biztonsagi-or-miatt-1c00e2",
+    "tags": [
+      "lidl",
+      "nagy-anett",
+      "diszkriminacio",
+      "sefek-sefe"
+    ],
+    "fingerprint": "28a4ab6e451abf80d5815e8ea12669a9",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Bocsánatot kért a Lidl a TV2-ből ismert roma séftől, akire rászállt egy biztonsági őr vásárlás közben",
+        "link": "https://444.hu/2026/11/11/bocsanatot-kert-a-lidl-a-tv2-bol-ismert-roma-seftol-akire-raszallt-egy-biztonsagi-or-vasarlas-kozben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Bocsánatot kért a Lidl a roma séftől, akit egy biztonsági őr követett, és aki ettől még megy feljebb",
+        "link": "https://telex.hu/belfold/2026/11/11/nagy-anett-sef-lidl-bocsanatkeres"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "A biztonsági őr követte az ismert roma séfet, bocsánatot kért a Lidl",
+        "link": "https://hvg.hu/elet/20261111_lidl-biztonsagi-or-roma-sef-bocsanatkeres"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Biztonsági őr követte vásárlás közben a roma séfet, bocsánatot kért a Lidl",
+        "link": "https://nlc.hu/gasztro/20261112/roma-sef-biztonsagi-or-lidl/0x1ffvp"
+      }
+    ],
+    "published_at": 1794467640,
+    "title_hu": "Bocsánatot kért a Lidl Nagy Anettől a biztonsági őr miatt",
+    "lead_hu": "Nagy Anett, a Séfek séfe korábbi szereplője szerint egy kispesti Lidlben vásárlás közben őt és fiát feltűnően figyelte egy biztonsági őr. A vállalat levélben kért bocsánatot, és a kamerarendszer hibájával magyarázta az őr üzleten belüli mozgását; Nagy vitatja a magyarázatot, és jelezte, hogy továbbviszi az ügyet.",
+    "content_hu": "• **A kispesti Lidlben történt az eset:** Nagy Anett elmondása szerint fiával vásárolt, amikor egy biztonsági őr többször a közelükben állt, és figyelte, mit tesznek a bevásárlókocsiba. Nagy úgy vélte, roma származása miatt kerültek a figyelem középpontjába.\n\n• **Panaszt tett az üzletben:** A fizetés után elkérte a panaszkönyvet, és az üzletvezetőnek is jelezte a történteket. Beszámolója szerint a biztonsági őr azt mondta, nem őket figyelte.\n\n• **A Lidl levélben kért bocsánatot:** A vállalat a kamerarendszer meghibásodásával indokolta, hogy az őrnek folyamatosan körbe kellett járnia az üzletet. A levél szerint a szolgálatvezető arra kérte a vagyonőrt, hogy munkája során ügyeljen a diszkrécióra, és ne okozzon kellemetlenséget a vásárlóknak.\n\n• **Nagy nem fogadta el maradéktalanul az indoklást:** Kétségbe vonta, hogy egy óránál is tovább tartózkodtak volna az üzletben, és azt is felvetette, hogy működésképtelen kamerák mellett miként állapíthatták meg a bent töltött időt. Közölte, hogy további lépéseket tesz az ügyben.\n\n• **Nagy a Séfek séfe 2026-os évadában szerepelt:** A műsorba 35 év szakmai tapasztalattal érkezett, korábban séfként és séfhelyettesként is dolgozott. A verseny döntő hetében esett ki.",
     "importance_score": 43.0,
     "is_top_hero": false,
     "is_top_list": true
@@ -2523,6 +2528,36 @@
     "title_hu": "Házszerű buszváró épült Csehbányán",
     "lead_hu": "A Veszprém vármegyei Csehbányán egy nyolc négyzetméteres, házra emlékeztető buszvárót alakítottak ki. Az épületben szabadkönyvtár is helyet kap, és közösségi térként is használhatják.",
     "content_hu": "• **Házszerű kialakítás** A bakonyi település új buszvárója téglafalakkal, hőszigetelt nyílászárókkal, ácsolt tetőszerkezettel és kerámia tetőcseréppel készült.\n\n• **Nyolc négyzetméter** A kis épület a buszra várakozókat védi az időjárástól, miközben kialakítása a hagyományos megállóknál igényesebb megjelenést ad neki.\n\n• **Szabadkönyvtár és közösségi funkció** A buszváróban könyveket is elhelyeznek, a teret pedig a közlekedés mellett találkozókra is használhatják.",
+    "importance_score": 35.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_2ee57e8ace",
+    "slug": "itt-van-magyar-peter-ujabb-bosszuja-kivonultak-a-h-2ee57e",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/c_qAuLWJ3KdNdRXLue4sMB8WYgLdGi7y8FIRaXt9TaA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkyNGQwNTE3ODE5YjRlM2FhNmE0MTg4MTUwOGM5ZmU2.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Itt van Magyar Péter újabb bosszúja: kivonultak a hatóságok Lezsák Sándor alapítványához",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/itt-van-magyar-peter-ujabb-bosszuja-kivonultak-a-hatosagok-lezsak-sandor-alapitvanyahoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "ATV",
+        "title": "„Ő maga a bántalmazó” – Magyar Péter bejelentése csak terelés a KDNP szerint",
+        "link": "https://www.atv.hu/belfold/20261112/kdnp-magyar-peter-bantalmazo-nok/"
+      }
+    ],
+    "published_at": 1794482731,
+    "title_hu": "Itt van Magyar Péter újabb bosszúja: kivonultak a hatóságok Lezsák Sándor alapítványához",
+    "lead_hu": "A Fidesz frakcióvezetője politikai megtorlást emleget.",
+    "content_hu": "A Fidesz frakcióvezetője politikai megtorlást emleget.",
     "importance_score": 35.0,
     "is_top_hero": false,
     "is_top_list": true
@@ -3902,6 +3937,81 @@
     "importance_score": 20.0,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_cca71fa512",
+    "slug": "novak-elod-nincs-helye-a-kzintezmenyeken-az-lmbtq-zaszlonak-cca71f",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/xvB-JN1xOrAK4CnhhgsK0NPPnITmgl6aBli91kwNSyE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NkMDlmZDYwNzMzYzQ5ZTBiMGEyYzhiYTRmNmZjZmMy.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Novák Előd: Nincs helye a közintézményeken az LMBTQ-zászlónak",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/lmbtq-szivarvanyos-zaszlo-novak-elod"
+      }
+    ],
+    "published_at": 1794489093,
+    "title_hu": "Novák Előd: Nincs helye a közintézményeken az LMBTQ-zászlónak",
+    "lead_hu": "A képviselő szerint iskolák és óvodák épületére is kikerülhet a szivárványos lobogó....",
+    "content_hu": "A képviselő szerint iskolák és óvodák épületére is kikerülhet a szivárványos lobogó.",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_1e505a5690",
+    "slug": "eu-csucs-dublinban-nagyon-rosszul-kezdodtt-magyar-peternek-magyarorszagnak-fizet-1e505a",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/3O58jzILXk83tyPLuJmRCuaEch7t49Id35p2zSWF4O8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzllMjZkOWUzMjMzNDQyZjI4OTc0NmM0ZDE0YWY1YmY4.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "EU-csúcs Dublinban: nagyon rosszul kezdődött Magyar Péternek, Magyarországnak fizetnie kell Ukrajnának? Egyből két súlyos figyelmeztetés érkezett",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/eu-csucs-dublin-magyar-peter-magyarorszag-ukrajna-penz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794488876,
+    "title_hu": "EU-csúcs Dublinban: nagyon rosszul kezdődött Magyar Péternek, Magyarországnak fizetnie kell Ukrajnának? Egyből két súlyos figyelmeztetés érkezett",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_9ff52bcd3f",
+    "slug": "vege-nincs-tovabb-elmondtak-a-nagy-magyar-ipari-termelok-miert-oriasi-gond-a-mos-9ff52b",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/df4lJI1ZVhcoDztlB10XQ33Ng9e0NA39t7t0nRwwo_Y/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYwY2UzMjc2NTlkZTRiNjQ5NTNlMWEyNzYyMDNhMTli.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Vége, nincs tovább: elmondták a nagy magyar ipari termelők, miért óriási gond a mostani energiaár, ez nagyon vissza fog ütni - \"pocsékul érezzük magunkat\"",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/energia-koltseg-adatkozpont-ipari-termelo-borsod-ief?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794488833,
+    "title_hu": "Vége, nincs tovább: elmondták a nagy magyar ipari termelők, miért óriási gond a mostani energiaár, ez nagyon vissza fog ütni - \"pocsékul érezzük magunkat\"",
+    "lead_hu": "Óriási terhek alatt nyögnek a magyar ipari termelők, a hálózatot pedig még csak most kapják majd telibe az adatközpontok....",
+    "content_hu": "Óriási terhek alatt nyögnek a magyar ipari termelők, a hálózatot pedig még csak most kapják majd telibe az adatközpontok.",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_8d9ecc9279",
@@ -5399,31 +5509,6 @@
     "title_hu": "Varga Judit visszatérése lehet a következő nagy politikai fordulat?",
     "lead_hu": "A témában most kapcsoltuk Pálfalvi Milán politikai elemzőt.",
     "content_hu": "A témában most kapcsoltuk Pálfalvi Milán politikai elemzőt.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_2ee57e8ace",
-    "slug": "itt-van-magyar-peter-ujabb-bosszuja-kivonultak-a-h-2ee57e",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/c_qAuLWJ3KdNdRXLue4sMB8WYgLdGi7y8FIRaXt9TaA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkyNGQwNTE3ODE5YjRlM2FhNmE0MTg4MTUwOGM5ZmU2.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Itt van Magyar Péter újabb bosszúja: kivonultak a hatóságok Lezsák Sándor alapítványához",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/itt-van-magyar-peter-ujabb-bosszuja-kivonultak-a-hatosagok-lezsak-sandor-alapitvanyahoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794482731,
-    "title_hu": "Itt van Magyar Péter újabb bosszúja: kivonultak a hatóságok Lezsák Sándor alapítványához",
-    "lead_hu": "A Fidesz frakcióvezetője politikai megtorlást emleget.",
-    "content_hu": "A Fidesz frakcióvezetője politikai megtorlást emleget.",
     "importance_score": 0.0,
     "is_top_hero": false,
     "is_top_list": false
@@ -17049,106 +17134,6 @@
     "title_hu": "A kerületvezetők többé nem hagynák, hogy Karácsony nélkülük egyezkedjen a kormánnyal",
     "lead_hu": "Baranyi Krisztinát, Ferencváros polgármesterét választotta társelnöknek Karácsony Gergely főpolgármester mellé a kerületi polgármestereket tömörítő Budapesti Önkormányzati Szövetség (BÖSZ) keddi tiszt…",
     "content_hu": "Baranyi Krisztinát, Ferencváros polgármesterét választotta társelnöknek Karácsony Gergely főpolgármester mellé a kerületi polgármestereket tömörítő Budapesti Önkormányzati Szövetség (BÖSZ) keddi tisztújító ülésén. A szervezet egyúttal határozatban utasította el a Fővárosi Közfejlesztések Tanácsának (FKT) parkolási rendszerrel kapcsolatos korábbi döntéshozatalát, annak felülvizsgálatát kezdeményezte, és szeretnék elérni, hogy a fórum a jövőben kizárólag olyan javaslatokat tárgyaljon, amelyeket előzetesen a BÖSZ is véleményezhetett. A közleményből az is kiderült, hogy elmarad az FKT november 12-re tervezett ülése.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_f78d0e7574",
-    "slug": "rovar-ur-most-a-szivarvanyos-telexet-tapossa-vadul-f78d0e",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Rovar úr most a szivárványos Telexet tapossa vadul Facebook-kommentekkel",
-        "link": "https://www.vadhajtasok.hu/2026/11/11/rovar-ur-most-a-szivarvanyos-telexet-tapossa-vadul-facebook-kommentekkel"
-      }
-    ],
-    "published_at": 1794402900,
-    "title_hu": "Rovar úr most a szivárványos Telexet tapossa vadul Facebook-kommentekkel",
-    "lead_hu": "Magyar Péter felháborodva esett neki az egyébként vele kapcsolatban jellemzően baráti hangot megütő Telexnek, hogy kritizálni merték a kormányt az aktanyilvánosság körüli botrányért. A miniszterelnök …",
-    "content_hu": "Magyar Péter felháborodva esett neki az egyébként vele kapcsolatban jellemzően baráti hangot megütő Telexnek, hogy kritizálni merték a kormányt az aktanyilvánosság körüli botrányért. A miniszterelnök fideszezéssel válaszolt a kormánypárti po...",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_af2bc85229",
-    "slug": "radikalis-fordulat-jhet-a-magyar-valasztasi-rendsz-af2bc8",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Radikális fordulat jöhet a magyar választási rendszerben, átírná a szabályokat az NVI",
-        "link": "https://www.atv.hu/belfold/20261111/nvi-valasztasi-rendszer-atalakitas/"
-      }
-    ],
-    "published_at": 1794402840,
-    "title_hu": "Radikális fordulat jöhet a magyar választási rendszerben, átírná a szabályokat az NVI",
-    "lead_hu": "Átfogó reformcsomagot terjesztett elő a Nemzeti Választási Iroda (NVI), amely a tavaszi voksolás tapasztalatai alapján merész módosításokkal nyúlna hozzá a választási rendszerhez.",
-    "content_hu": "Átfogó reformcsomagot terjesztett elő a Nemzeti Választási Iroda (NVI), amely a tavaszi voksolás tapasztalatai alapján merész módosításokkal nyúlna hozzá a választási rendszerhez.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_ba8f335647",
-    "slug": "ez-most-mindenkit-meglepett-ujabb-kulcsember-allt--ba8f33",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/ORgpwMXGA8oIBsXaZJVHYsUNHQ1mHwhME2DO-DvkKnM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRjNzNhOWM0ZDkyNzQxNjc5YzQxNjhkODYzYmZlZDEy.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Ez most mindenkit meglepett: újabb kulcsember állt fel a Tisza-kormányzatból, az okokról nem beszélnek – ezúttal Hegedűs Zsolt veszítette el az egyik legfontosabb munkatársát",
-        "link": "https://www.vg.hu/kozelet/2026/11/tisza-gilly-gyula-hegedus-zsolt-politikai-fotanacsado?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794402670,
-    "title_hu": "Ez most mindenkit meglepett: újabb kulcsember állt fel a Tisza-kormányzatból, az okokról nem beszélnek – ezúttal Hegedűs Zsolt veszítette el az egyik legfontosabb munkatársát",
-    "lead_hu": "December elején távozik a minisztériumból az egészségügyi tárca egyik fontos szakmai háttérembere.",
-    "content_hu": "December elején távozik a minisztériumból az egészségügyi tárca egyik fontos szakmai háttérembere.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_d147f70d3d",
-    "slug": "elkezdodtt-a-meghallgatas-d147f7",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/varga-judit-e1794400716593-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Elkezdődött a meghallgatás",
-        "link": "https://24.hu/belfold/2026/11/11/elkezdodott-a-meghallgatas/"
-      }
-    ],
-    "published_at": 1794402659,
-    "title_hu": "Elkezdődött a meghallgatás",
-    "lead_hu": "Toroczkai László, a vizsgálóbizottság elnöke néhány perccel 14 óra után megnyitotta az ülést. The post Elkezdődött a meghallgatás first appeared on 24.hu.",
-    "content_hu": "Toroczkai László, a vizsgálóbizottság elnöke néhány perccel 14 óra után megnyitotta az ülést. The post Elkezdődött a meghallgatás first appeared on 24.hu.",
     "importance_score": 0.0,
     "is_top_hero": false,
     "is_top_list": false
