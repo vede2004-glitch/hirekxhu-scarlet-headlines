@@ -14,6 +14,8 @@ type RawItem = {
   is_synthesized: boolean;
   /** A hírfájl jelöli az egyetlen kiemelt (hero) cikket: `is_top_hero: true`. */
   is_top_hero?: boolean | null;
+  /** A backend által adott toplista-helyezés (1, 2, 3…), vagy null, ha nincs a toplistán. */
+  top_rank?: number | null;
   sources_count?: number | undefined;
   sources: NewsSource[];
   published_at?: number | null;
@@ -34,6 +36,7 @@ export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "ti
   content: string;
   category: string;
   is_top_hero: boolean;
+  top_rank: number | null;
   i18n: Record<Lang, LangContent>;
 };
 
@@ -95,6 +98,7 @@ function normalize(r: RawItem): NewsItem {
     image: r.image,
     is_synthesized: r.is_synthesized,
     is_top_hero: r.is_top_hero === true,
+    top_rank: typeof r.top_rank === "number" && r.top_rank > 0 ? r.top_rank : null,
     sources_count: r.sources_count,
     sources: r.sources || [],
     published_at: r.published_at ?? tsFromId(r.group_id),
