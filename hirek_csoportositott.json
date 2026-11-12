@@ -88,22 +88,6 @@
     ]
   },
   {
-    "group_id": "group_3afb83acd1",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Bizottsági meghallgatások: Windisch László, Varga Judit és az Orbán Áron-ügy újabb kérdései",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/bizottsagi-meghallgatasok-windisch-varga-ugynokbotrany-nvvh",
-        "image": "https://cdn.hirtv.hu/2026/11/YD40933frp4mgt1ZpkEIZwwKOv9IUVfIyk_KlpaTOyI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YwMzUzNjEyNmQzYjQ2NmFiY2FkYTE3MTIzNGMzNWY1.webp",
-        "summary": "Meghallgatások, ügynökbotrány és vitatott hatósági hatáskörök.",
-        "category": "Politika",
-        "published_at": 1794430815
-      }
-    ]
-  },
-  {
     "group_id": "group_ef77f64efa",
     "category": "Politika",
     "articles_count": 2,
@@ -5286,7 +5270,7 @@
         "image": "https://raketa.hu/uploads/2026/11/aszaly.jpg",
         "summary": "A szakértők attól tartanak, hogy a szuper El Niño jelenség a globális felmelegedéssel együtt olyan szélsőséges időjárási eseményeket idézhet elő, amelyek világszerte súlyos egészségügyi válságot okozhatnak.",
         "category": "Kultúra",
-        "published_at": 1794517049
+        "published_at": 1794517308
       }
     ]
   },
@@ -5706,7 +5690,7 @@
         "image": "",
         "summary": "A Kereszténydemokrata Néppárt (KDNP) határozottan elutasítja az Isztambuli Egyezmény ratifikációját, továbbá azokat az életellenes lépéseket, amelyeket a miniszterelnök csütörtökön bejelentett.",
         "category": "Politika",
-        "published_at": 1794441600
+        "published_at": 1794508020
       }
     ]
   },
@@ -11875,6 +11859,38 @@
         "summary": "Moszkvában jártak az amerikai különmegbízottak.",
         "category": "Gazdaság",
         "published_at": 1794515322
+      }
+    ]
+  },
+  {
+    "group_id": "group_aa2282bcd0",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Steve Witkoff bejelentette: újabb háromoldalú béktárgyalás jön az orosz-ukrán háborúról",
+        "link": "https://www.vadhajtasok.hu/2026/11/12/steve-witkoff-bejelentette-ujabb-haromoldalu-bektargyalas-jon-az-orosz-ukran-haborurol",
+        "image": "",
+        "summary": "Újabb fordulat jöhet az ukrajnai béketárgyalásokban, miután az amerikai küldöttség Moszkvában egyeztetett Vlagyimir Putyin orosz elnökkel. Steve Witkoff szerint megállapodtak egy újabb tárgyalási fordulóról, amelyen már európai képviselők is részt vehetnek.",
+        "category": "Politika",
+        "published_at": 1794441600
+      }
+    ]
+  },
+  {
+    "group_id": "group_754ad9c76c",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Megjött a jelzés az Egyesült Államokból: újból lecsaptak a spekulánsok a tőzsdén",
+        "link": "https://www.portfolio.hu/befektetes/20261112/megjott-a-jelzes-az-egyesult-allamokbol-ujbol-lecsaptak-a-spekulansok-a-tozsden-876176",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2261899201-grafikon-tozsde-technikai-elemzes-arfolyam-kereskedes-reszveny-befektet-864510.jpg",
+        "summary": "A legfrissebb kedvezőtlen makrogazdasági adatok hatására a fedezeti alapok ismét növelik a short pozícióikat azokban a részvényekben, amelyek a leginkább kitettek a kamatváltozásoknak. A Bank of America (BofA) kereskedői szerint a vártnál magasabb infláció és a gyengülő lakáspiaci mutatók új lendületet adtak azoknak a piaci szereplőknek, akik a magasabb hitelköltségektől szenvedő vállalatok árfolyamesésére spekulálnak, miután egy nemrégiben lezajlott rali átmenetileg visszavonulásra kényszerítette őket - tudósított a Bloomberg.",
+        "category": "Gazdaság",
+        "published_at": 1794517020
       }
     ]
   }
