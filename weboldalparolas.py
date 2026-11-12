@@ -83,6 +83,7 @@ GROUPED_FILE = "hirek_csoportositott.json"
 ARCHIVE_FILE = "hirek_archivum.json"
 OUTPUT_FILE = "src/data/news.json"
 MANUAL_TOP_FILE = "manual_top.json"
+TOP_SELECTOR_FILE = "top_valaszto.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
 SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
@@ -177,7 +178,11 @@ def is_political_text(text):
 def classify_article(title, summary, source_name):
     text = f"{title} {summary}"
 
-    if is_political_text(text) or source_name in ["Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", "Híradó.hu (MTI)", "Magyar Nemzet", "HVG - Itthon", "Telex - Belföld", "Hír TV"]:
+    if is_political_text(text) or source_name in [
+        "Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", 
+        "Híradó.hu (MTI)", "Magyar Nemzet", "HVG - Itthon", "Telex - Belföld", 
+        "Hír TV", "Ellenpólus", "Infostart", "RTL.hu"
+    ]:
         return "Politika"
 
     if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport"]:
@@ -480,7 +485,12 @@ def run_pipeline():
 
     # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP)
     manual_top_data = load_json_file(MANUAL_TOP_FILE)
-    forced_group_ids = manual_top_data.get("group_ids", []) if isinstance(manual_top_data, dict) else []
+    forced_group_ids = []
+    if isinstance(manual_top_data, dict):
+        if "group_ids" in manual_top_data and isinstance(manual_top_data["group_ids"], list):
+            forced_group_ids = manual_top_data["group_ids"]
+        elif "group_id" in manual_top_data:
+            forced_group_ids = [manual_top_data["group_id"]]
 
     final_sorted_list = []
     forced_items = []
@@ -512,12 +522,28 @@ def run_pipeline():
 
     final_list = balanced_list + skipped_items
 
-    # 🎯 KIZÁRÓLAG A 0. INDEXŰ ELEM KAPJA MEG AZ IS_TOP_HERO = TRUE JELÖLÉST
+    # 🎯 TOP LISTÁS JELÖLÉS ÉS ÁTLÁTHATÓ GROUP_ID LISTA GENERÁLÁSA
+    top_valaszto_lista = []
+
     for idx, item in enumerate(final_list):
         item["is_top_hero"] = (idx == 0)
+        
+        is_forced = item.get("group_id") in forced_group_ids
+        is_multi_source = item.get("sources_count", 1) >= 2
+        item["is_top_list"] = is_forced or is_multi_source or (idx < 10)
 
+        top_valaszto_lista.append({
+            "cim": item.get("title_hu", ""),
+            "group_id": item.get("group_id"),
+            "forrasok_szama": item.get("sources_count", 1),
+            "kategoria": item.get("category", "Általános"),
+            "jelenleg_top_listan": item["is_top_list"],
+            "kezileg_kiemelve": is_forced
+        })
+
+    save_json_file(TOP_SELECTOR_FILE, top_valaszto_lista)
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ Magyar hírfrissítés kész! Megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban. (Top 1 Hero beállítva)")
+    print(f"⚡ Magyar hírfrissítés kész! Megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban, és {len(top_valaszto_lista)} ID a {TOP_SELECTOR_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
