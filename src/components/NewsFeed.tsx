@@ -119,7 +119,7 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
         </section>}
         <section className="mt-10 grid grid-cols-12 gap-8">
           <div className={cn("col-span-12", view === "top" && "lg:col-span-8")}>
-            <div className="mb-6 flex items-center justify-between border-b border-border pb-4"><h2 className="font-display text-sm font-extrabold uppercase">AI összesített hírek</h2><span className="text-[10px] text-muted-foreground">{list.length} hír</span></div>
+            <div className="mb-6 flex items-center justify-between border-b border-border pb-4"><h2 className="font-display text-sm font-extrabold uppercase">{view === "top" ? "AI összesített hírek" : "Minden hír időrendben"}</h2><span className="text-[10px] text-muted-foreground">{list.length} hír</span></div>
             <div className="grid grid-cols-1 gap-x-6 gap-y-9 md:grid-cols-2">
               {rest.map((item, i) => <article key={item.group_id} data-news-id={item.group_id} className="min-w-0">
                 <StoryLink item={item} className="group block">
