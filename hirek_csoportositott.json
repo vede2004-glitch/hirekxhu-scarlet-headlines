@@ -16,31 +16,6 @@
     ]
   },
   {
-    "group_id": "group_3cb0aa0d81",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Nagy Attila Tibor: Orbán Viktort börtönbe küldené a tiszás népharag, de van, amivel senki sem számol",
-        "link": "https://index.hu/velemeny/2026/11/11/orban-viktor-orban-aron-elszamoltatas-magyar-peter-tisza-kormany-fidesz-politika-jogallamisag/",
-        "image": "https://kep.index.hu/1/0/6991/69916/699167/69916739_5158569_438a2510d54fe3fec3b36b77ddf60fae_wm.jpg",
-        "summary": "Az elemző szerint nagyot fordult a kocka.",
-        "category": "Politika",
-        "published_at": 1794372300
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Balavány György: Orbán Viktor börtönbe fog menni, és abból nem forradalom lesz, hanem népünnepély",
-        "link": "https://24.hu/belfold/2026/11/11/balavany-orban-viktor-borton/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1083852328-masolat-1024x576.jpg",
-        "summary": "A legbőszítőbb, ám rendkívül elterjedt ostobaság, hogy a Orbán minderről nem tudott, hiszen maga is megmondta, hogy üzleti ügyekkel nem foglalkozik. The post Balavány György: Orbán Viktor börtönbe fog menni, és abból nem forradalom lesz, hanem népünnepély first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794416414
-      }
-    ]
-  },
-  {
     "group_id": "group_dd2ddec6a6",
     "category": "Kultúra",
     "articles_count": 1,
@@ -69,22 +44,6 @@
         "summary": "Pécs büszkesége közel került a tűzhöz az egyik legjobb olasz csapatnál.",
         "category": "Általános",
         "published_at": 1794372720
-      }
-    ]
-  },
-  {
-    "group_id": "group_3ec5ab991c",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "A színésznőnek sorra le kellett adnia a Madáchban a szerepeit, egyet tarthatott meg",
-        "link": "https://index.hu/kultur/2026/11/11/pszichodivak-terapias-komedia-maho-andrea-balazs-andrea/",
-        "image": "https://kep.index.hu/1/0/7247/72479/724790/72479077_5340955_9030835c4c3cbdba8ae38ad4f57bb0b0_wm.jpg",
-        "summary": "Mégis inkább hálás, nincs benne sértettség.",
-        "category": "Általános",
-        "published_at": 1794372600
       }
     ]
   },
@@ -4474,7 +4433,7 @@
   {
     "group_id": "group_03c6135065",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -4493,6 +4452,15 @@
         "summary": "Az amerikai hírszerzés, a kínai technológiai ambíciók és a washingtoni döntéshozatal egyik legkényesebb ügyévé vált Jensen Huang, az Nvidia vezérigazgatójának félrelépése.",
         "category": "Kultúra",
         "published_at": 1794431036
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A kémkedési ügybe keveredett Nvidia vezérigazgatójának menesztését fontolgatják",
+        "link": "https://telex.hu/kulfold/2026/11/12/nvidia-jensen-huang-viszony-vizsgalat-reszvenyek-zuhanas",
+        "image": "https://assets.telex.hu/images/20261112/1794458680-temp-chuame920oaieemggcb_cimlap-normal.jpg",
+        "summary": "Kiderült, hogy Jensen Huangnak egy második viszonya is lehetett cége egyik vezetőjével.",
+        "category": "Politika",
+        "published_at": 1794458746
       }
     ]
   },
@@ -10127,6 +10095,22 @@
     ]
   },
   {
+    "group_id": "group_3cb0aa0d81",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Balavány György: Orbán Viktor börtönbe fog menni, és abból nem forradalom lesz, hanem népünnepély",
+        "link": "https://24.hu/belfold/2026/11/11/balavany-orban-viktor-borton/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1083852328-masolat-1024x576.jpg",
+        "summary": "A legbőszítőbb, ám rendkívül elterjedt ostobaság, hogy a Orbán minderről nem tudott, hiszen maga is megmondta, hogy üzleti ügyekkel nem foglalkozik. The post Balavány György: Orbán Viktor börtönbe fog menni, és abból nem forradalom lesz, hanem népünnepély first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1794416414
+      }
+    ]
+  },
+  {
     "group_id": "group_2abc4274bc",
     "category": "Politika",
     "articles_count": 1,
@@ -12769,7 +12753,7 @@
         "image": "https://raketa.hu/uploads/2026/11/planet1_hero.jpg",
         "summary": "Hét éven keresztül figyelték a csillagászok a TOI-2535 b jelű távoli exobolygót, amely aztán váratlanul eltűnt a teleszkópok elől. A kutatók most megfejtették a rejtélyt.",
         "category": "Kultúra",
-        "published_at": 1794458609
+        "published_at": 1794459039
       }
     ]
   },
@@ -12849,7 +12833,7 @@
         "image": "https://raketa.hu/uploads/2021/02/peru_1.jpg",
         "summary": "Machu Picchu városát mélyen a perui Andok köderdői között, egy szinte megközelíthetetlen hegygerincen, 2430 méteres tengerszinten építették.",
         "category": "Kultúra",
-        "published_at": 1794458609
+        "published_at": 1794459039
       }
     ]
   },
@@ -12866,6 +12850,70 @@
         "summary": "A gáz forrásoldaláról is érkezhetnének ígéretesebb hírek.",
         "category": "Gazdaság",
         "published_at": 1794457997
+      }
+    ]
+  },
+  {
+    "group_id": "group_d20d473ad7",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Összeomlott egy épület Brooklynban, legalább ketten meghaltak, sok a sérült",
+        "link": "https://telex.hu/kulfold/2026/11/12/brooklyn-new-york-epulet-osszeomlas-vizsgalat-kereses",
+        "image": "https://assets.telex.hu/images/20261112/1794457098-temp-t5e6f2jfci388ihpiec_cimlap-normal.jpg",
+        "summary": "Még nem tudják pontosan, hány ember rekedt a romok alatt.",
+        "category": "Politika",
+        "published_at": 1794457245
+      }
+    ]
+  },
+  {
+    "group_id": "group_7d829b1e17",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Hiába ordít a hegyen, nem fog lavinát indítani",
+        "link": "https://telex.hu/eszkombajn/2026/11/12/lavina-hang-kialtas",
+        "image": "https://assets.telex.hu/images/20261106/1793972824-temp-7o6i2vacdc262dblfoj_cimlap-normal.jpg",
+        "summary": "Makacsul tartja magát a mítosz, hogy akár egy hangosabb kiáltás is képes lavinát elindítani a havas hegyoldalon. Ha szeret kiabálni, van egy jó hírünk: nyugodtan megteheti, nem lesz belőle katasztrófa.",
+        "category": "Politika",
+        "published_at": 1794456147
+      }
+    ]
+  },
+  {
+    "group_id": "group_83b841b469",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Kell félteni a magyar gazdaságot? Az új munkaszüneti nap után is sokat fogunk dolgozni",
+        "link": "https://telex.hu/g7/elet/2026/11/12/munkaszuneti-nap-munkaido-szabadnap-unnepnap-eu-karacsony",
+        "image": "https://assets.telex.hu/images/20261109/1794243976-temp-650cnr6gd7q7bjnopfm_cimlap-normal.jpg",
+        "summary": "A kormány a munka–magánélet egyensúly erősítésével indokolja a december 24-i változást. Ezzel a német kancellárt ki lehet kergetni a világból, igaz, a németek jóval kevesebbet dolgoznak a magyaroknál.",
+        "category": "Politika",
+        "published_at": 1794455403
+      }
+    ]
+  },
+  {
+    "group_id": "group_0ce8f7b6f5",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "3 csillagjegy, aki egyik pillanatban rajong érted, a másikban elérhetetlen",
+        "link": "https://nlc.hu/horoszkop/20261112/csillagjegyek-tulajdonsagai-ikrek-nyilas-vizonto/crbs9ls",
+        "image": "",
+        "summary": "Egyik nap elhalmoz szeretettel és figyelemmel, másnap szinte lehetetlen elérni. Három csillagjegy különösen kiszámíthatatlan lehet a szerelemben, és nem mindig könnyű követni az érzelmeit. The post 3 csillagjegy, aki egyik pillanatban rajong érted, a másikban elérhetetlen first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1794457980
       }
     ]
   }
