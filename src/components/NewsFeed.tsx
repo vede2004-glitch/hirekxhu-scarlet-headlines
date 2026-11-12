@@ -50,7 +50,9 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
     `${item.title} ${item.lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"));
   const sidebar = feed.singles.filter(matches).slice(0, 25);
   // Duplication guard: the hero story is shown once, at the top, and never inside the feed below.
-  const hero = feed.hero && matches(feed.hero) ? feed.hero : null;
+  // Duplication guard: the hero story is shown once, at the top of the Top view,
+  // and never inside the feed below. The Fresh view leads with its newest item instead.
+  const hero = view === "top" && feed.hero && matches(feed.hero) ? feed.hero : null;
   const [lead, side1, side2, ...rest] = hero ? [hero, ...list] : list;
   const count = list.length + (hero ? 1 : 0);
   const title = view === "top" ? "Top hírek" : view === "latest" ? "Friss hírek" : "Hírfolyam";
