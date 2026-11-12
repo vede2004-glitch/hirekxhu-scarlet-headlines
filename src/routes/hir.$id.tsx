@@ -4,7 +4,8 @@ import { useEffect } from "react";
 import { newsSlug } from "@/lib/news-slug";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
-import { ensureHistory, getNews, timeAgo, tr } from "@/lib/news";
+import { ensureHistory, getNews, tagLabel, timeAgo, tr } from "@/lib/news";
+import { heroPhoto } from "@/lib/news-covers";
 import { getLiveNews } from "@/lib/news-live.functions";
 import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, LANGS } from "@/lib/lang";
@@ -27,7 +28,7 @@ export const Route = createFileRoute("/hir/$id")({
     return item;
   },
   head: ({ loaderData }) => {
-    const title = loaderData ? `${loaderData.title} – HIREKX.hu` : "Hír – HIREKX.hu";
+    const title = loaderData?.title || "Hír – HIREKX.hu";
     const desc = plainBold(loaderData?.lead ?? "").slice(0, 160) ?? "HIREKX.hu hír";
     const meta = [
       { title },
@@ -43,7 +44,7 @@ export const Route = createFileRoute("/hir/$id")({
       links: url ? [{ rel: "canonical", href: url }] : [],
       scripts: loaderData
         ? [
-            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, null)) },
+            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, img)) },
             { type: "application/ld+json", children: serializeArticleSchema(breadcrumbSchema(loaderData)) },
           ]
         : [],
@@ -85,6 +86,11 @@ function Article() {
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
           {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>
+        {!!item.tags?.length && (
+          <div className="mt-8 flex flex-wrap gap-2">
+            {item.tags.map((tag) => <Link key={tag} to="/tag/$tagName" params={{ tagName: tag }} className="rounded-full border border-border bg-secondary px-3 py-1 text-xs font-semibold text-muted-foreground transition-colors hover:border-primary/50 hover:text-primary" title={tagLabel(tag)}>#{tag}</Link>)}
+          </div>
+        )}
         {item.is_synthesized && (
           <p className="mt-10 flex w-full items-start gap-3 rounded-lg border border-primary/25 bg-primary/10 px-4 py-3.5 text-[15px] leading-relaxed text-foreground/90">
             <Sparkles className="mt-1 size-4 shrink-0 text-primary" />

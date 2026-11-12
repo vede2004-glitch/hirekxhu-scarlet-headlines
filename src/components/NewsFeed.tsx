@@ -50,7 +50,11 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
   const matches = (item: NewsItem) => (category === ALL || item.category === category) &&
     `${item.title} ${item.lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"));
   const sidebar = feed.singles.filter(matches).slice(0, 25);
-  const [lead, side1, side2, ...rest] = list;
+  // Duplication guard: the hero story is shown once, at the top of the Top view,
+  // and never inside the feed below. The Fresh view leads with its newest item instead.
+  const hero = view === "top" && feed.hero && matches(feed.hero) ? feed.hero : null;
+  const [lead, side1, side2, ...rest] = hero ? [hero, ...list] : list;
+  const count = list.length + (hero ? 1 : 0);
   const title = view === "top" ? "Top hírek" : view === "latest" ? "Friss hírek" : "Hírfolyam";
 
   const timeline = (items: NewsItem[]) => <ol className="space-y-5 border-l border-border pl-4">
@@ -90,7 +94,7 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
           <Link to="/friss" aria-current={view === "latest" ? "page" : undefined} className={cn(buttonVariants({ variant: "ghost", size: "sm" }), "gap-1.5 px-2 text-xs", view === "latest" && "bg-primary/10 text-primary")}><Clock3 className="size-3.5" />Friss hírek</Link>
           <Link to="/hirfolyam" aria-current={view === "singles" ? "page" : undefined} className={cn(buttonVariants({ variant: "ghost", size: "sm" }), "gap-1.5 px-2 text-xs", view === "singles" && "bg-primary/10 text-primary")}><Radio className="size-3.5" />Hírfolyam</Link>
         </nav>
-        <h1 className="sr-only">{title}</h1><span className="shrink-0 text-[10px] text-muted-foreground">{list.length} hír</span>
+        <h1 className="sr-only">{title}</h1><span className="shrink-0 text-[10px] text-muted-foreground">{count} hír</span>
       </div>
       {view !== "singles" ? <>
         {lead && <section aria-label="Kiemelt hírek" className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
@@ -100,7 +104,7 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
               <div className="absolute inset-0 bg-gradient-to-t from-background via-background/75 to-background/25" />
               <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
               <div className="relative p-5 sm:p-8">
-                <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">✨ AI összesített hír</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{lead.category} · {formatDate(lead.published_at)}</span></div>
+                <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">{lead.is_synthesized ? "✨ AI összesített hír" : "Kiemelt hír"}</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{lead.category} · {formatDate(lead.published_at)}</span></div>
                 <h2 className="max-w-3xl font-display text-3xl font-extrabold leading-tight sm:text-4xl"><RichText text={lead.title} /></h2>
                 {lead.lead && <p className="mt-4 line-clamp-3 max-w-2xl text-sm leading-relaxed text-foreground/65 sm:text-base"><RichText text={lead.lead} /></p>}
                 <p className="mt-5 text-xs font-medium uppercase text-muted-foreground">{lead.sources.length} forrás alapján</p>
@@ -115,8 +119,8 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
           </article>)}
         </section>}
         <section className="mt-10 grid grid-cols-12 gap-8">
-          <div className="col-span-12 lg:col-span-8">
-            <div className="mb-6 flex items-center justify-between border-b border-border pb-4"><h2 className="font-display text-sm font-extrabold uppercase">AI összesített hírek</h2><span className="text-[10px] text-muted-foreground">{list.length} hír</span></div>
+          <div className={cn("col-span-12", view === "top" && "lg:col-span-8")}>
+            <div className="mb-6 flex items-center justify-between border-b border-border pb-4"><h2 className="font-display text-sm font-extrabold uppercase">{view === "top" ? "AI összesített hírek" : "Minden hír időrendben"}</h2><span className="text-[10px] text-muted-foreground">{list.length} hír</span></div>
             <div className="grid grid-cols-1 gap-x-6 gap-y-9 md:grid-cols-2">
               {rest.map((item, i) => <article key={item.group_id} data-news-id={item.group_id} className="min-w-0">
                 <StoryLink item={item} className="group block">
@@ -130,11 +134,11 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
             </div>
             {!list.length && <p className="py-12 text-center text-sm text-muted-foreground">Nincs találat.</p>}
           </div>
-          <aside aria-label="Egyforrású hírek" className="col-span-12 border-t border-border pt-4 lg:col-span-4 lg:border-t-0 lg:border-l lg:pl-6 lg:pt-0">
+          {view === "top" && <aside aria-label="Egyforrású hírek" className="col-span-12 border-t border-border pt-4 lg:col-span-4 lg:border-t-0 lg:border-l lg:pl-6 lg:pt-0">
             <div className="lg:sticky lg:top-24"><h2 className="mb-6 flex items-center justify-between font-display text-sm font-extrabold uppercase"><Link to="/hirfolyam" className="hover:text-primary">Hírfolyam →</Link><span className="flex items-center gap-2 text-[10px] text-muted-foreground"><span className="size-2 rounded-full bg-primary motion-safe:animate-live" />Élő</span></h2>
               <div className="max-h-[60vh] overflow-y-auto pl-1">{timeline(sidebar)}{!sidebar.length && <p className="text-xs text-muted-foreground">Nincs találat.</p>}</div>
             </div>
-          </aside>
+          </aside>}
         </section>
       </> : <section aria-label="Hírfolyam időrendben" className="max-w-4xl py-3">
         {timeline(list.slice(0, limit))}

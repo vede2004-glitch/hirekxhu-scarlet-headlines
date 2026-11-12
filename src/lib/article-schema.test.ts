@@ -4,7 +4,7 @@ import { articleSchema, serializeArticleSchema } from "./article-schema";
 
 const item: NewsItem = {
   group_id: "group_1792497600_1", category: "Politika", image: null,
-  is_synthesized: true, published_at: 1792497600,
+  is_synthesized: true, is_top_hero: false, top_rank: null, published_at: 1792497600,
   title: "**Hír**", lead: "Bevezető", content: "Cikk",
   sources: [{ source: "Maszol", title: "Eredeti hír", link: "https://maszol.ro/hir" }],
   i18n: { hu: { title: "Hír", lead: "Bevezető", content: "Cikk" }, ro: { title: "Știre", lead: "Introducere", content: "Articol" } },

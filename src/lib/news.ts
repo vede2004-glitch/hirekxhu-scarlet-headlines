@@ -8,9 +8,15 @@ export type LangContent = { title: string; lead: string; content: string };
 
 type RawItem = {
   group_id: string;
+  slug?: string | null;
+  tags?: string[] | null;
   category?: string | null;
   image: string | null;
   is_synthesized: boolean;
+  /** A hírfájl jelöli az egyetlen kiemelt (hero) cikket: `is_top_hero: true`. */
+  is_top_hero?: boolean | null;
+  /** A backend által adott toplista-helyezés (1, 2, 3…), vagy null, ha nincs a toplistán. */
+  top_rank?: number | null;
   sources_count?: number | undefined;
   sources: NewsSource[];
   published_at?: number | null;
@@ -30,6 +36,8 @@ export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "ti
   lead: string;
   content: string;
   category: string;
+  is_top_hero: boolean;
+  top_rank: number | null;
   i18n: Record<Lang, LangContent>;
 };
 
@@ -49,6 +57,22 @@ const tsFromId = (id: string) => {
   const m = /_(\d{9,11})_/.exec(id);
   return m ? Number(m[1]) : null;
 };
+
+/** Címke URL-barát alakja: kisbetű, ékezet nélkül, kötőjellel. */
+export function tagSlug(tag: string) {
+  return tag.replace(/^#/, "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+/** Címkéből olvasható felirat: "orban-aron" → "Orban Aron". */
+export const tagLabel = (tag: string) => tag.split("-").filter(Boolean).map((w) => w.charAt(0).toLocaleUpperCase("hu") + w.slice(1)).join(" ");
+
+/** Az összes cikk, amely a címkét viseli (újak elöl, ismétlés nélkül). */
+export function newsByTag(tag: string): NewsItem[] {
+  const seen = new Set<string>();
+  return [...news, ...history, ...archive]
+    .filter((n) => n.tags?.includes(tag) && !seen.has(n.group_id) && seen.add(n.group_id))
+    .sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0));
+}
 
 function normalize(r: RawItem): NewsItem {
   const huContent: LangContent = {
@@ -70,8 +94,12 @@ function normalize(r: RawItem): NewsItem {
 
   return {
     group_id: r.group_id,
+    slug: r.slug ?? null,
+    tags: Array.isArray(r.tags) ? r.tags.filter((t): t is string => typeof t === "string" && t.trim() !== "").map(tagSlug) : [],
     image: r.image,
     is_synthesized: r.is_synthesized,
+    is_top_hero: r.is_top_hero === true,
+    top_rank: typeof r.top_rank === "number" && r.top_rank > 0 ? r.top_rank : null,
     sources_count: r.sources_count,
     sources: r.sources || [],
     published_at: r.published_at ?? tsFromId(r.group_id),
@@ -189,6 +217,8 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
       group_id: id,
       image: arts.find((x) => x.image)?.image ?? null,
       is_synthesized: false,
+      is_top_hero: false,
+      top_rank: null,
       sources: arts.map((x) => ({ source: x.source ?? "", title: x.title ?? "", link: x.link ?? "" })),
       published_at: Math.max(...arts.map((x) => x.fetched_at ?? 0)) || null,
       title: c.title, lead: c.lead, content: c.content,

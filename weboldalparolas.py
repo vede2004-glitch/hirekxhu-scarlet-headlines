@@ -15,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 from sentence_transformers import SentenceTransformer
 
 # ==============================================================================
-# 1. KONFIGURÁCIÓ (TELJES ÉS FRISSÍTETT RSS LISTA)
+# 1. KONFIGURÁCIÓ (MAGYAR RSS HÍRFORRÁSOK)
 # ==============================================================================
 RSS_FEEDS = {
     # --- POLITIKA ÉS BELFÖLD ---
@@ -35,8 +35,11 @@ RSS_FEEDS = {
     "Konfront": "https://konfront.hu/feed",
     "Hír TV": "https://hirtv.origo.hu/publicapi/hu/rss/hirtv/articles",
     "24.hu - Legfrissebb": "https://24.hu/feed/",
+    "Infostart": "https://infostart.hu/rss",
+    "RTL.hu": "https://rtl.hu/rss/belfold",
+    "Ellenpólus": "https://ellenpolus.hu/feed/",
 
-    # --- ORIGO (KÖZVETLEN XML MANIFESTEK) ---
+    # --- ORIGO ---
     "Origo - Címlap": "https://www.origo.hu/rss/origo.xml",
     "Origo - Itthon": "https://www.origo.hu/rss/itthon.xml",
     "Origo - Nagyvilág": "https://www.origo.hu/rss/nagyvilag.xml",
@@ -53,7 +56,7 @@ RSS_FEEDS = {
     "Világgazdaság": "https://www.vg.hu/feed",
 
     # --- SPORT ---
-    "Nemzeti Sport": "https://www.nemzetisport.hu/rss/nemzetisport.xml",
+    "Nemzeti Sport": "https://www.nemzetisport.hu/rss",
     "M4 Sport": "https://m4sport.hu/feed/",
     "24.hu - Sport": "https://24.hu/sport/feed/",
 
@@ -65,7 +68,7 @@ RSS_FEEDS = {
     "Rakéta.hu": "https://raketa.hu/feed",
     "PC World": "https://pcworld.hu/rss/rss.xml",
 
-    # --- KULTÚRA, BULVÁR & ÉLETMÓD ---
+    # --- KULTÚRA ÉS BULVÁR ---
     "Blikk": "https://www.blikk.hu/static/rss_hirek.xml",
     "Bors": "https://borsonline.origo.hu/publicapi/hu/rss/bors/articles",
     "Femina": "https://femina.hu/24ora/rss/",
@@ -80,16 +83,13 @@ GROUPED_FILE = "hirek_csoportositott.json"
 ARCHIVE_FILE = "hirek_archivum.json"
 OUTPUT_FILE = "src/data/news.json"
 MANUAL_TOP_FILE = "manual_top.json"
+TOP_SELECTOR_FILE = "top_valaszto.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
 SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-    "Accept-Language": "hu-HU,hu;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Cache-Control": "no-cache",
-    "Pragma": "no-cache"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 }
 
 CATEGORIES = {
@@ -100,7 +100,7 @@ CATEGORIES = {
         "szavazás", "frakció", "országgyűlés", "polgármester", "főpolgármester", "képviselő",
         "parlamenti", "ügyészség", "ötpárti", "politikus", "kabinet", "államtitkár", "voks",
         "demokrata", "republikánus", "trump", "biden", "fehér ház", "kongresszus", "szankció",
-        "húti", "kína", "háború", "hadsereg", "honvédség", "nato", "putin", "zelenszkij", "ukrajna"
+        "kína", "háború", "hadsereg", "honvédség", "nato", "putin", "zelenszkij", "ukrajna"
     ],
     "Gazdaság": ["pénz", "euró", "forint", "huf", "infláció", "befektetés", "gazdaság", "cégek", "üzlet", "piac", "drágulás", "árak", "bank", "fizetés", "bér", "kamat", "mnb", "tőzsde", "gázár", "benzin"],
     "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "formai-1", "f1", "tenisz"],
@@ -117,10 +117,26 @@ _MODEL = None
 def get_model():
     global _MODEL
     if _MODEL is None:
-        print("🧠 SentenceTransformer AI modell betöltése (magyar nyelvre optimalizálva)...")
+        print("🧠 SentenceTransformer AI modell betöltése...")
         _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
         _MODEL.to(torch.float32)
     return _MODEL
+
+# ==============================================================================
+# 2. SEGÉDFUNKCIÓK
+# ==============================================================================
+def slugify(text):
+    if not text:
+        return ""
+    char_map = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ő': 'o', 'ú': 'u', 'ű': 'u', 'ü': 'u',
+        'Á': 'a', 'É': 'e', 'Í': 'i', 'Ó': 'o', 'Ő': 'o', 'Ú': 'u', 'Ű': 'u', 'Ü': 'u'
+    }
+    for orig, repl in char_map.items():
+        text = text.replace(orig, repl)
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\s-]', '', text)
+    return re.sub(r'[\s-]+', '-', text).strip('-')[:80]
 
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
@@ -129,28 +145,12 @@ def parse_published_time(entry) -> int:
             return int(calendar.timegm(pub_parsed))
         except Exception:
             pass
-
     raw_date = entry.get('published') or entry.get('updated') or entry.get('pubDate')
     if raw_date:
         try:
-            dt = parsedate_to_datetime(raw_date)
-            return int(dt.timestamp())
+            return int(parsedate_to_datetime(raw_date).timestamp())
         except Exception:
             pass
-
-    link = entry.get('link', '')
-    url_date_match = re.search(r'(\d{4})[-/](\d{2})[-/](\d{2})', link) or re.search(r'(\d{2})[-/](\d{2})[-/](\d{4})', link)
-    if url_date_match:
-        try:
-            parts = url_date_match.groups()
-            if len(parts[0]) == 4:
-                dt = datetime(int(parts[0]), int(parts[1]), int(parts[2]))
-            else:
-                dt = datetime(int(parts[2]), int(parts[1]), int(parts[0]))
-            return int(dt.timestamp())
-        except Exception:
-            pass
-
     return 0
 
 def load_json_file(filename):
@@ -162,6 +162,26 @@ def load_json_file(filename):
             return []
     return []
 
+def load_manual_top_ids(filename) -> list:
+    """Biztonságosan kiolvassa a kézzel kiemelt group_id-kat a manual_top.json fájlból."""
+    if not os.path.exists(filename):
+        return []
+    try:
+        with open(filename, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        raw_ids = []
+        if isinstance(data, list):
+            raw_ids = data
+        elif isinstance(data, dict):
+            if "group_ids" in data and isinstance(data["group_ids"], list):
+                raw_ids = data["group_ids"]
+            elif "group_id" in data and data["group_id"]:
+                raw_ids = [data["group_id"]]
+        return [str(gid).strip() for gid in raw_ids if str(gid).strip()]
+    except Exception as e:
+        print(f"⚠️ Hiba a(z) {filename} beolvasásakor: {e}")
+        return []
+
 def save_json_file(filename, data):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
@@ -169,24 +189,20 @@ def save_json_file(filename, data):
 def clean_text(text):
     if not text:
         return ""
-    text = BeautifulSoup(text, 'html.parser').text.strip()
-    text = re.sub(r'\s+', ' ', text)
-    return text
+    return re.sub(r'\s+', ' ', BeautifulSoup(text, 'html.parser').text).strip()
 
 def is_political_text(text):
     text_lower = text.lower()
-    for kw in CATEGORIES["Politika"]:
-        if re.search(r'\b' + re.escape(kw) + r'\b', text_lower):
-            return True
-    return False
+    return any(re.search(r'\b' + re.escape(kw) + r'\b', text_lower) for kw in CATEGORIES["Politika"])
 
 def classify_article(title, summary, source_name):
     text = f"{title} {summary}"
 
-    if is_political_text(text):
-        return "Politika"
-
-    if source_name in ["Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", "Híradó.hu (MTI)", "Magyar Nemzet", "HVG - Itthon", "Telex - Belföld", "Hír TV"]:
+    if is_political_text(text) or source_name in [
+        "Vadhajtások", "Magyar Jelen", "Konfront", "Mandiner", "444.hu", 
+        "Híradó.hu (MTI)", "Magyar Nemzet", "HVG - Itthon", "Telex - Belföld", 
+        "Hír TV", "Ellenpólus", "Infostart", "RTL.hu"
+    ]:
         return "Politika"
 
     if "Sport" in source_name or source_name in ["Nemzeti Sport", "M4 Sport"]:
@@ -202,13 +218,12 @@ def classify_article(title, summary, source_name):
     for category, keywords in CATEGORIES.items():
         if category in ["Politika", "Általános"]:
             continue
-        for kw in keywords:
-            if re.search(r'\b' + re.escape(kw) + r'\b', text_lower):
-                return category
+        if any(re.search(r'\b' + re.escape(kw) + r'\b', text_lower) for kw in keywords):
+            return category
 
     return "Általános"
 
-def extract_cover_image(entry, article_url, session):
+def extract_cover_image(entry):
     if 'media_content' in entry and entry.media_content:
         for media in entry.media_content:
             if 'url' in media and media['url']:
@@ -223,7 +238,6 @@ def extract_cover_image(entry, article_url, session):
         img = soup.find('img')
         if img and img.get('src'):
             return img['src']
-
     return ""
 
 def get_embedding(title, summary):
@@ -232,8 +246,7 @@ def get_embedding(title, summary):
     text_to_embed = f"{clean_title}. {clean_title}. {clean_sum}"
     if not text_to_embed.strip():
         return []
-    model_inst = get_model()
-    embedding = model_inst.encode(text_to_embed, convert_to_numpy=True)
+    embedding = get_model().encode(text_to_embed, convert_to_numpy=True)
     return np.round(embedding, 4).tolist()
 
 def cosine_similarity(v1, v2):
@@ -245,7 +258,7 @@ def cosine_similarity(v1, v2):
         return 0.0
     return float(np.dot(a, b) / (norm_a * norm_b))
 
-def extract_article_data(entry, source_name, session, cutoff_24h):
+def extract_article_data(entry, source_name, cutoff_24h):
     title = clean_text(entry.get('title', ''))
     link = entry.get('link', '').strip()
 
@@ -258,9 +271,8 @@ def extract_article_data(entry, source_name, session, cutoff_24h):
     if pub_timestamp == 0 or pub_timestamp < cutoff_24h:
         return None
 
-    raw_summary = entry.get('summary', '') or entry.get('description', '')
-    clean_summary = clean_text(raw_summary)
-    image_url = extract_cover_image(entry, link, session)
+    clean_summary = clean_text(entry.get('summary', '') or entry.get('description', ''))
+    image_url = extract_cover_image(entry)
     category = classify_article(title, clean_summary, source_name)
 
     return {
@@ -281,52 +293,27 @@ def fetch_single_feed(item_and_cutoff):
     
     try:
         response = session.get(feed_url, timeout=12, allow_redirects=True)
-        if response.status_code in [403, 500, 503]:
-            feed = feedparser.parse(feed_url)
-        else:
-            response.raise_for_status()
-            feed = feedparser.parse(response.content)
-
+        feed = feedparser.parse(response.content if response.status_code == 200 else feed_url)
         for entry in feed.entries:
-            art = extract_article_data(entry, source_name, session, cutoff_24h)
+            art = extract_article_data(entry, source_name, cutoff_24h)
             if art and art["title"]:
                 extracted.append(art)
-                
-    except Exception:
-        try:
-            feed = feedparser.parse(feed_url)
-            for entry in feed.entries:
-                art = extract_article_data(entry, source_name, session, cutoff_24h)
-                if art and art["title"]:
-                    extracted.append(art)
-        except Exception as e:
-            print(f"⚠️ Hiba a(z) {source_name} feed beolvasásakor: {e}")
+    except Exception as e:
+        print(f"⚠️ Hiba a(z) {source_name} feed beolvasásakor: {e}")
             
     return extracted
 
 def calculate_importance_score(item):
-    """
-    Intelligens pontozás: KIZÁRÓLAG az összevont / többforrásos hírekre érvényes!
-    Ha a hír mögött csak 1 forrás van, 0 pontot kap, így a normál időrendi sorrendben marad.
-    """
     sources_count = item.get("sources_count", 1)
-    
     if sources_count <= 1:
         return 0.0
 
-    score = 0.0
-    
-    # 1. Összevont források száma szerinti bónusz
-    score += sources_count * 10.0
-
-    # 2. Breaking / Sürgős kulcsszavak az összevont hírekben
+    score = sources_count * 10.0
     text = f"{item.get('title_hu', '')} {item.get('lead_hu', '')}".lower()
-    breaking_keywords = ["rendkívüli", "bejelentés", "friss", "döntés", "kormány", "háború", "katasztrófa", "baleset"]
-    for kw in breaking_keywords:
-        if kw in text:
-            score += 5.0
+    
+    if any(kw in text for kw in ["rendkívüli", "bejelentés", "friss", "döntés", "kormány", "háború", "katasztrófa", "baleset"]):
+        score += 5.0
 
-    # 3. Frissességi bónusz az összevont híreknek
     pub_time = item.get("published_at", 0)
     age_hours = (time.time() - pub_time) / 3600.0
     if age_hours < 3:
@@ -338,6 +325,9 @@ def calculate_importance_score(item):
 
     return score
 
+# ==============================================================================
+# 3. FŐ FOLYAMAT
+# ==============================================================================
 def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n[{now_str}] 🔄 Magyar hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
@@ -422,9 +412,8 @@ def run_pipeline():
     save_json_file(MEMORY_FILE, fresh_memory)
     if archive_updated:
         save_json_file(ARCHIVE_FILE, archive)
-        print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az {ARCHIVE_FILE} fájlban.")
 
-    # Csoportosított memória kiírása
+    # CSOPORTOSÍTOTT MEMÓRIA
     grouped_dictionary = {}
     for item in fresh_memory:
         g_id = item["group_id"]
@@ -452,38 +441,47 @@ def run_pipeline():
     # NEWS.JSON FRISSÍTÉS
     os.makedirs("src/data", exist_ok=True)
     existing_news = load_json_file(OUTPUT_FILE)
-    
     news_map = {item["group_id"]: item for item in existing_news if isinstance(item, dict) and "group_id" in item}
 
     for item in fresh_memory:
         g_id = item.get("group_id")
         pub_time = int(item.get("fetched_at", 0))
+        short_id = g_id.replace("group_", "")[:6]
 
         if g_id in news_map:
             existing_sources = {s.get("link") for s in news_map[g_id].get("sources", [])}
             new_source_link = item.get("link")
-            
             if new_source_link and new_source_link not in existing_sources:
                 news_map[g_id].setdefault("sources", []).append({
                     "source": item.get("source"),
                     "title": item.get("title"),
                     "link": item.get("link")
                 })
-            
             news_map[g_id]["sources_count"] = len(news_map[g_id]["sources"])
-        
+
+            if news_map[g_id].get("is_synthesized") and news_map[g_id].get("title_hu"):
+                clean_slug = slugify(news_map[g_id]["title_hu"])
+                news_map[g_id]["slug"] = f"{clean_slug}-{short_id}" if clean_slug else g_id
+            elif "slug" not in news_map[g_id]:
+                clean_slug = slugify(item.get("title", ""))
+                news_map[g_id]["slug"] = f"{clean_slug}-{short_id}" if clean_slug else g_id
+            
+            if "tags" not in news_map[g_id] or not news_map[g_id]["tags"]:
+                cat_tag = slugify(item.get("category", "Általános"))
+                news_map[g_id]["tags"] = [cat_tag] if cat_tag else ["hirek"]
         else:
-            sources_list = [{
-                "source": item.get("source"),
-                "title": item.get("title"),
-                "link": item.get("link")
-            }]
+            sources_list = [{"source": item.get("source"), "title": item.get("title"), "link": item.get("link")}]
+            clean_slug = slugify(item.get("title", ""))
+            cat_tag = slugify(item.get("category", "Általános"))
+
             news_map[g_id] = {
                 "group_id": g_id,
+                "slug": f"{clean_slug}-{short_id}" if clean_slug else g_id,
+                "tags": [cat_tag] if cat_tag else ["hirek"],
                 "category": item.get("category", "Általános"),
                 "image": item.get("image", ""),
                 "is_synthesized": False,
-                "sources_count": len(sources_list),
+                "sources_count": 1,
                 "sources": sources_list,
                 "published_at": pub_time,
                 "title_hu": item.get("title", ""),
@@ -491,57 +489,47 @@ def run_pipeline():
                 "content_hu": item.get("summary", "")
             }
 
-    updated_list = list(news_map.values())
-    valid_news_list = [item for item in updated_list if item.get("published_at", 0) >= cutoff_24h]
+    valid_news_list = [item for item in news_map.values() if item.get("published_at", 0) >= cutoff_24h]
 
     for item in valid_news_list:
-        if "sources" in item and isinstance(item["sources"], list):
-            item["sources_count"] = len(item["sources"])
-
-    # STAGE 4: KÉTLÉPCSŐS FELÜLELLENŐRZÉS (POLITIKAI FELÜLBÍRÁLÁS)
-    verified_list = []
-    for item in valid_news_list:
-        full_text_to_check = f"{item.get('title_hu', '')} {item.get('lead_hu', '')} {item.get('content_hu', '')}"
-        
-        for src in item.get("sources", []):
-            full_text_to_check += f" {src.get('title', '')}"
-
-        if is_political_text(full_text_to_check):
+        item["sources_count"] = len(item.get("sources", []))
+        full_text = f"{item.get('title_hu', '')} {item.get('lead_hu', '')} {item.get('content_hu', '')}"
+        if is_political_text(full_text):
             item["category"] = "Politika"
 
-        verified_list.append(item)
-
-    # INTELLIGENS SÚLYOZÁS ALAPJÁN TÖRTÉNŐ RENDSZEREZÉS
-    for item in verified_list:
+    # SÚLYOZÁS ÉS RENDEZÉS
+    for item in valid_news_list:
         item["importance_score"] = calculate_importance_score(item)
 
-    # Elődlegesen az okos fontossági pontszám, másodlagosan a frissesség számít
-    verified_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
+    valid_news_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
 
-    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE
-    manual_top_data = load_json_file(MANUAL_TOP_FILE)
-    forced_group_id = None
-    if isinstance(manual_top_data, dict):
-        forced_group_id = manual_top_data.get("group_id")
+    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP)
+    forced_group_ids = load_manual_top_ids(MANUAL_TOP_FILE)
+    if forced_group_ids:
+        print(f"📌 Kézzel kiemelt csoportok betöltve ({MANUAL_TOP_FILE}): {forced_group_ids}")
 
     final_sorted_list = []
-    forced_item = None
+    forced_items = []
 
-    for item in verified_list:
-        if forced_group_id and item.get("group_id") == forced_group_id:
-            forced_item = item
+    for item in valid_news_list:
+        if item.get("group_id") in forced_group_ids:
+            forced_items.append(item)
         else:
             final_sorted_list.append(item)
 
-    if forced_item:
-        final_sorted_list.insert(0, forced_item)
-        print(f"👑 Kézi kiemelés aktiválva a(z) {forced_group_id} azonosítójú hírhez!")
+    if forced_items:
+        forced_items.sort(key=lambda x: forced_group_ids.index(x.get("group_id")) if x.get("group_id") in forced_group_ids else 999)
+        final_sorted_list = forced_items + final_sorted_list
 
-    # Forrás egyensúlyozás (ne legyen ugyanaz a portál 3-szor egymás után)
+    # FORRÁS KIEGYENSÚLYOZÁS (a kézzel kiemelteket nem bontja meg)
     balanced_list = []
     skipped_items = []
 
     for item in final_sorted_list:
+        if item.get("group_id") in forced_group_ids:
+            balanced_list.append(item)
+            continue
+
         item_source = item.get("sources", [{}])[0].get("source")
         if (
             len(balanced_list) >= 2 
@@ -554,8 +542,36 @@ def run_pipeline():
 
     final_list = balanced_list + skipped_items
 
+    # 🎯 TOP_RANK SORSZÁM ÉS ÁTLÁTHATÓ GROUP_ID LISTA GENERÁLÁSA
+    top_valaszto_lista = []
+    current_rank = 1
+
+    for idx, item in enumerate(final_list):
+        is_forced = item.get("group_id") in forced_group_ids
+        is_multi_source = item.get("sources_count", 1) >= 2
+        
+        if is_forced or is_multi_source or (idx < 12):
+            item["top_rank"] = current_rank
+            item["is_top_hero"] = (current_rank == 1)
+            item["is_top_list"] = True
+            current_rank += 1
+        else:
+            item["top_rank"] = None
+            item["is_top_hero"] = False
+            item["is_top_list"] = False
+
+        top_valaszto_lista.append({
+            "top_helyezes": item["top_rank"] if item["top_rank"] else "Nincs a Top listán",
+            "cim": item.get("title_hu", ""),
+            "group_id": item.get("group_id"),
+            "forrasok_szama": item.get("sources_count", 1),
+            "kategoria": item.get("category", "Általános"),
+            "kezileg_kiemelve": is_forced
+        })
+
+    save_json_file(TOP_SELECTOR_FILE, top_valaszto_lista)
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ Magyar hírfrissítés kész! Súlyozva, rendezve és elmentve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
+    print(f"⚡ Magyar hírfrissítés kész! Megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban, és {len(top_valaszto_lista)} ID a {TOP_SELECTOR_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
