@@ -16,22 +16,6 @@
     ]
   },
   {
-    "group_id": "group_e3c34e8d87",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Ömlik a víz a plafonból, de a felső szomszéd nincs otthon? Ez a protokoll, ha beázás történik",
-        "link": "https://www.atv.hu/belfold/20261111/beazas-tarsashaz-csotores-kar/",
-        "image": "",
-        "summary": "Több lakásban is komoly pusztítást végezhet a beázás, a helyzetet pedig tovább bonyolítja, ha a felelős felső szomszéd nem tartózkodik otthon, vagy egyáltalán nem működik együtt a kármentesítésben. De mit tehetünk ilyen esetben? Kit véd a jog, és ki fizeti a károkat?",
-        "category": "Általános",
-        "published_at": 1794368040
-      }
-    ]
-  },
-  {
     "group_id": "group_fc267937ca",
     "category": "Politika",
     "articles_count": 1,
@@ -9313,7 +9297,7 @@
   {
     "group_id": "group_ef6d9a816f",
     "category": "Kultúra",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "HVG - Tudomány & Tech",
@@ -9323,6 +9307,15 @@
         "summary": "Nem használták elegen, elengedi a számítógépes PlayStation-szoftver kezét a Sony.",
         "category": "Kultúra",
         "published_at": 1794409380
+      },
+      {
+        "source": "Rakéta.hu",
+        "title": "Most már hivatalosan is bejelentették azt, hogy december 10-én végleg lelövik a PlayStation PC-változatát",
+        "link": "https://raketa.hu/most-mar-hivatalosan-is-bejelentettek-azt-hogy-december-10-en-vegleg-lelovik-a-playstation-pc-valtozatat/",
+        "image": "https://raketa.hu/uploads/2026/11/playstation.jpg",
+        "summary": "A Sony hamarosan búcsút int a PlayStation Plus egyik PC-s szolgáltatásának, miután kiderült, hogy szinte alig érdekelte az előfizetőket.",
+        "category": "Kultúra",
+        "published_at": 1794454581
       }
     ]
   },
@@ -12858,7 +12851,7 @@
         "image": "https://raketa.hu/uploads/2026/11/doomsday-3.jpg",
         "summary": "Holnap, azaz november 13-án jön el a világvége, legalábbis ez derül ki abból a matematikai modellszámításból, amelyet hatvanhat évvel ezelőtt készítettek a szakértők. Az évtizedekkel ezelőtti teóriával ellentétben azonban ma már teljesen más képet mutatnak az emberiség előtt álló valódi veszélyekről.",
         "category": "Kultúra",
-        "published_at": 1794454156
+        "published_at": 1794454581
       }
     ]
   },
@@ -12939,6 +12932,38 @@
         "summary": "Két hete jelent meg az alkotója által csak kungfupunknak hívott Phantom Blade Zero, ami simán ott van az idei év legjobb játékai között, és vannak dolgok, amiket annyira jól csinál, hogy mindenkinek mutogatni kellene.",
         "category": "Politika",
         "published_at": 1794434008
+      }
+    ]
+  },
+  {
+    "group_id": "group_17e449c796",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Bartucz remekelt, Mikler elköszönt – új kapusra lehet szüksége a magyar válogatottnak",
+        "link": "https://magyarnemzet.hu/sport/2026/11/mikler-bartucz-palasics-ando-kezilabda-valogatott-kapus?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/C2OaI5psh4BtcETxtkZT4Xws-TrylfDeG-Ay9Aj1W8A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzcyODliOWM2MmYzNTQwNWM4MGQ3NjY5YjQ4ZGYxNzIx.jpg",
+        "summary": "Más stílusú játékost várnának a posztra, ahol Palasicsot kiszorította elüldözött csapattársa.",
+        "category": "Politika",
+        "published_at": 1794454200
+      }
+    ]
+  },
+  {
+    "group_id": "group_e4087ec55d",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Kuporgatós hetek várnak a nyugdíjasokra: sokat kell várniuk a decemberi kifizetés után",
+        "link": "https://www.atv.hu/belfold/20261112/nyugdij-december-utalas-karacsony/",
+        "image": "https://www.youtube.com/embed/gDBZrqS0Zug",
+        "summary": "Már december elején megérkezhet a nyugdíj a bankszámlákra, viszont a korábbi jóváírás miatt érdemes előre tervezni: a decemberi kifizetés és a következő januári utalás között akár 41 nap is eltelhet.",
+        "category": "Általános",
+        "published_at": 1794454440
       }
     ]
   }
