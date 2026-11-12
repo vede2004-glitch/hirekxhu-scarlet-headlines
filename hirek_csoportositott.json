@@ -332,31 +332,6 @@
     ]
   },
   {
-    "group_id": "group_78744c7e44",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Pintér Bence: Közpénzből készült, mesterséges intelligenciával generált tanulmányok ügyében nyomoz a rendőrség, egy exfideszes képviselő is érintett",
-        "link": "https://hvg.hu/itthon/20261111_pinter-bence-gyor-nyomozas-mesterseges-intelligencia-tanulmany",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/51c47269-2fe1-4ad3-b688-5224d77a09a2.jpg",
-        "summary": "Hajtó Péter a 2024-es választáson a Borkai Zsolttal Közösen a Jövőnkért Egyesület színeiben jutott mandátumhoz.",
-        "category": "Politika",
-        "published_at": 1794429000
-      },
-      {
-        "source": "ATV",
-        "title": "Botrány Győrben: Pintér Bence szerint mesterséges intelligenciával készülhettek a 30 milliós tanulmányok",
-        "link": "https://www.atv.hu/belfold/20261112/gyor-tanulmany-pinter-bence/",
-        "image": "",
-        "summary": "Jelentős vagyoni hátrányt okozó hűtlen kezelés gyanúja miatt nyomoz a rendőrség a győri Ipari Park Kft.-nél közpénzből megrendelt tanulmányok ügyében – közölte Pintér Bence, Győr polgármestere.",
-        "category": "Bulvár",
-        "published_at": 1794478260
-      }
-    ]
-  },
-  {
     "group_id": "group_0180828502",
     "category": "Általános",
     "articles_count": 2,
@@ -3547,7 +3522,7 @@
   {
     "group_id": "group_127fc25626",
     "category": "Gazdaság",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -3566,6 +3541,15 @@
         "summary": "Péntek estig több hullámban érkezik a csapadék.",
         "category": "Politika",
         "published_at": 1794471517
+      },
+      {
+        "source": "444.hu",
+        "title": "Megérkezett hazánkba Charles: éjszaka országszerte kiadós eső várható",
+        "link": "https://444.hu/2026/11/12/megerkezett-hazankba-charles-ejszaka-orszagszerte-kiados-eso-varhato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Az esőzés reggelre sem áll el, péntek délig további 15-40 milliméternyi csapadék várható.",
+        "category": "Politika",
+        "published_at": 1794515358
       }
     ]
   },
@@ -5298,6 +5282,22 @@
     ]
   },
   {
+    "group_id": "group_78744c7e44",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Botrány Győrben: Pintér Bence szerint mesterséges intelligenciával készülhettek a 30 milliós tanulmányok",
+        "link": "https://www.atv.hu/belfold/20261112/gyor-tanulmany-pinter-bence/",
+        "image": "",
+        "summary": "Jelentős vagyoni hátrányt okozó hűtlen kezelés gyanúja miatt nyomoz a rendőrség a győri Ipari Park Kft.-nél közpénzből megrendelt tanulmányok ügyében – közölte Pintér Bence, Győr polgármestere.",
+        "category": "Bulvár",
+        "published_at": 1794478260
+      }
+    ]
+  },
+  {
     "group_id": "group_bdad0f6822",
     "category": "Politika",
     "articles_count": 2,
@@ -5402,7 +5402,7 @@
         "image": "https://raketa.hu/uploads/2026/11/aszaly.jpg",
         "summary": "A szakértők attól tartanak, hogy a szuper El Niño jelenség a globális felmelegedéssel együtt olyan szélsőséges időjárási eseményeket idézhet elő, amelyek világszerte súlyos egészségügyi válságot okozhatnak.",
         "category": "Kultúra",
-        "published_at": 1794515375
+        "published_at": 1794515808
       }
     ]
   },
@@ -11941,6 +11941,22 @@
         "summary": "Jared Kushner és Steve Witkoff Moszkvába érkezett, ahol Vlagyimir Putyinnal egyeztetnek a háború lezárásának lehetőségeiről.",
         "category": "Politika",
         "published_at": 1794515095
+      }
+    ]
+  },
+  {
+    "group_id": "group_057774c1fd",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Putyin miatt újra aktuális Kissinger híres kérdése: az orosz elnök tárgyalna Európával, de kit hívjon fel?",
+        "link": "https://www.vg.hu/kozelet/2026/11/putyin-orosz-ukran-haboru-europai-unio-beketargyalas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/gJwxot75-cOK2Omp0l1PMJ0Lset2UxtF0mZ4cz3K6Qs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2IwNjM0MTRhODc5OTQyOWZhZTljMTM4MjY2YjgyODJi.jpg",
+        "summary": "Moszkvában jártak az amerikai különmegbízottak.",
+        "category": "Gazdaság",
+        "published_at": 1794515322
       }
     ]
   }
