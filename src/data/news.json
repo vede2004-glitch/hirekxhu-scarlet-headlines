@@ -394,7 +394,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 16,
+    "sources_count": 17,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
@@ -475,13 +475,18 @@
         "source": "Hír TV",
         "title": "Isztambuli Egyezmény: miért kapcsolja össze a kormány a nők védelmét a genderfogalommal?",
         "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/isztambuli-egyezmeny-genderfogalom-kdnp"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A KDNP szerint Magyar Péter csak terel az isztambuli egyezménnyel",
+        "link": "https://telex.hu/belfold/2026/11/12/magyar-peter-kdnp-nojogok-isztambuli-egyezmeny"
       }
     ],
     "published_at": 1794491147,
     "title_hu": "Nővédelmi terveket jelentett be a kormány, új adatok is előkerültek az egyezményről",
     "lead_hu": "Magyar Péter csütörtökön több, a nők biztonságát és egészségügyi ellátását érintő változtatást jelentett be, köztük az Isztambuli Egyezmény ratifikációjának kezdeményezését. Az új információk között szerepel az egyezmény 2020-as parlamenti elutasításának szavazati aránya, valamint az is, hogy a szívhangrendelet bevezetése óta nem csökkent érdemben a terhességmegszakítások száma.",
     "content_hu": "• **Az egyezmény előzményei** Az Európa Tanács 2011-ben fogadta el az Isztambuli Egyezményt, amely 2014-ben lépett hatályba. A megállapodást 38 európai ország ratifikálta; Magyarország 2014-ben írta alá, de nem erősítette meg. 2020. május 5-én az Országgyűlés a ratifikáció elutasításáról szóló nyilatkozatot 115 igen, 35 nem és 3 tartózkodás mellett fogadta el.\n\n• **Az egyezmény egyes előírásai** A dokumentum különleges védelmet irányoz elő az erőszak gyermek áldozatainak és tanúinak, és kimondja, hogy a kapcsolattartás nem veszélyeztetheti a gyermek vagy az áldozat biztonságát. Az egyezmény hatálya alá tartozó erőszakos ügyekben a mediáció és más alternatív vitarendezés nem tehető kötelezővé.\n\n• **Büntetőjogi intézkedések** A bejelentett csomag szigorítaná a távoltartást, önálló bűncselekménnyé tenné az intim felvételekkel való visszaélést, és különleges eljárási bánásmódot biztosítana a kapcsolati erőszak áldozatainak. A tervek szerint szexuális cselekményre csak önkéntes beleegyezéssel kerülhetne sor.\n\n• **A szívhangrendelet és a fogamzásgátlás** A kormány módosítaná a szívhangrendeletet, és orvosi tájékoztatás után a nőkre bízná, hogy élnek-e az előírt lehetőséggel. A bejelentés indoklása szerint a rendelet hatálybalépése utáni három évben nem változott érdemben a terhességmegszakítások száma. Az esemény utáni tabletta vénykötelességét is megszüntetnék.\n\n• **Támogatások és kampány** A csomag a várandós nők egészségügyi, szociális, anyagi és lelki támogatásának összehangolását, valamint a menstruációs termékek rászorulókhoz való eljuttatását is tartalmazza. Női lapok kampányt indítottak az egyezmény ratifikációjáért; a kezdeményezés november 25-éig, a nők elleni erőszak megszüntetésének világnapjáig tart.\n\n• **Ellenzéki reakciók** A KDNP elutasította a ratifikációt, és az egyezmény társadalmi nemre vonatkozó megközelítését, illetve migrációs vonatkozásait bírálta. Szentkirályi Alexandra, a Fidesz képviselője politikai figyelemelterelésként értékelte a bejelentést, amely azután hangzott el, hogy Varga Judit előző nap egy parlamenti bizottsági meghallgatáson beszélt Magyar Péterről.",
-    "importance_score": 180.0,
+    "importance_score": 190.0,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1103,6 +1108,51 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_9240dc0864",
+    "slug": "jensen-huangnak-le-kell-mondania-9240dc",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2301328054-869020.jpg",
+    "is_synthesized": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Jensen Huangnak le kell mondania",
+        "link": "https://www.portfolio.hu/befektetes/20261112/jensen-huangnak-le-kell-mondania-875980"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Economist: Jensen Huangnak le kell mondania",
+        "link": "https://www.portfolio.hu/befektetes/20261112/economist-jensen-huangnak-le-kell-mondania-875980"
+      },
+      {
+        "source": "HWSW",
+        "title": "Távozik Jensen Huang, szakad az Nvidia",
+        "link": "https://www.hwsw.hu/hirek/71198/jensen-huang-nvidia-ceo-lemondas.html"
+      },
+      {
+        "source": "444.hu",
+        "title": "Lemondott Jensen Huang az Nvidia éléről, miután összekavart egy kínai kémmel és egy beosztottjával is",
+        "link": "https://444.hu/2026/11/12/lemondott-jensen-huang-az-nvidia-elerol-miutan-osszekavart-egy-kinai-kemmel-es-egy-beosztottjaval-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Lemondott az Nvidia kémbotrányba keveredett vezérigazgatója",
+        "link": "https://telex.hu/gazdasag/2026/11/12/jensen-huang-nvidia-kemkedes-botrany-lemondott"
+      }
+    ],
+    "published_at": 1794488400,
+    "title_hu": "Jensen Huangnak le kell mondania",
+    "lead_hu": "Jensen Huang zseniális ember – és ostoba. Az Nvidia – a világ vezető chiptervezője és a közelmúltig a világ legértékesebb vállalata – vezére házasságon kívüli viszonyt folytatott. Szeretője a Megaspee…",
+    "content_hu": "Jensen Huang zseniális ember – és ostoba. Az Nvidia – a világ vezető chiptervezője és a közelmúltig a világ legértékesebb vállalata – vezére házasságon kívüli viszonyt folytatott. Szeretője a Megaspeed vezető beosztású munkatársa volt. A Megaspeed egy alig ismert felhőszolgáltató cég, amely több milliárd dollárnyi Nvidia-hardvert vásárolt. Az amerikai tisztviselők szerint a nő kínai kém, szingapúri cége pedig fedőszervezet, amelyen keresztül a politikailag érzékeny chipeket Kínába csempészik.",
+    "importance_score": 65.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_b3842da051",
     "slug": "alairtak-a-regionalis-bkk-rol-szolo-megallapodast-b3842d",
     "tags": [
@@ -1245,6 +1295,51 @@
     "title_hu": "A NAV iratokat foglalt le a Sóstói Stadionban",
     "lead_hu": "A NAV csütörtök reggel iratokat és adathordozókat vitt el a székesfehérvári Sóstói Stadionból. Cser-Palkovics András polgármester szerint az intézkedés az önkormányzatot érintő feljelentés miatt elrendelt nyomozáshoz kapcsolódik, amely szerinte akár több százmillió forintos kárt is okozhat a városnak.",
     "content_hu": "• **A NAV intézkedése:** A hivatal munkatársai csütörtök reggel megjelentek a Sóstói Stadionnál, és iratokat, valamint adathordozókat foglaltak le.\n\n• **A feljelentés háttere:** Cser-Palkovics András közlése szerint egy magánszemély az önkormányzatot hűtlen kezeléssel és költségvetési csalással vádolta a Vidi előző évi megmentésével kapcsolatban. Az Állami Számvevőszék a beadványt a NAV-nak és a rendőrségnek is továbbította.\n\n• **A nyomozás elrendelése:** A polgármester azt állította, hogy a NAV kezdetben elutasította a feljelentést, az ügyészség azonban néhány héttel később nyomozásra utasította a hivatalt.\n\n• **A lehetséges következmények:** Cser-Palkovics szerint a feljelentés akár több százmillió forintos kárt okozhat az önkormányzatnak, és megnehezítheti a klub értékesítését, illetve fennmaradását. A polgármester a bejelentővel szembeni jogi következményeket is kilátásba helyezte.\n\n• **Az önkormányzat álláspontja:** A város együttműködik a nyomozókkal, és továbbra is stabil tulajdonost, valamint hosszú távú jövőt keres a klubnak.",
+    "importance_score": 60.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_070e6559cb",
+    "slug": "trk-gabor-gyors-politikai-valaszkent-ertekelte-magyar-bejelenteset-070e65",
+    "tags": [
+      "torok-gabor",
+      "magyar-peter",
+      "tisza-part",
+      "isztambuli-egyezmeny"
+    ],
+    "fingerprint": "9a38f41dbea863d7b8f0c785bfacdff6",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261112/1794482410-temp-9mo02gh839t46imjeoo_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Török Gábor Magyar bejelentéséről: A tegnapi események után feltehetően úgy ítélhette meg az agytröszt, hogy szükség van egy gyors és hatékony válaszra",
+        "link": "https://telex.hu/belfold/2026/11/12/torok-gabor-reakcio-magyar-peter-bejelentes"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Török Gábor reagált Magyar bejelentésére: Ügyes",
+        "link": "https://hvg.hu/itthon/20261112_torok-gabor-reagalt-magyar-bejelentesere-isztambuli-egyezmeny-ratifikacio"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Török Gábor Magyar Péter nőjogi bejelentéséről: Az agytröszt szerint gyors és hatékony válaszra lehetett szükség",
+        "link": "https://24.hu/belfold/2026/11/12/torok-magyar-varga-tisza/"
+      },
+      {
+        "source": "ATV",
+        "title": "Török Gábor reagált Magyar Péter bejelentésére: „Ügyes”",
+        "link": "https://www.atv.hu/belfold/20261112/torok-gabor-magyar-peter-ugyes/"
+      }
+    ],
+    "published_at": 1794485116,
+    "title_hu": "Török Gábor gyors politikai válaszként értékelte Magyar bejelentését",
+    "lead_hu": "Magyar Péter csütörtökön az Isztambuli Egyezmény ratifikálását, a szívhangrendelet módosítását és az esemény utáni tabletta vénykötelességének eltörlését vetette fel. Török Gábor szerint a szerdai nyilvános konfliktus után gyors reakció következhetett, és a történtek egy új kormányzati működés képét mutatják.",
+    "content_hu": "• **A bejelentés tartalma** Magyar Péterék az Isztambuli Egyezmény ratifikálását kezdeményeznék, módosítanák a szívhangrendeletet, és megszüntetnék az esemény utáni fogamzásgátló tabletta vénykötelességét.\n\n• **Gyors válasz a szerdai eseményekre** Török Gábor úgy értékelte, hogy a kormányzati döntéshozók a szerdai fejlemények után határozhattak gyors reakció mellett. Szerinte a csütörtöki időzítés nem feltétlenül szerepelt előre a tervben, a bejelentést pedig az elmúlt 24 órában politikailag ügyes lépésnek tartotta.\n\n• **A nyilvános vita előzményei** Varga Judit szerdán egy, a végrehajtói visszaéléseket vizsgáló parlamenti bizottság előtt Magyar Péterről is beszélt, és bántalmazó, illetve megalázó viselkedéssel vádolta. Ezt követően a két fél a nyilvánosságban reagált egymásra; a vita a gyermektartásról és a pénzutalásokról is szólt.\n\n• **Korábbi vita az egyezményről** Varga Judit 2019-ben politikai indíttatásúnak minősítette az Isztambuli Egyezmény körüli vitát, és igazságügyi miniszterként később sem támogatta a ratifikálást.\n\n• **Változó kormányzási logika** Török szerint a korábbi Orbán-kormányok döntéseit hosszabb távú politikai-hatalmi szempontok határozták meg, míg az új mintázatban nagyobb szerepet kaphat a napi népszerűség és a nyilvánosság figyelme.",
     "importance_score": 60.0,
     "is_top_hero": false,
     "is_top_list": true
@@ -1441,46 +1536,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_9240dc0864",
-    "slug": "jensen-huangnak-le-kell-mondania-9240dc",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2301328054-869020.jpg",
-    "is_synthesized": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Jensen Huangnak le kell mondania",
-        "link": "https://www.portfolio.hu/befektetes/20261112/jensen-huangnak-le-kell-mondania-875980"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Economist: Jensen Huangnak le kell mondania",
-        "link": "https://www.portfolio.hu/befektetes/20261112/economist-jensen-huangnak-le-kell-mondania-875980"
-      },
-      {
-        "source": "HWSW",
-        "title": "Távozik Jensen Huang, szakad az Nvidia",
-        "link": "https://www.hwsw.hu/hirek/71198/jensen-huang-nvidia-ceo-lemondas.html"
-      },
-      {
-        "source": "444.hu",
-        "title": "Lemondott Jensen Huang az Nvidia éléről, miután összekavart egy kínai kémmel és egy beosztottjával is",
-        "link": "https://444.hu/2026/11/12/lemondott-jensen-huang-az-nvidia-elerol-miutan-osszekavart-egy-kinai-kemmel-es-egy-beosztottjaval-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794488400,
-    "title_hu": "Jensen Huangnak le kell mondania",
-    "lead_hu": "Jensen Huang zseniális ember – és ostoba. Az Nvidia – a világ vezető chiptervezője és a közelmúltig a világ legértékesebb vállalata – vezére házasságon kívüli viszonyt folytatott. Szeretője a Megaspee…",
-    "content_hu": "Jensen Huang zseniális ember – és ostoba. Az Nvidia – a világ vezető chiptervezője és a közelmúltig a világ legértékesebb vállalata – vezére házasságon kívüli viszonyt folytatott. Szeretője a Megaspeed vezető beosztású munkatársa volt. A Megaspeed egy alig ismert felhőszolgáltató cég, amely több milliárd dollárnyi Nvidia-hardvert vásárolt. Az amerikai tisztviselők szerint a nő kínai kém, szingapúri cége pedig fedőszervezet, amelyen keresztül a politikailag érzékeny chipeket Kínába csempészik.",
-    "importance_score": 55.0,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_6a1ca600e8",
     "slug": "radnai-peter-elarulta-kiket-kert-fel-elsokent-a-playboy-cimlapjara-6a1ca6",
     "tags": [
@@ -1656,46 +1711,6 @@
     "title_hu": "A minimálbér 7,5 százalékos emelését javasolja a kormány",
     "lead_hu": "A kormány 7,5 százalékos minimálbér- és 6,5 százalékos garantáltbérminimum-emelést javasolt, de a háromoldalú tárgyalásokon még nem született megállapodás. Székely Tamás szakszervezeti vezető elfogadható kiindulópontnak tartja az ajánlatot, ugyanakkor egyéves bérmegállapodást tartana célszerűnek.",
     "content_hu": "• **A kormány javaslata** A minimálbér bruttó összege 322 800 forintról 347 100 forintra, a garantált bérminimumé 373 200 forintról 397 ezer forintra emelkedne. A korábbi tárgyalási javaslatok a munkáltatók részéről 4, a szakszervezetek részéről 14 százalékos növelésről szóltak.\n\n• **Még nincs megállapodás** Kármán András pénzügyminiszter közlése szerint a felek álláspontjai jelentősen közeledtek, de egyezség egyelőre nem született. Székely Tamás arra számít, hogy hamarosan megállapodhatnak, és a kormány ajánlatát tarthatónak, illetve elfogadható kiindulópontnak nevezte.\n\n• **Egyéves megállapodást szorgalmaznak** Székely szerint a korábbi, három évre kötött bérmegállapodás vállalásai nem teljesültek a várakozások szerint, és a VDSZ nem támogatta azt. A szakszervezeti vezető a gazdasági környezet, az energiaárak és a forintárfolyam bizonytalanságára hivatkozva most egyéves megállapodást tartana megfelelőnek.\n\n• **A nettó bérek változása** A tervezett szja-csökkentés a minimálbér esetében 15-ről 9 százalékra mérsékelné az adókulcsot. Székely szerint a bruttó emelés és az adóváltozás együtt a legalacsonyabb keresetűek nettó jövedelmét kétszámjegyű mértékben növelheti; a 2027-es minimálbér-emelésnél ugyanakkor nem tart reálisnak kétszámjegyű bruttó növekedést.\n\n• **A béremelés lehetséges tovagyűrűző hatása** A minimálbér és a garantált bérminimum növelése a magasabb bérkategóriákban dolgozók fizetéséről szóló tárgyalásokra is hatással lehet. Székely nagyobb bérvitára számít, ha a munkáltatók ott nulla vagy 2 százalékos emelést ajánlanak.\n\n• **A kormányzati cél időpontja** A kormány azt szeretné, hogy 2027. január 1-jétől érdemben emelkedjen a minimálbér és a garantált bérminimum nettó összege.",
-    "importance_score": 50.0,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_070e6559cb",
-    "slug": "trk-gabor-gyors-politikai-valaszkent-ertekelte-magyar-bejelenteset-070e65",
-    "tags": [
-      "torok-gabor",
-      "magyar-peter",
-      "tisza-part",
-      "isztambuli-egyezmeny"
-    ],
-    "fingerprint": "9a38f41dbea863d7b8f0c785bfacdff6",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261112/1794482410-temp-9mo02gh839t46imjeoo_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Török Gábor Magyar bejelentéséről: A tegnapi események után feltehetően úgy ítélhette meg az agytröszt, hogy szükség van egy gyors és hatékony válaszra",
-        "link": "https://telex.hu/belfold/2026/11/12/torok-gabor-reakcio-magyar-peter-bejelentes"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Török Gábor reagált Magyar bejelentésére: Ügyes",
-        "link": "https://hvg.hu/itthon/20261112_torok-gabor-reagalt-magyar-bejelentesere-isztambuli-egyezmeny-ratifikacio"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Török Gábor Magyar Péter nőjogi bejelentéséről: Az agytröszt szerint gyors és hatékony válaszra lehetett szükség",
-        "link": "https://24.hu/belfold/2026/11/12/torok-magyar-varga-tisza/"
-      }
-    ],
-    "published_at": 1794485116,
-    "title_hu": "Török Gábor gyors politikai válaszként értékelte Magyar bejelentését",
-    "lead_hu": "Magyar Péter csütörtökön az Isztambuli Egyezmény ratifikálását, a szívhangrendelet módosítását és az esemény utáni tabletta vénykötelességének eltörlését vetette fel. Török Gábor szerint a szerdai nyilvános konfliktus után gyors reakció következhetett, és a történtek egy új kormányzati működés képét mutatják.",
-    "content_hu": "• **A bejelentés tartalma** Magyar Péterék az Isztambuli Egyezmény ratifikálását kezdeményeznék, módosítanák a szívhangrendeletet, és megszüntetnék az esemény utáni fogamzásgátló tabletta vénykötelességét.\n\n• **Gyors válasz a szerdai eseményekre** Török Gábor úgy értékelte, hogy a kormányzati döntéshozók a szerdai fejlemények után határozhattak gyors reakció mellett. Szerinte a csütörtöki időzítés nem feltétlenül szerepelt előre a tervben, a bejelentést pedig az elmúlt 24 órában politikailag ügyes lépésnek tartotta.\n\n• **A nyilvános vita előzményei** Varga Judit szerdán egy, a végrehajtói visszaéléseket vizsgáló parlamenti bizottság előtt Magyar Péterről is beszélt, és bántalmazó, illetve megalázó viselkedéssel vádolta. Ezt követően a két fél a nyilvánosságban reagált egymásra; a vita a gyermektartásról és a pénzutalásokról is szólt.\n\n• **Korábbi vita az egyezményről** Varga Judit 2019-ben politikai indíttatásúnak minősítette az Isztambuli Egyezmény körüli vitát, és igazságügyi miniszterként később sem támogatta a ratifikálást.\n\n• **Változó kormányzási logika** Török szerint a korábbi Orbán-kormányok döntéseit hosszabb távú politikai-hatalmi szempontok határozták meg, míg az új mintázatban nagyobb szerepet kaphat a napi népszerűség és a nyilvánosság figyelme.",
     "importance_score": 50.0,
     "is_top_hero": false,
     "is_top_list": true
@@ -2393,6 +2408,36 @@
     "lead_hu": "A demokrata Scott Colom kevesebb mint ötezer szavazattal előzte meg a republikánus Cindy Hyde-Smitht a mississippi szenátusi választáson. Megválasztásával az újjáépítés korszaka óta először lesz fekete szenátora az államnak.",
     "content_hu": "• **Szoros verseny** Colom a voksok 49,2 százalékát szerezte meg, Hyde-Smith 48,7 százalékot kapott; a különbség ötezer szavazat alatt maradt.\n\n• **Elhúzódó számlálás** A választási eredmény véglegesítéséhez több napon át dolgozták fel a levélben leadott és az ideiglenes szavazatokat.\n\n• **Történelmi áttörés** A 43 éves Colom Mississippi első fekete szenátora lesz az újjáépítés időszaka óta. Az államban több mint egy évszázada nem töltötte be ezt a tisztséget fekete politikus.\n\n• **Az állam politikai háttere** Mississippi lakosságában az Egyesült Államok tagállamai közül itt a legmagasabb a feketék aránya, a politikai vezetés hosszú időn át mégis főként fehér konzervatívok kezében volt. Colom helyi ügyészként dolgozott, és győzelmi beszédében az állam változásának lehetőségét hangsúlyozta.\n\n• **Demokrata szenátor évtizedek után** John C. Stennis 1947-től 1989-ig képviselte demokrataként Mississippit a Szenátusban; 1982-ben újraválasztották. Azóta nem nyert demokrata jelölt szenátusi mandátumot az államban.\n\n• **Kampánytémák és marhahúsárak** Colom a republikánus szenátor washingtoni munkáját, valamint a kormányzat intézkedéseit bírálta. A vámok gazdákra gyakorolt hatását és az iráni háborúval összefüggő üzemanyagár-emelkedést is szóba hozta. Hyde-Smith a marhahús drágulására más fehérjeforrások ajánlásával reagált; Colom kampánya erre építve arra biztatta a választókat, hogy inkább másik szenátort válasszanak.\n\n• **Hyde-Smith elfogadta az eredményt** A republikánus jelölt közölte, hogy tiszteletben tartja a választás kimenetelét. Donald Trump október végén személyesen kampányolt mellette Mississippiben.\n\n• **Szenátusi erőviszonyok** Colom győzelmével a demokraták 55 helyet szereztek meg a százfős testületben; az alaszkai választás eredménye ekkor még nem volt ismert.",
     "importance_score": 38.0,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_b1c4051587",
+    "slug": "vadasznak-nre-orban-o-b1c405",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261112/1794494947-temp-u6tnbre412k4ckgefpm_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Vadásznak önre. Orbán: Ó.",
+        "link": "https://telex.hu/belfold/2026/11/12/orban-viktor-vadaszat-facebook-tiszitotuz"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Orbán Viktor: Nem mindig a vadász győz!",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/orban-viktor-nem-mindig-a-vadasz-gyoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794494984,
+    "title_hu": "Vadásznak önre. Orbán: Ó.",
+    "lead_hu": "Egy kisbuszból jelentkezett be a volt miniszterelnök, arról beszélt, hogy vadásznak rá, de nem mindig a vadász győz....",
+    "content_hu": "Egy kisbuszból jelentkezett be a volt miniszterelnök, arról beszélt, hogy vadásznak rá, de nem mindig a vadász győz.",
+    "importance_score": 35.0,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3854,34 +3899,54 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_9796fbeb7f",
-    "slug": "sok-magyarnak-gondot-okozna-egy-varatlan-kiadas-9796fb",
+    "group_id": "group_50b0fb91e2",
+    "slug": "oceanjaro-hajorol-esett-ki-a-zongorista-9-orat-volt-a-vizben-mire-kimentettek-50b0fb",
     "tags": [
-      "gazdasag"
+      "bulvar"
     ],
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2233287458-868632.jpg",
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/renditions/437/437635/a94f2c92bd9d3831.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "Portfolio - Gazdaság",
-        "title": "Sok magyarnak gondot okozna egy váratlan kiadás",
-        "link": "https://www.portfolio.hu/gazdasag/20261111/sok-magyarnak-gondot-okozna-egy-varatlan-kiadas-875812"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Lehet, hogy a New York-i és a londoni elemzőket meggyőzte Kármán András, de a 2027-es költségvetéssel a magyar gazdaság így is kaphat egy pofont",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/karman-andras-2027-es-koltsegvetes-magyar-gazdasag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "Femina",
+        "title": "Óceánjáró hajóról esett ki a zongorista: 9 órát volt a vízben, mire kimentették",
+        "link": "https://femina.hu/terasz/oceanjaro-hajorol-esett-ki-zongorista/"
       }
     ],
-    "published_at": 1794408240,
-    "title_hu": "Sok magyarnak gondot okozna egy váratlan kiadás",
-    "lead_hu": "A magyar háztartások közel harmada nem volt olyan anyagi helyzetben 2025-ben, hogy sikeresen meg tudjon birkózni egy váratlan pénzügyi kiadással. Ez nem kifejezetten segíti a biztonságérzetet. Az visz…",
-    "content_hu": "A magyar háztartások közel harmada nem volt olyan anyagi helyzetben 2025-ben, hogy sikeresen meg tudjon birkózni egy váratlan pénzügyi kiadással. Ez nem kifejezetten segíti a biztonságérzetet. Az viszont talán javíthatott rajta, hogy a 100 ezer lakosra jutó szándékos emberöléseket tekintve Magyarország a hetedik legalacsonyabb aránnyal büszkélkedhetett egy évvel korábban.",
-    "importance_score": 20.0,
+    "published_at": 1794495000,
+    "title_hu": "Óceánjáró hajóról esett ki a zongorista: 9 órát volt a vízben, mire kimentették",
+    "lead_hu": "Halászok mentették ki a férfit, aki kiesett az óceánjáróról....",
+    "content_hu": "Halászok mentették ki a férfit, aki kiesett az óceánjáróról.",
+    "importance_score": 0.0,
     "is_top_hero": false,
-    "is_top_list": true
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_3795a4b3e9",
+    "slug": "gyulay-zsolt-biztos-abban-hogy-a-magyar-tarsadalomnak-szuksege-van-a-budapesti-o-3795a4",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7253/72532/725320/72532029_5344599_c37016962ac7fb96a8e4a529d58d2864_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Gyulay Zsolt biztos abban, hogy a magyar társadalomnak szüksége van a budapesti olimpiára",
+        "link": "https://index.hu/sport/2026/11/12/olimpia-budapest-rendezes-merre-tovabb-magyar-sport-konferencia-kalnoki-kiss-attila-gyulay-zsolt/"
+      }
+    ],
+    "published_at": 1794494640,
+    "title_hu": "Gyulay Zsolt biztos abban, hogy a magyar társadalomnak szüksége van a budapesti olimpiára",
+    "lead_hu": "„Nem attól lesz politikusmentes a sport, hogy nem Kósa Lajosok és Németh Szilárdok vezetik a szövetségeket.\"...",
+    "content_hu": "„Nem attól lesz politikusmentes a sport, hogy nem Kósa Lajosok és Németh Szilárdok vezetik a szövetségeket.\"",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_a562b1934a",
@@ -4404,6 +4469,31 @@
     "title_hu": "Az EU-tagállamok idén eddig 8,7 milliárd eurót költöttek orosz LNG-re",
     "lead_hu": "Franciaország, Belgium és Spanyolország vásárolta a mennyiség 87 százalékát....",
     "content_hu": "Franciaország, Belgium és Spanyolország vásárolta a mennyiség 87 százalékát.",
+    "importance_score": 0.0,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_e9b92ea25a",
+    "slug": "egeszsegugyi-miniszterium-a-jvoben-egyetlen-nonek-sem-kell-akarata-ellenere-megh-e9b92e",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261112/1794492481-temp-ahvjvueqlc0m5pajcif_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Egészségügyi Minisztérium: A jövőben egyetlen nőnek sem kell akarata ellenére meghallgatnia a szívhangot",
+        "link": "https://telex.hu/belfold/2026/11/12/hegedus-a-jovoben-egyetlen-nonek-sem-kell-akarata-ellenere-meghallgatnia-a-szivhangot"
+      }
+    ],
+    "published_at": 1794492597,
+    "title_hu": "Egészségügyi Minisztérium: A jövőben egyetlen nőnek sem kell akarata ellenére meghallgatnia a szívhangot",
+    "lead_hu": "Megjelentek a részletek a módosult szívhangrendeletről és a vény nélkül kapható esemény utáni tablettákról....",
+    "content_hu": "Megjelentek a részletek a módosult szívhangrendeletről és a vény nélkül kapható esemény utáni tablettákról.",
     "importance_score": 0.0,
     "is_top_hero": false,
     "is_top_list": false
@@ -16804,106 +16894,6 @@
     "title_hu": "Ukrajna elfogta az első indonéz hadifoglyot a fronton",
     "lead_hu": "Ukrajna szerint az idei év első kilenc hónapjában mintegy 283 indonézt toboroztak, hogy Oroszország oldalán harcoljanak Ukrajna ellen.",
     "content_hu": "Ukrajna szerint az idei év első kilenc hónapjában mintegy 283 indonézt toboroztak, hogy Oroszország oldalán harcoljanak Ukrajna ellen.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_88ff5c5bdb",
-    "slug": "megszolalt-az-eto-bl-gyoztes-edzoje-a-sulyos-gyori-88ff5c",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/WngIcJLJ2-Uku_PeQPRwqq3xWiX1UPBRnOlkF2KtnV0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVkNzU1Zjg1ZjQ4NDRhYmJiZGJiOTZkNmZkMThlZTli.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Megszólalt az ETO BL-győztes edzője a súlyos győri válságról: elárulta, távozna-e",
-        "link": "https://magyarnemzet.hu/sport/2026/11/per-johansson-edzo-gyor-eto-kezilabda-anyagi-valsag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794408574,
-    "title_hu": "Megszólalt az ETO BL-győztes edzője a súlyos győri válságról: elárulta, távozna-e",
-    "lead_hu": "Azt a kérdést is feltették Svédországban Per Johanssonnak, hogy belemenne-e a fizetéscsökkentésbe.",
-    "content_hu": "Azt a kérdést is feltették Svédországban Per Johanssonnak, hogy belemenne-e a fizetéscsökkentésbe.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_b2da1190aa",
-    "slug": "bcg-tanulmanyok-mar-2024-ben-jeleztek-az-orban-kor-b2da11",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261111/1794408279-temp-96h0f2137sa42ionlpg_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "BCG-tanulmányok: már 2024-ben jelezték az Orbán-kormánynak, hogy válság van az egészségügyi alapellátásban",
-        "link": "https://telex.hu/belfold/2026/11/11/bcg-tanulmany-titkositott-nyilvanossag-egeszsegugyi-iranyitas-2024"
-      }
-    ],
-    "published_at": 1794408528,
-    "title_hu": "BCG-tanulmányok: már 2024-ben jelezték az Orbán-kormánynak, hogy válság van az egészségügyi alapellátásban",
-    "lead_hu": "Kedden a kormány nyilvánosságra hozta azt a hat darab tanulmányt, amelyeket a Boston Consulting Group készített a magyar egészségügy átalakításáról 2020 és 2024 között. Az egészségügyi intézmények töb…",
-    "content_hu": "Kedden a kormány nyilvánosságra hozta azt a hat darab tanulmányt, amelyeket a Boston Consulting Group készített a magyar egészségügy átalakításáról 2020 és 2024 között. Az egészségügyi intézmények több feladatot azért nem tudtak elvégezni, mert nem volt elég forrásuk, munkaerejük és megfelelő jogosítványuk hozzá, derül ki a tanulmányból.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_64a41cb560",
-    "slug": "legyozte-a-liverpoolt-aztan-le-is-lepett-a-fenerba-64a41c",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2303041896-e1794408319166-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Legyőzte a Liverpoolt, aztán le is lépett a Fenerbahce edzője",
-        "link": "https://24.hu/sport/foci/2026/11/11/fenerbahce-dirk-kuyt-tavozott/"
-      }
-    ],
-    "published_at": 1794408502,
-    "title_hu": "Legyőzte a Liverpoolt, aztán le is lépett a Fenerbahce edzője",
-    "lead_hu": "Az egykori liverpooli kedvenc ellovagolt a naplementébe. The post Legyőzte a Liverpoolt, aztán le is lépett a Fenerbahce edzője first appeared on 24.hu.",
-    "content_hu": "Az egykori liverpooli kedvenc ellovagolt a naplementébe. The post Legyőzte a Liverpoolt, aztán le is lépett a Fenerbahce edzője first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_a04036735e",
-    "slug": "balla-gyrgy-ha-jol-sejtem-magyar-peter-jogasz-a04036",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/adz_4920-1-masolat-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Balla György: Ha jól sejtem, Magyar Péter jogász",
-        "link": "https://24.hu/belfold/2026/11/11/balla-gyorgy-ha-jol-sejtem-magyar-peter-jogasz/"
-      }
-    ],
-    "published_at": 1794408391,
-    "title_hu": "Balla György: Ha jól sejtem, Magyar Péter jogász",
-    "lead_hu": "A fideszes Balla György a következő, ő a hangfelvételek kapcsán kérdezte Vargát, hogy „jól értette-e”, hogy az 2023 januárjában készült, és csak 2024 márciusában került nyilvánosságra. The post Balla …",
-    "content_hu": "A fideszes Balla György a következő, ő a hangfelvételek kapcsán kérdezte Vargát, hogy „jól értette-e”, hogy az 2023 januárjában készült, és csak 2024 márciusában került nyilvánosságra. The post Balla György: Ha jól sejtem, Magyar Péter jogász first appeared on 24.hu.",
     "importance_score": 0.0,
     "is_top_hero": false,
     "is_top_list": false
