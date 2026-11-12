@@ -1205,52 +1205,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_3d5f558e22",
-    "slug": "halalos-lvldzes-trtent-a-washingtoni-logan-circle-ben-3d5f55",
-    "tags": [
-      "washington",
-      "lovoldozes",
-      "logancircle",
-      "rendoriintezkedes"
-    ],
-    "fingerprint": "2e10c888e50a980ddfa22ba6fd948b9a",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7253/72532/725327/72532763_5344655_e039731ed0cd9be82e4836e3845b8612_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Véres támadás a Fehér Ház közelében, elbarikádozta magát a fegyveres, aki legalább öt embert meglőtt",
-        "link": "https://index.hu/kulfold/2026/11/12/egyesult-allamok-washington-lovoldozes-rendorseg/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Támadás történt a Fehér Ház közelében, a támadó legalább öt embert meglőtt",
-        "link": "https://www.vadhajtasok.hu/2026/11/12/tamadas-tortent-a-feher-haz-kozeleben-a-tamado-legalabb-ot-embert-meglott"
-      },
-      {
-        "source": "444.hu",
-        "title": "Több embert meglőttek, egy ember meg is halt a Fehér Ház közelében kialakult lövöldözésben Washingtonban",
-        "link": "https://444.hu/2026/11/12/tobb-embert-meglottek-egy-ember-meg-is-halt-a-feher-haz-kozeleben-kialakult-lovoldozesben-washingtonban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Lövöldözés történt a Fehér Ház közelében",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/lovoldozes-tortent-a-feher-haz-kozeleben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794500992,
-    "title_hu": "Halálos lövöldözés történt a washingtoni Logan Circle-ben",
-    "lead_hu": "Öt embert lőttek meg csütörtök reggel a Washingtonban található Logan Circle negyedben, egyikük életét vesztette. A rendőrség egy közeli épületben elbarikádozott gyanúsítottal tárgyalt, majd lövések után behatolt az épületbe.",
-    "content_hu": "• **Öt embert ért lövés, egy áldozat meghalt** A Logan Circle-ben, a VIDA fitneszközpontban és annak közelében történt támadásban öt ember sérült meg; a helyszínen tartózkodó egyik ember életét nem sikerült megmenteni.\n\n• **Kiterjedt rendőri intézkedés és iskolai zárlat** A rendőrök több utcát lezártak, helikoptereket és számos rendőrautót vezényeltek a környékre. A Dupont Circle és a Logan Circle egyes részein korlátozták a mozgást, a közelben működő több iskola pedig zárlatot rendelt el.\n\n• **A gyanúsított egy épületben barikádozta el magát** A rendőrök felvették vele a kapcsolatot, és tárgyalni kezdtek. Miután lövéseket hallottak az épületből, behatoltak, és megállapították, hogy a gyanúsított is megsérült.\n\n• **A támadó haláláról is érkezett sajtóértesülés** A Vadhajtások Fox Newsra hivatkozva azt írta, hogy a férfi több mint egyórás közvetítői egyeztetés után öngyilkos lett. A 444 beszámolója a rendőrségi behatolás után a gyanúsított sérülését említette.",
-    "importance_score": 55.0,
-    "top_rank": 18,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_070e6559cb",
     "slug": "trk-gabor-gyors-politikai-reakciokent-ertelmezte-magyar-nojogi-bejelenteset-070e65",
     "tags": [
@@ -1294,7 +1248,7 @@
     "importance_score": 53.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 19
+    "top_rank": 18
   },
   {
     "group_id": "group_ff9e2524f1",
@@ -1346,7 +1300,53 @@
     "importance_score": 53.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 20
+    "top_rank": 19
+  },
+  {
+    "group_id": "group_3d5f558e22",
+    "slug": "halalos-lvldzes-trtent-a-washingtoni-logan-circle-ben-3d5f55",
+    "tags": [
+      "washington",
+      "lovoldozes",
+      "logancircle",
+      "rendoriintezkedes"
+    ],
+    "fingerprint": "2e10c888e50a980ddfa22ba6fd948b9a",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7253/72532/725327/72532763_5344655_e039731ed0cd9be82e4836e3845b8612_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Véres támadás a Fehér Ház közelében, elbarikádozta magát a fegyveres, aki legalább öt embert meglőtt",
+        "link": "https://index.hu/kulfold/2026/11/12/egyesult-allamok-washington-lovoldozes-rendorseg/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Támadás történt a Fehér Ház közelében, a támadó legalább öt embert meglőtt",
+        "link": "https://www.vadhajtasok.hu/2026/11/12/tamadas-tortent-a-feher-haz-kozeleben-a-tamado-legalabb-ot-embert-meglott"
+      },
+      {
+        "source": "444.hu",
+        "title": "Több embert meglőttek, egy ember meg is halt a Fehér Ház közelében kialakult lövöldözésben Washingtonban",
+        "link": "https://444.hu/2026/11/12/tobb-embert-meglottek-egy-ember-meg-is-halt-a-feher-haz-kozeleben-kialakult-lovoldozesben-washingtonban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Lövöldözés történt a Fehér Ház közelében",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/lovoldozes-tortent-a-feher-haz-kozeleben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794500992,
+    "title_hu": "Halálos lövöldözés történt a washingtoni Logan Circle-ben",
+    "lead_hu": "Öt embert lőttek meg csütörtök reggel a Washingtonban található Logan Circle negyedben, egyikük életét vesztette. A rendőrség egy közeli épületben elbarikádozott gyanúsítottal tárgyalt, majd lövések után behatolt az épületbe.",
+    "content_hu": "• **Öt embert ért lövés, egy áldozat meghalt** A Logan Circle-ben, a VIDA fitneszközpontban és annak közelében történt támadásban öt ember sérült meg; a helyszínen tartózkodó egyik ember életét nem sikerült megmenteni.\n\n• **Kiterjedt rendőri intézkedés és iskolai zárlat** A rendőrök több utcát lezártak, helikoptereket és számos rendőrautót vezényeltek a környékre. A Dupont Circle és a Logan Circle egyes részein korlátozták a mozgást, a közelben működő több iskola pedig zárlatot rendelt el.\n\n• **A gyanúsított egy épületben barikádozta el magát** A rendőrök felvették vele a kapcsolatot, és tárgyalni kezdtek. Miután lövéseket hallottak az épületből, behatoltak, és megállapították, hogy a gyanúsított is megsérült.\n\n• **A támadó haláláról is érkezett sajtóértesülés** A Vadhajtások Fox Newsra hivatkozva azt írta, hogy a férfi több mint egyórás közvetítői egyeztetés után öngyilkos lett. A 444 beszámolója a rendőrségi behatolás után a gyanúsított sérülését említette.",
+    "importance_score": 48.0,
+    "top_rank": 20,
+    "is_top_hero": false,
+    "is_top_list": true
   },
   {
     "group_id": "group_c3b52c43d7",
@@ -1487,52 +1487,6 @@
     "top_rank": 23
   },
   {
-    "group_id": "group_493beab7d2",
-    "slug": "hatosagok-jelentek-meg-a-lakiteleki-nepfoiskola-alapitvanynal-493bea",
-    "tags": [
-      "lezsak-sandor",
-      "nepfoiskola-alapitvany",
-      "hatosagi-vizsgalat",
-      "lakitelek"
-    ],
-    "fingerprint": "7c0746410d960e90b9ff5039910c6916",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Lezsák Sándor lánya arról posztolt, hogy kivonultak a hatóságok apja alapítványához",
-        "link": "https://telex.hu/belfold/2026/11/12/lezsak-sandor-lakitelek-hatosag"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Kivonultak a hatóságok Lezsák Sándor alapítványához",
-        "link": "https://hvg.hu/itthon/20261112_boka-janos-azt-allitja-kivonultak-a-hatosagok-lezsak-sandor-alapitvanyahoz"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Megjelentek a hatóságok Lezsák Sándor, tízmilliárdos támogatást kapó alapítványnál",
-        "link": "https://www.portfolio.hu/gazdasag/20261112/megjelentek-a-hatosagok-lezsak-sandor-tizmilliardos-tamogatast-kapo-alapitvanynal-876066"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Megjelentek a hatóságok Lezsák Sándor tízmilliárdos támogatást kapó alapítványánál",
-        "link": "https://www.portfolio.hu/gazdasag/20261112/megjelentek-a-hatosagok-lezsak-sandor-tizmilliardos-tamogatast-kapo-alapitvanyanal-876066"
-      }
-    ],
-    "published_at": 1794490140,
-    "title_hu": "Hatóságok jelentek meg a lakiteleki Népfőiskola Alapítványnál",
-    "lead_hu": "Molnárné Lezsák Anna és Bóka János közösségi oldalán is arról számolt be, hogy hatóságok jelentek meg a lakiteleki Népfőiskola Alapítványnál. A család és a Fidesz politikusai politikai megtorlást emlegettek, a fellépés pontos okáról azonban a beszámolók nem közöltek részleteket.",
-    "content_hu": "• **Hatósági jelenlét:** Molnárné Lezsák Anna megerősítette, hogy állami szervek jelentek meg a Népfőiskola Alapítványnál. A HVG a Blikk információjára hivatkozva azt írta, hogy a helyszínen a NAV és Bács-Kiskun vármegyei ügyészek lehetnek.\n\n• **Politikai megtorlásról szóló állítások:** Molnárné Lezsák Anna és Bóka János az intézkedést az ügynökbotrányról tett nyilatkozatokkal hozta összefüggésbe, és politikai bosszút emlegetett. Ezek az érintettek állításai.\n\n• **A vizsgálat oka nem ismert:** A beszámolók megjelenésekor nem derült ki, hogy a hatóságok pontosan milyen ügyben jártak el. A Portfolio megkereste az alapítványt és a NAV-ot tájékoztatásért.\n\n• **Az alapítvány finanszírozása:** A Portfolio szerint a Népfőiskola Alapítvány 2024-ben 7,7 milliárd, a következő évben pedig több mint 5 milliárd forint állami forráshoz jutott. A cikk arról is beszámolt, hogy a minisztérium megkezdte az intézménnyel kötött közszolgáltatási szerződés felülvizsgálatát.",
-    "importance_score": 48.0,
-    "is_top_hero": false,
-    "is_top_list": true,
-    "top_rank": 24
-  },
-  {
     "group_id": "group_cd44b12fb1",
     "slug": "a-nav-iratokat-foglalt-le-a-sostoi-stadionban-cd44b1",
     "tags": [
@@ -1577,7 +1531,7 @@
     "importance_score": 48.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 25
+    "top_rank": 24
   },
   {
     "group_id": "group_78744c7e44",
@@ -1623,7 +1577,7 @@
     "importance_score": 48.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 26
+    "top_rank": 25
   },
   {
     "group_id": "group_0cf36fdd42",
@@ -1662,7 +1616,7 @@
     "lead_hu": "A NAV csütörtökön nyomozati cselekményeket végzett a lakiteleki Népfőiskola Alapítványnál. A hatóság tájékoztatása szerint két külön büntetőeljárásról van szó, amelyek közül az egyik ügyészségi, a másik NAV-hatáskörben zajlik.",
     "content_hu": "• **Két eljárás** A NAV közlése szerint csütörtökön két külön büntetőügyben folytak nyomozati cselekmények az alapítványnál; az egyik eljárást a Bács-Kiskun Megyei Főügyészség, a másikat a NAV saját hatáskörben viszi.\n\n• **Folyamatban lévő nyomozás** A hatóság azt közölte, hogy a helyszíni intézkedéseket jogszerűen és szakszerűen hajtották végre, és az érintettek ezt nem vitatták. A nyomozati cselekmények még tartanak.\n\n• **Iratok vizsgálata** Molnárné Lezsák Anna arról számolt be, hogy a nyomozók beruházási dokumentumokat, szerződéseket és számlákat néztek át. Azt is jelezte, hogy az alapítvány munkatársai tételes jegyzőkönyvet kérnek az elvitt iratokról.",
     "importance_score": 45.0,
-    "top_rank": 27,
+    "top_rank": 26,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1704,7 +1658,7 @@
     "lead_hu": "Csütörtökön a NAV és az ügyészség munkatársai megjelentek a lakiteleki Népfőiskola Alapítványnál. A Fidesz politikai megtorlást emleget, miközben a 24.hu szerint az alapítvány pénzügyei is a vizsgálat hátterében állhatnak; ezt a hatóságok egyelőre nem erősítették meg.",
     "content_hu": "• **Hatósági megjelenés Lakiteleken** A NAV és az ügyészség munkatársai csütörtökön felkeresték a Lezsák Sándorhoz kötődő Népfőiskola Alapítványt. Az eseményt Molnárné Lezsák Anna fideszes képviselő hozta nyilvánosságra.\n\n• **A Fidesz politikai indítékot tulajdonít az intézkedésnek** Molnárné Lezsák Anna és Bóka János a fellépést politikai leszámolásként értékelte, és azt Lezsák Sándor, illetve családja megszólalásával hozta összefüggésbe a Tisza Párt ügynökügyében. Lezsák Sándor előző héten tévedésből került fel az ügynöklistára; az Állambiztonsági Szolgálatok Történeti Levéltára és Magyar Péter bocsánatot kért emiatt.\n\n• **A pénzügyek vizsgálata is felmerült lehetséges háttérként** A 24.hu értesülése szerint az alapítvány az elmúlt években több tízmilliárd forint állami támogatást kapott, és az NKA-ügyben 2,6 milliárd forinthoz jutott. A portál szerint az ügyben Hankó Balázs is gyanúsított, és jelenleg letartóztatásban van; az alapítvány elleni intézkedés pénzügyi okát hivatalosan nem erősítették meg.\n\n• **A rendőrség a NAV-hoz irányította a kérdéseket** A 24.hu megkeresésére a rendőrség azt közölte, hogy hatásköri és illetékességi okokból a NAV adhat választ az ügyre vonatkozó kérdésekre.",
     "importance_score": 45.0,
-    "top_rank": 28,
+    "top_rank": 27,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1746,7 +1700,7 @@
     "lead_hu": "Magyar Péter nőket érintő intézkedéseinek terveire Molnár Áron támogatással reagált, és ismét bírálta a szívhangrendeletet. A színész szerint a kezdeményezések a Fidesz győzelme esetén nem valósultak volna meg.",
     "content_hu": "• **A tervezett intézkedések támogatása** Molnár Áron üdvözölte az Isztambuli Egyezmény ratifikációjának kezdeményezését, a szívhangrendelet átalakítását és az esemény utáni tabletta vénykötelességének megszüntetését. A menstruációs szegénység kezelését célzó terveket is kedvezően fogadta.\n\n• **Kritika a korábbi szabályozásról** Molnár úgy vélte, a szívhangrendelet figyelmen kívül hagyta az érintett nők nézőpontját, és szerinte akár teljesen el is lehetett volna törölni.\n\n• **A Fidesz győzelmével kapcsolatos álláspontja** A színész azt írta, megítélése szerint ezek a változtatások nem kerültek volna napirendre, ha a Fidesz nyeri a választást.\n\n• **Tüntetés az egyezmény ratifikálásáért** Október 30-án a Kossuth téren demonstrációt tartottak az Isztambuli Egyezmény ratifikációja mellett. Molnár az egyezményhez kapcsolódóan a nők elleni és a családon belüli erőszak, valamint a kényszerházasság és a kényszersterilizálás elleni fellépést emelte ki.\n\n• **Politikai reakcióként értelmezte a bejelentést** Molnár a tervezett intézkedéseket az előző napi, Magyar Péter és Varga Judit közötti magánéleti vitára adott politikai válaszként is értelmezte. Török Gábor elemző szerint a csomag bejelentését az indokolhatta, hogy gyors választ láttak szükségesnek.",
     "importance_score": 45.0,
-    "top_rank": 29,
+    "top_rank": 28,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1787,9 +1741,50 @@
     "lead_hu": "A Wizz Air pénzügyi évének első felében 108,1 millió euró nettó nyereséget ért el, szemben az előző évi 323,5 millióval. A nyári negyedév profitja nőtt, miközben a légitársaság decemberben újraindítja járatait a Kolozsvár–Bukarest útvonalon.",
     "content_hu": "• **A féléves nyereség csökkent:** A Wizz Air pénzügyi évének első hat hónapjában 108,1 millió euró nettó profitot könyvelt el, míg egy évvel korábban 323,5 millió euró volt az eredmény. Az árbevétel 14 százalékkal, 3,802 milliárd euróra emelkedett.\n\n• **A második negyedév ellensúlyozta az első negyedévet:** A július és szeptember közötti időszakban 306,5 millió euró profit keletkezett, ami 6,5 százalékkal haladta meg az egy évvel korábbit, és fedezte az első negyedév veszteségét. Az egy utaskilométerre jutó bevétel is nőtt, noha a menedzsment korábban nem számított emelkedésre.\n\n• **Az üzemanyagárak továbbra is terhelik a céget:** A Wizz Air a magasabb kerozinköltséget jelölte meg az eredményeket befolyásoló tényezőként, és Váradi József vezérigazgató szerint ez a téli, kisebb forgalmú hónapokban is kihívást jelenthet. A gyorsjelentésről szóló beszámolók a hajtóműproblémákat, az iráni konfliktust és a működési költségek emelkedését is a nehézségek között említik.\n\n• **A Lutonból induló téli járatok száma csökkenhet:** A Bloomberg korábbi értesülése szerint a légitársaság egyes, a lutoni bázison dolgozó pilótáknak végkielégítést ajánlott fel a kiadások mérséklésére, miközben a téli időszakban kevesebb járatot tervez.\n\n• **December 18-án újraindul a román belföldi útvonal:** Nyolc év szünet után a Wizz Air ismét járatokat indít Románián belül, Kolozsvár és Bukarest között. Hétköznaponként naponta két, hétvégén naponta egy járatot tervez, így hetente legfeljebb 12 alkalommal közlekedhet.\n\n• **Jelentős forgalmú útvonalra lép be a társaság:** A Kolozsvár–Bukarest járaton jelenleg a Tarom és a HiSky is repül. A közölt adatok szerint 2025-ben több mint 366 ezren utaztak ezen az útvonalon, 2026 januárja és októbere között pedig több mint 300 ezren; ez a kolozsvári repülőtér utasforgalmának körülbelül egytizede.",
     "importance_score": 45.0,
-    "top_rank": 30,
+    "top_rank": 29,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_108d5823eb",
+    "slug": "arnyeklira-108d58",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Árnyéklíra",
+        "link": "https://magyarnarancs.hu/aszerk/arnyeklira-280572"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Miközben mindenki Magyar Péterre és a német kancellára figyelt Berlinben, Magyarország odavágott Ukrajnának: szép csendben megkapták a vétót az EU-csatlakozás folytatására",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyarorszag-ukrajna-unios-csatlakozas-veto-klaszter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Merz egész Európát megzsarolja Ukrajnáért – Bécsből is nekimentek a német kancellárnak, és Magyarországgal példálóztak",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/merz-europat-zsarolja-ukrajnaert-becs-magyarorszag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "444.hu",
+        "title": "Friedrich Merz erővel mozdítaná el Magyar Pétert az orbáni pozícióból",
+        "link": "https://444.hu/2026/11/12/friedrich-merz-erovel-mozditana-el-magyar-petert-az-orbani-poziciobol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794427200,
+    "title_hu": "Árnyéklíra",
+    "lead_hu": "Ukrajna talpra állítása és megerősítése alapvető európai (és ezért magyar) érdek. Ezt mintha a Magyar-kormány sem lenne hajlandó tudomásul venni.",
+    "content_hu": "Ukrajna talpra állítása és megerősítése alapvető európai (és ezért magyar) érdek. Ezt mintha a Magyar-kormány sem lenne hajlandó tudomásul venni.",
+    "importance_score": 45.0,
+    "is_top_hero": false,
+    "is_top_list": true,
+    "top_rank": 30
   },
   {
     "group_id": "group_2c175ba386",
@@ -1874,41 +1869,46 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_72be75203f",
-    "slug": "a-minimalber-75-szazalekos-emeleset-javasolja-a-kormany-72be75",
+    "group_id": "group_493beab7d2",
+    "slug": "hatosagok-jelentek-meg-a-lakiteleki-nepfoiskola-alapitvanynal-493bea",
     "tags": [
-      "minimalber",
-      "beremeles",
-      "garantalt-berminimum",
-      "szakszervezetek"
+      "lezsak-sandor",
+      "nepfoiskola-alapitvany",
+      "hatosagi-vizsgalat",
+      "lakitelek"
     ],
-    "fingerprint": "fcb8a7b94c7a34a191dcf3b1b6d76fd5",
+    "fingerprint": "7c0746410d960e90b9ff5039910c6916",
     "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8f8de0fb-3b18-4c08-b006-9cb7482676cb.jpg",
+    "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
-        "source": "HVG - Gazdaság",
-        "title": "„Elővették a papírzsebkendőjüket, és sírnak”: bejelentette a kormány, mennyivel emelné jövőre a minimálbért",
-        "link": "https://hvg.hu/gazdasag/20261112_minimalber-garantalt-berminimum-emeles-2027-vkf-ules"
+        "source": "Telex - Belföld",
+        "title": "Lezsák Sándor lánya arról posztolt, hogy kivonultak a hatóságok apja alapítványához",
+        "link": "https://telex.hu/belfold/2026/11/12/lezsak-sandor-lakitelek-hatosag"
       },
       {
-        "source": "Index - Címlap",
-        "title": "Bejelentette a kormány, mennyivel nőhet a minimálbér – a munkáltatók nem elégedettek a javaslattal",
-        "link": "https://index.hu/gazdasag/2026/11/12/vkf-minimalber-emeles-munkaltato-szekely-tamas-szakszervezet/"
+        "source": "HVG - Itthon",
+        "title": "Kivonultak a hatóságok Lezsák Sándor alapítványához",
+        "link": "https://hvg.hu/itthon/20261112_boka-janos-azt-allitja-kivonultak-a-hatosagok-lezsak-sandor-alapitvanyahoz"
       },
       {
-        "source": "Magyar Nemzet",
-        "title": "Mi lesz a minimálbérrel? Egyelőre papírzsepkendőnél és sírásnál tartunk",
-        "link": "https://magyarnemzet.hu/gazdasag/2026/11/minimalber-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "Portfolio - Gazdaság",
+        "title": "Megjelentek a hatóságok Lezsák Sándor, tízmilliárdos támogatást kapó alapítványnál",
+        "link": "https://www.portfolio.hu/gazdasag/20261112/megjelentek-a-hatosagok-lezsak-sandor-tizmilliardos-tamogatast-kapo-alapitvanynal-876066"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megjelentek a hatóságok Lezsák Sándor tízmilliárdos támogatást kapó alapítványánál",
+        "link": "https://www.portfolio.hu/gazdasag/20261112/megjelentek-a-hatosagok-lezsak-sandor-tizmilliardos-tamogatast-kapo-alapitvanyanal-876066"
       }
     ],
-    "published_at": 1794490185,
-    "title_hu": "A minimálbér 7,5 százalékos emelését javasolja a kormány",
-    "lead_hu": "A kormány 7,5 százalékos minimálbér- és 6,5 százalékos garantáltbérminimum-emelést javasolt, de a háromoldalú tárgyalásokon még nem született megállapodás. Székely Tamás szakszervezeti vezető elfogadható kiindulópontnak tartja az ajánlatot, ugyanakkor egyéves bérmegállapodást tartana célszerűnek.",
-    "content_hu": "• **A kormány javaslata** A minimálbér bruttó összege 322 800 forintról 347 100 forintra, a garantált bérminimumé 373 200 forintról 397 ezer forintra emelkedne. A korábbi tárgyalási javaslatok a munkáltatók részéről 4, a szakszervezetek részéről 14 százalékos növelésről szóltak.\n\n• **Még nincs megállapodás** Kármán András pénzügyminiszter közlése szerint a felek álláspontjai jelentősen közeledtek, de egyezség egyelőre nem született. Székely Tamás arra számít, hogy hamarosan megállapodhatnak, és a kormány ajánlatát tarthatónak, illetve elfogadható kiindulópontnak nevezte.\n\n• **Egyéves megállapodást szorgalmaznak** Székely szerint a korábbi, három évre kötött bérmegállapodás vállalásai nem teljesültek a várakozások szerint, és a VDSZ nem támogatta azt. A szakszervezeti vezető a gazdasági környezet, az energiaárak és a forintárfolyam bizonytalanságára hivatkozva most egyéves megállapodást tartana megfelelőnek.\n\n• **A nettó bérek változása** A tervezett szja-csökkentés a minimálbér esetében 15-ről 9 százalékra mérsékelné az adókulcsot. Székely szerint a bruttó emelés és az adóváltozás együtt a legalacsonyabb keresetűek nettó jövedelmét kétszámjegyű mértékben növelheti; a 2027-es minimálbér-emelésnél ugyanakkor nem tart reálisnak kétszámjegyű bruttó növekedést.\n\n• **A béremelés lehetséges tovagyűrűző hatása** A minimálbér és a garantált bérminimum növelése a magasabb bérkategóriákban dolgozók fizetéséről szóló tárgyalásokra is hatással lehet. Székely nagyobb bérvitára számít, ha a munkáltatók ott nulla vagy 2 százalékos emelést ajánlanak.\n\n• **A kormányzati cél időpontja** A kormány azt szeretné, hogy 2027. január 1-jétől érdemben emelkedjen a minimálbér és a garantált bérminimum nettó összege.",
+    "published_at": 1794490140,
+    "title_hu": "Hatóságok jelentek meg a lakiteleki Népfőiskola Alapítványnál",
+    "lead_hu": "Molnárné Lezsák Anna és Bóka János közösségi oldalán is arról számolt be, hogy hatóságok jelentek meg a lakiteleki Népfőiskola Alapítványnál. A család és a Fidesz politikusai politikai megtorlást emlegettek, a fellépés pontos okáról azonban a beszámolók nem közöltek részleteket.",
+    "content_hu": "• **Hatósági jelenlét:** Molnárné Lezsák Anna megerősítette, hogy állami szervek jelentek meg a Népfőiskola Alapítványnál. A HVG a Blikk információjára hivatkozva azt írta, hogy a helyszínen a NAV és Bács-Kiskun vármegyei ügyészek lehetnek.\n\n• **Politikai megtorlásról szóló állítások:** Molnárné Lezsák Anna és Bóka János az intézkedést az ügynökbotrányról tett nyilatkozatokkal hozta összefüggésbe, és politikai bosszút emlegetett. Ezek az érintettek állításai.\n\n• **A vizsgálat oka nem ismert:** A beszámolók megjelenésekor nem derült ki, hogy a hatóságok pontosan milyen ügyben jártak el. A Portfolio megkereste az alapítványt és a NAV-ot tájékoztatásért.\n\n• **Az alapítvány finanszírozása:** A Portfolio szerint a Népfőiskola Alapítvány 2024-ben 7,7 milliárd, a következő évben pedig több mint 5 milliárd forint állami forráshoz jutott. A cikk arról is beszámolt, hogy a minisztérium megkezdte az intézménnyel kötött közszolgáltatási szerződés felülvizsgálatát.",
     "importance_score": 43.0,
     "is_top_hero": false,
     "is_top_list": true,
@@ -2125,42 +2125,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_1e505a5690",
-    "slug": "ukrajna-finanszirozasa-is-napirenden-van-a-dublini-unios-csucson-1e505a",
-    "tags": [
-      "ukrajna",
-      "eu-csucs",
-      "dublin",
-      "magyar-peter"
-    ],
-    "fingerprint": "64c755f7d55f7ada04229d1d57e468de",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/3O58jzILXk83tyPLuJmRCuaEch7t49Id35p2zSWF4O8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzllMjZkOWUzMjMzNDQyZjI4OTc0NmM0ZDE0YWY1YmY4.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "EU-csúcs Dublinban: nagyon rosszul kezdődött Magyar Péternek, Magyarországnak fizetnie kell Ukrajnának? Egyből két súlyos figyelmeztetés érkezett",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/eu-csucs-dublin-magyar-peter-magyarorszag-ukrajna-penz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Magyar Péter Dublinból üzent, elárulta, miről egyeztet a kétnapos uniós csúcstalálkozón",
-        "link": "https://index.hu/kulfold/2026/11/12/irorszag-dublin-magyar-peter-csucstalalkozo/"
-      }
-    ],
-    "published_at": 1794500580,
-    "title_hu": "Ukrajna finanszírozása is napirenden van a dublini uniós csúcson",
-    "lead_hu": "Dublinban az európai vezetők biztonsági, gazdasági és technológiai kérdésekről egyeztetnek. Az ír külügyminiszter szerint valamennyi uniós tagállamnak részt kell vállalnia Ukrajna finanszírozásából; a pénteki informális tanácskozáson erről várhatóan nem születik döntés.",
-    "content_hu": "• **Minden tagállamtól hozzájárulást vár Írország** Helen McEntee ír külügyminiszter a dublini csúcs előtt azt mondta, hogy az uniós országoknak közösen kell viselniük Ukrajna finanszírozásának terheit.\n\n• **A pénteki ülésen Ukrajna támogatása is szóba kerülhet** A 27 tagállam vezetőjének informális egyeztetésén a jövő évi és az azt követő finanszírozásról tárgyalnak, de döntés nem várható. Korábban egy 90 milliárd eurós kölcsönt hagytak jóvá Ukrajna idei és jövő évi szükségleteire.\n\n• **A csúcs témái a biztonság és a versenyképesség is** Magyar Péter tájékoztatása szerint az Európai Politikai Közösség találkozóján mintegy 50 állam- és kormányfő vesz részt; a programban a kontinens biztonsága és versenyképessége szerepel. Az uniós vezetők a mesterséges intelligenciáról és az uniós költségvetésről is egyeztethetnek.",
-    "importance_score": 40.0,
-    "top_rank": 39,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_ca0f066e9a",
     "slug": "uj-reszletek-derultek-ki-a-szivhangszabaly-es-a-tablettakivaltas-valtozasairol-ca0f06",
     "tags": [
@@ -2197,9 +2161,50 @@
     "lead_hu": "Az Egészségügyi Minisztérium további részleteket közölt a magzati életfunkciók bemutatásának új szabályairól és az esemény utáni tabletta vény nélküli kiváltásáról. A tárca tájékoztatása szerint a gyógyszerészi konzultáció során a kényszer vagy a szexuális erőszak gyanúját is kezelik, emellett az intim felvételekkel való visszaélést önálló bűncselekménnyé tennék.",
     "content_hu": "• **A magzati életfunkciók megismerése továbbra is a nő döntése** – Az orvos egyszer, közérthetően és tárgyilagosan ismerteti a lehetőséget; a nő később, akár a vizsgálat során is jelezheti, ha élni kíván vele. A kérés elmaradását nem kell indokolni vagy írásban rögzíteni, és emiatt hátrány nem érheti.\n\n• **A terhességmegszakítás feltételei változatlanok** – A lelet kiadása, az ellátás és a Családvédelmi Szolgálat eljárása zavartalanul folytatódik, a törvényi feltételek és határidők nem módosulnak. A minisztérium szerint a korábbi szabályozás nem csökkentette az abortuszok számát, és krízishelyzetben lévő nőknek további lelki megterhelést okozhatott.\n\n• **A 14. életévüket betöltők vény nélkül kérhetik a tablettát** – A készítményt személyesen lehet kiváltani, a gyógyszerész pedig egy rövid kérdőív alapján, négyszemközti beszélgetésben rákérdez az együttlét óta eltelt időre, az egyéb gyógyszerekre és az esetleges orvosi vizsgálat szükségességére. Kényszer vagy szexuális erőszak gyanúja esetén segítséghez irányítja az érintettet; a 14 év alattiaknak továbbra is recept kell.\n\n• **Az intim felvételekkel való visszaélés külön bűncselekmény lehet** – A minisztérium közlése szerint ezt az új intézkedések között önálló tényállásként nevesítenék.",
     "importance_score": 38.0,
-    "top_rank": 40,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_72be75203f",
+    "slug": "a-minimalber-75-szazalekos-emeleset-javasolja-a-kormany-72be75",
+    "tags": [
+      "minimalber",
+      "beremeles",
+      "garantalt-berminimum",
+      "szakszervezetek"
+    ],
+    "fingerprint": "fcb8a7b94c7a34a191dcf3b1b6d76fd5",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8f8de0fb-3b18-4c08-b006-9cb7482676cb.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "„Elővették a papírzsebkendőjüket, és sírnak”: bejelentette a kormány, mennyivel emelné jövőre a minimálbért",
+        "link": "https://hvg.hu/gazdasag/20261112_minimalber-garantalt-berminimum-emeles-2027-vkf-ules"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Bejelentette a kormány, mennyivel nőhet a minimálbér – a munkáltatók nem elégedettek a javaslattal",
+        "link": "https://index.hu/gazdasag/2026/11/12/vkf-minimalber-emeles-munkaltato-szekely-tamas-szakszervezet/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Mi lesz a minimálbérrel? Egyelőre papírzsepkendőnél és sírásnál tartunk",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/minimalber-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794490185,
+    "title_hu": "A minimálbér 7,5 százalékos emelését javasolja a kormány",
+    "lead_hu": "A kormány 7,5 százalékos minimálbér- és 6,5 százalékos garantáltbérminimum-emelést javasolt, de a háromoldalú tárgyalásokon még nem született megállapodás. Székely Tamás szakszervezeti vezető elfogadható kiindulópontnak tartja az ajánlatot, ugyanakkor egyéves bérmegállapodást tartana célszerűnek.",
+    "content_hu": "• **A kormány javaslata** A minimálbér bruttó összege 322 800 forintról 347 100 forintra, a garantált bérminimumé 373 200 forintról 397 ezer forintra emelkedne. A korábbi tárgyalási javaslatok a munkáltatók részéről 4, a szakszervezetek részéről 14 százalékos növelésről szóltak.\n\n• **Még nincs megállapodás** Kármán András pénzügyminiszter közlése szerint a felek álláspontjai jelentősen közeledtek, de egyezség egyelőre nem született. Székely Tamás arra számít, hogy hamarosan megállapodhatnak, és a kormány ajánlatát tarthatónak, illetve elfogadható kiindulópontnak nevezte.\n\n• **Egyéves megállapodást szorgalmaznak** Székely szerint a korábbi, három évre kötött bérmegállapodás vállalásai nem teljesültek a várakozások szerint, és a VDSZ nem támogatta azt. A szakszervezeti vezető a gazdasági környezet, az energiaárak és a forintárfolyam bizonytalanságára hivatkozva most egyéves megállapodást tartana megfelelőnek.\n\n• **A nettó bérek változása** A tervezett szja-csökkentés a minimálbér esetében 15-ről 9 százalékra mérsékelné az adókulcsot. Székely szerint a bruttó emelés és az adóváltozás együtt a legalacsonyabb keresetűek nettó jövedelmét kétszámjegyű mértékben növelheti; a 2027-es minimálbér-emelésnél ugyanakkor nem tart reálisnak kétszámjegyű bruttó növekedést.\n\n• **A béremelés lehetséges tovagyűrűző hatása** A minimálbér és a garantált bérminimum növelése a magasabb bérkategóriákban dolgozók fizetéséről szóló tárgyalásokra is hatással lehet. Székely nagyobb bérvitára számít, ha a munkáltatók ott nulla vagy 2 százalékos emelést ajánlanak.\n\n• **A kormányzati cél időpontja** A kormány azt szeretné, hogy 2027. január 1-jétől érdemben emelkedjen a minimálbér és a garantált bérminimum nettó összege.",
+    "importance_score": 38.0,
+    "is_top_hero": false,
+    "is_top_list": true,
+    "top_rank": 40
   },
   {
     "group_id": "group_8933eb15e5",
@@ -2419,40 +2424,40 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_108d5823eb",
-    "slug": "arnyeklira-108d58",
+    "group_id": "group_1e505a5690",
+    "slug": "ukrajna-finanszirozasa-is-napirenden-van-a-dublini-unios-csucson-1e505a",
     "tags": [
-      "politika"
+      "ukrajna",
+      "eu-csucs",
+      "dublin",
+      "magyar-peter"
     ],
+    "fingerprint": "64c755f7d55f7ada04229d1d57e468de",
     "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 3,
+    "image": "https://cdn.vg.hu/2026/11/3O58jzILXk83tyPLuJmRCuaEch7t49Id35p2zSWF4O8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzllMjZkOWUzMjMzNDQyZjI4OTc0NmM0ZDE0YWY1YmY4.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
-        "source": "Magyar Narancs",
-        "title": "Árnyéklíra",
-        "link": "https://magyarnarancs.hu/aszerk/arnyeklira-280572"
-      },
-      {
         "source": "Világgazdaság",
-        "title": "Miközben mindenki Magyar Péterre és a német kancellára figyelt Berlinben, Magyarország odavágott Ukrajnának: szép csendben megkapták a vétót az EU-csatlakozás folytatására",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyarorszag-ukrajna-unios-csatlakozas-veto-klaszter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "title": "EU-csúcs Dublinban: nagyon rosszul kezdődött Magyar Péternek, Magyarországnak fizetnie kell Ukrajnának? Egyből két súlyos figyelmeztetés érkezett",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/eu-csucs-dublin-magyar-peter-magyarorszag-ukrajna-penz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
-        "source": "Magyar Nemzet",
-        "title": "Merz egész Európát megzsarolja Ukrajnáért – Bécsből is nekimentek a német kancellárnak, és Magyarországgal példálóztak",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/merz-europat-zsarolja-ukrajnaert-becs-magyarorszag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "Index - Címlap",
+        "title": "Magyar Péter Dublinból üzent, elárulta, miről egyeztet a kétnapos uniós csúcstalálkozón",
+        "link": "https://index.hu/kulfold/2026/11/12/irorszag-dublin-magyar-peter-csucstalalkozo/"
       }
     ],
-    "published_at": 1794427200,
-    "title_hu": "Árnyéklíra",
-    "lead_hu": "Ukrajna talpra állítása és megerősítése alapvető európai (és ezért magyar) érdek. Ezt mintha a Magyar-kormány sem lenne hajlandó tudomásul venni.",
-    "content_hu": "Ukrajna talpra állítása és megerősítése alapvető európai (és ezért magyar) érdek. Ezt mintha a Magyar-kormány sem lenne hajlandó tudomásul venni.",
-    "importance_score": 35.0,
+    "published_at": 1794500580,
+    "title_hu": "Ukrajna finanszírozása is napirenden van a dublini uniós csúcson",
+    "lead_hu": "Dublinban az európai vezetők biztonsági, gazdasági és technológiai kérdésekről egyeztetnek. Az ír külügyminiszter szerint valamennyi uniós tagállamnak részt kell vállalnia Ukrajna finanszírozásából; a pénteki informális tanácskozáson erről várhatóan nem születik döntés.",
+    "content_hu": "• **Minden tagállamtól hozzájárulást vár Írország** Helen McEntee ír külügyminiszter a dublini csúcs előtt azt mondta, hogy az uniós országoknak közösen kell viselniük Ukrajna finanszírozásának terheit.\n\n• **A pénteki ülésen Ukrajna támogatása is szóba kerülhet** A 27 tagállam vezetőjének informális egyeztetésén a jövő évi és az azt követő finanszírozásról tárgyalnak, de döntés nem várható. Korábban egy 90 milliárd eurós kölcsönt hagytak jóvá Ukrajna idei és jövő évi szükségleteire.\n\n• **A csúcs témái a biztonság és a versenyképesség is** Magyar Péter tájékoztatása szerint az Európai Politikai Közösség találkozóján mintegy 50 állam- és kormányfő vesz részt; a programban a kontinens biztonsága és versenyképessége szerepel. Az uniós vezetők a mesterséges intelligenciáról és az uniós költségvetésről is egyeztethetnek.",
+    "importance_score": 33.0,
+    "top_rank": 47,
     "is_top_hero": false,
-    "is_top_list": true,
-    "top_rank": 47
+    "is_top_list": true
   },
   {
     "group_id": "group_6307579bfa",
@@ -3923,6 +3928,37 @@
     "top_rank": 87
   },
   {
+    "group_id": "group_0cadb460f4",
+    "slug": "a-nap-legfontosabb-hirei-2026-november-11-0cadb4",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/dsc6969-e1794428224464-1024x577.jpeg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A nap legfontosabb hírei – 2026. november 11.",
+        "link": "https://24.hu/belfold/2026/11/11/a-nap-legfontosabb-hirei-2026-november-11/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A nap legfontosabb hírei – 2026. november 12.",
+        "link": "https://24.hu/belfold/2026/11/12/a-nap-legfontosabb-hirei-2026-november-12/"
+      }
+    ],
+    "published_at": 1794428237,
+    "title_hu": "A nap legfontosabb hírei – 2026. november 11.",
+    "lead_hu": "Nem az igazságszolgáltatással szembe kerülő fideszesek napja volt ez. The post A nap legfontosabb hírei – 2026. november 11. first appeared on 24.hu.",
+    "content_hu": "Nem az igazságszolgáltatással szembe kerülő fideszesek napja volt ez. The post A nap legfontosabb hírei – 2026. november 11. first appeared on 24.hu.",
+    "importance_score": 20.0,
+    "top_rank": 88,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_644368bf0c",
     "slug": "gyozelemmel-rajtolt-a-magyar-noi-kosarlabda-valogatott-az-eb-selejtezoben-644368",
     "tags": [
@@ -3956,7 +3992,7 @@
     "importance_score": 20.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 88
+    "top_rank": 89
   },
   {
     "group_id": "group_4bd3477fe3",
@@ -3985,7 +4021,7 @@
     "lead_hu": "Vegyes reakciókat váltott ki az új tankerületi igazgatók kinevezése, akik között akad, aki már vissza is lépett a feladattól. Vannak, akiknek a személye kérdéseket vet fel a NER-hez fűződő viszonyuk m…",
     "content_hu": "Vegyes reakciókat váltott ki az új tankerületi igazgatók kinevezése, akik között akad, aki már vissza is lépett a feladattól. Vannak, akiknek a személye kérdéseket vet fel a NER-hez fűződő viszonyuk miatt, ugyanakkor a legtöbb helyen szakmai alapon nyugvó vezetőváltás ment végbe.",
     "importance_score": 20.0,
-    "top_rank": 89,
+    "top_rank": 90,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4016,9 +4052,87 @@
     "lead_hu": "Soha többet nem lesz képes teljes életet élni Nándor, mert az egyik szemére teljesen, a másikra 90 százalékban megvakult. Azt szeretné, ha a bíróság jogerősen kimondaná, hogy műhiba miatt lett súlyosa…",
     "content_hu": "Soha többet nem lesz képes teljes életet élni Nándor, mert az egyik szemére teljesen, a másikra 90 százalékban megvakult. Azt szeretné, ha a bíróság jogerősen kimondaná, hogy műhiba miatt lett súlyosan látássérült – ám ez nem egyszerű, ha az érintett orvos megkerülhetetlen szaktekintélynek számít.",
     "importance_score": 20.0,
-    "top_rank": 90,
+    "top_rank": 91,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_0696cd938f",
+    "slug": "reszletek-derultek-ki-a-lezsak-sandor-alapitvanyanal-trtent-nav-akciorol-0696cd",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7253/72534/725349/72534921_5344797_cf927d857e503acb4c53e825b91f06fb_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Részletek derültek ki a Lezsák Sándor alapítványánál történt NAV-akcióról",
+        "link": "https://index.hu/belfold/2026/11/12/lezsak-sandor-alapitvany-nav-nyomozok-lezsak-anna/"
+      }
+    ],
+    "published_at": 1794511500,
+    "title_hu": "Részletek derültek ki a Lezsák Sándor alapítványánál történt NAV-akcióról",
+    "lead_hu": "Lezsák Anna szerint kórházban fekvő apja „stratégiai nyugalommal” fogadta a hírt....",
+    "content_hu": "Lezsák Anna szerint kórházban fekvő apja „stratégiai nyugalommal” fogadta a hírt.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_d0a88cb76d",
+    "slug": "nagy-hullamokat-vet-az-nvidia-botrany-trump-allitolag-mar-a-kereskedelmi-miniszt-d0a88c",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/d/o/n/donald-trump-815334-donald-trump-amerikai-elnok-amerikai-egyesult-allamok-politika-sajtotajeko-816524.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Nagy hullámokat vet az Nvidia-botrány, Trump állítólag már a kereskedelmi miniszter menesztését fontolgatja",
+        "link": "https://www.portfolio.hu/befektetes/20261112/nagy-hullamokat-vet-az-nvidia-botrany-trump-allitolag-mar-a-kereskedelmi-miniszter-meneszteset-fontolgatja-876160"
+      }
+    ],
+    "published_at": 1794511500,
+    "title_hu": "Nagy hullámokat vet az Nvidia-botrány, Trump állítólag már a kereskedelmi miniszter menesztését fontolgatja",
+    "lead_hu": "Súlyos bírálatok érik Howard Lutnick amerikai kereskedelmi minisztert és tárcáját, amiért nem léptek fel időben a Megaspeed nevű kínai vállalattal szemben. Egyes sajtóértesülések szerint Donald Trump ...",
+    "content_hu": "Súlyos bírálatok érik Howard Lutnick amerikai kereskedelmi minisztert és tárcáját, amiért nem léptek fel időben a Megaspeed nevű kínai vállalattal szemben. Egyes sajtóértesülések szerint Donald Trump egyenesen a politikus menesztését fontolgatja. A szingapúri székhelyű, mesterséges intelligenciával foglalkozó cég áll annak a kémbotránynak a középpontjában, amely miatt csütörtökön váratlanul lemondott Jensen Huang, az Nvidia vezérigazgatója. A vádak szerint a minisztérium tétlensége nagyban hozzájárult ahhoz, hogy csúcskategóriás amerikai chipek kerüljenek Kínába - tudósított a New York Post.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_eda8fbdbea",
+    "slug": "a-haromkezu-banko-es-a-jobbagyai-kzt-etkezo-meszaros-lorinc-micsoda-kiallitas-ny-eda8fb",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "A háromkezű Bankó és a jobbágyai közt étkező Mészáros Lőrinc: micsoda kiállítás nyílt a NER emblematikus fotóiból",
+        "link": "https://444.hu/2026/11/12/a-haromkezu-banko-es-a-jobbagyai-kozt-etkezo-meszaros-lorinc-micsoda-kiallitas-nyilt-a-ner-emblematikus-fotoibol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794511496,
+    "title_hu": "A háromkezű Bankó és a jobbágyai közt étkező Mészáros Lőrinc: micsoda kiállítás nyílt a NER emblematikus fotóiból",
+    "lead_hu": "Mit is visel az a táplálkozó Mészárost bámuló nő, aki Szexifehérnemű-mintás kötényhez húzott horvát válogatott szurkolói sapkát? A NER legvadabb és legviccesebb fotóit állította ki a 444 fotóriportere...",
+    "content_hu": "Mit is visel az a táplálkozó Mészárost bámuló nő, aki Szexifehérnemű-mintás kötényhez húzott horvát válogatott szurkolói sapkát? A NER legvadabb és legviccesebb fotóit állította ki a 444 fotóriportere. Éld át újra az abszurd őrületet biztonságos körülmények között.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_bcec1e21c9",
@@ -17047,32 +17161,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_0cadb460f4",
-    "slug": "a-nap-legfontosabb-hirei-2026-november-11-0cadb4",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/dsc6969-e1794428224464-1024x577.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A nap legfontosabb hírei – 2026. november 11.",
-        "link": "https://24.hu/belfold/2026/11/11/a-nap-legfontosabb-hirei-2026-november-11/"
-      }
-    ],
-    "published_at": 1794428237,
-    "title_hu": "A nap legfontosabb hírei – 2026. november 11.",
-    "lead_hu": "Nem az igazságszolgáltatással szembe kerülő fideszesek napja volt ez. The post A nap legfontosabb hírei – 2026. november 11. first appeared on 24.hu.",
-    "content_hu": "Nem az igazságszolgáltatással szembe kerülő fideszesek napja volt ez. The post A nap legfontosabb hírei – 2026. november 11. first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_40483df434",
     "slug": "vitezy-david-elkezdjuk-a-repuloteri-gyorsforgalmi--40483d",
     "tags": [
@@ -17723,110 +17811,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_33175d75b6",
-    "slug": "gajdos-laszlo-bejelentette-221-milliard-forintos-v-33175d",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Gajdos László bejelentette: 221 milliárd forintos vízmegtartási programot indít a kormány",
-        "link": "https://444.hu/2026/11/11/gajdos-laszlo-bejelentette-221-milliard-forintos-vizmegtartasi-programot-indit-a-kormany?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794425188,
-    "title_hu": "Gajdos László bejelentette: 221 milliárd forintos vízmegtartási programot indít a kormány",
-    "lead_hu": "Az élő környezetért felelős miniszter a vízügyi szakma képviselővel való egyeztetés után arról beszélt, hogy a vizet nem elvezetni, hanem megtartani kell.",
-    "content_hu": "Az élő környezetért felelős miniszter a vízügyi szakma képviselővel való egyeztetés után arról beszélt, hogy a vizet nem elvezetni, hanem megtartani kell.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_648b9d52b3",
-    "slug": "10-nappal-a-meccs-utan-kzltek-nem-adtak-meg-egy-ti-648b9d",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261111/1794424881-temp-3ref0d23233b3ohpijh_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "10 nappal a meccs után közölték, nem adtak meg egy tizenegyest a Liverpoolnak az Arsenal ellen",
-        "link": "https://telex.hu/sport/2026/11/11/liverpool-arsenal-elmaradt-tizenegyes-jatekvezetoi-bizottsag"
-      }
-    ],
-    "published_at": 1794425024,
-    "title_hu": "10 nappal a meccs után közölték, nem adtak meg egy tizenegyest a Liverpoolnak az Arsenal ellen",
-    "lead_hu": "Nagy vita volt a játékvezetői bizottságban, a VAR is hibázott.",
-    "content_hu": "Nagy vita volt a játékvezetői bizottságban, a VAR is hibázott.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_4588245c45",
-    "slug": "allatvedelem-velencei-to-akkumulatorgyar-gajdos-la-458824",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/ANb0fRYqF5Y",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Állatvédelem, Velencei-tó, akkumulátorgyár – Gajdos Lászlót élő adásban kérdeztük",
-        "link": "https://www.atv.hu/belfold/20261111/allat-velencei-akkumulatorgyar-gajdos/"
-      }
-    ],
-    "published_at": 1794425020,
-    "title_hu": "Állatvédelem, Velencei-tó, akkumulátorgyár – Gajdos Lászlót élő adásban kérdeztük",
-    "lead_hu": "Gajdos László élő környezetért felelős miniszter az ATV Egyenes Beszéd című műsorában beszélt a kormány környezetvédelmi terveiről, az akkumulátorgyárak ellenőrzéséről és az állatvédelem jövőjéről is.",
-    "content_hu": "Gajdos László élő környezetért felelős miniszter az ATV Egyenes Beszéd című műsorában beszélt a kormány környezetvédelmi terveiről, az akkumulátorgyárak ellenőrzéséről és az állatvédelem jövőjéről is.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_700820b9e7",
-    "slug": "egy-brutalis-baleset-artatlan-aldozata-megszolalt--700820",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7248/72480/724800/72480083_5341045_5c2f084fff6ef83ca3a6a3ec3faa6e33_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "„Egy brutális baleset ártatlan áldozata” – megszólalt a nyíregyházi benzinkúton történt tragédia áldozatának családja",
-        "link": "https://index.hu/belfold/2026/11/11/nyiregyhaza-halalos-baleset-sofor-letartoztatas-ittas-allapot/"
-      }
-    ],
-    "published_at": 1794424980,
-    "title_hu": "„Egy brutális baleset ártatlan áldozata” – megszólalt a nyíregyházi benzinkúton történt tragédia áldozatának családja",
-    "lead_hu": "A fiatal az ELTE japán-angol szakos hallgatója volt.",
-    "content_hu": "A fiatal az ELTE japán-angol szakos hallgatója volt.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_640e5a8ee6",
     "slug": "ellenlabas-politikusok-is-kaptak-diplomata-utlevelet-a-ner-idejen-640e5a",
     "tags": [
@@ -17860,7 +17844,7 @@
     "importance_score": 25.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 91
+    "top_rank": 92
   },
   {
     "group_id": "group_e04e49c6c8",
@@ -17896,7 +17880,7 @@
     "importance_score": 23.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 92
+    "top_rank": 93
   },
   {
     "group_id": "group_bfd08ad478",
