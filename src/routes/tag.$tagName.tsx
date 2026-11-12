@@ -2,6 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { PageShell } from "@/components/PageShell";
 import { newsByTag, tagLabel, tagSlug, timeAgo } from "@/lib/news";
 import { plainBold } from "@/components/RichText";
+import { newsSlug } from "@/lib/news-slug";
 import { SITE_URL } from "@/lib/article-schema";
 
 export const Route = createFileRoute("/tag/$tagName")({
@@ -37,11 +38,17 @@ function TagPage() {
         <ul className="mx-auto max-w-3xl divide-y divide-border">
           {items.map((n) => (
             <li key={n.group_id} className="py-5">
-              <Link to="/hir/$id" params={{ id: n.slug || n.group_id }} className="group block">
+              {(() => {
+                const body = <>
                 <p className="text-[10px] font-bold uppercase tracking-widest text-primary">{n.category} · <span className="text-muted-foreground">{timeAgo(n.published_at)}</span></p>
                 <h2 className="mt-1 font-display text-lg font-bold leading-snug group-hover:text-primary">{plainBold(n.title)}</h2>
                 {n.lead && <p className="mt-1 line-clamp-2 text-sm text-muted-foreground">{plainBold(n.lead)}</p>}
-              </Link>
+                </>;
+                const ext = !n.is_synthesized && n.sources[0]?.link;
+                return ext
+                  ? <a href={ext} target="_blank" rel="noopener noreferrer" className="group block">{body}</a>
+                  : <Link to="/hir/$id" params={{ id: newsSlug(n) }} className="group block">{body}</Link>;
+              })()}
             </li>
           ))}
         </ul>
