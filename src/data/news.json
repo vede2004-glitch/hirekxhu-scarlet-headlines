@@ -2022,6 +2022,50 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_127fc25626",
+    "slug": "jelentos-esot-hozhat-a-charles-ciklon-magyarorszagra-127fc2",
+    "tags": [
+      "ciklon",
+      "csapadek",
+      "idojaras",
+      "hungaromet"
+    ],
+    "fingerprint": "4a1d57f778915fc2f737d75b457f138f",
+    "category": "Általános",
+    "image": "https://assets.telex.hu/images/20261111/1794396135-temp-ma7027a6rmocbnnmbjb_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Hamarosan érkezik Charles, és hoz egy csomó esőt",
+        "link": "https://telex.hu/belfold/2026/11/11/idojaras-eso-csapadek-charles-ciklon"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Napokon belül megérkezik a Charles, 40 milliméter eső zúdulhat az országra",
+        "link": "https://index.hu/belfold/2026/11/11/charles-ciklon-csapadek-karpat-medence-iberiai-felsziget/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Charles hozza a nagy zuhét: pénteken alaposan megázik az ország, kiadták a riasztást",
+        "link": "https://www.portfolio.hu/gazdasag/20261112/charles-hozza-a-nagy-zuhet-penteken-alaposan-megazik-az-orszag-kiadtak-a-riasztast-875954"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Annyi esőt hoz Charles, hogy délre már figyelmeztetést is kiadtak",
+        "link": "https://telex.hu/belfold/2026/11/12/charles-ciklon-csapadek-idojaras-elorejelzes"
+      }
+    ],
+    "published_at": 1794401880,
+    "title_hu": "Jelentős esőt hozhat a Charles ciklon Magyarországra",
+    "lead_hu": "A Charles névre keresztelt ciklonhoz kapcsolódó csapadékzóna szerda este érheti el Magyarország délnyugati részét. Péntek reggelig több térségben 20–40 milliméter eső hullhat, majd péntek estére megszűnhet a csapadék.",
+    "content_hu": "• **Szerda estétől érkezik az eső** délnyugat felől, elsőként főként az ország déli és délkeleti tájain várható jelentősebb csapadék.\n\n• **Csütörtökön újabb esőzóna vonulhat át** az országon: egy átmeneti szünetet követően délután és este ismét többfelé eshet.\n\n• **Péntek reggelig nagy területen 20–40 milliméter csapadék hullhat**, egyes déli és délkeleti helyeken pedig már csütörtök reggelig meghaladhatja a mennyiség a 20 millimétert.\n\n• **Pénteken újabb front érkezik**, és sokfelé hozhat esőt; az északnyugati országrészben ugyanakkor korábban elállhat a csapadék. Estére országszerte megszűnhet az eső.\n\n• **A hét végére hidegebb, száraz idő várható.** Péntek délután az északnyugati szél megerősödhet, helyenként viharossá válhat.",
+    "importance_score": 40.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_ef77f64efa",
     "slug": "zebrara-es-impalara-is-vadaszott-merkely-ugandai-utjan-ef77f6",
     "tags": [
@@ -2126,6 +2170,35 @@
     "title_hu": "Csúcs volt ez a nyár, megmentette Wizz Air fél évét",
     "lead_hu": "Felemásra sikeredett a Wizz Air első fél éves, ám a második negyedév bizakodásra ad okot.",
     "content_hu": "Felemásra sikeredett a Wizz Air első fél éves, ám a második negyedév bizakodásra ad okot.",
+    "importance_score": 35.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_267d74b232",
+    "slug": "grazban-fogtak-el-egy-magyar-ferfit-aki-europa-leg-267d74",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Grazban fogtak el egy magyar férfit, aki Európa legkeresettebb bűnözőinek listáján is fent volt",
+        "link": "https://telex.hu/kulfold/2026/11/12/most-wanted-legkeresettebb-bunozo-graz-elfogas-ausztria"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megváltoztatta a külsejét és külföldre menekült: így bukkantak rá az egyik legkeresettebb magyar bűnözőre",
+        "link": "https://www.portfolio.hu/gazdasag/20261112/megvaltoztatta-a-kulsejet-es-kulfoldre-menekult-igy-bukkantak-ra-az-egyik-legkeresettebb-magyar-bunozore-875956"
+      }
+    ],
+    "published_at": 1794469164,
+    "title_hu": "Grazban fogtak el egy magyar férfit, aki Európa legkeresettebb bűnözőinek listáján is fent volt",
+    "lead_hu": "Évekig bujkált a hatóságok elől, miután emberölés kísérlete miatt hat év szabadságvesztésre ítélte a Fővárosi Törvényszék.",
+    "content_hu": "Évekig bujkált a hatóságok elől, miután emberölés kísérlete miatt hat év szabadságvesztésre ítélte a Fővárosi Törvényszék.",
     "importance_score": 35.0,
     "is_top_hero": false
   },
@@ -2257,40 +2330,6 @@
     "title_hu": "Két holttestet találtak egy szolnoki házaspár otthonában",
     "lead_hu": "November 11-én este rendőrök vonultak ki a szolnoki József Attila útra, ahol egy házaspár holttestére bukkantak. A hatóságok szerint egyikük gumilövedékes fegyverrel megölhette társát, majd saját életét is kiolthatta.",
     "content_hu": "• **November 11-én este** állampolgári bejelentés nyomán, este kilenc órakor érkeztek rendőrök a szolnoki József Attila útra, ahol megtalálták a házaspár holttestét.\n\n• **A rendőrség eddigi adatai szerint** az egyik fél gumilövedékes fegyverrel okozott halálos sérülést a másiknak, majd öngyilkosságot követett el.\n\n• **A körülményeket vizsgálják:** a Jász-Nagykun-Szolnok Vármegyei Rendőr-főkapitányság büntetőeljárásban, szakértők bevonásával folytatja az ügy kivizsgálását; a helyszíni szemle és az adatgyűjtés is zajlik.",
-    "importance_score": 35.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_fc4290a24e",
-    "slug": "harom-teruleten-modositanak-a-fldtrvenyt-fc4290",
-    "tags": [
-      "foldtorveny",
-      "foldberleti-dij",
-      "gazdalkodok",
-      "termofold"
-    ],
-    "fingerprint": "d0998d26c97e10c6b20438004c47db4e",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/_AAZ27KqAZx15tqTfmHtvvrf6Kz5JP7HKGeBTMSTRaM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ5ZTQ3MDdlOWFhNTQzMzA5MjA2MDQwMThjZWFlOGVm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Földtörvény 2027: bejelentette a kormány, teljesen átírják a földvásárlás egyik legfontosabb szabályát – a bérleti díjaknál is nagy változás jön",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/foldtorveny-modositas-berleti-dij-aszalykar-bona?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "A földtörvény módosítására készül a Tisza-kormány",
-        "link": "https://www.vadhajtasok.hu/2026/11/12/a-foldtorveny-modositasara-keszul-a-tisza-kormany"
-      }
-    ],
-    "published_at": 1794460805,
-    "title_hu": "Három területen módosítanák a földtörvényt",
-    "lead_hu": "Bóna Szabolcs agrár- és élelmiszer-gazdasági miniszter ismertette a földtörvény tervezett változtatásait. A módosítások a földbérleti díjak fizetését, a földvásárlás szabályait és a termőföldek beruházási célú használatát érintenék, a jogszabály teljes felülvizsgálatát pedig 2027-re tervezik.",
-    "content_hu": "• **Későbbi elszámolás a bérleti díjaknál** Ha december 31-ig nem állapítható meg a természeti kárral érintett gazdálkodó díjkedvezményének pontos mértéke, a tervezet alapján a szerződéses összeg felét kellene addig befizetnie; a fennmaradó részről később számolhatnának el.\n\n• **Nem automatikus díjcsökkentés** A tervezett szabály nem adna mindenkinek automatikus 50 százalékos kedvezményt, és a díjmérséklés meglévő feltételeit sem módosítaná.\n\n• **További változtatások** A tervek a földvásárlásnál érvényesülő elővásárlási sorrendet és a termőföldek beruházási célú igénybevételét is érintenék.\n\n• **Átfogó felülvizsgálat 2027-ben** A kormány a földtörvény teljes körű áttekintését is erre az évre tervezi.",
     "importance_score": 35.0,
     "is_top_hero": false
   },
@@ -2531,45 +2570,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_127fc25626",
-    "slug": "jelentos-esot-hozhat-a-charles-ciklon-magyarorszagra-127fc2",
-    "tags": [
-      "ciklon",
-      "csapadek",
-      "idojaras",
-      "hungaromet"
-    ],
-    "fingerprint": "4a1d57f778915fc2f737d75b457f138f",
-    "category": "Általános",
-    "image": "https://assets.telex.hu/images/20261111/1794396135-temp-ma7027a6rmocbnnmbjb_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Hamarosan érkezik Charles, és hoz egy csomó esőt",
-        "link": "https://telex.hu/belfold/2026/11/11/idojaras-eso-csapadek-charles-ciklon"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Napokon belül megérkezik a Charles, 40 milliméter eső zúdulhat az országra",
-        "link": "https://index.hu/belfold/2026/11/11/charles-ciklon-csapadek-karpat-medence-iberiai-felsziget/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Charles hozza a nagy zuhét: pénteken alaposan megázik az ország, kiadták a riasztást",
-        "link": "https://www.portfolio.hu/gazdasag/20261112/charles-hozza-a-nagy-zuhet-penteken-alaposan-megazik-az-orszag-kiadtak-a-riasztast-875954"
-      }
-    ],
-    "published_at": 1794401880,
-    "title_hu": "Jelentős esőt hozhat a Charles ciklon Magyarországra",
-    "lead_hu": "A Charles névre keresztelt ciklonhoz kapcsolódó csapadékzóna szerda este érheti el Magyarország délnyugati részét. Péntek reggelig több térségben 20–40 milliméter eső hullhat, majd péntek estére megszűnhet a csapadék.",
-    "content_hu": "• **Szerda estétől érkezik az eső** délnyugat felől, elsőként főként az ország déli és délkeleti tájain várható jelentősebb csapadék.\n\n• **Csütörtökön újabb esőzóna vonulhat át** az országon: egy átmeneti szünetet követően délután és este ismét többfelé eshet.\n\n• **Péntek reggelig nagy területen 20–40 milliméter csapadék hullhat**, egyes déli és délkeleti helyeken pedig már csütörtök reggelig meghaladhatja a mennyiség a 20 millimétert.\n\n• **Pénteken újabb front érkezik**, és sokfelé hozhat esőt; az északnyugati országrészben ugyanakkor korábban elállhat a csapadék. Estére országszerte megszűnhet az eső.\n\n• **A hét végére hidegebb, száraz idő várható.** Péntek délután az északnyugati szél megerősödhet, helyenként viharossá válhat.",
-    "importance_score": 30.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_aaadd5dc92",
     "slug": "a-remred-egyeduli-tulajdonosava-valhat-a-4ig-aaadd5",
     "tags": [
@@ -2684,6 +2684,40 @@
     "lead_hu": "Thomas Markle-t azért helyezték ismét őrizetbe, mert a hatóságok szerint eltávolította a bokáján viselt nyomkövetőt. A bíró visszavonta a szabadlábon védekezés lehetőségét; a 82 éves férfit gyermekpornográf felvételek birtoklásával vádolják.",
     "content_hu": "• **A nyomkövető eltávolítása után ismét őrizetbe került** Thomas Markle: a hatóságok szerint kedden hajnalban levágta a bokáján lévő eszközt, ezzel megszegte a szabadlábra helyezés feltételeit.\n\n• **A bíró visszavonta a szabadlábon védekezés lehetőségét**, így Meghan Markle apja a börtönből várja a tárgyalását.\n\n• **A férfit gyermekpornográf felvételek birtoklásával vádolják.** Az amerikai hatóságok közlése szerint a Los Angeles közelében lévő raktárak átvizsgálásakor 78 tárgyat, köztük fényképeket, filmnegatívokat és könyveket foglaltak le.\n\n• **Markle tagadja a vádakat.** Az ügyben korábban a férfi fia tett bejelentést a fülöp-szigeteki hatóságoknál, miután állítása szerint kiskorúakról készült felvételeket talált apja házában.",
     "importance_score": 30.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_fc4290a24e",
+    "slug": "harom-teruleten-modositanak-a-fldtrvenyt-fc4290",
+    "tags": [
+      "foldtorveny",
+      "foldberleti-dij",
+      "gazdalkodok",
+      "termofold"
+    ],
+    "fingerprint": "d0998d26c97e10c6b20438004c47db4e",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/_AAZ27KqAZx15tqTfmHtvvrf6Kz5JP7HKGeBTMSTRaM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ5ZTQ3MDdlOWFhNTQzMzA5MjA2MDQwMThjZWFlOGVm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Földtörvény 2027: bejelentette a kormány, teljesen átírják a földvásárlás egyik legfontosabb szabályát – a bérleti díjaknál is nagy változás jön",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/foldtorveny-modositas-berleti-dij-aszalykar-bona?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "A földtörvény módosítására készül a Tisza-kormány",
+        "link": "https://www.vadhajtasok.hu/2026/11/12/a-foldtorveny-modositasara-keszul-a-tisza-kormany"
+      }
+    ],
+    "published_at": 1794460805,
+    "title_hu": "Három területen módosítanák a földtörvényt",
+    "lead_hu": "Bóna Szabolcs agrár- és élelmiszer-gazdasági miniszter ismertette a földtörvény tervezett változtatásait. A módosítások a földbérleti díjak fizetését, a földvásárlás szabályait és a termőföldek beruházási célú használatát érintenék, a jogszabály teljes felülvizsgálatát pedig 2027-re tervezik.",
+    "content_hu": "• **Későbbi elszámolás a bérleti díjaknál** Ha december 31-ig nem állapítható meg a természeti kárral érintett gazdálkodó díjkedvezményének pontos mértéke, a tervezet alapján a szerződéses összeg felét kellene addig befizetnie; a fennmaradó részről később számolhatnának el.\n\n• **Nem automatikus díjcsökkentés** A tervezett szabály nem adna mindenkinek automatikus 50 százalékos kedvezményt, és a díjmérséklés meglévő feltételeit sem módosítaná.\n\n• **További változtatások** A tervek a földvásárlásnál érvényesülő elővásárlási sorrendet és a termőföldek beruházási célú igénybevételét is érintenék.\n\n• **Átfogó felülvizsgálat 2027-ben** A kormány a földtörvény teljes körű áttekintését is erre az évre tervezi.",
+    "importance_score": 28.0,
     "is_top_hero": false
   },
   {
@@ -3583,6 +3617,35 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_2c175ba386",
+    "slug": "kitres-elott-allo-reszvenyt-talaltunk-ez-lehet-az--2c175b",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/t/o/z/tozsde-grafikon-tzsde-rfolyamess-zuhans-technikai-elemzs-rszvnypiac-rfolyam-vls-862858.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Kitörés előtt álló részvényt találtunk: ez lehet az Nvidia-botrány legnagyobb nyertese!",
+        "link": "https://www.portfolio.hu/befektetes/20261111/kitores-elott-allo-reszvenyt-talaltunk-ez-lehet-az-nvidia-botrany-legnagyobb-nyertese-875660"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Itt az újabb Nvidia-botrány – Élesen reagálnak a befektetők",
+        "link": "https://www.portfolio.hu/befektetes/20261112/itt-az-ujabb-nvidia-botrany-elesen-reagalnak-a-befektetok-875950"
+      }
+    ],
+    "published_at": 1794403500,
+    "title_hu": "Kitörés előtt álló részvényt találtunk: ez lehet az Nvidia-botrány legnagyobb nyertese!",
+    "lead_hu": "Rég nem látott korrekciót hozott a piacokra az amerikai félidős választások eredménye, ezt követően pedig az Nvidia vezére, Jensen Huang körül kibontakozó, majd egyre nagyobb hullámokat vető botrány i…",
+    "content_hu": "Rég nem látott korrekciót hozott a piacokra az amerikai félidős választások eredménye, ezt követően pedig az Nvidia vezére, Jensen Huang körül kibontakozó, majd egyre nagyobb hullámokat vető botrány is alaposan felforgatta az árfolyamokat az utóbbi napokban. Most egy olyan részvényt hoztunk, amely az egyik, ha nem a legnagyobb nyertese lehet az elmúlt napok eseményeinek.",
+    "importance_score": 20.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_9c40026e92",
     "slug": "tiltakozok-dobaltak-meg-ursula-von-der-leyen-konvojat-varnaban-9c4002",
     "tags": [
@@ -3840,6 +3903,54 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_28a493c7a1",
+    "slug": "mlenek-a-megrendelesek-a-siemenshez-az-ai-es-az-adatkzpontok-huzzak-a-nvekedest-28a493",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/s/i/e/siemens-868818.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Ömlenek a megrendelések a Siemenshez, az AI és az adatközpontok húzzák a növekedést",
+        "link": "https://www.portfolio.hu/befektetes/20261112/omlenek-a-megrendelesek-a-siemenshez-az-ai-es-az-adatkozpontok-huzzak-a-novekedest-875962"
+      }
+    ],
+    "published_at": 1794471540,
+    "title_hu": "Ömlenek a megrendelések a Siemenshez, az AI és az adatközpontok húzzák a növekedést",
+    "lead_hu": "Rekordévet zárt a Siemens, a német vállalat megrendelései soha nem látott szintre emelkedtek, az ipari üzletág profitja és a szabad cash flow is történelmi csúcsot döntött. A vállalat elsősorban a mes...",
+    "content_hu": "Rekordévet zárt a Siemens, a német vállalat megrendelései soha nem látott szintre emelkedtek, az ipari üzletág profitja és a szabad cash flow is történelmi csúcsot döntött. A vállalat elsősorban a mesterséges intelligencia terjedéséből, az adatközpontok építéséből és az ipari automatizáció élénküléséből profitál, a kedvező kilátások miatt pedig megemelte középtávú növekedési céljait, és a következő pénzügyi évre is erőteljes bővülést vár.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_8540e435fa",
+    "slug": "kilott-a-richter-az-ely-lillyvel-kttt-megallapodasra-uj-csucson-a-magyar-gyogysz-8540e4",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/05/w09RdbEW3F5G4SCYrwcYFXwmCU5SWWgBcr0G_EBFZkM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRlMjg5ZjhhOWY4YjQyYjdiZDMzNWU4NjExYTNkMjBi.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Kilőtt a Richter az Ely Lillyvel kötött megállapodásra, új csúcson a magyar gyógyszerrészvény – óvatosan erősödik a forint",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/forint-euro-dollar-richter-bux-ely-lilly-reszveny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794471244,
+    "title_hu": "Kilőtt a Richter az Ely Lillyvel kötött megállapodásra, új csúcson a magyar gyógyszerrészvény – óvatosan erősödik a forint",
+    "lead_hu": "Három százalékkal lőtt ki a Richter kurzusa a gyógyszercég amerikai partnerszerződésének hírére, magával húzva a pesti tőzsdét is....",
+    "content_hu": "Három százalékkal lőtt ki a Richter kurzusa a gyógyszercég amerikai partnerszerződésének hírére, magával húzva a pesti tőzsdét is.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_3ca2362aca",
     "slug": "felrobbantottak-egy-autot-szentpetervaron-az-aldozat-egy-orosz-ezredes-3ca236",
     "tags": [
@@ -3860,6 +3971,54 @@
     "title_hu": "Felrobbantottak egy autót Szentpéterváron, az áldozat egy orosz ezredes",
     "lead_hu": "A robbanószerkezetet az autó aljára rögzítették....",
     "content_hu": "A robbanószerkezetet az autó aljára rögzítették.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_6a1ca600e8",
+    "slug": "kitalalt-a-magyar-playboy-volt-foszerkesztoje-ennyiert-vallaltak-a-celebek-hogy--6a1ca6",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/magyar-playboy-sztarok-radnai-peter-foszerkeszto-fotozas-meztelen-central-0203475117-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kitálalt a magyar Playboy volt főszerkesztője: ennyiért vállalták a celebek, hogy levetkőznek a magazinnak",
+        "link": "https://24.hu/elet-stilus/2026/11/12/magyar-playboy-meztelen-celebek-penz/"
+      }
+    ],
+    "published_at": 1794471222,
+    "title_hu": "Kitálalt a magyar Playboy volt főszerkesztője: ennyiért vállalták a celebek, hogy levetkőznek a magazinnak",
+    "lead_hu": "Azt is elárulta, ki az, aki mindig nemet mondott. The post Kitálalt a magyar Playboy volt főszerkesztője: ennyiért vállalták a celebek, hogy levetkőznek a magazinnak first appeared on 24.hu....",
+    "content_hu": "Azt is elárulta, ki az, aki mindig nemet mondott. The post Kitálalt a magyar Playboy volt főszerkesztője: ennyiért vállalták a celebek, hogy levetkőznek a magazinnak first appeared on 24.hu.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_20779d37e5",
+    "slug": "legalabb-tiz-lanyt-kabitott-el-es-eroszakolt-meg-a-most-wanted-listara-most-felk-20779d",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/varga-most-e1794470591723.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Legalább tíz lányt kábított el és erőszakolt meg a Most Wanted listára most felkerült csanádpalotai férfi",
+        "link": "https://24.hu/belfold/2026/11/12/most-wanted-varga-gabr-szexualis-eroszak/"
+      }
+    ],
+    "published_at": 1794471157,
+    "title_hu": "Legalább tíz lányt kábított el és erőszakolt meg a Most Wanted listára most felkerült csanádpalotai férfi",
+    "lead_hu": "Varga Gábor videóra is vette, hogy milyen gyomorforgató dolgokat művel az áldozataival. The post Legalább tíz lányt kábított el és erőszakolt meg a Most Wanted listára most felkerült csanádpalotai fér...",
+    "content_hu": "Varga Gábor videóra is vette, hogy milyen gyomorforgató dolgokat művel az áldozataival. The post Legalább tíz lányt kábított el és erőszakolt meg a Most Wanted listára most felkerült csanádpalotai férfi first appeared on 24.hu.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -4268,30 +4427,6 @@
     "title_hu": "A HVG nyugdíjas munkatársának neve is megtalálható a nyitottaktak.hu-n",
     "lead_hu": "Bedő Iván újságírót 1987-ben kereste meg a kémelhárítás, mielőtt a Magyar Rádió munkatársaként berlini tudósító lett volna. A HVG-nek ma már nyugdíjasként dolgozó Bedő azt mondja, semmiféle ügynöktevé…",
     "content_hu": "Bedő Iván újságírót 1987-ben kereste meg a kémelhárítás, mielőtt a Magyar Rádió munkatársaként berlini tudósító lett volna. A HVG-nek ma már nyugdíjasként dolgozó Bedő azt mondja, semmiféle ügynöktevékenységet nem végzett.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_267d74b232",
-    "slug": "grazban-fogtak-el-egy-magyar-ferfit-aki-europa-leg-267d74",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Grazban fogtak el egy magyar férfit, aki Európa legkeresettebb bűnözőinek listáján is fent volt",
-        "link": "https://telex.hu/kulfold/2026/11/12/most-wanted-legkeresettebb-bunozo-graz-elfogas-ausztria"
-      }
-    ],
-    "published_at": 1794469164,
-    "title_hu": "Grazban fogtak el egy magyar férfit, aki Európa legkeresettebb bűnözőinek listáján is fent volt",
-    "lead_hu": "Évekig bujkált a hatóságok elől, miután emberölés kísérlete miatt hat év szabadságvesztésre ítélte a Fővárosi Törvényszék.",
-    "content_hu": "Évekig bujkált a hatóságok elől, miután emberölés kísérlete miatt hat év szabadságvesztésre ítélte a Fővárosi Törvényszék.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -12120,30 +12255,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_2c175ba386",
-    "slug": "kitres-elott-allo-reszvenyt-talaltunk-ez-lehet-az--2c175b",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/t/o/z/tozsde-grafikon-tzsde-rfolyamess-zuhans-technikai-elemzs-rszvnypiac-rfolyam-vls-862858.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Kitörés előtt álló részvényt találtunk: ez lehet az Nvidia-botrány legnagyobb nyertese!",
-        "link": "https://www.portfolio.hu/befektetes/20261111/kitores-elott-allo-reszvenyt-talaltunk-ez-lehet-az-nvidia-botrany-legnagyobb-nyertese-875660"
-      }
-    ],
-    "published_at": 1794403500,
-    "title_hu": "Kitörés előtt álló részvényt találtunk: ez lehet az Nvidia-botrány legnagyobb nyertese!",
-    "lead_hu": "Rég nem látott korrekciót hozott a piacokra az amerikai félidős választások eredménye, ezt követően pedig az Nvidia vezére, Jensen Huang körül kibontakozó, majd egyre nagyobb hullámokat vető botrány i…",
-    "content_hu": "Rég nem látott korrekciót hozott a piacokra az amerikai félidős választások eredménye, ezt követően pedig az Nvidia vezére, Jensen Huang körül kibontakozó, majd egyre nagyobb hullámokat vető botrány is alaposan felforgatta az árfolyamokat az utóbbi napokban. Most egy olyan részvényt hoztunk, amely az egyik, ha nem a legnagyobb nyertese lehet az elmúlt napok eseményeinek.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_63b6d5119d",
     "slug": "24hu-titkos-kormanyhatarozatban-dnttt-az-orban-kor-63b6d5",
     "tags": [
@@ -15528,6 +15639,30 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_ac0146eeea",
+    "slug": "orizetbe-vettek-egy-roman-kamionsofort-a-bulgariai-autopalyan-trtent-tmegbaleset-ac0146",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Őrizetbe vettek egy román kamionsofőrt a bulgáriai autópályán történt tömegbaleset után",
+        "link": "https://www.vadhajtasok.hu/2026/11/11/orizetbe-vettek-egy-roman-kamionsofort-a-bulgariai-autopalyan-tortent-tomegbaleset-utan"
+      }
+    ],
+    "published_at": 1794390060,
+    "title_hu": "Őrizetbe vettek egy román kamionsofőrt a bulgáriai autópályán történt tömegbaleset után",
+    "lead_hu": "Őrizetbe vettek Bulgáriában egy román kamionsofőrt, akit azzal gyanúsítanak, hogy ő okozta az első, láncütközést kiváltó balesetet, jelentette be Dobrin Dimitrov rendőrfőnök a vesti.bg hírportál szeri...",
+    "content_hu": "Őrizetbe vettek Bulgáriában egy román kamionsofőrt, akit azzal gyanúsítanak, hogy ő okozta az első, láncütközést kiváltó balesetet, jelentette be Dobrin Dimitrov rendőrfőnök a vesti.bg hírportál szerint.A rendőrfőnök közölte,...",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_8d861f804b",
     "slug": "okovacs-szilveszter-ez-a-tisza-kormany-ujabb-kultu-8d861f",
     "tags": [
@@ -16844,78 +16979,6 @@
     "title_hu": "Úgy terjed a mérgező tüskéjű hal Horvátországban, hogy már célzott programokra van szükség",
     "lead_hu": "Egyre gyakrabban bukkan fel a horvátországi vizekben a Vörös-tengerből származó inváziós tűzhal, vagy kőhal amely súlyos fenyegetést jelenthet az őshonos tengeri élővilágra. A mérgező tüskéiről ismert…",
     "content_hu": "Egyre gyakrabban bukkan fel a horvátországi vizekben a Vörös-tengerből származó inváziós tűzhal, vagy kőhal amely súlyos fenyegetést jelenthet az őshonos tengeri élővilágra. A mérgező tüskéiről ismert ragadozó gyors terjedése a tengervíz melegedésével függ össze, visszaszorítására pedig már célzott lehalászási programok indultak az Adrián - jelentette a Croatia Week.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_a26e03e64e",
-    "slug": "jol-huz-a-mol-a-nap-elejen-az-otp-jelentesere-is-p-a26e03",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/3Gsb6pfqBW56RHju_bG_WaV4dwDj9myry1jHGdW9De0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhYzIzYzM1ZjgzNDQ2NjM5ZTg4ODdhODRhYjA0MDY5.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Jól húz a Mol a nap elején, az OTP jelentésére is pozitavan reagált a tőzsde – a forint egyelőre nagyon bizonytalan",
-        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/forint-euro-dollar-otp-mol-richter-tozsde-bux?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794385274,
-    "title_hu": "Jól húz a Mol a nap elején, az OTP jelentésére is pozitavan reagált a tőzsde – a forint egyelőre nagyon bizonytalan",
-    "lead_hu": "Felpattant a pesti tőzsde a szerdai piacnyitást követően. A forint csekély mértékben gyengült az euróval és a dollárral szemben.",
-    "content_hu": "Felpattant a pesti tőzsde a szerdai piacnyitást követően. A forint csekély mértékben gyengült az euróval és a dollárral szemben.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_ee9b5732a4",
-    "slug": "elszabadult-auto-tarolta-le-a-favago-munkasokat-mi-ee9b57",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/szantai-e1794384727412-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Elszabadult autó tarolta le a favágó munkásokat Miskolcon, öten megsérültek",
-        "link": "https://24.hu/belfold/2026/11/11/miskolc-baleset-favagas-serultek/"
-      }
-    ],
-    "published_at": 1794385210,
-    "title_hu": "Elszabadult autó tarolta le a favágó munkásokat Miskolcon, öten megsérültek",
-    "lead_hu": "Vélhetően rosszul lett a balesetet okozó sofőr. The post Elszabadult autó tarolta le a favágó munkásokat Miskolcon, öten megsérültek first appeared on 24.hu.",
-    "content_hu": "Vélhetően rosszul lett a balesetet okozó sofőr. The post Elszabadult autó tarolta le a favágó munkásokat Miskolcon, öten megsérültek first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_3d89c9d3dd",
-    "slug": "oriasira-duzzadt-a-varakozasi-ido-tbb-ezren-kertek-3d89c9",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7214/72146/721460/72146045_5317523_490cd88b2bfbb3f2d839f0f4baf0e440_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Óriásira duzzadt a várakozási idő, több ezren kérték ki az ügynökaktákat egy nap alatt",
-        "link": "https://index.hu/belfold/2026/11/11/ugynokaktak-varakozas-allambiztonsagi-iratok-abtl-jelentes-nagy-csere-aron-tabajdi-gabor/"
-      }
-    ],
-    "published_at": 1794385020,
-    "title_hu": "Óriásira duzzadt a várakozási idő, több ezren kérték ki az ügynökaktákat egy nap alatt",
-    "lead_hu": "A feltorlódott igénylések a történészek munkáját is lassítja.",
-    "content_hu": "A feltorlódott igénylések a történészek munkáját is lassítja.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
