@@ -120,110 +120,69 @@
     ]
   },
   {
-    "group_id": "group_de4fba4f8e",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Miért vitték Orbán Áront vezetőszáron a bíróságra?",
-        "link": "https://index.hu/belfold/2026/11/11/orban-aron-orban-viktor-ugyeszseg-magyar-peter/",
-        "image": "",
-        "summary": "Kóczián Péter és vendégei elemzik a nap legfontosabb eseményeit.",
-        "category": "Politika",
-        "published_at": 1794406320
-      }
-    ]
-  },
-  {
-    "group_id": "group_788b2d626b",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Legalább hárman meghaltak, miután orosz dróncsapás ért egy piacot Odessza megyében",
-        "link": "https://telex.hu/kulfold/2026/11/11/odessza-csornomorszk-piac-drontamadas-halalos-aldozatok-sebesultek",
-        "image": "",
-        "summary": "A régió kormányzója szerint további nyolcan megsérültek a szerda napközben történt támadásban.",
-        "category": "Politika",
-        "published_at": 1794406463
-      }
-    ]
-  },
-  {
-    "group_id": "group_12d53bda3f",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Egyre gyakoribbak a mentális zavarok a gyerekeknél – hangzott el a parlamenti bizottságban",
-        "link": "https://hvg.hu/itthon/20261111_egyre-gyakoribbak-a-mentalis-zavarok-a-magyar-gyerekeknel",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1edfb903-0157-4bcf-95fe-be53bbf00d43.jpg",
-        "summary": "A legtöbb budapesti szakellátóban a várakozási idő az egy évet közelíti vagy meg is haladja. A kutatások szerint ha napi öt óránál többet tölt el egy fiatal a közösségi média oldalain, majdnem háromszorosára nő a serdülőkori depresszió kockázata.",
-        "category": "Politika",
-        "published_at": 1794406205
-      }
-    ]
-  },
-  {
-    "group_id": "group_0d62736f07",
+    "group_id": "group_1c00e28267",
     "category": "Politika",
     "articles_count": 4,
     "articles": [
       {
         "source": "444.hu",
-        "title": "300 olasz iskolában volt bombariadó",
-        "link": "https://444.hu/2026/11/11/300-olasz-iskolaban-volt-bombariado?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "title": "Bocsánatot kért a Lidl a TV2-ből ismert roma séftől, akire rászállt egy biztonsági őr vásárlás közben",
+        "link": "https://444.hu/2026/11/11/bocsanatot-kert-a-lidl-a-tv2-bol-ismert-roma-seftol-akire-raszallt-egy-biztonsagi-or-vasarlas-kozben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
         "image": "",
-        "summary": "Csak az olasz fővárosban tizenkét oktatási intézmény kapott fenyegetést.",
+        "summary": "Nagy Anett azért tett panaszt a Lidlnél, mert állítása szerint roma származása miatt követte őt és fiát egy biztonsági őr az áruházban. Most arról számolt be: megérkezett a bocsánatkérés.",
         "category": "Politika",
-        "published_at": 1794406201
+        "published_at": 1794406587
       },
       {
-        "source": "Vadhajtások",
-        "title": "Több mint hatezer olasz iskola kapott e-mailben bombafenyegetést",
-        "link": "https://www.vadhajtasok.hu/2026/11/11/tobb-szaz-olasz-es-eszakir-iskola-kapott-bombafenyegeteseket",
+        "source": "Telex - Belföld",
+        "title": "Bocsánatot kért a Lidl a roma séftől, akit egy biztonsági őr követett, és aki ettől még megy feljebb",
+        "link": "https://telex.hu/belfold/2026/11/11/nagy-anett-sef-lidl-bocsanatkeres",
+        "image": "https://assets.telex.hu/images/20261111/1794409564-temp-scqhqi243grsdhgglik_cimlap-normal.jpg",
+        "summary": "Vásárolni ment, nem lopni – mondta.",
+        "category": "Politika",
+        "published_at": 1794411165
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "A biztonsági őr követte az ismert roma séfet, bocsánatot kért a Lidl",
+        "link": "https://hvg.hu/elet/20261111_lidl-biztonsagi-or-roma-sef-bocsanatkeres",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/68e17b38-63aa-4995-997d-f1886044d52a.jpg",
+        "summary": "„Nem lopni mentem abba az áruházba, hanem vásárolni” – fogalmazott Nagy Anett. A TV2-n futó Séfek séfe korábbi szereplője jelezte, hogy nem hagyja annyiban az ügyet.",
+        "category": "Politika",
+        "published_at": 1794414217
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Biztonsági őr követte vásárlás közben a roma séfet, bocsánatot kért a Lidl",
+        "link": "https://nlc.hu/gasztro/20261112/roma-sef-biztonsagi-or-lidl/0x1ffvp",
         "image": "",
-        "summary": "Több száz oktatási intézményt ürítettek ki bombariadó miatt szerdán Olaszországban, miután az iskolák fenyegető üzenetet kaptak. Az üzenetekben az olaszok megsemmisítéséről és Giorgia Meloni miniszterelnök meggyilkolásáról írtak – írta az MTI.",
-        "category": "Politika",
-        "published_at": 1794411240
-      },
+        "summary": "Rászállt a Lidl biztonsági őre a Séfek séfe tavalyi versenyzőjére, miközben vásárolt. Roma származása miatt követte Nagy Anettet és fiát. Reagált az áruházlánc a történtekre. The post Biztonsági őr követte vásárlás közben a roma séfet, bocsánatot kért a Lidl first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1794467640
+      }
+    ]
+  },
+  {
+    "group_id": "group_410d1c50d9",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
       {
-        "source": "Magyar Nemzet",
-        "title": "Több száz olasz iskolát ürítettek ki bombariadó miatt, Giorgia Meloni meggyilkolásával is fenyegetőztek",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/olasz-iskola-bombariado-giorgia-meloni-meggyilkolasa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/3J2XSOjhcwULsdgAJkAE-XS4A9SjjCAhY-W-aq06G9E/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTEvMWFkNDY1MGUzYTRlNWUwZWEwNTMxODdhZjAzZTAwM2JhOTFjMDliNWYzYTQ4NTM0MmM5NDUzZjMxZTUwM2NkMQ.jpg",
-        "summary": "A fenyegető azt is leírta, hogy kiirtja az olasz népet.",
+        "source": "Hír TV",
+        "title": "Varga Judit a parlamentben reagált az évek óta tartó vádaskodásokra",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/varga-judit-a-parlamentben-reagalt-az-evek-ota-tarto-vadaskodasokra",
+        "image": "https://cdn.hirtv.hu/2026/11/KYSxfza8nGdWY6hvvhfv_tzfNwI95yPLs2IPAheqrtk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q5MTk1M2I5YWZkNDQ3OWNiMGM4NzQwNDJiYWQ2ODA0.webp",
+        "summary": "A helyszínen követte az eseményeket kollégánk, Némethi Botond.",
         "category": "Politika",
-        "published_at": 1794412436
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Összehangolt akció rázta meg Olaszországot, több ezer iskolában volt bombariadó",
-        "link": "https://index.hu/kulfold/2026/11/12/olaszorszag-hatezer-iskola-bombariado-fenyegetes/",
-        "image": "https://kep.index.hu/1/0/7252/72522/725229/72522961_5343995_bdf558b6a83de09a473b3e1e6cef43e4_wm.jpg",
-        "summary": "Giorgia Meloni meggyilkolásával is fenyegetőztek az üzenetekben.",
-        "category": "Általános",
-        "published_at": 1794459720
+        "published_at": 1794406861
       }
     ]
   },
   {
     "group_id": "group_f69ae3456e",
     "category": "Politika",
-    "articles_count": 38,
+    "articles_count": 37,
     "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "„Ha válni akarok, feljelent” – Varga Judit szerint ezzel fenyegette Magyar Péter",
-        "link": "https://24.hu/belfold/2026/11/11/ha-valni-akarok-feljelent-varga-judit-szerint-ezzel-fenyegette-magyar-peter/",
-        "image": "",
-        "summary": "Magyar Péter szerint azért készítette a felvételt, hogy megvédje a családját, de „engem ekkor Magyar Pétertől kellett megvédeni, mert ahogy bejelentettem a válást, megkezdődött az igazi pokol”. The post „Ha válni akarok, feljelent” – Varga Judit szerint ezzel fenyegette Magyar Péter first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794406127
-      },
       {
         "source": "Index - Címlap",
         "title": "Varga Judit üzent a meghallgatása előtt: Ne féljenek Magyar Pétertől!",
@@ -556,97 +515,6 @@
         "summary": "Ha valakinek perdöntő bizonyítéka van, miért vár vele ennyit? – mutatott rá bizottsági meghallgatásán a volt igazságügyi miniszter.",
         "category": "Politika",
         "published_at": 1794488386
-      }
-    ]
-  },
-  {
-    "group_id": "group_1c00e28267",
-    "category": "Politika",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Bocsánatot kért a Lidl a TV2-ből ismert roma séftől, akire rászállt egy biztonsági őr vásárlás közben",
-        "link": "https://444.hu/2026/11/11/bocsanatot-kert-a-lidl-a-tv2-bol-ismert-roma-seftol-akire-raszallt-egy-biztonsagi-or-vasarlas-kozben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Nagy Anett azért tett panaszt a Lidlnél, mert állítása szerint roma származása miatt követte őt és fiát egy biztonsági őr az áruházban. Most arról számolt be: megérkezett a bocsánatkérés.",
-        "category": "Politika",
-        "published_at": 1794406587
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Bocsánatot kért a Lidl a roma séftől, akit egy biztonsági őr követett, és aki ettől még megy feljebb",
-        "link": "https://telex.hu/belfold/2026/11/11/nagy-anett-sef-lidl-bocsanatkeres",
-        "image": "https://assets.telex.hu/images/20261111/1794409564-temp-scqhqi243grsdhgglik_cimlap-normal.jpg",
-        "summary": "Vásárolni ment, nem lopni – mondta.",
-        "category": "Politika",
-        "published_at": 1794411165
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "A biztonsági őr követte az ismert roma séfet, bocsánatot kért a Lidl",
-        "link": "https://hvg.hu/elet/20261111_lidl-biztonsagi-or-roma-sef-bocsanatkeres",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/68e17b38-63aa-4995-997d-f1886044d52a.jpg",
-        "summary": "„Nem lopni mentem abba az áruházba, hanem vásárolni” – fogalmazott Nagy Anett. A TV2-n futó Séfek séfe korábbi szereplője jelezte, hogy nem hagyja annyiban az ügyet.",
-        "category": "Politika",
-        "published_at": 1794414217
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Biztonsági őr követte vásárlás közben a roma séfet, bocsánatot kért a Lidl",
-        "link": "https://nlc.hu/gasztro/20261112/roma-sef-biztonsagi-or-lidl/0x1ffvp",
-        "image": "",
-        "summary": "Rászállt a Lidl biztonsági őre a Séfek séfe tavalyi versenyzőjére, miközben vásárolt. Roma származása miatt követte Nagy Anettet és fiát. Reagált az áruházlánc a történtekre. The post Biztonsági őr követte vásárlás közben a roma séfet, bocsánatot kért a Lidl first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794467640
-      }
-    ]
-  },
-  {
-    "group_id": "group_4b15822f90",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Nem engedték békével távozni: azonnali hatállyal rúgták ki a Nemzeti Színház igazgatóját",
-        "link": "https://www.atv.hu/belfold/20261111/nemzeti-szinhaz-elbocsajtas-igazgato/",
-        "image": "",
-        "summary": "Nem fogadta el a városháza a felajánlott közös megegyezést: Papp László polgármester bejelentette az igazgató azonnali hatályú felmentését.",
-        "category": "Politika",
-        "published_at": 1794406516
-      }
-    ]
-  },
-  {
-    "group_id": "group_410d1c50d9",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Varga Judit a parlamentben reagált az évek óta tartó vádaskodásokra",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/varga-judit-a-parlamentben-reagalt-az-evek-ota-tarto-vadaskodasokra",
-        "image": "https://cdn.hirtv.hu/2026/11/KYSxfza8nGdWY6hvvhfv_tzfNwI95yPLs2IPAheqrtk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q5MTk1M2I5YWZkNDQ3OWNiMGM4NzQwNDJiYWQ2ODA0.webp",
-        "summary": "A helyszínen követte az eseményeket kollégánk, Némethi Botond.",
-        "category": "Politika",
-        "published_at": 1794406861
-      }
-    ]
-  },
-  {
-    "group_id": "group_071cda486c",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Toroczkai: Kik próbáltak meg kihúzatni valamit a nyomozati anyagból?",
-        "link": "https://24.hu/belfold/2026/11/11/toroczkai-kik-probaltak-meg-kihuzatni-valamit-a-nyomozati-anyagbol/",
-        "image": "https://s.24.hu/app/uploads/2026/11/adz_4815-1-masolat-1024x576.jpg",
-        "summary": "Kik próbáltak meg kihúzatni valamit vagy akár saját magukat a nyomozati anyagból? The post Toroczkai: Kik próbáltak meg kihúzatni valamit a nyomozati anyagból? first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794406509
       }
     ]
   },
@@ -1556,6 +1424,40 @@
         "summary": "Papp László, Debrecen polgármestere közösségi oldalán számolt be a döntésről.",
         "category": "Politika",
         "published_at": 1794408685
+      }
+    ]
+  },
+  {
+    "group_id": "group_0d62736f07",
+    "category": "Politika",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Több mint hatezer olasz iskola kapott e-mailben bombafenyegetést",
+        "link": "https://www.vadhajtasok.hu/2026/11/11/tobb-szaz-olasz-es-eszakir-iskola-kapott-bombafenyegeteseket",
+        "image": "",
+        "summary": "Több száz oktatási intézményt ürítettek ki bombariadó miatt szerdán Olaszországban, miután az iskolák fenyegető üzenetet kaptak. Az üzenetekben az olaszok megsemmisítéséről és Giorgia Meloni miniszterelnök meggyilkolásáról írtak – írta az MTI.",
+        "category": "Politika",
+        "published_at": 1794411240
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Több száz olasz iskolát ürítettek ki bombariadó miatt, Giorgia Meloni meggyilkolásával is fenyegetőztek",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/olasz-iskola-bombariado-giorgia-meloni-meggyilkolasa?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/3J2XSOjhcwULsdgAJkAE-XS4A9SjjCAhY-W-aq06G9E/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTEvMWFkNDY1MGUzYTRlNWUwZWEwNTMxODdhZjAzZTAwM2JhOTFjMDliNWYzYTQ4NTM0MmM5NDUzZjMxZTUwM2NkMQ.jpg",
+        "summary": "A fenyegető azt is leírta, hogy kiirtja az olasz népet.",
+        "category": "Politika",
+        "published_at": 1794412436
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Összehangolt akció rázta meg Olaszországot, több ezer iskolában volt bombariadó",
+        "link": "https://index.hu/kulfold/2026/11/12/olaszorszag-hatezer-iskola-bombariado-fenyegetes/",
+        "image": "https://kep.index.hu/1/0/7252/72522/725229/72522961_5343995_bdf558b6a83de09a473b3e1e6cef43e4_wm.jpg",
+        "summary": "Giorgia Meloni meggyilkolásával is fenyegetőztek az üzenetekben.",
+        "category": "Általános",
+        "published_at": 1794459720
       }
     ]
   },
@@ -5271,7 +5173,7 @@
   {
     "group_id": "group_03c6135065",
     "category": "Kultúra",
-    "articles_count": 6,
+    "articles_count": 8,
     "articles": [
       {
         "source": "Rakéta.hu",
@@ -5326,6 +5228,24 @@
         "summary": "Közleményben erősítette meg a szingapúri székhelyű Megaspeed felhőszolgáltató, hogy mindenben együttműködik az amerikai hatóságokkal az exportellenőrzési vizsgálatok során. A vállalat azután került a figyelem középpontjába, hogy kiderült, az Nvidia vezérigazgatója viszonyt folytatott a cég egyik korábbi, kémkedéssel gyanúsított vezetőjével.",
         "category": "Gazdaság",
         "published_at": 1794475860
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Lemondott az Nvidia vezérigazgatója a kínai kémbotrány után",
+        "link": "https://index.hu/kulfold/2026/11/12/jensen-huang-nvidia-lemondas-vezerigazgato-botrany-kina-kemkedes/",
+        "image": "https://kep.index.hu/1/0/7253/72532/725321/72532149_5344607_d5433d89473744ef394535a1a77b2619_wm.jpg",
+        "summary": "Ideiglenesen a pénzügyi igazgató veszi át a helyét.",
+        "category": "Általános",
+        "published_at": 1794492480
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Lemondott az Nvidia szexbotrányba keveredett elnök-vezérigazgatója",
+        "link": "https://24.hu/tech/2026/11/12/jensen-huang-nvidia-lemondas-szexbotrany/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2301014104-e1794491997226-1024x577.jpg",
+        "summary": "Jensen Huang azonalli hatállyal távozik az Nvidia vezérigazgatói és elnöki székéből, valamint megszűnik igazgatótanácsi tagsága is. The post Lemondott az Nvidia szexbotrányba keveredett elnök-vezérigazgatója first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794492452
       }
     ]
   },
@@ -12764,6 +12684,54 @@
         "summary": "A nagymamáink konyhájában nem volt szükség drága eszközökre vagy különleges alapanyagokra ahhoz, hogy minden finomra sikerüljön. A régi konyhai trükkök közül sok ma is működik, ráadásul időt és pénzt spórolhatunk velük. Vajon melyik az az 5 egyszerű praktika, amit érdemes újra bevezetni a mindennapi főzésbe? The post A nagymamák titka: 5 régi konyhai trükk, ami ma is működik first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1794492180
+      }
+    ]
+  },
+  {
+    "group_id": "group_88926a6763",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Megszólalt a kormány a ferihegyi gyorsforgalmi út fejlesztéséről",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/megszolalt-a-kormany-a-ferihegyi-gyorsforgalmi-ut-fejleszteserol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/dzlZa57bgylIX67pmauVXBhBpungT5yXymt38JqpvWY/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTIvNGUzNmI3MTExMTI1YWYzMjhlYjRkMzAwNzFmYzgzZjljZWJjOWZmM2U5NzE5ZmE5ZWU1ZTBlNTFiNzkzNzQ3ZA.jpg",
+        "summary": "A terveket még az Orbán-kormány jelentette be, annak idején Vitézy Dávid erősen bírálta azokat.",
+        "category": "Politika",
+        "published_at": 1794492901
+      }
+    ]
+  },
+  {
+    "group_id": "group_13dc01b3c0",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Budapesti olimpia: a sportállamtitkár elárulta, mire vár a kormány",
+        "link": "https://magyarnemzet.hu/sport/2026/11/budapesti-olimpia-mob-gyulay-zsolt-kalnoki-kiss-attila?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/7luPpOFnHALJ4oHLfLIoJRqCPLS5I5nvS9P9Pjk25oA/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTIvY2Q3MDlmMjdmOTgzYTJhMzc0MTQ4ZjM1YzlkMjcwMzljMjU2MzNjODlkNTgzMjE0ZDkwNmQxOGFkYzU1MTJjNg.jpg",
+        "summary": "2027 márciusában jöhet el a következő fontos lépés a 2036-os budapesti olimpia ügyében.",
+        "category": "Politika",
+        "published_at": 1794492576
+      }
+    ]
+  },
+  {
+    "group_id": "group_104ad21b7f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Másodfokú riasztást adtak ki a brutális eső miatt: orbitális csapadékzóna éri el Magyarországot, itt szakad le az ég",
+        "link": "https://www.atv.hu/belfold/20261112/idojaras-rengeteg-eso-csutortok-pentek/",
+        "image": "https://www.youtube.com/embed/NnLlE3oE6sU",
+        "summary": "Jelentős mennyiségű eső érkezik Magyarországra, péntekre az ország északi felén több helyen 20-40 milliméter csapadék hullhat. Két vármegyében másodfokú, több másik területen elsőfokú figyelmeztetés van érvényben.",
+        "category": "Általános",
+        "published_at": 1794492900
       }
     ]
   }
