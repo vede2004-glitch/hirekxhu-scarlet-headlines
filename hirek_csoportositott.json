@@ -1,30 +1,5 @@
 [
   {
-    "group_id": "group_079d88e0d0",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Magyarország felkerült egy komoly világlistára, három helyet is befoglaltunk magunknak",
-        "link": "https://www.atv.hu/belfold/20261111/magyar-barlang-miskolc-lillafured/",
-        "image": "",
-        "summary": "Három magyarországi barlang is bekerült a világ 100 legjobb látogatható barlangja közé a Worldworthy független nemzetközi rangsorában. Mutatjuk, melyik három.",
-        "category": "Általános",
-        "published_at": 1794364380
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Komoly világlistára került fel Magyarország",
-        "link": "https://nlc.hu/eletmod/20261111/magyar-barlangok-vilaglista/26p54zk",
-        "image": "",
-        "summary": "Három magyar barlang is bekerült a világ legjobbjai közé. The post Komoly világlistára került fel Magyarország first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794396780
-      }
-    ]
-  },
-  {
     "group_id": "group_6306fbc61b",
     "category": "Bulvár",
     "articles_count": 2,
@@ -5402,7 +5377,7 @@
   {
     "group_id": "group_e5965202bb",
     "category": "Gazdaság",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -5421,6 +5396,15 @@
         "summary": "Többet költenének idén a magyarok karácsonykor.",
         "category": "Bulvár",
         "published_at": 1794398700
+      },
+      {
+        "source": "ATV",
+        "title": "Döbbenet: ennyit költenek a magyarok átlagosan a karácsonyi ajándékokra",
+        "link": "https://www.atv.hu/belfold/20261112/karacsony-ajandek-yettel-magyar/",
+        "image": "",
+        "summary": "A tavalyinál 15 százalékkal többet szánnak idén a magyar családok karácsonyi ajándékokra.",
+        "category": "Általános",
+        "published_at": 1794450780
       }
     ]
   },
@@ -6571,6 +6555,22 @@
         "summary": "A vírust hordozó törpeszúnyogok természetes terjedése, illetve a széllel történő nagyobb távolságú mozgásuk is hozzájárulhat az új területek fertőződéséhez.",
         "category": "Gazdaság",
         "published_at": 1794397120
+      }
+    ]
+  },
+  {
+    "group_id": "group_079d88e0d0",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Komoly világlistára került fel Magyarország",
+        "link": "https://nlc.hu/eletmod/20261111/magyar-barlangok-vilaglista/26p54zk",
+        "image": "",
+        "summary": "Három magyar barlang is bekerült a világ legjobbjai közé. The post Komoly világlistára került fel Magyarország first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1794396780
       }
     ]
   },
