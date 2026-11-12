@@ -35,15 +35,14 @@ describe("news feed views", () => {
     const plain = normalizeNewsList(raw.map(({ top_rank, is_top_hero, ...r }) => r));
     expect(splitNewsFeed(plain).hero?.group_id).toBe("story-0");
   });
-  it("shows every story in the Fresh view, strictly newest first, including the hero", () => {
+  it("shows only AI stories in the Fresh view, strictly newest first", () => {
     expect(splitNewsFeed(items).latest.map((n) => n.group_id)).toEqual([
-      "story-9", "story-10", "story-8", "story-1", "story-3", "story-5",
-      "story-7", "story-6", "story-4", "story-2", "story-0", "story-11",
+      "story-10", "story-8", "story-6", "story-4", "story-2", "story-0",
     ]);
   });
   it("keeps Top and Fresh as different lists over the same complete feed", () => {
     const { hero, top, latest } = splitNewsFeed(items);
-    expect(latest).toHaveLength(items.length);
+    expect(latest).toHaveLength(6);
     expect(new Set([hero, ...top].map((n) => n?.group_id)).size).toBe(3);
   });
   it("puts only non-AI stories in the separate chronological stream", () => {
@@ -56,7 +55,7 @@ describe("news feed views", () => {
     const short = splitNewsFeed(items.slice(0, 5));
     expect(short.hero?.group_id).toBe("story-4");
     expect(short.top.map((n) => n.group_id)).toEqual(["story-0"]);
-    expect(short.latest.map((n) => n.group_id)).toEqual(["story-1", "story-3", "story-4", "story-2", "story-0"]);
+    expect(short.latest.map((n) => n.group_id)).toEqual(["story-4", "story-2", "story-0"]);
     expect(splitNewsFeed([])).toEqual({ hero: null, top: [], latest: [], singles: [] });
   });
 });

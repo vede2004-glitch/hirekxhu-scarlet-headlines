@@ -44,7 +44,7 @@ export const Route = createFileRoute("/hir/$id")({
       links: url ? [{ rel: "canonical", href: url }] : [],
       scripts: loaderData
         ? [
-            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, img)) },
+            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, `${SITE_URL}${heroPhoto(loaderData.category, `${loaderData.title} ${loaderData.lead}`, loaderData.group_id)}`)) },
             { type: "application/ld+json", children: serializeArticleSchema(breadcrumbSchema(loaderData)) },
           ]
         : [],

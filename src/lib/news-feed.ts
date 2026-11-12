@@ -5,7 +5,7 @@ export type NewsFeedSplit = {
   hero: NewsItem | null;
   /** Toplista: csak az érvényes `top_rank`-kal rendelkező hírek, helyezés szerint, a hero nélkül. */
   top: NewsItem[];
-  /** Friss: az összes hír, szigorúan `published_at` szerint csökkenő sorrendben. */
+  /** Friss: csak az AI-összesített hírek, szigorúan `published_at` szerint csökkenő sorrendben. */
   latest: NewsItem[];
   /** Hírfolyam: az egyforrású (nem AI-összesített) hírek, időrendben. */
   singles: NewsItem[];
@@ -29,7 +29,7 @@ export function splitNewsFeed(items: readonly NewsItem[]): NewsFeedSplit {
   const top = ranked.length
     ? ranked.slice(1)
     : items.filter((i) => i.is_synthesized && i.group_id !== hero?.group_id);
-  const latest = [...items].sort(newestFirst);
+  const latest = items.filter((i) => i.is_synthesized).sort(newestFirst);
   const singles = items.filter((i) => !i.is_synthesized).sort(newestFirst);
   return { hero, top, latest, singles };
 }
