@@ -35,16 +35,16 @@ describe("news feed views", () => {
     const plain = normalizeNewsList(raw.map(({ top_rank, is_top_hero, ...r }) => r));
     expect(splitNewsFeed(plain).hero?.group_id).toBe("story-0");
   });
-  it("shows every AI story in the Fresh view, strictly newest first, singles excluded", () => {
+  it("shows every story in the Fresh view, strictly newest first, including the hero", () => {
     expect(splitNewsFeed(items).latest.map((n) => n.group_id)).toEqual([
-      "story-10", "story-8", "story-6", "story-4", "story-2", "story-0",
+      "story-9", "story-10", "story-8", "story-1", "story-3", "story-5",
+      "story-7", "story-6", "story-4", "story-2", "story-0", "story-11",
     ]);
   });
-  it("keeps Top and Fresh as different orderings over the same AI set", () => {
+  it("keeps Top and Fresh as different lists over the same complete feed", () => {
     const { hero, top, latest } = splitNewsFeed(items);
-    const allAi = items.filter((n) => n.is_synthesized).map((n) => n.group_id).sort();
-    expect(latest.map((n) => n.group_id).sort()).toEqual(allAi);
-    expect([hero, ...top].map((n) => n?.group_id).sort()).toEqual(["story-0", "story-4", "story-6"]);
+    expect(latest).toHaveLength(items.length);
+    expect(new Set([hero, ...top].map((n) => n?.group_id)).size).toBe(3);
   });
   it("puts only non-AI stories in the separate chronological stream", () => {
     expect(splitNewsFeed(items).singles.map((n) => n.group_id)).toEqual(["story-9", "story-1", "story-3", "story-5", "story-7", "story-11"]);
@@ -56,7 +56,7 @@ describe("news feed views", () => {
     const short = splitNewsFeed(items.slice(0, 5));
     expect(short.hero?.group_id).toBe("story-4");
     expect(short.top.map((n) => n.group_id)).toEqual(["story-0"]);
-    expect(short.latest.map((n) => n.group_id)).toEqual(["story-4", "story-2", "story-0"]);
+    expect(short.latest.map((n) => n.group_id)).toEqual(["story-1", "story-3", "story-4", "story-2", "story-0"]);
     expect(splitNewsFeed([])).toEqual({ hero: null, top: [], latest: [], singles: [] });
   });
 });
