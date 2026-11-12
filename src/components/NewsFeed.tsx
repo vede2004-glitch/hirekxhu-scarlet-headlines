@@ -118,7 +118,7 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
           </article>)}
         </section>}
         <section className="mt-10 grid grid-cols-12 gap-8">
-          <div className="col-span-12 lg:col-span-8">
+          <div className={cn("col-span-12", view === "top" && "lg:col-span-8")}>
             <div className="mb-6 flex items-center justify-between border-b border-border pb-4"><h2 className="font-display text-sm font-extrabold uppercase">AI összesített hírek</h2><span className="text-[10px] text-muted-foreground">{list.length} hír</span></div>
             <div className="grid grid-cols-1 gap-x-6 gap-y-9 md:grid-cols-2">
               {rest.map((item, i) => <article key={item.group_id} data-news-id={item.group_id} className="min-w-0">
@@ -133,7 +133,7 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
             </div>
             {!list.length && <p className="py-12 text-center text-sm text-muted-foreground">Nincs találat.</p>}
           </div>
-          <aside aria-label="Egyforrású hírek" className="col-span-12 border-t border-border pt-4 lg:col-span-4 lg:border-t-0 lg:border-l lg:pl-6 lg:pt-0">
+          {view === "top" && <aside aria-label="Egyforrású hírek" className="col-span-12 border-t border-border pt-4 lg:col-span-4 lg:border-t-0 lg:border-l lg:pl-6 lg:pt-0">
             <div className="lg:sticky lg:top-24"><h2 className="mb-6 flex items-center justify-between font-display text-sm font-extrabold uppercase"><Link to="/hirfolyam" className="hover:text-primary">Hírfolyam →</Link><span className="flex items-center gap-2 text-[10px] text-muted-foreground"><span className="size-2 rounded-full bg-primary motion-safe:animate-live" />Élő</span></h2>
               <div className="max-h-[60vh] overflow-y-auto pl-1">{timeline(sidebar)}{!sidebar.length && <p className="text-xs text-muted-foreground">Nincs találat.</p>}</div>
             </div>
