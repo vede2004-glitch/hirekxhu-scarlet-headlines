@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_a940affd04",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Benéztünk a központba, ahonnan az egész ország digitális hálózatát védik a nap 24 órájában",
-        "link": "https://raketa.hu/2connect-noc/",
-        "image": "https://raketa.hu/uploads/2026/11/2Connect-NOC_108.jpg",
-        "summary": "Benéztünk Magyarország láthatatlan, 0–24-ben működő digitális központjába, ahol 42 ezer kilométernyi optikai idegszálat felügyelnek, és ahol az a legnagyobb siker, ha nem történik semmi.",
-        "category": "Kultúra",
-        "published_at": 1794380730
-      }
-    ]
-  },
-  {
     "group_id": "group_958760020f",
     "category": "Politika",
     "articles_count": 2,
@@ -37,54 +21,6 @@
         "summary": "Lezsák Sándor vasárnap este óta újra a Honvédkórházban van, erről egy keddi Facebook-posztban maga számolt be. Az Országgyűlés volt alelnöke azt írta, az orvosok erősen biztatják, hogy meg fog gyógyulni.",
         "category": "Politika",
         "published_at": 1794388200
-      }
-    ]
-  },
-  {
-    "group_id": "group_78a47b0925",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Megcsonkította magát a börtönben az encsencsi rém, hogy szabadon engedjék",
-        "link": "https://www.atv.hu/belfold/20261111/borton-encsencsi-rem-megvakitotta/",
-        "image": "",
-        "summary": "Tényleges életfogytig tartó szabadságvesztést indítványozott az ügyész az encsencsi rémre, aki 2023 decemberében két idős asszonyt ölt meg a Szabolcs-Szatmár-Bereg megyei településen.",
-        "category": "Általános",
-        "published_at": 1794380880
-      }
-    ]
-  },
-  {
-    "group_id": "group_914c7794b0",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Épp most élesedik mindenkinél az Instagram-funkció, ami megtippeli az életkorát",
-        "link": "https://hvg.hu/tudomany/20261111_meta-instagram-eletkor-ellenorzo-funkcio-bevezetes",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f1c4446a-c100-40a3-af5d-f5164da8bc8b.jpg",
-        "summary": "Sokan hazudnak az életkorukról az Instagramon, a platform új eszköze azonban akár a születésnapi köszöntésekbe is beleles, hogy leleplezze ezt.",
-        "category": "Kultúra",
-        "published_at": 1794380580
-      }
-    ]
-  },
-  {
-    "group_id": "group_299b8b3b2b",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Így készül a házi disznózsír: nem létezik magyaros fogás nélküle",
-        "link": "https://femina.hu/recept/hazi-disznozsir-keszitese-recept/",
-        "image": "https://femina.hu/neon/media/images/disznozsir_JVnjes5.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "A házi készítésű disznózsír a hagyományos konyha elmaradhatatlan alapanyaga.",
-        "category": "Bulvár",
-        "published_at": 1794380700
       }
     ]
   },
@@ -891,7 +827,7 @@
   {
     "group_id": "group_a02b41a89c",
     "category": "Politika",
-    "articles_count": 7,
+    "articles_count": 8,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -955,6 +891,15 @@
         "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma döntött a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, miközben előkerültek a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei is. Nap közben az is kiderült, hogy december 1-jével távozik pozíciójából Gilly Gyula, Hegedűs Zsolt egészségügyi miniszter politikai főtanácsadója.",
         "category": "Politika",
         "published_at": 1794428940
+      },
+      {
+        "source": "ATV",
+        "title": "Fontos napok előtt áll Magyar Péter, ezt jelentette be elutazása előtt",
+        "link": "https://www.atv.hu/belfold/20261112/magyar-peter-targyalas-dublin/",
+        "image": "",
+        "summary": "Magyar Péter csütörtökön Dublinban tárgyal, ahol az Európai Politikai Közösség (EPC) csúcstalálkozóján vesz részt. Pénteken pedig az EU-tagállamok állam- és kormányfőinek informális találkozóján tanácskozik.",
+        "category": "Politika",
+        "published_at": 1794467280
       }
     ]
   },
@@ -12935,6 +12880,86 @@
         "summary": "Több mint 3000 év után egy CT-vizsgálat segítségével digitálisan csomagolták ki a Fonott Hölgy múmiáját. Az ókori Egyiptomban élő nő halálát továbbra is rejtély övezi, de több betegséget is felfedeztek nála.",
         "category": "Bulvár",
         "published_at": 1794466800
+      }
+    ]
+  },
+  {
+    "group_id": "group_a65863748f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Dér Heni: „Sajnos a férjem elkövetett egy végzetes hibát”",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/12/der-heni-ferje-bakos-gergo-sztarban-sztar-gala/",
+        "image": "https://kep.index.hu/1/0/7252/72522/725226/72522691_a14880acc548533bb8a5bbb3bee4439a_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1794467018
+      }
+    ]
+  },
+  {
+    "group_id": "group_4bd454486b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kylian Mbappé sérülés miatt kihagyja az Olaszország elleni csúcsrangadót",
+        "link": "https://index.hu/sport/futball/2026/11/12/nemzetek-ligaja-2026-2027-olaszorszag-franciaorszag-kylian-mbappe-serules/",
+        "image": "https://kep.index.hu/1/0/7252/72524/725249/72524975_5344135_ced3d856f0cf3d8223a769ff8f92dbdd_wm.jpg",
+        "summary": "Zinédine Zidane elmondása szerint nem akarnak kockáztatni egy súlyosabb problémát.",
+        "category": "Általános",
+        "published_at": 1794466980
+      }
+    ]
+  },
+  {
+    "group_id": "group_9d91055f14",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szélerőművek helyett milliárdos spekuláció, súlyos problémák lehetnek a kormány pályázatával",
+        "link": "https://index.hu/gazdasag/2026/11/12/szeleromu-szelenergia-kormany-kapitany-istvan-magyar-peter-megujulo-energia-energetika/",
+        "image": "https://kep.index.hu/1/0/7155/71552/715529/71552987_5275635_c983a41204c5446612d269cd407c35ee_wm.jpg",
+        "summary": "Kapitány Istvánék kapodtak az új szélerőmű-pályázattal, és ennek komoly ára lehet.",
+        "category": "Politika",
+        "published_at": 1794466860
+      }
+    ]
+  },
+  {
+    "group_id": "group_57e38eb08b",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Sosem volt még ilyen gyors az internet: 20 000 film letöltése 1 mp alatt",
+        "link": "https://hvg.hu/tudomany/20261112_rekord-atviteli-sebessegu-optikai-rendszer-kinaban",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ec8c3b51-94b2-40d5-a8d6-9911fc2bd2b8.jpg",
+        "summary": "Rekord átviteli sebességű optikai rendszert mutattak be kínai kutatók, amellyel 3,2 petabit/másodperces adatátviteli sebességet értek el. Ráadásul nem csupán elvont laboratóriumi eredményről van szó: a rendszer valós időben, kereskedelmi felhasználásra szánt technológiával működik.",
+        "category": "Kultúra",
+        "published_at": 1794466980
+      }
+    ]
+  },
+  {
+    "group_id": "group_46848c9a26",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Krémes Malakoff-torta babapiskótából: sütés nélküli desszert",
+        "link": "https://femina.hu/recept/kremes-malakoff-torta-babapiskotaval-recept/",
+        "image": "https://femina.hu/neon/media/renditions/437/437298/bc38e731375022e6.jpg",
+        "summary": "A híres Malakoff-torta sütés nélkül készül.",
+        "category": "Bulvár",
+        "published_at": 1794467100
       }
     ]
   }
