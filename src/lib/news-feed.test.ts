@@ -42,8 +42,9 @@ describe("news feed views", () => {
   });
   it("keeps Top and Fresh as different orderings over the same AI set", () => {
     const { hero, top, latest } = splitNewsFeed(items);
-    expect(latest.map((n) => n.group_id).sort()).toEqual([hero, ...top, ...items.filter((n) => n.is_synthesized && n.top_rank === null || n.group_id === "story-8")].filter(Boolean).map((n) => n!.group_id).sort());
-    expect(new Set([hero, ...top].map((n) => n?.group_id)).size).toBe(3);
+    const allAi = items.filter((n) => n.is_synthesized).map((n) => n.group_id).sort();
+    expect(latest.map((n) => n.group_id).sort()).toEqual(allAi);
+    expect([hero, ...top].map((n) => n?.group_id).sort()).toEqual(["story-0", "story-4", "story-6"]);
   });
   it("puts only non-AI stories in the separate chronological stream", () => {
     expect(splitNewsFeed(items).singles.map((n) => n.group_id)).toEqual(["story-9", "story-1", "story-3", "story-5", "story-7", "story-11"]);
