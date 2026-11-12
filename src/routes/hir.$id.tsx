@@ -1,5 +1,7 @@
 import { BrandLogo } from "@/components/BrandLogo";
-import { createFileRoute, Link, notFound } from "@tanstack/react-router";
+import { createFileRoute, Link, notFound, useNavigate } from "@tanstack/react-router";
+import { useEffect } from "react";
+import { newsSlug } from "@/lib/news-slug";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
 import { ensureHistory, getNews, tagLabel, timeAgo, tr } from "@/lib/news";
@@ -36,12 +38,10 @@ export const Route = createFileRoute("/hir/$id")({
       { property: "og:type", content: "article" },
       { name: "twitter:card", content: "summary_large_image" },
     ];
-    const img = loaderData ? SITE_URL + heroPhoto(loaderData.category, loaderData.title, loaderData.group_id) : null;
-    if (img) meta.push({ property: "og:image", content: img }, { name: "twitter:image", content: img });
-    if (loaderData?.published_at) meta.push({ property: "article:published_time", content: new Date(loaderData.published_at * 1000).toISOString() });
-    const url = loaderData ? `${SITE_URL}/hir/${encodeURIComponent(loaderData.slug || loaderData.group_id)}` : undefined;
+    const url = loaderData ? `${SITE_URL}/hir/${newsSlug(loaderData)}` : undefined;
     return {
       meta: [...meta, ...(url ? [{ property: "og:url", content: url }] : [])],
+      links: url ? [{ rel: "canonical", href: url }] : [],
       scripts: loaderData
         ? [
             { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, img)) },
@@ -55,6 +55,12 @@ export const Route = createFileRoute("/hir/$id")({
 
 function Article() {
   const item = Route.useLoaderData();
+  const { id } = Route.useParams();
+  const navigate = useNavigate();
+  const slug = newsSlug(item);
+  useEffect(() => {
+    if (id !== slug) void navigate({ to: "/hir/$id", params: { id: slug }, replace: true });
+  }, [id, slug, navigate]);
   const lang = useLang();
   const t = tr(item, lang);
   const ro = lang === "ro";
