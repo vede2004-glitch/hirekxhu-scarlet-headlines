@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_b34de58a3d",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Evolúciós áttörések, amely nélkül ma nem létezne az ember",
-        "link": "https://raketa.hu/evolucios-attoresek-amely-nelkul-ma-nem-letezne-az-ember/",
-        "image": "https://raketa.hu/uploads/2025/05/eye-5248678_1280.jpg",
-        "summary": "A szem, az agy vagy éppen a szárny nem egyetlen pillanatban jelent meg, hanem megszámlálhatatlan apró változás eredményeként.",
-        "category": "Kultúra",
-        "published_at": 1794389494
-      }
-    ]
-  },
-  {
     "group_id": "group_ac0146eeea",
     "category": "Politika",
     "articles_count": 1,
@@ -48,35 +32,96 @@
     ]
   },
   {
-    "group_id": "group_bf26a59bc7",
+    "group_id": "group_a02b41a89c",
+    "category": "Politika",
+    "articles_count": 6,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: Dublinba utazik Magyar Péter, dönt a bíróság Orbán Áron letartóztatásáról",
+        "link": "https://www.portfolio.hu/gazdasag/20261111/tisza-kormany-dublinba-utazik-magyar-peter-dont-a-birosag-orban-aron-letartoztatasarol-875640",
+        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260512062-868426.jpg",
+        "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma dönt a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei pedig sorra kerülnek elő: a kormány egyebek mellett megszüntetné a területenkénti többéves költségvetési terv kötelezettségét, valamint eltörölné az Alkotmánybíróság és a Sándor-palota finanszírozásának alsó korlátját.",
+        "category": "Politika",
+        "published_at": 1794408120
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: Dublinba utazik Magyar Péter, döntött a bíróság Orbán Áron letartóztatásáról",
+        "link": "https://www.portfolio.hu/gazdasag/20261111/tisza-kormany-dublinba-utazik-magyar-peter-dontott-a-birosag-orban-aron-letartoztatasarol-875640",
+        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260512062-868426.jpg",
+        "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma döntött a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, miközben előkerültek a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei is. Nap közben az is kiderült, hogy december 1-jével távozik pozíciójából Gilly Gyula, Hegedűs Zsolt egészségügyi miniszter politikai főtanácsadója.",
+        "category": "Politika",
+        "published_at": 1794415320
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: Zajlik a kormányülés, döntött a bíróság Orbán Áron letartóztatásáról",
+        "link": "https://www.portfolio.hu/gazdasag/20261111/tisza-kormany-zajlik-a-kormanyules-dontott-a-birosag-orban-aron-letartoztatasarol-875640",
+        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260512062-868426.jpg",
+        "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma döntött a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, miközben előkerültek a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei is. Nap közben az is kiderült, hogy december 1-jével távozik pozíciójából Gilly Gyula, Hegedűs Zsolt egészségügyi miniszter politikai főtanácsadója.",
+        "category": "Politika",
+        "published_at": 1794422760
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Magyar Péter Dublinba utazott, Ruff Bálint vezeti a kormányt a miniszterelnök visszatéréséig",
+        "link": "https://index.hu/belfold/2026/11/11/magyar-peter-dublin-csucstalalkozo-ruff-balint/",
+        "image": "https://kep.index.hu/1/0/7252/72522/725226/72522669_5343975_052363f6fb4ca4fc88bf1303132a65ac_wm.jpg",
+        "summary": "Európai vezetőkkel tárgyal a kontinens biztonságáról.",
+        "category": "Politika",
+        "published_at": 1794421140
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Tisza-kormány: Magyar Péter Dublinba repül, döntött a bíróság Orbán Áron letartóztatásáról",
+        "link": "https://www.portfolio.hu/gazdasag/20261111/tisza-kormany-magyar-peter-dublinba-repul-dontott-a-birosag-orban-aron-letartoztatasarol-875640",
+        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260512062-868426.jpg",
+        "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma döntött a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, miközben előkerültek a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei is. Nap közben az is kiderült, hogy december 1-jével távozik pozíciójából Gilly Gyula, Hegedűs Zsolt egészségügyi miniszter politikai főtanácsadója.",
+        "category": "Politika",
+        "published_at": 1794428940
+      },
+      {
+        "source": "ATV",
+        "title": "Fontos napok előtt áll Magyar Péter, ezt jelentette be elutazása előtt",
+        "link": "https://www.atv.hu/belfold/20261112/magyar-peter-targyalas-dublin/",
+        "image": "",
+        "summary": "Magyar Péter csütörtökön Dublinban tárgyal, ahol az Európai Politikai Közösség (EPC) csúcstalálkozóján vesz részt. Pénteken pedig az EU-tagállamok állam- és kormányfőinek informális találkozóján tanácskozik.",
+        "category": "Politika",
+        "published_at": 1794467280
+      }
+    ]
+  },
+  {
+    "group_id": "group_361591b244",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
-        "title": "Három budapesti rádiós frekvenciára írnak ki pályázatot, megnyílhat az út a Klubrádió előtt",
-        "link": "https://index.hu/belfold/2026/11/11/radio-frekvencia-palyazat-nmhh-mediatanacs-polyak-gabor-klubradio/",
-        "image": "https://kep.index.hu/1/0/7208/72088/720889/72088987_5313515_3959a095fa76200adb9c2251df213c78_wm.jpg",
-        "summary": "Polyák Gábor, a Médiatanács elnöke szerint minden esélyt meg kell adni.",
+        "title": "Kóczián Péter és Jászberényi Sándor az Indexhez igazol",
+        "link": "https://index.hu/szolgalati-kozlemeny/2026/11/11/koczian-peter-jaszberenyi-sandor-igazolas-index-musorok/",
+        "image": "https://kep.index.hu/1/0/7251/72514/725141/72514187_5343377_09b899b10a487363132adb4bba26b60f_wm.jpg",
+        "summary": "A magyar média két meghatározó szereplője érkezik.",
         "category": "Általános",
-        "published_at": 1794389520
+        "published_at": 1794389820
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Az Indexhez igazol Kóczián Péter és Jászberényi Sándor",
+        "link": "https://hvg.hu/itthon/20261111_index-koczian-peter-jaszberenyi-sandor",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5e5b2eec-fe79-4cd0-9112-032db2dcfe0e.jpg",
+        "summary": "Kóczián új műsort indít, Jászberényi külföldről tudósít majd.",
+        "category": "Politika",
+        "published_at": 1794396681
       }
     ]
   },
   {
     "group_id": "group_0ddcb5f5a0",
     "category": "Politika",
-    "articles_count": 33,
+    "articles_count": 31,
     "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Áron Orbán's group continued to defraud Vietnamese nationals even after authorities were onto them",
-        "link": "https://telex.hu/english/2026/11/11/aron-orban-s-group-continued-to-defraud-vietnamese-nationals-even-after-authorities-were-onto-them",
-        "image": "https://assets.telex.hu/images/20261111/1794389172-temp-8a0t8d1n71770gfgemi_cimlap-normal.jpg",
-        "summary": "The former prime minister’s brother continued to promise visas and jobs to Vietnamese nationals—for a fee, of course—even after the activities of his circle had been exposed, according to documents obtained by Telex. The scammed individuals did not dare notify the police.",
-        "category": "Politika",
-        "published_at": 1794389752
-      },
       {
         "source": "Magyar Nemzet",
         "title": "Orbán Áront is vezetőszáron vitték a bíróságra",
@@ -85,15 +130,6 @@
         "summary": "Ma döntenek a volt kormányfő öccsének letartóztatásáról.",
         "category": "Politika",
         "published_at": 1794390156
-      },
-      {
-        "source": "ATV",
-        "title": "Levideóztuk, ahogy vezetőszáron viszik a bíróságra Orbán Áront: ma dönthetnek a volt miniszterelnök öccsének letartóztatásáról",
-        "link": "https://www.atv.hu/belfold/20261111/vezetoszar-orban-aron-birosag/",
-        "image": "",
-        "summary": "Vezetőszáron, rendőri kísérettel vitték be szerda reggel Orbán Áront a Budai Központi Kerületi Bíróság épületébe.",
-        "category": "Politika",
-        "published_at": 1794389802
       },
       {
         "source": "NLC (Nők Lapja Café)",
@@ -368,188 +404,6 @@
     ]
   },
   {
-    "group_id": "group_8b9baa60be",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Ügynökakta-botrány: Előre jeleztek a levéltárosok, hogy gond lehet",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/leveltarosok-ugynokakta-botrany-dobrovits",
-        "image": "https://cdn.hirtv.hu/2026/11/IIXGn_rfmYETl30RUKKigrc-MMYdED0tS3Cje8nyFBM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzN2Y1ZDIzODRiZDRiM2U4NjliYTBjMTkxYzM1ZGUz.webp",
-        "summary": "Nem ért véget a feszített munka a levéltári dolgozók számára – mondta el Napindító című műsorunkban Dobrovits Orsolya.",
-        "category": "Politika",
-        "published_at": 1794389560
-      }
-    ]
-  },
-  {
-    "group_id": "group_1865513dc1",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Egy hónap, ami megváltoztathatja az alkoholfogyasztási szokásainkat",
-        "link": "https://hirtv.origo.hu/hirtvszines/2026/11/egy-honap-ami-megvaltoztathatja-az-alkoholfogyasztasi-szokasainkat",
-        "image": "https://cdn.hirtv.hu/2026/11/CTQl7W_-lBwVzP-BYLDLyHyupYlkYwtD7u669mvi11M/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI1OTVjMGVkY2Q4NzQ1NmU4MGM3NjE0YjRkM2ZhNjQx.webp",
-        "summary": "A változásban az is sokat segíthet, ha az érintettek megoszthatják egymással a tapasztalataikat.",
-        "category": "Politika",
-        "published_at": 1794389425
-      }
-    ]
-  },
-  {
-    "group_id": "group_a02b41a89c",
-    "category": "Politika",
-    "articles_count": 6,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza-kormány: Dublinba utazik Magyar Péter, dönt a bíróság Orbán Áron letartóztatásáról",
-        "link": "https://www.portfolio.hu/gazdasag/20261111/tisza-kormany-dublinba-utazik-magyar-peter-dont-a-birosag-orban-aron-letartoztatasarol-875640",
-        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260512062-868426.jpg",
-        "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma dönt a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei pedig sorra kerülnek elő: a kormány egyebek mellett megszüntetné a területenkénti többéves költségvetési terv kötelezettségét, valamint eltörölné az Alkotmánybíróság és a Sándor-palota finanszírozásának alsó korlátját.",
-        "category": "Politika",
-        "published_at": 1794408120
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza-kormány: Dublinba utazik Magyar Péter, döntött a bíróság Orbán Áron letartóztatásáról",
-        "link": "https://www.portfolio.hu/gazdasag/20261111/tisza-kormany-dublinba-utazik-magyar-peter-dontott-a-birosag-orban-aron-letartoztatasarol-875640",
-        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260512062-868426.jpg",
-        "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma döntött a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, miközben előkerültek a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei is. Nap közben az is kiderült, hogy december 1-jével távozik pozíciójából Gilly Gyula, Hegedűs Zsolt egészségügyi miniszter politikai főtanácsadója.",
-        "category": "Politika",
-        "published_at": 1794415320
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza-kormány: Zajlik a kormányülés, döntött a bíróság Orbán Áron letartóztatásáról",
-        "link": "https://www.portfolio.hu/gazdasag/20261111/tisza-kormany-zajlik-a-kormanyules-dontott-a-birosag-orban-aron-letartoztatasarol-875640",
-        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260512062-868426.jpg",
-        "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma döntött a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, miközben előkerültek a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei is. Nap közben az is kiderült, hogy december 1-jével távozik pozíciójából Gilly Gyula, Hegedűs Zsolt egészségügyi miniszter politikai főtanácsadója.",
-        "category": "Politika",
-        "published_at": 1794422760
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Magyar Péter Dublinba utazott, Ruff Bálint vezeti a kormányt a miniszterelnök visszatéréséig",
-        "link": "https://index.hu/belfold/2026/11/11/magyar-peter-dublin-csucstalalkozo-ruff-balint/",
-        "image": "https://kep.index.hu/1/0/7252/72522/725226/72522669_5343975_052363f6fb4ca4fc88bf1303132a65ac_wm.jpg",
-        "summary": "Európai vezetőkkel tárgyal a kontinens biztonságáról.",
-        "category": "Politika",
-        "published_at": 1794421140
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza-kormány: Magyar Péter Dublinba repül, döntött a bíróság Orbán Áron letartóztatásáról",
-        "link": "https://www.portfolio.hu/gazdasag/20261111/tisza-kormany-magyar-peter-dublinba-repul-dontott-a-birosag-orban-aron-letartoztatasarol-875640",
-        "image": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260512062-868426.jpg",
-        "summary": "Szerda este Dublinba utazik Magyar Péter, ahol csütörtökön az Európai Politikai Közösség csúcsán, pénteken pedig az uniós vezetők informális ülésén vesz részt. Itthon ma döntött a bíróság az embercsempészéssel gyanúsított Orbán Áron letartóztatásáról, miközben előkerültek a kedden este benyújtott, 2027-es költségvetést megalapozó törvényjavaslat részletei is. Nap közben az is kiderült, hogy december 1-jével távozik pozíciójából Gilly Gyula, Hegedűs Zsolt egészségügyi miniszter politikai főtanácsadója.",
-        "category": "Politika",
-        "published_at": 1794428940
-      },
-      {
-        "source": "ATV",
-        "title": "Fontos napok előtt áll Magyar Péter, ezt jelentette be elutazása előtt",
-        "link": "https://www.atv.hu/belfold/20261112/magyar-peter-targyalas-dublin/",
-        "image": "",
-        "summary": "Magyar Péter csütörtökön Dublinban tárgyal, ahol az Európai Politikai Közösség (EPC) csúcstalálkozóján vesz részt. Pénteken pedig az EU-tagállamok állam- és kormányfőinek informális találkozóján tanácskozik.",
-        "category": "Politika",
-        "published_at": 1794467280
-      }
-    ]
-  },
-  {
-    "group_id": "group_361591b244",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Kóczián Péter és Jászberényi Sándor az Indexhez igazol",
-        "link": "https://index.hu/szolgalati-kozlemeny/2026/11/11/koczian-peter-jaszberenyi-sandor-igazolas-index-musorok/",
-        "image": "https://kep.index.hu/1/0/7251/72514/725141/72514187_5343377_09b899b10a487363132adb4bba26b60f_wm.jpg",
-        "summary": "A magyar média két meghatározó szereplője érkezik.",
-        "category": "Általános",
-        "published_at": 1794389820
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Az Indexhez igazol Kóczián Péter és Jászberényi Sándor",
-        "link": "https://hvg.hu/itthon/20261111_index-koczian-peter-jaszberenyi-sandor",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5e5b2eec-fe79-4cd0-9112-032db2dcfe0e.jpg",
-        "summary": "Kóczián új műsort indít, Jászberényi külföldről tudósít majd.",
-        "category": "Politika",
-        "published_at": 1794396681
-      }
-    ]
-  },
-  {
-    "group_id": "group_8d861f804b",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Ókovács Szilveszter: Ez a Tisza-kormány újabb kulturális favágása",
-        "link": "https://magyarnemzet.hu/kultura/2026/11/okovacs-szilveszter-vadasz-daniel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "",
-        "summary": "A Magyar Állami Operaház menesztett főigazgatója szerint Vadász Dániel távozása komoly veszteség a debreceni színházi élet számára.",
-        "category": "Politika",
-        "published_at": 1794389801
-      }
-    ]
-  },
-  {
-    "group_id": "group_4167ba757a",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Alkohollal és droggal indult, brutális kettős késeléssel végződött egy lakásavató buli Újbudán",
-        "link": "https://24.hu/belfold/2026/11/11/ujbuda-lakasavato-buli-keseles/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-0803252709-2026-10-08t113757-425-1-1024x576.jpg",
-        "summary": "Kórházba vitték a sérülteket. The post Alkohollal és droggal indult, brutális kettős késeléssel végződött egy lakásavató buli Újbudán first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794389753
-      }
-    ]
-  },
-  {
-    "group_id": "group_30c4e64533",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Nagyot ment az OTP profitja, az elemzők mégis óvatosak",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/otp-eros-hitelnovekedes-mellett-vegyes-kepet-mutat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/i2H760tPovkyiNXENVZvE5EsGevKB5E9aNMsYKY49Gs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM0NDM2ODAwODgyYjRkNWJhNzY0Y2Q5MjliOTc3NTFl.jpg",
-        "summary": "Az OTP megerősítette 2026-os célkitűzéseit.",
-        "category": "Gazdaság",
-        "published_at": 1794389668
-      }
-    ]
-  },
-  {
-    "group_id": "group_bc756c3004",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Újabb rossz hírek érkeztek Amerikából: orosz és dél-amerikai harapófogóban a magyar termelők",
-        "link": "https://www.vg.hu/agrar/2026/11/gabonapiac-kukorica-buza-rossz-hirek-amerikabol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/yM7Su-YnTl4jDSGvPLeBa97lkQ_-rpxrShjM5VTBy2g/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FiZjMxY2IwNTk2MjRhMDRhNTgxNzM3NDM5MzNmODEz.jpg",
-        "summary": "Rossz hír a magyar gazdáknak: a gyengébb termés önmagában már nem jelent garanciát a magasabb gabonaárakra.",
-        "category": "Gazdaság",
-        "published_at": 1794389509
-      }
-    ]
-  },
-  {
     "group_id": "group_a29dbaacd2",
     "category": "Politika",
     "articles_count": 1,
@@ -568,7 +422,7 @@
   {
     "group_id": "group_03c6135065",
     "category": "Politika",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -623,6 +477,15 @@
         "summary": "Egy friss jelentés szerint az Nvidia egyik alelnökéhez is romantikus szálak fűzhették Jensen Huangot.",
         "category": "Kultúra",
         "published_at": 1794469360
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Tovább gyűrűzik az Nvidia-botrány: megszólalt a vizsgálat alá került cég",
+        "link": "https://www.portfolio.hu/befektetes/20261112/tovabb-gyuruzik-az-nvidia-botrany-megszolalt-a-vizsgalat-ala-kerult-ceg-875984",
+        "image": "https://pcdn.hu/articles/images-xl/c/h/i/chip-computer-620421.jpg",
+        "summary": "Közleményben erősítette meg a szingapúri székhelyű Megaspeed felhőszolgáltató, hogy mindenben együttműködik az amerikai hatóságokkal az exportellenőrzési vizsgálatok során. A vállalat azután került a figyelem középpontjába, hogy kiderült, az Nvidia vezérigazgatója viszonyt folytatott a cég egyik korábbi, kémkedéssel gyanúsított vezetőjével.",
+        "category": "Gazdaság",
+        "published_at": 1794475860
       }
     ]
   },
@@ -12883,6 +12746,134 @@
         "summary": "Négy órában szakértett.",
         "category": "Politika",
         "published_at": 1794475359
+      }
+    ]
+  },
+  {
+    "group_id": "group_7875bb6a97",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Drasztikusan átalakítják a civilekre vonatkozó pályázati és támogatási rendszert",
+        "link": "https://hvg.hu/itthon/20261112_drasztikusan-atalakitjak-a-civilekre-vonatkozo-palyazati-es-tamogatasi-rendszert",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f9d54f26-b93c-4781-ae03-dc96afc068a5.jpg",
+        "summary": "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter szerint a civil szervezeteket fel kell szabadítani a politikai nyomás alól.",
+        "category": "Politika",
+        "published_at": 1794475947
+      }
+    ]
+  },
+  {
+    "group_id": "group_9a59792ef4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Csodavárás Franciaországban: jön-e valaki a semmiből Le Pen ellen?",
+        "link": "https://444.hu/2026/11/12/csodavaras-franciaorszagban-jon-e-valaki-a-semmibol-le-pen-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Teddy Riner személyében az egyik legnépszerűbb francia sportoló is ringbe száll, és még mások is beszállhatnak a versenybe. Pedig a mezőnynek ilyenkor már inkább szűkülnie kellene, de egyelőre nem látni, ki győzhetné le a szélsőjobbot.",
+        "category": "Politika",
+        "published_at": 1794476019
+      }
+    ]
+  },
+  {
+    "group_id": "group_9b4d135357",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Tarr Zoltán módosítaná a civil szervezetekről szóló törvényt",
+        "link": "https://444.hu/2026/11/12/tarr-zoltan-modositana-a-civil-szervezetekrol-szolo-torvenyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A miniszter szerint a civil szervezeteket fel kell szabadítani a politikai nyomás alól.",
+        "category": "Politika",
+        "published_at": 1794475822
+      }
+    ]
+  },
+  {
+    "group_id": "group_c305b47d2a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Nem mindennapi akadálypályán mérték össze erejüket a tűzoltók Szolnokon",
+        "link": "https://hirtv.origo.hu/hirtvszines/2026/11/nem-mindennapi-akadalypalyan-mertek-ossze-erejuket-a-tuzoltok-szolnokon",
+        "image": "https://cdn.hirtv.hu/2026/11/f7Ar_uZTvWtXkDE81gXdKq7xGl3ZrJLxIbSOuDkcVn0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y2YTM4YjNjMmNkYjRiOGViZTAyMjA3OWZiYWFmYWZm.webp",
+        "summary": "Nyolcvan kilós bábuval és brutális akadályokkal küzdöttek.",
+        "category": "Politika",
+        "published_at": 1794476099
+      }
+    ]
+  },
+  {
+    "group_id": "group_25987c72aa",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "MBW Plusz program: új módszer a fogyókúrára",
+        "link": "https://hirtv.origo.hu/hirtvszines/2026/11/fogyokura-dieta-mbw-plusz-szegheo-peter",
+        "image": "https://cdn.hirtv.hu/2026/11/QgmmE5fOlmvMn7LvXuV_fd0F5RVNyvTEocdg5_b7DmA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc4ZDg5MGIzMmE1YjQ4ZTBiNzU0MDRmZThiZmQxZjRi.webp",
+        "summary": "Szegheő Péter, az Ormos Intézet orvosigazgatója a Napindítóban.",
+        "category": "Politika",
+        "published_at": 1794476046
+      }
+    ]
+  },
+  {
+    "group_id": "group_127cd2e300",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ő Ariana Grande új kedvese, akivel kéz a kézben sétáltak a vörös szőnyegen",
+        "link": "https://24.hu/elet-stilus/2026/11/12/ariana-grande-parkapcsolat-ricky-alvarez/",
+        "image": "https://s.24.hu/app/uploads/2026/11/ariana-grande-ricky-alvarez-voros-szonyeg-debutalas-000_d78e6tj-1024x576.jpg",
+        "summary": "Elkísérte az énekesnőt az új filmje bemutatójára. The post Ő Ariana Grande új kedvese, akivel kéz a kézben sétáltak a vörös szőnyegen first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794475665
+      }
+    ]
+  },
+  {
+    "group_id": "group_c3369bfc34",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Üzemanyagárak: ettől már az állunk is leesik, nagyon jó hetük van most az autósoknak",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/uzemanyagarak-benzin-dizel-csokken-olaj-ara-no-tankolas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/10/AeWV_7B5xXckd7M3N0awloe1j_zVTVnE_LLKyylw1jw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YzODQzZTI4YTZjNzRjNGI5NTY3NzNlYjhlMWVjMDI2.jpg",
+        "summary": "Csütörtökön ismét jelentősen csökkentek az üzemanyagárak.",
+        "category": "Gazdaság",
+        "published_at": 1794475678
+      }
+    ]
+  },
+  {
+    "group_id": "group_2842a6835c",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HWSW",
+        "title": "Komoly hatásai lehetnek a Huang-ügynek az amerikai exportpolitikára",
+        "link": "https://www.hwsw.hu/hirek/71194/nvidia-usa-egyesult-allamok-kina-ai-chip-export-torveny-korlatozas-lobbi.html",
+        "image": "",
+        "summary": "Az Nvidia vezére az egyik leghangosabb ellenzője volt a kínai exportkorlátozásoknak.",
+        "category": "Kultúra",
+        "published_at": 1794475766
       }
     ]
   }
