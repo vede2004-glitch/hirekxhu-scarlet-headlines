@@ -74,6 +74,13 @@ export function newsByTag(tag: string): NewsItem[] {
     .sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0));
 }
 
+/** Hírgyűjtő címkéi tisztítva; ha nincsenek, a téma lesz a címke (mint a STIRIX-en). */
+export function normalizeTags(tags: unknown, category: string): string[] {
+  const list = Array.isArray(tags) ? tags.filter((t): t is string => typeof t === "string").map(tagSlug).filter(Boolean) : [];
+  const unique = [...new Set(list)];
+  return unique.length ? unique : [tagSlug(category)].filter(Boolean);
+}
+
 function normalize(r: RawItem): NewsItem {
   const huContent: LangContent = {
     title: r.title_hu ?? "",
@@ -95,7 +102,7 @@ function normalize(r: RawItem): NewsItem {
   return {
     group_id: r.group_id,
     slug: r.slug ?? null,
-    tags: Array.isArray(r.tags) ? r.tags.filter((t): t is string => typeof t === "string" && t.trim() !== "").map(tagSlug) : [],
+    tags: normalizeTags(r.tags, normCategory(r.category)),
     image: r.image,
     is_synthesized: r.is_synthesized,
     is_top_hero: r.is_top_hero === true,
