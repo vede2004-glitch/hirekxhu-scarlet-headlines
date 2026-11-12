@@ -3,6 +3,7 @@ import { Link, useLoaderData } from "@tanstack/react-router";
 import { Clock3, Flame, Layers3, Search, Radio, X, Library } from "lucide-react";
 import { BrandLogo } from "@/components/BrandLogo";
 import { SiteMenu } from "@/components/SiteMenu";
+import { TagChips } from "@/components/TagChips";
 import { RichText } from "@/components/RichText";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { news, normalizeNewsList, CATEGORIES, ALL, formatDate, type NewsItem } from "@/lib/news";
@@ -130,6 +131,7 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
                   <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground"><RichText text={item.lead} /></p>
                   <p className="mt-3 border-t border-border pt-3 text-[10px] font-bold text-primary">{item.sources.length} forrás alapján <span className="font-medium text-muted-foreground">{item.sources.slice(0, 3).map(s => s.source).join(" · ")}</span></p>
                 </StoryLink>
+                <TagChips item={item} className="mt-3" />
               </article>)}
             </div>
             {!list.length && <p className="py-12 text-center text-sm text-muted-foreground">Nincs találat.</p>}
