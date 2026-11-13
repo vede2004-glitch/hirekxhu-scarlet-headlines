@@ -2673,7 +2673,7 @@
     "title_hu": "300 milliárdos befizetést osztottak fel, közel 144 milliárdot átcsoportosítanak",
     "lead_hu": "A november 11-én közzétett kormányhatározat húsz költségvetési fejezetre bontja a 2026-os büdzsében előírt 300 milliárd forintos befizetést. A döntés emellett egyszeri, 143,97 milliárd forintos átcsoportosítást rendel el a Havária Alapból három terület támogatására.",
     "content_hu": "• **Az átcsoportosítás összege és céljai** A 1375/2026. (XI. 11.) kormányhatározat 143 milliárd 970 millió 792 ezer 500 forint egyszeri átcsoportosításáról rendelkezik. Ebből 80 milliárd forint jut a Nemzeti agrárkár-enyhítés előirányzatára az Agrár- és Élelmiszergazdaságért Felelős Minisztériumnál, 41,4 milliárd a villamosenergia-termelés rendszerbiztonsági szolgáltatásának ellentételezésére a Gazdasági és Energetikai Minisztériumnál, 22,57 milliárd pedig köznevelési támogatásra az Oktatási és Gyermekügyi Minisztériumnál.\n\n• **A folyósítás határideje** A határozat egyszeri átcsoportosítást ír elő, a támogatások folyósításának határidejét pedig azonnaliként jelöli meg.\n\n• **A 300 milliárd forintos kötelezettség felosztása** A törvényben rögzített befizetést húsz költségvetési fejezet között osztották el. A Közlekedési és Beruházási Minisztériumra 81 milliárd, a gazdasági és energetikai tárcára 53 milliárd, az egészségügyi területre közel 26 milliárd, az oktatásira pedig 17 milliárd forint jut.\n\n• **További befizetési tételek** A külügyi, a Miniszterelnökséghez tartozó és a technológiai területre egyaránt tízmilliárd forintot meghaladó összeg jutott. Az állami vagyonhoz kapcsolódó kiadások mérséklésével és bevételek növelésével további 44 milliárd forintot számolnak el; a Központi Statisztikai Hivatalnál valamivel több mint 79 millió forint szerepel.\n\n• **A felosztás nem részletezi a forrásokat** A határozat a befizetési kötelezettség fejezetek közötti elosztását tartalmazza, de nem nevezi meg, hogy az egyes tárcák mely programok vagy kiadások terhére teljesítik azt. Az öt legnagyobb tétel összege meghaladja a 221 milliárd forintot.",
-    "importance_score": 28.0,
+    "importance_score": 25.0,
     "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
@@ -2709,7 +2709,7 @@
     "title_hu": "Aktívan kihasznált Chrome-sebezhetőséghez adott ki javítást a Google",
     "lead_hu": "A Google sürgős frissítést tett közzé a Chrome-hoz a CVE-2026-125350 azonosítójú biztonsági rés miatt. A vállalat szerint a hibát már támadók is kihasználták, a védelem aktiválásához pedig újra kell indítani a böngészőt.",
     "content_hu": "• **A hiba a Chrome XML-komponensét érinti:** A sebezhetőség lehetőséget adhat a böngésző memóriájának manipulálására, illetve rosszindulatú kód futtatására.\n\n• **A támadók már visszaéltek a sérülékenységgel:** A Google megerősítette az aktív kihasználást, de a támadási módszer részleteit nem hozta nyilvánosságra.\n\n• **Frissítés és újraindítás szükséges:** A Chrome automatikusan letöltheti a javítást, de annak érvénybe lépéséhez újra kell indítani a böngészőt. A frissítés állapota a Chrome névjegye menüpontban ellenőrizhető.\n\n• **Ez már a nyolcadik javított nulladik napi hiba idén:** A Google 2026-ban eddig ennyi, támadók által kihasznált Chrome-sebezhetőségre adott ki javítást.",
-    "importance_score": 28.0,
+    "importance_score": 25.0,
     "is_top_hero": false,
     "is_top_list": true,
     "top_rank": 56
