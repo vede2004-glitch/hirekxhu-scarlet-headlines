@@ -431,6 +431,67 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_baf0023d1d",
+    "slug": "baka-andras-visszakuldte-a-politikusok-vagyonvizsgalatarol-szolo-trvenyt-baf002",
+    "tags": [
+      "baka-andras",
+      "vagyonnyilatkozat",
+      "orszaggyules",
+      "adatvedelem"
+    ],
+    "fingerprint": "81ad84d803560668911eafd010b94ab1",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Baka András visszadobta az Országgyűlésnek a politikusok vagyonosodási vizsgálatáról szóló törvényt",
+        "link": "https://telex.hu/belfold/2026/11/13/baka-andras-visszadobta-az-orszaggyulesnek-a-politikusok-vagyonosodasi-vizsgalatarol-szolo-torvenyt"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Baka András visszaküldte a parlamentnek a politikusok vagyonosodását vizsgáló törvényt",
+        "link": "https://index.hu/belfold/2026/11/13/baka-andras-kozvagyon-vedelme-kozbizalom-alaptorveny/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Baka András visszaküldte az Országgyűlésnek a politikusok vagyongyarapodási vizsgálatának szabályait tartalmazó törvényt",
+        "link": "https://24.hu/belfold/2026/11/13/baka-andras-visszakuldte-az-orszaggyulesnek-politikusok-vagyongyarapodasa-torveny/"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Visszaküldte a parlamentnek a politikusok vagyonosodását vizsgáló törvényt Baka András: ismét súlyos aggályokat fogalmazott meg a köztársasági elnök",
+        "link": "https://www.vg.hu/kozelet/2026/11/vagyongyarapodas-politikus-torveny-visszadobas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Baka András visszaküldte az Országgyűlésnek a politikusok vagyonosodását vizsgáló törvényt",
+        "link": "https://hvg.hu/itthon/20261113_baka-andras-politikusok-vagyonosodasi-vizsgalat-torveny-visszakuldes-orszaggyules"
+      },
+      {
+        "source": "444.hu",
+        "title": "Baka azért is dobta vissza a vagyonosodási törvényt, mert szerinte ahelyett, hogy erősítené a közbizalmat, akár tovább is ronthatja azt",
+        "link": "https://444.hu/2026/11/13/baka-azert-is-dobta-vissza-a-vagyonosodasi-torvenyt-mert-szerinte-ahelyett-hogy-erositene-a-kozbizalmat-akar-tovabb-is-ronthatja-azt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Baka visszaküldte a politikusok vagyonosodását vizsgáló törvényt: ismét súlyos aggályokat fogalmazott meg a köztársasági elnök",
+        "link": "https://www.vadhajtasok.hu/2026/11/13/baka-visszakuldte-a-politikusok-vagyonosodasat-vizsgalo-torvenyt-ismet-sulyos-aggalyokat-fogalmazott-meg-a-koztarsasagi-elnok"
+      }
+    ],
+    "published_at": 1794563674,
+    "title_hu": "Baka András visszaküldte a politikusok vagyonvizsgálatáról szóló törvényt",
+    "lead_hu": "Baka András köztársasági elnök megfontolásra visszaküldte az Országgyűlésnek a politikusok vagyongyarapodásának vizsgálatáról szóló, november 3-án elfogadott törvényt. Támogatja a jogszabály céljait, de garanciákat és adatvédelmi szabályokat tart szükségesnek.",
+    "content_hu": "• **A törvény visszaküldése:** Baka András pénteken, az Alaptörvényben biztosított jogkörével élve küldte vissza a jogszabályt a parlamentnek.\n\n• **A vizsgálatok célja:** Az államfő indokoltnak tartja a politikai és állami felsővezetők, valamint hozzátartozóik vagyongyarapodásának fokozott figyelemmel követését, továbbá a kockázatok elemzését és a súlyos visszaélések nyilvánosságra hozatalát.\n\n• **Hiányolt garanciák:** Baka szerint meg kell akadályozni, hogy a tisztségüket elhagyó politikusok éveken át folyamatos kockázatelemzés alatt maradjanak, vagy a szabályozás eleve rosszhiszeműnek tekintse őket. A kisebb hibák javítására önellenőrzést és adategyeztetést is lehetővé tenne.\n\n• **Adatvédelmi aggályok:** Az államfő szerint az adóhatósági eljárásoknak és az adatszolgáltatásnak meg kell felelniük az uniós adatvédelmi követelményeknek. Kifogásolta az ingatlan-nyilvántartás adatainak rendszeres, széles körű átadását is, ha ahhoz nem társul megfelelő célmeghatározás és időkorlát.",
+    "importance_score": 85.0,
+    "top_rank": 5,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_8896752b5d",
     "slug": "belso-vizsgalat-es-szervezeti-valtozasok-az-aranykonvoj-ugyeben-889675",
     "tags": [
@@ -487,62 +548,6 @@
     "lead_hu": "Fejes Péter legfőbb ügyész felelőst jelölt ki és rövid határidőt szabott az aranykonvoj ügyében elrendelt belső vizsgálatra. A szervezet átalakítása mellett a korábbi eljárások elhúzódását és szakmai színvonalát is áttekintik.",
     "content_hu": "• **Belső vizsgálat** Fejes Péter belső ellenőrzést rendelt el az aranykonvoj ügyében, annak lefolytatására felelőst nevezett ki, és szoros határidőt írt elő. A legfőbb ügyész hibákat lát az esetben, de egyedi ügyként értékelte, nem az ügyészség egészére jellemző problémaként.\n\n• **Párhuzamos büntetőeljárás** Az ügyben nyomozás is folyik az intézkedés elrendelésének és végrehajtásának körülményeiről, valamint egyes utólagos jogszabályi lépésekről. Több, az akcióban részt vevő személyt meggyanúsítottak; köztük van Hajdu János, a Terrorelhárítási Központ korábbi főigazgatója.\n\n• **Szervezeti átalakítás** Fejes öt osztály megszüntetését és további szervezeti módosításokat jelentett be. A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal létrejötte szakembereket vont el az ügyészségtől, ezért új munkatársakra is szükségük van.\n\n• **Régi ügyek felülvizsgálata** Az ügyészség megvizsgálja, miért húzódtak el korábbi eljárások, és azok szakmai szempontjait is értékeli. Fejes politikai befolyástól mentes, egységes mércét alkalmazó működés kialakítását nevezte meg célként.\n\n• **Kapacitásbővítés és kiszivárgások** Fejes szerint a jelenlegi létszám és infrastruktúra nem elegendő a korábbi kormányzati tevékenységgel összefüggő feljelentések nagy számának feldolgozására. Húsz új fogalmazói állást nyitnak a nyomozó ügyészségnél, gazdasági jogászok felvételét is tervezik, de ezt finanszírozási nehézségek akadályozzák. Az ügyészség a folyamatban lévő eljárások adatainak kiszivárgása ellen is fellépne.",
     "importance_score": 85.0,
-    "top_rank": 5,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_baf0023d1d",
-    "slug": "baka-andras-visszakuldte-a-politikusok-vagyonvizsgalatarol-szolo-trvenyt-baf002",
-    "tags": [
-      "baka-andras",
-      "vagyonnyilatkozat",
-      "orszaggyules",
-      "adatvedelem"
-    ],
-    "fingerprint": "81ad84d803560668911eafd010b94ab1",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Baka András visszadobta az Országgyűlésnek a politikusok vagyonosodási vizsgálatáról szóló törvényt",
-        "link": "https://telex.hu/belfold/2026/11/13/baka-andras-visszadobta-az-orszaggyulesnek-a-politikusok-vagyonosodasi-vizsgalatarol-szolo-torvenyt"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Baka András visszaküldte a parlamentnek a politikusok vagyonosodását vizsgáló törvényt",
-        "link": "https://index.hu/belfold/2026/11/13/baka-andras-kozvagyon-vedelme-kozbizalom-alaptorveny/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Baka András visszaküldte az Országgyűlésnek a politikusok vagyongyarapodási vizsgálatának szabályait tartalmazó törvényt",
-        "link": "https://24.hu/belfold/2026/11/13/baka-andras-visszakuldte-az-orszaggyulesnek-politikusok-vagyongyarapodasa-torveny/"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Visszaküldte a parlamentnek a politikusok vagyonosodását vizsgáló törvényt Baka András: ismét súlyos aggályokat fogalmazott meg a köztársasági elnök",
-        "link": "https://www.vg.hu/kozelet/2026/11/vagyongyarapodas-politikus-torveny-visszadobas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Baka András visszaküldte az Országgyűlésnek a politikusok vagyonosodását vizsgáló törvényt",
-        "link": "https://hvg.hu/itthon/20261113_baka-andras-politikusok-vagyonosodasi-vizsgalat-torveny-visszakuldes-orszaggyules"
-      },
-      {
-        "source": "444.hu",
-        "title": "Baka azért is dobta vissza a vagyonosodási törvényt, mert szerinte ahelyett, hogy erősítené a közbizalmat, akár tovább is ronthatja azt",
-        "link": "https://444.hu/2026/11/13/baka-azert-is-dobta-vissza-a-vagyonosodasi-torvenyt-mert-szerinte-ahelyett-hogy-erositene-a-kozbizalmat-akar-tovabb-is-ronthatja-azt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794563674,
-    "title_hu": "Baka András visszaküldte a politikusok vagyonvizsgálatáról szóló törvényt",
-    "lead_hu": "Baka András köztársasági elnök megfontolásra visszaküldte az Országgyűlésnek a politikusok vagyongyarapodásának vizsgálatáról szóló, november 3-án elfogadott törvényt. Támogatja a jogszabály céljait, de garanciákat és adatvédelmi szabályokat tart szükségesnek.",
-    "content_hu": "• **A törvény visszaküldése:** Baka András pénteken, az Alaptörvényben biztosított jogkörével élve küldte vissza a jogszabályt a parlamentnek.\n\n• **A vizsgálatok célja:** Az államfő indokoltnak tartja a politikai és állami felsővezetők, valamint hozzátartozóik vagyongyarapodásának fokozott figyelemmel követését, továbbá a kockázatok elemzését és a súlyos visszaélések nyilvánosságra hozatalát.\n\n• **Hiányolt garanciák:** Baka szerint meg kell akadályozni, hogy a tisztségüket elhagyó politikusok éveken át folyamatos kockázatelemzés alatt maradjanak, vagy a szabályozás eleve rosszhiszeműnek tekintse őket. A kisebb hibák javítására önellenőrzést és adategyeztetést is lehetővé tenne.\n\n• **Adatvédelmi aggályok:** Az államfő szerint az adóhatósági eljárásoknak és az adatszolgáltatásnak meg kell felelniük az uniós adatvédelmi követelményeknek. Kifogásolta az ingatlan-nyilvántartás adatainak rendszeres, széles körű átadását is, ha ahhoz nem társul megfelelő célmeghatározás és időkorlát.",
-    "importance_score": 75.0,
     "top_rank": 6,
     "is_top_hero": false,
     "is_top_list": true
@@ -907,6 +912,52 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_7222bee2e0",
+    "slug": "magyar-peter-szerint-tavoznia-kell-az-abtl-vezetojenek-7222be",
+    "tags": [
+      "magyar-peter",
+      "abtl",
+      "ugynokaktak",
+      "lezsak-sandor"
+    ],
+    "fingerprint": "da6d33a3bec497d25435d3661f9e637a",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/kossuth_radio_mp_dszzs20261020003-e1794549294230-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Magyar Péter: a levéltár vezetője nem maradhat pozíciójában",
+        "link": "https://24.hu/belfold/2026/11/13/magyar-peter-a-leveltar-vezetoje-nem-maradhat-poziciojaban/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Magyar Péter szerint az ÁBTL vezetője nem maradhat a levéltár élén a hiba után",
+        "link": "https://444.hu/2026/11/13/magyar-peter-szerint-az-abtl-vezetoje-nem-maradhat-a-leveltar-elen-a-hiba-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "„Nem maradhat” – bár nem az ő hatásköre, Magyar Péter elküldené a levéltár vezetőjét az ügynökbotrány miatt",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/tiszas-ugynokbotrany-magyar-peter-cseh-gergo-bendeguz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Herr Rovar gyáván megfutamodott: szerinte az ÁBTL vezetője nem maradhat a levéltár élén a hiba után",
+        "link": "https://www.vadhajtasok.hu/2026/11/13/herr-rovar-gyavan-megfutamodott-szerinte-az-abtl-vezetoje-nem-maradhat-a-leveltar-elen-a-hiba-utan"
+      }
+    ],
+    "published_at": 1794555627,
+    "title_hu": "Magyar Péter szerint távoznia kell az ÁBTL vezetőjének",
+    "lead_hu": "Magyar Péter úgy véli, Cseh Gergő Bendegúz nem maradhat az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója a nyitottaktak.hu oldalon történt hiba után. A miniszterelnök szerint a vezetőváltás nem az ő hatásköre.",
+    "content_hu": "• **Téves névfeltüntetés:** A múlt héten indult nyitottaktak.hu oldalon egy technikai hiba miatt néhány órán át Lezsák Sándor és további 160 ember neve is az ügynökök között jelent meg.\n\n• **Magyar Péter álláspontja:** A miniszterelnök a Kossuth Rádiónak azt mondta, személyes véleménye szerint Cseh Gergő Bendegúznak távoznia kell az ÁBTL éléről, ugyanakkor a döntés nem az ő hatáskörébe tartozik.\n\n• **A főigazgató reakciója:** Cseh Gergő Bendegúz felajánlotta lemondását; Magyar Péter elmondása szerint az érintettek elnézést kértek a hibáért.",
+    "importance_score": 55.0,
+    "top_rank": 14,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_e1653dbfdf",
     "slug": "felfuggesztette-kulja-andras-mentelmi-jogat-az-europai-parlament-e1653d",
     "tags": [
@@ -955,7 +1006,7 @@
     "importance_score": 55.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 14
+    "top_rank": 15
   },
   {
     "group_id": "group_22dc904ee2",
@@ -999,7 +1050,7 @@
     "lead_hu": "Orbán Viktor az Ultrahangnak adott interjújában politikai célzatúnak nevezte testvére, Orbán Áron letartóztatását, és ártatlannak tartja őt. A Fidesz elnöke a gazdaságpolitikáról, a hatósági eljárásokról, a párt választási eredményeiről és Magyarország külpolitikai helyzetéről is kifejtette álláspontját.",
     "content_hu": "• **Az interjú időpontja** Orbán Viktor délután 16 órakor beszélt az Ultrahang YouTube-csatornáján. A Hír TV közlése szerint a teljes interjút csütörtökön 20 órától sugározták volna.\n\n• **Orbán Áron letartóztatása** A volt miniszterelnök az interjú előtt két héttel telefonon beszélt testvérével, akit a Budai Központi Kerületi Bíróság egy hónapra letartóztatott. Orbán azt állította, hogy öccse nem követett el semmit, és biztos az ártatlanságában; a bíróság a döntés indokai között a bizonyítás befolyásolásának veszélyét is megjelölte.\n\n• **A hatósági ügyek politikai értelmezése** Orbán politikai célzatúnak tartja a testvére és korábbi kormányzati szereplők elleni eljárásokat. Hankó Balázst az őrizetbe vétele után több mint 40 nappal hallgatták meg, Ughy Attilát pedig az első és a 77. napon is. Orbán Lezsák Sándor lánya nyilvános kiállása és a lakiteleki vizsgálódás kezdete között két napot említett. Kifogásolta azt is, hogy szerinte egyeseket bírósági eljárás megindulása előtt bűnözőként kezelnek, illetve politikusok letartóztatásukat sürgetik.\n\n• **Állami támogatások megítélése** Orbán szerint az állami támogatás elnyerése önmagában nem alapoz meg gyanút; példaként falusi sportegyesületek és ravatalozók támogatását említette. Vitatta, hogy a kedvezményezettek szükségképpen hozzá vagy a Fideszhez kötődnének. Azt is állította, hogy korábbi kulturális tárcavezetők liberális szereplőket is támogattak, és Hankó Balázs idején sem valósult meg teljesen az a törekvés, hogy kizárólag a Fidesz kulturális politikájához illeszkedő értékek részesüljenek támogatásban.\n\n• **Adók és gazdasági teljesítmény** Orbán úgy vélte, hogy az adóemelések gyengítik a vállalatokat, ezen keresztül pedig a dolgozók és a családok helyzetét is rontják. A lassú növekedést a gazdaság egyik fő problémájának nevezte, és a cégektől a törvények betartását, az adók megfizetését és a munkahelyteremtést várná el. Felidézte azt az érvelését is, hogy egy közösség 10 százaléka ad munkát a fennmaradó 90 százaléknak, ezért szerinte együttműködésre van szükség. A külföldi nagyvállalatokat érintő különadók egy részét már megszüntetett intézkedésként említette.\n\n• **Külpolitikai bírálat** Orbán szerint a korábbi kormányok Magyarország nemzeti érdekét szolgáló semleges álláspontot képviseltek az orosz–ukrán háborúban. Azt állította, hogy a Tisza-kormány ellenségként tekint Oroszországra, ami közelebb viheti az országot a konfliktushoz; emellett szerinte Brüsszel olyan baloldali gazdasági intézkedéseket szorgalmaz, amelyeket az előző kormányok elutasítottak.\n\n• **A Fidesz és a választások** Orbán felidézte, hogy pártja 16 év alatt négy választást nyert; értelmezése szerint ezzel a választók azt jelezték, hogy elégedettek voltak a munkájukkal. A vereséget a demokratikus politika természetes részének nevezte. A Fideszt kormányképes, jelentős szellemi háttérrel rendelkező pártként jellemezte, és 40 év politikai tapasztalatára hivatkozott. Szerinte a jelenlegi kormány nem tartja tiszteletben a hatalmi korlátokat; a korábbi kormányzását jogszerűnek, a mostani gyakorlatot pedig önkényesnek minősítette.\n\n• **Család és politikai jövő** Orbán azt mondta, családja szereti és támogatja, otthon pedig nem őt teszik felelőssé a történtekért. Édesanyja helyzetéről úgy beszélt, hogy nehéz lehet jól megélni a körülményeket. Közlése szerint döntéseit a lelkiismerete és a magyar közösség iránti felelőssége vezeti, és a jövőben is Magyarországért kíván dolgozni.",
     "importance_score": 53.0,
-    "top_rank": 15,
+    "top_rank": 16,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1040,7 +1091,7 @@
     "lead_hu": "A Boston Consulting Group 2021-es stratégiája munkáltatói finanszírozású kiegészítő egészségbiztosítással és fizetős kórházi szolgáltatásokkal számolt. A javaslatok egyes elemei gyorsabb ellátást és kényelmesebb kórházi körülményeket kínáltak volna, ám a 2024-es értékelés szerint a bevezetés feltételei nem álltak rendelkezésre.",
     "content_hu": "• **Munkáltatói biztosítás** A BCG az állami ellátás mellett működő, a munkaadók bevonásával finanszírozott kiegészítő egészségbiztosítás lehetőségét vázolta fel.\n\n• **Fizetős szolgáltatások** A terv szerint a betegek külön díjért gyorsabb ellátáshoz, tapasztaltabb orvoshoz és több ápolói figyelemhez juthattak volna; a kórházakban kényelmesebb szobákat is igénybe vehettek volna.\n\n• **A nyugdíjasok helyzete** A Telex beszámolója szerint a dolgozók ellátásának kiegészítését a munkáltatók finanszírozták volna, míg a nyugdíjasoknak saját forrásból kellett volna fizetniük.\n\n• **Elhalasztott bevezetés** A 2024-es értékelés a költségvetési és intézményi feltételek hiánya miatt a kiegészítő biztosítás bevezetésének elhalasztását javasolta. A konstrukció nem a kötelező társadalombiztosítás megszüntetését jelentette volna.",
     "importance_score": 50.0,
-    "top_rank": 16,
+    "top_rank": 17,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1081,7 +1132,7 @@
     "lead_hu": "Köböl Anita kormányszóvivő egy csütörtöki Facebook-bejegyzésben arról számolt be, hogy ő maga is átélt bántalmazást. Posztja a kormány nők védelmét célzó intézkedéseinek bejelentéséhez kapcsolódott.",
     "content_hu": "• **Köböl Anita személyes tapasztalata** A kormányszóvivő felidézte, hogy műsorvezetőként sok bántalmazott nő történetét hallotta, majd saját érintettségéről is írt, a körülményeket azonban nem részletezte.\n\n• **Az áldozatok támogatása** Bejegyzésében az áldozathibáztatás és a segítségnyújtás fontosságára hívta fel a figyelmet, és azt hangsúlyozta, hogy a bántalmazásért nem az áldozat felelős.\n\n• **Kormányzati tervek** Magyar Péter nők védelmét célzó intézkedéscsomagot ismertetett. A tervek között szerepel az Isztambuli Egyezmény ratifikálása, továbbá a szívhangrendelet és az esemény utáni tabletta vénykötelességének megváltoztatása.\n\n• **Politikai reakció** A KDNP elutasította az egyezmény ratifikálását, és kifogásolta a „társadalmi nem” fogalmának alkalmazását. Magyar Péter visszautasította a csomagot érő, genderkérdésekkel kapcsolatos bírálatokat.",
     "importance_score": 50.0,
-    "top_rank": 17,
+    "top_rank": 18,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1132,7 +1183,7 @@
     "lead_hu": "Orbán Viktor egy közösségi oldalán közzétett videóban a politikai támadásokról és a szerinte zajló leszámolásról beszélt. Egy másik felvételen Varga Judit korábbi lemondási szándékáról is beszámolt, miközben öccsét embercsempészés gyanújával vették őrizetbe, majd letartóztatták.",
     "content_hu": "• **A politikai támadásokra reagált** Orbán Viktor egy videóban arról beszélt, hogy már többször került hasonló helyzetbe. Azt állította, hogy a politikai nyomás elviselése a közéleti munkával jár, és nem érzi magát megrendültnek.\n\n• **A hatóságok fellépését politikai önkénynek nevezte** Orbán szerint a kormány el akarja hallgattatni az ellenfeleit. Azt mondta, a jelenlegi időszakot politikai leszámolás jellemzi, és állítása szerint nem követtek el olyan dolgot, amelyért felelősségre lehetne vonni őket.\n\n• **Öccse ügyét a támadásokkal kapcsolta össze** Orbán Áront embercsempészés gyanújával vették őrizetbe, majd letartóztatták. A volt miniszterelnök korábban úgy nyilatkozott, hogy szerinte ő a támadások valódi célpontja, testvére pedig eszköz ebben.\n\n• **Édesanyja nehezen viseli a családtagjait érő bántásokat** Orbán elmondása szerint édesanyja rosszul éli meg, ha a gyermekeit támadják.\n\n• **Varga Judit korábban többször fontolgatta a lemondást** Orbán egy másik videóban arról beszélt, hogy a volt igazságügyi miniszter a nehéz otthoni körülmények miatt többször távozott volna a tisztségéből, ő azonban maradásra biztatta. Azt mondta, elégedett volt Varga munkájával, aki súlyos dolgokról is beszélt neki; a volt miniszter meghallgatását ugyanakkor nem nézte meg.\n\n• **Trump példáját is felhozta, és a Tiszát is bírálta** Orbán Donald Trump korábbi politikai megpróbáltatásaira utalt, a Tiszát pedig azzal vádolta, hogy egypártrendszer kialakítására törekszik.",
     "importance_score": 50.0,
-    "top_rank": 18,
+    "top_rank": 19,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1178,7 +1229,7 @@
     "lead_hu": "Jensen Huang csütörtökön lemondott az Nvidia vezérigazgatói posztjáról, miután házasságon kívüli kapcsolatairól és egyik érintett feltételezett kínai hírszerzési kötődéséről jelentek meg beszámolók. A részvény árfolyama a tőzsdenyitáskor 11,5 százalékot esett, a cég piaci értéke pedig mintegy 480 milliárd dollárral csökkent.",
     "content_hu": "• **Két magánéleti kapcsolatról jelentek meg beszámolók** A New York Times öt Nvidia-alkalmazottra hivatkozva azt írta, hogy Huang kapcsolatban állt Kimberly Powell-lel, a vállalat egészségügyi üzletágának alelnökével. A másik kapcsolatként Alice Huang nevét említették; az amerikai hírszerzés szerint felmerült, hogy a nő a kínai titkosszolgálatokhoz kötődhet.\n\n• **A vállalat igazgatótanácsa vizsgálatot indított** A testület az Alice Huanggal kapcsolatos ügyet is vizsgálta, és azt a lehetőséget is mérlegelte, hogy bizalmas Nvidia-adatok juthattak illetéktelenekhez. Az igazgatóság Huang jövőjéről tárgyalt volna, de a vezérigazgató ezt megelőzően távozott.\n\n• **Colette Kress irányítja ideiglenesen a céget** Az Nvidia pénzügyi igazgatója látja el átmenetileg a vezetői feladatokat. Az igazgatótanács belső és külső jelöltek közül keres állandó utódot.\n\n• **Huang 1993-ban alapította meg a vállalatot** A 63 éves üzletember több mint 33 éven át vezette az Nvidiát. A videojátékokhoz fejlesztett grafikus processzorok gyártója időközben a mesterségesintelligencia-iparág egyik meghatározó szereplőjévé nőtt.\n\n• **A részvény 11,5 százalékos mínuszban nyitott** Az árfolyam a nyitás előtt 10,2 százalékot esett, majd az amerikai kereskedés kezdetén 11,5 százalékos csökkenést mutatott. A kereskedés előtti, 4,19 ezermilliárd dolláros piaci kapitalizációból mintegy 480 milliárd dollár tűnt el; a Nasdaq körülbelül 1 százalékos eséssel indult.\n\n• **Az Nvidia a korábbi csúcsa óta jelentősen veszített értékéből** A cég piaci kapitalizációja október elején rekordot ért el, 5700 milliárd dollár körül alakult. A Portfolio beszámolója szerint a csúcs óta közel 1800 milliárd dollárral lett alacsonyabb a vállalat értéke, miközben a részvény árfolyama mintegy 30 százalékot esett; az év eleje óta a visszaesés 16 százalék volt.\n\n• **Más technológiai részvények is elmozdultak** Az Nvidia versenytársai közül az AMD 3,1, a Broadcom 2,1 százalékot erősödött. A CoreWeave árfolyama 6,5, a Super Micro Computeré 5,3, az Alibaba amerikai jegyzésű részvényeié pedig 5,5 százalékkal csökkent.\n\n• **A vezetőváltás üzleti és geopolitikai következményekkel járhat** Huang támogatta az Nvidia kínai piaci jelenlétének fenntartását, és kapcsolatot ápolt Donald Trump amerikai elnökkel. A JPMorgan elemzői szerint a már vállalt kötelezettségek várhatóan nem változnak, az új megállapodások viszont lassabban születhetnek meg, vagy nagyobb ellentételezést igényelhetnek. A bizonytalanság a GPU-finanszírozási és infrastruktúra-fejlesztési szerződéseket is érintheti.\n\n• **Pénteken nyugodtabbá vált az ázsiai kereskedés** Az amerikai államkötvények hozama emelkedett, a kétéves papíroké egyhavi csúcsra jutott, a dollár pedig erősödött. A befektetők azt is mérlegelték, hogy a Fed a következő hónapban 50 bázispontos kamatemelést hajthat végre.",
     "importance_score": 48.0,
-    "top_rank": 19,
+    "top_rank": 20,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1224,7 +1275,7 @@
     "lead_hu": "Jensen Huang november 12-i távozását követően Colette Kress vette át ideiglenesen az Nvidia vezetését, miközben az amerikai törvényhozók decemberre meghallgatásokat kezdeményeztek a volt vezérigazgatóval és Howard Lutnick kereskedelmi miniszterrel. Új sajtóbeszámolók szerint a kémkedéssel gyanúsított Alice Huangnak az amerikai MI-chipekről kellett információkat szereznie; az Nvidia részvényei a lemondás hírére több mint tíz százalékot estek.",
     "content_hu": "• **Huang november 12-én távozott** Az Nvidia elnök-vezérigazgatói tisztsége mellett az igazgatótanácsi tagságát is megszüntette. Colette Kress pénzügyi igazgató ideiglenesen vezeti a vállalatot, amíg a testület belső és külső jelöltek közül keres utódot; Harvey C. Jones lett az igazgatótanács elnöke.\n\n• **Két állítólagos magánéleti kapcsolat került a beszámolók középpontjába** Sajtóértesülések Alice Huangot, a Megaspeed korábbi vezetőjét, valamint Kimberly Powellt, az Nvidia egészségügyi üzletágának alelnökét nevezték meg. A Rakéta beszámolója szerint Huang a botrány után bocsánatot kért munkatársaitól, és vállalta a felelősséget; a cég belső vizsgálatáról is hírt adtak.\n\n• **Alice Huang feltételezett feladatáról is megjelentek részletek** A The New York Timesnak tulajdonított értesülés szerint a kínai Állambiztonsági Minisztérium azt várhatta tőle, hogy az amerikai MI-chipekről gyűjtsön adatokat, és próbálja elősegíteni, hogy a fejlettebb termékek Kínába is eljuthassanak. Kína tagadta a vádakat, Todd Blanche amerikai igazságügyi miniszter pedig azt közölte, hogy még nincs végleges következtetés Alice Huang esetleges kémtevékenységéről.\n\n• **A törvényhozók decemberre meghallgatásokat kezdeményeztek** A képviselőház hírszerzési, külügyi és Kínával foglalkozó bizottságai december 1-jére zárt meghallgatásra kérték Huangot. Tim Scott szenátor december 3-ára várja a bankügyi bizottság elé, és jelezte, hogy a testület idézést is kibocsáthat.\n\n• **Lutnicktől az exportkorlátozásokról kérhetnek magyarázatot** A kereskedelmi minisztert szintén a szenátus bankügyi bizottsága elé hívták. A képviselők az Nvidia fejlett MI-chipjeinek Kínába irányuló exportjáról kérdezhetik; sajtóértesülések szerint Lutnick korábban fékezhette a korlátozások szigorítását.\n\n• **A Megaspeed független GPU-ellenőrzést rendelt el** James Tan Jongpong vezérigazgató közlése alapján a cég együttműködik az amerikai hatóságokkal, és amerikai ügyvédi irodát bízott meg a grafikus processzorok leltározásával, illetve az exportkorlátozások betartásának felülvizsgálatával. A szingapúri rendőrség tavaly októberben indított vizsgálata továbbra is folyamatban van.\n\n• **Az Nvidia részvényei több mint tíz százalékot veszítettek értékükből** Az FBI is vizsgálja az ügyet, a részvényesek pedig pert indítottak Huang és a vállalat ellen. A 24.hu az Apple mögött a világ második legértékesebb cégeként jellemezte az Nvidiát.",
     "importance_score": 48.0,
-    "top_rank": 20,
+    "top_rank": 21,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1265,7 +1316,48 @@
     "lead_hu": "Csütörtök reggeltől 24 óra alatt az ország nagy részén 20–50 milliméter eső esett, Balassagyarmat környékén pedig 67 millimétert mértek. Pénteken északon további jelentős csapadékra számítanak, a jövő héten pedig újabb esőhullám érkezhet.",
     "content_hu": "• **Sok eső esett az országban** Csütörtök reggel óta 24 óra alatt több térségben 20–50 milliméter csapadék gyűlt össze, főként a középső országrészben és a Dunántúlon.\n\n• **Balassagyarmaton 67 millimétert mértek** A település környékén egy nap alatt nagyjából egy havi őszi átlagos csapadéknak megfelelő eső hullott; Solton 60 millimétert regisztráltak.\n\n• **Pénteken északon is jelentős eső várható** Több helyen 20–40 milliméter csapadék hullhat, Budapesten pedig körülbelül 18 milliméterre számítanak. Két vármegyére másodfokú, több másik területre elsőfokú figyelmeztetés érvényes.\n\n• **A csapadék a talajnak is kedvezett** Az eső átnedvesítette a föld felső rétegét, ami az őszi vetésű búza számára is fontos.\n\n• **Péntek estére megszűnhet az eső** Napközben észak, északnyugat felől csökkenhet a felhőzet, miközben több helyen erős, akár viharos széllökések is előfordulhatnak. A hőmérséklet napközben 6–17, késő este 0 és 8 fok között alakulhat.\n\n• **A hétvége után újabb esős időszak jöhet** Szombaton és vasárnap szárazabb, nyugodtabb idő valószínű, hétfőtől viszont ismét nagyobb mennyiségű csapadék érkezhet.",
     "importance_score": 45.0,
-    "top_rank": 21,
+    "top_rank": 22,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_99f5d57c00",
+    "slug": "budapesten-fogtak-el-egy-not-egy-mi-chatbeszelgetes-nyoman-99f5d5",
+    "tags": [
+      "mesterseges-intelligencia",
+      "nni",
+      "fbi",
+      "emberolesi-gyanu"
+    ],
+    "fingerprint": "a3412d235e4b309a2c02fa10a3ab9dfc",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Elfogták a Budapesten élő külföldi nőt, aki mesterséges intelligenciával chatelt arról, hogy ölni fog",
+        "link": "https://444.hu/2026/11/13/elfogtak-a-budapesten-elo-kulfoldi-not-aki-mesterseges-intelligenciaval-chatelt-arrol-hogy-olni-fog?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Femina",
+        "title": "Emberölésre készült egy külföldi nő Budapesten, a mesterséges intelligencia buktatta le",
+        "link": "https://femina.hu/terasz/emberoles-elokeszulete-csetbot-budapest/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Elfogták a Budapesten élő külföldi nőt, aki mesterséges intelligenciával chatelt arról, hogy ölni fog",
+        "link": "https://www.vadhajtasok.hu/2026/11/13/elfogtak-a-budapesten-elo-kulfoldi-not-aki-mesterseges-intelligenciaval-chatelt-arrol-hogy-olni-fog"
+      }
+    ],
+    "published_at": 1794563100,
+    "title_hu": "Budapesten fogtak el egy nőt egy MI-chatbeszélgetés nyomán",
+    "lead_hu": "Az FBI november 8-án értesítette a magyar hatóságokat egy MI-chatbotnak írt, feltételezett erőszakos tervről. A 22 éves, Magyarországon tanuló nőt november 12-én fogták el budapesti lakásában; az ügyészség később a szabadlábra helyezése mellett döntött.",
+    "content_hu": "• **A nyomozás kezdete:** Az FBI a chatbotot működtető vállalat jelzése után fordult a Nemzeti Nyomozó Irodához november 8-án. A magyar nyomozók amerikai ügynökökkel együtt azonosították a beszélgetés felhasználóját.\n\n• **A feltételezett terv:** A chatüzenetek szerint a nő késsel akart bejutni egy ismerőse otthonába, és az illető családtagjait is megtámadhatta volna.\n\n• **Az elfogás és a vallomás:** A 22 éves külföldi nőt november 12-én budapesti albérletében vették őrizetbe. A kihallgatásán azt mondta, hogy a beszélgetéskor ittas volt, nem emlékszik az üzenetekre, és nem akar senkit megölni.\n\n• **Az eljárás folytatása:** A rendőrség emberölés előkészületének gyanújával hallgatta ki, és kezdeményezte a letartóztatását. Az ügyészség végül a szabadlábra helyezéséről határozott.",
+    "importance_score": 45.0,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1306,7 +1398,7 @@
     "lead_hu": "Banczerowski Péter, Rajkai Balázs és Sebestyén Katalin kapott helyet a Semmelweis Egyetemet fenntartó NEOA kuratóriumában, kinevezésük november 12-én lépett hatályba. A szeptemberben felállt testület három tagja október elején távozott, az új kuratórium pedig az előző működésének áttekintésében és az alapítvány tervezett megszűnésének előkészítésében is részt vesz.",
     "content_hu": "• **Három új tag csatlakozott a kuratóriumhoz:** Az oktatási és gyermekügyi miniszter Banczerowski Pétert, Rajkai Balázst és Sebestyén Katalint jelölte ki a Nemzeti Egészségügyi és Orvosképzésért Alapítvány (NEOA) testületébe. Kinevezésük november 12-én lépett hatályba.\n\n• **A korábbi testületből hárman távoztak:** A szeptember 1-jén megalakult kuratórium három tagja október elején mondott le, ezért kellett új tagokat kinevezni.\n\n• **A szenátusok javaslatait a minisztérium egyes esetekben módosította:** Az egyetemek szenátusai ajánlottak jelölteket a pozíciókra, de a tárca néhol eltért ezektől a javaslatoktól.\n\n• **Az új kuratórium feladata a korábbi működés áttekintése és a megszűnés előkészítése:** A legtöbb közfeladatot ellátó közérdekű vagyonkezelő alapítványt megszüntették, a felsőoktatási intézményeket fenntartók azonban egyéves haladékot kaptak. Ezek megszűnését jövő augusztusra tervezik.\n\n• **Merkely Béla az új szabályok miatt már nem lehetett kuratóriumi tag:** A Semmelweis Egyetem rektora szeptemberig részt vett a korábbi testület munkájában, de az intézményvezetők az új előírások szerint nem kerülhettek be a fenntartó alapítvány kuratóriumába. Merkely november 5-én bizalmi nehézségekre hivatkozva nyújtotta be felmondását; január 1-jétől nem vezeti az egyetemet.",
     "importance_score": 45.0,
-    "top_rank": 22,
+    "top_rank": 24,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1347,7 +1439,7 @@
     "lead_hu": "A WHO a 2026–2027-es El Niño-jelenség várható egészségügyi következményei miatt először vezetett be ilyen besorolást, és 3-as fokozatú válaszintézkedést rendelt el. A WMO jelentése szerint a felmelegedő éghajlat és az El Niño együtt fokozhatja a szélsőséges időjárás kockázatait.",
     "content_hu": "• **A WHO első alkalommal adott ki egészségügyi vészhelyzeti besorolást El Niño miatt**, és a 2026–2027-es időszakra 3-as fokozatú válaszintézkedést vezetett be.\n\n• **A Csendes-óceán térségében május óta emelkedik a tengerfelszín hőmérséklete**, a WMO pedig június elején jelentette be az El Niño kialakulását. Az előrejelzések szerint decemberre rendkívül erőssé válhat, hatásai pedig 2027 elejéig tarthatnak.\n\n• **A felmelegedő óceánok a többlethő mintegy 90 százalékát tárolják** az üvegházhatású gázok által visszatartott hőből. 2026-ban várhatóan sorozatban a tizedik évben dől meg az óceáni hőmérsékleti rekord.\n\n• **A WMO adatai szerint 2026 januárja és szeptembere között a globális felszínközeli átlaghőmérséklet 1,47 Celsius-fokkal haladta meg az 1850–1900-as átlagot.** A 2023 és 2026 közötti időszak négy éve a mérések legmelegebbjei közé tartozhat, 2027-ben pedig újabb rekord is születhet.\n\n• **A tengerszint a jelentés szerint új csúcsot ért el, a gleccserek visszahúzódása pedig folytatódik.** A 2025-ben elveszett jég mennyisége hozzávetőleg öt olimpiai méretű medence folyamatos, másodpercenkénti feltöltésének felelne meg egy éven át.\n\n• **A hőhullámok, aszályok, heves esőzések és erdőtüzek egészségkárosodást, sérüléseket és rosszabb levegőminőséget okozhatnak.** Növekedhet a kolera, a malária és a dengue-láz terjedésének veszélye, miközben az élelmezésbiztonság romlása alultápláltsághoz vezethet.\n\n• **A WMO 2026-os éghajlati jelentését a COP31 klímakonferencián, a törökországi Antalyában mutatták be.**",
     "importance_score": 45.0,
-    "top_rank": 23,
+    "top_rank": 25,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1388,7 +1480,7 @@
     "lead_hu": "Magyar Péter elmondása szerint Dublinban 10–15 percet beszélt Volodimir Zelenszkij ukrán elnökkel. Egy későbbi találkozó lehetséges helyszíneként Kárpátalja merült fel; az egyeztetés előkészítéséről a két ország külügyminisztere tárgyalhat.",
     "content_hu": "• **Rövid dublini megbeszélés** Magyar Péter közlése szerint 10–15 percig beszélt Volodimir Zelenszkij ukrán elnökkel.\n\n• **Kárpátalja mint lehetséges helyszín** A felek egy újabb találkozóról is beszéltek; Budapest és Kijev helyett Kárpátalja került szóba.\n\n• **A külügyminiszterek egyeztethetnek** A találkozó előkészítését a magyar és az ukrán külügyminiszterek beszélhetik meg, az eseményre akár november végén sor kerülhet.\n\n• **A dublini csúcstalálkozók résztvevői** Magyar Péter a közrádiónak adott telefonos interjúban arról beszélt, hogy Dublinban két csúcstalálkozót tartottak, amelyeken nyugat-balkáni és brit vezetők is részt vettek. Az ír miniszterelnökkel külön is egyeztetett.",
     "importance_score": 45.0,
-    "top_rank": 24,
+    "top_rank": 26,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1429,48 +1521,7 @@
     "lead_hu": "Az amerikai állampapírok hozamai ismét jelentősen megugrottak, miután a vártnál magasabb októberi inflációs adat erősítette a tartósan magas kamatokra vonatkozó várakozásokat. A hozamemelkedés más piacokra is átterjedt, miközben a befektetők az infláció és a növekvő kötvénykínálat miatt aggódnak.",
     "content_hu": "• **Az amerikai hozamok meredeken emelkedtek:** Pénteken, az ázsiai kereskedésben a kétéves államkötvények hozama 4,86 százalékra, a tízéveseké 5,12 százalékra nőtt.\n\n• **Az inflációs adat átírta a piaci várakozásokat:** A vártnál magasabb októberi fogyasztóiár-index után a befektetők arra számítanak, hogy a Federal Reserve hosszabb ideig tarthatja magasan a kamatokat. Christopher Waller Fed-kormányzó az infláció gyorsulása esetén egy 50 bázispontos emelést is támogatna.\n\n• **Nemzetközi piacokon is érezhető a nyomás:** Japánban és Ausztráliában többéves csúcsok közelébe kerültek a kötvényhozamok, Franciaországban pedig újabb emelkedés kezdődött. Nyolc nagy gazdaság kamatcserepiaca átlagosan 50 bázispontot meghaladó szigorítást áraz a következő évre, szemben az előző héten jelzett 33 bázisponttal.",
     "importance_score": 45.0,
-    "top_rank": 25,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_7222bee2e0",
-    "slug": "magyar-peter-szerint-tavoznia-kell-az-abtl-vezetojenek-7222be",
-    "tags": [
-      "magyar-peter",
-      "abtl",
-      "ugynokaktak",
-      "lezsak-sandor"
-    ],
-    "fingerprint": "da6d33a3bec497d25435d3661f9e637a",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/kossuth_radio_mp_dszzs20261020003-e1794549294230-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Magyar Péter: a levéltár vezetője nem maradhat pozíciójában",
-        "link": "https://24.hu/belfold/2026/11/13/magyar-peter-a-leveltar-vezetoje-nem-maradhat-poziciojaban/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Magyar Péter szerint az ÁBTL vezetője nem maradhat a levéltár élén a hiba után",
-        "link": "https://444.hu/2026/11/13/magyar-peter-szerint-az-abtl-vezetoje-nem-maradhat-a-leveltar-elen-a-hiba-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "„Nem maradhat” – bár nem az ő hatásköre, Magyar Péter elküldené a levéltár vezetőjét az ügynökbotrány miatt",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/tiszas-ugynokbotrany-magyar-peter-cseh-gergo-bendeguz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794555627,
-    "title_hu": "Magyar Péter szerint távoznia kell az ÁBTL vezetőjének",
-    "lead_hu": "Magyar Péter úgy véli, Cseh Gergő Bendegúz nem maradhat az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója a nyitottaktak.hu oldalon történt hiba után. A miniszterelnök szerint a vezetőváltás nem az ő hatásköre.",
-    "content_hu": "• **Téves névfeltüntetés:** A múlt héten indult nyitottaktak.hu oldalon egy technikai hiba miatt néhány órán át Lezsák Sándor és további 160 ember neve is az ügynökök között jelent meg.\n\n• **Magyar Péter álláspontja:** A miniszterelnök a Kossuth Rádiónak azt mondta, személyes véleménye szerint Cseh Gergő Bendegúznak távoznia kell az ÁBTL éléről, ugyanakkor a döntés nem az ő hatáskörébe tartozik.\n\n• **A főigazgató reakciója:** Cseh Gergő Bendegúz felajánlotta lemondását; Magyar Péter elmondása szerint az érintettek elnézést kértek a hibáért.",
-    "importance_score": 45.0,
-    "top_rank": 26,
+    "top_rank": 27,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1518,7 +1569,7 @@
     "importance_score": 45.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 27
+    "top_rank": 28
   },
   {
     "group_id": "group_cd44b12fb1",
@@ -1565,7 +1616,7 @@
     "importance_score": 45.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 28
+    "top_rank": 29
   },
   {
     "group_id": "group_96fc09d481",
@@ -1604,7 +1655,7 @@
     "lead_hu": "A kormány további 16 beruházás kiemelt státuszát szünteti meg, miután szeptember 2-án már kilenc projektnél döntött hasonlóan. Az intézkedés nem vonja vissza a jogszerű építési engedélyeket, és nem jelent automatikus építési tilalmat.",
     "content_hu": "• **Tizenhat újabb projekt érintett** a kormány döntésében, amelyet Tárkányi Zsolt, a Közlekedési és Beruházási Minisztérium parlamenti államtitkára jelentett be. Szeptember 2-án kilenc beruházás kiemelt státusza szűnt meg.\n\n• **A döntés célja a helyi szabályok érvényesítése:** a kormányzati indoklás szerint a magánberuházásoknak figyelembe kell venniük a települések előírásait és a helyben élők érdekeit, valamint társadalmi hasznot is kell szolgálniuk.\n\n• **Vidéki beruházások között szerepel** a Szolnok közelébe tervezett elektrolitgyár, az alsózsolcai akkumulátor-újrahasznosító, az Érd és Budafok határára tervezett logisztikai fejlesztés, valamint az üllői lövészközpont.\n\n• **A felülvizsgálatok hiányosságokat tártak fel:** több projekt megfelelő szakmai előkészítés, közlekedési és közszolgáltatási infrastruktúra, illetve érdemi önkormányzati egyeztetés nélkül kapott kivételes státuszt.\n\n• **A meglévő engedélyek érvényben maradnak**, a státusz megszüntetése pedig önmagában nem akadályozza meg az építkezést. Engedély hiányában a helyi építési szabályok szerint folytatható a fejlesztés; a rozsdaövezeti besorolás nem mentesít ezek betartása alól.\n\n• **A Sofitel-projekt megnyitását várhatóan nem késlelteti a döntés:** a beruházás a 2026-os év hátralévő részében vagy 2027 elején nyílhat meg.\n\n• **Harminchárom lakásberuházás felülvizsgálata is folyik** az önkormányzatok és a beruházók bevonásával. Ezek korábban az Otthon Start keretében kaptak kiemelt státuszt; az értékelésnél a Wekerle Lakásépítési Program céljait is figyelembe veszik.\n\n• **A KunlunChem Hungary nem építi meg az elektrolitüzemet**, és a közlése szerint elfogadja a helyiek akaratát.\n\n• **A kormányrendelet csütörtök este jelent meg** a Magyar Közlönyben.",
     "importance_score": 43.0,
-    "top_rank": 29,
+    "top_rank": 30,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1646,7 +1697,7 @@
     "lead_hu": "A dublini uniós egyeztetéseken Ukrajna jövőbeni finanszírozása is napirendre kerül, de pénteken várhatóan nem hoznak róla döntést. Magyar Péter a csúcstalálkozó keretében először találkozott Szvjatlana Cihanouszkajával, a belarusz ellenzék vezetőjével.",
     "content_hu": "• **Írország minden tagállam hozzájárulását támogatja** Helen McEntee külügyminiszter szerint az uniós országoknak közösen kell viselniük Ukrajna finanszírozásának terheit, mert a kérdés Európa biztonságát is érinti. McEntee Friedrich Merz német kancellár hasonló kezdeményezését is támogatja.\n\n• **A korábban jóváhagyott 90 milliárd euró nem fedezi a teljes igényt** A kölcsön Ukrajna idei és jövő évi szükségleteihez járul hozzá, de az ír külügyminiszter szerint a finanszírozási hiány ennél nagyobb, és jövőre további forrásokra lehet szükség. A tagállamok a közös hitelfelvételt is mérlegelik.\n\n• **A pénteki informális tanácskozáson nem várható döntés** A 27 uniós vezető Ukrajna következő évi és későbbi finanszírozásáról egyeztet Dublinban. Magyar Péter kedden Berlinben Merzcel is tárgyalt, a megbeszélés témái között Ukrajna támogatása is szerepelt.\n\n• **Biztonsági, versenyképességi és technológiai kérdések is szerepelnek a programban** Magyar Péter tájékoztatása szerint az Európai Politikai Közösség találkozójára mintegy 50 állam- és kormányfő érkezett. Az ezt követő uniós egyeztetéseken a biztonság mellett a hétéves költségvetésről és a mesterséges intelligenciáról is szó lehet.\n\n• **Magyar Péter először találkozott Szvjatlana Cihanouszkajával** A dublini megbeszélésen szóba került a belarusz–magyar együttműködés, a belarusz társadalom támogatása, valamint Cihanouszkaja lehetséges budapesti látogatása. A belarusz ellenzéki vezető gratulált Magyar Péter választási győzelméhez.",
     "importance_score": 43.0,
-    "top_rank": 30,
+    "top_rank": 31,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1682,7 +1733,7 @@
     "lead_hu": "Pósfai Gábor egy sportkonferencián a magyar sport támogatásáról és a finanszírozási rendszer tervezett átalakításáról beszélt. A következő évi költségvetési tervezet 453 milliárd forintot irányoz elő sportcélokra, miközben a kormány a sportlétesítmények bevételének növelését is célul tűzte ki.",
     "content_hu": "• **453 milliárd forint sportcélokra** A jövő évi költségvetési tervezet ekkora összeget szán a sportra; Pósfai szerint a támogatás a szabadidős programoktól az iskolai és versenysporton át a hazai világbajnokságokig terjed.\n\n• **Egységesítenék a finanszírozást** A jelenlegi, több csatornán keresztüli rendszer helyett a támogatások a sportért felelős államtitkárságon keresztül jutnának el a szervezetekhez.\n\n• **Változna két támogatási forma** A tervek között szerepel a tao kivezetése, valamint az ekhós adózás értékhatárának 500 millióról 60 millió forintra csökkentése.\n\n• **Alacsony bevétel a létesítményvagyonhoz képest** A mintegy 15 ezer milliárd forintra becsült sportlétesítmény-vagyon tavaly 18 milliárd forint bevételt termelt; ezen az arányon a kormány változtatna.\n\n• **Pósfai a német sportminiszter reakciójáról is beszélt** Elmondása szerint német kollégája meglepődött és irigykedett, amikor tájékoztatta a magyar sport finanszírozásának mértékéről.",
     "importance_score": 40.0,
-    "top_rank": 31,
+    "top_rank": 32,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1728,7 +1779,7 @@
     "lead_hu": "A NAV közlése szerint két büntetőeljárásban is nyomozati cselekményeket végeztek a lakiteleki Népfőiskola Alapítványnál, és a vizsgálatok még tartanak. A hatóság nem részletezte az ügyeket; az érintettek nem kifogásolták a helyszíni intézkedések jogszerűségét és szakszerűségét.",
     "content_hu": "• **Két külön büntetőeljárás** A NAV Dél-alföldi Bűnügyi Igazgatósága a Bács-Kiskun Megyei Főügyészség eljárásában, valamint egy saját hatáskörű nyomozás részeként intézkedett a lakiteleki alapítványnál. A NAV nem ismertette az ügyek részleteit.\n\n• **A nyomozati cselekmények folytatódnak** A hatóság tájékoztatása szerint a vizsgálatok még nem zárultak le. Az érintett helyszíneken végzett intézkedések jogszerűségét és szakszerűségét az eljárás résztvevői nem vitatták.\n\n• **Iratokat vizsgáltak a nyomozók** Molnárné Lezsák Anna fideszes képviselő arról beszélt, hogy beruházásokhoz kapcsolódó iratokat, szerződéseket és számlákat ellenőriztek. Munkatársaival azt kérte, hogy az elvitt dokumentumokat tételes jegyzőkönyv rögzítse; állítása szerint az alapítvány szabályosan számolt el.\n\n• **Ötmilliárd forint támogatás a választás előtt** A HVG korábbi beszámolója szerint a választást megelőzően ekkora összeget hagytak jóvá az alapítványnak. A Fidesz-frakció kihelyezett ülésének helyszíne a szervezet 27 hektáros parkja.\n\n• **Jelentős állami támogatások és beruházások** Az 1991-ben létrehozott alapítvány 2024-ben 7,7 milliárd, 2025-ben pedig több mint 5 milliárd forint költségvetési forrást kapott. A Hungarikum Ligethez 30 milliárd, a Hungarikum Hotelhez 8 milliárd forint állami támogatás kapcsolódott.",
     "importance_score": 40.0,
-    "top_rank": 32,
+    "top_rank": 33,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1774,7 +1825,7 @@
     "lead_hu": "Nyolcan meghaltak, 17-en megsérültek, amikor összeomlott egy háromemeletes lakóház Brooklyn Flatbush negyedében. A mentőcsapatok tovább kutatnak a romok között, a munkát az instabil épületrészek és a várható eső is nehezítheti.",
     "content_hu": "• **Nyolcan meghaltak, 17-en megsérültek** – A sérültek között hét gyermek és három tűzoltó van, négy ember állapota életveszélyes. A hatóságok nem tudják, maradt-e valaki a romok alatt.\n\n• **A ház Flatbushban, a Bedford és a Flatbush sugárút közelében omlott össze** – A baleset szerda délután, nem sokkal négy óra után történt. Az 1930-ban épült, négy lakást és egy földszinti üzletet magában foglaló épület egy szomszédos munkagödörbe zuhant.\n\n• **A szomszédos épület fala is megrongálódott** – A háromemeletes ház külső falának leszakadása után láthatóvá vált egy lépcsőház és egy hálószoba. A munkagödör helyén korábban egy földszintes épület állt, amelyet lebontottak; az omlásban játszott szerepét vizsgálják.\n\n• **Mintegy 250 tűzoltó és mentő dolgozik a helyszínen** – Keresőkutyákkal és lámpákkal kutatnak a törmelék között, az alatta kialakult üregeket is átvizsgálva. A romok további omlásának veszélye miatt fokozott óvatosságra van szükség, a teljes kutatás több napig tarthat. A polgármester szerint a tűzoltók a segélyhívás után egy percen belül kiértek; több embert, köztük egy várandós nőt is élve mentettek ki. Az eső nehezítheti a munkát, de a keresést folytatják.\n\n• **A hatóságok vizsgálják a szerencsétlenség okát** – A városi építésügyi hatóság és a rendőrség azt is ellenőrzi, összefügghetett-e az omlás a szomszédos telken végzett földmunkákkal. A helyszínre eredetileg háromemeletes épületet engedélyeztek, később kilencemeletes tervet is benyújtottak. New York polgármestere Zohran Kwame Mamdani.",
     "importance_score": 40.0,
-    "top_rank": 33,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1821,7 +1872,7 @@
     "lead_hu": "Orbán Viktor Varga Judit hazája iránti elkötelezettségét és tehetségét hangsúlyozta, és azt mondta, korábban igyekezett maradásra bírni a volt igazságügyi minisztert. Varga egy parlamenti bizottsági meghallgatásán a Magyar Péterrel folytatott beszélgetés hangfelvételéről, annak eredeti példányáról és nyilvánosságra kerülésének időzítéséről is beszélt.",
     "content_hu": "• **Orbán Viktor méltatta Varga Juditot:** A miniszterelnök a volt igazságügyi minisztert hazájáért szenvedélyesen kiálló, erős és tehetséges emberként jellemezte. Azt mondta, korábban arra kérte, hogy lehetőleg maradjon a posztján, Varga azonban nehéznek élte meg a helyzetét, és súlyos dolgokról számolt be.\n\n• **Varga Judit szerdán bizottság előtt szólalt fel:** A Végrehajtási Visszaéléseket Feltáró Vizsgálóbizottság ülésén a minisztérium működéséről és Magyar Péterről is beszélt. Jelezte, hogy a kegyelmi ügyről is beszámolna, és várja az ezzel foglalkozó másik bizottság meghívását.\n\n• **A volt miniszter manipuláltnak nevezte a hanganyagot:** Varga szerint Magyar Péter olyan értesüléseket említett a beszélgetésben, amelyeket ő pletykának tartott. Azt mondta, nem tudja, kikre vonatkoztak az iratokból kihúzott nevekre utaló megjegyzések, és szerinte összekeveredett az iratok tartalma a sajtóhoz kiszivárgott anyagokkal. Az iratok utólagos átírását azért tartotta kivitelezhetetlennek, mert több helyen is volt belőlük példány.\n\n• **Varga szerint az eredeti felvétel nem került az ügyészséghez:** Azt állította, hogy Magyar Péter nem adta át a hanganyag eredeti változatát. Hozzátette, hogy volt férje különböző tisztségeiből havonta 4,4 millió forintot keresett, és felvetette: ha a felvételt bűncselekmény bizonyítékának tartotta, miért csak több mint egy év elteltével tette közzé.",
     "importance_score": 40.0,
-    "top_rank": 34,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1867,7 +1918,7 @@
     "lead_hu": "Öt embert lőttek meg csütörtök reggel a Washingtonban található Logan Circle negyedben, egyikük életét vesztette. A rendőrség egy közeli épületben elbarikádozott gyanúsítottal tárgyalt, majd lövések után behatolt az épületbe.",
     "content_hu": "• **Öt embert ért lövés, egy áldozat meghalt** A Logan Circle-ben, a VIDA fitneszközpontban és annak közelében történt támadásban öt ember sérült meg; a helyszínen tartózkodó egyik ember életét nem sikerült megmenteni.\n\n• **Kiterjedt rendőri intézkedés és iskolai zárlat** A rendőrök több utcát lezártak, helikoptereket és számos rendőrautót vezényeltek a környékre. A Dupont Circle és a Logan Circle egyes részein korlátozták a mozgást, a közelben működő több iskola pedig zárlatot rendelt el.\n\n• **A gyanúsított egy épületben barikádozta el magát** A rendőrök felvették vele a kapcsolatot, és tárgyalni kezdtek. Miután lövéseket hallottak az épületből, behatoltak, és megállapították, hogy a gyanúsított is megsérült.\n\n• **A támadó haláláról is érkezett sajtóértesülés** A Vadhajtások Fox Newsra hivatkozva azt írta, hogy a férfi több mint egyórás közvetítői egyeztetés után öngyilkos lett. A 444 beszámolója a rendőrségi behatolás után a gyanúsított sérülését említette.",
     "importance_score": 40.0,
-    "top_rank": 35,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1913,7 +1964,7 @@
     "lead_hu": "A Budai Központi Kerületi Bíróság november 12-én egy hónapra elrendelte B. Tamás letartóztatását. A bíróság a bizonyítás veszélyeztetését látta olyan kockázatnak, amely indokolja a kényszerintézkedést.",
     "content_hu": "• **A bíróság határozata:** A Budai Központi Kerületi Bíróság 2026. november 12-én egy hónapos letartóztatásról döntött B. Tamás ügyében. A végzés nem végleges, és a megalapozott gyanúval kapcsolatban a bíróság nem látott észszerű kételyt. A döntésről Bozó Gergő, a Fővárosi Törvényszék szóvivője tájékoztatta a Telexet.\n\n• **A letartóztatás indokai:** Az ügyészség a szökés, az elrejtőzés, a bizonyítás befolyásolása és a bűnismétlés lehetőségét jelölte meg. A bíróság a bizonyítás veszélyeztetését találta megalapozottnak, a többi indokot nem fogadta el.\n\n• **A birtokában talált iratok:** A bíróság értékelése szerint B. Tamás már a november 10-i előállítása előtt követte a nyomozás alakulását. Olyan nyomozati dokumentumokat tartott magánál, amelyekhez az eljárásba való bevonása előtt nem juthatott volna hozzá jogszerűen.\n\n• **A tanúk befolyásolásának kockázata:** A nyomozók olyan személyeket is meg akarnak hallgatni, akik eddig nem kerültek a látókörükbe. A gyanú szerint a férfi a bűnszervezetben alárendelt, tőle függő helyzetű emberek vallomására is hatással lehetne. A bíróság ezért a kommunikáció teljes ellenőrzését tartotta szükségesnek, enyhébb intézkedést nem látott elegendőnek.\n\n• **A feltételezett foglalkoztatási csalás:** Az ügyészségi gyanú szerint 2019 júliusa és 2023 márciusa között a tényleges dolgozókat közterhek elkerülése érdekében papíron álfoglalkoztató cégeknél szerepeltették. Ez a konstrukció több mint másfél milliárd forinttal terhelhette meg a költségvetést.\n\n• **B. Tamás szerepe és a gyanúsítás:** Az ügyészség szerint a férfi egy őrzési-védelmi céghálózatot irányított, amely egy számlagyárként működő bűnszervezet szolgáltatásait használta. Különösen jelentős vagyoni hátrányt okozó, bűnszervezetben és felbujtóként elkövetett költségvetési csalással, valamint más bűncselekményekkel gyanúsítják.\n\n• **A nyomozás adatai:** A NAV csaknem 40 helyszínen tartott kutatást, és 23 embert állított elő, illetve hallgatott ki gyanúsítottként; az ügy gyanúsítottjainak száma így 58-ra emelkedett. A számlagyár teljes ügyében több mint 9 milliárd forint költségvetési hátrányt állapítottak meg. Korábban mintegy 4 milliárd forintnyi vagyont biztosítottak, a keddi akcióban pedig további 1,2 milliárd forintot.\n\n• **A férfi azonosítása:** A sajtó B. Tamást Bolcsik Zoltán korábbi rendészeti államtitkár fiaként nevezte meg. A férfit november 10-én vették őrizetbe; Magyar Péter közlése szerint Pintér Sándor egykori cégénél is tartottak házkutatást.",
     "importance_score": 40.0,
-    "top_rank": 36,
+    "top_rank": 37,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1959,7 +2010,7 @@
     "lead_hu": "Karácsony Gergely főpolgármester és Vitézy Dávid közlekedési miniszter csütörtökön, a Városházán írta alá a BKK átalakításáról szóló megállapodást. A tervek szerint 2027-től Budapest és az állam közösen szervezi és finanszírozza a főváros, valamint az agglomeráció közösségi közlekedését.",
     "content_hu": "• **Az állam 50 százalékos részesedést szerezne** Az Országos Közlekedési Központ tőkeemeléssel, új részvények átvételével jutna a BKK feléhez. A tranzakcióra 1,98 milliárd forintot szánnak, a tulajdonszerzés határideje 2026. december 31., az új működési rend pedig 2027. január 1-jén indulhat.\n\n• **A BKK regionális feladatokat is kapna** A tervezett társaság BKK Budapesti Várostérségi Közlekedési Központ Zrt. néven működne, és a fővárosi járatok mellett a HÉV-ek, az elővárosi vasút, valamint a Budapestre érkező elővárosi buszok szolgáltatásait is megrendelné. Az együttműködéstől a több mint 2,5 milliós várostérség közlekedésének javulását és a fővárosba tartó autóforgalom mérséklését várják. A BKK-t 2010 novemberében alapították, első vezetője Vitézy Dávid volt.\n\n• **A közlekedés költségeit fele-fele arányban viselnék** A közös közlekedésszervezés kiadása összesen 340 milliárd forint lehet. A bevételekkel nem fedezett költségek felét Budapest, másik felét az állam állná; a kormány 2027-re 170 milliárd forintos hozzájárulást vállalt. Az állami finanszírozás forrásait 2027-től évente be kell tervezni a költségvetésbe, de a kormányhatározat nem nevez meg pontos összeget.\n\n• **Közös testületek irányítanák a társaságot** Az igazgatóságba a főváros és az állami tulajdonos három-három tagot delegálna, a testület választaná meg a BKK vezetését. A felügyelőbizottságban a főváros, az állam és a munkavállalók két-két képviselője kapna helyet, a testületek vezetése pedig rotációs lenne. Karácsony Gergely jelezte, hogy támogatná Bodor Ádám jelenlegi BKK-vezető új testületbe jelölését, de a személyi kérdésekről közösen döntenek; a részleteket decemberben ismertethetik.\n\n• **A BKV fővárosi tulajdonban marad** A közlekedési társaság továbbra is a fővárosi önkormányzat kizárólagos tulajdonában működne, miközben a BKK jelenlegi jogkörei megmaradnának.",
     "importance_score": 40.0,
-    "top_rank": 37,
+    "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2007,7 +2058,7 @@
     "importance_score": 40.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 38
+    "top_rank": 39
   },
   {
     "group_id": "group_493beab7d2",
@@ -2053,7 +2104,7 @@
     "importance_score": 40.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 39
+    "top_rank": 40
   },
   {
     "group_id": "group_6a1ca600e8",
@@ -2099,7 +2150,7 @@
     "importance_score": 40.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 40
+    "top_rank": 41
   },
   {
     "group_id": "group_3ca2362aca",
@@ -2145,7 +2196,7 @@
     "importance_score": 40.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 41
+    "top_rank": 42
   },
   {
     "group_id": "group_3249e649ff",
@@ -2184,7 +2235,7 @@
     "lead_hu": "Magyar Péter egy interjúban a nyitottaktak.hu működésével kapcsolatos hibáról és Cseh Gergő Bendegúz levéltári főigazgató felelősségéről is beszélt. Szóba kerültek a nők védelmét érintő tervezett intézkedések és a gazdasági kilátások is.",
     "content_hu": "• **A levéltári hiba következményei** Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója felajánlotta lemondását a november 4-én indult nyitottaktak.hu oldalon jelentkező informatikai probléma után. Magyar Péter úgy vélekedett, hogy Csehnek nem kellene a posztján maradnia, ugyanakkor hozzátette: a kinevezéséről és a távozásáról nem ő dönt.\n\n• **Tervezett jogszabályi lépések** Magyar közlése szerint a kormány illetékesei a büntetőjogi szabályok módosításáról és a várandós nőket érintő kérdésekről is egyeztettek. A kapcsolódó javaslatokat rövidesen az Országgyűlés elé terjeszthetik; az intézkedések között az Isztambuli Egyezmény ratifikálása és az esemény utáni tabletták szabályozása is szerepel.\n\n• **Az erőszak áldozatainak védelme** Magyar az interjúban a nők és gyermekek, valamint a férfiak erőszakkal szembeni védelmét célzó lépésekről beszélt. A családon belüli erőszak érintettjeinek támogatását is fontosnak nevezte.\n\n• **Gazdasági előrejelzések** Magyar a kormány idei növekedési várakozását 1,7–1,8 százalékra, a jövő évit 2,4 százalékra tette, és az aszályt a harmadik negyedéves teljesítményt rontó tényezőként említette. A kormány jövőre 3 százalékos inflációval számol, a növekedést pedig többek között pályázatokkal és kedvezményes hitelekkel támogatná.",
     "importance_score": 38.0,
-    "top_rank": 42,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2225,7 +2276,7 @@
     "lead_hu": "Magyar Péter több, a nők védelmét és támogatását célzó intézkedést jelentett be, köztük az Isztambuli Egyezmény ratifikálását és az esemény utáni tabletta vénykötelességének megszüntetését. Takács Péter volt egészségügyi államtitkár bírálta a tervet; a gyógyszer hozzáférhetőségéről szakmai, civil és ellenző vélemények is megjelentek.",
     "content_hu": "• **Tervezett intézkedések** Magyar Péter bejelentése szerint ratifikálnák az Isztambuli Egyezményt, megszüntetnék az esemény utáni tabletta vénykötelességét, módosítanák a szívhangrendeletet, fellépnének a kapcsolati erőszak és a menstruációs szegénység ellen, valamint erősítenék a várandós nők támogatását.\n\n• **Takács Péter bejegyzése** A volt egészségügyi államtitkár a közösségi oldalán azt állította, hogy a tervezett változtatás miatt már 14 évesek is könnyen hozzáférhetnek a tablettához. A poszt első változatában tévesen abortusztablettaként nevezte meg a készítményt, később esemény utáni tablettára módosította a megfogalmazást.\n\n• **A bejelentést megelőző vita** Magyar Péter és volt felesége, Varga Judit között a bejelentés előtti napon nyilvános konfliktus alakult ki; a vita többek között a gyermektartásról szólt, majd Magyar banki átutalási bizonylatokat is közzétett. Takács bejegyzése Varga Juditra és Hegedűs Zsoltra is utalt.\n\n• **Szakmai és civil álláspontok** Ács Nándor, a Semmelweis Egyetem klinikaigazgatója szerint a készítménynek nincs számottevő mellékhatása, de tartós fogamzásgátlási módszerként nem ajánlott. Az Amnesty International Magyarország és az Élet.Érzés Egyesület támogatta a könnyebb hozzáférést, ugyanakkor az előbbi a gyógyszertári készletezés és a kiadás feltételeit, az utóbbi pedig a szexuális edukáció jelentőségét emelte ki.\n\n• **Ellenvélemények és hozzáférés** Az Együtt az Életért Egyesület egészségügyi kockázatokra, a szülői felügyelet csökkenésére, a hamis biztonságérzetre és a nemi úton terjedő fertőzések kockázatára hívta fel a figyelmet. A HVG szerint Magyarország az egyetlen uniós tagállam, ahol a sürgősségi fogamzásgátlás ilyen szigorú feltételekhez kötött.",
     "importance_score": 38.0,
-    "top_rank": 43,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2267,7 +2318,7 @@
     "lead_hu": "Az ukrajnai rendezésről szóló egyeztetések következő fordulóján európai szereplők is részt vesznek, miközben Moszkva újabb háromoldalú tárgyalásról számolt be. Ursula von der Leyen Dublinban az EU további ukrajnai támogatását és egy új orosz szankciós csomag előkészítését ismertette.",
     "content_hu": "• **Európai részvétel a következő találkozón** Steve Witkoff amerikai különmegbízott a Vesztyi hírügynökségnek azt mondta, hogy európaiak is bekapcsolódnak az Ukrajnáról szóló következő nemzetközi egyeztetésbe. A bejelentés előtt Jared Kushnerrel együtt körülbelül két és fél órán át tárgyalt Vlagyimir Putyin orosz elnökkel Moszkvában.\n\n• **Újabb háromoldalú forduló** Jurij Usakov, Putyin külpolitikai tanácsadója szerint megállapodás született az ukrajnai rendezésről folyó orosz–amerikai–ukrán tárgyalások folytatásáról. A moszkvai megbeszélésen az Abu-Dzabiban tartott korábbi egyeztetéseket is áttekintették.\n\n• **Moszkva álláspontja és a dublini egyeztetés** Usakov közlése szerint Putyin, Witkoff és Kushner Kijev háború lezárásával kapcsolatos szándékairól is beszélt. Az orosz tanácsadó azt mondta, Moszkva arra számít, hogy az amerikai küldöttek Dublinban továbbítják üzeneteiket az európaiaknak és az ukránoknak.\n\n• **Az ukrajnai béke a vezetői találkozó témája** Egy hozzávetőleg ötven európai vezető részvételével zajló esemény egyik házigazdája szerint a tanácskozás középpontjában az ukrajnai béke állt.\n\n• **Uniós támogatás és szankciós előkészületek** Ursula von der Leyen az Európai Politikai Közösség dublini csúcstalálkozóján arról beszélt, hogy Európa a háború idején és a béke elérése után is támogatja Ukrajnát. Az Európai Unió a 22. Oroszország elleni szankciós csomagon dolgozik, az Európai Bizottság pedig Ukrajna 2027-es pénzügyi támogatásáról készít javaslatot; mindkettőt a következő uniós csúcs előtt mutatnák be.\n\n• **Új brit szankciós csomag** Andy Burnham brit miniszterelnök új, átfogó intézkedéscsomagot jelentett be, amely az orosz energia- és hajózási ágazatot célozza.",
     "importance_score": 38.0,
-    "top_rank": 44,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2308,7 +2359,7 @@
     "lead_hu": "A 2024-es adóévre 52,4 milliárd forint globálisminimumadó-kiegészítést vallottak be a magyarországi nagyvállalatok, de a 3349 bevallásból csak 128-ban szerepelt fizetendő összeg. A 2027-es költségvetési tervezet 240 milliárd forintos többletet vár a vállalati adózás átalakításától; ez nem azonos a bevallott minimumadóval.",
     "content_hu": "• **52,4 milliárd forint kötelezettség** szerepelt a nagyvállalatok 2024-es globálisminimumadó-bevallásaiban a BDO által kikért NAV-adatok szerint.\n\n• **A bevallások 3,8 százalékában volt fizetendő kiegészítő adó:** a 3349 bevallásból 128 tartalmazott ilyen kötelezettséget.\n\n• **A minimumadó a legalább 750 millió euró éves konszolidált bevételű vállalatcsoportokat érinti.** A számításnál Magyarországon a társasági adó mellett az iparűzési adó, az innovációs járulék és az energiaellátók jövedelemadója is figyelembe vehető; a gazdasági jelenléthez kapcsolódó nyereségkivétel pedig csökkentheti az adóalapot.\n\n• **A korábbi költségvetési várakozás 96,4 milliárd forintos egyenlegjavulás volt.** A bevallott adókötelezettség és a tényleges költségvetési bevétel eltérő mutató, így a különbség önmagában nem bizonyít bevételkiesést.\n\n• **A 2025-ös adóévre 2240 adózó jelentkezett be.** A naptári éves vállalatoknak november 20-ig kell bevallaniuk és megfizetniük a kapcsolódó előleget; az év végleges összesített kötelezettségéről még nincs nyilvános adat.\n\n• **A Tisza 2027-re 240 milliárd forintos többletbevétellel számol** a vállalati adózás átalakításából, többek között a társasági adó és az innovációs járulék emelésével. A javaslat szerint az 500 millió euró feletti bevételű cégek társaságiadó-kulcsa 9-ről 15 százalékra nőne, az iparűzési adó beszámítása pedig ezt akár 11,25 százalékra mérsékelhetné.\n\n• **A tervezett adóemelés és a globális minimumadó bevétele nem adható automatikusan össze:** a társasági adó növelése részben kiválthatja a minimumadó-kiegészítést.",
     "importance_score": 38.0,
-    "top_rank": 45,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2349,42 +2400,6 @@
     "lead_hu": "A Bajai Járási Ügyészség kuruzslással és hamis magánokirat felhasználásával vádol egy korábbi fogtechnikust, aki fogorvosi képesítés nélkül látott el pácienseket. Az ügyben a Bajai Járásbíróság hoz döntést.",
     "content_hu": "• **2023 nyara és 2024 novembere között** a korábban fogtechnikusként dolgozó férfi egy Bács-Kiskun vármegyei településen fogadott betegeket, akik előtt fogorvosi végzettségű szakember benyomását keltette.\n\n• **Fogászati kezeléseket is végzett**: érzéstelenítés után fúrt és tömött, fogakat csiszolt, valamint hidakat készített.\n\n• **Több esetben tévesen avatkozott be**: egy páciensnél nem a panaszt okozó fogat tömte be, egy másik alkalommal pedig előbb egy egészséges fogat távolított el, majd a beteg visszatérésekor a gyulladt fogat is kihúzta.\n\n• **Antibiotikumokat írt fel jogosultság nélkül**: a vádirat szerint a vele azonos címen rendelő fogszakorvostól jogtalanul megszerzett, kitöltetlen vényeket használt erre.\n\n• **Az ügyészség felfüggesztett szabadságvesztést indítványozott** a férfival szemben; az ügyben a Bajai Járásbíróság dönt. Az ügyészségi tájékoztatást Bodó Marianna, a megyei főügyészség szóvivője ismertette.",
     "importance_score": 38.0,
-    "top_rank": 46,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_99f5d57c00",
-    "slug": "budapesten-fogtak-el-egy-not-egy-mi-chatbeszelgetes-nyoman-99f5d5",
-    "tags": [
-      "mesterseges-intelligencia",
-      "nni",
-      "fbi",
-      "emberolesi-gyanu"
-    ],
-    "fingerprint": "a3412d235e4b309a2c02fa10a3ab9dfc",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Elfogták a Budapesten élő külföldi nőt, aki mesterséges intelligenciával chatelt arról, hogy ölni fog",
-        "link": "https://444.hu/2026/11/13/elfogtak-a-budapesten-elo-kulfoldi-not-aki-mesterseges-intelligenciaval-chatelt-arrol-hogy-olni-fog?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Femina",
-        "title": "Emberölésre készült egy külföldi nő Budapesten, a mesterséges intelligencia buktatta le",
-        "link": "https://femina.hu/terasz/emberoles-elokeszulete-csetbot-budapest/"
-      }
-    ],
-    "published_at": 1794563100,
-    "title_hu": "Budapesten fogtak el egy nőt egy MI-chatbeszélgetés nyomán",
-    "lead_hu": "Az FBI november 8-án értesítette a magyar hatóságokat egy MI-chatbotnak írt, feltételezett erőszakos tervről. A 22 éves, Magyarországon tanuló nőt november 12-én fogták el budapesti lakásában; az ügyészség később a szabadlábra helyezése mellett döntött.",
-    "content_hu": "• **A nyomozás kezdete:** Az FBI a chatbotot működtető vállalat jelzése után fordult a Nemzeti Nyomozó Irodához november 8-án. A magyar nyomozók amerikai ügynökökkel együtt azonosították a beszélgetés felhasználóját.\n\n• **A feltételezett terv:** A chatüzenetek szerint a nő késsel akart bejutni egy ismerőse otthonába, és az illető családtagjait is megtámadhatta volna.\n\n• **Az elfogás és a vallomás:** A 22 éves külföldi nőt november 12-én budapesti albérletében vették őrizetbe. A kihallgatásán azt mondta, hogy a beszélgetéskor ittas volt, nem emlékszik az üzenetekre, és nem akar senkit megölni.\n\n• **Az eljárás folytatása:** A rendőrség emberölés előkészületének gyanújával hallgatta ki, és kezdeményezte a letartóztatását. Az ügyészség végül a szabadlábra helyezéséről határozott.",
-    "importance_score": 35.0,
     "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
@@ -3776,7 +3791,7 @@
     "title_hu": "Magyarországon november 18-án, szerda hajnalban pörög majd maximumon az év leggyorsabb hullócsillagait produkáló meteorraja",
     "lead_hu": "November közepén éri el aktivitása maximumát az év leggyorsabb hullócsillagait produkáló Leonidák meteorraj, a legintenzívebb csillaghullás pedig jövő szerda hajnalban várható.",
     "content_hu": "November közepén éri el aktivitása maximumát az év leggyorsabb hullócsillagait produkáló Leonidák meteorraj, a legintenzívebb csillaghullás pedig jövő szerda hajnalban várható.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 85,
     "is_top_hero": false,
     "is_top_list": true
@@ -3812,7 +3827,7 @@
     "title_hu": "Olaszország legyőzte Franciaországot, Kane rekordot döntött",
     "lead_hu": "A Nemzetek Ligája mérkőzésein Olaszország felülmúlta Franciaországot, Harry Kane pedig góllal ünnepelte angliai rekordját a Wembleyben. Spanyolország 2–0-ra nyert Csehországban, így továbbra is százszázalékos a sorozatban.",
     "content_hu": "• **Olasz siker Franciaország ellen** Az olasz válogatott legyőzte a franciákat a Nemzetek Ligájában.\n\n• **Kane rekordja** Harry Kane gólt szerzett a Wembleyben, és ezzel angliai rekordot ünnepelt.\n\n• **Spanyolország hibátlan maradt** A spanyolok 2–0-ra verték Csehországot. Álex Baena büntetőből talált be, Marc Pubill pedig a 96. percben állította be a végeredményt.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 86,
     "is_top_hero": false,
     "is_top_list": true
@@ -4378,6 +4393,58 @@
     "top_rank": 102
   },
   {
+    "group_id": "group_16e89ff3db",
+    "slug": "talcan-kinalta-ugyfeleit-a-yettel-az-sms-blaster-tamadonak-16e89f",
+    "tags": [
+      "kultura"
+    ],
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HWSW",
+        "title": "Tálcán kínálta ügyfeleit a Yettel az SMS Blaster támadónak",
+        "link": "https://www.hwsw.hu/hirek/71200/sms-blaster-tamadas-fake-enb-downgrade-4g-3g-2g-unsecured-redirection.html"
+      }
+    ],
+    "published_at": 1794565742,
+    "title_hu": "Tálcán kínálta ügyfeleit a Yettel az SMS Blaster támadónak",
+    "lead_hu": "A támadás egy legalább nyolc éve létező konfigurációs beállítással kivédhető lett volna....",
+    "content_hu": "A támadás egy legalább nyolc éve létező konfigurációs beállítással kivédhető lett volna.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_23421e79e9",
+    "slug": "harom-korhaz-elere-is-uj-foigazgatot-neveztek-ki-hetfotol-lepnek-hivatalba-23421e",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7239/72395/723951/72395107_5334969_d556376c7e96e9e735cb4d61791e9f8c_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Három kórház élére is új főigazgatót neveztek ki, hétfőtől lépnek hivatalba",
+        "link": "https://index.hu/belfold/2026/11/13/orszagos-korhazi-foigazgatosag-hegedus-zsolt-kinevezes/"
+      }
+    ],
+    "published_at": 1794565500,
+    "title_hu": "Három kórház élére is új főigazgatót neveztek ki, hétfőtől lépnek hivatalba",
+    "lead_hu": "Hétfőtől lépnek hivatalba....",
+    "content_hu": "Hétfőtől lépnek hivatalba.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_463fa7ae54",
     "slug": "nagyapa-lesz-dardai-pal-463fa7",
     "tags": [
@@ -4398,6 +4465,32 @@
     "title_hu": "Nagyapa lesz Dárdai Pál",
     "lead_hu": "Nagy most az öröm a famíliában....",
     "content_hu": "Nagy most az öröm a famíliában.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_cd09bc018e",
+    "slug": "hazug-gyava-eroszakos-sszevissza-beszel-fenyeget-alkalmatlan-czunyine-reagalt-a--cd09bc",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/czunyine-e1794564994950-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hazug, gyáva, erőszakos, összevissza beszél, fenyeget, alkalmatlan – Czunyiné reagált a miniszterelnöki interjúra",
+        "link": "https://24.hu/belfold/2026/11/13/czunyine-bertalan-judit-vedvonal-fidesz-reagalas/"
+      }
+    ],
+    "published_at": 1794565089,
+    "title_hu": "Hazug, gyáva, erőszakos, összevissza beszél, fenyeget, alkalmatlan – Czunyiné reagált a miniszterelnöki interjúra",
+    "lead_hu": "A Fidesz-Védvonal vezetője szerint a miniszterelnöknek hallgatnia kellene és mélységesen szégyellnie magát. The post Hazug, gyáva, erőszakos, összevissza beszél, fenyeget, alkalmatlan – Czunyiné reagá...",
+    "content_hu": "A Fidesz-Védvonal vezetője szerint a miniszterelnöknek hallgatnia kellene és mélységesen szégyellnie magát. The post Hazug, gyáva, erőszakos, összevissza beszél, fenyeget, alkalmatlan – Czunyiné reagált a miniszterelnöki interjúra first appeared on 24.hu.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -17970,84 +18063,6 @@
     "title_hu": "A túrázók sincsenek biztonságban: ez a kór veszély lehet rájuk is az erdőben",
     "lead_hu": "A Börzsönyben terjed az Európa szerte ismert inváziós gombabetegség, a túrázókra is veszélyes lehet.",
     "content_hu": "A Börzsönyben terjed az Európa szerte ismert inváziós gombabetegség, a túrázókra is veszélyes lehet.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_6fa79fd317",
-    "slug": "ideiglenes-fenekkuszbkkel-tartjak-meg-az-esot-a-kz-6fa79f",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261112/1794478761-temp-9vs3knuj16ls1kjmdca_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Ideiglenes fenékküszöbökkel tartják meg az esőt a Közép-Duna-völgyi Vízügyi Igazgatóság területén",
-        "link": "https://telex.hu/belfold/2026/11/12/vizmegtartas-eso-fenekkuszob-vizugyi-igazgatosag"
-      }
-    ],
-    "published_at": 1794479352,
-    "title_hu": "Ideiglenes fenékküszöbökkel tartják meg az esőt a Közép-Duna-völgyi Vízügyi Igazgatóság területén",
-    "lead_hu": "Végre esik!",
-    "content_hu": "Végre esik!",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_a408021cc9",
-    "slug": "rendkivuli-bejelentest-tett-az-opus-felulvizsgalja-a40802",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2025/12/EWCHOXubDf6_lXgqB1XgGk0bircuZ83grkXP8dMOcDE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJhNjVjMmIxOTZmOTRiZWE4NzBhMWVmMmIxODMwYTYz.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Rendkívüli bejelentést tett az Opus: felülvizsgálja stratégáját Mészáros Lőrinc zászlóshajója – ezzel indokolják az úkratervezést",
-        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/opus-uzleti-strategia-felulvizsgalat-tozsde?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794479126,
-    "title_hu": "Rendkívüli bejelentést tett az Opus: felülvizsgálja stratégáját Mészáros Lőrinc zászlóshajója – ezzel indokolják az úkratervezést",
-    "lead_hu": "Felülvizsgálja a 2024-2029 közötti időszakra szóló hosszú távú üzleti stratégiáját a holding.",
-    "content_hu": "Felülvizsgálja a 2024-2029 közötti időszakra szóló hosszú távú üzleti stratégiáját a holding.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_acc8d77597",
-    "slug": "ujabb-melyutes-lannert-juditnak-epphogy-kineveztek-acc8d7",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/10/DEdiMB4re_J-3ehV-0dVPFgCR_AFhs0vl-uiG1ryEng/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzI4ZjRlMDkwNjk2ZDQ4YTA4Y2ViN2ZhYTI0ZGQ3MzY1.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Újabb mélyütés Lannert Juditnak: épphogy kinevezték, máris lemond egy újabb tankerületi vezető",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/lannert-judit-tankeruleti-vezetok-talalkozas-kivalasztas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794479057,
-    "title_hu": "Újabb mélyütés Lannert Juditnak: épphogy kinevezték, máris lemond egy újabb tankerületi vezető",
-    "lead_hu": "A miniszter nem árulja el, pontosan kik és milyen szempontok alapján választották ki az új szakembereket.",
-    "content_hu": "A miniszter nem árulja el, pontosan kik és milyen szempontok alapján választották ki az új szakembereket.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
