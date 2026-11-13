@@ -96,88 +96,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_b893209b7b",
-    "slug": "milliok-jeleztek-hibat-a-microsoft-globalis-leallasakor-b89320",
-    "tags": [
-      "microsoft",
-      "outlook",
-      "teams",
-      "informatika",
-      "szolgaltataskieses"
-    ],
-    "fingerprint": "8e30594bd77aa4e5091af14ab4083476",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/microsoft-3-e1794547816503-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 11,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Microsoft-leállás: tömegeknél nem működik az Outlook és a Teams",
-        "link": "https://24.hu/fn/gazdasag/2026/11/13/microsoft-outlook-teams-leallas-nem-mukodik/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Órákra leálltak a Microsoft szolgáltatásai, világszerte akadozott az Outlook és a Teams",
-        "link": "https://444.hu/2026/11/13/orakra-lealltak-a-microsoft-szolgaltatasai-vilagszerte-akadozott-az-outlook-es-a-teams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
-        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Világszerte leállt a Microsoft, már kórházakat és segélyhívókat is érint a probléma",
-        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-szerverek-teams-word-excel-outlook/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
-        "link": "https://www.vadhajtasok.hu/2026/11/13/globalis-leallas-a-microsoftnal-74-orszagban-akadozik-az-outlook-es-a-teams-is"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
-        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-fennakadas-teams-outlook-copilot/"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának leállása",
-        "link": "https://nlc.hu/csalad/20261113/microsoft-leallas/5j3e5kr"
-      },
-      {
-        "source": "Femina",
-        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
-        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Mitől omlottak össze a Microsoft szolgáltatásai?",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-365-leallas-outlook"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Százmillió dolláros kár és kaotikus állapotok: bénító szoftverhiba rázta meg a világgazdaságot",
-        "link": "https://www.portfolio.hu/gazdasag/20261113/szazmillio-dollaros-kar-es-kaotikus-allapotok-benito-szoftverhiba-razta-meg-a-vilaggazdasagot-876408"
-      }
-    ],
-    "published_at": 1794598980,
-    "title_hu": "Milliók jeleztek hibát a Microsoft globális leállásakor",
-    "lead_hu": "A csütörtökön kezdődött Microsoft-kiesés legalább 74 országban okozott fennakadásokat, és a Downdetector több mint 7,4 millió hibajelzést rögzített. Pénteken már látszott némi javulás, de a szolgáltatások kapacitása még nem állt vissza a megszokott szintre, a hiba pontos okát pedig tovább vizsgálták.",
-    "content_hu": "• **Több szolgáltatás is elérhetetlenné vált** Az Outlook, a Teams és a Copilot mellett a Word, az Excel, a PowerPoint, a SharePoint és a OneDrive használatában is fennakadások voltak. A Downdetector 74 országból gyűjtött hibajelzéseket; összesen több mint 7,4 millió bejelentést rögzített, a csúcson pedig percenként közel húszezer panasz érkezett.\n\n• **Elsősorban a felhőalapú levelezéshez kötődő funkciók érintettek** A Microsoft szerint az Exchange Online-ra és az e-mail-szolgáltatásra támaszkodó Microsoft 365-funkciók akadoztak, míg a helyben, saját szervereken futtatott rendszerek jellemzően működtek. Egy nagy magyar vállalatnál egyes, a Microsofttól független rendszerekbe sem tudtak belépni a dolgozók, mert a hozzáférési kód e-mailben érkezett.\n\n• **Egészségügyi és hatósági munkát is hátráltatott a leállás** Nagy-Britanniában a segélyhívó központok nehezebben továbbították a betegek adatait, egyes kórházak pedig papíralapú adminisztrációra tértek át. A beszámolók szerint az életveszélyes esetek kezelése látszólag nem akadt el; rendőrségi, iskolai és repülőtéri rendszereket is érintett a hiba. Egy amerikai fogdában az óvadék befizetése is nehézkessé vált.\n\n• **Vállalatok és pénzügyi szereplők működésében is zavar keletkezett** Tajvanon egy pénzügyi cég faxon igazolta vissza a tranzakciókat, egy másik pedig elhalasztott egy kötvény-visszavásárlást. A svájci Richemont és az amerikai Workhorse Group későbbre tette gyorsjelentése közzétételét; fennakadásokról számoltak be többek között a Maersk és egyes légitársaságok rendszereiben is.\n\n• **A szerverhibák és a túlterhelődés lehetőségét vizsgálták** A Microsoft szerverek váratlan kieséséről és az ebből eredő túlterhelésről számolt be, a pontos technikai okot azonban nem tisztázta. A vállalat kizárta a kibertámadást, és azt is közölte, hogy nem a mesterséges intelligencia hibája okozta a problémát. Tony Burke ausztrál miniszter egy lehetséges szoftverfrissítéssel hozta párhuzamba az esetet, de ezt nem közölték végleges magyarázatként.\n\n• **A helyreállás pénteken is csak részleges volt** A Microsoft szervereket indított újra és szoftveres javításokat vezetett be, de figyelmeztetett, hogy a forgalom újbóli felfutása újabb kiesést okozhat. A vállalat több területen javulást észlelt, miközben a szolgáltatások állapota ingadozott, a kapacitás pedig még nem érte el a normál szintet.",
-    "importance_score": 125.0,
-    "top_rank": 2,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_0db451552b",
     "slug": "ujabb-biralatok-es-politikai-uzenetek-az-isztambuli-egyezmeny-ugyeben-0db451",
     "tags": [
@@ -259,6 +177,88 @@
     "lead_hu": "Magyar Péter az Isztambuli Egyezmény ratifikációjának kezdeményezését, a szívhangrendelet módosítását és az esemény utáni tabletta vénykötelezettségének megszüntetését jelentette be. A tervek és Varga Judit meghallgatása újabb politikai reakciókat váltott ki: Budaházy Edda is bírálta az egyezményt, a Fidesz–Védvonal pedig Magyar korábbi magatartásával kapcsolatban fogalmazott meg vádakat.",
     "content_hu": "• **A nők védelmét célzó tervek** Magyar Péter a ratifikáció kezdeményezése mellett a szívhangrendelet módosítását és az esemény utáni tabletta vénykötelességének eltörlését helyezte kilátásba. A bejelentés a kapcsolati erőszak elleni fellépést, a menstruációs szegénység csökkentését és a várandós nők támogatását is érinti; korábban a távoltartás, az áldozatok eljárási védelme és az intim felvételekkel való visszaélés szabályainak változtatása is felmerült.\n\n• **A KDNP ellenzi a ratifikációt** A párt pénteki közleménye szerint a magyar jogrendszer már bünteti többek között a kapcsolati, zaklatási és szexuális erőszakot, és távoltartási lehetőségek, eljárási garanciák, valamint áldozatsegítő hálózat is működik. A KDNP a 3. cikk genderfogalmát, illetve a 12. és 14. cikket kifogásolta; álláspontja szerint az utóbbiak oktatási következményekkel járhatnak. Ezek a párt érvei, nem az egyezmény hatásáról igazolt tények.\n\n• **Vita a gyermekekre gyakorolt hatásról** A KDNP Anglia és Svédország példájával, valamint a nemi diszfóriával diagnosztizált vagy szakellátásba irányított kiskorúak számának emelkedésére hivatkozott. Korábbi beszámolókban 5000, illetve 1500 százalékos növekedési adat is szerepelt a szervezetek állításaként; ezek önmagukban nem bizonyítják, hogy az egyezmény okozta volna a változást. Budaházy Edda egy Facebook-bejegyzésben szintén az egyezmény ellen érvelt, és azt állította, hogy az a genderideológia terjesztését segítené.\n\n• **Takács Péter is reagált** Az Orbán-kormány volt egészségügyi államtitkára Magyar bejelentésére válaszolt; az ATV tudósításának címe szerint 14 éves lányokat említett az esemény utáni tabletta kapcsán. A közölt részlet nem tartalmaz további részleteket az általa felhozott példáról.\n\n• **Üzenetváltás Varga Judit meghallgatása után** Magyar Péter rádióinterjújában performanszként jellemezte a volt igazságügyi miniszter bizottsági meghallgatását, és azt mondta: ha az hozzájárul a nők bántalmazása elleni fellépés gyorsításához, akkor volt értelme. Szentkirályi Alexandra korábban figyelemelterelésnek nevezte Magyar bejelentését. A Fidesz–Védvonal nevében Czunyiné Bertalan Judit hiteltelennek minősítette Magyar megszólalását, és többek között lehallgatással, zsarolással és fenyegetéssel vádolta. Ezek politikai szereplők állításai, nem bizonyított tények.\n\n• **Feljelentés Magyar Péter ellen** Ékes Ilona, a Fidesz női tagozatának alapítója és korábbi országgyűlési képviselője zsarolás és kapcsolati erőszak gyanúja miatt tett feljelentést. A beadvány részben Varga Judit állításaira támaszkodik, és többek között egy 2023-as, állítólag a volt feleség tudta nélkül készített hangfelvételt, valamint a válással, vagyonnal és gyermekelhelyezéssel kapcsolatos nyomásgyakorlást említ. A feljelentésben szereplő állítások nem bizonyítottak.\n\n• **Előkerült egy 2020-as Facebook-bejegyzés** Varga Judit egy 2020. január 30-án, igazságügyi miniszterként közzétett, az egyezmény ratifikációját ellenző posztot idézett fel. Deák Dániel egy képernyőképre hivatkozva azt állította, hogy a Facebook Magyar Pétert tüntette fel közzétevőként; ez önmagában nem igazolja, hogy ő írta a szöveget. Varga arra is utalt, hogy további korábbi bejegyzéseket is megoszthat.\n\n• **Továbbra is vita tárgya a gyermektartás** A Hír TV beszámolója szerint Magyar havi 600 ezer forintos tartásdíjról beszélt, és két átutalásról tett közzé képernyőképet. Varga a következő négy hónap bizonylatait kérte. A bemutatott dokumentumok nem fedik le ezt az időszakot, de önmagukban nem bizonyítják a fizetés elmaradását sem.\n\n• **Egyeztetések és tájékoztató kampány** Az Igazságügyi Minisztérium a Patent, a NANE és a Magyar Női Érdekérvényesítő Szövetség képviselőivel egyeztetett. Október 30-án demonstrációt tartottak a Kossuth téren, Rácz Zsuzsa kezdeményezésére pedig női magazinok és a Terézanyu november 25-éig tartó tájékoztató kampányt indítottak.",
     "importance_score": 123.0,
+    "top_rank": 2,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_b893209b7b",
+    "slug": "milliok-jeleztek-hibat-a-microsoft-globalis-leallasakor-b89320",
+    "tags": [
+      "microsoft",
+      "outlook",
+      "teams",
+      "informatika",
+      "szolgaltataskieses"
+    ],
+    "fingerprint": "8e30594bd77aa4e5091af14ab4083476",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/microsoft-3-e1794547816503-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 11,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Microsoft-leállás: tömegeknél nem működik az Outlook és a Teams",
+        "link": "https://24.hu/fn/gazdasag/2026/11/13/microsoft-outlook-teams-leallas-nem-mukodik/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Órákra leálltak a Microsoft szolgáltatásai, világszerte akadozott az Outlook és a Teams",
+        "link": "https://444.hu/2026/11/13/orakra-lealltak-a-microsoft-szolgaltatasai-vilagszerte-akadozott-az-outlook-es-a-teams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
+        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Világszerte leállt a Microsoft, már kórházakat és segélyhívókat is érint a probléma",
+        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-szerverek-teams-word-excel-outlook/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
+        "link": "https://www.vadhajtasok.hu/2026/11/13/globalis-leallas-a-microsoftnal-74-orszagban-akadozik-az-outlook-es-a-teams-is"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
+        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-fennakadas-teams-outlook-copilot/"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának leállása",
+        "link": "https://nlc.hu/csalad/20261113/microsoft-leallas/5j3e5kr"
+      },
+      {
+        "source": "Femina",
+        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
+        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Mitől omlottak össze a Microsoft szolgáltatásai?",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-365-leallas-outlook"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Százmillió dolláros kár és kaotikus állapotok: bénító szoftverhiba rázta meg a világgazdaságot",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/szazmillio-dollaros-kar-es-kaotikus-allapotok-benito-szoftverhiba-razta-meg-a-vilaggazdasagot-876408"
+      }
+    ],
+    "published_at": 1794598980,
+    "title_hu": "Milliók jeleztek hibát a Microsoft globális leállásakor",
+    "lead_hu": "A csütörtökön kezdődött Microsoft-kiesés legalább 74 országban okozott fennakadásokat, és a Downdetector több mint 7,4 millió hibajelzést rögzített. Pénteken már látszott némi javulás, de a szolgáltatások kapacitása még nem állt vissza a megszokott szintre, a hiba pontos okát pedig tovább vizsgálták.",
+    "content_hu": "• **Több szolgáltatás is elérhetetlenné vált** Az Outlook, a Teams és a Copilot mellett a Word, az Excel, a PowerPoint, a SharePoint és a OneDrive használatában is fennakadások voltak. A Downdetector 74 országból gyűjtött hibajelzéseket; összesen több mint 7,4 millió bejelentést rögzített, a csúcson pedig percenként közel húszezer panasz érkezett.\n\n• **Elsősorban a felhőalapú levelezéshez kötődő funkciók érintettek** A Microsoft szerint az Exchange Online-ra és az e-mail-szolgáltatásra támaszkodó Microsoft 365-funkciók akadoztak, míg a helyben, saját szervereken futtatott rendszerek jellemzően működtek. Egy nagy magyar vállalatnál egyes, a Microsofttól független rendszerekbe sem tudtak belépni a dolgozók, mert a hozzáférési kód e-mailben érkezett.\n\n• **Egészségügyi és hatósági munkát is hátráltatott a leállás** Nagy-Britanniában a segélyhívó központok nehezebben továbbították a betegek adatait, egyes kórházak pedig papíralapú adminisztrációra tértek át. A beszámolók szerint az életveszélyes esetek kezelése látszólag nem akadt el; rendőrségi, iskolai és repülőtéri rendszereket is érintett a hiba. Egy amerikai fogdában az óvadék befizetése is nehézkessé vált.\n\n• **Vállalatok és pénzügyi szereplők működésében is zavar keletkezett** Tajvanon egy pénzügyi cég faxon igazolta vissza a tranzakciókat, egy másik pedig elhalasztott egy kötvény-visszavásárlást. A svájci Richemont és az amerikai Workhorse Group későbbre tette gyorsjelentése közzétételét; fennakadásokról számoltak be többek között a Maersk és egyes légitársaságok rendszereiben is.\n\n• **A szerverhibák és a túlterhelődés lehetőségét vizsgálták** A Microsoft szerverek váratlan kieséséről és az ebből eredő túlterhelésről számolt be, a pontos technikai okot azonban nem tisztázta. A vállalat kizárta a kibertámadást, és azt is közölte, hogy nem a mesterséges intelligencia hibája okozta a problémát. Tony Burke ausztrál miniszter egy lehetséges szoftverfrissítéssel hozta párhuzamba az esetet, de ezt nem közölték végleges magyarázatként.\n\n• **A helyreállás pénteken is csak részleges volt** A Microsoft szervereket indított újra és szoftveres javításokat vezetett be, de figyelmeztetett, hogy a forgalom újbóli felfutása újabb kiesést okozhat. A vállalat több területen javulást észlelt, miközben a szolgáltatások állapota ingadozott, a kapacitás pedig még nem érte el a normál szintet.",
+    "importance_score": 118.0,
     "top_rank": 3,
     "is_top_hero": false,
     "is_top_list": true
@@ -783,57 +783,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_ee4ff373b7",
-    "slug": "matolcsy-adam-utlevelet-2025-ben-ervenytelenitettek-azota-krzik-ee4ff3",
-    "tags": [
-      "matolcsy-adam",
-      "matolcsy-gyorgy",
-      "diplomata-utlevel",
-      "kulugyminiszterium"
-    ],
-    "fingerprint": "dfd8e38f9e12f876bd479daa9c97d5e8",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Matolcsy György munkaköri feladatokra hivatkozva kért diplomata-útlevelet Matolcsy Ádámnak",
-        "link": "https://444.hu/2026/11/13/matolcsy-gyorgy-munkakori-feladatokra-hivatkozva-kert-diplomata-utlevelet-matolcsy-adamnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Matolcsy Ádám kétszer is kapott diplomata-útlevelet Szijjártóéktól",
-        "link": "https://telex.hu/belfold/2026/11/13/matolcsy-gyorgy-matolcsy-adam-diplomata-utlevel-kulugyminiszterium"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Matolcsy György személyesen intézett diplomata-útlevelet a fiainak Szijjártónál",
-        "link": "https://24.hu/belfold/2026/11/13/matolcsy-gyorgy-diplomata-utlevel-matolcsy-adam-szijjarto-peter/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Matolcsy György intézte el, hogy diplomata-útlevelet kaphasson Matolcsy Ádám",
-        "link": "https://hvg.hu/itthon/20261113_matolcsy-adam-gyorgy-diplomatautlevel-szijjarto-kulugyminiszterium"
-      },
-      {
-        "source": "ATV",
-        "title": "Döbbenetes dolog derült ki Matolcsy Ádámról, a Külügyminisztérium hozta nyilvánosságra",
-        "link": "https://www.atv.hu/belfold/20261113/matolcsy-adam-diplomata-utlevel/"
-      }
-    ],
-    "published_at": 1794587820,
-    "title_hu": "Matolcsy Ádám útlevelét 2025-ben érvénytelenítették, azóta körözik",
-    "lead_hu": "Matolcsy György 2019-ben mindkét fiának, 2023-ban pedig ismét Matolcsy Ádámnak kért diplomata-útlevelet. A második okmányt 2025 júliusában, a Magyar Nemzeti Bank kérésére érvénytelenítették; Ádám ellen októberben körözést, majd nemzetközi elfogatóparancsot adtak ki.",
-    "content_hu": "• **Két útlevélkérelem** Matolcsy György 2019. április 3-án Matolcsy Ádám és Matolcsy Máté számára is diplomata-útlevelet kért. Az indoklásban fiaik külföldi szakmai programjait és a nemzetközi fórumokon való részvételüket említette; a külügyi feljegyzés két nappal később készült el.\n\n• **Újabb kérelem Ádámnak** Matolcsy György 2023. április 19-én ismét fia útlevelét kérte. A beadvány munkaköri feladatokra, hivatalos külföldi kiküldetésekre, valamint egyes országok vízum- és útlevélkövetelményeire hivatkozott.\n\n• **Az útlevelek érvényessége** Matolcsy Ádám első diplomata-útlevele 2019. április 12. és 2022. november 30. között volt érvényes. A 2023. május 15-én kiállított második okmány érvényessége eredetileg 2026. december 31-ig tartott volna.\n\n• **Az okmány érvénytelenítése** A Magyar Nemzeti Bank kérésére 2025. július 3-án letiltották a második útlevelet. A külügyminisztériumnak aznap képet is küldtek az okmányról, amelynek alsó, kódot tartalmazó részét Matolcsy Ádám lyukasztotta ki.\n\n• **Korlátozás nélküli felhasználás** A külügyi engedély nem szabott meg utazási célt, időpontot vagy gyakoriságot. A minisztériumnak ezért nincs nyilvántartása arról, hogy Matolcsy Ádám hányszor és milyen úti célokra használta az útlevelet.\n\n• **Körözés gazdasági csalás gyanúja miatt** Matolcsy Ádám ellen október 21-én adtak ki körözést, majd néhány nappal később nemzetközi elfogatóparancsot is. A hatóságok gazdasági csalás gyanújával keresik.",
-    "importance_score": 58.0,
-    "top_rank": 12,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_7faf3ddaf6",
     "slug": "kbl-anita-szemelyes-bantalmazasi-tapasztalatarol-beszelt-7faf3d",
     "tags": [
@@ -880,7 +829,7 @@
     "lead_hu": "Köböl Anita kormányszóvivő csütörtöki Facebook-bejegyzésében arról számolt be, hogy őt is érte bántalmazás. A nők elleni és a családon belüli erőszak megelőzését célzó kormányzati tervekről szólva az áldozatok támogatását hangsúlyozta.",
     "content_hu": "• **Személyes tapasztalat** Köböl Anita a Facebook-bejegyzésében közölte, hogy saját életében is megtapasztalta a bántalmazást, a körülményeket azonban nem részletezte. A 24.hu beszámolója szerint néhány évvel korábban egy műsorban már beszélt arról, hogy egy nárcisztikus volt párja bántalmazta.\n\n• **Az áldozatok támogatása** Televíziós műsorvezetőként több olyan nő történetét hallotta, akik otthonukban sem érezték magukat biztonságban, és segítségkérésükre nem mindig kaptak megfelelő támogatást. Azt hangsúlyozta, hogy a bántalmazásért nem az áldozat felelős, és senkinek sem kellene egyedül maradnia, ha segítségre van szüksége.\n\n• **Az áldozathibáztatás következményei** Köböl Anita szerint a közöny, a félrenézés és az áldozatok hibáztatása súlyos, esetenként tragikus következményekhez vezethet.\n\n• **A tervezett intézkedések** Magyar Péter csütörtökön a nők elleni és a családon belüli erőszak megelőzésére, az áldozatok védelmére és az elkövetők felelősségre vonására irányuló terveket ismertetett. A csomagban szerepel az Isztambuli Egyezmény ratifikálása, a büntetőjogi szabályok szigorítása, a szívhangrendelet módosítása, az esemény utáni tabletta vénykötelességének eltörlése, valamint a menstruációs szegénység elleni fellépés.\n\n• **Politikai és szakmai reakciók** Szakmai szervezetek többsége kedvezően fogadta a bejelentést, mások bírálták a terveket. A KDNP ellenezte az egyezmény ratifikálását, és kifogásolta a „társadalmi nem” fogalmát; Magyar Péter visszautasította a genderkérdésekre vonatkozó bírálatokat.",
     "importance_score": 58.0,
-    "top_rank": 13,
+    "top_rank": 12,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -924,6 +873,57 @@
     "title_hu": "Costopulos Orestis november 16-tól legfőbbügyész-helyettes",
     "lead_hu": "Baka András köztársasági elnök november 16-i hatállyal Costopulos Orestist nevezte ki legfőbbügyész-helyettessé. A döntés pénteken a Magyar Közlönyben is megjelent.",
     "content_hu": "• **A kinevezés időpontja** Costopulos Orestis november 16-tól tölti be a legfőbbügyész-helyettesi tisztséget.\n\n• **A kinevezésről szóló döntés** Baka András köztársasági elnök választotta ki Costopulos Orestist a posztra.\n\n• **A hivatalos közzététel** A kinevezés pénteken megjelent a Magyar Közlönyben.\n\n• **Az államfő tájékoztatása** A Sándor-palota pénteken a Facebook-oldalán számolt be a döntésről.\n\n• **Baka András jókívánsága** Az államfő jó egészséget és sikert kívánt Costopulos Orestisnek az új feladatköréhez.\n\n• **A közzétett fénykép** A felvételen Costopulos Orestis Baka András és Fejes Péter mellett látható.",
+    "importance_score": 53.0,
+    "top_rank": 13,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_ee4ff373b7",
+    "slug": "matolcsy-adam-utlevelet-2025-ben-ervenytelenitettek-azota-krzik-ee4ff3",
+    "tags": [
+      "matolcsy-adam",
+      "matolcsy-gyorgy",
+      "diplomata-utlevel",
+      "kulugyminiszterium"
+    ],
+    "fingerprint": "dfd8e38f9e12f876bd479daa9c97d5e8",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Matolcsy György munkaköri feladatokra hivatkozva kért diplomata-útlevelet Matolcsy Ádámnak",
+        "link": "https://444.hu/2026/11/13/matolcsy-gyorgy-munkakori-feladatokra-hivatkozva-kert-diplomata-utlevelet-matolcsy-adamnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Matolcsy Ádám kétszer is kapott diplomata-útlevelet Szijjártóéktól",
+        "link": "https://telex.hu/belfold/2026/11/13/matolcsy-gyorgy-matolcsy-adam-diplomata-utlevel-kulugyminiszterium"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Matolcsy György személyesen intézett diplomata-útlevelet a fiainak Szijjártónál",
+        "link": "https://24.hu/belfold/2026/11/13/matolcsy-gyorgy-diplomata-utlevel-matolcsy-adam-szijjarto-peter/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Matolcsy György intézte el, hogy diplomata-útlevelet kaphasson Matolcsy Ádám",
+        "link": "https://hvg.hu/itthon/20261113_matolcsy-adam-gyorgy-diplomatautlevel-szijjarto-kulugyminiszterium"
+      },
+      {
+        "source": "ATV",
+        "title": "Döbbenetes dolog derült ki Matolcsy Ádámról, a Külügyminisztérium hozta nyilvánosságra",
+        "link": "https://www.atv.hu/belfold/20261113/matolcsy-adam-diplomata-utlevel/"
+      }
+    ],
+    "published_at": 1794587820,
+    "title_hu": "Matolcsy Ádám útlevelét 2025-ben érvénytelenítették, azóta körözik",
+    "lead_hu": "Matolcsy György 2019-ben mindkét fiának, 2023-ban pedig ismét Matolcsy Ádámnak kért diplomata-útlevelet. A második okmányt 2025 júliusában, a Magyar Nemzeti Bank kérésére érvénytelenítették; Ádám ellen októberben körözést, majd nemzetközi elfogatóparancsot adtak ki.",
+    "content_hu": "• **Két útlevélkérelem** Matolcsy György 2019. április 3-án Matolcsy Ádám és Matolcsy Máté számára is diplomata-útlevelet kért. Az indoklásban fiaik külföldi szakmai programjait és a nemzetközi fórumokon való részvételüket említette; a külügyi feljegyzés két nappal később készült el.\n\n• **Újabb kérelem Ádámnak** Matolcsy György 2023. április 19-én ismét fia útlevelét kérte. A beadvány munkaköri feladatokra, hivatalos külföldi kiküldetésekre, valamint egyes országok vízum- és útlevélkövetelményeire hivatkozott.\n\n• **Az útlevelek érvényessége** Matolcsy Ádám első diplomata-útlevele 2019. április 12. és 2022. november 30. között volt érvényes. A 2023. május 15-én kiállított második okmány érvényessége eredetileg 2026. december 31-ig tartott volna.\n\n• **Az okmány érvénytelenítése** A Magyar Nemzeti Bank kérésére 2025. július 3-án letiltották a második útlevelet. A külügyminisztériumnak aznap képet is küldtek az okmányról, amelynek alsó, kódot tartalmazó részét Matolcsy Ádám lyukasztotta ki.\n\n• **Korlátozás nélküli felhasználás** A külügyi engedély nem szabott meg utazási célt, időpontot vagy gyakoriságot. A minisztériumnak ezért nincs nyilvántartása arról, hogy Matolcsy Ádám hányszor és milyen úti célokra használta az útlevelet.\n\n• **Körözés gazdasági csalás gyanúja miatt** Matolcsy Ádám ellen október 21-én adtak ki körözést, majd néhány nappal később nemzetközi elfogatóparancsot is. A hatóságok gazdasági csalás gyanújával keresik.",
     "importance_score": 53.0,
     "top_rank": 14,
     "is_top_hero": false,
@@ -3493,7 +3493,7 @@
     "title_hu": "Fokozatosan áll helyre a Microsoft szolgáltatásainak működése",
     "lead_hu": "A Microsoft több szolgáltatása csütörtök este óta akadozott, a fennakadások pénteken is folytatódtak. A vállalat szerint a helyreállítás során már kedvező jeleket tapasztalnak, miközben a hiba okaként szerverproblémákat és túlterhelést vizsgálnak.",
     "content_hu": "• **Több szolgáltatást érintett a fennakadás** A Microsoft 365, az Outlook, a Teams, a SharePoint, a OneDrive és a Copilot felhasználói is kapcsolódási vagy működési hibákat tapasztaltak. A Downdetector adatai szerint egy időpontban 74 országból közel 130 ezren jeleztek problémát.\n\n• **Szerverhibák és túlterhelés állhat a háttérben** A Microsoft első vizsgálatai az infrastruktúra egy részének megnövekedett forgalmára és a szerverek állapotát ellenőrző egyik rendszer hibájára utalnak. A vállalat közlése szerint nincs tudomása kibertámadásról.\n\n• **Megkezdődött a rendszerek helyreállítása** A mérnökök szakaszos újraindításokkal és alternatív ellenőrzési eljárással igyekeznek helyreállítani a működést. Péntek reggelre a Teams nagyrészt ismét elérhetővé vált, miközben az Outlook és egyes Microsoft 365-szolgáltatások még akadoztak.\n\n• **A leállásnak piaci hatása is volt** A Microsoft részvényei 2,5 százalékkal estek a tőzsdenyitás előtti kereskedésben. A fennakadás egyes, Microsoft-termékekre támaszkodó külső rendszereket is érintett.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 81,
     "is_top_hero": false,
     "is_top_list": true
