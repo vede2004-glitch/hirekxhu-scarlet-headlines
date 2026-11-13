@@ -378,7 +378,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 9,
+    "sources_count": 10,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -424,13 +424,18 @@
         "source": "ATV",
         "title": "Baka András megvétózta a politikusok vagyongyarapodási vizsgálatáról szóló törvényt – komoly aggályokat sorolt fel",
         "link": "https://www.atv.hu/belfold/20261113/baka-andras-visszakuld-torveny-2/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Visszadobta a parlamentnek a politikusok vagyonosodásáról szóló törvényt Baka András államfő",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/visszadobta-a-parlamentnek-a-politikusok-vagyonosodasarol-szolo-torvenyt-baka-andras-allamfo-876276"
       }
     ],
     "published_at": 1794563674,
     "title_hu": "Baka András visszaküldte a politikusok vagyonvizsgálatáról szóló törvényt",
     "lead_hu": "Baka András köztársasági elnök megfontolásra visszaküldte az Országgyűlésnek a politikusok vagyongyarapodásának vizsgálatáról szóló, november 3-án elfogadott törvényt. Támogatja a jogszabály céljait, de garanciákat és adatvédelmi szabályokat tart szükségesnek.",
     "content_hu": "• **A törvény visszaküldése:** Baka András pénteken, az Alaptörvényben biztosított jogkörével élve küldte vissza a jogszabályt a parlamentnek.\n\n• **A vizsgálatok célja:** Az államfő indokoltnak tartja a politikai és állami felsővezetők, valamint hozzátartozóik vagyongyarapodásának fokozott figyelemmel követését, továbbá a kockázatok elemzését és a súlyos visszaélések nyilvánosságra hozatalát.\n\n• **Hiányolt garanciák:** Baka szerint meg kell akadályozni, hogy a tisztségüket elhagyó politikusok éveken át folyamatos kockázatelemzés alatt maradjanak, vagy a szabályozás eleve rosszhiszeműnek tekintse őket. A kisebb hibák javítására önellenőrzést és adategyeztetést is lehetővé tenne.\n\n• **Adatvédelmi aggályok:** Az államfő szerint az adóhatósági eljárásoknak és az adatszolgáltatásnak meg kell felelniük az uniós adatvédelmi követelményeknek. Kifogásolta az ingatlan-nyilvántartás adatainak rendszeres, széles körű átadását is, ha ahhoz nem társul megfelelő célmeghatározás és időkorlát.",
-    "importance_score": 105.0,
+    "importance_score": 115.0,
     "top_rank": 4,
     "is_top_hero": false,
     "is_top_list": true
@@ -568,6 +573,62 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_b893209b7b",
+    "slug": "ujabb-reszletek-derultek-ki-a-microsoft-szolgaltatasok-leallasarol-b89320",
+    "tags": [
+      "microsoft",
+      "outlook",
+      "teams",
+      "szolgaltataskieses"
+    ],
+    "fingerprint": "b90026e21c67c5798f80fd7d2f0a63e1",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/microsoft-3-e1794547816503-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Microsoft-leállás: tömegeknél nem működik az Outlook és a Teams",
+        "link": "https://24.hu/fn/gazdasag/2026/11/13/microsoft-outlook-teams-leallas-nem-mukodik/"
+      },
+      {
+        "source": "Femina",
+        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
+        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
+        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-fennakadas-teams-outlook-copilot/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Órákra leálltak a Microsoft szolgáltatásai, világszerte akadozott az Outlook és a Teams",
+        "link": "https://444.hu/2026/11/13/orakra-lealltak-a-microsoft-szolgaltatasai-vilagszerte-akadozott-az-outlook-es-a-teams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának leállása",
+        "link": "https://nlc.hu/csalad/20261113/microsoft-leallas/5j3e5kr"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
+        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba"
+      }
+    ],
+    "published_at": 1794562252,
+    "title_hu": "Újabb részletek derültek ki a Microsoft-szolgáltatások leállásáról",
+    "lead_hu": "A Microsoft több szolgáltatása világszerte akadozott, a kimaradás 74 ország felhasználóit érintette. A beszámolók szerint a fennakadások mögött szerverproblémák állhattak, a vállalat pedig fokozatos javulásról számolt be.",
+    "content_hu": "• **Több Microsoft-alkalmazásnál is jelentkeztek hibák** Az Outlook, a Teams és a Copilot mellett a Word, a PowerPoint, az Excel, a SharePoint és a OneDrive használatáról, illetve az ezekbe történő bejelentkezésről is érkeztek panaszok. Az Exchange Online-ra támaszkodó Microsoft 365-funkciók akadoztak, az ettől független szolgáltatások működtek.\n\n• **A hibajelzések csúcsa este fél nyolc után volt** A Downdetector adatai alapján magyar idő szerint ekkor körülbelül 130 ezer felhasználó jelzett problémát, összesen 74 országból. Az Egyesült Államokban több mint 25 ezer Outlook-panasz érkezett, Magyarországról pedig folyamatosan jelentették a fennakadásokat.\n\n• **A helyreállítás több mint tíz órán át húzódott** A Microsoft szervereket indított újra, de arra figyelmeztetett, hogy a forgalom visszatérése újabb leállást idézhet elő. A cég később fokozatos javulásról és a szolgáltatások stabilitásában, valamint kapacitásában tapasztalt kedvező változásokról számolt be.\n\n• **A szerverek beállítása is szerepet játszhatott a hibában** Egy, a BBC értesüléseire hivatkozó beszámoló szerint egyes szerverek túlterhelődhettek, miután más szerverek meghibásodtak; a problémát a Microsoft 365-öt működtető szerverek konfigurációjával hozták összefüggésbe. A vállalat diagnosztikai adatokat vizsgált, és közölte, hogy nem kibertámadás történt.\n\n• **Az e-mail-rendszerek leállása különösen sok zavart okozott** Tony Burke ausztrál miniszter szerint elsősorban ezek kiesése nehezítette a működést. Ausztráliában rendőrségi és hírszerzési rendszerek is érintettek voltak, Új-Zélandon pedig kormányzati és vállalati szolgáltatások váltak elérhetetlenné, és szüneteltették a vízumkérelmek elbírálását.",
+    "importance_score": 75.0,
+    "top_rank": 7,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_67b2e17e2a",
     "slug": "esozes-es-szel-okoz-fennakadasokat-a-kzutakon-es-a-vasuton-67b2e1",
     "tags": [
@@ -614,57 +675,6 @@
     "title_hu": "Esőzés és szél okoz fennakadásokat a közutakon és a vasúton",
     "lead_hu": "A csütörtök óta tartó eső és az erős szél több helyen áradást, kidőlt fákat és közlekedési akadályokat okozott. A vasúti forgalomban felsővezeték-szakadás, az 1-es főúton pedig útlezárás nehezíti a közlekedést.",
     "content_hu": "• **Felsővezeték-szakadás lassítja a győri vonal forgalmát.** Bicske és Herceghalom között sérült meg a felsővezeték, ezért Herceghalom és Szárliget között pótlóbuszok szállítják az utasokat. A fennakadás a nemzetközi és belföldi járatokat, köztük a Railjet-, EuroCity-, InterCity- és személyvonatokat is érinti; egyes vonatok csak rövidített útvonalon közlekednek.\n\n• **Biatorbágynál lezárták az 1-es főutat.** A vízátfolyások miatt az utat teljes szélességében elzárták a forgalom elől, a járműveket az M1-es autópályára terelik.\n\n• **A kidőlt fák több úton akadályozták a haladást.** Az 54-es főúton, Bugacpusztánál és az 1-es főúton, Szárligetnél is fa került az úttestre. Hajdúnánás és Görbeháza között egy autó egy útra dőlt fa miatt az árokba csúszott.\n\n• **Több helyszínen elárasztott járművekhez hívtak segítséget.** A budapesti Illatos úti aluljárót időlegesen lezárták, miután két autó elakadt a vízben. Győrben, a Bisinger József híd alatti Szent István úton is egy elakadt autót kellett kitolni.\n\n• **Épületekben és közterületeken is kárt okozott a víz.** Tökölön a Csépi úti hentesüzletbe folyt be az esővíz, Vilonyán pedig a Séd-patak áradása miatt egy családi ház pincéje került víz alá. Szombathelyen, a Csaba utcai felüljáró gyalogos részén, Balatonfüreden pedig a vasútállomásnál szivattyúztak.",
-    "importance_score": 65.0,
-    "top_rank": 7,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_b893209b7b",
-    "slug": "ujabb-reszletek-derultek-ki-a-microsoft-szolgaltatasok-leallasarol-b89320",
-    "tags": [
-      "microsoft",
-      "outlook",
-      "teams",
-      "szolgaltataskieses"
-    ],
-    "fingerprint": "b90026e21c67c5798f80fd7d2f0a63e1",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/microsoft-3-e1794547816503-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Microsoft-leállás: tömegeknél nem működik az Outlook és a Teams",
-        "link": "https://24.hu/fn/gazdasag/2026/11/13/microsoft-outlook-teams-leallas-nem-mukodik/"
-      },
-      {
-        "source": "Femina",
-        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
-        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
-        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-fennakadas-teams-outlook-copilot/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Órákra leálltak a Microsoft szolgáltatásai, világszerte akadozott az Outlook és a Teams",
-        "link": "https://444.hu/2026/11/13/orakra-lealltak-a-microsoft-szolgaltatasai-vilagszerte-akadozott-az-outlook-es-a-teams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának leállása",
-        "link": "https://nlc.hu/csalad/20261113/microsoft-leallas/5j3e5kr"
-      }
-    ],
-    "published_at": 1794562252,
-    "title_hu": "Újabb részletek derültek ki a Microsoft-szolgáltatások leállásáról",
-    "lead_hu": "A Microsoft több szolgáltatása világszerte akadozott, a kimaradás 74 ország felhasználóit érintette. A beszámolók szerint a fennakadások mögött szerverproblémák állhattak, a vállalat pedig fokozatos javulásról számolt be.",
-    "content_hu": "• **Több Microsoft-alkalmazásnál is jelentkeztek hibák** Az Outlook, a Teams és a Copilot mellett a Word, a PowerPoint, az Excel, a SharePoint és a OneDrive használatáról, illetve az ezekbe történő bejelentkezésről is érkeztek panaszok. Az Exchange Online-ra támaszkodó Microsoft 365-funkciók akadoztak, az ettől független szolgáltatások működtek.\n\n• **A hibajelzések csúcsa este fél nyolc után volt** A Downdetector adatai alapján magyar idő szerint ekkor körülbelül 130 ezer felhasználó jelzett problémát, összesen 74 országból. Az Egyesült Államokban több mint 25 ezer Outlook-panasz érkezett, Magyarországról pedig folyamatosan jelentették a fennakadásokat.\n\n• **A helyreállítás több mint tíz órán át húzódott** A Microsoft szervereket indított újra, de arra figyelmeztetett, hogy a forgalom visszatérése újabb leállást idézhet elő. A cég később fokozatos javulásról és a szolgáltatások stabilitásában, valamint kapacitásában tapasztalt kedvező változásokról számolt be.\n\n• **A szerverek beállítása is szerepet játszhatott a hibában** Egy, a BBC értesüléseire hivatkozó beszámoló szerint egyes szerverek túlterhelődhettek, miután más szerverek meghibásodtak; a problémát a Microsoft 365-öt működtető szerverek konfigurációjával hozták összefüggésbe. A vállalat diagnosztikai adatokat vizsgált, és közölte, hogy nem kibertámadás történt.\n\n• **Az e-mail-rendszerek leállása különösen sok zavart okozott** Tony Burke ausztrál miniszter szerint elsősorban ezek kiesése nehezítette a működést. Ausztráliában rendőrségi és hírszerzési rendszerek is érintettek voltak, Új-Zélandon pedig kormányzati és vállalati szolgáltatások váltak elérhetetlenné, és szüneteltették a vízumkérelmek elbírálását.",
     "importance_score": 65.0,
     "top_rank": 8,
     "is_top_hero": false,
@@ -835,6 +845,57 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_03c6135065",
+    "slug": "uj-reszletek-az-nvidia-ugyben-vizsgalatok-es-kongresszusi-meghallgatasok-03c613",
+    "tags": [
+      "nvidia",
+      "jensen-huang",
+      "kinai-export",
+      "mesterseges-intelligencia"
+    ],
+    "fingerprint": "aee5a07698f5e5482e7e58681c2e6088",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7253/72532/725321/72532149_5344607_d5433d89473744ef394535a1a77b2619_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Lemondott az Nvidia vezérigazgatója a kínai kémbotrány után",
+        "link": "https://index.hu/kulfold/2026/11/12/jensen-huang-nvidia-lemondas-vezerigazgato-botrany-kina-kemkedes/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Lemondott az Nvidia szexbotrányba keveredett elnök-vezérigazgatója",
+        "link": "https://24.hu/tech/2026/11/12/jensen-huang-nvidia-lemondas-szexbotrany/"
+      },
+      {
+        "source": "Rakéta.hu",
+        "title": "Belebukott a kínai kémnős és a vállalaton belüli kapcsolat botrányába az Nvidia vezére",
+        "link": "https://raketa.hu/lemondott-jensen-huand-nvidia/"
+      },
+      {
+        "source": "444.hu",
+        "title": "Szenátusi és képviselőházi bizottságok is meghallgatnák a kémnő-botrányba belebukott Jensen Huangot, az Nvidia (már csak volt) vezérét",
+        "link": "https://444.hu/2026/11/13/szenatusi-es-kepviselohazi-bizottsagok-is-meghallgatnak-a-kemno-botranyba-belebukott-jensen-huangot-az-nvidia-mar-csak-volt-vezeret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Itt a vége: belebukott a kínai kémbotrányba a világ egyik legértékesebb cégének vezetője, nő az utódja",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/kinai-kembotrany-techszektor-nvidia-huang-kress?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794547245,
+    "title_hu": "Új részletek az Nvidia-ügyben: vizsgálatok és kongresszusi meghallgatások",
+    "lead_hu": "Jensen Huang november 12-i távozását követően Colette Kress vette át ideiglenesen az Nvidia vezetését, miközben az amerikai törvényhozók decemberre meghallgatásokat kezdeményeztek a volt vezérigazgatóval és Howard Lutnick kereskedelmi miniszterrel. Új sajtóbeszámolók szerint a kémkedéssel gyanúsított Alice Huangnak az amerikai MI-chipekről kellett információkat szereznie; az Nvidia részvényei a lemondás hírére több mint tíz százalékot estek.",
+    "content_hu": "• **Huang november 12-én távozott** Az Nvidia elnök-vezérigazgatói tisztsége mellett az igazgatótanácsi tagságát is megszüntette. Colette Kress pénzügyi igazgató ideiglenesen vezeti a vállalatot, amíg a testület belső és külső jelöltek közül keres utódot; Harvey C. Jones lett az igazgatótanács elnöke.\n\n• **Két állítólagos magánéleti kapcsolat került a beszámolók középpontjába** Sajtóértesülések Alice Huangot, a Megaspeed korábbi vezetőjét, valamint Kimberly Powellt, az Nvidia egészségügyi üzletágának alelnökét nevezték meg. A Rakéta beszámolója szerint Huang a botrány után bocsánatot kért munkatársaitól, és vállalta a felelősséget; a cég belső vizsgálatáról is hírt adtak.\n\n• **Alice Huang feltételezett feladatáról is megjelentek részletek** A The New York Timesnak tulajdonított értesülés szerint a kínai Állambiztonsági Minisztérium azt várhatta tőle, hogy az amerikai MI-chipekről gyűjtsön adatokat, és próbálja elősegíteni, hogy a fejlettebb termékek Kínába is eljuthassanak. Kína tagadta a vádakat, Todd Blanche amerikai igazságügyi miniszter pedig azt közölte, hogy még nincs végleges következtetés Alice Huang esetleges kémtevékenységéről.\n\n• **A törvényhozók decemberre meghallgatásokat kezdeményeztek** A képviselőház hírszerzési, külügyi és Kínával foglalkozó bizottságai december 1-jére zárt meghallgatásra kérték Huangot. Tim Scott szenátor december 3-ára várja a bankügyi bizottság elé, és jelezte, hogy a testület idézést is kibocsáthat.\n\n• **Lutnicktől az exportkorlátozásokról kérhetnek magyarázatot** A kereskedelmi minisztert szintén a szenátus bankügyi bizottsága elé hívták. A képviselők az Nvidia fejlett MI-chipjeinek Kínába irányuló exportjáról kérdezhetik; sajtóértesülések szerint Lutnick korábban fékezhette a korlátozások szigorítását.\n\n• **A Megaspeed független GPU-ellenőrzést rendelt el** James Tan Jongpong vezérigazgató közlése alapján a cég együttműködik az amerikai hatóságokkal, és amerikai ügyvédi irodát bízott meg a grafikus processzorok leltározásával, illetve az exportkorlátozások betartásának felülvizsgálatával. A szingapúri rendőrség tavaly októberben indított vizsgálata továbbra is folyamatban van.\n\n• **Az Nvidia részvényei több mint tíz százalékot veszítettek értékükből** Az FBI is vizsgálja az ügyet, a részvényesek pedig pert indítottak Huang és a vállalat ellen. A 24.hu az Apple mögött a világ második legértékesebb cégeként jellemezte az Nvidiát.",
+    "importance_score": 58.0,
+    "top_rank": 12,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_8b44905742",
     "slug": "vak-ferfit-bantalmaztak-es-probaltak-kirabolni-a-westendben-8b4490",
     "tags": [
@@ -876,7 +937,7 @@
     "lead_hu": "Két nő nyáron a metró helyett a Westend tetejére vezette Klabacsek Dánielt, majd megpróbálta elvenni az övtáskáját. A Baráthegyi Vakvezető Kutya Iskola videóban ismertette az esetet; a rendőrség októberben felfüggesztette a nyomozást, mert nem találta meg az elkövetőket.",
     "content_hu": "• **A két nő segítséget ajánlott:** Klabacsek Dániel a lift közelében találkozott velük a Westendben. Mivel vak és autista, elfogadta a felajánlást, hogy elkísérik a metróhoz, ám a nők az épület tetejére vezették. Vidra nevű vakvezető kutyája is vele volt.\n\n• **Az egyik nő elvette az övtáskáját:** Dániel a kutyája megitatásához kért segítséget. Miközben az egyik nő ezzel foglalkozott, a másik a férfit egy padra nyomta, és lecsatolta a táskáját. Dániel ellenkezett, végül visszakapta a holmiját.\n\n• **A liftben folytatódott a bántalmazás:** A férfi azt kérte, kísérjék ki az épületből. A liftben az egyik nő akarata ellenére átölelte, újra megpróbálta elvenni a táskáját, majd a fejét a lift falához ütötte. Dániel kiabált, de a beszámoló szerint senki nem sietett a segítségére.\n\n• **A rendőrség felfüggesztette a nyomozást:** Dániel a történtek után nem tudott azonnal segítséget kérni, később kutyája kiképzőjének tanácsára feljelentést tett. A kifosztás gyanúja miatt indult eljárást októberben függesztették fel, mert nem sikerült azonosítani a nőket. A Baráthegyi Vakvezető Kutya Iskola videóban tette közzé az esetet; Komondi Piroska, a szervezet szakmai vezetője a fogyatékossággal élők kiszolgáltatottságára hívta fel a figyelmet.",
     "importance_score": 55.0,
-    "top_rank": 12,
+    "top_rank": 13,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -922,7 +983,7 @@
     "lead_hu": "Ókovács Szilveszter a november 14-i, 18 órakor kezdődő tbiliszi Nemzetek Ligája-mérkőzésre is kilátogatna. Mivel az UEFA büntetése miatt magyar szurkolók nem vehetnek jegyet a vendégszektorba, egy helyi kollégától kérne segítséget.",
     "content_hu": "• **A helyszínen szurkolna a magyar csapatnak** Ókovács Szilveszter már Tbilisziben tartózkodik egy operaverseny miatt, szombat este pedig nem lesz zsűrizési feladata, ezért tervezi, hogy megnézi a Georgia–Magyarország találkozót.\n\n• **Helyi közreműködéssel szerezne belépőt** A volt operaházi főigazgató egy georgiai kollégáját kérné meg, hogy vásároljon neki jegyet. Magyar győzelem esetén a válogatott tagjait is arra biztatná, hogy vele együtt énekeljék el a Himnuszt.\n\n• **Az UEFA döntése miatt nincs magyar vendégjegy** A szankciót az Ukrajna–Magyarország Nemzetek Ligája-mérkőzés vendégszektorában történtek miatt szabta ki az európai szövetség az MLSZ-re. A büntetés a november 14-i georgiai idegenbeli mérkőzésre is vonatkozik.\n\n• **Sallai Roland szerint a szurkolók hiánya nem lehet kifogás** A válogatott játékosa úgy fogalmazott, hogy a drukkerek támogatása fontos a csapatnak, ám távolmaradásuk nem mentheti fel a játékosokat a teljesítményük alól.\n\n• **Magyarország mérlege kedvező Georgia ellen** A két válogatott korábban három alkalommal találkozott egymással.",
     "importance_score": 55.0,
-    "top_rank": 13,
+    "top_rank": 14,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -975,7 +1036,7 @@
     "importance_score": 55.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 14
+    "top_rank": 15
   },
   {
     "group_id": "group_22dc904ee2",
@@ -1019,7 +1080,7 @@
     "lead_hu": "Orbán Viktor az Ultrahangnak adott interjújában politikai célzatúnak nevezte testvére, Orbán Áron letartóztatását, és ártatlannak tartja őt. A Fidesz elnöke a gazdaságpolitikáról, a hatósági eljárásokról, a párt választási eredményeiről és Magyarország külpolitikai helyzetéről is kifejtette álláspontját.",
     "content_hu": "• **Az interjú időpontja** Orbán Viktor délután 16 órakor beszélt az Ultrahang YouTube-csatornáján. A Hír TV közlése szerint a teljes interjút csütörtökön 20 órától sugározták volna.\n\n• **Orbán Áron letartóztatása** A volt miniszterelnök az interjú előtt két héttel telefonon beszélt testvérével, akit a Budai Központi Kerületi Bíróság egy hónapra letartóztatott. Orbán azt állította, hogy öccse nem követett el semmit, és biztos az ártatlanságában; a bíróság a döntés indokai között a bizonyítás befolyásolásának veszélyét is megjelölte.\n\n• **A hatósági ügyek politikai értelmezése** Orbán politikai célzatúnak tartja a testvére és korábbi kormányzati szereplők elleni eljárásokat. Hankó Balázst az őrizetbe vétele után több mint 40 nappal hallgatták meg, Ughy Attilát pedig az első és a 77. napon is. Orbán Lezsák Sándor lánya nyilvános kiállása és a lakiteleki vizsgálódás kezdete között két napot említett. Kifogásolta azt is, hogy szerinte egyeseket bírósági eljárás megindulása előtt bűnözőként kezelnek, illetve politikusok letartóztatásukat sürgetik.\n\n• **Állami támogatások megítélése** Orbán szerint az állami támogatás elnyerése önmagában nem alapoz meg gyanút; példaként falusi sportegyesületek és ravatalozók támogatását említette. Vitatta, hogy a kedvezményezettek szükségképpen hozzá vagy a Fideszhez kötődnének. Azt is állította, hogy korábbi kulturális tárcavezetők liberális szereplőket is támogattak, és Hankó Balázs idején sem valósult meg teljesen az a törekvés, hogy kizárólag a Fidesz kulturális politikájához illeszkedő értékek részesüljenek támogatásban.\n\n• **Adók és gazdasági teljesítmény** Orbán úgy vélte, hogy az adóemelések gyengítik a vállalatokat, ezen keresztül pedig a dolgozók és a családok helyzetét is rontják. A lassú növekedést a gazdaság egyik fő problémájának nevezte, és a cégektől a törvények betartását, az adók megfizetését és a munkahelyteremtést várná el. Felidézte azt az érvelését is, hogy egy közösség 10 százaléka ad munkát a fennmaradó 90 százaléknak, ezért szerinte együttműködésre van szükség. A külföldi nagyvállalatokat érintő különadók egy részét már megszüntetett intézkedésként említette.\n\n• **Külpolitikai bírálat** Orbán szerint a korábbi kormányok Magyarország nemzeti érdekét szolgáló semleges álláspontot képviseltek az orosz–ukrán háborúban. Azt állította, hogy a Tisza-kormány ellenségként tekint Oroszországra, ami közelebb viheti az országot a konfliktushoz; emellett szerinte Brüsszel olyan baloldali gazdasági intézkedéseket szorgalmaz, amelyeket az előző kormányok elutasítottak.\n\n• **A Fidesz és a választások** Orbán felidézte, hogy pártja 16 év alatt négy választást nyert; értelmezése szerint ezzel a választók azt jelezték, hogy elégedettek voltak a munkájukkal. A vereséget a demokratikus politika természetes részének nevezte. A Fideszt kormányképes, jelentős szellemi háttérrel rendelkező pártként jellemezte, és 40 év politikai tapasztalatára hivatkozott. Szerinte a jelenlegi kormány nem tartja tiszteletben a hatalmi korlátokat; a korábbi kormányzását jogszerűnek, a mostani gyakorlatot pedig önkényesnek minősítette.\n\n• **Család és politikai jövő** Orbán azt mondta, családja szereti és támogatja, otthon pedig nem őt teszik felelőssé a történtekért. Édesanyja helyzetéről úgy beszélt, hogy nehéz lehet jól megélni a körülményeket. Közlése szerint döntéseit a lelkiismerete és a magyar közösség iránti felelőssége vezeti, és a jövőben is Magyarországért kíván dolgozni.",
     "importance_score": 53.0,
-    "top_rank": 15,
+    "top_rank": 16,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1070,7 +1131,7 @@
     "lead_hu": "Orbán Viktor egy közösségi oldalán közzétett videóban a politikai támadásokról és a szerinte zajló leszámolásról beszélt. Egy másik felvételen Varga Judit korábbi lemondási szándékáról is beszámolt, miközben öccsét embercsempészés gyanújával vették őrizetbe, majd letartóztatták.",
     "content_hu": "• **A politikai támadásokra reagált** Orbán Viktor egy videóban arról beszélt, hogy már többször került hasonló helyzetbe. Azt állította, hogy a politikai nyomás elviselése a közéleti munkával jár, és nem érzi magát megrendültnek.\n\n• **A hatóságok fellépését politikai önkénynek nevezte** Orbán szerint a kormány el akarja hallgattatni az ellenfeleit. Azt mondta, a jelenlegi időszakot politikai leszámolás jellemzi, és állítása szerint nem követtek el olyan dolgot, amelyért felelősségre lehetne vonni őket.\n\n• **Öccse ügyét a támadásokkal kapcsolta össze** Orbán Áront embercsempészés gyanújával vették őrizetbe, majd letartóztatták. A volt miniszterelnök korábban úgy nyilatkozott, hogy szerinte ő a támadások valódi célpontja, testvére pedig eszköz ebben.\n\n• **Édesanyja nehezen viseli a családtagjait érő bántásokat** Orbán elmondása szerint édesanyja rosszul éli meg, ha a gyermekeit támadják.\n\n• **Varga Judit korábban többször fontolgatta a lemondást** Orbán egy másik videóban arról beszélt, hogy a volt igazságügyi miniszter a nehéz otthoni körülmények miatt többször távozott volna a tisztségéből, ő azonban maradásra biztatta. Azt mondta, elégedett volt Varga munkájával, aki súlyos dolgokról is beszélt neki; a volt miniszter meghallgatását ugyanakkor nem nézte meg.\n\n• **Trump példáját is felhozta, és a Tiszát is bírálta** Orbán Donald Trump korábbi politikai megpróbáltatásaira utalt, a Tiszát pedig azzal vádolta, hogy egypártrendszer kialakítására törekszik.",
     "importance_score": 50.0,
-    "top_rank": 16,
+    "top_rank": 17,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1116,7 +1177,7 @@
     "lead_hu": "Magyar Péter úgy véli, Cseh Gergő Bendegúz nem maradhat az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója a nyitottaktak.hu oldalon történt hiba után. A miniszterelnök szerint a vezetőváltás nem az ő hatásköre.",
     "content_hu": "• **Téves névfeltüntetés:** A múlt héten indult nyitottaktak.hu oldalon egy technikai hiba miatt néhány órán át Lezsák Sándor és további 160 ember neve is az ügynökök között jelent meg.\n\n• **Magyar Péter álláspontja:** A miniszterelnök a Kossuth Rádiónak azt mondta, személyes véleménye szerint Cseh Gergő Bendegúznak távoznia kell az ÁBTL éléről, ugyanakkor a döntés nem az ő hatáskörébe tartozik.\n\n• **A főigazgató reakciója:** Cseh Gergő Bendegúz felajánlotta lemondását; Magyar Péter elmondása szerint az érintettek elnézést kértek a hibáért.",
     "importance_score": 48.0,
-    "top_rank": 17,
+    "top_rank": 18,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1161,52 +1222,6 @@
     "title_hu": "Huang távozása után újabb nyomás alá került az Nvidia",
     "lead_hu": "Jensen Huang csütörtökön lemondott az Nvidia vezérigazgatói posztjáról, miután házasságon kívüli kapcsolatairól és egyik érintett feltételezett kínai hírszerzési kötődéséről jelentek meg beszámolók. A részvény árfolyama a tőzsdenyitáskor 11,5 százalékot esett, a cég piaci értéke pedig mintegy 480 milliárd dollárral csökkent.",
     "content_hu": "• **Két magánéleti kapcsolatról jelentek meg beszámolók** A New York Times öt Nvidia-alkalmazottra hivatkozva azt írta, hogy Huang kapcsolatban állt Kimberly Powell-lel, a vállalat egészségügyi üzletágának alelnökével. A másik kapcsolatként Alice Huang nevét említették; az amerikai hírszerzés szerint felmerült, hogy a nő a kínai titkosszolgálatokhoz kötődhet.\n\n• **A vállalat igazgatótanácsa vizsgálatot indított** A testület az Alice Huanggal kapcsolatos ügyet is vizsgálta, és azt a lehetőséget is mérlegelte, hogy bizalmas Nvidia-adatok juthattak illetéktelenekhez. Az igazgatóság Huang jövőjéről tárgyalt volna, de a vezérigazgató ezt megelőzően távozott.\n\n• **Colette Kress irányítja ideiglenesen a céget** Az Nvidia pénzügyi igazgatója látja el átmenetileg a vezetői feladatokat. Az igazgatótanács belső és külső jelöltek közül keres állandó utódot.\n\n• **Huang 1993-ban alapította meg a vállalatot** A 63 éves üzletember több mint 33 éven át vezette az Nvidiát. A videojátékokhoz fejlesztett grafikus processzorok gyártója időközben a mesterségesintelligencia-iparág egyik meghatározó szereplőjévé nőtt.\n\n• **A részvény 11,5 százalékos mínuszban nyitott** Az árfolyam a nyitás előtt 10,2 százalékot esett, majd az amerikai kereskedés kezdetén 11,5 százalékos csökkenést mutatott. A kereskedés előtti, 4,19 ezermilliárd dolláros piaci kapitalizációból mintegy 480 milliárd dollár tűnt el; a Nasdaq körülbelül 1 százalékos eséssel indult.\n\n• **Az Nvidia a korábbi csúcsa óta jelentősen veszített értékéből** A cég piaci kapitalizációja október elején rekordot ért el, 5700 milliárd dollár körül alakult. A Portfolio beszámolója szerint a csúcs óta közel 1800 milliárd dollárral lett alacsonyabb a vállalat értéke, miközben a részvény árfolyama mintegy 30 százalékot esett; az év eleje óta a visszaesés 16 százalék volt.\n\n• **Más technológiai részvények is elmozdultak** Az Nvidia versenytársai közül az AMD 3,1, a Broadcom 2,1 százalékot erősödött. A CoreWeave árfolyama 6,5, a Super Micro Computeré 5,3, az Alibaba amerikai jegyzésű részvényeié pedig 5,5 százalékkal csökkent.\n\n• **A vezetőváltás üzleti és geopolitikai következményekkel járhat** Huang támogatta az Nvidia kínai piaci jelenlétének fenntartását, és kapcsolatot ápolt Donald Trump amerikai elnökkel. A JPMorgan elemzői szerint a már vállalt kötelezettségek várhatóan nem változnak, az új megállapodások viszont lassabban születhetnek meg, vagy nagyobb ellentételezést igényelhetnek. A bizonytalanság a GPU-finanszírozási és infrastruktúra-fejlesztési szerződéseket is érintheti.\n\n• **Pénteken nyugodtabbá vált az ázsiai kereskedés** Az amerikai államkötvények hozama emelkedett, a kétéves papíroké egyhavi csúcsra jutott, a dollár pedig erősödött. A befektetők azt is mérlegelték, hogy a Fed a következő hónapban 50 bázispontos kamatemelést hajthat végre.",
-    "importance_score": 48.0,
-    "top_rank": 18,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_03c6135065",
-    "slug": "uj-reszletek-az-nvidia-ugyben-vizsgalatok-es-kongresszusi-meghallgatasok-03c613",
-    "tags": [
-      "nvidia",
-      "jensen-huang",
-      "kinai-export",
-      "mesterseges-intelligencia"
-    ],
-    "fingerprint": "aee5a07698f5e5482e7e58681c2e6088",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7253/72532/725321/72532149_5344607_d5433d89473744ef394535a1a77b2619_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Lemondott az Nvidia vezérigazgatója a kínai kémbotrány után",
-        "link": "https://index.hu/kulfold/2026/11/12/jensen-huang-nvidia-lemondas-vezerigazgato-botrany-kina-kemkedes/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Lemondott az Nvidia szexbotrányba keveredett elnök-vezérigazgatója",
-        "link": "https://24.hu/tech/2026/11/12/jensen-huang-nvidia-lemondas-szexbotrany/"
-      },
-      {
-        "source": "Rakéta.hu",
-        "title": "Belebukott a kínai kémnős és a vállalaton belüli kapcsolat botrányába az Nvidia vezére",
-        "link": "https://raketa.hu/lemondott-jensen-huand-nvidia/"
-      },
-      {
-        "source": "444.hu",
-        "title": "Szenátusi és képviselőházi bizottságok is meghallgatnák a kémnő-botrányba belebukott Jensen Huangot, az Nvidia (már csak volt) vezérét",
-        "link": "https://444.hu/2026/11/13/szenatusi-es-kepviselohazi-bizottsagok-is-meghallgatnak-a-kemno-botranyba-belebukott-jensen-huangot-az-nvidia-mar-csak-volt-vezeret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794547245,
-    "title_hu": "Új részletek az Nvidia-ügyben: vizsgálatok és kongresszusi meghallgatások",
-    "lead_hu": "Jensen Huang november 12-i távozását követően Colette Kress vette át ideiglenesen az Nvidia vezetését, miközben az amerikai törvényhozók decemberre meghallgatásokat kezdeményeztek a volt vezérigazgatóval és Howard Lutnick kereskedelmi miniszterrel. Új sajtóbeszámolók szerint a kémkedéssel gyanúsított Alice Huangnak az amerikai MI-chipekről kellett információkat szereznie; az Nvidia részvényei a lemondás hírére több mint tíz százalékot estek.",
-    "content_hu": "• **Huang november 12-én távozott** Az Nvidia elnök-vezérigazgatói tisztsége mellett az igazgatótanácsi tagságát is megszüntette. Colette Kress pénzügyi igazgató ideiglenesen vezeti a vállalatot, amíg a testület belső és külső jelöltek közül keres utódot; Harvey C. Jones lett az igazgatótanács elnöke.\n\n• **Két állítólagos magánéleti kapcsolat került a beszámolók középpontjába** Sajtóértesülések Alice Huangot, a Megaspeed korábbi vezetőjét, valamint Kimberly Powellt, az Nvidia egészségügyi üzletágának alelnökét nevezték meg. A Rakéta beszámolója szerint Huang a botrány után bocsánatot kért munkatársaitól, és vállalta a felelősséget; a cég belső vizsgálatáról is hírt adtak.\n\n• **Alice Huang feltételezett feladatáról is megjelentek részletek** A The New York Timesnak tulajdonított értesülés szerint a kínai Állambiztonsági Minisztérium azt várhatta tőle, hogy az amerikai MI-chipekről gyűjtsön adatokat, és próbálja elősegíteni, hogy a fejlettebb termékek Kínába is eljuthassanak. Kína tagadta a vádakat, Todd Blanche amerikai igazságügyi miniszter pedig azt közölte, hogy még nincs végleges következtetés Alice Huang esetleges kémtevékenységéről.\n\n• **A törvényhozók decemberre meghallgatásokat kezdeményeztek** A képviselőház hírszerzési, külügyi és Kínával foglalkozó bizottságai december 1-jére zárt meghallgatásra kérték Huangot. Tim Scott szenátor december 3-ára várja a bankügyi bizottság elé, és jelezte, hogy a testület idézést is kibocsáthat.\n\n• **Lutnicktől az exportkorlátozásokról kérhetnek magyarázatot** A kereskedelmi minisztert szintén a szenátus bankügyi bizottsága elé hívták. A képviselők az Nvidia fejlett MI-chipjeinek Kínába irányuló exportjáról kérdezhetik; sajtóértesülések szerint Lutnick korábban fékezhette a korlátozások szigorítását.\n\n• **A Megaspeed független GPU-ellenőrzést rendelt el** James Tan Jongpong vezérigazgató közlése alapján a cég együttműködik az amerikai hatóságokkal, és amerikai ügyvédi irodát bízott meg a grafikus processzorok leltározásával, illetve az exportkorlátozások betartásának felülvizsgálatával. A szingapúri rendőrség tavaly októberben indított vizsgálata továbbra is folyamatban van.\n\n• **Az Nvidia részvényei több mint tíz százalékot veszítettek értékükből** Az FBI is vizsgálja az ügyet, a részvényesek pedig pert indítottak Huang és a vállalat ellen. A 24.hu az Apple mögött a világ második legértékesebb cégeként jellemezte az Nvidiát.",
     "importance_score": 48.0,
     "top_rank": 19,
     "is_top_hero": false,
@@ -2653,104 +2668,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_7c0755071e",
-    "slug": "szeretnek-oket-is-nem-is-tudod-igy-van-ez-kerdesek-7c0755",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1463305344-675721.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Szeretnék őket is + nem is, tudod, így van ez − Kérdések a külföldiek foglalkoztatása körül",
-        "link": "https://www.portfolio.hu/gazdasag/20261113/szeretnek-oket-is-nem-is-tudod-igy-van-ez-kerdesek-a-kulfoldiek-foglalkoztatasa-korul-876086"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Szeretnék őket is + nem is, tudod, így van ez − Kérdések a külföldiek hazai foglalkoztatása körül",
-        "link": "https://www.portfolio.hu/gazdasag/20261113/szeretnek-oket-is-nem-is-tudod-igy-van-ez-kerdesek-a-kulfoldiek-hazai-foglalkoztatasa-korul-876086"
-      }
-    ],
-    "published_at": 1794556800,
-    "title_hu": "Szeretnék őket is + nem is, tudod, így van ez − Kérdések a külföldiek foglalkoztatása körül",
-    "lead_hu": "A Portfolio Checklist csütörtöki adásában többek között arról volt szó, hogy milyen problémákat okoz a külföldi munkavállalók magyarországi foglalkoztatásának jelenlegi szabályozása, és miért félrevez…",
-    "content_hu": "A Portfolio Checklist csütörtöki adásában többek között arról volt szó, hogy milyen problémákat okoz a külföldi munkavállalók magyarországi foglalkoztatásának jelenlegi szabályozása, és miért félrevezető minden külföldi dolgozót vendégmunkásként kezelni. Megnéztük, milyen változtatásokra lenne szükség ahhoz, hogy a rendszer a hazai munkavállalók védelme mellett a cégek munkaerőigényére is jobban reagáljon. Vendégünk Ürögdy Barbara, az üzleti és bevándorlási szolgáltatásokat nyújtó Helpers Hungary egyik alapítója és ügyvezetője volt. A témával részletesen is foglalkozunk a november 17-i HR (R)evolution 2026 konferencián, amelyre korlátozott számban még kaphatók jegyek. (A megszólalás 15:55-nél indul.) Az adás első részében a kormány építőipari intézkedéseit vettük górcső alá a Future of Construction 2026 konferencia apropóján, ahol arról beszélgettünk, milyen jövőt képzel el az állam a hazai építőiparnak, milyen támogatási programok és beruházások jöhetnek a következő években. Szó volt a Wekerle Sándor Program terveiről, a kollégium- és lakásépítésekről, valamint arról is, hol tart a korábban kiemelt állami beruházások felülvizsgálata, és mi várhat ezekre a projektekre. A részletekről Szemerey Samu, a Közlekedési és Beruházási Minisztérium építészeti és magasépítési beruházásokért felelős államtitkára, országos főépítész osztotta meg a legfrissebb információkat.Támogatott tartalom",
-    "importance_score": 35.0,
-    "top_rank": 55,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_cdd363591f",
-    "slug": "a-varga-judit-meghallgatasan-feltunt-no-sajat-devizahiteles-trteneterol-beszelt-cdd363",
-    "tags": [
-      "varga-judit",
-      "devizahitel",
-      "kilakoltatas",
-      "parlamenti-meghallgatas"
-    ],
-    "fingerprint": "0e3ea45279848d880f67856e377612e0",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "„Brutális volt élőben végighallgatni”, mondta a Varga Judit monológját végigszörnyülködő nő, akit devizakárosultként kétszer is kidobtak otthonából a végrehajtók",
-        "link": "https://444.hu/2026/11/12/brutalis-volt-eloben-vegighallgatni-mondta-a-varga-judit-monologjat-vegigszornyulkodo-no-akit-devizakarosultkent-ketszer-is-kidobtak-otthonabol-a-vegrehajtok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Megszólalt a Varga Judit parlamenti meghallgatásán grimaszoló nő: tönkretette az életét a devizahitel",
-        "link": "https://index.hu/belfold/2026/11/13/varga-judit-parlamenti-bizottsagi-meghallgatas-mem-arckifejezes-devizahitel/"
-      }
-    ],
-    "published_at": 1794556800,
-    "title_hu": "A Varga Judit meghallgatásán feltűnt nő saját devizahiteles történetéről beszélt",
-    "lead_hu": "A 67 éves Gabriella arckifejezései széles körben terjedtek az interneten, miután Varga Judit parlamenti meghallgatásán a volt igazságügyi miniszter mögött ült. A budapesti nyugdíjas a devizahitel miatt elvesztett ingatlanjairól és a meghallgatás során szerzett benyomásairól is beszélt.",
-    "content_hu": "• **Gabriella a meghallgatáson vált ismertté**: A 67 éves budapesti nő Varga Judit parlamenti bizottsági meghallgatásán ült a volt igazságügyi miniszter mögött. Gesztusai és arckifejezései virális tartalmakban jelentek meg.\n\n• **2018-ban két ingatlanát árverezték el**: Gabriella a gazdasági válság idején devizahitelt vett fel, miután 2008-ban elveszítette nyomdaipari vállalkozását. A törlesztőrészleteket nem tudta fizetni, ezért mindkét ingatlanát elárverezték.\n\n• **A meghallgatáson elhangzottakat bírálta**: Gabriella úgy vélte, hogy a volt igazságügyi miniszter nem mondott igazat, és nem tett eleget a kilakoltatások megakadályozásáért. Elmondása szerint a hitelből eredő tartozás miatt nevelt fia fizetéséből is vonnak.",
-    "importance_score": 35.0,
-    "top_rank": 56,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_8db6fea5ee",
-    "slug": "igy-valtozik-a-dizel-ara-penteken-a-benzinrol-is-m-8db6fe",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/renditions/437/437699/ececf9b4a4dae860.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Így változik a dízel ára pénteken: a benzinről is megszólaltak a szakértők",
-        "link": "https://femina.hu/terasz/dizel-ara-valtozik-pentek-benzin-szakerto/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Tovább csökkent a gázolaj ára, ennyibe kerül most az üzemanyag a kutakon",
-        "link": "https://index.hu/gazdasag/2026/11/13/gazolaj-uzemanyag-dizel-benzin-tankolas/"
-      }
-    ],
-    "published_at": 1794556800,
-    "title_hu": "Így változik a dízel ára pénteken: a benzinről is megszólaltak a szakértők",
-    "lead_hu": "Így alakulnak az üzemanyagárak november 13-án.",
-    "content_hu": "Így alakulnak az üzemanyagárak november 13-án.",
-    "importance_score": 35.0,
-    "top_rank": 57,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_48365cc517",
     "slug": "izrael-megtiltotta-ket-francia-baloldali-politikus-belepeset-48365c",
     "tags": [
@@ -2787,7 +2704,7 @@
     "lead_hu": "Gideon Szaár izraeli külügyminiszter bejelentette, hogy Jean-Luc Mélenchon és Mathilde Panot nem utazhat be Izraelbe. A döntést az izraeli kormány az Engedetlen Franciaország és vezető politikusainak Izraellel szembeni álláspontjával indokolta.",
     "content_hu": "• **Beutazási tilalom** Gideon Szaár csütörtökön közölte, hogy Jean-Luc Mélenchon, az Engedetlen Franciaország vezetője, valamint Mathilde Panot frakcióvezető nem léphet be Izraelbe.\n\n• **Izraeli indoklás** A külügyminiszter a párt és a két politikus Izraellel szembeni nézeteire hivatkozott.\n\n• **Mélenchon reakciója** A francia politikus azt jelezte, hogy nem is kérelmezte az izraeli belépést.\n\n• **Francia előzmény** A döntést megelőzően a francia hatóságok nem engedték be Josszi Dagant, a ciszjordániai Szamáriai Regionális Tanács vezetőjét. A francia külügyminiszter, Jean-Noël Barrot bírálta az izraeli intézkedést.",
     "importance_score": 35.0,
-    "top_rank": 58,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2828,7 +2745,7 @@
     "lead_hu": "2026. november 12-én egy S-70-es katonai helikopter zuhant le a törökországi Malatya tartományban, a fedélzeten utazó négy katona életét vesztette. A baleset okát vizsgálják; a tartomány kormányzója szerint a gép feltehetően elektromos távvezetéknek ütközött.",
     "content_hu": "• **Négy katona meghalt** A török védelmi minisztérium közlése szerint a helikopter mind a négy katonai utasa életét vesztette.\n\n• **Yeşilyurt közelében zuhant le a gép** Az S-70-es egy katonai bázis mellett, Samanköy település közelében csapódott a földbe, Malatya tartományban.\n\n• **A baleset oka még nem tisztázott** Samir Er tartományi kormányzó szerint felmerült, hogy a helikopter elektromos távvezetéknek ütközött; a körülményeket vizsgálják.\n\n• **Egy házra is átterjedtek a lángok** Mentők és tűzoltók érkeztek a helyszínre, a sajtóbeszámolók szerint a tűz egy közeli házat is elért.",
     "importance_score": 35.0,
-    "top_rank": 59,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2864,7 +2781,7 @@
     "lead_hu": "Pósfai Gábor egy sportkonferencián a magyar sport támogatásáról és a finanszírozási rendszer tervezett átalakításáról beszélt. A következő évi költségvetési tervezet 453 milliárd forintot irányoz elő sportcélokra, miközben a kormány a sportlétesítmények bevételének növelését is célul tűzte ki.",
     "content_hu": "• **453 milliárd forint sportcélokra** A jövő évi költségvetési tervezet ekkora összeget szán a sportra; Pósfai szerint a támogatás a szabadidős programoktól az iskolai és versenysporton át a hazai világbajnokságokig terjed.\n\n• **Egységesítenék a finanszírozást** A jelenlegi, több csatornán keresztüli rendszer helyett a támogatások a sportért felelős államtitkárságon keresztül jutnának el a szervezetekhez.\n\n• **Változna két támogatási forma** A tervek között szerepel a tao kivezetése, valamint az ekhós adózás értékhatárának 500 millióról 60 millió forintra csökkentése.\n\n• **Alacsony bevétel a létesítményvagyonhoz képest** A mintegy 15 ezer milliárd forintra becsült sportlétesítmény-vagyon tavaly 18 milliárd forint bevételt termelt; ezen az arányon a kormány változtatna.\n\n• **Pósfai a német sportminiszter reakciójáról is beszélt** Elmondása szerint német kollégája meglepődött és irigykedett, amikor tájékoztatta a magyar sport finanszírozásának mértékéről.",
     "importance_score": 33.0,
-    "top_rank": 60,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2905,7 +2822,7 @@
     "lead_hu": "Molnár Áron támogatja az Isztambuli Egyezmény ratifikálásának kezdeményezését, a szívhangrendelet módosítását és az esemény utáni tabletta vénykötelességének eltörlését. A színész szerint a Tisza Párt által bejelentett intézkedések nem kerültek volna napirendre a Fidesz választási győzelme esetén.",
     "content_hu": "• **A tervezett intézkedések** Molnár Áron kedvezően fogadta, hogy a Tisza Párt kezdeményezi az Isztambuli Egyezmény ratifikálását, módosítaná a szívhangrendeletet, és megszüntetné az esemény utáni tabletta vénykötelességét. A menstruációs szegénység enyhítését célzó terveket is üdvözölte. Bejegyzésében azt is jelezte, hogy az aktuális kormány teljesítményét továbbra is lehet és érdemes bírálni.\n\n• **A szívhangrendelet kritikája** Molnár úgy vélte, a szabályozás kialakításakor nem kaptak kellő figyelmet az érintett nők szempontjai, és szerinte a rendelet akár teljesen megszüntethető lett volna. A tervezett változtatás a szakmai ajánlások figyelembevételével a nőkre bízná a beavatkozással kapcsolatos döntést.\n\n• **Az egyezmény témái** Molnár az Isztambuli Egyezmény kapcsán a nők elleni és a családon belüli erőszak ügyét emelte ki. A felsorolt bűncselekmények között említette a kényszerházasságot, a fenyegető zaklatást, a kényszerabortuszt és a kényszersterilizálást.\n\n• **A ratifikáció politikai vitája** Október 30-án a Kossuth téren demonstrációt tartottak az egyezmény ratifikálása mellett. Molnár kifogásolta a Fidesz–KDNP korábbi érvelését, amely szerint a magyar jogrendszer miatt nincs szükség a ratifikálásra; a KDNP az új kezdeményezést is elutasította.\n\n• **A bejelentés politikai értelmezése** Molnár saját véleményeként mondta, hogy a tervek nem valósultak volna meg Fidesz-győzelem esetén. A bejelentést az előző napi, Magyar Péter és Varga Judit közötti magánéleti vita politikai következményével is összekapcsolta. Török Gábor elemző úgy értékelte, hogy a csomag gyors válaszként születhetett.",
     "importance_score": 30.0,
-    "top_rank": 61,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2947,7 +2864,7 @@
     "lead_hu": "Csütörtökön a NAV és az ügyészség munkatársai megjelentek a lakiteleki Népfőiskola Alapítványnál. A Fidesz politikai megtorlást emleget, miközben a 24.hu szerint az alapítvány pénzügyei is a vizsgálat hátterében állhatnak; ezt a hatóságok egyelőre nem erősítették meg.",
     "content_hu": "• **Hatósági megjelenés Lakiteleken** A NAV és az ügyészség munkatársai csütörtökön felkeresték a Lezsák Sándorhoz kötődő Népfőiskola Alapítványt. Az eseményt Molnárné Lezsák Anna fideszes képviselő hozta nyilvánosságra.\n\n• **A Fidesz politikai indítékot tulajdonít az intézkedésnek** Molnárné Lezsák Anna és Bóka János a fellépést politikai leszámolásként értékelte, és azt Lezsák Sándor, illetve családja megszólalásával hozta összefüggésbe a Tisza Párt ügynökügyében. Lezsák Sándor előző héten tévedésből került fel az ügynöklistára; az Állambiztonsági Szolgálatok Történeti Levéltára és Magyar Péter bocsánatot kért emiatt.\n\n• **A pénzügyek vizsgálata is felmerült lehetséges háttérként** A 24.hu értesülése szerint az alapítvány az elmúlt években több tízmilliárd forint állami támogatást kapott, és az NKA-ügyben 2,6 milliárd forinthoz jutott. A portál szerint az ügyben Hankó Balázs is gyanúsított, és jelenleg letartóztatásban van; az alapítvány elleni intézkedés pénzügyi okát hivatalosan nem erősítették meg.\n\n• **A rendőrség a NAV-hoz irányította a kérdéseket** A 24.hu megkeresésére a rendőrség azt közölte, hogy hatásköri és illetékességi okokból a NAV adhat választ az ügyre vonatkozó kérdésekre.",
     "importance_score": 30.0,
-    "top_rank": 62,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2988,7 +2905,7 @@
     "lead_hu": "Az Egészségügyi Minisztérium további részleteket közölt a magzati életfunkciók bemutatásának új szabályairól és az esemény utáni tabletta vény nélküli kiváltásáról. A tárca tájékoztatása szerint a gyógyszerészi konzultáció során a kényszer vagy a szexuális erőszak gyanúját is kezelik, emellett az intim felvételekkel való visszaélést önálló bűncselekménnyé tennék.",
     "content_hu": "• **A magzati életfunkciók megismerése továbbra is a nő döntése** – Az orvos egyszer, közérthetően és tárgyilagosan ismerteti a lehetőséget; a nő később, akár a vizsgálat során is jelezheti, ha élni kíván vele. A kérés elmaradását nem kell indokolni vagy írásban rögzíteni, és emiatt hátrány nem érheti.\n\n• **A terhességmegszakítás feltételei változatlanok** – A lelet kiadása, az ellátás és a Családvédelmi Szolgálat eljárása zavartalanul folytatódik, a törvényi feltételek és határidők nem módosulnak. A minisztérium szerint a korábbi szabályozás nem csökkentette az abortuszok számát, és krízishelyzetben lévő nőknek további lelki megterhelést okozhatott.\n\n• **A 14. életévüket betöltők vény nélkül kérhetik a tablettát** – A készítményt személyesen lehet kiváltani, a gyógyszerész pedig egy rövid kérdőív alapján, négyszemközti beszélgetésben rákérdez az együttlét óta eltelt időre, az egyéb gyógyszerekre és az esetleges orvosi vizsgálat szükségességére. Kényszer vagy szexuális erőszak gyanúja esetén segítséghez irányítja az érintettet; a 14 év alattiaknak továbbra is recept kell.\n\n• **Az intim felvételekkel való visszaélés külön bűncselekmény lehet** – A minisztérium közlése szerint ezt az új intézkedések között önálló tényállásként nevesítenék.",
     "importance_score": 30.0,
-    "top_rank": 63,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3031,7 +2948,7 @@
     "importance_score": 30.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 64
+    "top_rank": 61
   },
   {
     "group_id": "group_d32c8cc74b",
@@ -3072,7 +2989,7 @@
     "importance_score": 30.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 65
+    "top_rank": 62
   },
   {
     "group_id": "group_42d908dbd7",
@@ -3113,7 +3030,105 @@
     "importance_score": 30.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 66
+    "top_rank": 63
+  },
+  {
+    "group_id": "group_7c0755071e",
+    "slug": "szeretnek-oket-is-nem-is-tudod-igy-van-ez-kerdesek-7c0755",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1463305344-675721.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Szeretnék őket is + nem is, tudod, így van ez − Kérdések a külföldiek foglalkoztatása körül",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/szeretnek-oket-is-nem-is-tudod-igy-van-ez-kerdesek-a-kulfoldiek-foglalkoztatasa-korul-876086"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Szeretnék őket is + nem is, tudod, így van ez − Kérdések a külföldiek hazai foglalkoztatása körül",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/szeretnek-oket-is-nem-is-tudod-igy-van-ez-kerdesek-a-kulfoldiek-hazai-foglalkoztatasa-korul-876086"
+      }
+    ],
+    "published_at": 1794556800,
+    "title_hu": "Szeretnék őket is + nem is, tudod, így van ez − Kérdések a külföldiek foglalkoztatása körül",
+    "lead_hu": "A Portfolio Checklist csütörtöki adásában többek között arról volt szó, hogy milyen problémákat okoz a külföldi munkavállalók magyarországi foglalkoztatásának jelenlegi szabályozása, és miért félrevez…",
+    "content_hu": "A Portfolio Checklist csütörtöki adásában többek között arról volt szó, hogy milyen problémákat okoz a külföldi munkavállalók magyarországi foglalkoztatásának jelenlegi szabályozása, és miért félrevezető minden külföldi dolgozót vendégmunkásként kezelni. Megnéztük, milyen változtatásokra lenne szükség ahhoz, hogy a rendszer a hazai munkavállalók védelme mellett a cégek munkaerőigényére is jobban reagáljon. Vendégünk Ürögdy Barbara, az üzleti és bevándorlási szolgáltatásokat nyújtó Helpers Hungary egyik alapítója és ügyvezetője volt. A témával részletesen is foglalkozunk a november 17-i HR (R)evolution 2026 konferencián, amelyre korlátozott számban még kaphatók jegyek. (A megszólalás 15:55-nél indul.) Az adás első részében a kormány építőipari intézkedéseit vettük górcső alá a Future of Construction 2026 konferencia apropóján, ahol arról beszélgettünk, milyen jövőt képzel el az állam a hazai építőiparnak, milyen támogatási programok és beruházások jöhetnek a következő években. Szó volt a Wekerle Sándor Program terveiről, a kollégium- és lakásépítésekről, valamint arról is, hol tart a korábban kiemelt állami beruházások felülvizsgálata, és mi várhat ezekre a projektekre. A részletekről Szemerey Samu, a Közlekedési és Beruházási Minisztérium építészeti és magasépítési beruházásokért felelős államtitkára, országos főépítész osztotta meg a legfrissebb információkat.Támogatott tartalom",
+    "importance_score": 28.0,
+    "top_rank": 64,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_cdd363591f",
+    "slug": "a-varga-judit-meghallgatasan-feltunt-no-sajat-devizahiteles-trteneterol-beszelt-cdd363",
+    "tags": [
+      "varga-judit",
+      "devizahitel",
+      "kilakoltatas",
+      "parlamenti-meghallgatas"
+    ],
+    "fingerprint": "0e3ea45279848d880f67856e377612e0",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "„Brutális volt élőben végighallgatni”, mondta a Varga Judit monológját végigszörnyülködő nő, akit devizakárosultként kétszer is kidobtak otthonából a végrehajtók",
+        "link": "https://444.hu/2026/11/12/brutalis-volt-eloben-vegighallgatni-mondta-a-varga-judit-monologjat-vegigszornyulkodo-no-akit-devizakarosultkent-ketszer-is-kidobtak-otthonabol-a-vegrehajtok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt a Varga Judit parlamenti meghallgatásán grimaszoló nő: tönkretette az életét a devizahitel",
+        "link": "https://index.hu/belfold/2026/11/13/varga-judit-parlamenti-bizottsagi-meghallgatas-mem-arckifejezes-devizahitel/"
+      }
+    ],
+    "published_at": 1794556800,
+    "title_hu": "A Varga Judit meghallgatásán feltűnt nő saját devizahiteles történetéről beszélt",
+    "lead_hu": "A 67 éves Gabriella arckifejezései széles körben terjedtek az interneten, miután Varga Judit parlamenti meghallgatásán a volt igazságügyi miniszter mögött ült. A budapesti nyugdíjas a devizahitel miatt elvesztett ingatlanjairól és a meghallgatás során szerzett benyomásairól is beszélt.",
+    "content_hu": "• **Gabriella a meghallgatáson vált ismertté**: A 67 éves budapesti nő Varga Judit parlamenti bizottsági meghallgatásán ült a volt igazságügyi miniszter mögött. Gesztusai és arckifejezései virális tartalmakban jelentek meg.\n\n• **2018-ban két ingatlanát árverezték el**: Gabriella a gazdasági válság idején devizahitelt vett fel, miután 2008-ban elveszítette nyomdaipari vállalkozását. A törlesztőrészleteket nem tudta fizetni, ezért mindkét ingatlanát elárverezték.\n\n• **A meghallgatáson elhangzottakat bírálta**: Gabriella úgy vélte, hogy a volt igazságügyi miniszter nem mondott igazat, és nem tett eleget a kilakoltatások megakadályozásáért. Elmondása szerint a hitelből eredő tartozás miatt nevelt fia fizetéséből is vonnak.",
+    "importance_score": 28.0,
+    "top_rank": 65,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_8db6fea5ee",
+    "slug": "igy-valtozik-a-dizel-ara-penteken-a-benzinrol-is-m-8db6fe",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/renditions/437/437699/ececf9b4a4dae860.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Így változik a dízel ára pénteken: a benzinről is megszólaltak a szakértők",
+        "link": "https://femina.hu/terasz/dizel-ara-valtozik-pentek-benzin-szakerto/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Tovább csökkent a gázolaj ára, ennyibe kerül most az üzemanyag a kutakon",
+        "link": "https://index.hu/gazdasag/2026/11/13/gazolaj-uzemanyag-dizel-benzin-tankolas/"
+      }
+    ],
+    "published_at": 1794556800,
+    "title_hu": "Így változik a dízel ára pénteken: a benzinről is megszólaltak a szakértők",
+    "lead_hu": "Így alakulnak az üzemanyagárak november 13-án.",
+    "content_hu": "Így alakulnak az üzemanyagárak november 13-án.",
+    "importance_score": 28.0,
+    "top_rank": 66,
+    "is_top_hero": false,
+    "is_top_list": true
   },
   {
     "group_id": "group_955782eab8",
@@ -3430,43 +3445,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_acd6a2eb35",
-    "slug": "vilagszerte-akadoztak-a-microsoft-szolgaltatasai-acd6a2",
-    "tags": [
-      "microsoft",
-      "microsoft-365",
-      "szolgaltataskieses",
-      "teams",
-      "outlook"
-    ],
-    "fingerprint": "c64ffcb4eb18c59f3139773869b71126",
-    "category": "Általános",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7f91e327-23ca-4cc4-b780-d3244fc2a6f5.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Órák óta gond van a Microsoft szolgáltatásaival, a cég szerint nem kibertámadásról van szó",
-        "link": "https://hvg.hu/tudomany/20261113_microsoft-szolgaltatas-kimaradas-teams-outlook"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Órák óta próbálja helyreállítani a kieső szolgáltatását a Microsoft, de még nem teljes a siker",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-szolgaltatas-kieses-globalis"
-      }
-    ],
-    "published_at": 1794545979,
-    "title_hu": "Világszerte akadoztak a Microsoft szolgáltatásai",
-    "lead_hu": "A Microsoft 365 több alkalmazásánál, köztük az Outlooknál és a Teamsnél is fennakadások jelentkeztek. A vállalat a hiba elhárításán dolgozott, és közlése szerint nem találtak kibertámadásra utaló jelet.",
-    "content_hu": "• **Több szolgáltatás is érintett volt:** A Microsoft 365, az Outlook és a Teams mellett a Word, az Excel, a PowerPoint, a SharePoint, a OneDrive és a Copilot használata is problémásnak bizonyult egyes felhasználóknál.\n\n• **Több országból érkeztek hibajelzések:** A Down Detector magyar idő szerint este fél nyolc után közel 130 ezer bejelentést rögzített 74 országból. Ausztráliában és az Egyesült Államokban is jeleztek gondokat a Teams és az Outlook működésével.\n\n• **A Microsoft a helyreállításon dolgozott:** A vállalat a szerverek beállításait nevezte lehetséges okként, és több intézkedéssel próbálta rendezni a problémát, de a szolgáltatások teljes helyreállítása még nem történt meg.\n\n• **Nem merült fel kibertámadás gyanúja:** A Microsoft tájékoztatása szerint nem volt jel arra, hogy rosszindulatú tevékenység okozta volna a kimaradást.",
-    "importance_score": 28.0,
-    "top_rank": 76,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_0cbd4028ff",
     "slug": "moszkvaban-egyeztettek-az-oroszukran-haboru-lezarasarol-0cbd40",
     "tags": [
@@ -3498,7 +3476,7 @@
     "lead_hu": "Steve Witkoff és Jared Kushner Moszkvában tárgyalt az orosz féllel a háború lezárásának lehetőségeiről. Az egyik beszámoló szerint Putyin az Ukrajnának nyújtott támogatás leállítását szabta a tárgyalások feltételéül.",
     "content_hu": "• **Moszkvai egyeztetés** Steve Witkoff és Jared Kushner az oroszokkal folytatott megbeszélést a háború lezárásáról.\n\n• **Putyin feltétele** A Magyar Nemzet címe szerint az orosz elnök az Ukrajna támogatásának befejezését jelölte meg a tárgyalások feltételeként.\n\n• **Európai részvétel** A Telex beszámolója szerint Trump képviselője az európaiakat is bevonná az orosz–ukrán tárgyalásokba, Putyin azonban nem fogadta kitörő lelkesedéssel az elképzelést.",
     "importance_score": 25.0,
-    "top_rank": 77,
+    "top_rank": 76,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3534,7 +3512,7 @@
     "lead_hu": "Magyar Péter dublini bejelentése nyomán politikai vita alakult ki az Isztambuli Egyezmény ratifikálásának lehetséges következményeiről. A megszólalók az egyezmény nővédelmi szerepét, genderrel kapcsolatos rendelkezéseit és a magyar jogrendszerrel való viszonyát értékelték eltérően.",
     "content_hu": "• **Magyar Péter bejelentése** Az egyik forrás szerint a politikus Dublinban az Isztambuli Egyezmény ratifikálását, a szívhangrendelet módosítását és az esemény utáni tabletta vénykötelességének megszüntetését is bejelentette.\n\n• **Máthé Zsuzsa bírálata** A KDNP politikusa vitatta a tervezett intézkedéseket, és arra hivatkozott, hogy a korábbi kormányzat több, kapcsolati erőszak áldozatait segítő intézkedést vezetett be.\n\n• **Giró-Szász Áron álláspontja** A Magyar Nemzet cikke szerint az Axioma elnöke azt mondta, hogy a GREVIO egyes országokról szóló jelentései a transznemű nők menedékhelyekhez való hozzáférését is vizsgálják, és szerinte a magyar Alaptörvény korlátozza a születési nemtől eltérő önazonosság gyermekek előtti népszerűsítését.\n\n• **Alkotmányossági kérdés** Giró-Szász szerint a ratifikáció alkotmányossági vizsgálata is felmerülhet.",
     "importance_score": 25.0,
-    "top_rank": 78,
+    "top_rank": 77,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3573,7 +3551,7 @@
     "importance_score": 25.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 79
+    "top_rank": 78
   },
   {
     "group_id": "group_f6001d56aa",
@@ -3607,7 +3585,7 @@
     "lead_hu": "A november 11-én közzétett kormányhatározat húsz költségvetési fejezetre bontja a 2026-os büdzsében előírt 300 milliárd forintos befizetést. A döntés emellett egyszeri, 143,97 milliárd forintos átcsoportosítást rendel el a Havária Alapból három terület támogatására.",
     "content_hu": "• **Az átcsoportosítás összege és céljai** A 1375/2026. (XI. 11.) kormányhatározat 143 milliárd 970 millió 792 ezer 500 forint egyszeri átcsoportosításáról rendelkezik. Ebből 80 milliárd forint jut a Nemzeti agrárkár-enyhítés előirányzatára az Agrár- és Élelmiszergazdaságért Felelős Minisztériumnál, 41,4 milliárd a villamosenergia-termelés rendszerbiztonsági szolgáltatásának ellentételezésére a Gazdasági és Energetikai Minisztériumnál, 22,57 milliárd pedig köznevelési támogatásra az Oktatási és Gyermekügyi Minisztériumnál.\n\n• **A folyósítás határideje** A határozat egyszeri átcsoportosítást ír elő, a támogatások folyósításának határidejét pedig azonnaliként jelöli meg.\n\n• **A 300 milliárd forintos kötelezettség felosztása** A törvényben rögzített befizetést húsz költségvetési fejezet között osztották el. A Közlekedési és Beruházási Minisztériumra 81 milliárd, a gazdasági és energetikai tárcára 53 milliárd, az egészségügyi területre közel 26 milliárd, az oktatásira pedig 17 milliárd forint jut.\n\n• **További befizetési tételek** A külügyi, a Miniszterelnökséghez tartozó és a technológiai területre egyaránt tízmilliárd forintot meghaladó összeg jutott. Az állami vagyonhoz kapcsolódó kiadások mérséklésével és bevételek növelésével további 44 milliárd forintot számolnak el; a Központi Statisztikai Hivatalnál valamivel több mint 79 millió forint szerepel.\n\n• **A felosztás nem részletezi a forrásokat** A határozat a befizetési kötelezettség fejezetek közötti elosztását tartalmazza, de nem nevezi meg, hogy az egyes tárcák mely programok vagy kiadások terhére teljesítik azt. Az öt legnagyobb tétel összege meghaladja a 221 milliárd forintot.",
     "importance_score": 25.0,
-    "top_rank": 80,
+    "top_rank": 79,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3645,7 +3623,7 @@
     "importance_score": 25.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 81
+    "top_rank": 80
   },
   {
     "group_id": "group_ed52fea239",
@@ -3681,7 +3659,44 @@
     "importance_score": 25.0,
     "is_top_hero": false,
     "is_top_list": true,
-    "top_rank": 82
+    "top_rank": 81
+  },
+  {
+    "group_id": "group_acd6a2eb35",
+    "slug": "vilagszerte-akadoztak-a-microsoft-szolgaltatasai-acd6a2",
+    "tags": [
+      "microsoft",
+      "microsoft-365",
+      "szolgaltataskieses",
+      "teams",
+      "outlook"
+    ],
+    "fingerprint": "c64ffcb4eb18c59f3139773869b71126",
+    "category": "Általános",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7f91e327-23ca-4cc4-b780-d3244fc2a6f5.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Órák óta gond van a Microsoft szolgáltatásaival, a cég szerint nem kibertámadásról van szó",
+        "link": "https://hvg.hu/tudomany/20261113_microsoft-szolgaltatas-kimaradas-teams-outlook"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Órák óta próbálja helyreállítani a kieső szolgáltatását a Microsoft, de még nem teljes a siker",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-szolgaltatas-kieses-globalis"
+      }
+    ],
+    "published_at": 1794545979,
+    "title_hu": "Világszerte akadoztak a Microsoft szolgáltatásai",
+    "lead_hu": "A Microsoft 365 több alkalmazásánál, köztük az Outlooknál és a Teamsnél is fennakadások jelentkeztek. A vállalat a hiba elhárításán dolgozott, és közlése szerint nem találtak kibertámadásra utaló jelet.",
+    "content_hu": "• **Több szolgáltatás is érintett volt:** A Microsoft 365, az Outlook és a Teams mellett a Word, az Excel, a PowerPoint, a SharePoint, a OneDrive és a Copilot használata is problémásnak bizonyult egyes felhasználóknál.\n\n• **Több országból érkeztek hibajelzések:** A Down Detector magyar idő szerint este fél nyolc után közel 130 ezer bejelentést rögzített 74 országból. Ausztráliában és az Egyesült Államokban is jeleztek gondokat a Teams és az Outlook működésével.\n\n• **A Microsoft a helyreállításon dolgozott:** A vállalat a szerverek beállításait nevezte lehetséges okként, és több intézkedéssel próbálta rendezni a problémát, de a szolgáltatások teljes helyreállítása még nem történt meg.\n\n• **Nem merült fel kibertámadás gyanúja:** A Microsoft tájékoztatása szerint nem volt jel arra, hogy rosszindulatú tevékenység okozta volna a kimaradást.",
+    "importance_score": 23.0,
+    "top_rank": 82,
+    "is_top_hero": false,
+    "is_top_list": true
   },
   {
     "group_id": "group_3445b73be7",
@@ -4393,6 +4408,84 @@
     "top_rank": 102
   },
   {
+    "group_id": "group_579fc80bbc",
+    "slug": "kivul-mesebeli-belul-tele-van-titkokkal-ez-a-magyar-kastely-579fc8",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/11/G7c1vExWp7zTZU_fa_eWNwRi_p3hC9528_jeOqG_3AU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzExL2RmMTg2ODBjOWE2OWY3YWYzOWJlZDg2NmFlZWZlNmUwMGEzZjYxM2M4YWExMWU1OGExZjEzMGE0MjlmYjFjODU.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Kívül mesebeli, belül tele van titkokkal ez a magyar kastély",
+        "link": "https://borsonline.origo.hu/belfoldi-utazas/2026/11/gyulai-harruckern-wenckheim-almasy-kastely"
+      }
+    ],
+    "published_at": 1794567600,
+    "title_hu": "Kívül mesebeli, belül tele van titkokkal ez a magyar kastély",
+    "lead_hu": "A gyulai várat sokan ismerik, de vajon a grófi kastélyt is?...",
+    "content_hu": "A gyulai várat sokan ismerik, de vajon a grófi kastélyt is?",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_4d74f1c641",
+    "slug": "o-volt-wednesday-az-addams-familyben-a-46-eves-christina-ricci-mindenkit-tulragy-4d74f1",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/renditions/437/437712/bf30bdb5be45b4d0.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Ő volt Wednesday az Addams Familyben: a 46 éves Christina Ricci mindenkit túlragyogott a premieren jóképű férje oldalán",
+        "link": "https://femina.hu/vilagsztar/christina-ricci-wednesday-addams-family-46-evesen-ferje-premier/"
+      }
+    ],
+    "published_at": 1794567600,
+    "title_hu": "Ő volt Wednesday az Addams Familyben: a 46 éves Christina Ricci mindenkit túlragyogott a premieren jóképű férje oldalán",
+    "lead_hu": "Christina Ricci gyönyörű volt sármos férje mellett a vörös szőnyegen....",
+    "content_hu": "Christina Ricci gyönyörű volt sármos férje mellett a vörös szőnyegen.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_51301abe60",
+    "slug": "ki-beszelhet-europa-neveben-jelltek-es-njelltek-a-beketargyalasokra-51301a",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/MmA_lI0vCfJTF3EBZqUguYOjIiB-FFujY333YS9kpxw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvZmJmZGFhMWE3ZjI0NDQ1MjI2MzYzZGE4ZmQ5ZmZlYTNiMmZiOGI5NTM0OTZhNjBkNjMzMjExMjdjYWE2NmFhYg.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ki beszélhet Európa nevében? - Jelöltek és önjelöltek a béketárgyalásokra",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/ki-beszelhet-europa-neveben-jeloltek-es-onjeloltek-a-beketargyalasokra?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794567504,
+    "title_hu": "Ki beszélhet Európa nevében? - Jelöltek és önjelöltek a béketárgyalásokra",
+    "lead_hu": "Nagy a pozícióharc az Európai Unió tagjai között a csúcsjelölt kérdésében....",
+    "content_hu": "Nagy a pozícióharc az Európai Unió tagjai között a csúcsjelölt kérdésében.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_154db86d74",
     "slug": "kitart-a-lengyel-gazdasag-lendulete-eletjelet-mutatott-romania-154db8",
     "tags": [
@@ -5011,6 +5104,32 @@
     "title_hu": "Navracsics morális leckéztetésről beszélt, Toroczkai kilakoltatásokkal válaszolt – szóváltást hozott a bizottsági meghallgatás",
     "lead_hu": "",
     "content_hu": "",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_7c6f6d344a",
+    "slug": "fordult-a-kocka-51-millio-forintot-kapott-tanacsadasert-eperjes-karoly-de-a-korm-7c6f6d",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://www.youtube.com/embed/eIW5X6lxQwE",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Fordult a kocka: 51 millió forintot kapott tanácsadásért Eperjes Károly, de a kormányváltás után azonnal szerződést bontott vele a színház",
+        "link": "https://www.atv.hu/belfold/20261113/eperjes-karoly-sopron-szinhaz/"
+      }
+    ],
+    "published_at": 1794564660,
+    "title_hu": "Fordult a kocka: 51 millió forintot kapott tanácsadásért Eperjes Károly, de a kormányváltás után azonnal szerződést bontott vele a színház",
+    "lead_hu": "A kormányváltást követően a soproni színház megszüntette a szerződését a Fidesz-közeli Eperjes Károly Kossuth- és Jászai Mari-díjas színművész vállalkozásával....",
+    "content_hu": "A kormányváltást követően a soproni színház megszüntette a szerződését a Fidesz-közeli Eperjes Károly Kossuth- és Jászai Mari-díjas színművész vállalkozásával.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -17881,110 +18000,6 @@
     "title_hu": "Arcot adtak a skizofrének fejében hallott hangoknak a magyar szakemberek, ami áttörést hozott a kezelésekben",
     "lead_hu": "Virtuálisvalóság-terápiával segítették a skizofréniával élő betegeket a Semmelweis Egyetem szakemberei egy kutatás keretében. Az eljárás a résztvevők több mint 40 százalékánál hozott érdemi javulást a…",
     "content_hu": "Virtuálisvalóság-terápiával segítették a skizofréniával élő betegeket a Semmelweis Egyetem szakemberei egy kutatás keretében. Az eljárás a résztvevők több mint 40 százalékánál hozott érdemi javulást a hallucinált hangok okozta lelki megterhelés csökkentésében.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_e6869674ff",
-    "slug": "neonzld-sisakja-buktatta-le-a-bringas-sorozatgyujt-e68696",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261110/1794314842-temp-cql96c9fhoimcjocjnk_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Neonzöld sisakja buktatta le a bringás sorozatgyújtogatót",
-        "link": "https://telex.hu/belfold/2026/11/12/neonzold-rendorseg-gyujtogatas-bicaj-facebook-szeged-elfogas"
-      }
-    ],
-    "published_at": 1794481206,
-    "title_hu": "Neonzöld sisakja buktatta le a bringás sorozatgyújtogatót",
-    "lead_hu": "A férfi csaknem hatvanszor okozott tüzet Csongrád-Csanád megye több településénél. A Facebookon gondosan dokumentálta a kirándulásait.",
-    "content_hu": "A férfi csaknem hatvanszor okozott tüzet Csongrád-Csanád megye több településénél. A Facebookon gondosan dokumentálta a kirándulásait.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_f69df90051",
-    "slug": "karacsony-a-hargitan-szilveszter-brassoban-5-csoda-f69df9",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "https://cdn.borsonline.hu/2026/11/E0FOhtPjsMs8qby3RoAySe1L29e6HRMu2LST0GVpRs4/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzEwLzMzOWU3NmY4Y2FkZjQzOWQxODZkNzY0MTFjYjJlNjM4MTA2Y2RkNzc2ZTNiYjhiOWI0ZTM4ZWNiMzg2NmZlODA.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Karácsony a Hargitán, szilveszter Brassóban: 5 csodás erdélyi úti cél télre",
-        "link": "https://borsonline.origo.hu/kulfoldi-utazas/2026/11/erdely-telen-kulfoldi-utazas"
-      }
-    ],
-    "published_at": 1794481200,
-    "title_hu": "Karácsony a Hargitán, szilveszter Brassóban: 5 csodás erdélyi úti cél télre",
-    "lead_hu": "Nézzük meg, mit kínál Erdély a téli időszakban.",
-    "content_hu": "Nézzük meg, mit kínál Erdély a téli időszakban.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_9b8c15d163",
-    "slug": "melissa-mccarthy-45-kilos-fogyasa-utan-az-atlatszo-9b8c15",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/renditions/437/437558/c961b6a92289b086.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Melissa McCarthy 45 kilós fogyása után az átlátszó ruhát is bevállalta: alig lehet ráismerni, olyan karcsú",
-        "link": "https://femina.hu/vilagsztar/melissa-mccarthy-45-kilos-fogyas-atlatszo-ruha/"
-      }
-    ],
-    "published_at": 1794481200,
-    "title_hu": "Melissa McCarthy 45 kilós fogyása után az átlátszó ruhát is bevállalta: alig lehet ráismerni, olyan karcsú",
-    "lead_hu": "Melissa McCarthy káprázatosan festett átlátszó ruhában a vörös szőnyegen.",
-    "content_hu": "Melissa McCarthy káprázatosan festett átlátszó ruhában a vörös szőnyegen.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_07fc14fadc",
-    "slug": "a-kormany-megszunteti-az-esemeny-utani-tablettak-v-07fc14",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261112/1794480866-temp-di9jnb54528d8abhhag_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "A kormány megszünteti az esemény utáni tabletták vénykötelességét",
-        "link": "https://telex.hu/belfold/2026/11/12/esemeny-utani-tabletta-venykotelessegenek-megszuntetese-magyar-peter-kormany"
-      }
-    ],
-    "published_at": 1794481180,
-    "title_hu": "A kormány megszünteti az esemény utáni tabletták vénykötelességét",
-    "lead_hu": "Magyarország az utolsó EU-s országok egyike, ahol vényköteles a sürgősségi fogamzásgátló tabletta.",
-    "content_hu": "Magyarország az utolsó EU-s országok egyike, ahol vényköteles a sürgősségi fogamzásgátló tabletta.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
