@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_c2e43843e3",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Holnap összeomlik a világ? Egy 66 éves tanulmány pontosan 2026. november 13-ra tette a világvégét",
-        "link": "https://raketa.hu/2026-november-13-1960-as-tudomanyos-joslat-vilagvege/",
-        "image": "https://raketa.hu/uploads/2026/11/doomsday-3.jpg",
-        "summary": "Holnap, azaz november 13-án jön el a világvége, legalábbis ez derül ki abból a matematikai modellszámításból, amelyet hatvanhat évvel ezelőtt készítettek a szakértők. Az évtizedekkel ezelőtti teóriával ellentétben azonban ma már teljesen más képet mutatnak az emberiség előtt álló valódi veszélyekről.",
-        "category": "Kultúra",
-        "published_at": 1794456229
-      }
-    ]
-  },
-  {
     "group_id": "group_ef6d9a816f",
     "category": "Kultúra",
     "articles_count": 1,
@@ -28,22 +12,6 @@
         "summary": "A Sony hamarosan búcsút int a PlayStation Plus egyik PC-s szolgáltatásának, miután kiderült, hogy szinte alig érdekelte az előfizetőket.",
         "category": "Kultúra",
         "published_at": 1794458016
-      }
-    ]
-  },
-  {
-    "group_id": "group_b8cd63c232",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "A dolgozó eljátszotta, hogy ellopták a bolt összes ékszerét, majd jött a fordulat",
-        "link": "https://www.atv.hu/belfold/20261112/ellop-bolt-ekszer-dolgozo/",
-        "image": "https://www.youtube.com/embed/hXo9pMGJTCM",
-        "summary": "Egy nőt és társát gyorsított eljárásban állítja bíróság elé a Szigetszentmiklósi Járási Ügyészség, minősített sikkasztás bűntettével és más bűncselekmény elkövetésével gyanúsítják őket, miután 45 millió forintnál is nagyobb értékű ékszert loptak.",
-        "category": "Politika",
-        "published_at": 1794456300
       }
     ]
   },
@@ -76,22 +44,6 @@
         "summary": "Megrohamozták az ügyfelek a bankokat az Otthon Start miatt – van, ahol hétvégén is nyitva tartanak.",
         "category": "Politika",
         "published_at": 1794456600
-      }
-    ]
-  },
-  {
-    "group_id": "group_57ea1acde7",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ropogós burgonyás cordon bleu olvadó sajttal – ezt a receptet imádni fogja a család",
-        "link": "https://nlc.hu/gasztro/20261112/burgonyas-cordon-bleu-recept/fppt84d",
-        "image": "",
-        "summary": "Kívül aranybarnára sült, ropogós panír, belül krémesen olvadó sajt és finom sonka – ez a burgonyás cordon bleu a hagyományos változat egyik legfinomabb alternatívája. The post Ropogós burgonyás cordon bleu olvadó sajttal – ezt a receptet imádni fogja a család first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794456420
       }
     ]
   },
@@ -287,22 +239,6 @@
         "summary": "A szóbeszéd ellenére nem adják fel a kutatás-mentést a tűzoltók, bár szakadni fog az eső.",
         "category": "Politika",
         "published_at": 1794507163
-      }
-    ]
-  },
-  {
-    "group_id": "group_7d829b1e17",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Hiába ordít a hegyen, nem fog lavinát indítani",
-        "link": "https://telex.hu/eszkombajn/2026/11/12/lavina-hang-kialtas",
-        "image": "https://assets.telex.hu/images/20261106/1793972824-temp-7o6i2vacdc262dblfoj_cimlap-normal.jpg",
-        "summary": "Makacsul tartja magát a mítosz, hogy akár egy hangosabb kiáltás is képes lavinát elindítani a havas hegyoldalon. Ha szeret kiabálni, van egy jó hírünk: nyugodtan megteheti, nem lesz belőle katasztrófa.",
-        "category": "Politika",
-        "published_at": 1794456147
       }
     ]
   },
@@ -11719,7 +11655,7 @@
         "image": "https://raketa.hu/uploads/2023/12/IMG_20231225_033302.jpg",
         "summary": "És az igaz, hogy vasnál nehezebb elemek nem keletkezhetnek a Napban, vagy hogy nem végez keringő mozgást? És egy távoli napon vajon tényleg felrobban szupernóvaként? Teszteld a központi csillagunkkal kapcsolatos tudásodat a következő kvízzel!",
         "category": "Kultúra",
-        "published_at": 1794542503
+        "published_at": 1794542925
       }
     ]
   },
@@ -11800,6 +11736,54 @@
         "summary": "A kormányzás szempontjából a felülvizsgálat nagyon „fontos” tevékenység. Kijelenthetjük, hogy a Tisza-kormány a felülvizsgálatok kormánya.",
         "category": "Politika",
         "published_at": 1794542400
+      }
+    ]
+  },
+  {
+    "group_id": "group_00d2be1935",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Érkezik a havazás, már pénteken kifehéredhet a táj – Mutatjuk, hol várható az első hó",
+        "link": "https://www.atv.hu/belfold/20261113/havazas-elso-ho-pentek-zemplen/",
+        "image": "",
+        "summary": "Havas eső, sőt havazás is előfordulhat Magyarországon pénteken, elsősorban a magasabban fekvő területeken. Egy mediterrán ciklon hidegfrontja hoz ugyanis markáns lehűlést, zivatarokat és viharos széllökéseket. A hétvégére ugyan elvonul a csapadék, de a hajnali fagyok visszatérnek.",
+        "category": "Általános",
+        "published_at": 1794542700
+      }
+    ]
+  },
+  {
+    "group_id": "group_ce022d2ac7",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Rendkívüli dolgot hoztak össze nagyjából 1500 méteres mélységben: egy víz alatti vulkán energiájával termeltek áramot",
+        "link": "https://raketa.hu/rendkivuli-dolgot-hoztak-ossze-nagyjabol-1500-meteres-melysegben-egy-viz-alatti-vulkan-energiajaval-termeltek-aramot/",
+        "image": "https://raketa.hu/uploads/2026/11/endurance-energy-adelie-generator-deployment.jpg",
+        "summary": "Az amerikai Endurance Energy mérnökei olyan generátort teszteltek, amely az óceánfenékből feltörő, rendkívül forró víz energiáját alakítja elektromos árammá.",
+        "category": "Kultúra",
+        "published_at": 1794542925
+      }
+    ]
+  },
+  {
+    "group_id": "group_5a0c283349",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "A 2012-es X-Faktor tini énekesnőjeként imádta az ország: 33 éves családanyaként alig ismertük fel Antal Tímeát",
+        "link": "https://femina.hu/hazai_sztar/antal-timea-x-faktor-ma-33-eves/",
+        "image": "https://femina.hu/neon/media/images/Antal_Timi_cover_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Antal Tímeával rengeteget változott a világ a tehetségkutató óta, élete legfontosabb szerepe egyértelműen az anyaság.",
+        "category": "Bulvár",
+        "published_at": 1794542700
       }
     ]
   }
