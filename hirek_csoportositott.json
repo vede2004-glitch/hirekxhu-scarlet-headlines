@@ -32,22 +32,6 @@
     ]
   },
   {
-    "group_id": "group_e1af6516f4",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Gyurcsány embere volt, Magyar Péter győzelmének örömködött, most a Budapesti Ügyvédi Kamara elnöke lenne",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/horvath-lorant-budapesti-ugyvedi-kamara?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/9BlBg9d1OjcaF4TEI4RRFWoRPiB0QC_jULVC6NklIIA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJkNGY2NDEwZjhjODQ3YTRiOWJlMDYxYTM3YTAwMTA5.jpg",
-        "summary": "Horváth Lóránt régóta szeretné bilincsben látni Orbán Viktort az aranykonvoj ügy miatt.",
-        "category": "Politika",
-        "published_at": 1794457200
-      }
-    ]
-  },
-  {
     "group_id": "group_f703cbe9a7",
     "category": "Politika",
     "articles_count": 1,
@@ -171,58 +155,6 @@
         "summary": "A technológiai szektor egyik legbefolyásosabb vezetője távozik posztjáról, miután a cég történetének legsúlyosabb etikai és nemzetbiztonsági válsága tört ki.",
         "category": "Kultúra",
         "published_at": 1794501538
-      }
-    ]
-  },
-  {
-    "group_id": "group_d20d473ad7",
-    "category": "Politika",
-    "articles_count": 5,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Összeomlott egy épület Brooklynban, legalább ketten meghaltak, sok a sérült",
-        "link": "https://telex.hu/kulfold/2026/11/12/brooklyn-new-york-epulet-osszeomlas-vizsgalat-kereses",
-        "image": "https://assets.telex.hu/images/20261112/1794457098-temp-t5e6f2jfci388ihpiec_cimlap-normal.jpg",
-        "summary": "Még nem tudják pontosan, hány ember rekedt a romok alatt.",
-        "category": "Politika",
-        "published_at": 1794457245
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Összeomlott egy épület New Yorkban, túlélőkért küzdenek Brooklyn központjában",
-        "link": "https://index.hu/kulfold/2026/11/12/epuletomlas-new-york-brooklyn-halalos-aldozat-serultek/",
-        "image": "https://kep.index.hu/1/0/7252/72524/725245/72524515_5344093_d7d51902d404a951bd3ff29d9da7830d_wm.jpg",
-        "summary": "Két ember meghalt, tizenheten megsérültek.",
-        "category": "Általános",
-        "published_at": 1794463380
-      },
-      {
-        "source": "444.hu",
-        "title": "Összeomlott egy háromemeletes lakóház New Yorkban, legalább ketten meghaltak",
-        "link": "https://444.hu/2026/11/12/osszeomlott-egy-haromemeletes-lakohaz-new-yorkban-legalabb-ketten-meghaltak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A hatóságok szerint további 17-en megsérültek, de egyelőre nem tudni, hányan lehetnek még a romok alatt.",
-        "category": "Politika",
-        "published_at": 1794464065
-      },
-      {
-        "source": "HVG - Világ",
-        "title": "Nyolc halottja és több életveszélyes sérültje van a New York-i házomlásnak",
-        "link": "https://hvg.hu/vilag/20261112_new-york-brooklyn-hazomlas-halalos-aldozatok-serultek",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0183b3ba-c3ba-4825-a4cc-11f5fcf996e4.jpg",
-        "summary": "A hatóságok szerint többen a háromszintes lakóépület romjai alatt rekedhettek.",
-        "category": "Általános",
-        "published_at": 1794492348
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Már nyolc halálos áldozata van a New York-i házomlásnak",
-        "link": "https://telex.hu/kulfold/2026/11/12/new-york-brooklyn-hazomlas-mar-nyolc-halalos-aldozat",
-        "image": "https://assets.telex.hu/images/20261112/1794506936-temp-1dtg9i5bv95v4olgimi_cimlap-normal.jpg",
-        "summary": "A szóbeszéd ellenére nem adják fel a kutatás-mentést a tűzoltók, bár szakadni fog az eső.",
-        "category": "Politika",
-        "published_at": 1794507163
       }
     ]
   },
@@ -1064,6 +996,49 @@
         "summary": "Továbbra is sokfelé várható eső.",
         "category": "Bulvár",
         "published_at": 1794463200
+      }
+    ]
+  },
+  {
+    "group_id": "group_d20d473ad7",
+    "category": "Általános",
+    "articles_count": 4,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Összeomlott egy épület New Yorkban, túlélőkért küzdenek Brooklyn központjában",
+        "link": "https://index.hu/kulfold/2026/11/12/epuletomlas-new-york-brooklyn-halalos-aldozat-serultek/",
+        "image": "https://kep.index.hu/1/0/7252/72524/725245/72524515_5344093_d7d51902d404a951bd3ff29d9da7830d_wm.jpg",
+        "summary": "Két ember meghalt, tizenheten megsérültek.",
+        "category": "Általános",
+        "published_at": 1794463380
+      },
+      {
+        "source": "444.hu",
+        "title": "Összeomlott egy háromemeletes lakóház New Yorkban, legalább ketten meghaltak",
+        "link": "https://444.hu/2026/11/12/osszeomlott-egy-haromemeletes-lakohaz-new-yorkban-legalabb-ketten-meghaltak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A hatóságok szerint további 17-en megsérültek, de egyelőre nem tudni, hányan lehetnek még a romok alatt.",
+        "category": "Politika",
+        "published_at": 1794464065
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Nyolc halottja és több életveszélyes sérültje van a New York-i házomlásnak",
+        "link": "https://hvg.hu/vilag/20261112_new-york-brooklyn-hazomlas-halalos-aldozatok-serultek",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0183b3ba-c3ba-4825-a4cc-11f5fcf996e4.jpg",
+        "summary": "A hatóságok szerint többen a háromszintes lakóépület romjai alatt rekedhettek.",
+        "category": "Általános",
+        "published_at": 1794492348
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Már nyolc halálos áldozata van a New York-i házomlásnak",
+        "link": "https://telex.hu/kulfold/2026/11/12/new-york-brooklyn-hazomlas-mar-nyolc-halalos-aldozat",
+        "image": "https://assets.telex.hu/images/20261112/1794506936-temp-1dtg9i5bv95v4olgimi_cimlap-normal.jpg",
+        "summary": "A szóbeszéd ellenére nem adják fel a kutatás-mentést a tűzoltók, bár szakadni fog az eső.",
+        "category": "Politika",
+        "published_at": 1794507163
       }
     ]
   },
@@ -11639,7 +11614,7 @@
         "image": "https://raketa.hu/uploads/2023/12/IMG_20231225_033302.jpg",
         "summary": "És az igaz, hogy vasnál nehezebb elemek nem keletkezhetnek a Napban, vagy hogy nem végez keringő mozgást? És egy távoli napon vajon tényleg felrobban szupernóvaként? Teszteld a központi csillagunkkal kapcsolatos tudásodat a következő kvízzel!",
         "category": "Kultúra",
-        "published_at": 1794543320
+        "published_at": 1794543744
       }
     ]
   },
@@ -11751,7 +11726,7 @@
         "image": "https://raketa.hu/uploads/2026/11/endurance-energy-adelie-generator-deployment.jpg",
         "summary": "Az amerikai Endurance Energy mérnökei olyan generátort teszteltek, amely az óceánfenékből feltörő, rendkívül forró víz energiáját alakítja elektromos árammá.",
         "category": "Kultúra",
-        "published_at": 1794543320
+        "published_at": 1794543744
       }
     ]
   },
@@ -11768,6 +11743,102 @@
         "summary": "Antal Tímeával rengeteget változott a világ a tehetségkutató óta, élete legfontosabb szerepe egyértelműen az anyaság.",
         "category": "Bulvár",
         "published_at": 1794542700
+      }
+    ]
+  },
+  {
+    "group_id": "group_60cbf077ae",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Pete Hegseth kitüntette az őrt, aki rárivallt a katonatemetőben",
+        "link": "https://telex.hu/kulfold/2026/11/13/katona-raszolt-pete-hegsethre-kituntette-a-miniszter",
+        "image": "https://assets.telex.hu/images/20261112/1794524050-temp-8u50tanqu36pbmpklem_cimlap-normal.jpg",
+        "summary": "A katona jelezte a veteránok napján Arlingtonba látogató tisztviselőknek, hogy csendben kell lenni a sírkertben.",
+        "category": "Politika",
+        "published_at": 1794543602
+      }
+    ]
+  },
+  {
+    "group_id": "group_8b31e3dc11",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Ezekért érdemes moziba menni november 13-tól 20-ig",
+        "link": "https://telex.hu/karakter/kultura/2026/11/13/ezekert-erdemes-moziba-menni-november-13-tol-20-ig",
+        "image": "https://assets.telex.hu/images/20261111/1794391509-temp-shuc1k59s38jeehapjf_cimlap-normal.jpg",
+        "summary": "Itt a következő hét napra szóló Diszpó, a Telex rendszeres moziajánlója.",
+        "category": "Politika",
+        "published_at": 1794543062
+      }
+    ]
+  },
+  {
+    "group_id": "group_e2b49e5111",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Pósfai: A német sportminiszter irigykedett, amikor elmondtam neki, mennyi pénzt adunk a sportra",
+        "link": "https://telex.hu/sport/2026/11/13/posfai-merre-tovabb-magyar-sport-gyulay-mob-olimpiai-palyazat",
+        "image": "https://assets.telex.hu/images/20261112/1794513045-temp-5hq1bqmeo3v02bldlli_cimlap-normal.jpg",
+        "summary": "A 15 ezer milliárdos létesítményvagyon 18 milliárd forint bevételt hozott tavaly, ezen változtatni szeretne a magyar kormány.",
+        "category": "Politika",
+        "published_at": 1794542600
+      }
+    ]
+  },
+  {
+    "group_id": "group_31d352933c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Fedőneve: „Spektrum” – ahogyan azt a beszervezett és célpontja átélte",
+        "link": "https://telex.hu/ugynokaktak/2026/11/13/beszervezes-fedoneve-spektrum-beres-istvan",
+        "image": "https://assets.telex.hu/images/20261112/1794493404-temp-f05n8fhfrp4ealcodcb_cimlap-normal.jpg",
+        "summary": "Ungváry Krisztián írásában ahhoz ad adalékokat, hogy láthatók legyenek a beszervezési folyamat kényszerei és mozgásterei.",
+        "category": "Politika",
+        "published_at": 1794542566
+      }
+    ]
+  },
+  {
+    "group_id": "group_02c25ecb5c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A célzás nem volt tökéletes, de a bölcsődéknél látszik az uniós pénzek kedvező hatása",
+        "link": "https://telex.hu/g7/adat/2026/11/13/bolcsode-unios-tamogatas-kapacitas",
+        "image": "https://assets.telex.hu/images/20261108/1794157993-temp-atrl30lkt32iflbddee_cimlap-normal.jpg",
+        "summary": "A bölcsődék fejlesztése az uniós források egyik kiemelt célja volt, és bár az ellátás hiányosságait nem sikerült maradéktalanul felszámolni, a területi lefedettség jelentősen javult az elmúlt években.",
+        "category": "Politika",
+        "published_at": 1794541804
+      }
+    ]
+  },
+  {
+    "group_id": "group_e73531f8fe",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Veszprémben egy dél-koreai dobos mutatja meg, mit lehetne újragondolni a jazzben",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/suh-soojin-veszprem-koncert-del-korea-jazz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/AWXKe_XPe9Sk9djQj6t0xQld6cr4BpuKZLZhM6vzHEk/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTIvNWU4NDA5Y2YxYmM2MmU4NWU1ZTI4ODhlMThhNDhiODU0YWM5NzM1NGU5MmJmZmJkMzA0NDIxZGVlYjQwYjA0OQ.jpg",
+        "summary": "Különleges koreai jazzkoncert Veszprémben.",
+        "category": "Politika",
+        "published_at": 1794543628
       }
     ]
   }
