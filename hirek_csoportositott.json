@@ -32,19 +32,246 @@
     ]
   },
   {
-    "group_id": "group_0db451552b",
+    "group_id": "group_9240dc0864",
     "category": "Politika",
-    "articles_count": 17,
+    "articles_count": 7,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Lemondott Jensen Huang az Nvidia éléről, miután összekavart egy kínai kémmel és egy beosztottjával is",
+        "link": "https://444.hu/2026/11/12/lemondott-jensen-huang-az-nvidia-elerol-miutan-osszekavart-egy-kinai-kemmel-es-egy-beosztottjaval-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A botrányok után a piacvezető chipgyártó részvényárai őrületes zuhanásba kezdtek, ami nem tetszett az igazgatótanácsnak.",
+        "category": "Politika",
+        "published_at": 1794494381
+      },
+      {
+        "source": "ATV",
+        "title": "Lemondott a kémbotrányba keveredett Nvidia-vezérigazgató",
+        "link": "https://www.atv.hu/kulfold/20261112/lemondott-nvidia-vezerigazgato/",
+        "image": "https://www.youtube.com/embed/DVnV6Zy5kmU",
+        "summary": "Lemondott csütörtökön Jensen Huang, az amerikai Nvidia chipgyártó vállalat vezérigazgatója, miután egy feltételezett kínai kémmel folytatott házasságon kívüli kapcsolata nemzetbiztonsági aggályokat vetett fel.",
+        "category": "Általános",
+        "published_at": 1794511200
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Reuters: nem egy, hanem két alkalmazottjával is intim viszonya volt Jensen Huangnak",
+        "link": "https://www.portfolio.hu/befektetes/20261112/reuters-nem-egy-hanem-ket-alkalmazottjaval-is-intim-viszonya-volt-jensen-huangnak-876164",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2208377724-1-rfolyam-befektets-chipgyrt-grafikon-nvidia-rszvny-rszvny-746871.jpg",
+        "summary": "Újabb részletek láttak napvilágot az Nvidia csütörtökön lemondott vezérigazgatója, Jensen Huang magánéleti botrányáról. A Reuters hírügynökség értesülései szerint a leváltott cégvezetőnek egy második vállalati alkalmazottal is intim viszonya volt, ami tovább súlyosbítja a távozásához vezető hűtlenségi ügyeket.",
+        "category": "Gazdaság",
+        "published_at": 1794512880
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Porig alázta saját utódját Jensen Huang – Döbbenetes részletek szivárogtak ki az Nvidia kulisszái mögül",
+        "link": "https://www.portfolio.hu/befektetes/20261113/porig-alazta-sajat-utodjat-jensen-huang-dobbenetes-reszletek-szivarogtak-ki-az-nvidia-kulisszai-mogul-876212",
+        "image": "https://pcdn.hu/articles/images-xl/j/e/n/jensen-huang-869344.jpg",
+        "summary": "Súlyos vezetői konfliktusok és komoly pénzügyi kockázatok előzték meg Jensen Huang távozását az Nvidia éléről - írja a The Wall Street Journal. A leváltott vezérigazgató még a nyáron kemény szavakkal illette a helyét ideiglenesen átvevő Colette Kresst, miközben a vállalat egyre kockázatosabb üzletekkel próbálta fenntartani a mesterséges intelligenciára épülő ökoszisztémát, a legnagyobb ügyfelei pedig már a cég elhagyását tervezték.",
+        "category": "Gazdaság",
+        "published_at": 1794556320
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Szenátus elé citálják a lemondott Nvidia-vezért, akiről már egy harmadik házasságtörő viszony miatt is írnak",
+        "link": "https://hvg.hu/gazdasag/20261113_nvidia-chipgyarto-jensen-huang-szenatusi-meghallgatas-hazzasagtores-viszony-kinai-kemno",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8ead39c1-fb46-46a3-b86a-2ea4b7f2bc47.jpg",
+        "summary": "A feltételezett kínai kémnő mellett, viszonyt folytathatott cége egyik alelnökével és egy másik, meg nem nevezett alkalmazottjával is Jensen Huang, az Nvidia csütörtökön lemondott elnök-vezérigíztatója. Huanggal már az amerikai szenátorok is el akarnak beszélgetni.",
+        "category": "Gazdaság",
+        "published_at": 1794556260
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Tovább zuhannak az Nvidia részvényei: újabb szeretőre derült fény",
+        "link": "https://24.hu/tech/2026/11/13/nvidia-reszvenyek-jensen-huang-harmadik-szereto-kongresszus/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2299248530-e1794568379189-1024x577.jpg",
+        "summary": "Hiába kényszerült lemondásra az Nvidia éléről Jensen Huang a szexbotrányai miatt, Kongresszus előtt kell felelnie a kínai kémnő ügye miatt. The post Tovább zuhannak az Nvidia részvényei: újabb szeretőre derült fény first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1794568387
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Szenátusi meghallgatásra idézték az Nvidia lemondott vezérét a kínai kémbotrány miatt",
+        "link": "https://index.hu/kulfold/2026/11/13/nvidia-vezeto-jensen-huang-szenatus-kereskedelmi-miniszter-meghallgatas/",
+        "image": "https://kep.index.hu/1/0/7253/72537/725378/72537863_5345011_d50ddeaceeef8b03a1643bc7270b0988_wm.jpg",
+        "summary": "Decemberben tartják Jensen Huang nyilvános meghallgatását.",
+        "category": "Általános",
+        "published_at": 1794577140
+      }
+    ]
+  },
+  {
+    "group_id": "group_e1653dbfdf",
+    "category": "Politika",
+    "articles_count": 1,
     "articles": [
       {
         "source": "Hír TV",
-        "title": "Isztambuli Egyezmény: miért kapcsolja össze a kormány a nők védelmét a genderfogalommal?",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/isztambuli-egyezmeny-genderfogalom-kdnp",
-        "image": "https://cdn.hirtv.hu/2026/11/gugZWpniIn-l-IFs5wyMdlWdUaa9FX5XnAYtqVQbZEA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U5ZWY0NDcwODIyMTQyNDE5YWMyYWJlODY1Mzk5Yzc0.webp",
-        "summary": "A KDNP a genderfogalom jogi következményeit kifogásolja.",
+        "title": "Kiadta Kulja András mentelmi jogát az Európai Parlament",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/kiadta-kulja-andras-mentelmi-jogat-az-europai-parlament",
+        "image": "https://cdn.hirtv.hu/2026/11/rZXf9Vd-glhVQQs3ne90jvEGPjy1dBMFLbikt_kaigw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RiODVjOGFmZmRkOTQzNzhiMzdiMzUxNjkzMzE1ZDRh.webp",
+        "summary": "Brüsszelből Gulyás Áron tudósított.",
         "category": "Politika",
-        "published_at": 1794494063
+        "published_at": 1794494365
+      }
+    ]
+  },
+  {
+    "group_id": "group_a562b1934a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "LMBTQ-zászlók középületeken: a Tisza nem támogatta Novák Előd javaslatát",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/lmbtq-zaszlok-kozintezmenyek-szavazas",
+        "image": "https://cdn.hirtv.hu/2026/11/SLhOLLDVsu6XdKAQWI9dIGc-OzzOxsufLC6C0PB-F0Y/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA1N2VjMjRiMWFkNzRkYjNhYzBmNDk3ODc0ZWY5N2Fh.webp",
+        "summary": "A közintézmények jelképhasználatáról vitáznak a pártok.",
+        "category": "Politika",
+        "published_at": 1794494352
+      }
+    ]
+  },
+  {
+    "group_id": "group_db7dc95919",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Alig mondták ki az ítéletet, már jön is a dokumentumfilm Russell Brand gaztetteiről",
+        "link": "https://24.hu/kultura/2026/11/12/russell-brand-netflix-dokumentumfilm/",
+        "image": "https://s.24.hu/app/uploads/2026/11/russell-brand-netflix-dokumentumfilm-043_apaimg_116490888-1024x576.jpg",
+        "summary": "A brit híresség régi stand-up előadását viszont még mindig nem veszik ki a kínálatból. The post Alig mondták ki az ítéletet, már jön is a dokumentumfilm Russell Brand gaztetteiről first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794494223
+      }
+    ]
+  },
+  {
+    "group_id": "group_2c175ba386",
+    "category": "Gazdaság",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Ritkán látni ekkora leolvadást: mélyrepülésben az Nvidia a vezéráldozat hírére – ötszázmilliárd dollár égett el a tőzsdén pillanatok alatt",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/nvidia-jensen-huang-reszveny-zuhanas-chipgyarto?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/09/YTT9bC8YFqG-1wAM3oUYTCQjU4AuUB9FYS8JyfXBycw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzExZWFlYWJhYzAzNTRkMmNhM2FmMmU1ZmQxYTkyNDQz.jpg",
+        "summary": "Jensen Huang a kémbotrány miatt lemondott az Nvidia éléről, a befektetők pánikolnak.",
+        "category": "Gazdaság",
+        "published_at": 1794494449
       },
+      {
+        "source": "Világgazdaság",
+        "title": "Szexbotrány, kínai kém és tőzsdei pánik: az Nvidia vezérének bukása megrázta az egész részvénypiacot",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/reszvenypiac-nvidia-huang-fed-kamat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/pRbBrRpi3uvrAX-DoABQSTPNAKSWvlWR-7p00AwODcI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwNmU4MWRkZTFlNTQ2NmJiNjM1ZTZlY2Y2NThmZGY1.jpg",
+        "summary": "Az Nvidia részvényei zuhantak, az ázsiai tőzsdék pénteken már az előző napok veszteségeit próbálták ledolgozni.",
+        "category": "Gazdaság",
+        "published_at": 1794550839
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Elképesztően olcsó lett az Nvidia - Itt az évtized befektetési lehetősége?",
+        "link": "https://www.portfolio.hu/befektetes/20261113/elkepesztoen-olcso-lett-az-nvidia-itt-az-evtized-befektetesi-lehetosege-876134",
+        "image": "https://pcdn.hu/articles/images-xl/j/e/n/jensen-huang-869244.jpg",
+        "summary": "Kevés olyan részvény van a világon, amelyik annyi pénzt termelt a befektetőinek az elmúlt években, mint az Nvidia. Most viszont pont az ellenkezője megy, elképesztő vagyonok tűnnek el, a vállalat körüli bizonytalanság folyamatosan nő, az elemzők pedig egymás után vágják vissza a céláraikat. Közben az Nvidia részvénye most olyan olcsónak tűnik, ami alapján korábban csukott szemmel meg kellett venni. De vajon most is működik a régi recept, vagy ez is csak egy tőzsdei csapda? Megnéztük, mit mutatnak a számok, milyen kockázatokat áraz a piac, és mire érdemes most különösen figyelniük azoknak, akik Nvidia-részvények vásárlásán gondolkodnak.",
+        "category": "Gazdaság",
+        "published_at": 1794553620
+      }
+    ]
+  },
+  {
+    "group_id": "group_08fde90085",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Már milliók rendelnek a lengyeleknél az interneten, az Allegro még a kínaiakkal szemben is nyomul",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/allegro-online-kereskedelem-teljesitmeny-2026-temu-vam?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/KEFAqaQLEzVGdBEJ3TmJMq4PkMwxNl6ToIDWU3KveF0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YzY2JhZmY2YTFkMjRhZjk4ZjRkMjg5ODIxMWZhYTE1.jpg",
+        "summary": "Növelte előnyét a népszerű lengyel online piactér.",
+        "category": "Gazdaság",
+        "published_at": 1794494259
+      }
+    ]
+  },
+  {
+    "group_id": "group_3795a4b3e9",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Gyulay Zsolt biztos abban, hogy a magyar társadalomnak szüksége van a budapesti olimpiára",
+        "link": "https://index.hu/sport/2026/11/12/olimpia-budapest-rendezes-merre-tovabb-magyar-sport-konferencia-kalnoki-kiss-attila-gyulay-zsolt/",
+        "image": "https://kep.index.hu/1/0/7253/72532/725320/72532029_5344599_c37016962ac7fb96a8e4a529d58d2864_wm.jpg",
+        "summary": "„Nem attól lesz politikusmentes a sport, hogy nem Kósa Lajosok és Németh Szilárdok vezetik a szövetségeket.\"",
+        "category": "Általános",
+        "published_at": 1794494640
+      }
+    ]
+  },
+  {
+    "group_id": "group_b1c4051587",
+    "category": "Politika",
+    "articles_count": 5,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Vadásznak önre. Orbán: Ó.",
+        "link": "https://telex.hu/belfold/2026/11/12/orban-viktor-vadaszat-facebook-tiszitotuz",
+        "image": "https://assets.telex.hu/images/20261112/1794494947-temp-u6tnbre412k4ckgefpm_cimlap-normal.jpg",
+        "summary": "Egy kisbuszból jelentkezett be a volt miniszterelnök, arról beszélt, hogy vadásznak rá, de nem mindig a vadász győz.",
+        "category": "Politika",
+        "published_at": 1794494984
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Orbán Viktor: Nem mindig a vadász győz!",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/orban-viktor-nem-mindig-a-vadasz-gyoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/10/aB2vQMs063AhzLhM_SIR4l3ze5cE-rSQDTbTJpVl5qA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3NWIzOWY0MDQzZTQ1MzE5MzE2Y2U1MjQ1ZWNjMTI4.jpg",
+        "summary": "Lazán kezeli a volt miniszterelnök, hogy vadásznak rá.",
+        "category": "Politika",
+        "published_at": 1794494757
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Orbán Viktor szerint ez a leszámolás időszaka, de „nem mindig a vadász győz”",
+        "link": "https://index.hu/belfold/2026/11/12/orban-viktor-leszamolas-politikai-bosszu/",
+        "image": "https://kep.index.hu/1/0/6959/69591/695919/69591995_5135355_044b19e5e3c3f1454ed88e3c7d585516_wm.jpg",
+        "summary": "A volt miniszterelnök azt mondta, nem először vadásznak rá.",
+        "category": "Politika",
+        "published_at": 1794495180
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Orbán Viktor: Nem az első vadászszezon, amikor én vagyok a célpont",
+        "link": "https://www.vadhajtasok.hu/2026/11/12/orban-viktor-nem-az-elso-vadaszszezon-amikor-en-vagyok-a-celpont",
+        "image": "",
+        "summary": "Rövid videóval jelentkezett közösségi oldalán Orbán Viktor.",
+        "category": "Politika",
+        "published_at": 1794498120
+      },
+      {
+        "source": "444.hu",
+        "title": "Orbán Viktor: Varga Judit többször is le akart mondani a borzalmas otthoni állapotok miatt, de én rábeszéltem, hogy maradjon",
+        "link": "https://444.hu/2026/11/12/orban-viktor-varga-judit-tobbszor-is-le-akart-mondani-a-borzalmas-otthoni-allapotok-miatt-de-en-rabeszeltem-hogy-maradjon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "„Nem csináltunk semmi olyasmit, amiért felelősségre lehetne minket vonni” – állította a volt miniszterelnök, aki szerint vadásznak rá, de „nem mindig a vadász győz”.",
+        "category": "Politika",
+        "published_at": 1794498010
+      }
+    ]
+  },
+  {
+    "group_id": "group_0db451552b",
+    "category": "Politika",
+    "articles_count": 16,
+    "articles": [
       {
         "source": "Telex - Belföld",
         "title": "A KDNP szerint Magyar Péter csak terel az isztambuli egyezménnyel",
@@ -188,358 +415,6 @@
         "summary": "Varga Judit ismét kommentben leplezte le Magyar Pétert.",
         "category": "Politika",
         "published_at": 1794570720
-      }
-    ]
-  },
-  {
-    "group_id": "group_294bc76ffb",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Pénzügyminisztérium: Méltatlan támadás, hogy Hadházy szerint a Microsoft-ügy kulcsfiguráját nevezték ki a KEF élére",
-        "link": "https://24.hu/belfold/2026/11/12/penzugyminiszterum-hadhazy-akos-meltatlan-tamadas/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1107297813-e1794493849207-1024x577.jpg",
-        "summary": "Novák-Soós Zsuzsanna jogi lépéseket mérlegel, a tárca szerint csak technikai szerepe volt a vitatott NAV-beszerzésben. The post Pénzügyminisztérium: Méltatlan támadás, hogy Hadházy szerint a Microsoft-ügy kulcsfiguráját nevezték ki a KEF élére first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794493883
-      }
-    ]
-  },
-  {
-    "group_id": "group_9240dc0864",
-    "category": "Kultúra",
-    "articles_count": 8,
-    "articles": [
-      {
-        "source": "HWSW",
-        "title": "Távozik Jensen Huang, szakad az Nvidia",
-        "link": "https://www.hwsw.hu/hirek/71198/jensen-huang-nvidia-ceo-lemondas.html",
-        "image": "",
-        "summary": "A vezető tette naggyá a céget és az egész AI-iparágat, de belebukott a kémsztorival átszőtt szerelmi afférba.",
-        "category": "Kultúra",
-        "published_at": 1794493810
-      },
-      {
-        "source": "444.hu",
-        "title": "Lemondott Jensen Huang az Nvidia éléről, miután összekavart egy kínai kémmel és egy beosztottjával is",
-        "link": "https://444.hu/2026/11/12/lemondott-jensen-huang-az-nvidia-elerol-miutan-osszekavart-egy-kinai-kemmel-es-egy-beosztottjaval-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A botrányok után a piacvezető chipgyártó részvényárai őrületes zuhanásba kezdtek, ami nem tetszett az igazgatótanácsnak.",
-        "category": "Politika",
-        "published_at": 1794494381
-      },
-      {
-        "source": "ATV",
-        "title": "Lemondott a kémbotrányba keveredett Nvidia-vezérigazgató",
-        "link": "https://www.atv.hu/kulfold/20261112/lemondott-nvidia-vezerigazgato/",
-        "image": "https://www.youtube.com/embed/DVnV6Zy5kmU",
-        "summary": "Lemondott csütörtökön Jensen Huang, az amerikai Nvidia chipgyártó vállalat vezérigazgatója, miután egy feltételezett kínai kémmel folytatott házasságon kívüli kapcsolata nemzetbiztonsági aggályokat vetett fel.",
-        "category": "Általános",
-        "published_at": 1794511200
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Reuters: nem egy, hanem két alkalmazottjával is intim viszonya volt Jensen Huangnak",
-        "link": "https://www.portfolio.hu/befektetes/20261112/reuters-nem-egy-hanem-ket-alkalmazottjaval-is-intim-viszonya-volt-jensen-huangnak-876164",
-        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2208377724-1-rfolyam-befektets-chipgyrt-grafikon-nvidia-rszvny-rszvny-746871.jpg",
-        "summary": "Újabb részletek láttak napvilágot az Nvidia csütörtökön lemondott vezérigazgatója, Jensen Huang magánéleti botrányáról. A Reuters hírügynökség értesülései szerint a leváltott cégvezetőnek egy második vállalati alkalmazottal is intim viszonya volt, ami tovább súlyosbítja a távozásához vezető hűtlenségi ügyeket.",
-        "category": "Gazdaság",
-        "published_at": 1794512880
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Porig alázta saját utódját Jensen Huang – Döbbenetes részletek szivárogtak ki az Nvidia kulisszái mögül",
-        "link": "https://www.portfolio.hu/befektetes/20261113/porig-alazta-sajat-utodjat-jensen-huang-dobbenetes-reszletek-szivarogtak-ki-az-nvidia-kulisszai-mogul-876212",
-        "image": "https://pcdn.hu/articles/images-xl/j/e/n/jensen-huang-869344.jpg",
-        "summary": "Súlyos vezetői konfliktusok és komoly pénzügyi kockázatok előzték meg Jensen Huang távozását az Nvidia éléről - írja a The Wall Street Journal. A leváltott vezérigazgató még a nyáron kemény szavakkal illette a helyét ideiglenesen átvevő Colette Kresst, miközben a vállalat egyre kockázatosabb üzletekkel próbálta fenntartani a mesterséges intelligenciára épülő ökoszisztémát, a legnagyobb ügyfelei pedig már a cég elhagyását tervezték.",
-        "category": "Gazdaság",
-        "published_at": 1794556320
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Szenátus elé citálják a lemondott Nvidia-vezért, akiről már egy harmadik házasságtörő viszony miatt is írnak",
-        "link": "https://hvg.hu/gazdasag/20261113_nvidia-chipgyarto-jensen-huang-szenatusi-meghallgatas-hazzasagtores-viszony-kinai-kemno",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8ead39c1-fb46-46a3-b86a-2ea4b7f2bc47.jpg",
-        "summary": "A feltételezett kínai kémnő mellett, viszonyt folytathatott cége egyik alelnökével és egy másik, meg nem nevezett alkalmazottjával is Jensen Huang, az Nvidia csütörtökön lemondott elnök-vezérigíztatója. Huanggal már az amerikai szenátorok is el akarnak beszélgetni.",
-        "category": "Gazdaság",
-        "published_at": 1794556260
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Tovább zuhannak az Nvidia részvényei: újabb szeretőre derült fény",
-        "link": "https://24.hu/tech/2026/11/13/nvidia-reszvenyek-jensen-huang-harmadik-szereto-kongresszus/",
-        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2299248530-e1794568379189-1024x577.jpg",
-        "summary": "Hiába kényszerült lemondásra az Nvidia éléről Jensen Huang a szexbotrányai miatt, Kongresszus előtt kell felelnie a kínai kémnő ügye miatt. The post Tovább zuhannak az Nvidia részvényei: újabb szeretőre derült fény first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1794568387
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Szenátusi meghallgatásra idézték az Nvidia lemondott vezérét a kínai kémbotrány miatt",
-        "link": "https://index.hu/kulfold/2026/11/13/nvidia-vezeto-jensen-huang-szenatus-kereskedelmi-miniszter-meghallgatas/",
-        "image": "https://kep.index.hu/1/0/7253/72537/725378/72537863_5345011_d50ddeaceeef8b03a1643bc7270b0988_wm.jpg",
-        "summary": "Decemberben tartják Jensen Huang nyilvános meghallgatását.",
-        "category": "Általános",
-        "published_at": 1794577140
-      }
-    ]
-  },
-  {
-    "group_id": "group_2c63c20d57",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Bármi lehet hamis a közösségi médiában: így magyarázd el a gyereknek, mire képes az AI",
-        "link": "https://femina.hu/gyerek/ai-hamis-tartalmak-kozossegi-media-gyerekek/",
-        "image": "https://femina.hu/neon/media/renditions/437/437441/74d7ad17b5ad0256.jpg",
-        "summary": "A mesterséges intelligencia segítségével gyakorlatilag bármit meg lehet jeleníteni egy videóban. Ezzel még mindig sokan nincsenek tisztában, egyre több olyan tartalom van, ami elsőre teljesen valósnak tűnik.",
-        "category": "Bulvár",
-        "published_at": 1794493800
-      }
-    ]
-  },
-  {
-    "group_id": "group_628a136c21",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "8 dolog, amit soha ne tárolj simítózáras műanyag zacskóban",
-        "link": "https://nlc.hu/eletmod/20261112/zipzaras-zacsko-tarolas-8-dolog-muanyag-zacskoban/",
-        "image": "",
-        "summary": "Szendvics, felvágott gyümölcs, maradék sajt, apró alkatrészek: a simítózáras műanyag zacskó szinte minden háztartásban univerzális tárolóeszköznek számít. Csakhogy nem mindennek tesz jót a légmentesen zárt műanyag. Egyes élelmiszerek gyorsabban megromolhatnak benne, a nedvesség tönkretehet ruhákat és elektronikai eszközöket, a forró ételnél pedig már maga a hő is problémás lehet. The post 8 dolog, amit soha ne tárolj simítózáras műanyag zacskóban first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794493980
-      }
-    ]
-  },
-  {
-    "group_id": "group_e1653dbfdf",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Kiadta Kulja András mentelmi jogát az Európai Parlament",
-        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/kiadta-kulja-andras-mentelmi-jogat-az-europai-parlament",
-        "image": "https://cdn.hirtv.hu/2026/11/rZXf9Vd-glhVQQs3ne90jvEGPjy1dBMFLbikt_kaigw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RiODVjOGFmZmRkOTQzNzhiMzdiMzUxNjkzMzE1ZDRh.webp",
-        "summary": "Brüsszelből Gulyás Áron tudósított.",
-        "category": "Politika",
-        "published_at": 1794494365
-      }
-    ]
-  },
-  {
-    "group_id": "group_a562b1934a",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "LMBTQ-zászlók középületeken: a Tisza nem támogatta Novák Előd javaslatát",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/lmbtq-zaszlok-kozintezmenyek-szavazas",
-        "image": "https://cdn.hirtv.hu/2026/11/SLhOLLDVsu6XdKAQWI9dIGc-OzzOxsufLC6C0PB-F0Y/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA1N2VjMjRiMWFkNzRkYjNhYzBmNDk3ODc0ZWY5N2Fh.webp",
-        "summary": "A közintézmények jelképhasználatáról vitáznak a pártok.",
-        "category": "Politika",
-        "published_at": 1794494352
-      }
-    ]
-  },
-  {
-    "group_id": "group_db7dc95919",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Alig mondták ki az ítéletet, már jön is a dokumentumfilm Russell Brand gaztetteiről",
-        "link": "https://24.hu/kultura/2026/11/12/russell-brand-netflix-dokumentumfilm/",
-        "image": "https://s.24.hu/app/uploads/2026/11/russell-brand-netflix-dokumentumfilm-043_apaimg_116490888-1024x576.jpg",
-        "summary": "A brit híresség régi stand-up előadását viszont még mindig nem veszik ki a kínálatból. The post Alig mondták ki az ítéletet, már jön is a dokumentumfilm Russell Brand gaztetteiről first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794494223
-      }
-    ]
-  },
-  {
-    "group_id": "group_ca0f066e9a",
-    "category": "Általános",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Szívhangrendelet, esemény utáni tabletta – fontos részleteket közölt az Egészségügyi Minisztérium",
-        "link": "https://24.hu/belfold/2026/11/12/szivhangrendelet-esemeny-utani-tabletta-reszletek-egeszsegugyi-miniszterium/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1097408089-e1794493975379-1024x577.jpg",
-        "summary": "A várandós nőnek nem kell indokolnia, ha nem kéri a magzati életfunkciók megismerését, az eseményi utáni tabletta kiadását gyógyszerészi konzultációhoz kötik. The post Szívhangrendelet, esemény utáni tabletta – fontos részleteket közölt az Egészségügyi Minisztérium first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794493989
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Részleteket közölt az Egészségügyi Minisztérium: kiderült, pontosan hogyan változik a szívhangrendelet",
-        "link": "https://index.hu/belfold/2026/11/12/szivhangrendelet-modositas-egeszsegugyi-miniszterium-esemeny-utani-tabletta-veny-nelkuli/",
-        "image": "https://kep.index.hu/1/0/7253/72533/725331/72533161_5344681_100ea77454ea84776d1603d4f1310402_wm.jpg",
-        "summary": "Az esemény utáni tabletta kiváltásának folyamatáról is tájékoztattak.",
-        "category": "Általános",
-        "published_at": 1794497820
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Megmagyarázta az Egészségügyi Minisztérium, hogyan módosítják a szívhangrendeletet",
-        "link": "https://telex.hu/belfold/2026/11/13/egeszsegugy-szivhangrendelet-gyogyszer-terhesseg-egeszsegugyi-miniszterium",
-        "image": "https://assets.telex.hu/images/20261113/1794575762-temp-pmik9rmbch697fdlmph_cimlap-normal.jpg",
-        "summary": "A várandós nőknek nyújtott segítséget is kiterjesztenék.",
-        "category": "Politika",
-        "published_at": 1794575983
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Újabb részletek derültek ki a Magyar Péter által belengetett nőjogi csomagról - Így változik a szívhangrendelet pontosan",
-        "link": "https://www.portfolio.hu/gazdasag/20261113/ujabb-reszletek-derultek-ki-a-magyar-peter-altal-belengetett-nojogi-csomagrol-igy-valtozik-a-szivhangrendelet-pontosan-876328",
-        "image": "https://pcdn.hu/articles/images-xl/s/z/u/szules-orvos-vizsgalag-633147.jpg",
-        "summary": "Megszűnik a magzati szívhang kötelező meghallgatása a terhességmegszakítás előtt, a sürgősségi fogamzásgátló tabletta pedig vény nélkül is elérhetővé válik a 14 év felettiek számára. Az Egészségügyi Minisztérium felgyorsítja a Magyar Péter miniszterelnök által bejelentett, nőket érintő intézkedéscsomag bevezetését, amelynek célja a nem kívánt terhességek számának csökkentése, valamint az érintettek nyomásmentes és valódi segítése - írta meg a Telex, valamint derült ki az MTI-hez eljutatott minisztériumi közleményből.",
-        "category": "Politika",
-        "published_at": 1794579240
-      }
-    ]
-  },
-  {
-    "group_id": "group_2c175ba386",
-    "category": "Gazdaság",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Ritkán látni ekkora leolvadást: mélyrepülésben az Nvidia a vezéráldozat hírére – ötszázmilliárd dollár égett el a tőzsdén pillanatok alatt",
-        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/nvidia-jensen-huang-reszveny-zuhanas-chipgyarto?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/09/YTT9bC8YFqG-1wAM3oUYTCQjU4AuUB9FYS8JyfXBycw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzExZWFlYWJhYzAzNTRkMmNhM2FmMmU1ZmQxYTkyNDQz.jpg",
-        "summary": "Jensen Huang a kémbotrány miatt lemondott az Nvidia éléről, a befektetők pánikolnak.",
-        "category": "Gazdaság",
-        "published_at": 1794494449
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Szexbotrány, kínai kém és tőzsdei pánik: az Nvidia vezérének bukása megrázta az egész részvénypiacot",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/reszvenypiac-nvidia-huang-fed-kamat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/pRbBrRpi3uvrAX-DoABQSTPNAKSWvlWR-7p00AwODcI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwNmU4MWRkZTFlNTQ2NmJiNjM1ZTZlY2Y2NThmZGY1.jpg",
-        "summary": "Az Nvidia részvényei zuhantak, az ázsiai tőzsdék pénteken már az előző napok veszteségeit próbálták ledolgozni.",
-        "category": "Gazdaság",
-        "published_at": 1794550839
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Elképesztően olcsó lett az Nvidia - Itt az évtized befektetési lehetősége?",
-        "link": "https://www.portfolio.hu/befektetes/20261113/elkepesztoen-olcso-lett-az-nvidia-itt-az-evtized-befektetesi-lehetosege-876134",
-        "image": "https://pcdn.hu/articles/images-xl/j/e/n/jensen-huang-869244.jpg",
-        "summary": "Kevés olyan részvény van a világon, amelyik annyi pénzt termelt a befektetőinek az elmúlt években, mint az Nvidia. Most viszont pont az ellenkezője megy, elképesztő vagyonok tűnnek el, a vállalat körüli bizonytalanság folyamatosan nő, az elemzők pedig egymás után vágják vissza a céláraikat. Közben az Nvidia részvénye most olyan olcsónak tűnik, ami alapján korábban csukott szemmel meg kellett venni. De vajon most is működik a régi recept, vagy ez is csak egy tőzsdei csapda? Megnéztük, mit mutatnak a számok, milyen kockázatokat áraz a piac, és mire érdemes most különösen figyelniük azoknak, akik Nvidia-részvények vásárlásán gondolkodnak.",
-        "category": "Gazdaság",
-        "published_at": 1794553620
-      }
-    ]
-  },
-  {
-    "group_id": "group_08fde90085",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Már milliók rendelnek a lengyeleknél az interneten, az Allegro még a kínaiakkal szemben is nyomul",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/allegro-online-kereskedelem-teljesitmeny-2026-temu-vam?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/KEFAqaQLEzVGdBEJ3TmJMq4PkMwxNl6ToIDWU3KveF0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YzY2JhZmY2YTFkMjRhZjk4ZjRkMjg5ODIxMWZhYTE1.jpg",
-        "summary": "Növelte előnyét a népszerű lengyel online piactér.",
-        "category": "Gazdaság",
-        "published_at": 1794494259
-      }
-    ]
-  },
-  {
-    "group_id": "group_93482379ad",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Eldőlt: megvették a kínaiak a magyarok kedvenc elektronikai boltját 1335 millió euróért – ezt ígérik a vásárlóknak",
-        "link": "https://www.vg.hu/cegvilag/2026/11/mediamarkt-saturn-jdcom-kinai-felvasarlas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/7yfuoPX7Snq7ikMfRUKwsMnrZfcqZQ3rwDGNJKjkP8I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQ0ZGVmYWE0MGNkYTQ1ZWRiNTYxY2I4ZTQxZDIyZjEz.jpg",
-        "summary": "",
-        "category": "Gazdaság",
-        "published_at": 1794494123
-      }
-    ]
-  },
-  {
-    "group_id": "group_3795a4b3e9",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Gyulay Zsolt biztos abban, hogy a magyar társadalomnak szüksége van a budapesti olimpiára",
-        "link": "https://index.hu/sport/2026/11/12/olimpia-budapest-rendezes-merre-tovabb-magyar-sport-konferencia-kalnoki-kiss-attila-gyulay-zsolt/",
-        "image": "https://kep.index.hu/1/0/7253/72532/725320/72532029_5344599_c37016962ac7fb96a8e4a529d58d2864_wm.jpg",
-        "summary": "„Nem attól lesz politikusmentes a sport, hogy nem Kósa Lajosok és Németh Szilárdok vezetik a szövetségeket.\"",
-        "category": "Általános",
-        "published_at": 1794494640
-      }
-    ]
-  },
-  {
-    "group_id": "group_b1c4051587",
-    "category": "Politika",
-    "articles_count": 5,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Vadásznak önre. Orbán: Ó.",
-        "link": "https://telex.hu/belfold/2026/11/12/orban-viktor-vadaszat-facebook-tiszitotuz",
-        "image": "https://assets.telex.hu/images/20261112/1794494947-temp-u6tnbre412k4ckgefpm_cimlap-normal.jpg",
-        "summary": "Egy kisbuszból jelentkezett be a volt miniszterelnök, arról beszélt, hogy vadásznak rá, de nem mindig a vadász győz.",
-        "category": "Politika",
-        "published_at": 1794494984
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Orbán Viktor: Nem mindig a vadász győz!",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/orban-viktor-nem-mindig-a-vadasz-gyoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/10/aB2vQMs063AhzLhM_SIR4l3ze5cE-rSQDTbTJpVl5qA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3NWIzOWY0MDQzZTQ1MzE5MzE2Y2U1MjQ1ZWNjMTI4.jpg",
-        "summary": "Lazán kezeli a volt miniszterelnök, hogy vadásznak rá.",
-        "category": "Politika",
-        "published_at": 1794494757
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Orbán Viktor szerint ez a leszámolás időszaka, de „nem mindig a vadász győz”",
-        "link": "https://index.hu/belfold/2026/11/12/orban-viktor-leszamolas-politikai-bosszu/",
-        "image": "https://kep.index.hu/1/0/6959/69591/695919/69591995_5135355_044b19e5e3c3f1454ed88e3c7d585516_wm.jpg",
-        "summary": "A volt miniszterelnök azt mondta, nem először vadásznak rá.",
-        "category": "Politika",
-        "published_at": 1794495180
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Orbán Viktor: Nem az első vadászszezon, amikor én vagyok a célpont",
-        "link": "https://www.vadhajtasok.hu/2026/11/12/orban-viktor-nem-az-elso-vadaszszezon-amikor-en-vagyok-a-celpont",
-        "image": "",
-        "summary": "Rövid videóval jelentkezett közösségi oldalán Orbán Viktor.",
-        "category": "Politika",
-        "published_at": 1794498120
-      },
-      {
-        "source": "444.hu",
-        "title": "Orbán Viktor: Varga Judit többször is le akart mondani a borzalmas otthoni állapotok miatt, de én rábeszéltem, hogy maradjon",
-        "link": "https://444.hu/2026/11/12/orban-viktor-varga-judit-tobbszor-is-le-akart-mondani-a-borzalmas-otthoni-allapotok-miatt-de-en-rabeszeltem-hogy-maradjon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "„Nem csináltunk semmi olyasmit, amiért felelősségre lehetne minket vonni” – állította a volt miniszterelnök, aki szerint vadásznak rá, de „nem mindig a vadász győz”.",
-        "category": "Politika",
-        "published_at": 1794498010
       }
     ]
   },
@@ -1206,6 +1081,40 @@
         "summary": "A reality-sztárt hét hónapon belül negyedjére is beperelték. Kylie Jennert brutális vádakkal illeti egykori alkalmazottja.",
         "category": "Bulvár",
         "published_at": 1794497400
+      }
+    ]
+  },
+  {
+    "group_id": "group_ca0f066e9a",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Részleteket közölt az Egészségügyi Minisztérium: kiderült, pontosan hogyan változik a szívhangrendelet",
+        "link": "https://index.hu/belfold/2026/11/12/szivhangrendelet-modositas-egeszsegugyi-miniszterium-esemeny-utani-tabletta-veny-nelkuli/",
+        "image": "https://kep.index.hu/1/0/7253/72533/725331/72533161_5344681_100ea77454ea84776d1603d4f1310402_wm.jpg",
+        "summary": "Az esemény utáni tabletta kiváltásának folyamatáról is tájékoztattak.",
+        "category": "Általános",
+        "published_at": 1794497820
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Megmagyarázta az Egészségügyi Minisztérium, hogyan módosítják a szívhangrendeletet",
+        "link": "https://telex.hu/belfold/2026/11/13/egeszsegugy-szivhangrendelet-gyogyszer-terhesseg-egeszsegugyi-miniszterium",
+        "image": "https://assets.telex.hu/images/20261113/1794575762-temp-pmik9rmbch697fdlmph_cimlap-normal.jpg",
+        "summary": "A várandós nőknek nyújtott segítséget is kiterjesztenék.",
+        "category": "Politika",
+        "published_at": 1794575983
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Újabb részletek derültek ki a Magyar Péter által belengetett nőjogi csomagról - Így változik a szívhangrendelet pontosan",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/ujabb-reszletek-derultek-ki-a-magyar-peter-altal-belengetett-nojogi-csomagrol-igy-valtozik-a-szivhangrendelet-pontosan-876328",
+        "image": "https://pcdn.hu/articles/images-xl/s/z/u/szules-orvos-vizsgalag-633147.jpg",
+        "summary": "Megszűnik a magzati szívhang kötelező meghallgatása a terhességmegszakítás előtt, a sürgősségi fogamzásgátló tabletta pedig vény nélkül is elérhetővé válik a 14 év felettiek számára. Az Egészségügyi Minisztérium felgyorsítja a Magyar Péter miniszterelnök által bejelentett, nőket érintő intézkedéscsomag bevezetését, amelynek célja a nem kívánt terhességek számának csökkentése, valamint az érintettek nyomásmentes és valódi segítése - írta meg a Telex, valamint derült ki az MTI-hez eljutatott minisztériumi közleményből.",
+        "category": "Politika",
+        "published_at": 1794579240
       }
     ]
   },
@@ -8354,7 +8263,7 @@
   {
     "group_id": "group_0e36e51bf9",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -8382,6 +8291,15 @@
         "summary": "Az FBI által közzétett jelentés szerint az észak-koreai hackerek által üzemeltetett FaceStealer még a legtapasztaltabb felhasználókat is képes megtéveszteni. The post Kamu videóhívásokkal csalnak ki milliárdokat észak-koreai hackerek first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794572479
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Milliárdos kriptovagyont foglaltak le az amerikai hatóságok",
+        "link": "https://www.portfolio.hu/befektetes/20261113/milliardos-kriptovagyont-foglaltak-le-az-amerikai-hatosagok-876334",
+        "image": "https://pcdn.hu/articles/images-lg/n/a/g/nagyot-esett-a-bitcoin-egyre-tavolabb-a-10-ezer-dollar-290347.jpg",
+        "summary": "Mintegy 1,2 milliárd dollár értékű digitális vagyont foglaltak le az amerikai hatóságok, amelyet feltehetőleg észak-koreai hackerek loptak el a Binance kriptotőzsdéről. A több mint 6 milliárd dolláros zsákmányból eddig 2,7 milliárd dollárt sikerült befagyasztani, a támadásért pedig az FBI az észak-koreai hadsereghez köthető TraderTraitor csoportot teszi felelőssé.",
+        "category": "Gazdaság",
+        "published_at": 1794580320
       }
     ]
   },
@@ -12061,6 +11979,150 @@
         "summary": "Mindkét érintett polgármester élesen kirizálta a döntést.",
         "category": "Politika",
         "published_at": 1794580026
+      }
+    ]
+  },
+  {
+    "group_id": "group_fe2d333678",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Véget ért az informatikusok aranykora, a 900 ezres fizetés sem a régi sikertörténet",
+        "link": "https://index.hu/gazdasag/2026/11/13/it-it-szektor-programozo-fizetesek-informatika-mesterseges-intelligencia-ai/",
+        "image": "https://kep.index.hu/1/0/7253/72532/725328/72532867_5344661_99755ea43088c3ad012ab5653d3255f7_wm.jpg",
+        "summary": "Drámai fordulat az IT-piacon: már nem elég megtanulni programozni.",
+        "category": "Gazdaság",
+        "published_at": 1794580380
+      }
+    ]
+  },
+  {
+    "group_id": "group_b88cd9a0b2",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Súlyos NER-es ügyek, ezermilliárdos hitelek – az Eximbank most fontos részletet árult el az Indexnek",
+        "link": "https://index.hu/gazdasag/2026/11/13/eximbank-kormany-feljelentes-ner-hitel-hitelminosito/",
+        "image": "",
+        "summary": "Az állami bank nem lát súlyos pénzügyi veszélyt.",
+        "category": "Gazdaság",
+        "published_at": 1794580320
+      }
+    ]
+  },
+  {
+    "group_id": "group_f0c803c187",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Nagyon is jól élek nélküled",
+        "link": "https://telex.hu/after/2026/11/13/hogyan-tudnek-elni-nelkuled-2-kritika",
+        "image": "https://assets.telex.hu/images/20261112/1794494456-temp-0rvfrgjevouv3alfphm_cimlap-normal.jpg",
+        "summary": "A Hogyan tudnék élni nélküled? folytatása túlságosan is ragaszkodik az első film két főszereplőjéhez, miközben a többiekkel történnek az igazán érdekes dolgok. Aki azért ül be rá, hogy megint sok embert lásson Demjén-dalokat énekelni, az megkapja, amiért fizetett.",
+        "category": "Politika",
+        "published_at": 1794580471
+      }
+    ]
+  },
+  {
+    "group_id": "group_485e4a8237",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Olyasmit ígér az építőiparnak a kormány, amibe Lázár Jánosnak beletört a bicskája",
+        "link": "https://telex.hu/g7/vallalat/2026/11/13/otthon-start-wekerle-plusz-epitoipar-lakaspiac",
+        "image": "https://assets.telex.hu/images/20261113/1794572122-temp-ag9sn0nnp5kh8pddlcl_cimlap-normal.jpg",
+        "summary": "A Fidesz-kormányok lakáspolitikája drasztikus piaci kilengéseket produkált. Az új kormány kiszámíthatóbbá tenné a piacot, de sok múlik még a betervezett intézkedések részletein is.",
+        "category": "Politika",
+        "published_at": 1794579568
+      }
+    ]
+  },
+  {
+    "group_id": "group_ee9c81f3ad",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Megnemtámadási egyezményt ajánlott fel az orosz főtárgyaló",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/orosz-megnemtamadasi-egyezmeny-nato-haboru",
+        "image": "https://cdn.hirtv.hu/2026/11/F1-jis5EnG0Jy7gFXNKz3PS1FTFRYKIjDKO8s_43CoM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y5MzI2MDUxODA4NTRjYTQ5OWI0ZTJmOTNkMjE3YjE2.webp",
+        "summary": "Csizmadia Tamás jogász, elemző és Révész Béla geopoitikai elemző a Láncreakcióban.",
+        "category": "Politika",
+        "published_at": 1794580370
+      }
+    ]
+  },
+  {
+    "group_id": "group_4f9bc881e9",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kenterbe veri a legendás Ferrarikat ez a Hyundai",
+        "link": "https://24.hu/kozelet/2026/11/13/kenterbe-veri-a-legendas-ferrarikat-ez-a-hyundai/",
+        "image": "https://s.24.hu/app/uploads/2026/11/img_6045-1-e1794505510671-1024x576.jpg",
+        "summary": "A Hyundai Ioniq 6 N bogárszerű testében elfér a család, rajtautomatikával pedig 3,2 másodperc alatt van százon, és egész jól titkolja, mire képes. The post Kenterbe veri a legendás Ferrarikat ez a Hyundai first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794580209
+      }
+    ]
+  },
+  {
+    "group_id": "group_c84fdde5a6",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Világ",
+        "title": "Trump nem fogja megmenteni Ukrajnát, de sokkal rosszabb lehet Le Pen árulása",
+        "link": "https://hvg.hu/360/20261113_trump-nem-fogja-megmenteni-ukrajnat-de-sokkal-rosszabb-lehet-le-pen-arulasa",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/36716a83-b566-44c3-88fc-9b61ea7ec43e.jpg",
+        "summary": "Mujtaba Rahman arról ír, milyen lehetséges forgatókönyvek lehetségesek a szélsőjobboldali politikus választási győzelme esetén.",
+        "category": "Politika",
+        "published_at": 1794580200
+      }
+    ]
+  },
+  {
+    "group_id": "group_f817a6c077",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Hegedűs Zsolt döntött, lezárultak a kórházigazgatói pályázatok: három intézményben is új vezető veszi át az irányítást",
+        "link": "https://www.vg.hu/kozelet/2026/11/korhazigazgatoi-palyazat-orszagos-korhazi-foigazgatosag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/07/prbEoq36N4wVuyUYX4mlXIhaSjFHVNLJRQBc-dH4Jqk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRjMTc3NDNiYmNjNTQyZWZiNjZkYjNkZmM4MjJkYjAx.jpg",
+        "summary": "Lezárult a vezetői pályázati eljárás három hazai kórházban, és már az új főigazgatók személye is ismert.",
+        "category": "Gazdaság",
+        "published_at": 1794580056
+      }
+    ]
+  },
+  {
+    "group_id": "group_2b68beed61",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Egyszerű gyakorlatok nyakfájás és merevség ellen: mikor végezd óvatosan?",
+        "link": "https://femina.hu/egeszseg/nyakfajdalom-nyakmerevseg-ellen-gyakorlatok/",
+        "image": "https://femina.hu/neon/media/renditions/437/437290/cff7310a613e2506.jpg",
+        "summary": "A nyakfájdalom és nyak merevsége ellen az egyik legbiztosabb módszer a torna.",
+        "category": "Bulvár",
+        "published_at": 1794580200
       }
     ]
   }
