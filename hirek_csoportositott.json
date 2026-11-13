@@ -1,78 +1,5 @@
 [
   {
-    "group_id": "group_b5b26453e4",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Egy házaspár testét találták meg Szolnokon szerda este",
-        "link": "https://hvg.hu/itthon/20261112_szolnok-hazaspar-holttest-gyilkossag",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab2e18ed-eebe-42cd-b435-3a2054281318.jpg",
-        "summary": "Az elkövető egy gumilövedékes fegyverrel okozott halálos sérülést áldozatának, majd magával is végzett.",
-        "category": "Politika",
-        "published_at": 1794461870
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Egy házaspár holttestét találták meg Szolnokon, gumilövedékes fegyver okozta a halálos sérülést",
-        "link": "https://www.vadhajtasok.hu/2026/11/12/egy-hazaspar-holttestet-talaltak-meg-szolnokon-gumilovedekes-fegyver-okozta-a-halalos-serulest",
-        "image": "",
-        "summary": "Egy házaspár holttestét találták meg szerda este a rendőrök Szolnokon – írja a Police.hu.A rendőrség állampolgári bejelentés után nagy erőkkel vonult ki szerda este 21 órakor a József Attila útra, ahol egy házaspár holttestét...",
-        "category": "Politika",
-        "published_at": 1794468900
-      }
-    ]
-  },
-  {
-    "group_id": "group_546384c2b2",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Szabados Ági ritkán látott férje ennyire jó pasi: Péterről és kisfiukról nem sokszor mutat képet",
-        "link": "https://femina.hu/hazai_sztar/szabados-agi-ferje-peter-fiu-fotok/",
-        "image": "https://femina.hu/neon/media/images/Szabados_Agi_cover.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Ilyen sármos férje van az RTL csinos műsorvezetőjének.",
-        "category": "Bulvár",
-        "published_at": 1794462000
-      }
-    ]
-  },
-  {
-    "group_id": "group_3f30f14701",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Lelőtte házastársát, majd öngyilkos lett egy ember Szolnokon",
-        "link": "https://index.hu/belfold/2026/11/12/szolnok-hazaspar-meghalt-emberoles-ongyilkossag/",
-        "image": "https://kep.index.hu/1/0/7252/72524/725242/72524219_5344071_99ee9b42cd33bc4a43390d5e5c9a5092_wm.jpg",
-        "summary": "Gumilövedékes fegyverrel halálos sérülést okozhatott.",
-        "category": "Általános",
-        "published_at": 1794462180
-      }
-    ]
-  },
-  {
-    "group_id": "group_3c703795c6",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Gyilkosság történt Szolnokon",
-        "link": "https://444.hu/2026/11/12/gyilkossag-tortent-szolnokon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Az elkövető magával is végzett.",
-        "category": "Politika",
-        "published_at": 1794462189
-      }
-    ]
-  },
-  {
     "group_id": "group_183faa0f3c",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -85,22 +12,6 @@
         "summary": "Gyáranként több száz autóval maradhat el a termelés.",
         "category": "Gazdaság",
         "published_at": 1794462402
-      }
-    ]
-  },
-  {
-    "group_id": "group_83262bd446",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Munka és család egyensúlya: hogyan alakítja át a családot a munkába visszatérés?",
-        "link": "https://nlc.hu/csalad/20261112/munka-es-csalad-egyensulya-panelhosok/7ptfjzz",
-        "image": "",
-        "summary": "A munka és család egyensúlya sok családban akkor kerül igazán próbatétel elé, amikor megkezdődik a nők munkába visszatérése egy hosszabb otthon töltött időszak után. A családi szerepek változása nemcsak a munkahelyre való visszailleszkedésről szól, hanem arról is, hogyan oszlik meg az otthoni munka, és fenntartható-e a családi szerepek és egyensúly új rendszere. The post Munka és család egyensúlya: hogyan alakítja át a családot a munkába visszatérés? first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794461880
       }
     ]
   },
@@ -1129,6 +1040,22 @@
         "summary": "A sziget vezetése elutasítja Peking területi igényét.",
         "category": "Általános",
         "published_at": 1794472800
+      }
+    ]
+  },
+  {
+    "group_id": "group_b5b26453e4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Egy házaspár holttestét találták meg Szolnokon, gumilövedékes fegyver okozta a halálos sérülést",
+        "link": "https://www.vadhajtasok.hu/2026/11/12/egy-hazaspar-holttestet-talaltak-meg-szolnokon-gumilovedekes-fegyver-okozta-a-halalos-serulest",
+        "image": "",
+        "summary": "Egy házaspár holttestét találták meg szerda este a rendőrök Szolnokon – írja a Police.hu.A rendőrség állampolgári bejelentés után nagy erőkkel vonult ki szerda este 21 órakor a József Attila útra, ahol egy házaspár holttestét...",
+        "category": "Politika",
+        "published_at": 1794468900
       }
     ]
   },
@@ -10680,7 +10607,7 @@
   {
     "group_id": "group_9f9eb0cac0",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "444.hu",
@@ -10699,6 +10626,15 @@
         "summary": "Élesen kritizálta Takács Péter, volt egészségügyi államtitkár, hogy szabadon vásárolható lesz az esemény utáni tabletta. The post Takács Péter szerint a 14 éves lányok ezentúl úgy ehetik az esemény utáni tablettát, mint a cukrot first appeared on nlc.",
         "category": "Politika",
         "published_at": 1794543600
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Takács Péter: A 14 éves lányok ezentúl úgy ehetik az esemény utáni tablettát, mint a cukrot",
+        "link": "https://hvg.hu/itthon/20261113_takacs-peter-esemeny-utani-tabletta-magyar-peter-varga-judit",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5ad682e2-9d62-4700-bdab-a57e80f58a8f.jpg",
+        "summary": "A volt egészségügyi államtitkár arra reagált, hogy a kormány eltörölné az esemény utáni tabletták vénykötelességét.",
+        "category": "Politika",
+        "published_at": 1794548040
       }
     ]
   },
@@ -11747,7 +11683,7 @@
   {
     "group_id": "group_b893209b7b",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -11757,6 +11693,15 @@
         "summary": "Egy órán belül világszerte 74 országból jelentettek leállásokat, és sokaknál jelenleg sem működnek a szolgáltatások. The post Microsoft-leállás: tömegeknél nem működik az Outlook és a Teams first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794548002
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
+        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-fennakadas-teams-outlook-copilot/",
+        "image": "https://kep.index.hu/1/0/7253/72535/725357/72535721_5344849_7e3fa4506e88e2f53c7ffb26e344ed29_wm.jpg",
+        "summary": "A hiba elhárítása nem a várakozásoknak megfelelően alakul.",
+        "category": "Általános",
+        "published_at": 1794548340
       }
     ]
   },
@@ -11789,6 +11734,22 @@
         "summary": "Pozitív fordulatok jönnek pénteken!",
         "category": "Bulvár",
         "published_at": 1794547800
+      }
+    ]
+  },
+  {
+    "group_id": "group_628ef1ca43",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Kinizsi Ottó a Barátok közt szépfiújaként hódította meg az országot: 44 évesen totál ősz hajjal így néz ki",
+        "link": "https://femina.hu/hazai_sztar/kinizsi-otto-baratok-kozt-szepfiu-osz-haj-44-evesen/",
+        "image": "https://femina.hu/neon/media/images/kinizsi_otto_cover1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+        "summary": "Kinizsi Ottó ma már nagyon másképp fest, mint annak idején a Barátok köztben.",
+        "category": "Bulvár",
+        "published_at": 1794548400
       }
     ]
   }
