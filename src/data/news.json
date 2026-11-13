@@ -334,7 +334,7 @@
     "title_hu": "A Microsoft-kiesés az egészségügyi ellátást is megzavarta",
     "lead_hu": "A Microsoft szolgáltatásainak csütörtökön kezdődött zavara pénteken is számos országban nehezítette a munkát. Az Egyesült Királyságban az egészségügyi ellátás egyes részei is érintettek voltak, miközben a vállalat a hibák okát vizsgálta és folytatta a helyreállítást.",
     "content_hu": "• **Az Egyesült Királyság egészségügyi rendszere is fennakadásokat tapasztalt** A segélyhívó központok nehezebben tudták továbbítani a betegek adatait, a gyógyszertárak pedig problémákkal szembesültek a háziorvosi rendelőkkel való kapcsolattartásban. Egyes rendelők azt kérték a betegektől, hogy sürgős ügyben telefonon keressék őket.\n\n• **A Downdetector adatai szerint a csúcson mintegy 130 ezren jeleztek hibát** Az Egyesült Államokban több mint 25 ezer Outlook-panaszt regisztráltak, Európában pedig péntek reggel 43 ezernél is több ilyen jelzés érkezett. A Microsoft 365 szolgáltatásait világszerte körülbelül 430 millióan használják, ezért a ténylegesen érintettek száma meghaladhatta a hibajelzésekét.\n\n• **A Planner és a Microsoft állapotjelző oldala is érintett lehetett** A Telex beszámolója szerint a Teams és a Copilot mellett a Planner működésében is gondok voltak, és rövid időre a Microsoft hivatalos helyzetjelentő oldala is elérhetetlenné vált.\n\n• **A szerverellenőrző rendszer hibája is felmerült lehetséges magyarázatként** A Telex által ismertetett korai információk szerint egy meghibásodott ellenőrző rendszer több szerver kieséséhez, majd további kapcsolódó szolgáltatások zavaraihoz vezethetett. A Microsoft még nem közölte a végleges okot, és későbbre ígért részletes tájékoztatást.\n\n• **A javulás mellett is maradtak fennakadások** A Microsoft péntek dél körül több területen fokozatos előrelépésről számolt be, de a szolgáltatások állapota továbbra is ingadozott, a hiba elhárítása pedig folytatódott.",
-    "importance_score": 108.0,
+    "importance_score": 103.0,
     "top_rank": 4,
     "is_top_hero": false,
     "is_top_list": true
@@ -2855,42 +2855,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_8bf761e75f",
-    "slug": "hogyan-valt-a-pentek-13-a-balszerencse-jelkepeve-8bf761",
-    "tags": [
-      "pentek-13",
-      "babona",
-      "templomosok",
-      "tortenelem"
-    ],
-    "fingerprint": "6056db457b3b7bcb23c4b19a9b1ce112",
-    "category": "Általános",
-    "image": "https://cdn.borsonline.hu/2026/11/jjdhQUTmczyIItxa4zP0FaHuJcB5F9wbNnsCtzzpd6k/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzEyLzQyNDE1Y2Y0ZWU1OTIzZjhiMzY3ZGNhNjRlOGNmMTE4OGYzYjBiZDIzMWEyMGQ0Mzc2ZjY2MmQxMzA2YjJlYzU.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Sokan rettegnek tőle, de kevesen tudják: ezért lett a péntek 13 a balszerencse napja",
-        "link": "https://borsonline.origo.hu/titkos-aktak/2026/11/pentek-13-ezert-lett-balszerencse-napja"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Miért péntek 13. a legszerencsétlenebb nap?",
-        "link": "https://24.hu/tudomany/2026/11/13/pentek-13-balszerencse-szerencsetlenseg-babona/"
-      }
-    ],
-    "published_at": 1794573803,
-    "title_hu": "Hogyan vált a péntek 13. a balszerencse jelképévé?",
-    "lead_hu": "A péntek 13-ához kapcsolódó hiedelmek több kulturális és vallási hagyományból táplálkoznak. A babona kialakulásában szerepet játszhatott a 13-as számhoz fűződő rossz képzet, a péntek vallási jelentése, valamint a templomosok 1307-es elfogása is.",
-    "content_hu": "• **A 13-as számhoz társított jelentés** Több hagyományban a 12-es szám a teljességet jelképezte, ezért a következő számot a megszokott rend felborulásával kapcsolták össze.\n\n• **Vallási magyarázatok** A keresztény hagyomány szerint az utolsó vacsorán tizenhárman voltak jelen, Jézust pedig pénteken feszítették keresztre. Ezek az események hozzájárultak ahhoz, hogy mindkét elemhez baljós jelentés társuljon.\n\n• **A templomosok elfogása** IV. Fülöp francia király 1307. október 13-án, pénteken rendelte el a templomos lovagok elfogását. A történtek és a lovagokat érő üldöztetés később a péntek 13-ához kapcsolódó hiedelmek egyik ismert magyarázatává vált.\n\n• **A babona későbbi terjedése** A péntekhez és a 13-as számhoz kötődő elképzelések külön-külön korábban is léteztek, közös balszerencsés jelentésük azonban csak később terjedt el szélesebb körben.",
-    "importance_score": 28.0,
-    "top_rank": 65,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_1e505a5690",
     "slug": "ukrajna-tamogatasarol-es-az-eu-targyaloi-kepviseleterol-egyeztettek-dublinban-1e505a",
     "tags": [
@@ -2922,7 +2886,7 @@
     "lead_hu": "A dublini informális uniós tanácskozáson Ukrajna támogatása, a 2028-ban kezdődő hétéves költségvetés és a mesterséges intelligencia is napirendre került, hivatalos döntés nélkül. Magyar Péter a csúcstalálkozó idején Szvjatlana Cihanouszkajával is találkozott; az uniós vezetők az Ukrajnáról szóló tárgyalások európai képviseletéről is egyeztettek.",
     "content_hu": "• **Írország minden tagállamtól hozzájárulást vár Ukrajna támogatásához** Helen McEntee külügyminiszter a finanszírozást az európai biztonság szempontjából is fontosnak nevezte. Friedrich Merz német kancellár szintén közös teherviselést szorgalmazott, és ezt a Magyar Péterrel folytatott berlini találkozóján is felvetette.\n\n• **A 90 milliárd eurós kölcsön nem fedezi Ukrajna teljes finanszírozási igényét** A jóváhagyott összeg az idei és a jövő évi kiadásokhoz járul hozzá, de McEntee szerint további forrásokra is szükség lehet. A tagállamok a közös hitelfelvétel lehetőségéről is egyeztetnek.\n\n• **A dublini uniós tanácskozáson nem hoznak hivatalos döntést** A pénteki informális ülésen 27 állam- és kormányfő tárgyalt Ukrajna támogatásáról, a 2028-ban induló hétéves költségvetésről és a mesterséges intelligenciáról. Az előző napi Európai Politikai Közösség rendezvényén mintegy 50 vezető vett részt. Magyar Péter a biztonságot, a versenyképességet és Európa MI-fejlesztésekben tapasztalható lemaradását is említette; utóbbiról korábban a budapesti Fejlesztési Kabinet ülésén is egyeztettek.\n\n• **Az európai vezetők tárgyalói képviseletéről is szó esett** Csütörtökön Volodimir Zelenszkij ukrán elnökkel találkoztak, miután amerikai megbízottak Vlagyimir Putyinnal tárgyaltak. Jared Kushner európai főtárgyaló kijelölését sürgette, és Kaja Kallas szerint elismerte, hogy az európaiaknak is helyet kell kapniuk a tárgyalásokon. Kallas elmondta, hogy 2024 júniusában őt jelölték ki, de a vezetők más képviselőt is választhatnak. Azt is jelezte, hogy ő nem képviselné a briteket, és az Egyesült Államokhoz hasonlóan intézményi szereppel nem rendelkező tárgyaló kijelölését sem tartja megfelelőnek. Kristen Michal észt miniszterelnök nyitottnak mutatkozott arra, hogy António Costa, az Európai Tanács elnöke képviselje az európaiakat; Friedrich Merz korábban a brit–francia–német E3 szerepét vetette fel. Kallas szerint a tárgyalónak az állam- és kormányfők felhatalmazásával kell rendelkeznie, akik a tárgyalási mandátum kereteit is meghatározzák. Hozzátette: az EU nem választhatja ki, ki képviselje Oroszországot.\n\n• **Magyar Péter Berlinben Ukrajna támogatásáról és a kétoldalú kapcsolatokról is tárgyalt** A témák között Európa helyzete, az európai védelem és a magyar–német gazdasági együttműködés szerepelt. A miniszterelnök Dublinban további kétoldalú egyeztetéseket tervezett; az uniós költségvetési vitában pedig a V4-es partnerekkel közösen képviselné a magyar érdekeket.\n\n• **Magyar Péter az év vége előtt rendezné az uniós bírság ügyét** Az ATV-nek azt mondta, hogy szeretnék lezárni a Magyarországot napi egymillió euróval sújtó bírság kérdését.\n\n• **Magyar Péter először találkozott Szvjatlana Cihanouszkajával** A belarusz ellenzéki vezető sajtószolgálata számolt be a dublini találkozóról. Cihanouszkaja gratulált a magyar miniszterelnök választási győzelméhez; a felek a további együttműködésről, a belarusz társadalom támogatásáról és egy esetleges budapesti látogatásról beszéltek. A magyar kormány a Világgazdaság cikkének megjelenéséig nem tájékoztatott az eseményről, Magyar Péter pedig addig nem tett közzé róla bejegyzést a Facebook-oldalán.\n\n• **A találkozó eltér az előző kormány Belarusz-politikájától** Aljakszandr Lukasenka áprilisban gratulált Magyar Péternek a választási győzelméhez, és a Minszk és Budapest közötti kapcsolatok folytatását szorgalmazta. A Világgazdaság által idézett Politico szerint Magyarország 2025-ben megakadályozta a Belaruszt elítélő uniós nyilatkozat elfogadását a litván légteret érintő léggömbök ügyében. A lap arról is beszámolt, hogy a 2020-as tüntetések leverése után Magyarország első uniós tagállamként küldött nagykövetet Belaruszba.",
     "importance_score": 28.0,
-    "top_rank": 66,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2958,7 +2922,7 @@
     "lead_hu": "A WHO első alkalommal sorolta egészségügyi vészhelyzetnek az El Niño várható következményeit, és 3-as fokozatú válaszintézkedést vezetett be a 2026–2027-es időszakra. A WMO szerint a jelenség egy már felmelegedett éghajlati rendszerben erősítheti a szélsőséges időjárást és az ahhoz kapcsolódó egészségügyi veszélyeket.",
     "content_hu": "• **A WHO első alkalommal minősítette egészségügyi vészhelyzetnek az El Niño következményeit**, és a 2026–2027-es időszakra 3-as fokozatú válaszintézkedést rendelt el. Ez a szervezet egyik legmagasabb készültségi szintje, amely jelentős vagy maximális erőforrásokat igényelhet.\n\n• **A kockázatokat nem pusztán az El Niño ereje növeli:** a kutatók szerint a jelenség hatásai egy eleve felmelegedett éghajlati rendszerben jelentkeznek. Az óceánok az üvegházhatású gázok által visszatartott többlethő mintegy 90 százalékát nyelik el, és 2026-ban várhatóan tizedik egymást követő évben dőlhet meg az óceáni hőmérsékleti rekord.\n\n• **A Csendes-óceán középső és keleti részén május óta emelkedik a tengerfelszín hőmérséklete**, a WMO június elején jelentette be az El Niño kialakulását. Az előrejelzések szerint decemberben rendkívül erőssé válhat, 2027 elejéig tarthat, és akár az eddigi legintenzívebb El Niño is lehet.\n\n• **A jelenség szélsőséges hőhullámokkal, trópusi ciklonokkal és villámárvizekkel járhat**, emellett fokozódhat az aszály, a heves esőzés és az erdőtüzek veszélye. Ezek hőártalmakat, haláleseteket és sérüléseket okozhatnak, a tűzvész füstje pedig ronthatja a levegő minőségét.\n\n• **Nőhet a kolera, a malária és a dengue-láz terjedésének kockázata**, miközben a romló élelmezésbiztonság alultápláltsághoz vezethet.\n\n• **A WMO 2026-os jelentése szerint január és szeptember között a globális felszínközeli átlaghőmérséklet 1,47 Celsius-fokkal haladta meg az 1850–1900-as átlagot.** A jelentés a 2023–2026-os időszakot a mérések négy legmelegebb éve közé sorolja, 2027-re pedig újabb melegrekord lehetőségét jelzi.\n\n• **A tengerszint új csúcsot ért el, a gleccserek pedig tovább húzódnak vissza.** A 2025-ben elveszett jég vízmennyisége egy éven keresztül másodpercenként öt olimpiai méretű medence feltöltésére lenne elegendő.\n\n• **A WMO 2026-os éghajlati jelentését a COP31 klímakonferencián, a törökországi Antalyában mutatták be.**",
     "importance_score": 28.0,
-    "top_rank": 67,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2994,7 +2958,7 @@
     "lead_hu": "Pósfai Gábor egy sportkonferencián a magyar sport támogatásáról és a finanszírozási rendszer tervezett átalakításáról beszélt. A következő évi költségvetési tervezet 453 milliárd forintot irányoz elő sportcélokra, miközben a kormány a sportlétesítmények bevételének növelését is célul tűzte ki.",
     "content_hu": "• **453 milliárd forint sportcélokra** A jövő évi költségvetési tervezet ekkora összeget szán a sportra; Pósfai szerint a támogatás a szabadidős programoktól az iskolai és versenysporton át a hazai világbajnokságokig terjed.\n\n• **Egységesítenék a finanszírozást** A jelenlegi, több csatornán keresztüli rendszer helyett a támogatások a sportért felelős államtitkárságon keresztül jutnának el a szervezetekhez.\n\n• **Változna két támogatási forma** A tervek között szerepel a tao kivezetése, valamint az ekhós adózás értékhatárának 500 millióról 60 millió forintra csökkentése.\n\n• **Alacsony bevétel a létesítményvagyonhoz képest** A mintegy 15 ezer milliárd forintra becsült sportlétesítmény-vagyon tavaly 18 milliárd forint bevételt termelt; ezen az arányon a kormány változtatna.\n\n• **Pósfai a német sportminiszter reakciójáról is beszélt** Elmondása szerint német kollégája meglepődött és irigykedett, amikor tájékoztatta a magyar sport finanszírozásának mértékéről.",
     "importance_score": 28.0,
-    "top_rank": 68,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3030,6 +2994,42 @@
     "lead_hu": "Steve Witkoff és Jared Kushner Moszkvában tárgyalt az orosz féllel a háború lezárásának lehetőségeiről. Az egyik beszámoló szerint Putyin az Ukrajnának nyújtott támogatás leállítását szabta a tárgyalások feltételéül.",
     "content_hu": "• **Moszkvai egyeztetés** Steve Witkoff és Jared Kushner az oroszokkal folytatott megbeszélést a háború lezárásáról.\n\n• **Putyin feltétele** A Magyar Nemzet címe szerint az orosz elnök az Ukrajna támogatásának befejezését jelölte meg a tárgyalások feltételeként.\n\n• **Európai részvétel** A Telex beszámolója szerint Trump képviselője az európaiakat is bevonná az orosz–ukrán tárgyalásokba, Putyin azonban nem fogadta kitörő lelkesedéssel az elképzelést.",
     "importance_score": 25.0,
+    "top_rank": 68,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_8bf761e75f",
+    "slug": "hogyan-valt-a-pentek-13-a-balszerencse-jelkepeve-8bf761",
+    "tags": [
+      "pentek-13",
+      "babona",
+      "templomosok",
+      "tortenelem"
+    ],
+    "fingerprint": "6056db457b3b7bcb23c4b19a9b1ce112",
+    "category": "Általános",
+    "image": "https://cdn.borsonline.hu/2026/11/jjdhQUTmczyIItxa4zP0FaHuJcB5F9wbNnsCtzzpd6k/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzEyLzQyNDE1Y2Y0ZWU1OTIzZjhiMzY3ZGNhNjRlOGNmMTE4OGYzYjBiZDIzMWEyMGQ0Mzc2ZjY2MmQxMzA2YjJlYzU.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Sokan rettegnek tőle, de kevesen tudják: ezért lett a péntek 13 a balszerencse napja",
+        "link": "https://borsonline.origo.hu/titkos-aktak/2026/11/pentek-13-ezert-lett-balszerencse-napja"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Miért péntek 13. a legszerencsétlenebb nap?",
+        "link": "https://24.hu/tudomany/2026/11/13/pentek-13-balszerencse-szerencsetlenseg-babona/"
+      }
+    ],
+    "published_at": 1794573803,
+    "title_hu": "Hogyan vált a péntek 13. a balszerencse jelképévé?",
+    "lead_hu": "A péntek 13-ához kapcsolódó hiedelmek több kulturális és vallási hagyományból táplálkoznak. A babona kialakulásában szerepet játszhatott a 13-as számhoz fűződő rossz képzet, a péntek vallási jelentése, valamint a templomosok 1307-es elfogása is.",
+    "content_hu": "• **A 13-as számhoz társított jelentés** Több hagyományban a 12-es szám a teljességet jelképezte, ezért a következő számot a megszokott rend felborulásával kapcsolták össze.\n\n• **Vallási magyarázatok** A keresztény hagyomány szerint az utolsó vacsorán tizenhárman voltak jelen, Jézust pedig pénteken feszítették keresztre. Ezek az események hozzájárultak ahhoz, hogy mindkét elemhez baljós jelentés társuljon.\n\n• **A templomosok elfogása** IV. Fülöp francia király 1307. október 13-án, pénteken rendelte el a templomos lovagok elfogását. A történtek és a lovagokat érő üldöztetés később a péntek 13-ához kapcsolódó hiedelmek egyik ismert magyarázatává vált.\n\n• **A babona későbbi terjedése** A péntekhez és a 13-as számhoz kötődő elképzelések külön-külön korábban is léteztek, közös balszerencsés jelentésük azonban csak később terjedt el szélesebb körben.",
+    "importance_score": 23.0,
     "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
@@ -3832,7 +3832,7 @@
     "title_hu": "Rekordszámú kitoloncolás történt az Egyesült Államokban",
     "lead_hu": "Az amerikai bevándorlási és vámhatóság több mint 483 ezer embert toloncolt ki a szeptember végén zárult pénzügyi évben. A közölt adatok szerint ilyen magas éves számra az ICE korábbi történetében nem volt példa.",
     "content_hu": "• **Több mint 483 ezer kitoloncolás** Az ICE ennyi embert vett őrizetbe és távolított el az Egyesült Államokból a szeptember végén befejeződött pénzügyi év során.\n\n• **Korábbi rekord nem volt ilyen magas** Az amerikai belbiztonsági minisztérium adatai alapján a hatóság fennállása óta ez a legnagyobb éves kitoloncolási szám.\n\n• **Alacsonyabb számok az előző években** 2025-ben 442 ezer, 2024-ben pedig 271 ezer kitoloncolást regisztráltak.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 92,
     "is_top_hero": false,
     "is_top_list": true
@@ -17726,32 +17726,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_7ff4157be4",
-    "slug": "tisza-kormany-uj-intezkedesekkel-vedenek-a-noket-a-7ff415",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://pcdn.hu/articles/images-xl/d/_/p/d-prg20261109003-868788.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Tisza-kormány: új intézkedésekkel védenék a nőket, aláírták a BKK átalakításáról szóló megállapodást",
-        "link": "https://www.portfolio.hu/gazdasag/20261112/tisza-kormany-uj-intezkedesekkel-vedenek-a-noket-alairtak-a-bkk-atalakitasarol-szolo-megallapodast-875908"
-      }
-    ],
-    "published_at": 1794508620,
-    "title_hu": "Tisza-kormány: új intézkedésekkel védenék a nőket, aláírták a BKK átalakításáról szóló megállapodást",
-    "lead_hu": "Vitézy Dávid közlekedési és beruházási miniszter és Karácsony Gergely főpolgármester közös sajtótájékoztatón ismertette a regionális BKK létrehozásáról szóló megállapodást a megegyezés aláírása után. …",
-    "content_hu": "Vitézy Dávid közlekedési és beruházási miniszter és Karácsony Gergely főpolgármester közös sajtótájékoztatón ismertette a regionális BKK létrehozásáról szóló megállapodást a megegyezés aláírása után. Magyar Péter bejelentette, hogy a kormány kezdeményezi az Isztambuli Egyezmény ratifikálását, és átfogó intézkedéscsomagot indít a nők védelmére. Vitézy Dávid több mint 200 milliárd forintos társasház-felújítási programról és ezermilliárdos vasúti közbeszerzésekről beszélt. Közben a NAV iratokat foglalt le a Sóstói Stadionnál a Vidi megmentésével kapcsolatos nyomozásban, és új részletek derültek ki Merkely Béla ugandai vadászatáról, amelyen az egyetem egyik beszállítójának vezetője is részt vett.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_f8df33b79f",
     "slug": "chatbotbeszelgetes-nyoman-fogtak-el-egy-fiatal-not-budapesten-f8df33",
     "tags": [
@@ -17906,6 +17880,32 @@
     "title_hu": "Az erdélyi magyarok is várják a megígért támogatásokat a Tisza párttól",
     "lead_hu": "Várják, mikor lesz a számlán az ígért pénz.",
     "content_hu": "Várják, mikor lesz a számlán az ígért pénz.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_dd25668f06",
+    "slug": "megjelent-a-rendorseg-a-tusk-kormanyt-biralo-fuggetlen-tevenel-dd2566",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vadhajtások",
+        "title": "Megjelent a rendőrség a Tusk-kormányt bíráló független tévénél",
+        "link": "https://www.vadhajtasok.hu/2026/11/13/a-rendorseg-megjelent-a-tusk-kormanyt-biralo-fuggetlen-tevenel"
+      }
+    ],
+    "published_at": 1794528000,
+    "title_hu": "Megjelent a rendőrség a Tusk-kormányt bíráló független tévénél",
+    "lead_hu": "A liberális jogállam új fokozatba kapcsolt Lengyelországban - írja közösségi médiás bejegyzésében Koskovics Zoltán....",
+    "content_hu": "A liberális jogállam új fokozatba kapcsolt Lengyelországban - írja közösségi médiás bejegyzésében Koskovics Zoltán.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
