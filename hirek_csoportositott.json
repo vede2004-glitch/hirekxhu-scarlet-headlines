@@ -1,30 +1,5 @@
 [
   {
-    "group_id": "group_3f30f14701",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Lelőtte a házastársát, majd saját magával is végzett egy ember Szolnokon",
-        "link": "https://24.hu/belfold/2026/11/12/szolnok-csaladi-tragedia-lovoldozes/",
-        "image": "https://s.24.hu/app/uploads/2026/11/szolnhaz-e1794450421275.jpg",
-        "summary": "Az elkövető egy gumilövedékes fegyvert használt. The post Lelőtte a házastársát, majd saját magával is végzett egy ember Szolnokon first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794450505
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Lelőtte házastársát, majd öngyilkos lett egy ember Szolnokon",
-        "link": "https://index.hu/belfold/2026/11/12/szolnok-hazaspar-meghalt-emberoles-ongyilkossag/",
-        "image": "https://kep.index.hu/1/0/7252/72524/725242/72524219_5344071_99ee9b42cd33bc4a43390d5e5c9a5092_wm.jpg",
-        "summary": "Gumilövedékes fegyverrel halálos sérülést okozhatott.",
-        "category": "Általános",
-        "published_at": 1794462180
-      }
-    ]
-  },
-  {
     "group_id": "group_e5965202bb",
     "category": "Általános",
     "articles_count": 1,
@@ -1518,6 +1493,22 @@
         "summary": "Ilyen sármos férje van az RTL csinos műsorvezetőjének.",
         "category": "Bulvár",
         "published_at": 1794462000
+      }
+    ]
+  },
+  {
+    "group_id": "group_3f30f14701",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Lelőtte házastársát, majd öngyilkos lett egy ember Szolnokon",
+        "link": "https://index.hu/belfold/2026/11/12/szolnok-hazaspar-meghalt-emberoles-ongyilkossag/",
+        "image": "https://kep.index.hu/1/0/7252/72524/725242/72524219_5344071_99ee9b42cd33bc4a43390d5e5c9a5092_wm.jpg",
+        "summary": "Gumilövedékes fegyverrel halálos sérülést okozhatott.",
+        "category": "Általános",
+        "published_at": 1794462180
       }
     ]
   },
