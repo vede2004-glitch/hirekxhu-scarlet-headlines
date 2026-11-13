@@ -1,55 +1,5 @@
 [
   {
-    "group_id": "group_0cf36fdd42",
-    "category": "Általános",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Megszólalt a NAV a Lezsák Sándor alapítványánál tartott akcióról",
-        "link": "https://www.atv.hu/belfold/20261112/nav-buntetoeljaras-lezsak-alapitvany/",
-        "image": "https://www.youtube.com/embed/wI4ex8Ei0kw",
-        "summary": "A NAV két különböző büntetőeljárás keretében végzett nyomozati cselekményeket csütörtökön a lakiteleki Népfőiskola Alapítványnál. A hatóság közlése szerint az egyik eljárást a Bács-Kiskun Megyei Főügyészség folytatja, a másik pedig a Vámhivatal saját hatáskörében zajlik.",
-        "category": "Általános",
-        "published_at": 1794509340
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Kiderült, milyen ügyekben vonultak ki a hatóságok Lezsák Sándor alapítványához",
-        "link": "https://hvg.hu/itthon/20261112_lezsak-sandor-lakitelek-nepfoiskola-alapitvany-nav",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
-        "summary": "A NAV és az ügyészség nyomozói csütörtök reggel jelentek meg a lakiteleki Népfőiskola Alapítványnál.",
-        "category": "Politika",
-        "published_at": 1794511036
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Megszólalt a NAV a Lezsák Sándor alapítványánál történt nyomozásról",
-        "link": "https://www.vadhajtasok.hu/2026/11/12/megszolalt-a-nav-a-lezsak-sandor-alapitvanyanal-tortent-nyomozasrol",
-        "image": "",
-        "summary": "A Nemzeti Adó- és Vámhivatal (NAV) Dél-alföldi Bűnügyi Igazgatósága a Bács-Kiskun Megyei Főügyészség által folytatott büntetőeljárás, továbbá egy saját hatáskörben folytatott nyomozás keretében végzett eljárási cselekményeket a lakiteleki Né...",
-        "category": "Politika",
-        "published_at": 1794516360
-      }
-    ]
-  },
-  {
-    "group_id": "group_b33428574d",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Kevés turista ismeri, pedig káprázatos: 5 eldugott hely, ahol még nincs tömeg",
-        "link": "https://femina.hu/utazas/keves-turista-ismeri-pedig-kaprazatos-5-eldugott-hely-ahol-meg-nincs-tomeg/",
-        "image": "https://femina.hu/neon/media/renditions/437/437320/91510db56b788f98.jpg",
-        "summary": "Vannak helyek a világban, amiket a turisták még nem fedeztek fel. Ilyen rejtett gyöngyszemeket mutatunk.",
-        "category": "Bulvár",
-        "published_at": 1794509100
-      }
-    ]
-  },
-  {
     "group_id": "group_96fc09d481",
     "category": "Politika",
     "articles_count": 3,
@@ -207,22 +157,6 @@
     ]
   },
   {
-    "group_id": "group_0b78287594",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Művészek, negyvennyolcasok és ötvenhatosok sírjai is bekerültek a nemzeti panteonba",
-        "link": "https://telex.hu/belfold/2026/11/12/nemzeti-emlekhely-es-kegyeleti-bizottsag-nemzeti-sirkert-uj-sirok",
-        "image": "https://assets.telex.hu/images/20261112/1794509126-temp-su9umf9qmrnv8bdajle_cimlap-normal.jpg",
-        "summary": "A Nemzeti Emlékhely és Kegyeleti Bizottság 46 sírhelyet nyilvánított a nemzeti sírkert részévé, és új magyar emlékpontokat is kijelölt.",
-        "category": "Politika",
-        "published_at": 1794509328
-      }
-    ]
-  },
-  {
     "group_id": "group_0cbd4028ff",
     "category": "Politika",
     "articles_count": 2,
@@ -340,6 +274,31 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1794511254
+      }
+    ]
+  },
+  {
+    "group_id": "group_0cf36fdd42",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Kiderült, milyen ügyekben vonultak ki a hatóságok Lezsák Sándor alapítványához",
+        "link": "https://hvg.hu/itthon/20261112_lezsak-sandor-lakitelek-nepfoiskola-alapitvany-nav",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb530439-0bef-42c8-a652-90771beea3f8.jpg",
+        "summary": "A NAV és az ügyészség nyomozói csütörtök reggel jelentek meg a lakiteleki Népfőiskola Alapítványnál.",
+        "category": "Politika",
+        "published_at": 1794511036
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Megszólalt a NAV a Lezsák Sándor alapítványánál történt nyomozásról",
+        "link": "https://www.vadhajtasok.hu/2026/11/12/megszolalt-a-nav-a-lezsak-sandor-alapitvanyanal-tortent-nyomozasrol",
+        "image": "",
+        "summary": "A Nemzeti Adó- és Vámhivatal (NAV) Dél-alföldi Bűnügyi Igazgatósága a Bács-Kiskun Megyei Főügyészség által folytatott büntetőeljárás, továbbá egy saját hatáskörben folytatott nyomozás keretében végzett eljárási cselekményeket a lakiteleki Né...",
+        "category": "Politika",
+        "published_at": 1794516360
       }
     ]
   },
@@ -10337,7 +10296,7 @@
         "image": "",
         "summary": "Amikor odakint egyre hidegebbre fordul az idő, különösen jólesik magunk mögött hagyni a hétköznapok rohanását, és átadni magunkat a gondtalan pihenésnek. Ki mondta, hogy a fürdőzés csak nyáron az igazi? Nyíregyházán, a festői Sóstógyógyfürdő szívében található Aquarius Élményfürdőben a hideg hónapokban is garantált a feltöltődés, legyen szó családi kalandokról, romantikus pihenésről vagy egy kis énidőről. The post Téli élmények, amelyek felmelegítik a hétköznapokat – irány Nyíregyháza! first appeared on nlc.",
         "category": "Bulvár",
-        "published_at": 1794595420
+        "published_at": 1794595850
       }
     ]
   },
@@ -10529,7 +10488,7 @@
         "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1967690224-orszaghaz-parlament-budapest-magyarorszag-varoskep-epiteszet-epulet-864954.jpg",
         "summary": "Külügyminisztériumi iratok bizonyítják, hogy a jelenleg letartóztatásban lévő Orbán Áron korábban közvetlenül Szijjártó Péternél lobbizott együttműködésért és stratégiai partnerségért. Az Oktatási és Gyermekügyi Minisztérium hivatali visszaélés, hűtlen kezelés és költségvetési csalás gyanúja miatt tett feljelentést a Tempus Közalapítvány átvilágítása után, amely több mint egymilliárd forintnyi gyanús közpénzfelhasználást tárt fel. Új főigazgatót keresnek az Országos Vízügyi Főigazgatóság élére, akinek egyik legfontosabb feladata a hazai vízgazdálkodás szemléletváltásának előmozdítása lesz. Magyar Péter miniszterelnök péntek reggeli rádióinterjújában egy lehetséges november végi Zelenszkij-találkozóról, a gazdasági kilátásokról és az Isztambuli Egyezmény ratifikálásáról is beszélt. Eközben a NAV a lakiteleki Népfőiskola Alapítványnál és a székesfehérvári Sóstói Stadion ügyében is eljárási cselekményeket hajtott végre.",
         "category": "Politika",
-        "published_at": 1794594600
+        "published_at": 1794595080
       }
     ]
   },
@@ -11038,7 +10997,7 @@
   {
     "group_id": "group_0e2ab08748",
     "category": "Gazdaság",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -11057,6 +11016,15 @@
         "summary": "November 16-ai hatállyal legfőbbügyész-helyettessé nevezte ki Costopulos Orestist Baka András köztársasági elnök. A kinevezésről pénteken a Sándor-palota, az államfő hivatala számolt be a Facebook-oldalán.",
         "category": "Kultúra",
         "published_at": 1794590280
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Costopulos Orestis lesz az új legfőbb ügyész helyettes",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/costopulos-orestis-lesz-az-uj-legfobb-ugyesz-helyettese?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/f7tFiiAi25k8_wbi-vYLS9Uaux4r4cQEcybOEpiOGXw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvODM5ZjBmOWIwZWNlZTQzMjFkNjBjOTZhMmRkZDFmMWM0MzM0MjhjNTc3NmExM2FkZDdiODNjMTI1MDVjMTBiNg.jpg",
+        "summary": "Eddig főügyészhelyettes volt.",
+        "category": "Politika",
+        "published_at": 1794595470
       }
     ]
   },
@@ -11700,7 +11668,7 @@
         "image": "https://raketa.hu/uploads/2026/11/windowsstick.jpg",
         "summary": "A Microsoft közel három évtized után végre egy apró, de annál bosszantóbb Windows-problémát orvosol, és újragondolja a Beragadó billentyűk felugró ablakát.",
         "category": "Kultúra",
-        "published_at": 1794595420
+        "published_at": 1794595850
       }
     ]
   },
@@ -11975,6 +11943,86 @@
         "summary": "A liberális jogállam új fokozatba kapcsolt Lengyelországban - írja közösségi médiás bejegyzésében Koskovics Zoltán.",
         "category": "Politika",
         "published_at": 1794528000
+      }
+    ]
+  },
+  {
+    "group_id": "group_5e2bd4ee00",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Embert gázolt a villamos az Erzsébet körúton, a tűzoltók emelték ki a jármű alól",
+        "link": "https://index.hu/belfold/2026/11/13/gazolas-villamos-budapest-4-6-os-villamos-erzsebet-korut-baleset/",
+        "image": "https://kep.index.hu/1/0/7254/72545/725455/72545515_5345521_a0325f5b882f4dcf0c84c69808d07d76_wm.jpg",
+        "summary": "A helyszínen mentők, rendőrök és tűzoltók is nagy erőkkel vannak jelen.",
+        "category": "Általános",
+        "published_at": 1794595680
+      }
+    ]
+  },
+  {
+    "group_id": "group_d91f5b38da",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Nyomozás indult David Walliams ellen friss zaklatási vádak miatt",
+        "link": "https://444.hu/2026/11/13/nyomozas-indult-david-walliams-ellen-friss-zaklatasi-vadak-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Kedden publikálták a Guardian és az ITV közös nyomozásának eredményét a fiatal rajongóit állítólag zaklató sztárról. Pénteking annyi nő jelentkezett a sztorijával a rendőrségen, hogy az eljárást indított.",
+        "category": "Politika",
+        "published_at": 1794595188
+      }
+    ]
+  },
+  {
+    "group_id": "group_e09f4db1e1",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Fejes Péter elmondta, milyen kettős feladatot lát az ügyészség előtt",
+        "link": "https://24.hu/belfold/2026/11/13/fejes-peter-interju/",
+        "image": "https://s.24.hu/app/uploads/2026/11/d_mtz20261012020-1-1024x576.jpg",
+        "summary": "A legfőbb ügyész szerint a politikai befolyásolásnak a jövőben még a látszatát is el kell kerülni. The post Fejes Péter elmondta, milyen kettős feladatot lát az ügyészség előtt first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1794595273
+      }
+    ]
+  },
+  {
+    "group_id": "group_5fa8e7d6c1",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kimondták: \"ég a ház\" a magyar egészségügyben",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/kimondtak-eg-a-haz-a-magyar-egeszsegugyben-876394",
+        "image": "https://pcdn.hu/articles/images-xl/t/o/t/totth-arpad-okfo-orszagos-korhazi-foigazgato-869650.jpg",
+        "summary": "Azonnali és alapvető átalakításra szorul a magyar egészségügyi rendszer az Országos Kórházi Főigazgatóság vezetője szerint, aki egy svájci–magyar szakmai fórumon úgy fogalmazott, hogy \"ég a ház\". Az elavult, túlzottan központosított kórházhálózat a jelenlegi formájában fenntarthatatlan, ezért a jövőben regionális irányításra, a kapacitások észszerűbb elosztására, valamint a betegek valós hozzáférését biztosító, hosszú távon is finanszírozható fejlesztésekre van szükség - írta a Népszabadság.",
+        "category": "Gazdaság",
+        "published_at": 1794595080
+      }
+    ]
+  },
+  {
+    "group_id": "group_86dcb117b5",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Kitört a botrány a Dior karácsonyi kisfilmje miatt: kínos hibát szúrtak ki a nézők",
+        "link": "https://femina.hu/karacsony/kitort-a-botrany-a-dior-karacsonyi-kisfilmje-miatt-kinos-hibat-szurtak-ki-a-nezok/",
+        "image": "https://femina.hu/neon/media/renditions/437/437494/a2dfa1f2c9e826db.jpg",
+        "summary": "Kézzel rajzolt animációs filmnek indult, de nagy botrány kerekedett belőle",
+        "category": "Bulvár",
+        "published_at": 1794595500
       }
     ]
   }
