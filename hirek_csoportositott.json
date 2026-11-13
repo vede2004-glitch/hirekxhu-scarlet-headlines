@@ -140,54 +140,6 @@
     ]
   },
   {
-    "group_id": "group_15be83872b",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Legyőzte a súlyos bőrbetegséget Agárdi Szilvia",
-        "link": "https://index.hu/fomo/2026/11/12/agardi-szilvia-betegseg-lyell-szindroma-borbetegseg-allapot-fellepes/",
-        "image": "https://kep.index.hu/1/0/7156/71564/715645/71564529_5276451_77e6e9dfadd6389ce978f1dbc4708f48_wm.jpg",
-        "summary": "Az énekesnő kijelentette, hogy színpadra fog állni decemberben.",
-        "category": "Általános",
-        "published_at": 1794506820
-      }
-    ]
-  },
-  {
-    "group_id": "group_f9f7eeb032",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Lecserélné a Messenger ikonját? Már megteheti – ha fizet",
-        "link": "https://hvg.hu/tudomany/20261112_meta-messenger-ikon-csereje-elofizetes-facebook-plus",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/710afa56-16e7-403f-af22-ed418751b94a.jpg",
-        "summary": "Előfizetéshez köti a Meta a Messenger alkalmazásikonjának cseréjét. Mutatjuk, mit tud még a Facebook Plus.",
-        "category": "Kultúra",
-        "published_at": 1794506580
-      }
-    ]
-  },
-  {
-    "group_id": "group_1f3a191a88",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "3 csillagjegy, akik már most elkezdték a karácsonyi készülődést",
-        "link": "https://nlc.hu/horoszkop/20261112/csillagjegy-karacsony-keszulodes/k3me3x2",
-        "image": "",
-        "summary": "Novemberben még sokan csak gondolnak az ünnepekre, de vannak, akik már javában tervezgetnek. Ez a három csillagjegy nem bízza a véletlenre a karácsonyt. The post 3 csillagjegy, akik már most elkezdték a karácsonyi készülődést first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794506580
-      }
-    ]
-  },
-  {
     "group_id": "group_28fe83bc8e",
     "category": "Politika",
     "articles_count": 1,
@@ -1001,7 +953,7 @@
   {
     "group_id": "group_108d5823eb",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "444.hu",
@@ -1020,6 +972,15 @@
         "summary": "Ukrajna további finanszírozása ügyében egyre nagyobb nyomás nehezedik az újabb támogatásoktól elzárkózó országokra, köztük Magyarországra.",
         "category": "Politika",
         "published_at": 1794590460
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Merz ragaszkodik az Ukrajnának szánt hitelhez: sokan visszautasítják a németek zsarolását",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/merz-ragaszkodik-az-ukrajnanak-szant-hitelhez-sokan-visszautasitjak-a-nemetek-zsarolasat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/9eDiCtwn6aBBjq1EUcYcNlcUMOqBrud_Iq0y3MhbOUY/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvZGJhYjA0OTE5NDNmZTM3ODRhNDNhNjYzOGVkNTU3ZmRiNjZmYWZkMmUwNDZkOTNiNjI2NmUyYjQxODNjNTJhYQ.jpg",
+        "summary": "A magyar miniszterelnök nem artikulálta véleményét az informális EU-csúcson.",
+        "category": "Politika",
+        "published_at": 1794593053
       }
     ]
   },
@@ -5442,12 +5403,21 @@
   {
     "group_id": "group_b1c67bfa94",
     "category": "Kultúra",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "PC World",
         "title": "Eleged van a Windowsból? Itt van 10 hasznos tipp, ha Linuxra váltanál",
         "link": "https://www.gsplus.hu/pcw/top-10-leghasznosabb-tipp-ha-windowsrol-linuxra-valtanal-390128.html",
+        "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2607/10/linux_mint_135512_1_original_390x220_cover.jpg",
+        "summary": "Szívesen váltanál Linuxra, de nem vagy biztos benne, hogyan fogj hozzá? Garantáltan bevált tippeket mutatunk, amikkel biztonságosan és egyszerűen térhetsz át.",
+        "category": "Kultúra",
+        "published_at": 1794558147
+      },
+      {
+        "source": "PC World",
+        "title": "Eleged van a Windowsból? Itt van 10 hasznos tipp, ha Linuxra váltanál",
+        "link": "https://www.gsplus.hu/pcw/marha-sokat-keresett-az-apple-de-a-memoriaarak-neki-is-fajtak-390395.html",
         "image": "https://i.cdn29.hu/apix_collect_c/ngg_images/2607/10/linux_mint_135512_1_original_390x220_cover.jpg",
         "summary": "Szívesen váltanál Linuxra, de nem vagy biztos benne, hogyan fogj hozzá? Garantáltan bevált tippeket mutatunk, amikkel biztonságosan és egyszerűen térhetsz át.",
         "category": "Kultúra",
@@ -10682,7 +10652,7 @@
         "image": "",
         "summary": "Amikor odakint egyre hidegebbre fordul az idő, különösen jólesik magunk mögött hagyni a hétköznapok rohanását, és átadni magunkat a gondtalan pihenésnek. Ki mondta, hogy a fürdőzés csak nyáron az igazi? Nyíregyházán, a festői Sóstógyógyfürdő szívében található Aquarius Élményfürdőben a hideg hónapokban is garantált a feltöltődés, legyen szó családi kalandokról, romantikus pihenésről vagy egy kis énidőről. The post Téli élmények, amelyek felmelegítik a hétköznapokat – irány Nyíregyháza! first appeared on nlc.",
         "category": "Bulvár",
-        "published_at": 1794592935
+        "published_at": 1794593321
       }
     ]
   },
@@ -11978,6 +11948,38 @@
         "summary": "A nácik a második világháború idején kegyetlen módszerekkel tartották rettegésben az áldozataikat. A dachaui koncentrációs tábor területén most olyan leletekre bukkantak a régészek, amelyek újabb részleteket tárnak fel az SS által alkalmazott terrorról.",
         "category": "Bulvár",
         "published_at": 1794592800
+      }
+    ]
+  },
+  {
+    "group_id": "group_af89db86f4",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Nyolcpercenként ismétlődik az űrből jövő rádiójel, most kiderülhetett, mi áll mögötte",
+        "link": "https://hvg.hu/tudomany/20261113_rejtelyes-radiojel-eszlelese-ismetlodes-kutatas-eredet",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/feafd879-bc76-4531-b7bc-5d2012e72070.jpg",
+        "summary": "Több mint 5000 fényévnyire van tőlünk az a jelenség, amelynek eredetét most sikerült megállapítani.",
+        "category": "Kultúra",
+        "published_at": 1794592980
+      }
+    ]
+  },
+  {
+    "group_id": "group_b7b1d30a4b",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Három évtizedig bosszantotta a Windows-felhasználókat egy apróság, amit végre megold a Microsoft",
+        "link": "https://raketa.hu/windows-11-beragado-billentyuk-panel/",
+        "image": "https://raketa.hu/uploads/2026/11/windowsstick.jpg",
+        "summary": "A Microsoft közel három évtized után végre egy apró, de annál bosszantóbb Windows-problémát orvosol, és újragondolja a Beragadó billentyűk felugró ablakát.",
+        "category": "Kultúra",
+        "published_at": 1794593321
       }
     ]
   }
