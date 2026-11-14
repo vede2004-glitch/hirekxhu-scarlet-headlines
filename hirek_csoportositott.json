@@ -16,22 +16,6 @@
     ]
   },
   {
-    "group_id": "group_00d2be1935",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Érkezik a havazás, már pénteken kifehéredhet a táj – Mutatjuk, hol várható az első hó",
-        "link": "https://www.atv.hu/belfold/20261113/havazas-elso-ho-pentek-zemplen/",
-        "image": "",
-        "summary": "Havas eső, sőt havazás is előfordulhat Magyarországon pénteken, elsősorban a magasabban fekvő területeken. Egy mediterrán ciklon hidegfrontja hoz ugyanis markáns lehűlést, zivatarokat és viharos széllökéseket. A hétvégére ugyan elvonul a csapadék, de a hajnali fagyok visszatérnek.",
-        "category": "Általános",
-        "published_at": 1794542700
-      }
-    ]
-  },
-  {
     "group_id": "group_ce022d2ac7",
     "category": "Kultúra",
     "articles_count": 1,
@@ -44,22 +28,6 @@
         "summary": "Az amerikai Endurance Energy mérnökei olyan generátort teszteltek, amely az óceánfenékből feltörő, rendkívül forró víz energiáját alakítja elektromos árammá.",
         "category": "Kultúra",
         "published_at": 1794546223
-      }
-    ]
-  },
-  {
-    "group_id": "group_5a0c283349",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "A 2012-es X-Faktor tini énekesnőjeként imádta az ország: 33 éves családanyaként alig ismertük fel Antal Tímeát",
-        "link": "https://femina.hu/hazai_sztar/antal-timea-x-faktor-ma-33-eves/",
-        "image": "https://femina.hu/neon/media/images/Antal_Timi_cover_1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Antal Tímeával rengeteget változott a világ a tehetségkutató óta, élete legfontosabb szerepe egyértelműen az anyaság.",
-        "category": "Bulvár",
-        "published_at": 1794542700
       }
     ]
   },
@@ -92,47 +60,6 @@
         "summary": "Itt a következő hét napra szóló Diszpó, a Telex rendszeres moziajánlója.",
         "category": "Politika",
         "published_at": 1794543062
-      }
-    ]
-  },
-  {
-    "group_id": "group_e2b49e5111",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Pósfai: A német sportminiszter irigykedett, amikor elmondtam neki, mennyi pénzt adunk a sportra",
-        "link": "https://telex.hu/sport/2026/11/13/posfai-merre-tovabb-magyar-sport-gyulay-mob-olimpiai-palyazat",
-        "image": "https://assets.telex.hu/images/20261112/1794513045-temp-5hq1bqmeo3v02bldlli_cimlap-normal.jpg",
-        "summary": "A 15 ezer milliárdos létesítményvagyon 18 milliárd forint bevételt hozott tavaly, ezen változtatni szeretne a magyar kormány.",
-        "category": "Politika",
-        "published_at": 1794542600
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Pósfai Gábor: Elhűlt, irigykedett a német sportminiszter, amikor elmondtam neki, mennyit szánunk a magyar sportra",
-        "link": "https://hvg.hu/gazdasag/20261113_posfai-gabor-kalnoki-kiss-attila-sport-finanszirozas-konferencia",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6dae0c60-2f4f-4e4c-9557-88637859a98b.jpg",
-        "summary": "Marad a mindennapos tetstnevelés, a magyar fél NOB-bal folytatott párbeszédét az olimpiarendezésről pedig nagyítóval figyeli a sportért felelős államtitkárság – hangzott el a Merre tovább, magyar sport? című konferencián. A belügyminiszter a sportfinanszírozás rendszerének átalakítását és a nagy sportesemények rendezésének új feltételeit is ismertette.",
-        "category": "Gazdaság",
-        "published_at": 1794556500
-      }
-    ]
-  },
-  {
-    "group_id": "group_31d352933c",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Fedőneve: „Spektrum” – ahogyan azt a beszervezett és célpontja átélte",
-        "link": "https://telex.hu/ugynokaktak/2026/11/13/beszervezes-fedoneve-spektrum-beres-istvan",
-        "image": "https://assets.telex.hu/images/20261112/1794493404-temp-f05n8fhfrp4ealcodcb_cimlap-normal.jpg",
-        "summary": "Ungváry Krisztián írásában ahhoz ad adalékokat, hogy láthatók legyenek a beszervezési folyamat kényszerei és mozgásterei.",
-        "category": "Politika",
-        "published_at": 1794542566
       }
     ]
   },
@@ -3115,6 +3042,22 @@
     ]
   },
   {
+    "group_id": "group_e2b49e5111",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Pósfai Gábor: Elhűlt, irigykedett a német sportminiszter, amikor elmondtam neki, mennyit szánunk a magyar sportra",
+        "link": "https://hvg.hu/gazdasag/20261113_posfai-gabor-kalnoki-kiss-attila-sport-finanszirozas-konferencia",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6dae0c60-2f4f-4e4c-9557-88637859a98b.jpg",
+        "summary": "Marad a mindennapos tetstnevelés, a magyar fél NOB-bal folytatott párbeszédét az olimpiarendezésről pedig nagyítóval figyeli a sportért felelős államtitkárság – hangzott el a Merre tovább, magyar sport? című konferencián. A belügyminiszter a sportfinanszírozás rendszerének átalakítását és a nagy sportesemények rendezésének új feltételeit is ismertette.",
+        "category": "Gazdaság",
+        "published_at": 1794556500
+      }
+    ]
+  },
+  {
     "group_id": "group_8db5ed8519",
     "category": "Gazdaság",
     "articles_count": 3,
@@ -3702,7 +3645,7 @@
   {
     "group_id": "group_6b080a7273",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Hír TV",
@@ -3712,6 +3655,15 @@
         "summary": "Az adventi időszak közeledtével a rászorulók megsegítése is előtérbe kerül.",
         "category": "Politika",
         "published_at": 1794559381
+      },
+      {
+        "source": "ATV",
+        "title": "Jócskán megdrágulhat idén a karácsonyfa: mutatjuk, mennyit kérnek idén afenyőkért",
+        "link": "https://www.atv.hu/belfold/20261114/karacsonyfa-arak-2026-fenyofa-dragulas/",
+        "image": "",
+        "summary": "Az idei szezonban is elegendő karácsonyfa kerülhet majd a piacra, az árak azonban több fajtánál emelkedhetnek. Különösen a nordmann-fenyő drágulhat meg, miközben az aszály miatt a következő évek kínálata is bizonytalanná válhat.",
+        "category": "Gazdaság",
+        "published_at": 1794629100
       }
     ]
   },
@@ -9084,7 +9036,7 @@
         "image": "",
         "summary": "Amikor odakint egyre hidegebbre fordul az idő, különösen jólesik magunk mögött hagyni a hétköznapok rohanását, és átadni magunkat a gondtalan pihenésnek. Ki mondta, hogy a fürdőzés csak nyáron az igazi? Nyíregyházán, a festői Sóstógyógyfürdő szívében található Aquarius Élményfürdőben a hideg hónapokban is garantált a feltöltődés, legyen szó családi kalandokról, romantikus pihenésről vagy egy kis énidőről. The post Téli élmények, amelyek felmelegítik a hétköznapokat – irány Nyíregyháza! first appeared on nlc.",
         "category": "Bulvár",
-        "published_at": 1794628929
+        "published_at": 1794629293
       }
     ]
   },
@@ -12076,7 +12028,7 @@
         "image": "https://raketa.hu/uploads/2024/02/hang.jpg",
         "summary": "Vannak hangok, amelyeknek a forrását évtizedekig, sőt néha évszázadokig sem sikerült egyértelműen megmagyarázni. Egyeseket műszerek rögzítettek, másokat emberek ezrei hallottak, de akadtak olyanok is, amelyek eredete máig vitatott.",
         "category": "Kultúra",
-        "published_at": 1794628929
+        "published_at": 1794629293
       }
     ]
   },
@@ -12141,6 +12093,38 @@
         "summary": "A Tisza rendszerváltást hirdetett a kampányban, de amit fél év alatt tett, az valami egészen más.",
         "category": "Politika",
         "published_at": 1794628860
+      }
+    ]
+  },
+  {
+    "group_id": "group_c51c537c7c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Lezsákot nem adjuk!",
+        "link": "https://magyarnemzet.hu/tollhegyen/2026/11/lezsakot-nem-adjuk?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/LBZaOhqH_U4L6a7puTJ7zPE31x4-oLK7VPV-OxqPklU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvZmE1MDEyMzY1MzNkZDFlOWEyMWFlMGRiOTA5NGNkOTczNzhiNDU1ZmVhZGMyMWY2ZWZlZWUzYzNhM2ZkODU5Mg.jpg",
+        "summary": "Miközben a meghurcolt politikusnak gyors felépülést kívánok, az aktavariáló brigádnak azt javaslom, ők is keressék fel orvosukat (elmeápolójukat), hogy mielőbb beilleszkedhessenek az épeszűek közösségébe.",
+        "category": "Politika",
+        "published_at": 1794629160
+      }
+    ]
+  },
+  {
+    "group_id": "group_7277dbafdd",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Úgy tűnik, betelt a pohár a magyaroknál: egyre kevesebben rendelnek Kínából",
+        "link": "https://raketa.hu/temu-webshop-kina-rendelesek-vamreform-hatasai/",
+        "image": "https://raketa.hu/uploads/2026/11/temu.jpg",
+        "summary": "Úgy tűnik, az olcsó kínai rendeléseket már nem mindenki tartja annyira jó üzletnek: az új uniós vámok miatt a magyar vásárlók jelentős része változtatott a szokásain, és egyre többen keresnek alternatívákat a Temu és társai helyett.",
+        "category": "Kultúra",
+        "published_at": 1794629293
       }
     ]
   }
