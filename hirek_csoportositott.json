@@ -122,47 +122,6 @@
     ]
   },
   {
-    "group_id": "group_29f699ef42",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Róna Péter szerint nem igaz, hogy Varga Mihálynak ne jelezték volna az MNB-alapítványok problémás milliárdjait",
-        "link": "https://telex.hu/gazdasag/2026/11/13/rona-peter-szerint-nem-igaz-hogy-varga-mihalynak-ne-jeleztek-volna-az-mnb-alapitvanyok-problemas-milliardjait-5",
-        "image": "https://assets.telex.hu/images/20261113/1794554242-temp-ptshsc5dg29qfipgnhd_cimlap-normal.jpg",
-        "summary": "Az MNB felügyelőbizottságának korábbi tagja a 24.hu-nak nyilatkozva cáfolta a jegybankelnök kijelentéseit.",
-        "category": "Politika",
-        "published_at": 1794554494
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Cáfolta Róna Péter állításait a jegybank a 266 milliárdos MNB-ügyben",
-        "link": "https://index.hu/gazdasag/2026/11/13/rona-peter-varga-mihaly-mnb-ugy-matolcsy-gyorgy-jegybank/",
-        "image": "https://kep.index.hu/1/0/7254/72541/725413/72541331_5345253_333303e2f07f6aaac531080ed38addb6_wm.jpg",
-        "summary": "A közgazdász szerint már 2014-ben jelezték Varga Mihálynak a problémás milliárdokat.",
-        "category": "Gazdaság",
-        "published_at": 1794579000
-      }
-    ]
-  },
-  {
-    "group_id": "group_8d713660fc",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Mészárlást tervezett Budapesten: Miniszoknyában és magassarkú csizmában vitték el az egyetemista lányt",
-        "link": "https://www.atv.hu/belfold/20261113/egyetemista-lany-fbi-emberoles/",
-        "image": "https://www.youtube.com/embed/A-obQJc0ATA",
-        "summary": "Megdöbbentő felvételek az NNI akciójáról: a csinos, 22 éves egyetemista nő egy mesterséges intelligenciával beszélte meg, hogyan végez ismerősével.",
-        "category": "Általános",
-        "published_at": 1794554340
-      }
-    ]
-  },
-  {
     "group_id": "group_fa4e37244c",
     "category": "Politika",
     "articles_count": 1,
@@ -195,35 +154,10 @@
     ]
   },
   {
-    "group_id": "group_cc0b7bebe4",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Bizonytalan kormányalakítás és fokozódó közel-keleti feszültség",
-        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/bizonytalan-kormanyalakitas-es-fokozodo-kozel-keleti-feszultseg",
-        "image": "https://cdn.hirtv.hu/2026/11/REcfVAPWDP2tE5a3SCvNt0mnOExPAEe1gfOyU7Bqi1o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIyYjM0N2RkOGRiMzQxODU4ODhhMmZhNjUzNTIyZmI5.webp",
-        "summary": "Az izraeli kormányalakítás nehézségeiről, az iráni konfliktus lehetséges folytatásáról és Donald Trump mozgásteréről beszélt Robert C. Castel, az Alapjogokért Központ biztonságpolitikai tanácsadója a jeruzsálemi bejelentkezésében.",
-        "category": "Politika",
-        "published_at": 1794554506
-      }
-    ]
-  },
-  {
     "group_id": "group_f8df33b79f",
     "category": "Kultúra",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Elfogtak egy nőt Budapesten, aki chatbottal beszélte meg, hogy emberölést tervez",
-        "link": "https://hvg.hu/tudomany/20261113_elfogas-kulfoldi-no-mesterseges-intelligencia-chatbot-fbi",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1c7b2189-b211-4804-95ea-eb9eaea4bf8d.jpg",
-        "summary": "A 22 éves, itt tanuló nő azt állítja, részeg volt, amikor a tervezett gyilkosságról írt. Az FBI közreműködésével fogták el.",
-        "category": "Kultúra",
-        "published_at": 1794554360
-      },
       {
         "source": "Index - Címlap",
         "title": "Budapesten az FBI segítségével fogták el a nőt, aki chatbottal beszélte meg, hogy emberölést tervez",
@@ -6335,6 +6269,22 @@
     ]
   },
   {
+    "group_id": "group_29f699ef42",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Cáfolta Róna Péter állításait a jegybank a 266 milliárdos MNB-ügyben",
+        "link": "https://index.hu/gazdasag/2026/11/13/rona-peter-varga-mihaly-mnb-ugy-matolcsy-gyorgy-jegybank/",
+        "image": "https://kep.index.hu/1/0/7254/72541/725413/72541331_5345253_333303e2f07f6aaac531080ed38addb6_wm.jpg",
+        "summary": "A közgazdász szerint már 2014-ben jelezték Varga Mihálynak a problémás milliárdokat.",
+        "category": "Gazdaság",
+        "published_at": 1794579000
+      }
+    ]
+  },
+  {
     "group_id": "group_b4bf7d7019",
     "category": "Általános",
     "articles_count": 1,
@@ -7432,7 +7382,7 @@
         "image": "",
         "summary": "Amikor odakint egyre hidegebbre fordul az idő, különösen jólesik magunk mögött hagyni a hétköznapok rohanását, és átadni magunkat a gondtalan pihenésnek. Ki mondta, hogy a fürdőzés csak nyáron az igazi? Nyíregyházán, a festői Sóstógyógyfürdő szívében található Aquarius Élményfürdőben a hideg hónapokban is garantált a feltöltődés, legyen szó családi kalandokról, romantikus pihenésről vagy egy kis énidőről. The post Téli élmények, amelyek felmelegítik a hétköznapokat – irány Nyíregyháza! first appeared on nlc.",
         "category": "Bulvár",
-        "published_at": 1794640558
+        "published_at": 1794640950
       }
     ]
   },
@@ -11371,7 +11321,7 @@
   {
     "group_id": "group_c8ed50c8ea",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -11399,6 +11349,15 @@
         "summary": "Trump a nukleáris leszerelés és az iráni konfliktus kérdését is felveti majd Putyinnak. The post Fehér Ház: a jövő héten találkozik egymással Donald Trump, Vlagyimir Putyin és Hszi Csin-ping first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1794640310
+      },
+      {
+        "source": "444.hu",
+        "title": "Jövő héten összeülhet Donald Trump, Vlagyimir Putyin és Hszi Csin-ping",
+        "link": "https://444.hu/2026/11/14/jovo-heten-osszeulhet-donald-trump-vlagyimir-putyin-es-hszi-csin-ping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Az ukrajnai háborúval kapcsolatos megbeszélésekre várhatóan nem kerül sor. Elon Musk viszont elkíséri az amerikai elnököt.",
+        "category": "Politika",
+        "published_at": 1794640495
       }
     ]
   },
@@ -11735,6 +11694,38 @@
         "summary": "Nincs más lehetőség.",
         "category": "Politika",
         "published_at": 1794640513
+      }
+    ]
+  },
+  {
+    "group_id": "group_3d72ab983c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Füttykoncert Kassán – Feröer megint hihetetlen dolgot produkált",
+        "link": "https://magyarnemzet.hu/sport/2026/11/feroer-szigetek-nemzetek-ligaja-szlovakia-dontetlen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/nhHnEty7pNYpq8hbouTa5Yeij8hgdo_KHrszEqeNKQY/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTQvNWViYjIyMmQzMmI4MTNlZjIwMzMxMmNhMjJkMGRjYzAxNGMyYTZhYjg3NWMyYjMwMjM2ZDQzZjk5OTE3N2Y5Yw.jpg",
+        "summary": "A skandináv kiscsapat öt forduló után is veretlen a Nemzetek Ligájában, na de hogyan!",
+        "category": "Politika",
+        "published_at": 1794640801
+      }
+    ]
+  },
+  {
+    "group_id": "group_fa51be5998",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Az amerikai légikáosz közepén, egy gép fedélzetén adott rögtönzött koncertet a Hoobastank",
+        "link": "https://24.hu/elet-stilus/2026/11/14/usa-legi-kozlekedes-kaosz-hoobastank-koncert-video/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1490085589-e1794640406579-1024x577.jpg",
+        "summary": "Az amerikai légiközlekedési leállás alatt a Hoobastank a The Reasont adta elő egy repülőgépen, az utasok pedig együtt énekeltek velük. The post Az amerikai légikáosz közepén, egy gép fedélzetén adott rögtönzött koncertet a Hoobastank first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794640582
       }
     ]
   }
