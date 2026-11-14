@@ -774,6 +774,62 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_22001e3333",
+    "slug": "kommunikacios-hiba-miatt-allt-le-az-amerikai-legi-forgalom-22001e",
+    "tags": [
+      "amerikai-legikozlekedes",
+      "faa",
+      "legiforgalmi-iranyitas",
+      "jarattorles"
+    ],
+    "fingerprint": "ab2294575afd4b39eda4155bf6fb65d3",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2d53f9e8-4066-4d66-9a4d-26105443f79c.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Rendkívüli körülmények és biztonsági okok miatt országos légtérzárat rendeltek el az Egyesült Államokban",
+        "link": "https://index.hu/kulfold/2026/11/13/egyesult-allamok-orszagos-legterzar/"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Földre parancsolták az összes repülőgépet az Egyesült Államokban",
+        "link": "https://24.hu/kulfold/2026/11/13/usa-repulogepek-foldre-parancsolasa-breaking/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Leállították az amerikai légiforgalmat, a légiirányítási rendszerekkel lehet a baj",
+        "link": "https://telex.hu/kulfold/2026/11/13/egyesult-allamok-legiforgalom-leallt-radar"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "„Rendkívüli körülményekre” hivatkozva földre parancsolták az összes repülőjáratot az Egyesült Államokban",
+        "link": "https://hvg.hu/tudomany/20261113_foldre-parancsoltak-az-osszes-repulojaratot-az-egyesult-allamokban"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Földre parancsolták a repülőgépeket Amerikában",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/foldre-parancsoltak-a-repulogepeket-amerikaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Még napokig tarthat az összeomlott amerikai légiközlekedés helyreállítása",
+        "link": "https://24.hu/kulfold/2026/11/14/usa-repulogepek-foldre-parancsolasa-ujraindulas-kaosz-halaadas/"
+      }
+    ],
+    "published_at": 1794611185,
+    "title_hu": "Kommunikációs hiba miatt állt le az amerikai légi forgalom",
+    "lead_hu": "Az amerikai légügyi hatóság pénteken országos felszállási tilalmat vezetett be, miután kommunikációs zavar érintette a légiforgalmi irányítást. A fennakadás miatt szombat hajnalig több mint 1700 induló járatot töröltek, és a hatóság még nem tudta megmondani, mikor indulhat újra a forgalom.",
+    "content_hu": "• **Országos felszállási tilalom** Az FAA pénteken, keleti parti idő szerint délután négy óra körül, magyar idő szerint 22:15 után rendelte el, hogy további tájékoztatásig ne induljanak gépek az Egyesült Államokban. A külföldről érkező járatokról egyedi döntés született, az Eurocontrol pedig 42 tagállamában felfüggesztette az Amerikába tartó járatok indítását.\n\n• **A kommunikációs rendszer hibája okozhatta a fennakadást** Sean Duffy közlekedési miniszter szerint a szakemberek a hiba elhárításán dolgoztak. A 24.hu értesülése alapján az FAA a hálózati routerek meghibásodásáról tájékoztatta a légitársaságokat; a probléma feltehetően a chicagói Midway repülőtéren kezdődött, és a radarokat, valamint a rádiós kommunikációt is érintette. A CNN forrásai nem kibertámadásra utaltak.\n\n• **Több ezer járat sorsa változott meg** Szombaton, magyar idő szerint 00:30-ig több mint 1700 indulást töröltek, további 600 járatot pedig átirányítottak. Az eltérített gépek többsége visszatért a kiinduló repülőtérre, és egyes légitársaságok a pénteki járataik további törlését is jelezték arra az esetre, ha nem sikerül gyorsan megoldani a problémát.\n\n• **A forgalom újraindításának ideje bizonytalan** A Telex beszámolója szerint az FAA nem tudta előre jelezni, mikor szállhatnak fel ismét a gépek. A járatok kiesése a későbbi menetrendet is felboríthatja: egyes repülőgépek emiatt más, akár más kontinensre tervezett útjukat sem tudják teljesíteni.\n\n• **Korábban 2023-ban volt hasonló országos korlátozás** Az Egyesült Államokban 2023 januárjában a pilótáknak szóló NOTAM-rendszer hibája miatt állt le a légi forgalom; ezt megelőzően ilyen országos intézkedésre a 2001. szeptember 11-i terrortámadások után került sor. A Microsoft rendszereinek aznapi üzemzavarával való esetleges kapcsolatot nem tisztázták.",
+    "importance_score": 63.0,
+    "top_rank": 12,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_67b2e17e2a",
     "slug": "esozes-es-szel-kzuti-karok-es-vasuti-fennakadasok-orszagszerte-67b2e1",
     "tags": [
@@ -825,7 +881,7 @@
     "lead_hu": "A csütörtök óta tartó csapadékos, szeles idő több helyen elárasztott utakat, épületeket és kidőlt fákat hagyott maga után. A vasúti közlekedést felsővezeték-hiba és sínekre zuhant fa is akadályozza; az érintett vonalakon késésekre és pótlóbuszokra kell számítani.",
     "content_hu": "• **Felsővezeték-hiba és kidőlt fa nehezíti a vasúti közlekedést.** Bicske és Herceghalom között megsérült a felsővezeték, ezért Herceghalom és Szárliget között buszok szállítják az utasokat. A Railjet-, EuroCity-, InterCity- és személyvonatok forgalma is módosult; egyes járatok rövidített útvonalon közlekednek. A Savaria és Scarbantia InterCityk Sopron, illetve Szombathely és Tatabánya között járnak, az S10-esek Győr és Szárliget, valamint Herceghalom és a Déli pályaudvar között közlekednek, az S12-esek pedig Oroszlány és Tatabánya között. Egy Győrből induló S10-es Bicske alsónál rekedt. Veszprém és Győr között, Porva-Csesznek közelében egy másik vonat útját fa zárta el; a járat jelentős késéssel számolt. A MÁV délutánig tartó fennakadásra készült, a teljes helyreállításról nem adott tájékoztatást.\n\n• **Biatorbágynál lezárták az 1-es főutat.** A vízátfolyás miatt a teljes útpályán megszűnt a forgalom, a járműveket az M1-esre terelik.\n\n• **Kidőlt fák okoztak közlekedési akadályokat.** Az 54-es főúton, Bugacpusztánál és az 1-es főúton, Szárligetnél fa került az úttestre. Hajdúnánás és Görbeháza között egy autó az útra dőlt fa miatt az árokba csúszott.\n\n• **Több helyen vízben rekedt autókhoz hívtak segítséget.** Budapesten, a Ferencvárosi pályaudvarnál található Illatos úti aluljárót átmenetileg lezárták, miután két autó elakadt. Győrben, a Bisinger József híd alatti Szent István úton egy járművet kellett kitolni a vízből.\n\n• **Lakóépületek és közterületek is víz alá kerültek.** Vilonyán a Séd-patak áradása elöntötte egy családi ház pincéjét, Tökölön pedig víz folyt be egy hentesüzletbe. Szombathelyen, a Csaba utcai felüljáró gyalogos részéről, valamint Balatonfüreden, a vasútállomásnál szivattyúzták a vizet.\n\n• **A ciklon csapadékzónája csütörtök este érte el az országot.** A Charles névre keresztelt időjárási rendszer déli és délnyugati térségek felől hozott esőt Magyarországra.",
     "importance_score": 60.0,
-    "top_rank": 12,
+    "top_rank": 13,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -881,7 +937,7 @@
     "lead_hu": "Egy mesterségesintelligencia-szolgáltatás működtetője értesítette az FBI-t egy Magyarországhoz köthető felhasználó erőszakos kijelentéseiről. A 22 éves, Magyarországon tanuló nőt november 12-én fogták el; az ügyészség később engedélyezte, hogy szabadlábon védekezzen.",
     "content_hu": "• **Az FBI értesítése** A chatbotot fejlesztő és működtető vállalat tájékoztatta az amerikai Szövetségi Nyomozó Irodát, amely november 8-án jelezte az ügyet a Nemzeti Nyomozó Iroda Transzatlanti Műveleti Osztályának.\n\n• **A tervezett támadás** A hatóságok által megszerzett üzenetek szerint a felhasználó egy ismerőse otthonába nyitott ablakon át akart bejutni, majd késsel megölni őt, és a családtagjaira is rátámadni.\n\n• **Az azonosítás és az elfogás** Az NNI és a Magyarországra delegált FBI-ügynökök közreműködésével, az MI-alkalmazás adatai és a Magyarországon élő külföldiek nyilvántartása alapján azonosították a 22 éves nőt és a kiszemelt áldozatot. A nőt november 12-én budapesti albérletében fogták el; telefonját és számítógépét lefoglalták, az eszközökről pedig elektronikus adatokat mentettek le.\n\n• **A gyanúsítás és az ügyészségi döntés** A nőt emberölés előkészületének gyanújával hallgatták ki. Azt vallotta, hogy ittas volt, nem emlékszik a beszélgetésre, és nem akart senkit megölni. Az NNI őrizetbe vette és kezdeményezte letartóztatását, az ügyészség azonban a szabadlábra helyezése mellett döntött.",
     "importance_score": 60.0,
-    "top_rank": 13,
+    "top_rank": 14,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -932,57 +988,6 @@
     "lead_hu": "Köböl Anita kormányszóvivő csütörtöki Facebook-bejegyzésében arról számolt be, hogy őt is érte bántalmazás. A nők elleni és a családon belüli erőszak megelőzését célzó kormányzati tervekről szólva az áldozatok támogatását hangsúlyozta.",
     "content_hu": "• **Személyes tapasztalat** Köböl Anita a Facebook-bejegyzésében közölte, hogy saját életében is megtapasztalta a bántalmazást, a körülményeket azonban nem részletezte. A 24.hu beszámolója szerint néhány évvel korábban egy műsorban már beszélt arról, hogy egy nárcisztikus volt párja bántalmazta.\n\n• **Az áldozatok támogatása** Televíziós műsorvezetőként több olyan nő történetét hallotta, akik otthonukban sem érezték magukat biztonságban, és segítségkérésükre nem mindig kaptak megfelelő támogatást. Azt hangsúlyozta, hogy a bántalmazásért nem az áldozat felelős, és senkinek sem kellene egyedül maradnia, ha segítségre van szüksége.\n\n• **Az áldozathibáztatás következményei** Köböl Anita szerint a közöny, a félrenézés és az áldozatok hibáztatása súlyos, esetenként tragikus következményekhez vezethet.\n\n• **A tervezett intézkedések** Magyar Péter csütörtökön a nők elleni és a családon belüli erőszak megelőzésére, az áldozatok védelmére és az elkövetők felelősségre vonására irányuló terveket ismertetett. A csomagban szerepel az Isztambuli Egyezmény ratifikálása, a büntetőjogi szabályok szigorítása, a szívhangrendelet módosítása, az esemény utáni tabletta vénykötelességének eltörlése, valamint a menstruációs szegénység elleni fellépés.\n\n• **Politikai és szakmai reakciók** Szakmai szervezetek többsége kedvezően fogadta a bejelentést, mások bírálták a terveket. A KDNP ellenezte az egyezmény ratifikálását, és kifogásolta a „társadalmi nem” fogalmát; Magyar Péter visszautasította a genderkérdésekre vonatkozó bírálatokat.",
     "importance_score": 55.0,
-    "top_rank": 14,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_22001e3333",
-    "slug": "kommunikacios-hiba-miatt-allt-le-az-amerikai-legi-forgalom-22001e",
-    "tags": [
-      "amerikai-legikozlekedes",
-      "faa",
-      "legiforgalmi-iranyitas",
-      "jarattorles"
-    ],
-    "fingerprint": "ab2294575afd4b39eda4155bf6fb65d3",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2d53f9e8-4066-4d66-9a4d-26105443f79c.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Rendkívüli körülmények és biztonsági okok miatt országos légtérzárat rendeltek el az Egyesült Államokban",
-        "link": "https://index.hu/kulfold/2026/11/13/egyesult-allamok-orszagos-legterzar/"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Földre parancsolták az összes repülőgépet az Egyesült Államokban",
-        "link": "https://24.hu/kulfold/2026/11/13/usa-repulogepek-foldre-parancsolasa-breaking/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Leállították az amerikai légiforgalmat, a légiirányítási rendszerekkel lehet a baj",
-        "link": "https://telex.hu/kulfold/2026/11/13/egyesult-allamok-legiforgalom-leallt-radar"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "„Rendkívüli körülményekre” hivatkozva földre parancsolták az összes repülőjáratot az Egyesült Államokban",
-        "link": "https://hvg.hu/tudomany/20261113_foldre-parancsoltak-az-osszes-repulojaratot-az-egyesult-allamokban"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Földre parancsolták a repülőgépeket Amerikában",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/foldre-parancsoltak-a-repulogepeket-amerikaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794611185,
-    "title_hu": "Kommunikációs hiba miatt állt le az amerikai légi forgalom",
-    "lead_hu": "Az amerikai légügyi hatóság pénteken országos felszállási tilalmat vezetett be, miután kommunikációs zavar érintette a légiforgalmi irányítást. A fennakadás miatt szombat hajnalig több mint 1700 induló járatot töröltek, és a hatóság még nem tudta megmondani, mikor indulhat újra a forgalom.",
-    "content_hu": "• **Országos felszállási tilalom** Az FAA pénteken, keleti parti idő szerint délután négy óra körül, magyar idő szerint 22:15 után rendelte el, hogy további tájékoztatásig ne induljanak gépek az Egyesült Államokban. A külföldről érkező járatokról egyedi döntés született, az Eurocontrol pedig 42 tagállamában felfüggesztette az Amerikába tartó járatok indítását.\n\n• **A kommunikációs rendszer hibája okozhatta a fennakadást** Sean Duffy közlekedési miniszter szerint a szakemberek a hiba elhárításán dolgoztak. A 24.hu értesülése alapján az FAA a hálózati routerek meghibásodásáról tájékoztatta a légitársaságokat; a probléma feltehetően a chicagói Midway repülőtéren kezdődött, és a radarokat, valamint a rádiós kommunikációt is érintette. A CNN forrásai nem kibertámadásra utaltak.\n\n• **Több ezer járat sorsa változott meg** Szombaton, magyar idő szerint 00:30-ig több mint 1700 indulást töröltek, további 600 járatot pedig átirányítottak. Az eltérített gépek többsége visszatért a kiinduló repülőtérre, és egyes légitársaságok a pénteki járataik további törlését is jelezték arra az esetre, ha nem sikerül gyorsan megoldani a problémát.\n\n• **A forgalom újraindításának ideje bizonytalan** A Telex beszámolója szerint az FAA nem tudta előre jelezni, mikor szállhatnak fel ismét a gépek. A járatok kiesése a későbbi menetrendet is felboríthatja: egyes repülőgépek emiatt más, akár más kontinensre tervezett útjukat sem tudják teljesíteni.\n\n• **Korábban 2023-ban volt hasonló országos korlátozás** Az Egyesült Államokban 2023 januárjában a pilótáknak szóló NOTAM-rendszer hibája miatt állt le a légi forgalom; ezt megelőzően ilyen országos intézkedésre a 2001. szeptember 11-i terrortámadások után került sor. A Microsoft rendszereinek aznapi üzemzavarával való esetleges kapcsolatot nem tisztázták.",
-    "importance_score": 53.0,
     "top_rank": 15,
     "is_top_hero": false,
     "is_top_list": true
@@ -1135,6 +1140,42 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_94486b7fd0",
+    "slug": "leallas-utan-kaosz-felszallhattak-a-gepek-amerikaban-de-tmegek-rekedtek-a-repter-94486b",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/Zw96QVdxORqvUV73KA0XBY0Zg4lgNnm15MJnsNt-xiw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvYTFkYjMxYTM1MzU2ZmE4NjMzNGZmMzkyMWRiMjA5ZTU2MjVjMmVkMjUyNGQ4ZmJmMDYwMGJkYjYzYmI4NGI1OA.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Leállás után káosz — felszállhattak a gépek Amerikában, de tömegek rekedtek a reptereken + videó",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/legikozlekedes-egyesult-allamok-repuloterek-repulogepek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Földre parancsolták az összes amerikai repülőgépet, mintegy hétezer járatot érint a káosz",
+        "link": "https://index.hu/kulfold/2026/11/14/legikozlekedes-usa-repulojarat-szovetsegi-legikozlekedesi-hatosag/"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Rendkívüli: káosz Amerikában, összeomlott a teljes légiforgalom – nem történt ilyen 2001. szeptember 11. óta",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/legiforgalom-amerika-usa-trump-leallas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794633955,
+    "title_hu": "Leállás után káosz — felszállhattak a gépek Amerikában, de tömegek rekedtek a reptereken + videó",
+    "lead_hu": "2001. szeptember 11-e óta nem volt ekkora leállás az amerikai reptereken....",
+    "content_hu": "2001. szeptember 11-e óta nem volt ekkora leállás az amerikai reptereken.",
+    "importance_score": 45.0,
+    "top_rank": 19,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_ea21af25c3",
     "slug": "a-partizan-stabjanak-26-szazalekat-erinti-a-leepites-ea21af",
     "tags": [
@@ -1176,7 +1217,7 @@
     "lead_hu": "A 72 fős Partizán közel húsz munkatárstól válik meg, Földiák Vince pedig az év végén távozik a főszerkesztői posztról, de újságíró-szerkesztőként a szervezetnél marad. Gulyás Márton szerint az új szerkesztőségi irány kisebb stábot kíván; a tartalmi vezetést középtávon ő veszi át.",
     "content_hu": "• **Létszámcsökkentés:** Gulyás Márton bejelentése szerint a Partizán 72 fős stábjának 26 százalékát, közel húsz munkatársát érinti a leépítés. A vezetés a szakszervezettel is megállapodott a távozók feltételeiről.\n\n• **Főszerkesztőváltás:** Földiák Vince az év végén lemond a főszerkesztői tisztségről, és újságíró-szerkesztőként marad a Partizánnál. Gulyás Márton és Földiák között nem sikerült megegyezni a szükséges szervezeti változtatásokról. Az év végéig Földiák és helyettesei irányítják a tartalmi munkát, ezt követően középtávon Gulyás veszi át a feladatot.\n\n• **Átalakuló működés:** A választások után megváltozott médiakörnyezet és az új tartalmi irány miatt a vezetés kisebb szervezetet tart szükségesnek. A korábban bejelentett fejlesztések, köztük a Szabolcs megyei Kelet-Partizán projekt, folytatódnak.\n\n• **Finanszírozás:** Gulyás szerint a leépítés nem pénzügyi kényszerből történik, a Partizánnak jelenleg nincs pénzügyi nehézsége. A 2027-es működés finanszírozását az egyszázalékos adófelajánlások biztosítják; a bevételek mintegy 70 százaléka adófelajánlásokból és körülbelül hatezer rendszeres támogatótól származik.\n\n• **Adófelajánlások:** A Partizán alapítványa 2026-ban 42 854 felajánlótól összesen 576,9 millió forintot kapott az szja egy százalékából.",
     "importance_score": 40.0,
-    "top_rank": 19,
+    "top_rank": 20,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1222,7 +1263,7 @@
     "lead_hu": "Orbán Viktor a november 12-i Ultrahang-interjúban Vitézy Dávid jogosítványának hiányáról és a vezetés férfiassághoz fűződő kapcsolatáról beszélt. A közlekedési tárca válasza szerint a sebességhatárok betartása mindenki számára kötelező, a volt miniszterelnöknek is.",
     "content_hu": "• **Orbán megjegyzése Vitézyről** Az Ultrahang november 12-i adásában Orbán Viktor szóba hozta, hogy Vitézy Dávidnak nincs jogosítványa. A volt kormányfő a vezetést és az autóhasználathoz kapcsolódó gyakorlati feladatokat a férfias élet részének nevezte.\n\n• **A minisztérium reakciója** Vitézy közlekedési és beruházási tárcája arra hívta fel a figyelmet, hogy a közlekedési előírások, köztük a sebességkorlátozások betartása nem választható lehetőség. Az üzenetet Orbánnak is címezték.\n\n• **Miért került szóba az okostelefon?** Az interjúban Orbán korábbi, nyomógombos Nokia készülékéről is kérdezték. Azt mondta, sokat vezet, és az okostelefonra azért váltott, mert az képes előre jelezni a traffipaxokat és az útlezárásokat.",
     "importance_score": 40.0,
-    "top_rank": 20,
+    "top_rank": 21,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1268,7 +1309,7 @@
     "lead_hu": "A 14 országot érintő TorNado akcióban 354, darknetes piactereken eladóként vagy vásárlóként tevékenykedő embert állítottak elő, köztük 45-öt Magyarországon. A hatóságok kábítószereket, fegyvereket és több mint 210 millió euró értékű vagyont foglaltak le, valamint online bűnözői infrastruktúrákat számoltak fel.",
     "content_hu": "• **354 előállított ember** A 14 országban végrehajtott műveletben darknetes eladókat és vásárlókat vettek őrizetbe; közülük 45-öt Magyarországon. A hatóságok több száz házkutatást tartottak.\n\n• **Kábítószerek és fegyverek lefoglalása** Összesen öt tonna kábítószert és több mint 210 millió euró értékű, bűncselekményekből származó vagyont foglaltak le. Az európai országokban 950 kilogramm illegális szer került elő, köztük kokain is. A lefoglalt mennyiségek között Németországban 150 kilogramm amfetamin, az Egyesült Királyságban 150 kilogramm ketamin, Hollandiában 40 kilogramm MDMA, Franciaországban pedig 50 kilogramm kannabisz szerepelt. A hatóságok több mint egymillió vényköteles gyógyszert, varázsgombát, THC-tartalmú e-cigarettát, 57 lőfegyvert és lőszert is lefoglaltak.\n\n• **Készpénz és kriptovaluta** Az európai intézkedések során több mint 60 millió euró értékű készpénzt és kriptovalutát foglaltak le. Az Egyesült Államokban több mint 4,8 tonna kábítószert és 152 lőfegyvert vontak ki a forgalomból; az ott lefoglalt készpénz és kriptovaluta értéke meghaladta a 150 millió eurót.\n\n• **Öt piactér felszámolása** A 2025 májusától 2026 októberéig tartó nemzetközi fellépés az Archetyp, a Bohemia, a Nemesis, a Kingdom és a Tor2Door darkwebes piacterek felszámolásához vezetett.\n\n• **Kiberbűnözői hálózatok leállítása** A hatóságok 235 szervert és 257 domaint kapcsoltak le, valamint felszámolták a Gootloader, a CastleRAT és a StealC nevű kártevők mögötti infrastruktúrát. A művelet során 6,4 millió olyan embert azonosítottak, akinek regisztrációs vagy belépési adatai kiberbűnözők birtokába kerültek.",
     "importance_score": 40.0,
-    "top_rank": 21,
+    "top_rank": 22,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1314,7 +1355,7 @@
     "lead_hu": "Jensen Huang augusztusban élesen bírálta Colette Kress pénzügyi igazgatót egy feszült vezetői értekezleten; Kress a távozása után átmenetileg átvette az Nvidia irányítását. Az amerikai törvényhozók nemzetbiztonsági kérdésekről kérdeznék a volt vezérigazgatót és Howard Lutnick kereskedelmi minisztert, miközben a vállalatot érintő magánéleti és üzleti ügyekről is újabb részletek jelentek meg.",
     "content_hu": "• **Huang az augusztusi értekezleten bírálta Kresst** A pénzügyi vezetőknek tartott megbeszélésen félbeszakította a pénzügyi igazgató előadását, és kétségbe vonta, hogy Kress alkalmas-e stratégiai döntések támogatására. A nézeteltérések egyes üzleti lépések megítéléséről szóltak.\n\n• **Milliárdos garanciákról és piaci kockázatokról is tárgyaltak** Az Nvidia olyan vállalatok chipvásárlását segítő garanciákat mérlegelt, amelyek saját forrásból nem tudták volna finanszírozni a beszerzést. Az ügyletek egy részét Huang veje, Nico Caprez koordinálta. Huang a felhőszolgáltatók alternatív chipjeire való átállásáról, valamint a korábban vállalt gyártási és memóriachip-beszerzések növekvő terhéről is beszélt.\n\n• **Három feltételezett kapcsolatról számoltak be** A sajtó Alice Huangot, Kimberly Powellt, az Nvidia egészségügyi részlegének alelnökét, valamint egy név nélkül hagyott vállalati dolgozót hozott összefüggésbe Jensennel. A Reuters november 12-én írt a harmadik személyről; Jensen Huang korábban már elismert egy házasságon kívüli kapcsolatot, de a másik felet nem nevezte meg.\n\n• **Alice Huang ügyében nemzetbiztonsági kérdések is felmerültek** A Megaspeed International korábbi vezetőjét az amerikai hatóságok a sajtóbeszámolók szerint kínai kémkedéssel gyanúsítják. A The Information legalább 7,5 milliárd dollár értékű, kínai vállalatoknak szállított Nvidia-chipről számolt be; a beszámolókat az amerikai exportkorlátozások miatt is vizsgálják.\n\n• **A képviselőház és a szenátus is meghallgatást kezdeményezett** Három képviselőházi bizottság december 1-jére zárt ülésre várja Huángot, és a részvétel visszajelzésére péntek este nyolcig adott határidőt. A szenátus banki bizottsága december 3-ára kérte fel őt és Lutnicket tanúvallomásra; Tim Scott bizottsági elnök decemberi nyilvános meghallgatásról is beszélt. Huang jelezte, hogy részt vesz, Lutnick pedig azt mondta, kész válaszolni a kérdésekre.\n\n• **Trump Huang családjára nehezedő nyomásról beszélt** Az elnök közlése szerint a lemondás előtt beszélt a volt vezérigazgatóval, aki feldúlt volt a magánéletéről szóló hírek miatt. Egy forrás szerint Trump arra biztatta, hogy ne engedjen a távozását sürgető felszólításoknak. A CNN beszámolója szerint Trump második elnöki ciklusának kezdete óta több mint egy tucat alkalommal találkoztak, és rendszeresen telefonáltak egymással.\n\n• **Jelentős veszteséget szenvedett el az Nvidia piaci értéke** A részvények a lemondást követően több mint 10 százalékot estek, majd pénteken további 4,34 százalékkal gyengültek, ami mintegy 182 milliárd dollár piaci értékvesztést jelentett. Az október 6-i csúcshoz mérten az árfolyam 30,5 százalékkal került lejjebb, a vállalat értéke pedig körülbelül 1,76 billió dollárral csökkent.",
     "importance_score": 40.0,
-    "top_rank": 22,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1360,7 +1401,7 @@
     "lead_hu": "Pseudomonas aeruginosa baktériumot találtak a Bactador 750 milliliteres enzimes tisztítószerének két gyártási tételében. Az NKFH a termék használatának azonnali beszüntetését kéri; a készítmény Magyarországon is elérhető lehetett.",
     "content_hu": "• **Két gyártási tétel érintett** A visszahívás a 4063 A és 3861 A tételszámú, Bactador márkájú, 750 milliliteres, háziállatok utáni takarításhoz ajánlott enzimes szag- és folteltávolítóra vonatkozik.\n\n• **Baktériumot mutattak ki a készítményben** Laboratóriumi vizsgálatok Pseudomonas aeruginosa jelenlétét igazolták. A kórokozó belélegzése, illetve szembe, nyílt sebbe vagy a légutakba jutása súlyos fertőzést okozhat; különösen veszélyeztetettek a legyengült immunrendszerűek és a padlón, szőnyegen vagy bútorokon használt szerrel érintkező csecsemők, kisgyermekek.\n\n• **A termék Magyarországon is hozzáférhető lehetett** A bejelentő uniós tagállam tájékoztatása szerint a tisztítószert az Amazon online piacterén és más kiskereskedőknél is árulhatták. Az ügy az EU Safety Gate riasztási rendszerében is megjelent.\n\n• **Az NKFH nem tartja biztonságosnak** A hatóság szerint a termék nem felel meg az általános termékbiztonsági uniós rendelet előírásainak.\n\n• **Ne használják, és a szórófejet se működtessék** Az érintett tételeket vásárlóknak abba kell hagyniuk a tisztítószer használatát, a flakont pedig gyermekektől elzárva kell tartaniuk. A gyártó és az online piactér megkezdte a visszahívást, a termék internetes oldalát eltávolították.",
     "importance_score": 40.0,
-    "top_rank": 23,
+    "top_rank": 24,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1402,7 +1443,7 @@
     "lead_hu": "A Bild értesüléseire hivatkozó beszámolók szerint egy nem hivatalos orosz javaslat az ukrajnai háború lezárásáért cserébe az európai biztonsági rendszer átalakítását is elvárná. A feltételek között a NATO bővítésének leállítása, Finnország tagságának megszüntetése és ukrajnai területi engedmények is szerepelnek.",
     "content_hu": "• **A javaslat túlmutatna Ukrajnán**: a Bild által ismertetett, nem hivatalos orosz elképzelések az ukrajnai rendezés mellett Európa biztonsági viszonyait is átalakítanák.\n\n• **NATO-korlátozásokat követelnének**: Moszkva megállítaná a szövetség további bővítését, Finnországot pedig kiléptetné a NATO-ból. A tervezet szerint Észtországban, Lettországban és Litvániában sem működhetnének NATO-támaszpontok.\n\n• **Ukrajnát területi engedményekre köteleznék**: Oroszország megtartaná az általa megszállt területeket, és a beszámolók szerint a teljes Donbasz átadását is követelné. Odessza és Mikolajiv kikötőit demilitarizálnák.\n\n• **Moldova államszerkezetét is módosítanák**: a javaslat Transznisztriával és Gagauziával föderatív állammá alakítaná az országot; uniós csatlakozás esetén a két terület a függetlenségéről szavazhatna.",
     "importance_score": 38.0,
-    "top_rank": 24,
+    "top_rank": 25,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1443,37 +1484,6 @@
     "lead_hu": "A Bild beszámolói szerint az Abu-Dzabiban zajló orosz–ukrán tárgyalásokon Moszkva a háború lezárásán túl az európai biztonsági rendszer átalakítására vonatkozó igényeket is megfogalmazott. A finn védelmi miniszter elutasította a NATO-tagság feladásának felvetését.",
     "content_hu": "• **Finnország NATO-tagsága** A Bild értesülései szerint az orosz tárgyalók azt követelték, hogy Finnország lépjen ki a katonai szövetségből, és a NATO ne tartson fenn, illetve ne hozzon létre katonai támaszpontokat az észak-európai térségben.\n\n• **Területi követelések Ukrajnával szemben** A beszámolók szerint Moszkva megtartaná az általa elfoglalt ukrán területeket, és igényt tartana a Donbasz még ukrán ellenőrzésű részeire is. Ukrajna NATO-csatlakozását kizárnák, az uniós tagság lehetőségét viszont nem zárnák ki.\n\n• **További európai javaslatok** A HVG összefoglalója szerint az orosz elképzelések Moldova föderális átszervezésére, Odessza és Mikolajiv kikötőinek demilitarizálására, valamint a Belaruszban állomásozó orosz nukleáris fegyverek kivonására is kitértek.\n\n• **Finn reakció** Antti Häkkänen finn védelmi miniszter elfogadhatatlannak nevezte Finnország NATO-tagságának megkérdőjelezését.",
     "importance_score": 38.0,
-    "top_rank": 25,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_94486b7fd0",
-    "slug": "leallas-utan-kaosz-felszallhattak-a-gepek-amerikaban-de-tmegek-rekedtek-a-repter-94486b",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/Zw96QVdxORqvUV73KA0XBY0Zg4lgNnm15MJnsNt-xiw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvYTFkYjMxYTM1MzU2ZmE4NjMzNGZmMzkyMWRiMjA5ZTU2MjVjMmVkMjUyNGQ4ZmJmMDYwMGJkYjYzYmI4NGI1OA.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Leállás után káosz — felszállhattak a gépek Amerikában, de tömegek rekedtek a reptereken + videó",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/legikozlekedes-egyesult-allamok-repuloterek-repulogepek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Földre parancsolták az összes amerikai repülőgépet, mintegy hétezer járatot érint a káosz",
-        "link": "https://index.hu/kulfold/2026/11/14/legikozlekedes-usa-repulojarat-szovetsegi-legikozlekedesi-hatosag/"
-      }
-    ],
-    "published_at": 1794633955,
-    "title_hu": "Leállás után káosz — felszállhattak a gépek Amerikában, de tömegek rekedtek a reptereken + videó",
-    "lead_hu": "2001. szeptember 11-e óta nem volt ekkora leállás az amerikai reptereken....",
-    "content_hu": "2001. szeptember 11-e óta nem volt ekkora leállás az amerikai reptereken.",
-    "importance_score": 35.0,
     "top_rank": 26,
     "is_top_hero": false,
     "is_top_list": true
@@ -2894,7 +2904,7 @@
     "title_hu": "NATO-vezető Budapesten: Oroszország Ukrajnán túl is fenyegetést jelent",
     "lead_hu": "Az orosz és az ukrán fél Abu-Dzabiban fogolycseréről állapodott meg, a területi vitákban viszont nem jutott előre. A NATO Katonai Bizottságának budapesti látogatásán Giuseppe Cavo Dragone Oroszország euroatlanti biztonsági kockázatáról és a szövetséget érő hibrid fenyegetésekről beszélt.",
     "content_hu": "• **Fogolycsere Abu-Dzabiban** A kétnapos egyeztetések végén az orosz és az ukrán fél foglyok cseréjéről állapodott meg, a területi kérdésekben azonban nem született előrelépés. Volodimir Zelenszkij szerint az orosz küldöttség nem kapott felhatalmazást a fekete-tengeri feszültség mérsékléséről és az energetikai célpontok elleni támadások beszüntetéséről szóló tárgyalásokra.\n\n• **Támadások Moszkva és Kijev környékén** November 12-én hajnalban az orosz légvédelem öt, Moszkva irányába tartó drónt lőtt le; Rosztov és Tula térségében szintén jelentettek drónmegsemmisítéseket. Kijevben robbanásokat észleltek, az orosz védelmi minisztérium pedig ukrajnai katonai és energetikai létesítmények, valamint egy kijevi lőszerraktár elleni támadásokról számolt be. Rivne megyében energetikai és civil infrastruktúra rongálódott meg.\n\n• **Amerikai küldöttek találkozója Putyinnal** Jared Kushner és Steve Witkoff november 12-én Moszkvába utazott. Kirill Dmitrijev fogadta őket, és azt közölte, hogy a küldöttek még aznap tárgyaltak Vlagyimir Putyinnal.\n\n• **Zelenszkij az orosz támadások folytatásáról beszélt** Az ukrán elnök a dublini Európai Politikai Közösség csúcstalálkozóján azt mondta, hogy Moszkva továbbra is csapásokat tervez Ukrajna ellen.\n\n• **A NATO Katonai Bizottságának elnöke Budapesten járt** Giuseppe Cavo Dragone admirálist Sándor Zsolt vezérezredes, a Honvéd Vezérkar főnöke fogadta. Cavo Dragone Oroszországot hosszú távú euroatlanti biztonsági kockázatként jellemezte, és arra figyelmeztetett, hogy Moszkva fellépése nem csak Ukrajnát érinti.\n\n• **Hibrid fenyegetésekkel is számol a NATO** Cavo Dragone a kibertámadásokat, a légtér megsértését, a GPS-zavarásokat és a dezinformációt is a szövetséget érő veszélyek közé sorolta. A NATO válaszlépései között említette a hírszerzési információk megosztását, a kritikus infrastruktúra védelmét és a katonai jelenlét szükség szerinti növelését.\n\n• **A magyar haderő külföldi szabotázsakciókra is készül** Sándor Zsolt szerint a védekezéshez rendelkezésre állnak a szükséges nemzetbiztonsági eszközök és katonai állomány. Magyarország emellett részt vállal a NATO keleti szárnyának védelmében, valamint a koszovói és bosznia-hercegovinai békefenntartó missziókban.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
@@ -4159,40 +4169,30 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_4fe34f7b34",
-    "slug": "iran-szerint-amerikai-radart-tamadott-bahreinben-4fe34f",
+    "group_id": "group_3eb805e4a4",
+    "slug": "o-volt-a-veszhelyzet-gynyru-carolja-a-60-eves-julianna-margulies-lepipalja-fiata-3eb805",
     "tags": [
-      "iran",
-      "bahrein",
-      "egyesult-allamok",
-      "forradalmi-garda"
+      "bulvar"
     ],
-    "fingerprint": "812b5350ed0f0aa6d7841d92a947d2eb",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/images/julianna_margulies_co.2e16d0ba.format-jpeg.fill-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "444.hu",
-        "title": "Irán az Egyesült Államok Bahreinben működő radarrendszerét támadta",
-        "link": "https://444.hu/2026/11/13/iran-az-egyesult-allamok-bahreinben-mukodo-radarrendszeret-tamadta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Irán megsemmisített egy amerikai radarállomást Bahreinben",
-        "link": "https://www.vadhajtasok.hu/2026/11/13/iran-megsemmisitett-egy-amerikai-radarallomast-bahreinben"
+        "source": "Femina",
+        "title": "Ő volt a Vészhelyzet gyönyörű Carolja: a 60 éves Julianna Margulies lepipálja fiatalabb kollégáit is",
+        "link": "https://femina.hu/vilagsztar/julianna-margulies-veszhelyzet-carol-60-evesen/"
       }
     ],
-    "published_at": 1794549351,
-    "title_hu": "Irán szerint amerikai radart támadott Bahreinben",
-    "lead_hu": "Az iráni Forradalmi Gárda közlése szerint csapást mértek egy Bahreinben működő amerikai radarrendszerre. A szervezet az akciót egy dél-iráni távközlési torony elleni támadásra adott válaszként írta le; az állításokat amerikai és bahreini részről nem erősítették meg.",
-    "content_hu": "• **Az iráni közlés szerint** a Forradalmi Gárda pénteken bejelentette, hogy Bahreinben amerikai radarállomást támadott meg. Az egyik forrás szerint a szervezet a berendezés megsemmisítéséről is beszámolt.\n\n• **A támadást megtorlásként indokolták:** az iráni fél azt állította, hogy korábban az Egyesült Államok légicsapást hajtott végre egy Sirikben, Hormozgán tartományban található távközlési torony ellen.\n\n• **A beszámolókat nem erősítették meg függetlenül:** az amerikai hadsereg és Bahrein részéről a források megjelenéséig nem érkezett nyilvános megerősítés sem a csapásról, sem az állítólagos károkról.",
-    "importance_score": 20.0,
-    "top_rank": 101,
+    "published_at": 1794635700,
+    "title_hu": "Ő volt a Vészhelyzet gyönyörű Carolja: a 60 éves Julianna Margulies lepipálja fiatalabb kollégáit is",
+    "lead_hu": "A színésznő pályafutása alatt 3 Emmy-díjat és 1 Golden Globe-díjat nyert....",
+    "content_hu": "A színésznő pályafutása alatt 3 Emmy-díjat és 1 Golden Globe-díjat nyert.",
+    "importance_score": 0.0,
+    "top_rank": null,
     "is_top_hero": false,
-    "is_top_list": true
+    "is_top_list": false
   },
   {
     "group_id": "group_65a35b9d1e",
@@ -17507,58 +17507,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_4500a2ea57",
-    "slug": "egymas-utan-zarja-be-a-fiokjait-magyarorszag-egyik-4500a2",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/XqsHZ9R-goNvE6w0k_KqrJlCYHCOdJ5MP_eZT3IfN20/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE0NzEyOGU3Yzc4ODQzYTU5NDQwNTJjNWRiYTQ2ZWE1.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Egymás után zárja be a fiókjait Magyarország egyik legnagyobb bankja: két város polgármestere is kiakadt – „Fel vagyok háborodva”",
-        "link": "https://www.vg.hu/kozelet/2026/11/bank-fiok-bezaras-encs-satoraljaujhely-polgarmester?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794549238,
-    "title_hu": "Egymás után zárja be a fiókjait Magyarország egyik legnagyobb bankja: két város polgármestere is kiakadt – „Fel vagyok háborodva”",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_1b2cfba2eb",
-    "slug": "penteki-friss-hirek-forgalom-idojaras-reggeli-pakk-1b2cfb",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1157442693-1024x574.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Pénteki friss hírek, forgalom, időjárás – Reggeli pakk",
-        "link": "https://24.hu/belfold/2026/11/13/penteki-friss-hirek-forgalom-idojaras-reggeli-pakk-448/"
-      }
-    ],
-    "published_at": 1794549128,
-    "title_hu": "Pénteki friss hírek, forgalom, időjárás – Reggeli pakk",
-    "lead_hu": "Putyin bekeményített, Jensen Huang szexbotránya, Izrael megtiltotta az egyik francia elnökjelölt beutazását. The post Pénteki friss hírek, forgalom, időjárás – Reggeli pakk first appeared on 24.hu.",
-    "content_hu": "Putyin bekeményített, Jensen Huang szexbotránya, Izrael megtiltotta az egyik francia elnökjelölt beutazását. The post Pénteki friss hírek, forgalom, időjárás – Reggeli pakk first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_8933447cf0",
     "slug": "uj-reszletek-derultek-ki-az-ugynkadatok-hibas-kzzetetelerol-893344",
     "tags": [
@@ -17595,7 +17543,7 @@
     "lead_hu": "A Fidesz–KDNP parlamenti vizsgálóbizottság felállítását kezdeményezte az ügynökadatok nyilvánosságra kerülésének ügyében. Az ÁBTL vezetője szerint a levéltár október 5-én rendezetlen formában kapta meg az adatokat, és kevesebb mint egy hónap alatt kellett feldolgoznia azokat.",
     "content_hu": "• **Benyújtott vizsgálóbizottsági indítvány** A Fidesz–KDNP pénteken közölte, hogy a kezdeményezés már az Országgyűlés előtt van. A pártszövetség politikai megrendelést és nyomásgyakorlást emlegetett, és Magyar Pétert, Ruff Bálintot, valamint Tarr Zoltánt nevezte meg felelősként; ez a pártszövetség álláspontja.\n\n• **A levéltár adatfeldolgozási nehézségei** Cseh Gergő Bendegúz főigazgató szerint az Alkotmányvédelmi Hivatal október 5-én nem tagolt adatokat, hanem olyan állományt adott át, amelyben egy-egy személy valamennyi adata egy Excel-cellába került. A feldolgozásra kevesebb mint egy hónap jutott, a megfigyeltek és a hálózati személyek közötti kód értelmezési hibája pedig téves besorolásokhoz vezetett.\n\n• **A hibás bejegyzések és javításuk** A november 4-én elindult adatbázisban Lezsák Sándor neve is tévesen hálózati személyként szerepelt. Az ÁBTL november 5-én informatikai hibát ismert el, és bocsánatot kért Lezsáktól; összesen 164 téves esetet azonosítottak, a hibát november 6-ra javították. Magyar Péter szintén elnézést kért Lezsáktól.\n\n• **Tarr Zoltán nyilatkozata** A miniszter kedden azt mondta, hogy személyesen nem érez felelősséget a 164 téves név megjelenéséért.\n\n• **A bizottság tervezett összetétele** A korábbi indítványismertetés szerint a testület hatfős lenne: három tagot a Tisza jelölne, három ellenzéki párt pedig egy-egy képviselőt delegálna. Az elnököt a Fidesz, az alelnököket a Tisza és a KDNP adná.\n\n• **Korábbi bizottsági ülés** A nemzetbiztonsági bizottság hétfőre összehívott rendkívüli ülésén a Tisza képviselői nem vettek részt.",
     "importance_score": 30.0,
-    "top_rank": 102,
+    "top_rank": 101,
     "is_top_hero": false,
     "is_top_list": true
   },
