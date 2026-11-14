@@ -430,78 +430,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_b893209b7b",
-    "slug": "szerverhibak-es-tulterheles-okozta-a-microsoft-vilagmeretu-leallasat-b89320",
-    "tags": [
-      "microsoft",
-      "szolgaltataskieses",
-      "informatika",
-      "outlook",
-      "teams"
-    ],
-    "fingerprint": "538f9b66e46b9007750abd923f8e86b4",
-    "category": "Általános",
-    "image": "https://femina.hu/neon/media/renditions/437/437715/23b309287f17aada.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
-        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
-        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Világszerte leállt a Microsoft, már kórházakat és segélyhívókat is érint a probléma",
-        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-szerverek-teams-word-excel-outlook/"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
-        "link": "https://www.vadhajtasok.hu/2026/11/13/globalis-leallas-a-microsoftnal-74-orszagban-akadozik-az-outlook-es-a-teams-is"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Százmillió dolláros kár és kaotikus állapotok: bénító szoftverhiba rázta meg a világgazdaságot",
-        "link": "https://www.portfolio.hu/gazdasag/20261113/szazmillio-dollaros-kar-es-kaotikus-allapotok-benito-szoftverhiba-razta-meg-a-vilaggazdasagot-876408"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Megszólalt a Microsoft a világméretű leállást követően",
-        "link": "https://index.hu/techtud/2026/11/14/microsoft-fennakadas-teams-outlook-copilot-muszaki-hiba-leallas/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Mitől omlottak össze a Microsoft szolgáltatásai?",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-365-leallas-outlook"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Microsoft: Most már minden oké",
-        "link": "https://hvg.hu/tudomany/20261114_microsoft-most-mar-minden-oke"
-      }
-    ],
-    "published_at": 1794635340,
-    "title_hu": "Szerverhibák és túlterhelés okozta a Microsoft világméretű leállását",
-    "lead_hu": "A Microsoft szerverproblémákkal és az ezek nyomán kialakuló túlterheléssel magyarázta a több mint 74 országban jelentkező szolgáltatáskiesést. A vállalat bocsánatot kért, az eredeti hibát megoldotta, és nagyrészt újraindította rendszereit, de a helyreállítás pénteken még folytatódott.",
-    "content_hu": "• **Több mint 74 országban jelentkeztek fennakadások** A csütörtökön kezdődő leállás az Outlookot, a Teamst, a Wordöt, az Excelt, a PowerPointot, a SharePointot, a OneDrive-ot és a Copilotot is érintette. A Downdetector összesen több mint 7,4 millió hibajelzést rögzített, a csúcsponton percenként közel húszezer bejelentéssel. Egyes időszakokban mintegy 130 ezren jeleztek problémát, Európában pedig péntek reggel 43 ezer Outlook-hibát jelentettek; ezek nem az érintett felhasználók teljes számát mutatják. A Microsoft Office 365-öt világszerte hozzávetőleg 430 millióan használják.\n\n• **Szerverhibák és túlterhelés állt a leállás hátterében** A Microsoft a műszaki problémát szerverkiesésekhez és az ezek után túlterhelődő infrastruktúrához kötötte. A felhőalapú Exchange Online-t érintő zavar miatt a saját szervereken futtatott rendszerek többnyire elkerülték a kiesést. A vállalat kizárta a kibertámadást és a mesterséges intelligencia hibáját, majd szoftveres javításokkal kezdte stabilizálni a rendszereket.\n\n• **A Microsoft bocsánatot kért, a helyreállítás még tartott** A cég közölte, hogy megoldotta az eredeti problémát, és nagyrészt újraindította a szolgáltatásait. Pénteken több területen javulást tapasztaltak, de a rendszerek állapota ingadozott, a kapacitás és a stabil működés visszaállítása pedig tovább folytatódott.\n\n• **Egészségügyi és közszolgálati feladatok is akadoztak** Nagy-Britanniában egyes kórházak papíralapú adminisztrációra tértek át, a segélyhívó központok pedig nehezebben továbbították a betegek adatait. A beszámolók szerint az életveszélyes esetek feldolgozásában nem látszott fennakadás. Gyógyszertárak és háziorvosi rendelők telefonos ügyintézésre kérték a betegeket; a rendőrség, az iskolák és a repülőterek működése is érintett volt. Egy amerikai fogdában az óvadék befizetése is akadozott.\n\n• **Vállalatok és pénzügyi szereplők munkáját is hátráltatta a kiesés** Az Euronext és a Maersk sürgős ügyekben telefonos kapcsolatfelvételt javasolt. Tajvanon egy pénzügyi cég faxon igazolta vissza a tranzakciókat, egy másik pedig elhalasztott egy kötvény-visszavásárlást; a Richemont és a Workhorse Group későbbre tette gyorsjelentése közzétételét. Egy brit vállalkozásnál tizenkét dolgozó fizetése késett, mert nem fértek hozzá a bérszámfejtési adatokhoz. Egy nagy magyar vállalat dolgozói egyes, a Microsofttól független rendszerekbe sem tudtak belépni, mert a szükséges kód e-mailben érkezett.\n\n• **Több ország kormányzati rendszerei és más technológiai szolgáltatások is érintettek voltak** Ausztráliában rendőrségi és hírszerzési rendszereknél jelentettek problémákat, Új-Zélandon kormányhivatalok működtek korlátozottan, és felfüggesztették a vízumkérelmek elbírálását. A leállás egyes OpenAI- és Anthropic-szolgáltatások működésére is kihatott.",
-    "importance_score": 105.0,
-    "top_rank": 5,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_93f08670f5",
     "slug": "ket-feljelentes-is-erkezett-magyar-peter-ugyeben-93f086",
     "tags": [
@@ -573,7 +501,7 @@
     "lead_hu": "Ékes Ilona, a Fidesz korábbi országgyűlési képviselője zsarolás és kapcsolati erőszak gyanúja miatt fordult a Központi Nyomozó Főügyészséghez. Beadványa Varga Judit állításaira épül; Tényi István korábban szintén ügyészségi vizsgálatot kezdeményezett. A feljelentésekben foglaltak igazságtartalmáról és jogi minősítéséről a hatóságoknak kell dönteniük.",
     "content_hu": "• **Két külön beadvány** Tényi István a Fővárosi Nyomozó Ügyészségtől kérte a Varga Judit bizottsági meghallgatásán elhangzottak kivizsgálását; beadványa a zsarolás, illetve a kapcsolati erőszak gyanúját is felvetette. Ékes Ilona, aki 2006 és 2014 között volt a Fidesz országgyűlési képviselője, pénteken fordult a Központi Nyomozó Főügyészséghez. A párt közleményét Czunyiné Bertalan Judit, a Védvonal vezetője ismertette.\n\n• **A hangfelvételre vonatkozó állítások** Ékes beadványa szerint Magyar Péter 2023 januárjában, a közös otthonukban, Varga Judit tudta és beleegyezése nélkül készített felvételt. A feljelentés azt állítja, hogy 2023 januárja és 2024 márciusa között a felvétel felhasználásával, feljelentéssel, börtönnel és tönkretétellel fenyegette volt feleségét, ha az folytatja a válást, vagy nem fogad el számára kedvezőtlen vagyoni és gyermekelhelyezési feltételeket. A beadvány szerint a felvételt Varga Juditnak nem mutatták meg, és egy alkalommal egy ügyészségnek címzett feljelentést is elé tettek.\n\n• **A beadványban leírt következmények** Ékes feljelentése szerint a fenyegetések miatt Varga Judit elhalasztotta a válást, és hátrányos feltételeket fogadott el, ami a beadvány állítása szerint vagyoni hátrányt okozott neki. A feljelentés a hosszan tartó nyomásgyakorlást lelki terrornak és kontrollnak minősíti. Magyar Péter 2024. március 26-án tette közzé a hangfelvételt.\n\n• **A kért hatósági lépések** Ékes Ilona nyomozás elrendelését, a hangfelvétel és a fenyegetésekkel kapcsolatos bizonyítékok beszerzését kérte. Indítványozta a felvétel készítési körülményeinek, esetleges manipuláltságának és a személyiségi jogok sérelmének vizsgálatát is. A beadvány Magyar Péter jogi végzettségét is megemlíti; ifjabb Lomnici Zoltán szerint annak jelentőségét egy esetleges büntetőeljárásban értékelhetik.\n\n• **A bizonyítás kérdése** A hangfelvétel tartalmával összefüggő korábbi nyomozást az ügyészség megszüntette. A beadvány szerint a zsarolásra vonatkozó állításokról nem született jogerős bírósági döntés; a feljelentés önmagában nem igazolja a bűncselekmény elkövetését, a tényeket és a bizonyítékokat a hatóságoknak kell értékelniük.",
     "importance_score": 100.0,
-    "top_rank": 6,
+    "top_rank": 5,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -644,6 +572,78 @@
     "lead_hu": "A köztársasági elnök a törvény fő célkitűzéseivel egyetért, de szerinte garantálni kell, hogy ne feltételezzenek eleve rosszhiszeműséget a politikusokról, és a transzparencia ne járjon a megbélyegzésü...",
     "content_hu": "A köztársasági elnök a törvény fő célkitűzéseivel egyetért, de szerinte garantálni kell, hogy ne feltételezzenek eleve rosszhiszeműséget a politikusokról, és a transzparencia ne járjon a megbélyegzésükkel.",
     "importance_score": 100.0,
+    "top_rank": 6,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_b893209b7b",
+    "slug": "szerverhibak-es-tulterheles-okozta-a-microsoft-vilagmeretu-leallasat-b89320",
+    "tags": [
+      "microsoft",
+      "szolgaltataskieses",
+      "informatika",
+      "outlook",
+      "teams"
+    ],
+    "fingerprint": "538f9b66e46b9007750abd923f8e86b4",
+    "category": "Általános",
+    "image": "https://femina.hu/neon/media/renditions/437/437715/23b309287f17aada.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
+        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
+        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Világszerte leállt a Microsoft, már kórházakat és segélyhívókat is érint a probléma",
+        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-szerverek-teams-word-excel-outlook/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
+        "link": "https://www.vadhajtasok.hu/2026/11/13/globalis-leallas-a-microsoftnal-74-orszagban-akadozik-az-outlook-es-a-teams-is"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Százmillió dolláros kár és kaotikus állapotok: bénító szoftverhiba rázta meg a világgazdaságot",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/szazmillio-dollaros-kar-es-kaotikus-allapotok-benito-szoftverhiba-razta-meg-a-vilaggazdasagot-876408"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt a Microsoft a világméretű leállást követően",
+        "link": "https://index.hu/techtud/2026/11/14/microsoft-fennakadas-teams-outlook-copilot-muszaki-hiba-leallas/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Mitől omlottak össze a Microsoft szolgáltatásai?",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-365-leallas-outlook"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Microsoft: Most már minden oké",
+        "link": "https://hvg.hu/tudomany/20261114_microsoft-most-mar-minden-oke"
+      }
+    ],
+    "published_at": 1794635340,
+    "title_hu": "Szerverhibák és túlterhelés okozta a Microsoft világméretű leállását",
+    "lead_hu": "A Microsoft szerverproblémákkal és az ezek nyomán kialakuló túlterheléssel magyarázta a több mint 74 országban jelentkező szolgáltatáskiesést. A vállalat bocsánatot kért, az eredeti hibát megoldotta, és nagyrészt újraindította rendszereit, de a helyreállítás pénteken még folytatódott.",
+    "content_hu": "• **Több mint 74 országban jelentkeztek fennakadások** A csütörtökön kezdődő leállás az Outlookot, a Teamst, a Wordöt, az Excelt, a PowerPointot, a SharePointot, a OneDrive-ot és a Copilotot is érintette. A Downdetector összesen több mint 7,4 millió hibajelzést rögzített, a csúcsponton percenként közel húszezer bejelentéssel. Egyes időszakokban mintegy 130 ezren jeleztek problémát, Európában pedig péntek reggel 43 ezer Outlook-hibát jelentettek; ezek nem az érintett felhasználók teljes számát mutatják. A Microsoft Office 365-öt világszerte hozzávetőleg 430 millióan használják.\n\n• **Szerverhibák és túlterhelés állt a leállás hátterében** A Microsoft a műszaki problémát szerverkiesésekhez és az ezek után túlterhelődő infrastruktúrához kötötte. A felhőalapú Exchange Online-t érintő zavar miatt a saját szervereken futtatott rendszerek többnyire elkerülték a kiesést. A vállalat kizárta a kibertámadást és a mesterséges intelligencia hibáját, majd szoftveres javításokkal kezdte stabilizálni a rendszereket.\n\n• **A Microsoft bocsánatot kért, a helyreállítás még tartott** A cég közölte, hogy megoldotta az eredeti problémát, és nagyrészt újraindította a szolgáltatásait. Pénteken több területen javulást tapasztaltak, de a rendszerek állapota ingadozott, a kapacitás és a stabil működés visszaállítása pedig tovább folytatódott.\n\n• **Egészségügyi és közszolgálati feladatok is akadoztak** Nagy-Britanniában egyes kórházak papíralapú adminisztrációra tértek át, a segélyhívó központok pedig nehezebben továbbították a betegek adatait. A beszámolók szerint az életveszélyes esetek feldolgozásában nem látszott fennakadás. Gyógyszertárak és háziorvosi rendelők telefonos ügyintézésre kérték a betegeket; a rendőrség, az iskolák és a repülőterek működése is érintett volt. Egy amerikai fogdában az óvadék befizetése is akadozott.\n\n• **Vállalatok és pénzügyi szereplők munkáját is hátráltatta a kiesés** Az Euronext és a Maersk sürgős ügyekben telefonos kapcsolatfelvételt javasolt. Tajvanon egy pénzügyi cég faxon igazolta vissza a tranzakciókat, egy másik pedig elhalasztott egy kötvény-visszavásárlást; a Richemont és a Workhorse Group későbbre tette gyorsjelentése közzétételét. Egy brit vállalkozásnál tizenkét dolgozó fizetése késett, mert nem fértek hozzá a bérszámfejtési adatokhoz. Egy nagy magyar vállalat dolgozói egyes, a Microsofttól független rendszerekbe sem tudtak belépni, mert a szükséges kód e-mailben érkezett.\n\n• **Több ország kormányzati rendszerei és más technológiai szolgáltatások is érintettek voltak** Ausztráliában rendőrségi és hírszerzési rendszereknél jelentettek problémákat, Új-Zélandon kormányhivatalok működtek korlátozottan, és felfüggesztették a vízumkérelmek elbírálását. A leállás egyes OpenAI- és Anthropic-szolgáltatások működésére is kihatott.",
+    "importance_score": 98.0,
     "top_rank": 7,
     "is_top_hero": false,
     "is_top_list": true
@@ -3875,6 +3875,84 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_f3c5eb3e74",
+    "slug": "bantalmazo-kapcsolatbol-kilepo-anyak-ma-magyarorszagon-milyen-vedelmet-jelenthet-f3c5eb",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/renditions/437/437745/6e2553b7fd5a5b0a.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Bántalmazó kapcsolatból kilépő anyák ma Magyarországon: milyen védelmet jelenthet az Isztambuli Egyezmény?",
+        "link": "https://femina.hu/gyerek/bantalmazo-kapcsolat-isztambuli-egyezmeny/"
+      }
+    ],
+    "published_at": 1794646200,
+    "title_hu": "Bántalmazó kapcsolatból kilépő anyák ma Magyarországon: milyen védelmet jelenthet az Isztambuli Egyezmény?",
+    "lead_hu": "Az elmúlt években számos bántalmazó kapcsolatból kilépő anyát és gyermekét ért tragédia. dr. Túry Dániel ügyvéddel beszélgettünk a témáról. Megnéztük azt is, az Isztambuli Egyezmény hogyan segítheti ő...",
+    "content_hu": "Az elmúlt években számos bántalmazó kapcsolatból kilépő anyát és gyermekét ért tragédia. dr. Túry Dániel ügyvéddel beszélgettünk a témáról. Megnéztük azt is, az Isztambuli Egyezmény hogyan segítheti őket.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_095ad5e6b9",
+    "slug": "fldbe-dnglte-grgorszagot-a-holland-valogatott-hetig-meg-sem-alltak-reijndersek-095ad5",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7254/72548/725486/72548619_5345727_44670e00d27e794388b5e7b97a334d4e_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Földbe döngölte Görögországot a holland válogatott, hétig meg sem álltak Reijndersék",
+        "link": "https://index.hu/sport/futball/2026/11/14/nemzetek-ligaja-hollandia-gorogorszag-szerbia-nemetorszag/"
+      }
+    ],
+    "published_at": 1794646020,
+    "title_hu": "Földbe döngölte Görögországot a holland válogatott, hétig meg sem álltak Reijndersék",
+    "lead_hu": "Egy bő óra elég volt ehhez a hazaiaknak....",
+    "content_hu": "Egy bő óra elég volt ehhez a hazaiaknak.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_bdd1836aca",
+    "slug": "12-meccses-eltiltast-kapott-a-kapus-aki-ugy-letarolta-az-ellenfelet-hogy-az-bele-bdd183",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "12 meccses eltiltást kapott a kapus, aki úgy letarolta az ellenfelét, hogy az belehalt a sérüléseibe",
+        "link": "https://444.hu/2026/11/14/12-meccses-eltiltast-kapott-a-kapus-aki-ugy-letarolta-az-ellenfelet-hogy-az-belehalt-a-seruleseibe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794645806,
+    "title_hu": "12 meccses eltiltást kapott a kapus, aki úgy letarolta az ellenfelét, hogy az belehalt a sérüléseibe",
+    "lead_hu": "Jesús Owono az eset óta nem edz a csapattal, és még nem döntött a visszatérésről vagy a visszavonulásról....",
+    "content_hu": "Jesús Owono az eset óta nem edz a csapattal, és még nem döntött a visszatérésről vagy a visszavonulásról.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_36e4b55417",
     "slug": "eluszott-a-ketmilliardos-mezohegyesi-beruhazas-lazar-janos-alapitvanyaval-bukott-36e4b5",
     "tags": [
@@ -6313,6 +6391,58 @@
     "title_hu": "Két mérkőzésre Európa elitjétől a magyar labdarúgó-válogatott",
     "lead_hu": "Szoboszlai Dominik is játékra kész a szombati Nemzetek Ligája mérkőzésen, Tbilisziben.",
     "content_hu": "Szoboszlai Dominik is játékra kész a szombati Nemzetek Ligája mérkőzésen, Tbilisziben.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_6b080a7273",
+    "slug": "jocskan-megdragulhat-iden-a-karacsonyfa-mutatjuk-mennyit-kernek-iden-afenyokert-6b080a",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Jócskán megdrágulhat idén a karácsonyfa: mutatjuk, mennyit kérnek idén afenyőkért",
+        "link": "https://www.atv.hu/belfold/20261114/karacsonyfa-arak-2026-fenyofa-dragulas/"
+      }
+    ],
+    "published_at": 1794629100,
+    "title_hu": "Jócskán megdrágulhat idén a karácsonyfa: mutatjuk, mennyit kérnek idén afenyőkért",
+    "lead_hu": "Az idei szezonban is elegendő karácsonyfa kerülhet majd a piacra, az árak azonban több fajtánál emelkedhetnek. Különösen a nordmann-fenyő drágulhat meg, miközben az aszály miatt a következő évek kínál...",
+    "content_hu": "Az idei szezonban is elegendő karácsonyfa kerülhet majd a piacra, az árak azonban több fajtánál emelkedhetnek. Különösen a nordmann-fenyő drágulhat meg, miközben az aszály miatt a következő évek kínálata is bizonytalanná válhat.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_7128def3ec",
+    "slug": "az-illuzio-kora-7128de",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/bMJT-OjZEaI1rdPVQ8wRmXkQe9gPmKpm2Ha9YAFq81E/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvNmU1NGFlYTNiODMxM2JjYjhhNDBiNzljNGQwYjhhYmJlMzVhY2JkNjRmZjMyMTE5NzZjOWE1MjM5ZTFiZThlZA.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Az illúzió kora",
+        "link": "https://magyarnemzet.hu/ahelyzet/2026/11/az-illuzio-kora?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794628860,
+    "title_hu": "Az illúzió kora",
+    "lead_hu": "A Tisza rendszerváltást hirdetett a kampányban, de amit fél év alatt tett, az valami egészen más.",
+    "content_hu": "A Tisza rendszerváltást hirdetett a kampányban, de amit fél év alatt tett, az valami egészen más.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -16979,58 +17109,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_63076ae04f",
-    "slug": "szoboszlai-dominik-kimondta-hogy-szerinte-mi-hiany-63076a",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/I1QSs2oY5186DVD9ZZtpf_fmLs9gEQYnbVSXeaOq9TI/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvNDc5NDUwODE3MTY4YThjNzMzZDE2YjIzYTkxYzE5OWU5OTdiNjVhMDVlNjZhOTdmODRlZmNmNzI1MzZmMWFlZA.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Szoboszlai Dominik kimondta, hogy szerinte mi hiányzik a magyar futballistákból",
-        "link": "https://magyarnemzet.hu/sport/2026/11/szoboszlai-dominik-mi-hianyzik-a-magyar-futballistakbol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794559604,
-    "title_hu": "Szoboszlai Dominik kimondta, hogy szerinte mi hiányzik a magyar futballistákból",
-    "lead_hu": "Szavaihoz fontos adalék, hogy jelenleg mindössze hat magyar szerepel az öt legerősebb európai topligában.",
-    "content_hu": "Szavaihoz fontos adalék, hogy jelenleg mindössze hat magyar szerepel az öt legerősebb európai topligában.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_5abb1459fe",
-    "slug": "ulesezik-a-vegrehajtasi-visszaeleseket-feltaro-viz-5abb14",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/IOES1c4Q-bY",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Ülésezik a Végrehajtási Visszaéléseket Feltáró Vizsgálóbizottság – Nézze itt élőben",
-        "link": "https://www.atv.hu/belfold/20261113/vegrehajtas-bizottsag-toroczkai/"
-      }
-    ],
-    "published_at": 1794559594,
-    "title_hu": "Ülésezik a Végrehajtási Visszaéléseket Feltáró Vizsgálóbizottság – Nézze itt élőben",
-    "lead_hu": "A napokban nagy visszhangot kiváltott Varga Judit-meghallgatás után ma három korábbi igazságügyi miniszter áll a parlamenti bizottság elé.",
-    "content_hu": "A napokban nagy visszhangot kiváltott Varga Judit-meghallgatás után ma három korábbi igazságügyi miniszter áll a parlamenti bizottság elé.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_cc94f6cb72",
     "slug": "43-evesen-meghalt-az-ovizsaru-cimu-film-egykori-gy-cc94f6",
     "tags": [
@@ -17170,32 +17248,6 @@
     "title_hu": "Lezsákot nem adjuk!",
     "lead_hu": "Miközben a meghurcolt politikusnak gyors felépülést kívánok, az aktavariáló brigádnak azt javaslom, ők is keressék fel orvosukat (elmeápolójukat), hogy mielőbb beilleszkedhessenek az épeszűek közösség…",
     "content_hu": "Miközben a meghurcolt politikusnak gyors felépülést kívánok, az aktavariáló brigádnak azt javaslom, ők is keressék fel orvosukat (elmeápolójukat), hogy mielőbb beilleszkedhessenek az épeszűek közösségébe.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_7128def3ec",
-    "slug": "az-illuzio-kora-7128de",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/bMJT-OjZEaI1rdPVQ8wRmXkQe9gPmKpm2Ha9YAFq81E/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvNmU1NGFlYTNiODMxM2JjYjhhNDBiNzljNGQwYjhhYmJlMzVhY2JkNjRmZjMyMTE5NzZjOWE1MjM5ZTFiZThlZA.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Az illúzió kora",
-        "link": "https://magyarnemzet.hu/ahelyzet/2026/11/az-illuzio-kora?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794628860,
-    "title_hu": "Az illúzió kora",
-    "lead_hu": "A Tisza rendszerváltást hirdetett a kampányban, de amit fél év alatt tett, az valami egészen más.",
-    "content_hu": "A Tisza rendszerváltást hirdetett a kampányban, de amit fél év alatt tett, az valami egészen más.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
