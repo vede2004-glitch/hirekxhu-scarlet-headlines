@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_dd0fab3348",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "A Napnak nagyjából 240 millió évre van szüksége ahhoz, hogy megtegyen egy teljes kört a Tejútrendszer gravitációs középpontja körül",
-        "link": "https://raketa.hu/a-napnak-nagyjabol-240-millio-evre-van-szuksege-ahhoz-hogy-megtegyen-egy-teljes-kort-a-tejutrendszer-gravitacios-kozeppontja-korul/",
-        "image": "https://raketa.hu/uploads/2023/12/IMG_20231225_033302.jpg",
-        "summary": "És az igaz, hogy vasnál nehezebb elemek nem keletkezhetnek a Napban, vagy hogy nem végez keringő mozgást? És egy távoli napon vajon tényleg felrobban szupernóvaként? Teszteld a központi csillagunkkal kapcsolatos tudásodat a következő kvízzel!",
-        "category": "Kultúra",
-        "published_at": 1794544406
-      }
-    ]
-  },
-  {
     "group_id": "group_ce022d2ac7",
     "category": "Kultúra",
     "articles_count": 1,
@@ -28,22 +12,6 @@
         "summary": "Az amerikai Endurance Energy mérnökei olyan generátort teszteltek, amely az óceánfenékből feltörő, rendkívül forró víz energiáját alakítja elektromos árammá.",
         "category": "Kultúra",
         "published_at": 1794546223
-      }
-    ]
-  },
-  {
-    "group_id": "group_acc87e139f",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Egyre közelebb az ország az Európai Ügyészséghez, de az egyik főtárgyaló személye megosztja az ügyészeket",
-        "link": "https://hvg.hu/360/20261113_europai-ugyeszseg-csatlakozas-fotargyalo-megoszto-ugyeszseg",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/51c0c917-e88b-4144-9922-b14531996c50.jpg",
-        "summary": "Hamarosan az Országgyűlés elé kerül az Európai Ügyészséghez csatlakozás részletszabályait rögzítő törvényjavaslat és tavasszal már kiválaszthatják az ügyészeket.",
-        "category": "Politika",
-        "published_at": 1794544200
       }
     ]
   },
@@ -76,22 +44,6 @@
         "summary": "A német kancellár kiharcolta a dublini EU-csúcs menetrendjének megváltoztatását.",
         "category": "Politika",
         "published_at": 1794544620
-      }
-    ]
-  },
-  {
-    "group_id": "group_ce1a527dc3",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Feldarabolva találtak Nati holttestére: a kutyája vezette a zsarukat a modell holttestéhez",
-        "link": "https://www.atv.hu/kulfold/20261113/modell-kutya-holttest-rendorseg/",
-        "image": "",
-        "summary": "Kutyasétáltatás közben tűnt el a 39 éves szépségkirálynő. Tíz nappal később hűséges kedvence mutatta meg a nyomozóknak a borzalmas helyszínt.",
-        "category": "Általános",
-        "published_at": 1794544500
       }
     ]
   },
@@ -220,31 +172,6 @@
         "summary": "Az amerikai Center for Strategic and International Studies (CSIS) kutatóintézet számításai szerint Kína 2009 és 2023 között mintegy 230,9 milliárd dollárral támogatta az elektromosautó-ipart.",
         "category": "Politika",
         "published_at": 1794545821
-      }
-    ]
-  },
-  {
-    "group_id": "group_acd6a2eb35",
-    "category": "Kultúra",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Órák óta gond van a Microsoft szolgáltatásaival, a cég szerint nem kibertámadásról van szó",
-        "link": "https://hvg.hu/tudomany/20261113_microsoft-szolgaltatas-kimaradas-teams-outlook",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7f91e327-23ca-4cc4-b780-d3244fc2a6f5.jpg",
-        "summary": "A Microsoft 365-öt kiszolgáló szerverekkel van gond, a megoldást még keresik.",
-        "category": "Kultúra",
-        "published_at": 1794544440
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Órák óta próbálja helyreállítani a kieső szolgáltatását a Microsoft, de még nem teljes a siker",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-szolgaltatas-kieses-globalis",
-        "image": "https://assets.telex.hu/images/20261113/1794544070-temp-o6mk523883q3aiibdak_cimlap-normal.jpg",
-        "summary": "Ausztráliában és az Egyesült Államokban is gondok vannak a Teamsszel és az Outlookkal.",
-        "category": "Politika",
-        "published_at": 1794545979
       }
     ]
   },
@@ -1107,6 +1034,22 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1794549732
+      }
+    ]
+  },
+  {
+    "group_id": "group_acd6a2eb35",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Órák óta próbálja helyreállítani a kieső szolgáltatását a Microsoft, de még nem teljes a siker",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-szolgaltatas-kieses-globalis",
+        "image": "https://assets.telex.hu/images/20261113/1794544070-temp-o6mk523883q3aiibdak_cimlap-normal.jpg",
+        "summary": "Ausztráliában és az Egyesült Államokban is gondok vannak a Teamsszel és az Outlookkal.",
+        "category": "Politika",
+        "published_at": 1794545979
       }
     ]
   },
@@ -8468,7 +8411,7 @@
   {
     "group_id": "group_42a1588fb1",
     "category": "Gazdaság",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -8478,6 +8421,15 @@
         "summary": "Borsos árakkal nyitott a Vörösmarty téri karácsonyi vásár.",
         "category": "Gazdaság",
         "published_at": 1794581194
+      },
+      {
+        "source": "ATV",
+        "title": "2500 forint egy adag rizs és 4000 a saláta: mutatjuk a karácsonyi vásár elszállt árait",
+        "link": "https://www.atv.hu/belfold/20261114/karacsonyi-vasar-arak-bazilika/",
+        "image": "",
+        "summary": "Megnyitotta kapuit Budapest két népszerű karácsonyi vására, az Advent Bazilika és a Vörösmarty téri adventi forgatag. A látogatók idén is hagyományos karácsonyi ételek, forró italok és különleges programok közül válogathatnak, az árak azonban ezúttal is érdekesek lehetnek.",
+        "category": "Gazdaság",
+        "published_at": 1794630900
       }
     ]
   },
@@ -8979,7 +8931,7 @@
         "image": "",
         "summary": "Amikor odakint egyre hidegebbre fordul az idő, különösen jólesik magunk mögött hagyni a hétköznapok rohanását, és átadni magunkat a gondtalan pihenésnek. Ki mondta, hogy a fürdőzés csak nyáron az igazi? Nyíregyházán, a festői Sóstógyógyfürdő szívében található Aquarius Élményfürdőben a hideg hónapokban is garantált a feltöltődés, legyen szó családi kalandokról, romantikus pihenésről vagy egy kis énidőről. The post Téli élmények, amelyek felmelegítik a hétköznapokat – irány Nyíregyháza! first appeared on nlc.",
         "category": "Bulvár",
-        "published_at": 1794630569
+        "published_at": 1794630982
       }
     ]
   },
@@ -11971,7 +11923,7 @@
         "image": "https://raketa.hu/uploads/2024/02/hang.jpg",
         "summary": "Vannak hangok, amelyeknek a forrását évtizedekig, sőt néha évszázadokig sem sikerült egyértelműen megmagyarázni. Egyeseket műszerek rögzítettek, másokat emberek ezrei hallottak, de akadtak olyanok is, amelyek eredete máig vitatott.",
         "category": "Kultúra",
-        "published_at": 1794630569
+        "published_at": 1794630826
       }
     ]
   },
@@ -12067,7 +12019,7 @@
         "image": "https://raketa.hu/uploads/2026/11/temu.jpg",
         "summary": "Úgy tűnik, az olcsó kínai rendeléseket már nem mindenki tartja annyira jó üzletnek: az új uniós vámok miatt a magyar vásárlók jelentős része változtatott a szokásain, és egyre többen keresnek alternatívákat a Temu és társai helyett.",
         "category": "Kultúra",
-        "published_at": 1794630569
+        "published_at": 1794630981
       }
     ]
   },
@@ -12100,6 +12052,70 @@
         "summary": "Ha beülünk a moziba megnézni Az erdő zenéjét, nehogy legyen nálunk pattogatott kukorica.",
         "category": "Politika",
         "published_at": 1794629700
+      }
+    ]
+  },
+  {
+    "group_id": "group_9a7aaaa425",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Ez most váratlan: élelmiszerüzlet nyílik a bezárt orosz diszkont, a Basket Plus helyén – az 50 ezeres követőtábort már behúzták",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/basket-plus-besence-market-uzlet-nyitas-december-orosz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/09/oSEIwh2zSoMwIbGlTEELOp0ZgmHTjmnPc2t78T6vrwI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JlNzQyYmNmZWJmYzRlMzA4N2Y3OWJkN2E4MzE4OGUx.jpg",
+        "summary": "Nagy kérdés, hogy a korábbi vállalat próbálkozik-e újra ultradiszkont üzemeltetésével.",
+        "category": "Gazdaság",
+        "published_at": 1794630603
+      }
+    ]
+  },
+  {
+    "group_id": "group_e31bbe25cc",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Idegesítően sürgető webáruházak, hamis készletinformációk, bonyolult leiratkozás online előfizetésekről – bosszantó gyakorlatoknak vetne véget a brüsszeli szuperjavaslat",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/online-vasarlas-webaruhaz-valos-keszlet-surgetes-eu?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/F3HlDu86BGz32jpsX5RPloEk9Az5w61-h5CHwZ7uZE0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzc3MzhhMTU2ZGQ4OTRlZjk4MzYzOGY2ZjBjYjliMzdi.jpg",
+        "summary": "Az Európai Bizottság megtiltaná a megtévesztő online kereskedelmi gyakorlatokat, és több mint 13 milliárd eurót hagyna a vásárlók zsebében.",
+        "category": "Gazdaság",
+        "published_at": 1794630600
+      }
+    ]
+  },
+  {
+    "group_id": "group_cc7c8845e5",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Egyre nagyobb nyomás alatt az európai borászok: tele a pince, fogy a vevő: – két tűz közé kerültek Európa borászai",
+        "link": "https://www.vg.hu/agrar/2026/11/bor-boraszok-tele-a-pince-fogy-vevo-europa-copa-cogeca?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/vKXGdjgB3HX3WoH15JI48zTFp135PWs8_fPNJaXYLcM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2YxNTg5YzM4N2M2YjQ1MmVhZTVhY2Y4OWY4MjliNjBl.jpg",
+        "summary": "Az idei szüret ismét megmutatta, hogy a kedvezőtlen időjárás egyre nagyobb hatással van az európai szőlőültetvényekre, miközben a fogyasztási szokások is átalakulnak.",
+        "category": "Gazdaság",
+        "published_at": 1794630600
+      }
+    ]
+  },
+  {
+    "group_id": "group_1ba8b343be",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Magyarország történetének egyik legsúlyosabb kibertámadása során célba vették a Magyar Telekom hálózatát és több pénzintézetet is még 2020 szeptemberében",
+        "link": "https://raketa.hu/vajon-mennyire-vannak-biztonsagban-vannak-az-adataid/",
+        "image": "https://raketa.hu/uploads/2025/03/Mivel-foglalkozik-egy-etikus-hacker-promanconsulting.hu-raketa.hu2_.jpg",
+        "summary": "Derítsd ki, mennyire vagy biztonságban az interneten: vajon digitális erődítményt építettél magad köré, vagy itt az ideje egy alapos biztonsági frissítésnek?",
+        "category": "Kultúra",
+        "published_at": 1794630981
       }
     ]
   }
