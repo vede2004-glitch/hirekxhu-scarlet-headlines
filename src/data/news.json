@@ -167,6 +167,88 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_b893209b7b",
+    "slug": "helyrealltak-a-microsoft-szolgaltatasai-a-halozatboviteshez-ktheto-hiba-utan-b89320",
+    "tags": [
+      "microsoft",
+      "microsoft-365",
+      "outlook",
+      "teams",
+      "szolgaltataskieses"
+    ],
+    "fingerprint": "5ce3ec05647dfc89e009db13b775a1f9",
+    "category": "Általános",
+    "image": "https://femina.hu/neon/media/renditions/437/437715/23b309287f17aada.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 11,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Világszerte leállt a Microsoft, már kórházakat és segélyhívókat is érint a probléma",
+        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-szerverek-teams-word-excel-outlook/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Mitől omlottak össze a Microsoft szolgáltatásai?",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-365-leallas-outlook"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
+        "link": "https://www.vadhajtasok.hu/2026/11/13/globalis-leallas-a-microsoftnal-74-orszagban-akadozik-az-outlook-es-a-teams-is"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Százmillió dolláros kár és kaotikus állapotok: bénító szoftverhiba rázta meg a világgazdaságot",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/szazmillio-dollaros-kar-es-kaotikus-allapotok-benito-szoftverhiba-razta-meg-a-vilaggazdasagot-876408"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Microsoft: Most már minden oké",
+        "link": "https://hvg.hu/tudomany/20261114_microsoft-most-mar-minden-oke"
+      },
+      {
+        "source": "Femina",
+        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
+        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/"
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
+        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt a Microsoft a világméretű leállást követően",
+        "link": "https://index.hu/techtud/2026/11/14/microsoft-fennakadas-teams-outlook-copilot-muszaki-hiba-leallas/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Helyreállította a Microsoft a megbénult céges szolgáltatásait, több mint 430 millió felhasználót érinthetett a leállás",
+        "link": "https://telex.hu/techtud/2026/11/14/microsoft-leallas-helyreallitas-szolgaltatas-office-teams-outlook"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Bejelentette a Microsoft: elhárult a probléma, vége a világméretű leállásnak",
+        "link": "https://www.portfolio.hu/gazdasag/20261114/bejelentette-a-microsoft-elharult-a-problema-vege-a-vilagmeretu-leallasnak-876452"
+      }
+    ],
+    "published_at": 1794645331,
+    "title_hu": "Helyreálltak a Microsoft szolgáltatásai a hálózatbővítéshez köthető hiba után",
+    "lead_hu": "A Microsoft szombatra teljesen helyreállította a csütörtökön kezdődött, több mint 74 országot érintő szolgáltatáskiesést. A cég szerint a zavart egy korábbi hálózatbővítés során keletkezett műszaki hiba okozta, nem kibertámadás vagy mesterségesintelligencia-probléma.",
+    "content_hu": "• **Több mint 74 országban akadoztak a Microsoft szolgáltatásai** A csütörtökön kezdődött kiesés az Outlookot, a Teamst, a Wordöt, az Excelt, a PowerPointot, a SharePointot, a OneDrive-ot és a Copilotot is érintette. A Downdetector több mint 7,4 millió hibajelzést rögzített; a csúcsponton percenként csaknem húszezer bejelentés érkezett. Egy időszakban mintegy 130 ezren jeleztek gondot, Európában pedig péntek reggel 43 ezer Outlook-hibát jelentettek. A Microsoft 365-öt világszerte hozzávetőleg 430 millióan használják.\n\n• **A hiba egy korábbi hálózatbővítéshez kapcsolódott** A Microsoft tájékoztatása szerint a hálózatbővítés során keletkezett műszaki probléma szerverkiesésekhez, majd az infrastruktúra túlterhelődéséhez vezetett. A fennakadás az Exchange Online felhőalapú levelezőrendszerét is érintette, ezért a saját szervereken működtetett rendszerek többnyire elkerülték a kiesést. A vállalat kizárta a kibertámadást és a mesterséges intelligencia hibáját; a stabilizáláshoz szoftveres javításokat alkalmazott.\n\n• **Szombatra teljesen helyreállt a hozzáférés** A Microsoft pénteken bocsánatot kért, és azt közölte, hogy megoldotta az eredeti hibát, miközben folytatta az érintett rendszerek helyreállítását. A szolgáltatások állapota pénteken még ingadozott, a cég szombati tájékoztatása szerint azonban az Outlook, a Teams, a Copilot és a többi érintett alkalmazás elérése teljesen helyreállt.\n\n• **Egészségügyi és közszolgálati feladatok is nehezebbé váltak** Nagy-Britanniában több egészségügyi intézmény papíralapú ügyintézésre tért át, a segélyhívó központok pedig nehezebben továbbították a betegek adatait; az életveszélyes esetek feldolgozásában a beszámolók szerint nem volt fennakadás. Gyógyszertárak és háziorvosi rendelők telefonos kapcsolatfelvételt kértek, a rendőrség, az iskolák, a repülőterek és a vasúti közlekedés működését is érintették a problémák. Az Egyesült Államok egyik fogdájában átmenetileg csak személyesen lehetett óvadékot befizetni.\n\n• **Vállalatok és pénzügyi szereplők is kerülőmegoldásokra kényszerültek** Az Euronext és a Maersk sürgős ügyekben telefonos ügyintézést javasolt. Tajvanon egy pénzügyi vállalat faxon igazolta vissza a tranzakciókat, egy másik pedig elhalasztott egy kötvény-visszavásárlást. A Richemont és a Workhorse Group későbbre tette gyorsjelentése közzétételét, egy brit vállalkozásnál pedig tizenkét dolgozó fizetése késett, mert nem voltak elérhetők a bérszámfejtési adatok. Egy nagy magyar cégnél egyes, a Microsofttól független rendszerekbe sem tudtak belépni a dolgozók, mert a belépési kódot e-mailben kapták volna meg.\n\n• **Több ország közigazgatási rendszereiben is fennakadásokat jelentettek** Ausztráliában rendőrségi és hírszerzési rendszereket érintett a leállás, Új-Zélandon pedig kormányhivatalok és vállalatok működtek korlátozottan, és felfüggesztették a vízumkérelmek elbírálását. Egyes OpenAI- és Anthropic-szolgáltatásoknál szintén problémák jelentkeztek.",
+    "importance_score": 125.0,
+    "top_rank": 2,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_0db451552b",
     "slug": "ujabb-biralatok-es-politikai-uzenetek-az-isztambuli-egyezmeny-ugyeben-0db451",
     "tags": [
@@ -248,78 +330,6 @@
     "lead_hu": "Magyar Péter az Isztambuli Egyezmény ratifikációjának kezdeményezését, a szívhangrendelet módosítását és az esemény utáni tabletta vénykötelezettségének megszüntetését jelentette be. A tervek és Varga Judit meghallgatása újabb politikai reakciókat váltott ki: Budaházy Edda is bírálta az egyezményt, a Fidesz–Védvonal pedig Magyar korábbi magatartásával kapcsolatban fogalmazott meg vádakat.",
     "content_hu": "• **A nők védelmét célzó tervek** Magyar Péter a ratifikáció kezdeményezése mellett a szívhangrendelet módosítását és az esemény utáni tabletta vénykötelességének eltörlését helyezte kilátásba. A bejelentés a kapcsolati erőszak elleni fellépést, a menstruációs szegénység csökkentését és a várandós nők támogatását is érinti; korábban a távoltartás, az áldozatok eljárási védelme és az intim felvételekkel való visszaélés szabályainak változtatása is felmerült.\n\n• **A KDNP ellenzi a ratifikációt** A párt pénteki közleménye szerint a magyar jogrendszer már bünteti többek között a kapcsolati, zaklatási és szexuális erőszakot, és távoltartási lehetőségek, eljárási garanciák, valamint áldozatsegítő hálózat is működik. A KDNP a 3. cikk genderfogalmát, illetve a 12. és 14. cikket kifogásolta; álláspontja szerint az utóbbiak oktatási következményekkel járhatnak. Ezek a párt érvei, nem az egyezmény hatásáról igazolt tények.\n\n• **Vita a gyermekekre gyakorolt hatásról** A KDNP Anglia és Svédország példájával, valamint a nemi diszfóriával diagnosztizált vagy szakellátásba irányított kiskorúak számának emelkedésére hivatkozott. Korábbi beszámolókban 5000, illetve 1500 százalékos növekedési adat is szerepelt a szervezetek állításaként; ezek önmagukban nem bizonyítják, hogy az egyezmény okozta volna a változást. Budaházy Edda egy Facebook-bejegyzésben szintén az egyezmény ellen érvelt, és azt állította, hogy az a genderideológia terjesztését segítené.\n\n• **Takács Péter is reagált** Az Orbán-kormány volt egészségügyi államtitkára Magyar bejelentésére válaszolt; az ATV tudósításának címe szerint 14 éves lányokat említett az esemény utáni tabletta kapcsán. A közölt részlet nem tartalmaz további részleteket az általa felhozott példáról.\n\n• **Üzenetváltás Varga Judit meghallgatása után** Magyar Péter rádióinterjújában performanszként jellemezte a volt igazságügyi miniszter bizottsági meghallgatását, és azt mondta: ha az hozzájárul a nők bántalmazása elleni fellépés gyorsításához, akkor volt értelme. Szentkirályi Alexandra korábban figyelemelterelésnek nevezte Magyar bejelentését. A Fidesz–Védvonal nevében Czunyiné Bertalan Judit hiteltelennek minősítette Magyar megszólalását, és többek között lehallgatással, zsarolással és fenyegetéssel vádolta. Ezek politikai szereplők állításai, nem bizonyított tények.\n\n• **Feljelentés Magyar Péter ellen** Ékes Ilona, a Fidesz női tagozatának alapítója és korábbi országgyűlési képviselője zsarolás és kapcsolati erőszak gyanúja miatt tett feljelentést. A beadvány részben Varga Judit állításaira támaszkodik, és többek között egy 2023-as, állítólag a volt feleség tudta nélkül készített hangfelvételt, valamint a válással, vagyonnal és gyermekelhelyezéssel kapcsolatos nyomásgyakorlást említ. A feljelentésben szereplő állítások nem bizonyítottak.\n\n• **Előkerült egy 2020-as Facebook-bejegyzés** Varga Judit egy 2020. január 30-án, igazságügyi miniszterként közzétett, az egyezmény ratifikációját ellenző posztot idézett fel. Deák Dániel egy képernyőképre hivatkozva azt állította, hogy a Facebook Magyar Pétert tüntette fel közzétevőként; ez önmagában nem igazolja, hogy ő írta a szöveget. Varga arra is utalt, hogy további korábbi bejegyzéseket is megoszthat.\n\n• **Továbbra is vita tárgya a gyermektartás** A Hír TV beszámolója szerint Magyar havi 600 ezer forintos tartásdíjról beszélt, és két átutalásról tett közzé képernyőképet. Varga a következő négy hónap bizonylatait kérte. A bemutatott dokumentumok nem fedik le ezt az időszakot, de önmagukban nem bizonyítják a fizetés elmaradását sem.\n\n• **Egyeztetések és tájékoztató kampány** Az Igazságügyi Minisztérium a Patent, a NANE és a Magyar Női Érdekérvényesítő Szövetség képviselőivel egyeztetett. Október 30-án demonstrációt tartottak a Kossuth téren, Rácz Zsuzsa kezdeményezésére pedig női magazinok és a Terézanyu november 25-éig tartó tájékoztató kampányt indítottak.",
     "importance_score": 120.0,
-    "top_rank": 2,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_b893209b7b",
-    "slug": "helyrealltak-a-microsoft-szolgaltatasai-a-halozatboviteshez-ktheto-hiba-utan-b89320",
-    "tags": [
-      "microsoft",
-      "microsoft-365",
-      "outlook",
-      "teams",
-      "szolgaltataskieses"
-    ],
-    "fingerprint": "5ce3ec05647dfc89e009db13b775a1f9",
-    "category": "Általános",
-    "image": "https://femina.hu/neon/media/renditions/437/437715/23b309287f17aada.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Világszerte leállt a Microsoft, már kórházakat és segélyhívókat is érint a probléma",
-        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-szerverek-teams-word-excel-outlook/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Mitől omlottak össze a Microsoft szolgáltatásai?",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-365-leallas-outlook"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
-        "link": "https://www.vadhajtasok.hu/2026/11/13/globalis-leallas-a-microsoftnal-74-orszagban-akadozik-az-outlook-es-a-teams-is"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Százmillió dolláros kár és kaotikus állapotok: bénító szoftverhiba rázta meg a világgazdaságot",
-        "link": "https://www.portfolio.hu/gazdasag/20261113/szazmillio-dollaros-kar-es-kaotikus-allapotok-benito-szoftverhiba-razta-meg-a-vilaggazdasagot-876408"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Microsoft: Most már minden oké",
-        "link": "https://hvg.hu/tudomany/20261114_microsoft-most-mar-minden-oke"
-      },
-      {
-        "source": "Femina",
-        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
-        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/"
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
-        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Megszólalt a Microsoft a világméretű leállást követően",
-        "link": "https://index.hu/techtud/2026/11/14/microsoft-fennakadas-teams-outlook-copilot-muszaki-hiba-leallas/"
-      }
-    ],
-    "published_at": 1794645331,
-    "title_hu": "Helyreálltak a Microsoft szolgáltatásai a hálózatbővítéshez köthető hiba után",
-    "lead_hu": "A Microsoft szombatra teljesen helyreállította a csütörtökön kezdődött, több mint 74 országot érintő szolgáltatáskiesést. A cég szerint a zavart egy korábbi hálózatbővítés során keletkezett műszaki hiba okozta, nem kibertámadás vagy mesterségesintelligencia-probléma.",
-    "content_hu": "• **Több mint 74 országban akadoztak a Microsoft szolgáltatásai** A csütörtökön kezdődött kiesés az Outlookot, a Teamst, a Wordöt, az Excelt, a PowerPointot, a SharePointot, a OneDrive-ot és a Copilotot is érintette. A Downdetector több mint 7,4 millió hibajelzést rögzített; a csúcsponton percenként csaknem húszezer bejelentés érkezett. Egy időszakban mintegy 130 ezren jeleztek gondot, Európában pedig péntek reggel 43 ezer Outlook-hibát jelentettek. A Microsoft 365-öt világszerte hozzávetőleg 430 millióan használják.\n\n• **A hiba egy korábbi hálózatbővítéshez kapcsolódott** A Microsoft tájékoztatása szerint a hálózatbővítés során keletkezett műszaki probléma szerverkiesésekhez, majd az infrastruktúra túlterhelődéséhez vezetett. A fennakadás az Exchange Online felhőalapú levelezőrendszerét is érintette, ezért a saját szervereken működtetett rendszerek többnyire elkerülték a kiesést. A vállalat kizárta a kibertámadást és a mesterséges intelligencia hibáját; a stabilizáláshoz szoftveres javításokat alkalmazott.\n\n• **Szombatra teljesen helyreállt a hozzáférés** A Microsoft pénteken bocsánatot kért, és azt közölte, hogy megoldotta az eredeti hibát, miközben folytatta az érintett rendszerek helyreállítását. A szolgáltatások állapota pénteken még ingadozott, a cég szombati tájékoztatása szerint azonban az Outlook, a Teams, a Copilot és a többi érintett alkalmazás elérése teljesen helyreállt.\n\n• **Egészségügyi és közszolgálati feladatok is nehezebbé váltak** Nagy-Britanniában több egészségügyi intézmény papíralapú ügyintézésre tért át, a segélyhívó központok pedig nehezebben továbbították a betegek adatait; az életveszélyes esetek feldolgozásában a beszámolók szerint nem volt fennakadás. Gyógyszertárak és háziorvosi rendelők telefonos kapcsolatfelvételt kértek, a rendőrség, az iskolák, a repülőterek és a vasúti közlekedés működését is érintették a problémák. Az Egyesült Államok egyik fogdájában átmenetileg csak személyesen lehetett óvadékot befizetni.\n\n• **Vállalatok és pénzügyi szereplők is kerülőmegoldásokra kényszerültek** Az Euronext és a Maersk sürgős ügyekben telefonos ügyintézést javasolt. Tajvanon egy pénzügyi vállalat faxon igazolta vissza a tranzakciókat, egy másik pedig elhalasztott egy kötvény-visszavásárlást. A Richemont és a Workhorse Group későbbre tette gyorsjelentése közzétételét, egy brit vállalkozásnál pedig tizenkét dolgozó fizetése késett, mert nem voltak elérhetők a bérszámfejtési adatok. Egy nagy magyar cégnél egyes, a Microsofttól független rendszerekbe sem tudtak belépni a dolgozók, mert a belépési kódot e-mailben kapták volna meg.\n\n• **Több ország közigazgatási rendszereiben is fennakadásokat jelentettek** Ausztráliában rendőrségi és hírszerzési rendszereket érintett a leállás, Új-Zélandon pedig kormányhivatalok és vállalatok működtek korlátozottan, és felfüggesztették a vízumkérelmek elbírálását. Egyes OpenAI- és Anthropic-szolgáltatásoknál szintén problémák jelentkeztek.",
-    "importance_score": 105.0,
     "top_rank": 3,
     "is_top_hero": false,
     "is_top_list": true
@@ -339,7 +349,7 @@
     "image": "https://s.24.hu/app/uploads/2026/11/tuzson-bence-e1794557037784-1024x577.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 9,
+    "sources_count": 10,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
@@ -385,13 +395,18 @@
         "source": "Hír TV",
         "title": "Lánczi Tamás: Magyar Péteréknek vállalniuk kell a felelősséget az ügynökbotrányért",
         "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/lanczi-tamas-magyar-petereknek-vallalniuk-kell-a-felelosseget-az-ugynokbotranyert"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Magyar Péter egy friss, tehermentes Orbán?",
+        "link": "https://index.hu/velemeny/2026/11/14/balogh-akos-gergely-magyar-peter-orban-viktor/"
       }
     ],
     "published_at": 1794643043,
     "title_hu": "Nőjogi tervek, levéltári felelősségvita és új budapesti bokszverseny",
     "lead_hu": "Újabb részletek kerültek elő a nők jogait érintő tervekről, a levéltári ügy politikai következményeiről és az Index helyreigazításáról. November 14-én Budapesten rendezik meg az első Papp-kupát; a torna rövid, nemzetközi bokszprogrammal és magyar indulókkal debütál.",
     "content_hu": "• **Navracsics Tibor szerint a végrehajtók díjazása nem volt döntési kérdés** Toroczkai László a devizahitelesek kilakoltatásáról és a végrehajtói munkadíjakról kérdezte a volt minisztert. Navracsics azt mondta, a devizahitelesek megsegítése és a pénzügyi rendszer egyensúlyának megtartása volt a cél, a végrehajtók díjazása azonban nem került a döntéshozók elé. Gyöngyösi István kérdésére tagadta, hogy a végrehajtói kamara vezetése politikai védelmet kapott volna. A kamara gazdálkodásával kapcsolatos feljelentés kapcsán a végrehajtás törvényességi felügyeletére vonatkozó szabályokat idézte.\n\n• **Rétvári Bence szerint Magyar Péter a levéltár főigazgatójára hárítja a felelősséget** A KDNP frakcióvezetője bírálta, hogy Magyar korábban az Országgyűléshez tartozó intézményként hivatkozott a levéltárra, később pedig Cseh Gergő Bendegúz távozását vetette fel. Rétvári azt állította, hogy a főigazgató felmentésével Magyar Pétert, Ruff Bálintot és Tarr Zoltánt próbálják megóvni a politikai következményektől. Azt is kifogásolta, hogy Magyar előbb saját eredményeként mutatta be az ügyet, majd a hibák napvilágra kerülése után elhatárolódott tőle. Ezek Rétvári politikai értékelései.\n\n• **A lakiteleki házkutatáson beruházási iratokat vizsgáltak** Lezsák Anna közlése szerint a NAV és az ügyészség 15 munkatársa szerződéseket, számlákat és más dokumentumokat tekintett át a Népfőiskola Alapítványnál. A levéltár korábban elismerte, hogy tévesen hálózati személyként tüntette fel Lezsák Sándort, Magyar Péter pedig bocsánatot kért. A család politikai megtorlás lehetőségét is felvetette, a házkutatás okáról azonban nem közöltek részleteket.\n\n• **Az SZFE egykori tiltakozására az egyetemfoglalás évfordulóján emlékeztek** Upor László az intézmény akkori vezetésének lemondását és a hallgatók épületfoglalását idézte fel. Az Ódry Színpadon vörös-fehér szalagokat helyeztek el, több színházban pedig 71 másodpercnyi csenddel utaltak a 2020-as eseményekre.\n\n• **Tóth Vera szerint a mai tehetségkutatókban nagyobb szerepet kaphat a bántó viselkedés** A 2003-as Megasztár győztese a Wolfáramlat – Csend a zaj mögött című műsorban vetette össze a korábbi és a mostani versenyeket. Úgy látja, korábban főként az énektudás számított, bár testsúlya miatt őt is beskatulyázták. Húga, Tóth Gabi egy évvel később szerepelt a műsorban. Vera szerint ma elfogadottabbá válhat a versenyzők bántása, ezért mostanában kerüli a televíziós szerepléseket.\n\n• **Molnár Viktor és Titusz egy Kiara Lorddal közösen szerzett fuvar miatt veszett össze** Az Ázsia Expresszben Titusz és Kiara Lord együtt stoppolt, de a fiatal fiú végül átengedte a járművet a lányoknak. Apja szerint ebben a játékszakaszban határozottabban kellett volna fellépnie, hiszen korábban ők is többször segítették a másik csapatot. Molnár Viktor a hazautazást is felvetette, Titusz pedig azt mondta, nem tudta, hogy apja azt várja tőle, szálljon be a járműbe.\n\n• **Magyar Péter több, nőket érintő intézkedést jelentett be** A kormányfő az Isztambuli Egyezmény ratifikálásának kezdeményezéséről, a szívhangrendelet módosításáról és az esemény utáni tabletta vénykötelességének megszüntetéséről beszélt. A bejelentés a volt feleségével kialakult nyilvános konfliktus után történt; Kováts Eszter politológus a tényleges szakpolitikai szándék és a politikai kármentés lehetőségét is mérlegelte. A Tisza Női Műhely október elején alakult meg 44 női képviselővel. A csoport a mellrák elleni fellépésről és az egyezményről is egyeztetett; Forsthoffer Ágnes korábban a mindennapi odafigyelést hangsúlyozta a nemzetközi megállapodás helyett. Szentkirályi Alexandra botránypolitizálásnak nevezte a bejelentést, a KDNP pedig a társadalomra és a gyermekekre leselkedő veszélyeket emlegette.\n\n• **Varga Judit meghallgatása után is folytatódott a személyes állítások körüli vita** A volt igazságügyi miniszter a parlamenti meghallgatásán fenyegetésekről beszélt, Magyar Péter pedig visszautasította a vele kapcsolatos kijelentéseket. A Hír TV műsora az Isztambuli Egyezmény társadalmi nemre és oktatásra vonatkozó elemeit is a politikai vita részeként tárgyalta.\n\n• **Az Index helyreigazította a Tisza Párt gazdasági tervéről szóló közléseit** A lap valótlan állításként vonta vissza, hogy a párt több száz oldalas gazdasági programja egy olyan dokumentum lett volna, amely radikális baloldali fordulatot, az állami szerep növelését és az újraelosztás erősítését vázolta fel. A helyreigazítás az évi 1300 milliárd forintos többletbevételt célzó adó- és járulékemelések, valamint a társadalombiztosítás privatizációjára vonatkozó állítások Tiszához kötését is cáfolta.\n\n• **November 14-én tartják az első Papp-kupát a budapesti Riz Levente Sportcsarnokban** A nemzetközi torna az amatőr ökölvívás népszerűsítését és Papp László emlékének ápolását szolgálja. Kovács „Kokó” István elmondása szerint az ötletet a nyolcvanas évek végén megismert Challenge-kupa formátuma ihlette; a tervek szerint a legjobbak rövid, két ötmeccses blokkból álló programban lépnek ringbe. Az európai és a pánamerikai szövetség is támogatta a kezdeményezést. A magyar versenyzők közül Hámori Luca és Hankó Kálmán indul, a kísérőműsorban Lotfi Begi, Kállay-Saunders András és Király Viktor szerepel. A Magyar Ökölvívók Szövetségének elnöke a Nemzetközi Boxszövetség elnökségi helyére is pályázik.\n\n• **Több milliárd forintot, eurót és dollárt találtak a Seszták-ügyben** Az ATV beszámolója szerint az NVVH elásott pénzt és széfekben tárolt összegeket talált. Magyar Péter az ügyre reagálva a Fidesz–KDNP politikai korszakának végét jósolta.\n\n• **Lánczi Tamás politikai nyomásgyakorlást emlegetett az ügynökakták nyilvánosságra hozatala kapcsán** A Szuverenitás csoport elemzője szerint Magyar Péternek, Ruff Bálintnak és Tarr Zoltánnak vállalnia kell a felelősséget az ügyért. Lánczi úgy értékelte, hogy a kormánypárti szavazók egy része elszámoltatás helyett megtorlást vár, és Magyar Péter ennek lehet az eszköze. Ez az ő politikai véleménye.",
-    "importance_score": 105.0,
+    "importance_score": 115.0,
     "top_rank": 4,
     "is_top_hero": false,
     "is_top_list": true
@@ -947,6 +962,52 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_41471127de",
+    "slug": "tovabbi-tesztek-miatt-tovabbra-is-bizonytalan-a-budapestbelgrad-vasut-szemelyfor-414711",
+    "tags": [
+      "budapest-belgrad-vasut",
+      "vitezy-david",
+      "vasutfejlesztes",
+      "szemelyszallitas"
+    ],
+    "fingerprint": "b64ccb49f56da6cfb3ac719a30b7da6c",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/yJlEctqTr_xoNP1Glfsva3wyKsrY8FP1Oo2hcLN7mSk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MxNmViNTNmZGVjNTRiYjBhMzhhOTg3YzVkNmY2ZjA0.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Budapest–Belgrád vasútvonal: váratlan bejelentést tett Vitézy Dávid, a kínaiaknak javítaniuk kell a rendszert – már a decemberi indulást is elhalasztják, nincs új dátum",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/budapest-belgrad-vasutvonal-vitezy-david-felujtas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Újabb csúszás a Budapest–Belgrád vasútvonalon – magyarázkodik Vitézy Dávid",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/csuszas-a-budapest-belgrad-vasutvonalon-magyarazkodik-vitezy-david?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Újabb csúszás a Budapest–Belgrád vasútvonalon – Vitézy Dávid már magyarázkodik",
+        "link": "https://www.vadhajtasok.hu/2026/11/14/ujabb-csuszas-a-budapest-belgrad-vasutvonalon-vitezy-david-mar-magyarazkodik"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Bejelentette Vitézy Dávid a 2027-es vasúti menetrendet: több vonalon annyira kritikus állapotban a vasúti pálya, hogy nőni fog a menetidő",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/vitezy-david-vasut-menetrend-balaton?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794639603,
+    "title_hu": "További tesztek miatt továbbra is bizonytalan a Budapest–Belgrád vasút személyforgalma",
+    "lead_hu": "A kínai kivitelezőnek javítania kell a vonatbefolyásoló rendszer egyes, főként szoftveres hibáit, és minden módosítás után megismétlik az ellenőrzéseket. Vitézy Dávid szerint a december 13-tól érvényes menetrendben nem szerepelnek személyvonatok, az indulás új időpontját pedig nem közölték.",
+    "content_hu": "• **Hibákat tártak fel a tesztek** Az elmúlt hetekben a vasútvonal biztonsági berendezéseit vizsgálták; az ellenőrzések során elsősorban szoftveres problémákat találtak, amelyek javítása a kínai kivitelező feladata.\n\n• **A javítások után újraindul az ellenőrzés** Vitézy Dávid tájékoztatása szerint minden módosítást követően megismétlik a teszteket. Személyszállítás csak akkor kezdődhet, ha a hatóságok, a minőségbiztosító és a tanúsító szervezet is megfelelőnek találja a rendszerek működését.\n\n• **A TÜV is részt vesz a vizsgálatokban** A független minőségbiztosító bevonásáról még Lázár János döntött; Vitézy ezt a megoldást megtartotta. A miniszter szerint a kínai gyártó ezen a beruházáson telepít először európai szabványokhoz igazodó biztonsági rendszereket, ezért különösen alapos ellenőrzésre van szükség.\n\n• **A decemberi menetrend nem tartalmaz személyvonatokat** A december 13-án életbe lépő menetrendben nem szerepelnek a vonal személyszállító járatai, és az indulás új időpontját egyelőre nem ismertették. Az osztrák és a szerb vasút korábbi tájékoztatása még számolt a személyforgalom elindításával, a MÁV-tól kapott információk alapján.\n\n• **Vitézy a projekt korábbi konstrukciójára is kitért** A miniszter azt közölte, hogy a jelenlegi kormány nem döntött a beruházás mostani modelljéről, és korábban ő maga is bírálta a nyomvonalat, a költségeket, valamint az üzleti konstrukciót.",
+    "importance_score": 55.0,
+    "top_rank": 14,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_7faf3ddaf6",
     "slug": "kbl-anita-szemelyes-bantalmazasi-tapasztalatarol-beszelt-7faf3d",
     "tags": [
@@ -993,7 +1054,7 @@
     "lead_hu": "Köböl Anita kormányszóvivő csütörtöki Facebook-bejegyzésében arról számolt be, hogy őt is érte bántalmazás. A nők elleni és a családon belüli erőszak megelőzését célzó kormányzati tervekről szólva az áldozatok támogatását hangsúlyozta.",
     "content_hu": "• **Személyes tapasztalat** Köböl Anita a Facebook-bejegyzésében közölte, hogy saját életében is megtapasztalta a bántalmazást, a körülményeket azonban nem részletezte. A 24.hu beszámolója szerint néhány évvel korábban egy műsorban már beszélt arról, hogy egy nárcisztikus volt párja bántalmazta.\n\n• **Az áldozatok támogatása** Televíziós műsorvezetőként több olyan nő történetét hallotta, akik otthonukban sem érezték magukat biztonságban, és segítségkérésükre nem mindig kaptak megfelelő támogatást. Azt hangsúlyozta, hogy a bántalmazásért nem az áldozat felelős, és senkinek sem kellene egyedül maradnia, ha segítségre van szüksége.\n\n• **Az áldozathibáztatás következményei** Köböl Anita szerint a közöny, a félrenézés és az áldozatok hibáztatása súlyos, esetenként tragikus következményekhez vezethet.\n\n• **A tervezett intézkedések** Magyar Péter csütörtökön a nők elleni és a családon belüli erőszak megelőzésére, az áldozatok védelmére és az elkövetők felelősségre vonására irányuló terveket ismertetett. A csomagban szerepel az Isztambuli Egyezmény ratifikálása, a büntetőjogi szabályok szigorítása, a szívhangrendelet módosítása, az esemény utáni tabletta vénykötelességének eltörlése, valamint a menstruációs szegénység elleni fellépés.\n\n• **Politikai és szakmai reakciók** Szakmai szervezetek többsége kedvezően fogadta a bejelentést, mások bírálták a terveket. A KDNP ellenezte az egyezmény ratifikálását, és kifogásolta a „társadalmi nem” fogalmát; Magyar Péter visszautasította a genderkérdésekre vonatkozó bírálatokat.",
     "importance_score": 55.0,
-    "top_rank": 14,
+    "top_rank": 15,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1045,7 +1106,7 @@
     "lead_hu": "Az amerikai hatóságok több mint 1,2 milliárd dollár értékű, a Binance-től ellopott kriptovalutát foglaltak le; az eltulajdonított vagyonból korábban több mint 2,7 milliárd dollárt befagyasztottak. A FaceStealer nevű, Észak-Koreához kötött csalássorozat 18 hónap alatt több mint 900 embert érintett, a kár pedig meghaladta a 400 millió dollárt.",
     "content_hu": "• **A FaceStealerrel több mint 400 millió dollárnyi kriptovalutát szereztek meg.** Az amerikai hatóságok szerint a másfél éves műveletsorozatban több mint 900 ember károsult.\n\n• **A csalók elsősorban a kripto- és web3-iparág dolgozóit vették célba.** Különösen a nyílt forráskódú programokat fejlesztő vagy karbantartó szakemberek kerültek a célkeresztjükbe.\n\n• **Hamis videóhívásokkal juttattak kártevőt az áldozatok eszközeire.** A támadók hamis vagy feltört közösségimédia-profilokról kezdeményeztek kapcsolatot, majd Zoomra, Teamsre vagy Google Meetre emlékeztető felületeken korábbi áldozatokról készült felvételeket játszottak le. A hanghiba kijavítására ajánlott link valójában kártevőt telepített, amely hozzáférést adhatott a névjegyzékekhez és alkalmazásokhoz.\n\n• **Az amerikai hatóságok felszámolták a FaceStealer felhőalapú infrastruktúráját.** A megszerzett hozzáférésekkel a csalók további lehetséges áldozatokat is elérhettek.\n\n• **A Binance-től egy hamis állásinterjús módszerrel mintegy 6,3 milliárd dollárnyi kriptovalutát loptak el.** Az ügy nyilvánosságra kerülése után körülbelül egy héttel közölték a hatóságok a FaceStealer elleni fellépés részleteit.\n\n• **A Binance-ügyben eddig több mint 2,7 milliárd dollárnyi vagyont fagyasztottak be, ebből több mint 1,2 milliárdot lefoglaltak.** Az FBI a támadást az észak-koreai hadsereghez kötődő TraderTraitor csoportnak tulajdonítja.\n\n• **A nyomozók tovább követik az ellopott kriptovaluták útját.** A hatóságok szerint az elkövetők különböző kriptocsatornákon keresztül próbálják tisztára mosni a pénzt, amely az amerikai értékelés szerint Észak-Korea fegyverprogramját is támogathatja.",
     "importance_score": 53.0,
-    "top_rank": 15,
+    "top_rank": 16,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1096,7 +1157,53 @@
     "lead_hu": "Matolcsy György 2019-ben mindkét fiának, 2023-ban pedig ismét Matolcsy Ádámnak kért diplomata-útlevelet. A második okmányt 2025 júliusában, a Magyar Nemzeti Bank kérésére érvénytelenítették; Ádám ellen októberben körözést, majd nemzetközi elfogatóparancsot adtak ki.",
     "content_hu": "• **Két útlevélkérelem** Matolcsy György 2019. április 3-án Matolcsy Ádám és Matolcsy Máté számára is diplomata-útlevelet kért. Az indoklásban fiaik külföldi szakmai programjait és a nemzetközi fórumokon való részvételüket említette; a külügyi feljegyzés két nappal később készült el.\n\n• **Újabb kérelem Ádámnak** Matolcsy György 2023. április 19-én ismét fia útlevelét kérte. A beadvány munkaköri feladatokra, hivatalos külföldi kiküldetésekre, valamint egyes országok vízum- és útlevélkövetelményeire hivatkozott.\n\n• **Az útlevelek érvényessége** Matolcsy Ádám első diplomata-útlevele 2019. április 12. és 2022. november 30. között volt érvényes. A 2023. május 15-én kiállított második okmány érvényessége eredetileg 2026. december 31-ig tartott volna.\n\n• **Az okmány érvénytelenítése** A Magyar Nemzeti Bank kérésére 2025. július 3-án letiltották a második útlevelet. A külügyminisztériumnak aznap képet is küldtek az okmányról, amelynek alsó, kódot tartalmazó részét Matolcsy Ádám lyukasztotta ki.\n\n• **Korlátozás nélküli felhasználás** A külügyi engedély nem szabott meg utazási célt, időpontot vagy gyakoriságot. A minisztériumnak ezért nincs nyilvántartása arról, hogy Matolcsy Ádám hányszor és milyen úti célokra használta az útlevelet.\n\n• **Körözés gazdasági csalás gyanúja miatt** Matolcsy Ádám ellen október 21-én adtak ki körözést, majd néhány nappal később nemzetközi elfogatóparancsot is. A hatóságok gazdasági csalás gyanújával keresik.",
     "importance_score": 50.0,
-    "top_rank": 16,
+    "top_rank": 17,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_94486b7fd0",
+    "slug": "orszagos-repulesi-korlatozas-benitotta-meg-az-amerikai-legikzlekedest-94486b",
+    "tags": [
+      "amerikai-legikozlekedes",
+      "faa",
+      "jarattorlesek",
+      "legiforgalmi-iranyitas"
+    ],
+    "fingerprint": "e9c705c3bac2f76d819f89e034884845",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/Zw96QVdxORqvUV73KA0XBY0Zg4lgNnm15MJnsNt-xiw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvYTFkYjMxYTM1MzU2ZmE4NjMzNGZmMzkyMWRiMjA5ZTU2MjVjMmVkMjUyNGQ4ZmJmMDYwMGJkYjYzYmI4NGI1OA.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Leállás után káosz — felszállhattak a gépek Amerikában, de tömegek rekedtek a reptereken + videó",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/legikozlekedes-egyesult-allamok-repuloterek-repulogepek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Földre parancsolták az összes amerikai repülőgépet, mintegy hétezer járatot érint a káosz",
+        "link": "https://index.hu/kulfold/2026/11/14/legikozlekedes-usa-repulojarat-szovetsegi-legikozlekedesi-hatosag/"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Rendkívüli: káosz Amerikában, összeomlott a teljes légiforgalom – nem történt ilyen 2001. szeptember 11. óta",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/legiforgalom-amerika-usa-trump-leallas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Zsúfolt terminálok, leállított gépek, tanácstalanság – galéria az Amerikát érintő repülési stopról",
+        "link": "https://24.hu/kulfold/2026/11/14/usa-repuesi-stop-pilotak-gepek-galeria/"
+      }
+    ],
+    "published_at": 1794635526,
+    "title_hu": "Országos repülési korlátozás bénította meg az amerikai légiközlekedést",
+    "lead_hu": "Pénteken műszaki és kommunikációs zavar miatt az amerikai Szövetségi Légügyi Hivatal átmenetileg megtiltotta a felszállásokat. A légtér újranyitása után is jelentős késésekre és járattörlésekre kellett számítani.",
+    "content_hu": "• **Pénteki leállás** Az FAA az ország repülőterein megtiltotta a felszállásokat, miután a regionális légiirányítási központok radar- és kommunikációs rendszereiben instabilitást észleltek. A levegőben lévő gépek folytathatták útjukat.\n\n• **A légtér újranyitása** Sean Duffy közlekedési miniszter szerint az amerikai légtér keleti idő szerint este 8:15-kor nyílt meg újra. A járatok fokozatosan indultak újra, a normál menetrend helyreállása azonban időt vehet igénybe.\n\n• **Elmaradt és késő járatok** A FlightRadar24 adatai alapján több mint 6600 járatot töröltek, 8600 pedig késett. A fennakadás utasok tízezreit érintette, és a légitársaságok menetrendjére a következő napokban is kihatással lehetett.\n\n• **A hiba oka** Duffy az elöregedett légiforgalmi irányítási infrastruktúra túlterhelődő kapcsolóit és útválasztóit nevezte meg a zavar háttereként. Markwayne Mullin belbiztonsági miniszter közölte, hogy a vizsgálat akkori állása szerint nem volt jele kibertámadásnak.\n\n• **Korszerűsítési igény** A közlekedési miniszter a rendszer átfogó felújításához további, több tízmilliárd dolláros támogatást sürgetett. Országos repülési korlátozásra legutóbb 2023 januárjában került sor; ennél szélesebb körű intézkedésre a 2001. szeptember 11-i terrortámadások óta nem volt példa.",
+    "importance_score": 48.0,
+    "top_rank": 18,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1137,7 +1244,7 @@
     "lead_hu": "Az NVVH több helyszínen, elrejtve talált jelentős mennyiségű készpénzt, amelyet a Magyar Államkincstárba juttattak. A Fidesz azt közölte, reméli, hogy a vagyon nem kapcsolódik Seszták Miklóshoz.",
     "content_hu": "• **Több helyszínen talált pénz** Az NVVH november 12-én és 13-án Budapesten, valamint Pest, Békés és Nógrád vármegyében végzett kutatásokat. Az összegeket erdőben elásva, mezőgazdasági épületekben, lakóingatlanokban és elrejtett széfekben találták meg.\n\n• **Háromféle valutában talált vagyon** A hivatal adatai szerint 5 071 632 000 forint, 2 658 350 euró és 1 257 100 amerikai dollár került elő. A pénzt a Magyar Államkincstárba fizették be.\n\n• **A Fidesz távolságot tartana** A párt azt üzente, nem vállal közösséget azokkal, akik megszegik a törvényeket, és reményét fejezte ki, hogy a megtalált összegnek nincs köze Seszták Miklóshoz.\n\n• **Nyolc órán át számolták a készpénzt** Kármán András pénzügyminiszter tájékoztatása szerint a kincstár 12 munkatársa öt géppel végezte a pénz megszámlálását.",
     "importance_score": 45.0,
-    "top_rank": 17,
+    "top_rank": 19,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1177,89 +1284,6 @@
     "title_hu": "Seszták továbbra is a Fidesz politikai foglyokat felsoroló oldalán szerepel",
     "lead_hu": "A Fidesz honlapján továbbra is politikai fogolyként tüntetik fel Seszták Miklóst, miközben az ügyében folytatott nyomozás során több mint hatmilliárd forint értékű pénzt találtak elrejtve. Az eset kapcsán Török Gábor és Toroczkai László is a politikai fogoly megnevezés használatáról beszélt.",
     "content_hu": "• **Seszták szerepeltetése** A Fidesz honlapján a KDNP-s országgyűlési képviselő továbbra is a politikai foglyok között található; az oldalon azt írják, hogy az új hatóság hivatali vesztegetés elfogadásával és más bűncselekményekkel gyanúsítja.\n\n• **Elrejtett pénzek** A nyomozás során több mint hatmilliárd forint értékű dollárt, eurót és forintot találtak erdőkben, épületekben, lakóingatlanban és egy nagy értékű széfben.\n\n• **Török Gábor értékelése** Az elemző szerint a Fidesz–KDNP politikai foglyokra épülő kommunikációja a pártszövetség jövőjét is veszélyeztetheti.\n\n• **Toroczkai László álláspontja** A Mi Hazánk elnöke úgy vélte, a tisztességes Fidesz-szavazóknak kellene a leghatározottabban fellépniük Seszták, Matolcsy és Völner ügyében, és különbséget kell tenni valódi politikai foglyok, illetve bűncselekményekkel gyanúsított politikusok között.\n\n• **A Fidesz reakciója** A párt közleménye szerint nem tudnak közösséget vállalni azokkal, akik nem tartják be a törvényeket.",
-    "importance_score": 45.0,
-    "top_rank": 18,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_41471127de",
-    "slug": "tovabbi-tesztek-miatt-tovabbra-is-bizonytalan-a-budapestbelgrad-vasut-szemelyfor-414711",
-    "tags": [
-      "budapest-belgrad-vasut",
-      "vitezy-david",
-      "vasutfejlesztes",
-      "szemelyszallitas"
-    ],
-    "fingerprint": "b64ccb49f56da6cfb3ac719a30b7da6c",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/yJlEctqTr_xoNP1Glfsva3wyKsrY8FP1Oo2hcLN7mSk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MxNmViNTNmZGVjNTRiYjBhMzhhOTg3YzVkNmY2ZjA0.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Budapest–Belgrád vasútvonal: váratlan bejelentést tett Vitézy Dávid, a kínaiaknak javítaniuk kell a rendszert – már a decemberi indulást is elhalasztják, nincs új dátum",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/budapest-belgrad-vasutvonal-vitezy-david-felujtas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Újabb csúszás a Budapest–Belgrád vasútvonalon – magyarázkodik Vitézy Dávid",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/csuszas-a-budapest-belgrad-vasutvonalon-magyarazkodik-vitezy-david?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Újabb csúszás a Budapest–Belgrád vasútvonalon – Vitézy Dávid már magyarázkodik",
-        "link": "https://www.vadhajtasok.hu/2026/11/14/ujabb-csuszas-a-budapest-belgrad-vasutvonalon-vitezy-david-mar-magyarazkodik"
-      }
-    ],
-    "published_at": 1794639603,
-    "title_hu": "További tesztek miatt továbbra is bizonytalan a Budapest–Belgrád vasút személyforgalma",
-    "lead_hu": "A kínai kivitelezőnek javítania kell a vonatbefolyásoló rendszer egyes, főként szoftveres hibáit, és minden módosítás után megismétlik az ellenőrzéseket. Vitézy Dávid szerint a december 13-tól érvényes menetrendben nem szerepelnek személyvonatok, az indulás új időpontját pedig nem közölték.",
-    "content_hu": "• **Hibákat tártak fel a tesztek** Az elmúlt hetekben a vasútvonal biztonsági berendezéseit vizsgálták; az ellenőrzések során elsősorban szoftveres problémákat találtak, amelyek javítása a kínai kivitelező feladata.\n\n• **A javítások után újraindul az ellenőrzés** Vitézy Dávid tájékoztatása szerint minden módosítást követően megismétlik a teszteket. Személyszállítás csak akkor kezdődhet, ha a hatóságok, a minőségbiztosító és a tanúsító szervezet is megfelelőnek találja a rendszerek működését.\n\n• **A TÜV is részt vesz a vizsgálatokban** A független minőségbiztosító bevonásáról még Lázár János döntött; Vitézy ezt a megoldást megtartotta. A miniszter szerint a kínai gyártó ezen a beruházáson telepít először európai szabványokhoz igazodó biztonsági rendszereket, ezért különösen alapos ellenőrzésre van szükség.\n\n• **A decemberi menetrend nem tartalmaz személyvonatokat** A december 13-án életbe lépő menetrendben nem szerepelnek a vonal személyszállító járatai, és az indulás új időpontját egyelőre nem ismertették. Az osztrák és a szerb vasút korábbi tájékoztatása még számolt a személyforgalom elindításával, a MÁV-tól kapott információk alapján.\n\n• **Vitézy a projekt korábbi konstrukciójára is kitért** A miniszter azt közölte, hogy a jelenlegi kormány nem döntött a beruházás mostani modelljéről, és korábban ő maga is bírálta a nyomvonalat, a költségeket, valamint az üzleti konstrukciót.",
-    "importance_score": 45.0,
-    "top_rank": 19,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_94605f3206",
-    "slug": "tbb-mint-hatmilliard-forintot-talaltak-a-sesztak-ugy-nyomozasaban-94605f",
-    "tags": [
-      "sesztak-miklos",
-      "korrupcio",
-      "nvvh",
-      "magyar-peter",
-      "toroczkai-laszlo"
-    ],
-    "fingerprint": "7c7a42469181a32355cce3d446c7e726",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261113/1794599678-temp-qalrkhnteieefgocgpb_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Magyar Péter a Seszták-ügyben talált pénzről: Ezzel a Fidesz-KDNP maffiának hivatalosan is vége!",
-        "link": "https://telex.hu/belfold/2026/11/13/magyar-peter-a-sesztak-ugyben-talalt-penzrol-ezzel-a-fidesz-kdnp-maffianak-hivatalosan-is-vege"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Matekozott a Magyar Nemzet: senki sem látta Seszták 9 milliárdját, csak 6 milliárd forintot találtak",
-        "link": "https://telex.hu/zacc/2026/11/13/magyar-nemzet-matematika-9-milliard-nem-6-milliard"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Toroczkai: Aki egy picit is tudta, ki Seszták Miklós, azt nem lepte meg az előásott 6 milliárd forint",
-        "link": "https://24.hu/belfold/2026/11/14/nvvh-sesztak-miklos-milliardok-toroczkai-laszlo-reakcio/"
-      }
-    ],
-    "published_at": 1794637235,
-    "title_hu": "Több mint hatmilliárd forintot találtak a Seszták-ügy nyomozásában",
-    "lead_hu": "A hatóságok november 12-én és 13-án több helyszínen tartottak kutatást, és mintegy 6,45 milliárd forint értékű készpénzt foglaltak le. Magyar Péter és Toroczkai László is reagált az ügyre; Toroczkai más, politikai vonatkozású nyomozásokat is szóba hozott.",
-    "content_hu": "• **Több vármegyében tartottak kutatásokat** November 12-én és 13-án Budapesten, valamint Pest, Békés és Nógrád vármegyében intézkedtek a hatóságok. Készpénz került elő erdőkből, mezőgazdasági és raktárépületekből, lakóingatlanból, illetve egy elrejtett széf közeléből.\n\n• **A lefoglalt pénz értéke megközelíti a 6,45 milliárd forintot** A hatóságok 5 071 632 000 forintot, 2 658 350 eurót és 1 257 100 dollárt találtak. Az NVVH befizette az összeget a Magyar Államkincstárba.\n\n• **A kilencmilliárdos összeg és a megtalált pénz közötti különbség a beszámolókban is megjelent** Egy korábbi bírósági közlés szerint Seszták otthonában üres páncélszekrényt találtak, amelyben a rendelkezésre álló adatok alapján korábban akár 9 milliárd forint is lehetett. A két nagy széfet később egy, a volt miniszterhez köthető kisvárdai irodaházban azonosították; a kilencmilliárdos becslés gyanúsítotti vallomáson és egy keresőkutya jelzésén alapult. A Magyar Nemzet a 9 milliárdos feltételezés és a megtalált, mintegy 6 milliárd forint közötti eltérést állította beszámolója középpontjába, kiemelve a kincstári befizetést.\n\n• **Seszták tagadja a terhére rótt bűncselekményeket** Az ügyészség gyanúja szerint a volt nemzeti fejlesztési miniszter 2014 és 2018 között építési vállalkozóktól fogadhatott el kenőpénzt. Seszták és Szivek Norbert esetében összesen 11 milliárd forintnyi jogtalan előny elfogadását vizsgálják; Seszták tagadja a bűncselekmények elkövetését.\n\n• **Magyar Péter a Fidesz–KDNP-re vonatkozó politikai üzenettel reagált** Facebook-bejegyzésében a pénz megtalálását úgy értékelte, hogy ezzel véget érhet a Fidesz–KDNP maffiaként való működése.\n\n• **Toroczkai László Jellinek Dánielt is bírálta** A Mi Hazánk elnöke az X-en azt írta, hogy Seszták korábbi tevékenységének ismeretében nem tartja váratlannak a pénz előkerülését. Jellineket Seszták bűntársának nevezte, és Matolcsy Györgyöt, valamint Völner Pált is említette; egyiküket sem tekinti politikai fogolynak. Szerinte az érintettek a saját vagyonuk gyarapítására és a luxusra összpontosítottak.\n\n• **Toroczkai a lakiteleki intézkedések időzítését is kifogásolta** A Mi Hazánk elnöke felidézte, hogy a miniszterelnök és a Lezsák család között az ügynökakták miatt kialakult parlamenti vita után 15 nyomozó jelent meg a lakiteleki Népfőiskola Alapítványnál. Toroczkai az időzítést bírálta; a NAV közlése szerint a helyszínen büntetőeljárásban és egy másik nyomozásban is intézkedtek.",
     "importance_score": 45.0,
     "top_rank": 20,
     "is_top_hero": false,
@@ -1399,41 +1423,42 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_94486b7fd0",
-    "slug": "orszagos-repulesi-korlatozas-benitotta-meg-az-amerikai-legikzlekedest-94486b",
+    "group_id": "group_94605f3206",
+    "slug": "tbb-mint-hatmilliard-forintot-talaltak-a-sesztak-ugy-nyomozasaban-94605f",
     "tags": [
-      "amerikai-legikozlekedes",
-      "faa",
-      "jarattorlesek",
-      "legiforgalmi-iranyitas"
+      "sesztak-miklos",
+      "korrupcio",
+      "nvvh",
+      "magyar-peter",
+      "toroczkai-laszlo"
     ],
-    "fingerprint": "e9c705c3bac2f76d819f89e034884845",
+    "fingerprint": "7c7a42469181a32355cce3d446c7e726",
     "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/Zw96QVdxORqvUV73KA0XBY0Zg4lgNnm15MJnsNt-xiw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvYTFkYjMxYTM1MzU2ZmE4NjMzNGZmMzkyMWRiMjA5ZTU2MjVjMmVkMjUyNGQ4ZmJmMDYwMGJkYjYzYmI4NGI1OA.jpg",
+    "image": "https://assets.telex.hu/images/20261113/1794599678-temp-qalrkhnteieefgocgpb_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
     "sources_count": 3,
     "sources": [
       {
-        "source": "Magyar Nemzet",
-        "title": "Leállás után káosz — felszállhattak a gépek Amerikában, de tömegek rekedtek a reptereken + videó",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/legikozlekedes-egyesult-allamok-repuloterek-repulogepek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "Telex - Belföld",
+        "title": "Magyar Péter a Seszták-ügyben talált pénzről: Ezzel a Fidesz-KDNP maffiának hivatalosan is vége!",
+        "link": "https://telex.hu/belfold/2026/11/13/magyar-peter-a-sesztak-ugyben-talalt-penzrol-ezzel-a-fidesz-kdnp-maffianak-hivatalosan-is-vege"
       },
       {
-        "source": "Index - Címlap",
-        "title": "Földre parancsolták az összes amerikai repülőgépet, mintegy hétezer járatot érint a káosz",
-        "link": "https://index.hu/kulfold/2026/11/14/legikozlekedes-usa-repulojarat-szovetsegi-legikozlekedesi-hatosag/"
+        "source": "Telex - Belföld",
+        "title": "Matekozott a Magyar Nemzet: senki sem látta Seszták 9 milliárdját, csak 6 milliárd forintot találtak",
+        "link": "https://telex.hu/zacc/2026/11/13/magyar-nemzet-matematika-9-milliard-nem-6-milliard"
       },
       {
-        "source": "Világgazdaság",
-        "title": "Rendkívüli: káosz Amerikában, összeomlott a teljes légiforgalom – nem történt ilyen 2001. szeptember 11. óta",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/legiforgalom-amerika-usa-trump-leallas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "24.hu - Legfrissebb",
+        "title": "Toroczkai: Aki egy picit is tudta, ki Seszták Miklós, azt nem lepte meg az előásott 6 milliárd forint",
+        "link": "https://24.hu/belfold/2026/11/14/nvvh-sesztak-miklos-milliardok-toroczkai-laszlo-reakcio/"
       }
     ],
-    "published_at": 1794635526,
-    "title_hu": "Országos repülési korlátozás bénította meg az amerikai légiközlekedést",
-    "lead_hu": "Pénteken műszaki és kommunikációs zavar miatt az amerikai Szövetségi Légügyi Hivatal átmenetileg megtiltotta a felszállásokat. A légtér újranyitása után is jelentős késésekre és járattörlésekre kellett számítani.",
-    "content_hu": "• **Pénteki leállás** Az FAA az ország repülőterein megtiltotta a felszállásokat, miután a regionális légiirányítási központok radar- és kommunikációs rendszereiben instabilitást észleltek. A levegőben lévő gépek folytathatták útjukat.\n\n• **A légtér újranyitása** Sean Duffy közlekedési miniszter szerint az amerikai légtér keleti idő szerint este 8:15-kor nyílt meg újra. A járatok fokozatosan indultak újra, a normál menetrend helyreállása azonban időt vehet igénybe.\n\n• **Elmaradt és késő járatok** A FlightRadar24 adatai alapján több mint 6600 járatot töröltek, 8600 pedig késett. A fennakadás utasok tízezreit érintette, és a légitársaságok menetrendjére a következő napokban is kihatással lehetett.\n\n• **A hiba oka** Duffy az elöregedett légiforgalmi irányítási infrastruktúra túlterhelődő kapcsolóit és útválasztóit nevezte meg a zavar háttereként. Markwayne Mullin belbiztonsági miniszter közölte, hogy a vizsgálat akkori állása szerint nem volt jele kibertámadásnak.\n\n• **Korszerűsítési igény** A közlekedési miniszter a rendszer átfogó felújításához további, több tízmilliárd dolláros támogatást sürgetett. Országos repülési korlátozásra legutóbb 2023 januárjában került sor; ennél szélesebb körű intézkedésre a 2001. szeptember 11-i terrortámadások óta nem volt példa.",
+    "published_at": 1794637235,
+    "title_hu": "Több mint hatmilliárd forintot találtak a Seszták-ügy nyomozásában",
+    "lead_hu": "A hatóságok november 12-én és 13-án több helyszínen tartottak kutatást, és mintegy 6,45 milliárd forint értékű készpénzt foglaltak le. Magyar Péter és Toroczkai László is reagált az ügyre; Toroczkai más, politikai vonatkozású nyomozásokat is szóba hozott.",
+    "content_hu": "• **Több vármegyében tartottak kutatásokat** November 12-én és 13-án Budapesten, valamint Pest, Békés és Nógrád vármegyében intézkedtek a hatóságok. Készpénz került elő erdőkből, mezőgazdasági és raktárépületekből, lakóingatlanból, illetve egy elrejtett széf közeléből.\n\n• **A lefoglalt pénz értéke megközelíti a 6,45 milliárd forintot** A hatóságok 5 071 632 000 forintot, 2 658 350 eurót és 1 257 100 dollárt találtak. Az NVVH befizette az összeget a Magyar Államkincstárba.\n\n• **A kilencmilliárdos összeg és a megtalált pénz közötti különbség a beszámolókban is megjelent** Egy korábbi bírósági közlés szerint Seszták otthonában üres páncélszekrényt találtak, amelyben a rendelkezésre álló adatok alapján korábban akár 9 milliárd forint is lehetett. A két nagy széfet később egy, a volt miniszterhez köthető kisvárdai irodaházban azonosították; a kilencmilliárdos becslés gyanúsítotti vallomáson és egy keresőkutya jelzésén alapult. A Magyar Nemzet a 9 milliárdos feltételezés és a megtalált, mintegy 6 milliárd forint közötti eltérést állította beszámolója középpontjába, kiemelve a kincstári befizetést.\n\n• **Seszták tagadja a terhére rótt bűncselekményeket** Az ügyészség gyanúja szerint a volt nemzeti fejlesztési miniszter 2014 és 2018 között építési vállalkozóktól fogadhatott el kenőpénzt. Seszták és Szivek Norbert esetében összesen 11 milliárd forintnyi jogtalan előny elfogadását vizsgálják; Seszták tagadja a bűncselekmények elkövetését.\n\n• **Magyar Péter a Fidesz–KDNP-re vonatkozó politikai üzenettel reagált** Facebook-bejegyzésében a pénz megtalálását úgy értékelte, hogy ezzel véget érhet a Fidesz–KDNP maffiaként való működése.\n\n• **Toroczkai László Jellinek Dánielt is bírálta** A Mi Hazánk elnöke az X-en azt írta, hogy Seszták korábbi tevékenységének ismeretében nem tartja váratlannak a pénz előkerülését. Jellineket Seszták bűntársának nevezte, és Matolcsy Györgyöt, valamint Völner Pált is említette; egyiküket sem tekinti politikai fogolynak. Szerinte az érintettek a saját vagyonuk gyarapítására és a luxusra összpontosítottak.\n\n• **Toroczkai a lakiteleki intézkedések időzítését is kifogásolta** A Mi Hazánk elnöke felidézte, hogy a miniszterelnök és a Lezsák család között az ügynökakták miatt kialakult parlamenti vita után 15 nyomozó jelent meg a lakiteleki Népfőiskola Alapítványnál. Toroczkai az időzítést bírálta; a NAV közlése szerint a helyszínen büntetőeljárásban és egy másik nyomozásban is intézkedtek.",
     "importance_score": 38.0,
     "top_rank": 24,
     "is_top_hero": false,
@@ -3817,6 +3842,58 @@
     "title_hu": "Ingyenes lehetőség minden magyar kkv-nak: 2027-ben indul a Mastercard biztonsági képzése",
     "lead_hu": "Jövőre Magyarországon is elindul a Mastercard kiberbiztonsági platformja. Az ingyenes digitális tananyag abban segíti a kisvállalkozásokat, hogy magabiztosabban kezeljék a kiberbiztonsági kockázatokat...",
     "content_hu": "Jövőre Magyarországon is elindul a Mastercard kiberbiztonsági platformja. Az ingyenes digitális tananyag abban segíti a kisvállalkozásokat, hogy magabiztosabban kezeljék a kiberbiztonsági kockázatokat, és hatékony megelőző lépéseket tegyenek a leggyakoribb kiberfenyegetések ellen.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_2c19043943",
+    "slug": "a-szulei-vilagsztarok-most-anthony-hopkins-oldalan-kapta-meg-elso-foszerepet-2c1904",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "A szülei világsztárok, most Anthony Hopkins oldalán kapta meg első főszerepét",
+        "link": "https://nlc.hu/csalad/20261114/uma-thurman-es-ethan-hawke-fia-levon-hawke/5gg8yxk"
+      }
+    ],
+    "published_at": 1794646980,
+    "title_hu": "A szülei világsztárok, most Anthony Hopkins oldalán kapta meg első főszerepét",
+    "lead_hu": "Uma Thurman és Ethan Hawke fia, Levon Hawke eddigi karrierje legnagyobb lehetősége előtt áll. A 24 éves színész első filmes főszerepét kapta meg, ráadásul nem akárki lesz a partnere: a kétszeres Oscar...",
+    "content_hu": "Uma Thurman és Ethan Hawke fia, Levon Hawke eddigi karrierje legnagyobb lehetősége előtt áll. A 24 éves színész első filmes főszerepét kapta meg, ráadásul nem akárki lesz a partnere: a kétszeres Oscar-díjas Anthony Hopkinsszal játszhat együtt. A Twenty-Seven című dráma két különböző generációhoz tartozó férfi különleges barátságát mutatja be. The post A szülei világsztárok, most Anthony Hopkins oldalán kapta meg első főszerepét first appeared on nlc.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_c82b1e9930",
+    "slug": "bagel-recept-hazilag-igy-lesz-kivul-fenyes-belul-puha-c82b1e",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Bagel recept házilag: így lesz kívül fényes, belül puha",
+        "link": "https://nlc.hu/gasztro/20261114/bagel-recept-hazilag/8w6pldt"
+      }
+    ],
+    "published_at": 1794646980,
+    "title_hu": "Bagel recept házilag: így lesz kívül fényes, belül puha",
+    "lead_hu": "A házi bagel elkészítése egyszerűbb, mint gondolnád, mégis van egy apró trükk, amelyen a végeredmény múlik. Ha azt szeretnéd, hogy a bagel kívül aranybarnára süljön, szép fényes héjat kapjon, belül pe...",
+    "content_hu": "A házi bagel elkészítése egyszerűbb, mint gondolnád, mégis van egy apró trükk, amelyen a végeredmény múlik. Ha azt szeretnéd, hogy a bagel kívül aranybarnára süljön, szép fényes héjat kapjon, belül pedig puha és kellemesen ruganyos maradjon, érdemes néhány szabályt betartani. Mutatjuk a bevált receptet és a legfontosabb fortélyokat. The post Bagel recept házilag: így lesz kívül fényes, belül puha first appeared on nlc.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -16635,188 +16712,6 @@
     "title_hu": "„Emlékeztetni fogjuk népünket a győzelem ízére” – Zivzivadze a magyarok elleni Nemzetek Ligája-mérkőzésről",
     "lead_hu": "A grúz válogatott az eddigi négy csoportmérkőzésén még gólt sem szerzett. The post „Emlékeztetni fogjuk népünket a győzelem ízére” – Zivzivadze a magyarok elleni Nemzetek Ligája-mérkőzésről first appe…",
     "content_hu": "A grúz válogatott az eddigi négy csoportmérkőzésén még gólt sem szerzett. The post „Emlékeztetni fogjuk népünket a győzelem ízére” – Zivzivadze a magyarok elleni Nemzetek Ligája-mérkőzésről first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_19bbc34418",
-    "slug": "sszefeszult-navracsics-es-toroczkai-a-vizsgalobizo-19bbc3",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261113/1794561461-temp-79upmpdrinpd8mccofc_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Összefeszült Navracsics és Toroczkai a vizsgálóbizottság ülésén",
-        "link": "https://telex.hu/belfold/2026/11/13/vegrehajtoi-visszaeleseket-feltaro-vizsgalobizottsag-navracsics-tibor-tuzson-bence-trocsanyi-laszlo-meghallgatas"
-      }
-    ],
-    "published_at": 1794561679,
-    "title_hu": "Összefeszült Navracsics és Toroczkai a vizsgálóbizottság ülésén",
-    "lead_hu": "Navracsics Tibort, Trócsányi Lászlót és Tuzson Bencét is meghallgatja pénteken a végrehajtási ügyeket feltáró vizsgálóbizottság.",
-    "content_hu": "Navracsics Tibort, Trócsányi Lászlót és Tuzson Bencét is meghallgatja pénteken a végrehajtási ügyeket feltáró vizsgálóbizottság.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_5e7c3fa398",
-    "slug": "trteneszek-figyelmeztetnek-a-mult-feltarasaval-nem-5e7c3f",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7181/71815/718157/71815707_5294245_37aebc6145d9b295eb69bce24a32ef0f_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Történészek figyelmeztetnek: a múlt feltárásával nem folytathatjuk a diktatúra játszmáit",
-        "link": "https://index.hu/belfold/2026/11/13/ugynokaktak-kommunizmus-allambiztonsag-foldvaryne-kiss-reka-interju-nemzeti-emlekezet-bizottsaga/"
-      }
-    ],
-    "published_at": 1794561660,
-    "title_hu": "Történészek figyelmeztetnek: a múlt feltárásával nem folytathatjuk a diktatúra játszmáit",
-    "lead_hu": "A Nemzeti Emlékezet Bizottsága szerint el kell kerülni, hogy az ügynökaktákban ártatlan emberekre vetüljön a gyanú.",
-    "content_hu": "A Nemzeti Emlékezet Bizottsága szerint el kell kerülni, hogy az ügynökaktákban ártatlan emberekre vetüljön a gyanú.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_d13a8397ea",
-    "slug": "a-bkv-felujitasokkal-dobja-fel-az-utasok-kedvet-a--d13a83",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "A BKV felújításokkal dobja fel az utasok kedvét a novemberi szürkeségben",
-        "link": "https://444.hu/2026/11/13/a-bkv-felujitasokkal-dobja-fel-az-utasok-kedvet-a-novemberi-szurkesegben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794561631,
-    "title_hu": "A BKV felújításokkal dobja fel az utasok kedvét a novemberi szürkeségben",
-    "lead_hu": "Forgalomkorlátozással járó munkák, szevasztok!",
-    "content_hu": "Forgalomkorlátozással járó munkák, szevasztok!",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_d1954cd3b5",
-    "slug": "ujabb-utest-kapott-a-kulcsagazat-es-mar-a-kvetkezo-d1954c",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7253/72537/725376/72537649_5344997_012b1e2b87be0baf122d2a880b1c8b5d_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Újabb ütést kapott a kulcságazat, és már a következő hónapok munkái is fogynak",
-        "link": "https://index.hu/gazdasag/2026/11/13/epitoipar-epitoipari-termeles-epitkezes-uj-epites-szerzodesallomany-epitoanyag/"
-      }
-    ],
-    "published_at": 1794561540,
-    "title_hu": "Újabb ütést kapott a kulcságazat, és már a következő hónapok munkái is fogynak",
-    "lead_hu": "Kedvezőtlen adatok jöttek.",
-    "content_hu": "Kedvezőtlen adatok jöttek.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_fb032ff523",
-    "slug": "mara-josolta-a-vilagveget-egy-1960-as-tanulmany-fb032f",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1192659654-e1794561439321-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Mára jósolta a világvégét egy 1960-as tanulmány",
-        "link": "https://24.hu/tech/2026/11/13/vilagvege-2026-november-13-kutatas-1960/"
-      }
-    ],
-    "published_at": 1794561463,
-    "title_hu": "Mára jósolta a világvégét egy 1960-as tanulmány",
-    "lead_hu": "2026. november 13-ára jósolták a világvégét egy 1960-as tanulmányban. Az abban megjelölt ok azonban mára érvényét vesztette. The post Mára jósolta a világvégét egy 1960-as tanulmány first appeared on …",
-    "content_hu": "2026. november 13-ára jósolták a világvégét egy 1960-as tanulmányban. Az abban megjelölt ok azonban mára érvényét vesztette. The post Mára jósolta a világvégét egy 1960-as tanulmány first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_c69bc1daf2",
-    "slug": "kidolt-fa-szakitotta-le-a-felsovezeteket-bicske-al-c69bc1",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261113/1794560908-temp-ki6fqa9lm8jcebiecec_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Kidőlt fa szakította le a felsővezetéket Bicske alsón, fennakadás van a győri fővonalon",
-        "link": "https://telex.hu/belfold/2026/11/13/kidolt-fa-bicske-also-vasutallomas-felsovezetek-szakadas-mav-gyori-vasuti-fovonal-keses-potlobusz"
-      }
-    ],
-    "published_at": 1794561420,
-    "title_hu": "Kidőlt fa szakította le a felsővezetéket Bicske alsón, fennakadás van a győri fővonalon",
-    "lead_hu": "Pótlóbuszok szállítják az utasokat.",
-    "content_hu": "Pótlóbuszok szállítják az utasokat.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_7b6194f3ff",
-    "slug": "navracsics-tibor-nem-vettem-reszt-vegrehajtok-kine-7b6194",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/tuzson-bence-e1794557037784-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Navracsics Tibor: „Nem vettem részt végrehajtók kinevezésében”",
-        "link": "https://24.hu/belfold/2026/11/13/navracsics-tibor-nem-vettem-reszt-vegrehajtok-kinevezeseben/"
-      }
-    ],
-    "published_at": 1794561397,
-    "title_hu": "Navracsics Tibor: „Nem vettem részt végrehajtók kinevezésében”",
-    "lead_hu": "Az árverési visszaélésekkel kapcsolatban milyen konkrét intézkedéseket tett? The post Navracsics Tibor: „Nem vettem részt végrehajtók kinevezésében” first appeared on 24.hu.",
-    "content_hu": "Az árverési visszaélésekkel kapcsolatban milyen konkrét intézkedéseket tett? The post Navracsics Tibor: „Nem vettem részt végrehajtók kinevezésében” first appeared on 24.hu.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
