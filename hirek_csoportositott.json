@@ -16,63 +16,6 @@
     ]
   },
   {
-    "group_id": "group_ca34b08243",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Fennakadt egy kamion a csongrádi pontonhídon, több mint egy napig szünetelt a forgalom",
-        "link": "https://index.hu/belfold/2026/11/13/csongrad-lezaras-kamion-bedo-tamas-pontonhid-magyar-kozut-forgalom/",
-        "image": "https://kep.index.hu/1/0/7253/72535/725353/72535301_5344819_ad0a1f3b12f73ce0db9a788c5406e816_wm.jpg",
-        "summary": "A sofőr figyelmen kívül hagyta a súlykorlátozást.",
-        "category": "Általános",
-        "published_at": 1794547260
-      }
-    ]
-  },
-  {
-    "group_id": "group_22baacccc1",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megvan a Manchester United új menedzsere, Szoboszlaiék ellen debütál november 22-én",
-        "link": "https://index.hu/sport/futball/2026/11/13/manchester-united-mauricio-pochettino-menedzser-michael-carrick/",
-        "image": "https://kep.index.hu/1/0/7253/72535/725353/72535383_5344825_4292f9dced2f8e7809445ac38bf6403b_wm.jpg",
-        "summary": "Mauricio Pochettino 2029 júniusáig ír alá.",
-        "category": "Általános",
-        "published_at": 1794547140
-      }
-    ]
-  },
-  {
-    "group_id": "group_03c6135065",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Szenátusi és képviselőházi bizottságok is meghallgatnák a kémnő-botrányba belebukott Jensen Huangot, az Nvidia (már csak volt) vezérét",
-        "link": "https://444.hu/2026/11/13/szenatusi-es-kepviselohazi-bizottsagok-is-meghallgatnak-a-kemno-botranyba-belebukott-jensen-huangot-az-nvidia-mar-csak-volt-vezeret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Nem az Nvidia ex-vezérének nagy napjai ezek.",
-        "category": "Politika",
-        "published_at": 1794547245
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Itt a vége: belebukott a kínai kémbotrányba a világ egyik legértékesebb cégének vezetője, nő az utódja",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/kinai-kembotrany-techszektor-nvidia-huang-kress?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/OQp57NTROCDAi30kG24XXhtjC_94N7aXXg87iSF5MIk/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvNzVjMDgyNzk5YWFhYmQzN2Q4NTI0OTdkMzUwMDY5ODllNjk2Y2FhNTIxMGYxMTc3NDViNmQ4Nzk2ZWM4Y2IyOA.jpg",
-        "summary": "Az Nvidia a botrány kirobbanása óta 500 milliárd dollárt, az elmúlt két hétben ezermilliárdot veszített az értékéből.",
-        "category": "Politika",
-        "published_at": 1794567535
-      }
-    ]
-  },
-  {
     "group_id": "group_0db451552b",
     "category": "Politika",
     "articles_count": 11,
@@ -5066,6 +5009,22 @@
     ]
   },
   {
+    "group_id": "group_03c6135065",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Itt a vége: belebukott a kínai kémbotrányba a világ egyik legértékesebb cégének vezetője, nő az utódja",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/kinai-kembotrany-techszektor-nvidia-huang-kress?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/OQp57NTROCDAi30kG24XXhtjC_94N7aXXg87iSF5MIk/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvNzVjMDgyNzk5YWFhYmQzN2Q4NTI0OTdkMzUwMDY5ODllNjk2Y2FhNTIxMGYxMTc3NDViNmQ4Nzk2ZWM4Y2IyOA.jpg",
+        "summary": "Az Nvidia a botrány kirobbanása óta 500 milliárd dollárt, az elmúlt két hétben ezermilliárdot veszített az értékéből.",
+        "category": "Politika",
+        "published_at": 1794567535
+      }
+    ]
+  },
+  {
     "group_id": "group_51301abe60",
     "category": "Politika",
     "articles_count": 1,
@@ -6872,7 +6831,7 @@
   {
     "group_id": "group_7e48c950f9",
     "category": "Bulvár",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -6891,6 +6850,15 @@
         "summary": "Csak pár napja derült ki, hogy Müller Péter nősülni fog, most nyilvánosságra hozta, hogy szakítottak fiatalabb párjával.",
         "category": "Bulvár",
         "published_at": 1794584065
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Müller Péterék lefújták az esküvőt, az író szakított menyasszonyával",
+        "link": "https://index.hu/fomo/2026/11/14/muller-peter-iro-eskuvo-hazassag-szakitas/",
+        "image": "https://kep.index.hu/1/0/7254/72544/725449/72544995_5345483_a188c3c9bbaaa851c9a1c3017c1b7b61_wm.jpg",
+        "summary": "Káros szenvedélyeiről is beszélt.",
+        "category": "Általános",
+        "published_at": 1794633540
       }
     ]
   },
@@ -8465,7 +8433,7 @@
         "image": "",
         "summary": "Amikor odakint egyre hidegebbre fordul az idő, különösen jólesik magunk mögött hagyni a hétköznapok rohanását, és átadni magunkat a gondtalan pihenésnek. Ki mondta, hogy a fürdőzés csak nyáron az igazi? Nyíregyházán, a festői Sóstógyógyfürdő szívében található Aquarius Élményfürdőben a hideg hónapokban is garantált a feltöltődés, legyen szó családi kalandokról, romantikus pihenésről vagy egy kis énidőről. The post Téli élmények, amelyek felmelegítik a hétköznapokat – irány Nyíregyháza! first appeared on nlc.",
         "category": "Bulvár",
-        "published_at": 1794633340
+        "published_at": 1794633768
       }
     ]
   },
@@ -11361,7 +11329,7 @@
   {
     "group_id": "group_2db58f3b75",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -11371,6 +11339,15 @@
         "summary": "Szűkszavú közleményben reagált az esti órákban a volt kormánypárt az erdőben előásott milliárdok hírére. The post Fidesz: Bízunk benne, hogy a képeknek semmi közük Seszták Miklóshoz first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1794610114
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Késő éjszaka megszólalt a Fidesz az NVVH által közzétett képekről: bíznak benne, hogy azoknak semmi közük Seszták Miklóshoz",
+        "link": "https://www.vg.hu/kozelet/2026/11/sesztak-miklos-nvvh-fidesz-elasott-milliardok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/5UmT3sDNeiHc2hSrkz7xUHWl97ymvXD6BDJiRqzpD4c/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZjNzE0ZWY1ZmQ2ODRiYTM4ODc5OTRmYWM2OTUyZmJj.jpg",
+        "summary": "Megszólalt a Fidesz–KDNP az NVVH által közzétett képek kapcsán, hangsúlyozva, hogy minden választott képviselőnek kötelessége betartani és betartatni a törvényeket. A pártszövetség közölte: bíznak abban, hogy a nyilvánosságra hozott felvételeknek semmi közük Seszták Miklóshoz.",
+        "category": "Politika",
+        "published_at": 1794633551
       }
     ]
   },
@@ -11690,7 +11667,7 @@
         "image": "https://raketa.hu/uploads/2025/03/Mivel-foglalkozik-egy-etikus-hacker-promanconsulting.hu-raketa.hu2_.jpg",
         "summary": "Derítsd ki, mennyire vagy biztonságban az interneten: vajon digitális erődítményt építettél magad köré, vagy itt az ideje egy alapos biztonsági frissítésnek?",
         "category": "Kultúra",
-        "published_at": 1794633339
+        "published_at": 1794633768
       }
     ]
   },
@@ -11899,6 +11876,22 @@
         "summary": "Tán a a teheráni rezsim áll az akció mögött. The post Drónt látott és óvóhelyre menekült az amerikai légierő angliai támaszpontjának személyzete first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1794632854
+      }
+    ]
+  },
+  {
+    "group_id": "group_73f3131a79",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Rühfertőzés a Szent János kórházban: „megtettük a fertőzés továbbterjedésének megakadályozását”",
+        "link": "https://24.hu/belfold/2026/11/14/ruhfertozes-szent-janos-korhaz/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-0783351670-e1794633322162-1024x576.jpg",
+        "summary": "A Blikk egy olvasóján keresztül tudta meg, hogy rüh ütötte fel a fejét az Észak-budai Szent János Centrumkórház pszichiátriai rehabilitációs osztályán. The post Rühfertőzés a Szent János kórházban: „megtettük a fertőzés továbbterjedésének megakadályozását” first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794633423
       }
     ]
   }
