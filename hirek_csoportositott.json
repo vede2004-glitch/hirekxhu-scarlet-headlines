@@ -1,168 +1,5 @@
 [
   {
-    "group_id": "group_b893209b7b",
-    "category": "Általános",
-    "articles_count": 10,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
-        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-fennakadas-teams-outlook-copilot/",
-        "image": "https://kep.index.hu/1/0/7253/72535/725357/72535721_5344849_7e3fa4506e88e2f53c7ffb26e344ed29_wm.jpg",
-        "summary": "A hiba elhárítása nem a várakozásoknak megfelelően alakul.",
-        "category": "Általános",
-        "published_at": 1794548340
-      },
-      {
-        "source": "444.hu",
-        "title": "Órákra leálltak a Microsoft szolgáltatásai, világszerte akadozott az Outlook és a Teams",
-        "link": "https://444.hu/2026/11/13/orakra-lealltak-a-microsoft-szolgaltatasai-vilagszerte-akadozott-az-outlook-es-a-teams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Vállalatok és kormányzati szervek egyaránt érintettek voltak, főként az Egyesült Államokban, valamint az ázsiai és csendes-óceáni térségben.",
-        "category": "Politika",
-        "published_at": 1794548440
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának leállása",
-        "link": "https://nlc.hu/csalad/20261113/microsoft-leallas/5j3e5kr",
-        "image": "",
-        "summary": "Világszerte akadoznak a Microsoft szolgáltatásai. A techvállalat szerint egy szoftverfrissítéssel függhet össze a globális leállás. The post Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának leállása first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794556620
-      },
-      {
-        "source": "Femina",
-        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
-        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/",
-        "image": "https://femina.hu/neon/media/renditions/437/437715/23b309287f17aada.jpg",
-        "summary": "Legalább 74 országban okozott problémát a leállás.",
-        "category": "Bulvár",
-        "published_at": 1794562252
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
-        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b4cf25dd-2ea2-4981-9a47-5435f01ec1e5.jpg",
-        "summary": "Története egyik legsúlyosabb leállásával néz szembe a Microsoft, amely komolyan érinti a cég szolgáltatásaira támaszkodó szervezeteket is.",
-        "category": "Kultúra",
-        "published_at": 1794567631
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Világszerte leállt a Microsoft, már kórházakat és segélyhívókat is érint a probléma",
-        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-szerverek-teams-word-excel-outlook/",
-        "image": "https://kep.index.hu/1/0/7254/72540/725401/72540191_5345169_00ffbd453e944571743a5238c0c71d1e_wm.jpg",
-        "summary": "A vállalat egyelőre kizárta a kibertámadás lehetőségét.",
-        "category": "Általános",
-        "published_at": 1794571440
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Mitől omlottak össze a Microsoft szolgáltatásai?",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-365-leallas-outlook",
-        "image": "https://assets.telex.hu/images/20261113/1794572656-temp-pohj9bleq0oh2gfglmh_cimlap-normal.jpg",
-        "summary": "A technikai háttér egyelőre homályos, de csütörtök este egy sor Microsoft-szolgáltatás leállt, világszerte sok cég gyakorlatilag elvesztett egy munkanapot azzal, hogy a dolgozói nem tudtak emailezni vagy online meetingelni.",
-        "category": "Politika",
-        "published_at": 1794573509
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
-        "link": "https://www.vadhajtasok.hu/2026/11/13/globalis-leallas-a-microsoftnal-74-orszagban-akadozik-az-outlook-es-a-teams-is",
-        "image": "",
-        "summary": "Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának európai idő szerint csütörtök délután kezdődött leállása. Az amerikai techvállalat közlése szerint fokozott erővel dolgoznak azon, hogy mérsékeljék a károkat, de a legfriss...",
-        "category": "Politika",
-        "published_at": 1794577740
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
-        "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas",
-        "image": "https://assets.telex.hu/images/20261113/1794592971-temp-har0dpgu6ak65fpnfcl_cimlap-normal.jpg",
-        "summary": "Egy amerikai fogdában például az óvadékok befizetése akadozott, brit kórházakban pedig visszatértek a papíralapú dokumentációhoz.",
-        "category": "Politika",
-        "published_at": 1794594158
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Százmillió dolláros kár és kaotikus állapotok: bénító szoftverhiba rázta meg a világgazdaságot",
-        "link": "https://www.portfolio.hu/gazdasag/20261113/szazmillio-dollaros-kar-es-kaotikus-allapotok-benito-szoftverhiba-razta-meg-a-vilaggazdasagot-876408",
-        "image": "https://pcdn.hu/articles/images-xl/m/i/c/microsoft-logo-felhoszoftver-500104.jpg",
-        "summary": "Közel huszonnégy órán át tartó súlyos üzemzavar után pénteken végre helyreállni látszott a Microsoft Outlook és a Teams működése. A globális leállás szinte teljesen megbénította az online kommunikációt, így több szervezet kénytelen volt visszatérni a fax használatához, és legalább egy európai kötvény-visszavásárlási tranzakciót is le kellett állítani a fennakadások miatt - foglalta össze a Reuters.",
-        "category": "Gazdaság",
-        "published_at": 1794598980
-      }
-    ]
-  },
-  {
-    "group_id": "group_628ef1ca43",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Kinizsi Ottó a Barátok közt szépfiújaként hódította meg az országot: 44 évesen totál ősz hajjal így néz ki",
-        "link": "https://femina.hu/hazai_sztar/kinizsi-otto-baratok-kozt-szepfiu-osz-haj-44-evesen/",
-        "image": "https://femina.hu/neon/media/images/kinizsi_otto_cover1.2e16d0ba.format-jpeg.fill-1024x768.jpg",
-        "summary": "Kinizsi Ottó ma már nagyon másképp fest, mint annak idején a Barátok köztben.",
-        "category": "Bulvár",
-        "published_at": 1794548400
-      }
-    ]
-  },
-  {
-    "group_id": "group_2b6c5a1981",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Csodák és csodavárások",
-        "link": "https://444.hu/2026/11/13/csodak-es-csodavarasok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Törvények a nők védelmében, remek fotók a NER-ről, előkerülő Orbán és nemzetközi bonyodalmak: itt a 444 napindító hírlevele az elmúlt nap legfontosabb cikkeivel.",
-        "category": "Politika",
-        "published_at": 1794548333
-      }
-    ]
-  },
-  {
-    "group_id": "group_e78601c09e",
-    "category": "Bulvár",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ókovács Szilveszter a tiltás ellenére is kimegy a Georgia–Magyarország meccsre",
-        "link": "https://nlc.hu/csalad/20261113/okovacs-szilveszter-szurkolas-focimeccs-tbiliszi/edeey4q",
-        "image": "",
-        "summary": "Ókovács Szilveszter a tiltás ellenére is kilátogat a magyar labdarúgó-válogatott szombati, Tbilisziben rendezett Nemzetek Ligája-mérkőzésére. Bízik abban, hogy nem verik majd meg a hazai szurkolók között. The post Ókovács Szilveszter a tiltás ellenére is kimegy a Georgia–Magyarország meccsre first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1794548220
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Ókovács Szilveszter az UEFA-tiltás ellenére is ott akar lenni a magyar válogatott meccsén Tbilisziben",
-        "link": "https://24.hu/elet-stilus/2026/11/13/okovacs-szilveszter-uefa-tiltas-magyar-georgia-meccs-tbiliszi/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1140533278-e1794558071992-1024x577.jpg",
-        "summary": "„Mennyire leszek megverve egyetlen magyar drukkerként a grúzok között?!” – tette fel a kérdést a volt operaigazgató. The post Ókovács Szilveszter az UEFA-tiltás ellenére is ott akar lenni a magyar válogatott meccsén Tbilisziben first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1794558118
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Ókovács: „Mennyire leszek megverve?” – az UEFA-tiltás ellenére kétszáz magyar Georgiában",
-        "link": "https://magyarnemzet.hu/sport/2026/11/magyar-szurkolok-tibiliszi-uefa-tiltas-georgia-okovacs?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/9e4vtFBtVUexsMOCuzFy8Y0GWU41jHCW6dVls9e3PLM/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvMjNhZmE0MjgzYmE3NWRmZjFjZTkyNzZmNDNhMzE3YzIyZmZkMzlmZGE3YThjODRiYWNkNjYzODA2NDI1OTEyNw.jpg",
-        "summary": "Hiába a büntetés, a szurkolók elkísérik a válogatottat Tibiliszibe, az Operaház menesztett főigazgatója is a lelátóra készül.",
-        "category": "Politika",
-        "published_at": 1794564696
-      }
-    ]
-  },
-  {
     "group_id": "group_8b44905742",
     "category": "Politika",
     "articles_count": 2,
@@ -2653,6 +2490,85 @@
     ]
   },
   {
+    "group_id": "group_b893209b7b",
+    "category": "Bulvár",
+    "articles_count": 8,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának leállása",
+        "link": "https://nlc.hu/csalad/20261113/microsoft-leallas/5j3e5kr",
+        "image": "",
+        "summary": "Világszerte akadoznak a Microsoft szolgáltatásai. A techvállalat szerint egy szoftverfrissítéssel függhet össze a globális leállás. The post Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának leállása first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1794556620
+      },
+      {
+        "source": "Femina",
+        "title": "Globális Microsoft-leállás: százezreknél bénult meg a Outlook és a Teams, így áll most a helyreállítás",
+        "link": "https://femina.hu/terasz/microsoft-leallas-outlook-teams-helyreallitas/",
+        "image": "https://femina.hu/neon/media/renditions/437/437715/23b309287f17aada.jpg",
+        "summary": "Legalább 74 országban okozott problémát a leállás.",
+        "category": "Bulvár",
+        "published_at": 1794562252
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Leállás a Microsoftnál: cégek, segélyhívó-központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
+        "link": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b4cf25dd-2ea2-4981-9a47-5435f01ec1e5.jpg",
+        "summary": "Története egyik legsúlyosabb leállásával néz szembe a Microsoft, amely komolyan érinti a cég szolgáltatásaira támaszkodó szervezeteket is.",
+        "category": "Kultúra",
+        "published_at": 1794567631
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Világszerte leállt a Microsoft, már kórházakat és segélyhívókat is érint a probléma",
+        "link": "https://index.hu/techtud/2026/11/13/microsoft-leallas-szerverek-teams-word-excel-outlook/",
+        "image": "https://kep.index.hu/1/0/7254/72540/725401/72540191_5345169_00ffbd453e944571743a5238c0c71d1e_wm.jpg",
+        "summary": "A vállalat egyelőre kizárta a kibertámadás lehetőségét.",
+        "category": "Általános",
+        "published_at": 1794571440
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Mitől omlottak össze a Microsoft szolgáltatásai?",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-365-leallas-outlook",
+        "image": "https://assets.telex.hu/images/20261113/1794572656-temp-pohj9bleq0oh2gfglmh_cimlap-normal.jpg",
+        "summary": "A technikai háttér egyelőre homályos, de csütörtök este egy sor Microsoft-szolgáltatás leállt, világszerte sok cég gyakorlatilag elvesztett egy munkanapot azzal, hogy a dolgozói nem tudtak emailezni vagy online meetingelni.",
+        "category": "Politika",
+        "published_at": 1794573509
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Globális leállás a Microsoftnál: 74 országban akadozik az Outlook és a Teams is",
+        "link": "https://www.vadhajtasok.hu/2026/11/13/globalis-leallas-a-microsoftnal-74-orszagban-akadozik-az-outlook-es-a-teams-is",
+        "image": "",
+        "summary": "Világszerte fennakadásokat okozott a Microsoft több szolgáltatásának európai idő szerint csütörtök délután kezdődött leállása. Az amerikai techvállalat közlése szerint fokozott erővel dolgoznak azon, hogy mérsékeljék a károkat, de a legfriss...",
+        "category": "Politika",
+        "published_at": 1794577740
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
+        "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas",
+        "image": "https://assets.telex.hu/images/20261113/1794592971-temp-har0dpgu6ak65fpnfcl_cimlap-normal.jpg",
+        "summary": "Egy amerikai fogdában például az óvadékok befizetése akadozott, brit kórházakban pedig visszatértek a papíralapú dokumentációhoz.",
+        "category": "Politika",
+        "published_at": 1794594158
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Százmillió dolláros kár és kaotikus állapotok: bénító szoftverhiba rázta meg a világgazdaságot",
+        "link": "https://www.portfolio.hu/gazdasag/20261113/szazmillio-dollaros-kar-es-kaotikus-allapotok-benito-szoftverhiba-razta-meg-a-vilaggazdasagot-876408",
+        "image": "https://pcdn.hu/articles/images-xl/m/i/c/microsoft-logo-felhoszoftver-500104.jpg",
+        "summary": "Közel huszonnégy órán át tartó súlyos üzemzavar után pénteken végre helyreállni látszott a Microsoft Outlook és a Teams működése. A globális leállás szinte teljesen megbénította az online kommunikációt, így több szervezet kénytelen volt visszatérni a fax használatához, és legalább egy európai kötvény-visszavásárlási tranzakciót is le kellett állítani a fennakadások miatt - foglalta össze a Reuters.",
+        "category": "Gazdaság",
+        "published_at": 1794598980
+      }
+    ]
+  },
+  {
     "group_id": "group_b2156f466c",
     "category": "Politika",
     "articles_count": 1,
@@ -2665,6 +2581,31 @@
         "summary": "Ha ön nincs, akkor Magyar Péter nem látja saját szemével, mi folyt itt 16 éven át jó cselekedetek címén. Publicistánk most hálát ad a volt miniszternek.",
         "category": "Politika",
         "published_at": 1794557993
+      }
+    ]
+  },
+  {
+    "group_id": "group_e78601c09e",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ókovács Szilveszter az UEFA-tiltás ellenére is ott akar lenni a magyar válogatott meccsén Tbilisziben",
+        "link": "https://24.hu/elet-stilus/2026/11/13/okovacs-szilveszter-uefa-tiltas-magyar-georgia-meccs-tbiliszi/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1140533278-e1794558071992-1024x577.jpg",
+        "summary": "„Mennyire leszek megverve egyetlen magyar drukkerként a grúzok között?!” – tette fel a kérdést a volt operaigazgató. The post Ókovács Szilveszter az UEFA-tiltás ellenére is ott akar lenni a magyar válogatott meccsén Tbilisziben first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1794558118
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ókovács: „Mennyire leszek megverve?” – az UEFA-tiltás ellenére kétszáz magyar Georgiában",
+        "link": "https://magyarnemzet.hu/sport/2026/11/magyar-szurkolok-tibiliszi-uefa-tiltas-georgia-okovacs?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/9e4vtFBtVUexsMOCuzFy8Y0GWU41jHCW6dVls9e3PLM/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTMvMjNhZmE0MjgzYmE3NWRmZjFjZTkyNzZmNDNhMzE3YzIyZmZkMzlmZGE3YThjODRiYWNkNjYzODA2NDI1OTEyNw.jpg",
+        "summary": "Hiába a büntetés, a szurkolók elkísérik a válogatottat Tibiliszibe, az Operaház menesztett főigazgatója is a lelátóra készül.",
+        "category": "Politika",
+        "published_at": 1794564696
       }
     ]
   },
@@ -5296,7 +5237,7 @@
   {
     "group_id": "group_d854785c8c",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Magyar Nemzet",
@@ -5306,6 +5247,15 @@
         "summary": "Elbagatellizálta a miniszterelnök a drágulási fordulatot, és az előző kabinet árletörő intézkedéseinek hatásait állította be saját kormányzati sikerként.",
         "category": "Politika",
         "published_at": 1794569884
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Valóban hátradőlhetünk, tényleg nem fog egyhamar visszatérni a nagy infláció?",
+        "link": "https://hvg.hu/360/20261114_inflacio-arak-dragulas-aremelkedes-elemzok",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a41580fb-71d2-4f28-905b-767ea5f3a6fa.jpg",
+        "summary": "Megnyugtató számokat látunk az inflációról, miközben pár éve még az árak száguldása volt a magyar gazdaság egyik legsúlyosabb baja. Elemzőket kérdeztünk arról, milyenek az esélyek, hogy hosszabb távon is visszafogott maradjon az áremelkedés.",
+        "category": "Gazdaság",
+        "published_at": 1794634800
       }
     ]
   },
@@ -8326,7 +8276,7 @@
         "image": "",
         "summary": "Amikor odakint egyre hidegebbre fordul az idő, különösen jólesik magunk mögött hagyni a hétköznapok rohanását, és átadni magunkat a gondtalan pihenésnek. Ki mondta, hogy a fürdőzés csak nyáron az igazi? Nyíregyházán, a festői Sóstógyógyfürdő szívében található Aquarius Élményfürdőben a hideg hónapokban is garantált a feltöltődés, legyen szó családi kalandokról, romantikus pihenésről vagy egy kis énidőről. The post Téli élmények, amelyek felmelegítik a hétköznapokat – irány Nyíregyháza! first appeared on nlc.",
         "category": "Bulvár",
-        "published_at": 1794634611
+        "published_at": 1794635026
       }
     ]
   },
@@ -11842,6 +11792,70 @@
         "summary": "2050-ig szóló tervet dolgoz ki a kormány.",
         "category": "Politika",
         "published_at": 1794634140
+      }
+    ]
+  },
+  {
+    "group_id": "group_020de8a4cf",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Üres lelátók, gazdátlan tízes mez, hazai vereség – keservesen indult a Messi utáni korszak Argentínában",
+        "link": "https://index.hu/sport/futball/2026/11/14/la-bombonera-vereseg-argentina-messi-nelkul-uruguaytol/",
+        "image": "https://kep.index.hu/1/0/7254/72546/725468/72546887_5345601_a364b0ef118c9949870bf1ba5b1fff21_wm.jpg",
+        "summary": "A Diego Forlán vezette Uruguay 2-1-re győzött a La Bombonerában.",
+        "category": "Sport",
+        "published_at": 1794634860
+      }
+    ]
+  },
+  {
+    "group_id": "group_5ae28f134c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Hétvégi olvasnivalók Orbán Áron bukásáról, elásott milliárdokról, hibákról, tűzoltásokról és hasonlóakról",
+        "link": "https://444.hu/2026/11/14/hetvegi-olvasnivalok-orban-aron-bukasarol-elasott-milliardokrol-hibakrol-tuzoltasokrol-es-hasonloakrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Elképesztő hét után érkezik a 444 napindító hírlevelének hétvégi kiadása.",
+        "category": "Politika",
+        "published_at": 1794634594
+      }
+    ]
+  },
+  {
+    "group_id": "group_9a608f86fe",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "A győri kézilabdaszurkolók segélyeire is számít a csőd felé menetelő hétszeres BL-győztes csapat",
+        "link": "https://magyarnemzet.hu/sport/2026/11/kezilabda-gyori-audi-eto-kc-szurkolok-tamogatas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/5VwNpuQvWQFe4lS7Of9XH-sBIpVeDdArAOGSBnqjhlc/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTQvNWQzMjBmZTk2Nzg2ZDBjNTIxMzU4MmUzMjExNWQyMDgzN2JkMWM3NDYxMzA3NTdiMjA1MGYyMGY5YTJiMTJiZg.jpg",
+        "summary": "Máskülönben miért tették volna közzé a klub bankszámlaszámát a sajtóban?",
+        "category": "Politika",
+        "published_at": 1794634828
+      }
+    ]
+  },
+  {
+    "group_id": "group_41471127de",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Budapest–Belgrád vasútvonal: váratlan bejelentést tett Vitézy Dávid, a kínaiaknak javítaniuk kell a rendszert – már a decemberi indulást is elhalasztják, nincs új dátum",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/budapest-belgrad-vasutvonal-vitezy-david-felujtas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/yJlEctqTr_xoNP1Glfsva3wyKsrY8FP1Oo2hcLN7mSk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MxNmViNTNmZGVjNTRiYjBhMzhhOTg3YzVkNmY2ZjA0.jpg",
+        "summary": "Egyelőre azt sem tudni, pontosan mikor indulhat meg az utasforgalom.",
+        "category": "Gazdaság",
+        "published_at": 1794634719
       }
     ]
   }
