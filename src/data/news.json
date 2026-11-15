@@ -155,7 +155,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 8,
+    "sources_count": 9,
     "sources": [
       {
         "source": "ATV",
@@ -196,13 +196,18 @@
         "source": "ATV",
         "title": "„Nem elégszünk meg hatmilliárd forinttal” – megszólalt Unger Anna, újabb letartóztatások jöhetnek",
         "link": "https://www.atv.hu/belfold/20261115/unger-anna-sesztak-milliardok/"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Nem tudja az NVVH vezetője, hogy Seszták Miklósé-e az a nagy mennyiségű készpénz, amit megtaláltak",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/sesztak-miklos-nvvh-unger-anna-keszpenz"
       }
     ],
     "published_at": 1794771240,
     "title_hu": "Nem tisztázott, kié a Seszták-eljárásban lefoglalt milliárdos vagyon",
     "lead_hu": "Az NVVH november 12-én és 13-án több helyszínen összesen mintegy 6,5 milliárd forintnyi készpénzt talált a Seszták Miklóshoz kapcsolódó büntetőeljárásban. A hivatal szerint egyelőre sem a pénz tulajdonosa, sem az nem bizonyított, hogy az összeg része lenne a korábban emlegetett 9 milliárd forintnak.",
     "content_hu": "• **Két nap alatt mintegy 6,5 milliárd forintnyi készpénz került elő:** a megtalált összeg több mint 5 milliárd forintból, 2,6 millió euróból és 1,2 millió dollárból állt. Az NVVH munkatársai november 12-én és 13-án dolgoztak a helyszíneken.\n\n• **A pénz különböző típusú rejtekhelyeken volt:** erdőben elásva, mezőgazdasági és raktárépületekben, lakóingatlanban, széfben, valamint egy madáretetőben is találtak bankjegyeket. A helyszínek nem feltétlenül köthetők egy adott személyhez.\n\n• **A vagyon tulajdonosa és eredete még nem ismert:** Unger Anna szerint a pénz a Seszták Miklóshoz kapcsolódó eljárás nyomozati cselekménye során került elő, de az NVVH nem állította, hogy az összeg Sesztáké, vagy hogy azonos lenne a korábban neki tulajdonított 9 milliárd forinttal.\n\n• **A nyomozók nem fedték fel, honnan szerezték a helyszínekre vonatkozó információkat:** Unger közlése szerint a részletek nyilvánosságra hozatala hátráltathatná a folyamatban lévő nyomozást. Fülöp Botond ügyvéd lehetségesnek nevezte, hogy a rejtekhelyeket ismerő személy vallomása segítette a hatóságokat, de ez nem megerősített információ.\n\n• **A pénz megszámolása péntek este, körülbelül hét órakor fejeződött be:** a nyomozók csütörtök reggel kezdték a munkát, és járművel haladtak egyik helyszínről a másikra. A készpénzt fegyveres rendőrök vitték központi raktárba, ahol éjszaka a NAV felügyelt rá.\n\n• **A lefoglalt összeg hatósági letéti számlára került:** a pénz az eljárás lezárásáig nem költhető el. A tulajdonjog megállapítása a későbbi bizonyítási eljárás feladata.\n\n• **Az NVVH egy másik ügyben is nyomozást folytat:** Unger Anna az Orbán Áron letartóztatásával összefüggő, hivatali vesztegetés gyanúját érintő eljárásról is beszélt; a hivatal azt vizsgálja, miként használhattak politikai kapcsolatokat speciális vízumok megszerzésének elősegítésére.",
-    "importance_score": 95.0,
+    "importance_score": 105.0,
     "top_rank": 2,
     "is_top_hero": false,
     "is_top_list": true
@@ -747,6 +752,47 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_56d589a96b",
+    "slug": "politikusok-is-reagaltak-a-sesztak-ugyben-talalt-keszpenzre-56d589",
+    "tags": [
+      "sesztak-ugy",
+      "tuzson-bence",
+      "orban-viktor",
+      "nyomozas"
+    ],
+    "fingerprint": "e91c9d18a36beb48212465ed8f1d218f",
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/MHEIHx5pXn2aX0Hx_KwvxXndK_vMZKMH8w6DzVQOgsQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzYzFiYjAzMjk4YjRmZGM5Yjg4OWNhYmQ4MjgxODIx.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Orbán Viktor volt minisztere kétségbe vonja a Seszták-ügyben talált milliárdok sztoriját: szerinte figyelemelterelésről van szó, az egész egy \"meseszerű történet\"",
+        "link": "https://www.vg.hu/kozelet/2026/11/orban-viktor-sesztak-miklos-unger-unger-anna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "ATV",
+        "title": "A Vidéki prókátor Orbánról: „Vállalhatatlan figura lett, egy közös fotó is súlyos kockázattal jár”",
+        "link": "https://www.atv.hu/belfold/20261115/videki-prokator-orban-velemeny/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Orbán Viktoron kívül már gyakorlatilag mindenki elmondta, mit gondol a Seszták-ügy milliárdjairól",
+        "link": "https://hvg.hu/itthon/20261115_sesztak-miklos-nvvh-hatmilliard-reakciok"
+      }
+    ],
+    "published_at": 1794772200,
+    "title_hu": "Politikusok is reagáltak a Seszták-ügyben talált készpénzre",
+    "lead_hu": "A Seszták Miklóshoz kapcsolódó büntetőeljárásban több milliárd forint készpénzt találtak, részben erdőkben elrejtve. Tuzson Bence volt igazságügyi miniszter és Fülöp Botond ügyvéd eltérő politikai következtetéseket fogalmazott meg az üggyel kapcsolatban.",
+    "content_hu": "• **A nyomozás során talált pénz** A november 12-én és 13-án végrehajtott kutatásokon összesen 5,07 milliárd forint készpénzt foglaltak le; a pénz egy részét erdőkben ásták el.\n\n• **Tuzson Bence kételyei** A volt igazságügyi miniszter szerint a nyilvánosságra került információk alapján még nem lehet megítélni az ügy részleteit. A lefoglalt pénz kezelésének módját is kérdésesnek nevezte.\n\n• **Politikai értelmezések** Tuzson felvetette, hogy az ügy fejleményei elterelhetik a figyelmet Magyar Péter számára kellemetlen témákról. Fülöp Botond ügyvéd úgy vélekedett, hogy a történtek Orbán Viktor nyugati szövetségesei körében is politikai kockázatot jelentenek.",
+    "importance_score": 45.0,
+    "top_rank": 14,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_a67023769f",
     "slug": "ronaldinho-46-evesen-11-ev-utan-jatszott-ujra-tetmeccsen-a67023",
     "tags": [
@@ -783,7 +829,7 @@
     "lead_hu": "Ronaldinho november 15-én a Ravenna kezdőjátékosaként tért vissza a hivatalos mérkőzésekhez, és egy félidőt játszott a Forli ellen. Csapata 2–0-ra nyert, a brazil futballista pedig az első gól előkészítésében is közreműködött.",
     "content_hu": "• **A visszatérés** Ronaldinho 46 évesen és 239 naposan, 4068 nap kihagyás után szerepelt újra tétmérkőzésen. Legutóbb 2015. szeptember 26-án, a Fluminense játékosaként lépett pályára.\n\n• **A mérkőzés** A brazil a Ravenna kezdőcsapatában kapott helyet a Forli elleni találkozón, és a szünetben cserélték le. A csapat akkor 1–0-ra vezetett, majd 2–0-s győzelmet aratott.\n\n• **A gól előkészítése** Ronaldinho a tizenhatos előtt megtartotta, majd Lorenzo Lonardi felé továbbította a labdát; a támadás végén Giulio Donati szerzett gólt. Korábban egy szöglet után Donati fejeséből is helyzet alakult ki.\n\n• **A közönség és a közvetítés** A Stadio Bruno Benelli közel 12 ezer nézője telt házat jelentett, az érdeklődés miatt pedig ideiglenes lelátót is felállítottak. Az online közvetítést az első félidőben egy időben 80 ezren követték.\n\n• **A klubhoz való kötődése** Ronaldinho befektetőként is csatlakozott a Ravennához, amely elsőként viseli majd az általa elindított R10 sportmárka termékeit. A klubelnök, Ignazio Cipriani nyáron beszélte rá a visszatérésre; Ronaldinho jelezte, hogy újabb felkérés esetén ismét pályára lép.\n\n• **A felkészülés** Ronaldinho a mérkőzés előtti napon edzett először együtt új csapattársaival, ennek ellenére rögtön a kezdőcsapatba került.\n\n• **Pályafutása főbb eredményei** A brazil válogatottal 2002-ben világbajnokságot nyert, 2005-ben pedig Aranylabdát kapott. A Barcelonával két spanyol bajnoki címet és egy Bajnokok Ligáját, az AC Milannal olasz bajnoki címet szerzett.",
     "importance_score": 45.0,
-    "top_rank": 14,
+    "top_rank": 15,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -825,7 +871,7 @@
     "lead_hu": "Franciaországban ötödik egymást követő szombaton tartottak demonstrációkat a megélhetési költségek és a fiatalok helyzete miatt. A résztvevők számáról, valamint a párizsi előállításokról eltérő adatok láttak napvilágot; egy tüntető az elnökválasztásra gyakorolt hatásban is reménykedett.",
     "content_hu": "• **Részvételi adatok** A francia belügyminisztérium országosan 106 ezer, Párizsban 24 ezer résztvevőt becsült. A diákszervezetek ennél jóval nagyobb tömegről számoltak be: szerintük 200 ezren tüntettek országszerte, a fővárosban pedig 100 ezren. Az előző szombaton a hivatalos adatok 146 ezer országos és 46 ezer párizsi résztvevőt jeleztek.\n\n• **A tiltakozások okai** A demonstrációk a drágulás, az oktatás körülményei és a fiatalok támogatása köré szerveződtek; a résztvevők a rendőri fegyverhasználat tervezett szabályozását is kifogásolták. A tiltakozási hullám szeptember közepén indult párizsi elővárosi középiskolákban, ahol a diákok épületfelújítást és a tanárhiány enyhítését követelték.\n\n• **Rendőri intézkedések és eltérő adatok** A hatóságok országszerte 121 tüntetőt igazoltattak, és mintegy 70 ezer rendfenntartót vezényeltek ki. A párizsi ügyészségre hivatkozó beszámolók 22 előállított személyről, köztük három kiskorúról írtak, míg a Hír TV 45 letartóztatottról közölt adatot. Az intézkedések között szúrásra alkalmas eszköz birtoklása, sértegetés és a demonstráció szabályainak megsértése is szerepelt. Párizsban egy csoport tárgyakkal dobálta a rendőröket, akik könnygázt használtak.\n\n• **Újságírókat ért támadás Lyonban** A helyi hatóságok nyolcezer résztvevőt számoltak a városban, ahol az éghajlatvédelem és a fiatalok jogai is a demonstráció témái voltak. A BFMTV két újságíróból és két biztonsági emberből álló stábját támadás érte, a védelmükre rendőrök avatkoztak közbe. Egy szabadúszó újságíró szerint az egyik riportert megütötték, kameráját elvették és megrongálták, majd magukkal vitték; a megyei kormányhivatal súlyosnak minősítette az esetet.\n\n• **Minimálbér-emelés** A francia kormány december 1-jétől 1,6 százalékkal növeli a minimálbért, így a nettó összeg 23,65 euróval, 1502 euróra emelkedik. Sophie Binet, a CGT főtitkára kevésnek tartotta az intézkedést, és arra hívta fel a figyelmet, hogy az emelésből 18 euró a januárra tervezett automatikus korrekcióhoz kapcsolódik.\n\n• **Választási várakozás** A Hír TV beszámolója szerint egy tüntető abban bízott, hogy a demonstrációk befolyásolják a következő évi elnökválasztást, és baloldali jelölt kerülhet hatalomra.\n\n• **A rendőri szabályozás és a további demonstrációk** A rendőrök fegyverhasználatáról szóló javaslatot november 19-én tárgyalja a francia szenátus. A jobboldali és szélsőjobboldali pártok, köztük Marine Le Pen Nemzeti Tömörülése támogatják a tervezetet; a hatóságok november 21-re újabb megmozdulásokra készültek.",
     "importance_score": 45.0,
-    "top_rank": 15,
+    "top_rank": 16,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -866,7 +912,7 @@
     "lead_hu": "Izrael bejelentette, hogy légicsapásban megölte Szamír Abu Júniszt, a Hamász rafahi dandárjának vezetőjét; halálát a szervezet katonai szárnya is megerősítette. Abu Júniszt szeptember 15-én nevezték ki, és az izraeli hadsereg szerint korábban is több katonai tisztséget töltött be.",
     "content_hu": "• **A csapás és a halálos áldozatok** Négy rakéta csapódott be az Al-Vaha menekülttábor egyik sátránál, Al-Mavászi térségében. A támadás nyomán keletkezett tűzben egy ember meghalt, három sérültet a Nasszer kórházba vittek.\n\n• **Abu Júnisz kinevezése és korábbi tisztségei** Az 53 éves parancsnok 2023. szeptember 15-én került a rafahi dandár élére. Az izraeli hadsereg szerint korábban a dandár helyettes vezetője, valamint a Tel al-Szultán zászlóalj parancsnoka volt.\n\n• **Izrael vádjai** Az izraeli hadsereg és a belbiztonsági szolgálat közlése szerint Abu Júnisz támadásokat irányított izraeli civilek és katonák ellen, és részt vett a Hamász katonai képességeinek helyreállításában. Izrael a fenyegetés megszüntetésével indokolta a csapást.\n\n• **Szerepe az október 7-i támadásban** A Hamász szerint Abu Júnisz fontos szerepet vállalt a 2023. október 7-i izraeli támadás előkészítésében és irányításában. Az akcióban mintegy 1200 ember meghalt, 251 embert pedig túszul ejtettek.\n\n• **A háború gázai áldozatai** A gázai egészségügyi minisztérium adatai szerint a háború kezdete óta több mint 74 650 ember vesztette életét a palesztin területen. A tavaly októberben életbe lépett tűzszünet ellenére Izrael időről időre légicsapásokat hajt végre, közlése szerint a Hamász megmaradt fegyveresei ellen.",
     "importance_score": 38.0,
-    "top_rank": 16,
+    "top_rank": 17,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -907,42 +953,6 @@
     "lead_hu": "Soproni Tamás polgármester arra utasította a terézvárosi önkormányzati cégeket és intézményeket, hogy ne használjanak generatív AI-val készült képeket és videókat hivatalos kommunikációjukban. Az előírás azokra a feladatokra is kiterjed, amelyeket szakemberek saját tudásukkal hatékonyan el tudnak végezni; a megfelelő munkatárs nélküli intézményeknek a hivatal készít kreatív anyagokat.",
     "content_hu": "• **Polgármesteri utasítás** Soproni Tamás a terézvárosi önkormányzati cégektől és intézményektől azt kérte, hogy hivatalos kommunikációjukban ne alkalmazzanak generatív AI-val létrehozott képeket és videókat.\n\n• **A korlátozás hatóköre** Az utasítás azokra a tevékenységekre is vonatkozik, amelyeket szakemberek saját szaktudásukkal hatékonyan el tudnak látni. A polgármester példaként meghívókat, plakátokat, szórólapokat és rendezvényekhez kapcsolódó tájékoztató anyagokat említett.\n\n• **Érintett szakmák** Az önkormányzat szerint az AI által előállított tartalmak terjedése veszélyeztetheti többek között a szövegírók, fordítók, grafikusok, illusztrátorok, fotósok és szerkesztők munkáját; a pályakezdő fiatalok helyzetét is nehezítheti.\n\n• **Hivatali segítség** Azok az intézmények, ahol nincs megfelelő szakértelemmel rendelkező munkatárs a grafikai anyagok elkészítésére, a polgármesteri hivataltól kaphatnak támogatást. A közlemény óvodákat, bölcsődéket és szociális szolgáltatókat is megnevez.",
     "importance_score": 38.0,
-    "top_rank": 17,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_56d589a96b",
-    "slug": "politikusok-is-reagaltak-a-sesztak-ugyben-talalt-keszpenzre-56d589",
-    "tags": [
-      "sesztak-ugy",
-      "tuzson-bence",
-      "orban-viktor",
-      "nyomozas"
-    ],
-    "fingerprint": "e91c9d18a36beb48212465ed8f1d218f",
-    "category": "Politika",
-    "image": "https://cdn.vg.hu/2026/11/MHEIHx5pXn2aX0Hx_KwvxXndK_vMZKMH8w6DzVQOgsQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzYzFiYjAzMjk4YjRmZGM5Yjg4OWNhYmQ4MjgxODIx.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Orbán Viktor volt minisztere kétségbe vonja a Seszták-ügyben talált milliárdok sztoriját: szerinte figyelemelterelésről van szó, az egész egy \"meseszerű történet\"",
-        "link": "https://www.vg.hu/kozelet/2026/11/orban-viktor-sesztak-miklos-unger-unger-anna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "ATV",
-        "title": "A Vidéki prókátor Orbánról: „Vállalhatatlan figura lett, egy közös fotó is súlyos kockázattal jár”",
-        "link": "https://www.atv.hu/belfold/20261115/videki-prokator-orban-velemeny/"
-      }
-    ],
-    "published_at": 1794772200,
-    "title_hu": "Politikusok is reagáltak a Seszták-ügyben talált készpénzre",
-    "lead_hu": "A Seszták Miklóshoz kapcsolódó büntetőeljárásban több milliárd forint készpénzt találtak, részben erdőkben elrejtve. Tuzson Bence volt igazságügyi miniszter és Fülöp Botond ügyvéd eltérő politikai következtetéseket fogalmazott meg az üggyel kapcsolatban.",
-    "content_hu": "• **A nyomozás során talált pénz** A november 12-én és 13-án végrehajtott kutatásokon összesen 5,07 milliárd forint készpénzt foglaltak le; a pénz egy részét erdőkben ásták el.\n\n• **Tuzson Bence kételyei** A volt igazságügyi miniszter szerint a nyilvánosságra került információk alapján még nem lehet megítélni az ügy részleteit. A lefoglalt pénz kezelésének módját is kérdésesnek nevezte.\n\n• **Politikai értelmezések** Tuzson felvetette, hogy az ügy fejleményei elterelhetik a figyelmet Magyar Péter számára kellemetlen témákról. Fülöp Botond ügyvéd úgy vélekedett, hogy a történtek Orbán Viktor nyugati szövetségesei körében is politikai kockázatot jelentenek.",
-    "importance_score": 35.0,
     "top_rank": 18,
     "is_top_hero": false,
     "is_top_list": true
@@ -2178,6 +2188,32 @@
     "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_002947afd2",
+    "slug": "megorulnek-a-rajongok-a-milliardos-rksnoert-dgs-vrs-ruhaban-hoditott-a-szoke-bom-002947",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/11/kgT34f-XRuiKEgykUY-No9A2FJP87peW9UJW9794zZE/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzE1LzZmMzliYjgyYTZiNWNjOThmM2ZlNzhiNGQ4ZDQzNjdiMzliNDcwOGJmMDU0NWRkYzkxOTYzYjQyZGJhZjcwNmM.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Megőrülnek a rajongók a milliárdos örökösnőért: dögös vörös ruhában hódított a szőke bombázó",
+        "link": "https://borsonline.origo.hu/csajok/2026/11/gracie-hunt-modell-szepsegkiralyno-nfl"
+      }
+    ],
+    "published_at": 1794774600,
+    "title_hu": "Megőrülnek a rajongók a milliárdos örökösnőért: dögös vörös ruhában hódított a szőke bombázó",
+    "lead_hu": "Tűzpiros, testhez simuló ruhában hódított a milliárdos örökösnő, a rajongók pedig elaléltak. Gracie Hunt ismét ellopta a show-t a stadionban....",
+    "content_hu": "Tűzpiros, testhez simuló ruhában hódított a milliárdos örökösnő, a rajongók pedig elaléltak. Gracie Hunt ismét ellopta a show-t a stadionban.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_3fd0e2d4fb",
@@ -12106,32 +12142,6 @@
     "title_hu": "Újabb kép kerülhetett elő Schadl György siófoki életéről: Toroczkai a vizsgálóbizottság meghallgatására várja",
     "lead_hu": "",
     "content_hu": "",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_ba7529c471",
-    "slug": "marco-rossi-mondtam-a-szunetben-hogy-evek-ota-ez-v-ba7529",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/marco-rossi-1024x577.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Marco Rossi: Mondtam a szünetben, hogy évek óta ez volt a legrosszabb első félidőnk",
-        "link": "https://24.hu/sport/foci/2026/11/14/nemzetek-ligaja-georgia-magyarorszag-marco-rossi-ertekeles/"
-      }
-    ],
-    "published_at": 1794688250,
-    "title_hu": "Marco Rossi: Mondtam a szünetben, hogy évek óta ez volt a legrosszabb első félidőnk",
-    "lead_hu": "Marco Rossi, a magyar labdarúgó-válogatott szövetségi kapitánya úgy fogalmazott a Georgia elleni, The post Marco Rossi: Mondtam a szünetben, hogy évek óta ez volt a legrosszabb első félidőnk first app…",
-    "content_hu": "Marco Rossi, a magyar labdarúgó-válogatott szövetségi kapitánya úgy fogalmazott a Georgia elleni, The post Marco Rossi: Mondtam a szünetben, hogy évek óta ez volt a legrosszabb első félidőnk first appeared on 24.hu.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
