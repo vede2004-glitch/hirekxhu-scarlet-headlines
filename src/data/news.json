@@ -1499,78 +1499,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_a1cacd6913",
-    "slug": "a-2027-es-budzse-sem-oldja-meg-az-agrarium-gondjait-a1cacd",
-    "tags": [
-      "agrarium",
-      "koltsegvetes",
-      "mezogazdasag",
-      "nagy-istvan"
-    ],
-    "fingerprint": "4843638513e91fda87d20717e6f2f8f7",
-    "category": "Gazdaság",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/FGdvoxCpHwZ9z7rFb8u6kYdeEwu3wFshLP7av5khRpI/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTUvZjIwMjdmNTQ4YTMzMDgzYmI4NzE3YzhmMzk2YzczYjFiOGY4ZmNmZWZkMmI0NDNiNGFjZGQ0YTA4Y2I5YzAzMA.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Jövedelmezőségi válság fenyeget, a 2027-es költségvetés csak ront a helyzeten",
-        "link": "https://magyarnemzet.hu/gazdasag/2026/11/koltsegvetes-mezogazdasag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Megszólalt a volt agrárminiszter a jövő évi költségvetésről, megkondította a vészharangot",
-        "link": "https://index.hu/gazdasag/2026/11/15/koltsegvetes-nagy-istvan-mezogazdasag-vagyonado-valsagkezeles/"
-      }
-    ],
-    "published_at": 1794752460,
-    "title_hu": "A 2027-es büdzsé sem oldja meg az agrárium gondjait",
-    "lead_hu": "Nagy István volt agrárminiszter szerint a mezőgazdaság több területén romló jövedelmezőség veszélyezteti a termelést. A 2027-es költségvetés tárgyalása a jövő héten kezdődik az Országgyűlésben; a volt tárcavezető úgy látja, az előrehozott támogatások és a kedvezményes hitelek önmagukban nem pótolják a veszteségeket.",
-    "content_hu": "• **A mezőgazdasági termelés visszaesése** Az AKI adatai szerint a búza hektáronkénti átlaghozama 2026-ban 4,3 tonna volt, 22,7 százalékkal alacsonyabb az előző évinél. A kukorica vetésterülete 600 ezer hektár alá csökkent, termése pedig 1,5 millió tonnára esett.\n\n• **Az állattenyésztés árai is mérséklődtek** A nyerstej termelői átlagára 2026 szeptemberében kilogrammonként 136,97 forintot tett ki, ami éves összevetésben 31,5 százalékos csökkenés. A vágósertés ára 582 forint volt kilogrammonként, 23,3 százalékkal kevesebb az egy évvel korábbinál.\n\n• **Több ágazatot különböző kockázatok terhelnek** A kertészeteknek az aszállyal, faggyal és munkaerőigénnyel kell megküzdeniük; a szőlő- és borágazatot az aranyszínű sárgaság, a méhészetet pedig az importverseny érinti.\n\n• **A támogatások előrehozása nem jelent új forrást** Nagy István szerint az előrehozott kifizetések enyhíthetik az átmeneti pénzhiányt, a kedvezményes hitelek pedig mérsékelhetik a finanszírozás költségét. Ezek azonban nem térítik meg automatikusan a termelési veszteségeket, a hiteleket pedig vissza kell fizetni.",
-    "importance_score": 28.0,
-    "top_rank": 34,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_36cc3264bb",
-    "slug": "december-13-an-lep-eletbe-az-uj-vasuti-menetrend-36cc32",
-    "tags": [
-      "mav",
-      "vasuti-menetrend",
-      "kozlekedes",
-      "sebessegkorlatozas"
-    ],
-    "fingerprint": "4635d2ea7d7288bb47d3a04df6c1b7ec",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7256/72561/725618/72561863_5346697_7ae3e1a293bad3e97879c16b7666581f_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Életbe lép a 2026–27-es vasúti menetrend, több fővonalon is hosszabb menetidővel kell számolni",
-        "link": "https://index.hu/belfold/2026/11/15/mav-csoport-menetrendvaltozas-december-vasut-kozlekedes/"
-      },
-      {
-        "source": "444.hu",
-        "title": "December 13-tól változik a vasúti menetrend",
-        "link": "https://444.hu/2026/11/15/december-13-tol-valtozik-a-vasuti-menetrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1794752367,
-    "title_hu": "December 13-án lép életbe az új vasúti menetrend",
-    "lead_hu": "A MÁV-csoport közlése szerint december 13-tól a 2026–2027-es menetrend alapján közlekednek a vonatok. Az új rend a pályákon érvényes sebességkorlátozásokhoz igazodik, ezért egyes járatok menetideje hosszabb lehet.",
-    "content_hu": "• **Menetrendváltás december 13-án** A 2026–2027-es vasúti menetrend a belföldi és nemzetközi közlekedésben is változásokat hoz.\n\n• **A korlátozásokhoz igazodó járatok** A menetrend figyelembe veszi a vasúti pályák jelenlegi sebességkorlátozásait; emiatt egyes vonalakon növekedhet a menetidő.\n\n• **Kiszámíthatóbb utazástervezés** A MÁV-csoport szerint az új menetrend segítheti az utasokat az utazások és az átszállások megtervezésében.",
-    "importance_score": 28.0,
-    "top_rank": 35,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_a44cce5ead",
     "slug": "november-26-an-targyalhat-az-mvm-mel-a-ferencvaros-a-szponzoraciorol-a44cce",
     "tags": [
@@ -1603,7 +1531,7 @@
     "lead_hu": "A Ferencváros november 26-án egyeztet az MVM-mel a nyolc éve tartó támogatói együttműködés jövőjéről. A megállapodás sorsa a kormányváltás után vált kérdésessé; a klubelnök, Kubatov Gábor nyilvánosan is köszönetet mondott a vállalatnak az eddigi támogatásért.",
     "content_hu": "• **November 26-án tárgyalnak**: A Ferencváros vezetése az MVM-mel egyeztet a szponzori együttműködés folytatásáról.\n\n• **Nyolc éve tart a partnerség**: Az MVM 2018-ban lett a klub stratégiai támogatója, a felek pedig 2022 decemberében újabb négy évre hosszabbították meg a megállapodást.\n\n• **Jelentős összegű támogatásról van szó**: A 2022-es szerződés alapján az éves szponzoráció nettó 6,6 millió eurót és további egymilliárd forintot ért.\n\n• **A támogatás több szakosztályt érintett**: Az együttműködés a klub különböző csapatai és utánpótlás-nevelése mellett létesítményi és kommunikációs megjelenéseket is magában foglalt.\n\n• **Kubatov Gábor megköszönte az eddigi együttműködést**: A Ferencváros elnöke nyilvános üzenetben fordult Bertalan Zsolthoz, az MVM júliusban kinevezett vezérigazgatójához.",
     "importance_score": 28.0,
-    "top_rank": 36,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1634,7 +1562,7 @@
     "lead_hu": "Pozitív példa számukra a magyar kormányváltás, csak más a választott módszer.",
     "content_hu": "Pozitív példa számukra a magyar kormányváltás, csak más a választott módszer.",
     "importance_score": 28.0,
-    "top_rank": 37,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1670,6 +1598,78 @@
     "lead_hu": "Angela Merkel egy fiataloknak szóló beszélgetésben értékelte kancellári éveit, és több korábbi döntéséről is beszélt. Azt mondta, ma már igennel szavazna az azonos nemű párok házasságának engedélyezésére.",
     "content_hu": "• **A házasság kérdése** Merkel 2017-ben ellenezte az azonos nemű párok házasságát, most azonban úgy nyilatkozott, hogy jelenleg támogatná annak engedélyezését.\n\n• **Iskolák és infrastruktúra** A volt kancellár szerint Németország infrastruktúrája fejlesztésre szorul, az oktatási intézmények egy részének állapotát pedig súlyos problémának tartja.\n\n• **Klímavédelem** Merkel úgy értékelte, kormányzása alatt nem érvényesítette kellő súllyal az elővigyázatosság elvét az éghajlatvédelemben.\n\n• **Kancellári örökség és AfD** Összességében úgy vélte, kedvezőbb állapotban hagyta hátra az országot, mint amilyenben átvette. Az AfD fiatalok körében tapasztalható támogatottságáról szólva a párt más csoportok kirekesztésére építő ígéreteit bírálta.",
     "importance_score": 25.0,
+    "top_rank": 36,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_a1cacd6913",
+    "slug": "a-2027-es-budzse-sem-oldja-meg-az-agrarium-gondjait-a1cacd",
+    "tags": [
+      "agrarium",
+      "koltsegvetes",
+      "mezogazdasag",
+      "nagy-istvan"
+    ],
+    "fingerprint": "4843638513e91fda87d20717e6f2f8f7",
+    "category": "Gazdaság",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/FGdvoxCpHwZ9z7rFb8u6kYdeEwu3wFshLP7av5khRpI/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTUvZjIwMjdmNTQ4YTMzMDgzYmI4NzE3YzhmMzk2YzczYjFiOGY4ZmNmZWZkMmI0NDNiNGFjZGQ0YTA4Y2I5YzAzMA.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Jövedelmezőségi válság fenyeget, a 2027-es költségvetés csak ront a helyzeten",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/koltsegvetes-mezogazdasag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megszólalt a volt agrárminiszter a jövő évi költségvetésről, megkondította a vészharangot",
+        "link": "https://index.hu/gazdasag/2026/11/15/koltsegvetes-nagy-istvan-mezogazdasag-vagyonado-valsagkezeles/"
+      }
+    ],
+    "published_at": 1794752460,
+    "title_hu": "A 2027-es büdzsé sem oldja meg az agrárium gondjait",
+    "lead_hu": "Nagy István volt agrárminiszter szerint a mezőgazdaság több területén romló jövedelmezőség veszélyezteti a termelést. A 2027-es költségvetés tárgyalása a jövő héten kezdődik az Országgyűlésben; a volt tárcavezető úgy látja, az előrehozott támogatások és a kedvezményes hitelek önmagukban nem pótolják a veszteségeket.",
+    "content_hu": "• **A mezőgazdasági termelés visszaesése** Az AKI adatai szerint a búza hektáronkénti átlaghozama 2026-ban 4,3 tonna volt, 22,7 százalékkal alacsonyabb az előző évinél. A kukorica vetésterülete 600 ezer hektár alá csökkent, termése pedig 1,5 millió tonnára esett.\n\n• **Az állattenyésztés árai is mérséklődtek** A nyerstej termelői átlagára 2026 szeptemberében kilogrammonként 136,97 forintot tett ki, ami éves összevetésben 31,5 százalékos csökkenés. A vágósertés ára 582 forint volt kilogrammonként, 23,3 százalékkal kevesebb az egy évvel korábbinál.\n\n• **Több ágazatot különböző kockázatok terhelnek** A kertészeteknek az aszállyal, faggyal és munkaerőigénnyel kell megküzdeniük; a szőlő- és borágazatot az aranyszínű sárgaság, a méhészetet pedig az importverseny érinti.\n\n• **A támogatások előrehozása nem jelent új forrást** Nagy István szerint az előrehozott kifizetések enyhíthetik az átmeneti pénzhiányt, a kedvezményes hitelek pedig mérsékelhetik a finanszírozás költségét. Ezek azonban nem térítik meg automatikusan a termelési veszteségeket, a hiteleket pedig vissza kell fizetni.",
+    "importance_score": 23.0,
+    "top_rank": 37,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_36cc3264bb",
+    "slug": "december-13-an-lep-eletbe-az-uj-vasuti-menetrend-36cc32",
+    "tags": [
+      "mav",
+      "vasuti-menetrend",
+      "kozlekedes",
+      "sebessegkorlatozas"
+    ],
+    "fingerprint": "4635d2ea7d7288bb47d3a04df6c1b7ec",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7256/72561/725618/72561863_5346697_7ae3e1a293bad3e97879c16b7666581f_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Életbe lép a 2026–27-es vasúti menetrend, több fővonalon is hosszabb menetidővel kell számolni",
+        "link": "https://index.hu/belfold/2026/11/15/mav-csoport-menetrendvaltozas-december-vasut-kozlekedes/"
+      },
+      {
+        "source": "444.hu",
+        "title": "December 13-tól változik a vasúti menetrend",
+        "link": "https://444.hu/2026/11/15/december-13-tol-valtozik-a-vasuti-menetrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1794752367,
+    "title_hu": "December 13-án lép életbe az új vasúti menetrend",
+    "lead_hu": "A MÁV-csoport közlése szerint december 13-tól a 2026–2027-es menetrend alapján közlekednek a vonatok. Az új rend a pályákon érvényes sebességkorlátozásokhoz igazodik, ezért egyes járatok menetideje hosszabb lehet.",
+    "content_hu": "• **Menetrendváltás december 13-án** A 2026–2027-es vasúti menetrend a belföldi és nemzetközi közlekedésben is változásokat hoz.\n\n• **A korlátozásokhoz igazodó járatok** A menetrend figyelembe veszi a vasúti pályák jelenlegi sebességkorlátozásait; emiatt egyes vonalakon növekedhet a menetidő.\n\n• **Kiszámíthatóbb utazástervezés** A MÁV-csoport szerint az új menetrend segítheti az utasokat az utazások és az átszállások megtervezésében.",
+    "importance_score": 23.0,
     "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
@@ -12117,110 +12117,6 @@
     "title_hu": "Ötöslottó: itt vannak az e heti nyerőszámok",
     "lead_hu": "Valaki nagyot szakított a Jokerrel. The post Ötöslottó: itt vannak az e heti nyerőszámok first appeared on 24.hu.",
     "content_hu": "Valaki nagyot szakított a Jokerrel. The post Ötöslottó: itt vannak az e heti nyerőszámok first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_4ede3afa80",
-    "slug": "tbbe-nem-kell-dolgoznod-befejezted-stephen-king-ig-4ede3a",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7254/72549/725498/72549867_ab4345a6b8546f415565b19852239e51_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "„Többé nem kell dolgoznod, befejezted” – Stephen King így csalt könnyeket a beteg édesanyja szemébe",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/14/stephen-king-nemcsak-a-sajat-eletet-valtoztatta-meg-elso-regenye/"
-      }
-    ],
-    "published_at": 1794687733,
-    "title_hu": "„Többé nem kell dolgoznod, befejezted” – Stephen King így csalt könnyeket a beteg édesanyja szemébe",
-    "lead_hu": "",
-    "content_hu": "",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_53b395fe0d",
-    "slug": "vizelvezetesi-hianyossag-miatt-valt-le-tbb-erkely--53b395",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261114/1794687495-temp-08g9v1q3qi6rackelbp_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Vízelvezetési hiányosság miatt vált le több erkély vakolata a Pearl City lakóparkban",
-        "link": "https://telex.hu/belfold/2026/11/14/vizelvezetesi-hianyossag-miatt-valt-le-tobb-erkely-vakolata-a-pearl-city-lakoparkban"
-      }
-    ],
-    "published_at": 1794687536,
-    "title_hu": "Vízelvezetési hiányosság miatt vált le több erkély vakolata a Pearl City lakóparkban",
-    "lead_hu": "A csütörtök éjszakai viharban több erkélyről is levált a vakolat az Orbán-közeli török üzletember, Adnan Polat ferencvárosi lakóparkjában. A fejlesztő kérdésünkre elmondta, mi okozta a problémát.",
-    "content_hu": "A csütörtök éjszakai viharban több erkélyről is levált a vakolat az Orbán-közeli török üzletember, Adnan Polat ferencvárosi lakóparkjában. A fejlesztő kérdésünkre elmondta, mi okozta a problémát.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_a2412a5089",
-    "slug": "a-dzsungel-kiralya-keltette-habokbol-rambo-emelked-a2412a",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7251/72518/725186/72518651_5343703_f5fd48d6c4c7f736e1ffd0469847799d_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "A dzsungel királya keltette habokból Rambo emelkedik fel",
-        "link": "https://index.hu/fomo/2026/11/14/mexiko-mexikovaros-acapulco-helyszini-beszamolo-rambo-sylvester-stallone/"
-      }
-    ],
-    "published_at": 1794687360,
-    "title_hu": "A dzsungel királya keltette habokból Rambo emelkedik fel",
-    "lead_hu": "Helyszíni beszámolónk Mexikóvárosból.",
-    "content_hu": "Helyszíni beszámolónk Mexikóvárosból.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_90268567f3",
-    "slug": "a-nap-legfontosabb-hirei-2026-november-14-902685",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/central-1138901246-e1794687324716-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A nap legfontosabb hírei – 2026. november 14.",
-        "link": "https://24.hu/belfold/2026/11/14/a-nap-legfontosabb-hirei-2026-november-14/"
-      }
-    ],
-    "published_at": 1794687343,
-    "title_hu": "A nap legfontosabb hírei – 2026. november 14.",
-    "lead_hu": "A nap, amikor mindenki beleásta magát a Seszták-ügybe. The post A nap legfontosabb hírei – 2026. november 14. first appeared on 24.hu.",
-    "content_hu": "A nap, amikor mindenki beleásta magát a Seszták-ügybe. The post A nap legfontosabb hírei – 2026. november 14. first appeared on 24.hu.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
