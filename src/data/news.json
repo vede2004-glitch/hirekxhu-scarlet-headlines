@@ -1788,6 +1788,52 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_bc7e2a7f4f",
+    "slug": "forsthoffer-agnes-szerint-a-bizottsagi-hatarozat-igazolja-vagyonnyilatkozatat-bc7e2a",
+    "tags": [
+      "forsthoffer-agnes",
+      "nemeth-balazs",
+      "vagyonnyilatkozat",
+      "parlament"
+    ],
+    "fingerprint": "30c1b94da9d8811c10370faa58c1815c",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261117/1794920344-temp-vk6rhsc3qj4vbgdlhhh_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Forsthoffer Ágnes: Én nem ástam el semmit, de persze nem is éltem közpénzből",
+        "link": "https://telex.hu/belfold/2026/11/17/forsthoffer-agnes-en-nem-astam-el-semmit-de-persze-nem-is-eltem-kozpenzbol-1"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Forsthoffer Ágnes: Soha nem csaltam, nem loptam",
+        "link": "https://24.hu/belfold/2026/11/17/forsthoffer-agnes-vagyonnyilatkozat-mentelmi-bizottsag-fidesz/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Forsthoffer Ágnes: Én nem ástam el soha semmit",
+        "link": "https://hvg.hu/itthon/20261117_forsthoffer-agnes-valasz-nemeth-balazs-vagyonnyilatkozat"
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Forsthoffer Ágnes: „Én nem ástam el semmit, de persze nem is éltem közpénzből”",
+        "link": "https://nlc.hu/eletmod/20261118/forsthoffer-agnes-vagyonnyilatkozat-nemeth-balazs/q6lq5vy"
+      }
+    ],
+    "published_at": 1794927932,
+    "title_hu": "Forsthoffer Ágnes szerint a bizottsági határozat igazolja vagyonnyilatkozatát",
+    "lead_hu": "Forsthoffer Ágnes a parlament keddi ülésén és közösségi oldalán is visszautasította Németh Balázs bírálatait. Azt állította, hogy a mentelmi bizottság elnökének határozata szerint valósághűen tüntette fel jövedelmét és vagyonát.",
+    "content_hu": "• **A bizottsági határozat** Forsthoffer közlése szerint azt rögzíti, hogy a házelnök helyesen adta meg jövedelmi és vagyoni adatait. Állítása szerint Németh már a parlamenti felszólalása idején is ismerte a döntést.\n\n• **A vagyonnyilatkozati eljárások** közül először Hidvéghi Balázs kezdeményezett egyet, a családi vállalkozásban fennálló érdekeltség miatt. Forsthoffer ezt követően részletesen kiegészítette nyilatkozatát, majd Németh Balázs is eljárást indított, arra hivatkozva, hogy a dokumentumból kimaradt a házelnök korábbi ügyvezetői tisztsége egy milliárdos forgalmú cégnél.\n\n• **Forsthoffer válasza** szerint a vagyonnyilatkozatát szabályosan töltötte ki, adatait továbbra is helytállónak tartja, és nincs rejtegetnivalója. Azt is hangsúlyozta, hogy nem élt közpénzből.\n\n• **Németh bírálatairól** Forsthoffer azt mondta, szerinte a képviselő a költségvetési vitát is a lejáratására használta. Ismét visszautasította a támadásokat, és arra kérte Németh-et, hogy inkább a parlament érdemi munkáját segítse.",
+    "importance_score": 40.0,
+    "top_rank": 30,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_d11df413fd",
     "slug": "178-weboldalon-jelent-meg-kartekony-kod-az-atv-instagram-oldalat-is-feltrtek-d11df4",
     "tags": [
@@ -1830,7 +1876,7 @@
     "lead_hu": "Az Optimizely kompromittálásával 178 szervezet oldalára kerültek rosszindulatú szkriptek, amelyek kriptovaluta, bankkártyaadatok és más felhasználói adatok megszerzését célozták. Egy ettől különálló incidensben az ATV Instagram-fiókjáról csaló üzeneteket küldtek, majd az oldal átmenetileg elérhetetlenné vált.",
     "content_hu": "• **178 szervezet weboldala érintett:** Biztonsági kutatók többek között a BBC, az IKEA, a CNN, a HSBC, az Equifax, a Salesforce, a Zoom, a Peacock és a Fox News oldalán azonosítottak kártékony kódot.\n\n• **Az Optimizely rendszerén keresztül terjedt a kód:** A hackerek a weboldalak teszteléséhez használt szolgáltatást kompromittálták, így a szkriptek az érintett oldalakon automatikusan betöltődhettek; a látogatóknak nem kellett letölteniük semmit.\n\n• **Többféle adatot próbáltak megszerezni:** A kód kriptovaluta-címek átírására, bankkártyaadatok, böngészősütik és képernyőképek megszerzésére, valamint munkamenetek eltérítésére is alkalmas volt. iOS- és iPadOS-eszközök ellen további kódokat, köztük a Corunát és a DarkSwordöt is bevethették.\n\n• **Az Optimizely intézkedett a támadás után:** A vállalat eltávolította a rosszindulatú szkripteket az érintett projektekből, lezárta az aktív munkameneteket és visszavonta a kapcsolódó hozzáférési tokeneket. A Cloudflare segítségével a káros kódok kiszolgálását is blokkolták; a sikeres fertőzések száma nem ismert.\n\n• **Az ATV Instagram-fiókját is támadás érte:** A csatorna közlése szerint csaló üzeneteket küldtek ki a hivatalos oldalról, amely ezután átmenetileg elérhetetlenné vált. Az ATV arra kérte a felhasználókat, hogy ne nyissák meg az üzeneteket; a károk felmérését és a helyreállításhoz szükséges lépéseket megkezdték.",
     "importance_score": 40.0,
-    "top_rank": 30,
+    "top_rank": 31,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1876,7 +1922,7 @@
     "lead_hu": "A Mi Hazánk Dörner György színművészt javasolja a Független Közmédia Testület egyik betöltetlen helyére. A szeptember elején létrejött, kilenctagú testületben eddig hét pozíciót töltöttek be; a párt két korábbi jelöltje nem kapta meg a Tisza Párt támogatását.",
     "content_hu": "• **Dörner jelölése** Novák Előd, a Mi Hazánk alelnöke kedden, Facebook-bejegyzésben közölte, hogy pártja Dörner György Kossuth-díjas színművészt, rendezőt és szinkronszínészt javasolja a Független Közmédia Testületbe. Dörner érdemes és kiváló művész címmel is rendelkezik.\n\n• **A jelölés indoklása** A párt a kiegyensúlyozott tájékoztatás elősegítését, valamint átláthatóbb és költségeit ésszerűbben kezelő közmédia működését jelölte meg célként.\n\n• **Korábbi jelöltek** A Tisza Párt korábban nem támogatta Moys Zoltán rendező, illetve Hal Melinda klinikai szakpszichológus és közgazdász jelölését.\n\n• **A testület összetétele** A szeptember elején létrejött, kilencfős testület hét helye már betelt. Elnöke Bayer Judit; a szakmai szervezetek Kollár Árpádot és Sükösd Miklóst, a Tisza Párt Bálint Viktort, Hargitai Miklóst és Szabó Györgyöt, a KDNP pedig Koncz Attilát delegálta. A Fidesz és a Mi Hazánk jelöltjeinek tagságát még nem hagyták jóvá.\n\n• **Dörner korábbi szerepei** Az Újszínház igazgatójaként 2027 februárjáig dolgozik; a vezetése alatt a színház kizárólag magyar szerzők műveit tűzte műsorra. A MIÉP politikusaként 1998 és 2002 között részt vett a regionális rádiók pályázatait elbíráló bizottság munkájában, annak elnökeként. Szinkronszínészként többek között Bruce Willis, Mel Gibson, Eddie Murphy és Michael Douglas magyar hangja.",
     "importance_score": 40.0,
-    "top_rank": 31,
+    "top_rank": 32,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1922,7 +1968,7 @@
     "lead_hu": "Az MBH Bank korrigált adózás előtti eredménye 2026 első kilenc hónapjában meghaladta a 143 milliárd forintot. A gyorsjelentés a lakossági hitelezés bővülését és a bank stabil likviditási mutatóit is rögzítette, miközben az éves számviteli eredmény jelentősen visszaesett.",
     "content_hu": "• **Korrigált adózás előtti eredmény:** Az MBH Bank 2026 első kilenc hónapjában több mint 143 milliárd, a harmadik negyedévben pedig több mint 50 milliárd forint korrigált adózás előtti eredményt ért el.\n\n• **Számviteli és korrigált adózott eredmény:** A kilenchavi számviteli adózott eredmény 24,764 milliárd forint volt, 78,8 százalékkal alacsonyabb az egy évvel korábbi 116,749 milliárdnál. A harmadik negyedévben 47,3 milliárd forintos nyereséget könyveltek el, miután a második negyedév 3,1 milliárd forintos veszteséggel zárult. A korrigált konszolidált adózott eredmény a negyedévben 43,039 milliárd, kilenc hónap alatt 117,761 milliárd forintot tett ki; utóbbi éves csökkenése 26,8 százalék volt. A korrigált tőkearányos megtérülési mutató 12,7 százalékot ért el.\n\n• **Tőke és mérlegfőösszeg:** A bankcsoport saját tőkéje 1265,9 milliárd forintra emelkedett, éves növekedése közel 5 százalék volt. A tőkemegfelelési mutató 20,8 százalékot tett ki, a mérlegfőösszeg pedig meghaladta a 13 040 milliárd forintot, 6,2 százalékkal növekedve egy év alatt.\n\n• **Hitelállomány:** A bruttó hitelállomány szeptember végén 6371,4 milliárd forint volt, közel 155 milliárddal több az előző év azonos időszakához képest.\n\n• **Lakossági hitelezés:** A lakossági hitelállomány 2737,6 milliárd forintra nőtt; ez negyedéves alapon csaknem 3, éves összevetésben pedig 9,3 százalékos bővülés. Az átlagos személyikölcsön-összeg 2–2,3 millió forint között alakult. A harmadik negyedévben 113,8 milliárd forintnyi új lakáshitel-szerződés született, 54,3 százalékkal több, mint egy évvel korábban. Kilenc hónap alatt az új lakáshitelek összege 334,1 milliárd forintot ért el, ami 26,8 százalékos éves növekedés.\n\n• **Vállalati hitelek és lízing:** A vállalati hitelezés szelektív megközelítése mellett a bruttó vállalati hitelállomány negyedéves összevetésben 1,3 százalékkal csökkent. A lízingállomány éves szinten 5,1 százalékkal bővült, és 652,2 milliárd forintot tett ki.\n\n• **Betétek és likviditás:** Az ügyfélbetétek állománya 7623 milliárd forint volt. A hitelállományhoz viszonyított betéti többlet mintegy 1250 milliárd forintot tett ki. A likviditásfedezeti ráta a második negyedév végi 145 százalékról szeptember végére 154 százalékra emelkedett, az NSFR pedig meghaladta a 125 százalékot.\n\n• **Költségek és portfólióminőség:** A működési költségek az első kilenc hónapban 266,9 milliárd forintot értek el, éves növekedésük mintegy 5 százalék volt. A nemteljesítő hitelek aránya 3,8 százalékot tett ki, a bank nem jelzett rendszerszintű portfólióromlást.\n\n• **Kormányzati elvonások és árfolyam:** A bank tájékoztatása szerint 2026-ban 150 milliárd forintot meghaladó kormányzati elvonás terhelte az eredményt. A részvény kedden délelőtt 2380 forintig emelkedett az előző napi 2270 forintos záróár után.",
     "importance_score": 40.0,
-    "top_rank": 32,
+    "top_rank": 33,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1968,7 +2014,7 @@
     "lead_hu": "Az Akadémiai Dolgozók Fóruma a módosított HUN-REN-törvény tervezetének visszavonását, parlamenti vizsgálóbizottságot és az elmaradt kutatói béremelések idei rendezését sürgeti. Magyar Péter „Oh persze” kommenttel reagált, a minisztérium pedig vitatta a szervezet állításait az egyeztetésekről és a tervezet várható hatásairól.",
     "content_hu": "• **Az ADF követelései** A szervezet Tanács Zoltán tudományos és technológiai miniszter távozását, a módosított törvényjavaslat visszavonását, parlamenti vizsgálóbizottság felállítását és a kutatóközpontok elmaradt béremeléseinek idei végrehajtását kéri. Elfogadás esetén arra szólítaná fel a köztársasági elnököt, hogy ne írja alá a jogszabályt.\n\n• **Az ADF kifogásai** A fórum szerint az új javaslat nagyjából 50 százalékban átfed a korábbi szabályozással, és nem építi be a korábbi átvilágítások megállapításait. Álláspontjuk szerint a Magyar Tudományos Akadémia szerepe lényegében jelképes maradna, a tervezet pedig nem teremtene megfelelő külső ellenőrzést a közpénzek felhasználására.\n\n• **Magyar Péter reakciója** A miniszterelnök „Oh persze” megjegyzést tett az ADF követeléseiről szóló közösségi médiás bejegyzések alatt.\n\n• **A minisztérium az egyeztetésekről** A Tudományos és Technológiai Minisztérium szerint május óta egyeztetnek az MTA-val, kutatókkal, intézetvezetőkkel, a kutatói szakszervezettel és az ADF vezetésével. A tárca közölte, hogy a közigazgatási egyeztetés során beérkezett 189 oldalnyi észrevételt feldolgozta, és valótlannak nevezte az érdemi egyeztetés hiányáról szóló állítást. A minisztérium az ADF reprezentativitását is kétségbe vonta.\n\n• **A tárca által ismertetett jogosítványok** A minisztérium közlése szerint az MTA alapítói jogokat kapna, három tagot delegálhatna a vezetőtestületbe, és a miniszterrel együtt javasolhatna elnököt. A tárca szerint az Akadémia hozzájárulása nélkül nem lehetne kutatóintézetet létrehozni vagy megszüntetni; a szakszervezet szavazati jogú képviselőt küldhetne a testületbe, a vezetői díjazást pedig törvényi korlát szabná meg.\n\n• **Bérek és a HUN-REN működése** A minisztérium szerint a munkaviszonyok a bérek változatlanul hagyásával folytatódnának, az ELTE-hez került négy kutatóközpont bérrendezésére pedig közel négymilliárd forint áll rendelkezésre. A tervezet a HUN-REN Magyar Tudományos Akadémia Kutatóhálózat nevet és azt irányozza elő, hogy a hálózat költségvetése az MTA költségvetési fejezetébe kerüljön.",
     "importance_score": 40.0,
-    "top_rank": 33,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2004,7 +2050,7 @@
     "lead_hu": "A mai nap a költségvetés vitájával indul, miközben az elszámoltatás és számos fontos kormányzati intézkedés is napirenden van. Az Állami Számvevőszék megalapozottnak tartja a költségvetést, a Tisza-ko…",
     "content_hu": "A mai nap a költségvetés vitájával indul, miközben az elszámoltatás és számos fontos kormányzati intézkedés is napirenden van. Az Állami Számvevőszék megalapozottnak tartja a költségvetést, a Tisza-kormány pedig tiltást vezet be a magyar határon, így többé nem lehet titokban nagy mennyiségű készpénzt rejtegetni. A közmédia vezetéséért tizennégy jelölt maradt versenyben, és zajlik az állami médiaszerv korábbi költéseinek átvilágítása is. Fordulat történt az aranykonvoj-ügyben, ahol felülbírálták az ügyészség döntését. Az NVVH elnöke Orbán Viktor szavaira reagálva elárulta, mi a vagyonvisszaszerzés valódi célja, emellett hamarosan jön az ország legnagyobb szülői értekezlete. Ma reggel a parlementi vita középpontjába a Seszták-ügy került.",
     "importance_score": 38.0,
-    "top_rank": 34,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2045,7 +2091,7 @@
     "lead_hu": "A Magyar Nemzeti Bank Monetáris Tanácsa 5,5 százalékon tartotta az alapkamatot, a kamatfolyosó két széle sem változott. A döntés hátterében a bizonytalan nemzetközi környezet és az inflációs kockázatok is szerepet játszanak, miközben a tanácsban kamatcsökkentési javaslat is felmerült.",
     "content_hu": "• **Változatlan kamatszint** A Monetáris Tanács az elemzői várakozásoknak megfelelően 5,5 százalékon hagyta az alapkamatot. A kamatfolyosó alsó széle, az egynapos betéti kamat 4,5, felső széle, az egynapos hitel kamata 6,5 százalék maradt.\n\n• **Megosztott döntéshozók** Varga Mihály jegybankelnök tájékoztatása szerint két javaslat került a tanács elé: a kamatok szinten tartása és a csökkentésük. A döntés nem volt egyhangú.\n\n• **A jegybank indokai** Az MNB szerint a jelenlegi kamatszint az árstabilitás elérését és a pénzügyi piacok stabilitását szolgálja. A nemzetközi bizonytalanság, az energiaárak és a geopolitikai kockázatok további inflációs nyomást okozhatnak; a régióban a lengyel és a cseh jegybank is emelt már kamatot.\n\n• **Inflációs adatok és kilátások** Októberben 2 százalékos inflációt és 2,1 százalékos maginflációt mértek. A jegybank szerint a következő időszakban az üzemanyagárak emelkedése, az adóváltozások és egyes gazdaságpolitikai intézkedések miatt gyorsulhat az áremelkedés.\n\n• **Gazdasági teljesítmény** A magyar GDP éves összevetésben 1,5 százalékkal nőtt a harmadik negyedévben, szeptemberben pedig az ipari termelés és a kiskereskedelmi forgalom is bővült.\n\n• **A korábbi kamatcsökkentések** A nyár folyamán három egymást követő ülésen egyaránt 25 bázisponttal mérsékelte az alapkamatot a jegybank, azóta változatlan a ráta.\n\n• **A következő ülések** Elemzői várakozások szerint a december 15-i ülésen sem valószínű kamatcsökkentés, ha nem enyhülnek jelentősen a külső kockázatok. A tanács a következő évben a mostani 12 helyett nyolc alkalommal dönt majd a kamatokról; a decemberi ülés után február 16-án ül össze legközelebb.\n\n• **Távolabbi kamatkilátás** Az MTI-nek nyilatkozó elemzők szerint a jegybank kommunikációjának új elemei alapján 2027-ben nyílhat lehetőség a kamat mérséklésére.",
     "importance_score": 38.0,
-    "top_rank": 35,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2086,7 +2132,7 @@
     "lead_hu": "A lengyel ügyészség európai elfogatóparancs kiadását kezdeményezi Robert M. ellen, hogy a férfit Lengyelországba szállíthassák, és ott folytassák az eljárást. A buszbalesetben augusztus 16-án tizenkét ember vesztette életét.",
     "content_hu": "• **Elfogatóparancsot kezdeményeznek** A krosnói ügyészség Robert M. átadását szeretné elérni; az európai elfogatóparancs ügyében a lengyel bírósághoz a gyanúsítottal szembeni kényszerintézkedésről szóló határozat jogerőre emelkedése után fordulnak.\n\n• **Lengyelországban folytatnák az eljárást** A lengyel igazságügyi miniszter augusztus 31-én kérte a magyar féltől, hogy adják át Lengyelországnak a büntetőügyet. A lengyel bíróság október 30-án 30 napos letartóztatást rendelt el, amely a gyanúsított átadásától számítana.\n\n• **Tizenkét áldozatot követelt a baleset** A lengyel zarándokokat szállító busz augusztus 16-án borult fel az M3-as autópályán. A járművön 57 utas és két sofőr utazott.\n\n• **Új iratok érkeztek a nyomozáshoz** A lengyel ügyészség megkapta a magyar hatóságoktól átadott dokumentumok fordításait, köztük a műszaki szakértői véleményeket és a sofőr kihallgatási jegyzőkönyvét. Robert M. nem tett vallomást; a lengyel ügyészség gondatlanságból elkövetett, halálos tömegszerencsétlenség okozásával gyanúsítja.\n\n• **A magyarországi kényszerintézkedésről nincs megerősítés** Lengyel sajtóértesülés szerint Robert M. Magyarországon bűnügyi felügyelet alatt áll, nem letartóztatásban. A Miskolci Törvényszék a témában feltett kérdésre a beszámoló megjelenéséig nem válaszolt.",
     "importance_score": 38.0,
-    "top_rank": 36,
+    "top_rank": 37,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2128,7 +2174,7 @@
     "lead_hu": "Orosz drón zuhant egy munkácsi gyártelep udvarára, személyi sérülés nem történt, a környéken pedig légiriadó van érvényben. Magyar Péter az ellenzéktől kért kiállást a kárpátaljai magyarok mellett; Hidvéghi Balázs a korábbi kormány békepárti politikájához való visszatérést sürgette.",
     "content_hu": "• **Drón csapódott be Munkácson** A helyi hatóságok, köztük a város önkormányzata és Kárpátalja kormányzója is megerősítette, hogy egy orosz pilóta nélküli eszköz egy gyártelep udvarára zuhant.\n\n• **Nem voltak áldozatok** A becsapódás nem követelt emberéletet, és sérültekről sem érkezett jelentés.\n\n• **Légiriadó van Munkács és Ungvár környékén** A térségben további drónokat észleltek, ezért a riasztás továbbra is érvényben van.\n\n• **Magyar Péter az ellenzék álláspontjának felülvizsgálatát kérte** A keddi parlamenti ülésen arra emlékeztetett, hogy korábban az ellenzék azzal érvelt: a háború elkerüli Kárpátalját és a magyarok lakta településeket. A munkácsi támadás után azt kérte a képviselőktől, hogy hagyjanak fel a szerinte valótlanságok terjesztésével és az uszítással, és mutassanak szolidaritást a kárpátaljai magyarokkal.\n\n• **Hidvéghi Balázs a korábbi kormány politikáját idézte fel** A fideszes politikus elítélte a dróntámadást, és arra szólította fel Magyar Pétert, hogy térjen vissza az előző kormány békepárti politikájához.\n\n• **Rétvári Bence a támogatás érzékeltetését hangsúlyozta** A KDNP-s politikus szerint fontos, hogy a kárpátaljai magyarok tudják: számíthatnak a mögöttük állókra.",
     "importance_score": 35.0,
-    "top_rank": 37,
+    "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2169,7 +2215,7 @@
     "lead_hu": "Amerikai tisztviselőknek a CNN által ismertetett értesülései szerint Irán lehetséges terveket dolgozhat ki washingtoni kormányzati vezetők megtámadására. Az amerikai hatóságok közölték, hogy jelenleg nem ismernek hiteles, közvetlen fenyegetést; Teherán megalapozatlannak nevezte a hírt.",
     "content_hu": "• **Lehetséges iráni tervek:** A CNN-nek nyilatkozó amerikai tisztviselők szerint felmerült, hogy Irán piszkos bombával vagy vegyi fegyverrel vehetne célba magas rangú amerikai kormányzati tisztviselőket Washingtonban. A beszámoló szerint nincs bizonyíték arra, hogy Teherán elhatározta volna a támadás végrehajtását, és az iráni képességekről is eltérnek az amerikai vélemények.\n\n• **Nincs megerősített közvetlen veszély:** Az amerikai illetékesek a fenyegetés elhárításáról egyeztettek, de a Fehér Ház szóvivője szerint egyelőre nem tudnak hiteles, az Egyesült Államokat érintő veszélyről.\n\n• **Biztonsági intézkedések:** A fenyegetésekről szóló értesülések nyomán Scott Bessent pénzügyminisztert ideiglenesen katonai szállásra költöztették. A Magyar Nemzet beszámolója más Trump-kormányzati tisztviselők korábbi katonai létesítménybe költözését is említi.\n\n• **Trump és Teherán eltérő álláspontja:** Donald Trump komolyan veendőnek nevezte az értesüléseket, és súlyos következményeket helyezett kilátásba, ha azok igaznak bizonyulnak. Eszmail Bagai iráni külügyi szóvivő ezzel szemben megalapozatlannak minősítette a hírt.",
     "importance_score": 35.0,
-    "top_rank": 38,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2210,7 +2256,7 @@
     "lead_hu": "Kedden reggel, háromnegyed kilenc körül zuhant le a szerb hadsereg egyik MiG–29-es gépe Stara Pazova közelében. A balesetben életét vesztette a pilóta, Goran Bulajić őrnagy.",
     "content_hu": "• **A baleset helyszíne és ideje** A vadászgép kedden reggel, körülbelül 8:45-kor, Újpázova és Ópázova között, mezőgazdasági területen zuhant le.\n\n• **A pilóta személye** Goran Bulajić őrnagy 1973. március 25-én született Belgrádban, és 1996-ban kezdte meg katonai szolgálatát. A szerb védelmi minisztérium megerősítette, hogy a balesetben meghalt.\n\n• **A repülőgép és a helyszíni intézkedések** A MiG–29-es a batajnicai légibázison működő 204. repülődandárhoz tartozott. A helyszínre katonai, rendőrségi és katonai rendészeti egységek, tűzoltók, valamint mentők érkeztek; az illetékes ügyészt is értesítették.\n\n• **A vizsgálat és a részvétnyilvánítás** A baleset okáról nem hoztak nyilvánosságra hivatalos információt, a minisztérium két bizottságot állított fel az eset kivizsgálására. Bratislav Gašić védelmi miniszter és Tiosav Janković altábornagy részvétét fejezte ki a pilóta családjának.",
     "importance_score": 35.0,
-    "top_rank": 39,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2246,7 +2292,7 @@
     "lead_hu": "Tájékoztató aloldalt indított az Integritás Hatóság, hogy nyilvánosan böngészhetők lehessenek az önkormányzati vagyonnyilatkozatok. Az érintett polgármesterek, alpolgármesterek és önkormányzati képvis...",
     "content_hu": "Tájékoztató aloldalt indított az Integritás Hatóság, hogy nyilvánosan böngészhetők lehessenek az önkormányzati vagyonnyilatkozatok. Az érintett polgármesterek, alpolgármesterek és önkormányzati képviselők mintegy 90 százalékának bevallásai már elérhető az önkormányzatok honlapjain, közölte kedden az Integritás Hatóság. A nyilatkozatok ellenőrzését bárki kezdeményezheti az önkormányzat kijelölt bizottságánál, de a hatóság hivatalból vagy bejelentés alapján is vizsgálódhat. A nyilatkozattétel elmulasztása a juttatások felfüggesztésével járhat, súlyosabb esetben, például lényeges adatok szándékos meghamisításakor pedig a megbízatás is megszűnhet. Az Integritás Hatóság maga nem bírságol, bűncselekmény gyanúja esetén azonban az illetékes szervhez fordul.",
     "importance_score": 35.0,
-    "top_rank": 40,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2287,7 +2333,7 @@
     "lead_hu": "2027. január 1-jétől bejelentést kell tenni, ha valaki legalább 10 ezer euró értékű készpénzt visz át Magyarország és egy másik uniós tagállam között. Az új szabály a pénzmozgások ellenőrizhetőségét szolgálja, és a pénzmosás, valamint a terrorizmus finanszírozása elleni előírások része.",
     "content_hu": "• **2027. január 1-jén lép életbe az új szabály:** legalább 10 ezer eurónak megfelelő készpénz Magyarország és egy másik EU-tagállam közötti átvitelekor bejelentést kell tenni. A változás célja, hogy az ilyen pénzmozgások az uniós külső határokon működő ellenőrzéshez hasonlóan követhetők legyenek, a nemzetközi normákhoz igazodva.\n\n• **A bejelentéshez személyes és pénzügyi adatokat kell megadni:** rögzíteni kell a készpénzt szállító személy nevét, okmányának típusát és számát, valamint a pénz értékét, pénznemét, eredetét és a szállítás célját.\n\n• **A hatóság igazolást és készpénzt is kérhet:** felszólítására be kell mutatni a bejelentés igazolását és magát az összeget is. Ha az érintett nem működik együtt, a készpénzt zár alá vehetik.\n\n• **Az ellenőrző szervet később jelölik ki:** a hatóság személyéről egy későbbi kormányrendelet rendelkezik. A módosítás a pénzmosás és a terrorizmus finanszírozása elleni szabályozáshoz kapcsolódik.\n\n• **Az otthon tartott készpénzre nincs általános felső korlát:** nagyobb összeg is tartható otthon, ha törvényes eredetű, és szükség esetén igazolható.",
     "importance_score": 35.0,
-    "top_rank": 41,
+    "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2328,7 +2374,7 @@
     "lead_hu": "A munkáltatói és a munkavállalói oldal is előrelépést jelzett a keddi bértárgyalás után, de még nincs megállapodás a 2027-es minimálbérről és garantált bérminimumról. A felek csütörtökön folytatják az egyeztetést; a munkaadói oldal képviselője szerint akár ezen a héten megszülethet az alku.",
     "content_hu": "• **Közelebb kerültek az álláspontok** Zs. Szőke Zoltán, az ÁFEOSZ-COOP elnöke és Zlati Róbert, a MASZSZ elnöke egyaránt előrelépésről számolt be a keddi egyeztetés után, de a felek még nem jutottak megállapodásra. A november 10-i forduló után szintén közeledésről beszéltek, konkrét javaslatok ismertetése nélkül.\n\n• **Csütörtökön folytatódik a tárgyalás** A következő forduló előtt mindkét oldal további belső egyeztetéseket tart. Perlusz László, a VOSZ főtitkára szerint még ezen a héten reális esély van a megállapodásra.\n\n• **A kormány javaslata magasabb összegekkel számol** A 2027 januárjától érvényes ajánlat a jelenlegi bruttó 322 800 forintos minimálbért körülbelül 347 ezer forintra, a 373 200 forintos garantált bérminimumot pedig mintegy 397 ezer forintra emelné.\n\n• **A munkaadók korábban 4 százalékos emelést javasoltak** Zs. Szőke Zoltán október 27-én mindkét bérkategóriára ekkora bruttó növelésről beszélt. A munkaadói számítás szerint a minimálbérnél ez a jövő évi, 9 százalékos személyi jövedelemadó mellett nettó 14 százalékos emelkedésnek felelne meg.\n\n• **A szakszervezetek többéves megállapodást szeretnének** A MASZSZ álláspontja szerint a jövő évi bérekről a hároméves bérmegállapodás keretében, az idei harmadik negyedéves makroadatok figyelembevételével kellene dönteni.",
     "importance_score": 33.0,
-    "top_rank": 42,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2364,7 +2410,7 @@
     "lead_hu": "Mit jelent a Bond-sorozat szempontjából, hogy annyi más franchise-hős után Robert Pattinson most a 007-es ügynököt is eljátszhatja? Értékelünk. The post Robert Pattinsonból remek James Bond lesz, a pr…",
     "content_hu": "Mit jelent a Bond-sorozat szempontjából, hogy annyi más franchise-hős után Robert Pattinson most a 007-es ügynököt is eljátszhatja? Értékelünk. The post Robert Pattinsonból remek James Bond lesz, a producerekből pedig gyáva nyúl first appeared on 24.hu.",
     "importance_score": 33.0,
-    "top_rank": 43,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2405,7 +2451,7 @@
     "lead_hu": "62 éves korában meghalt Finta László, a budapesti Nyitott Műhely alapítója és vezetője. A hely határozatlan ideig zárva tart, Finta emlékére gyertyát gyújtottak.",
     "content_hu": "• **Halálhír és bezárás** Finta László halálát a Nyitott Műhely munkatársai, András Tamara és Csoboth Dorka jelentették be. A megemlékezés és a temetés részleteit későbbre ígérték; a műhely határozatlan ideig zárva tart.\n\n• **Gyertyagyújtás** A Nyitott Műhelynél gyertyagyújtással emlékeztek meg Fintáról.\n\n• **A műhely története** Finta 1963-ban született Túrkevén, a Ráth György utcai helyet pedig 2000-ben nyitotta meg, a Déli pályaudvar közelében. Eredetileg bőrműves műhelynek szánta, ám az évek során irodalmi esteknek, filmkluboknak, koncerteknek és más kulturális rendezvényeknek adott otthont.\n\n• **Találkozóhely és házigazda** A Nyitott Műhely írók, költők, filmesek, zenészek és színészek közösségi tere lett. Karácsony Gergely felidézte, hogy Finta a műhelyben lakott, barátai gyakran betértek hozzá, ő pedig étellel fogadta vendégeit. A Litera 2011-ben interjút készített vele a hely létrejöttéről.\n\n• **Díj és anyagi nehézségek** Finta 2024-ben Pro Cultura Urbis-díjat kapott a műhelyben végzett munkájáért. Szeptemberben a Klubrádióban arról beszélt, hogy veszélybe kerülhet a hely működése: emelkedtek a költségek, a korábbi támogatók feltételei pedig megváltoztak. Abban bízott, hogy valaki továbbviszi a műhelyt.\n\n• **Tűzeset 2024 decemberében** Elektromos hiba miatt részben kiégett a műhely. Finta a helyszínen tartózkodott, és több vödör vízzel segített megfékezni a lángokat.\n\n• **Búcsúüzenetek** Szabó T. Anna, Dragomán György, Juhász Anna és Karácsony Gergely is megemlékezett róla. A főpolgármester Finta vendégszeretetét és gondoskodását idézte fel.",
     "importance_score": 33.0,
-    "top_rank": 44,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2446,7 +2492,7 @@
     "lead_hu": "Adler László távozik a TV2 Híradó főszerkesztői posztjáról, feladatait Baráth Krisztina veszi át. Adler a vállalatnál marad, miközben a hírműsor az áprilisi választás után átalakult: megszűnt a Tények márkanév, Marsi Anikó és Gönczi Gábor pedig távozott a műsorból.",
     "content_hu": "• **Vezetőváltás a szerkesztőségben** Adler László helyett Baráth Krisztina irányítja a TV2 Híradóját. A csatorna megerősítette a változást.\n\n• **Adler a TV2-nél marad** A korábbi főszerkesztő más területen folytatja munkáját a vállalatnál.\n\n• **Belső kinevezés és szervezeti változtatás** Baráth Krisztina évek óta a TV2 munkatársa; kinevezését a csatorna belső építkezésként, illetve a hírigazgatóság működésének finomhangolásaként és erősítéseként jellemezte.\n\n• **Átalakult a hírműsor** Az áprilisi választást követően megszűnt a Tények márkanév, Marsi Anikó és Gönczi Gábor pedig távozott a hírműsorból.",
     "importance_score": 33.0,
-    "top_rank": 45,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2487,47 +2533,6 @@
     "lead_hu": "Sebestyén Balázs és Sebestyén-Horváth Viki a hétvégén jelentette be, hogy 17 év házasság után külön folytatják. A műsorvezető hétfőn késve érkezett a Rádió 1 adásába, ahol nem beszélt a magánéleti változásról. Sajtóhírek szerint új otthonát a Balaton déli partján rendezheti be.",
     "content_hu": "• **A házaspár 17 év után külön utakon folytatja.** Sebestyén Balázs és Sebestyén-Horváth Viki a hétvégén közölte a döntést; kapcsolatuk 2009-ben kezdődött.\n\n• **A válás és a vagyonmegosztás már lezárulhatott.** Az NLC a Story értesülésére hivatkozva arról írt, hogy a hivatalos ügyintézés is megtörtént.\n\n• **Balázs a Balaton déli partján kezdhet új életet.** A beszámoló szerint elköltözött a közös budapesti otthonból, és a tóparton rendezkedik be; Balatonföldváron állítólag ingatlana is van.\n\n• **Viki maradhatott a budapesti családi házban.** Az NLC szerint a két fiú vele él tovább, és a Sebestyén nevet is megtartotta.\n\n• **A hétfői rádióadásban nem került szóba a válás.** Balázs rövid késéssel csatlakozott Rákóczi Ferihez és Ráskó Eszterhez, majd a megszokott hangnemben folytatta a műsort.\n\n• **A műsorvezetőt régóta köti a Balaton déli partja.** Korábban arról beszélt, hogy a családjával a nyári hónapok jelentős részét a tónál töltötték.",
     "importance_score": 33.0,
-    "top_rank": 46,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_bc7e2a7f4f",
-    "slug": "forsthoffer-agnes-szerint-a-bizottsagi-hatarozat-igazolja-vagyonnyilatkozatat-bc7e2a",
-    "tags": [
-      "forsthoffer-agnes",
-      "nemeth-balazs",
-      "vagyonnyilatkozat",
-      "parlament"
-    ],
-    "fingerprint": "30c1b94da9d8811c10370faa58c1815c",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261117/1794920344-temp-vk6rhsc3qj4vbgdlhhh_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Forsthoffer Ágnes: Én nem ástam el semmit, de persze nem is éltem közpénzből",
-        "link": "https://telex.hu/belfold/2026/11/17/forsthoffer-agnes-en-nem-astam-el-semmit-de-persze-nem-is-eltem-kozpenzbol-1"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Forsthoffer Ágnes: Soha nem csaltam, nem loptam",
-        "link": "https://24.hu/belfold/2026/11/17/forsthoffer-agnes-vagyonnyilatkozat-mentelmi-bizottsag-fidesz/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Forsthoffer Ágnes: Én nem ástam el soha semmit",
-        "link": "https://hvg.hu/itthon/20261117_forsthoffer-agnes-valasz-nemeth-balazs-vagyonnyilatkozat"
-      }
-    ],
-    "published_at": 1794927932,
-    "title_hu": "Forsthoffer Ágnes szerint a bizottsági határozat igazolja vagyonnyilatkozatát",
-    "lead_hu": "Forsthoffer Ágnes a parlament keddi ülésén és közösségi oldalán is visszautasította Németh Balázs bírálatait. Azt állította, hogy a mentelmi bizottság elnökének határozata szerint valósághűen tüntette fel jövedelmét és vagyonát.",
-    "content_hu": "• **A bizottsági határozat** Forsthoffer közlése szerint azt rögzíti, hogy a házelnök helyesen adta meg jövedelmi és vagyoni adatait. Állítása szerint Németh már a parlamenti felszólalása idején is ismerte a döntést.\n\n• **A vagyonnyilatkozati eljárások** közül először Hidvéghi Balázs kezdeményezett egyet, a családi vállalkozásban fennálló érdekeltség miatt. Forsthoffer ezt követően részletesen kiegészítette nyilatkozatát, majd Németh Balázs is eljárást indított, arra hivatkozva, hogy a dokumentumból kimaradt a házelnök korábbi ügyvezetői tisztsége egy milliárdos forgalmú cégnél.\n\n• **Forsthoffer válasza** szerint a vagyonnyilatkozatát szabályosan töltötte ki, adatait továbbra is helytállónak tartja, és nincs rejtegetnivalója. Azt is hangsúlyozta, hogy nem élt közpénzből.\n\n• **Németh bírálatairól** Forsthoffer azt mondta, szerinte a képviselő a költségvetési vitát is a lejáratására használta. Ismét visszautasította a támadásokat, és arra kérte Németh-et, hogy inkább a parlament érdemi munkáját segítse.",
-    "importance_score": 30.0,
     "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
@@ -4452,6 +4457,58 @@
     "top_rank": 100,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_40747166c0",
+    "slug": "gubinecz-akos-lenyugz-hogy-magyarorszagon-belul-is-mennyire-elteroen-beszelnek-e-407471",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/sTVwYc_gSicM8OAmc6ka0QuEMj91oYObE-nDZQ8o5bo/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTcvNjU5MjZiM2ZlNjZkYWJjYjFkZjRkOTM0YjFlMzAzNDkyMTU5NDc0ZTg3ZDc4OGIxYjcxYWY4MTAwM2Y5MzE1Mw.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Gubinecz Ákos: Lenyűgöz, hogy Magyarországon belül is mennyire eltérően beszélnek és gondolkodnak az emberek",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/gubinecz-akos-hatartalan-hangok-koncert-workshop?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1794972001,
+    "title_hu": "Gubinecz Ákos: Lenyűgöz, hogy Magyarországon belül is mennyire eltérően beszélnek és gondolkodnak az emberek",
+    "lead_hu": "A Junior Prima díjas citeraművész, népdalénekes még a Zeneakadémián kezdett el foglalkozni a férfi-népdaléneklés kevésbé ismert világával....",
+    "content_hu": "A Junior Prima díjas citeraművész, népdalénekes még a Zeneakadémián kezdett el foglalkozni a férfi-népdaléneklés kevésbé ismert világával.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_2debce66b9",
+    "slug": "marabu-feknyuz-oktatoanyag-a-ner-hez-2debce",
+    "tags": [
+      "kultura"
+    ],
+    "category": "Kultúra",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e32ea28e-1bb1-4247-994f-fe4f5ee7c0d3.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Marabu Féknyúz: Oktatóanyag a NER-hez",
+        "link": "https://hvg.hu/tudomany/20261118_marabu-feknyuz-oktatoanyag-a-ner-hez"
+      }
+    ],
+    "published_at": 1794971820,
+    "title_hu": "Marabu Féknyúz: Oktatóanyag a NER-hez",
+    "lead_hu": "Feltárások....",
+    "content_hu": "Feltárások.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_0efb104cea",
@@ -17714,32 +17771,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_4ba60e1024",
-    "slug": "europa-futballelitje-varhatja-szoboszlaiekat-a-nem-4ba60e",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/IoBTqaJplps2pnuGZA1hO3krU8n2zW5iUsNfTO-C3Lo/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTYvMTQwNjEyYzUzMWE0OTk4N2NkNjhmNDViYzM1OWI3MjgxYWQwNzk1OTczZDU3NWYwYTUwZjQxN2EyNzk0OTcxMQ.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Európa futballelitje várhatja Szoboszlaiékat a Nemzetek Ligájában",
-        "link": "https://magyarnemzet.hu/sport/2026/11/magyar-labdarugo-valogatott-nemzetek-ligaja?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794885600,
-    "title_hu": "Európa futballelitje várhatja Szoboszlaiékat a Nemzetek Ligájában",
-    "lead_hu": "Kedden este azt az északír csapatot kellene legyőzni, amely még gólt sem kapott ebben a sorozatban.",
-    "content_hu": "Kedden este azt az északír csapatot kellene legyőzni, amely még gólt sem kapott ebben a sorozatban.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_3284ca9226",
     "slug": "t-szakember-keresi-a-magyar-szinhazi-elet-legjobbj-3284ca",
     "tags": [
@@ -18072,32 +18103,6 @@
     "title_hu": "Kivonult a jemeni hadsereg: a húszik elfoglalták a Báb el-Mandeb-szorost, drágul a kőolaj",
     "lead_hu": "A kormányerők most az ideiglenes főváros, Aden védelmére koncentrálnak.",
     "content_hu": "A kormányerők most az ideiglenes főváros, Aden védelmére koncentrálnak.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_0d7de30104",
-    "slug": "meg-nem-ert-veget-a-leszamolas-ujabb-szaz-embert-t-0d7de3",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/pS4viJ7gEnladvKf1rpBBQdYuhEbJqjWHfOAc_6HLo4/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTYvYmM1YmU0YTA4NTlmZGM0YTVmOGRmODAxYjc4OGVkYTEzMGExYzk1N2ZhYWEwNjMxNGIyMDQ5YjdkNGRiYTczYw.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Még nem ért véget a leszámolás: újabb száz embert tettek lapátra a közmédiánál",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/leszamolas-kozmedia-szaz-ember-kirugas-leepites-mtva?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1794885420,
-    "title_hu": "Még nem ért véget a leszámolás: újabb száz embert tettek lapátra a közmédiánál",
-    "lead_hu": "Az indoklások között szerepelt a propagandacélokat szolgáló tevékenység is.",
-    "content_hu": "Az indoklások között szerepelt a propagandacélokat szolgáló tevékenység is.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
