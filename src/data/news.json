@@ -222,7 +222,7 @@
     "image": "https://pcdn.hu/articles/images-xl/n/y/u/nyugdijas-870792.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 8,
+    "sources_count": 9,
     "sources": [
       {
         "source": "Portfolio - Gazdaság",
@@ -263,14 +263,86 @@
         "source": "Hír TV",
         "title": "A kormány terveivel 2,3 millió nyugdíjas jár rosszul",
         "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nyugdijas-koltsegvetes-14-havi-szep-kartya"
+      },
+      {
+        "source": "ATV",
+        "title": "Később érkezik a pénz a nyugdíjasoknak: a teljes összegre 2030-ig várni kell",
+        "link": "https://www.atv.hu/belfold/20261119/nyugdijas-szep-kartya-tamogatas/"
       }
     ],
     "published_at": 1795081417,
     "title_hu": "Nyugdíjas SZÉP-kártya: 2027-ben indul a támogatás",
     "lead_hu": "A Magyar Közlöny november 18-i számában megjelent határozat alapján 2027-ben kezdődik a nyugdíjasoknak és egyes más ellátások jogosultjainak szánt SZÉP-kártyás támogatás fokozatos bevezetése. A program mintegy 2,2 millió embert érinthet, első évi költségvetési kerete 89,5 milliárd forint; a döntést a 14. havi nyugdíj ügyéről szóló politikai vita is kíséri.",
     "content_hu": "• **Kik lehetnek jogosultak?** A támogatást azok a Magyarországon élő személyek kaphatják, akik nyugdíjban vagy a nyugdíjakkal azonos módon emelendő, a nyugdíjfolyósító által folyósított más ellátásban részesülnek, és valamennyi figyelembe vehető ellátásuk együtt legfeljebb havi 500 ezer forint. A pontosan 250 ezer forintos összeg még az alacsonyabb támogatási sávba esik, az 500 ezer forintos határ pedig még jogosultságot jelent. Például 220 ezer forint saját jogú és 50 ezer forint özvegyi nyugdíj együtt 270 ezer forintot tesz ki, ami a magasabb ellátási sávba sorol.",
-    "importance_score": 100.0,
+    "importance_score": 110.0,
     "top_rank": 3,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_e58c688094",
+    "slug": "a-nyugdijakat-az-otthonteremtest-es-az-anyak-adomentesseget-erinto-modositokat-n-e58c68",
+    "tags": [
+      "fidesz",
+      "koltsegvetes",
+      "nyugdij",
+      "otthon-start",
+      "szja-mentesseg"
+    ],
+    "fingerprint": "0cd44ac4842a3ac7db931fa384d08db2",
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/cR8Vhhwn0hT9E_gzUEHl8uB43vKGqCw-pCHptqcqUt4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMyNDA0Y2IxMzhhZTQxYzdhMWJlNjg4NTBlYTM2NzI5.webp",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Palóc André: A 2027-es büdzsé az átverés költségvetése",
+        "link": "https://hirtv.origo.hu/hirtv-gazdasagi-hirei/2026/11/koltsegvetes-paloc-andre-beremeles-adovaltozas"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Módosító csomagokkal írná át a 2027-es költségvetést a Fidesz",
+        "link": "https://index.hu/belfold/2026/11/19/boka-janos-fidesz-frakciovezeto-orszaggyulesi-kepviselo-bejelentes/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Bóka János: A Fidesz több módosítót is benyújt a költségvetéshez, megtartanák a 40 év feletti anyák szja-mentességét",
+        "link": "https://telex.hu/gazdasag/2026/11/19/boka-janos-bejelentes-2027-es-koltsegvetes-modositasi-javaslatok"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Bóka János: Három fontos módosítót nyújtunk be az „átverés költségvetéséhez”",
+        "link": "https://24.hu/belfold/2026/11/19/boka-janos-2027-koltsegvetes-modosito-javaslatok-fidesz/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Az átverés költségvetését nyújtotta be a Tisza-kormány a Fidesz szerint, listát is készített az ellenzéki párt",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/koltsegvetes-tisza-kormany-fidesz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Három fontos javaslatcsomag a magyar emberek érdekében",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/harom-fontos-javaslatcsomag-a-magyar-emberek-erdekeben"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Az átverés költségvetése: A Fidesz frakcióvezetője három területen kezdeményez módosításokat",
+        "link": "https://www.vadhajtasok.hu/2026/11/19/az-atveres-koltsegvetese-a-fidesz-frakciovezetoje-harom-teruleten-kezdemenyez-modositasokat"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "A Fidesz, a KDNP és a Mi Hazánk módosítókkal bombázza a költségvetést",
+        "link": "https://hvg.hu/gazdasag/20261119_koltsegvetes-2027-torvenytervezet-modositok-fidesz-kdnp-nyugdij-szja"
+      }
+    ],
+    "published_at": 1795081864,
+    "title_hu": "A nyugdíjakat, az otthonteremtést és az anyák adómentességét érintő módosítókat nyújt be a Fidesz",
+    "lead_hu": "Bóka János csütörtökön, Facebook-videóban jelentette be, hogy a Fidesz a következő napokban módosító javaslatcsomagokat terjeszt elő a 2027-es költségvetéshez. A párt a nyugdíjak, az első lakáshoz jutás és a többgyermekes anyák adózása mellett a béremelési ígéretek ügyét is bírálta.",
+    "content_hu": "• **Nyugdíjak** A Fidesz a 14. havi nyugdíj második részletének bevezetését és olyan nyugdíjemelést javasol, amely valamennyi nyugdíjasra kiterjed, arányos módon. Bóka János szerint a költségvetési tervben szereplő emelés nem érint minden nyugdíjast.\n\n• **Első lakás** A párt az Otthon Start program visszaállítását kezdeményezi. Bóka ismertetése szerint a Wekerle Pluszt a 18–41 évesek vehetnék igénybe, a 3 százalékos kamat pedig csak új lakásokra vonatkozna, használt ingatlanok esetén 5 százalékos kamattal számolnak.\n\n• **Édesanyák adózása** A Fidesz visszaállítaná a 40 év feletti, több gyermeket nevelő anyák élethosszig tartó személyijövedelemadó-mentességét. Bóka azt is kifogásolta, hogy a gyermekek utáni szja-kedvezményt szerinte az egymillió forint alatti jövedelműekre korlátoznák.\n\n• **Bérek és vállalkozások** Palóc André szerint a költségvetési tervezet alapján 2027-ben csaknem a felére lassulhat a béremelkedés üteme. A Fidesz képviselője azt mondta, hogy sok vállalkozás a munkahelyek megtartására összpontosít, és a kormánynak teljesítenie kellene a kampányban tett béremelési ígéreteket. A párt bírálta az otthonteremtési program, az árrésstop és a védett üzemanyagár megszüntetésének tervét is.",
+    "importance_score": 95.0,
+    "top_rank": 4,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -341,68 +413,6 @@
     "lead_hu": "A kormány jóváhagyta a 35 évre szóló autópálya-koncesszió közös megegyezéssel történő megszüntetését. A Magyar Közút 2027. április 1-jén veszi át az üzemeltetést, az M1-es egy szakaszán azonban a munkálatok befejezéséig az MKIF marad.",
     "content_hu": "• **Megszűnik a 35 éves koncesszió:** Magyar Péter bejelentette, hogy a kormány lezárja a Mészáros Lőrinc és Szíjj László érdekeltségéhez tartozó MKIF-fel kötött megállapodást. A kabinet a működési kockázatok mérséklése érdekében közös megegyezéssel jutott egyezségre; a megállapodás eredményét már jóváhagyta.\n\n• **2027. április 1-jén kerül át az üzemeltetés:** Az MKIF 2027. március 31-ig felel a gyorsforgalmi úthálózatért, másnaptól pedig a Magyar Közút veszi át a feladatot. Az állami vállalathoz a működéshez szükséges mérnökségek, telephelyek, járművek és munkavállalók is átkerülnek.\n\n• **Az M1-es 78 kilométeres szakasza kivétel:** Az M0-s és Bábolna közötti részen az MKIF befejezheti a 2x3 sávosra bővítést. A munkálatok tervezett befejezése 2028–2029; ezt követően ez a szakasz is a Magyar Közút kezelésébe kerül.\n\n• **A szerződés 1237 kilométert érintett:** A 2022-ben megkötött, 35 évre szóló koncesszió a gyorsforgalmi úthálózat mintegy kétharmadára terjedt ki. A teljes időszakra jelzett állami kifizetés meghaladta a 23 ezer milliárd forintot, a hátralévő időszak becsült átlagos óradíja pedig 77,5 millió forint volt.\n\n• **2022 és 2026 között 1024,9 milliárd forintot fizettek ki:** Vitézy Dávid korábbi összesítése szerint ekkora összeg jutott az MKIF-nek ebben az időszakban.",
     "importance_score": 95.0,
-    "top_rank": 4,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_e58c688094",
-    "slug": "a-nyugdijakat-az-otthonteremtest-es-az-anyak-adomentesseget-erinto-modositokat-n-e58c68",
-    "tags": [
-      "fidesz",
-      "koltsegvetes",
-      "nyugdij",
-      "otthon-start",
-      "szja-mentesseg"
-    ],
-    "fingerprint": "0cd44ac4842a3ac7db931fa384d08db2",
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/cR8Vhhwn0hT9E_gzUEHl8uB43vKGqCw-pCHptqcqUt4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMyNDA0Y2IxMzhhZTQxYzdhMWJlNjg4NTBlYTM2NzI5.webp",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Palóc André: A 2027-es büdzsé az átverés költségvetése",
-        "link": "https://hirtv.origo.hu/hirtv-gazdasagi-hirei/2026/11/koltsegvetes-paloc-andre-beremeles-adovaltozas"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Módosító csomagokkal írná át a 2027-es költségvetést a Fidesz",
-        "link": "https://index.hu/belfold/2026/11/19/boka-janos-fidesz-frakciovezeto-orszaggyulesi-kepviselo-bejelentes/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Bóka János: A Fidesz több módosítót is benyújt a költségvetéshez, megtartanák a 40 év feletti anyák szja-mentességét",
-        "link": "https://telex.hu/gazdasag/2026/11/19/boka-janos-bejelentes-2027-es-koltsegvetes-modositasi-javaslatok"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Bóka János: Három fontos módosítót nyújtunk be az „átverés költségvetéséhez”",
-        "link": "https://24.hu/belfold/2026/11/19/boka-janos-2027-koltsegvetes-modosito-javaslatok-fidesz/"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Az átverés költségvetését nyújtotta be a Tisza-kormány a Fidesz szerint, listát is készített az ellenzéki párt",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/koltsegvetes-tisza-kormany-fidesz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Hír TV",
-        "title": "Három fontos javaslatcsomag a magyar emberek érdekében",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/harom-fontos-javaslatcsomag-a-magyar-emberek-erdekeben"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Az átverés költségvetése: A Fidesz frakcióvezetője három területen kezdeményez módosításokat",
-        "link": "https://www.vadhajtasok.hu/2026/11/19/az-atveres-koltsegvetese-a-fidesz-frakciovezetoje-harom-teruleten-kezdemenyez-modositasokat"
-      }
-    ],
-    "published_at": 1795081864,
-    "title_hu": "A nyugdíjakat, az otthonteremtést és az anyák adómentességét érintő módosítókat nyújt be a Fidesz",
-    "lead_hu": "Bóka János csütörtökön, Facebook-videóban jelentette be, hogy a Fidesz a következő napokban módosító javaslatcsomagokat terjeszt elő a 2027-es költségvetéshez. A párt a nyugdíjak, az első lakáshoz jutás és a többgyermekes anyák adózása mellett a béremelési ígéretek ügyét is bírálta.",
-    "content_hu": "• **Nyugdíjak** A Fidesz a 14. havi nyugdíj második részletének bevezetését és olyan nyugdíjemelést javasol, amely valamennyi nyugdíjasra kiterjed, arányos módon. Bóka János szerint a költségvetési tervben szereplő emelés nem érint minden nyugdíjast.\n\n• **Első lakás** A párt az Otthon Start program visszaállítását kezdeményezi. Bóka ismertetése szerint a Wekerle Pluszt a 18–41 évesek vehetnék igénybe, a 3 százalékos kamat pedig csak új lakásokra vonatkozna, használt ingatlanok esetén 5 százalékos kamattal számolnak.\n\n• **Édesanyák adózása** A Fidesz visszaállítaná a 40 év feletti, több gyermeket nevelő anyák élethosszig tartó személyijövedelemadó-mentességét. Bóka azt is kifogásolta, hogy a gyermekek utáni szja-kedvezményt szerinte az egymillió forint alatti jövedelműekre korlátoznák.\n\n• **Bérek és vállalkozások** Palóc André szerint a költségvetési tervezet alapján 2027-ben csaknem a felére lassulhat a béremelkedés üteme. A Fidesz képviselője azt mondta, hogy sok vállalkozás a munkahelyek megtartására összpontosít, és a kormánynak teljesítenie kellene a kampányban tett béremelési ígéreteket. A párt bírálta az otthonteremtési program, az árrésstop és a védett üzemanyagár megszüntetésének tervét is.",
-    "importance_score": 85.0,
     "top_rank": 5,
     "is_top_hero": false,
     "is_top_list": true
@@ -1629,6 +1639,42 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_2452d09413",
+    "slug": "visszalepett-a-vezerigazgato-palyazattol-a-volt-kz-2452d0",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Visszalépett a vezérigazgató pályázattól a volt közmédiás riporter, akit a választások után függesztettek fel",
+        "link": "https://444.hu/2026/11/19/visszalepett-a-vezerigazgato-palyazattol-a-volt-kozmedias-riporter-akit-a-valasztasok-utan-fuggesztettek-fel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Visszalépett Dávid-Joó Zsanett a vezérigazgatói jelöléstől, miután közölték vele, hogy elküldik a közmédiától",
+        "link": "https://index.hu/belfold/2026/11/19/david-joo-zsanett-visszalepes-vezerigazgato-jelolt-fuggetlen-kozmedia-testulet-mrtv-munkaviszony-megszuntetes/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "A közmédia szerint nem azért küldték el a volt M1-es műsorvezetőt, mert beadta a pályázatát a vezérigazgatói posztra",
+        "link": "https://telex.hu/after/2026/11/19/a-kozmedia-szerint-a-vezerigazgatoi-palyazattol-visszalepo-m1-es-riporter-valotlansagokat-allit-a-felmenteserol"
+      }
+    ],
+    "published_at": 1795083663,
+    "title_hu": "Visszalépett a vezérigazgató pályázattól a volt közmédiás riporter, akit a választások után függesztettek fel",
+    "lead_hu": "A Független Közmédia Testület tagjai értetlenül fogadták Dávid-Joó Zsanett bejelentését.",
+    "content_hu": "A Független Közmédia Testület tagjai értetlenül fogadták Dávid-Joó Zsanett bejelentését.",
+    "importance_score": 50.0,
+    "top_rank": 29,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_a844bc1467",
     "slug": "harom-helyen-trt-el-toth-balazs-keze-az-eszakirek-elleni-merkozesen-a844bc",
     "tags": [
@@ -1675,7 +1721,7 @@
     "lead_hu": "Tóth Balázs három kézközépcsontja is eltört a magyar válogatott Észak-Írország elleni, 1–1-re végződő Nemzetek Ligája-meccsén. A kapus a 61. percben sérült meg, de a találkozó végéig a pályán maradt; felépülése várhatóan hat-nyolc hetet vesz igénybe.",
     "content_hu": "• **Három törés a kézen** A vizsgálatok megállapították, hogy a Blackburn Rovers 29 éves kapusának kézközépcsontja három helyen sérült meg az északírek elleni találkozón.\n\n• **A mérkőzés végéig védett** Tóth a 61. percben, egy védés után sérült meg, de az 1–1-es végeredménnyel zárult mérkőzés hátralévő részét is a kapuban töltötte.\n\n• **Gipsz és hat-nyolc hetes gyógyulás** A kapus keze gipszbe került, és jelen állás szerint nem lesz szükség műtétre. A rehabilitáció várhatóan hat-nyolc hétig tart, a játékos specialistákkal is egyeztetne a felépülésről.\n\n• **Második helyen zárt a magyar válogatott** A Nemzetek Ligája B divíziójában Magyarország a második helyen végzett, így márciusban osztályozón küzdhet az élvonalba jutásért.",
     "importance_score": 50.0,
-    "top_rank": 29,
+    "top_rank": 30,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1722,7 +1768,7 @@
     "lead_hu": "A Grand Theft Auto VI 146 kritika alapján 99 ponton áll a Metacriticen, ezzel az Ocarina of Time eredményét is elérte. Az első beszámolók a főszereplők kapcsolatáról és a játék méretéről is részleteket közöltek, miközben az eladásokra és a Take-Two részvényeire vonatkozó adatok is megjelentek.",
     "content_hu": "• **99 pontos átlag 146 kritika alapján** A GTA VI a Metacriticen 99 ponton áll, és a közzétett értékelések összesítése teljesen pozitív. Egy kritika ugyanakkor 90 pontnál alacsonyabb eredményt adott neki.\n\n• **Holtverseny az örökranglista élén** A játék az 1998-as The Legend of Zelda: Ocarina of Time-mal osztozik a Metacritic legmagasabb pontszámán. A GTA IV 98, a GTA V pedig 97 pontot kapott.\n\n• **Több lap maximális értékelést adott** A Gamespot, az IGN, az Edge Magazine, a Guardian, az Eurogamer, a Game Informer és a Forbes is a lehető legmagasabb pontszámot közölte.\n\n• **Jason és Lucia kapcsolata a játékos döntéseitől is függhet** Rob Nelson producer elmondása szerint a két főszereplő autólopás közben találkozik, a köztük kialakuló románc pedig a játékos választásaitól is függhet.\n\n• **Körülbelül 50 órás fő történet** A játék fő történetszála a közölt becslés szerint nagyjából 50 órányi tartalmat kínál.\n\n• **Leonidába és Vice Citybe helyeződik át a cselekmény** A GTA VI a Floridát idéző Leonida államban, azon belül a Miamiról mintázott Vice Cityben játszódik. A program PlayStation 5-re, valamint Xbox Series X és S konzolokra jelent meg.\n\n• **Jelentős eladásokról és részvényemelkedésről szóló becslések** A Sensor Tower adatai alapján több mint 17 millió példány fogyhatott a játékból, 1,65 milliárd dollárt meghaladó bevétellel. A Take-Two részvényei szerdán 6,5 százalékkal erősödtek.\n\n• **Magyarországon november 19-én, éjfél után egy perccel vált elérhetővé** A nemzetközi megjelenés az egyes országok helyi idejéhez igazodott.",
     "importance_score": 48.0,
-    "top_rank": 30,
+    "top_rank": 31,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1767,52 +1813,6 @@
     "title_hu": "Hadházy Ákos felméri egy új ellenzéki párt létrehozásának esélyét",
     "lead_hu": "Hadházy Ákos azt vizsgálja, van-e kellő támogatás egy új, felelős ellenzéki párt megalapításához. A kezdeményezéshez a tisztessegesmagyarorszagert.hu oldalon lehet csatlakozni, miközben a politikus állatorvosként is dolgozik.",
     "content_hu": "• **Új politikai szervezet lehetősége** Hadházy Ákos volt országgyűlési képviselő felméri, mutatkozik-e igény és támogatás egy új ellenzéki párt létrehozására. Megfelelő érdeklődés esetén a szervezetet a kezdeményezőkkel közösen alapítanák meg.\n\n• **Jelentkezési felület** A csatlakozni és anyagilag hozzájárulni kívánók a tisztessegesmagyarorszagert.hu oldalon jelezhetik szándékukat.\n\n• **A kezdeményezés indoka** Hadházy szerint szükség van a kormányzati hatalom ellenőrzésére, és a parlamentben jelenleg nem működik hiteles ellenzéki ellensúly. A korrupció elleni fellépést és a közéleti munkát is folytatná.",
-    "importance_score": 48.0,
-    "top_rank": 31,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_3ff4c89b60",
-    "slug": "hegedus-zsolt-etikai-kifogasokat-fogalmazott-meg-kuroli-eniko-bejegyzese-miatt-3ff4c8",
-    "tags": [
-      "hegedus-zsolt",
-      "magyar-peter",
-      "orvosetika",
-      "esemeny-utani-tabletta"
-    ],
-    "fingerprint": "b147fff2ee003dbc3c05485ec460c602",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261119/1795062478-temp-9h3le3nn5u4d1jpbgfd_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Hegedűs a Magyar Péter kiszakadt óvszerére reagáló bőrgyógyászról: Tapintatlan és aránytalan volt ezt nyilvánosan megkérdezni",
-        "link": "https://telex.hu/belfold/2026/11/19/hegedus-zsolt-magyar-peter-vedekezes-borgyogyasz-etikai-ajanlas"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Hegedűs Zsolt szerint etikai kódexet sértett a Magyar Péter óvszerhasználatát számonkérő orvos",
-        "link": "https://hvg.hu/itthon/20261119_hegedus-zsolt-mok-etikai-kodex-kuroli-eniko-magyar-peter-ovszer"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Hegedűs Zsolt sietett Magyar Péter segítségére az óvszeres ügyben: ő is nekiment a főorvosnak",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/hegedus-zsolt-magyar-peter-ovszer-foorvos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Hegedűs Zsolt sietett Rovar úr segítségére az óvszeres ügyben: ő is nekiment a főorvosnak",
-        "link": "https://www.vadhajtasok.hu/2026/11/19/hegedus-zsolt-sietett-rovar-ur-segitsegere-az-ovszeres-ugyben-o-is-nekiment-a-foorvosnak"
-      }
-    ],
-    "published_at": 1795066746,
-    "title_hu": "Hegedűs Zsolt etikai kifogásokat fogalmazott meg Kuroli Enikő bejegyzése miatt",
-    "lead_hu": "Hegedűs Zsolt egészségügyi miniszter szerint Kuroli Enikő orvos több etikai elvárástól eltérően kommentálta Magyar Péter 27 évvel ezelőtti történetét. A miniszter a bejegyzés módosítását és nyilvános bocsánatkérést tartana indokoltnak.",
-    "content_hu": "• **Etikai kifogások:** Hegedűs Zsolt Facebook-bejegyzésében az Egészségügyi Minisztérium és a Magyar Orvosi Kamara etikai iránymutatásaira, valamint az Egészségügyi Tudományos Tanács Orvosetikai Kódexére hivatkozott. Szerinte Kuroli Enikő megnyilvánulásai ronthatják az orvosi hivatásba vetett közbizalmat, és kellemetlen helyzetbe hozták Magyar Pétert.\n\n• **A kifogásolt kérdés:** Kuroli, a Semmelweis Egyetem klinikai főorvosa és bőrgyógyász szakorvos az esemény utáni tabletta vénykötelességéről szóló vita után írt a fogamzásgátlásról. Egy hozzászólásban arra kérdezett rá, hogy Magyar használt-e óvszert az általa 18 éves korából felidézett együttlét során.\n\n• **A miniszter érvei:** Hegedűs szerint Kuroli a körülmények tisztázása előtt azt a benyomást kelthette, hogy Magyar nem védekezett. A miniszter azt is aránytalannak tartotta, hogy a doktornő a szifilisz kockázatát is összekapcsolta a történettel; szerinte a sürgősségi fogamzásgátlásra akkor is szükség lehet, ha az óvszer elszakad.\n\n• **Magyar válasza:** A miniszterelnök azt közölte, hogy az együttlétkor használtak óvszert, de az elszakadt. A Magyar Nemzet és a Vadhajtások beszámolója szerint Magyar a doktornővel szemben személyeskedő hangú bejegyzést tett közzé; ezek a források azt is megjegyezték, hogy Hegedűs erre nem tért ki.\n\n• **Hegedűs javaslata:** A miniszter a kifogásolt bejegyzés átírását és Kuroli nyilvános bocsánatkérését nevezte megfelelő lépésnek. Korábban a Magyar Orvosi Kamara Etikai Kollégiumának elnöke volt.",
     "importance_score": 48.0,
     "top_rank": 32,
     "is_top_hero": false,
@@ -2065,32 +2065,47 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_2452d09413",
-    "slug": "visszalepett-a-vezerigazgato-palyazattol-a-volt-kz-2452d0",
+    "group_id": "group_3ff4c89b60",
+    "slug": "hegedus-zsolt-etikai-kifogasokat-fogalmazott-meg-kuroli-eniko-bejegyzese-miatt-3ff4c8",
     "tags": [
-      "politika"
+      "hegedus-zsolt",
+      "magyar-peter",
+      "orvosetika",
+      "esemeny-utani-tabletta"
     ],
+    "fingerprint": "b147fff2ee003dbc3c05485ec460c602",
     "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 2,
+    "image": "https://assets.telex.hu/images/20261119/1795062478-temp-9h3le3nn5u4d1jpbgfd_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
     "sources": [
       {
-        "source": "444.hu",
-        "title": "Visszalépett a vezérigazgató pályázattól a volt közmédiás riporter, akit a választások után függesztettek fel",
-        "link": "https://444.hu/2026/11/19/visszalepett-a-vezerigazgato-palyazattol-a-volt-kozmedias-riporter-akit-a-valasztasok-utan-fuggesztettek-fel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        "source": "Telex - Belföld",
+        "title": "Hegedűs a Magyar Péter kiszakadt óvszerére reagáló bőrgyógyászról: Tapintatlan és aránytalan volt ezt nyilvánosan megkérdezni",
+        "link": "https://telex.hu/belfold/2026/11/19/hegedus-zsolt-magyar-peter-vedekezes-borgyogyasz-etikai-ajanlas"
       },
       {
-        "source": "Index - Címlap",
-        "title": "Visszalépett Dávid-Joó Zsanett a vezérigazgatói jelöléstől, miután közölték vele, hogy elküldik a közmédiától",
-        "link": "https://index.hu/belfold/2026/11/19/david-joo-zsanett-visszalepes-vezerigazgato-jelolt-fuggetlen-kozmedia-testulet-mrtv-munkaviszony-megszuntetes/"
+        "source": "HVG - Itthon",
+        "title": "Hegedűs Zsolt szerint etikai kódexet sértett a Magyar Péter óvszerhasználatát számonkérő orvos",
+        "link": "https://hvg.hu/itthon/20261119_hegedus-zsolt-mok-etikai-kodex-kuroli-eniko-magyar-peter-ovszer"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Hegedűs Zsolt sietett Magyar Péter segítségére az óvszeres ügyben: ő is nekiment a főorvosnak",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/hegedus-zsolt-magyar-peter-ovszer-foorvos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Hegedűs Zsolt sietett Rovar úr segítségére az óvszeres ügyben: ő is nekiment a főorvosnak",
+        "link": "https://www.vadhajtasok.hu/2026/11/19/hegedus-zsolt-sietett-rovar-ur-segitsegere-az-ovszeres-ugyben-o-is-nekiment-a-foorvosnak"
       }
     ],
-    "published_at": 1795083663,
-    "title_hu": "Visszalépett a vezérigazgató pályázattól a volt közmédiás riporter, akit a választások után függesztettek fel",
-    "lead_hu": "A Független Közmédia Testület tagjai értetlenül fogadták Dávid-Joó Zsanett bejelentését.",
-    "content_hu": "A Független Közmédia Testület tagjai értetlenül fogadták Dávid-Joó Zsanett bejelentését.",
-    "importance_score": 40.0,
+    "published_at": 1795066746,
+    "title_hu": "Hegedűs Zsolt etikai kifogásokat fogalmazott meg Kuroli Enikő bejegyzése miatt",
+    "lead_hu": "Hegedűs Zsolt egészségügyi miniszter szerint Kuroli Enikő orvos több etikai elvárástól eltérően kommentálta Magyar Péter 27 évvel ezelőtti történetét. A miniszter a bejegyzés módosítását és nyilvános bocsánatkérést tartana indokoltnak.",
+    "content_hu": "• **Etikai kifogások:** Hegedűs Zsolt Facebook-bejegyzésében az Egészségügyi Minisztérium és a Magyar Orvosi Kamara etikai iránymutatásaira, valamint az Egészségügyi Tudományos Tanács Orvosetikai Kódexére hivatkozott. Szerinte Kuroli Enikő megnyilvánulásai ronthatják az orvosi hivatásba vetett közbizalmat, és kellemetlen helyzetbe hozták Magyar Pétert.\n\n• **A kifogásolt kérdés:** Kuroli, a Semmelweis Egyetem klinikai főorvosa és bőrgyógyász szakorvos az esemény utáni tabletta vénykötelességéről szóló vita után írt a fogamzásgátlásról. Egy hozzászólásban arra kérdezett rá, hogy Magyar használt-e óvszert az általa 18 éves korából felidézett együttlét során.\n\n• **A miniszter érvei:** Hegedűs szerint Kuroli a körülmények tisztázása előtt azt a benyomást kelthette, hogy Magyar nem védekezett. A miniszter azt is aránytalannak tartotta, hogy a doktornő a szifilisz kockázatát is összekapcsolta a történettel; szerinte a sürgősségi fogamzásgátlásra akkor is szükség lehet, ha az óvszer elszakad.\n\n• **Magyar válasza:** A miniszterelnök azt közölte, hogy az együttlétkor használtak óvszert, de az elszakadt. A Magyar Nemzet és a Vadhajtások beszámolója szerint Magyar a doktornővel szemben személyeskedő hangú bejegyzést tett közzé; ezek a források azt is megjegyezték, hogy Hegedűs erre nem tért ki.\n\n• **Hegedűs javaslata:** A miniszter a kifogásolt bejegyzés átírását és Kuroli nyilvános bocsánatkérését nevezte megfelelő lépésnek. Korábban a Magyar Orvosi Kamara Etikai Kollégiumának elnöke volt.",
+    "importance_score": 43.0,
     "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
@@ -2199,42 +2214,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_eb71d8a2f4",
-    "slug": "vadat-emeltek-nagykors-volt-es-jelenlegi-polgarmestere-ugyeben-eb71d8",
-    "tags": [
-      "nagykoros",
-      "czira-szabolcs",
-      "kortvelyesi-attila",
-      "hutlen-kezeles"
-    ],
-    "fingerprint": "dde3ddc8b2caf4c751da9d04558bfc24",
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/kortvelyesi-e1795073089994-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Bíróság elé állítják Nagykőrös jelenlegi és volt fideszes polgármesterét",
-        "link": "https://24.hu/belfold/2026/11/19/czira-kortvelyesi-hutlen-kezeles-vadirat-breaking/"
-      },
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Hűtlen kezelés miatt áll bíróság elé Nagykőrös volt és jelenlegi fideszes polgármestere",
-        "link": "https://hvg.hu/gazdasag/20261119_hutlen-kezeles-polgarmester-vadirat-nagykoros-czira-szabolcs"
-      }
-    ],
-    "published_at": 1795077851,
-    "title_hu": "Vádat emeltek Nagykőrös volt és jelenlegi polgármestere ügyében",
-    "lead_hu": "Négy ember ellen emelt vádat a Ceglédi Járási Ügyészség egy önkormányzati autó értékesítésével összefüggő ügyben. A vádlottak között a sajtó információi szerint Czira Szabolcs korábbi és Körtvélyesi Attila jelenlegi nagykőrösi polgármester is szerepel.",
-    "content_hu": "• **Négy vádlott** A Ceglédi Járási Ügyészség minősített hűtlen kezelés és más bűncselekmények miatt indított bírósági eljárást; az ügyészség szerint az autóügylet több millió forint vagyoni hátrányt okozott.\n\n• **Az érintettek** A sajtó beszámolói alapján a vádlottak között van Czira Szabolcs volt polgármester és Körtvélyesi Attila jelenlegi városvezető. Az egyik cikk a település jegyzőjét és Czira feleségét is az ügy érintettjeként nevezi meg.\n\n• **A szolgálati autó** Az önkormányzat 2024 októberében 980 ezer forintért értékesítette Czira korábbi Skoda Superb szolgálati autóját. A járművet 2020-ban 11,776 millió forintért vásárolták.\n\n• **Az ügyészségi állítás** A vádirat szerint a leköszönő és az új polgármester abban állapodott meg, hogy az autó Czira birtokában maradjon, majd a valós értékénél jóval olcsóbban kerüljön az érdekeltségébe.",
-    "importance_score": 40.0,
-    "top_rank": 43,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_546041daf5",
     "slug": "lengyelorszagban-ujabb-lepes-trtent-az-alkotmanybirosag-kruli-konfliktusban-546041",
     "tags": [
@@ -2276,7 +2255,7 @@
     "lead_hu": "Waldemar Zurek igazságügyi miniszter és főügyész kezdeményezésére megvonták Bogdan Swieczkowski alkotmánybírósági elnök és Bartlomiej Sochanski alelnök mentelmi jogát. Swieczkowski előzetes letartóztatását nem engedélyezték, mindkét bírót felfüggesztették feladatai ellátásából, és mérsékelték a fizetésüket.",
     "content_hu": "• **A mentelmi jog megvonását Zurek kezdeményezte** A nyolctagú testület Anna Korwin-Piotrowska vezetésével kedden döntött Bogdan Swieczkowski és Bartlomiej Sochanski ügyében; határozatát szerdán ismertették. Swieczkowski előzetes letartóztatását nem hagyták jóvá, a két bírót felfüggesztették alkotmánybírói feladatai ellátásából, fizetésüket pedig csökkentették.\n\n• **Vitatott az új bírák kinevezése és a testület vezetése** A 15 fős alkotmánybíróságba a parlament március óta nyolc tagot választott, Karol Nawrocki államfő közülük hármat iktatott be. Öten a parlamentben esküdtek fel, amit az államfő nem fogad el. Korwin-Piotrowska október végén ideiglenesen átvette a bíróság irányítását, és felfüggesztette Swieczkowskit, valamint Sochanskit elnöki, illetve alelnöki tisztségéből.\n\n• **A székház használata is a konfliktus része** Korwin-Piotrowska csoportja rendőri támogatással jutott be az épületbe. Swieczkowski és Sochanski, valamint az előző kormány idején kinevezett hét bíró nem használhatja a székházat.\n\n• **A Legfelsőbb Bíróság érvénytelennek ítélte az októberi felfüggesztést** A testület Korwin-Piotrowska intézkedését vizsgálta, ő azonban nem fogadta el a döntést.\n\n• **Több eljárás is folyik a két vezető ellen** Zurek felelősségre vonásukat kezdeményezte többek között azért, mert nem tették lehetővé az államfő által be nem iktatott bírák munkába állását. Az egyik, Swieczkowskit érintő ügy a Pegasus kémszoftver beszerzésére vonatkozik, arra az időszakra, amikor 2016 és 2022 között államügyész volt.\n\n• **Swieczkowski vitatja a döntés érvényességét** Ő és Sochanski nem vett részt a mentelmi ügyük tárgyalásán, ügyvédeik képviselték őket. A védők kifogásolták, hogy zárt ajtók mögött tartották az ülést, és nem láthatták az iratokat. Swieczkowski szerint az összejövetel nem felelt meg az alkotmánybírósági közgyűlés feltételeinek.",
     "importance_score": 40.0,
-    "top_rank": 44,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2323,7 +2302,7 @@
     "lead_hu": "A 4iG és az amerikai Sentinel Midstream november 18-án, Varsóban nem kötelező erejű előzetes együttműködést írt alá adriai fejlesztések előkészítéséről. A tervek az LNG és más folyékony szénhidrogének tárolását, szállítását és energiatermelési felhasználását, valamint a szükséges infrastruktúra kialakítását érintik.",
     "content_hu": "• **Varsói megállapodás** Jászai Gellért, a 4iG elnök-vezérigazgatója és Jeff Ballard, a Sentinel Midstream vezérigazgatója 2026. november 18-án írta alá az előzetes dokumentumot a P-TEC miniszteri találkozóján. A rendezvényt az amerikai és a lengyel energiaügyi minisztérium, valamint az Atlantic Council Global Energy Center szervezte.\n\n• **A fejlesztések tervezett területei** Az együttműködés az adriai térségben az LNG és más folyékony szénhidrogének fogadását, tárolását, szállítását és energiatermelési célú felhasználását, továbbá az ehhez kapcsolódó infrastruktúrát öleli fel.\n\n• **A 4iG energetikai tervei** A társaság augusztusban bejelentett stratégiai üzletágában működő energiatermelő eszközök megszerzését, új kapacitások fejlesztését és korszerű energetikai technológiák regionális meghonosítását is célul tűzte ki.\n\n• **A Sentinel tapasztalata** A dallasi központú amerikai vállalat mélyvízi szénhidrogén-kikötők, valamint az ezekhez kapcsolódó vezetékes és tárolói rendszerek fejlesztésével foglalkozik. Ismert projektje a Mexikói-öbölben tervezett Texas GulfLink exportterminál.\n\n• **A megvalósítás feltételei** Az egyes beruházások elindításához további egyeztetésekre, üzleti átvilágításra és hatósági engedélyekre van szükség.\n\n• **Lehetséges regionális hatás** A tervezett tárolók és szállítási útvonalak új beszerzési lehetőségeket teremthetnek, és hozzájárulhatnak Közép-Kelet-Európa, valamint a Nyugat-Balkán energiaellátásának diverzifikálásához és kiszámíthatóbbá tételéhez.",
     "importance_score": 40.0,
-    "top_rank": 45,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2364,7 +2343,7 @@
     "lead_hu": "A spanyol központi büntetőbíróság nyomozást rendelt el, miután két volt alkalmazott feljelentette Julio Iglesiast. A bejelentők szerint az énekes 2021-ben zaklatta és szexuálisan bántalmazta őket; Iglesias tagadja a vádakat.",
     "content_hu": "• **Két volt alkalmazott tett feljelentést** Julio Iglesias ellen: egy háztartási dolgozó és egy gyógytornász állítása szerint 2021-ben zaklatás, szexuális erőszak és megalázó bánásmód érte őket.\n\n• **A bíróság nyomozást rendelt el** szexuális önrendelkezés elleni bűncselekmények, testi sértés és megalázó bánásmód gyanújának vizsgálatára. A panaszosok fényképeket is benyújtottak, amelyeken egyikük sérülései láthatók.\n\n• **A spanyol hatóságok járnak el az ügyben**, noha a feljelentés az énekes Dominikai Köztársaságban és a Bahama-szigeteken lévő rezidenciáit nevezi meg helyszínként. A bíróság szerint Iglesias spanyol állampolgársága miatt érvényesül a spanyol joghatóság.\n\n• **A panaszosokat február elején hallgatják meg személyesen.** Iglesias tagadta az állításokat, és jogi lépéseket tett az ügyet elsőként ismertető eldiario.es ellen.",
     "importance_score": 38.0,
-    "top_rank": 46,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2400,7 +2379,7 @@
     "lead_hu": "",
     "content_hu": "",
     "importance_score": 38.0,
-    "top_rank": 47,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2441,7 +2420,7 @@
     "lead_hu": "Kuroli Enikő, a Semmelweis Egyetem klinikai főorvosa elnézést kért, amiért egy Facebook-bejegyzésben Magyar Péter 27 évvel ezelőtti szexuális együttlétéről kérdezett. A posztot törölte, miután a miniszterelnök és Hegedűs Zsolt egészségügyi miniszter is reagált a történtekre.",
     "content_hu": "• **Kuroli Enikő bocsánatot kért** a közösségi oldalán közzétett bejegyzés miatt, amelyben Magyar Pétert az óvszerhasználatáról kérdezte egy csaknem három évtizeddel korábbi együttléte kapcsán.\n\n• **Az orvos törölte a posztot.** Bocsánatkérésében azt írta, hibázott, és sajnálja, ha a közlése bárkit megsértett.\n\n• **Magyar Péter szerint használtak óvszert**, az azonban kiszakadt az említett alkalommal. A miniszterelnök kifogásolta, hogy egy orvos nyilvánosan kérdezte a magánéletéről.\n\n• **Hegedűs Zsolt a közlés pontosítását és a bocsánatkérést szorgalmazta.** Az egészségügyi miniszter az orvosok közösségi médiás kommunikációjára vonatkozó etikai elvekre is hivatkozott.",
     "importance_score": 38.0,
-    "top_rank": 48,
+    "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2482,7 +2461,7 @@
     "lead_hu": "A Honvédelmi Minisztérium Védelemgazdasági Hivatala október 26-án bruttó 661 millió forintos megállapodást írt alá a Gyulai „Fafém” Bútor Zrt.-vel. A szerződés öt nappal azután született, hogy elfogatóparancsot adtak ki Stofa György és Matolcsy Ádám ellen az MNB-ügyben.",
     "content_hu": "• **A szerződés értéke és tárgya** A Védelemgazdasági Hivatal bruttó 661 millió forint értékben bízta meg a Gyulai „Fafém” Bútor Zrt.-t irodai székek szállításával és beépíthető szekrények gyártásával. A társaság konzorciumi partnere a miskolci Iroda 2000 Kft.\n\n• **A szerződéskötés időpontja** A megállapodást október 26-án írták alá, öt nappal azután, hogy elfogatóparancsot adtak ki Stofa György és Matolcsy Ádám ellen. A 444.hu beszámolója szerint a nemzetközi elfogatóparancs másnap született meg.\n\n• **A vállalat tulajdonosi háttere** A Gyulai „Fafém” Bútor Zrt. Stofa György érdekeltségébe tartozik; az Index beszámolója szerint egy másik társaságon keresztül 99 százalékban az övé.\n\n• **A beszerzés kerete** A megrendelés a Közbeszerzési és Ellátási Főigazgatóság nettó 50 milliárd forintos irodabútor-beszerzési keretmegállapodásához kapcsolódik. A konkrét beszerzés verseny-újranyitásos eljárásban történt.\n\n• **A teljesítés állapota** A KEF közlése szerint a szerződéseket már aláírták, de a KEF Portálon még nem szerepelt teljesítés.",
     "importance_score": 38.0,
-    "top_rank": 49,
+    "top_rank": 48,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2518,7 +2497,7 @@
     "lead_hu": "A MÁV azonnali hatállyal bezárta a Keleti pályaudvar közelében működő járműjavítót, mert a csarnok tetőszerkezete veszélyessé vált. A telephelyen mintegy 160 vasúti kocsi karbantartását végzik; a feladatok átszervezése már folyamatban van.",
     "content_hu": "• **Azonnali bezárás:** Hegyi Zsolt, a MÁV vezérigazgatója a műhely lezárásáról döntött, miután az épület faszerkezetű teteje elkorhadt, és a munkavégzés kockázatossá vált.\n\n• **Mintegy 160 kocsi érintett:** A telephelyen többek között a Keletiből induló InterCity- és nemzetközi járatok, valamint háló-, fekvőhelyes és étkezőkocsik karbantartását végzik.\n\n• **Átszervezik a karbantartást:** A MÁV szakemberei keresik a feladatok más helyszínen történő ellátásának módját, és ideiglenes megoldással a csarnok egy részét is újra használhatóvá tennék.\n\n• **Új telephely lehetősége is felmerült:** A végleges helyreállítás akár évekig tarthat, költsége pedig milliárdos nagyságrendű lehet, ezért a vasúttársaság azt is mérlegeli, hogy Budapest külső részén építsen korszerűbb műhelyt.",
     "importance_score": 35.0,
-    "top_rank": 50,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2554,7 +2533,7 @@
     "lead_hu": "Új szabályozás és 21,6 milliárd forintos keret segíti a csípő- és térdprotézis-műtétekre várók ellátásának felgyorsítását. A kórházak a műtétek után kapott többletforrás nagy részét az ellátásban és a várólisták kezelésében dolgozók díjazására fordítják.",
     "content_hu": "• **Emelt finanszírozás** A várólistáról elvégzett csípő- és térdprotézis-műtétek után az intézmények az alapfinanszírozás 130 százalékát kapják.\n\n• **A többlet felosztása** A kiegészítő összeg 80 százaléka az ellátásban, illetve a várólisták kezelésében részt vevők juttatására szolgál; a fennmaradó rész a program működtetését fedezheti. A kórházaknak igazolniuk kell a pénz felhasználását, a szabálytalan kiadásokat levonhatják a későbbi finanszírozásból.\n\n• **Várakozási célok** A program célkitűzése, hogy 2027 végére a protézisműtétekre váróknak fekvőbeteg-ellátásban hat hónapnál, járóbeteg-ellátásban pedig két hónapnál kevesebbet kelljen várniuk.\n\n• **Hosszabb várakozás** A NEAK adatai alapján a térdprotézis-műtétek átlagos várakozási ideje 2019 és 2026 augusztusa között 126 napról 295 napra, a csípőprotéziseké 88 napról 145 napra nőtt.",
     "importance_score": 35.0,
-    "top_rank": 51,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2590,7 +2569,7 @@
     "lead_hu": "November 19-én nem változtak az üzemanyagok országos átlagárai az előző naphoz képest. A benzin és a gázolaj ára az előző napok mérséklődése után maradt változatlan.",
     "content_hu": "• **Változatlan árak** November 19-én a benzin és a dízel országos átlagára is az előző napi szinten maradt a Holtankoljak.hu adatai szerint.\n\n• **A tankolás költsége** Az 50 literes tank megtöltése benzinnel 29 400, gázolajjal 34 950 forintba került; a különbség 5550 forint volt.\n\n• **Eltérő helyi árak** Az országos átlagoktól az egyes településeken és az autópályák mentén eltérő árakkal találkozhattak az autósok.",
     "importance_score": 35.0,
-    "top_rank": 52,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2626,7 +2605,7 @@
     "lead_hu": "Csütörtökön délnyugat felől gyorsan erősödő ciklon éri el Magyarországot, amely többfelé tartós esőt és erős széllökéseket okozhat. A déli országrészben zivatar, intenzív csapadék és jégeső is előfordulhat.",
     "content_hu": "• **Délnyugat felől érkezik a ciklon** A HungaroMet előrejelzése szerint a légörvény csütörtökön gyorsan mélyül, és a nap második felében, valamint éjjel többfelé csapadékot hoz.\n\n• **Helyenként 30–40 milliméter eső hullhat** Csütörtök késő délután és éjfél között egyes térségekben 20–25 milliméternél is több csapadék várható, kisebb körzetekben pedig a mennyiség elérheti a 30–40 millimétert.\n\n• **A déli területeken zivatarok is kialakulhatnak** A zivatarokat intenzív eső, jégeső, valamint óránként 60–80 kilométeres széllökések kísérhetik.\n\n• **A legerősebb széllökések elérhetik a 90 kilométer/órát** Estétől főként a Dél-Dunántúlon és az Alföldön erősödhet viharossá a szél; a déli határ közelében és délkeleten lehetnek a legnagyobb lökések.",
     "importance_score": 35.0,
-    "top_rank": 53,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2662,7 +2641,7 @@
     "lead_hu": "A Központi Nyomozó Főügyészség három hónappal meghosszabbítaná Matolcsy György és Valkó Mihály letartóztatását. A volt jegybankelnök így karácsonykor is fogva maradhat, amennyiben a bíróság helyt ad az indítványnak.",
     "content_hu": "• **Három hónapos hosszabbítás** A főügyészség Matolcsy György és Valkó Mihály letartóztatásának meghosszabbítását kérte; az indítványról a bíróság dönt.\n\n• **Október 23. óta vannak letartóztatásban** A volt jegybankelnököt és két társát a folyamatban lévő nyomozásban vették őrizetbe, majd tartóztatták le.\n\n• **A harmadik gyanúsított ügyében más intézkedést javasoltak** Sándor Tamás ügyvéd esetében a főügyészség technikai nyomkövetés mellett, lakóhelyre korlátozott bűnügyi felügyeletet indítványozott.\n\n• **Az ügy egy értékpapír-kölcsönszerződéshez kapcsolódik** A vizsgálat tárgya egy 2025. február 28-án kötött megállapodás, amely az Optima Befektetési Zrt. részvényeire vonatkozott.",
     "importance_score": 35.0,
-    "top_rank": 54,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2698,7 +2677,7 @@
     "lead_hu": "A Független Közmédia Testület csütörtökön és pénteken hallgatja meg a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára pályázó 14 jelöltet. A meghallgatásokat élőben közvetítik, a kiválasztás két szakaszban zajlik.",
     "content_hu": "• **Tizennégy pályázó maradt versenyben**: a 27 jelentkező közül 13 pályázatot érvénytelennek minősítettek.\n\n• **A meghallgatások két napig tartanak**: a jelöltek bemutatják vezetői elképzeléseiket, majd válaszolnak a testület kérdéseire. Az eseményt az FKT honlapján élőben lehet követni.\n\n• **Két lépésben választanak vezetőt**: először a pályázók alkalmasságáról döntenek, ezt követően a legtöbb támogatást elnyerő két jelölt közül választanak.\n\n• **A kinevezés határozatlan időre szól**: a vezérigazgató havi bruttó alapbére legfeljebb 2 904 600 forint lehet.",
     "importance_score": 35.0,
-    "top_rank": 55,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2734,7 +2713,7 @@
     "lead_hu": "A Füzesabonyi Járási Ügyészség vádat emelt egy óvodavezető ellen, akit két rendbeli kiskorú veszélyeztetésével gyanúsítanak. Az ügyészség felfüggesztett szabadságvesztést és a gyermekekkel kapcsolatos munkavégzéstől való eltiltást indítványozott.",
     "content_hu": "• **Négy éven át vezette az óvodát** a vádlott egy Füzesabony közelében található településen; az ügyészség szerint ez idő alatt megalázó büntetéseket alkalmazott a rábízott gyermekekkel szemben.\n\n• **Egy kisfiút szappanos víz megivására kényszerített** 2025-ben, miután a gyermek korábban folyékony szappant tett társai poharába. Egy másik alkalommal vízzel öntötte le a fiút, mert nem akarta megenni az ebédjét.\n\n• **Egy kislánynak nem engedte az alsóneműje cseréjét**; az ügyészség szerint a dajkáknak is megtiltotta, hogy tiszta ruhát adjanak neki, ami miatt a gyermeket később csúfolták a társai.\n\n• **Felfüggesztett szabadságvesztést és foglalkozástól eltiltást kértek**: a vádirat két rendbeli kiskorú veszélyeztetéséről szól, a bíróság pedig az ügyészségi indítvány alapján dönt majd.",
     "importance_score": 35.0,
-    "top_rank": 56,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2770,7 +2749,7 @@
     "lead_hu": "A GKI becslése szerint a GTA VI megjelenése miatt csütörtökön 25–110 ezer magyar munkavállaló maradhat ki a munkából, a középérték 50–60 ezer fő. A pénteki hosszú hétvége további 7–55 ezer távolmaradást hozhat.",
     "content_hu": "• **Több tízezres távolmaradásra számít a GKI:** A kutatóintézet becslése szerint a játék premierjének napján legalább 25 ezer, legfeljebb 110 ezer dolgozó nem mehet be munkahelyére; a középérték körülbelül 55 ezer fő.\n\n• **Pénteken is sokan maradhatnak otthon:** A hosszú hétvége miatt további 7–55 ezer munkavállaló vehet ki szabadságot.\n\n• **A munkaidő értéke elérheti az 5,5 milliárd forintot:** A kieső munkaidő becsült értéke 1,5–5,5 milliárd forint, miközben a játékra az első héten 3–9 milliárd forintot költhetnek a magyar vásárlók.\n\n• **Korlátozott konzolválaszték mellett jelenik meg a játék:** A GTA VI PlayStation 5-re és Xbox Series konzolokra érkezik; a GKI becslése szerint 280–500 ezer magyar háztartásban lehet megfelelő készülék.\n\n• **A teljes gazdasági hatás várhatóan csekély:** A GKI szerint az esetleges munkahelyi hatások főként a fiatalokat foglalkoztató ágazatokban, például az informatikában, a pénzügyben, az ügyfélszolgálatokon és a kiskereskedelemben érződhetnek.",
     "importance_score": 35.0,
-    "top_rank": 57,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2806,7 +2785,7 @@
     "lead_hu": "Megkezdődött a közmédia vezérigazgatói posztjára pályázók meghallgatása. Elsőként Herman Péter Dániel ismertette elképzeléseit, és átlátható működést, hiteles hírszolgáltatást, valamint a nézői bizalom visszaszerzését ígérte.",
     "content_hu": "• **Megkezdődtek a meghallgatások:** A Független Közmédia Testület 14 érvényes pályázatot értékel, miután a benyújtott 27 jelentkezésből 13-at érvénytelennek minősített. A jelöltek bemutatkozása csütörtökön indult, és pénteken folytatódik.\n\n• **Herman Péter Dániel szerepelt elsőként:** A Pierre néven is ismert televíziós szakember 25 évig dolgozott az RTL-nél, ahol többek között a Mónika Show készítésében vett részt.\n\n• **Három vállalást ismertetett:** Vezetőként felelős és átlátható gazdálkodást, megbízható hírszolgáltatást és olyan tartalmakat szorgalmazna, amelyek segíthetnek visszanyerni a közönség bizalmát.\n\n• **Tíz perc jut a bemutatkozásra:** A pályázók ennyi időben ismertethetik szakmai elképzeléseiket, majd a testület tagjainak kérdéseire válaszolnak.",
     "importance_score": 35.0,
-    "top_rank": 58,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2842,7 +2821,7 @@
     "lead_hu": "Több mint 15 millió belső dokumentum került újságírókhoz, amelyek a Deutsche Bank két évtizedes üzleti tevékenységéről tartalmaznak adatokat. A feldolgozott iratok vitatott ügyfélkapcsolatokra és a belső ellenőrzés hiányosságaira is rámutattak.",
     "content_hu": "• **Több mint 15 millió dokumentum került nyilvánosságra**: A kiszivárgott e-maileket, jelentéseket és más belső anyagokat nemzetközi újságírói együttműködésben vizsgálták meg.\n\n• **Vitatott ügyfélkapcsolatok is felmerültek**: A beszámolók szerint a bank Jeffrey Epstein számláit csak a 2019-es letartóztatása után zárta le; az iratok orosz oligarchákkal folytatott üzleti kapcsolatokat is bemutattak.\n\n• **A dokumentumok belső kontrollproblémákat jeleznek**: A sajtóban ismertetett anyagok szerint figyelmeztetések maradhattak figyelmen kívül, és a pénzmosás elleni intézkedések sem működtek megfelelően.\n\n• **A vezérigazgató elismerte a hibákat**: Christian Sewing arról beszélt, hogy utólag egyes döntéseknél más prioritásokat is választhattak volna; a felügyelőbizottság elnöke kiállt mellette.",
     "importance_score": 35.0,
-    "top_rank": 59,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2878,7 +2857,7 @@
     "lead_hu": "A HVG cikke szerint Mihalovics Péter, Seszták Miklós 2014 és 2018 közötti fejlesztési minisztersége idején kabinetfőnökként dolgozott, és többmilliárd forint értékű céges érdekeltségei alakultak ki. A beszámoló állami vállalatokhoz és támogatásokhoz kapcsolódó ügyleteket is ismertet.",
     "content_hu": "• **Mihalovics szerepe** A HVG szerint Mihalovics Péter Seszták Miklós kabinetfőnöke volt a politikus 2014–2018 közötti fejlesztési miniszteri időszakában.\n\n• **MVM-szerződés** A cikk alapján az MVM 2017-ben 4,89 milliárd forintot utalt svájci leányvállalatának egy informatikai rendszer beszerzésére. A rendszer használható formában nem készült el, az összeg felhasználása pedig tisztázatlan maradt.\n\n• **Állami támogatás és megbízás** A HVG beszámolója szerint a Mihalovics korábbi ismerőseihez köthető cégek között volt olyan, amely 800 millió forintos támogatást kapott, az Ideona pedig konzorciumban 1,5 milliárd forintos MÁV-megbízást nyert.\n\n• **Céges érdekeltségek** A cikk Mihalovics nevén több milliárd forint értékű vállalkozói érdekeltségről ír; 2018-ig egy budapesti luxustársasház építésében érdekelt cégbe is 90 millió forintot fektetett.",
     "importance_score": 35.0,
-    "top_rank": 60,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2919,7 +2898,7 @@
     "lead_hu": "Magyar Péter szerint a szerdai kormányülésen határoztak a 35 évre szóló autópálya-koncesszió lezárásáról. A szerződés teljes időtartamára 23 ezer milliárd forintos kifizetést említett; a megszüntetés módjáról és az üzemeltetés átvételéről egyelőre nem közöltek részleteket.",
     "content_hu": "• **A kormány döntése** Magyar Péter közlése szerint a kabinet szerdán a 35 éves autópálya-koncesszió megszüntetése mellett döntött. A politikus azt is jelezte, hogy a koncessziós társaság helyett ismét az állam venné át az utak üzemeltetését.\n\n• **A szerződés háttere** Az MKIF 2022-ben 35 évre kapta meg 1237 kilométernyi gyorsforgalmi út üzemeltetését, fenntartását és fejlesztését. A megállapodás az M5-ös és az M6-os kivételével a gyorsforgalmi úthálózat jelentős részét érinti.\n\n• **A megszüntetés tervezett módja** Magyar Péter és Vitézy Dávid szeptember 18-án jelezte, hogy tárgyalásos, közös megegyezéses lezárást szeretnének, noha szerintük egyoldalú felmondási lehetőség is felmerülhet. Októberben Magyar arról írt, hogy a koncessziós fél nyitott lehet a közös megegyezésre, a cég azonban később azt közölte, hogy még egyeztetnek. Az üzemeltetés Magyar Közúthoz kerülése a bejelentésből levont következtetés, nem megerősített részlet.\n\n• **A koncesszió költsége és vitatott összehasonlítások** Magyar Péter 23 ezer milliárd forintos teljes összegről beszélt, a kormány átvilágítása pedig arra jutott, hogy az állami működtetés olcsóbb lehet. Az M6-os 2026–2037 közötti üzemeltetésére az MKIF 149 milliárd forintos összeget jelzett, míg az állami vizsgálat alternatívái legfeljebb 51 milliárd forintot tettek ki. Az MKIF szerint a számok azonos műszaki tartalom nélkül nem vethetők össze, és a cég hivatalos írásos tájékoztatást vár a kormánytól.",
     "importance_score": 35.0,
-    "top_rank": 61,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2960,7 +2939,7 @@
     "lead_hu": "Jevgenyij Sztanyiszlavov a tíz orosz diplomata szeptemberi kiutasítását bírálta, és jelezte, hogy Moszkva válaszolt az intézkedésre. Az interjúban az orosz gázszállítások jövőjéről, a Paks II. felülvizsgálatáról és az új magyar kormány Ukrajna-politikájáról is beszélt.",
     "content_hu": "• **A diplomaták kiutasítása** Sztanyiszlavov indokolatlannak és barátságtalan lépésnek tartja, hogy Magyarország szeptemberben tíz orosz diplomatát utasított ki. A nagykövet szerint Oroszország erre válaszolt, és a hasonló intézkedéseknek lehetnek következményei.\n\n• **Földgáz és ellátásbiztonság** Sztanyiszlavov az orosz gázszállítások fenntartását szorgalmazta, mivel állítása szerint jövő ősszel uniós korlátozás lép életbe. Úgy vélte, a magyar gáztározók kedvező töltöttsége az orosz együttműködésnek is köszönhető; Kapitány István miniszter ezzel szemben korábban arról beszélt a Telexnek, hogy orosz gáz nélkül is biztosítható lesz az ellátás.\n\n• **Paks II. felülvizsgálata** A nagykövet szerint az erőműbővítés befejezése Magyarország érdeke. A projekt átvilágítása csaknem fél éve tart, és Sztanyiszlavov szerint nem ismert, mikor zárul le; azt is jelezte, hogy jelenleg nincs párbeszéd a magyar kormány és a Roszatom között, miközben a vállalat nyitott lenne az egyeztetésre. Arra figyelmeztetett, hogy a megállapodások egyoldalú felmondása súlyos pénzügyi és jogi következményekkel járhat.\n\n• **Ukrajna és a kisebbségi oktatás** Sztanyiszlavov úgy értékelte, hogy az új magyar kormány Ukrajnához való viszonya változott, és a Tisza a kapcsolatok újrakezdésére törekszik. Ukrajnában olyan törvényt fogadtak el, amely az őshonos népek nyelvének oktatási használatát biztosítja; ennek alapján a kárpátaljai magyarok is használhatják a magyar nyelvet az oktatásban. A jogszabály az Ukrajnával folytatott uniós csatlakozási tárgyalások további fejezeteinek megnyitását is elősegítheti.",
     "importance_score": 35.0,
-    "top_rank": 62,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3001,7 +2980,7 @@
     "lead_hu": "A norvég kormány november 17-én társadalmi egyeztetésre bocsátotta a nyugdíjrendszer átalakításáról szóló tervezetet. A javaslat a várható élettartamhoz igazítaná a korhatárokat, így a fiatalabb korosztályoknál akár 70 éves korra tolódhat az általános nyugdíjkorhatár.",
     "content_hu": "• **A korhatárok a várható élettartamhoz igazodhatnak:** A norvég kormány terve szerint a nyugdíjba vonulás korhatárai fokozatosan emelkednének, évtizedenként hozzávetőleg egy évvel.\n\n• **Az első érintettek az 1967-ben születettek lehetnek:** Az 1966-ban vagy korábban születetteknél nem változna a jelenlegi szabályozás; az 1967-es korosztálynál körülbelül három hónapos emelést jeleznek előre.\n\n• **A fiatalabb generációknál magasabb korhatár szerepel a számításokban:** Az 1976-ban születetteknél 68, az 1987-eseknél 69 év lehet az általános korhatár, míg az 1990-es évek végén születetteknél elérheti a 70 évet.\n\n• **A jelenlegi rendszerben többféle jogosultsági korhatár van:** Megfelelő feltételekkel 62 éves kortól lehet öregségi nyugdíjat igénybe venni, a feltétel nélküli jogosultság korhatára pedig 67 év. A tervezetben szereplő jövőbeli értékek előrejelzések, ezért a várható élettartam alakulásával változhatnak.",
     "importance_score": 35.0,
-    "top_rank": 63,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3042,6 +3021,42 @@
     "lead_hu": "A Gemius mérése szerint november közepén jelentősen visszaesett a Blikk, a Magyar Nemzet és az Origo napi olvasótábora. A Google keresőjének frissítése felmerült lehetséges magyarázatként, de az okot nem sikerült bizonyítani.",
     "content_hu": "• **Jelentős visszaesés** A Blikk, a Magyar Nemzet és az Origo napi valós felhasználóinak száma a november 1–11-i és a november 12–17-i időszakot összevetve közel a felére csökkent; hasonló irányú változást mértek a Mediaworks 19 megyei lapjánál is.\n\n• **Más híroldalak növekedése** A Telex, az Index, a 24.hu, a HVG és a 444 olvasottsága ugyanezen időszakokban 5–25 százalékkal emelkedett.\n\n• **Lehetséges forgalmi források** A Telex elemzése szerint a közvetlen és a Facebookról érkező látogatások kiesése kevéssé valószínű magyarázat; a keresőből, illetve külső hivatkozásokról érkező forgalom változása továbbra is szóba jöhet.\n\n• **Google-frissítés** A Google november 10-én átfogó keresőalgoritmus-frissítést indított. A HVG szerint ez ronthatta az érintett oldalak keresési helyezéseit, ám a frissítés és az olvasottságcsökkenés közötti kapcsolat nem bizonyított.\n\n• **Korábbi iparági változások** A 24.hu beszámolója szerint a Fidesz-média olvasottságának gyengülése már májusban elkezdődött; egyes, korábbi szerkesztőségekből távozó jobboldali médiaszereplők új projekteket indítottak, amelyek közül többen olvasói támogatásra építenének.",
     "importance_score": 35.0,
+    "top_rank": 63,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_eb71d8a2f4",
+    "slug": "vadat-emeltek-nagykors-volt-es-jelenlegi-polgarmestere-ugyeben-eb71d8",
+    "tags": [
+      "nagykoros",
+      "czira-szabolcs",
+      "kortvelyesi-attila",
+      "hutlen-kezeles"
+    ],
+    "fingerprint": "dde3ddc8b2caf4c751da9d04558bfc24",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/kortvelyesi-e1795073089994-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Bíróság elé állítják Nagykőrös jelenlegi és volt fideszes polgármesterét",
+        "link": "https://24.hu/belfold/2026/11/19/czira-kortvelyesi-hutlen-kezeles-vadirat-breaking/"
+      },
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Hűtlen kezelés miatt áll bíróság elé Nagykőrös volt és jelenlegi fideszes polgármestere",
+        "link": "https://hvg.hu/gazdasag/20261119_hutlen-kezeles-polgarmester-vadirat-nagykoros-czira-szabolcs"
+      }
+    ],
+    "published_at": 1795077851,
+    "title_hu": "Vádat emeltek Nagykőrös volt és jelenlegi polgármestere ügyében",
+    "lead_hu": "Négy ember ellen emelt vádat a Ceglédi Járási Ügyészség egy önkormányzati autó értékesítésével összefüggő ügyben. A vádlottak között a sajtó információi szerint Czira Szabolcs korábbi és Körtvélyesi Attila jelenlegi nagykőrösi polgármester is szerepel.",
+    "content_hu": "• **Négy vádlott** A Ceglédi Járási Ügyészség minősített hűtlen kezelés és más bűncselekmények miatt indított bírósági eljárást; az ügyészség szerint az autóügylet több millió forint vagyoni hátrányt okozott.\n\n• **Az érintettek** A sajtó beszámolói alapján a vádlottak között van Czira Szabolcs volt polgármester és Körtvélyesi Attila jelenlegi városvezető. Az egyik cikk a település jegyzőjét és Czira feleségét is az ügy érintettjeként nevezi meg.\n\n• **A szolgálati autó** Az önkormányzat 2024 októberében 980 ezer forintért értékesítette Czira korábbi Skoda Superb szolgálati autóját. A járművet 2020-ban 11,776 millió forintért vásárolták.\n\n• **Az ügyészségi állítás** A vádirat szerint a leköszönő és az új polgármester abban állapodott meg, hogy az autó Czira birtokában maradjon, majd a valós értékénél jóval olcsóbban kerüljön az érdekeltségébe.",
+    "importance_score": 33.0,
     "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
@@ -4762,6 +4777,110 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_9fb90dff8a",
+    "slug": "ez-gyorsan-ment-infantino-egyik-kihivoja-maris-kiszallt-a-versenybol-9fb90d",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/VWjEHITxMEpNvb1u_IaNn7GTXO1P12Jx5fvCDSRpVco/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTkvYWQ2ODdkZjcxYTM1YmU1NTNhYzZmMmRhM2YzNzA3MWU0ZWE2MDM2ZTlkMDQ5NGNmYmM1ZDAyNGMwZGMyOGI2ZQ.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ez gyorsan ment: Infantino egyik kihívója máris kiszállt a versenyből",
+        "link": "https://magyarnemzet.hu/sport/2026/11/fifa-elnok-jeloltek-infantino-diallo-tashima-vega-nem?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795088515,
+    "title_hu": "Ez gyorsan ment: Infantino egyik kihívója máris kiszállt a versenyből",
+    "lead_hu": "A FIFA tisztújító közgyűlését jövő márciusban tartják Rabatban....",
+    "content_hu": "A FIFA tisztújító közgyűlését jövő márciusban tartják Rabatban.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_0fa967c913",
+    "slug": "ez-mar-tenyleg-az-tvenes-evek-0fa967",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/DqdBvZ3pnsZyYq95bkI0slXAyZOL4Jf0si3hGs8ySqU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTkvODNiMDEyNGNhMDY2NWE5NjJkYWE1Zjk2M2Q1ZDU5ZmE1ZGVlODNjOGY1OTM1YjM1NmQxOTg2ODgzN2QzOGY3ZQ.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Ez már tényleg az ötvenes évek!",
+        "link": "https://magyarnemzet.hu/bayer-zsolt-blogja/2026/11/magyar-peter-ovszer-semmelweis-bayer?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795088303,
+    "title_hu": "Ez már tényleg az ötvenes évek!",
+    "lead_hu": "Kiállok Dr. Kuroli Enikő mellet!...",
+    "content_hu": "Kiállok Dr. Kuroli Enikő mellet!",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_34e3e84b55",
+    "slug": "orbanektol-rklt-ugyben-iteltek-a-magyar-allam-ellen-ki-kellene-szedni-vitezy-tar-34e3e8",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261119/1795088106-temp-al4dl9fk3g0r8cclllj_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Orbánéktól örökölt ügyben ítéltek a magyar állam ellen, ki kellene szedni Vitézy tárcájából a vasútigazgatási szervet",
+        "link": "https://telex.hu/gazdasag/2026/11/19/eu-europai-unio-birosaga-vasut-hatosag-kotelezettsegszegesi-eljaras"
+      }
+    ],
+    "published_at": 1795088268,
+    "title_hu": "Orbánéktól örökölt ügyben ítéltek a magyar állam ellen, ki kellene szedni Vitézy tárcájából a vasútigazgatási szervet",
+    "lead_hu": "A csütörtöki ítélet után a 2021-ben indult uniós eljárás következő lépése már a pénzbüntetés mértékéről szólna....",
+    "content_hu": "A csütörtöki ítélet után a 2021-ben indult uniós eljárás következő lépése már a pénzbüntetés mértékéről szólna.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_6f0af06c93",
+    "slug": "a-nuklearis-haborut-nem-lehet-megnyerni-kzs-nyilatkozatot-adott-ki-hszi-trump-es-6f0af0",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261119/1795087467-temp-e8pfug36vps0dokjbnp_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A nukleáris háborút nem lehet megnyerni – közös nyilatkozatot adott ki Hszi, Trump és Putyin a találkozójuk után",
+        "link": "https://telex.hu/kulfold/2026/11/19/donald-trump-hszi-csig-ping-vlagyimir-putyin-apec-sencsen-nyilatkoztatok"
+      }
+    ],
+    "published_at": 1795088245,
+    "title_hu": "A nukleáris háborút nem lehet megnyerni – közös nyilatkozatot adott ki Hszi, Trump és Putyin a találkozójuk után",
+    "lead_hu": "A három vezető elkötelezett a stabilitás és a nemzetközi biztonság fenntartása mellett. Putyin azt mondta, nem gondolta, hogy bárki is számított volna rá, hogy minden ilyen jól fog alakulni....",
+    "content_hu": "A három vezető elkötelezett a stabilitás és a nemzetközi biztonság fenntartása mellett. Putyin azt mondta, nem gondolta, hogy bárki is számított volna rá, hogy minden ilyen jól fog alakulni.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_9686fbcf2b",
     "slug": "jakob-zoli-ritkan-latott-lanya-ilyen-szepseges-a-19-eves-lili-tundklt-apja-melle-9686fb",
     "tags": [
@@ -4808,6 +4927,58 @@
     "title_hu": "Juhász Hajnalka szerint az isztambuli egyezmény ratifikációja az uniós migrációs politika kötelező végrehajtását eredményezi",
     "lead_hu": "Juhász Hajnalka azt kérte a nőktől, ne hagyják, hogy használják és kihasználják őket a migrációs politika kiszolgálása érdekében....",
     "content_hu": "Juhász Hajnalka azt kérte a nőktől, ne hagyják, hogy használják és kihasználják őket a migrációs politika kiszolgálása érdekében.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_74b2752560",
+    "slug": "megmagyarazta-a-miniszter-miert-lett-mostanra-ketmillio-felhasznaloja-a-dap-nak-74b275",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/dap-e1795087135780-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Megmagyarázta a miniszter, miért lett mostanra kétmillió felhasználója a DÁP-nak",
+        "link": "https://24.hu/belfold/2026/11/19/tanacs-zoltan-dap-alkalmazas-ketmillio-felhasznalo/"
+      }
+    ],
+    "published_at": 1795088004,
+    "title_hu": "Megmagyarázta a miniszter, miért lett mostanra kétmillió felhasználója a DÁP-nak",
+    "lead_hu": "Tanács Zoltán szerint a kormányváltás óta sokkal kevésbé bizalmatlanok az emberek a rendszerrel szemben – már nem tartanak az esetleges állami megfigyeléstől. The post Megmagyarázta a miniszter, miért...",
+    "content_hu": "Tanács Zoltán szerint a kormányváltás óta sokkal kevésbé bizalmatlanok az emberek a rendszerrel szemben – már nem tartanak az esetleges állami megfigyeléstől. The post Megmagyarázta a miniszter, miért lett mostanra kétmillió felhasználója a DÁP-nak first appeared on 24.hu.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_ff579d7c6c",
+    "slug": "elon-musk-hollywoodba-is-bevasarolta-magat-az-hbo-max-uj-tulajaba-szallt-be-csak-ff579d",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/6f7i70mGEsOdb0YSO5ydwGph6EbTF1e7MJ2fMDpfThw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q0N2VmZGE2Y2JlYjQyNDNhMTZkZDdhYjY4MTVkYjIx.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Elon Musk Hollywoodba is bevásárolta magát: az HBO Max új tulajába szállt be, csak hogy a streamingvilághoz is köze legyen",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/elon-musk-hollywood-hbo-max-streaming-warner-uzlet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795087961,
+    "title_hu": "Elon Musk Hollywoodba is bevásárolta magát: az HBO Max új tulajába szállt be, csak hogy a streamingvilághoz is köze legyen",
+    "lead_hu": "Az HBO Max ettől még bemutatja az Elon Muskról szóló dokumentumfilmet....",
+    "content_hu": "Az HBO Max ettől még bemutatja az Elon Muskról szóló dokumentumfilmet.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -19914,110 +20085,6 @@
     "title_hu": "Visszakerülne a kutatóhálózat az MTA-hoz, átalakítanák a kormányhivatalokat",
     "lead_hu": "A kormány két törvényjavaslatot nyújtott be az Országgyűlésnek. Az egyik visszahelyezné a hazai kutatóhálózatot a Magyar Tudományos Akadémiához (MTA), a másik önálló törvényben szabályozná a kormányhi…",
     "content_hu": "A kormány két törvényjavaslatot nyújtott be az Országgyűlésnek. Az egyik visszahelyezné a hazai kutatóhálózatot a Magyar Tudományos Akadémiához (MTA), a másik önálló törvényben szabályozná a kormányhivatalok jogállását, működését és felépítését. Mindkét előterjesztés társadalmi egyeztetése november 21-ig tart – közölte az MTI szerdán.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_73d7b035fa",
-    "slug": "egy-allatmese-botcsinalta-muzsikusaihoz-hasonlitot-73d7b0",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/D2cJ4mYfa7lIJExGA1Xnq3Mv093WkUfw3iR-iSHxJqU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTgvNDAyMzFkNmNkMjY1MWIyZWFlYzhkY2VkMmRjYjhjYzBjZjBjYTMxMGQ3OGRkMWMyZDQ2OTdlMjdkYTQ2YzdjNw.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Egy állatmese botcsinálta muzsikusaihoz hasonlította Lavrov az európai tárgyalódelegációt",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/egy-allatmese-botcsinalta-muzsikusaihoz-hasonlitotta-lavrov-az-europai-targyalodelegaciot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795002243,
-    "title_hu": "Egy állatmese botcsinálta muzsikusaihoz hasonlította Lavrov az európai tárgyalódelegációt",
-    "lead_hu": "Lavrov szerint nem az elfoglalt ülőpozíció eredményezi a tárgyalások sikerét.",
-    "content_hu": "Lavrov szerint nem az elfoglalt ülőpozíció eredményezi a tárgyalások sikerét.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_510267050f",
-    "slug": "havi-100-150-ezer-forintos-tamogatast-lehet-igenye-510267",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Havi 100-150 ezer forintos támogatást lehet igényelni még pár napig",
-        "link": "https://www.atv.hu/belfold/20261118/havi-tamogatas-igenyles-erintettek/"
-      }
-    ],
-    "published_at": 1795002120,
-    "title_hu": "Havi 100-150 ezer forintos támogatást lehet igényelni még pár napig",
-    "lead_hu": "Összesen akár másfél millió forint támogatást is megítélhetnek.",
-    "content_hu": "Összesen akár másfél millió forint támogatást is megítélhetnek.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_d3bb762401",
-    "slug": "az-usa-tersegi-lng-kiktok-soran-at-nyomna-a-gazat--d3bb76",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/fW9dzFomkxJMxu9FIiyv5K_i2-rc4PXN8ZNeu_K0fJQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJlNGIzYjgyMTUyMjRmN2I5MGI5YzI5YjJhZjQ3Y2Y5.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Az USA térségi LNG-kikötők során át nyomná a gázát a magyar piacra – de érdekli az olaj- és az atombiznisz is",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/amerikai-lng-gaz-kapitany-olaj-atom-lengyel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795001845,
-    "title_hu": "Az USA térségi LNG-kikötők során át nyomná a gázát a magyar piacra – de érdekli az olaj- és az atombiznisz is",
-    "lead_hu": "Most jön csak kapóra az ország sok interkonnektora.",
-    "content_hu": "Most jön csak kapóra az ország sok interkonnektora.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_a6af050851",
-    "slug": "ketmilliard-dollar-maradhat-ha-az-ai-on-mulik-nem--a6af05",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/s/6/a/s6a0167-870606.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Kétmilliárd dollár maradhat? Ha az AI-on múlik, nem fog − Töredékére csökkenhetnek a gyógyszerfejlesztési költségek",
-        "link": "https://www.portfolio.hu/gazdasag/20261118/ketmilliard-dollar-maradhat-ha-az-ai-on-mulik-nem-fog-toredekere-csokkenhetnek-a-gyogyszerfejlesztesi-koltsegek-877368"
-      }
-    ],
-    "published_at": 1795001820,
-    "title_hu": "Kétmilliárd dollár maradhat? Ha az AI-on múlik, nem fog − Töredékére csökkenhetnek a gyógyszerfejlesztési költségek",
-    "lead_hu": "Olcsóbb gyógyszerfejlesztést, célzottabb klinikai vizsgálatokat és személyre szabottabb betegellátást hozhat a mesterséges intelligencia, de önmagában nem teszi mindenki számára hozzáférhetővé a korsz…",
-    "content_hu": "Olcsóbb gyógyszerfejlesztést, célzottabb klinikai vizsgálatokat és személyre szabottabb betegellátást hozhat a mesterséges intelligencia, de önmagában nem teszi mindenki számára hozzáférhetővé a korszerű terápiákat – derült ki a Portfolio Deep Tech 2026 konferencia egészségiparra fókuszáló panelbeszélgetésén. A szakértők a szimulált betegek lehetőségeiről és Európa kitörési pontjairól is beszéltek.Támogatott tartalom",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
