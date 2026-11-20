@@ -476,7 +476,7 @@
     "title_hu": "Energetikai és vasúti üzletek a magyar–szerb politikai kapcsolatok hátterében",
     "lead_hu": "A Nova.rs összeállítása több, a magyar és a szerb politikai vezetéshez közel álló üzleti érdekeltség kapcsolatát ismertette. Az energetikai befektetések és a vasútépítés mellett szerb állami megbízások, valamint a Dolomit Kft. szállításai is szerepelnek a beszámolókban.",
     "content_hu": "• **Az MVM részesedést szerzett a Maneks-csoport két cégében** A magyar állami vállalat 2022-ben 33,4 százalékot vásárolt az Energotehnika Južna Bačka és az Elektromontaža Kraljevo társaságokból, majd 2025 szeptemberében 60 százalékra növelte tulajdonrészét. Az MVM a vállalatok javuló árbevételével és eredményességével, illetve balkáni terveivel indokolta a további tulajdonszerzést.\n\n• **A cégek bevételének jelentős része szerb állami megrendelőktől érkezett** Az MVM 2025-ös éves jelentése alapján a két társaság bevételeinek mintegy 75–80 százalékát négy szerb állami energetikai vállalat adta. Dragoljub Zbiljić érdekeltségei 2012 és 2025 között legalább 530 millió euró értékben kaptak szerb állami megbízásokat; Zbiljić 2012-ben kezességet vállalt a Szerb Haladó Párt kampányhiteléért.\n\n• **Zbiljić érdekeltségei a surčini stadion építésében is részt vettek** A Nova.rs beszámolója szerint a vállalkozó cégei később a nemzeti stadion építéséhez kapcsolódó munkákban is szerepet kaptak.\n\n• **Az MVM-hez kötődő konzorcium építheti a kőolajvezetéket** A magyar határtól Újvidékig tervezett vezeték kivitelezésére az MVM Južna Bačka vezette konzorcium kapott mintegy 123 millió eurós megbízást. A pályázatra egy ajánlat érkezett, a szerződés alapján a munkálatok 43 százalékát az MVM szerbiai vállalata végzi.\n\n• **A Dolomit Kft. követ szállított a Budapest–Belgrád vasút építéséhez** Orbán Győző többségi tulajdonában álló vállalat gánti bányájából 2022-ben és 2023-ban több mint 200 ezer tonna kő került a beruházáshoz. A megrendelők között a V-Híd és a kínai China Tiejiuju Engineering & Construction is szerepelt.\n\n• **A vasúti alapanyag egyes szállítmányait kifogásolták** A vizsgálatok szemcseméret- és szemcseeloszlási eltéréseket jeleztek. A Dolomit elismerte az összetétellel kapcsolatos problémát, és az esős időjárást nevezte meg magyarázatként.\n\n• **Az MVM részesedésvásárlásának árát nem tették közzé** Ivan Ninić szerb ügyvéd a tranzakciós összeg nyilvánosságra hozatalát szorgalmazta, és felvetette a közpénzek kivonásának lehetőségét. Ilyen jogsértést bíróság nem állapított meg.",
-    "importance_score": 83.0,
+    "importance_score": 80.0,
     "top_rank": 7,
     "is_top_hero": false,
     "is_top_list": true
@@ -983,6 +983,98 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_d08e282ccb",
+    "slug": "heti-zuhanas-sujtotta-az-amerikai-reszvenypiacokat-d08e28",
+    "tags": [
+      "ai",
+      "amerikai-tozsde",
+      "technologiai-reszvenyek",
+      "gazdasag"
+    ],
+    "fingerprint": "3b5e08c123f35483cc10f4682b310df0",
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/B0xzemWW6oFN3nMwgzAXhd5LLlf-q-0ZJ-f9tR0fN44/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzE5L2EzNDFiODA0Yzk5NWRiNDYyYzRiMzgwYTNmN2JmYzI1YjdlOTY3YWNmOGI5MjA2MTA5N2Q3MGMwYjAyZDU0NTQ.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Valóban szárnyal az amerikai gazdaság, vagy csak az AI-beruházások hajtják a növekedést?",
+        "link": "https://www.vg.hu/velemeny/2026/11/beruhazasok-ai-novekedes-amerikai-gazdasag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Folytatódik az AI-félelem a piacon, kivégzik a technológiai paprokat",
+        "link": "https://www.portfolio.hu/befektetes/20261120/folytatodik-az-ai-felelem-a-piacon-kivegzik-a-technologiai-paprokat-877892"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Folytatódik az AI-félelem a piacon, kivégzik a technológiai papírokat",
+        "link": "https://www.portfolio.hu/befektetes/20261120/folytatodik-az-ai-felelem-a-piacon-kivegzik-a-technologiai-papirokat-877892"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Folytatódik az AI-félelem a piacon, kivégezték a technológiai papírokat",
+        "link": "https://www.portfolio.hu/befektetes/20261120/folytatodik-az-ai-felelem-a-piacon-kivegeztek-a-technologiai-papirokat-877892"
+      }
+    ],
+    "published_at": 1795208700,
+    "title_hu": "Heti zuhanás sújtotta az amerikai részvénypiacokat",
+    "lead_hu": "Az amerikai technológiai részvények meredek heti veszteségei mellett a pénzügyi, az ipari és az egészségügyi szektor papírjai is gyengültek. Közben a nagy technológiai cégek beruházásai az amerikai gazdasági növekedés fontos hajtóerejévé váltak, de megtérülésük és későbbi termelékenységi hatásuk még bizonytalan.",
+    "content_hu": "• **A Nasdaq 100 medvepiaci tartományba került** Az index egy hét alatt 10,4 százalékot veszített értékéből, és pénteken már közel 20 százalékkal állt októberi rekordja alatt. A 101 részvényből legalább 71 került 20 százaléknál nagyobb távolságra korábbi csúcsától.\n\n• **Az S&P 500 is jelentősen visszaesett** Az index heti vesztesége 8,6 százalék volt, amire 2025 áprilisa óta nem volt példa. Hét egymást követő kereskedési napon zárt lejjebb; ilyen sorozat 2020 februárjában fordult elő utoljára.\n\n• **A félvezetőgyártók szenvedték el a legnagyobb veszteségek egyikét** Egy hét alatt az Nvidia 25,9, az AMD 25,1, a Micron 24,0, a Broadcom 14,6, az ASML pedig 14,7 százalékot esett. Az Alphabet árfolyama 12,3, a Meta részvénye 10,5 százalékkal csökkent.\n\n• **Más ágazatokra is átterjedt az eladási hullám** A JPMorgan 10,3, a Bank of America 7,4, a UnitedHealth 16,7, a Merck 9,2, a Caterpillar pedig 16,6 százalékos heti visszaesést szenvedett el.\n\n• **A nagy technológiai vállalatok idei beruházása elérheti a 700 milliárd dollárt** A Microsoft, az Alphabet, az Amazon és a Meta együttes kiadásai a tavalyi szintnél 70 százalékkal lehetnek magasabbak. Az összeg nem kizárólag mesterséges intelligenciához kötődő fejlesztéseket foglal magában.\n\n• **Az AI-beruházások gazdasági hatása még nem mérhető teljesen** Az adatközpontok, szerverek és hálózatok fejlesztése már hozzájárul a növekedéshez, de a későbbi termelékenységi eredmény és a befektetések megtérülése bizonytalan. A kisebb vállalatok visszafogottabb beruházásai, a jövedelmi különbségekhez kapcsolódó fogyasztási eltérések, valamint az AI-fejlesztések importigénye szintén árnyalják a gazdasági képet.",
+    "importance_score": 55.0,
+    "top_rank": 17,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_02baf2a2ec",
+    "slug": "becslesek-szerint-236-milliard-dollart-hozott-a-gta-vi-rajtja-02baf2",
+    "tags": [
+      "gta-vi",
+      "rockstar-games",
+      "videojatek",
+      "jatekpiac"
+    ],
+    "fingerprint": "92d53bb6a045192aaf1582db6010f039",
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Rekordokat döntött a GTA VI, becslések szerint a bevételek meghaladták a 2,3 milliárd dollárt",
+        "link": "https://444.hu/2026/11/20/rekordokat-dontott-a-gta-vi-becslesek-szerint-a-bevetelek-meghaladtak-a-23-milliard-dollart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "GTA VI",
+        "link": "https://index.hu/tech/godmode/2026/11/20/gta-vi-gta-6-eladas-bevetel-pc-tobbjatekos-kereslet/"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Rekordot dönt a GTA VI, több mint kétmilliárd dollárt hozhatott a megjelenése napján",
+        "link": "https://telex.hu/after/2026/11/20/gta-vi-videojatek-megjelenes-bevetel-take-two-interactive-rockstar-games"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Közel 8 millió néző, 125 millió órányi tartalom, pokoli mennyiségű eladás – letarolta a világot a GTA VI megjelenése",
+        "link": "https://telex.hu/after/2026/11/20/gta-vi-megjelenes-rekord-stream-jatek"
+      }
+    ],
+    "published_at": 1795205967,
+    "title_hu": "Becslések szerint 2,36 milliárd dollárt hozott a GTA VI rajtja",
+    "lead_hu": "A Sensor Tower adatai alapján az előrendelések és a megjelenés napján eladott példányok száma meghaladhatta a 24,5 milliót, a bevétel pedig elérhette a 2,36 milliárd dollárt. A játék indulása a közvetítési platformokon is kiemelkedő érdeklődést váltott ki.",
+    "content_hu": "• **Több mint 24,5 millió példány** fogyhatott az előrendelések és a megjelenés napja során a Sensor Tower becslése szerint. A számítások mintegy 2,36 milliárd dolláros bevételt jeleznek.\n\n• **A Rockstar nem közölt hivatalos eladási adatokat**, a keresletet azonban példátlannak nevezte. Iparági várakozások szerint a játék bevétele később a 3 milliárd dollárt is meghaladhatja.\n\n• **Az eladások körülbelül háromnegyede PlayStationre jutott**, a fennmaradó egynegyed pedig Xboxra a Sensor Tower adatai szerint. A PC-s változat és a többjátékos mód megjelenési időpontját a Rockstar még nem jelentette be.\n\n• **A megjelenés napján közel 8 millió néző követett GTA VI-hoz kapcsolódó közvetítéseket**, amelyek összesen 125 millió órányi tartalmat tettek ki a Telex beszámolója szerint.\n\n• **A fejlesztés költsége meghaladhatta az egymilliárd dollárt** a 444 által idézett becslések alapján, ami a játékot minden idők legdrágább videojáték-projektjei közé emelheti.",
+    "importance_score": 55.0,
+    "top_rank": 18,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_6b876cf4e4",
     "slug": "baranyi-a-keruletek-tamogatasa-utan-a-fovaros-most-a-parkolasi-bevetelekre-tart--6b876c",
     "tags": [
@@ -1028,98 +1120,6 @@
     "title_hu": "Baranyi: a kerületek támogatása után a főváros most a parkolási bevételekre tart igényt",
     "lead_hu": "Baranyi Krisztina szerint a kerületek az elmúlt hat évben pénzzel és politikai támogatással is segítették Budapestet, a parkolási bevételek átcsoportosítása mégis bizalmi válságot okozott. A ferencvárosi polgármester úgy látja, hogy a Tisza-kormány fővárossal szembeni gyakorlata nem jelent érdemi változást a korábbi, Fidesz-kormány alatti viszonyokhoz képest.",
     "content_hu": "• **A kerületek korábbi támogatása** Baranyi elmondása szerint a kerületi önkormányzatok az elmúlt hat évben pénzügyi és politikai segítséget nyújtottak a fővárosnak, ezért különösen sérelmesnek tartják a parkolási bevételek átvételét.\n\n• **A főváros és a kerületek közötti pénzügyi vita** A polgármester szerint a változtatás azt az érzetet kelti, hogy a tehetősebb kerületeknek kell kisegíteniük a pénzügyi nehézségekkel küzdő fővárost. Józsefváros esetében a korábbi beszámolók akár 1,5 milliárd forintos bevételkiesést jeleztek, ami működési gondokat okozhat.\n\n• **Bizalomvesztés Karácsony Gergely iránt** Baranyi úgy értékeli, hogy a kerületi vezetők egyeztetés nélküli kihagyása meggyengítette a főpolgármester mögötti támogatói egységet és a korábban kialakult politikai, illetve személyes bizalmat. A parkolásüzemeltetéssel nem foglalkozó kerületek vezetői között is van elégedetlenség.\n\n• **A kormányváltással kapcsolatos csalódás** Baranyi szerint az önkormányzatok partneribb viszonyra és nagyobb beleszólásra számítottak, de a főváros és a kormány közötti alá-fölé rendeltség szerinte fennmaradt. A Tisza-kormány gyakorlatát a Fidesz-kormány időszakához hasonlította.\n\n• **A fővárosnak szánt támogatás összege** Baranyi vitatta a 120 milliárd forintos támogatásról szóló kommunikációt: számítása szerint legfeljebb 30 milliárd maradhat a fővárosnál, a többit szolidaritási hozzájárulásként vissza kell fizetni. Egy másik beszámoló szerint úgy véli, a főváros pénzügyi nehézségeit nem oldották meg, csupán későbbre halasztották.",
-    "importance_score": 58.0,
-    "top_rank": 17,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_d08e282ccb",
-    "slug": "heti-zuhanas-sujtotta-az-amerikai-reszvenypiacokat-d08e28",
-    "tags": [
-      "ai",
-      "amerikai-tozsde",
-      "technologiai-reszvenyek",
-      "gazdasag"
-    ],
-    "fingerprint": "3b5e08c123f35483cc10f4682b310df0",
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/B0xzemWW6oFN3nMwgzAXhd5LLlf-q-0ZJ-f9tR0fN44/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzE5L2EzNDFiODA0Yzk5NWRiNDYyYzRiMzgwYTNmN2JmYzI1YjdlOTY3YWNmOGI5MjA2MTA5N2Q3MGMwYjAyZDU0NTQ.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Valóban szárnyal az amerikai gazdaság, vagy csak az AI-beruházások hajtják a növekedést?",
-        "link": "https://www.vg.hu/velemeny/2026/11/beruhazasok-ai-novekedes-amerikai-gazdasag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Folytatódik az AI-félelem a piacon, kivégzik a technológiai paprokat",
-        "link": "https://www.portfolio.hu/befektetes/20261120/folytatodik-az-ai-felelem-a-piacon-kivegzik-a-technologiai-paprokat-877892"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Folytatódik az AI-félelem a piacon, kivégzik a technológiai papírokat",
-        "link": "https://www.portfolio.hu/befektetes/20261120/folytatodik-az-ai-felelem-a-piacon-kivegzik-a-technologiai-papirokat-877892"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Folytatódik az AI-félelem a piacon, kivégezték a technológiai papírokat",
-        "link": "https://www.portfolio.hu/befektetes/20261120/folytatodik-az-ai-felelem-a-piacon-kivegeztek-a-technologiai-papirokat-877892"
-      }
-    ],
-    "published_at": 1795208700,
-    "title_hu": "Heti zuhanás sújtotta az amerikai részvénypiacokat",
-    "lead_hu": "Az amerikai technológiai részvények meredek heti veszteségei mellett a pénzügyi, az ipari és az egészségügyi szektor papírjai is gyengültek. Közben a nagy technológiai cégek beruházásai az amerikai gazdasági növekedés fontos hajtóerejévé váltak, de megtérülésük és későbbi termelékenységi hatásuk még bizonytalan.",
-    "content_hu": "• **A Nasdaq 100 medvepiaci tartományba került** Az index egy hét alatt 10,4 százalékot veszített értékéből, és pénteken már közel 20 százalékkal állt októberi rekordja alatt. A 101 részvényből legalább 71 került 20 százaléknál nagyobb távolságra korábbi csúcsától.\n\n• **Az S&P 500 is jelentősen visszaesett** Az index heti vesztesége 8,6 százalék volt, amire 2025 áprilisa óta nem volt példa. Hét egymást követő kereskedési napon zárt lejjebb; ilyen sorozat 2020 februárjában fordult elő utoljára.\n\n• **A félvezetőgyártók szenvedték el a legnagyobb veszteségek egyikét** Egy hét alatt az Nvidia 25,9, az AMD 25,1, a Micron 24,0, a Broadcom 14,6, az ASML pedig 14,7 százalékot esett. Az Alphabet árfolyama 12,3, a Meta részvénye 10,5 százalékkal csökkent.\n\n• **Más ágazatokra is átterjedt az eladási hullám** A JPMorgan 10,3, a Bank of America 7,4, a UnitedHealth 16,7, a Merck 9,2, a Caterpillar pedig 16,6 százalékos heti visszaesést szenvedett el.\n\n• **A nagy technológiai vállalatok idei beruházása elérheti a 700 milliárd dollárt** A Microsoft, az Alphabet, az Amazon és a Meta együttes kiadásai a tavalyi szintnél 70 százalékkal lehetnek magasabbak. Az összeg nem kizárólag mesterséges intelligenciához kötődő fejlesztéseket foglal magában.\n\n• **Az AI-beruházások gazdasági hatása még nem mérhető teljesen** Az adatközpontok, szerverek és hálózatok fejlesztése már hozzájárul a növekedéshez, de a későbbi termelékenységi eredmény és a befektetések megtérülése bizonytalan. A kisebb vállalatok visszafogottabb beruházásai, a jövedelmi különbségekhez kapcsolódó fogyasztási eltérések, valamint az AI-fejlesztések importigénye szintén árnyalják a gazdasági képet.",
-    "importance_score": 55.0,
-    "top_rank": 18,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_02baf2a2ec",
-    "slug": "becslesek-szerint-236-milliard-dollart-hozott-a-gta-vi-rajtja-02baf2",
-    "tags": [
-      "gta-vi",
-      "rockstar-games",
-      "videojatek",
-      "jatekpiac"
-    ],
-    "fingerprint": "92d53bb6a045192aaf1582db6010f039",
-    "category": "Kultúra",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Rekordokat döntött a GTA VI, becslések szerint a bevételek meghaladták a 2,3 milliárd dollárt",
-        "link": "https://444.hu/2026/11/20/rekordokat-dontott-a-gta-vi-becslesek-szerint-a-bevetelek-meghaladtak-a-23-milliard-dollart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "GTA VI",
-        "link": "https://index.hu/tech/godmode/2026/11/20/gta-vi-gta-6-eladas-bevetel-pc-tobbjatekos-kereslet/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Rekordot dönt a GTA VI, több mint kétmilliárd dollárt hozhatott a megjelenése napján",
-        "link": "https://telex.hu/after/2026/11/20/gta-vi-videojatek-megjelenes-bevetel-take-two-interactive-rockstar-games"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Közel 8 millió néző, 125 millió órányi tartalom, pokoli mennyiségű eladás – letarolta a világot a GTA VI megjelenése",
-        "link": "https://telex.hu/after/2026/11/20/gta-vi-megjelenes-rekord-stream-jatek"
-      }
-    ],
-    "published_at": 1795205967,
-    "title_hu": "Becslések szerint 2,36 milliárd dollárt hozott a GTA VI rajtja",
-    "lead_hu": "A Sensor Tower adatai alapján az előrendelések és a megjelenés napján eladott példányok száma meghaladhatta a 24,5 milliót, a bevétel pedig elérhette a 2,36 milliárd dollárt. A játék indulása a közvetítési platformokon is kiemelkedő érdeklődést váltott ki.",
-    "content_hu": "• **Több mint 24,5 millió példány** fogyhatott az előrendelések és a megjelenés napja során a Sensor Tower becslése szerint. A számítások mintegy 2,36 milliárd dolláros bevételt jeleznek.\n\n• **A Rockstar nem közölt hivatalos eladási adatokat**, a keresletet azonban példátlannak nevezte. Iparági várakozások szerint a játék bevétele később a 3 milliárd dollárt is meghaladhatja.\n\n• **Az eladások körülbelül háromnegyede PlayStationre jutott**, a fennmaradó egynegyed pedig Xboxra a Sensor Tower adatai szerint. A PC-s változat és a többjátékos mód megjelenési időpontját a Rockstar még nem jelentette be.\n\n• **A megjelenés napján közel 8 millió néző követett GTA VI-hoz kapcsolódó közvetítéseket**, amelyek összesen 125 millió órányi tartalmat tettek ki a Telex beszámolója szerint.\n\n• **A fejlesztés költsége meghaladhatta az egymilliárd dollárt** a 444 által idézett becslések alapján, ami a játékot minden idők legdrágább videojáték-projektjei közé emelheti.",
     "importance_score": 55.0,
     "top_rank": 19,
     "is_top_hero": false,
