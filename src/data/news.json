@@ -2167,31 +2167,41 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_b38bfe8c3e",
-    "slug": "trump-putyin-veget-akar-vetni-a-haborunak-ukrajnaban-b38bfe",
+    "group_id": "group_1f6aaca659",
+    "slug": "vilagszerte-estek-a-tozsdek-a-magyar-reszvenyek-is-nagyot-gyengultek-1f6aac",
     "tags": [
-      "politika"
+      "tozsde",
+      "anthropic",
+      "befektetes",
+      "bux"
     ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261120/1795197110-temp-7ch7anngfbdfbcfplfi_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
+    "fingerprint": "6ef6965c2200aab514db75b90488ef84",
+    "category": "Gazdaság",
+    "image": "https://assets.telex.hu/images/20261120/1795165922-temp-ip0ee5a6k7qecbefigf_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Telex - Belföld",
-        "title": "Trump: Putyin véget akar vetni a háborúnak Ukrajnában",
-        "link": "https://telex.hu/kulfold/2026/11/20/donald-trump-sajtotajekoztato-hszi-csin-ping-vlagyimir-putyin-harmas-csucstalalkozo"
+        "title": "Világszerte gyengélkednek a tőzsdék az Anthropic rajtja után",
+        "link": "https://telex.hu/gazdasag/2026/11/20/anthropic-ipo-tozsde-budapesti-ertektozsde-arfolyam-reszveny"
       },
       {
-        "source": "Vadhajtások",
-        "title": "Trump bejelentette: Putyin le akarja zárni az ukrajnai háborút",
-        "link": "https://www.vadhajtasok.hu/2026/11/20/trump-bejelentette-putyin-le-akarja-zarni-az-ukrajnai-haborut"
+        "source": "Portfolio - Befektetés",
+        "title": "Egyre nagyobb a baj a tőzsdéken, világszerte menekülnek a befektetők",
+        "link": "https://www.portfolio.hu/befektetes/20261120/egyre-nagyobb-a-baj-a-tozsdeken-vilagszerte-menekulnek-a-befektetok-877892"
+      },
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Nagy a baj a tőzsdéken, világszerte menekülnek a befektetők",
+        "link": "https://www.portfolio.hu/befektetes/20261120/nagy-a-baj-a-tozsdeken-vilagszerte-menekulnek-a-befektetok-877892"
       }
     ],
-    "published_at": 1795197650,
-    "title_hu": "Trump: Putyin véget akar vetni a háborúnak Ukrajnában",
-    "lead_hu": "Donald Trump egy nappal később szólalt csak meg a történelmiként jellemzett hármas csúcstalálkozó után....",
-    "content_hu": "Donald Trump egy nappal később szólalt csak meg a történelmiként jellemzett hármas csúcstalálkozó után.",
+    "published_at": 1795189980,
+    "title_hu": "Világszerte estek a tőzsdék, a magyar részvények is nagyot gyengültek",
+    "lead_hu": "Az Anthropic tőzsdei rajtja nem fordította meg a technológiai részvények eladási hullámát: az amerikai és az ázsiai piacokon is jelentős mínuszok alakultak ki. A Budapesti Értéktőzsde vezető papírjai szintén gyengültek, a BUX esése a nap folyamán a 4 százalékot is megközelítette.",
+    "content_hu": "• **Nemzetközi eladási hullám** Az amerikai vezető indexek több mint 2 százalékot veszítettek értékükből, a Dow Jones pedig június óta először zárt 50 ezer pont alatt. Az ázsiai kereskedésben a japán Nikkei és a dél-koreai Kospi egyaránt 5 százalékot meghaladó mínuszt mutatott.\n\n• **Európában is visszaestek az árfolyamok** A DAX napközben 2,2 százalékos, a Stoxx 600 pedig 1,7 százalékos csökkenést is elért; később a veszteségük mérséklődött. A Dow, az S&P 500 és a Nasdaq heti teljesítménye a közölt adatok szerint rendre 6,2, illetve 5-5 százalékos mínuszban volt.\n\n• **Tovább mélyült a magyar piac esése** A BUX napközben 3,4 százalékkal csökkent, a záráshoz közeledve pedig 4 százalékos veszteséget jelzett. A Mol árfolyama több mint 5 százalékot, az OTP-é 4,7 százalékot esett; a Magyar Telekom és a Richter is gyengült.\n\n• **A kisebb hazai részvények is veszítettek értékükből** A 4iG árfolyama több mint 6 százalékkal, a Masterplasté 4,5 százalékkal, a Rábáé 4 százalékkal csökkent. Az Appeninn 3,8, az Állami Nyomda pedig 3 százalékos mínuszt mutatott.\n\n• **Nagy érdeklődés kísérte az Anthropic tőzsdei debütálását** A Claude fejlesztőjének részvényei 83 dolláros kibocsátási áron kerültek piacra, majd az első kereskedési napon 97,17 dolláron zártak. A papír a következő kereskedési napon 87 dollárig süllyedt; a vállalat teljesen hígított részvényállomány alapján számított értéke a kereskedés során 2,1 ezermilliárd dollár fölé emelkedett. A nyilvános kibocsátás 81,3 milliárd dollárt tett ki, a további részvényértékesítésekkel együtt pedig 107,3 milliárd dollárnyi tőke gyűlt össze.\n\n• **Az S&P 500 eséssorozata is folytatódott** Az amerikai index egymás után hat kereskedési napon zárt alacsonyabban; hasonló hosszúságú szériára az elmúlt ötven évben ritkán volt példa.",
     "importance_score": 33.0,
     "top_rank": 44,
     "is_top_hero": false,
@@ -2624,6 +2634,37 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_b38bfe8c3e",
+    "slug": "trump-putyin-veget-akar-vetni-a-haborunak-ukrajnaban-b38bfe",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261120/1795197110-temp-7ch7anngfbdfbcfplfi_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Trump: Putyin véget akar vetni a háborúnak Ukrajnában",
+        "link": "https://telex.hu/kulfold/2026/11/20/donald-trump-sajtotajekoztato-hszi-csin-ping-vlagyimir-putyin-harmas-csucstalalkozo"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Trump bejelentette: Putyin le akarja zárni az ukrajnai háborút",
+        "link": "https://www.vadhajtasok.hu/2026/11/20/trump-bejelentette-putyin-le-akarja-zarni-az-ukrajnai-haborut"
+      }
+    ],
+    "published_at": 1795197650,
+    "title_hu": "Trump: Putyin véget akar vetni a háborúnak Ukrajnában",
+    "lead_hu": "Donald Trump egy nappal később szólalt csak meg a történelmiként jellemzett hármas csúcstalálkozó után....",
+    "content_hu": "Donald Trump egy nappal később szólalt csak meg a történelmiként jellemzett hármas csúcstalálkozó után.",
+    "importance_score": 28.0,
+    "top_rank": 56,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_456925350d",
     "slug": "tisza-kormany-vitezy-david-a-legnepszerubb-magyar--456925",
     "tags": [
@@ -2650,7 +2691,7 @@
     "lead_hu": "Magyar Péter miniszterelnök tragikomikusnak nevezte a Fidesz állítását, miszerint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal által megtalált több milliárd forintnak nincs köze Seszták Mik…",
     "content_hu": "Magyar Péter miniszterelnök tragikomikusnak nevezte a Fidesz állítását, miszerint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal által megtalált több milliárd forintnak nincs köze Seszták Miklóshoz. A kormány eközben több ponton módosította a babaváró hitel szabályait, kedvezőbb feltételeket teremtve a gyermektelenül maradt adósoknak és a jövőbeni hitelfelvevőknek is. Egy friss felmérés szerint továbbra is Vitézy Dávid a legnépszerűbb magyar politikus, miközben októberhez képest szinte minden politikus megítélése romlott. Magyar Péter arról is beszámolt, hogy a 95-ös benzin átlagára már 12 forinttal alacsonyabb a védett árnál.",
     "importance_score": 28.0,
-    "top_rank": 56,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2681,7 +2722,7 @@
     "lead_hu": "A legutóbbi csapadékos időszak hatására emelkedésnek indult a Balaton vízszintje, amely jelenleg 36 centiméteren áll – számolt be Gajdos László élő környezetért felelős miniszter a Facebook-oldalán....",
     "content_hu": "A legutóbbi csapadékos időszak hatására emelkedésnek indult a Balaton vízszintje, amely jelenleg 36 centiméteren áll – számolt be Gajdos László élő környezetért felelős miniszter a Facebook-oldalán.",
     "importance_score": 28.0,
-    "top_rank": 57,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2718,7 +2759,7 @@
     "lead_hu": "November 19-i hatállyal megszűnt Sipos Kitti Lídia szentesi önkormányzati képviselői mandátuma. A Fidesz–KDNP-s politikus a Horváth Mihály Gimnázium igazgatója; a testületben betöltött helyéről a polgármester számolt be.",
     "content_hu": "• **A lemondás és a mandátum** Sipos Kitti Lídia a 2024-es önkormányzati választáson a Fidesz kompenzációs listájáról került be a képviselő-testületbe, miután egyéni körzetében nem szerzett mandátumot. Képviselői megbízatása november 19-én ért véget; távozását Szabó Zoltán polgármester ismertette a testület ülésén.\n\n• **A testület pártösszetétele** A polgármestert támogató civil szervezet tíz helyet szerzett, a Fidesz négyet, a Mi Hazánk pedig egy képviselővel rendelkezik.\n\n• **A drámai képzés előzményei** A Horváth Mihály Gimnáziumban 1978 óta folyik drámai-irodalmi oktatás, a Keleti István Művészeti Iskola pedig 1998-tól tartotta a délutáni foglalkozásokat. A művészeti iskola több, korábban a gimnáziumban tanító pedagógust is foglalkoztatott, köztük Matos Ibolyát és Szebeni Zoltánt.\n\n• **Korábbi konfliktus a drámaoktatás körül** Keserű Imrét, aki Alföldi Róbertet is tanította, 2008-ban elbocsátották a gimnáziumból. A diákok és tanárok ülősztrájkja sem változtatott a döntésen, Keserű később a művészeti iskola oktatójaként folytatta a drámás tanulók tanítását.\n\n• **Az együttműködés megszüntetése** Sipos 2024-ben lezárta a gimnázium és a Keleti István Művészeti Iskola együttműködését; a döntés előtt nem egyeztetett a partnerrel és a szülőkkel. A gimnáziumban az elmúlt években átalakult a képzés, és több pedagógus is távozott.\n\n• **Matos Ibolya távozása és a tiltakozás** Matos Ibolya, aki negyedszázadon át tanított történelmet és drámát a gimnáziumban, 2024-ben a státusztörvény miatt hagyta ott az intézményt. Osztálya ballagására a szülők hívták meg, jelenléte pedig kisebb tiltakozást váltott ki, mivel az iskolavezetés nem támogatta, hogy részt vegyen az ünnepségen.\n\n• **A döntések visszhangja** Diákok és szülők tiltakoztak a művészeti iskolával való együttműködés megszüntetése ellen, később pedig petícióban kérték Sipos távozását. Alföldi Róbert, Gáspár Sándor, Náray Erika, Nyáry Krisztián és Szőke András a drámatagozat mellett állt ki; a diákok az iskola körüli vitákból operát készítettek.\n\n• **Sipos részvétele a testületi munkában** A Magyar Narancs beszámolója szerint az áprilisi országgyűlési választások óta Sipos egyetlen képviselő-testületi ülésen vett részt.\n\n• **Eltérő értelmezések a műhely szerepéről** A drámai képzés támogatói szerint a helyi jobboldal fel akarta számolni a műhelyt, míg jobboldali szereplők azt állították, hogy a baloldal politikai célokra használta a diákokat.",
     "importance_score": 28.0,
-    "top_rank": 58,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2754,7 +2795,7 @@
     "lead_hu": "A rendőrség különösen nagy vagyoni hátrányt okozó hűtlen kezelés gyanújával vizsgálja a Digitális Kormányzati Ügynökség egyik tanácsadói megbízását. A szerződés Siroki Attila Józsefhez kötődött, aki 40 hónap alatt összesen 156 millió forint díjazásra volt jogosult.",
     "content_hu": "• **A szerződés részletei miatt indult eljárás** A Tudományos és Technológiai Minisztérium feljelentése nyomán a rendőrség azt vizsgálja, hogy a DKÜ-nél kötött megbízás teljesítése megfelelően dokumentált-e. A nyomozásnak a Telex beszámolója szerint egyelőre nincs hivatalos gyanúsítottja.\n\n• **Havi bruttó 3,9 millió forint volt a díj** Siroki 2023-ban kapott tanácsadói megbízást az állami ügynökségtől, a szerződést 2024 januárjában meghosszabbították 2026. április 30-ig. A 40 hónapos időszakra összesen 156 millió forint járt neki.\n\n• **A teljesítések igazolása kérdéseket vetett fel** A minisztérium szerint a dokumentumokból nem állapítható meg egyértelműen, milyen konkrét munkát végzett Siroki, illetve havonta hány órát dolgozott. A DKÜ jogszabálytervezetek véleményezését, beszerzési tanácsadást és a jogi környezet áttekintését sorolta fel a feladatok között.\n\n• **Siroki vitatja a feljelentés megalapozottságát** Azt közölte, hogy tanácsadói feladatait teljesítette, és ha a rendőrség megkeresi, együttműködik a hatósággal.",
     "importance_score": 25.0,
-    "top_rank": 59,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2791,7 +2832,7 @@
     "lead_hu": "A francia ügyészség azt vizsgálja, hogy a Nemzeti Tömörülés előre értesülhetett-e a pártot érintő nyomozásokról. Az ügyben Hugues Moutouh, a belügyminisztérium korábbi főtitkára is a gyanú középpontjába került; neve korábban lehetséges vezető kormányzati szerepek kapcsán is felmerült.",
     "content_hu": "• **Az eljárás tárgya** A párizsi ügyészség július 27-én indított vizsgálatot hivatali és nyomozati titok megsértésének, valamint ezek eltitkolásának gyanújával.\n\n• **A gyanúba került tisztviselő** Hugues Moutouh, a belügyminisztérium egykori főtitkára jelenleg a Centre-Val de Loire régió prefektusa. A gyanú szerint bizalmas adatokat juttathatott el a Nemzeti Tömörüléshez.\n\n• **Moutouh lehetséges későbbi szerepei** A Le Monde beszámolója szerint a neve a 2024-es nemzetgyűlési választás két fordulója között lehetséges belügyminiszterként, illetve az Élysée-palota főtitkáraként is szóba került arra az esetre, ha Marine Le Pen megnyerné a 2027-es elnökválasztást.\n\n• **Házkutatások** A belügyminisztériumban október végén, az RN párizsi székházában november 9-én tartottak házkutatást. A párt nem kommentálta az értesüléseket.\n\n• **Az ügy előzménye** Az új eljárás olyan dokumentumok nyomán indult, amelyeket az Európai Ügyészség egy korábbi ügyéhez kapcsolódó házkutatás során találtak meg.\n\n• **Ügyész járt a pártszékházban** A házkutatás idején a nyomozók a párizsi ügyészség egyik helyettes ügyészével is találkoztak. Az ügyészség szerint látogatása első látásra nem függött össze sem a vizsgálattal, sem a munkájával; az érintett azt mondta, egy ismerősével kávézott.\n\n• **Jean-Paul Garraud megerősítése** Az RN európai parlamenti képviselője szintén azt közölte, hogy kávézni találkozott a helyettes ügyésszel.",
     "importance_score": 25.0,
-    "top_rank": 60,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2822,7 +2863,7 @@
     "lead_hu": "Százharminc módosító indítványt nyújtott be a Fidesz–KDNP, elővennék például a katások ügyét is....",
     "content_hu": "Százharminc módosító indítványt nyújtott be a Fidesz–KDNP, elővennék például a katások ügyét is.",
     "importance_score": 23.0,
-    "top_rank": 61,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2853,7 +2894,7 @@
     "lead_hu": "A volt európai parlamenti képviselő szerint Európa vezetőinek fel kell adniuk a nagyhatalmi pózolást....",
     "content_hu": "A volt európai parlamenti képviselő szerint Európa vezetőinek fel kell adniuk a nagyhatalmi pózolást.",
     "importance_score": 23.0,
-    "top_rank": 62,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2889,7 +2930,7 @@
     "lead_hu": "A novemberi csapadék után országos vízmegtartási intézkedéseket hajtottak végre, többek között zsilipek lezárásával és fenékküszöbök kialakításával. A minisztérium közlése szerint az elmúlt napokban több tízmillió köbméter vizet sikerült visszatartani, ebből 30 milliót a Tisza-tóban.",
     "content_hu": "• **Országos vízvisszatartás** A vízügyi szakemberek nemzeti parkokkal és civil szervezetekkel együtt dolgoztak a csapadék helyben tartásán. Zsilipeket zártak le, fenékküszöböket építettek, és több helyen a tájba vezették a vizet.\n\n• **Több tízmillió köbméter víz** A minisztérium tájékoztatása szerint országosan ekkora mennyiséget sikerült megőrizni az esőzések nyomán. A Tisza-tóban 30 millió köbmétert tároltak el.\n\n• **Helyi beavatkozások** Bajánál és környékén csatornákban létesítettek elzárásokat és mederküszöböket, az Ős-Dráva térségében pedig zárva tartották a zsilipeket és duzzasztókat. A Gerje és a Kis-Gerje mentén 50 fenékküszöbrendszer készült.\n\n• **A vízhiány továbbra is jelentős** A Charles ciklon nyomán 25–95 milliméter csapadék hullott az országban, de az Alföld mélyebb talajrétegeiben még számottevő hiány maradt. A gyökérzóna feltöltéséhez további 100–200 milliméter lassú esőre lenne szükség.",
     "importance_score": 23.0,
-    "top_rank": 63,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2920,7 +2961,7 @@
     "lead_hu": "A Tisza-frakció kétnapos kihelyezett frakcióülést tartott Siófokon. The post Magyar Péter bejelentette, mi fog következni az előttünk álló törvényhozási dömping során a parlamentben first appeared on ...",
     "content_hu": "A Tisza-frakció kétnapos kihelyezett frakcióülést tartott Siófokon. The post Magyar Péter bejelentette, mi fog következni az előttünk álló törvényhozási dömping során a parlamentben first appeared on 24.hu.",
     "importance_score": 23.0,
-    "top_rank": 64,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2956,7 +2997,7 @@
     "lead_hu": "A Fővárosi Állat- és Növénykert szakemberei november 19-én megvizsgálták Angele-t és Assamot, hogy kiderítsék, miért nem született még utódjuk. A vizsgálat szerint a nőstény elefántnak mintegy 500 kilogrammot kell fogynia, míg a hím spermájával nem találtak problémát.",
     "content_hu": "• **Angele túlsúlya lehet a sikertelen vemhesülés oka:** a nőstény hormonálisan inaktív, és körülbelül 500 kilogrammos fogyást javasoltak neki.\n\n• **A vizsgálatot november 19-én végezték:** Sós Endre főállatorvos és Robert Hermes német szaporodásbiológus szakértő vett részt az elefántok ellenőrzésében.\n\n• **Assam vizsgálati eredményei megfelelőek:** az állatorvosok ultrahangos ellenőrzést végeztek, és spermamintát is elemeztek; a hím esetében nem merült fel termékenységi probléma.\n\n• **Az állatkert változtatásokat tervez:** a szakemberek a vizsgálat tapasztalatai alapján módosítanának az elefántok tartásán, és bíznak abban, hogy később utód születhet.",
     "importance_score": 23.0,
-    "top_rank": 65,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2987,7 +3028,7 @@
     "lead_hu": "A kiskereskedői szövetség szerint a Vitézy Dávid által bejelentett módosítás hosszú távú negatív hatást okozhat, ezért párbeszédre hívták a jogalkotókat. The post Trafikos szövetség: méltánytalan hely...",
     "content_hu": "A kiskereskedői szövetség szerint a Vitézy Dávid által bejelentett módosítás hosszú távú negatív hatást okozhat, ezért párbeszédre hívták a jogalkotókat. The post Trafikos szövetség: méltánytalan helyzetbe kerülhetnek a dohányboltok first appeared on 24.hu.",
     "importance_score": 23.0,
-    "top_rank": 66,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3023,7 +3064,7 @@
     "lead_hu": "Az Európai Unió és az Egyesült Királyság vezetői brüsszeli találkozójukon több területen is szorosabb együttműködésről állapodtak meg. A megállapodások az oktatási csereprogramot, az élelmiszer-kereskedelmet és a szén-dioxid-kibocsátást is érintik.",
     "content_hu": "• **Oktatási együttműködés** Az Egyesült Királyság ismét csatlakozik az Erasmus+ programhoz, így a brit fiatalok számára újra elérhetővé válik a részvétel.\n\n• **Kereskedelem és kibocsátás** A felek könnyítenének az élelmiszerek és mezőgazdasági termékek kereskedelmén, valamint összekapcsolnák szén-dioxid-kereskedelmi rendszereiket.\n\n• **További együttműködési területek** A találkozón digitális partnerségről, az uniós polgári missziókban való brit részvétel lehetőségéről és a migráció elleni közös fellépésről is szó esett.",
     "importance_score": 23.0,
-    "top_rank": 67,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3054,7 +3095,7 @@
     "lead_hu": "Hatalmas érdeklődés mellett kezdték meg a kereskedést az Anthropic részvényei a Nasdaqon, így rögtön az első napja után a világ 12. legértékesebb vállalata lett a cég. Az IPO-val párhuzamosan szép las…",
     "content_hu": "Hatalmas érdeklődés mellett kezdték meg a kereskedést az Anthropic részvényei a Nasdaqon, így rögtön az első napja után a világ 12. legértékesebb vállalata lett a cég. Az IPO-val párhuzamosan szép lassan elkezdtek befutni az első Wall Street-i elemzések is, amelyek alapján már lehet egy nagyjábóli képünk arról, mit kellene teljesítenie a vállalatnak a következő években ahhoz, hogy igazolja a jelenleg csillagászatinak tűnő árazását. Az első reakciók pozitívak, az elemzők többsége vételi ajánlással kezdte meg a cég követését, a célárak pedig érdemi felértékelődési potenciált feltételeznek.",
     "importance_score": 23.0,
-    "top_rank": 68,
+    "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3091,7 +3132,7 @@
     "lead_hu": "November 20-án délután diáktüntetés zajlott Budapesten, a résztvevők a Fővám térről a Kálvin téren át a Március 15. térre vonultak. A demonstráció a több mint 25 országban meghirdetett tiltakozási akcióhoz kapcsolódott; a szervezők többek között a lakhatás, az oktatás és a diákmunkások helyzetének javítását sürgették.",
     "content_hu": "• **November 20-án tartották a budapesti demonstrációt:** a Szolidáris Fiatalok (SzoFi) szervezésében délután 3 órakor kezdődött a Fővám téren, majd a résztvevők a Kálvin téren keresztül a Március 15. térre vonultak.\n\n• **A megmozdulás nemzetközi tiltakozási hullámhoz kapcsolódott:** több mint 25 országban szerveztek akciókat, amelyek a militarizációt, a társadalmi egyenlőtlenségeket és a diákmunkások kiszolgáltatottságát állították középpontba.\n\n• **A szervezők több területen változást sürgettek:** követeléseik között szerepelt a lakhatás, az oktatás, a munkavállalói és sztrájkjogok, valamint a mentális egészségügy ügye és a hadiipari beruházások elleni fellépés.\n\n• **A résztvevők számát mintegy 200-ra tették:** a rendezvényen a beszámoló szerint a tanárok és diákok közötti szolidaritást hangsúlyozó jelszavak is elhangzottak.",
     "importance_score": 23.0,
-    "top_rank": 69,
+    "top_rank": 70,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3127,7 +3168,7 @@
     "lead_hu": "Egy 2025-ös adatokra épülő nemzetközi rangsor szerint Magyarországon volt a legnagyobb a mesterséges intelligenciával foglalkozó szakemberek nettó elvándorlása. A mutató tízezer LinkedIn-felhasználóra vetítve méri a be- és kiáramlás különbségét.",
     "content_hu": "• **Magyarország került az első helyre** a Visual Capitalist által ismertetett rangsorban: tízezer LinkedIn-felhasználóra számítva 2,74-gyel többen távoztak, mint ahányan érkeztek.\n\n• **A kimutatás arányokat hasonlít össze**, nem az elköltöző szakemberek teljes létszámát. Az alapjául szolgáló 2025-ös adatokat az OECD.AI LinkedInről gyűjtötte.\n\n• **Szlovákia és India követi Magyarországot** a legnagyobb nettó veszteséget mutató országok között; a rangsor első öt helyezettje között Bulgária és Izrael is szerepel.\n\n• **A bérezés lehetséges tényező**, de az ismertetett felmérés nem részletezi, hogy a magyarországi szakemberek elvándorlását konkrétan mi okozza.",
     "importance_score": 23.0,
-    "top_rank": 70,
+    "top_rank": 71,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3158,7 +3199,7 @@
     "lead_hu": "Baló Vera közölte, hogy a közmédia vezérigazgatói posztjára pályázók közül senki nem kapott hozzájárulást a családtól arra, hogy felhasználja az elhunyt Baló György nevét. Szerinte egyelőre az is kérd...",
     "content_hu": "Baló Vera közölte, hogy a közmédia vezérigazgatói posztjára pályázók közül senki nem kapott hozzájárulást a családtól arra, hogy felhasználja az elhunyt Baló György nevét. Szerinte egyelőre az is kérdéses hogy az újjáalakuló közmédia méltó-e a műsorvezető emlékének megőrzésére. The post Baló György lánya reagált arra, hogy a legendás riporterről neveznék el a közmédia gyártóbázisát first appeared on 24.hu.",
     "importance_score": 23.0,
-    "top_rank": 71,
+    "top_rank": 72,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3194,7 +3235,7 @@
     "lead_hu": "A Kultúra2028 konferencián a kulturális finanszírozás megújításáról és az országos stratégia előkészítéséről egyeztettek. Tarr Zoltán 2027-et az átmenet és a közös tervezés időszakának nevezte.",
     "content_hu": "• **Szakmai tanácskozás:** A november 17–18-án, Budapesten rendezett eseményen több mint 80 szervezet képviselői és összesen 200 résztvevő nyolc műhelyben vitatta meg a kulturális támogatások kérdéseit.\n\n• **NKA-reform:** Tarr Zoltán bejelentette, hogy megújítanák a Nemzeti Kulturális Alap működési modelljét, és elindítják az ország kulturális stratégiájáról szóló egyeztetést.\n\n• **2027-es tervek:** A miniszter az évet az átmenet és a közös stratégiaalkotás időszakaként jelölte meg. A konferencia és a korábbi szakmai egyeztetések javaslataiból vitaanyagot készítenének, amelyet szélesebb körben is megvitatnának.",
     "importance_score": 23.0,
-    "top_rank": 72,
+    "top_rank": 73,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3230,7 +3271,7 @@
     "lead_hu": "A 2027-es költségvetéshez 199 képviselő összesen 246 módosító indítványt nyújtott be. A Fidesz újabb nyugdíjkifizetést és adómentességet szorgalmaz, emellett az otthontámogatás és az energiatárolási program folytatását is kezdeményezi.",
     "content_hu": "• **Nyugdíjkiadások** A Fidesz a 14. havi nyugdíj második részletének kifizetését és valamennyi nyugdíjasra kiterjedő emelést javasol. A második részlet becsült költsége további 155 milliárd forint; a költségvetési tervezet az első részletet tartalmazza.\n\n• **Anyák adómentessége** A Fidesz, a KDNP és a Mi Hazánk a 40 év feletti, kétgyermekes anyákra is kiterjesztené az élethosszig tartó szja-mentességet. A kezdeményezés becsült bevételkiesése mintegy 250 milliárd forint. A Fidesz emellett a több gyermeket nevelő, 40 év feletti anyák adómentességét és a gyermekek után járó adókedvezmény jövedelmi korlátjának eltörlését is javasolja.\n\n• **Lakhatás és fejlesztések** Szűcs Gábor pénteki Facebook-videójában az évi egymillió forintos közalkalmazotti otthontámogatás, az autópálya-építések és -fejlesztések, valamint az Otthoni Energiatároló Program folytatását kérte. A Fidesz azt is javasolja, hogy a program keretében minden igénylő megkaphassa az eredeti támogatási összeget; napelemes rendszerekhez kapcsolódó energiatárolókra legfeljebb 2,5 millió forint vissza nem térítendő támogatás volt igényelhető. Szűcs állítása szerint a Tisza leállítaná az autópálya-fejlesztéseket, és olyan koncessziós rendszert vezetne be, amelyben külföldi szereplők tehetnék a legkedvezőbb ajánlatot.\n\n• **További kormánypárti indítványok** A Fidesz, a KDNP és a Mi Hazánk egyes ágazatokban nagyobb béremelést, valamint a határon túli magyarok támogatásának növelését is javasolja. A Fidesz korábbi indítványai a fiatalok első lakáshoz jutását célzó Otthon Start program újbóli bevezetését is érintették.\n\n• **A Tisza javaslatai** A párt négy indítványa között szerepel a debreceni CATL-beruházás állami támogatásának egymilliárd forintos csökkentése, továbbá a Veritas Intézet és a Magyarságkutató Intézet támogatásának 250-250 millió forintos mérséklése. A CATL-től elvont összeget a határon túli magyarok támogatására fordítanák. Radnai Márk 1,7 milliárd forintot csoportosítana át a rendkívüli kormányzati intézkedések 210 milliárdos keretéből a Működő és Emberséges Magyarország Intézetnek, amelynek céljai közé tartozik a társadalmi részvétel erősítése.\n\n• **A módosítók és a parlamenti menetrend** Csütörtökön 16 órakor zárult le az indítványok benyújtásának határideje; 199 képviselő összesen 246 javaslatot terjesztett elő, a legtöbbet ellenzéki képviselők. Az ellenzéki frakciók több százmilliárd forint átcsoportosítását kezdeményezték, a költségvetés végleges elfogadása decemberben várható.",
     "importance_score": 23.0,
-    "top_rank": 73,
+    "top_rank": 74,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3266,7 +3307,7 @@
     "lead_hu": "A 112 éves Kirsten Schwalbe Dánia valaha élt legidősebb polgára lett, majd nyilvánosságra került, hogy a dán náci párt tagja volt. Életrajzi könyvének első kiadásában nem szerepelt ez a múltjára vonatkozó információ, a kiadó pedig jelezte, hogy a későbbi változatokat kiegészítik.",
     "content_hu": "• **Dánia legidősebb polgára** Kirsten Schwalbe 112 évesen és 218 naposan állított fel rekordot. Az évforduló alkalmából életrajzi könyv is megjelent róla.\n\n• **Náci párttagság** A rekord ünneplése után két nappal derült ki, hogy Schwalbe a német megszállást követően, 1940-ben belépett a dán náci pártba. Elmondása szerint férje kérésére csatlakozott.\n\n• **Történészi értékelés** Kutatók szerint Schwalbe egy helyi pártszervezet vezetésében is részt vett, így szerepe túlmutatott az egyszerű tagságon.\n\n• **A könyv frissítése** A kiadó közölte, hogy a következő kiadásokban feltüntetik a később napvilágra került információkat. Schwalbe családja szerint a múltjáról szóló hírek megviselték az idős asszonyt.",
     "importance_score": 23.0,
-    "top_rank": 74,
+    "top_rank": 75,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3302,7 +3343,7 @@
     "lead_hu": "Orbán Viktor 29 alkalommal szállt meg a brüsszeli Stanhope Hotelben, ezek költsége összesen csaknem 120 millió forint volt. A közölt adatok szerint a párizsi Ritzben öt éjszakát töltött, egy koppenhágai éjszaka pedig mintegy 55 millió forintba került.",
     "content_hu": "• **Brüsszeli szállások** Orbán Viktor 29 alkalommal vette igénybe a Stanhope Hotelt; a tartózkodásokra összesen közel 120 millió forintot fordítottak.\n\n• **Párizsi út** A miniszterelnök öt éjszakát töltött a Ritzben.\n\n• **Koppenhágai éjszaka** A szállás egyetlen alkalommal 55,1 millió forintba került.",
     "importance_score": 23.0,
-    "top_rank": 75,
+    "top_rank": 76,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3338,7 +3379,7 @@
     "lead_hu": "A Magyar Forgatókönyvírók és Filmdramaturgok Egyesülete kezdeményezést indított az új kata tervezett szabályainak átalakítására, amelyhez más szakmai szervezetek is csatlakoztak. Azt kérik, hogy a szabályozás vegye figyelembe a kreatív ágazatok projektalapú munkavégzését.",
     "content_hu": "• **A bevételi korlát emelését javasolják:** A tervezet szerint a kisadózó egyéni vállalkozók bevételének legfeljebb fele érkezhetne egyetlen kifizetőtől. A szervezetek ezt legalább 60, lehetőség szerint 70 százalékra növelnék.\n\n• **Két év adatai alapján vizsgálnák a bevételeket:** A kezdeményezők szerint ne egyetlen adóév, hanem két egymást követő év alapján dőljön el, hogy túl magas-e az egy kifizetőtől származó bevétel aránya.\n\n• **A projektmunka sajátosságaira hivatkoznak:** A film-, televíziós, dokumentumfilmes és animációs produkciókban, valamint a zenei, alkalmazott művészeti és írói területeken gyakoriak a hosszú projektek. Emiatt egy vállalkozó bevétele egy évben akár egyetlen megrendelőtől vagy produkciótól is származhat.\n\n• **A magas bevételi arányt önmagában nem tartják munkaviszony bizonyítékának:** A szervezetek szerint az ilyen bevételi szerkezet nem feltétlenül jelenti azt, hogy a vállalkozó valójában alkalmazottként dolgozik. A közlemény a magyar filmszakma mintegy húszezer munkavállalójának érdekét is említi.",
     "importance_score": 23.0,
-    "top_rank": 76,
+    "top_rank": 77,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3373,7 +3414,7 @@
     "lead_hu": "A budapesti rendőrfőkapitány sajtótájékoztatón ismertette a főváros közterületi biztonságának javítására tett intézkedéseket és azok eredményeit. Elmondása szerint jelenleg 28 kiemelt helyszínen biztosítanak állandó rendőri jelenlétet.",
     "content_hu": "• **28 helyszínen van állandó rendőri jelenlét** Budapesten: a kiemelt pontok között forgalmas közterek, pályaudvarok és a belvárosi szórakozónegyed részei is szerepelnek. Emellett korábban száz helyszínen mozgó járőrözést is végeztek.\n\n• **Ezer eljárás indult testi sértés vagy garázdaság miatt** a főkapitány tájékoztatása szerint. Kábítószerrel összefüggésben több mint 900 eljárást kezdeményeztek, ezek 90 százalékában fogyasztók ellen.\n\n• **Mintegy 2000 rendőr hiányzik a budapesti állományból.** A létszámhiány kezelésére átcsoportosításokat és a fővárosi rendészetek bevonását alkalmazzák; a főkapitány szerint az állomány csökkenése legalább megállt.",
     "importance_score": 23.0,
-    "top_rank": 77,
+    "top_rank": 78,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3409,7 +3450,7 @@
     "lead_hu": "A Volánbusz-ügyben talált, csaknem 6,5 milliárd forintnyi készpénz eredete és tulajdonosa továbbra sem tisztázott. A beszámolók szerint a pénz egy részének felbukkanási helyei Fabó György vállalkozó érdekeltségébe tartozhatnak, és a férfi otthonában is házkutatást tartottak.",
     "content_hu": "• **Csaknem 6,5 milliárd forintot találtak** az összehangolt kutatások során Budapesten, valamint Pest, Nógrád és Békés vármegyében; a pénz erdős területekről és különböző ingatlanokból került elő.\n\n• **Fabó György érdekeltsége is felmerült:** a beszámolók szerint egyes erdős helyszínek a számlagyárügyben érintett vállalkozóhoz köthetők, és Fabó otthonában is házkutatást tartottak.\n\n• **A készpénz tulajdonosa egyelőre nem ismert.** A lehetséges eredetére vonatkozóan adócsalás gyanúja is felmerült, de ezt a közölt információk nem igazolják.\n\n• **Az ügy a Volánbuszhoz kapcsolódó eljárás része:** a nyomozás a buszbeszerzésekkel és más ügyletekkel összefüggő feltételezett bűncselekményeket vizsgálja; Seszták Miklós érintettsége is felmerült.",
     "importance_score": 23.0,
-    "top_rank": 78,
+    "top_rank": 79,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3445,7 +3486,7 @@
     "lead_hu": "Nagy Alekosz közösségi bejegyzésben fejtette ki, miért nem tetszik neki a Grand Theft Auto VI. A játékot többek között a szereplők ábrázolása miatt kritizálta, és kedvenc videójátékait is felsorolta.",
     "content_hu": "• **A GTA VI kritikája** Nagy Alekosz szerint a játék a főszereplők és az általuk megjelenített életmód miatt kifogásolható; bejegyzésében fideszes játéknak is nevezte.\n\n• **Kedvenc játékai** Az egykori valóságshow-szereplő többek között a Quake-, Half-Life- és Max Payne-sorozatot, valamint a Worms Armageddont említette a kedvencei között.\n\n• **A játék fogadtatása és megjelenése** A GTA VI november 19-én jelent meg. A HVG beszámolója szerint a Metacritic értékeléseket összesítő oldalán 99 ponton állt a lehetséges 100-ból.",
     "importance_score": 23.0,
-    "top_rank": 79,
+    "top_rank": 80,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3481,7 +3522,7 @@
     "lead_hu": "A Claude fejlesztőjének részvényei a csütörtöki tőzsdei rajt után pénteken visszaestek, miközben a technológiai papírok gyengélkedése több piacon is folytatódott. A kedvezőtlen hangulat a budapesti tőzsdét is elérte: a BUX és az OTP árfolyama csökkent.",
     "content_hu": "• **Visszaesett az Anthropic árfolyama:** A 83 dolláros kibocsátási ár után a részvény csütörtökön 115 dollárig emelkedett, majd 97 dolláron zárt. Pénteken, a rendes kereskedés előtti időszakban 89–90 dollár körül forgott.\n\n• **Nem élénkült fel az AI-részvények iránti érdeklődés:** A beszámolók szerint a tőzsdei bevezetés nem fordította meg a technológiai szektor gyengélkedését. Az amerikai indexek csütörtökön estek, péntek reggel pedig az ázsiai piacokon is jelentős mínuszokat mértek.\n\n• **A budapesti piac is gyengült:** A BUX 0,4 százalékkal 142 433 pontra süllyedt, az OTP részvénye pedig 1,1 százalékos csökkenéssel 40 150 forinton állt.",
     "importance_score": 23.0,
-    "top_rank": 80,
+    "top_rank": 81,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3517,7 +3558,7 @@
     "lead_hu": "A közmédia kinevezett programigazgatója lehetőséget adna Vitray Tamásnak arra, hogy visszatérjen a televízióhoz. A 94 éves műsorvezető egyelőre nem köteleződött el, és azt mondta, a közmédia megkeresése után térhet vissza a kérdésre.",
     "content_hu": "• **Vitray visszatérése** Szeleczky Ádám programigazgató szabad bejárást és külön irodát is biztosítana a televíziósnak, ha elfogadná a közmédiához szóló meghívást.\n\n• **Vitray válasza** A 94 éves televíziós jelezte, hogy hivatalos megkeresés és egyeztetés előtt nem kíván állást foglalni az ügyben.\n\n• **Tervezett változások** Szeleczky fokozatos megújulást, új műsorokat és a nézői bizalom erősítését nevezte meg célként. A régi televíziós produkciók újbóli bemutatása is szóba került, a Szomszédok új változatát azonban jelenleg nem tervezik.\n\n• **Új zenei műsor** November 28-án indul a Dal’a carte című show. Steiner Kristóf, Kulka János és Bródy János is visszatérhet a közmédia képernyőjére.",
     "importance_score": 20.0,
-    "top_rank": 81,
+    "top_rank": 82,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3548,7 +3589,7 @@
     "lead_hu": "Radikális változás is jöhet.",
     "content_hu": "Radikális változás is jöhet.",
     "importance_score": 20.0,
-    "top_rank": 82,
+    "top_rank": 83,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3579,7 +3620,7 @@
     "lead_hu": "Az óvszerhasználat volt a téma....",
     "content_hu": "Az óvszerhasználat volt a téma.",
     "importance_score": 20.0,
-    "top_rank": 83,
+    "top_rank": 84,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3615,7 +3656,7 @@
     "lead_hu": "Kapu Tibor egy interjúban arról beszélt, hogy magyar kutatások a jövőbeli holdküldetésekhez is hozzájárulhatnak. A lehetséges területek között a sugárzás vizsgálatát és a holdi talaj építőanyagként való hasznosítását említette.",
     "content_hu": "• **A HUNOR-kísérletek** A Nemzetközi Űrállomáson mintegy harminc kutatási kísérletet végeztek, ezek közül Kapu Tibor 25-ben vett részt.\n\n• **Lehetséges magyar hozzájárulás** Kapu szerint a sugárzásmérés olyan terület, ahol Magyarország bekapcsolódhat a holdkutatásba.\n\n• **Holdi talajból készülő építőanyag** Egy, az űrállomásra tartó kísérlet azt vizsgálja, miként lehet a holdi kőzetből építkezésre alkalmas anyagot előállítani; a felvetett eljárások között szerepel az infiltráció és a habosítás.\n\n• **A NASA holdi tervei** Kapu beszámolója szerint a NASA a következő évben teszteli két holdi leszállóegységét, és 2028 novemberéig tervez emberes holdraszállást.",
     "importance_score": 20.0,
-    "top_rank": 84,
+    "top_rank": 85,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3651,7 +3692,7 @@
     "lead_hu": "Az Anthropic részvényei a rekordokat hozó tőzsdei bemutatkozásukat követően gyengültek, miközben a nemzetközi piacokon is eladási hullám bontakozott ki. A technológiai részvények esése Európától Ázsiáig, valamint a magyar tőzsdén is éreztette hatását.",
     "content_hu": "• **Visszaesés a tőzsdei rajt után** Az Anthropic papírjai a zárás utáni kereskedésben hozzávetőleg 5 százalékot veszítettek értékükből. Az első kereskedési napot még az IPO-árnál 17 százalékkal magasabban fejezték be, napközben pedig átmenetileg 39 százalékos pluszban is jártak.\n\n• **Jelentős kereslet az IPO-ra** A részvénykibocsátásra a felkínált mennyiség hétszeresére érkezett igény.\n\n• **Nemzetközi piaci gyengülés** A Nasdaq 2,2 százalékos mínuszban zárt, a német DAX 1,3, a francia CAC pedig 1 százalékot esett. Ázsiában a SoftBank árfolyama 14,5 százalékkal zuhant.\n\n• **A magyar részvények is estek** A hazai blue chipek árfolyama egyaránt csökkent; az OTP 1,7 százalékos mínuszban 40 ezer forint alá került.",
     "importance_score": 20.0,
-    "top_rank": 85,
+    "top_rank": 86,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3687,7 +3728,7 @@
     "lead_hu": "A szerb törvényhozás hat alelnököt választott, köztük Lázár Tibort, a zentai magyar képviselőt. Az ellenzék nem kapott vezető tisztséget, ami csaknem nyolcórás vitához és tiltakozó kivonuláshoz vezetett.",
     "content_hu": "• **Hat új alelnök** A szerb parlament alelnökévé választották Jelena Petrovicot, Lidija Dimitrijevicet, Marija Bjelobrkot, Sara Valentiket, Lázár Tibort és Adem Mavricot.\n\n• **Magyar képviselő a tisztségben** Lázár Tibor zentai képzőművész és pedagógus, aki nemzeti kisebbségi képviselőként került be a törvényhozásba.\n\n• **Tiltakozás az ellenzéki pozíciók hiánya miatt** Az októberi előrehozott választást megnyerő Egyetemista Lista jelöltjei kapták meg a tisztségeket, az ellenzék képviselői nem jutottak vezető szerephez. A korábban kormányzó Szerb Haladó Párt és néhány kisebbségi párt politikusai tiltakozásul elhagyták az üléstermet.\n\n• **Vita a parlamenti hagyományról** Az ellenzék szerint a döntés eltér a több évtizedes gyakorlattól, amely alapján az ellenzéki csoportok is részt vehettek a törvényhozás vezetésében. Aleksandar Vučić úgy vélte, az ellenzéknek legalább két alelnöki helyet kellett volna kapnia.",
     "importance_score": 20.0,
-    "top_rank": 86,
+    "top_rank": 87,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3718,7 +3759,7 @@
     "lead_hu": "NER alatti és NER előtti MTVA-sok, filmes producer, egykori MDF-es képviselő és a kulturális média egykori fenegyereke is a közmédiavezér-jelöltek második csoportjának meghallgatásán. The post „Én nem...",
     "content_hu": "NER alatti és NER előtti MTVA-sok, filmes producer, egykori MDF-es képviselő és a kulturális média egykori fenegyereke is a közmédiavezér-jelöltek második csoportjának meghallgatásán. The post „Én nem fogok műsorokba beleszólni” – folytatódik a közmédia vezérigazgató-jelöltjeinek meghallgatása first appeared on 24.hu.",
     "importance_score": 20.0,
-    "top_rank": 87,
+    "top_rank": 88,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3754,7 +3795,7 @@
     "lead_hu": "Az OTP megállapodott az üzbég Gazdasági és Pénzügyminisztériummal az Ipoteka Bank további 17,5 százalékának megvásárlásáról. A tranzakció lezárása után a magyar bank tulajdonrésze 90,4 százalékra nőhet; a szerződés feltételeinek módosítása ugyanakkor 55 millió dollárral csökkentheti a 2026-os negyedik negyedévi eredményt.",
     "content_hu": "• **Újabb részesedést vásárol az OTP:** A bank november 19-én állapodott meg az üzbég minisztériummal az Ipoteka Bank részvényeinek további 17,5 százalékát képviselő csomag megvételéről.\n\n• **90,4 százalékra emelkedhet a tulajdonrész:** A következő hetekben várható pénzügyi lezárás után ennyi lehet az OTP részesedése a pénzintézetben.\n\n• **Módosították a korábbi megállapodást:** A 2022-es szerződés feltételeit az azóta megváltozott gazdasági és pénzügyi környezet miatt felülvizsgálták, hogy kiegyensúlyozottabban osszák meg a kockázatokat és az előnyöket.\n\n• **55 millió dolláros eredményhatás:** A feltételek változása az OTP konszolidált, 2026 negyedik negyedévi eredményét várhatóan ekkora összeggel rontja.\n\n• **Az IFC is tulajdonos marad:** A tranzakció után fennmaradó 9,6 százalékos részesedésből 8,7 százalék a Nemzetközi Pénzügyi Társaságé lehet; az IFC korábbi hitelét alakította részvényekké.",
     "importance_score": 20.0,
-    "top_rank": 88,
+    "top_rank": 89,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3789,7 +3830,7 @@
     "lead_hu": "A Nébih lehetséges rovarszennyezettség miatt rendelte el egy Tesco saját márkás barna rizs visszahívását. Az érintett terméket blokk nélkül is visszaveszik, a vételárat pedig megtérítik.",
     "content_hu": "• **Érintett termék** A visszahívás a Tesco saját márkás, 4 × 125 grammos, négy főzőtasakot tartalmazó barna rizsére vonatkozik; a termék minőségmegőrzési ideje 2027 júniusa.\n\n• **Fogyasztási figyelmeztetés** A Nébih azt kéri, hogy a vásárlók ne fogyasszák el az érintett rizst.\n\n• **Visszavétel és visszatérítés** A terméket a vásárlás helyére vagy bármely magyarországi Tesco üzletbe vissza lehet vinni, és az árát blokk nélkül is visszatérítik.",
     "importance_score": 20.0,
-    "top_rank": 89,
+    "top_rank": 90,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3820,7 +3861,7 @@
     "lead_hu": "A gyermekközönség a színházi élményen keresztül találkozhat a magyar néptánc és népzene hagyományaival.",
     "content_hu": "A gyermekközönség a színházi élményen keresztül találkozhat a magyar néptánc és népzene hagyományaival.",
     "importance_score": 20.0,
-    "top_rank": 90,
+    "top_rank": 91,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3851,7 +3892,7 @@
     "lead_hu": "A támogatások majdnem felét egyedi elbírálás alapján osztották ki, a top tíz kedvezményezett között van Mészáros Lőrinc, Tiborcz István és Szijj László érdekeltsége....",
     "content_hu": "A támogatások majdnem felét egyedi elbírálás alapján osztották ki, a top tíz kedvezményezett között van Mészáros Lőrinc, Tiborcz István és Szijj László érdekeltsége.",
     "importance_score": 20.0,
-    "top_rank": 91,
+    "top_rank": 92,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3882,7 +3923,7 @@
     "lead_hu": "Kapcsolati erőszak és zsarólás gyanúja miatt fordult a hatósághoz Tényi István, illetve a Fidesz egykori parlamenti képviselője.",
     "content_hu": "Kapcsolati erőszak és zsarólás gyanúja miatt fordult a hatósághoz Tényi István, illetve a Fidesz egykori parlamenti képviselője.",
     "importance_score": 20.0,
-    "top_rank": 92,
+    "top_rank": 93,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -17641,99 +17682,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_f3695630ec",
-    "slug": "felrobbantottak-a-baratsag-koolajvezetek-egyik-cso-f36956",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Felrobbantották a Barátság-kőolajvezeték egyik csomópontját",
-        "link": "https://www.vadhajtasok.hu/2026/11/20/felrobbantottak-a-baratsag-koolajvezetek-egyik-csomopontjat"
-      }
-    ],
-    "published_at": 1795132800,
-    "title_hu": "Felrobbantották a Barátság-kőolajvezeték egyik csomópontját",
-    "lead_hu": "A támadásban három hatalmas olajtartály rongálódott meg.",
-    "content_hu": "A támadásban három hatalmas olajtartály rongálódott meg.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_93bd839e30",
-    "slug": "deak-daniel-ramutatott-miutan-megdoltek-az-elasott-93bd83",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Deák Dániel rámutatott: miután megdőltek az elásott milliárdokról szóló állításai, ismét a szexuális kalandjait vette elő Magyar",
-        "link": "https://www.vadhajtasok.hu/2026/11/20/deak-daniel-ramutatott-miutan-megdoltek-az-elasott-milliardokrol-szolo-allitasai-ismet-a-szexualis-kalandjait-vette-elo-magyar"
-      }
-    ],
-    "published_at": 1795132800,
-    "title_hu": "Deák Dániel rámutatott: miután megdőltek az elásott milliárdokról szóló állításai, ismét a szexuális kalandjait vette elő Magyar",
-    "lead_hu": "A politikai elemző szerint ez átlátszó figyelemelterelés.",
-    "content_hu": "A politikai elemző szerint ez átlátszó figyelemelterelés.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_1f6aaca659",
-    "slug": "vilagszerte-estek-a-tozsdek-a-magyar-reszvenyek-is-nagyot-gyengultek-1f6aac",
-    "tags": [
-      "tozsde",
-      "anthropic",
-      "befektetes",
-      "bux"
-    ],
-    "fingerprint": "6ef6965c2200aab514db75b90488ef84",
-    "category": "Gazdaság",
-    "image": "https://assets.telex.hu/images/20261120/1795165922-temp-ip0ee5a6k7qecbefigf_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Világszerte gyengélkednek a tőzsdék az Anthropic rajtja után",
-        "link": "https://telex.hu/gazdasag/2026/11/20/anthropic-ipo-tozsde-budapesti-ertektozsde-arfolyam-reszveny"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Egyre nagyobb a baj a tőzsdéken, világszerte menekülnek a befektetők",
-        "link": "https://www.portfolio.hu/befektetes/20261120/egyre-nagyobb-a-baj-a-tozsdeken-vilagszerte-menekulnek-a-befektetok-877892"
-      },
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Nagy a baj a tőzsdéken, világszerte menekülnek a befektetők",
-        "link": "https://www.portfolio.hu/befektetes/20261120/nagy-a-baj-a-tozsdeken-vilagszerte-menekulnek-a-befektetok-877892"
-      }
-    ],
-    "published_at": 1795189980,
-    "title_hu": "Világszerte estek a tőzsdék, a magyar részvények is nagyot gyengültek",
-    "lead_hu": "Az Anthropic tőzsdei rajtja nem fordította meg a technológiai részvények eladási hullámát: az amerikai és az ázsiai piacokon is jelentős mínuszok alakultak ki. A Budapesti Értéktőzsde vezető papírjai szintén gyengültek, a BUX esése a nap folyamán a 4 százalékot is megközelítette.",
-    "content_hu": "• **Nemzetközi eladási hullám** Az amerikai vezető indexek több mint 2 százalékot veszítettek értékükből, a Dow Jones pedig június óta először zárt 50 ezer pont alatt. Az ázsiai kereskedésben a japán Nikkei és a dél-koreai Kospi egyaránt 5 százalékot meghaladó mínuszt mutatott.\n\n• **Európában is visszaestek az árfolyamok** A DAX napközben 2,2 százalékos, a Stoxx 600 pedig 1,7 százalékos csökkenést is elért; később a veszteségük mérséklődött. A Dow, az S&P 500 és a Nasdaq heti teljesítménye a közölt adatok szerint rendre 6,2, illetve 5-5 százalékos mínuszban volt.\n\n• **Tovább mélyült a magyar piac esése** A BUX napközben 3,4 százalékkal csökkent, a záráshoz közeledve pedig 4 százalékos veszteséget jelzett. A Mol árfolyama több mint 5 százalékot, az OTP-é 4,7 százalékot esett; a Magyar Telekom és a Richter is gyengült.\n\n• **A kisebb hazai részvények is veszítettek értékükből** A 4iG árfolyama több mint 6 százalékkal, a Masterplasté 4,5 százalékkal, a Rábáé 4 százalékkal csökkent. Az Appeninn 3,8, az Állami Nyomda pedig 3 százalékos mínuszt mutatott.\n\n• **Nagy érdeklődés kísérte az Anthropic tőzsdei debütálását** A Claude fejlesztőjének részvényei 83 dolláros kibocsátási áron kerültek piacra, majd az első kereskedési napon 97,17 dolláron zártak. A papír a következő kereskedési napon 87 dollárig süllyedt; a vállalat teljesen hígított részvényállomány alapján számított értéke a kereskedés során 2,1 ezermilliárd dollár fölé emelkedett. A nyilvános kibocsátás 81,3 milliárd dollárt tett ki, a további részvényértékesítésekkel együtt pedig 107,3 milliárd dollárnyi tőke gyűlt össze.\n\n• **Az S&P 500 eséssorozata is folytatódott** Az amerikai index egymás után hat kereskedési napon zárt alacsonyabban; hasonló hosszúságú szériára az elmúlt ötven évben ritkán volt példa.",
-    "importance_score": 33.0,
-    "top_rank": 93,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_3852aab209",
     "slug": "havasi-bertalan-reagalt-orban-utazasainak-kltsegeire-3852aa",
     "tags": [
@@ -18024,32 +17972,6 @@
     "title_hu": "Valósággal ünnepelte a Tisza a százmilliárdos útfelújítási programját, amiről mára kiderült, hogy az állagmegóváshoz sem lesz elég",
     "lead_hu": "Eközben a pénzügyi és a közlekedési tárca csaknem százmilliárdon csatázik.",
     "content_hu": "Eközben a pénzügyi és a közlekedési tárca csaknem százmilliárdon csatázik.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_ea7f7fc48b",
-    "slug": "pocs-janos-vallalniuk-kell-a-felelosseget-mert-az--ea7f7f",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Pócs János: Vállalniuk kell a felelősséget, mert az egész országot becsapták!",
-        "link": "https://www.vadhajtasok.hu/2026/11/20/pocs-janos-vallalniuk-kell-a-felelosseget"
-      }
-    ],
-    "published_at": 1795132800,
-    "title_hu": "Pócs János: Vállalniuk kell a felelősséget, mert az egész országot becsapták!",
-    "lead_hu": "Hétfőn újabb fejezetéhez érkezik a Martinka-ügy.",
-    "content_hu": "Hétfőn újabb fejezetéhez érkezik a Martinka-ügy.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
