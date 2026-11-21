@@ -11,7 +11,7 @@
         "image": "",
         "summary": "Amikor odakint egyre hidegebbre fordul az idő, különösen jólesik magunk mögött hagyni a hétköznapok rohanását, és átadni magunkat a gondtalan pihenésnek. Ki mondta, hogy a fürdőzés csak nyáron az igazi? Nyíregyházán, a festői Sóstógyógyfürdő szívében található Aquarius Élményfürdőben a hideg hónapokban is garantált a feltöltődés, legyen szó családi kalandokról, romantikus pihenésről vagy egy kis énidőről. The post Téli élmények, amelyek felmelegítik a hétköznapokat – irány Nyíregyháza! first appeared on nlc.",
         "category": "Bulvár",
-        "published_at": 1795298581
+        "published_at": 1795298966
       }
     ]
   },
@@ -32,19 +32,26 @@
     ]
   },
   {
-    "group_id": "group_4db7a5c5c3",
-    "category": "Politika",
-    "articles_count": 10,
+    "group_id": "group_d3c2a27daf",
+    "category": "Gazdaság",
+    "articles_count": 1,
     "articles": [
       {
-        "source": "Telex - Belföld",
-        "title": "Pozitív jelzést adott a magyar államadósságról a Moody's hitelminősítő",
-        "link": "https://telex.hu/gazdasag/2026/11/20/moody-s-rating-felminosites",
-        "image": "https://assets.telex.hu/images/20261120/1795212858-temp-hqe2tf5r6g2t6ooljll_cimlap-normal.jpg",
-        "summary": "Stabilra javította az államadósság-osztályzat kilátását pénteken a Moody's.",
-        "category": "Politika",
-        "published_at": 1795212350
-      },
+        "source": "Világgazdaság",
+        "title": "Azonnal megszólalt Kármán András a nagy amerikai hitelminősítő ítélete után: további lépések jönnek Magyarországon az euró bevezetéséhez – \"Mi készen állunk\"",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/karman-andras-amerikai-hitelminosito-moodys-november?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/ACKTlD1Tr_vd2ywHtJvY2u94b1_CooYngPJPlUULsNw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIwL2ZkYjUwMDQ3Y2ZmYmY5YWE3OTBkZmZhMWYxMDk0ZmNlNjMwZmRjOGZmMGQ1ZTgxYTI4ZWY2MjJhMzU5ZGZkOGM.jpg",
+        "summary": "A pénzügyminiszter",
+        "category": "Gazdaság",
+        "published_at": 1795213506
+      }
+    ]
+  },
+  {
+    "group_id": "group_4db7a5c5c3",
+    "category": "Gazdaság",
+    "articles_count": 9,
+    "articles": [
       {
         "source": "Portfolio - Gazdaság",
         "title": "Máris megszólalt Kármán András a Moody's kilátásjavításáról",
@@ -125,22 +132,6 @@
         "summary": "Stabilra javította Magyarország kilátását a Moody's, az Európai Bizottság megállapítása szerint pedig a helyreállítási terv 127 mérföldkövéből 126-ot teljesített a magyar kormány, így decemberben megérkezik az eddig befagyasztott mintegy 3400 milliárd forintos uniós forrás. Hétfőn Pozsonyban visegrádi csúcs vár Magyar Péterre, emellett pedig Bús Balázs szabadon engedése, illetve a minimálbér-megállapodás és a rendszerhasználati díjak átalakítása voltak az elmúlt napok fontos eseményei. Szombaton az is kiderült, hogy a Nemzeti Nyomozó Iroda több mint 9 milliárd forintos vagyonzárat rendelt el Seszták Miklóssal szemben.",
         "category": "Politika",
         "published_at": 1795284900
-      }
-    ]
-  },
-  {
-    "group_id": "group_d3c2a27daf",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Azonnal megszólalt Kármán András a nagy amerikai hitelminősítő ítélete után: további lépések jönnek Magyarországon az euró bevezetéséhez – \"Mi készen állunk\"",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/karman-andras-amerikai-hitelminosito-moodys-november?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/ACKTlD1Tr_vd2ywHtJvY2u94b1_CooYngPJPlUULsNw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIwL2ZkYjUwMDQ3Y2ZmYmY5YWE3OTBkZmZhMWYxMDk0ZmNlNjMwZmRjOGZmMGQ1ZTgxYTI4ZWY2MjJhMzU5ZGZkOGM.jpg",
-        "summary": "A pénzügyminiszter",
-        "category": "Gazdaság",
-        "published_at": 1795213506
       }
     ]
   },
@@ -8449,7 +8440,7 @@
   {
     "group_id": "group_834a7ed482",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -8468,6 +8459,15 @@
         "summary": "Halálhírét a József Attila Színház jelentette be. The post Meghalt Kiss Gábor, a Szomszédok színésze first appeared on 24.hu.",
         "category": "Kultúra",
         "published_at": 1795293842
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Meghalt Kiss Gábor, a József Attila Színház színművésze",
+        "link": "https://magyarnemzet.hu/kultura/2026/11/meghalt-kiss-gabor-a-jozsef-attila-szinhaz-szinmuvesze?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/_jSxG9l_Yb_ZuE7VTRk8pjFE_Nm-CTH7xGySZz_VKoI/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjEvYWFmNDVlYmJiZjMxZmY5NTFjYjJiYmIxMTlkYzc0NWE2YzUzMmZjYmYyODE4MjUyMDg4NzhiYzQ0ZTEzMDRkYg.jpg",
+        "summary": "A színház saját hallottjának tekinti a színművészt.",
+        "category": "Politika",
+        "published_at": 1795298581
       }
     ]
   },
@@ -8740,6 +8740,22 @@
         "summary": "Kert Attila lett a közmédia új vezetője, Seszták házát zár alá vették, bezár a felcsúti Hotel Pancho. The post Ezek voltak a nap legfontosabb hírei first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795295380
+      }
+    ]
+  },
+  {
+    "group_id": "group_9fe28e7811",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Real Madridot megint José Mourinho szupercseréje mentette meg az égéstől",
+        "link": "https://index.hu/sport/futball/2026/11/21/la-liga-2026-2026-13.-fordulo-real-madrid-celta-vigo-osszefoglalo/",
+        "image": "https://kep.index.hu/1/0/7264/72646/726461/72646179_5352331_1f3c530c76e03f1256f65ee73285f7ea_wm.jpg",
+        "summary": "Mbappé büntetőt rontott, Bellingham újra betalált, Vinícius remekül tért vissza a királyi gárdába.",
+        "category": "Általános",
+        "published_at": 1795298700
       }
     ]
   }
