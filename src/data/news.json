@@ -606,7 +606,7 @@
     "title_hu": "Az FBI bűnügyi adatbázisát is kibertámadás érte",
     "lead_hu": "Az amerikai hatóságok azt vizsgálják, hogyan jutottak be az FBI országos bűnügyi információs rendszerébe. A közelmúltban egy korábbi FBI-adatszivárgás során több ezer ügynök egészségügyi adatai is illetéktelenekhez kerültek, Donald Trump pedig azt mondta, csak nemrég értesült az új esetről.",
     "content_hu": "• **Vizsgálják az FBI adatbázisa elleni támadást** A CNN két, a nyomozás részleteit ismerő forrás alapján számolt be arról, hogy behatolás érte az FBI országos bűnügyi információs rendszerét. A hatóságok egyelőre a történtek körülményeit próbálják feltárni.\n\n• **Az NCIC-et országszerte használják a rendvédelmi szervek** A rendszerben a szövetségi és helyi hatóságok többek között elfogatóparancsokról és háttérellenőrzésekről osztanak meg adatokat.\n\n• **Szeptemberben is történt adatlopás az FBI-nál** A ShinyHunters nevű csoport akkor azt állította, hogy mintegy 38 ezer jelenlegi és korábbi FBI-alkalmazott adataihoz jutott hozzá. Később az is kiderült, hogy több ezer ügynök érzékeny egészségügyi adata is az ellopott információk között volt.\n\n• **Trump csak nemrég szerzett tudomást az incidensről** Az elnök egy szombati Fox News-interjúban azt mondta, hogy az eset nincs ínyére, de a történtekből olyan tapasztalatokat is szerezhetnek, amelyek másként nem álltak volna rendelkezésükre.\n\n• **A mezőgazdasági minisztérium kifizetési rendszere is célponttá vált** Az NBC News beszámolója szerint a hét elején hackerek hozzáfértek ahhoz a platformhoz, amelyen a gazdálkodóknak járó kifizetéseket kezelik.\n\n• **A korábbi üzemzavarok több ágazatot érintettek** Az Egyesült Államokban leállások zavarták a légi irányítást és a banki szolgáltatásokat is. A hivatalos tájékoztatás szerint ezeket nem kibertámadások okozták, a fennakadások miatt azonban a törvényhozók vizsgálódni kezdtek.\n\n• **Trump menesztette a Fehér Ház kiberbiztonsági vezetőjét** Az elnök csütörtökön felmentette Sean Cairncrosst, aki 2025 augusztusa óta töltötte be a tisztséget. A döntést azzal indokolta, hogy Cairncross nem végezte megfelelően a munkáját; a feladatokat ideiglenesen Kirsten Davies, a hadügyminisztérium informatikai igazgatója látja el.\n\n• **Patel korábbi kibervédelmi programot méltatott** Kash Patel, az FBI igazgatója az incidensről való értesülés után a Fox Newsban beszélt a hivatal kiberbiztonsági munkájáról. A Winter Shield nevű, már lezárult művelet célja az volt, hogy a vállalatokat rendszereik frissítésére ösztönözze, és ezzel csökkentse az adatlopások kockázatát.",
-    "importance_score": 75.0,
+    "importance_score": 68.0,
     "top_rank": 7,
     "is_top_hero": false,
     "is_top_list": true
@@ -1167,47 +1167,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_96dd8301d2",
-    "slug": "kert-attila-lett-a-kzmedia-vezetoje-uj-reszletek-derultek-ki-terveirol-es-palyaj-96dd83",
-    "tags": [
-      "kozmedia",
-      "kert-attila",
-      "hirek",
-      "tisza-part"
-    ],
-    "fingerprint": "1aee053309697dbaf73836f71aee25aa",
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7264/72645/726454/72645405_5352275_68129ecd8e9b97d65b840678fdeb3419_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Kert Attila a közmédia új vezetője, száz nap alatt mindent megváltoztatna",
-        "link": "https://index.hu/belfold/2026/11/21/kert-attila-kozmedia-vezerigazgato-jelolt-meghallgatas-oneletrajz/"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "A Tisza favoritja, Kert Attila lett a közmédia vezetője",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/kert-attila-kozmedia-uj-vezerigazgato?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Hír TV",
-        "title": "A korábban a Tisza Pártnak is dolgozó Kert Attila lett a közmédia új vezetője",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/a-korabban-a-tisza-partnak-is-dolgozo-kert-attila-lett-a-kozmedia-uj-vezetoje"
-      }
-    ],
-    "published_at": 1795289163,
-    "title_hu": "Kert Attila lett a közmédia vezetője, új részletek derültek ki terveiről és pályájáról",
-    "lead_hu": "A testület 6:1 arányban választotta Kert Attilát a közmédia vezérigazgatójává, miután a két legesélyesebb jelöltet ismét meghallgatta. A friss tudósítások részleteket közöltek a döntés indokairól, Kert korábbi munkáiról és a 2006-os híradásokkal kapcsolatos bírálatokról is.",
-    "content_hu": "• **A döntés indokai:** Bayer Judit elnök szerint a testület Kert koncepcióját megalapozottabbnak, vezetői tapasztalatát erősebbnek, gazdálkodási elképzeléseit pedig biztonságosabbnak ítélte. Az első szavazás szoros eredménye után a tizennégy érvényes pályázó közül kiválasztott Kertet és Szabó Stein Imrét újra meghallgatták.\n\n• **Vezetői tervei:** Kert száz napon belül kezdené meg a szervezet konszolidációját, független hírszolgáltatást és új etikai szabályzatot ígért, továbbá streamingalkalmazást és megújított hírportált vázolt fel. Programjában a létszám 25 százalékos mérséklése is szerepel, amit a várhatóan szűkülő forrásokkal indokolt.\n\n• **Korábbi szakmai állomásai:** Kert dolgozott a Magyar Rádiónál és a Magyar Televíziónál, 1997-ben a TV2-höz került, ahol később hírfőszerkesztő lett. Az ATV híradójának vezetője, majd az MTV Híradójának hírigazgatója is volt; később a magyar nyelvű Euronews vezetőjeként is tevékenykedett.\n\n• **A 2006-os híradások elemzése:** A 2007-ben közölt tanulmány négy csatorna 2006. szeptemberi és októberi műsorait hasonlította össze. A kutatók szerint az M1 körülbelül 22:45-kor említette a gumilövedékek használatát, miközben a HírTV és az RTL Klub korábban beszámolt róla; az M1 kevesebb képet mutatott a sérült civilekről, és visszafogottabban foglalkozott a rendőri fellépéssel.\n\n• **A Hír TV állításai Kert korábbi szerepéről:** A csatorna azt állította, hogy Kert 2006-ban hírigazgatóként részt vett annak eldöntésében, hogy ne olvassák be a tüntetők követeléseit. A Hír TV arról is beszámolt, hogy Kert az elmúlt időszakban szakértőként dolgozott a Tisza Párt környezetében.",
-    "importance_score": 50.0,
-    "top_rank": 19,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_7fb52c65b1",
     "slug": "217-sportolo-tiltakozik-a-tervezett-sporttrvenyi-szabalyozas-ellen-7fb52c",
     "tags": [
@@ -1254,7 +1213,7 @@
     "lead_hu": "Lipcsei Péter az FTC 217 korábbi és jelenlegi sportolójának támogatásával bírálta a sportvezetőkre vonatkozó tervezett összeférhetetlenségi szabályt. A kezdeményezés aláírói Kubatov Gábor klubelnöksége mellett álltak ki.",
     "content_hu": "• **A tervezet tartalma** A javaslat megtiltaná többek között korábbi politikai felsővezetőknek és országgyűlési képviselőknek, hogy nagy sportszervezetek elnöki tisztségét betöltsék.\n\n• **217 aláíró** Az októberi nyílt levelet először 89-en írták alá, később 67-en csatlakoztak, majd további 61 sportoló támogatta a tiltakozást.\n\n• **Lipcsei álláspontja** Az FTC elnökségi tagja szerint a sportegyesületek vezetőiről ne törvényi úton döntsenek. Az október 27-i közgyűlésen a klub tisztségviselői Kubatov Gábort bízták meg az egyesület további irányításával.",
     "importance_score": 50.0,
-    "top_rank": 20,
+    "top_rank": 19,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1300,7 +1259,7 @@
     "lead_hu": "November 21-én, 78 éves korában öngyilkosságot követett el Gianni De Gennaro, az olasz Maffiaellenes Nyomozóigazgatóság korábbi vezetője. A Caltanissetta ügyészsége a Paolo Borsellino és öt rendőr életét kioltó, 1992-es merénylet ügyében a nyomozás akadályozásával gyanúsította; meghallgatását december 1-jére tervezték.",
     "content_hu": "• **De Gennaro halála** A volt rendőri vezető holttestét toszkánai vidéki házában találták meg, miután családtagjai nem tudták elérni, és értesítették a hatóságokat. A sajtó beszámolói szerint egyedül volt, és lőfegyverrel vetett véget az életének. A helyszínen búcsúleveleket is találtak; a grossetói ügyészség vizsgálatot indított annak gyanújával, hogy valaki közreműködhetett az öngyilkosságban.\n\n• **A vád és az eljárás** A Caltanissetta ügyészsége november 16-án a hatóságok félrevezetésével és a Borsellino-gyilkosság nyomozásának eltérítésével vádolta meg De Gennarót. Az ügyészek házi őrizet elrendelését is kérték, de ezt első fokon elutasították, majd fellebbeztek. De Gennaro tagadta a bűnösségét; ügyvédje szerint ügyfelét súlyosan megviselték az általa igazságtalannak tartott vádak. Meghallgatását december 1-jére tűzték ki, és az ügyben a felrobbantott ügyész eltűnt piros noteszét is keresték.\n\n• **A nyomozás vitatott előzményei** A Borsellino és öt rendőr halálát okozó palermói merénylet utáni korai eljárásban hamis vallomások alapján ártatlan embereket is őrizetbe vettek. A hatóságok azóta azt próbálják feltárni, kik és milyen okból terelték félre a nyomozást.\n\n• **De Gennaro pályafutása** 1984-ben közreműködött Tommaso Buscetta Brazíliából való hazaszállításában, majd tizenegy éven át dolgozott Giovanni Falcone maffiaellenes ügyésszel. 1993-tól a Maffiaellenes Nyomozóigazgatóságot vezette, 2000-ben országos rendőrfőkapitány lett. Később a miniszterelnöki hivatal államtitkáraként, az Információbiztonsági Szolgálat vezetőjeként, majd a Leonardo védelmi vállalat elnökeként is dolgozott.\n\n• **Reakciók** Giorgia Meloni miniszterelnök megrendülését fejezte ki De Gennaro halála miatt. Paolo Borsellino fia szerint a volt rendőri vezető olyan, a maffia történetéhez kapcsolódó titkokat vitt magával, amelyek feltárása így nehezebbé válhat.",
     "importance_score": 48.0,
-    "top_rank": 21,
+    "top_rank": 20,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1346,7 +1305,7 @@
     "lead_hu": "Szombaton északnyugatról átmenetileg több felhő érkezik, vasárnap pedig délnyugat felől csapadékos ciklon vonul át. A mögötte érkező sarkvidéki levegő lehűlést, a hegyekben havazást, északkeleten pedig hózáporokat hozhat.",
     "content_hu": "• **Péntek éjjel köd képződhet:** Többfelé párássá válhat a levegő, emiatt romolhatnak a látási viszonyok. Az éjszaka általában fagymentes lehet, a hidegfront felhőzete pedig hajnalra elérheti az északi, északkeleti országrészt.\n\n• **Szombaton elszórtan eső és zápor várható:** Délelőtt északnyugat felől átmenetileg megnövekedhet a felhőzet, majd a déli órák után többfelé kiderülhet az ég. Zápor főként északkeleten fordulhat elő, késő este pedig a Nyugat-Dunántúlon eredhet el az eső; a Dél-Dunántúlon száraz idő valószínű. A csúcshőmérséklet 8–14 fok lehet, estére -1 és +5 fok közé hűlhet a levegő. Az északnyugati, majd északi szél több helyen megélénkül, a Dunántúlon időnként meg is erősödhet.\n\n• **Vasárnap délnyugat felől érkezik a csapadék:** A hajnali órákban nyugaton és délnyugaton helyenként kisebb eső hullhat, és köd is kialakulhat. Az éjszakai minimum többnyire -2 és +2 fok között alakul, az északkeleti fagyzugokban ennél hidegebb lehet. Napközben délnyugat felől fokozatosan beborul az ég, a déli óráktól egyre többfelé eshet. A csapadék estére erősödhet, és éjfélig délnyugaton jelentősebb mennyiség gyűlhet össze, miközben északon akár szárazon maradhat az idő. A déli országrészben helyenként 20–30 milliméter eső is eshet, de 10 milliméternél több csapadék a korábbi ciklonhoz képest kisebb területre korlátozódhat. A nappali csúcsérték 3–10 fok lehet; estétől a szél északira, északnyugatira fordul és megélénkülhet.\n\n• **Hétfőn a hegyekben havas eső vagy hó is lehet:** A csapadék éjjel még sokfelé kitart, többnyire eső formájában, de a hegyvidéken átmenetileg havazásba válthat. Reggelre a csapadékzóna elhagyhatja az országot, utána főként északkeleten fordulhat elő hózápor. A felhőzet északnyugat felől felszakadozik, több órára kisüthet a nap. Az éjszakai hőmérséklet -1 és +5, a nappali 3–8 fok között alakulhat. Az északnyugati, északi szél nagy területen megerősödik, az északi Dunántúlon néhol viharos lökések is lehetnek.\n\n• **Kedden főként északkeleten maradhatnak felhők és hózáporok:** Délnyugaton kevesebb gomolyfelhő, és több napsütés várható, míg északkeleten erősebben felhős időszakok is lehetnek. Arrafelé elszórtan hózápor fordulhat elő. A hét közepére további lehűlés körvonalazódik.",
     "importance_score": 48.0,
-    "top_rank": 22,
+    "top_rank": 21,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1392,7 +1351,7 @@
     "lead_hu": "A szenteste munkaszüneti nappá nyilvánítása miatt december 12-én nem kell iskolába menni, így eggyel kevesebb tanítási nap lesz a 2026/2027-es tanévben. A parlament november 3-án, 193 igen szavazattal és ellenszavazat nélkül hozta meg a döntést.",
     "content_hu": "• **December 12. tanítási szünet lesz**: a szombatot eredetileg munkanapként jelölték ki december 24. ledolgozására, de a szenteste munkaszüneti nappá tétele után erre már nincs szükség.\n\n• **A tanítási napok száma 179-re változik**: a tanévről szóló, július végén kihirdetett rendelet még 180 nappal számolt, ezt a módosítással összhangban átírják.\n\n• **A parlament november 3-án fogadta el a javaslatot**: a döntést 193 képviselő támogatta, ellenszavazat nem volt; a kapcsolódó rendelet november 13-án jelent meg.\n\n• **A tanév szeptember 1-jétől 2027. június 18-ig tart**: Lannert Judit oktatási és gyermekügyi miniszter közösségi oldalán ismertette a változást.\n\n• **A tananyag mennyisége nem változik**: a pedagógusok a tanulók előrehaladásához igazíthatják a tanmenet ütemezését és a hátralévő tanítási napok szervezését.\n\n• **A december 12-re tervezett szabadságot máskor is fel lehet használni**: a munkavállalóknak erre a napra már nem kell szabadságot kivenniük akkor sem, ha azt korábban beütemezték vagy előírták nekik.",
     "importance_score": 48.0,
-    "top_rank": 23,
+    "top_rank": 22,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1433,7 +1392,7 @@
     "lead_hu": "A férfi néhány nappal az adóhatóság fellépése előtt a feleségére ruházta saját vállalkozása vezetését, és kilépett egy, a kínai lélegeztetőgépek beszerzésében közreműködő cégből. Az újonnan közölt adatok szerint az ügyben két embert letartóztattak, további gyanúsítottakat hallgattak ki, és két férfit nemzetközi körözés alatt keresnek.",
     "content_hu": "• **Cégátadás a NAV-akció előtt** A lélegeztetőgép-beszerzések egyik érintettje néhány nappal az adóhatóság intézkedése előtt feleségére bízta saját cége vezetését; a vállalkozás neve is megváltozott. A férfi a kínai beszerzésekben közreműködő társaságból is távozott, és más érdekeltségeitől is megvált.\n\n• **Elfogások és körözések** Október végén a bíróság két gyanúsított letartóztatását rendelte el: egyikük a céghálózat könyvelését végezhette, a másik pedig a gyanú szerint egy külföldi vállalat számlájáról vett fel készpénzt. A Győri Járásbíróság a szökés, illetve a bizonyítás akadályozásának kockázatával indokolta a döntést. Két további férfit köröznek; a feltételezett irányítók egyikét, Kósa Gábort Ausztriában fogták el, míg Májer Bálint tartózkodási helyeként Indonézia merült fel.\n\n• **A NAV intézkedései** Az adóhatóság október 27-én több magyarországi helyszínen, valamint ausztriai közreműködéssel hajtott végre összehangolt akciót. A hatóságok 1,5 milliárd forintot foglaltak le vagy vontak zár alá; az Ausztriában elfogott férfin kívül további 11 embert hallgattak ki gyanúsítottként. November elején a Nemzeti Nyomozó Iroda bizonyítékokat foglalt le a Külügyminisztériumban.\n\n• **A gyanú és az ügy előzményei** A hatóságok szerint az állami gép- és maszkértékesítésekhez kapcsolódó ügyben több mint 3 milliárd forintnyi hasznot mostak tisztára, és 660 millió forint adó befizetése maradt el. Orbán Anita külügyminiszter augusztus végén tett feljelentést a 2020-as beszerzések miatt; a minisztériumi átvilágítás hűtlen kezelés gyanúját is felvetette. Az akkori kormány mintegy 19 ezer lélegeztetőgépet szerzett be, ezek közül körülbelül 16 ezret a külügyi tárca vásárolt, mintegy 300 milliárd forintért.",
     "importance_score": 45.0,
-    "top_rank": 24,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1474,6 +1433,47 @@
     "lead_hu": "87 éves korában meghalt Kiss Gábor, a József Attila Színház társulatának tagja. A színész a Szomszédok című sorozatból Hável Imre iskolaigazgató szerepében vált ismertté.",
     "content_hu": "• **Halálhír** Kiss Gábor halálát a József Attila Színház jelentette be; a művész hosszan tartó betegség után hunyt el. A színház saját halottjának tekinti.\n\n• **Színházi pálya** A Rábapordányban, 1940. május 22-én született színész 1961-ben végzett a Színház- és Filmművészeti Főiskolán. Többek között Veszprémben, Miskolcon, Szegeden és a Honvéd Művészegyüttesben dolgozott.\n\n• **Szomszédok** Országos ismertségét Hável Imre iskolaigazgató megformálása hozta meg: 1987 és 1999 között 151 epizódban szerepelt a sorozatban.\n\n• **Elismerés és szervezőmunka** Kiss Gábor 1990-ben megalapította az Esztergomi Várszínházat, amelynek művészeti vezetője lett. Munkásságát 2020-ban Józsa Imre-díjjal ismerték el.",
     "importance_score": 45.0,
+    "top_rank": 24,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_96dd8301d2",
+    "slug": "kert-attila-lett-a-kzmedia-vezetoje-uj-reszletek-derultek-ki-terveirol-es-palyaj-96dd83",
+    "tags": [
+      "kozmedia",
+      "kert-attila",
+      "hirek",
+      "tisza-part"
+    ],
+    "fingerprint": "1aee053309697dbaf73836f71aee25aa",
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7264/72645/726454/72645405_5352275_68129ecd8e9b97d65b840678fdeb3419_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kert Attila a közmédia új vezetője, száz nap alatt mindent megváltoztatna",
+        "link": "https://index.hu/belfold/2026/11/21/kert-attila-kozmedia-vezerigazgato-jelolt-meghallgatas-oneletrajz/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "A Tisza favoritja, Kert Attila lett a közmédia vezetője",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/kert-attila-kozmedia-uj-vezerigazgato?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Hír TV",
+        "title": "A korábban a Tisza Pártnak is dolgozó Kert Attila lett a közmédia új vezetője",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/a-korabban-a-tisza-partnak-is-dolgozo-kert-attila-lett-a-kozmedia-uj-vezetoje"
+      }
+    ],
+    "published_at": 1795289163,
+    "title_hu": "Kert Attila lett a közmédia vezetője, új részletek derültek ki terveiről és pályájáról",
+    "lead_hu": "A testület 6:1 arányban választotta Kert Attilát a közmédia vezérigazgatójává, miután a két legesélyesebb jelöltet ismét meghallgatta. A friss tudósítások részleteket közöltek a döntés indokairól, Kert korábbi munkáiról és a 2006-os híradásokkal kapcsolatos bírálatokról is.",
+    "content_hu": "• **A döntés indokai:** Bayer Judit elnök szerint a testület Kert koncepcióját megalapozottabbnak, vezetői tapasztalatát erősebbnek, gazdálkodási elképzeléseit pedig biztonságosabbnak ítélte. Az első szavazás szoros eredménye után a tizennégy érvényes pályázó közül kiválasztott Kertet és Szabó Stein Imrét újra meghallgatták.\n\n• **Vezetői tervei:** Kert száz napon belül kezdené meg a szervezet konszolidációját, független hírszolgáltatást és új etikai szabályzatot ígért, továbbá streamingalkalmazást és megújított hírportált vázolt fel. Programjában a létszám 25 százalékos mérséklése is szerepel, amit a várhatóan szűkülő forrásokkal indokolt.\n\n• **Korábbi szakmai állomásai:** Kert dolgozott a Magyar Rádiónál és a Magyar Televíziónál, 1997-ben a TV2-höz került, ahol később hírfőszerkesztő lett. Az ATV híradójának vezetője, majd az MTV Híradójának hírigazgatója is volt; később a magyar nyelvű Euronews vezetőjeként is tevékenykedett.\n\n• **A 2006-os híradások elemzése:** A 2007-ben közölt tanulmány négy csatorna 2006. szeptemberi és októberi műsorait hasonlította össze. A kutatók szerint az M1 körülbelül 22:45-kor említette a gumilövedékek használatát, miközben a HírTV és az RTL Klub korábban beszámolt róla; az M1 kevesebb képet mutatott a sérült civilekről, és visszafogottabban foglalkozott a rendőri fellépéssel.\n\n• **A Hír TV állításai Kert korábbi szerepéről:** A csatorna azt állította, hogy Kert 2006-ban hírigazgatóként részt vett annak eldöntésében, hogy ne olvassák be a tüntetők követeléseit. A Hír TV arról is beszámolt, hogy Kert az elmúlt időszakban szakértőként dolgozott a Tisza Párt környezetében.",
+    "importance_score": 43.0,
     "top_rank": 25,
     "is_top_hero": false,
     "is_top_list": true
@@ -12791,32 +12791,6 @@
     "title_hu": "Tisza-kormány: 3400 milliárd forintos uniós forrást és kilátásjavítást kapott Magyarország",
     "lead_hu": "A Tisza siófoki kihelyezett frakcióülésén meghatározzák a következő időszak jogalkotási feladatait: még idén szigorítják a Balaton-parti építkezések szabályait és a nádasok védelmét, jövőre pedig elin…",
     "content_hu": "A Tisza siófoki kihelyezett frakcióülésén meghatározzák a következő időszak jogalkotási feladatait: még idén szigorítják a Balaton-parti építkezések szabályait és a nádasok védelmét, jövőre pedig elindítják az országos vízmegtartási programot. A frakció egy hét alatt 20 törvényjavaslatot nyújtott be, a következő hetekben pedig az egészségügyi szakdolgozók új bértáblája, a rendvédelmi béremelés, a szociális törvény átalakítása, a Wekerle+ lakástakarékprogram és a nők védelmét szolgáló törvénycsomag is napirendre kerül. Az Európai Bizottság szerint Magyarország egy kivételével teljesítette a 10 milliárd eurós helyreállítási alap valamennyi mérföldkövét, így decemberben dönthetnek a fennmaradó mintegy 9,1 milliárd euró kifizetéséről. A Központi Nyomozó Főügyészség elkülönítette a Hajdu János volt TEK-főigazgatóhoz köthető jogellenes fogvatartás vizsgálatát az ukrán aranykonvojügy többi részétől. Magyar Péter pedig tragikomikusnak nevezte a Fidesz állítását, hogy az NVVH által megtalált milliárdoknak nincs közük Seszták Miklóshoz.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_d3c2a27daf",
-    "slug": "azonnal-megszolalt-karman-andras-a-nagy-amerikai-h-d3c2a2",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/ACKTlD1Tr_vd2ywHtJvY2u94b1_CooYngPJPlUULsNw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIwL2ZkYjUwMDQ3Y2ZmYmY5YWE3OTBkZmZhMWYxMDk0ZmNlNjMwZmRjOGZmMGQ1ZTgxYTI4ZWY2MjJhMzU5ZGZkOGM.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Azonnal megszólalt Kármán András a nagy amerikai hitelminősítő ítélete után: további lépések jönnek Magyarországon az euró bevezetéséhez – \"Mi készen állunk\"",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/karman-andras-amerikai-hitelminosito-moodys-november?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795213506,
-    "title_hu": "Azonnal megszólalt Kármán András a nagy amerikai hitelminősítő ítélete után: további lépések jönnek Magyarországon az euró bevezetéséhez – \"Mi készen állunk\"",
-    "lead_hu": "A pénzügyminiszter",
-    "content_hu": "A pénzügyminiszter",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
