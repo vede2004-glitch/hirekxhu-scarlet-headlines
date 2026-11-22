@@ -220,7 +220,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
@@ -271,13 +271,18 @@
         "source": "24.hu - Legfrissebb",
         "title": "Böcskei Balázs: Miért nem (tud) forradalmi (lenni) a Magyar-kormány közpolitikája?",
         "link": "https://24.hu/belfold/2026/11/22/bocskei-balazs-miert-nem-tud-forradalmi-lenni-a-magyar-kormany-kozpolitikaja/"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Rétvári Bence: Amíg a világ vezetői a sorsunkról döntenek, addig Magyar Péter a tinikori kalandjaival van elfoglalva",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/retvari-bence-magyar-peter-tinikor-kaland-sencsen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       }
     ],
     "published_at": 1795273380,
     "title_hu": "„Ne félj, Ottikám, amíg el nem éritek az ajtófélfát, nem halok meg”",
     "lead_hu": "Ballai József tárcájában ezúttal nagymamája emlékét idézi fel....",
     "content_hu": "Ballai József tárcájában ezúttal nagymamája emlékét idézi fel.",
-    "importance_score": 100.0,
+    "importance_score": 110.0,
     "top_rank": 3,
     "is_top_hero": false,
     "is_top_list": true
@@ -2193,42 +2198,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_bde3a2b2db",
-    "slug": "schiffer-andras-rakosi-matyashoz-hasonlitotta-magyar-petert-bde3a2",
-    "tags": [
-      "schiffer-andras",
-      "magyar-peter",
-      "rakosi-matyas",
-      "szemelyi-kultusz"
-    ],
-    "fingerprint": "5469b4db01512637a801064dd96a1aa5",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/AoqbecAvmd8ghzkc3dgSXICxh2KKpcB70657zDDNLaU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjIvOWE2YTZjYjU0ZjA3NWRmYjc4MTQxZjNiYWIwZWVlN2VlNGEzMmNlZjViNmNmMDVkNjRiNWJmZmE3MTYyMTExOA.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Schiffer András Rákosi Mátyáshoz hasonlította Magyar Pétert",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/schiffer-andras-rakosi-matyashoz-hasonlitotta-magyar-petert?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Schiffer András Rákosihoz hasonlította Rovar urat",
-        "link": "https://www.vadhajtasok.hu/2026/11/21/schiffer-andras-rakosihoz-hasonlitotta-magyar-petert"
-      }
-    ],
-    "published_at": 1795332957,
-    "title_hu": "Schiffer András Rákosi Mátyáshoz hasonlította Magyar Pétert",
-    "lead_hu": "Schiffer András Facebook-bejegyzésben bírálta, hogy Magyar Péter Siófokon nyilvánosan átvett egy róla készült képet. A politikusok körüli személyi kultusz kapcsán Rákosi Mátyás példáját említette.",
-    "content_hu": "• **Siófoki eset** Schiffer András arra reagált, hogy Magyar Péter nyilvánosan átvett egy őt ábrázoló képet.\n\n• **Rákosi Mátyás példája** Schiffer egy Rákosit ábrázoló fotót is megosztott, és azt írta: szerinte ő volt az utolsó magyar vezető, aki örömét lelte a róla készült portrékban.\n\n• **Személyi kultusz** Schiffer szerint az ilyen jelenség az 1956-os forradalom után kikerült a magyar politikai szokások közül.",
-    "importance_score": 28.0,
-    "top_rank": 48,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_ae7f0080fb",
     "slug": "a-bepicolombo-a-merkur-kruli-palyara-allt-ae7f00",
     "tags": [
@@ -2260,7 +2229,7 @@
     "lead_hu": "Az Európai Űrügynökség bejelentése szerint sikerült a BepiColombo Merkúr körüli pályára állítása. A 2018-ban indított űreszköz több mint tízmilliárd kilométert tett meg, mielőtt elérte célját.",
     "content_hu": "• **Sikeres pályára állás** Az ESA földi irányítása jelet kapott a BepiColombótól, majd megerősítette a szombati manőver sikerét.\n\n• **Hosszú út** A szonda 2018. október 20-án indult egy Ariane–5 rakétával. Útja során egyszer a Föld, kétszer a Vénusz, hatszor pedig a Merkúr mellett repült el, és több mint tízmilliárd kilométert tett meg.\n\n• **Két űrszonda a küldetésben** A BepiColombo az európai Mercury Planetary Orbitert és a japán Mio egységet szállítja. Az ESA terve szerint december 9–10-én válnak külön.\n\n• **Tervezett kutatások** Az európai egység a Merkúr felszínét és belső szerkezetét vizsgálja, a japán szonda pedig a bolygó mágneses terét és annak napszéllel való kölcsönhatását kutatja. A tudományos megfigyelések a tervek szerint 2027 áprilisában kezdődnek.",
     "importance_score": 28.0,
-    "top_rank": 49,
+    "top_rank": 48,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2296,6 +2265,42 @@
     "lead_hu": "A rendőrség megszüntette az eljárást az Esztergomi Szent Antal Ferences Gimnázium és Kollégium prefektusának ügyében, miután nem talált hivatalból üldözendő bűncselekményre utaló gyanút. A bántalmazott diák szülei panaszt tettek a döntés ellen.",
     "content_hu": "• **A nyomozás lezárása:** A hatóság szerint a prefektus júniusban három alkalommal ütötte gyomorszájon az egyik nyolcadikos diákot, de az esetek nem alapoznak meg közvádas büntetőeljárást.\n\n• **A rendőrség indoklása:** A határozat alapján a fegyelmezés közben történt bántalmazás nem számított aljas indokúnak, a feltárt három esetet pedig nem minősítették rendszeresnek.\n\n• **A család lépése:** A tanuló szülei panasszal fordultak a nyomozást megszüntető határozat ellen.",
     "importance_score": 25.0,
+    "top_rank": 49,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_bde3a2b2db",
+    "slug": "schiffer-andras-rakosi-matyashoz-hasonlitotta-magyar-petert-bde3a2",
+    "tags": [
+      "schiffer-andras",
+      "magyar-peter",
+      "rakosi-matyas",
+      "szemelyi-kultusz"
+    ],
+    "fingerprint": "5469b4db01512637a801064dd96a1aa5",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/AoqbecAvmd8ghzkc3dgSXICxh2KKpcB70657zDDNLaU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjIvOWE2YTZjYjU0ZjA3NWRmYjc4MTQxZjNiYWIwZWVlN2VlNGEzMmNlZjViNmNmMDVkNjRiNWJmZmE3MTYyMTExOA.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Schiffer András Rákosi Mátyáshoz hasonlította Magyar Pétert",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/schiffer-andras-rakosi-matyashoz-hasonlitotta-magyar-petert?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Schiffer András Rákosihoz hasonlította Rovar urat",
+        "link": "https://www.vadhajtasok.hu/2026/11/21/schiffer-andras-rakosihoz-hasonlitotta-magyar-petert"
+      }
+    ],
+    "published_at": 1795332957,
+    "title_hu": "Schiffer András Rákosi Mátyáshoz hasonlította Magyar Pétert",
+    "lead_hu": "Schiffer András Facebook-bejegyzésben bírálta, hogy Magyar Péter Siófokon nyilvánosan átvett egy róla készült képet. A politikusok körüli személyi kultusz kapcsán Rákosi Mátyás példáját említette.",
+    "content_hu": "• **Siófoki eset** Schiffer András arra reagált, hogy Magyar Péter nyilvánosan átvett egy őt ábrázoló képet.\n\n• **Rákosi Mátyás példája** Schiffer egy Rákosit ábrázoló fotót is megosztott, és azt írta: szerinte ő volt az utolsó magyar vezető, aki örömét lelte a róla készült portrékban.\n\n• **Személyi kultusz** Schiffer szerint az ilyen jelenség az 1956-os forradalom után kikerült a magyar politikai szokások közül.",
+    "importance_score": 23.0,
     "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
@@ -2726,6 +2731,58 @@
     "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_90b97660c3",
+    "slug": "bele-akarnak-keverni-egy-eu-s-tagallamot-abba-hogy-atengedte-legteret-az-oroszok-90b976",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/J0FLSRgNZhMNR805ImxBi9G04fpJ5_bet0b2tKusPcI/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIyL2ViYTg2OTk2ODhiYWE0ZDcwMDM3ODdmN2Y5MjU0ODA5OWJkMDI2NTllYTU2ZmM4ZjVlNmFmNzE1ZGZhMTVlMmE.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Bele akarnak keverni egy EU-s tagállamot abba, hogy átengedte légterét az oroszok megtámadásához: kitört a botrány, először szólalt meg a külügyminiszterük – Moszkva ezt nem teszi zsebre, ha azonnal nem tisztázza őket",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/orosz-ukran-haboru-litvania-putyin-moszkva-tamadas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795354389,
+    "title_hu": "Bele akarnak keverni egy EU-s tagállamot abba, hogy átengedte légterét az oroszok megtámadásához: kitört a botrány, először szólalt meg a külügyminiszterük – Moszkva ezt nem teszi zsebre, ha azonnal nem tisztázza őket",
+    "lead_hu": "Litvánia határozottan visszautasította azokat az orosz forrásokból elindult vádakat, miszerint megnyitotta volna a légterét a szomszédos orosz exklávé, a Kalinyingrádi terület elleni szombat esti felt...",
+    "content_hu": "Litvánia határozottan visszautasította azokat az orosz forrásokból elindult vádakat, miszerint megnyitotta volna a légterét a szomszédos orosz exklávé, a Kalinyingrádi terület elleni szombat esti feltételezett dróntámadáshoz.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_0fc679536d",
+    "slug": "megorult-az-idojaras-japanban-felmeteres-ho-es-znvizszeru-eso-sujtja-az-orszagot-0fc679",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7264/72647/726478/72647839_5352439_0232d8979b8a71a4c66b7dcad6cae30a_wm.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Megőrült az időjárás Japánban: félméteres hó és özönvízszerű eső sújtja az országot",
+        "link": "https://index.hu/kulfold/2026/11/22/japan-niigata-ho-eso-foldcsuszamlas/"
+      }
+    ],
+    "published_at": 1795354380,
+    "title_hu": "Megőrült az időjárás Japánban: félméteres hó és özönvízszerű eső sújtja az országot",
+    "lead_hu": "Földcsuszamlásokra és lavinákra figyelmeztetnek....",
+    "content_hu": "Földcsuszamlásokra és lavinákra figyelmeztetnek.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_f6759db75e",
@@ -12732,84 +12789,6 @@
     "title_hu": "Napok alatt lesöpörte a porondról Oroszország leggazdagabb nőjét az EU: nem csak a drónok, de a szankciók is betaláltak – távozik a Wildberries vezére, a „legnagyobb adófizető esett ki\"",
     "lead_hu": "Oroszország leggazdagabb nője, Tatyjana Kim néhány nappal azután, hogy felkerült az uniós szankciós listára, távozott a Wildberries éléről.",
     "content_hu": "Oroszország leggazdagabb nője, Tatyjana Kim néhány nappal azután, hogy felkerült az uniós szankciós listára, távozott a Wildberries éléről.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_def6a1b422",
-    "slug": "nem-a-hamburgerektol-kell-felteni-donald-trumpot-l-def6a1",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://kep.index.hu/1/0/7264/72640/726408/72640853_5351927_addc44ec173a75fece6966b043d7e30f_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Nem a hamburgerektől kell félteni Donald Trumpot – legalábbis a felesége szerint",
-        "link": "https://index.hu/kulfold/2026/11/21/melania-traump-donald-trump-gyorsetterem-mcdonalds-fuggoseg/"
-      }
-    ],
-    "published_at": 1795268100,
-    "title_hu": "Nem a hamburgerektől kell félteni Donald Trumpot – legalábbis a felesége szerint",
-    "lead_hu": "Az amerikai elnök étkezési szokásairól és McDonald's függőségéről beszélt Melania Trump.",
-    "content_hu": "Az amerikai elnök étkezési szokásairól és McDonald's függőségéről beszélt Melania Trump.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_2a477ef9a3",
-    "slug": "ezek-a-legregebbi-magyar-lanynevek-ezerevesek-de-m-2a477e",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ezek a legrégebbi magyar lánynevek ezerévesek, de még ma is adhatók",
-        "link": "https://nlc.hu/baba/20261121/legregebbi-magyar-lanynevek/52srwg1"
-      }
-    ],
-    "published_at": 1795267980,
-    "title_hu": "Ezek a legrégebbi magyar lánynevek ezerévesek, de még ma is adhatók",
-    "lead_hu": "Több mint ezeréves történet, különleges jelentések és fejedelmi családok emléke kapcsolódik hozzájuk: a legrégebbi magyar lánynevek között ma is anyakönyvezhető ritkaságokat találunk. The post Ezek a …",
-    "content_hu": "Több mint ezeréves történet, különleges jelentések és fejedelmi családok emléke kapcsolódik hozzájuk: a legrégebbi magyar lánynevek között ma is anyakönyvezhető ritkaságokat találunk. The post Ezek a legrégebbi magyar lánynevek ezerévesek, de még ma is adhatók first appeared on nlc.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_29bce1592a",
-    "slug": "ervenytelenitettek-annak-a-pazmanyos-joghallgatona-29bce1",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f5761f98-02d1-4b3a-a062-6301ff9a7e3d.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Érvénytelenítették annak a pázmányos joghallgatónak a záróvizsgáját, akinek egy volt alkotmánybíró segíthetett csalni, de lebuktak",
-        "link": "https://hvg.hu/itthon/20261121_ervenytelenitettek-annak-a-pazmanyos-joghallgatonak-a-zarovizsgajat-akinek-egy-volt-alkotmanybiro-segitett-csalni-de-lebuktak"
-      }
-    ],
-    "published_at": 1795267923,
-    "title_hu": "Érvénytelenítették annak a pázmányos joghallgatónak a záróvizsgáját, akinek egy volt alkotmánybíró segíthetett csalni, de lebuktak",
-    "lead_hu": "Amatőr hibát követtek el.",
-    "content_hu": "Amatőr hibát követtek el.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
