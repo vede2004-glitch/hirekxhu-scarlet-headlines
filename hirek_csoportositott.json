@@ -25,22 +25,6 @@
     ]
   },
   {
-    "group_id": "group_c87423a9bd",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Új program indul az időseknek: országszerte várják a nyugdíjasokat",
-        "link": "https://www.atv.hu/belfold/20261122/idos-fogyasztok-nkfh-szenior-akademia/",
-        "image": "",
-        "summary": "Szenior Akadémia néven országos programsorozatot indít a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság (NKFH), hogy az idős fogyasztók tájékozottabban, magabiztosabban vásárolhassanak. A hatóság szakemberei az ország minden megyéjébe ellátogatnak, az első állomás Veszprém lesz.",
-        "category": "Általános",
-        "published_at": 1795316640
-      }
-    ]
-  },
-  {
     "group_id": "group_a1b650e280",
     "category": "Kultúra",
     "articles_count": 1,
@@ -2932,7 +2916,7 @@
   {
     "group_id": "group_c1af877013",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -2942,6 +2926,15 @@
         "summary": "A tragédia nyolc ember életét követelte, legalább tizennyolcan megsérültek. The post Kártyavárként dőlt össze a brooklyni épület, többen meghaltak – videó first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795338469
+      },
+      {
+        "source": "ATV",
+        "title": "Megrázó felvétel készült a pillanatról, amikor egy teljes lakóház összeomlott New Yorkban",
+        "link": "https://www.atv.hu/kulfold/20261123/lakohaz-osszeomlott-new-york/",
+        "image": "",
+        "summary": "Nyolc ember esett áldozatául annak a váratlan lakóház-összeomlásnak, amely szerdán Brooklynban, a Flatbush Avenue-n történt. A 96 éves épületről már márciusban készítettek egy jelentést, amelyből kiderült, hogy az északi homlokzaton repedések keletkeztek, ezért a ház állapotát rossznak minősítették.",
+        "category": "Általános",
+        "published_at": 1795403040
       }
     ]
   },
@@ -8218,6 +8211,22 @@
         "summary": "Forrnak az indulatok az Edinburgh-i karácsonyi vásár árai miatt. A drágaság mellett az embertömeg is elveszi sok látogatók kedvét. The post Óriási a felháborodás az Edinburgh-i karácsonyi vásár miatt: méregdrága ételek és elviselhetetlen tömeg first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795401180
+      }
+    ]
+  },
+  {
+    "group_id": "group_c69ce804db",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "3,95 milliárd éves kőzetet találtak Kínában, ami alapjaiban írhatja át a Föld korai történetéről alkotott képünket",
+        "link": "https://raketa.hu/fold-masodik-legidosebb-kozete-kina-395-milliard-ev-foldkereg/",
+        "image": "https://raketa.hu/uploads/2026/11/earth_2-1.jpg",
+        "summary": "A kínai Hopej tartományban azonosított 3,95 milliárd éves kőzetminta nemcsak a Föld eddig ismert második legidősebb kőzete, hanem azt is igazolja, hogy bolygónk ősi kérge már jóval a modern lemeztektonika kialakulása előtt alábukott a mélybe.",
+        "category": "Kultúra",
+        "published_at": 1795403376
       }
     ]
   }
