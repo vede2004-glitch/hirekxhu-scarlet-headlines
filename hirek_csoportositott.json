@@ -2805,40 +2805,6 @@
     ]
   },
   {
-    "group_id": "group_214b2529bb",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Vadhajtások",
-        "title": "Útnak indult az Ország Karácsonyfája, élőben követhető a hatalmas fenyő útja",
-        "link": "https://www.vadhajtasok.hu/2026/11/22/utnak-indult-az-orszag-karacsonyfaja-eloben-kovetheto-a-hatalmas-fenyo-utja",
-        "image": "",
-        "summary": "A különleges szállítmány miatt már vasárnap este forgalomkorlátozásokra kell számítani Budapesten.",
-        "category": "Politika",
-        "published_at": 1795379220
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Megérkezett az ország karácsonyfája a budapesti Kossuth térre",
-        "link": "https://www.vadhajtasok.hu/2026/11/23/megerkezett-az-orszag-karacsonyfaja-a-budapesti-kossuth-terre",
-        "image": "",
-        "summary": "Vasárnap este 7 órakor indult Pécelről a fővárosba az ország karácsonyfája. A fát fővárosi tűzoltók vágták ki, elszállításáról a Magyar Honvédség gondoskodott. Az ország karácsonyfája több mint 60 kilométeres utat tett meg a Parlamentig.",
-        "category": "Politika",
-        "published_at": 1795429020
-      },
-      {
-        "source": "Hír TV",
-        "title": "Teljes pompájában advent első vasárnapjától lesz megcsodálható az ország karácsonyfája",
-        "link": "https://hirtv.origo.hu/hirtvszines/2026/11/orszag-karacsonyfaja-advent-kossuth-ter-parlament",
-        "image": "https://cdn.hirtv.hu/2026/11/RlusagAJ59ly9tXTQVHkOfagJAsO-hD9BK2tdb-YUao/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3M2JmN2M1OGYwMzQzZDJiZmIwMDhkNTliNThkZTU0.webp",
-        "summary": "A huszonnégy éves jegenyefenyő Pécelről érkezett a Kossuth térre.",
-        "category": "Politika",
-        "published_at": 1795449907
-      }
-    ]
-  },
-  {
     "group_id": "group_5b730c89c2",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -4841,6 +4807,31 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1795426281
+      }
+    ]
+  },
+  {
+    "group_id": "group_214b2529bb",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Megérkezett az ország karácsonyfája a budapesti Kossuth térre",
+        "link": "https://www.vadhajtasok.hu/2026/11/23/megerkezett-az-orszag-karacsonyfaja-a-budapesti-kossuth-terre",
+        "image": "",
+        "summary": "Vasárnap este 7 órakor indult Pécelről a fővárosba az ország karácsonyfája. A fát fővárosi tűzoltók vágták ki, elszállításáról a Magyar Honvédség gondoskodott. Az ország karácsonyfája több mint 60 kilométeres utat tett meg a Parlamentig.",
+        "category": "Politika",
+        "published_at": 1795429020
+      },
+      {
+        "source": "Hír TV",
+        "title": "Teljes pompájában advent első vasárnapjától lesz megcsodálható az ország karácsonyfája",
+        "link": "https://hirtv.origo.hu/hirtvszines/2026/11/orszag-karacsonyfaja-advent-kossuth-ter-parlament",
+        "image": "https://cdn.hirtv.hu/2026/11/RlusagAJ59ly9tXTQVHkOfagJAsO-hD9BK2tdb-YUao/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y3M2JmN2M1OGYwMzQzZDJiZmIwMDhkNTliNThkZTU0.webp",
+        "summary": "A huszonnégy éves jegenyefenyő Pécelről érkezett a Kossuth térre.",
+        "category": "Politika",
+        "published_at": 1795449907
       }
     ]
   },
@@ -12454,6 +12445,22 @@
         "summary": "Újabb önkormányzat döntött úgy, hogy nem működik együtt a beruházásokat tervező vállalkozással.",
         "category": "Gazdaság",
         "published_at": 1795465178
+      }
+    ]
+  },
+  {
+    "group_id": "group_d9fc5a101b",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Ritka égi látványosság vár ránk november 30-án: különleges pozícióba rendeződik az égbolton a Mars, a Jupiter, a Regulus és a Hold",
+        "link": "https://raketa.hu/november-30-mars-jupiter-regulus-hold-paralelogramma/",
+        "image": "https://raketa.hu/uploads/2026/11/egboltejszakai.jpg",
+        "summary": "November végén különleges látványosság rajzolódik ki a hajnali égbolton: a Mars, a Jupiter, a Regulus és a Hold egy ritka, látványos paralelogrammát formáz majd. Az égi együttállás szabad szemmel is megfigyelhető lesz, de nem árt korán kelni, ha nem akarunk lemaradni róla.",
+        "category": "Kultúra",
+        "published_at": 1795465833
       }
     ]
   }
