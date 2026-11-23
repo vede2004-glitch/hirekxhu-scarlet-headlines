@@ -41,47 +41,6 @@
     ]
   },
   {
-    "group_id": "group_c58c0089ff",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Jönnek az uniós milliárdok, de ettől még nem biztos, hogy felpörög a gazdaság",
-        "link": "https://index.hu/gazdasag/2026/11/22/gdp-novkedes-beruhazas-fogyasztas/",
-        "image": "",
-        "summary": "György László mutatott rá a gyenge pontra.",
-        "category": "Gazdaság",
-        "published_at": 1795356360
-      }
-    ]
-  },
-  {
-    "group_id": "group_622a5e58c4",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Az utolsó pillanatokban akadályozták meg a rendőrök, hogy egy férfi öngyilkosságot kövessen el Balatonszárszónál",
-        "link": "https://24.hu/belfold/2026/11/22/ongyilkossagi-kiserlet-balatonszarszo-rendorseg/",
-        "image": "https://s.24.hu/app/uploads/2026/11/e9ab0bfe-d314-46b0-a8b6-6895b46e9279_50-e1795356259299-1024x577.jpg",
-        "summary": "A férfi kollégái értesítették a rendőrséget, hogy munkatársuk öngyilkossági szándékkal indult el otthonról, hogy az M7-es autópálya balatonszárszói hídjáról a mélybe vesse magát. The post Az utolsó pillanatokban akadályozták meg a rendőrök, hogy egy férfi öngyilkosságot kövessen el Balatonszárszónál first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795356305
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Éppen időben érkezett a rendőri segítség, öngyilkossági kísérletet akadályoztak meg Balatonszárszón",
-        "link": "https://index.hu/belfold/2026/11/22/rendorseg-ferfi-ongyilkossag-kiserlet-megakadalyozas-balatonszarszo/",
-        "image": "https://kep.index.hu/1/0/6629/66295/662950/66295075_4894817_6298bb1165877df416e387e027f1f970_wm.jpg",
-        "summary": "A kiérkező mentők kórházba szállították a férfit.",
-        "category": "Általános",
-        "published_at": 1795359780
-      }
-    ]
-  },
-  {
     "group_id": "group_ce7ecc9478",
     "category": "Általános",
     "articles_count": 1,
@@ -722,6 +681,22 @@
     ]
   },
   {
+    "group_id": "group_622a5e58c4",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Éppen időben érkezett a rendőri segítség, öngyilkossági kísérletet akadályoztak meg Balatonszárszón",
+        "link": "https://index.hu/belfold/2026/11/22/rendorseg-ferfi-ongyilkossag-kiserlet-megakadalyozas-balatonszarszo/",
+        "image": "https://kep.index.hu/1/0/6629/66295/662950/66295075_4894817_6298bb1165877df416e387e027f1f970_wm.jpg",
+        "summary": "A kiérkező mentők kórházba szállították a férfit.",
+        "category": "Általános",
+        "published_at": 1795359780
+      }
+    ]
+  },
+  {
     "group_id": "group_6a45d45f74",
     "category": "Általános",
     "articles_count": 1,
@@ -829,7 +804,7 @@
   {
     "group_id": "group_17ab7e9de5",
     "category": "Általános",
-    "articles_count": 11,
+    "articles_count": 12,
     "articles": [
       {
         "source": "ATV",
@@ -929,6 +904,15 @@
         "summary": "Érdekes napok következnek.",
         "category": "Politika",
         "published_at": 1795433868
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megérkezett az első hózápor Magyarországra - Van, ahol akár 10 centiméternyi hó is hullhat a héten",
+        "link": "https://www.portfolio.hu/gazdasag/20261123/megerkezett-az-elso-hozapor-magyarorszagra-van-ahol-akar-10-centimeternyi-ho-is-hullhat-a-heten-878510",
+        "image": "https://pcdn.hu/articles/images-xl/i/d/o/idojaras-zold-vilag-havazas-csapadek-onos-eso-hozapor-havas-eso-ciklon-ho-idojaras-e-872022.jpg",
+        "summary": "Télies fordulatot vesz az időjárás a hét közepén egy érkező mediterrán ciklon miatt. Míg az ország déli felén esőre, addig az északi és északnyugati tájakon, valamint az Alpokalján jelentős, helyenként akár a tíz centimétert is meghaladó havazásra kell számítani csütörtökön - írta az Időkép, aki ezzel párhuzamosan megosztotta az első hózáporról készült felvételeket is.",
+        "category": "Gazdaság",
+        "published_at": 1795442520
       }
     ]
   },
@@ -9105,7 +9089,7 @@
   {
     "group_id": "group_dbf994a429",
     "category": "Politika",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -9142,6 +9126,15 @@
         "summary": "A politikai elemző szerint ugyanakkor nagyon nem mindegy, milyen céllal ülnek be a vezetők.",
         "category": "Politika",
         "published_at": 1795434884
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Török Gábor reagált Kert Attila kinevezésére, nincsenek illúziói a közmédia politikai függetlenségével kapcsolatban",
+        "link": "https://index.hu/belfold/2026/11/23/kert-attila-torok-gabor-kozmedia-tisza-kormany/",
+        "image": "https://kep.index.hu/1/0/7266/72660/726606/72660659_5353395_5d629fc2d839d0cfcaa88b64ce7ee449_wm.jpg",
+        "summary": "Személyesen is megtapasztalta, mennyire fontos az aktuális hatalom számára az állami média működése.",
+        "category": "Általános",
+        "published_at": 1795442580
       }
     ]
   },
@@ -11245,6 +11238,86 @@
         "summary": "A fideszes Radics Béla interpellációjában azt kérdezte, mikor lesz végre állandó rendőri jelenlét a Keleti pályaudvarnál, és meddig maradnak magukra a budapesti közlekedők. The post A Fidesz állandó rendőri jelenlétet akar a Keleti pályaudvar környékén first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1795442329
+      }
+    ]
+  },
+  {
+    "group_id": "group_f2150b2e95",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Boros Tamás: Ami Magyar Péternek védelmet ad, az elsöpörte Varga Judit áldozatiságát",
+        "link": "https://index.hu/velemeny/2026/11/23/boros-tamas-magyar-peter-ovszer-varga-judit-kuroli-eniko-noi-jogok-isztambuli-egyezmeny/",
+        "image": "https://kep.index.hu/1/0/7265/72652/726524/72652457_5352791_d522caa36af1037c77a1218d65e2faae_wm.jpg",
+        "summary": "A miniszterelnök kiszakadt óvszere szelektív vakságot okozott.",
+        "category": "Politika",
+        "published_at": 1795442580
+      }
+    ]
+  },
+  {
+    "group_id": "group_6bc2732a9b",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Nyilvános a Közhang közmédiáról szóló felmérésének eredménye, Radnai Márk eljuttatja az új vezérigazgatóhoz is",
+        "link": "https://hvg.hu/itthon/20261123_kozhang-kozmedia-radnai-mark-felmeres-eredmeny-kert-attila-fuggetlen-kozmedia-testulet",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ed076b1e-ecc5-47ab-bea6-13d36bbcd312.jpg",
+        "summary": "A válaszadók legnagyobb arányban független, hiteles közéletet és közérthető tudományt szeretnének látni a közmédián.",
+        "category": "Politika",
+        "published_at": 1795442689
+      }
+    ]
+  },
+  {
+    "group_id": "group_28200aa628",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Gajdos László: Ránk nézett a Jóisten, de igyekeztünk felkészülten várni az esőt",
+        "link": "https://444.hu/2026/11/23/gajdos-laszlo-rank-nezett-a-joisten-de-igyekeztunk-felkeszulten-varni-az-esot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A miniszter elárulta, mennyi vizet fogtak meg eddig, és ez mennyivel több, mint tavaly ilyenkor.",
+        "category": "Politika",
+        "published_at": 1795442567
+      }
+    ]
+  },
+  {
+    "group_id": "group_8195568d9a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hiszem, ha látom: milyen egy háború, egy ostrom vagy egy életveszélyes tüntetés testközelből?",
+        "link": "https://24.hu/kultura/2026/11/23/szemelyes-frontvonal-rovidfilm-verzio-filmfesztival/",
+        "image": "https://s.24.hu/app/uploads/2026/11/still-4-anonymous-archival-footage-masolat-1024x576.jpg",
+        "summary": "Fegyvert fogott, hogy megvédje magát a nemi erőszaktól. Autóból filmezte a tüntetést, amikor lelőtték. Egy blokád közepén töltötte a terhességét. Három női történet a Verzió Filmfesztiválról. The post Hiszem, ha látom: milyen egy háború, egy ostrom vagy egy életveszélyes tüntetés testközelből? first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1795442577
+      }
+    ]
+  },
+  {
+    "group_id": "group_f12b9a0cf4",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Megszűnik a Google két szolgáltatása, ez lesz helyettük",
+        "link": "https://hvg.hu/tudomany/20261123_google-nest-okosotthon-alkalmazas-megszunes",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2934c01c-2ec1-4edc-b304-00918a6e9eb4.jpg",
+        "summary": "2027-ben egy fontos alkalmazás mellett a Google Asszisztens is búcsúzik, de mindkét esetében lesz alternatíva.",
+        "category": "Kultúra",
+        "published_at": 1795442580
       }
     ]
   }
