@@ -231,7 +231,7 @@
     "image": "https://assets.telex.hu/images/20261123/1795443189-temp-r2ama0l38l2m6ofnklj_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 11,
+    "sources_count": 12,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -287,13 +287,18 @@
         "source": "HVG - Világ",
         "title": "Visszavette az Nvidia Jensen Huangot, de a kémsztori közben egyre súlyosabb",
         "link": "https://hvg.hu/360/20261123_jensen-huang-bukasa-aiverseny-kinai-kemgepezet-nektart-csepegtettek-hvg"
+      },
+      {
+        "source": "444.hu",
+        "title": "Trump személyesen lobbizta vissza Huangot az Nvidia élére",
+        "link": "https://444.hu/2026/11/23/trump-szemelyesen-lobbizta-vissza-huangot-az-nvidia-elere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
     "published_at": 1795453115,
     "title_hu": "Jensen Huang visszatért az Nvidia élére, a vizsgálatok folytatódnak",
     "lead_hu": "Az Nvidia igazgatótanácsa november 23-án egyhangú döntéssel visszahelyezte Jensen Huangot az elnök-vezérigazgatói posztra és a testületbe. A korábbi lemondásához vezető ügy és a vállalatot érintő hatósági vizsgálatok továbbra is napirenden vannak, miközben a bejelentés után jelentősen emelkedett az Nvidia árfolyama.",
     "content_hu": "• **Egyhangú döntéssel tért vissza Huang** Az igazgatótanács több egyeztetés után azonnali hatállyal nevezte ki újra a november 12-én lemondott vezetőt. A testület a megbeszélések alapján megfelelőnek tartja Huang őszinteségét és vezetői képességeit; a döntést megelőzően magas rangú amerikai kormányzati tisztviselőktől is tájékozódott, és nem lát nemzetbiztonsági kockázatot a visszatérésben.\n\n• **A korábbi ügy kivizsgálása folytatódik** Az Nvidia független igazgatókból álló bizottsága külső jogi tanácsadó segítségével vizsgálja a Huang távozását megelőző körülményeket. A vizsgálat a visszatérése után is tart, Huang együttműködést ígért, Colette Kress pedig az átmeneti időszakban ideiglenes vezérigazgatóként látta el feladatait pénzügyi igazgatói munkája mellett. A sajtóban megjelent állítások szerint a lemondás hátterében magánéleti kapcsolatok és egy nő feltételezett kínai hírszerzési kapcsolata is szerepet játszott; ezek az értesülések nem tekinthetők igazolt ténynek.\n\n• **Trump személyesen is támogatta a visszatérést** Az amerikai elnök elmondása szerint közvetlenül egyeztetett az Nvidia igazgatóságával, és a kinevezés bejelentése előtti este Huanggal is beszélt. Trump úgy nyilatkozott, hogy a kormány nem rendelkezik bizonyítékkal Huang jogellenes magatartására, ugyanakkor felszólította a vállalatot az exportellenőrzési gyakorlat belső felülvizsgálatának folytatására. Az Nvidia külön, független igazgatókból álló bizottságot is létrehozott az exportmegfelelés és a nemzetbiztonsági kockázatok felügyeletére.\n\n• **Nagyot emelkedett az árfolyam** A visszahelyezés hírére az Nvidia részvényei a hétfői kereskedés kezdetén egyes beszámolók szerint 33, mások szerint 35 százalékkal erősödtek. A Nasdaq 7,4, az S&P 500 4,7, a Dow Jones 2,3 százalékos emelkedéssel nyitott. Trump szerint a részvényárfolyam esése is szerepet játszhatott a döntésben; a cég piaci értéke a botrány utáni öt nap alatt 550 milliárd dollárral csökkent.\n\n• **A hatósági ellenőrzések is folytatódnak** A Reuters értesülése szerint az amerikai SEC végrehajtási részlege lehetséges számviteli problémákat vizsgál az Nvidiánál, de nem ismert, mely pénzügyi jelentések vagy elszámolások érintettek. A sajtóban emellett olyan állítások is megjelentek, hogy a Huanggal kapcsolatba hozott nő fejlett csipeket vásárolt, amelyek egy része az amerikai gyanú szerint exportkorlátozások megsértésével juthatott Kínába.",
-    "importance_score": 130.0,
+    "importance_score": 140.0,
     "top_rank": 3,
     "is_top_hero": false,
     "is_top_list": true
@@ -639,7 +644,7 @@
     "title_hu": "Februárig meghosszabbították Matolcsy György letartóztatását",
     "lead_hu": "Matolcsy György és Valkó Mihály 2027. február 23-ig letartóztatásban marad. Sándor Tamás ügyvédet március 23-ig lakhelyhez kötött bűnügyi felügyelet alá helyezték, nyomkövető viselésével.",
     "content_hu": "• **Matolcsy és Valkó letartóztatása** A bíróság három hónappal, 2027. február 23-ig meghosszabbította a volt jegybankelnök és Valkó Mihály kényszerintézkedését.\n\n• **Sándor Tamás felügyelet alatt** A harmadik gyanúsítottként szereplő ügyvéd 2027. március 23-ig nem hagyhatja el otthonát, és nyomkövetőt kell viselnie.\n\n• **A gyanú és a nyomozás kockázatai** A bíróság közlése szerint az időközben beszerzett bizonyítékok erősítették a megalapozott gyanút; a hatóságok a bizonyítékok eltüntetésének és a nyomozás befolyásolásának veszélyét is mérlegelték.\n\n• **Elutasított óvadék** A bíróság nem fogadta el a Matolcsy György szabadlábra helyezéséért felajánlott óvadékot.",
-    "importance_score": 85.0,
+    "importance_score": 78.0,
     "top_rank": 8,
     "is_top_hero": false,
     "is_top_list": true
@@ -860,6 +865,63 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_48aa969221",
+    "slug": "kert-attila-reszletezte-a-kzmedia-atalakitasanak-terveit-48aa96",
+    "tags": [
+      "kozmedia",
+      "kert-attila",
+      "mediareform",
+      "kozszolgalatisag",
+      "hirportal"
+    ],
+    "fingerprint": "2961cbd9f53357b730df6bd1d4cce979",
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/tMADCIzscYjiogwQLdrXV3aAbgC9fDkS_oZCzvOFIiE/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjMvNmQ0NzQzMGZmODFlNGNmMDk0YjdjZTdlMjIwNzg5OTBmZjJkMTE0MGI2OGI2N2ZhMmVhZTE4MzZkYjFmMzRhMA.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Kert Attila elárulta, kik azok, akiknek nincs helyük többé a közmédiában",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/kert-attila-elarulta-kik-azok-akiknek-nincs-helyuk-tobbe-a-kozmediaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Kert Attila: Aki párt- vagy orosz propagandát vitt, nem maradhat a közmédiában",
+        "link": "https://telex.hu/after/2026/11/23/kert-attila-aki-part-vagy-orosz-propagandat-vitt-nem-maradhat-a-kozmediaban"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kert Attila: lejáratások és a propaganda felelősei nem maradhatnak a közmédiában",
+        "link": "https://index.hu/belfold/2026/11/23/kert-attila-kozmedia-vezerigazgato/"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "A frissen megválasztott Kert Attila beszámol arról, hogyan alakítanák át a közmédiát – élő sajtótájékoztató",
+        "link": "https://hvg.hu/itthon/20261123_kert-attila-beszamol-arrol-hogyan-alakitanak-at-a-kozmediat-elo-kozvetites-a-fuggetlen-kozmedia-testulet-sajtotajekoztatojarol"
+      },
+      {
+        "source": "444.hu",
+        "title": "Kert Attila: Aki a közmédiában ártott másoknak lejáratással, aki pártpropagandát, orosz propagandát folytatott, az nem maradhat",
+        "link": "https://444.hu/2026/11/23/kert-attila-aki-a-kozmediaban-artott-masoknak-lejaratassal-aki-partpropagandat-orosz-propagandat-folytatott-az-nem-maradhat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Elismerte Kert Attila, a közmédia új vezetője, hogy segítette a Tisza-közeli munkacsoportot",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/kert-attila-a-kozmedia-uj-vezetoje-segitette-a-tisza-kozeli-munkacsoportot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795440855,
+    "title_hu": "Kert Attila részletezte a közmédia átalakításának terveit",
+    "lead_hu": "A Független Közmédia Testület november 21-én 6:1 arányban választotta Kert Attilát vezérigazgatóvá, miután a pályázók meghallgatása két fordulóban zajlott. Tervei között létszámcsökkentés, új csatornaprofilok, regionális központok és a közmédia hírportáljának újraindítása is szerepel; munkaszerződésének részleteiről még egyeztetnek.",
+    "content_hu": "• **Kétfordulós vezetőválasztás:** A Független Közmédia Testület november 21-én 6:1 arányban Kert Attilát választotta meg a közmédia vezérigazgatójának. Az első fordulóban szoros eredmény alakult ki közte és Szabó Stein Imre között, ezért mindkét jelölt újabb, kétórás meghallgatáson vett részt. A testület hétfői sajtótájékoztatóján Bayer Judit átadta Kertnek a munkaszerződés tervezetét; a felek megkezdték a feltételek egyeztetését, de a hivatalos munkakezdés időpontját még nem közölték. Kert arra számít, hogy rövid időn belül aláírja a szerződést. A testület nem hozza nyilvánosságra a tagok szavazatait, de mindenki maga dönthet arról, hogy közli-e saját voksát.\n\n• **Szakmai előélet és tanácsadás:** Kert 2006 és 2009 között az MTV hírigazgatójaként dolgozott. A Tisza Párthoz kapcsolódó médiamunkacsoportban saját elmondása szerint nem vett részt, csak a közszolgálati médiáról kérték ki a véleményét; állítása szerint ezért nem kapott díjazást. Toroczkai László korábban a Gyurcsány-kormány propagandistájának nevezte.\n\n• **Személyi döntések és szakmai szempontok:** Kert egyelőre a gazdasági vezető személyéről hozott döntést, más pozíciókról még nem határozott, és vezérigazgató-helyettes kinevezését sem valószínűsíti. Munkatársai megítélésénél a hozzáértést és a teljesítményt venné figyelembe, nem politikai listák összeállítását tervezi. Közlése szerint nem dolgozhatna tovább a közmédiában, aki annak felületein lejáratással ártott másoknak, vagy pártpolitikai, illetve orosz propagandát terjesztett.\n\n• **Létszám és pénzügyek:** A program a munkatársi állomány 25 százalékos csökkentésével számol, a 2027-es költségvetéshez pedig 80 milliárd forinttal kalkulál. Kert száz nap után konszolidált pénzügyi tervet ígért, nem a teljes pénzügyi stabilitás elérését.\n\n• **Csatornaportfólió:** A terv hat rádió- és négy televíziós adó fenntartásával számol, az eddiginél világosabban elkülönített feladatokkal. Az M1 közéleti főcsatornaként kulturális és szórakoztató műsorokat is sugározna, az M2 fiatalosabb, közéleti és szolgáltató tartalmakat, valamint sportot kínálna, az M3 kulturális, ifjúsági és gyermekműsorokra összpontosítana, a Duna pedig a külhoni magyarokat és a diaszpórát szólítaná meg. Az MR6 fővárosi témákkal foglalkozna, és új rádiós formátumok kipróbálására is szolgálna. Kert szerint a többképernyős médiafogyasztás és a részletes kalkulációk indokolják a csatornaszámot; példaként a húsznál több adót működtető lengyel közszolgálati televíziót említette.\n\n• **Regionális és külhoni jelenlét:** Kert vidéki médiacentrumok létrehozását tervezi helyi hírszolgáltatási és közösségi feladatokkal. A központokban fiatalok sajátíthatnák el a tartalomkészítést, és részt vehetnének műsorok, videók előállításában is. A program a határon túli tudósítói hálózat bővítését szintén tartalmazza.\n\n• **Online célkitűzés:** Kert újraindítaná a közmédia hírportálját, és azt egy éven belül a tíz, három éven belül pedig az öt legolvasottabb magyarországi hírportál közé juttatná.\n\n• **Hitelesség és politikai befolyás:** Kert a közszolgálati tájékoztatásba vetett bizalom megerősítését tűzte ki célul, nem egy korábbi korszak változtatás nélküli visszaállítását. A rendszerváltás idején sokan álltak ki a közmédia függetlenségéért, ugyanakkor értékelése szerint a pártok már a kilencvenes években is befolyást próbáltak szerezni: a kormányok érvényesíteni igyekeztek akaratukat, az ellenzék pedig olykor megalapozatlanul minősítette kormánypártinak az intézményeket. Kert úgy látja, április 12. óta lehetőség nyílt az újrakezdésre, és saját kiválasztását is a változás jelének tartja. Bayer Judit a sajtótájékoztatón visszautasította azt a felvetést, hogy Kert kinevezése politikai alku eredménye lett volna.\n\n• **A feladat nehézsége:** Kert a megválasztása után kapott gratulációkról és támogató üzenetekről is beszélt, ugyanakkor nehéz munkára számít. A pályázati folyamatot korrektnek értékelte, és jelezte, hogy rövidesen megkezdi a közös munkát csapatával.",
+    "importance_score": 68.0,
+    "top_rank": 13,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_8de4af312d",
     "slug": "semjen-zsolt-23-ev-utan-atadja-a-kdnp-vezeteset-8de4af",
     "tags": [
@@ -911,7 +973,7 @@
     "lead_hu": "Semjén Zsolt november 28-tól távozik a KDNP elnöki posztjáról, és Rétvári Bencét tartja alkalmasnak a párt képviseletére. A Seszták Miklós ügyéről és az ellene felhozott vádakról is beszélt; az ATV összefoglalója szerint a 2030-as választási stratégia is szóba került a műsorban.",
     "content_hu": "• **November 28-tól átadja a pártelnöki tisztséget:** Semjén Zsolt 23 év után távozik a KDNP éléről. A választási vereséget és a felkészült politikusi utánpótlást is a váltás indokai között említette.\n\n• **Rétvári Bencét ajánlja a párt új arcának:** Semjén alkalmasnak tartja őt a kereszténydemokraták képviseletére. Latorcai Csaba szervezőmunkáját méltatta, Juhász Hajnalkát pedig Rétvári után a parlamenti frakció vezetésére javasolná.\n\n• **Hat-nyolc politikust készített fel a vezetői feladatokra:** A negyvenes éveikben járó politikusok közül Semjén szerint többen korábban államtitkárok voltak, vagy más fontos tisztséget töltenek be; miniszteri feladatokra is alkalmasnak tartja őket. Máthé Zsuzsát és Nacsa Lőrincet is megemlítette, és elmondta, hogy ragaszkodott Máthé mandátumátvételéhez.\n\n• **Tanácsadó testület segítheti a pártot a távozása után:** Semjén továbbra is elérhető lenne a KDNP számára, a testületben pedig a párt idősebb, korábbi vezetői kaphatnak helyet.\n\n• **Seszták Miklós esetében vitatta az erdei pénzhez fűződő kapcsolatot:** Semjén azt mondta, gyermekkora óta ismeri a politikust, és tapasztalt ügyvédnek tartja. Szerinte nem életszerű, hogy Seszták a pénzt az erdőben, avar alatt vagy madáretetőben rejtette volna el; a nyomozás 2021-ben, az előző kormány idején indult.\n\n• **Összeesküvésnek nevezte az ellene felhozott állításokat:** Semjén ismét tagadta a vádakat, és közölte, hogy jogi lépéseket tett; az őt megvádolók közül többen bíróság előtt állnak. A történteket családja számára is megterhelőnek írta le, és arra figyelmeztetett, hogy hasonló vádakkal más közszereplő is célkeresztbe kerülhet.\n\n• **A 2030-as választási stratégia is szóba került:** Az ATV beszámolójának címe szerint Semjén erről is beszélt a műsorban, a közölt részlet azonban nem ismerteti a stratégia tartalmát.\n\n• **Büszke az elmúlt évek nemzet- és egyházpolitikai munkájára:** Semjén az e területeken végzett tevékenységét is értékelte.",
     "importance_score": 63.0,
-    "top_rank": 13,
+    "top_rank": 14,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -957,7 +1019,7 @@
     "lead_hu": "Sasi-Nagy Edit, az Országgyűlés Mentelmi Bizottságának elnöke azt javasolta, hogy ne függesszék fel Magyar Péter mentelmi jogát az Áder János feljelentése nyomán indult ügyben. A bizottsági állásfoglalás nem végleges döntés: a mentelmi jog ügyében az Országgyűlés határoz.",
     "content_hu": "• **A bizottsági javaslat** Sasi-Nagy Edit a testület hétfői ülésén Magyar Péter mentelmi jogának fenntartása mellett érvelt, mert szerinte nem indokolt annak felfüggesztése.\n\n• **A feljelentés előzménye** Magyar júliusban a volt köztársasági elnök 2018-as amerikai útjáról tett közzé bejegyzést, amelyben 55 millió forintos költséget említett, és kérdéseket vetett fel az utazás finanszírozásáról. Áder János ezt követően rágalmazás miatt tett feljelentést.\n\n• **Áder válasza a költségekre** A volt államfő vitatta, hogy családtagjai utazását közpénzből finanszírozták volna, és azt közölte, hogy lányuk útjának költségeit maguk állták.\n\n• **A javaslat indoka** Sasi-Nagy szerint egy korábbi köztársasági elnök közpénzből finanszírozott útjainak költségei közérdeklődésre tarthatnak számot, Magyar pedig ezekkel kapcsolatban tett fel kérdéseket.\n\n• **A parlamenti döntés** Magyar a hétfői parlamenti ülésen is azt mondta, hogy kérdéseket fogalmazott meg Ádernek. A bizottság javaslata önmagában nem rendezi az ügyet, a mentelmi jog felfüggesztéséről az Országgyűlés dönthet.",
     "importance_score": 60.0,
-    "top_rank": 14,
+    "top_rank": 15,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -998,7 +1060,7 @@
     "lead_hu": "Kert Attila lesz az MRTV új vezérigazgatója, mert a Független Közmédia Testület szerint nagyobb tapasztalata van médiaszervezetek vezetésében. A Magyar Egészségügyi Szakdolgozói Kamara jelenlegi formá…",
     "content_hu": "Kert Attila lesz az MRTV új vezérigazgatója, mert a Független Közmédia Testület szerint nagyobb tapasztalata van médiaszervezetek vezetésében. A Magyar Egészségügyi Szakdolgozói Kamara jelenlegi formájában nem támogatja a 2027-es bérrendezés tervezetét, mivel az nem garantál mindenkinek legalább 7,5 százalékos béremelést. Magyar Péter miniszterelnök 120 milliárd forintos kátyúmentesítési programot jelentett be. A hatóságok pedig több mint kilencmilliárd forintos vagyonzárat rendeltek el a letartóztatásban lévő Seszták Miklós volt miniszterrel szemben, a Kecskeméti Törvényszék pedig megszüntette Bús Balázs, Óbuda korábbi fideszes polgármesterének letartóztatását, és bűnügyi felügyeletet rendelt el vele szemben. Emellett a Jászságban és a tiszaroffi tározóban is bővül a vízpótlás. A Nyugati pályaudvar elavult vasúti infrastruktúrájának korszerűsítését pedig uniós forrásból készíthetik elő.",
     "importance_score": 60.0,
-    "top_rank": 15,
+    "top_rank": 16,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1048,58 +1110,6 @@
     "title_hu": "Török Gábor szerint a közmédia vezetőjének a sokszínűséget kell képviselnie",
     "lead_hu": "Kert Attila lett a közmédia új vezérigazgatója, kinevezését a politikai oldalak eltérően értékelték. Török Gábor szerint a teljes függetlenség nem reális elvárás, de az új vezetőnek arra kell törekednie, hogy ne egy másik párt propagandája határozza meg a tartalmakat.",
     "content_hu": "• **Kert Attila kinevezése** A Független Közmédia Testület szombaton 6:1 arányban választotta meg a Magyar Rádió és Televízió Zrt. új vezérigazgatóját. A végső fordulóban Szabó Stein Imrével versenyzett; a testület előzőleg 14 pályázót hallgatott meg.\n\n• **Eltérő politikai értékelések** A kinevezés után az ellenzéki oldalon gyurcsányista és tiszás propagandától tartottak, míg kormánypárti szereplők a szakmaiság és a függetlenség érvényesülését látták a döntésben.\n\n• **Török Gábor tapasztalatai** A politikai elemző szerint 1998 óta többször megtapasztalta, hogy a mindenkori hatalom számára politikai súlya van az állami média híreinek és megszólalóinak. Felidézte, hogy 2002-ben a TV2 vezetősége ünnepelte a választási eredményt, 2006-ban és az azt követő időszakban pedig mindkét politikai oldal nyomást gyakorolt az állami televízióra.\n\n• **A sokszínűség szerepe** Török régóta ismeri Kert Attilát a TV2 és az MTV politikai műsoraiból, és úgy látja, az új vezető fontosnak tartja a különböző nézőpontok bemutatását. Kert politikai véleményének nyílt vállalása miatt az évek során fideszesnek, szocialistának, később tiszásnak is nevezték.\n\n• **Az új vezetővel szembeni elvárás** Török szerint nem mindegy, hogy a közmédia irányítói a kormány politikai szempontjait érvényesítik-e, vagy megpróbálnak ellenállni a nyomásnak. A kinevezést akkor tartaná sikeresnek, ha egyik politikai tábor sem érezné úgy, hogy a közmédia kizárólag az érdekeit szolgálja.\n\n• **Kert Attila személyzeti tervei** A leendő vezérigazgató a Klubrádióban arról beszélt, hogy a munkatársak értékelésénél a teljesítményt és a szakmai felkészültséget veszi alapul, politikai okból nem tervez elbocsátásokat.",
-    "importance_score": 58.0,
-    "top_rank": 16,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_48aa969221",
-    "slug": "kert-attila-reszletezte-a-kzmedia-atalakitasanak-terveit-48aa96",
-    "tags": [
-      "kozmedia",
-      "kert-attila",
-      "mediareform",
-      "kozszolgalatisag",
-      "hirportal"
-    ],
-    "fingerprint": "2961cbd9f53357b730df6bd1d4cce979",
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/tMADCIzscYjiogwQLdrXV3aAbgC9fDkS_oZCzvOFIiE/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjMvNmQ0NzQzMGZmODFlNGNmMDk0YjdjZTdlMjIwNzg5OTBmZjJkMTE0MGI2OGI2N2ZhMmVhZTE4MzZkYjFmMzRhMA.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Kert Attila elárulta, kik azok, akiknek nincs helyük többé a közmédiában",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/kert-attila-elarulta-kik-azok-akiknek-nincs-helyuk-tobbe-a-kozmediaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Kert Attila: Aki párt- vagy orosz propagandát vitt, nem maradhat a közmédiában",
-        "link": "https://telex.hu/after/2026/11/23/kert-attila-aki-part-vagy-orosz-propagandat-vitt-nem-maradhat-a-kozmediaban"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Kert Attila: lejáratások és a propaganda felelősei nem maradhatnak a közmédiában",
-        "link": "https://index.hu/belfold/2026/11/23/kert-attila-kozmedia-vezerigazgato/"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "A frissen megválasztott Kert Attila beszámol arról, hogyan alakítanák át a közmédiát – élő sajtótájékoztató",
-        "link": "https://hvg.hu/itthon/20261123_kert-attila-beszamol-arrol-hogyan-alakitanak-at-a-kozmediat-elo-kozvetites-a-fuggetlen-kozmedia-testulet-sajtotajekoztatojarol"
-      },
-      {
-        "source": "444.hu",
-        "title": "Kert Attila: Aki a közmédiában ártott másoknak lejáratással, aki pártpropagandát, orosz propagandát folytatott, az nem maradhat",
-        "link": "https://444.hu/2026/11/23/kert-attila-aki-a-kozmediaban-artott-masoknak-lejaratassal-aki-partpropagandat-orosz-propagandat-folytatott-az-nem-maradhat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1795440855,
-    "title_hu": "Kert Attila részletezte a közmédia átalakításának terveit",
-    "lead_hu": "A Független Közmédia Testület november 21-én 6:1 arányban választotta Kert Attilát vezérigazgatóvá, miután a pályázók meghallgatása két fordulóban zajlott. Tervei között létszámcsökkentés, új csatornaprofilok, regionális központok és a közmédia hírportáljának újraindítása is szerepel; munkaszerződésének részleteiről még egyeztetnek.",
-    "content_hu": "• **Kétfordulós vezetőválasztás:** A Független Közmédia Testület november 21-én 6:1 arányban Kert Attilát választotta meg a közmédia vezérigazgatójának. Az első fordulóban szoros eredmény alakult ki közte és Szabó Stein Imre között, ezért mindkét jelölt újabb, kétórás meghallgatáson vett részt. A testület hétfői sajtótájékoztatóján Bayer Judit átadta Kertnek a munkaszerződés tervezetét; a felek megkezdték a feltételek egyeztetését, de a hivatalos munkakezdés időpontját még nem közölték. Kert arra számít, hogy rövid időn belül aláírja a szerződést. A testület nem hozza nyilvánosságra a tagok szavazatait, de mindenki maga dönthet arról, hogy közli-e saját voksát.\n\n• **Szakmai előélet és tanácsadás:** Kert 2006 és 2009 között az MTV hírigazgatójaként dolgozott. A Tisza Párthoz kapcsolódó médiamunkacsoportban saját elmondása szerint nem vett részt, csak a közszolgálati médiáról kérték ki a véleményét; állítása szerint ezért nem kapott díjazást. Toroczkai László korábban a Gyurcsány-kormány propagandistájának nevezte.\n\n• **Személyi döntések és szakmai szempontok:** Kert egyelőre a gazdasági vezető személyéről hozott döntést, más pozíciókról még nem határozott, és vezérigazgató-helyettes kinevezését sem valószínűsíti. Munkatársai megítélésénél a hozzáértést és a teljesítményt venné figyelembe, nem politikai listák összeállítását tervezi. Közlése szerint nem dolgozhatna tovább a közmédiában, aki annak felületein lejáratással ártott másoknak, vagy pártpolitikai, illetve orosz propagandát terjesztett.\n\n• **Létszám és pénzügyek:** A program a munkatársi állomány 25 százalékos csökkentésével számol, a 2027-es költségvetéshez pedig 80 milliárd forinttal kalkulál. Kert száz nap után konszolidált pénzügyi tervet ígért, nem a teljes pénzügyi stabilitás elérését.\n\n• **Csatornaportfólió:** A terv hat rádió- és négy televíziós adó fenntartásával számol, az eddiginél világosabban elkülönített feladatokkal. Az M1 közéleti főcsatornaként kulturális és szórakoztató műsorokat is sugározna, az M2 fiatalosabb, közéleti és szolgáltató tartalmakat, valamint sportot kínálna, az M3 kulturális, ifjúsági és gyermekműsorokra összpontosítana, a Duna pedig a külhoni magyarokat és a diaszpórát szólítaná meg. Az MR6 fővárosi témákkal foglalkozna, és új rádiós formátumok kipróbálására is szolgálna. Kert szerint a többképernyős médiafogyasztás és a részletes kalkulációk indokolják a csatornaszámot; példaként a húsznál több adót működtető lengyel közszolgálati televíziót említette.\n\n• **Regionális és külhoni jelenlét:** Kert vidéki médiacentrumok létrehozását tervezi helyi hírszolgáltatási és közösségi feladatokkal. A központokban fiatalok sajátíthatnák el a tartalomkészítést, és részt vehetnének műsorok, videók előállításában is. A program a határon túli tudósítói hálózat bővítését szintén tartalmazza.\n\n• **Online célkitűzés:** Kert újraindítaná a közmédia hírportálját, és azt egy éven belül a tíz, három éven belül pedig az öt legolvasottabb magyarországi hírportál közé juttatná.\n\n• **Hitelesség és politikai befolyás:** Kert a közszolgálati tájékoztatásba vetett bizalom megerősítését tűzte ki célul, nem egy korábbi korszak változtatás nélküli visszaállítását. A rendszerváltás idején sokan álltak ki a közmédia függetlenségéért, ugyanakkor értékelése szerint a pártok már a kilencvenes években is befolyást próbáltak szerezni: a kormányok érvényesíteni igyekeztek akaratukat, az ellenzék pedig olykor megalapozatlanul minősítette kormánypártinak az intézményeket. Kert úgy látja, április 12. óta lehetőség nyílt az újrakezdésre, és saját kiválasztását is a változás jelének tartja. Bayer Judit a sajtótájékoztatón visszautasította azt a felvetést, hogy Kert kinevezése politikai alku eredménye lett volna.\n\n• **A feladat nehézsége:** Kert a megválasztása után kapott gratulációkról és támogató üzenetekről is beszélt, ugyanakkor nehéz munkára számít. A pályázati folyamatot korrektnek értékelte, és jelezte, hogy rövidesen megkezdi a közös munkát csapatával.",
     "importance_score": 58.0,
     "top_rank": 17,
     "is_top_hero": false,
@@ -3554,7 +3564,7 @@
     "title_hu": "Nőtt a hajók elleni támadások száma a Hormuzi-szoros térségében",
     "lead_hu": "A brit UKMTO adatai szerint októberben több mint 30, novemberben pedig vasárnapig legalább 22, hajóforgalom elleni támadást jelentettek a Hormuzi-szoros és a környező vizek térségéből. A szervezet szerint a nyilvántartás nem feltétlenül tükrözi az összes incidenst.",
     "content_hu": "• **Októberi csúcs** A február végén kezdődött amerikai–iráni háború óta októberben először lépte át a 30-at az UKMTO-hoz bejelentett támadások száma.\n\n• **Novemberi adatok** Vasárnapig legalább 22 incidenst jelentettek, ami a konfliktus kezdete óta a második legmagasabb havi érték.\n\n• **A jelentések területe** Az adatok a Hormuzi-szoros mellett a Perzsa- és az Ománi-öböl térségére is kiterjednek.\n\n• **Hiányos nyilvántartás** Az UKMTO csak független forrásból megerősített eseteket rögzít; a szervezet szerint további támadásokról is érkezett információ, de azokat nem tudta ellenőrizni. A megtámadott hajók egy része nem tesz bejelentést, és egyes vízi járművek a nyomkövető berendezésüket is kikapcsolhatják.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 80,
     "is_top_hero": false,
     "is_top_list": true
@@ -3662,6 +3672,110 @@
     "top_rank": 83,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_1612a27a2c",
+    "slug": "nem-jtt-el-a-vart-fordulat-az-epitoiparban-egyre-tbb-ceg-kuzd-mukdesi-nehezsegek-1612a2",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.youtube.com/embed/FcZs4-Eoh0Q",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Nem jött el a várt fordulat az építőiparban, egyre több cég küzd működési nehézségekkel",
+        "link": "https://www.atv.hu/belfold/20261123/fordulat-epitoipar-ceg-mukodes/"
+      }
+    ],
+    "published_at": 1795456080,
+    "title_hu": "Nem jött el a várt fordulat az építőiparban, egyre több cég küzd működési nehézségekkel",
+    "lead_hu": "Októberben elmaradt a kedvező irányú építőipari fordulat, de 19 százalékkal kevesebb vállalkozás szűnt meg, mint mint 2025 azonos időszakában - közölte az Opten hétfőn az MTI-vel....",
+    "content_hu": "Októberben elmaradt a kedvező irányú építőipari fordulat, de 19 százalékkal kevesebb vállalkozás szűnt meg, mint mint 2025 azonos időszakában - közölte az Opten hétfőn az MTI-vel.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_68f6a2fbac",
+    "slug": "ujabb-sulyos-korrupcios-botrany-erte-el-zelenszkij-kzvetlen-krnyezetet-negyedsze-68f6a2",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/gcXAVWryJaUDqUG6BRL1v337uok4-O6_Ab5_xeOYHCM/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIzL2VlZTVkOTE2ODY0ZDJkMDY2OTg5YjA0MTVjNGQ2YWY1OWJkMmIwNTI0NjM1OGQ5NDdlY2UyMWM4ZDRiZGQ1Y2U.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Újabb súlyos korrupciós botrány érte el Zelenszkij közvetlen környezetét: negyedszer emeltek vádat az elnök egykori bizalmasa ellen – több millió euró tűnhetett el",
+        "link": "https://www.vg.hu/kozelet/2026/11/ukran-korrupcio-miniszterelnok-helyettes-csernisov?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795455977,
+    "title_hu": "Újabb súlyos korrupciós botrány érte el Zelenszkij közvetlen környezetét: negyedszer emeltek vádat az elnök egykori bizalmasa ellen – több millió euró tűnhetett el",
+    "lead_hu": "A korrupcióellenes hivatal ismét egy olyan ügyben nyomoz, amelyben állami pénzek magáncélú felhasználása merült fel....",
+    "content_hu": "A korrupcióellenes hivatal ismét egy olyan ügyben nyomoz, amelyben állami pénzek magáncélú felhasználása merült fel.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_3a3fc3c6fc",
+    "slug": "politikai-tamadasrol-beszel-okovacs-szilveszter-az-elmaradt-diotro-eloadas-utan--3a3fc3",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7266/72663/726639/72663965_5353607_6bd9d7dfc746e7f7ab2833e4961c25b6_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Politikai támadásról beszél Ókovács Szilveszter az elmaradt Diótörő-előadás után, jogi lépéseket tesz",
+        "link": "https://index.hu/belfold/2026/11/23/egyreszt-masreszt-koczian-peter-okovacs-szilveszter-diotoro-eloadas-elmaradt/"
+      }
+    ],
+    "published_at": 1795455960,
+    "title_hu": "Politikai támadásról beszél Ókovács Szilveszter az elmaradt Diótörő-előadás után, jogi lépéseket tesz",
+    "lead_hu": "A volt főigazgató visszautasította Nagy Ervin vádjait....",
+    "content_hu": "A volt főigazgató visszautasította Nagy Ervin vádjait.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_81276d96ab",
+    "slug": "nemzeti-sport-a-kte-feljelentette-a-csikszeredat-a-fifa-nal-81276d",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/dkrcs20260303001-e1795455659531-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Nemzeti Sport: A KTE feljelentette a Csíkszeredát a FIFA-nál",
+        "link": "https://24.hu/sport/foci/2026/11/23/kecskemet-csikszereda-czekus-adam-szabo-alex-atigazolasi-dij/"
+      }
+    ],
+    "published_at": 1795455950,
+    "title_hu": "Nemzeti Sport: A KTE feljelentette a Csíkszeredát a FIFA-nál",
+    "lead_hu": "Két játékos miatt történt. The post Nemzeti Sport: A KTE feljelentette a Csíkszeredát a FIFA-nál first appeared on 24.hu....",
+    "content_hu": "Két játékos miatt történt. The post Nemzeti Sport: A KTE feljelentette a Csíkszeredát a FIFA-nál first appeared on 24.hu.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_099e0f7663",
@@ -17880,110 +17994,6 @@
     "title_hu": "Rudabányai tűzvész: betörés és gyújtogatás gyanúja is felmerült",
     "lead_hu": "Leégett Rudabányán a könyvtár, két embert előállítottak.",
     "content_hu": "Leégett Rudabányán a könyvtár, két embert előállítottak.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_f973b19040",
-    "slug": "sztrajk-miatt-szinte-teljesen-megbenul-egy-europai-f973b1",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2025/02/qyhSL47C24xPApug1W7b79pJjS-LU5TtNdR-Z1r9qh4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYzZWU2NWM1OTQxNDQ4Y2JiZWNlZDc2ZDFjYzljOWRi.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Sztrájk miatt szinte teljesen megbénul egy európai légtér a hét elején – 60 ezer utas marad hoppon",
-        "link": "https://www.vg.hu/kozelet/2026/11/sztrajk-repuloter-legi-kozlekedes-jarattorles-brusszel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795369824,
-    "title_hu": "Sztrájk miatt szinte teljesen megbénul egy európai légtér a hét elején – 60 ezer utas marad hoppon",
-    "lead_hu": "Káosszal indul a jövő hét az európai főváros két repterén is A repülőtéri dolgozók demonstrációja miatt.",
-    "content_hu": "Káosszal indul a jövő hét az európai főváros két repterén is A repülőtéri dolgozók demonstrációja miatt.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_222b4ed7e6",
-    "slug": "boka-janos-ez-a-tisza-nagy-lebukasanak-hete-222b4e",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vadhajtások",
-        "title": "Bóka János: Ez a Tisza nagy lebukásának hete",
-        "link": "https://www.vadhajtasok.hu/2026/11/22/boka-janos-ez-a-tisza-nagy-lebukasanak-hete"
-      }
-    ],
-    "published_at": 1795369800,
-    "title_hu": "Bóka János: Ez a Tisza nagy lebukásának hete",
-    "lead_hu": "Sorra hullottak ki a csontvázak a kormány háza táján.",
-    "content_hu": "Sorra hullottak ki a csontvázak a kormány háza táján.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_79d22f2025",
-    "slug": "ujabb-viztarozot-nyitottak-meg-gajdosek-tiszaroffn-79d22f",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261122/1795369556-temp-kp6cvc6vgt6jecphpae_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Újabb víztározót nyitottak meg Gajdosék, Tiszaroffnál is elindult a vízpótlás",
-        "link": "https://telex.hu/techtud/2026/11/22/gajdos-laszlo-tiszaroffi-tarozo-vizpotlas-vizmegtartas"
-      }
-    ],
-    "published_at": 1795369723,
-    "title_hu": "Újabb víztározót nyitottak meg Gajdosék, Tiszaroffnál is elindult a vízpótlás",
-    "lead_hu": "A miniszter szerdán jelentette be, hogy országszerte megkezdődtek a vízvisszatartási munkák a sok esős nap után.",
-    "content_hu": "A miniszter szerdán jelentette be, hogy országszerte megkezdődtek a vízvisszatartási munkák a sok esős nap után.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_e8a8a58f66",
-    "slug": "ellentamadasba-lendult-a-fidesz-a-fabo-gyrgyhz-kth-e8a8a5",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/cN4r5z7ECpFnPiHcxHgBdRsFnNWmehPa4SMm24DkyB4/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTIvOTM4MjY2OTViOTBiNmFlNzM4MWI2N2U3MzFkMjZmZjJmYzVkMDY3NmJkMTI5OGVlMDRmZDkzNzU1MTE1YTFkNA.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Ellentámadásba lendült a Fidesz: a Fabó Györgyhöz köthető pénzhalommal lebukott a Tisza",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/ellentamadasba-lendult-a-fidesz-a-fabo-gyorgyhoz-kotheto-penzhalommal-lebukott-a-tisza?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795369526,
-    "title_hu": "Ellentámadásba lendült a Fidesz: a Fabó Györgyhöz köthető pénzhalommal lebukott a Tisza",
-    "lead_hu": "A nagy leleplezés hetének indult, aztán gyorsan a nagy lebukás hete lett belőle – értékelte a hetet Bóka János.",
-    "content_hu": "A nagy leleplezés hetének indult, aztán gyorsan a nagy lebukás hete lett belőle – értékelte a hetet Bóka János.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
