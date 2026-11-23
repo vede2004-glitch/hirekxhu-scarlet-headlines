@@ -141,7 +141,7 @@
     "title_hu": "Sarkvidéki hideg és havazás érkezhet, csütörtökön síkvidéken is",
     "lead_hu": "Hétfőtől sarkvidéki eredetű levegő hoz lehűlést, erős szelet és északkeleten hózáporokat Magyarországra. Szerdán hajnalban akár mínusz 10 fok is lehet, csütörtökön pedig egy újabb ciklon miatt több térségben havazhat; a hétvégére is borult időt és vegyes csapadékot jeleznek.",
     "content_hu": "• **Vasárnap és hétfő délelőtt eső várható:** Délnyugat felől ciklon érkezik, a déli megyékben hétfő délelőttig 20–30 milliméter csapadék hullhat. Északon több helyen száraz maradhat az idő, az éjszakai hőmérséklet jellemzően 0 és 5 fok között alakul, de a kevésbé felhős északi részeken fagypont alatti értékek is előfordulhatnak. A hideg levegő még nem érkezik meg annyira korán, hogy jelentősen találkozzon az esőzónával; a csapadék végén havas eső is keveredhet az esőbe.\n\n• **Hétfőn észak felől hideg levegő áramlik az országba:** A tartós esőt hozó rendszer délelőtt délkelet felé elhagyja az országot, majd északnyugatira forduló szél mellett többfelé felszakadozik a felhőzet. A Dunántúl egyes részein a széllökések elérhetik a 70 km/órát, északnyugaton, illetve a hegyvidéken pedig viharossá válhatnak. Reggel délen és keleten eső vagy havas eső, a Dunántúli- és az Északi-középhegységben havas eső, északkeleten hózápor alakulhat ki. A nappali hőmérséklet 3–10 fok között várható, amit a szél miatt hidegebbnek lehet érezni.\n\n• **Kedden többnyire napos, de hideg idő valószínű:** Északkeleten több felhő és hózápor is lehet, az ország más részein kisebb a csapadék esélye. Hajnalban általában mínusz 5 és 0 fok közé hűlhet a levegő, a nappali csúcsértékek 2–6 fok körül alakulhatnak. Többfelé erős északnyugati szél várható.\n\n• **Szerdán lehet a hét leghidegebb reggele:** Országszerte fagypont alá süllyedhet a hőmérséklet, a hidegre hajlamos területeken mínusz 10 fok is előfordulhat. Délnyugaton megnövekszik a felhőzet, északkeleten több órán át süthet a nap, estétől pedig nyugat felől csapadék érkezhet. A nappali maximum 1–5 fok körül alakul.\n\n• **Csütörtökön nyugaton és északon a legnagyobb a havazás esélye:** Egy újabb mediterrán ciklon síkvidéken is havat hozhat, bár a csapadék halmazállapota és eloszlása még változhat. Kora estére Északnyugat-Magyarországon, a Kisalföldön és az Alpokalján 70–90 százalékos eséllyel maradhat meg a hó; a nyugati határnál ez az arány 90 százalék fölötti lehet. Az Északi-középhegységben és a Dunakanyarban 50–70, a Bakonyban, a Vértesben és Budapest környékén 30–50 százalékos valószínűséget jeleznek. A Duna–Tisza közén és a Tiszántúl északi részén 10–30 százalék az esély, a Dél-Alföldön és Baranyában jelenleg nem számítanak havazásra. A ciklon útvonalának és a hideg légtömeg kiterjedésének változása miatt a hóesélyek területi eloszlása módosulhat. **A hétvégén borult idő és vegyes halmazállapotú csapadék is előfordulhat.**",
-    "importance_score": 93.0,
+    "importance_score": 90.0,
     "top_rank": 2,
     "is_top_hero": false,
     "is_top_list": true
@@ -811,6 +811,42 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_c1af877013",
+    "slug": "nyolcan-meghaltak-egy-brooklyni-lakohaz-sszeomlasakor-c1af87",
+    "tags": [
+      "brooklyn",
+      "epuletomlas",
+      "new-york",
+      "baleset"
+    ],
+    "fingerprint": "2bc936da4ddba6b66615741ae4b45591",
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/hazomlas-1024x576.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kártyavárként dőlt össze a brooklyni épület, többen meghaltak – videó",
+        "link": "https://24.hu/kulfold/2026/11/22/osszedolt-brooklyn-epulet-video/"
+      },
+      {
+        "source": "ATV",
+        "title": "Megrázó felvétel készült a pillanatról, amikor egy teljes lakóház összeomlott New Yorkban",
+        "link": "https://www.atv.hu/kulfold/20261123/lakohaz-osszeomlott-new-york/"
+      }
+    ],
+    "published_at": 1795403040,
+    "title_hu": "Nyolcan meghaltak egy brooklyni lakóház összeomlásakor",
+    "lead_hu": "November 11-én összeomlott egy 96 éves lakóépület a New York-i Brooklynban, a Flatbush Avenue-n. A balesetben nyolcan életüket vesztették, legalább 18-an megsérültek.",
+    "content_hu": "• **Nyolc halálos áldozat** A háromemeletes épület szerda délután omlott össze; a halottak között hat felnőtt és két gyermek volt.\n\n• **Legalább 18 sérült** A ház romjai építőmunkásokat és lakókat temettek maguk alá.\n\n• **Vizsgálják az összeomlás okát** A hatóságok még nem állapították meg, mi vezetett a tragédiához, és azt is vizsgálják, történt-e bűncselekmény.\n\n• **Korábban repedéseket találtak** Egy márciusi jelentés az épület északi homlokzatán észlelt repedésekről számolt be, állapotát pedig rossznak minősítette.",
+    "importance_score": 40.0,
+    "top_rank": 16,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_073ddfc15d",
     "slug": "rendori-beavatkozassal-ert-veget-a-szurkolok-sszecsapasa-nyiregyhazan-073ddf",
     "tags": [
@@ -851,42 +887,6 @@
     "title_hu": "Rendőri beavatkozással ért véget a szurkolók összecsapása Nyíregyházán",
     "lead_hu": "A Nyíregyháza Spartacus és a Debrecen NB I-es mérkőzése előtt két szurkolói csoport verekedett össze a stadion közelében. Többen megsérültek, a rendőrség pedig több embert előállított; a felek eltérően számoltak be a történtekről.",
     "content_hu": "• **A mérkőzés előtti összecsapás** A vasárnapi Nyíregyháza–Debrecen találkozó előtt a stadionhoz közeli utcában csaptak össze a két csapat szurkolói. A rendőrök közbeléptek, és megszakították a verekedést.\n\n• **Sérültek és rendőri intézkedés** A mentők több sérültet kórházba vittek. Csoportos garázdaság gyanúja miatt több embert előállítottak, elszámoltatásuk megkezdődött. A helyszínt a Nyíregyházi Rendőrkapitányság és a Készenléti Rendőrség egységei is biztosították.\n\n• **Eltérő szurkolói beszámolók** A nyíregyháziaknak tulajdonított beszámoló három-négy perces összecsapásról szól, és tagadja, hogy náluk eszközök lettek volna; eszerint a debreceniek elmenekültek. A debreceni szurkolók verziója szerint mintegy ötvenen támadtak egy olyan vendéglátóhelyre, ahol körülbelül nyolcvan nyíregyházi és Resovia-szurkoló tartózkodott. Ők kések, botok és vascsövek jelenlétéről, valamint nyolc-tíz perces verekedésről számoltak be.\n\n• **Videók az interneten** Az összecsapásról több felvétel is megjelent online.",
-    "importance_score": 43.0,
-    "top_rank": 16,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_c1af877013",
-    "slug": "nyolcan-meghaltak-egy-brooklyni-lakohaz-sszeomlasakor-c1af87",
-    "tags": [
-      "brooklyn",
-      "epuletomlas",
-      "new-york",
-      "baleset"
-    ],
-    "fingerprint": "2bc936da4ddba6b66615741ae4b45591",
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/hazomlas-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kártyavárként dőlt össze a brooklyni épület, többen meghaltak – videó",
-        "link": "https://24.hu/kulfold/2026/11/22/osszedolt-brooklyn-epulet-video/"
-      },
-      {
-        "source": "ATV",
-        "title": "Megrázó felvétel készült a pillanatról, amikor egy teljes lakóház összeomlott New Yorkban",
-        "link": "https://www.atv.hu/kulfold/20261123/lakohaz-osszeomlott-new-york/"
-      }
-    ],
-    "published_at": 1795403040,
-    "title_hu": "Nyolcan meghaltak egy brooklyni lakóház összeomlásakor",
-    "lead_hu": "November 11-én összeomlott egy 96 éves lakóépület a New York-i Brooklynban, a Flatbush Avenue-n. A balesetben nyolcan életüket vesztették, legalább 18-an megsérültek.",
-    "content_hu": "• **Nyolc halálos áldozat** A háromemeletes épület szerda délután omlott össze; a halottak között hat felnőtt és két gyermek volt.\n\n• **Legalább 18 sérült** A ház romjai építőmunkásokat és lakókat temettek maguk alá.\n\n• **Vizsgálják az összeomlás okát** A hatóságok még nem állapították meg, mi vezetett a tragédiához, és azt is vizsgálják, történt-e bűncselekmény.\n\n• **Korábban repedéseket találtak** Egy márciusi jelentés az épület északi homlokzatán észlelt repedésekről számolt be, állapotát pedig rossznak minősítette.",
     "importance_score": 40.0,
     "top_rank": 17,
     "is_top_hero": false,
@@ -2066,6 +2066,214 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_c7229b6d86",
+    "slug": "itt-a-futball-uj-csodafegyvere-amely-akar-bl-gyozelmet-is-erhet-c7229b",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7261/72611/726113/72611397_5349951_37a8ff9836d2962de0ac4b369ab36daa_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Itt a futball új csodafegyvere, amely akár BL-győzelmet is érhet",
+        "link": "https://index.hu/sport/futball/2026/11/23/futballedzok-mesterseges-intelligencia-jovokep-kovacs-ronald-cube/"
+      }
+    ],
+    "published_at": 1795410960,
+    "title_hu": "Itt a futball új csodafegyvere, amely akár BL-győzelmet is érhet",
+    "lead_hu": "A mesterséges intelligenciából nem lesz Marco Rossi....",
+    "content_hu": "A mesterséges intelligenciából nem lesz Marco Rossi.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_91e25112ff",
+    "slug": "a-klapka-utcaban-rejtozik-a-fovaros-egyik-legjobb-pizzeriaja-es-valami-mas-is-am-91e251",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7260/72602/726021/72602141_5349329_842ad5fba9eaa6e12ecec5ff2bf59d25_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "A Klapka utcában rejtőzik a főváros egyik legjobb pizzériája, és valami más is, amiről muszáj írni",
+        "link": "https://index.hu/kultur/degusztator/2026/11/23/voila-gasztrobudapest-klapka-utca-pizza-gasztronomia-pierre-kritika-angyalfold/"
+      }
+    ],
+    "published_at": 1795410900,
+    "title_hu": "A Klapka utcában rejtőzik a főváros egyik legjobb pizzériája, és valami más is, amiről muszáj írni",
+    "lead_hu": "Voilá, ahogyan illik, ahogyan kell....",
+    "content_hu": "Voilá, ahogyan illik, ahogyan kell.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_7fc3a016f0",
+    "slug": "nyugalom-es-pezsges-ezt-keresik-lakasvasarlasnak-a-z-generacio-tagjai-7fc3a0",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/vlcsnap-2026-11-19-15h09m59s258-1024x576.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Nyugalom és pezsgés – ezt keresik lakásvásárlásnak a Z generáció tagjai",
+        "link": "https://24.hu/elet-stilus/2026/11/23/nyugalom-es-pezsges-ezt-keresik-lakasvasarlasnak-a-z-generacio-tagjai/"
+      }
+    ],
+    "published_at": 1795410898,
+    "title_hu": "Nyugalom és pezsgés – ezt keresik lakásvásárlásnak a Z generáció tagjai",
+    "lead_hu": "Az elmúlt években egyre erősebb trend figyelhető meg a fiatalok körében: a lakásválasztásnál a The post Nyugalom és pezsgés – ezt keresik lakásvásárlásnak a Z generáció tagjai first appeared on 24.hu....",
+    "content_hu": "Az elmúlt években egyre erősebb trend figyelhető meg a fiatalok körében: a lakásválasztásnál a The post Nyugalom és pezsgés – ezt keresik lakásvásárlásnak a Z generáció tagjai first appeared on 24.hu.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_af75c7297c",
+    "slug": "ujabb-hajot-ert-tamadas-a-kelet-libiai-partoknal-a-megtamadott-orosz-hajo-pedig--af75c7",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Újabb hajót ért támadás a kelet-líbiai partoknál, a megtámadott orosz hajó pedig elsüllyedt",
+        "link": "https://444.hu/2026/11/23/ujabb-hajot-ert-tamadas-a-kelet-libiai-partoknal-a-megtamadott-orosz-hajo-pedig-elsullyedt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1795410853,
+    "title_hu": "Újabb hajót ért támadás a kelet-líbiai partoknál, a megtámadott orosz hajó pedig elsüllyedt",
+    "lead_hu": "A kelet-líbiai kormány nemzetközi vizsgálatot kezdeményezett az ENSZ-nél az incidensek miatt....",
+    "content_hu": "A kelet-líbiai kormány nemzetközi vizsgálatot kezdeményezett az ENSZ-nél az incidensek miatt.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_9bc58ab727",
+    "slug": "udvaros-dorottya-vidnyanszky-attilarol-vilagosan-latszott-hogy-komoly-bajok-vann-9bc58a",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/4357/43577/435774/43577416_3325696_07e2ea59455c45a2031e9ce72c143618_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Udvaros Dorottya Vidnyánszky Attiláról: Világosan látszott, hogy komoly bajok vannak",
+        "link": "https://index.hu/kultur/2026/11/23/udvaros-dorottya-nyary-krisztian-vetkozes-vidnyanszky-attila-nemzeti-szinhaz/"
+      }
+    ],
+    "published_at": 1795410840,
+    "title_hu": "Udvaros Dorottya Vidnyánszky Attiláról: Világosan látszott, hogy komoly bajok vannak",
+    "lead_hu": "Félházakról, szünetben elmenő nézőkről is beszél az új életrajzi könyvében....",
+    "content_hu": "Félházakról, szünetben elmenő nézőkről is beszél az új életrajzi könyvében.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_43701550af",
+    "slug": "tulelni-a-stetseget-es-a-feleltetest-437015",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Túlélni a sötétséget és a feleltetést",
+        "link": "https://444.hu/2026/11/23/tulelni-a-sotetseget-es-a-feleltetest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      }
+    ],
+    "published_at": 1795410791,
+    "title_hu": "Túlélni a sötétséget és a feleltetést",
+    "lead_hu": "Azaz itt a 444 napindító hírlevele....",
+    "content_hu": "Azaz itt a 444 napindító hírlevele.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_d3c40674f1",
+    "slug": "az-ev-leghosszabb-hete-jn-a-parlamentben-tbb-trvenyt-is-atirna-a-kormany-d3c406",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7259/72596/725968/72596887_5348993_4a8612a1847bb6ddaf7d6ff16fefc863_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Az év leghosszabb hete jön a parlamentben, több törvényt is átírna a kormány",
+        "link": "https://index.hu/belfold/2026/11/23/orszaggyules-parlament-kormany-tisza-part-magyar-peter-torvenyjavaslat/"
+      }
+    ],
+    "published_at": 1795410780,
+    "title_hu": "Az év leghosszabb hete jön a parlamentben, több törvényt is átírna a kormány",
+    "lead_hu": "Sebességet vált az Országgyűlés....",
+    "content_hu": "Sebességet vált az Országgyűlés.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_35eba7336b",
+    "slug": "sulyos-valsagban-a-boraszatok-65-eve-nem-keszult-ilyen-keves-bor-a-vilagon-35eba7",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7264/72647/726479/72647951_5352447_cfda7314b2e8efa6e0d68215f5c61a99_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Súlyos válságban a borászatok: 65 éve nem készült ilyen kevés bor a világon",
+        "link": "https://index.hu/tudomany/2026/11/23/bortermeles-tortenelmi-melypont-hoseg-aszaly-fagyok/"
+      }
+    ],
+    "published_at": 1795410720,
+    "title_hu": "Súlyos válságban a borászatok: 65 éve nem készült ilyen kevés bor a világon",
+    "lead_hu": "Kettős csapás sújtja az ipart....",
+    "content_hu": "Kettős csapás sújtja az ipart.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_4e884d1d92",
     "slug": "megnyilik-az-ut-az-energetikai-beruhazasok-elott-milliardos-fejleszteseket-jelen-4e884d",
     "tags": [
@@ -2164,6 +2372,32 @@
     "title_hu": "Ez a két akkumlátoros kerti gép ősszel nyújt elengedhetetlen segítséget",
     "lead_hu": "Fieldmann-gépeket próbáltunk ki: egy lombszívó-fúvót és egy gyepszellőztetőt, hogy kiderüljön, mennyire könnyítik meg a ház körüli munkát az ősz beköszöntével. The post Ez a két akkumlátoros kerti gép...",
     "content_hu": "Fieldmann-gépeket próbáltunk ki: egy lombszívó-fúvót és egy gyepszellőztetőt, hogy kiderüljön, mennyire könnyítik meg a ház körüli munkát az ősz beköszöntével. The post Ez a két akkumlátoros kerti gép ősszel nyújt elengedhetetlen segítséget first appeared on 24.hu.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_49049fe58b",
+    "slug": "top-szakember-de-bizonyitania-kell-hogy-nem-a-tisza-embere-portre-kert-attilarol-49049f",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/dlape20261121002-e1795379289428-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "„Top szakember”, de „bizonyítania kell, hogy nem a Tisza embere” – portré Kert Attiláról, a közmédia új vezérigazgatójáról",
+        "link": "https://24.hu/kozelet/2026/11/23/kozmedia-vezerigazgato-kert-attila-portre/"
+      }
+    ],
+    "published_at": 1795410068,
+    "title_hu": "„Top szakember”, de „bizonyítania kell, hogy nem a Tisza embere” – portré Kert Attiláról, a közmédia új vezérigazgatójáról",
+    "lead_hu": "Határozott, ugyanakkor önreflexióra képes vezetőként meséltek róla munkatársai, de van, aki szerint megválasztására rávetül a politikai megállapodás gyanúja. The post „Top szakember”, de „bizonyítania...",
+    "content_hu": "Határozott, ugyanakkor önreflexióra képes vezetőként meséltek róla munkatársai, de van, aki szerint megválasztására rávetül a politikai megállapodás gyanúja. The post „Top szakember”, de „bizonyítania kell, hogy nem a Tisza embere” – portré Kert Attiláról, a közmédia új vezérigazgatójáról first appeared on 24.hu.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -12310,78 +12544,52 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_c564a40015",
-    "slug": "michelisz-dupla-dobogoval-es-bronzzal-zarta-a-szez-c564a4",
+    "group_id": "group_709ca8f3d0",
+    "slug": "fodor-gabor-a-fidesz-a-tisza-politikai-valosagshow-janak-kellekeve-valt-709ca8",
     "tags": [
       "politika"
     ],
     "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261122/1795324306-temp-meqilp4u2si05hdpmgh_cimlap-normal.jpg",
+    "image": "https://kep.index.hu/1/0/7265/72653/726535/72653529_5352887_b8569dc457c1580c10764e769164dd37_wm.jpg",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
-        "source": "Telex - Belföld",
-        "title": "Michelisz dupla dobogóval és bronzzal zárta a szezont, Azcona a bajnok",
-        "link": "https://telex.hu/sport/2026/11/22/tcr-world-tour-turaauto-michelisz-norbert-makao-szezonzaro"
+        "source": "Index - Címlap",
+        "title": "Fodor Gábor: A Fidesz a Tisza politikai valóságshow-jának kellékévé vált",
+        "link": "https://index.hu/velemeny/2026/11/23/magyar-peter-kozbeszed-tisza-kormany-parlament-politika-populizmus-orban-viktor-fidesz-ensz/"
       }
     ],
-    "published_at": 1795324539,
-    "title_hu": "Michelisz dupla dobogóval és bronzzal zárta a szezont, Azcona a bajnok",
-    "lead_hu": "A magyar pilóta remekül teljesített a szezonzáró makaói hétvégén, a Hyundai nagyon jó idényt zárt.",
-    "content_hu": "A magyar pilóta remekül teljesített a szezonzáró makaói hétvégén, a Hyundai nagyon jó idényt zárt.",
+    "published_at": 1795410720,
+    "title_hu": "Fodor Gábor: A Fidesz a Tisza politikai valóságshow-jának kellékévé vált",
+    "lead_hu": "A volt miniszter szerint Orbán Viktor ENSZ-főtitkársága a Fidesznek és a Tiszának egyaránt jót tenne....",
+    "content_hu": "A volt miniszter szerint Orbán Viktor ENSZ-főtitkársága a Fidesznek és a Tiszának egyaránt jót tenne.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
     "is_top_list": false
   },
   {
-    "group_id": "group_69cf73da86",
-    "slug": "elhunyt-paolo-bulgari-luxusekszeresz-aki-vilagmark-69cf73",
+    "group_id": "group_26d051bec0",
+    "slug": "minden-lehetseges-szoboszlai-hatarozott-uzenetet-kuldtt-a-szurkoloknak-a-bombago-26d051",
     "tags": [
-      "gazdasag"
+      "altalanos"
     ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/J-aq-AyI0hik8noVW55kJ1t5C1tQ2AUozjAfcLS5Ysg/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIxLzU5ZTU3MjY0ZTFkMDNjMDQ4MGNkM2VjOGU4YTk1MWI5NjkxZjhiYjIxOTBlNDU3MDIyOWI0NTIyOGU0MTc0ZWE.jpg",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7265/72653/726538/72653811_5352909_32e4c566b0d4a9e066aea627714251a6_wm.jpg",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
-        "source": "Világgazdaság",
-        "title": "Elhunyt Paolo Bulgari luxusékszerész, aki világmárkává tette a római családi ékszerházat",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/elhunyt-paolo-bulgari-luxusekszeresz-aki-vilagmarkava-tette-a-romai-csaladi-ekszerhazat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "Index - Címlap",
+        "title": "„Minden lehetséges” – Szoboszlai határozott üzenetet küldött a szurkolóknak a bombagólja után",
+        "link": "https://index.hu/sport/futball/2026/11/23/szoboszlai-dominik-szabadrugas-gol-liverpool-manchester-united-premier-league/"
       }
     ],
-    "published_at": 1795324406,
-    "title_hu": "Elhunyt Paolo Bulgari luxusékszerész, aki világmárkává tette a római családi ékszerházat",
-    "lead_hu": "89 évesen elhunyt Paolo Bulgari, aki világmárkává tette a római családi ékszerházat. Az LVMH 2011-ben 3,7 milliárd euróra értékelt ügyletben szerezte meg a céget.",
-    "content_hu": "89 évesen elhunyt Paolo Bulgari, aki világmárkává tette a római családi ékszerházat. Az LVMH 2011-ben 3,7 milliárd euróra értékelt ügyletben szerezte meg a céget.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_db8812e1a7",
-    "slug": "pont-azokat-hagyja-cserben-akiktol-felhatalmazast--db8812",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/sCwTDyoR81lMfcYvNcQsKrpGLPQ5QGydDWcZ5oZS5Pw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTgvNDk2YTYyOWM2OWQ0YmFiZTQ4MmIwMTc1YWE5MDU2NDhhNDVjYWY0MGFiYTgxOGUyNjgyZWFmYWFmZTEwZThlNw.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Pont azokat hagyja cserben, akiktől felhatalmazást kapott Magyar Péter",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/magyar-peter-nem-talalkozki-az-egyeni-valasztokeruleteben-elokkel-cserbenhagyas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795324210,
-    "title_hu": "Pont azokat hagyja cserben, akiktől felhatalmazást kapott Magyar Péter",
-    "lead_hu": "A miniszterelnök nem hajlandó találkozni az egyéni választókerületében élőkkel.",
-    "content_hu": "A miniszterelnök nem hajlandó találkozni az egyéni választókerületében élőkkel.",
+    "published_at": 1795410600,
+    "title_hu": "„Minden lehetséges” – Szoboszlai határozott üzenetet küldött a szurkolóknak a bombagólja után",
+    "lead_hu": "A Liverpool játékosát a piros lapról is kérdezték....",
+    "content_hu": "A Liverpool játékosát a piros lapról is kérdezték.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
