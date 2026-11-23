@@ -89,135 +89,6 @@
     ]
   },
   {
-    "group_id": "group_17ab7e9de5",
-    "category": "Politika",
-    "articles_count": 10,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Jönnek a hajnali fagyok, a jövő héten már havazhat is",
-        "link": "https://hvg.hu/itthon/20261122_idojaras-elorejelzes-hideg-elso-havazas-mediterran-ciklon",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7e41749d-7e87-46cb-a3f6-d0e9d8256121.jpg",
-        "summary": "Szerdára virradóra országszerte fagyni fog, helyenként mínusz 10 fokig is hűlhet a levegő. Csütörtökre pedig egy újabb mediterrán ciklon érkezhet, amely meghozhatja az idei első jelentősebb havazást.",
-        "category": "Politika",
-        "published_at": 1795335961
-      },
-      {
-        "source": "ATV",
-        "title": "Viharos idő és havas eső csap le hétfőn, 70 km/órás széllökésekre is készülni kell",
-        "link": "https://www.atv.hu/belfold/20261122/ido-havas-eso-hetfo-szellokes/",
-        "image": "https://www.youtube.com/embed/S8KdDXTCk_g",
-        "summary": "A Dunántúl egyes részein akár 70 km/órás viharos széllökések is előfordulhatnak. A Dunántúli- és az Északi-középhegységben havas eső válthatja az esőt, északkeleten pedig hózáporok is kialakulhatnak hétfőn.",
-        "category": "Általános",
-        "published_at": 1795360560
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "A jövő héten leesik az első hó az idei télen",
-        "link": "https://24.hu/belfold/2026/11/22/idojaras-jovo-het-havazas/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1064222299-e1795361381529-1024x577.jpg",
-        "summary": "Már hétfőn eshet, az északkeleti tájakon várhatók hózáporok. The post A jövő héten leesik az első hó az idei télen first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795361476
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Sarkvidéki hideg tör be Magyarországra, viharos szél és hózáporok jöhetnek",
-        "link": "https://index.hu/belfold/2026/11/22/idojaras-elorejelzes-radar-hideg-ho-havazas-vihar/",
-        "image": "https://kep.index.hu/1/0/5446/54465/544658/54465863_4023837_3af096640dce455213982604434b18f3_wm.jpg",
-        "summary": "Téliesre fordul az időjárás.",
-        "category": "Általános",
-        "published_at": 1795367700
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Egyre jobbak a hóesélyek Magyarországon: nem csak a hegyekben hullhat",
-        "link": "https://www.portfolio.hu/gazdasag/20261122/egyre-jobbak-a-hoeselyek-magyarorszagon-nem-csak-a-hegyekben-hullhat-878316",
-        "image": "https://pcdn.hu/articles/images-md/h/a/v/havazas-hoeses-havazas-magyarorszagon-ho-magyarorszag-magyarorszag-ho-ho-idojaras-idoj-716006.jpg",
-        "summary": "Jövő csütörtök estére az ország több pontját, legfőképpen az északnyugati országrészt és az északi hegyvidékeket összefüggő hóréteg boríthatja be. A télies fordulatot egy északról érkező fagyos légtömeg és egy csapadékos mediterrán ciklon találkozása hozza el - írta az Időkép.",
-        "category": "Gazdaság",
-        "published_at": 1795367640
-      },
-      {
-        "source": "ATV",
-        "title": "Havazással és éjszakai fagyokkal fordul hidegebbre az idő, kemény hét vár ránk",
-        "link": "https://www.atv.hu/belfold/20261123/havazas-fagy-hideg-ido/",
-        "image": "https://www.youtube.com/embed/pCX-Lxwz20Q",
-        "summary": "A HungaroMet előrejelzése szerint téliesre fordul az idő: a hét elején hideg, napos és szeles idő várható éjszakai fagyokkal, csütörtöktől pedig csapadékosra, borultra fordul az időjárás, amely során havazás és havas eső is előfordulhat.",
-        "category": "Általános",
-        "published_at": 1795408500
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Kemény tél csap le Magyarországra: mínusz 10 fokos fagy és havazás is jön a héten",
-        "link": "https://index.hu/belfold/2026/11/23/idojaras-elorejelzes-ho-havazas-hozapor-november-telies-ido/",
-        "image": "https://kep.index.hu/1/0/6849/68494/684941/68494163_5055999_e995873b2585cf2fd03409f6e3392653_wm.jpg",
-        "summary": "Téliesre fordul az időjárás november utolsó hetében.",
-        "category": "Általános",
-        "published_at": 1795410180
-      },
-      {
-        "source": "Bors",
-        "title": "Mínuszokkal indul a hét: akár hózápor is lehet a hegyekben",
-        "link": "https://borsonline.origo.hu/kozelet/2026/11/idojaras-minuszokkal-indul-a-het",
-        "image": "https://cdn.borsonline.hu/2026/11/Ol2aQYovBko5berSRO__31-YR8FkHdKpo7Koe5-FTUA/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzEyL2UwZTVhY2JkZDYxNmNhYTVjZWYyZTI5MzFjNzliZWQzZDEyMjhkYWJkNzEyMmUwMGZkZmJmNjQyZGQ2Mzk4ZDk.jpg",
-        "summary": "A hegyekben már érezni a tél közeledtét, napközben pedig hózáporok is jöhetnek. Íme, milyen időjárással indul a hét!",
-        "category": "Bulvár",
-        "published_at": 1795413600
-      },
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Téliesre fordul az időjárás, a héten már jöhet az első havazás",
-        "link": "https://nlc.hu/ezvan/20261123/idojaras-elorejelzes-havazas/8ylwnw3",
-        "image": "",
-        "summary": "Havazással és kőkemény fagyokkal fordul hidegebbre az idő. A héten már hózáporok jöhetnek. The post Téliesre fordul az időjárás, a héten már jöhet az első havazás first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1795417800
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Beköszönt a tél - napokon belül lehullhat az első hó",
-        "link": "https://www.vadhajtasok.hu/2026/11/22/bekoszont-a-tel-napokon-belul-lehullhat-az-elso-ho",
-        "image": "",
-        "summary": "A legnagyobb valószínűség szerint északnyugatot és az északi csúcsokat fedheti be csütörtök estére a hó.",
-        "category": "Politika",
-        "published_at": 1795384800
-      }
-    ]
-  },
-  {
-    "group_id": "group_e0e4e0847e",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Változtatásokat javasolnak a katában a kreatív ipar szereplői",
-        "link": "https://magyarnemzet.hu/gazdasag/2026/11/kata-valtoztatasokat-javasolnak-a-kreativ-ipar-szereploi?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/jRBubETiJ43whG_0Q66ljPE5jmAQzrNQ4sHDunAybmE/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjAvNzVkZTAwMGVlNThhZTRlYWI0OTNjMTBmMDYwMjQ0N2RkMTgwZjlhZTZiZmE1YWJlYjFjYTk4MDFlMzYxYzhjNw.jpg",
-        "summary": "A tervezet nem veszi kellőképpen figyelembe a projektalapú munkavégzés sajátosságait.",
-        "category": "Politika",
-        "published_at": 1795335961
-      }
-    ]
-  },
-  {
-    "group_id": "group_7b95f07763",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "„Egyetlen idióta képes hatalmas káoszt okozni\" – a poklot járja a magyar futball egykori kirakatcsapata",
-        "link": "https://index.hu/sport/futball/2026/11/22/videoton-szekesfehervar-nb-ii-tulajdonos-palyazat-nav-vizsgalat-cser-palkovics-andras-szurkolok-helyszini-riport/",
-        "image": "https://kep.index.hu/1/0/7264/72646/726465/72646543_5352337_643b5350a99a2ab2a2dc923a02c6b20f_wm.jpg",
-        "summary": "Cser-Palkovics András abban bízik, hogy december közepére új tulajdonosa lesz a Videotonnak.",
-        "category": "Általános",
-        "published_at": 1795336080
-      }
-    ]
-  },
-  {
     "group_id": "group_593d056a82",
     "category": "Politika",
     "articles_count": 2,
@@ -1868,7 +1739,7 @@
         "image": "",
         "summary": "A költségvetésről folytatott tárgyalásokat tovább nehezíti, hogy a német kancellár a közelmúltban összekapcsolta azokat az Ukrajnának nyújtandó új segélyek finanszírozásáról szóló megbeszélésekkel.",
         "category": "Politika",
-        "published_at": 1795392000
+        "published_at": 1795416180
       }
     ]
   },
@@ -3937,6 +3808,94 @@
         "summary": "Cshö Kjo-dzsin teljes felelősséget vállalt a csütörtöki egyetemi felvételi vizsga miatt okozott zavarért.",
         "category": "Politika",
         "published_at": 1795360191
+      }
+    ]
+  },
+  {
+    "group_id": "group_17ab7e9de5",
+    "category": "Általános",
+    "articles_count": 9,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Viharos idő és havas eső csap le hétfőn, 70 km/órás széllökésekre is készülni kell",
+        "link": "https://www.atv.hu/belfold/20261122/ido-havas-eso-hetfo-szellokes/",
+        "image": "https://www.youtube.com/embed/S8KdDXTCk_g",
+        "summary": "A Dunántúl egyes részein akár 70 km/órás viharos széllökések is előfordulhatnak. A Dunántúli- és az Északi-középhegységben havas eső válthatja az esőt, északkeleten pedig hózáporok is kialakulhatnak hétfőn.",
+        "category": "Általános",
+        "published_at": 1795360560
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "A jövő héten leesik az első hó az idei télen",
+        "link": "https://24.hu/belfold/2026/11/22/idojaras-jovo-het-havazas/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1064222299-e1795361381529-1024x577.jpg",
+        "summary": "Már hétfőn eshet, az északkeleti tájakon várhatók hózáporok. The post A jövő héten leesik az első hó az idei télen first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795361476
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Sarkvidéki hideg tör be Magyarországra, viharos szél és hózáporok jöhetnek",
+        "link": "https://index.hu/belfold/2026/11/22/idojaras-elorejelzes-radar-hideg-ho-havazas-vihar/",
+        "image": "https://kep.index.hu/1/0/5446/54465/544658/54465863_4023837_3af096640dce455213982604434b18f3_wm.jpg",
+        "summary": "Téliesre fordul az időjárás.",
+        "category": "Általános",
+        "published_at": 1795367700
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Egyre jobbak a hóesélyek Magyarországon: nem csak a hegyekben hullhat",
+        "link": "https://www.portfolio.hu/gazdasag/20261122/egyre-jobbak-a-hoeselyek-magyarorszagon-nem-csak-a-hegyekben-hullhat-878316",
+        "image": "https://pcdn.hu/articles/images-md/h/a/v/havazas-hoeses-havazas-magyarorszagon-ho-magyarorszag-magyarorszag-ho-ho-idojaras-idoj-716006.jpg",
+        "summary": "Jövő csütörtök estére az ország több pontját, legfőképpen az északnyugati országrészt és az északi hegyvidékeket összefüggő hóréteg boríthatja be. A télies fordulatot egy északról érkező fagyos légtömeg és egy csapadékos mediterrán ciklon találkozása hozza el - írta az Időkép.",
+        "category": "Gazdaság",
+        "published_at": 1795367640
+      },
+      {
+        "source": "ATV",
+        "title": "Havazással és éjszakai fagyokkal fordul hidegebbre az idő, kemény hét vár ránk",
+        "link": "https://www.atv.hu/belfold/20261123/havazas-fagy-hideg-ido/",
+        "image": "https://www.youtube.com/embed/pCX-Lxwz20Q",
+        "summary": "A HungaroMet előrejelzése szerint téliesre fordul az idő: a hét elején hideg, napos és szeles idő várható éjszakai fagyokkal, csütörtöktől pedig csapadékosra, borultra fordul az időjárás, amely során havazás és havas eső is előfordulhat.",
+        "category": "Általános",
+        "published_at": 1795408500
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kemény tél csap le Magyarországra: mínusz 10 fokos fagy és havazás is jön a héten",
+        "link": "https://index.hu/belfold/2026/11/23/idojaras-elorejelzes-ho-havazas-hozapor-november-telies-ido/",
+        "image": "https://kep.index.hu/1/0/6849/68494/684941/68494163_5055999_e995873b2585cf2fd03409f6e3392653_wm.jpg",
+        "summary": "Téliesre fordul az időjárás november utolsó hetében.",
+        "category": "Általános",
+        "published_at": 1795410180
+      },
+      {
+        "source": "Bors",
+        "title": "Mínuszokkal indul a hét: akár hózápor is lehet a hegyekben",
+        "link": "https://borsonline.origo.hu/kozelet/2026/11/idojaras-minuszokkal-indul-a-het",
+        "image": "https://cdn.borsonline.hu/2026/11/Ol2aQYovBko5berSRO__31-YR8FkHdKpo7Koe5-FTUA/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzEyL2UwZTVhY2JkZDYxNmNhYTVjZWYyZTI5MzFjNzliZWQzZDEyMjhkYWJkNzEyMmUwMGZkZmJmNjQyZGQ2Mzk4ZDk.jpg",
+        "summary": "A hegyekben már érezni a tél közeledtét, napközben pedig hózáporok is jöhetnek. Íme, milyen időjárással indul a hét!",
+        "category": "Bulvár",
+        "published_at": 1795413600
+      },
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Téliesre fordul az időjárás, a héten már jöhet az első havazás",
+        "link": "https://nlc.hu/ezvan/20261123/idojaras-elorejelzes-havazas/8ylwnw3",
+        "image": "",
+        "summary": "Havazással és kőkemény fagyokkal fordul hidegebbre az idő. A héten már hózáporok jöhetnek. The post Téliesre fordul az időjárás, a héten már jöhet az első havazás first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1795417800
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Beköszönt a tél - napokon belül lehullhat az első hó",
+        "link": "https://www.vadhajtasok.hu/2026/11/22/bekoszont-a-tel-napokon-belul-lehullhat-az-elso-ho",
+        "image": "",
+        "summary": "A legnagyobb valószínűség szerint északnyugatot és az északi csúcsokat fedheti be csütörtök estére a hó.",
+        "category": "Politika",
+        "published_at": 1795384800
       }
     ]
   },
@@ -8610,7 +8569,7 @@
         "image": "",
         "summary": "Nem sikerült megállítani a magyarországi beruházások visszaesését, sőt a harmadik negyedévben ismét jelentősen romlott a helyzet. Különösen aggasztó, hogy éppen a feldolgozóipar teljesítménye húzza lefelé a mutatókat, miközben a vállalkozások és az...",
         "category": "Politika",
-        "published_at": 1795422207
+        "published_at": 1795422642
       }
     ]
   },
@@ -9123,6 +9082,54 @@
         "summary": "Barokk, romantika, impresszionizmus vagy szürrealizmus? A művészeti irányzatok neveit talán könnyű felidézni, de vajon a festményeket is hozzájuk tudod rendelni? Kvízünkben tíz alkotásról kell eldöntened, melyik korstílushoz tartoznak. Lássuk, mennyire vagy otthon a művészettörténetben! The post Kvíz: reneszánsz, impresszionista vagy avantgárd? Találd ki, melyik korszakban készültek ezek a festmények first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795420980
+      }
+    ]
+  },
+  {
+    "group_id": "group_2dbf45fa38",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Rendőrautó és villamos ütközött Budapesten",
+        "link": "https://hvg.hu/cegauto/20261123_budapest-4-6-os-17-es-villamos-baleset-utkozes-rendorauto",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8f3824b9-2992-43a1-bafe-f195e0648998.jpg",
+        "summary": "A rendőrség vizsgálja a baleset körülményeit.",
+        "category": "Politika",
+        "published_at": 1795422292
+      }
+    ]
+  },
+  {
+    "group_id": "group_2896cd7113",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Felmérés: a németek közel fele Ukrajna támogatásának leállítását követeli",
+        "link": "https://www.vadhajtasok.hu/2026/11/23/felmeres-a-nemetek-kozel-fele-ukrajna-tamogatasanak-leallitasat-koveteli",
+        "image": "",
+        "summary": "A Die Welt megbízásából készült YouGov-felmérés szerint a németek közel fele szeretné, ha Berlin csökkentené vagy teljesen leállítaná a kijevi rezsimnek nyújtott segítséget. Hasonló arányú válaszadó szeretné azt is, hogy Friedrich Merz kance...",
+        "category": "Politika",
+        "published_at": 1795392000
+      }
+    ]
+  },
+  {
+    "group_id": "group_4b8f6cebad",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Bors",
+        "title": "91 éve született Törőcsik Mari – 8 kérdéses kvíz a magyar film legendájáról",
+        "link": "https://borsonline.origo.hu/kviz/2026/11/torocsik-mari-szuletesnap-kviz",
+        "image": "https://cdn.borsonline.hu/2026/11/8s_MTbhRMu8LCeZKEMJ5hJIa5uRQ5IogMIKQ1p_1TRk/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzE5L2MwMjdmM2I0NTRkYWMwMGUxYmQ1NmY5YTcyNzNhMTQzYWZlMDYyMzk1Y2I5YzRmZTQxMzQwNDMyNmM3OTI4NGE.jpg",
+        "summary": "Teszteld magad kvízünkkel!",
+        "category": "Bulvár",
+        "published_at": 1795422600
       }
     ]
   }
