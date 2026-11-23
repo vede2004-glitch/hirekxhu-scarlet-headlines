@@ -73,47 +73,6 @@
     ]
   },
   {
-    "group_id": "group_cb510a5f32",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Marine Le Pen visszautasította Volodimir Zelenszkij kijevi meghívását",
-        "link": "https://index.hu/kulfold/2026/11/22/marine-le-pen-volodimir-zelenszkij-talalkozo-ukrajna-kijev-brusszel/",
-        "image": "https://kep.index.hu/1/0/7265/72653/726533/72653329_5352873_2950bce4619604ff0c5317ae7b32d75c_wm.jpg",
-        "summary": "Brüsszelben találkozna az ukrán elnökkel.",
-        "category": "Politika",
-        "published_at": 1795371900
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Nemet mondott Zelenszkij meghívására Marine Le Pen",
-        "link": "https://www.vadhajtasok.hu/2026/11/22/nemet-mondott-zelenszkij-meghivasara-marine-le-pen",
-        "image": "",
-        "summary": "A Nemzeti Tömörülés jelöltje azt javasolta, hogy a találkozójukat inkább Brüsszelben tartsák, mivel az a megfelelő hely egy eszmecseréhez Ukrajna „finanszírozásáról”.",
-        "category": "Politika",
-        "published_at": 1795374660
-      }
-    ]
-  },
-  {
-    "group_id": "group_8f7c9030b2",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Olasz rendező az Indexnek: Giorgia Meloni politikai eszközként használja a kereszténységet",
-        "link": "https://index.hu/kultur/2026/11/22/pierfrancesco-diliberto-pif-isten-mindenkinek-megbocsat-film-rendezo-olaszorszag/",
-        "image": "https://kep.index.hu/1/0/7258/72586/725861/72586123_5348345_692e2ef3703bad7afa3e816af1defb8f_wm.jpg",
-        "summary": "Vígjátékát XIV. Leó pápa hittanároknak ajánlotta.",
-        "category": "Általános",
-        "published_at": 1795371840
-      }
-    ]
-  },
-  {
     "group_id": "group_29154ac158",
     "category": "Politika",
     "articles_count": 1,
@@ -456,6 +415,22 @@
         "summary": "A Jaguar Land Rover indított pert a BYD-val szemben, viszont hiába nyertek, pont ott nem lesz hatása, ahol ennek jelentősége lenne. The post Betiltották a BYD egyik városi terepjáróját az EU-ban first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1795373625
+      }
+    ]
+  },
+  {
+    "group_id": "group_cb510a5f32",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Nemet mondott Zelenszkij meghívására Marine Le Pen",
+        "link": "https://www.vadhajtasok.hu/2026/11/22/nemet-mondott-zelenszkij-meghivasara-marine-le-pen",
+        "image": "",
+        "summary": "A Nemzeti Tömörülés jelöltje azt javasolta, hogy a találkozójukat inkább Brüsszelben tartsák, mivel az a megfelelő hely egy eszmecseréhez Ukrajna „finanszírozásáról”.",
+        "category": "Politika",
+        "published_at": 1795374660
       }
     ]
   },
@@ -3942,7 +3917,7 @@
   {
     "group_id": "group_78f13a22c5",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -3970,6 +3945,15 @@
         "summary": "Kilyukadt gumi és a közbeszéd színvonala, Seszták-ügy, Bús Balázs, Orbán Viktor külföldi útjai – egyebek mellett ezekről beszéltünk Hunyadi Bulcsúval, a Political Capital elemzőjével.",
         "category": "Politika",
         "published_at": 1795451307
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Már a Fidesz volt frakcióvezetője is a parlament otthagyásáról beszél: sokasodnak a kérdőjelek az ellenzék előtt Magyar Péter őrült terve után – \"Hétről hétre mérlegelni kell\"",
+        "link": "https://www.vg.hu/kozelet/2026/11/gulyas-gergely-kozossegi-media-politikai-kommunikacio?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/c9KrDr5KWcGuIm2xHO1p9aGxg8DCmu8bN715z4bQib0/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIzL2EyMTM3NThjYzc3MzdhOWQ0ZTNiYjBiYTFiZmIwMjg3OWI3YzA4Nzg4MGNkMTc4MDA2MTBjYWVmMjc2YTYyMjA.jpg",
+        "summary": "A közösségi média lett a politikai kommunikáció elsődleges terepe, ahol már órákig sem lehet várni egy fontos hír megválaszolásával.",
+        "category": "Politika",
+        "published_at": 1795458544
       }
     ]
   },
@@ -12298,6 +12282,38 @@
         "summary": "Minden alkalommal részvényekben fürödtek volna a futballvezetők, amikor az önkényesen megállapított cégérték 1 milliárd dollárral emelkedett volna.",
         "category": "Politika",
         "published_at": 1795457940
+      }
+    ]
+  },
+  {
+    "group_id": "group_c7202e011c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Memorandum született a V4-csúcstalálkozón, sajtótájékoztatót tartanak a kormányfők",
+        "link": "https://index.hu/kulfold/2026/11/23/v4-visegradi-negyek-csucstalalkozo-pozsony-magyar-peter-robert-fico-andrej-babis-donald-tusk-christian-stocker/",
+        "image": "https://kep.index.hu/1/0/7266/72665/726654/72665433_5353709_e36c34530e9ea786d7c3218e48032f77_wm.jpg",
+        "summary": "Magyar Péter, Andrej Babis, Donald Tusk, Robert Fico és Christian Stocker Pozsonyban egyeztetett.",
+        "category": "Politika",
+        "published_at": 1795458540
+      }
+    ]
+  },
+  {
+    "group_id": "group_31ae686a93",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Hidegzuhany: elismerte Kármán András helyettese, a kormány vizsgálja az állampapírok adómentességét, több millió magyar megtakarítását érintheti a döntés",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/allampapirok-adomentesseg-vizsgalat-kormany-brusszel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/10/QmkLH9772VfiF0uVP_jcF-jWmAexJi-oGp3AXLiCDA4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdkNjkxOTQ5YWVlNTQ3MzI4MGM0NTgzZTYyY2E0NjVh.jpg",
+        "summary": "Brüsszel korábban komoly elvárásokat fogalmazott meg.",
+        "category": "Politika",
+        "published_at": 1795457992
       }
     ]
   }
