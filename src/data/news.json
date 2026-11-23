@@ -2703,36 +2703,31 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_f27da252f0",
-    "slug": "magyar-peter-biralta-az-unios-kltsegvetesi-tervet-f27da2",
+    "group_id": "group_f06da1d2c3",
+    "slug": "magyar-sesztak-a-tbbi-bunzovel-kirabolta-az-orszag-f06da1",
     "tags": [
-      "magyar-peter",
-      "eu-koltsegvetes",
-      "karpatalja",
-      "pozsony"
+      "politika"
     ],
-    "fingerprint": "c25a8836980c4780484d024284951b40",
     "category": "Politika",
     "image": "https://s.24.hu/app/uploads/2026/11/d__hr20261116019-e1795427510867-1024x577.jpg",
-    "is_synthesized": true,
-    "rejected": false,
+    "is_synthesized": false,
     "sources_count": 2,
     "sources": [
       {
         "source": "24.hu - Legfrissebb",
-        "title": "Kárpátaljára utazik Magyar Péter",
-        "link": "https://24.hu/kozelet/2026/11/23/karpataljara-utazik-magyar-peter/"
+        "title": "Magyar: Seszták a többi bűnözővel kirabolta az országot",
+        "link": "https://24.hu/kozelet/2026/11/23/magyar-sesztak-a-tobbi-bunozovel-kirabolta-az-orszagot/"
       },
       {
-        "source": "ATV",
-        "title": "Elhangzott a parlamentben: Magyarországnak többet kellene befizetni, nem tudják elfogadni az EU elképzelését",
-        "link": "https://www.atv.hu/belfold/20261123/parlament-eu-koltsegvetes-magyarorszag/"
+        "source": "Hír TV",
+        "title": "Rétvári Bence: Magyar Péterék átverték az embereket",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/retvari-bence-magyar-peter-sesztak-fabo-parlament"
       }
     ],
-    "published_at": 1795437780,
-    "title_hu": "Magyar Péter bírálta az uniós költségvetési tervet",
-    "lead_hu": "Magyar Péter az Országgyűlésben arról beszélt, hogy az Európai Unió új, hétéves költségvetése hátrányosan érintheti Magyarországot. A tervet azért is kifogásolta, mert szerinte az ország befizetései emelkednének.",
-    "content_hu": "• **Magyarország befizetései nőhetnek** Magyar Péter szerint az uniós költségvetési elképzelés elfogadása nagyobb magyar hozzájárulást jelentene, ezért a terv hátrányos lenne az országnak.\n\n• **A költségvetésről külön kell megállapodni** A magyar kormány álláspontja szerint a hétéves büdzséről a 27 tagállamnak önállóan kell egyezségre jutnia, és a folyamat nem köthető más tárgyalásokhoz, így az Ukrajnával kapcsolatosakhoz sem.\n\n• **Magyar Péter Kárpátaljára készül** A politikus azt mondta, megválasztott miniszterelnökként visszatér a térségbe, hogy az anyaország támogatásáról biztosítsa az ott élőket.\n\n• **Pozsonyban folytatódnak az egyeztetések** A parlamenti felszólalás után a tervek szerint a szlovák fővárosba utazik, ahol a közép-európai felzárkóztatási támogatásokról tárgyalnak tovább.",
+    "published_at": 1795438178,
+    "title_hu": "Magyar: Seszták a többi bűnözővel kirabolta az országot",
+    "lead_hu": "A miniszterelnök hangsúlyozta, hogy „igen, Seszták Miklós a többi bűnözővel közösen\" kirabolta az országot, így a hatóság nem véletlenül végzett lefoglalásokat 9 milliárd értékben az ügyben, és nem vé…",
+    "content_hu": "A miniszterelnök hangsúlyozta, hogy „igen, Seszták Miklós a többi bűnözővel közösen\" kirabolta az országot, így a hatóság nem véletlenül végzett lefoglalásokat 9 milliárd értékben az ügyben, és nem véletlenül került zár alá Seszták háza és autószalonja is. The post Magyar: Seszták a többi bűnözővel kirabolta az országot first appeared on 24.hu.",
     "importance_score": 28.0,
     "top_rank": 56,
     "is_top_hero": false,
@@ -3680,6 +3675,32 @@
     "top_rank": 83,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_b383c2d457",
+    "slug": "sokkolo-pisa-eredmenyek-utan-lepett-dania-kitiltjak-a-mobilokat-az-iskolakbol-b383c2",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7266/72663/726632/72663219_5353553_dea01f2118e7a1021cb39496e6332606_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Sokkoló PISA-eredmények után lépett Dánia, kitiltják a mobilokat az iskolákból",
+        "link": "https://index.hu/kulfold/2026/11/23/dania-okostelefon-hasznalat-iskolak-tiltas/"
+      }
+    ],
+    "published_at": 1795449120,
+    "title_hu": "Sokkoló PISA-eredmények után lépett Dánia, kitiltják a mobilokat az iskolákból",
+    "lead_hu": "A korlátozás a 10. évfolyam végéig lesz érvényben....",
+    "content_hu": "A korlátozás a 10. évfolyam végéig lesz érvényben.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_f7e26c6fb8",
@@ -6510,32 +6531,6 @@
     "title_hu": "Nőtt a kockázata a technikai recessziónak Franciaországban",
     "lead_hu": "Kitartott az euróövezet gazdasági növekedése novemberben, ám a bővülés egyre inkább a lendületesen fejlődő Németországra támaszkodik, amely ellensúlyozza a gyengélkedő francia gazdaságot. Bár a térség…",
     "content_hu": "Kitartott az euróövezet gazdasági növekedése novemberben, ám a bővülés egyre inkább a lendületesen fejlődő Németországra támaszkodik, amely ellensúlyozza a gyengélkedő francia gazdaságot. Bár a térség teljesítménye sorozatban az ötödik hónapja javul, a romló üzleti bizalom árnyékot vet a kilátásokra, a tartós árnyomás miatt pedig újabb jegybanki kamatemelés jöhet.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_f06da1d2c3",
-    "slug": "magyar-sesztak-a-tbbi-bunzovel-kirabolta-az-orszag-f06da1",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://s.24.hu/app/uploads/2026/11/d__hr20261116019-e1795427510867-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Magyar: Seszták a többi bűnözővel kirabolta az országot",
-        "link": "https://24.hu/kozelet/2026/11/23/magyar-sesztak-a-tobbi-bunozovel-kirabolta-az-orszagot/"
-      }
-    ],
-    "published_at": 1795438178,
-    "title_hu": "Magyar: Seszták a többi bűnözővel kirabolta az országot",
-    "lead_hu": "A miniszterelnök hangsúlyozta, hogy „igen, Seszták Miklós a többi bűnözővel közösen\" kirabolta az országot, így a hatóság nem véletlenül végzett lefoglalásokat 9 milliárd értékben az ügyben, és nem vé…",
-    "content_hu": "A miniszterelnök hangsúlyozta, hogy „igen, Seszták Miklós a többi bűnözővel közösen\" kirabolta az országot, így a hatóság nem véletlenül végzett lefoglalásokat 9 milliárd értékben az ügyben, és nem véletlenül került zár alá Seszták háza és autószalonja is. The post Magyar: Seszták a többi bűnözővel kirabolta az országot first appeared on 24.hu.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -16994,6 +16989,42 @@
     "is_top_list": false
   },
   {
+    "group_id": "group_f27da252f0",
+    "slug": "magyar-peter-biralta-az-unios-kltsegvetesi-tervet-f27da2",
+    "tags": [
+      "magyar-peter",
+      "eu-koltsegvetes",
+      "karpatalja",
+      "pozsony"
+    ],
+    "fingerprint": "c25a8836980c4780484d024284951b40",
+    "category": "Politika",
+    "image": "https://s.24.hu/app/uploads/2026/11/d__hr20261116019-e1795427510867-1024x577.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kárpátaljára utazik Magyar Péter",
+        "link": "https://24.hu/kozelet/2026/11/23/karpataljara-utazik-magyar-peter/"
+      },
+      {
+        "source": "ATV",
+        "title": "Elhangzott a parlamentben: Magyarországnak többet kellene befizetni, nem tudják elfogadni az EU elképzelését",
+        "link": "https://www.atv.hu/belfold/20261123/parlament-eu-koltsegvetes-magyarorszag/"
+      }
+    ],
+    "published_at": 1795437780,
+    "title_hu": "Magyar Péter bírálta az uniós költségvetési tervet",
+    "lead_hu": "Magyar Péter az Országgyűlésben arról beszélt, hogy az Európai Unió új, hétéves költségvetése hátrányosan érintheti Magyarországot. A tervet azért is kifogásolta, mert szerinte az ország befizetései emelkednének.",
+    "content_hu": "• **Magyarország befizetései nőhetnek** Magyar Péter szerint az uniós költségvetési elképzelés elfogadása nagyobb magyar hozzájárulást jelentene, ezért a terv hátrányos lenne az országnak.\n\n• **A költségvetésről külön kell megállapodni** A magyar kormány álláspontja szerint a hétéves büdzséről a 27 tagállamnak önállóan kell egyezségre jutnia, és a folyamat nem köthető más tárgyalásokhoz, így az Ukrajnával kapcsolatosakhoz sem.\n\n• **Magyar Péter Kárpátaljára készül** A politikus azt mondta, megválasztott miniszterelnökként visszatér a térségbe, hogy az anyaország támogatásáról biztosítsa az ott élőket.\n\n• **Pozsonyban folytatódnak az egyeztetések** A parlamenti felszólalás után a tervek szerint a szlovák fővárosba utazik, ahol a közép-európai felzárkóztatási támogatásokról tárgyalnak tovább.",
+    "importance_score": 28.0,
+    "top_rank": 84,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_d93c8624b5",
     "slug": "nem-szabad-a-kepernyoidot-kizarolag-karos-jelenseg-d93c86",
     "tags": [
@@ -17274,32 +17305,6 @@
     "title_hu": "Kihirdették a 23. Verzió Filmfesztivál nyerteseit",
     "lead_hu": "November 26. és december 6. között az online térben folytatódik a fesztivál.",
     "content_hu": "November 26. és december 6. között az online térben folytatódik a fesztivál.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_8f1376d01f",
-    "slug": "miley-cyrus-ismet-ferjhez-ment-8f1376",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/miley-cyrus-eskuvo-maxx-morando-2300218556-e1795362819299-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Miley Cyrus ismét férjhez ment",
-        "link": "https://24.hu/elet-stilus/2026/11/22/miley-cyrus-ismet-ferjhez-ment/"
-      }
-    ],
-    "published_at": 1795362985,
-    "title_hu": "Miley Cyrus ismét férjhez ment",
-    "lead_hu": "A tinédzser tévésztárból lett énekesnő másodszor mondta ki a boldogító igent, ezúttal Maxx Morando dobosnak, a kaliforniai Palms Springsben. The post Miley Cyrus ismét férjhez ment first appeared on 2…",
-    "content_hu": "A tinédzser tévésztárból lett énekesnő másodszor mondta ki a boldogító igent, ezúttal Maxx Morando dobosnak, a kaliforniai Palms Springsben. The post Miley Cyrus ismét férjhez ment first appeared on 24.hu.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
