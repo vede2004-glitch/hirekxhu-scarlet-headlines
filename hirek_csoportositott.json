@@ -25,38 +25,6 @@
     ]
   },
   {
-    "group_id": "group_d7605174a2",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Felborzolta a Wall Street kedélyeit az Anthropic, szokatlan feltételeket szabott a bankoknak",
-        "link": "https://index.hu/gazdasag/2026/11/22/anthropic-tozsde-bevezetes-wall-street-bankok/",
-        "image": "https://kep.index.hu/1/0/7265/72652/726522/72652287_5352779_8d3b3610afdb8783122fe68688ab604e_wm.jpg",
-        "summary": "A több mint félmilliárd dolláros díjbevételt hozó tranzakció előkészítését több tényező nehezítette.",
-        "category": "Általános",
-        "published_at": 1795376880
-      }
-    ]
-  },
-  {
-    "group_id": "group_90ef4bec4d",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "„Dollármédiáról” is képeztek újságírókat Erdélyben magyar közpénzből",
-        "link": "https://hvg.hu/itthon/20261122_dollarmediarol-is-kepeztek-ujsagirokat-erdelyben-magyar-kozpenzbol",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f3775cff-b4eb-499d-9890-190014ea18b3.jpg",
-        "summary": "Demeter Szilárd korábbi miniszteri biztoshoz köthető cégnek is jutott pénz.",
-        "category": "Politika",
-        "published_at": 1795376760
-      }
-    ]
-  },
-  {
     "group_id": "group_b124f3e976",
     "category": "Politika",
     "articles_count": 19,
@@ -12337,7 +12305,7 @@
   {
     "group_id": "group_eb0472fa5e",
     "category": "Kultúra",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "HVG - Tudomány & Tech",
@@ -12347,6 +12315,15 @@
         "summary": "Arion Kurtajnak az ítélet kihirdetése után azt mondta a bíró, ne pazarolja a tehetségét arra, hogy ki-be jár a börtönből.",
         "category": "Kultúra",
         "published_at": 1795462440
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Hét év börtönbüntetést kapott a hacker, aki kiszivárogtatta a GTA VI felvételeit még évekkel ezelőtt",
+        "link": "https://index.hu/techtud/2026/11/23/gta-6-hacker-bortonbuntetes-ellopott-felvetelek-kiszivarogtatas/",
+        "image": "https://kep.index.hu/1/0/7266/72666/726661/72666115_5353757_43e856cb923fcb52a84f47935798b0c0_wm.jpg",
+        "summary": "Akkoriban még csak tinédzser volt.",
+        "category": "Általános",
+        "published_at": 1795463220
       }
     ]
   },
@@ -12395,6 +12372,38 @@
         "summary": "Egyre komolyabb biztonsági kihívást jelent a NATO keleti szárnyán, hogy az orosz-ukrán háború során katonai eszközök jutnak át a szomszédos országok légterébe.",
         "category": "Politika",
         "published_at": 1795462824
+      }
+    ]
+  },
+  {
+    "group_id": "group_ff0c3e8d91",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nem mindennapi kereseti térkép rajzolódott ki Magyarországon",
+        "link": "https://index.hu/gazdasag/2026/11/23/keresetek-ksh-65-felettiek-megye-terkep/",
+        "image": "https://kep.index.hu/1/0/7265/72650/726504/72650477_5352633_db14c4734c5b8e499ef58b119f6df9aa_wm.jpg",
+        "summary": "Meglepetést okoztak a 65 felettiek.",
+        "category": "Általános",
+        "published_at": 1795463160
+      }
+    ]
+  },
+  {
+    "group_id": "group_000f15126e",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Világsztár áradozott Budapestről, az Országház előtt készített videót",
+        "link": "https://www.atv.hu/belfold/20261123/budapest-vilagsztar-parlament-vasar/",
+        "image": "",
+        "summary": "Ma a budapesti karácsonyi vásáron fordult meg, több közeli országban is feltűnt a napokban Robert Picardo.",
+        "category": "Általános",
+        "published_at": 1795463400
       }
     ]
   }
