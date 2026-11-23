@@ -25,86 +25,6 @@
     ]
   },
   {
-    "group_id": "group_4e60732305",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "A Meta azon gondolkodik, hogy leválasztja az Instagram egyik legnépszerűbb funkcióját, hogy külön appot csináljon belőle",
-        "link": "https://raketa.hu/meta-instagram-direct-uzenetkuldo-standalone-alkalmazas-teszt/",
-        "image": "https://raketa.hu/uploads/2026/11/instagramkiemelt.jpg",
-        "summary": "Az Instagram-tulaj Meta önálló alkalmazásként kezdte el tesztelni a Direct nevű üzenetküldő funkciót, ami így a jövőben akár már Instagram-fiók nélkül is használhatóvá válhat.",
-        "category": "Kultúra",
-        "published_at": 1795323793
-      }
-    ]
-  },
-  {
-    "group_id": "group_69162c2655",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Már túl jól javít az AI, ami nagy fennakadásokat okozhat még a jövőben",
-        "link": "https://index.hu/techtud/2026/11/22/ai-javitas-kiber-tamadas-amerika-kormanyzat-microsoft-iran/",
-        "image": "https://kep.index.hu/1/0/7261/72614/726144/72614483_5350149_decacd4cf1bcc3d7ed0dd16c7c4ecc64_wm.jpg",
-        "summary": "De azért Irán is gyanús az amerikaiaknak.",
-        "category": "Kultúra",
-        "published_at": 1795323840
-      }
-    ]
-  },
-  {
-    "group_id": "group_1be67d8012",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "A Heim Pál Gyermekkórház nevében telefonálnak a csalók, aljas trükkel próbálnak pénzt kicsalni az emberektől",
-        "link": "https://www.atv.hu/belfold/20261122/csalok-heim-pal-nev-visszaeles/",
-        "image": "",
-        "summary": "Ismeretlen csalók telefonon próbálnak pénzt kicsalni a Heim Pál Országos Gyermekgyógyászati Intézet nevére és karácsonyi adománygyűjtésre hivatkozva. Az intézmény nyomatékosította, hogy semmilyen telefonos adománygyűjtést nem folytat.",
-        "category": "Általános",
-        "published_at": 1795323960
-      }
-    ]
-  },
-  {
-    "group_id": "group_2ab8d52caf",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Életveszélyes reakciót válthatnak ki bizonyos gyógyszerek – Ezt kell tudnod a Lyell-szindrómáról",
-        "link": "https://femina.hu/egeszseg/lyell-szindroma-gyogyszerreakcio/",
-        "image": "https://femina.hu/neon/media/renditions/438/438572/ccfbb8a40518754c.jpg",
-        "summary": "Egyes gyógyszerek súlyos bőrreakciót válthatnak ki: a Lyell-szindróma gyorsan kialakulhat, és azonnali kórházi kezelést igényel.",
-        "category": "Bulvár",
-        "published_at": 1795323900
-      }
-    ]
-  },
-  {
-    "group_id": "group_15610b9f1c",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "40 évvel édesanyja után lett Anglia szépe a 21 éves egyetemista",
-        "link": "https://nlc.hu/eletmod/20261122/anya-lanya-miss-anglia-szepsegverseny/95e4pmg",
-        "image": "",
-        "summary": "Édesanyja nyomdokaiba lépett az idei Miss England szépségverseny győztese, Tabitha Bennett. The post 40 évvel édesanyja után lett Anglia szépe a 21 éves egyetemista first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1795323780
-      }
-    ]
-  },
-  {
     "group_id": "group_db8812e1a7",
     "category": "Politika",
     "articles_count": 1,
@@ -978,7 +898,7 @@
   {
     "group_id": "group_17ab7e9de5",
     "category": "Bulvár",
-    "articles_count": 7,
+    "articles_count": 8,
     "articles": [
       {
         "source": "Femina",
@@ -1042,6 +962,15 @@
         "summary": "A HungaroMet előrejelzése szerint téliesre fordul az idő: a hét elején hideg, napos és szeles idő várható éjszakai fagyokkal, csütörtöktől pedig csapadékosra, borultra fordul az időjárás, amely során havazás és havas eső is előfordulhat.",
         "category": "Általános",
         "published_at": 1795408500
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kemény tél csap le Magyarországra: mínusz 10 fokos fagy és havazás is jön a héten",
+        "link": "https://index.hu/belfold/2026/11/23/idojaras-elorejelzes-ho-havazas-hozapor-november-telies-ido/",
+        "image": "https://kep.index.hu/1/0/6849/68494/684941/68494163_5055999_e995873b2585cf2fd03409f6e3392653_wm.jpg",
+        "summary": "Téliesre fordul az időjárás november utolsó hetében.",
+        "category": "Általános",
+        "published_at": 1795410180
       }
     ]
   },
@@ -2356,7 +2285,7 @@
   {
     "group_id": "group_93f1b6d435",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -2366,6 +2295,15 @@
         "summary": "Az orosz légvédelem 170 ukrán pilóta nélküli repülőszerkezetet fogott el. The post Ismét az ukrán kritikus infrastruktúrát támadta Oroszország first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795337493
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Halálos orosz dróntámadás érte Kijev térségét, orosz roncsokra bukkantak Lengyelországban",
+        "link": "https://index.hu/kulfold/2026/11/23/oroszorszag-ukrajna-haboru-orosz-ukran-konfliktus-volodimir-zelenszkij-vlagyimir-putyin-egyesult-allamok-donald-trump/",
+        "image": "https://kep.index.hu/1/0/7265/72653/726537/72653755_5352905_2710eef047ebde86263bef14e064fb1a_wm.jpg",
+        "summary": "Az Index összefoglalója az orosz–ukrán háború vasárnapi eseményeiről.",
+        "category": "Politika",
+        "published_at": 1795410180
       }
     ]
   },
@@ -4648,7 +4586,7 @@
   {
     "group_id": "group_ca25c4f740",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "ATV",
@@ -4658,6 +4596,15 @@
         "summary": "Bodrogi Gyula 92 évesen is tele van életkedvvel, és esze ágában sincs visszavonulni a színpadtól. A Nemzet Színésze a Heti Naplónak adott interjújában őszintén beszélt egészségi állapotáról, szerettei elvesztéséről, az elmúláshoz fűződő viszonyáról és arról, hogy miért tartja ajándéknak az életet.",
         "category": "Általános",
         "published_at": 1795353258
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megrendítő vallomást tett Bodrogi Gyula, így küzd meg az elmúlás gondolatával",
+        "link": "https://index.hu/kultur/2026/11/23/bodrogi-gyula-interju-elmulas-veszteseg-egeszseg-elet/",
+        "image": "https://kep.index.hu/1/0/4333/43331/433314/43331446_3307332_5af55edd0a65df620e0b1be637b07cde_wm.jpg",
+        "summary": "Előfordult, hogy valakit fel szeretett volna hívni, aztán ráeszmélt, hogy az illető már nincs közöttük.",
+        "category": "Általános",
+        "published_at": 1795410120
       }
     ]
   },
@@ -5648,7 +5595,7 @@
   {
     "group_id": "group_026522f837",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Magyar Nemzet",
@@ -5667,6 +5614,15 @@
         "summary": "A volt miniszter azt is sérelmezi, hogy ha van is kormányinfó, ott alig kérdezhetnek a „megmaradt, jobboldali konzervatív orgánumok”, azaz a fideszes média. The post Megszólalt Gulyás Gergely: rámutatott, hogy régen volt kormányinfó first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1795375903
+      },
+      {
+        "source": "444.hu",
+        "title": "Magyar Péter feleltet, a miniszterek vegyes sikerrel küzdenek, hogy a tárcák „ne egyék meg őket reggelire”",
+        "link": "https://444.hu/2026/11/23/magyar-peter-feleltet-a-miniszterek-vegyes-sikerrel-kuzdenek-hogy-a-tarcak-ne-egyek-meg-oket-reggelire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Van, aki lubickol a miniszterségben, van, akinek nehezebben megy az átállás a közszférás működésre. A kormányüléseken Magyar Péter felkészülten és konfrontatívan szórja a keresztkérdéseket, a miniszterek néha iskolai feleltetésen érzik magukat.",
+        "category": "Politika",
+        "published_at": 1795410008
       }
     ]
   },
@@ -8220,6 +8176,86 @@
         "summary": "A gyönyörű Szerencselány és sármos vőlegénye hétről hétre bizonyítanak az Ázsia Expressz emberpróbáló körülményei között, ahol a legfeszültebb helyzeteket is képesek közösen megoldani. De vajon a hétköznapokban is ugyanilyen jól működnek együtt, mint az Ázsia Expresszben?",
         "category": "Bulvár",
         "published_at": 1795410000
+      }
+    ]
+  },
+  {
+    "group_id": "group_4e884d1d92",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Megnyílik az út az energetikai beruházások előtt, milliárdos fejlesztéseket jelentette be a miniszter",
+        "link": "https://www.atv.hu/belfold/20261123/energetika-beruhazas-miniszter/",
+        "image": "https://www.youtube.com/embed/f-wLPaqds4k",
+        "summary": "Több mint 3 milliárd euró értékben indulnak gazdaságfejlesztési és energetikai programok uniós forrásokból, amelyek decemberben érkeznek meg – közölte Kapitány István gazdasági és energetikai miniszter vasárnap a közösségi oldalán.",
+        "category": "Politika",
+        "published_at": 1795410360
+      }
+    ]
+  },
+  {
+    "group_id": "group_b2ced25905",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ez a két akkumlátoros kerti gép ősszel nyújt elengedhetetlen segítséget",
+        "link": "https://24.hu/belfold/2026/11/23/fieldmann-kerti-gepek-fzf-70725-lombfuvo-fzv-70905-0-gyepszellozteto-teszt/",
+        "image": "https://s.24.hu/app/uploads/2026/11/fieldmann_cover-1024x576.jpg",
+        "summary": "Fieldmann-gépeket próbáltunk ki: egy lombszívó-fúvót és egy gyepszellőztetőt, hogy kiderüljön, mennyire könnyítik meg a ház körüli munkát az ősz beköszöntével. The post Ez a két akkumlátoros kerti gép ősszel nyújt elengedhetetlen segítséget first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795410216
+      }
+    ]
+  },
+  {
+    "group_id": "group_41e95919a1",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Mészáros Lőrincék kezében minden harmadik forint nyereséggé vált az M1-es autópályán",
+        "link": "https://24.hu/fn/gazdasag/2026/11/23/meszaros-lorinc-tularazas-m1-autopalya-koncesszio-24extra/",
+        "image": "https://s.24.hu/app/uploads/2026/11/ill24_msz_m1_01-1024x576.jpg",
+        "summary": "Mészáros Lőrinc csaknem 50 milliárd forint osztalékot húzott ki egyetlen cégből, amely az M1-es sztráda felújításával párhuzamosan nőtt nagyra. Most elzárják a közpénzcsapot. The post Mészáros Lőrincék kezében minden harmadik forint nyereséggé vált az M1-es autópályán first appeared on 24.hu.",
+        "category": "Gazdaság",
+        "published_at": 1795409814
+      }
+    ]
+  },
+  {
+    "group_id": "group_fc08294b27",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "A Ha eljön Joe Black barna bombázója volt: 54 éves korára így megváltozott Claire Forlani",
+        "link": "https://femina.hu/vilagsztar/claire-forlani-ha-eljon-joe-black-most-54-evesen/",
+        "image": "https://femina.hu/neon/media/renditions/438/438584/38bf4e36110bfb09.jpg",
+        "summary": "A színésznőt sokan azzal vádolják, hogy plasztikai műtéteken esett át, azért ilyen csinos 54 évesen.",
+        "category": "Bulvár",
+        "published_at": 1795410301
+      }
+    ]
+  },
+  {
+    "group_id": "group_5984882cd2",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Kényelmes és elegáns csizmák 50 felett: 4 nőies fazon a rohanós napokra is",
+        "link": "https://femina.hu/szepseg/kenyelmes-elegans-csizmak-50-felett/",
+        "image": "https://femina.hu/neon/media/renditions/438/438503/7e187a85df0105e4.jpg",
+        "summary": "A 2026-os őszi-téli cipőtrendek legnagyobb kedvencei.",
+        "category": "Bulvár",
+        "published_at": 1795410301
       }
     ]
   }
