@@ -105,47 +105,6 @@
     ]
   },
   {
-    "group_id": "group_2bf1f8d2bf",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Több évtizedes Nagyláb-észlelésekről kerültek elő amerikai kormányzati dokumentumok",
-        "link": "https://index.hu/kulfold/2026/11/22/nagylab-fajlok-nyilvanossagra-hozatal-kormanyzati-dokumentumok/",
-        "image": "https://kep.index.hu/1/0/7264/72647/726475/72647537_5352417_692fc57dee7627f2fb6eca7f7f7fe03c_wm.jpg",
-        "summary": "Meglepő iratokat tett közzé a Trump-adminisztráció.",
-        "category": "Politika",
-        "published_at": 1795338720
-      }
-    ]
-  },
-  {
-    "group_id": "group_6502775cca",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Alig néhány hónapja nyitották újra, most súlyos tűz pusztított a rudabányai művelődési házban",
-        "link": "https://www.atv.hu/belfold/20261122/tuz-rudabanya-muvelodesi-haz/",
-        "image": "https://www.youtube.com/embed/fmzFurE1GgM",
-        "summary": "Az Országos Katasztrófavédelmi Főigazgatóság közlése szerint vasárnap hajnalban égni kezdett a művelődési ház Rudabányán. Későbbi tájékoztatásukban tudatták, hogy több tűzoltóegység munkájának köszönhetően sikeresen eloltották a tüzet.",
-        "category": "Általános",
-        "published_at": 1795338600
-      },
-      {
-        "source": "Hír TV",
-        "title": "Rudabányai tűzvész: betörés és gyújtogatás gyanúja is felmerült",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/rudabanyai-tuzvesz-betores-es-gyujtogatas-gyanuja-is-felmerult",
-        "image": "https://cdn.hirtv.hu/2026/11/pW8XizW9UCH_ZuwWs7_AtORy-CQwDLyATcgPfVW1qEk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I1MTc4OTI1MzhlZTRhMmE5M2JhZjAxM2MyMWQzZTBl.webp",
-        "summary": "Leégett Rudabányán a könyvtár, két embert előállítottak.",
-        "category": "Politika",
-        "published_at": 1795370119
-      }
-    ]
-  },
-  {
     "group_id": "group_d4248bebb3",
     "category": "Általános",
     "articles_count": 1,
@@ -4764,6 +4723,22 @@
     ]
   },
   {
+    "group_id": "group_6502775cca",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Rudabányai tűzvész: betörés és gyújtogatás gyanúja is felmerült",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/rudabanyai-tuzvesz-betores-es-gyujtogatas-gyanuja-is-felmerult",
+        "image": "https://cdn.hirtv.hu/2026/11/pW8XizW9UCH_ZuwWs7_AtORy-CQwDLyATcgPfVW1qEk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I1MTc4OTI1MzhlZTRhMmE5M2JhZjAxM2MyMWQzZTBl.webp",
+        "summary": "Leégett Rudabányán a könyvtár, két embert előállítottak.",
+        "category": "Politika",
+        "published_at": 1795370119
+      }
+    ]
+  },
+  {
     "group_id": "group_f973b19040",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -8250,7 +8225,7 @@
   {
     "group_id": "group_7264d27981",
     "category": "Gazdaság",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -8269,6 +8244,15 @@
         "summary": "Nem sikerült megállítani a magyarországi beruházások visszaesését, sőt a harmadik negyedévben ismét jelentősen romlott a helyzet. Különösen aggasztó, hogy éppen a feldolgozóipar teljesítménye húzza lefelé a mutatókat, miközben a vállalkozások és az...",
         "category": "Politika",
         "published_at": 1795424160
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Korábban már a gödör aljának hitték, de a magyar gazdaság erre is rá tudott cáfolni",
+        "link": "https://index.hu/gazdasag/2026/11/23/beruhazasok-gazdasag-magyar-gazdasag-allami-beruhazas-energiaipar-feldolgozoipar-ksh-vallalkozasok/",
+        "image": "https://kep.index.hu/1/0/7265/72656/726565/72656507_5353099_aaacfb40ae4e87529ac7a5b32da21eed_wm.jpg",
+        "summary": "Ötödik negyedéve esnek a magyar beruházások.",
+        "category": "Gazdaság",
+        "published_at": 1795424880
       }
     ]
   },
@@ -9230,7 +9214,7 @@
         "image": "https://raketa.hu/uploads/2026/11/pill.jpg",
         "summary": "A daraxonrasib nevű hatóanyag kemoterápiával kombinálva minden tizenkettedik páciensnél teljesen megszüntette az előrehaladott, áttétes betegséget.",
         "category": "Kultúra",
-        "published_at": 1795424953
+        "published_at": 1795425351
       }
     ]
   },
@@ -9247,6 +9231,22 @@
         "summary": "A heti horoszkóp szerint most nem a gyors megoldások, hanem a tudatos változtatások hozhatják el az áttörést a kapcsolatokban, a pénzügyekben és a lelki egyensúlyban. Vajon elég egy őszinte beszélgetés, egy jobb döntés vagy néhány új szokás ahhoz, hogy végre kilépj a visszatérő problémák köréből? A csillagjegyek előtt olyan hét áll, amelyben a türelem, a tiszta kommunikáció és az önismeret váratlan eredményeket hozhat. The post Heti horoszkóp minden csillagjegynek: most a tudatos döntések visznek előre first appeared on nlc.",
         "category": "Politika",
         "published_at": 1795424580
+      }
+    ]
+  },
+  {
+    "group_id": "group_84f6a128d2",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Így módosul a tanév rendje: fontos bejelentést tett az oktatási miniszter",
+        "link": "https://femina.hu/gyerek/igy-modosul-a-tanev-rendje-bejelentes/",
+        "image": "https://femina.hu/neon/media/renditions/438/438821/3d8d91cc8f163af5.jpg",
+        "summary": "A 2026/2027-es tanév egy nappal rövidebb lesz, örülhetnek a gyerekek.",
+        "category": "Politika",
+        "published_at": 1795425300
       }
     ]
   }
