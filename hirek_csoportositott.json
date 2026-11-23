@@ -66,22 +66,6 @@
     ]
   },
   {
-    "group_id": "group_f6759db75e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Magyarország lemondott róla, pedig van kereslet a mozizás csúcsára",
-        "link": "https://index.hu/kultur/cinematrix/2026/11/22/imax-magyarorszag-mozi-vetites-film-projektor-christopher-nolan/",
-        "image": "https://kep.index.hu/1/0/7261/72619/726194/72619479_5350451_0a9667304357f259f741b4c176fe714b_wm.jpg",
-        "summary": "Az IMAX 70 milliméteres formátuma ma már kuriózumnak számít.",
-        "category": "Általános",
-        "published_at": 1795353900
-      }
-    ]
-  },
-  {
     "group_id": "group_0fc679536d",
     "category": "Általános",
     "articles_count": 1,
@@ -2470,7 +2454,7 @@
   {
     "group_id": "group_1c699d601d",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -2489,6 +2473,15 @@
         "summary": "Bús Balázs szabadulására is kitért.",
         "category": "Általános",
         "published_at": 1795377540
+      },
+      {
+        "source": "Hír TV",
+        "title": "Többször is volt dolga Fabó György vállalkozásainak a hatóságokkal",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/fabo-gyorgy-vallalkozo-hatosagok",
+        "image": "https://cdn.hirtv.hu/2026/11/UU5-NoEnfab6LERvk1_cBqFKfOHwErqa59kmwDSy9eI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQwMTk0NTZhMjA5MzQzZDliOGY0ZTQyZDhmZjU2ZWYy.webp",
+        "summary": "A héten derült ki, hogy a miniszterelnök állításaival ellentéteben nem Seszták Miklóshoz, hanem Fabó György milliárdos vállalkozóhoz köthető az a terület, ahol a 6 és fél milliárdnyi készpénz egy részét megtalálhatták.",
+        "category": "Politika",
+        "published_at": 1795440301
       }
     ]
   },
@@ -11056,6 +11049,54 @@
         "summary": "Miközben egyre súlyosabb eladási hullám söpör végig a világ tőzsdéin, és még a hagyományosan biztonságos menedéknek tekintett arany árfolyama is meredeken zuhan, újabb drámai figyelmeztetést fogalmazott meg a 2008-as globális gazdasági válságot sikeresen előrejelző Robert Kiyosaki. A Gazdag papa, szegény papa című sikerkönyv szerzője szerint a világgazdaság már bele is csúszott egy olyan válságba, amely a 2008-as összeomlásnál is sokkal súlyosabb lehet.",
         "category": "Gazdaság",
         "published_at": 1795439940
+      }
+    ]
+  },
+  {
+    "group_id": "group_1720c296a4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Postára adták Rogán Antal idézését – bejelentést tett Toroczkai László",
+        "link": "https://index.hu/belfold/2026/11/23/rogan-antal-toroczkai-laszlo-vizsgalo-vizsgalobizottsag-bizottsag-idezes-posta/",
+        "image": "https://kep.index.hu/1/0/7266/72660/726604/72660499_5353383_b42d923d97657042260741040db6d165_wm.jpg",
+        "summary": "Ha a volt miniszter nem jelenik meg, rendbírság, majd elővezetés jöhet.",
+        "category": "Politika",
+        "published_at": 1795440480
+      }
+    ]
+  },
+  {
+    "group_id": "group_eae6a7d17a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Árad a Tisza sikerkommunikációja: Gajdos László történelmi eredményekről beszél, de a vízmegtartás legfontosabb mérőszámait ködösek",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/vizmegtartas-gajdos-laszlo-vizet-a-tajba-tisza-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/gzVdsHCoUlcoE47iUTJkILmCYnGWyyNpXIlckba491Q/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIzLzhiMDAwMDdmNTlmY2ViNWI5ODU3MTkyYTgyZWE5N2RiZGU4ZTY5NTYwMjIwZjdkZDk1NmEyNjNhNTdlOTUwMTM.jpg",
+        "summary": "Gajdos László Facebook-bejegyzéseiben jóval nagyobb hangsúlyt kapnak az érzelmek, mint a konkrét számadatok.",
+        "category": "Politika",
+        "published_at": 1795440340
+      }
+    ]
+  },
+  {
+    "group_id": "group_d87dc30cfb",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Elkapkodták az eurós magyar részvényeket: több mint ezer befektetőt gyűjtött a volt miniszter cége – pénteken szintet lép az O3 Partners",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/o3-partners-euros-reszvenykibocsatas-oszko-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2024/03/WXQvqPVjSLW9mmf8V3h3Cd2DDiFPJAweFAGL7co5F54/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U5ZGFkZDFjOTAwODQ2MDViMmE3ZGY2Mzg4OWIzMzIx.jpg",
+        "summary": "Története legnagyobb tőkebevonásával lép a BÉT Standard piacára az O3 Partners, amely 5,7 millió euró friss tőkét gyűjtött.",
+        "category": "Politika",
+        "published_at": 1795440063
       }
     ]
   }
