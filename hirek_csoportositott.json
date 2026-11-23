@@ -25,56 +25,6 @@
     ]
   },
   {
-    "group_id": "group_577ca48a4e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Világsztárok álltak ki az Arany Pálma-díjas rendező mellett, akit börtönbe zárt Irán",
-        "link": "https://index.hu/kultur/2026/11/22/jafar-panahi-iran-cannes-nagydij-tilda-swinton-mark-ruffalo/",
-        "image": "https://kep.index.hu/1/0/7265/72651/726512/72651261_5352693_40424f621c97388022184bdc9b84805c_wm.jpg",
-        "summary": "Tilda Swinton és Mark Ruffalo is aláírta a bebörtönzött iráni rendezőért indított petíciót.",
-        "category": "Általános",
-        "published_at": 1795376400
-      }
-    ]
-  },
-  {
-    "group_id": "group_71dbf13197",
-    "category": "Általános",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Carlos Alcaraz látványos tenisszel nyert az ATP-vb döntőjében",
-        "link": "https://index.hu/sport/tenisz/2026/11/22/carlos-alcaraz-alexander-zverev-torino-atp-vilagbajnoksag-donto/",
-        "image": "https://kep.index.hu/1/0/7265/72653/726536/72653625_5352895_da129662c03273e677189db090b018b1_wm.jpg",
-        "summary": "A 23 éves spanyol már 30 tornagyőzelemnél tart.",
-        "category": "Általános",
-        "published_at": 1795376280
-      },
-      {
-        "source": "444.hu",
-        "title": "Carlos Alcaraz nyerte a tenisz-világbajnokságot",
-        "link": "https://444.hu/2026/11/23/carlos-alcaraz-nyerte-a-tenisz-vilagbajnoksagot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Két szettben győzte le a világelső Alexander Zverevet.",
-        "category": "Politika",
-        "published_at": 1795415471
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Történelmi diadallal zárta az évet a sérüléséből visszatérő Carlos Alcaraz",
-        "link": "https://telex.hu/sport/2026/11/23/tortenelmi-diadallal-zarta-az-evet-a-serulesebol-visszatero-carlos-alcaraz",
-        "image": "https://assets.telex.hu/images/20261123/1795416551-temp-48m0r1kpgen31kkndla_cimlap-normal.jpg",
-        "summary": "A spanyol teniszező idei menetelése különösen annak fényében lenyűgöző, hogy csuklósérülés miatt négy hónapig szinte ütőt sem fogott a kezébe.",
-        "category": "Politika",
-        "published_at": 1795416668
-      }
-    ]
-  },
-  {
     "group_id": "group_d7605174a2",
     "category": "Általános",
     "articles_count": 1,
@@ -2553,22 +2503,6 @@
     ]
   },
   {
-    "group_id": "group_36e478ceab",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Vadhajtások",
-        "title": "Kinyomozták a lengyel ügyészek: orosz rakéták sértették meg a légteret pénteken",
-        "link": "https://www.vadhajtasok.hu/2026/11/22/orosz-raketak-sertettek-meg-a-lengyel-legteret-penteken",
-        "image": "",
-        "summary": "A NATO Észak-atlanti Tanácsa hétfőn ülésezik majd a lengyel légtér megsértése ügyében.",
-        "category": "Politika",
-        "published_at": 1795376280
-      }
-    ]
-  },
-  {
     "group_id": "group_1d8c5a0574",
     "category": "Politika",
     "articles_count": 1,
@@ -2979,6 +2913,31 @@
         "summary": "Kivételes statisztikával rendelkezik a Liverpool játékosa.",
         "category": "Általános",
         "published_at": 1795415340
+      }
+    ]
+  },
+  {
+    "group_id": "group_71dbf13197",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Carlos Alcaraz nyerte a tenisz-világbajnokságot",
+        "link": "https://444.hu/2026/11/23/carlos-alcaraz-nyerte-a-tenisz-vilagbajnoksagot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Két szettben győzte le a világelső Alexander Zverevet.",
+        "category": "Politika",
+        "published_at": 1795415471
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Történelmi diadallal zárta az évet a sérüléséből visszatérő Carlos Alcaraz",
+        "link": "https://telex.hu/sport/2026/11/23/tortenelmi-diadallal-zarta-az-evet-a-serulesebol-visszatero-carlos-alcaraz",
+        "image": "https://assets.telex.hu/images/20261123/1795416551-temp-48m0r1kpgen31kkndla_cimlap-normal.jpg",
+        "summary": "A spanyol teniszező idei menetelése különösen annak fényében lenyűgöző, hogy csuklósérülés miatt négy hónapig szinte ütőt sem fogott a kezébe.",
+        "category": "Politika",
+        "published_at": 1795416668
       }
     ]
   },
@@ -6391,7 +6350,7 @@
   {
     "group_id": "group_f27da252f0",
     "category": "Politika",
-    "articles_count": 5,
+    "articles_count": 6,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -6437,6 +6396,15 @@
         "summary": "Magyar Péter miniszterelnök a pozsonyi V4-csúcson kijelentette, hogy Magyarország továbbra is szolidáris Ukrajnával, ám elfogadhatatlannak tartja az ország pénzügyi támogatásának összekötését a hétéves uniós költségvetéssel - írta meg az MTI a négy ország vezetőinek sajtótájékoztatója alapján.",
         "category": "Politika",
         "published_at": 1795462320
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Magyar Péter a hétéves EU-s költségvetésről: Hasznosabb lett volna egy jó javaslatot tenni, és nem kairói, tuniszi vagy marrákesi bazárt játszani",
+        "link": "https://telex.hu/kulfold/2026/11/23/visegradi-negyek-v4-pozsony-magyar-peter-andrej-babis-donald-tusk-robert-fico",
+        "image": "https://assets.telex.hu/images/20261123/1795457987-temp-u3va2j7nu49cejelkaf_cimlap-normal.jpg",
+        "summary": "A tervezetet Magyar egyáltalán nem tekinti tárgyalási alapnak, mondta a pozsonyi V4-csúcson.",
+        "category": "Politika",
+        "published_at": 1795461553
       }
     ]
   },
@@ -12328,12 +12296,21 @@
   {
     "group_id": "group_a205ec0d3f",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
         "title": "Feladta a Megasztárt az élő show-ba jutott énekes, már szombaton sem lép színpadra",
         "link": "https://index.hu/mindekozben/poszt/2026/11/23/feladja-a-megasztart-az-egyik-elo-show-ba-jutott-enekes-mar-szombaton-sem-lep-szinpadra/",
+        "image": "https://kep.index.hu/1/0/7266/72665/726657/72665799_a2479a081af1f5e0760ad924589c05b8_wm.png",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1795462423
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Feladta a Megasztárt az élő show-ba jutott énekes, már szombaton sem lép színpadra",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/23/feladja-a-megasztart-guba-imi-elo-show-ba-jutott-enekes-mar-szombaton-sem-lep-szinpadra/",
         "image": "https://kep.index.hu/1/0/7266/72665/726657/72665799_a2479a081af1f5e0760ad924589c05b8_wm.png",
         "summary": "",
         "category": "Általános",
@@ -12370,6 +12347,54 @@
         "summary": "Arion Kurtajnak az ítélet kihirdetése után azt mondta a bíró, ne pazarolja a tehetségét arra, hogy ki-be jár a börtönből.",
         "category": "Kultúra",
         "published_at": 1795462440
+      }
+    ]
+  },
+  {
+    "group_id": "group_89122cbc2a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Kézzel lehet tekergetni a kilazult csavarokat két borsodi kilátón, a szakértő szerint nincs ok a pánikra",
+        "link": "https://telex.hu/szepkilatas/2026/11/23/szuhafo-kilato-laza-csavar-turazok",
+        "image": "https://assets.telex.hu/images/20261123/1795440865-temp-q6qi8hbk36qh1jjcjca_cimlap-normal.jpg",
+        "summary": "Megkerestük a tulajdonost is, aki szerint biztonságos a szerkezet, de soron kívül átvizsgáltatja.",
+        "category": "Politika",
+        "published_at": 1795461931
+      }
+    ]
+  },
+  {
+    "group_id": "group_63c8046591",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Szem nem marad szárazon a svéd ultrák koreográfiája után",
+        "link": "https://24.hu/sport/foci/2026/11/23/allsvenskan-aik-degerfors-jojje-liden-draperia/",
+        "image": "https://s.24.hu/app/uploads/2026/11/jojjeliden-e1795462387839-1024x575.jpg",
+        "summary": "Gyönyörű gesztus. The post Szem nem marad szárazon a svéd ultrák koreográfiája után first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795462084
+      }
+    ]
+  },
+  {
+    "group_id": "group_88068f2543",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Rendkívüli intézkedést hozott a NATO: megerősíti Lengyelország védelmét az orosz rakétatámadások után",
+        "link": "https://www.vg.hu/kozelet/2026/11/lengyelorszag-nato-raketa-legvedelem-awacs-radar-gripen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/08/XiA2VVqdiyc33btItxAd9WuqA8vmVcBHxY6aIs4XLHY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU0NDJiNzMxODBlMzRhYzg4OTg0ODQ2NjRhNTNmNDY4.jpg",
+        "summary": "Egyre komolyabb biztonsági kihívást jelent a NATO keleti szárnyán, hogy az orosz-ukrán háború során katonai eszközök jutnak át a szomszédos országok légterébe.",
+        "category": "Politika",
+        "published_at": 1795462824
       }
     ]
   }
