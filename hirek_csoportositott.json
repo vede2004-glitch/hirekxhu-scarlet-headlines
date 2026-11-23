@@ -89,86 +89,6 @@
     ]
   },
   {
-    "group_id": "group_ade58e9383",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Hull a pelyhes Kelet-Magyarországon",
-        "link": "https://telex.hu/belfold/2026/11/22/ho-havazas-matra-kelet-magyarorszag-idojaras",
-        "image": "https://assets.telex.hu/images/20261122/1795343411-temp-cdlpkf1im36a7fgckfc_cimlap-normal.jpg",
-        "summary": "A Mátrában hópelyhek szállingóztak, keletebbre hódara hullt.",
-        "category": "Politika",
-        "published_at": 1795343423
-      }
-    ]
-  },
-  {
-    "group_id": "group_a5b23602e1",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Világ",
-        "title": "Az Európa Tanács elnöke csökkentené az EU hétéves költségvetését",
-        "link": "https://hvg.hu/vilag/20261122_eu-heteves-koltsegvetes-europa-tanacs-elnok-antonio-costa",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/09eab42f-9133-4415-995a-70b5ff08f788.jpg",
-        "summary": "António Costa javaslata szerint a versenyképességi és külső fellépést célzó kiadások jelentősen visszaesnének, míg a mezőgazdasági és regionális támogatások maradnának.",
-        "category": "Politika",
-        "published_at": 1795343700
-      }
-    ]
-  },
-  {
-    "group_id": "group_cdb51b23ed",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Korda György és Balázs Klári új luxuslakása maga a pompa: márvány és arany borít mindent",
-        "link": "https://femina.hu/hazai_sztar/korda-gyorgy-balazs-klari-uj-luxuslakas-marvany-arany/",
-        "image": "https://femina.hu/neon/media/renditions/438/438479/12c9433a2e0990f0.jpg",
-        "summary": "Korda György és Balázs Klári tetőtéri lakása is fényűző, akár egy palota.",
-        "category": "Bulvár",
-        "published_at": 1795343700
-      }
-    ]
-  },
-  {
-    "group_id": "group_709e250892",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Fél évszázados lemaradást számol fel a Tisza-kormány, 10 milliárdból újul meg Budapest egyik fontos vasútvonala",
-        "link": "https://index.hu/belfold/2026/11/22/mav-tizmilliard-forint-allami-tamogatas-cegledi-fovonal-budapest/",
-        "image": "https://kep.index.hu/1/0/7264/72649/726494/72649457_5352555_ea9e0e44a039f588e5ef79ead49ce5be_wm.jpg",
-        "summary": "Napi több mint 200 vonat jár ezen a szakaszon.",
-        "category": "Politika",
-        "published_at": 1795343820
-      }
-    ]
-  },
-  {
-    "group_id": "group_8bbdbb8681",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "382 napig nem evett szilárd ételt, több mint 120 kilót fogyott",
-        "link": "https://nlc.hu/gasztro/20261122/angus-barbieri-fogyas-bojt/lffg357",
-        "image": "",
-        "summary": "Angus Barbieri 382 napos böjttel 120 kilót dobott le. Gigafogyásával a Guinness Rekordok Könyvébe is bekerült. The post 382 napig nem evett szilárd ételt, több mint 120 kilót fogyott first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1795343580
-      }
-    ]
-  },
-  {
     "group_id": "group_ffa244fd11",
     "category": "Politika",
     "articles_count": 3,
@@ -307,7 +227,7 @@
   {
     "group_id": "group_b124f3e976",
     "category": "Politika",
-    "articles_count": 11,
+    "articles_count": 12,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -407,6 +327,15 @@
         "summary": "Magyar Péter hosszasan mesélt még az ukrajnai útról, ahol a teraszra sem lehetett kimenniük. The post Magyar Péter: Talán most jön a háború legnehezebb tele first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1795429334
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Magyar Péter: Tisztelt fideszes, KDNP-s képviselők, amit az Ukrajna elleni hergeléssel műveltek, az bűn",
+        "link": "https://index.hu/belfold/2026/11/23/orszaggyules-parlament-magyar-peter-kormany-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-tisztelt-fideszes-kdnp-s-kepviselok-amit-az-ukrajna-elleni-hergelessel-muveltek-az-bun/",
+        "image": "",
+        "summary": "",
+        "category": "Politika",
+        "published_at": 1795430121
       }
     ]
   },
@@ -2568,7 +2497,7 @@
         "image": "https://raketa.hu/uploads/2026/11/hunren.jpg",
         "summary": "Csaknem 100 millió éves csigafajt fedeztek fel magyar és kínai kutatók a mianmari borostyánban, amit a The Prodigy egykori énekeséről, Keith Flintről nevezték el.",
         "category": "Kultúra",
-        "published_at": 1795429796
+        "published_at": 1795430259
       }
     ]
   },
@@ -9577,7 +9506,7 @@
   {
     "group_id": "group_cabb2f4cf1",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -9596,6 +9525,15 @@
         "summary": "Egyes sajtóértesülések szerint az oroszlán egy magáningatlanról szökhetett meg. The post Oroszlán szabadult ki Isztambul külvárosában, a lakosságot figyelmeztették a veszélyre first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795429724
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Háziállatként tartott oroszlán szökhetett meg, most egy egész nagyvárost fenyegetésben tart Törökországban",
+        "link": "https://www.portfolio.hu/gazdasag/20261123/haziallatkent-tartott-oroszlan-szokhetett-meg-most-egy-egesz-nagyvarost-fenyegetesben-tart-torokorszagban-878460",
+        "image": "https://pcdn.hu/articles/images-xl/o/r/o/oroszlan-620791.jpg",
+        "summary": "Szabadon kóborló nőstény oroszlánt keresnek a rendőrök és az állatvédők Isztambul európai oldalának külvárosában. A hatóságok nagy erőkkel dolgoznak a ragadozó élve történő befogásán, a környékbelieket pedig fokozott óvatosságra intették.",
+        "category": "Gazdaság",
+        "published_at": 1795429980
       }
     ]
   },
@@ -9797,6 +9735,102 @@
         "summary": "Baleset történt hétfő reggel Dunakeszin, egy óvoda parkolójában. Egy személyautó az intézmény kerítésének csapódott, a járműben egy édesanya és kisgyermeke utazott. A helyszínre több mentőegység és mentőhelikopter is érkezett, az érintetteket kórházba szállították. The post Óvoda kerítésébe hajtott egy anyuka Dunakeszin, mentőhelikoptert is küldtek a helyszínre first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795428660
+      }
+    ]
+  },
+  {
+    "group_id": "group_7dd0f4a311",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Látszanak az elrejtett milliárdok, feltárulnak a magántőkealapok titkai",
+        "link": "https://telex.hu/gazdasag/2026/11/23/meszaros-lorinc-garancsi-istvan-tiborcz-magantokealapok",
+        "image": "https://assets.telex.hu/images/20261123/1795429827-temp-9dh6n7aasm48dkkdaga_cimlap-normal.jpg",
+        "summary": "Mészáros Lőrincnek felfoghatatlan vagyona volt magántőkealapokban, de ennél is furcsább, hogy még más milliárdosoknak is az ő világa kezelt pénzeket.",
+        "category": "Politika",
+        "published_at": 1795429913
+      }
+    ]
+  },
+  {
+    "group_id": "group_1d8468f700",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Online számlás adategyeztetési eljárásokkal még 8 milliárd forint áfa folyik be a NAV-hoz",
+        "link": "https://telex.hu/gazdasag/2026/11/23/online-szamlas-adategyeztetesi-eljarasokkal-meg-8-milliard-forint-afa-folyik-be-a-nav-hoz",
+        "image": "https://assets.telex.hu/images/20261123/1795429773-temp-89kmf36r99hk2mhkpef_cimlap-normal.jpg",
+        "summary": "Az adategyeztetés lényege, hogy először lehetőséget adnak az adózóknak a hibák önkéntes tisztázására.",
+        "category": "Politika",
+        "published_at": 1795429812
+      }
+    ]
+  },
+  {
+    "group_id": "group_f6c7e2042c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Nagykövetkeringő: megtudtuk, a tiszás Hajdu Márton volt kollégáját küldi londoni nagykövetnek a kormány",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/nagykovet-hajdu-marton-london-magyar-nagykovetseg-polner-gergely?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/Mqve9sRwLuNlaZMjeEntzpnWg0cBrXV2xNdNwEITT7k/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjMvZTZjOGUwM2E3YzA1MzYwNjM1MWY4ZjY3Y2U2NWU0YjcxODk0YTZhNjViNGQzNGYzMjJiM2JjMzkxYzNkMjkzZQ.jpg",
+        "summary": "Polner Gergely a 2011-es magyar EU-elnökség egyik szóvivője is volt. Washington és Moszkva eközben fél év kormányzás után is „üres”.",
+        "category": "Politika",
+        "published_at": 1795429904
+      }
+    ]
+  },
+  {
+    "group_id": "group_a1e0747cb7",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "António Costa szombaton újabb javaslatot tett le az asztalra, de ez nem visz közelebb a megoldáshoz",
+        "link": "https://24.hu/kozelet/2026/11/23/antonio-costa-szombaton-ujabb-javaslatot-tett-le-az-asztalra-de-ez-nem-visz-kozelebb-a-megoldashoz/",
+        "image": "https://s.24.hu/app/uploads/2026/11/d__hr20261116019-e1795427510867-1024x577.jpg",
+        "summary": "A Tisza-kormány azért dolgozik, hogy aki Beregszászon, Ungváron vagy Munkácson magyarul taníttatná a gyermekét, az ne ütközzön akadályba. The post António Costa szombaton újabb javaslatot tett le az asztalra, de ez nem visz közelebb a megoldáshoz first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1795429947
+      }
+    ]
+  },
+  {
+    "group_id": "group_2a7ffc97c6",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Fenyegető tekintet, lehengerlő karizma: 60 éves Vincent Cassel, a francia mozi élő legendája",
+        "link": "https://24.hu/elet-stilus/2026/11/23/vincent-cassel-60-eves-galeria/",
+        "image": "https://s.24.hu/app/uploads/2026/11/075_carlino-notitle260515_npwo2-masolat-1024x576.jpg",
+        "summary": "Kevés színésznek áll olyan jól a kiszámíthatatlanság, mint Vincent Casselnek: egyszerre tud nyers, fenyegető és ellenállhatatlanul karizmatikus lenni a filmvásznon. 60. születésnapja alkalmából galériában tekintünk vissza eddigi pályafutására. The post Fenyegető tekintet, lehengerlő karizma: 60 éves Vincent Cassel, a francia mozi élő legendája first appeared on 24.hu.",
+        "category": "Kultúra",
+        "published_at": 1795429845
+      }
+    ]
+  },
+  {
+    "group_id": "group_91dfe70e7b",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Ebből él most Győrfi Pál: civil munkája lett",
+        "link": "https://femina.hu/hazai_sztar/gyorfi-pal-civil-munka-ebbol-el-most/",
+        "image": "https://femina.hu/neon/media/renditions/438/438816/d0901e78c1b94f36.jpg",
+        "summary": "Győri Pál azon kívül, hogy megírta első önéletrajzi könyvét, civil munkával keresi a kenyerét.",
+        "category": "Bulvár",
+        "published_at": 1795430100
       }
     ]
   }
