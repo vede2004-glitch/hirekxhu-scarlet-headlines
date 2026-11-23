@@ -25,22 +25,6 @@
     ]
   },
   {
-    "group_id": "group_8ac7b96c79",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Seszták ügye, rágalomhadjárat és pártelnöki búcsú: Semjén Zsolt a kényes kérdésekről",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/semjen-zsolt-tisza-nagy-hiba-bayer-show",
-        "image": "https://cdn.hirtv.hu/2026/11/IOOKcbESY0lctGnj_3pryOps4bHRuqlNMNShtXOgU8M/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg2MTYwZmQ0NzAzMjQwMDM5NDkzNTQ3MmFiZjFjYWFh.webp",
-        "summary": "A KDNP több mint két évtizede hivatalban lévő elnöke a staféta átadásáról beszél. Semjén Zsolt a Bayer show-ban a Tisza nagy hibájára, a Seszták-ügyre és az őt ért vádakra is kitér.",
-        "category": "Politika",
-        "published_at": 1795380926
-      }
-    ]
-  },
-  {
     "group_id": "group_3a34f6d17b",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -2826,22 +2810,6 @@
     ]
   },
   {
-    "group_id": "group_7a1b37a79c",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Vadhajtások",
-        "title": "Pályázat nélkül osztogatott szét milliárdokat Nagy Ervin államtitkársága",
-        "link": "https://www.vadhajtasok.hu/2026/11/22/palyazat-nelkul-osztogatott-szet-milliardokat-nagy-ervin-allamtitkarsaga",
-        "image": "",
-        "summary": "Nem ez az első eset, hogy Nagy Ervin államtitkári kinevezése óta kérdések vetődnek fel a kulturális források elosztásának módjával kapcsolatban.",
-        "category": "Politika",
-        "published_at": 1795381020
-      }
-    ]
-  },
-  {
     "group_id": "group_a995ebc7ea",
     "category": "Politika",
     "articles_count": 1,
@@ -3627,7 +3595,7 @@
   {
     "group_id": "group_c84c6dedf2",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Magyar Nemzet",
@@ -3637,6 +3605,15 @@
         "summary": "A nyugalmazott református lelkész a Társaság a Szabadságjogokért segítségét kéri.",
         "category": "Politika",
         "published_at": 1795420768
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "„Örökre besározták a nevemet” – újabb súlyos hiba a tiszás ügynökbotrányban",
+        "link": "https://www.vadhajtasok.hu/2026/11/23/orokre-besaroztak-a-nevemet-ujabb-sulyos-hiba-a-tiszas-ugynokbotranyban",
+        "image": "",
+        "summary": "Újabb emberi sorsot tett tönkre az ügynökakták nyilvánosságra hozatalát kísérő adatkezelési hiba. Balajthy József nyugalmazott református lelkész neve annak ellenére került fel a hálózati személyek listájára, hogy állítása szerint soha nem m...",
+        "category": "Politika",
+        "published_at": 1795392000
       }
     ]
   },
@@ -9263,7 +9240,7 @@
         "image": "",
         "summary": "Az oktatási költségvetésről és a várható béremelésekről egyeztetett a pedagógus érdekképviseletekkel az oktatási és gyermekügyi miniszter hétfőn Budapesten.",
         "category": "Politika",
-        "published_at": 1795392000
+        "published_at": 1795457400
       }
     ]
   },
@@ -12403,7 +12380,7 @@
         "image": "https://raketa.hu/uploads/2026/11/egboltejszakai.jpg",
         "summary": "November végén különleges látványosság rajzolódik ki a hajnali égbolton: a Mars, a Jupiter, a Regulus és a Hold egy ritka, látványos paralelogrammát formáz majd. Az égi együttállás szabad szemmel is megfigyelhető lesz, de nem árt korán kelni, ha nem akarunk lemaradni róla.",
         "category": "Kultúra",
-        "published_at": 1795467052
+        "published_at": 1795467534
       }
     ]
   },
@@ -12483,7 +12460,23 @@
         "image": "https://raketa.hu/uploads/2026/11/gary-lopater-dOOGrK3zcUc-unsplash.jpg",
         "summary": "A mostani eset nem előzmény nélküli: az NRC beszámolója szerint idén már másodszor zavarták meg szándékosan a navigációs jeleket a holland légtérben.",
         "category": "Kultúra",
-        "published_at": 1795467052
+        "published_at": 1795467534
+      }
+    ]
+  },
+  {
+    "group_id": "group_6749ab486d",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Kivonul a motorsportból a Stellantis, a Peugeot nem fog indulni a Le Mans-i 24 órás versenyen",
+        "link": "https://telex.hu/gazdasag/2026/11/23/kivonul-a-motorsportbol-a-stellantis-a-peugeot-nem-fog-indulni-a-le-mans-i-24-oras-versenyen",
+        "image": "https://assets.telex.hu/images/20261123/1795466803-temp-1gfi0oa6pq15dncgjom_cimlap-normal.jpg",
+        "summary": "A Citroën és az Opel a Formula-E-ből száll ki.",
+        "category": "Politika",
+        "published_at": 1795467242
       }
     ]
   }
