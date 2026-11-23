@@ -25,47 +25,6 @@
     ]
   },
   {
-    "group_id": "group_1c699d601d",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Bóka János elmondta, szerinte kihez köthetők az elásott milliárdok",
-        "link": "https://index.hu/belfold/2026/11/22/boka-janos-magyar-peter-sesztak-miklos-nvvh-szajzar-koltsegvetes-martin-villanyszamla-bus-balazs/",
-        "image": "https://kep.index.hu/1/0/7261/72613/726134/72613435_5350079_02c468ba467420ae57b973950cef9959_wm.jpg",
-        "summary": "Bús Balázs szabadulására is kitért.",
-        "category": "Általános",
-        "published_at": 1795377540
-      },
-      {
-        "source": "Hír TV",
-        "title": "Többször is volt dolga Fabó György vállalkozásainak a hatóságokkal",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/fabo-gyorgy-vallalkozo-hatosagok",
-        "image": "https://cdn.hirtv.hu/2026/11/UU5-NoEnfab6LERvk1_cBqFKfOHwErqa59kmwDSy9eI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQwMTk0NTZhMjA5MzQzZDliOGY0ZTQyZDhmZjU2ZWYy.webp",
-        "summary": "A héten derült ki, hogy a miniszterelnök állításaival ellentéteben nem Seszták Miklóshoz, hanem Fabó György milliárdos vállalkozóhoz köthető az a terület, ahol a 6 és fél milliárdnyi készpénz egy részét megtalálhatták.",
-        "category": "Politika",
-        "published_at": 1795440301
-      }
-    ]
-  },
-  {
-    "group_id": "group_902599399f",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "Cole Palmer barátnője ledobta a textilt Dubajban – mindenkit sokkolt a merész ruhája",
-        "link": "https://borsonline.origo.hu/foci/2026/11/cole-palmer-olivia-holder-nyaralas-kepek",
-        "image": "https://cdn.borsonline.hu/2026/11/H7pQPxKO0na9kje_wu_be7ZBWxCAj2cVm_fKhTQ9G2U/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzE5L2E4NDcwYTE4YjAyNmU4MTY5YmI0YzkyNWU5NzgxYjczMDhjYWM1YjY3NDMwYzUwM2FiNWEwZTIyZWU0OGJmNjY.jpg",
-        "summary": "Cole Palmer ismét a figyelem középpontjába került, ezúttal azonban nem a pályán nyújtott teljesítményével, hanem gyönyörű barátnője, Olivia Holder miatt. A Chelsea sztárja és párja Dubajban vakációzik, ahol a 24 éves influenszer egy rendkívül merész, leopárdmintás ruhában hívta fel magára a figyelmet. Cole Palmer és kedvese romantikus kikapcsolódása igazi szenzáció lett a közösségi médiában.",
-        "category": "Bulvár",
-        "published_at": 1795377600
-      }
-    ]
-  },
-  {
     "group_id": "group_b255e3fe0f",
     "category": "Általános",
     "articles_count": 1,
@@ -268,7 +227,7 @@
   {
     "group_id": "group_3774ba5c2b",
     "category": "Politika",
-    "articles_count": 8,
+    "articles_count": 7,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -278,15 +237,6 @@
         "summary": "A színpadi vezérlőpult hibásodott meg, több órába telt helyrehozni.",
         "category": "Politika",
         "published_at": 1795379441
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Magyarázkodik az Opera - ezért maradt el a vasárnap délelőtti Diótörő matiné",
-        "link": "https://www.vadhajtasok.hu/2026/11/22/magyarazkodik-az-opera-ezert-maradt-el-a-vasarnap-delelotti-diotoro-matine",
-        "image": "",
-        "summary": "A hiba feszültségkimaradás miatt lépett fel a színpadi vezérlőpult rendszerében, az adatátviteli kapcsolók egyike hibásodott meg - olvasható a közleményükben.",
-        "category": "Politika",
-        "published_at": 1795377600
       },
       {
         "source": "Index - Címlap",
@@ -6293,7 +6243,7 @@
   {
     "group_id": "group_f27da252f0",
     "category": "Politika",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -6348,6 +6298,15 @@
         "summary": "A tervezetet Magyar egyáltalán nem tekinti tárgyalási alapnak, mondta a pozsonyi V4-csúcson.",
         "category": "Politika",
         "published_at": 1795461553
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Magyar Péter: Elfogadhatatlan Ukrajna támogatásának összekötése az uniós költségvetéssel",
+        "link": "https://hvg.hu/itthon/20261123_magyar-peter-ukrajna-unios-koltsegvetes-pozsony-v4",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/834c5d12-9730-44b6-8865-50ddf0c71c7f.jpg",
+        "summary": "A magyar, a cseh és a szlovák miniszterelnök is az EU hétéves büdzséjének a tervét bírálta.",
+        "category": "Politika",
+        "published_at": 1795463865
       }
     ]
   },
@@ -8620,6 +8579,22 @@
         "summary": "Ha a volt miniszter nem jelenik meg, rendbírság, majd elővezetés jöhet.",
         "category": "Politika",
         "published_at": 1795440480
+      }
+    ]
+  },
+  {
+    "group_id": "group_1c699d601d",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Többször is volt dolga Fabó György vállalkozásainak a hatóságokkal",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/fabo-gyorgy-vallalkozo-hatosagok",
+        "image": "https://cdn.hirtv.hu/2026/11/UU5-NoEnfab6LERvk1_cBqFKfOHwErqa59kmwDSy9eI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQwMTk0NTZhMjA5MzQzZDliOGY0ZTQyZDhmZjU2ZWYy.webp",
+        "summary": "A héten derült ki, hogy a miniszterelnök állításaival ellentéteben nem Seszták Miklóshoz, hanem Fabó György milliárdos vállalkozóhoz köthető az a terület, ahol a 6 és fél milliárdnyi készpénz egy részét megtalálhatták.",
+        "category": "Politika",
+        "published_at": 1795440301
       }
     ]
   },
@@ -12015,7 +11990,7 @@
   {
     "group_id": "group_0bd0901426",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "HVG - Itthon",
@@ -12025,6 +12000,15 @@
         "summary": "Az épületet az államtól ingyen kapta az alapítvány, a felújítás szintén közpénzből megy. A beruházás úgy drágult meg, hogy a Miniszterelnökség már nyáron feljelentést tett.",
         "category": "Politika",
         "published_at": 1795459876
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Több mint 400 millió forinttal drágul a Tranzit Fesztivált szervező alapítvány közösségi házának felújítása",
+        "link": "https://24.hu/belfold/2026/11/23/400-millio-dragulas-kommentar-alapitvany-tranzit-fesztival-kozossegi-haz/",
+        "image": "https://s.24.hu/app/uploads/2026/11/tranzit-e1795463682670-1024x577.jpg",
+        "summary": "Az alapítvány épületének felújítása 2023-óta tart, azóta folyamatosan drágul. A jelenlegi állás szerint a végösszeg 13,1 milliárd forint lesz. The post Több mint 400 millió forinttal drágul a Tranzit Fesztivált szervező alapítvány közösségi házának felújítása first appeared on 24.hu.",
+        "category": "Gazdaság",
+        "published_at": 1795463863
       }
     ]
   },
@@ -12395,6 +12379,22 @@
         "summary": "Közel hárommilliárd forintot osztott szét a minisztérium nyílt pályáztatás nélkül.",
         "category": "Politika",
         "published_at": 1795463407
+      }
+    ]
+  },
+  {
+    "group_id": "group_0aa1eab49c",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Bors",
+        "title": "Sydney Sweeney nem sokat bízott a képzeletre – merész karácsonyi fotózással jelentkezett",
+        "link": "https://borsonline.origo.hu/kulfoldi-sztarhirek/2026/11/sydney-sweeney-meresz-karacsonyi-fotok-kepek",
+        "image": "https://cdn.borsonline.hu/2026/11/-Ws9VWAZfs14FhTekAXpLgfPsW0F5pEqVqLazAqYhUk/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzIwLzhhMmYwNjdlNmE4NDkzMGNiZmUzODk4ZGM3N2JiY2JmY2Y4MWUxYjRhZTMzZjhlZDIxOTcyZDZhODk5MTRiZTg.jpg",
+        "summary": "Alaposan felforrósította a karácsonyi hangulatot a népszerű színésznő, aki ezúttal alig takaró fehérneműben pózolt a kamerák előtt. Sydney Sweeney – szokásához híven – saját márkáját népszerűsíti a merész fotókkal. Mutatjuk a csábítóan dögös képeket!",
+        "category": "Bulvár",
+        "published_at": 1795464000
       }
     ]
   }
