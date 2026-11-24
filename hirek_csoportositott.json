@@ -49,18 +49,9 @@
   },
   {
     "group_id": "group_4126a8558a",
-    "category": "Politika",
-    "articles_count": 18,
+    "category": "Általános",
+    "articles_count": 17,
     "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Jensen Huang újra az Nvidia élére került",
-        "link": "https://telex.hu/gazdasag/2026/11/23/jensen-huang-ujra-az-nvidia-elere-kerult",
-        "image": "https://assets.telex.hu/images/20261123/1795443189-temp-r2ama0l38l2m6ofnklj_cimlap-normal.jpg",
-        "summary": "A cég igazgatótanácsa tett váratlan bejelentést.",
-        "category": "Politika",
-        "published_at": 1795443334
-      },
       {
         "source": "Index - Címlap",
         "title": "Visszatért az Nvidia élére Jensen Huang a kémbotrány után",
@@ -217,28 +208,58 @@
     ]
   },
   {
-    "group_id": "group_1d5fa8d7fc",
-    "category": "Politika",
-    "articles_count": 8,
+    "group_id": "group_51588e2f4a",
+    "category": "Általános",
+    "articles_count": 1,
     "articles": [
       {
-        "source": "Telex - Belföld",
-        "title": "Meghosszabbították Matolcsy György letartóztatását",
-        "link": "https://telex.hu/gazdasag/2026/11/23/meghosszabbitottak-matolcsy-gyorgy-letartoztatasat",
-        "image": "https://assets.telex.hu/images/20261120/1795165601-temp-nbg6bag8177vfjgccgi_cimlap-normal.jpg",
-        "summary": "A volt jegybankelnök mellett az MNB-ügy másik gyanúsítottja is februárig letartóztatásban marad. Matolcsy Ádám cégeinek állandó ügyvédje azonban nyomkövetőt kap és hazamehet.",
-        "category": "Politika",
-        "published_at": 1795443252
-      },
+        "source": "Index - Címlap",
+        "title": "A Moszad is segített meghiúsítani a Taylor Swift bécsi koncertjei ellen tervezett merényletet, megszólalt a volt vezető",
+        "link": "https://index.hu/kulfold/2026/11/23/moszad-izrael-hirszerzes-taylor-swift-becs-koncert-tamadas/",
+        "image": "https://kep.index.hu/1/0/7266/72660/726608/72660807_5353405_31f9ba99fbe6e7c4870f79752487990e_wm.jpg",
+        "summary": "Az izraeli hírszerzés is együttműködött az osztrák hatóságokkal.",
+        "category": "Általános",
+        "published_at": 1795443480
+      }
+    ]
+  },
+  {
+    "group_id": "group_ddf53b2cb3",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
       {
-        "source": "HVG - Itthon",
-        "title": "Meghosszabbították Matolcsy György letartóztatását",
-        "link": "https://hvg.hu/itthon/20261123_matolcsy-gyorgy-meghosszabbitott-letartozatas",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fac11209-f0b5-4db3-b143-fe228cb520ec.jpg",
-        "summary": "A jegybank volt elnöke február 23-ig börtönben marad.",
+        "source": "Hír TV",
+        "title": "Nyugdíjas SZÉP-kártya: a gyógyszert is megígérték, a feltételek még hiányoznak",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nyugdijas-szep-kartya-a-gyogyszert-is-megigertek-a-feltetelek-meg-hianyoznak",
+        "image": "https://cdn.hirtv.hu/2026/11/aI9F52gA4Et_quFxTjT62j1a0_75Ifdz_pVLNxgJ6aw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJjZjdmZjRjNDU2ZjRkYzM4MTVmNjdiZThiYTc4ZDUx.webp",
+        "summary": "A nyugdíjas SZÉP-kártya nem válthatja ki a szabadon elkölthető pénzt.",
         "category": "Politika",
-        "published_at": 1795443349
-      },
+        "published_at": 1795443451
+      }
+    ]
+  },
+  {
+    "group_id": "group_7264d27981",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Mélyponton a magyar beruházások: az elemzők szerint jövőre is nehéz lesz talpra állni",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/beruhazasok-melypont-rossz-kilatasok-elemzok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/6R6kNyx4CAtEYiKJ9sQYvCl_7YooOpLRnuW4fZAt55M/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIzLzQxOTVjNTBlYzhlYmRiNTlhMTdlOTNiZTM1NzY0ZmI3ZjQ4ZTdmMzg5MWJmODNlZDY0YTBhNzkwZDA3ZjJiOTE.jpg",
+        "summary": "Virovácz Péter, az ING Bank vezető közgazdásza különösen kedvezőtlennek nevezte, hogy a vállalati és a költségvetési beruházások egyaránt csökkentek.",
+        "category": "Gazdaság",
+        "published_at": 1795443599
+      }
+    ]
+  },
+  {
+    "group_id": "group_1d5fa8d7fc",
+    "category": "Általános",
+    "articles_count": 6,
+    "articles": [
       {
         "source": "Index - Címlap",
         "title": "Három hónappal meghosszabbították Matolcsy György letartóztatását",
@@ -292,127 +313,6 @@
         "summary": "Három hónappal meghosszabbította Matolcsy György volt jegybankelnök letartóztatását a Budai Központi Kerületi Bíróság hétfőn. A Magyar Nemzeti Bank korábbi elnökét különösen jelentős vagyoni hátrányt okozó gazdasági csalás bűntettével és más bűncselekményekkel gyanúsítja az ügyészség. The post Matolcsy György rács mögött tölti az ünnepeket: meghosszabbították letartóztatását first appeared on nlc.",
         "category": "Politika",
         "published_at": 1795489380
-      }
-    ]
-  },
-  {
-    "group_id": "group_6087dc3205",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Seszták-ügy: Megszólaltak a kisvárdaiak az elásott milliárdokról",
-        "link": "https://www.atv.hu/belfold/20261123/sesztak-ugy-megszolaltak/",
-        "image": "https://www.youtube.com/embed/S9FN-yYNbzY",
-        "summary": "Megdöbbenés, hitetlenkedés és súlyos vádak fogadták a Seszták Miklóshoz kapcsolódó nyomozás híreit Kisvárdán. Az ATV Heti Napló című műsorának riportjában helyiek és egy korábbi ellenzéki politikus beszéltek a volt miniszter szerepéről, a térségben kialakult hatalmi viszonyokról és a hatóságok által megtalált 6,5 milliárd forintról.",
-        "category": "Politika",
-        "published_at": 1795443300
-      }
-    ]
-  },
-  {
-    "group_id": "group_51588e2f4a",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "A Moszad is segített meghiúsítani a Taylor Swift bécsi koncertjei ellen tervezett merényletet, megszólalt a volt vezető",
-        "link": "https://index.hu/kulfold/2026/11/23/moszad-izrael-hirszerzes-taylor-swift-becs-koncert-tamadas/",
-        "image": "https://kep.index.hu/1/0/7266/72660/726608/72660807_5353405_31f9ba99fbe6e7c4870f79752487990e_wm.jpg",
-        "summary": "Az izraeli hírszerzés is együttműködött az osztrák hatóságokkal.",
-        "category": "Általános",
-        "published_at": 1795443480
-      }
-    ]
-  },
-  {
-    "group_id": "group_ddf53b2cb3",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Nyugdíjas SZÉP-kártya: a gyógyszert is megígérték, a feltételek még hiányoznak",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/nyugdijas-szep-kartya-a-gyogyszert-is-megigertek-a-feltetelek-meg-hianyoznak",
-        "image": "https://cdn.hirtv.hu/2026/11/aI9F52gA4Et_quFxTjT62j1a0_75Ifdz_pVLNxgJ6aw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJjZjdmZjRjNDU2ZjRkYzM4MTVmNjdiZThiYTc4ZDUx.webp",
-        "summary": "A nyugdíjas SZÉP-kártya nem válthatja ki a szabadon elkölthető pénzt.",
-        "category": "Politika",
-        "published_at": 1795443451
-      }
-    ]
-  },
-  {
-    "group_id": "group_2abfc6e923",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Rács mögött tölti az ünnepeket Matolcsi György, a volt ügyvédjét viszont kiengedték",
-        "link": "https://24.hu/belfold/2026/11/23/matolcsy-gyorgy-mnb-ugy-letartoztatas/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1145402000-4-e1795421386881-1024x577.jpg",
-        "summary": "A Fővárosi Törvényszék az alábbiakkal indokolta a döntést. The post Rács mögött tölti az ünnepeket Matolcsi György, a volt ügyvédjét viszont kiengedték first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795443358
-      }
-    ]
-  },
-  {
-    "group_id": "group_be0ee0c864",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Mutatjuk, hol vannak a legrosszabb állapotú utak Magyarországon",
-        "link": "https://24.hu/belfold/2026/11/23/legrosszabb-utak-magyarorszagon/",
-        "image": "https://s.24.hu/app/uploads/2026/11/1000gettyimages-2262870119.jpg",
-        "summary": "A közútkezelő többféle szempont alapján osztályozza az utak minőségét, az adatokból kiderül, hol van a legtöbb felújításra szoruló útszakasz. The post Mutatjuk, hol vannak a legrosszabb állapotú utak Magyarországon first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795443307
-      }
-    ]
-  },
-  {
-    "group_id": "group_80c8beb683",
-    "category": "Gazdaság",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Hatalmas hiány alakult ki Magyarországon, az ukrán kukorica behozatalát sürgeti a hazai érdekképviselet",
-        "link": "https://www.portfolio.hu/gazdasag/20261123/hatalmas-hiany-alakult-ki-magyarorszagon-az-ukran-kukorica-behozatalat-surgeti-a-hazai-erdekkepviselet-878514",
-        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1425400825-648443.jpg",
-        "summary": "Súlyos válságba került a magyar sertéságazat a gyenge 2026-os kukoricatermés miatt. A hazai érdekképviselet szerint a takarmányhiány enyhítése és az ágazat megmentése érdekében rövid távon elkerülhetetlen az ukrán gabona szigorúan ellenőrzött importjának engedélyezése.",
-        "category": "Gazdaság",
-        "published_at": 1795443360
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Az ukrán kukorica behozatalát sürgeti a hazai érdekképviselet",
-        "link": "https://www.vadhajtasok.hu/2026/11/23/az-ukran-kukorica-behozatalat-surgeti-a-hazai-erdekkepviselet",
-        "image": "",
-        "summary": "Súlyos válságba került a magyar sertéságazat a gyenge 2026-os kukoricatermés miatt.",
-        "category": "Politika",
-        "published_at": 1795450500
-      }
-    ]
-  },
-  {
-    "group_id": "group_7264d27981",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Mélyponton a magyar beruházások: az elemzők szerint jövőre is nehéz lesz talpra állni",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/beruhazasok-melypont-rossz-kilatasok-elemzok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/6R6kNyx4CAtEYiKJ9sQYvCl_7YooOpLRnuW4fZAt55M/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIzLzQxOTVjNTBlYzhlYmRiNTlhMTdlOTNiZTM1NzY0ZmI3ZjQ4ZTdmMzg5MWJmODNlZDY0YTBhNzkwZDA3ZjJiOTE.jpg",
-        "summary": "Virovácz Péter, az ING Bank vezető közgazdásza különösen kedvezőtlennek nevezte, hogy a vállalati és a költségvetési beruházások egyaránt csökkentek.",
-        "category": "Gazdaság",
-        "published_at": 1795443599
       }
     ]
   },
@@ -794,22 +694,6 @@
         "summary": "Kézmosás, szellőztetés, elegendő pihenés és még néhány apró lépés, amely segíthet a hidegebb hónapokban. Nézd meg videón, mire érdemes figyelned! The post 5 egyszerű szokás, ami segíthet a megfázásszezonban first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795443840
-      }
-    ]
-  },
-  {
-    "group_id": "group_b244f186ae",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Ezt a belső szervedet újra tudod növeszteni: akkor is regenerálódhat, ha 70 százaléka hiányzik",
-        "link": "https://nlc.hu/eletmod/20261123/ez-a-szerved-akkor-is-visszanohet-ha-70-szazaleka-hianyzik/58qfgvw",
-        "image": "",
-        "summary": "Az emberi test elképesztő dolgokra képes, de van egy belső szervünk, amelynek regenerációs képessége még a tudósokat is lenyűgözi. Akár a 70 százalékának elvesztése után is képes visszanyerni eredeti méretét. Egy kutatás most azt is feltárta, milyen különleges folyamatok állnak a háttérben, és miért lehet ez fontos az orvostudomány számára. The post Ezt a belső szervedet újra tudod növeszteni: akkor is regenerálódhat, ha 70 százaléka hiányzik first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1795443000
       }
     ]
   },
@@ -1635,6 +1519,22 @@
         "summary": "Megfellebbezte parlamenti kitiltását Pócs János. A fideszes képviselő szerint a döntés előtt kiküldték a teremből, a házszabály tervezett módosításával pedig az ellenzéket akarják elhallgattatni.Pócs János fideszes orsz...",
         "category": "Politika",
         "published_at": 1795448760
+      }
+    ]
+  },
+  {
+    "group_id": "group_80c8beb683",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Az ukrán kukorica behozatalát sürgeti a hazai érdekképviselet",
+        "link": "https://www.vadhajtasok.hu/2026/11/23/az-ukran-kukorica-behozatalat-surgeti-a-hazai-erdekkepviselet",
+        "image": "",
+        "summary": "Súlyos válságba került a magyar sertéságazat a gyenge 2026-os kukoricatermés miatt.",
+        "category": "Politika",
+        "published_at": 1795450500
       }
     ]
   },
@@ -6049,7 +5949,7 @@
   {
     "group_id": "group_75f8ae23e0",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "444.hu",
@@ -6068,6 +5968,15 @@
         "summary": "A könyv szerzője szerint minden felelősség a kiadót terheli az eset miatt.",
         "category": "Politika",
         "published_at": 1795513624
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Az elkábított Gisèle Pelicot-ról készült meztelen fotókkal reklámoztak egy pszichológiával foglalkozó könyvet",
+        "link": "https://24.hu/elet-stilus/2026/11/24/gisele-pelicot-fotok-konyv-reklam/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gisele-pelicot-fotok-konyv-reklam-bantalmazas-elkabitott-080_hl_mcohen_3134905-1024x576.jpg",
+        "summary": "A kiadó „szerencsétlen kommunikációs hibának” nevezte az incidenst. The post Az elkábított Gisèle Pelicot-ról készült meztelen fotókkal reklámoztak egy pszichológiával foglalkozó könyvet first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795529334
       }
     ]
   },
@@ -10505,7 +10414,7 @@
   {
     "group_id": "group_c6a175d8bc",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "HVG - Gazdaság",
@@ -10515,6 +10424,15 @@
         "summary": "Jövő január elsejétől sávos formában ismét lesz reklámadó, 60 millió forintra csökken az ekho sportolókra vonatkozó, 500 millió forintos felső határa.",
         "category": "Politika",
         "published_at": 1795518626
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Ismét lesz reklámadó, nő az alkoholos italok és a dohánytermékek jövedéki adója",
+        "link": "https://www.vadhajtasok.hu/2026/11/24/ismet-lesz-reklamado-no-az-alkoholos-italok-es-a-dohanytermekek-jovedeki-adoja",
+        "image": "",
+        "summary": "Jövő január elsejétől sávos formában ismét lesz a reklámadó. Nő egyes alkoholos italok és dohánytermékek jövedéki adója, valamint 60 millió forintra csökken az egyszerűsített közteherviselési hozzájárulás (ekho) sportolókra vonatkozó, 500 millió forintos felső határa - döntött kedden az Országgyűlés.",
+        "category": "Politika",
+        "published_at": 1795478400
       }
     ]
   },
@@ -10566,7 +10484,7 @@
         "image": "",
         "summary": "Kedd délelőtt bejelentés érkezett a Győr-Moson-Sopron Megyei Rendőr-főkapitányság Tevékenységirányítási Központjába, miszerint Győr külterületén lövéseket hallottak. A rendőrök a helyszínen egy nő holttestét találták meg – írja a Police.hu.",
         "category": "Politika",
-        "published_at": 1795478400
+        "published_at": 1795523820
       }
     ]
   },
@@ -12561,6 +12479,54 @@
         "summary": "A NASA közlése szerint mindkét eszköz működőképes, de egyelőre próbálják kitalálni a mérnökök, mik okozhatták a problémákat.",
         "category": "Kultúra",
         "published_at": 1795528980
+      }
+    ]
+  },
+  {
+    "group_id": "group_f73de7d593",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Óriási összeget szán a kormány a közúthálózat felújítására",
+        "link": "https://index.hu/gazdasag/2026/11/24/bkm-kozuthalozat-felujitas-katyuzas/",
+        "image": "https://kep.index.hu/1/0/6743/67439/674393/67439383_4979269_eaafdbede35b4fdd8b5f6765f1ec983a_wm.jpg",
+        "summary": "Ötször annyi pénzből gazdálkodhat a szaktárca.",
+        "category": "Politika",
+        "published_at": 1795529580
+      }
+    ]
+  },
+  {
+    "group_id": "group_6aeee2da4f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Bezáratták a legendás visegrádi éttermet, súlyos higiéniai problémákat találtak",
+        "link": "https://index.hu/belfold/2026/11/24/visegrad-etterem-kosz-szennyezodes-zsir-hatosagi-zaras/",
+        "image": "https://kep.index.hu/1/0/7267/72671/726712/72671231_5354109_8d264ff986862ce00ea9eab56ef50def_wm.jpg",
+        "summary": "Csak akkor nyithatnak ki újra, ha arra a kormányhivatal is rábólint.",
+        "category": "Általános",
+        "published_at": 1795529460
+      }
+    ]
+  },
+  {
+    "group_id": "group_0df12ee079",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Szentkirályi Alexandra szerint a Tisza egypárti kontrollt épít a médiában",
+        "link": "https://24.hu/kozelet/2026/11/24/szentkiralyi-alexandra-tisza-part-egypart-kontroll/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1113990355-e1795529695799-1024x577.jpg",
+        "summary": "Az ilyesmi szerinte példátlan európai demokráciákban. The post Szentkirályi Alexandra szerint a Tisza egypárti kontrollt épít a médiában first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1795529736
       }
     ]
   }
