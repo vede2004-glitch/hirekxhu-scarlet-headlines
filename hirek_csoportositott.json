@@ -1,46 +1,5 @@
 [
   {
-    "group_id": "group_f4d082c7fa",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "A repüléskövetési adatok elemzése alapján nyilvánosságra került, hogy a november 9-i navigációs zavar Európa nagy részét érintette",
-        "link": "https://raketa.hu/a-repuleskovetesi-adatok-elemzese-alapjan-nyilvanossagra-kerult-hogy-a-november-9-i-navigacios-zavar-europa-nagy-reszet-erintette/",
-        "image": "https://raketa.hu/uploads/2026/11/gary-lopater-dOOGrK3zcUc-unsplash.jpg",
-        "summary": "A mostani eset nem előzmény nélküli: az NRC beszámolója szerint idén már másodszor zavarták meg szándékosan a navigációs jeleket a holland légtérben.",
-        "category": "Kultúra",
-        "published_at": 1795470448
-      }
-    ]
-  },
-  {
-    "group_id": "group_cabb2f4cf1",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Egy napig tartó keresés után kiderült, hogy nincs is szökött oroszlán Isztambulban",
-        "link": "https://telex.hu/kulfold/2026/11/23/egy-napig-tarto-kereses-utan-kiderult-hogy-nincs-is-szokott-oroszlan-isztambulban-torokorszag",
-        "image": "https://assets.telex.hu/images/20261123/1795470121-temp-4924pi7im6oqffdclmh_cimlap-normal.jpg",
-        "summary": "Még egy irányítóközpontot is felállítottak a nem létező állat befogására.",
-        "category": "Politika",
-        "published_at": 1795470609
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Egy napig tartó keresés után kiderült, hogy nincs is szökött oroszlán Isztambulban",
-        "link": "https://index.hu/kulfold/2026/11/24/torokorszag-isztambul-oroszlan-alhir/",
-        "image": "https://kep.index.hu/1/0/7267/72672/726723/72672313_5354181_56dc9abd84f12c381b2868e8e9d5d6bf_wm.jpg",
-        "summary": "Kész rejtéllyel állnak szemben a hatóságok.",
-        "category": "Általános",
-        "published_at": 1795524840
-      }
-    ]
-  },
-  {
     "group_id": "group_bff4b11075",
     "category": "Általános",
     "articles_count": 1,
@@ -8054,6 +8013,22 @@
     ]
   },
   {
+    "group_id": "group_cabb2f4cf1",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Egy napig tartó keresés után kiderült, hogy nincs is szökött oroszlán Isztambulban",
+        "link": "https://index.hu/kulfold/2026/11/24/torokorszag-isztambul-oroszlan-alhir/",
+        "image": "https://kep.index.hu/1/0/7267/72672/726723/72672313_5354181_56dc9abd84f12c381b2868e8e9d5d6bf_wm.jpg",
+        "summary": "Kész rejtéllyel állnak szemben a hatóságok.",
+        "category": "Általános",
+        "published_at": 1795524840
+      }
+    ]
+  },
+  {
     "group_id": "group_9dcbfa41a6",
     "category": "Általános",
     "articles_count": 1,
@@ -12366,7 +12341,7 @@
   {
     "group_id": "group_19f64cb341",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "444.hu",
@@ -12376,6 +12351,15 @@
         "summary": "A fegyveresek kétmillió dollárt és szabad elvonulást követelnek, terrorelhárítók vették körbe az épületet.",
         "category": "Politika",
         "published_at": 1795552177
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Túszejtés lett egy félresikerült rablásból Kolumbiában",
+        "link": "https://telex.hu/kulfold/2026/11/24/kolumbia-tuszejtes-felresikerult-rablas-penzszallito",
+        "image": "https://assets.telex.hu/images/20261124/1795555224-temp-2o5igacnfuos0pbjcbe_cimlap-normal.jpg",
+        "summary": "A fegyveresek egy szupermarketbe menekültek be Cartagena városában.",
+        "category": "Politika",
+        "published_at": 1795555713
       }
     ]
   },
@@ -12599,7 +12583,7 @@
         "image": "https://raketa.hu/uploads/2026/11/sneschatgpt.jpg",
         "summary": "Bár a mai fejlett AI-alapú chatbotok alapjának számító nagy nyelvi modellekre (LLM-ekre) gyakran úgy tekintünk, mint a legkorszerűbb technológiára, néha meglepő projektek bizonyítják be, hogy a futtatásukhoz egyáltalán nem szükséges nagy teljesítményű hardver.",
         "category": "Kultúra",
-        "published_at": 1795556694
+        "published_at": 1795557082
       }
     ]
   }
