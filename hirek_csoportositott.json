@@ -84,31 +84,6 @@
     ]
   },
   {
-    "group_id": "group_2dbf45fa38",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Rendőrautó és villamos ütközött Budapesten",
-        "link": "https://hvg.hu/cegauto/20261123_budapest-4-6-os-17-es-villamos-baleset-utkozes-rendorauto",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8f3824b9-2992-43a1-bafe-f195e0648998.jpg",
-        "summary": "A rendőrség vizsgálja a baleset körülményeit.",
-        "category": "Politika",
-        "published_at": 1795422292
-      },
-      {
-        "source": "Femina",
-        "title": "Rendőrautóval ütközött egy villamos Budapesten: itt történt a baleset",
-        "link": "https://femina.hu/utazas/rendoauto-villamos-utkozes-budapest-baleset/",
-        "image": "https://femina.hu/neon/media/renditions/438/438822/2ea9fdd0fb602bea.jpg",
-        "summary": "Vizsgálja a rendőrség a baleset körülményeit.",
-        "category": "Bulvár",
-        "published_at": 1795423122
-      }
-    ]
-  },
-  {
     "group_id": "group_2896cd7113",
     "category": "Politika",
     "articles_count": 2,
@@ -246,22 +221,6 @@
     ]
   },
   {
-    "group_id": "group_b15118cf82",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Kezdődnek a budai fonódó munkálatai, Vitézy szerint ez fog zavart okozni a város közlekedésében",
-        "link": "https://telex.hu/belfold/2026/11/23/budai-fonodo-villamos-budapest-lezaras",
-        "image": "https://assets.telex.hu/images/20261123/1795422471-temp-ktidgt3ev24pfndemnm_cimlap-normal.jpg",
-        "summary": "De még nem akkorát, mint amekkora a következő években lesz – jegyezte meg.",
-        "category": "Politika",
-        "published_at": 1795422576
-      }
-    ]
-  },
-  {
     "group_id": "group_3df6365312",
     "category": "Általános",
     "articles_count": 1,
@@ -340,6 +299,22 @@
         "summary": "A javuló adatok ellenére továbbra is jelentős különbség van a lakosság által érzékelt és a statisztikákban szereplő infláció között.",
         "category": "Gazdaság",
         "published_at": 1795423078
+      }
+    ]
+  },
+  {
+    "group_id": "group_2dbf45fa38",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Rendőrautóval ütközött egy villamos Budapesten: itt történt a baleset",
+        "link": "https://femina.hu/utazas/rendoauto-villamos-utkozes-budapest-baleset/",
+        "image": "https://femina.hu/neon/media/renditions/438/438822/2ea9fdd0fb602bea.jpg",
+        "summary": "Vizsgálja a rendőrség a baleset körülményeit.",
+        "category": "Bulvár",
+        "published_at": 1795423122
       }
     ]
   },
@@ -12181,6 +12156,54 @@
         "summary": "",
         "category": "Politika",
         "published_at": 1795508387
+      }
+    ]
+  },
+  {
+    "group_id": "group_adf3582b1b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Évszázados rekorddal szakadt meg az elképesztő zakószéria",
+        "link": "https://index.hu/sport/jegkorong/2026/11/24/nhl-toronto-maple-leafs-auston-matthews/",
+        "image": "",
+        "summary": "Ráadásul kétgólos hátrányból lett meg végre a siker.",
+        "category": "Általános",
+        "published_at": 1795508760
+      }
+    ]
+  },
+  {
+    "group_id": "group_db8885f8d3",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A hetedik cikkes magyar eljárás megszüntetésére utalt a soros uniós elnökség",
+        "link": "https://telex.hu/kulfold/2026/11/24/eu-europai-parlament-jogallamisag-hetedik-cikk-eljaras-vita",
+        "image": "https://assets.telex.hu/images/20261123/1795441819-temp-5dh9j39jf9gr6jefpna_cimlap-normal.jpg",
+        "summary": "Ha az Európai Parlament megalapozottnak látja a hetedik cikkes eljárás megszüntetését, és visszavonja a 2018-as javaslatát a megindítására, az EU miniszteri Tanácsa ezt természetesen „tudomásul veszi”.",
+        "category": "Politika",
+        "published_at": 1795508691
+      }
+    ]
+  },
+  {
+    "group_id": "group_6810a78056",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Fontos ügyekben dönt a parlament",
+        "link": "https://24.hu/kozelet/2026/11/24/fontos-ugyekben-dont-a-parlament/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1122495304-1-e1795506807436-1024x577.jpg",
+        "summary": "Cikkünk frissül! Változatlan formában fogadhatja el az államfő által megfontolásra visszaküldött, a The post Fontos ügyekben dönt a parlament first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1795508798
       }
     ]
   }
