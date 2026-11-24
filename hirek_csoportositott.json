@@ -295,22 +295,6 @@
     ]
   },
   {
-    "group_id": "group_41e95919a1",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Mészáros Lőrincék kezében minden harmadik forint nyereséggé vált az M1-es autópályán",
-        "link": "https://24.hu/fn/gazdasag/2026/11/23/meszaros-lorinc-tularazas-m1-autopalya-koncesszio-24extra/",
-        "image": "https://s.24.hu/app/uploads/2026/11/ill24_msz_m1_01-1024x576.jpg",
-        "summary": "Mészáros Lőrinc csaknem 50 milliárd forint osztalékot húzott ki egyetlen cégből, amely az M1-es sztráda felújításával párhuzamosan nőtt nagyra. Most elzárják a közpénzcsapot. The post Mészáros Lőrincék kezében minden harmadik forint nyereséggé vált az M1-es autópályán first appeared on 24.hu.",
-        "category": "Gazdaság",
-        "published_at": 1795409814
-      }
-    ]
-  },
-  {
     "group_id": "group_fc08294b27",
     "category": "Bulvár",
     "articles_count": 1,
@@ -11485,7 +11469,7 @@
   {
     "group_id": "group_56fc50c92b",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "444.hu",
@@ -11495,6 +11479,15 @@
         "summary": "A hackerek által megszerzett hivatalos orosz adatok 4 és 500 ezer közötti áldozatról szólnak, de ebben nincsenek benne az idei halottak és a tavalyiak egy része sem. Valük együtt lehetnek ilyen rengetegen.",
         "category": "Politika",
         "published_at": 1795462181
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "700 ezernél is több orosz halálos áldozata lehet az ukrajnai háborúnak",
+        "link": "https://telex.hu/kulfold/2026/11/24/orosz-ukran-haboru-aldozatok-adatok-hekkerek",
+        "image": "https://assets.telex.hu/images/20261124/1795495537-temp-2vidac8cb1modnnpkgm_cimlap-normal.jpg",
+        "summary": "Szeptember végéig legalább 490 ezer orosz katona halt meg, ehhez jönnek még az eltűntek és a nem regisztrált halottak.",
+        "category": "Politika",
+        "published_at": 1795495669
       }
     ]
   },
@@ -12248,7 +12241,7 @@
         "image": "https://raketa.hu/uploads/2026/08/GettyImages-549031537222.jpg",
         "summary": "November 26-án este ismét rendszerfejlesztést végez az Erste Bank, amely több szolgáltatás működését is érinti.",
         "category": "Kultúra",
-        "published_at": 1795495913
+        "published_at": 1795496281
       }
     ]
   },
@@ -12328,7 +12321,7 @@
         "image": "https://raketa.hu/uploads/2026/11/hurricane2.jpg",
         "summary": "A halottak között brit és amerikai katonák is voltak, hiszen ekkor még javában zajlott az amerikai függetlenségi háború. A hurrikán szélsebességéről és csapadékáról nincsenek megbízható mérések, de korabeli feljegyzések szerint a vihar teljesen lecsupaszította a fákat, amiből kiindulva akár 5-ös erősségű is lehetett a ciklon.",
         "category": "Politika",
-        "published_at": 1795495913
+        "published_at": 1795496281
       }
     ]
   },
@@ -12377,6 +12370,22 @@
         "summary": "A kínai horoszkóp szerint három jegy életében különösen szerencsés időszak kezdődhet, amely váratlan lehetőségeket és örömteli fordulatokat tartogathat. A következő hetekben a pénzügyek, a szerelem és a munka területén is kedvező változások érkezhetnek, ha időben felismerik a kínálkozó alkalmakat. The post 3 kínai jegy, akikre hatalmas szerencse vár – most minden megváltozhat first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795494780
+      }
+    ]
+  },
+  {
+    "group_id": "group_3d3304700c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Egy lépéssel annyit spórol a kormány, mintha mindennap kiásnák a Seszták-féle milliárdokat, négy éven keresztül",
+        "link": "https://telex.hu/g7/kozelet/2026/11/24/sztradakoncesszio-mkif-felmondas-megtakaritas-szazmilliardok-m1",
+        "image": "https://assets.telex.hu/images/20261120/1795174617-temp-brcdjsfn6gl54ilhmgp_cimlap-normal.jpg",
+        "summary": "Az autópálya-koncessziós szerződés megszüntetéséből fakadó megtakarítás a következő 30 évre oszlik el, de már jövőre is százmilliárdos nagyságrendű összeget spórol így a magyar állam.",
+        "category": "Politika",
+        "published_at": 1795495802
       }
     ]
   }
