@@ -3285,22 +3285,6 @@
     ]
   },
   {
-    "group_id": "group_c84c6dedf2",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Vadhajtások",
-        "title": "„Örökre besározták a nevemet” – újabb súlyos hiba a tiszás ügynökbotrányban",
-        "link": "https://www.vadhajtasok.hu/2026/11/23/orokre-besaroztak-a-nevemet-ujabb-sulyos-hiba-a-tiszas-ugynokbotranyban",
-        "image": "",
-        "summary": "Újabb emberi sorsot tett tönkre az ügynökakták nyilvánosságra hozatalát kísérő adatkezelési hiba. Balajthy József nyugalmazott református lelkész neve annak ellenére került fel a hálózati személyek listájára, hogy állítása szerint soha nem m...",
-        "category": "Politika",
-        "published_at": 1795469340
-      }
-    ]
-  },
-  {
     "group_id": "group_46e628714c",
     "category": "Politika",
     "articles_count": 1,
@@ -12600,6 +12584,22 @@
         "summary": "A kormány 2026-ban kétmilliárd forintot irányított át a kárpátaljai magyarokat támogató programba.",
         "category": "Politika",
         "published_at": 1795554494
+      }
+    ]
+  },
+  {
+    "group_id": "group_4f741aefc2",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "A ChatGPT már egy több mint 30 éves Nintendo konzolon is működik, de azért van egy apró bökkenő vele",
+        "link": "https://raketa.hu/openai-chatgpt-nintendo-snes-konzol-projekt/",
+        "image": "https://raketa.hu/uploads/2026/11/sneschatgpt.jpg",
+        "summary": "Bár a mai fejlett AI-alapú chatbotok alapjának számító nagy nyelvi modellekre (LLM-ekre) gyakran úgy tekintünk, mint a legkorszerűbb technológiára, néha meglepő projektek bizonyítják be, hogy a futtatásukhoz egyáltalán nem szükséges nagy teljesítményű hardver.",
+        "category": "Kultúra",
+        "published_at": 1795555820
       }
     ]
   }
