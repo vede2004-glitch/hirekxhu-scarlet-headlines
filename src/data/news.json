@@ -1834,43 +1834,79 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_76f7ec4b02",
-    "slug": "nem-valasztotta-meg-a-parlament-drnert-es-klausmannt-a-kzmedia-testuletbe-76f7ec",
+    "group_id": "group_c27d8191e1",
+    "slug": "uj-adojovairas-cskkenti-a-minimalberesek-szja-terhet-2027-tol-c27d81",
     "tags": [
-      "fuggetlen-kozmedia-testulet",
-      "orszaggyules",
-      "dorner-gyorgy",
-      "klausmann-viktor"
+      "adozas",
+      "szja",
+      "minimalber",
+      "adojovairas"
     ],
-    "fingerprint": "75cfdc72d3be2d5fdece148dd17fdb4e",
+    "fingerprint": "34e400cf43a8d0f398678413d5a3a411",
     "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261124/1795514221-temp-ipqvrgrsomjg7hpniib_cimlap-normal.jpg",
+    "image": "https://assets.telex.hu/images/20261124/1795505482-temp-c2ia4ft0b2h29jlemfe_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
     "sources_count": 3,
     "sources": [
       {
         "source": "Telex - Belföld",
-        "title": "Ismét visszadobta az Országgyűlés a Független Közmédia Testületbe delegált fideszes és mi hazánkos jelölteket",
-        "link": "https://telex.hu/after/2026/11/24/fuggetlen-kozmedia-tesulet-dorner-gyorgy-klausmann-viktor-jeloltek-szavazas"
+        "title": "Megszavazták: havi húszezer forinttal több marad a minimálbéreseknél, duplázódik a családi pótlék – de nem minden anya jár jól",
+        "link": "https://telex.hu/gazdasag/2026/11/24/adojovairas-csaladi-potlek-emeles-mennyivel-hogyan-kinek-emelt-szavazas"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megszavazták a nagy adóátalakítást, lesz, aki több tízezer forinttal jár jobban",
+        "link": "https://index.hu/gazdasag/2026/11/24/kormany-parlament-adojovairas-minimalber-szja/"
+      },
+      {
+        "source": "Hír TV",
+        "title": "Adócsökkentést ígértek, adóemeléseket szavaztak meg",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/adocsokkentest-igertek-adoemeleseket-szavaztak-meg"
+      }
+    ],
+    "published_at": 1795521600,
+    "title_hu": "Új adójóváírás csökkenti a minimálbéresek szja-terhét 2027-től",
+    "lead_hu": "Az Országgyűlés elfogadta az adórendszer átalakításáról szóló törvényt. A 2027. január 1-jén bevezetendő adójóváírás a minimálbér kétszereséig mérsékli a munkabérek után fizetendő személyi jövedelemadót.",
+    "content_hu": "• **A minimálbér után 9 százalékra csökkenhet a tényleges szja-teher**: a 15 százalékos adókulcs megmarad, de a minimálbér összegének 6 százalékával megegyező jóváírás mérsékli a befizetendő adót.\n\n• **A kedvezmény a minimálbér kétszereséig fokozatosan csökken**: az e fölötti keresetekre ismét a teljes, 15 százalékos szja vonatkozik.\n\n• **A minimálbéresek havi nettója több mint 20 ezer forinttal emelkedhet** változatlan bruttó bér mellett; a változás csaknem 2,5 millió adózót érinthet.\n\n• **Átalakul a kedvezmények elszámolása és az anyák szja-mentessége is**: a családi, az első házasoknak járó, a 25 év alattiakhoz kötődő, valamint egyes személyi és tevékenységi kedvezményeket közvetlenül az szja-ból lehet majd levonni.",
+    "importance_score": 45.0,
+    "top_rank": 33,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_adf505472e",
+    "slug": "lelottek-egy-not-gyorben-adf505",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/5BC8JWu-W2f0HLp-du_Ks4aC-7LV6k8ZL0BsPsukm6Q/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjQvNDZjMGJlMDQ3YWFhY2FhYmM0MTk2OGIwOGUxNDU2NTIzNmI4MmIyZTdmMWQ5MDUyZTliMDcwZmRhYWVhNzBhMQ.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Lelőttek egy nőt Győrben",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/lelottek-egy-not-gyorben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
       },
       {
         "source": "HVG - Itthon",
-        "title": "Az Országgyűlés megint nem támogatta Dörner György és Klausmann Viktor kinevezését a Független Közmédia Testületbe",
-        "link": "https://hvg.hu/itthon/20261124_orszaggyules-dorner-gyorgy-klausmann-viktor-fuggetlen-kozmedia-testulet"
+        "title": "Lelőttek egy nőt Győrben",
+        "link": "https://hvg.hu/itthon/20261124_lovoldozes-gyor-halott-no"
       },
       {
-        "source": "Magyar Nemzet",
-        "title": "Dörner György jelölését sem támogatta a parlament, a Fidesz jelöltje sem került be a Független Közmédia Testületbe",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/parlament-fidesz-mi-hazank-jelolt-fuggetlen-kozmedia-testulet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        "source": "HVG - Itthon",
+        "title": "Elfogatóparancsot adott ki a rendőrség a Győrben meggyilkolt nő ügyében",
+        "link": "https://hvg.hu/itthon/20261124_lelott-meggyilkolt-no-gyor-elfogatoparancs"
       }
     ],
-    "published_at": 1795519910,
-    "title_hu": "Nem választotta meg a parlament Dörnert és Klausmannt a közmédia-testületbe",
-    "lead_hu": "Az Országgyűlés kedden elutasította Dörner György és Klausmann Viktor jelölését a Független Közmédia Testületbe. A Mi Hazánk és a Fidesz által támogatott jelöltek kinevezéséhez nem volt meg a szükséges kétharmados többség.",
-    "content_hu": "• **Mindkét jelöltet elutasították:** Dörner György, a Mi Hazánk jelöltje 85 igen, 77 nem és 26 tartózkodó szavazatot kapott, Klausmann Viktorra, a Fidesz jelöltjére pedig 100 képviselő szavazott igennel, 67 nemmel és 22-en tartózkodtak.\n\n• **Kétharmados támogatás kellett volna:** A jelöltek megválasztásához a jelen lévő képviselők kétharmadának támogatása volt szükséges.\n\n• **Korábbi jelöltek sem jutottak tovább:** A két párt korábbi jelöltjeit is elutasították; Dörner és Klausmann viszont megkapta az Országgyűlés művelődési bizottságának támogatását.",
+    "published_at": 1795520701,
+    "title_hu": "Lelőttek egy nőt Győrben",
+    "lead_hu": "Nyomoz a rendőrség, a tragédia körülményeit jelenleg is vizsgálják.",
+    "content_hu": "Nyomoz a rendőrség, a tragédia körülményeit jelenleg is vizsgálják.",
     "importance_score": 45.0,
-    "top_rank": 33,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1911,7 +1947,7 @@
     "lead_hu": "Az Országgyűlés megszavazta a Tisza-kormány vagyonadóját tartalmazó adócsomagot. Az új teher az egymilliárd forint feletti, törvény szerint számított nettó vagyonra vonatkozik.",
     "content_hu": "• **Adókulcsok** Az egymilliárd forintot meghaladó vagyonrész után 100 milliárd forintos vagyonértékig 1 százalékos, az afölötti részre 1,5 százalékos adót kell fizetni.\n\n• **Az adó hatálya** A magyar adóügyi illetőségű magánszemélyek külföldön tartott vagyona is beleszámíthat az adóalapba. Külföldi illetőségűeknél egyes magyarországi ingatlanok és vállalati részesedések után is felmerülhet fizetési kötelezettség.\n\n• **Éves elszámolás** Az adót évente, az év végi vagyonállapot alapján kell meghatározni. A szabályok a bizalmi vagyonkezelésbe adott vagyont, valamint egyes befektetésekben tartott megtakarításokat is érinthetik.\n\n• **Hatálybalépés** A törvény a kihirdetését követő 31. napon lép hatályba. Ha november 30-ig megjelenik a Magyar Közlönyben, a 2026. december 31-i vagyonállapot alapján is keletkezhet kötelezettség, amelynek határideje 2027. augusztus 31.",
     "importance_score": 43.0,
-    "top_rank": 34,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1957,7 +1993,7 @@
     "lead_hu": "Kardosné Gyurkó Katalin vagyonnyilatkozata szerint korábbi miniszterelnöki biztosi munkája után havi 300 ezer forint álláskeresési támogatást kapott, ami nem érte el a minimálbért. Orbán Balázs európai parlamenti képviselővé válása után átvette annak parlamenti mandátumát; képviselői díjazása alelnöki pótlékkal együtt közel 2,9 millió forint lehet.",
     "content_hu": "• **Álláskeresési támogatás** A vagyonnyilatkozat szerint a miniszterelnöki biztosi megbízatás lezárulta után havi 300 ezer forint támogatásban részesült, amely a források szerint kevesebb volt a minimálbérnél.\n\n• **Korábbi tisztségek és jövedelmek** Miniszterelnöki biztosként havonta 1,9 millió forintot kapott. Ezt megelőzően Hankó Balázs nevezte ki a generációk közötti együttműködés segítéséért felelős miniszteri biztosnak, havi több mint 1,2 millió forintos díjazással. A Nagycsaládosok Országos Egyesületének elnökeként 360 ezer, kuratóriumi tagként 285 ezer, egy másik megbízásból pedig 350 ezer forint havi bevételt tüntetett fel.\n\n• **Választások és parlamenti mandátum** Kardosné Gyurkó Katalin az érdi országgyűlési választáson és korábban a város polgármester-választásán is vereséget szenvedett. Orbán Balázs az Európai Parlamentbe került, így megüresedett országgyűlési helyét Kardosné vette át. Képviselői tiszteletdíja a bizottsági alelnöki pótlékkal együtt közel 2,9 millió forint lehet.\n\n• **Vagyonnyilatkozat** Három ingatlant jelölt meg: egy 49 négyzetméteres zuglói lakást és két vecsési családi házat. Egy régi Mazdát, egy 1,5 millió forintra becsült lovat, valamint közel 15 millió forint megtakarítást is feltüntetett.",
     "importance_score": 43.0,
-    "top_rank": 35,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2004,7 +2040,7 @@
     "lead_hu": "A Tisza Párt módosító javaslata elvenné a magyar EP-képviselők felszólalási lehetőségét az uniós tárgyú törvényjavaslatok parlamenti vitáiban, de a tervezet még nem kapott végleges jóváhagyást. Deutsch Tamás a kezdeményezést korábbi beszédeivel és a sportvezetői összeférhetetlenségi vitával hozta összefüggésbe; az előterjesztő szerint a szakértőként való részvétel továbbra is lehetséges maradna.",
     "content_hu": "• **A javaslat korlátozná a felszólalást** A módosítás alapján a magyar európai parlamenti képviselők nem szólhatnának hozzá az uniós témájú törvényjavaslatok bizottsági és plenáris tárgyalásához. Meghívott szakértőként továbbra is részt vehetnének az üléseken. A lehetőség 2004 óta adott; elsőként Szájer József élt vele október 5-én. A javaslatról még nem született elfogadó döntés.\n\n• **Deutsch többféle néven emlegette a kezdeményezést** A politikus egy videóban szájzártörvénynek nevezte a tervet, és azt állította, hogy az ő, valamint Dömötör Csaba korábbi felszólalásai után terjesztették elő. A kezdeményezést a második lex Deutschként, Dömötör esetében pedig első ilyen szabályként írta le. Egy Facebook-bejegyzésében a Lex Deutsch III. elnevezést is használta, és a 2024-es európai parlamenti választáson elért eredményével magyarázta a szerinte ellene irányuló lépéseket.\n\n• **Hantosi István a hazai szabályozást tágabbnak tartja** A tiszás előterjesztő szerint más uniós országokhoz képest Magyarországon szélesebb körű a képviselők felszólalási lehetősége. Azt is jelezte, hogy nyitott a felmerülő kérdések megvitatására. A kormánypárt a változtatást a parlamenti munka demokratikusabbá és átláthatóbbá tételével indokolta.\n\n• **A sportvezetői vita is előzményként jelent meg** November 3-án Deutsch az MTK elnöki posztját is érintő összeférhetetlenségi javaslatról vitázott a parlamentben. Havasi Balázs, a Tisza képviselője a Brüsszelből érkező politikusként utalt rá. Deutsch arról beszélt, hogy ötéves kora óta jár az MTK mérkőzéseire, és édesapja, valamint nagyapja is a klub szurkolója volt.\n\n• **A tervezet nagy sportegyesületek vezetőit érintheti** Az 500-nál több igazolt sportolóval rendelkező kluboknál korlátozná egyes jelenlegi politikai tisztségviselők, továbbá a mandátumuk megszűnésétől számított négy éven belül lévő volt országgyűlési és EP-képviselők vezetői szerepét. Az MTK mellett a Ferencváros elnökének, Kubatov Gábornak a helyzete is érintett lehet. Kubatovot október végén újabb négy évre választották meg; korábban a Fidesz alelnöke és pártigazgatója volt, országgyűlési mandátuma pedig az idén szűnt meg. A korábbi képviselőkre vonatkozó szabály pontosítására novemberben újabb módosítás készült, a tervezet alkotmányosságával kapcsolatban is felmerültek kérdések, és a szabályozás még nem lépett hatályba.",
     "importance_score": 43.0,
-    "top_rank": 36,
+    "top_rank": 37,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2050,7 +2086,7 @@
     "lead_hu": "Ursula von der Leyen ismertette az Oroszország elleni 22. uniós szankciós csomag tervezetét. A javaslat pénzügyi és energetikai korlátozásokat, valamint a volt orosz katonák uniós beutazásának és az orosz sportolók európai szereplésének korlátozását is tartalmazza. A csomagról a tagállamok tárgyalnak, elfogadása még nem történt meg.",
     "content_hu": "• **A csomag célja** az Oroszországra gyakorolt politikai nyomás fenntartása és fokozása, amíg nem születik igazságos és tartós béke Ukrajnában.\n\n• **Pénzügyi intézkedések** részeként 60 orosz bank SWIFT-rendszerből való kizárását javasolják. Az európai állampolgárok nem tölthetnének be vezető testületi tisztséget orosz vállalatoknál, a tervezet pedig kriptoplatformokat is célba vesz.\n\n• **Energetikai és hajózási korlátozások** keretében kiterjesztenék az energetikai szolgáltatásokra vonatkozó tilalmat, és további több mint 70 hajóval bővítenék az orosz árnyékflotta szankciós listáját. Az uniós vállalatok nem javíthatnák meg az ukrán dróntámadásokban megrongálódott orosz olajfinomítókat.\n\n• **A volt orosz katonákat érintő vízumtilalom** azokra vonatkozna, akik a háború 2022-es eszkalációja óta szolgáltak vagy szolgálnak az orosz fegyveres erőknél. A korlátozás jogi kereteit egy korábbi, nyáron elfogadott szankciós csomag már megteremtette, de az intézkedést eddig nem léptették életbe.\n\n• **A sporteseményekre vonatkozó javaslat** kizárná az uniós versenyekről az orosz csapatokat és az orosz képviseletben induló sportolókat. Az orosz állami jelképek használatát is tiltanák, továbbá korlátoznák az orosz szponzoroktól az európai sport- és kulturális szervezetekhez áramló pénzeket, valamint az orosz állampolgárok európai sportszövetségi vezetői tisztségeit.\n\n• **További beutazási és kulturális szabályok** szigorúbb turistavízum-feltételeket, illetve az EU-ba utazó művészekre vonatkozó korlátozásokat is tartalmaznának.\n\n• **A javaslat elfogadásáról** az uniós tagállamok tárgyalnak; diplomaták az év vége előtti megállapodást tartanák kívánatosnak.",
     "importance_score": 43.0,
-    "top_rank": 37,
+    "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2097,7 +2133,7 @@
     "lead_hu": "Parasztu Ahmadi énekesnőre és négy társára fejenként 74 korbácsütést mértek hétfőn Komban. A büntetést egy 2024 decemberében felvett, fejkendő nélküli fellépésük miatt szabták ki; a bíróság további korlátozásokat is elrendelt.",
     "content_hu": "• **A büntetés végrehajtása** Ahmadi ügyvédjének tájékoztatása szerint az énekesnőt és négy társát hétfőn, Komban korbácsolták meg.\n\n• **Az ítélet indoka** A júniusi bírósági döntés egy közönség nélküli, interneten közvetített koncertet büntetett, amelyet a hatóságok erkölcstelennek minősítettek.\n\n• **A koncert felvétele** A 2024 decemberében rögzített, Elképzelt koncert című videóban Ahmadi fejkendő nélkül, ujjatlan ruhában szerepelt. A felvétel megtekintéseinek száma meghaladta a hárommilliót a YouTube-on.\n\n• **A megbüntetett társak** Az énekesnő mellett Szoheil Fakih-Naszíri, Amin Taheri, Amírali Pirnia és Mohszen Laskari is 74 korbácsütést kapott.\n\n• **További korlátozások** A bíróság két évre megtiltotta a csoport tagjainak az audiovizuális tevékenységet, és az országból való távozásukat is korlátozta. A védők büntetésenyhítési és halasztási kérelmei nem vezettek eredményre.\n\n• **Az iráni törvény** A 2024-ben elfogadott, hivatalosan még életbe nem léptetett szabályozás pénzbírságot és korbácsolást is lehetővé tesz, visszatérő esetekben pedig 5–15 év börtönbüntetést helyez kilátásba.\n\n• **A reakciók** Művészek és emberi jogi szervezetek is bírálták a büntetést.",
     "importance_score": 43.0,
-    "top_rank": 38,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2133,7 +2169,7 @@
     "lead_hu": "Bérmegállapodás született a Budapesti Dr. Manninger Jenő Baleseti Központ trauma-intenzív osztályán felmondó 13 ápolóval. A dolgozók maradnak, fizetésüket pedig a más budapesti kórházakban hasonló munkakörben dolgozók béréhez igazítják.",
     "content_hu": "• **Tizenhárom felmondás** A trauma-intenzív osztály 13 ápolója azért adta be felmondását, mert nem sikerült rendezni a más intézmények dolgozóihoz képest fennálló bérkülönbségeket.\n\n• **Megállapodás a bérekről** Az egyezség nyomán az osztály ápolóinak fizetését a más budapesti kórházakban azonos beosztásban dolgozók béréhez közelítik. A béremelés részleteit nem hozták nyilvánosságra.\n\n• **Folytatódik a közös munka** A 13 szakápoló egyelőre a Baleseti Központban marad, így elmarad a tervezett kollektív távozás.\n\n• **Márciusi felülvizsgálat** A megállapodást márciusban újraértékelik.",
     "importance_score": 40.0,
-    "top_rank": 39,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2164,7 +2200,7 @@
     "lead_hu": "Az Országgyűlés keddi döntése után Kálnoki-Kiss Attila sportállamtitkár is reagált.",
     "content_hu": "Az Országgyűlés keddi döntése után Kálnoki-Kiss Attila sportállamtitkár is reagált.",
     "importance_score": 40.0,
-    "top_rank": 40,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2205,7 +2241,48 @@
     "lead_hu": "Arion Kurtajt hét év börtönbüntetésre ítélték a Rockstar Games és több más vállalat informatikai rendszere elleni támadások miatt. A 21 éves férfi az ítélethirdetés után szabadon távozhatott, mert a bíróság figyelembe vette a korábban fogságban töltött időt.",
     "content_hu": "• **Az ítélet** A londoni bíróság hét év börtönbüntetést szabott ki Arion Kurtajra, aki az ítélethirdetés után szabadon távozhatott. A döntésnél a bíró mérlegelte a már őrizetben töltött időt, a férfi életkorát és egészségi állapotát.\n\n• **A GTA VI kiszivárogtatása** Kurtaj betört a játékot fejlesztő Rockstar Games rendszerébe, és nyilvánosságra hozott felvételeket a készülő videojátékról.\n\n• **További célpontok** A 21 éves férfi a Rockstar mellett a Revolut, az Uber és a brit BT/EE rendszereinek feltörésében is bűnösnek vallotta magát. Az ügyben a Lapsus$ hackercsoporttal való kapcsolatát is említették.\n\n• **Egészségi állapota** Kurtaj korábban két évet töltött egy szigorúan őrzött egészségügyi intézményben. Az ítélet meghozatalakor autizmusát is figyelembe vették.",
     "importance_score": 40.0,
-    "top_rank": 41,
+    "top_rank": 42,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_76f7ec4b02",
+    "slug": "nem-valasztotta-meg-a-parlament-drnert-es-klausmannt-a-kzmedia-testuletbe-76f7ec",
+    "tags": [
+      "fuggetlen-kozmedia-testulet",
+      "orszaggyules",
+      "dorner-gyorgy",
+      "klausmann-viktor"
+    ],
+    "fingerprint": "75cfdc72d3be2d5fdece148dd17fdb4e",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261124/1795514221-temp-ipqvrgrsomjg7hpniib_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Ismét visszadobta az Országgyűlés a Független Közmédia Testületbe delegált fideszes és mi hazánkos jelölteket",
+        "link": "https://telex.hu/after/2026/11/24/fuggetlen-kozmedia-tesulet-dorner-gyorgy-klausmann-viktor-jeloltek-szavazas"
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Az Országgyűlés megint nem támogatta Dörner György és Klausmann Viktor kinevezését a Független Közmédia Testületbe",
+        "link": "https://hvg.hu/itthon/20261124_orszaggyules-dorner-gyorgy-klausmann-viktor-fuggetlen-kozmedia-testulet"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Dörner György jelölését sem támogatta a parlament, a Fidesz jelöltje sem került be a Független Közmédia Testületbe",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/parlament-fidesz-mi-hazank-jelolt-fuggetlen-kozmedia-testulet?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795519910,
+    "title_hu": "Nem választotta meg a parlament Dörnert és Klausmannt a közmédia-testületbe",
+    "lead_hu": "Az Országgyűlés kedden elutasította Dörner György és Klausmann Viktor jelölését a Független Közmédia Testületbe. A Mi Hazánk és a Fidesz által támogatott jelöltek kinevezéséhez nem volt meg a szükséges kétharmados többség.",
+    "content_hu": "• **Mindkét jelöltet elutasították:** Dörner György, a Mi Hazánk jelöltje 85 igen, 77 nem és 26 tartózkodó szavazatot kapott, Klausmann Viktorra, a Fidesz jelöltjére pedig 100 képviselő szavazott igennel, 67 nemmel és 22-en tartózkodtak.\n\n• **Kétharmados támogatás kellett volna:** A jelöltek megválasztásához a jelen lévő képviselők kétharmadának támogatása volt szükséges.\n\n• **Korábbi jelöltek sem jutottak tovább:** A két párt korábbi jelöltjeit is elutasították; Dörner és Klausmann viszont megkapta az Országgyűlés művelődési bizottságának támogatását.",
+    "importance_score": 38.0,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2246,7 +2323,7 @@
     "lead_hu": "Kármán András ismertetése szerint több adónemből a tervezettnél kevesebb bevétel folyt be, miközben az állam kamatterhei jelentősen túllépték az előirányzatot. A nyugdíjkiadások is meghaladták az eredetileg tervezett összeget.",
     "content_hu": "• **A kamatkiadások megközelítették a 4200 milliárd forintot:** ez 9,4 százalékkal volt több az előirányzatnál. Kármán szerint Magyarország GDP-arányos kamatterhe Olaszországéval együtt a legmagasabb volt az Európai Unióban.\n\n• **Több adónemből elmaradtak a bevételek a tervtől:** a legnagyobb különbség a társasági adónál jelentkezett, de az áfa, a személyi jövedelemadó, a jövedéki adó, a kisvállalati adó és a kiskereskedelmi adó bevételei sem érték el a tervezett szintet.\n\n• **A nyugdíjkiadások 82 milliárd forinttal lépték túl az előirányzatot:** a januári 3,2 százalékos emelést novemberben 1,6 százalékos, visszamenőleges korrekció követte. A két intézkedés 273,3 milliárd forinttal növelte a Nyugdíjbiztosítási Alap kiadásait.\n\n• **A 13. havi nyugdíjra 501,5 milliárd forint jutott:** nyugdíjprémiumot a gazdasági növekedés elmaradása miatt nem fizettek, az egyszeri élelmiszer-utalványok költsége pedig 60 milliárd forint volt.",
     "importance_score": 38.0,
-    "top_rank": 42,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2287,7 +2364,7 @@
     "lead_hu": "Gisèle Pelicot jogi eljárást kezdeményez a Tinbad kiadó és Sabine Prokhoris szerző ellen, miután beleegyezése nélkül készült meztelen fotói egy könyv reklámjában jelentek meg. A kiadó bocsánatot kért, és közölte, hogy a már forgalomba került 280 példány után nem nyomtatnak újabbakat.",
     "content_hu": "• **Jogi lépések** Pelicot a Tinbad kiadót és Sabine Prokhoris pszichoanalitikust kívánja jogi úton felelősségre vonni a fotók reklámcélú felhasználása miatt.\n\n• **A könyv tartalma** Prokhoris kötete a pszichológiai kontroll fogalmát vizsgálja, és egyik fejezete Pelicot ügyével foglalkozik. A könyv ismertetője arra ösztönzi az olvasókat, hogy mérlegeljék a kényszerítő kontroll értelmezését.\n\n• **A kiadó intézkedése** A Tinbad sajnálatos kommunikációs hibának nevezte a történteket, bocsánatot kért, és bejelentette, hogy a 280 már kiadott példányon felül nem készül újabb nyomás.\n\n• **Az ügy háttere** Pelicot volt férjét 20 év börtönre ítélték, amiért elkábította és megerőszakolta a nőt, valamint más férfiakat is bevont a bántalmazásba.",
     "importance_score": 38.0,
-    "top_rank": 43,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2329,7 +2406,7 @@
     "lead_hu": "Balla György hétfő este Ferencváros-mezben szólalt fel a parlamentben a sportvezetői tisztségeket érintő összeférhetetlenségi javaslatról. A képviselő alkotmányossági kifogásokat fogalmazott meg; a parlament aznap szavazott az indítványról.",
     "content_hu": "• **Balla György felszólalása** A Fidesz képviselője saját nevével ellátott Fradi-mezben bírálta a tervezetet, amelyet alkotmányellenesnek nevezett. Azt is felvetette, hogy az összeférhetetlenségi szabályokat ne alkalmazzák visszamenőlegesen.\n\n• **A javaslat hatóköre** A tervezet jelenlegi és korábbi politikai vezetők, valamint országgyűlési képviselők sportvezetői tisztségét korlátozná. A szabály a 500-nál több sportolót nyilvántartó sportszervezetekre is kiterjedne; a korábbi képviselők mandátumuk lejárta után négy évig nem tölthetnének be vezető szerepet.\n\n• **Kubatov újabb megbízatása** A Ferencvárosi Torna Club október végi közgyűlésén Kubatov Gábort további négy évre választották elnöknek. Balla arra hivatkozott, hogy a klub tagjai, sportolók és korábbi Fradi-játékosok is támogatásukról biztosították.\n\n• **Kubatov reakciója** A klubelnök azt mondta, szerinte a jogszabályt megtámadhatják az Alkotmánybíróságon, és kétségét fejezte ki azzal kapcsolatban, hogy az államfő aláírja-e azt.\n\n• **A szabályozás bejelentése** Magyar Péter szeptember 18-án ismertette a sportvezetői összeférhetetlenség szigorításának tervét, amely többek között miniszterekre, államtitkárokra, parlamenti és európai parlamenti képviselőkre, valamint pártelnökökre vonatkozna.\n\n• **A Ferencváros szponzorációja** Az MVM 2024 és 2026 között évente hozzávetőleg 4,5 milliárd forinttal támogatta a klubot. A vállalat közölte, hogy felülvizsgálja a szponzorációt.\n\n• **Parlamenti szavazás** A képviselők hétfőn szavaztak a javaslatról; a rendelkezésre álló beszámolók nem közölték a szavazás eredményét.",
     "importance_score": 38.0,
-    "top_rank": 44,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2370,7 +2447,7 @@
     "lead_hu": "Dér Heni közösségi oldalán reagált Molnár Áron kritikájára, amely az énekesnő korábbi, Fidesz melletti kampányszereplését érintette. Heni szerint a színész félreértelmezte a Jakupcsek Gabriellának adott interjúját, és szakmai múltját, valamint támogatásait is felhozta válaszában.",
     "content_hu": "• **Molnár Áron kritikája** A színész-aktivista Dér Heni korábbi kormánypárti kampányszereplését kifogásolta, és úgy vélte, az érintett művészeknek bocsánatot kellene kérniük.\n\n• **Dér Heni válasza** Az énekesnő azt állította, hogy Molnár kiragadott részletek alapján értelmezte a Jakupcsek Gabriellának adott interjúját. Heni az interjúban arról beszélt, hogy nem önként vállalta a kampányszereplést, miközben alapvető értékrendjét továbbra is vállalja.\n\n• **Állampolgárság és szakmai múlt** Dér Heni felidézte a 2004-es, kettős állampolgárságról szóló népszavazást, valamint saját állampolgárságának megszerzését. Molnár Áronnak a Hadik című filmben vállalt szerepét és a Nemzeti Kulturális Alaptól elnyert pályázati támogatásait is szóba hozta.",
     "importance_score": 38.0,
-    "top_rank": 45,
+    "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2411,7 +2488,7 @@
     "lead_hu": "A Szolnoki Járásbíróság elrendelte egy 32 éves férfi letartóztatását, miután november 20-án egy szolnoki kormányablakban bántalmazta feleségét. Az ügyészség szerint a férfi korábban is erőszakosan lépett fel a nővel szemben, és a távoltartás után is visszatért hozzá.",
     "content_hu": "• **Bírósági döntés** A Szolnoki Járásbíróság nyomozási bírája letartóztatásba helyezte a 32 éves szolnoki férfit. A főügyészség testi sértéssel elkövetett kapcsolati erőszak gyanújával kérte az intézkedést.\n\n• **A kormányablakban történt eset** November 20-án a házaspár ügyintézésre érkezett egy szolnoki kormányablakba. A várakozás alatt a férfi elvette felesége telefonját, és az ügyintéző arra kérte őket, hogy a vitát a folyosón folytassák. A férfi a nő hajánál fogva a folyosó végéig húzta, majd megrugdosta; a nő elesett. A biztonsági őr és az ott dolgozók közbeléptek.\n\n• **A korábbi bántalmazás részletei** A pár 2026 januárjában házasodott össze. Az ügyészség szerint a férfi június 23-án ököllel arcon ütötte feleségét, az udvarra húzta, és többször a radiátorhoz verte a fejét. A nő nyolc napon belül gyógyuló sérüléseket szenvedett.\n\n• **Távoltartás és visszatérés** A rendőrség a júniusi eset után 72 órás távoltartást rendelt el, majd a bíróság június 25-én 60 napos megelőző távoltartásról döntött. A férfi később visszatért feleségéhez, és az ügyészség szerint folytatta a bántalmazást.\n\n• **Az ügyészség kockázatai** A vádhatóság a szökés és elrejtőzés, az újabb bűncselekmény elkövetése, valamint a sértett tanú befolyásolásának veszélyével indokolta a letartóztatási indítványt. A férfi többszörösen büntetett előéletű; vagyon elleni bűncselekmények miatt kiszabott legutóbbi börtönbüntetéséből 2025 júliusában szabadult.",
     "importance_score": 38.0,
-    "top_rank": 46,
+    "top_rank": 48,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2452,7 +2529,7 @@
     "lead_hu": "A parlamenti felszólalások rendje, a képviselők közötti személyeskedő vita és a Fidesz jövője is téma volt a friss megszólalásokban. Gulyás Gergely a jobboldali kommunikáció átalakításáról beszélt, Hunyadi Bulcsú pedig a Telexnek több politikai ügyről adott elemzést.",
     "content_hu": "• **A napirend előtti felszólalások rendje** A Tisza Párthoz kötött javaslat az ilyen felszólalásokat az ülésezési hetek egyetlen napjára korlátozná, a miniszterelnök beszédét kivéve. Schmidt Mária szerint ez csökkentené az ellenzék parlamenti megszólalási lehetőségeit; a parlament elhagyását is felvetette. A következő ülés Magyar Péter napirend előtti beszédével indul.\n\n• **Személyeskedő szóváltás a költségvetési vitában** Magyar Péter és Németh Balázs egymás korábbi szexuális életére utaló megjegyzéseket tett, majd az óvszerekről szóló vita a parlamenten kívül is folytatódott. Hunyadi Bulcsú szerint Magyar a kampányban is élt szexuális felhangú célzásokkal; ezek használatát a választók fogadókészsége is befolyásolja.\n\n• **Gulyás Gergely a jobboldali nyilvánosság átalakításáról beszélt** A Nemzeti Kommunikációs Hálózat fórumán önálló médiumokat és szellemi műhelyeket, generációváltást, valamint a közösségi médiát értő politikusokat nevezett szükségesnek. Azt is hangsúlyozta, hogy a politikai szereplőknek gyorsan, akár egy órán belül reagálniuk kell a friss hírekre. Felidézte: az általa vagy Lázár János által vezetett korábbi Kormányinfókon rendszeresen kérdezhettek az ellenzéki sajtó munkatársai, míg a jelenlegi helyzetben a konzervatív orgánumoknak is ritkábban jut kérdezési lehetőség.\n\n• **Hunyadi Bulcsú a Telexnek több politikai ügyet értékelt** A Political Capital elemzőjével a Seszták-ügyről, Bús Balázsról, az elszámoltatásról és Orbán Viktor külföldi útjairól is beszélgettek. Hunyadi a kilyukadt óvszerekről szóló parlamenti vitát is elemezte.\n\n• **A Fidesz támogatói és választási veszteségei** A Medián adataira épülő elemzés azt vizsgálta, kik fordultak el Orbán Viktortól, és kik maradtak a támogatói között. A Fidesz 38 éves múltját felidéző írás szerint az áprilisi választási vereséggel a párt korábbi politikai és gazdasági befolyása, valamint támogatóinak jelentős része is odaveszett.",
     "importance_score": 38.0,
-    "top_rank": 47,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2490,7 +2567,7 @@
     "lead_hu": "A Meduza és a Mediazona újságírói hackerek által megszerzett orosz statisztikai adatok alapján készítettek új becslést. Számításaik szerint az ukrajnai háború orosz áldozatainak teljes száma meghaladhatja a 700 ezret, de az adatok hitelességét nem sikerült függetlenül ellenőrizni.",
     "content_hu": "• **A becslés meghaladhatja a 700 ezret**: a Meduza és a Mediazona számítása az orosz nyilvántartásokból származó adatokat, valamint a még be nem jegyzett halálesetek és a feltehetően elhunyt eltűntek becsült számát veszi figyelembe.\n\n• **Körülbelül 490 ezer haláleset szerepelt az adatbázisban**: az újságírók szerint ennyi orosz katona halála volt nyilvántartva a háború kezdete óta a 2026. szeptemberi adatok alapján.\n\n• **A számítás hackerek által megszerzett adatokra épül**: a belarusz Cyber Partisans és az ukrán Silent Crow férhetett hozzá az orosz statisztikai hivatal nyilvántartásaihoz, majd az adatokat átadta a Meduza és a Mediazona munkatársainak.\n\n• **Az adatok megbízhatósága nem bizonyított**: a becslés készítői a nyilvántartások késedelmes frissítésével is számoltak, a források beszámolói szerint pedig az adatok hitelességét nem tudták függetlenül megerősíteni.",
     "importance_score": 38.0,
-    "top_rank": 48,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2526,7 +2603,7 @@
     "lead_hu": "Öt férfit hallgatott ki gyanúsítottként a rendőrség a Ferencváros–Dabas kézilabda-mérkőzés után történt bántalmazás ügyében. Két biztonsági őrrel szemben is eljárás indult, mert felmerült, hogy közreműködtek a támadók bejutásában.",
     "content_hu": "• **Öt férfit gyanúsítanak** azzal, hogy 2026. szeptember 4-én, a mérkőzést követően egy X. kerületi kézilabda-arénában gázspray-t használtak, majd bántalmaztak egy férfit. A sértett könnyű sérüléseket szenvedett.\n\n• **A támadás hátterében a sértett korábbi nyilvános bírálatai állhatnak.** A rendőrség szerint a férfi egy, a mérkőzésen szereplő sportklub működését, vezetőit és szurkolóit kritizálta.\n\n• **Két biztonsági őrt is kihallgattak.** A gyanú szerint szándékosan lehetővé tették, hogy a támadók bejussanak a rendezvényre; velük szemben foglalkozás körében elkövetett veszélyeztetés gyanúja miatt folyik eljárás.",
     "importance_score": 35.0,
-    "top_rank": 49,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2562,7 +2639,7 @@
     "lead_hu": "A rendőrség vizsgálja a Sandringham birtokán található vidéki háznál történt állítólagos betörést. Vilmos herceg és Katalin hercegné nem tartózkodott az ingatlanban.",
     "content_hu": "• **Rendőrségi nyomozás** A hatóságok egy hétfőn történtként jelentett betörés ügyében indítottak vizsgálatot a norfolki Sandringham birtokán.\n\n• **A pár távolléte** Vilmos és Katalin a gyermekeikkel Windsorban volt, amikor az eset történt.\n\n• **Az ingatlan** A tíz hálószobás házat II. Erzsébet királynő ajándékozta a párnak 2011-es esküvőjük alkalmából. Egyelőre nem ismert, hogy vittek-e el bármit.",
     "importance_score": 35.0,
-    "top_rank": 50,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2593,7 +2670,7 @@
     "lead_hu": "Felépíteni egy vagyont évtizedek munkája – de hogyan lehet megőrizni és továbbadni, ha közben változnak az adózási feltételek, az utódok pedig másként gondolkodnak a pénzről? Hamarosan megjelenő nagyi…",
     "content_hu": "Felépíteni egy vagyont évtizedek munkája – de hogyan lehet megőrizni és továbbadni, ha közben változnak az adózási feltételek, az utódok pedig másként gondolkodnak a pénzről? Hamarosan megjelenő nagyinterjúnkban Bálint Attilát, a Raiffeisen Bank Private Banking üzletágának vezetőjét kérdeztük a vagyonos családok legfontosabb dilemmáiról.A cikk megjelenését a Raiffesisen Bank támogatta.",
     "importance_score": 35.0,
-    "top_rank": 51,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2629,7 +2706,7 @@
     "lead_hu": "Egy napig kerestek egy feltételezett oroszlánt Isztambul Sariyer városrészében. A hatóságok hétfő este közölték, hogy a felvételek alapján nem nagymacskát láttak, de az állat fajtáját nem tudták megállapítani.",
     "content_hu": "• **A felvételek elemzése** alapján a kormányzói hivatal szerint a keresett állat sem oroszlán, sem más nagymacska nem volt.\n\n• **A keresőakció során** hőkamerás drónokat és földi egységeket is bevetettek, továbbá etetőket és vadkamerákat helyeztek ki.\n\n• **Az állat kiléte** továbbra sem ismert, és a hatóságok nem találtak bizonyítékot arra, hogy oroszlán tartózkodott volna a környéken.",
     "importance_score": 35.0,
-    "top_rank": 52,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2665,7 +2742,7 @@
     "lead_hu": "Varga Mihály szerint az euró bevezetése előnyökkel járhat Magyarország számára, de önmagában nem oldja meg a gazdasági kihívásokat. A jegybankelnök tartós reformokat és megfontolt felkészülést tart szükségesnek.",
     "content_hu": "• **Az inflációs feltétel teljesülése** A forrás szerint Magyarország 2026 júliusa óta ismét teljesíti az euróbevezetés inflációs kritériumát: októberben 2 százalékos inflációt mértek, szemben a 3 százalékos referenciaértékkel.\n\n• **Lehetséges gazdasági előnyök** Varga Mihály úgy fogalmazott, hogy a forint és az euró közötti átváltások megszűnése évente 100–130 milliárd forintos megtakarítást hozhat. A csatlakozás a hozamokat és a finanszírozási költségeket is mérsékelheti.\n\n• **Óvatosság és felkészülés** A jegybankelnök szerint az euró átvétele az önálló monetáris politika feladásával jár, ezért fontos a pénzügyi stabilitás, a fegyelmezett monetáris politika és a gazdasági felzárkózást segítő reformok folytatása.",
     "importance_score": 35.0,
-    "top_rank": 53,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2701,7 +2778,7 @@
     "lead_hu": "Hegedűs Barbara, Panyi Miklós és Pócs János fideszes képviselők a Legfőbb Ügyészséghez fordultak egy 11 éves fiúval készült videó miatt. Azt kérik, hogy hallgassák meg Magyar Pétert és Bódis Krisztát is; felvetéseik a hatóságok által még nem megállapított gyanúkra vonatkoznak.",
     "content_hu": "• **Ügyészségi kezdeményezés** A három képviselő kedden jelentette be, hogy újabb bizonyítékokat nyújt be, és törvényességi intézkedést kér a Legfőbb Ügyészségtől. Korábbi beadványaikat a rendőrség és az ügyészség elutasította.\n\n• **A képviselők kérése** Azt indítványozzák, hogy a hatóság hallgassa meg Magyar Pétert és Bódis Krisztát. A politikusok szerint az ügyben a gyermek fogva tartásának, kihasználásának és emberkereskedelemnek a gyanúja is felmerülhet; ezek állítások, nem közölt hatósági megállapítások.\n\n• **A videó háttere** Magyar Péter és Bódis Kriszta 2025. december 5-én tett közzé felvételt egy 11 éves fiúról, aki a beszélgetésben arról számolt be, hogy korábban megszökött egy szolnoki lakásotthonból. A videóban a fiú arcát nem mutatták, és álnéven szerepelt.\n\n• **A fiú visszakerült az otthonba** Magyar akkori közlése szerint a gyermeket december 3-án vették észre Budapesten, majd a videó megjelenésének napján visszavitték a szolnoki lakásotthonba.",
     "importance_score": 35.0,
-    "top_rank": 54,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2737,7 +2814,7 @@
     "lead_hu": "Az Országgyűlés elfogadta az árrésstopot kivezető törvénymódosítást. A szabályozás a kihirdetést követő nyolcadik napon szűnik meg, és a kereskedők nagyobb mozgásteret kapnak az árak, valamint a termékkínálat alakításában.",
     "content_hu": "• **Parlamenti döntés** A módosítás 135 igen, 49 nem szavazattal és 6 tartózkodás mellett kapott támogatást; az élelmiszerekre és drogériai termékekre vonatkozó korlátozás jogi alapját törlik.\n\n• **A megszűnés időpontja** Az új szabály a törvény kihirdetését követő nyolcadik napon lép életbe, így a kivezetés még az év vége előtt megtörténhet.\n\n• **Megváltozó kereskedői kötelezettségek** Az árrésplafon mellett megszűnnek a kapcsolódó terméklisták, a tájékoztatási előírások, valamint a saját márkás és beszállítói termékek arányára és a készletezésre vonatkozó külön szabályok is.\n\n• **Nem biztos az árak iránya** A korlátozás eltörlése önmagában nem jelenti sem az érintett termékek drágulását, sem általános árcsökkenését. A kivezetés hívei a szabadabb akciózást és az erősebb bolti versenyt emelik ki.",
     "importance_score": 35.0,
-    "top_rank": 55,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2773,7 +2850,7 @@
     "lead_hu": "Kínában halálra ítéltek egy Mak családnevű tisztviselőt, akit azzal vádoltak, hogy titkos állami információkat adott át egy meg nem nevezett külföldi hírszerző szolgálatnak. Az ítélet idejéről és helyéről, valamint annak végrehajtásáról nem közöltek részleteket.",
     "content_hu": "• **A vád** A kínai közlés szerint a tisztviselő külföldi szolgálata idején került kapcsolatba a hírszerzéssel, majd hazatérése után is folytatta az információk átadását.\n\n• **Az átadott anyagok** Mak összesen 35, titkosított adatokat tartalmazó dokumentumot juttatott el külföldre.\n\n• **A kifizetés** A férfi a közlés szerint több mint egymillió jüant, hozzávetőleg 50 millió forintot kapott a tevékenységéért.\n\n• **Az ítélet részletei** Nem nevezték meg, melyik ország hírszerzésének dolgozott, és arról sem adtak tájékoztatást, hogy végrehajtották-e a halálos ítéletet.",
     "importance_score": 35.0,
-    "top_rank": 56,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2804,7 +2881,7 @@
     "lead_hu": "Az előrejelzések szerint az első havazásra sem kell sokáig várni a térségben: akár már csütörtökön sor kerülhet rá a Balatonon is. The post Megjelent az első jég a Balatonon first appeared on 24.hu.",
     "content_hu": "Az előrejelzések szerint az első havazásra sem kell sokáig várni a térségben: akár már csütörtökön sor kerülhet rá a Balatonon is. The post Megjelent az első jég a Balatonon first appeared on 24.hu.",
     "importance_score": 35.0,
-    "top_rank": 57,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2839,73 +2916,6 @@
     "title_hu": "Vádat emeltek a Hernádba fulladt nyolcéves fiú ügyében",
     "lead_hu": "Gondatlanságból elkövetett emberölés vétsége miatt vádat emeltek egy férfi és egy nő ellen, miután a rájuk bízott nyolcéves fiú a Hernádban vízbe fulladt. Az ügyészség felfüggesztett szabadságvesztést indítványozott.",
     "content_hu": "• **A vádemelés oka** A Borsod-Abaúj-Zemplén Vármegyei Főügyészség szerint a pár nem biztosított közvetlen felügyeletet a gyermekeknek fürdés közben.\n\n• **A baleset körülményei** A fiú édesanyja előre jelezte, hogy a gyerekek nem tudnak úszni. A család egy mélyebb, erősebb sodrású folyószakaszon fürdött, ahol a nyolcéves gyermeket elsodorta a víz.\n\n• **A mentési kísérlet** A férfi megpróbált a fiú után menni, de nem tudta megtalálni; ő maga sem tudott úszni.\n\n• **Az ügyészség indítványa** A vádhatóság mindkét vádlott esetében felfüggesztett szabadságvesztést kért.",
-    "importance_score": 35.0,
-    "top_rank": 58,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_c27d8191e1",
-    "slug": "uj-adojovairas-cskkenti-a-minimalberesek-szja-terhet-2027-tol-c27d81",
-    "tags": [
-      "adozas",
-      "szja",
-      "minimalber",
-      "adojovairas"
-    ],
-    "fingerprint": "34e400cf43a8d0f398678413d5a3a411",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261124/1795505482-temp-c2ia4ft0b2h29jlemfe_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Megszavazták: havi húszezer forinttal több marad a minimálbéreseknél, duplázódik a családi pótlék – de nem minden anya jár jól",
-        "link": "https://telex.hu/gazdasag/2026/11/24/adojovairas-csaladi-potlek-emeles-mennyivel-hogyan-kinek-emelt-szavazas"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Megszavazták a nagy adóátalakítást, lesz, aki több tízezer forinttal jár jobban",
-        "link": "https://index.hu/gazdasag/2026/11/24/kormany-parlament-adojovairas-minimalber-szja/"
-      }
-    ],
-    "published_at": 1795521600,
-    "title_hu": "Új adójóváírás csökkenti a minimálbéresek szja-terhét 2027-től",
-    "lead_hu": "Az Országgyűlés elfogadta az adórendszer átalakításáról szóló törvényt. A 2027. január 1-jén bevezetendő adójóváírás a minimálbér kétszereséig mérsékli a munkabérek után fizetendő személyi jövedelemadót.",
-    "content_hu": "• **A minimálbér után 9 százalékra csökkenhet a tényleges szja-teher**: a 15 százalékos adókulcs megmarad, de a minimálbér összegének 6 százalékával megegyező jóváírás mérsékli a befizetendő adót.\n\n• **A kedvezmény a minimálbér kétszereséig fokozatosan csökken**: az e fölötti keresetekre ismét a teljes, 15 százalékos szja vonatkozik.\n\n• **A minimálbéresek havi nettója több mint 20 ezer forinttal emelkedhet** változatlan bruttó bér mellett; a változás csaknem 2,5 millió adózót érinthet.\n\n• **Átalakul a kedvezmények elszámolása és az anyák szja-mentessége is**: a családi, az első házasoknak járó, a 25 év alattiakhoz kötődő, valamint egyes személyi és tevékenységi kedvezményeket közvetlenül az szja-ból lehet majd levonni.",
-    "importance_score": 35.0,
-    "top_rank": 59,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_adf505472e",
-    "slug": "lelottek-egy-not-gyorben-adf505",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/5BC8JWu-W2f0HLp-du_Ks4aC-7LV6k8ZL0BsPsukm6Q/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjQvNDZjMGJlMDQ3YWFhY2FhYmM0MTk2OGIwOGUxNDU2NTIzNmI4MmIyZTdmMWQ5MDUyZTliMDcwZmRhYWVhNzBhMQ.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Lelőttek egy nőt Győrben",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/lelottek-egy-not-gyorben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Lelőttek egy nőt Győrben",
-        "link": "https://hvg.hu/itthon/20261124_lovoldozes-gyor-halott-no"
-      }
-    ],
-    "published_at": 1795520701,
-    "title_hu": "Lelőttek egy nőt Győrben",
-    "lead_hu": "Nyomoz a rendőrség, a tragédia körülményeit jelenleg is vizsgálják.",
-    "content_hu": "Nyomoz a rendőrség, a tragédia körülményeit jelenleg is vizsgálják.",
     "importance_score": 35.0,
     "top_rank": 60,
     "is_top_hero": false,
@@ -3741,42 +3751,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_2896cd7113",
-    "slug": "a-nemetek-tbbsege-mar-nem-tamogatna-ukrajna-katonai-segiteset-2896cd",
-    "tags": [
-      "ukrajna",
-      "nemetorszag",
-      "katonai-tamogatas",
-      "kozvelemeny-kutatas"
-    ],
-    "fingerprint": "9c53eb08d2528c445f1ba79ad93b99ae",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Egy friss felmérés szerint a németek többsége már ellenzi Ukrajna katonai támogatását",
-        "link": "https://444.hu/2026/11/24/egy-friss-felmeres-szerint-a-nemetek-tobbsege-mar-ellenzi-ukrajna-katonai-tamogatasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Elfordul Ukrajnától a német lakosság: Merz kormánya szembefordul saját népével",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/elfordul-ukrajnatol-a-nemet-lakossag-merz-kormanya-szembefordul-sajat-nepevel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795509224,
-    "title_hu": "A németek többsége már nem támogatná Ukrajna katonai segítését",
-    "lead_hu": "Egy felmérés szerint a német válaszadók 53 százaléka ellenzi, hogy országuk továbbra is katonai támogatást adjon Ukrajnának. Ez az arány egy év alatt 39 százalékról emelkedett.",
-    "content_hu": "• **A támogatás megítélése** A kutatás résztvevőinek 53 százaléka szerint Németországnak nem kellene folytatnia Ukrajna katonai segítését; egy évvel korábban 39 százalék gondolta így.\n\n• **Területi és pártpolitikai különbségek** Az AfD szavazóinak 11 százaléka támogatja a katonai segítséget, míg 75 százalékuk az Oroszországgal való kapcsolatok rendezését pártolja. Kelet-Németországban 31, az ország nyugati részén 48 százalék támogatja Ukrajna katonai segítését.\n\n• **Oroszország megítélése** A válaszadók 82 százaléka katonai fenyegetésként tekint Oroszországra. Tízből hat megkérdezett szerint Németország és Európa nem tesz eleget az orosz–ukrán béketárgyalások előmozdításáért.",
-    "importance_score": 28.0,
-    "top_rank": 84,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_7919db0dda",
     "slug": "atalakitas-elott-allhat-az-m4-sport-es-a-kzmedia-sportkzvetitese-7919db",
     "tags": [
@@ -3808,7 +3782,7 @@
     "lead_hu": "Kert Attila, a közmédia új vezetője a sportjogok költségeinek mérséklését és a hosszú távú szerződések felülvizsgálatát tervezi. Az M4 Sport jövőjéről a részletes stratégiai terv ismertetése után születhet döntés.",
     "content_hu": "• **A sportjogok költsége** Kert Attila szerint a közmédia közel 20 milliárd forintot fordít ezekre, miközben az állami költségvetési bevétele 80 milliárd forint körül alakul.\n\n• **A tervezett változtatások** között szerepel a sportjogok finanszírozási arányának csökkentése és a hosszú távú, nagy értékű szerződések újratárgyalása. Az NB I közvetítési jogai akár kereskedelmi csatornához is kerülhetnek.\n\n• **Az M4 Sport sorsa** még nem dőlt el: a csatorna a közmédia új vezetésének részletes stratégiájára vár. A terv a következő hetekben készülhet el, ezt követően tisztázhatják a sportjogok közmédia-felületeken való megjelenését.\n\n• **A közvetítések lehetséges helyszíne** az M2 is lehet; a korábban felmerült elképzelés szerint a sportműsorok oda kerülhetnének, ha az M4 Sport megszűnik.",
     "importance_score": 28.0,
-    "top_rank": 85,
+    "top_rank": 84,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3844,7 +3818,7 @@
     "lead_hu": "Kapitány István gazdasági és energetikai miniszter szerint az árrésstop kivezetése idővel alacsonyabb árakat és szélesebb kínálatot eredményezhet. A kormány október 27-én nyújtotta be az intézkedés megszüntetéséhez szükséges törvénymódosítást.",
     "content_hu": "• **Az árrésstop kivezetésének lehetséges hatása** Kapitány szerint a boltok szabadabban alakíthatják az akciókat és a termékválasztékot, ami fokozhatja a vásárlókért folytatott versenyt.\n\n• **Gazdasági környezet** A miniszter az októberi, 2 százalékos inflációra, az élelmiszerek éves átlagban mért 4,7 százalékos árcsökkenésére és a forint év eleje óta tartó erősödésére hivatkozott.\n\n• **Törvénymódosítás** A kormány október 27-én terjesztette az Országgyűlés elé a kereskedelemről szóló 2005. évi törvény módosítását, amely megszüntetné az élelmiszerekre és drogériai termékekre vonatkozó árréskorlátozást.\n\n• **Fogyasztóvédelem** Kapitány közlése szerint a kivezetés után is nyomon követik az árakat, és szükség esetén intézkednek a vásárlók védelmében.",
     "importance_score": 25.0,
-    "top_rank": 86,
+    "top_rank": 85,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3880,6 +3854,42 @@
     "lead_hu": "A kormány 2027-ben tekinti át a lakossági állampapírok adómentességére vonatkozó szabályozást. A jelenlegi rendelkezések addig nem változnak, miközben az Európai Bizottság kötelezettségszegési eljárást indított Magyarország ellen az ügyben.",
     "content_hu": "• **A szabályok egyelőre változatlanok** – A pénzügyminiszter helyettese közölte, hogy januártól nem tervezik megszüntetni a magyar állampapírok lakossági adómentességét.\n\n• **2027-ben felülvizsgálat következik** – A kormány az áttekintés eredménye alapján dönt majd a szabályozásról.\n\n• **Uniós eljárás indult** – Az Európai Bizottság október 1-jén kifogásolta, hogy a magyar állampapírok hozama adómentes, míg más uniós és EGT-államok állampapírjainak kamatára az általános adózási előírások vonatkoznak.\n\n• **A bizottság a tőke szabad mozgását említi** – Álláspontja szerint a különbség visszatarthatja a magyar befektetőket más tagállamok állampapírjainak megvásárlásától. Magyarországnak két hónapja van arra, hogy válaszoljon a kifogásokra.",
     "importance_score": 25.0,
+    "top_rank": 86,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_2896cd7113",
+    "slug": "a-nemetek-tbbsege-mar-nem-tamogatna-ukrajna-katonai-segiteset-2896cd",
+    "tags": [
+      "ukrajna",
+      "nemetorszag",
+      "katonai-tamogatas",
+      "kozvelemeny-kutatas"
+    ],
+    "fingerprint": "9c53eb08d2528c445f1ba79ad93b99ae",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Egy friss felmérés szerint a németek többsége már ellenzi Ukrajna katonai támogatását",
+        "link": "https://444.hu/2026/11/24/egy-friss-felmeres-szerint-a-nemetek-tobbsege-mar-ellenzi-ukrajna-katonai-tamogatasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Elfordul Ukrajnától a német lakosság: Merz kormánya szembefordul saját népével",
+        "link": "https://magyarnemzet.hu/kulfold/2026/11/elfordul-ukrajnatol-a-nemet-lakossag-merz-kormanya-szembefordul-sajat-nepevel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795509224,
+    "title_hu": "A németek többsége már nem támogatná Ukrajna katonai segítését",
+    "lead_hu": "Egy felmérés szerint a német válaszadók 53 százaléka ellenzi, hogy országuk továbbra is katonai támogatást adjon Ukrajnának. Ez az arány egy év alatt 39 százalékról emelkedett.",
+    "content_hu": "• **A támogatás megítélése** A kutatás résztvevőinek 53 százaléka szerint Németországnak nem kellene folytatnia Ukrajna katonai segítését; egy évvel korábban 39 százalék gondolta így.\n\n• **Területi és pártpolitikai különbségek** Az AfD szavazóinak 11 százaléka támogatja a katonai segítséget, míg 75 százalékuk az Oroszországgal való kapcsolatok rendezését pártolja. Kelet-Németországban 31, az ország nyugati részén 48 százalék támogatja Ukrajna katonai segítését.\n\n• **Oroszország megítélése** A válaszadók 82 százaléka katonai fenyegetésként tekint Oroszországra. Tízből hat megkérdezett szerint Németország és Európa nem tesz eleget az orosz–ukrán béketárgyalások előmozdításáért.",
+    "importance_score": 23.0,
     "top_rank": 87,
     "is_top_hero": false,
     "is_top_list": true
@@ -4298,7 +4308,7 @@
     "title_hu": "A Kossuth téren áll az ország karácsonyfája",
     "lead_hu": "A Pécelről érkezett, 24 éves jegenyefenyőt felállították a Parlament előtt. A mintegy 12,5 méteres fa november 29-től, advent első vasárnapjától január 6-ig lesz ünnepi díszben.",
     "content_hu": "• **Felállítás a Kossuth téren** A katasztrófavédelem munkatársai hétfő reggel, körülbelül 7 órakor kezdték meg a fenyő felállítását; a munkát elvégezték. A fát egy feldíszített, 40 tonnás járművel szállították.\n\n• **A fa mérete és eredete** A Pécelről érkezett jegenyefenyőt Varmuzsa Péter családja 24 éve kapta cserepes növényként. A szállítás előtt körülbelül 12,5 méteresnek és kéttonnásnak írták le, alsó ágainak szélességét pedig mintegy 6 méterre tették. A kiválasztáskor az Országgyűlés Hivatala hozzávetőleg 16 méteres, 4 tonnás fáról adott tájékoztatást.\n\n• **Kivágás és fuvarozás** A fővárosi hivatásos tűzoltók vasárnap reggel vágták ki a fát, majd kötélbiztosítással honvédségi szállítójárműre emelték. Hálóval, hevederekkel és láncokkal rögzítették. A több mint 60 kilométeres út Pécelről vasárnap este 7 órakor indult.\n\n• **Útvonal és forgalom** A szállítmány az M0-son, majd az M7–M1 közös bevezető szakaszán haladt tovább. Útja érintette többek között a Budaörsi utat, a BAH-csomópontot, az Alkotás utcát, a Krisztina körutat, a Széll Kálmán teret, a Margit körutat, a Bem József utcát, a Tölgyfa utcát, a Margit hidat, a Jászai Mari teret és a Balassi Bálint utcát. A haladás élő térképen volt követhető, a fuvar idejére pedig forgalomkorlátozásokat jeleztek előre.\n\n• **Kiválasztás és ünnepi időszak** Az Országgyűlés Hivatalához tíz felajánlás érkezett az ország különböző részeiről; a fényképek alapján több fát személyesen is megvizsgáltak. A döntés során a méretet, a formát, a lomb sűrűségét, valamint a szállítás és a felállítás műszaki feltételeit is mérlegelték. A Kossuth téri fenyő november 29-től, advent első vasárnapjától január 6-ig, vízkeresztig marad ünnepi díszben.\n\n• **Karácsonyfák más városokban** Nyíregyháza főterére egy közel hatvanéves, 12 méteres lucfenyő került. Kaposváron egy 1967-ben ültetett ezüstfenyőt díszítenek fel, Debrecenben pedig egy 14 méteres Nordmann-fenyő várja majd az ünnepi látogatókat.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 99,
     "is_top_hero": false,
     "is_top_list": true
@@ -4550,6 +4560,162 @@
     "top_rank": 106,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_736f7c1a76",
+    "slug": "veletlen-egybeeses-radnai-mark-kutatasa-szinte-elore-megirta-kert-attila-kzmedia-736f7c",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/651yxIqdfr8BCA1bh6yOPD7HY-WKXUMnsReliNWrdvU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjMvMmJhNmNiMjE2ZTcwNTQyNDA5MDNiNTI4ZjNkZGQ2ZGYyZjNiOWRkZjViZjMyZjBkNzc3ZThkMTk4Yjk5NDBiMA.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Véletlen egybeesés? Radnai Márk kutatása szinte előre megírta Kert Attila közmédiás programját",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/radnai-mark-kutatas-kert-attila-kozmedia-program?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795530848,
+    "title_hu": "Véletlen egybeesés? Radnai Márk kutatása szinte előre megírta Kert Attila közmédiás programját",
+    "lead_hu": "Érdekes hasonlóságok láttak napvilágot....",
+    "content_hu": "Érdekes hasonlóságok láttak napvilágot.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_7d40d7a80f",
+    "slug": "ev-vegi-learazasok-nem-csak-a-keszulek-szamit-az-is-mi-van-mgtte-7d40d7",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7267/72679/726793/72679371_5354665_a68352f97c7c4a64eeb5efb6005e6cff_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Év végi leárazások: nem csak a készülék számít, az is, mi van mögötte",
+        "link": "https://index.hu/techtud/2026/11/24/one-magyarorszag-black-friday-legjobb-ajanlatok/"
+      }
+    ],
+    "published_at": 1795530840,
+    "title_hu": "Év végi leárazások: nem csak a készülék számít, az is, mi van mögötte",
+    "lead_hu": "Így vásároljunk okosan....",
+    "content_hu": "Így vásároljunk okosan.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_4d56d50291",
+    "slug": "a-palinka-volt-a-kenoanyag-a-csavar-a-forradalom-4d56d5",
+    "tags": [
+      "kultura"
+    ],
+    "category": "Kultúra",
+    "image": "https://kep.index.hu/1/0/7266/72662/726627/72662705_5353519_bd2122e4206b96cfad20c0ed0d4fd887_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "A pálinka volt a kenőanyag, a csavar a forradalom",
+        "link": "https://index.hu/kultur/2026/11/24/buhera-kiallitas-neprajzi-muzeum-koszegi-gabor-moser-tamas-hiany-kadar-kor/"
+      }
+    ],
+    "published_at": 1795530780,
+    "title_hu": "A pálinka volt a kenőanyag, a csavar a forradalom",
+    "lead_hu": "Buhera címmel kiállítás nyílt a magyar leleményességről....",
+    "content_hu": "Buhera címmel kiállítás nyílt a magyar leleményességről.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_1e7701a5bc",
+    "slug": "libia-magyarazatot-kvetel-ukrajnatol-az-orosz-hajok-elleni-tamadasok-miatt-1e7701",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.hirtv.hu/2026/11/Vr9rJ3GWSwx8ADwyPmpSqAqcBYy8_kqy_fCJBPSEjl4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U5ZmQ1N2ZlMjc1MTQ0OGNiN2Q2MzAyMzMzMzJjN2Vm.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hír TV",
+        "title": "Líbia magyarázatot követel Ukrajnától az orosz hajók elleni támadások miatt",
+        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/libia-magyarazatot-kovetel-ukrajnatol-az-orosz-hajok-elleni-tamadasok-miatt"
+      }
+    ],
+    "published_at": 1795530734,
+    "title_hu": "Líbia magyarázatot követel Ukrajnától az orosz hajók elleni támadások miatt",
+    "lead_hu": "Marsai Viktor a Migrációkutató Intézet igazgatója és Vukics Ferenc katonai szakértő voltak a vendégeink....",
+    "content_hu": "Marsai Viktor a Migrációkutató Intézet igazgatója és Vukics Ferenc katonai szakértő voltak a vendégeink.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_8a573fba4f",
+    "slug": "brusszel-bezarja-a-kaput-a-kinai-autok-elott-par-nap-es-kemeny-importkorlat-lep--8a573f",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/6wfNdp1-n7lPaOWxL9okvFI3J-hnaletN1uFG0RR9M8/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI0L2IyNzBiMzdiMmNiNmY3ZTBmZGE4ZDRjYzM3ZjRhZDhiODQ5YWEwYWRiZmZlOWEyNTQxOWE5ZTFjYzM4YWQ0MmU.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Brüsszel bezárja a kaput a kínai autók előtt: pár nap és kemény importkorlát lép életbe –Japán és a britek sem ússzák meg",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/kinai-auto-eu-behozatal-kvota-korlatozas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795530694,
+    "title_hu": "Brüsszel bezárja a kaput a kínai autók előtt: pár nap és kemény importkorlát lép életbe –Japán és a britek sem ússzák meg",
+    "lead_hu": "Az intézkedés egyelőre ideiglenes, Brüsszel azonban már egy évekre szóló szigorításon dolgozik....",
+    "content_hu": "Az intézkedés egyelőre ideiglenes, Brüsszel azonban már egy évekre szóló szigorításon dolgozik.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_60026506aa",
+    "slug": "ezzel-a-trukkel-lehet-lapos-hasad-es-eros-trzsizmod-igy-vegezz-medenceemeleseket-600265",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/renditions/438/438465/da5651bb9eee54e1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "Ezzel a trükkel lehet lapos hasad és erős törzsizmod: így végezz medenceemeléseket a falnál",
+        "link": "https://femina.hu/egeszseg/lapos-has-eros-torzsizom-helyes-legzes-testedzes/"
+      }
+    ],
+    "published_at": 1795530600,
+    "title_hu": "Ezzel a trükkel lehet lapos hasad és erős törzsizmod: így végezz medenceemeléseket a falnál",
+    "lead_hu": "Ha hosszú távon sem érzed, látod eredményét a testedzésnek, akkor valószínűleg ez lehet a hiba. A törzsizomzat nem fejlődik a légzés helyes technikája nélkül....",
+    "content_hu": "Ha hosszú távon sem érzed, látod eredményét a testedzésnek, akkor valószínűleg ez lehet a hiba. A törzsizomzat nem fejlődik a légzés helyes technikája nélkül.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_a403c0c507",
@@ -18430,110 +18596,6 @@
     "title_hu": "Áttért a szemközti sávba, máskor járdára hajtott egy autós Kaposváron – videón az életveszélyes közlekedés",
     "lead_hu": "Az intézkedés során a sofőr ugyan behúzta a kéziféket, azonban sebességben hagyta az autót, közben a kuplungot és a gázpedált egyszerre nyomta. The post Áttért a szemközti sávba, máskor járdára hajtot…",
     "content_hu": "Az intézkedés során a sofőr ugyan behúzta a kéziféket, azonban sebességben hagyta az autót, közben a kuplungot és a gázpedált egyszerre nyomta. The post Áttért a szemközti sávba, máskor járdára hajtott egy autós Kaposváron – videón az életveszélyes közlekedés first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_4de697a558",
-    "slug": "tenyleg-egy-templomban-talaltak-fel-a-cukorpalcat--4de697",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Tényleg egy templomban találták fel a cukorpálcát? Az édes karácsonyi legenda nyomában",
-        "link": "https://nlc.hu/advent_unnepi_menu/20261123/karacsonyi-cukorpalca-tortenete/08phsms"
-      }
-    ],
-    "published_at": 1795444380,
-    "title_hu": "Tényleg egy templomban találták fel a cukorpálcát? Az édes karácsonyi legenda nyomában",
-    "lead_hu": "Első pillantásra egy egyszerű karácsonyi édesség, a cukorpálca múltja azonban évszázadokon átívelő, izgalmas történet. Templomi legenda, német karácsonyi hagyomány, amerikai cukrász és egy különleges …",
-    "content_hu": "Első pillantásra egy egyszerű karácsonyi édesség, a cukorpálca múltja azonban évszázadokon átívelő, izgalmas történet. Templomi legenda, német karácsonyi hagyomány, amerikai cukrász és egy különleges gép is szerepel benne. The post Tényleg egy templomban találták fel a cukorpálcát? Az édes karácsonyi legenda nyomában first appeared on nlc.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_1072f46944",
-    "slug": "nagyot-huzott-a-mol-horvat-leanyvallalata-az-ina-a-1072f4",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/10/DGPtNAd7h4tUBEEnsyCIalvlj1DJFLf4QAM3pnK_0N4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM3NzBmYTYzMjUwNjRkMzdiNTJlYjg2Mzg5NzE5OTAy.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Nagyot húzott a Mol horvát leányvállalata: az INA a vártnál is több gázt talált az Adrián",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/ina-mol-adria-foldgaz-tengeri-platform-josip-bubnic?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795444212,
-    "title_hu": "Nagyot húzott a Mol horvát leányvállalata: az INA a vártnál is több gázt talált az Adrián",
-    "lead_hu": "A teljes adriai kitermelés megduplázásában a 2025-ben és 2026-ban végrehajtott további beruházások, köztük az IKA A kutak fejlesztése is szerepet játszott.",
-    "content_hu": "A teljes adriai kitermelés megduplázásában a 2025-ben és 2026-ban végrehajtott további beruházások, köztük az IKA A kutak fejlesztése is szerepet játszott.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_77e4811b9d",
-    "slug": "vege-a-heti-t-ktelezo-tesioranak-mutatjuk-hogyan-a-77e481",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "https://femina.hu/neon/media/renditions/438/438830/afffbcc59a6a3871.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Femina",
-        "title": "Vége a heti öt kötelező tesiórának? Mutatjuk, hogyan alakulhat át a mindennapos testnevelés",
-        "link": "https://femina.hu/gyerek/mindennapos-testneveles-szabalyok-valtozas/"
-      }
-    ],
-    "published_at": 1795444200,
-    "title_hu": "Vége a heti öt kötelező tesiórának? Mutatjuk, hogyan alakulhat át a mindennapos testnevelés",
-    "lead_hu": "A heti öt kötelező testnevelésóra rendszere meg fog változni.",
-    "content_hu": "A heti öt kötelező testnevelésóra rendszere meg fog változni.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_259d676e57",
-    "slug": "le-fog-mondani-a-miniszterelnk-ur-nem-csitulnak-az-259d67",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "„Le fog mondani a miniszterelnök úr?” – nem csitulnak az indulatok",
-        "link": "https://index.hu/belfold/2026/11/23/orszaggyules-parlament-magyar-peter-kormany-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/-le-fog-mondani-a-miniszterelnok-ur---nem-csitulnak-az-indulatok/"
-      }
-    ],
-    "published_at": 1795444197,
-    "title_hu": "„Le fog mondani a miniszterelnök úr?” – nem csitulnak az indulatok",
-    "lead_hu": "",
-    "content_hu": "",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
