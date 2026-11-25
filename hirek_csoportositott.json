@@ -97,22 +97,6 @@
     ]
   },
   {
-    "group_id": "group_f5d2ed54ec",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "Felvétel, csók! Öt magyar sztárpár, akiket a képernyő hozott össze",
-        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/sztarparok-kamerak-elott-szerettek-egymasba",
-        "image": "https://cdn.borsonline.hu/2026/11/9Jw191-J2xJYkv6r1E-scAaPHKb53Iatd-Gw_W6dAgM/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzIwLzQ4OTgyNzVlODhkNGE5NjYwMDk2ZmY3OGU1ZDNlMWJiNGE3NDgyMmIxMTFjNzFkNjY4NWU0M2U1ZDVhZjdiZTg.jpg",
-        "summary": "Vannak hírességek, akiknek a szíve forgatás alatt lobbant lángra, miközben az egész ország szeme rájuk szegeződött. Ez az öt sztárpár a kamerák előtt szeretett egymásba.",
-        "category": "Bulvár",
-        "published_at": 1795546800
-      }
-    ]
-  },
-  {
     "group_id": "group_c09948487b",
     "category": "Politika",
     "articles_count": 1,
@@ -157,22 +141,6 @@
         "summary": "A 53 éves férfit egyelőre nem találták meg. The post RTL: az áldozat élettársát keresik a győri gyilkosság után first appeared on 24.hu.",
         "category": "Bulvár",
         "published_at": 1795547016
-      }
-    ]
-  },
-  {
-    "group_id": "group_10a3ea9ff2",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Melyik a jobb? Egy nagy séta, vagy több kisebb? A tudomány megválaszolta",
-        "link": "https://hvg.hu/tudomany/20261124_seta-egeszseg-testmozgas-vercukorszint",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7e3b795b-2b91-4189-8c41-eb9d03d55286.jpg",
-        "summary": "Amerikai és francia kutatók egy hathetes vizsgálat során derítették ki, jót tesz-e, ha a naponta többször sétál az ember kevesebbet, ahelyett, hogy egyszerre sétál sokat.",
-        "category": "Kultúra",
-        "published_at": 1795546980
       }
     ]
   },
@@ -5102,7 +5070,7 @@
   {
     "group_id": "group_7b93a7362f",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Vadhajtások",
@@ -5121,6 +5089,15 @@
         "summary": "Kis-Benedek József biztonságpolitikai szakértő és Mihálovics Zoltán geopolitikai elemző voltak a vendégeink.",
         "category": "Politika",
         "published_at": 1795614420
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Műhold műhold ellen: szintet léphet az orosz fenyegetés",
+        "link": "https://hvg.hu/360/20261125_muhold-orosz-nuklearis-fenyegetes",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/730010cd-be70-4856-a05a-fb790382d1b9.jpg",
+        "summary": "Ha az oroszok atomfegyvert juttatnának a világűrbe, intézhetnének-e odaföntről atomtámadást földi célpontok ellen?",
+        "category": "Kultúra",
+        "published_at": 1795633200
       }
     ]
   },
@@ -12300,7 +12277,7 @@
         "image": "https://raketa.hu/uploads/2026/11/okostelefon.jpg",
         "summary": "A magyarok többsége nem cseréli le évente a mobilját, a készülékek átlagos életkora pedig már közel három év. Egy friss felmérésből az is kiderült, hogy a telefonvásárlásnál az ár és az akkumulátor üzemideje fontosabb szempont, mint a kamera.",
         "category": "Kultúra",
-        "published_at": 1795633152
+        "published_at": 1795633326
       }
     ]
   },
@@ -12605,6 +12582,86 @@
         "summary": "A Trump-kormányzat még azelőtt biztosítékot kapott arról, hogy nem folyik vizsgálat Jensen Huang ellen, mielőtt az Nvidia igazgatótanácsa a visszahívása mellett döntött volna – közölte JD Vance amerikai alelnök. A politikus hozzátette, hogy a vezérigazgatónak nincs szüksége elnöki kegyelemre, a vállalattól pedig az exportkorlátozások betartását várják el.",
         "category": "Politika",
         "published_at": 1795632720
+      }
+    ]
+  },
+  {
+    "group_id": "group_b5119782ea",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Irányított véradásra van szüksége a lánynak, akit több száz méteren át vonszolt maga után egy vonat",
+        "link": "https://index.hu/belfold/2026/11/25/mezokovesd-vonat-baleset-iranyitott-veradas-miskolc/",
+        "image": "https://kep.index.hu/1/0/6647/66472/664723/66472333_4907747_0b252d89c8d34794e6aef1f662a7b0d5_wm.jpg",
+        "summary": "A fiatal kritikus állapotban van, az orvosok jelenleg is az életéért küzdenek.",
+        "category": "Általános",
+        "published_at": 1795633260
+      }
+    ]
+  },
+  {
+    "group_id": "group_c27dbc52ba",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szoboszlai Dominikkal még sohasem fordult elő a Liverpoolban, mint a mai BL-meccsen",
+        "link": "https://index.hu/bajnokokligaja/2026/11/25/bajnokok-ligaja-2026-2027-ligaszakasz-5.-fordulo-fc-bruges-liverpool-szoboszlai-dominik/",
+        "image": "https://kep.index.hu/1/0/7270/72703/727038/72703871_5356367_492b1bacdd28f3b6733aec813e08d13f_wm.jpg",
+        "summary": "Mérföldkőhöz érkezett a magyar válogatott középpályás Belgiumban.",
+        "category": "Általános",
+        "published_at": 1795633200
+      }
+    ]
+  },
+  {
+    "group_id": "group_71bc69d878",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Gordon Ramsay vezetésével tér vissza a Top Gear",
+        "link": "https://24.hu/kultura/2026/11/25/gordon-ramsay-top-gear-visszateres-bbc/",
+        "image": "https://s.24.hu/app/uploads/2026/11/000_d89w3h3-e1795632992510-1024x575.jpg",
+        "summary": "A BBC újraindítja a Top Gear című autós műsort. Az új csapat első bejelentett tagja Gordon Ramsay, az első epizód pedig 2028-ban érkezhet. The post Gordon Ramsay vezetésével tér vissza a Top Gear first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795633124
+      }
+    ]
+  },
+  {
+    "group_id": "group_35fd5ecdf3",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Nagyon rossz hírt kapott az Nvidia",
+        "link": "https://www.portfolio.hu/befektetes/20261125/nagyon-rossz-hirt-kapott-az-nvidia-879170",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2301328054-872848.jpg",
+        "summary": "Lehetséges leminősítésre utaló, negatív előjelű figyelőlistára helyezte az Nvidia hitelminősítését szerdán az S&P Global Ratings. A lépést a menedzsmenttel és a vállalatirányítással kapcsolatos kockázatok növekedése indokolta, miután a vezérigazgató távozása, majd visszahelyezése kérdéseket vetett fel az igazgatóság felügyeleti szerepével kapcsolatban.",
+        "category": "Gazdaság",
+        "published_at": 1795633140
+      }
+    ]
+  },
+  {
+    "group_id": "group_fc0ded0608",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Bors",
+        "title": "Szoboszlai a Liverpool ifjú sztárjának üzent: a tehetség önmagában nem elég",
+        "link": "https://borsonline.origo.hu/foci/2026/11/szoboszlai-dominik-liverpool-ngumoha",
+        "image": "https://cdn.borsonline.hu/2026/11/YfmrBtpmGzFVS1tdvwSPwf52e4pjC5FOqPhczOpMUno/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzI0L2QwNDQ2Y2U3MmMxMWZkZTg4OWJmMzM5NDUyMjNhYmQ3NWRkMDlmYTViOGNlMjgzZWRkOWYxZTJmYWE2OTFlMWM.jpg",
+        "summary": "Egyre nagyobb szerepet kap a Liverpool tinije. Szoboszlai Dominik szerint különleges tehetség a Liverpool 18 éves csatára, Rio Ngumoha, akinek fényes jövőt jósol. A magyar válogatott középpályás úgy véli, a fiatal támadó előtt nincs határ, de fontos tanácsokkal is ellátta, hogy a sikerek és a kudarcok közepette is a földön maradjon.",
+        "category": "Bulvár",
+        "published_at": 1795633200
       }
     ]
   }
