@@ -2462,7 +2462,7 @@
     "title_hu": "Új részletek a Szatmári Konzervgyár csődeljárásáról",
     "lead_hu": "A bíróság a KBAZ Zrt.-t jelölte ki vagyonfelügyelőnek a Szatmári Konzervgyár csődeljárásában. A társaság legutóbbi, 2024 júliusától 2025 júniusáig tartó üzleti időszakában 17,4 milliárd forint árbevétel mellett 2,5 milliárd forintos veszteséget ért el.",
     "content_hu": "• **Vagyonfelügyelő:** A bíróság a KBAZ Zrt.-t bízta meg az eljárás levezénylésével. A csődeljárás alatt a társaságot hat hónapos fizetési haladék illeti meg, a munkabérekhez hasonló egyes kötelezettségekre azonban ez nem terjed ki.\n\n• **Romló pénzügyi eredmények:** A 2024. július és 2025. június közötti időszakban a vállalat nettó árbevétele 17,4 milliárd forint volt, szemben az előző szezon 20 milliárd forintot meghaladó forgalmával. Az előző időszakot még 72 millió forint nyereséggel zárták, a legutóbbit viszont 2,5 milliárd forintos veszteséggel.\n\n• **Állami befektetés:** A Magyar Fejlesztési Bank 2021-ben magántőkealapon keresztül 1,5 milliárd forintnyi tőkét juttatott a cégbe. A befektetést 8–10 éves időtávra, előre rögzített hozamelvárással és piaci feltételek szerint alakították ki.\n\n• **A nehézségek okai:** Az MFB tájékoztatása szerint a bérek és az energia árának emelkedése, valamint az aszályok kedvezőtlenül érintették a vállalat eredményeit. A HVG a termelési költségek növekedése mellett az alapanyag-ellátás időjárási problémáiról is beszámolt.\n\n• **Beszállítói bizonytalanság:** A termelők kifizetetlen számlákról jeleztek, és bizonytalanok abban, hogy a következő évben lesz-e felvásárlás, illetve érdemes-e vetniük.\n\n• **A gyár működése:** A tyukodi üzem mintegy 350 embert foglalkoztat, évente több mint 30 ezer tonna nyersanyagot dolgoz fel, és hozzávetőleg 100 millió terméket készít. A fogyasztók a Rege márkáról is ismerhetik a céget; termékei több mint 20 országba jutnak el.",
-    "importance_score": 33.0,
+    "importance_score": 30.0,
     "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
@@ -2880,78 +2880,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_c1183813c3",
-    "slug": "ukrajna-felgyorsitana-a-kisebbsegi-nyelvtrveny-vegrehajtasat-c11838",
-    "tags": [
-      "ukrajna",
-      "kisebbsegi-jogok",
-      "nyelvtorveny",
-      "andrij-szibiha"
-    ],
-    "fingerprint": "57d427e6d18694c3bb4667a5c7f5a048",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261125/1795623954-temp-unghsmi7nblncnhagmf_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Nem akarja tovább halogatni a nyelvtörvény végrehajtását az ukrán kormány",
-        "link": "https://telex.hu/kulfold/2026/11/25/andrij-szibiha-magyar-peter-karpataljai-magyarsag-ukrajna-nyelvtorveny-felgyorsitas"
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Ukrán külügyminiszter: Felgyorsítjuk a kisebbségi nyelvtörvény végrehajtását",
-        "link": "https://www.vadhajtasok.hu/2026/11/25/ukran-kulugyminiszter-felgyorsitjuk-a-kisebbsegi-nyelvtorveny-vegrehajtasat"
-      }
-    ],
-    "published_at": 1795624118,
-    "title_hu": "Ukrajna felgyorsítaná a kisebbségi nyelvtörvény végrehajtását",
-    "lead_hu": "Andrij Szibiha ukrán külügyminiszter arról beszélt, hogy gyorsítanák a nyelvhasználati jogszabályok gyakorlati alkalmazását. A vállalást Magyar Péter is megerősítette.",
-    "content_hu": "• **Gyorsabb végrehajtás** Andrij Szibiha közölte, hogy Ukrajna felgyorsítaná a parlament által elfogadott nyelvhasználati jogszabályok életbe léptetését.\n\n• **Már létezik jogi keret** A külügyminiszter szerint a szükséges szabályozási alap rendelkezésre áll, ezért az intézkedések rövidebb idő alatt is megvalósíthatók.\n\n• **Párbeszéd és együttműködés** Szibiha a kétoldalú egyeztetések és bizottságok szerepét is kiemelte a kölcsönös megértés és a kisebbségi jogok védelme érdekében.",
-    "importance_score": 28.0,
-    "top_rank": 64,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_70aa652d05",
-    "slug": "a-miniszterelnkseg-szerint-nem-kezel-adatokat-a-4ig-szerzodesekrol-70aa65",
-    "tags": [
-      "4ig",
-      "magyar-peter",
-      "miniszterelnokseg",
-      "kozadatigenyles"
-    ],
-    "fingerprint": "e006d1159473a613904c5e73161a0435",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f8336d6a-eaaf-4ff0-9c68-b398356a56a9.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "A Miniszterelnökség állítja, semmit sem tud a 4iG-szerződésekről, amelyeknek Magyar Péter a tételes átvizsgálását ígérte",
-        "link": "https://hvg.hu/itthon/20261125_miniszterelnokseg-semmi-adat-szerzodes-magyar-peter-teteles-atvizsgalas-igeret"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Magyar a nyáron belengette a 4iG összes szerződésének átvizsgálását, a Miniszterelnökség viszont állítja, nem tudnak a szerződésekről",
-        "link": "https://24.hu/belfold/2026/11/25/magyar-peter-4ig-osszes-szerzodes-atvizsgalas-miniszterelnokseg/"
-      }
-    ],
-    "published_at": 1795624005,
-    "title_hu": "A Miniszterelnökség szerint nem kezel adatokat a 4iG-szerződésekről",
-    "lead_hu": "A Miniszterelnökség a bíróságon azzal érvelt, hogy nem adatkezelő a 4iG állami szerződéseinek ügyében. A 444 azért indított pert, mert a hivatal bűnüldözési érdekekre hivatkozva elutasította az ezekre vonatkozó adatigénylését.",
-    "content_hu": "• **A felülvizsgálat bejelentése** Magyar Péter augusztusban közölte, hogy áttekintik az előző kormány 4iG-vel kötött szerződéseit; az intézkedésről kormányhatározat is született.\n\n• **Az adatigénylés elutasítása** A 444 azt kérdezte, mely szerződéseket és milyen értékben vizsgálják. A Miniszterelnökség bűncselekmények üldözésével vagy megelőzésével kapcsolatos érdekre hivatkozva nem adott tájékoztatást.\n\n• **A hivatal bírósági érvelése** A perben a Miniszterelnökség képviselője azt mondta, hogy a hivatal nem adatkezelő az érintett szerződések tekintetében. A 444 szerint ez azt jelenti, hogy a hivatal azok felsorolását sem tudja megadni.",
-    "importance_score": 28.0,
-    "top_rank": 65,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_2a90155e8a",
     "slug": "ingyenes-utazast-javasol-a-valogatott-meccsere-tarto-szurkoloknak-zuglo-polgarme-2a9015",
     "tags": [
@@ -2983,7 +2911,7 @@
     "lead_hu": "Rózsa András a kormánytól és a fővárostól azt kéri, hogy a magyar válogatott Puskás Arénában rendezett mérkőzéseire érkezők díjmentesen használhassák a közösségi közlekedést. A kedvezményt országos szinten vezetné be, de első lépésként a budapesti megoldást is elfogadhatónak tartja.",
     "content_hu": "• **A javaslat célja** Rózsa András szerint az ingyenes közlekedés mérsékelhetné a stadion környéki lakossági parkolóhelyek szurkolók általi igénybevételét, és az autózás helyett környezetbarát alternatívát kínálna.\n\n• **Országos kedvezmény** A zuglói polgármester azt szeretné, ha a meccsjegy a vidékről érkezők számára a vonatokon és távolsági buszokon is díjmentes utazást tenne lehetővé; első körben a budapesti közlekedés ingyenességét is előrelépésnek nevezte.\n\n• **Márciusi célidőpont** Rózsa azt szeretné, hogy a szurkolók a március végére tervezett, Szerbia elleni Nemzetek Ligája-osztályozóra már igénybe vehessék a kedvezményt.\n\n• **Korábbi egyeztetés** A polgármester októberben megkereste a Puskás Arénát üzemeltető Nemzeti Sportügynökséget; annak vezetője a kezdeményezés szándékával egyetértett.",
     "importance_score": 28.0,
-    "top_rank": 66,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3019,7 +2947,7 @@
     "lead_hu": "Jensen Huang 11 nap után ismét az Nvidia vezérigazgatója lett, a döntés azonban nem oszlatta el a vállalat körüli bizonytalanságot. Egy távozott mérnök utólag elhamarkodottnak nevezte a felmondását, miközben a cég előtt vizsgálati és vállalatirányítási kérdések állnak.",
     "content_hu": "• **Huang visszatérése** Az Nvidia igazgatótanácsa 11 nap után ismét Jensen Huangot nevezte ki a vállalat élére.\n\n• **Egy mérnök megbánta a távozást** Darrell Dai robotikai kutatómérnök Huang korábbi távozásának körülményei miatt mondott fel. Miután a vezérigazgató visszatért, úgy fogalmazott, talán túl gyorsan döntött; az Nvidia-állásába való visszatérés lehetőségét nyitva hagyta.\n\n• **Vizsgálatok és átláthatóság** A vállalat belső vizsgálata még folyamatban van, az amerikai hatóságok pedig az Nvidia chipjeinek állítólagos Kínába szállítását vizsgálják. A kémkedés gyanúja nem bizonyított, az érintett vállalat tagadja a jogsértést.\n\n• **További kérdések a cég körül** Az XTB szakértői szerint a vezetésnek a befektetői bizalom helyreállítása mellett vállalatirányítási és szabályozási kihívásokkal is foglalkoznia kell. A sajtóban megjelent, számviteli gyakorlatot érintő SEC-vizsgálatról szóló értesüléseket hivatalosan nem erősítették meg.",
     "importance_score": 28.0,
-    "top_rank": 67,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3055,7 +2983,7 @@
     "lead_hu": "A nők elleni erőszak megszüntetésének világnapján Fidesz- és KDNP-s politikusnők közös videóban fordultak a bántalmazottakhoz. Arra hívták fel a figyelmet, hogy a lelki bántalmazás is erőszak, és az érintetteknek érdemes segítséget kérniük.",
     "content_hu": "• **Közös videó** Fidesz- és KDNP-s képviselőnők üzentek a bántalmazottaknak a nők elleni erőszak megszüntetésének világnapján. A megszólalók között volt Koncz Zsófia, Máthé Zsuzsa, Juhász Hajnalka, Lezsák Anna és Szentkirályi Alexandra.\n\n• **A bántalmazás formái** A politikusok arra hívták fel a figyelmet, hogy az erőszak nemcsak fizikai, hanem lelki bántalmazást is jelenthet.\n\n• **Segítségkérés** A videóban arra biztatták az érintetteket, hogy forduljanak segítő szolgáltatásokhoz; az Országos Kríziskezelő és Információs Telefonszolgálatot is megemlítették.\n\n• **További teendők** A megszólalók szerint addig van feladat az áldozatvédelem területén, amíg akár egy nő sem érzi magát biztonságban.",
     "importance_score": 28.0,
-    "top_rank": 68,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3091,7 +3019,7 @@
     "lead_hu": "Lőrincz Viktória törvénymódosító javaslata visszaadná a magyar utónevek engedélyezésének jogát a Nyelvtudományi Kutatóközpontnak. A nemzetiségi utónévjegyzékeket ismét az érintett országos önkormányzatok állíthatnák össze.",
     "content_hu": "• **Módosítanák a 2025-ben bevezetett rendszert**: a szeptember 4-én hatályba lépett szabályozás a végső döntést a kultúráért felelős miniszterhez rendelte.\n\n• **A magyar utónevekről a kutatóközpont dönthetne**: a javaslat szerint az új nevek engedélyezése ismét a Nyelvtudományi Kutatóközpont hatáskörébe kerülne.\n\n• **A nemzetiségi névjegyzékeket az önkormányzatok készítenék**: az országos nemzetiségi önkormányzatok saját listájukat állíthatnák össze és tehetnék közzé.\n\n• **Lőrincz Viktória szerint a döntésnek szakmai alapokon kell állnia**: a miniszter a nyelvtudományi szempontokat, a közfelfogást, valamint a társadalmi és történelmi hagyományokat nevezte meg irányadóként.",
     "importance_score": 25.0,
-    "top_rank": 69,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3122,6 +3050,78 @@
     "lead_hu": "A Fidesz szerint ha azt akarjuk, hogy Magyarország vonzó legyen a befektetők számára, alacsony adók kellenek....",
     "content_hu": "A Fidesz szerint ha azt akarjuk, hogy Magyarország vonzó legyen a befektetők számára, alacsony adók kellenek.",
     "importance_score": 25.0,
+    "top_rank": 68,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_c1183813c3",
+    "slug": "ukrajna-felgyorsitana-a-kisebbsegi-nyelvtrveny-vegrehajtasat-c11838",
+    "tags": [
+      "ukrajna",
+      "kisebbsegi-jogok",
+      "nyelvtorveny",
+      "andrij-szibiha"
+    ],
+    "fingerprint": "57d427e6d18694c3bb4667a5c7f5a048",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261125/1795623954-temp-unghsmi7nblncnhagmf_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Nem akarja tovább halogatni a nyelvtörvény végrehajtását az ukrán kormány",
+        "link": "https://telex.hu/kulfold/2026/11/25/andrij-szibiha-magyar-peter-karpataljai-magyarsag-ukrajna-nyelvtorveny-felgyorsitas"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Ukrán külügyminiszter: Felgyorsítjuk a kisebbségi nyelvtörvény végrehajtását",
+        "link": "https://www.vadhajtasok.hu/2026/11/25/ukran-kulugyminiszter-felgyorsitjuk-a-kisebbsegi-nyelvtorveny-vegrehajtasat"
+      }
+    ],
+    "published_at": 1795624118,
+    "title_hu": "Ukrajna felgyorsítaná a kisebbségi nyelvtörvény végrehajtását",
+    "lead_hu": "Andrij Szibiha ukrán külügyminiszter arról beszélt, hogy gyorsítanák a nyelvhasználati jogszabályok gyakorlati alkalmazását. A vállalást Magyar Péter is megerősítette.",
+    "content_hu": "• **Gyorsabb végrehajtás** Andrij Szibiha közölte, hogy Ukrajna felgyorsítaná a parlament által elfogadott nyelvhasználati jogszabályok életbe léptetését.\n\n• **Már létezik jogi keret** A külügyminiszter szerint a szükséges szabályozási alap rendelkezésre áll, ezért az intézkedések rövidebb idő alatt is megvalósíthatók.\n\n• **Párbeszéd és együttműködés** Szibiha a kétoldalú egyeztetések és bizottságok szerepét is kiemelte a kölcsönös megértés és a kisebbségi jogok védelme érdekében.",
+    "importance_score": 23.0,
+    "top_rank": 69,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_70aa652d05",
+    "slug": "a-miniszterelnkseg-szerint-nem-kezel-adatokat-a-4ig-szerzodesekrol-70aa65",
+    "tags": [
+      "4ig",
+      "magyar-peter",
+      "miniszterelnokseg",
+      "kozadatigenyles"
+    ],
+    "fingerprint": "e006d1159473a613904c5e73161a0435",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f8336d6a-eaaf-4ff0-9c68-b398356a56a9.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "A Miniszterelnökség állítja, semmit sem tud a 4iG-szerződésekről, amelyeknek Magyar Péter a tételes átvizsgálását ígérte",
+        "link": "https://hvg.hu/itthon/20261125_miniszterelnokseg-semmi-adat-szerzodes-magyar-peter-teteles-atvizsgalas-igeret"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Magyar a nyáron belengette a 4iG összes szerződésének átvizsgálását, a Miniszterelnökség viszont állítja, nem tudnak a szerződésekről",
+        "link": "https://24.hu/belfold/2026/11/25/magyar-peter-4ig-osszes-szerzodes-atvizsgalas-miniszterelnokseg/"
+      }
+    ],
+    "published_at": 1795624005,
+    "title_hu": "A Miniszterelnökség szerint nem kezel adatokat a 4iG-szerződésekről",
+    "lead_hu": "A Miniszterelnökség a bíróságon azzal érvelt, hogy nem adatkezelő a 4iG állami szerződéseinek ügyében. A 444 azért indított pert, mert a hivatal bűnüldözési érdekekre hivatkozva elutasította az ezekre vonatkozó adatigénylését.",
+    "content_hu": "• **A felülvizsgálat bejelentése** Magyar Péter augusztusban közölte, hogy áttekintik az előző kormány 4iG-vel kötött szerződéseit; az intézkedésről kormányhatározat is született.\n\n• **Az adatigénylés elutasítása** A 444 azt kérdezte, mely szerződéseket és milyen értékben vizsgálják. A Miniszterelnökség bűncselekmények üldözésével vagy megelőzésével kapcsolatos érdekre hivatkozva nem adott tájékoztatást.\n\n• **A hivatal bírósági érvelése** A perben a Miniszterelnökség képviselője azt mondta, hogy a hivatal nem adatkezelő az érintett szerződések tekintetében. A 444 szerint ez azt jelenti, hogy a hivatal azok felsorolását sem tudja megadni.",
+    "importance_score": 23.0,
     "top_rank": 70,
     "is_top_hero": false,
     "is_top_list": true
