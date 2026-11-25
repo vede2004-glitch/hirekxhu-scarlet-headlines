@@ -104,22 +104,6 @@
     ]
   },
   {
-    "group_id": "group_19f64cb341",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Túszejtés lett egy félresikerült rablásból Kolumbiában",
-        "link": "https://telex.hu/kulfold/2026/11/24/kolumbia-tuszejtes-felresikerult-rablas-penzszallito",
-        "image": "https://assets.telex.hu/images/20261124/1795555224-temp-2o5igacnfuos0pbjcbe_cimlap-normal.jpg",
-        "summary": "A fegyveresek egy szupermarketbe menekültek be Cartagena városában.",
-        "category": "Politika",
-        "published_at": 1795555713
-      }
-    ]
-  },
-  {
     "group_id": "group_8ea1e8c6b4",
     "category": "Politika",
     "articles_count": 2,
@@ -13382,6 +13366,38 @@
         "summary": "A kormányfő megrázó történeteket hallott.",
         "category": "Politika",
         "published_at": 1795640520
+      }
+    ]
+  },
+  {
+    "group_id": "group_d3beb7e6bd",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Elfogadták a szabályokat, amelyekkel mérsékelné az EU a gyógyszerhiányt",
+        "link": "https://telex.hu/kulfold/2026/11/25/eu-europai-parlament-gyogyszerhiany-kritikus-fontossagu-gyogyszerek",
+        "image": "https://assets.telex.hu/images/20261125/1795640414-temp-ovj267jf1gcubohbaim_cimlap-normal.jpg",
+        "summary": "Többek között külön projektekkel, közös beszerzéssel kezelnék a helyzetet.",
+        "category": "Politika",
+        "published_at": 1795640782
+      }
+    ]
+  },
+  {
+    "group_id": "group_56cb18bde7",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Véget ér egy korszak a Windows egyik verziójában: a Microsoft bejelentette, hogy háttérbe szorít egy régi technológiát",
+        "link": "https://raketa.hu/windows-microsoft-32bit-programok-tamogatas-kivezetes/",
+        "image": "https://raketa.hu/uploads/2026/11/windows32bites.jpg",
+        "summary": "A Microsoft fokozatosan felszámolja a Windows régi technológiáit, a Windows Server 2028 már nem tartalmazza majd alapértelmezés szerint a 32 bites alkalmazások futtatásához szükséges kompatibilitási réteget.",
+        "category": "Kultúra",
+        "published_at": 1795642247
       }
     ]
   }
