@@ -172,54 +172,6 @@
     ]
   },
   {
-    "group_id": "group_b8e6d80b39",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Mennyit és hogyan fizetnek a gazdagok? Miért ment női ruhában a közgyűlésbe a képviselő? Egyrészt/Másrészt",
-        "link": "https://index.hu/belfold/2026/11/24/egyreszt-masreszt-koczian-peter-antall-gyorgy-jaszay-tamas/",
-        "image": "",
-        "summary": "Közel hárommilliárd forintot osztott szét a kulturális államtitkárság nyílt pályázat nélkül. Mennyire átlátható az új rendszer?",
-        "category": "Politika",
-        "published_at": 1795528860
-      }
-    ]
-  },
-  {
-    "group_id": "group_7698b8305c",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Kiszámoltuk, hány OTP-t ér az Nvidia egyik legértékesebb eszköze, Jensen Huang",
-        "link": "https://www.portfolio.hu/befektetes/20261124/kiszamoltuk-hany-otp-t-er-az-nvidia-egyik-legertekesebb-eszkoze-jensen-huang-878750",
-        "image": "https://pcdn.hu/articles/images-xl/j/e/n/jensen-huang-872314.jpg",
-        "summary": "Vannak legendás cégvezérek akiknek az értéke egy-egy vállalatnál akár dollár tíz vagy százmilliárdokban is mérhető. Jó példa Steve Jobs annak idején az Apple-nél, vagy Elon Musk a Teslánál és a SpaceX-nél. Utóbbinál nyugodtan beszélhetünk egy Musk prémiumról, a cégei ugyanis annyira menők és/vagy felhájpoltak, hogy tartósan elképesztően drágán forognak a részvényeik. És akkor itt van a legutóbbi botrány az Nvidiánál. A cég alapítójának, tulajdonosának és első emberének az esetleges távozása is a mélybe lökte a részvényárfolyamot, az, hogy mégis tovább vezetheti a céget, pedig közel ezer milliárd dollárt emelt a vállalat értékén. Készítettünk néhány modellt és egy gyors becslést arra, hogy mennyit érhet Jensen Huang az Nvidia részvényeseinek.",
-        "category": "Gazdaság",
-        "published_at": 1795528800
-      }
-    ]
-  },
-  {
-    "group_id": "group_b44b636cf3",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "Nemi erőszak a turisták kedvenc tengerpartján – letartóztattak egy 28 éves férfit",
-        "link": "https://borsonline.origo.hu/kek-hirek/2026/11/nemi-eroszak-nepszeru-tengerpart-rendorseg",
-        "image": "https://cdn.borsonline.hu/2026/10/Mgavva1-v2vLhD4fiWFSn5PcvawaaZBP_z8p2aFU8cw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzEwLzEyL2M4MDhmMDU0NTFhYTk2NGZmN2RhOWYzYzg0ZWZlOTQzMzViZjZhYzcwMjE3YWYzMWY5ZDE5NWI1NDQyMzVjNzg.jpg",
-        "summary": "Megrázó bűncselekmény miatt emeltek vádat egy 28 éves férfi ellen.",
-        "category": "Bulvár",
-        "published_at": 1795528800
-      }
-    ]
-  },
-  {
     "group_id": "group_f91367d42f",
     "category": "Általános",
     "articles_count": 1,
@@ -10340,7 +10292,7 @@
         "image": "https://raketa.hu/uploads/2026/11/hackerflandria.jpg",
         "summary": "Egyetlen rosszul védett szerveren keresztül jutott hozzá egy hacker több mint egymillió belga állampolgár személyes adataihoz. A több ezer feladat végrehajtásához egy kínai AI-modellt használhatott fel a jelentések szerint kevés technikai tudással rendelkező elkövető.",
         "category": "Kultúra",
-        "published_at": 1795615126
+        "published_at": 1795615359
       }
     ]
   },
@@ -11994,7 +11946,7 @@
         "image": "https://raketa.hu/uploads/2025/01/Milky_Way_map_by_Gaia_labelled-scaled.jpg",
         "summary": "Mennyire ismered a galaxist, ami otthont ad nekünk?",
         "category": "Kultúra",
-        "published_at": 1795615126
+        "published_at": 1795615359
       }
     ]
   },
@@ -12205,6 +12157,54 @@
         "summary": "A legsúlyosabb problémák az ESX és vCenter környezeteket érintik, vagyis éppen azt a központi infrastruktúrát, amely sok vállalatnál komplett szerverparkokat felügyel.",
         "category": "Kultúra",
         "published_at": 1795614916
+      }
+    ]
+  },
+  {
+    "group_id": "group_97eefe759d",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Az AI térnyerése és a trumpizmus hanyatlása határozza meg 2027-et",
+        "link": "https://www.portfolio.hu/gazdasag/20261125/az-ai-ternyerese-es-a-trumpizmus-hanyatlasa-hatarozza-meg-2027-et-878796",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2302993003-872392.jpg",
+        "summary": "Zanny Minton Beddoes, az Economist főszerkesztőjének írása Néhány hét különbséggel két 2026 végi esemény világított rá azokra az erőkre, amelyek 2027-et alakítják majd. Az egyik – Donald Trump elnök megdöbbentő mértékű elutasítása a november 3-i amerikai félidős választásokon – világszerte vezető hír lett. A másik – annak bejelentése, hogy az OpenAI legerősebb (és még ki nem adott) modellje több mint 370 addig megoldatlan matematikai problémát fejtett meg – a „kockákat” váratlanul érte, másutt viszont alig vették észre.",
+        "category": "Politika",
+        "published_at": 1795615200
+      }
+    ]
+  },
+  {
+    "group_id": "group_3d385e95dd",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Kimondták az európai alapkezelők, mekkora elbocsátási hullámot hoz a mesterséges intelligencia",
+        "link": "https://www.portfolio.hu/befektetes/20261125/kimondtak-az-europai-alapkezelok-mekkora-elbocsatasi-hullamot-hoz-a-mesterseges-intelligencia-879000",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2175168300-programozas-szoftverfejlesztes-szoftverfejleszto-informatika-informacios-872574.jpg",
+        "summary": "Már a megkérdezett európai alapkezelők közel kétharmadánál működik éles üzleti folyamatokban a mesterséges intelligencia, és tízből kilenc társaság tovább növelné az erre fordított beruházásait. A lendület mögött azonban jelentős különbségek és hiányosságok látszanak: a nagy szereplők jóval előrébb járnak, a megtérülés mérésével és a kockázatkezeléssel sokan még adósak. Az EFAMA felmérése alapján az AI térnyerése miatt átalakulhatnak a meglévő munkakörök, 18,5 százalék még létszámbővüléssel is kalkulál, minden tizedik válaszadó viszont leépítést valószínűsít. A témával mélyrehatóan foglalkozunk a csütörtöki AI & Digital Transformation konferenciánkon, regisztráció és részletek itt!",
+        "category": "Gazdaság",
+        "published_at": 1795615200
+      }
+    ]
+  },
+  {
+    "group_id": "group_74fc74e3a9",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Bors",
+        "title": "Hátborzongató és gyönyörű: így hangzik a csillagok születése az űrben",
+        "link": "https://borsonline.origo.hu/titkos-aktak/2026/11/csillagnak-szuletese-hallgasd-meg-milyen-hangja-van",
+        "image": "https://cdn.borsonline.hu/2026/11/_ehkuxtU9I5cyFQ47eRHsliIqriqchj3DVptJSGJK8E/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzIwL2JmZDRiMmRlY2MwMDMzY2FkYzFkM2VlNDhlNTg2N2MxYTFiMGIxZGI2ZTY3M2QzNWJkNGVjZDczOTYzOTk3ODA.jpg",
+        "summary": "A fejünk fölött számtalan dolog történik, amit még a tudósok sem értenek pontosan - ilyen például a csillagok születése is. A NASA nemrég 4 csillagbölcsőde hangjait osztotta meg, amelyek egyszerre hátborzongatóak és gyönyörűek.",
+        "category": "Bulvár",
+        "published_at": 1795615200
       }
     ]
   }
