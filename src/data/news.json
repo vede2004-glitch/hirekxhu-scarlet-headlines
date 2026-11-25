@@ -1420,42 +1420,37 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_714774dbb9",
-    "slug": "mi-eszkzkkel-segitett-amator-hacker-82-flandriai-telepules-adatainak-megszerzese-714774",
+    "group_id": "group_71bc69d878",
+    "slug": "gordon-ramsay-vezetesevel-ter-vissza-a-top-gear-71bc69",
     "tags": [
-      "flandria",
-      "kibertamadas",
-      "muholdalapu-mesterseges-intelligencia",
-      "adatlopas"
+      "altalanos"
     ],
-    "fingerprint": "3d3e47026e9846a16b3ca4e6a49c2996",
     "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
+    "image": "https://s.24.hu/app/uploads/2026/11/000_d89w3h3-e1795632992510-1024x575.jpg",
+    "is_synthesized": false,
     "sources_count": 3,
     "sources": [
       {
-        "source": "444.hu",
-        "title": "Egy amatőr hacker 1,2 millió belga lakos adatait lopta el AI segítségével",
-        "link": "https://444.hu/2026/11/25/egy-amator-hacker-12-millio-belga-lakos-adatait-lopta-el-ai-segitsegevel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
         "source": "24.hu - Legfrissebb",
-        "title": "Kezdő hekker mesterséges intelligencia segítségével lopta el több mint egymillió belga állampolgár adatait",
-        "link": "https://24.hu/kulfold/2026/11/25/hekker-mesterseges-intelligencia-segitsegevel-adatlopas-belgium/"
+        "title": "Gordon Ramsay vezetésével tér vissza a Top Gear",
+        "link": "https://24.hu/kultura/2026/11/25/gordon-ramsay-top-gear-visszateres-bbc/"
       },
       {
-        "source": "Rakéta.hu",
-        "title": "1,2 millió ember adatait tudta ellopni sikeresen 82 településről egy amatőr hacker, aki a mesterséges intelligenciát hívta segítségül",
-        "link": "https://raketa.hu/12-millio-ember-adatait-lopta-el-82-telepulesrol-sikeresen-egy-amator-hacker-aki-a-mesterseges-intelligenciat-hivta-segitsegul/"
+        "source": "Telex - Belföld",
+        "title": "Gordon Ramsay lesz a visszatérő Top Gear egyik műsorvezetője",
+        "link": "https://telex.hu/after/2026/11/25/top-gear-gordon-ramsay-musorvezeto-bbc-auto"
+      },
+      {
+        "source": "444.hu",
+        "title": "Gordon Ramsay lesz a Top Gear műsorvezetője",
+        "link": "https://444.hu/2026/11/25/gordon-ramsay-lesz-a-top-gear-musorvezetoje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
-    "published_at": 1795615126,
-    "title_hu": "MI-eszközökkel segített amatőr hacker 82 flandriai település adatainak megszerzésében",
-    "lead_hu": "November 6. és 15. között egy BabidiGhost álnevet használó támadó 82 flandriai önkormányzat mintegy 1,2 millió lakosának adataihoz jutott hozzá. A nyomozók szerint az elkövető korlátozott technikai tudását MI-eszközökkel egészítette ki, és egy szolgáltató védtelen szerverét támadta meg.",
-    "content_hu": "• **Az elkövető és az érintettek** A BabidiGhost néven tevékenykedő támadó állítása szerint a Ghost Hunters nevű hackercsoporthoz tartozik. Az akció Belgium mind az öt flandriai tartományának 82 önkormányzatát és körülbelül 1,2 millió lakosát érintette.\n\n• **A szerver tartalma** A behatolás nem az önkormányzatok saját rendszereit célozta: a támadó egy szolgáltató szerveréhez fért hozzá, amely hulladékudvarokkal kapcsolatos információkat és jelszavakat is tárolt. A szerveren az ügyféladatok nem voltak elkülönítve, a fájlok pedig titkosítás nélkül maradtak.\n\n• **A megszerzett adatok** Az érintett információk között nevek, címek, születési dátumok, nemzeti nyilvántartási és személyazonosító számok, bankszámlaadatok, valamint egyes esetekben gépjárművek rendszámai szerepeltek.\n\n• **A támadó technikai tudása** A nyomozók szerint az elkövető nem rendelkezett magas szintű technikai ismeretekkel. A DeepSeek korlátozásainak kijátszása után egy digitális MI-asszisztenssel készíttetett kódot, amely régebbi szoftverek ismert sérülékenységeit használhatta ki az adatok megszerzéséhez; az asszisztens 5800 utasításból 41-et utasított el.\n\n• **A támadás súlya és az adatok sorsa** Geert Baudewijns, a Secutec vezetője az eddigi legnagyobb flandriai kibertámadásként értékelte az esetet, és az érintett adatok mennyiségét különösen jelentősnek nevezte. A Secutec elemzése alapján az ellopott információk már felkerültek a darkwebre.\n\n• **A szakértői figyelmeztetés** Samet Sazhak, a SOCRadar munkatársa arra hívta fel a figyelmet, hogy megfelelően védett MI-rendszerek hiányában a korábban nagy tapasztalatot igénylő támadásokhoz ma már kevesebb technikai felkészültség is elegendő lehet.",
-    "importance_score": 43.0,
+    "published_at": 1795633124,
+    "title_hu": "Gordon Ramsay vezetésével tér vissza a Top Gear",
+    "lead_hu": "A BBC újraindítja a Top Gear című autós műsort. Az új csapat első bejelentett tagja Gordon Ramsay, az első epizód pedig 2028-ban érkezhet. The post Gordon Ramsay vezetésével tér vissza a Top Gear firs...",
+    "content_hu": "A BBC újraindítja a Top Gear című autós műsort. Az új csapat első bejelentett tagja Gordon Ramsay, az első epizód pedig 2028-ban érkezhet. The post Gordon Ramsay vezetésével tér vissza a Top Gear first appeared on 24.hu.",
+    "importance_score": 45.0,
     "top_rank": 25,
     "is_top_hero": false,
     "is_top_list": true
@@ -1789,36 +1784,41 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_bbfdf46d7c",
-    "slug": "ukran-vezerkar-megsemmisitettek-t-katonai-repuloge-bbfdf4",
+    "group_id": "group_714774dbb9",
+    "slug": "mi-eszkzkkel-segitett-amator-hacker-82-flandriai-telepules-adatainak-megszerzese-714774",
     "tags": [
-      "altalanos"
+      "flandria",
+      "kibertamadas",
+      "muholdalapu-mesterseges-intelligencia",
+      "adatlopas"
     ],
+    "fingerprint": "3d3e47026e9846a16b3ca4e6a49c2996",
     "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/075_ukrinform-destroye230616_npgy6-e1795615197275-1024x577.jpg",
-    "is_synthesized": false,
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
     "sources_count": 3,
     "sources": [
       {
+        "source": "444.hu",
+        "title": "Egy amatőr hacker 1,2 millió belga lakos adatait lopta el AI segítségével",
+        "link": "https://444.hu/2026/11/25/egy-amator-hacker-12-millio-belga-lakos-adatait-lopta-el-ai-segitsegevel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
         "source": "24.hu - Legfrissebb",
-        "title": "Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren",
-        "link": "https://24.hu/kulfold/2026/11/25/ukran-vezerkar-megsemmisitettek-ot-katonai-repulogepet-az-ukran-erok-egy-oroszorszagi-repteren/"
+        "title": "Kezdő hekker mesterséges intelligencia segítségével lopta el több mint egymillió belga állampolgár adatait",
+        "link": "https://24.hu/kulfold/2026/11/25/hekker-mesterseges-intelligencia-segitsegevel-adatlopas-belgium/"
       },
       {
-        "source": "HVG - Világ",
-        "title": "Ukrajna kilőtt öt orosz vadászgépet, amelyeket ukrán területek bombázására használtak – videó",
-        "link": "https://hvg.hu/vilag/20261125_ukrajna-oroszorszag-haboru-vadaszgep-kiloves"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Ukrajna azt állítja, öt orosz katonai repülőgépet is megrongált egy oroszországi légibázison",
-        "link": "https://telex.hu/kulfold/2026/11/25/ukrajna-szerint-ot-katonai-repulogepet-is-megrongaltak-egy-oroszorszagi-legibazison"
+        "source": "Rakéta.hu",
+        "title": "1,2 millió ember adatait tudta ellopni sikeresen 82 településről egy amatőr hacker, aki a mesterséges intelligenciát hívta segítségül",
+        "link": "https://raketa.hu/12-millio-ember-adatait-lopta-el-82-telepulesrol-sikeresen-egy-amator-hacker-aki-a-mesterseges-intelligenciat-hivta-segitsegul/"
       }
     ],
-    "published_at": 1795615389,
-    "title_hu": "Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren",
-    "lead_hu": "Olajfinomítókat is támadtak. The post Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren first appeared on 24.hu.",
-    "content_hu": "Olajfinomítókat is támadtak. The post Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren first appeared on 24.hu.",
+    "published_at": 1795615126,
+    "title_hu": "MI-eszközökkel segített amatőr hacker 82 flandriai település adatainak megszerzésében",
+    "lead_hu": "November 6. és 15. között egy BabidiGhost álnevet használó támadó 82 flandriai önkormányzat mintegy 1,2 millió lakosának adataihoz jutott hozzá. A nyomozók szerint az elkövető korlátozott technikai tudását MI-eszközökkel egészítette ki, és egy szolgáltató védtelen szerverét támadta meg.",
+    "content_hu": "• **Az elkövető és az érintettek** A BabidiGhost néven tevékenykedő támadó állítása szerint a Ghost Hunters nevű hackercsoporthoz tartozik. Az akció Belgium mind az öt flandriai tartományának 82 önkormányzatát és körülbelül 1,2 millió lakosát érintette.\n\n• **A szerver tartalma** A behatolás nem az önkormányzatok saját rendszereit célozta: a támadó egy szolgáltató szerveréhez fért hozzá, amely hulladékudvarokkal kapcsolatos információkat és jelszavakat is tárolt. A szerveren az ügyféladatok nem voltak elkülönítve, a fájlok pedig titkosítás nélkül maradtak.\n\n• **A megszerzett adatok** Az érintett információk között nevek, címek, születési dátumok, nemzeti nyilvántartási és személyazonosító számok, bankszámlaadatok, valamint egyes esetekben gépjárművek rendszámai szerepeltek.\n\n• **A támadó technikai tudása** A nyomozók szerint az elkövető nem rendelkezett magas szintű technikai ismeretekkel. A DeepSeek korlátozásainak kijátszása után egy digitális MI-asszisztenssel készíttetett kódot, amely régebbi szoftverek ismert sérülékenységeit használhatta ki az adatok megszerzéséhez; az asszisztens 5800 utasításból 41-et utasított el.\n\n• **A támadás súlya és az adatok sorsa** Geert Baudewijns, a Secutec vezetője az eddigi legnagyobb flandriai kibertámadásként értékelte az esetet, és az érintett adatok mennyiségét különösen jelentősnek nevezte. A Secutec elemzése alapján az ellopott információk már felkerültek a darkwebre.\n\n• **A szakértői figyelmeztetés** Samet Sazhak, a SOCRadar munkatársa arra hívta fel a figyelmet, hogy megfelelően védett MI-rendszerek hiányában a korábban nagy tapasztalatot igénylő támadásokhoz ma már kevesebb technikai felkészültség is elegendő lehet.",
     "importance_score": 38.0,
     "top_rank": 34,
     "is_top_hero": false,
@@ -1979,37 +1979,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_71bc69d878",
-    "slug": "gordon-ramsay-vezetesevel-ter-vissza-a-top-gear-71bc69",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/000_d89w3h3-e1795632992510-1024x575.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Gordon Ramsay vezetésével tér vissza a Top Gear",
-        "link": "https://24.hu/kultura/2026/11/25/gordon-ramsay-top-gear-visszateres-bbc/"
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Gordon Ramsay lesz a visszatérő Top Gear egyik műsorvezetője",
-        "link": "https://telex.hu/after/2026/11/25/top-gear-gordon-ramsay-musorvezeto-bbc-auto"
-      }
-    ],
-    "published_at": 1795633124,
-    "title_hu": "Gordon Ramsay vezetésével tér vissza a Top Gear",
-    "lead_hu": "A BBC újraindítja a Top Gear című autós műsort. Az új csapat első bejelentett tagja Gordon Ramsay, az első epizód pedig 2028-ban érkezhet. The post Gordon Ramsay vezetésével tér vissza a Top Gear firs...",
-    "content_hu": "A BBC újraindítja a Top Gear című autós műsort. Az új csapat első bejelentett tagja Gordon Ramsay, az első epizód pedig 2028-ban érkezhet. The post Gordon Ramsay vezetésével tér vissza a Top Gear first appeared on 24.hu.",
-    "importance_score": 35.0,
-    "top_rank": 39,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_f54b959ad3",
     "slug": "ai-reszvenyeket-erinto-eladasi-hullam-sprt-vegig-a-piacokon-f54b95",
     "tags": [
@@ -2041,7 +2010,7 @@
     "lead_hu": "Az amerikai technológiai részvények gyengülése után az ázsiai piacokon is jelentős veszteségeket szenvedtek el az AI-iparághoz kötődő vállalatok. A befektetők egyre inkább azt mérlegelik, hogy a mesterséges intelligenciába irányuló hatalmas beruházások megtérülhetnek-e.",
     "content_hu": "• **Amerikai visszaesés** Szerdán az Nvidia és az Anthropic részvényei is estek, a Nasdaq pedig közel négy százalékot veszített értékéből. Más nagy technológiai vállalatok papírjai szintén gyengültek.\n\n• **Ázsiai eladási hullám** A japán AI-ellátási lánc cégei közül az Advantest árfolyama 13, a Tokyo Electroné 12,82, a SoftBank Groupé pedig 15 százalékkal csökkent.\n\n• **Megtérülési kérdések** A befektetői aggodalmak középpontjában az áll, hogy a nagy AI-beruházások hoznak-e megfelelő eredményt, és hosszabb távon fenntartható-e a kiadások üteme.\n\n• **További kockázatok** Elemzői felvetés szerint a kereslet tartóssága mellett az infrastruktúra finanszírozása és energiaellátása is bizonytalanságot jelent.",
     "importance_score": 35.0,
-    "top_rank": 40,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2077,7 +2046,7 @@
     "lead_hu": "Az Európai Bizottság terve szerint az EU 2027-ben 45 milliárd euróval járulna hozzá Ukrajna finanszírozásához. Magyar Péter miniszterelnök jelezte, hogy Magyarország nem venne részt az összeg biztosításában, és a támogatást külön kezelné az unió hosszú távú költségvetésétől.",
     "content_hu": "• **A bizottsági terv** Ukrajna 2027-re becsült, mintegy 70 milliárd eurós finanszírozási hiányából 45 milliárdot fedezne uniós forrásból: 20 milliárd eurót költségvetési, 25 milliárdot katonai célokra szánnának. A támogatást Ukrajnának csak azután kellene visszafizetnie, hogy Oroszország megtérítette a háborús károkat.\n\n• **Magyarország álláspontja** Magyar Péter szerint Magyarország nem venne részt a 45 milliárd eurós finanszírozásban. A miniszterelnök azt javasolta, hogy a korábbi konstrukcióhoz hasonlóan az arra vállalkozó tagállamok biztosítsák az összeget.\n\n• **A költségvetési vita** Magyar Péter ellenzi, hogy Ukrajna támogatását összekapcsolják az EU következő hétéves költségvetésével. Az uniós vezetők a csúcstalálkozón a tervezett finanszírozásról és a hosszú távú költségvetési keretről is tárgyalnak.",
     "importance_score": 35.0,
-    "top_rank": 41,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2108,7 +2077,7 @@
     "lead_hu": "A tűzoltási munkálatok idejére lezárták a Soroksári út érintett szakaszát.",
     "content_hu": "A tűzoltási munkálatok idejére lezárták a Soroksári út érintett szakaszát.",
     "importance_score": 35.0,
-    "top_rank": 42,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2139,7 +2108,7 @@
     "lead_hu": "A kutatók szerint a mostani rekordok már előrevetítik, mi vár ránk, ha nem csökkentjük drasztikusan a fosszilis energiahordozók égetéséből származó kibocsátást.",
     "content_hu": "A kutatók szerint a mostani rekordok már előrevetítik, mi vár ránk, ha nem csökkentjük drasztikusan a fosszilis energiahordozók égetéséből származó kibocsátást.",
     "importance_score": 35.0,
-    "top_rank": 43,
+    "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2175,6 +2144,42 @@
     "lead_hu": "A rendőrség több vármegye településein tartott összehangolt akciót egy drogterjesztő hálózat ellen. A keddi rajtaütések során hat kilogramm kristályt foglaltak le, és 22 embert állítottak elő.",
     "content_hu": "• **Összehangolt akció** Pest, Bács-Kiskun, Heves és Jász-Nagykun-Szolnok vármegye rendőrei, a Készenléti Rendőrség és a Terrorelhárítási Központ munkatársai több helyszínen hajtottak végre házkutatást.\n\n• **Előállítások és őrizetbe vételek** A keddi intézkedések során 22 embert állítottak elő, közülük tízet őrizetbe vettek. Összesen 12 helyszínen tartottak házkutatást.\n\n• **A hálózat működése** A nyomozás adatai szerint a csoport Örkény, Táborfalva és Kecskemét térségében terjesztette a kábítószert; a hálózat tagjai között beszerzők, tárolók és értékesítők is voltak.\n\n• **Lefoglalt tárgyak** A rendőrök hat kilogramm kristály mellett két autót, fegyvernek látszó tárgyakat, készpénzt és elektronikai eszközöket is lefoglaltak.",
     "importance_score": 35.0,
+    "top_rank": 43,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_bbfdf46d7c",
+    "slug": "ukran-vezerkar-megsemmisitettek-t-katonai-repuloge-bbfdf4",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/075_ukrinform-destroye230616_npgy6-e1795615197275-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren",
+        "link": "https://24.hu/kulfold/2026/11/25/ukran-vezerkar-megsemmisitettek-ot-katonai-repulogepet-az-ukran-erok-egy-oroszorszagi-repteren/"
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "Ukrajna kilőtt öt orosz vadászgépet, amelyeket ukrán területek bombázására használtak – videó",
+        "link": "https://hvg.hu/vilag/20261125_ukrajna-oroszorszag-haboru-vadaszgep-kiloves"
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Ukrajna azt állítja, öt orosz katonai repülőgépet is megrongált egy oroszországi légibázison",
+        "link": "https://telex.hu/kulfold/2026/11/25/ukrajna-szerint-ot-katonai-repulogepet-is-megrongaltak-egy-oroszorszagi-legibazison"
+      }
+    ],
+    "published_at": 1795615389,
+    "title_hu": "Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren",
+    "lead_hu": "Olajfinomítókat is támadtak. The post Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren first appeared on 24.hu.",
+    "content_hu": "Olajfinomítókat is támadtak. The post Ukrán vezérkar: megsemmisítettek öt katonai repülőgépet az ukrán erők egy oroszországi reptéren first appeared on 24.hu.",
+    "importance_score": 33.0,
     "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
@@ -3960,7 +3965,7 @@
     "title_hu": "Kegyetlenül magas áfa sújtja a magyarokat, az adórendszerünk mégis az élmezőnyben van",
     "lead_hu": "Csaknem 40 százalékkal magasabb a magyar áfa az OECD-átlagnál....",
     "content_hu": "Csaknem 40 százalékkal magasabb a magyar áfa az OECD-átlagnál.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 94,
     "is_top_hero": false,
     "is_top_list": true
@@ -4180,6 +4185,110 @@
     "top_rank": 100,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_d0f088a6b4",
+    "slug": "ahogy-hagytuk-d0f088",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Ahogy hagytuk",
+        "link": "https://magyarnarancs.hu/kritika/ahogy-hagytuk-280703"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Ahogy hagytuk",
+    "lead_hu": "Minnesota olyan, mint a Lövölde tér. Ott mindig hideg van. És hó és sár és tél....",
+    "content_hu": "Minnesota olyan, mint a Lövölde tér. Ott mindig hideg van. És hó és sár és tél.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_cb3ab8d704",
+    "slug": "van-vagy-nincs-cb3ab8",
+    "tags": [
+      "kultura"
+    ],
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Van vagy nincs",
+        "link": "https://magyarnarancs.hu/kritika/van-vagy-nincs-280702"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Van vagy nincs",
+    "lead_hu": "Napóleon vagy Abraham Lincoln már nem tud beleszólni, hogyan ábrázolják őt, manapság viszont egyre többször fordul elő, hogy még nagyon is él valaki, mégsem kérdezi meg senki, akarja-e, hogy film vagy...",
+    "content_hu": "Napóleon vagy Abraham Lincoln már nem tud beleszólni, hogyan ábrázolják őt, manapság viszont egyre többször fordul elő, hogy még nagyon is él valaki, mégsem kérdezi meg senki, akarja-e, hogy film vagy sorozat készüljön viselt dolgairól.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_33b2c21ea6",
+    "slug": "tkeletes-alak-georgina-rodriguez-szexi-es-meresz-szettben-pozolt-33b2c2",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/08/hhDYR8_3rCSjyFDB9EWO7EeWHvNFwuj24__OaiRrN04/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzA4LzA1LzBhNzY5N2E1YjM2NzgzNGIzNTdkOTVmZmRiZWVhYmFhOGNjMDk1MmRkMDk5YjZjNThiOTVlY2Y0MjVjMTdiNzk.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Tökéletes alak, Georgina Rodriguez szexi és merész szettben pózolt",
+        "link": "https://borsonline.origo.hu/csajok/2026/11/georgina-rodriguez-szexi-joga-szett"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Tökéletes alak, Georgina Rodriguez szexi és merész szettben pózolt",
+    "lead_hu": "Cristiano Ronaldo párja ismét felrobbantotta a közösségi médiát. Georgina Rodriguez két merész jógaszettben pózolt, a fotók pedig rövid idő alatt több százezer kedvelést és rengeteg hozzászólást gyűjt...",
+    "content_hu": "Cristiano Ronaldo párja ismét felrobbantotta a közösségi médiát. Georgina Rodriguez két merész jógaszettben pózolt, a fotók pedig rövid idő alatt több százezer kedvelést és rengeteg hozzászólást gyűjtöttek.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_702c0b02bf",
+    "slug": "lezsak-sandor-nem-elegszik-meg-magyar-peter-bocsanatkeresevel-perre-megy-az-ugyn-702c0b",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/6934/69346/693464/69346433_5117649_6639f91a706910361ecc97d138acb7c6_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Lezsák Sándor nem elégszik meg Magyar Péter bocsánatkérésével, perre megy az ügynökakták miatt",
+        "link": "https://index.hu/belfold/2026/11/25/lezsak-sandor-magyar-peter-bocsanatkeres-ugynokaktak-botrany/"
+      }
+    ],
+    "published_at": 1795636740,
+    "title_hu": "Lezsák Sándor nem elégszik meg Magyar Péter bocsánatkérésével, perre megy az ügynökakták miatt",
+    "lead_hu": "Meg is indokolta a döntését....",
+    "content_hu": "Meg is indokolta a döntését.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_bded3c1985",
@@ -19132,32 +19241,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_6881b90670",
-    "slug": "felmeztelen-fotoval-keresi-a-szerelmet-a-szexi-gol-6881b9",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "https://cdn.borsonline.hu/2026/11/RN4aiT4CbYCwYDHcO1tkBXUpIIYJze71K_A1g56zf1w/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzIwLzJiMDg1Yjk3MjQ3NTI4ZmU0NjU4ZTkwMmVkYTdmYTFmMzU3N2NlMzNhNWVjOGM3ZmI0N2MzYThlZjIyZDhhYmM.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Félmeztelen fotóval keresi a szerelmet a szexi golfozónő",
-        "link": "https://borsonline.origo.hu/csajok/2026/11/katie-sigmond-felmeztelen-foto-pasit-keres"
-      }
-    ],
-    "published_at": 1795550400,
-    "title_hu": "Félmeztelen fotóval keresi a szerelmet a szexi golfozónő",
-    "lead_hu": "Merész fotóval borzolta a kedélyeket a dögös golfinfluenszer. A 24 éves Katie Sigmond ezúttal Instagram-sztorijában pózolt félmeztelenül, miközben egy meglehetősen egyértelmű üzenetet is megosztott kö…",
-    "content_hu": "Merész fotóval borzolta a kedélyeket a dögös golfinfluenszer. A 24 éves Katie Sigmond ezúttal Instagram-sztorijában pózolt félmeztelenül, miközben egy meglehetősen egyértelmű üzenetet is megosztott követőivel: „Szeretnék egy pasit.”",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_2a90155e8a",
     "slug": "ingyenes-utazast-javasol-a-valogatott-meccsere-tarto-szurkoloknak-zuglo-polgarme-2a9015",
     "tags": [
@@ -19229,6 +19312,500 @@
     "top_rank": 102,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_59c3ad678c",
+    "slug": "mult-es-jelenlet-59c3ad",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Múlt és jelenlét",
+        "link": "https://magyarnarancs.hu/kritika/mult-es-jelenlet-280701"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Múlt és jelenlét",
+    "lead_hu": "Új filmjében Radu Jude magához képest suttogva vizsgálja újra a társadalmi egyenlőtlenségeket és a bizarr történelmi rímeket....",
+    "content_hu": "Új filmjében Radu Jude magához képest suttogva vizsgálja újra a társadalmi egyenlőtlenségeket és a bizarr történelmi rímeket.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_81b8c8f91f",
+    "slug": "szemfenyvesztok-81b8c8",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Szemfényvesztők",
+        "link": "https://magyarnarancs.hu/kritika/szemfenyvesztok-280700"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Szemfényvesztők",
+    "lead_hu": "Elizabeth Holmesnak mégiscsak hálás lesz az utókor. Ha egy csepp vérből nem is sikerült minden betegséget kimutatnia, az évtized egyik legjobb filmjét neki (is) köszönhetjük....",
+    "content_hu": "Elizabeth Holmesnak mégiscsak hálás lesz az utókor. Ha egy csepp vérből nem is sikerült minden betegséget kimutatnia, az évtized egyik legjobb filmjét neki (is) köszönhetjük.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_77c70d59be",
+    "slug": "hangalamondasos-pszichodrama-77c70d",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Hangalámondásos pszichodráma",
+        "link": "https://magyarnarancs.hu/kritika/hangalamondasos-pszichodrama-280699"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Hangalámondásos pszichodráma",
+    "lead_hu": "2020 júniusában az Orchestre de Paris az akkoriban még feltörekvőnek számító Klaus Mäkelät választotta következő zeneigazgatójának. Hallani lehetett olyan véleményt, hogy a franciák mindenképpen finn ...",
+    "content_hu": "2020 júniusában az Orchestre de Paris az akkoriban még feltörekvőnek számító Klaus Mäkelät választotta következő zeneigazgatójának. Hallani lehetett olyan véleményt, hogy a franciák mindenképpen finn karmestert akartak, és így „jegyezték elő” maguknak a huszonnégy éves dirigenst.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_36ea33baa9",
+    "slug": "ez-ott-volt-jo-36ea33",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Ez ott volt jó",
+        "link": "https://magyarnarancs.hu/kritika/ez-ott-volt-jo-280698"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Ez ott volt jó",
+    "lead_hu": "Závada Pál legújabb regénye izgalmas, és egyben kockázatos vállalkozás: a 20. század magyar irodalmi közegét mutatja be, leginkább valós szereplők segítségével, de néhány fiktív személyt is felvonulta...",
+    "content_hu": "Závada Pál legújabb regénye izgalmas, és egyben kockázatos vállalkozás: a 20. század magyar irodalmi közegét mutatja be, leginkább valós szereplők segítségével, de néhány fiktív személyt is felvonultat. A középpontba Németh Lászlót helyezi, akinek alakja láthatóan rendkívül izgatja, nyugtalanítja a szerzőt: folyamatosan olvassa, értelmezi, újraolvassa, megrágja, kiköpi, újrarágja.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_58a771279a",
+    "slug": "hetkznapi-kephaboru-58a771",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Hétköznapi képháború",
+        "link": "https://magyarnarancs.hu/kritika/hetkoznapi-kephaboru-280697"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Hétköznapi képháború",
+    "lead_hu": "Széll Ádám (1995) rajzai a személyes emlékezet képi nyomaiból és a tömegkultúra jelenségeiből táplálkoznak, s korábban indigó­papírral, ezzel a jellegzetes „nyomhagyásos” technikával készültek. Kompoz...",
+    "content_hu": "Széll Ádám (1995) rajzai a személyes emlékezet képi nyomaiból és a tömegkultúra jelenségeiből táplálkoznak, s korábban indigó­papírral, ezzel a jellegzetes „nyomhagyásos” technikával készültek. Kompozíciói gyakran a káosz határán egyensúlyoznak; a kezdetben még felismerhető részleteket és formákat egymásba és átrajzolja, eltolja, dekonstruálja, így a képi referenciákat és az eltérő idősíkokat elnyeli a zaj.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_796e633849",
+    "slug": "alombeli-taj-796e63",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Álombéli táj",
+        "link": "https://magyarnarancs.hu/kritika/alombeli-taj-280696"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Álombéli táj",
+    "lead_hu": "A színpad hátsó harmadában lévő fehér falra vetített kérészek zsibonganak a folyó vize fölött. Amint levedlettek, már indulnak is a végső repülésre. Feladatukat teljesíteni kell, mielőtt leszáll az es...",
+    "content_hu": "A színpad hátsó harmadában lévő fehér falra vetített kérészek zsibonganak a folyó vize fölött. Amint levedlettek, már indulnak is a végső repülésre. Feladatukat teljesíteni kell, mielőtt leszáll az este. Ezzel a filmbejátszással kezdődik Josef Nadj új darabja, amelyet a Montpellier Danse fesztiválon tartott júliusi premier után most elhoztak hozzánk is.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_9fd3b619f5",
+    "slug": "emberfogo-9fd3b6",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Emberfogó",
+        "link": "https://magyarnarancs.hu/kritika/emberfogo-280695"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Emberfogó",
+    "lead_hu": "A regény és a belőle készült előadás is a szabadság belső határainak és külső korlátjai­nak kérdését firtatja erőltetett menetben. A regény hosszabban, a színházi adaptáció nyugtalanítóbban....",
+    "content_hu": "A regény és a belőle készült előadás is a szabadság belső határainak és külső korlátjai­nak kérdését firtatja erőltetett menetben. A regény hosszabban, a színházi adaptáció nyugtalanítóbban.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_99912b1da1",
+    "slug": "jatek-az-arnyakkal-99912b",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Játék az árnyakkal",
+        "link": "https://magyarnarancs.hu/aszerk/jatek-az-arnyakkal-280683"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Játék az árnyakkal",
+    "lead_hu": "A Tisza választási programjában egyetlen lakonikus mondat utal arra, ami november 4-én történt. Illetve hát épp ez lenne itt a probléma, hogy nem az történt, ami abban a mondatban szerepel. Ami tulajd...",
+    "content_hu": "A Tisza választási programjában egyetlen lakonikus mondat utal arra, ami november 4-én történt. Illetve hát épp ez lenne itt a probléma, hogy nem az történt, ami abban a mondatban szerepel. Ami tulajdonképpen nem is csoda, hiszen annak a mondatnak sajnos nincs értelme, nincs precíz, jól körülhatárolható cselekvést és e cselekvés tárgyát kijelölő tartalma.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_808f9dccbf",
+    "slug": "felnott-tartalom-808f9d",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Felnőtt tartalom",
+        "link": "https://magyarnarancs.hu/aszerk/felnott-tartalom-280682"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Felnőtt tartalom",
+    "lead_hu": "Nem fogunk könnyet hullatni a fideszes országgyűlési képviselőkért, s még kevésbé a gyengeelméjűséget súroló országházi produkcióikért, de azt azért rögzítsük, hogy a Tisza-párt a folyamatos ellenzéki...",
+    "content_hu": "Nem fogunk könnyet hullatni a fideszes országgyűlési képviselőkért, s még kevésbé a gyengeelméjűséget súroló országházi produkcióikért, de azt azért rögzítsük, hogy a Tisza-párt a folyamatos ellenzéki trollkodásra hivatkozva a NER-re emlékeztető módon korlátozná a képviselők jogait.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_16f6cebccd",
+    "slug": "a-kinyujtott-kez-16f6ce",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "A kinyújtott kéz",
+        "link": "https://magyarnarancs.hu/kulpol/a-kinyujtott-kez-280692"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "A kinyújtott kéz",
+    "lead_hu": "Izraelben mintegy 2,2 millió arab lakos él, a teljes népesség 21,1 százaléka. Az október végi választásokon az arab pártok 19 helyet szereztek a 120 tagú Kneszetben. Ezzel központi kérdéssé vált az or...",
+    "content_hu": "Izraelben mintegy 2,2 millió arab lakos él, a teljes népesség 21,1 százaléka. Az október végi választásokon az arab pártok 19 helyet szereztek a 120 tagú Kneszetben. Ezzel központi kérdéssé vált az ország lakosságának mintegy ötödét kitevő arab kisebbség politikai súlya.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_1adab3a80b",
+    "slug": "szebb-multat-1adab3",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Szebb múltat!",
+        "link": "https://magyarnarancs.hu/publicisztika/szebb-multat-280689"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Szebb múltat!",
+    "lead_hu": "Az Orbán-rendszert nemcsak a jogszabályok és a politikai intézmények tartották fenn, hanem a különböző intézményekben kialakult gyakorlatok is: a konfliktuskerülés, az öncenzúra, a lojalitási gesztuso...",
+    "content_hu": "Az Orbán-rendszert nemcsak a jogszabályok és a politikai intézmények tartották fenn, hanem a különböző intézményekben kialakult gyakorlatok is: a konfliktuskerülés, az öncenzúra, a lojalitási gesztusok és az informális alkuk. Mindezek hozzájárultak a rendszer elfogadtatásához. Ezeket a gyakorlatokat nehéz megváltoztatni, különösen a múlttal való szembenézés, intézményeink történeteinek feldolgozása nélkül.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_b19df4578b",
+    "slug": "hogy-a-szemukbe-nezzek-b19df4",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Hogy a szemükbe nézzek”",
+        "link": "https://magyarnarancs.hu/belpol/hogy-a-szemukbe-nezzek-280691"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "„Hogy a szemükbe nézzek”",
+    "lead_hu": "Honnan jött és hová tart az ifjú képviselő? Traktorozásról, tanyasi nyugalomról, kulák felmenőkről és családi hagyományokról, ökogazdálkodásról és az absztinenciáról is beszélgettünk vele....",
+    "content_hu": "Honnan jött és hová tart az ifjú képviselő? Traktorozásról, tanyasi nyugalomról, kulák felmenőkről és családi hagyományokról, ökogazdálkodásról és az absztinenciáról is beszélgettünk vele.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_84c474d7c1",
+    "slug": "mar-csak-ez-hianyzott-84c474",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Már csak ez hiányzott",
+        "link": "https://magyarnarancs.hu/belpol/mar-csak-ez-hianyzott-280690"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Már csak ez hiányzott",
+    "lead_hu": "Hónapok óta nehezíti a változókori tünetektől szenvedő nők életét egy hormonpótló készítmény eltűnése a patikákból. A gyártó Richter a vártnál nagyobb kereslettel és beszerzési nehézségekkel magyarázz...",
+    "content_hu": "Hónapok óta nehezíti a változókori tünetektől szenvedő nők életét egy hormonpótló készítmény eltűnése a patikákból. A gyártó Richter a vártnál nagyobb kereslettel és beszerzési nehézségekkel magyarázza az ellátási zavart. Mi vezetett a hiányhoz, és hogyan érinti ez a nőket és az orvosokat?",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_87de7757d5",
+    "slug": "megbunhodtek-87de77",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Megbűnhődték",
+        "link": "https://magyarnarancs.hu/belpol/megbunhodtek-280688"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Megbűnhődték",
+    "lead_hu": "Kreatív elküldési technikák, mentős, rendőrségi, gyerekvédelmi eljárások kísérik nemegyszer a sajátos nevelési igényű gyerekek útját a közoktatásban. Az integrálónak kijelölt iskolák diszfunkcionális ...",
+    "content_hu": "Kreatív elküldési technikák, mentős, rendőrségi, gyerekvédelmi eljárások kísérik nemegyszer a sajátos nevelési igényű gyerekek útját a közoktatásban. Az integrálónak kijelölt iskolák diszfunkcionális működését három történettel illusztráljuk.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_521b089759",
+    "slug": "vigado-lefujva-521b08",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Vigadó lefújva",
+        "link": "https://magyarnarancs.hu/belpol/vigado-lefujva-280687"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Vigadó lefújva",
+    "lead_hu": "A kormány megszüntetné a Magyar Művészeti Akadémia különleges szerepét a kultúrafinanszírozásban, ám könnyen lehet, hogy darázsfészekbe nyúl. Hogyan vált az egykori művészeti egyesület az egyik legfon...",
+    "content_hu": "A kormány megszüntetné a Magyar Művészeti Akadémia különleges szerepét a kultúrafinanszírozásban, ám könnyen lehet, hogy darázsfészekbe nyúl. Hogyan vált az egykori művészeti egyesület az egyik legfontosabb kultúrpolitikai intézménnyé, és miért olyan nehéz hozzányúlni a kiváltságaihoz?",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_d2b1b0f413",
+    "slug": "a-betegutak-gyakorlatilag-szettredeztek-d2b1b0",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„A betegutak gyakorlatilag széttöredeztek”",
+        "link": "https://magyarnarancs.hu/belpol/a-betegutak-gyakorlatilag-szettoredeztek-280686"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "„A betegutak gyakorlatilag széttöredeztek”",
+    "lead_hu": "A finanszírozás átgondolása és az ellátás átszervezése mellett a pszichiátriának a napi problémákkal is meg kell küzdeni – mondja a mentális egészségügyi ellátórendszer fejlesztéséért felelős miniszte...",
+    "content_hu": "A finanszírozás átgondolása és az ellátás átszervezése mellett a pszichiátriának a napi problémákkal is meg kell küzdeni – mondja a mentális egészségügyi ellátórendszer fejlesztéséért felelős miniszteri biztos. A terület évtizedek óta tartó leépülésének a visszafordítása nem különíthető el az egészségügy általános fejlesztési stratégiájától.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_d8c4a3570c",
+    "slug": "masfele-polifonia-d8c4a3",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Másféle polifónia”",
+        "link": "https://magyarnarancs.hu/zene2/masfele-polifonia-280704"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "„Másféle polifónia”",
+    "lead_hu": "A georgiai művész hazájának legnagyobb zeneszerzője és karmestere. Legutóbb édesapja emlékére komponált Requiemjével járt nálunk. E koncertje kapcsán beszélgettünk vele zeneszerzésről, műfajok kevered...",
+    "content_hu": "A georgiai művész hazájának legnagyobb zeneszerzője és karmestere. Legutóbb édesapja emlékére komponált Requiemjével járt nálunk. E koncertje kapcsán beszélgettünk vele zeneszerzésről, műfajok keveredéséről és természetesen a családi örökségéről is.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_f63092229b",
+    "slug": "mar-nem-vagyunk-annyira-naivak-f63092",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "„Már nem vagyunk annyira naivak”",
+        "link": "https://magyarnarancs.hu/zene2/mar-nem-vagyunk-annyira-naivak-280694"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "„Már nem vagyunk annyira naivak”",
+    "lead_hu": "December elején arénakoncerttel idézik fel A Pál utcai fiúk premierjét, pár nappal később pedig a legismertebb dala nyomán készült musical budapesti bemutatója lesz a MOM Sportban. Már az is biztos, h...",
+    "content_hu": "December elején arénakoncerttel idézik fel A Pál utcai fiúk premierjét, pár nappal később pedig a legismertebb dala nyomán készült musical budapesti bemutatója lesz a MOM Sportban. Már az is biztos, hogy jövőre egy Dés-musical dalait éneklik majd a Vígszínház színművészei.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_b72fcfe173",
+    "slug": "ki-az-a-nemecsek-erno-b72fcf",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Ki az a Nemecsek Ernő?",
+        "link": "https://magyarnarancs.hu/konyv/ki-az-a-nemecsek-erno-280693"
+      }
+    ],
+    "published_at": 1795636800,
+    "title_hu": "Ki az a Nemecsek Ernő?",
+    "lead_hu": "Miután nem sikerült megakadályozni, hogy megjelenjen, pert fontolgatnak Molnár Ferenc leszármazottai Pelle Jánossal szemben, aki regényt írt az íróról. Sárközi Mátyás, Molnár unokája szerint a mű nem ...",
+    "content_hu": "Miután nem sikerült megakadályozni, hogy megjelenjen, pert fontolgatnak Molnár Ferenc leszármazottai Pelle Jánossal szemben, aki regényt írt az íróról. Sárközi Mátyás, Molnár unokája szerint a mű nem méltó nagyapja életművéhez, és a szerzője „zsidózik”. Pelle viszont úgy látja, a tiltakozás mögött kibeszéletlen kollektív trauma áll.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_5097a6551b",
@@ -19745,32 +20322,6 @@
     "title_hu": "Zöld lámpát kapott a Roche új, rák elleni gyógyszere, milliárdos bevételt várnak tőle",
     "lead_hu": "Nagy reményeket fűz új gyógyszeréhez a svájci óriás.",
     "content_hu": "Nagy reményeket fűz új gyógyszeréhez a svájci óriás.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_6cfe857838",
-    "slug": "hetek-maradtak-hatra-bezar-a-nagy-gyar-magyarorsza-6cfe85",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/11/aNXC_dAS4PWBSFfqqZkQmEV2rKpYm8lyLBgxRzkslII/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI0LzJhYTQwNjU5ZWQwZmM4ZDM3MTc1NTJhZTU2N2VmYmIzY2NkMzQyOTYwM2JmOWQ0ZTQxZjYyMWZhMTUxNzUyMDA.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "Hetek maradtak hátra: bezár a nagy gyár Magyarországon, több száz munkahely szűnik meg – tavasz óta tudjuk, hogy ez következik",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/gyarbezaras-electrolux-jaszbereny-magyar-ipar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795550511,
-    "title_hu": "Hetek maradtak hátra: bezár a nagy gyár Magyarországon, több száz munkahely szűnik meg – tavasz óta tudjuk, hogy ez következik",
-    "lead_hu": "Búcsúzik az Electrolux jászberényi üzeme.",
-    "content_hu": "Búcsúzik az Electrolux jászberényi üzeme.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
