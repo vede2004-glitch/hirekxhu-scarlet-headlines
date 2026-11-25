@@ -1565,47 +1565,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_eb9839c3ad",
-    "slug": "matolcsy-a-parlamentben-is-vallalna-a-meghallgatast-ha-nem-bilincsben-kiserik-eb9839",
-    "tags": [
-      "matolcsy-gyorgy",
-      "mnb",
-      "parlamenti-bizottsag",
-      "letartoztatas"
-    ],
-    "fingerprint": "b67213a7f0355d4af1ffc1aa30955a49",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Ha nem mutatják bilincsben, Matolcsy hajlandó elmenni az MNB ügyeit vizsgáló parlamenti bizottságba",
-        "link": "https://444.hu/2026/11/25/ha-nem-mutatjak-bilincsben-matolcsy-hajlando-elmenni-az-mnb-ugyeit-vizsgalo-parlamenti-bizottsagba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Matolcsy ügyvédje: a vizsgálóbizottság előtti megjelenés feltétele, hogy a volt MNB-elnöknek ne kelljen vezetőszáron bevonulni a Parlamentbe",
-        "link": "https://24.hu/kozelet/2026/11/25/matolcsy-gyorgy-vizsgalobizottsag-vezetoszar-baki-pal/"
-      },
-      {
-        "source": "ATV",
-        "title": "Matolcsy mégis megjelenne a parlamenti bizottság előtt – egy feltételt szabott az ügyvédje",
-        "link": "https://www.atv.hu/belfold/20261125/matolcsy-gyorgy-parlament-bizottsag/"
-      }
-    ],
-    "published_at": 1795628880,
-    "title_hu": "Matolcsy a Parlamentben is vállalná a meghallgatást, ha nem bilincsben kísérik",
-    "lead_hu": "Bátki Pál ügyvéd szerint Matolcsy György kész személyesen részt venni az MNB ügyeit vizsgáló parlamenti bizottság nyilvános ülésén, amennyiben tiszteletben tartják emberi méltóságát és az ártatlanság vélelmét. A védelem úgy látja, nincs szükség arra, hogy a képviselők a büntetés-végrehajtási intézetben keressék fel a volt jegybankelnököt; a kísérés feltételeiről egyedi biztonsági mérlegelést kérnek.",
-    "content_hu": "• **A bizottság helyett Matolcsy is megjelenhet a Parlamentben** Bátki Pál szerint nem indokolt, hogy a képviselők a büntetés-végrehajtási intézetbe menjenek: védence megfelelő garanciák mellett vállalja a nyilvános parlamenti meghallgatást. Csőszi Attila bizottsági elnök korábban jelezte, hogy a testület csütörtökön egyeztet a meghallgatás lehetőségéről.\n\n• **A bilincs és a vezetőszár szükségességét külön kell mérlegelni** Az ügyvéd azt kéri, hogy a bv konkrét biztonsági kockázat alapján döntsön a kényszerítő eszközökről. Ha nem merül fel szökés vagy támadó fellépés veszélye, szerinte ezek mellőzésével kellene Matolcsyt a Parlamentbe kísérni.\n\n• **A kísérésről készült felvételeket ne hozzák nyilvánosságra** Amennyiben a bv mégis szükségesnek ítél valamelyik eszközt, Bátki feltételként szabja, hogy a bilincsben vagy vezetőszáron történő kísérésről ne jelenjenek meg képek. Az érkezést és a távozást a kamerák látóterén kívül szerveznék meg, a bizottsági ülésről a sajtó szabadon tudósíthatna.\n\n• **Több száz milliárd forintnyi közvagyon sorsa került az ügy középpontjába** Az MNB alapítványaihoz irányított vagyon jelentős része cégek közbeiktatásával végrehajtott befektetések során veszett oda. Az Állami Számvevőszék tavaly márciusban tett feljelentést.\n\n• **Gazdasági bűncselekmények gyanúja miatt tartóztatták le Matolcsyt** A volt jegybankelnököt október 21-én vették őrizetbe, letartóztatását két nappal később rendelték el, majd február 23-ig meghosszabbították. Különösen jelentős vagyoni hátrányt okozó gazdasági csalással és hamis magánokirat felhasználásával gyanúsítják.",
-    "importance_score": 38.0,
-    "top_rank": 30,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_714774dbb9",
     "slug": "mi-eszkzkkel-segitett-amator-hacker-82-flandriai-telepules-adatainak-megszerzese-714774",
     "tags": [
@@ -1642,7 +1601,7 @@
     "lead_hu": "November 6. és 15. között egy BabidiGhost álnevet használó támadó 82 flandriai önkormányzat mintegy 1,2 millió lakosának adataihoz jutott hozzá. A nyomozók szerint az elkövető korlátozott technikai tudását MI-eszközökkel egészítette ki, és egy szolgáltató védtelen szerverét támadta meg.",
     "content_hu": "• **Az elkövető és az érintettek** A BabidiGhost néven tevékenykedő támadó állítása szerint a Ghost Hunters nevű hackercsoporthoz tartozik. Az akció Belgium mind az öt flandriai tartományának 82 önkormányzatát és körülbelül 1,2 millió lakosát érintette.\n\n• **A szerver tartalma** A behatolás nem az önkormányzatok saját rendszereit célozta: a támadó egy szolgáltató szerveréhez fért hozzá, amely hulladékudvarokkal kapcsolatos információkat és jelszavakat is tárolt. A szerveren az ügyféladatok nem voltak elkülönítve, a fájlok pedig titkosítás nélkül maradtak.\n\n• **A megszerzett adatok** Az érintett információk között nevek, címek, születési dátumok, nemzeti nyilvántartási és személyazonosító számok, bankszámlaadatok, valamint egyes esetekben gépjárművek rendszámai szerepeltek.\n\n• **A támadó technikai tudása** A nyomozók szerint az elkövető nem rendelkezett magas szintű technikai ismeretekkel. A DeepSeek korlátozásainak kijátszása után egy digitális MI-asszisztenssel készíttetett kódot, amely régebbi szoftverek ismert sérülékenységeit használhatta ki az adatok megszerzéséhez; az asszisztens 5800 utasításból 41-et utasított el.\n\n• **A támadás súlya és az adatok sorsa** Geert Baudewijns, a Secutec vezetője az eddigi legnagyobb flandriai kibertámadásként értékelte az esetet, és az érintett adatok mennyiségét különösen jelentősnek nevezte. A Secutec elemzése alapján az ellopott információk már felkerültek a darkwebre.\n\n• **A szakértői figyelmeztetés** Samet Sazhak, a SOCRadar munkatársa arra hívta fel a figyelmet, hogy megfelelően védett MI-rendszerek hiányában a korábban nagy tapasztalatot igénylő támadásokhoz ma már kevesebb technikai felkészültség is elegendő lehet.",
     "importance_score": 38.0,
-    "top_rank": 31,
+    "top_rank": 30,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1683,7 +1642,7 @@
     "lead_hu": "A kormány rendkívüli parlamenti ülés összehívását kérte jövő keddre és szerdára. Ruff Bálint miniszterelnök-helyettes nyolc törvényjavaslat napirendre vételét javasolta, hogy azokat mielőbb elfogadhassák.",
     "content_hu": "• **A rendkívüli ülés terve** A kormány jövő keddre és szerdára kezdeményezte az Országgyűlés rendkívüli ülését; Ruff Bálint nyolc előterjesztés megtárgyalását kérte.\n\n• **A javaslatok témái** A képviselők kulturális intézményekről, a könyvpiac szabályozásáról, az állami vagyon védelméről, valamint egészségügyi, oktatási és gyermekügyi szabályokról is tárgyalhatnak.\n\n• **A hétfői ülés** A parlament elfogadott menetrendje szerint hétfőn 13 órakor is ülésezik. A programban napirend előtti felszólalások, kérdések és az azonnali kérdések órája szerepel.",
     "importance_score": 38.0,
-    "top_rank": 32,
+    "top_rank": 31,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1719,7 +1678,7 @@
     "lead_hu": "Az amerikai távközlési hatóság engedélyezte a SpaceX Starmind nevű műholdas projektjét, amely az AI-fejlesztések számítási kapacitásigényét szolgálná. A vállalatnak 2035 novemberéig 100 ezer műholdat kell pályára állítania.",
     "content_hu": "• **Megkapta az engedélyt a Starmind** – Az amerikai távközlési hatóság, az FCC jóváhagyta a SpaceX egymillió műholdas hálózatának tervét.\n\n• **Fokozatos kiépítést írtak elő** – A projektnek 2033 novemberéig el kell indulnia, 2035 novemberéig pedig 100 ezer műholdat kell telepíteni. A tervek szerint 2038 novemberére félmillió egység kerülne Föld körüli pályára.\n\n• **Az AI számítási igénye a cél** – A SpaceX a mesterséges intelligencia fejlesztéséhez szükséges kapacitás növekvő igényével indokolta a kezdeményezést. Érvelése szerint a műholdak napenergiával működhetnek, és a földi adatközpontokhoz képest kisebb lehet a környezeti terhelésük.\n\n• **A megvalósítás még bizonytalan** – A SpaceX a Starship rakétára támaszkodna a műholdak felbocsátásánál, de egyelőre nem biztos, hogy ténylegesen pályára állítja a teljes, egymillió darabos flottát.",
     "importance_score": 35.0,
-    "top_rank": 33,
+    "top_rank": 32,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1760,7 +1719,7 @@
     "lead_hu": "Magyar Péter a Szovjetunióba deportált magyar politikai foglyok és kényszermunkások emléknapján a 20. századi örökségről szólt. A kormányfő szerint a megbékéléshez a múlt eseményeinek feltárása és egymás tapasztalatainak meghallgatása is hozzátartozik.",
     "content_hu": "• **A megemlékezés** Magyar Péter a Szovjetunióba hurcolt magyar politikai rabok és kényszermunkások emléknapján beszélt a 20. század örökségéről.\n\n• **A megbékélés értelme** A kormányfő szerint a múlt sérelmeinek feldolgozása nem jelenti azok elfelejtését vagy a bűnök tagadását.\n\n• **Családi történetek** Magyar Péter arról is beszélt, hogy a felmenők múltját akkor is érdemes megismerni, ha abban nehéz vagy nem dicsőséges események szerepelnek.\n\n• **Más tapasztalatok meghallgatása** A megbékélés része, hogy az emberek figyelmet fordítsanak azokra is, akiknek a családja másként élte meg a történelmet.",
     "importance_score": 35.0,
-    "top_rank": 34,
+    "top_rank": 33,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1801,7 +1760,7 @@
     "lead_hu": "A parlament kedden elfogadta a Tisza-kormány gazdasági reformcsomagjának egyes elemeit, amelyek adóemeléseket és új közterheket is tartalmaznak. A tervezett változások között szerepel a társasági adó kulcsának emelése és a vagyonadó bevezetése.",
     "content_hu": "• **Keddi döntés:** Az Országgyűlés a 2027-es költségvetéshez kapcsolódó adóintézkedések egy részét megszavazta.\n\n• **Társasági adó:** A nagyvállalatok adókulcsa a tervek szerint 9 százalékról 15 százalékra nő; a kormány ettől 140 milliárd forint többletbevételt vár.\n\n• **Vagyonadó:** Az egymilliárd forint feletti, egy főre jutó nettó vagyonrészre évi 1 százalékos, a 100 milliárd forint feletti részre pedig 1,5 százalékos adót javasolnak. A kormány becslése szerint mintegy 15 ezer adózót érinthet az intézkedés, és 200 milliárd forint bevételt hozhat.\n\n• **További változások:** A tervek között szerepel az innovációs járulék és a kiskereskedelmi adó egyik kulcsának emelése, valamint a látvány-csapatsportok tao-támogatási rendszerének megszüntetése.\n\n• **Fideszes összesítés:** A párt 26, a jövő évi költségvetéshez kapcsolódó adóemelést vagy új közterhet azonosított; ezek egy részéről már döntött a parlament.",
     "importance_score": 35.0,
-    "top_rank": 35,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1837,7 +1796,7 @@
     "lead_hu": "Az Nvidia ismét Jensen Huangot nevezte ki vezérigazgatónak, miután a vezető lemondott a kínai hírszerzési kapcsolatokkal összefüggő ügy miatt. Donald Trump közbenjárása és a döntés nemzetbiztonsági következményei amerikai politikusok körében is bírálatokat, valamint vizsgálati és exportkorlátozási felvetéseket váltottak ki.",
     "content_hu": "• **Huang visszatérése:** Az Nvidia november 23-án ismét Jensen Huangot helyezte a vezérigazgatói posztra, nagyjából másfél héttel azután, hogy távozott a tisztségből. Lemondását egy olyan ügy előzte meg, amelyben felmerült, hogy kapcsolata volt egy kínai hírszerzéssel összefüggésbe hozott nővel.\n\n• **Trump szerepe:** A beszámolók szerint Donald Trump személyesen lobbizott Huang visszahelyezéséért az Nvidia igazgatóságánál. A lépés kapcsán politikusok azt is felvetették, hogy az elnök figyelmen kívül hagyhatta a hírszerzési aggályokat, és beavatkozott a vállalat belső ügyeibe.\n\n• **Vizsgálati követelések:** Demokraták kongresszusi vizsgálatokat sürgetnek, és több, Kínával szemben szigorú álláspontot képviselő republikánus is bírálta a döntést. Egyes politikusok a történtek kivizsgálását, mások a fejlett Nvidia-csipekre vonatkozó exportkorlátozások szigorítását szorgalmazzák.\n\n• **Nemzetbiztonsági dilemma:** Az ügy ismét ráirányította a figyelmet az Nvidia stratégiai szerepére: a vállalat technológiája az amerikai mesterségesintelligencia-fejlesztésekben és a Kínával folytatott versenyben is fontos, miközben a cég gazdasági súlya az Egyesült Államok számára is függőségi kockázatot jelenthet.",
     "importance_score": 33.0,
-    "top_rank": 36,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1873,7 +1832,7 @@
     "lead_hu": "Az Országgyűlés november 24-én elfogadta az árréskorlátozó intézkedések kivezetéséről szóló törvénymódosítást. A Lidl üdvözölte a döntést, és azt közölte, hogy egyes termékeknél továbbra is alacsony árakat tart fenn.",
     "content_hu": "• **November 24-i döntés** Az Országgyűlés elfogadta az árrésstop megszüntetéséről szóló módosítást; a korlátozás a törvény Magyar Közlönyben való megjelenése után nyolc nappal ér véget.\n\n• **A Lidl vállalása** A lánc szerint a kivezetés nem jár érdemi változással az általa megjelölt termékek árában. Ezeket az üzletekben külön jelöléssel teszik felismerhetővé.\n\n• **Beszállítói fejlesztések** A vállalat szerint a szabályozás megszűnése lehetőséget adhat a korábban elhalasztott fejlesztésekre, innovációkra és új termékek bevezetésére.\n\n• **Ár-összehasonlítás** A Lidl az Árfigyelő adataira hivatkozva azt állította, hogy tíz hónapja nála volt a legalacsonyabb az átlagos napi élelmiszerkosár ára a vizsgált láncok között.",
     "importance_score": 33.0,
-    "top_rank": 37,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1908,6 +1867,47 @@
     "title_hu": "Mindkét lábát amputálták a mezőkövesdi vasúti balesetben megsérült egyetemistának",
     "lead_hu": "Életveszélyes sérülésekkel került kórházba egy 20 éves egyetemista, miután a mezőkövesdi vasútállomáson egy elinduló vonat magával húzta. A fiatal nő mindkét lábát amputálni kellett; a rendőrség és a MÁV is vizsgálja a baleset körülményeit.",
     "content_hu": "• **A baleset körülményei** A mezőkövesdi állomáson a vonat ajtaja becsípte a fiatal nő táskájának pántját és a kabátját, majd az elinduló szerelvény magával húzta.\n\n• **Súlyos sérülések** A 20 éves egyetemistát életveszélyes állapotban vitték kórházba. Mindkét lábát amputálni kellett, emellett több csontja is eltört, és borda-, csípő- valamint koponyasérüléseket szenvedett.\n\n• **Vizsgálatok indultak** A rendőrség vasúti közlekedés veszélyeztetése miatt indított eljárást, a baleset körülményeit pedig a MÁV szakemberei is vizsgálják.",
+    "importance_score": 33.0,
+    "top_rank": 37,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_eb9839c3ad",
+    "slug": "matolcsy-a-parlamentben-is-vallalna-a-meghallgatast-ha-nem-bilincsben-kiserik-eb9839",
+    "tags": [
+      "matolcsy-gyorgy",
+      "mnb",
+      "parlamenti-bizottsag",
+      "letartoztatas"
+    ],
+    "fingerprint": "b67213a7f0355d4af1ffc1aa30955a49",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "444.hu",
+        "title": "Ha nem mutatják bilincsben, Matolcsy hajlandó elmenni az MNB ügyeit vizsgáló parlamenti bizottságba",
+        "link": "https://444.hu/2026/11/25/ha-nem-mutatjak-bilincsben-matolcsy-hajlando-elmenni-az-mnb-ugyeit-vizsgalo-parlamenti-bizottsagba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Matolcsy ügyvédje: a vizsgálóbizottság előtti megjelenés feltétele, hogy a volt MNB-elnöknek ne kelljen vezetőszáron bevonulni a Parlamentbe",
+        "link": "https://24.hu/kozelet/2026/11/25/matolcsy-gyorgy-vizsgalobizottsag-vezetoszar-baki-pal/"
+      },
+      {
+        "source": "ATV",
+        "title": "Matolcsy mégis megjelenne a parlamenti bizottság előtt – egy feltételt szabott az ügyvédje",
+        "link": "https://www.atv.hu/belfold/20261125/matolcsy-gyorgy-parlament-bizottsag/"
+      }
+    ],
+    "published_at": 1795628880,
+    "title_hu": "Matolcsy a Parlamentben is vállalná a meghallgatást, ha nem bilincsben kísérik",
+    "lead_hu": "Bátki Pál ügyvéd szerint Matolcsy György kész személyesen részt venni az MNB ügyeit vizsgáló parlamenti bizottság nyilvános ülésén, amennyiben tiszteletben tartják emberi méltóságát és az ártatlanság vélelmét. A védelem úgy látja, nincs szükség arra, hogy a képviselők a büntetés-végrehajtási intézetben keressék fel a volt jegybankelnököt; a kísérés feltételeiről egyedi biztonsági mérlegelést kérnek.",
+    "content_hu": "• **A bizottság helyett Matolcsy is megjelenhet a Parlamentben** Bátki Pál szerint nem indokolt, hogy a képviselők a büntetés-végrehajtási intézetbe menjenek: védence megfelelő garanciák mellett vállalja a nyilvános parlamenti meghallgatást. Csőszi Attila bizottsági elnök korábban jelezte, hogy a testület csütörtökön egyeztet a meghallgatás lehetőségéről.\n\n• **A bilincs és a vezetőszár szükségességét külön kell mérlegelni** Az ügyvéd azt kéri, hogy a bv konkrét biztonsági kockázat alapján döntsön a kényszerítő eszközökről. Ha nem merül fel szökés vagy támadó fellépés veszélye, szerinte ezek mellőzésével kellene Matolcsyt a Parlamentbe kísérni.\n\n• **A kísérésről készült felvételeket ne hozzák nyilvánosságra** Amennyiben a bv mégis szükségesnek ítél valamelyik eszközt, Bátki feltételként szabja, hogy a bilincsben vagy vezetőszáron történő kísérésről ne jelenjenek meg képek. Az érkezést és a távozást a kamerák látóterén kívül szerveznék meg, a bizottsági ülésről a sajtó szabadon tudósíthatna.\n\n• **Több száz milliárd forintnyi közvagyon sorsa került az ügy középpontjába** Az MNB alapítványaihoz irányított vagyon jelentős része cégek közbeiktatásával végrehajtott befektetések során veszett oda. Az Állami Számvevőszék tavaly márciusban tett feljelentést.\n\n• **Gazdasági bűncselekmények gyanúja miatt tartóztatták le Matolcsyt** A volt jegybankelnököt október 21-én vették őrizetbe, letartóztatását két nappal később rendelték el, majd február 23-ig meghosszabbították. Különösen jelentős vagyoni hátrányt okozó gazdasági csalással és hamis magánokirat felhasználásával gyanúsítják.",
     "importance_score": 33.0,
     "top_rank": 38,
     "is_top_hero": false,
@@ -2762,42 +2762,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_1e027849ee",
-    "slug": "45-milliard-euros-ukran-tamogatasrol-targyal-az-eu-magyarorszag-kimaradna-1e0278",
-    "tags": [
-      "ukrajna",
-      "eu",
-      "magyar-peter",
-      "unios-tamogatas"
-    ],
-    "fingerprint": "6e5ef261197b89461c6a72df68d4d3fd",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Negyvenötmilliárd eurós támogatást adna Ukrajnának az EU 2027-ben",
-        "link": "https://index.hu/kulfold/2026/11/25/europai-unio-eu-ursula-von-der-leyen-ukrajna-tamogatas/"
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Moszkvában is felfigyeltek Magyar Péter beregszászi mondataira: Magyarország kimaradna Ukrajna újabb 45 milliárd eurós hiteléből – az uniós költségvetéshez sem kötné Kijev finanszírozását",
-        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-ukrajna-hitel-finanszirozas-koltsegvetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795628920,
-    "title_hu": "45 milliárd eurós ukrán támogatásról tárgyal az EU, Magyarország kimaradna",
-    "lead_hu": "Az Európai Bizottság terve szerint az EU 2027-ben 45 milliárd euróval járulna hozzá Ukrajna finanszírozásához. Magyar Péter miniszterelnök jelezte, hogy Magyarország nem venne részt az összeg biztosításában, és a támogatást külön kezelné az unió hosszú távú költségvetésétől.",
-    "content_hu": "• **A bizottsági terv** Ukrajna 2027-re becsült, mintegy 70 milliárd eurós finanszírozási hiányából 45 milliárdot fedezne uniós forrásból: 20 milliárd eurót költségvetési, 25 milliárdot katonai célokra szánnának. A támogatást Ukrajnának csak azután kellene visszafizetnie, hogy Oroszország megtérítette a háborús károkat.\n\n• **Magyarország álláspontja** Magyar Péter szerint Magyarország nem venne részt a 45 milliárd eurós finanszírozásban. A miniszterelnök azt javasolta, hogy a korábbi konstrukcióhoz hasonlóan az arra vállalkozó tagállamok biztosítsák az összeget.\n\n• **A költségvetési vita** Magyar Péter ellenzi, hogy Ukrajna támogatását összekapcsolják az EU következő hétéves költségvetésével. Az uniós vezetők a csúcstalálkozón a tervezett finanszírozásról és a hosszú távú költségvetési keretről is tárgyalnak.",
-    "importance_score": 28.0,
-    "top_rank": 61,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_2a90155e8a",
     "slug": "ingyenes-utazast-javasol-a-valogatott-meccsere-tarto-szurkoloknak-zuglo-polgarme-2a9015",
     "tags": [
@@ -2829,7 +2793,7 @@
     "lead_hu": "Rózsa András a kormánytól és a fővárostól azt kéri, hogy a magyar válogatott Puskás Arénában rendezett mérkőzéseire érkezők díjmentesen használhassák a közösségi közlekedést. A kedvezményt országos szinten vezetné be, de első lépésként a budapesti megoldást is elfogadhatónak tartja.",
     "content_hu": "• **A javaslat célja** Rózsa András szerint az ingyenes közlekedés mérsékelhetné a stadion környéki lakossági parkolóhelyek szurkolók általi igénybevételét, és az autózás helyett környezetbarát alternatívát kínálna.\n\n• **Országos kedvezmény** A zuglói polgármester azt szeretné, ha a meccsjegy a vidékről érkezők számára a vonatokon és távolsági buszokon is díjmentes utazást tenne lehetővé; első körben a budapesti közlekedés ingyenességét is előrelépésnek nevezte.\n\n• **Márciusi célidőpont** Rózsa azt szeretné, hogy a szurkolók a március végére tervezett, Szerbia elleni Nemzetek Ligája-osztályozóra már igénybe vehessék a kedvezményt.\n\n• **Korábbi egyeztetés** A polgármester októberben megkereste a Puskás Arénát üzemeltető Nemzeti Sportügynökséget; annak vezetője a kezdeményezés szándékával egyetértett.",
     "importance_score": 28.0,
-    "top_rank": 62,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2865,7 +2829,7 @@
     "lead_hu": "Jensen Huang 11 nap után ismét az Nvidia vezérigazgatója lett, a döntés azonban nem oszlatta el a vállalat körüli bizonytalanságot. Egy távozott mérnök utólag elhamarkodottnak nevezte a felmondását, miközben a cég előtt vizsgálati és vállalatirányítási kérdések állnak.",
     "content_hu": "• **Huang visszatérése** Az Nvidia igazgatótanácsa 11 nap után ismét Jensen Huangot nevezte ki a vállalat élére.\n\n• **Egy mérnök megbánta a távozást** Darrell Dai robotikai kutatómérnök Huang korábbi távozásának körülményei miatt mondott fel. Miután a vezérigazgató visszatért, úgy fogalmazott, talán túl gyorsan döntött; az Nvidia-állásába való visszatérés lehetőségét nyitva hagyta.\n\n• **Vizsgálatok és átláthatóság** A vállalat belső vizsgálata még folyamatban van, az amerikai hatóságok pedig az Nvidia chipjeinek állítólagos Kínába szállítását vizsgálják. A kémkedés gyanúja nem bizonyított, az érintett vállalat tagadja a jogsértést.\n\n• **További kérdések a cég körül** Az XTB szakértői szerint a vezetésnek a befektetői bizalom helyreállítása mellett vállalatirányítási és szabályozási kihívásokkal is foglalkoznia kell. A sajtóban megjelent, számviteli gyakorlatot érintő SEC-vizsgálatról szóló értesüléseket hivatalosan nem erősítették meg.",
     "importance_score": 25.0,
-    "top_rank": 63,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2901,7 +2865,7 @@
     "lead_hu": "A nők elleni erőszak megszüntetésének világnapján Fidesz- és KDNP-s politikusnők közös videóban fordultak a bántalmazottakhoz. Arra hívták fel a figyelmet, hogy a lelki bántalmazás is erőszak, és az érintetteknek érdemes segítséget kérniük.",
     "content_hu": "• **Közös videó** Fidesz- és KDNP-s képviselőnők üzentek a bántalmazottaknak a nők elleni erőszak megszüntetésének világnapján. A megszólalók között volt Koncz Zsófia, Máthé Zsuzsa, Juhász Hajnalka, Lezsák Anna és Szentkirályi Alexandra.\n\n• **A bántalmazás formái** A politikusok arra hívták fel a figyelmet, hogy az erőszak nemcsak fizikai, hanem lelki bántalmazást is jelenthet.\n\n• **Segítségkérés** A videóban arra biztatták az érintetteket, hogy forduljanak segítő szolgáltatásokhoz; az Országos Kríziskezelő és Információs Telefonszolgálatot is megemlítették.\n\n• **További teendők** A megszólalók szerint addig van feladat az áldozatvédelem területén, amíg akár egy nő sem érzi magát biztonságban.",
     "importance_score": 25.0,
-    "top_rank": 64,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2932,6 +2896,42 @@
     "lead_hu": "A Fidesz szerint ha azt akarjuk, hogy Magyarország vonzó legyen a befektetők számára, alacsony adók kellenek....",
     "content_hu": "A Fidesz szerint ha azt akarjuk, hogy Magyarország vonzó legyen a befektetők számára, alacsony adók kellenek.",
     "importance_score": 25.0,
+    "top_rank": 64,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_1e027849ee",
+    "slug": "45-milliard-euros-ukran-tamogatasrol-targyal-az-eu-magyarorszag-kimaradna-1e0278",
+    "tags": [
+      "ukrajna",
+      "eu",
+      "magyar-peter",
+      "unios-tamogatas"
+    ],
+    "fingerprint": "6e5ef261197b89461c6a72df68d4d3fd",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Negyvenötmilliárd eurós támogatást adna Ukrajnának az EU 2027-ben",
+        "link": "https://index.hu/kulfold/2026/11/25/europai-unio-eu-ursula-von-der-leyen-ukrajna-tamogatas/"
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Moszkvában is felfigyeltek Magyar Péter beregszászi mondataira: Magyarország kimaradna Ukrajna újabb 45 milliárd eurós hiteléből – az uniós költségvetéshez sem kötné Kijev finanszírozását",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-ukrajna-hitel-finanszirozas-koltsegvetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795628920,
+    "title_hu": "45 milliárd eurós ukrán támogatásról tárgyal az EU, Magyarország kimaradna",
+    "lead_hu": "Az Európai Bizottság terve szerint az EU 2027-ben 45 milliárd euróval járulna hozzá Ukrajna finanszírozásához. Magyar Péter miniszterelnök jelezte, hogy Magyarország nem venne részt az összeg biztosításában, és a támogatást külön kezelné az unió hosszú távú költségvetésétől.",
+    "content_hu": "• **A bizottsági terv** Ukrajna 2027-re becsült, mintegy 70 milliárd eurós finanszírozási hiányából 45 milliárdot fedezne uniós forrásból: 20 milliárd eurót költségvetési, 25 milliárdot katonai célokra szánnának. A támogatást Ukrajnának csak azután kellene visszafizetnie, hogy Oroszország megtérítette a háborús károkat.\n\n• **Magyarország álláspontja** Magyar Péter szerint Magyarország nem venne részt a 45 milliárd eurós finanszírozásban. A miniszterelnök azt javasolta, hogy a korábbi konstrukcióhoz hasonlóan az arra vállalkozó tagállamok biztosítsák az összeget.\n\n• **A költségvetési vita** Magyar Péter ellenzi, hogy Ukrajna támogatását összekapcsolják az EU következő hétéves költségvetésével. Az uniós vezetők a csúcstalálkozón a tervezett finanszírozásról és a hosszú távú költségvetési keretről is tárgyalnak.",
+    "importance_score": 23.0,
     "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
@@ -3704,7 +3704,7 @@
     "title_hu": "Magyar Péter a magyar katonák lehetséges ukrajnai békefenntartó szerepéről beszélt",
     "lead_hu": "Magyar Péter Volodimir Zelenszkij ukrán elnökkel folytatott találkozóján arról beszélt, hogy magyar katonák is segíthetnének a béke fenntartásában Ukrajnában. Példaként Koszovót és Bosznia-Hercegovinát említette.",
     "content_hu": "• **A találkozón elhangzott javaslat** Magyar Péter szerint a magyar katonák egy esetleges ukrajnai béke fenntartásában is részt vállalhatnának.\n\n• **Korábbi példák** A politikus Koszovót és Bosznia-Hercegovinát említette a békefenntartás lehetséges párhuzamaként.\n\n• **Ukrán csatlakozási törekvés** Volodimir Zelenszkij a találkozón Ukrajna európai uniós csatlakozási szándékáról is beszélt.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 87,
     "is_top_hero": false,
     "is_top_list": true
