@@ -106,22 +106,6 @@
     ]
   },
   {
-    "group_id": "group_38c0a3c108",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Vadhajtások",
-        "title": "Megállapodtak, marad a tizenhárom szakápoló az Országos Baleseti Intézetben",
-        "link": "https://www.vadhajtasok.hu/2026/11/24/megallapodtak-marad-a-tizenharom-szakapolo-az-orszagos-baleseti-intezetben",
-        "image": "",
-        "summary": "Egyelőre nem ürül ki a trauma-intenzív osztály a Budapesti Dr. Manninger Jenő Baleseti Központban. Kedden sikerült megállapodni a korábban felmondott tizenhárom ápolóval, bár a megoldás nem végleges.",
-        "category": "Politika",
-        "published_at": 1795543140
-      }
-    ]
-  },
-  {
     "group_id": "group_eb9839c3ad",
     "category": "Politika",
     "articles_count": 4,
@@ -161,31 +145,6 @@
         "summary": "Matolcsy György volt jegybankelnök ügyvédje a Telexnek azt mondta, hogy a letartóztatásban lévő védence mégis hajlandó megjelenni az MNB parlamenti vizsgálóbizottság meghallgatásán, amennyiben biztosítják, hogy a részvételével nem sérül az emberi méltósága és az ártatlanság védelme. Csőszi Attila, a bizottság elnöke kedden egy videóban közölte, hogy csütörtökön döntenek arról, hogy bemenjenek-e a börtönbe kihallgatni Matolcsyt.",
         "category": "Politika",
         "published_at": 1795628880
-      }
-    ]
-  },
-  {
-    "group_id": "group_d6424fe40d",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megalakult a Sajtóalap, több milliárd forinttal támogathatja a média működését",
-        "link": "https://index.hu/belfold/2026/11/24/sajtoalap-letrehozas-mediatanacs/",
-        "image": "https://kep.index.hu/1/0/7262/72624/726241/72624111_5350749_560ccc38eee3b979f0b113373897f27f_wm.jpg",
-        "summary": "A teljes magyar sajtót segíti az új szervezet.",
-        "category": "Általános",
-        "published_at": 1795542780
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Megjelentek az első információk a Sajtóalapról: megmentenék a bajba jutott vidéki médiumokat",
-        "link": "https://www.portfolio.hu/gazdasag/20261124/megjelentek-az-elso-informaciok-a-sajtoalaprol-megmentenek-a-bajba-jutott-videki-mediumokat-878852",
-        "image": "https://pcdn.hu/articles/images-xl/p/o/l/polyak-gabor-az-nmhh-mediatanacsanak-elnoke-872406.jpg",
-        "summary": "A Sajtóalap várhatóan jövő év elején megjelenő, 600 millió forintos keretösszegű első pályázata elsősorban a vidéki, kisközösségi médiaszolgáltatók számára nyújt majd működési támogatást - hangzott el kedden Budapesten, sajtótájékoztatón.",
-        "category": "Gazdaság",
-        "published_at": 1795544340
       }
     ]
   },
@@ -557,31 +516,6 @@
     ]
   },
   {
-    "group_id": "group_e7e44d37dc",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Fontos változások a magyar iskolákban: ismertette a részleteket az oktatási minisztérium",
-        "link": "https://www.portfolio.hu/gazdasag/20261124/fontos-valtozasok-a-magyar-iskolakban-ismertette-a-reszleteket-az-oktatasi-miniszterium-878848",
-        "image": "https://pcdn.hu/articles/images-xl/i/s/k/iskola-oktatas-664137.jpg",
-        "summary": "A kormány benyújtotta az oktatás megújítását és fejlesztését szolgáló törvénymódosítási javaslatcsomagot kedden az Országgyűlésnek - közölte az oktatási és gyermekügyi miniszter a Facebook-oldalán.",
-        "category": "Politika",
-        "published_at": 1795542960
-      },
-      {
-        "source": "ATV",
-        "title": "Nagy változások jönnek az oktatásban, a KRÉTA és az érettségi szabályaihoz is hozzányúlnak",
-        "link": "https://www.atv.hu/belfold/20261124/valtozas-oktatas-kreta-erettsegi/",
-        "image": "https://www.youtube.com/embed/D-qlqsIAcoQ",
-        "summary": "A kormány benyújtotta az oktatás megújítását és fejlesztését szolgáló törvénymódosítási javaslatcsomagot kedden az Országgyűlésnek - közölte az oktatási és gyermekügyi miniszter a Facebook-oldalán.",
-        "category": "Politika",
-        "published_at": 1795544340
-      }
-    ]
-  },
-  {
     "group_id": "group_ac60dc33e0",
     "category": "Gazdaság",
     "articles_count": 1,
@@ -856,6 +790,22 @@
     ]
   },
   {
+    "group_id": "group_e7e44d37dc",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Nagy változások jönnek az oktatásban, a KRÉTA és az érettségi szabályaihoz is hozzányúlnak",
+        "link": "https://www.atv.hu/belfold/20261124/valtozas-oktatas-kreta-erettsegi/",
+        "image": "https://www.youtube.com/embed/D-qlqsIAcoQ",
+        "summary": "A kormány benyújtotta az oktatás megújítását és fejlesztését szolgáló törvénymódosítási javaslatcsomagot kedden az Országgyűlésnek - közölte az oktatási és gyermekügyi miniszter a Facebook-oldalán.",
+        "category": "Politika",
+        "published_at": 1795544340
+      }
+    ]
+  },
+  {
     "group_id": "group_2ce0686002",
     "category": "Általános",
     "articles_count": 1,
@@ -929,6 +879,22 @@
         "summary": "Lannert Judit állítja: a mostani eljárás szakított az eddigi kinevezések gyakorlatával.",
         "category": "Általános",
         "published_at": 1795594020
+      }
+    ]
+  },
+  {
+    "group_id": "group_d6424fe40d",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megjelentek az első információk a Sajtóalapról: megmentenék a bajba jutott vidéki médiumokat",
+        "link": "https://www.portfolio.hu/gazdasag/20261124/megjelentek-az-elso-informaciok-a-sajtoalaprol-megmentenek-a-bajba-jutott-videki-mediumokat-878852",
+        "image": "https://pcdn.hu/articles/images-xl/p/o/l/polyak-gabor-az-nmhh-mediatanacsanak-elnoke-872406.jpg",
+        "summary": "A Sajtóalap várhatóan jövő év elején megjelenő, 600 millió forintos keretösszegű első pályázata elsősorban a vidéki, kisközösségi médiaszolgáltatók számára nyújt majd működési támogatást - hangzott el kedden Budapesten, sajtótájékoztatón.",
+        "category": "Gazdaság",
+        "published_at": 1795544340
       }
     ]
   },
@@ -3040,7 +3006,7 @@
   {
     "group_id": "group_2c969e41df",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "ATV",
@@ -3095,6 +3061,15 @@
         "summary": "Elő a csizmákkal, téli gumikkal, szánkókkal, eső, havas eső, ónos eső és hó is előfordulhat szerdán az országban.",
         "category": "Politika",
         "published_at": 1795591680
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Kiderült, hol folytatódik a havazás",
+        "link": "https://www.portfolio.hu/gazdasag/20261125/kiderult-hol-folytatodik-a-havazas-879152",
+        "image": "https://pcdn.hu/articles/images-xl/i/m/g/img-3747-872836.jpg",
+        "summary": "Egy mediterrán ciklonnak köszönhetően megérkezett a szezon első kiterjedtebb havazása. Bár szerdán az ország több pontján és a hegycsúcsokon is fehérbe borult a táj, csütörtökön egy enyhébb légtömeg hatására a legtöbb helyen már esőre és ónos esőre kell számítani, a havazás pedig az északi, illetve a nyugati régiókra szorul vissza - tudósított az Időkép.",
+        "category": "Gazdaság",
+        "published_at": 1795629300
       }
     ]
   },
@@ -6375,7 +6350,7 @@
   {
     "group_id": "group_1e027849ee",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -6385,6 +6360,15 @@
         "summary": "Az összeget ráadásul csak akkor kellene visszafizetni, ha Oroszország már megtérítette a háborús károkat.",
         "category": "Politika",
         "published_at": 1795597500
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Moszkvában is felfigyeltek Magyar Péter beregszászi mondataira: Magyarország kimaradna Ukrajna újabb 45 milliárd eurós hiteléből – az uniós költségvetéshez sem kötné Kijev finanszírozását",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-peter-ukrajna-hitel-finanszirozas-koltsegvetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/A4FP8JoMLW05Kl7oPbrcZUKd3kQUmIR5ywkiz2ZJPU0/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI0LzI1ZjhkNTJmNWM0OGUyMGU5MDkyZWZlZWZlZTNkZGRlNmQ2MzhiYzQ3MzE1Y2I0MDhiZjI4ZGUxYmUxNzEwYTY.jpg",
+        "summary": "Újabb pénzügyi segítségre van szüksége Ukrajnának, az erről szóló uniós elképzelés azonban nem számíthat minden tagállam támogatására.",
+        "category": "Politika",
+        "published_at": 1795628920
       }
     ]
   },
@@ -10683,7 +10667,7 @@
         "image": "",
         "summary": "Azt nem tudom, hogy jó-e a Fradinak a Kubatov Gábor. De azt tudom, hogy a fradisták szerint igen!És azt is tudom, hogy a nemzeti radikalizmus nem egyenlő 6 ember önkényes véleményével mert ez nem az ő egyéni vállakozásuk, hanem egy közösség k...",
         "category": "Politika",
-        "published_at": 1795564800
+        "published_at": 1795621020
       }
     ]
   },
@@ -11800,7 +11784,7 @@
   {
     "group_id": "group_c1183813c3",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -11810,6 +11794,15 @@
         "summary": "Andrij Szibiha ukrán külügyminiszter ígéretet tett a végrehajtás felgyorsítására, amit Magyar Péter is megerősített.",
         "category": "Politika",
         "published_at": 1795624118
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Ukrán külügyminiszter: Felgyorsítjuk a kisebbségi nyelvtörvény végrehajtását",
+        "link": "https://www.vadhajtasok.hu/2026/11/25/ukran-kulugyminiszter-felgyorsitjuk-a-kisebbsegi-nyelvtorveny-vegrehajtasat",
+        "image": "",
+        "summary": "„Az ukrán külügyminiszter bejelentette, hogy a kérésünket teljesítve Ukrajna készen áll arra, hogy felgyorsítsa a magyar nemzeti kisebbség nyelvi, kulturális és oktatási jogainak biztosításáról szóló megállapodások végrehajtását” – közölte a Rovar a Facebook-oldalán szerda este.",
+        "category": "Politika",
+        "published_at": 1795564800
       }
     ]
   },
@@ -12731,6 +12724,54 @@
         "summary": "A kormányfő szerint a magyar gazdaság, a vállalatok és az infrastruktúra fejlesztését is ezek a források segítik majd. The post Magyar Péter Brüsszelbe utazott a 30 milliárd eurós uniós támogatásokért first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1795628848
+      }
+    ]
+  },
+  {
+    "group_id": "group_8b07ffd072",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Közel 600 százalékkal nőtt a bevétele egy egyetlen magyarként jutott az európai top 50-be",
+        "link": "https://index.hu/gazdasag/2026/11/25/deloitte-fast-50-vallalatok-gyorsan-novekvo-vallalat-peak-banki-fejlesztesek-penzugyi-tudatossag-startup/",
+        "image": "https://kep.index.hu/1/0/7269/72696/726967/72696765_5355873_4f518b25b9a4d3a83829a9a9325f4b23_wm.jpg",
+        "summary": "A régió ötven leggyorsabban növekvő cége között a Peak.",
+        "category": "Általános",
+        "published_at": 1795629240
+      }
+    ]
+  },
+  {
+    "group_id": "group_46d0b03b4c",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kiszivárgott a Kreml sötét titka, belülről omlik össze Putyin hadserege",
+        "link": "https://index.hu/kulfold/2026/11/25/oroszorszag-ukrajna-haboru-katona-ongyilkossag-emberveszteseg/",
+        "image": "https://kep.index.hu/1/0/7268/72682/726825/72682575_5354887_49170c164294986e8a2be06fd014769f_wm.jpg",
+        "summary": "Elloptak 11 millió halotti anyakönyvet, amelyek drámai számokról árulkodnak a frontról.",
+        "category": "Általános",
+        "published_at": 1795629120
+      }
+    ]
+  },
+  {
+    "group_id": "group_4762bc84ad",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Egyes gönyűiek attól tartanak, fészerükbe veheti be magát éjszakára a győri gyilkosság szökésben lévő gyanúsítottja",
+        "link": "https://hvg.hu/itthon/20261125_gonyu-tart-feszer-ejszaka-gyor-gyilkossag-szokes-gyanusitott",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/10418f69-2d34-4b5b-b504-2981e47db082.jpg",
+        "summary": "A párja lelövésével gyanúsított férfi házánál rendőr posztol, keresése pedig nagy erőkkel zajlik.",
+        "category": "Politika",
+        "published_at": 1795629170
       }
     ]
   }
