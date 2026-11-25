@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_5c39ae668d",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "10 magyarországnyi áramot zabálnak a világ adatközpontjai, ugyanakkor segítik is a villamosenergia-hálózatok működését",
-        "link": "https://raketa.hu/10-magyarorszagnyi-aramot-zabalnak-a-vilag-adatkozpontjai-ugyanakkor-segitik-is-a-villamosenergia-halozatok-mukodeset/",
-        "image": "https://raketa.hu/uploads/2026/11/halozat3-unsplash.jpg",
-        "summary": "Hiába fejlődnek az algoritmusok, ha a fizikai infrastruktúra, a gazdasági ösztönzők és a szabályozás nem tartanak lépést velük – mondta Hartmann Bálint, a BME kutatója a Jubileumi Tudományünnep+-on tartott előadásában.",
-        "category": "Kultúra",
-        "published_at": 1795494790
-      }
-    ]
-  },
-  {
     "group_id": "group_557f604eb2",
     "category": "Kultúra",
     "articles_count": 1,
@@ -28,103 +12,6 @@
         "summary": "November 26-án este ismét rendszerfejlesztést végez az Erste Bank, amely több szolgáltatás működését is érinti.",
         "category": "Kultúra",
         "published_at": 1795496619
-      }
-    ]
-  },
-  {
-    "group_id": "group_17ab7e9de5",
-    "category": "Általános",
-    "articles_count": 10,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Hózáporok és viharos szél csap le kedden – mutatjuk, hol kell készülni rá",
-        "link": "https://www.atv.hu/belfold/20261124/fagy-hozapor-vihar-szel-ido/",
-        "image": "https://www.youtube.com/embed/5Z2HreQxwhM",
-        "summary": "Kedden többnyire napos, gyengén felhős idő várható, de főként északkeleten hózáporok is kialakulhatnak. Az északi, északnyugati szél többfelé megerősödhet, helyenként viharos lökések is előfordulhatnak, a nappali csúcshőmérséklet pedig 2–6 fok között alakul.",
-        "category": "Általános",
-        "published_at": 1795494900
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Mínusz 5 fokos fagy és hózáporok csapnak le kedden, mutatjuk, hol eshet hó",
-        "link": "https://index.hu/belfold/2026/11/24/idojaras-elorejelzes-telies-ido-tel-hozapor-havazas-radar/",
-        "image": "https://kep.index.hu/1/0/7266/72665/726659/72665971_5353745_130723e1ec62b3d9248e532bc6b78a6f_wm.jpg",
-        "summary": "Folytatódik a hideg, de többnyire napos időjárás.",
-        "category": "Általános",
-        "published_at": 1795497000
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Folytatódik a havazás, mutatjuk, kedden hol jöhetnek hózáporok",
-        "link": "https://24.hu/kozelet/2026/11/24/idojaras-elorejelzes-ho-november-24/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1063771234-e1795497892173-1024x578.jpg",
-        "summary": "A szél helyenként erős lesz, késő estére pedig akár mínusz öt fokig hűlhet a levegő. The post Folytatódik a havazás, mutatjuk, kedden hol jöhetnek hózáporok first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795498067
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Erős széllel és faggyal csap le az időjárás Magyarországra: mutatjuk, hol alakulhat ki hózápor",
-        "link": "https://www.portfolio.hu/gazdasag/20261124/eros-szellel-es-faggyal-csap-le-az-idojaras-magyarorszagra-mutatjuk-hol-alakulhat-ki-hozapor-878608",
-        "image": "https://pcdn.hu/articles/images-lg/h/o/_/ho-havazas-tel-idojaras-570218.jpg",
-        "summary": "Túlnyomórészt napos, de csípős őszi idő várható kedd estig. Bár az ország nagy részén nem kell csapadékra számítani, északkeleten hózáporok is kialakulhatnak, a szeles napot követően pedig estére több helyen jóval fagypont alá süllyed a hőmérséklet - számolt be a HungaroMet.",
-        "category": "Gazdaság",
-        "published_at": 1795501620
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Nagy pelyhekben esett a hó északkeleten",
-        "link": "https://telex.hu/belfold/2026/11/24/nagy-pelyhekben-esett-a-ho",
-        "image": "https://assets.telex.hu/images/20261124/1795506873-temp-skkn2m1pa7ts5fdobkj_cimlap-normal.jpg",
-        "summary": "Napközben is lehetnek hózáporok, de a hó nem marad meg.",
-        "category": "Politika",
-        "published_at": 1795507033
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Szerdán megérkezik az első regionális havazás",
-        "link": "https://24.hu/belfold/2026/11/24/idojaras-elorejelzes-ho-havazas-november-25/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1065053068-e1795522644774-1024x576.jpg",
-        "summary": "Délnyugat felől csapadékzóna éri el Magyarországot. The post Szerdán megérkezik az első regionális havazás first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795522823
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Akkora havazás érkezik Magyarországra, hogy a teljes téli gépparkot csatasorba állítják a közutakon",
-        "link": "https://www.portfolio.hu/gazdasag/20261124/akkora-havazas-erkezik-magyarorszagra-hogy-a-teljes-teli-gepparkot-csatasorba-allitjak-a-kozutakon-878792",
-        "image": "https://pcdn.hu/articles/images-xl/h/a/v/havazas-hokotras-budapesti-kozmuvek-872328.jpg",
-        "summary": "Szerda estétől jöhet az első nagyobb havazás Magyarországon, az országos és a fővárosi közútkezelő már készül az utak hómentesítésére.",
-        "category": "Gazdaság",
-        "published_at": 1795530360
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Küszöbön a szezon első komolyabb havazása Magyarországon: az interneten is felpörgött az érdeklődés az időjárás iránt",
-        "link": "https://www.portfolio.hu/gazdasag/20261124/kuszobon-a-szezon-elso-komolyabb-havazasa-magyarorszagon-az-interneten-is-felporgott-az-erdeklodes-az-idojaras-irant-878664",
-        "image": "https://pcdn.hu/articles/images-xl/i/d/j/idjrs-zld-vilg-havazs-idjrs-elrejelzs-hungaromet-google-trends-h-idkp-t-872364.jpg",
-        "summary": "A héten megérkezik Magyarországra a szezon első jelentősebb havazása, miután vasárnap a Mátrában már szállingózott a hó. A HungaroMet szerint szerdán délnyugat felől csapadékzóna éri el az országot, északon havazás, délebbre havas eső, ónos eső és eső várható. Csütörtökön újabb hullám jön, amikor az északi fagyos légtömegek egy mediterrán ciklonnal találkoznak a Kárpát-medence felett. A szakemberek szerint még nem tudni, hogy rövid hideg epizódról vagy a tartós tél kezdetéről van szó, a december azonban valószínűleg az átlagosnál hidegebben indul. A téma a Google-ben is a legnépszerűbbek közé került, a legnagyobb érdeklődés az adatok szerint Zala, Vas és Veszprém megyében mutatkozik a havazás irán.",
-        "category": "Gazdaság",
-        "published_at": 1795534200
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Csúszós utak és 10 centis hó jön, riasztást adott ki a Magyar Közút az autósoknak, Budapest is készenlétben",
-        "link": "https://index.hu/belfold/2026/11/24/havazas-munkagep-magyar-kozut-karacsony-gergely-budapesti-kozmuvek/",
-        "image": "https://kep.index.hu/1/0/6693/66934/669349/66934931_4941797_7e1410cb356515b60f45d45dcdf3bbac_wm.jpg",
-        "summary": "A téli szezonra összesen 813 munkagépet állítottak hadrendbe.",
-        "category": "Általános",
-        "published_at": 1795537800
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Szakad a poláris örvény és jön a havazás: minden felborulhat az idei télen itthon",
-        "link": "https://index.hu/belfold/2026/11/24/kibeszelo-idojaras-tel-reisz-andras-el-nino-polaris-orveny/",
-        "image": "https://kep.index.hu/1/0/7267/72676/726766/72676663_5354475_3392e5ca08d67177eaa8ea86d64c4ffd_wm.jpg",
-        "summary": "Reisz András meteorológussal beszéltük át, milyen lehet az idei telünk.",
-        "category": "Általános",
-        "published_at": 1795543200
       }
     ]
   },
@@ -173,22 +60,6 @@
         "summary": "A terítésben ma már a különböző textíliák, az alátéttányérok és az apró, személyes részletek együttese teremti meg az igazán látványos összhatást. The post Eltűnnek a tányéralátétek az asztalokról – egyre többen terítenek ezzel helyette first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795495551
-      }
-    ]
-  },
-  {
-    "group_id": "group_e55bb8988a",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "3 kínai jegy, akikre hatalmas szerencse vár – most minden megváltozhat",
-        "link": "https://nlc.hu/horoszkop/20261124/kinai-jegy-szerencse/tgjj158",
-        "image": "",
-        "summary": "A kínai horoszkóp szerint három jegy életében különösen szerencsés időszak kezdődhet, amely váratlan lehetőségeket és örömteli fordulatokat tartogathat. A következő hetekben a pénzügyek, a szerelem és a munka területén is kedvező változások érkezhetnek, ha időben felismerik a kínálkozó alkalmakat. The post 3 kínai jegy, akikre hatalmas szerencse vár – most minden megváltozhat first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1795494780
       }
     ]
   },
@@ -636,6 +507,94 @@
     ]
   },
   {
+    "group_id": "group_17ab7e9de5",
+    "category": "Általános",
+    "articles_count": 9,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Mínusz 5 fokos fagy és hózáporok csapnak le kedden, mutatjuk, hol eshet hó",
+        "link": "https://index.hu/belfold/2026/11/24/idojaras-elorejelzes-telies-ido-tel-hozapor-havazas-radar/",
+        "image": "https://kep.index.hu/1/0/7266/72665/726659/72665971_5353745_130723e1ec62b3d9248e532bc6b78a6f_wm.jpg",
+        "summary": "Folytatódik a hideg, de többnyire napos időjárás.",
+        "category": "Általános",
+        "published_at": 1795497000
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Folytatódik a havazás, mutatjuk, kedden hol jöhetnek hózáporok",
+        "link": "https://24.hu/kozelet/2026/11/24/idojaras-elorejelzes-ho-november-24/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1063771234-e1795497892173-1024x578.jpg",
+        "summary": "A szél helyenként erős lesz, késő estére pedig akár mínusz öt fokig hűlhet a levegő. The post Folytatódik a havazás, mutatjuk, kedden hol jöhetnek hózáporok first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795498067
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Erős széllel és faggyal csap le az időjárás Magyarországra: mutatjuk, hol alakulhat ki hózápor",
+        "link": "https://www.portfolio.hu/gazdasag/20261124/eros-szellel-es-faggyal-csap-le-az-idojaras-magyarorszagra-mutatjuk-hol-alakulhat-ki-hozapor-878608",
+        "image": "https://pcdn.hu/articles/images-lg/h/o/_/ho-havazas-tel-idojaras-570218.jpg",
+        "summary": "Túlnyomórészt napos, de csípős őszi idő várható kedd estig. Bár az ország nagy részén nem kell csapadékra számítani, északkeleten hózáporok is kialakulhatnak, a szeles napot követően pedig estére több helyen jóval fagypont alá süllyed a hőmérséklet - számolt be a HungaroMet.",
+        "category": "Gazdaság",
+        "published_at": 1795501620
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Nagy pelyhekben esett a hó északkeleten",
+        "link": "https://telex.hu/belfold/2026/11/24/nagy-pelyhekben-esett-a-ho",
+        "image": "https://assets.telex.hu/images/20261124/1795506873-temp-skkn2m1pa7ts5fdobkj_cimlap-normal.jpg",
+        "summary": "Napközben is lehetnek hózáporok, de a hó nem marad meg.",
+        "category": "Politika",
+        "published_at": 1795507033
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Szerdán megérkezik az első regionális havazás",
+        "link": "https://24.hu/belfold/2026/11/24/idojaras-elorejelzes-ho-havazas-november-25/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1065053068-e1795522644774-1024x576.jpg",
+        "summary": "Délnyugat felől csapadékzóna éri el Magyarországot. The post Szerdán megérkezik az első regionális havazás first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795522823
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Akkora havazás érkezik Magyarországra, hogy a teljes téli gépparkot csatasorba állítják a közutakon",
+        "link": "https://www.portfolio.hu/gazdasag/20261124/akkora-havazas-erkezik-magyarorszagra-hogy-a-teljes-teli-gepparkot-csatasorba-allitjak-a-kozutakon-878792",
+        "image": "https://pcdn.hu/articles/images-xl/h/a/v/havazas-hokotras-budapesti-kozmuvek-872328.jpg",
+        "summary": "Szerda estétől jöhet az első nagyobb havazás Magyarországon, az országos és a fővárosi közútkezelő már készül az utak hómentesítésére.",
+        "category": "Gazdaság",
+        "published_at": 1795530360
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Küszöbön a szezon első komolyabb havazása Magyarországon: az interneten is felpörgött az érdeklődés az időjárás iránt",
+        "link": "https://www.portfolio.hu/gazdasag/20261124/kuszobon-a-szezon-elso-komolyabb-havazasa-magyarorszagon-az-interneten-is-felporgott-az-erdeklodes-az-idojaras-irant-878664",
+        "image": "https://pcdn.hu/articles/images-xl/i/d/j/idjrs-zld-vilg-havazs-idjrs-elrejelzs-hungaromet-google-trends-h-idkp-t-872364.jpg",
+        "summary": "A héten megérkezik Magyarországra a szezon első jelentősebb havazása, miután vasárnap a Mátrában már szállingózott a hó. A HungaroMet szerint szerdán délnyugat felől csapadékzóna éri el az országot, északon havazás, délebbre havas eső, ónos eső és eső várható. Csütörtökön újabb hullám jön, amikor az északi fagyos légtömegek egy mediterrán ciklonnal találkoznak a Kárpát-medence felett. A szakemberek szerint még nem tudni, hogy rövid hideg epizódról vagy a tartós tél kezdetéről van szó, a december azonban valószínűleg az átlagosnál hidegebben indul. A téma a Google-ben is a legnépszerűbbek közé került, a legnagyobb érdeklődés az adatok szerint Zala, Vas és Veszprém megyében mutatkozik a havazás irán.",
+        "category": "Gazdaság",
+        "published_at": 1795534200
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Csúszós utak és 10 centis hó jön, riasztást adott ki a Magyar Közút az autósoknak, Budapest is készenlétben",
+        "link": "https://index.hu/belfold/2026/11/24/havazas-munkagep-magyar-kozut-karacsony-gergely-budapesti-kozmuvek/",
+        "image": "https://kep.index.hu/1/0/6693/66934/669349/66934931_4941797_7e1410cb356515b60f45d45dcdf3bbac_wm.jpg",
+        "summary": "A téli szezonra összesen 813 munkagépet állítottak hadrendbe.",
+        "category": "Általános",
+        "published_at": 1795537800
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Szakad a poláris örvény és jön a havazás: minden felborulhat az idei télen itthon",
+        "link": "https://index.hu/belfold/2026/11/24/kibeszelo-idojaras-tel-reisz-andras-el-nino-polaris-orveny/",
+        "image": "https://kep.index.hu/1/0/7267/72676/726766/72676663_5354475_3392e5ca08d67177eaa8ea86d64c4ffd_wm.jpg",
+        "summary": "Reisz András meteorológussal beszéltük át, milyen lehet az idei telünk.",
+        "category": "Általános",
+        "published_at": 1795543200
+      }
+    ]
+  },
+  {
     "group_id": "group_6633245151",
     "category": "Politika",
     "articles_count": 1,
@@ -654,7 +613,7 @@
   {
     "group_id": "group_3af76423a2",
     "category": "Politika",
-    "articles_count": 11,
+    "articles_count": 12,
     "articles": [
       {
         "source": "Világgazdaság",
@@ -754,6 +713,15 @@
         "summary": "Magyar Péter Kárpátalján találkozott Volodimir Zelenszkij ukrán elnökkel. Több bejelentés mellett a kapcsolat újraépítésének fontosságáról beszéltek a vezetők, akik röplabdázni is leálltak a közös sajtótájékoztató előtt.",
         "category": "Politika",
         "published_at": 1795558240
+      },
+      {
+        "source": "HVG - Világ",
+        "title": "A két erős személyiség újraindította a magyar-ukrán kapcsolatokat, és ezt két dolog tette lehetővé",
+        "link": "https://hvg.hu/gazdasag/20261125_magyar-peter-zelenszkij-csucstalalkozo-esemenyei-magyar-ukran-kapcsolatok",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/07574a66-ccc4-4eaf-99e5-5444f09e0556.jpg",
+        "summary": "Az ungvári hősök sírhelyének megkoszorúzása és az ukrán elnök könnyei adták meg az alaphangot a keddi Zelenszkij–Magyar Péter-csúcstalálkozónak, ahol mindkét fél késznek mutatkozott a kapcsolatok újraépítésére. Magyarország fegyvereket továbbra sem, de humanitárius segítséget és békefenntartókat küldene Ukrajnába. Az együttműködéshez gazdasági érdekei is fűződnek a magyar kormánynak.",
+        "category": "Politika",
+        "published_at": 1795581060
       }
     ]
   },
@@ -5556,7 +5524,7 @@
   {
     "group_id": "group_b124f3e976",
     "category": "Politika",
-    "articles_count": 10,
+    "articles_count": 11,
     "articles": [
       {
         "source": "Magyar Nemzet",
@@ -5647,6 +5615,15 @@
         "summary": "",
         "category": "Politika",
         "published_at": 1795543441
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kvíz: emlékszel a régi magyar rajzfilmek mellékszereplőire?",
+        "link": "https://24.hu/elet-stilus/2026/11/25/kviz-regi-magyar-rajzfilmek-mellekszereploi-retro/",
+        "image": "https://s.24.hu/app/uploads/2026/11/vizipok-1024x576.jpg",
+        "summary": "Hogy hívták Vuk szüleit? Hát a Macskafogó legfőbb macskavezérét? Ugye nem csak a főhősökre emlékszel? The post Kvíz: emlékszel a régi magyar rajzfilmek mellékszereplőire? first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795581003
       }
     ]
   },
@@ -12369,7 +12346,7 @@
         "image": "https://raketa.hu/uploads/2026/11/ktf_malom2.jpg",
         "summary": "Már a 19. század második felében termeltek Magyarországon szélenergiát, amikor szélmalmok százai dolgoztak az Alföldön, ma pedig modern szélturbinák (is) állítanak elő energiát. De mekkora szerepe lehet a szélenergiának Magyarországon? És valóban alapjaiban változtatná meg a hazai tájat? Erről írt Munkácsy Béla, az ELTE Környezet- és Tájföldrajzi Tanszék habilitált egyetemi docense a múltba és a jövőre is kitekintve, az ország lehetőségeiről a modellszámításokat végezve, amelyek szerint 2040-re akár 15 ezer MW-ot meghaladó szélerőmű-kapacitás is kiépíthető.",
         "category": "Kultúra",
-        "published_at": 1795581057
+        "published_at": 1795581183
       }
     ]
   },
@@ -12577,7 +12554,7 @@
         "image": "https://raketa.hu/uploads/2026/11/googlenest.jpg",
         "summary": "A Google fokozatosan kivezeti régi okosotthonos szolgáltatásait, 2027 januárjában megszűnik a Nest alkalmazás, augusztusban pedig a Google Asszisztens is eltűnik a kompatibilis okoshangszórókról és okoskijelzőkről.",
         "category": "Kultúra",
-        "published_at": 1795581057
+        "published_at": 1795581449
       }
     ]
   },
@@ -12626,6 +12603,54 @@
         "summary": "Az Európai Unió partner a Tisza jogi ámokfutásában, aminek a legújabb áldozata Kubatov Gábor.",
         "category": "Politika",
         "published_at": 1795580438
+      }
+    ]
+  },
+  {
+    "group_id": "group_494492556f",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Három autó rohant egymásba Nyáregyháza és Újhartyán között, egy ember meghalt",
+        "link": "https://hvg.hu/itthon/20261125_autobaleset-nyaregyhaza-ujhartyan-halalos-aldozat",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1605a1f4-7502-4889-ab19-6b0c6c9c79a7.jpg",
+        "summary": "A kedd esti balesetben öten sérültek meg, az utat teljes szélességében lezárták.",
+        "category": "Politika",
+        "published_at": 1795580952
+      }
+    ]
+  },
+  {
+    "group_id": "group_495c35d8a2",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Minimálbér 2027: emelkednek az új havi, napi és órabérek – ezeket a kihívásokat hozzák magukkal",
+        "link": "https://www.atv.hu/belfold/20261125/minimalber-emelkedo-havi-oraberek/",
+        "image": "https://www.youtube.com/embed/BFCVANjIVTk",
+        "summary": "A jövő évi bértervezés során a növekvő bérköltségek mellett a tapasztalt munkatársak megtartására és a belső bérarányok megőrzése is kihívást jelenthet.",
+        "category": "Általános",
+        "published_at": 1795581300
+      }
+    ]
+  },
+  {
+    "group_id": "group_5a9cf8993a",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Magyarországon talált fosszíliák egyértelműen bizonyítják azt, hogy mégsem haltak ki a belemniteszek a kréta kor végén",
+        "link": "https://raketa.hu/magyarorszagon-talalt-fossziliak-egyertelmuen-bizonyitjak-azt-hogy-megsem-haltak-ki-a-belemniteszek-a-kreta-kor-vegen/",
+        "image": "https://raketa.hu/uploads/2021/07/balaton_ISS_4.jpg",
+        "summary": "A dunántúli, Veszprém vármegyei Dudaron talált eocén korú fosszíliák bizonyítják, hogy a belemniteszek túlélték a kréta időszak végi tömeges kihalást.",
+        "category": "Kultúra",
+        "published_at": 1795581449
       }
     ]
   }
