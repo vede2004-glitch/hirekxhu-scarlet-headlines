@@ -228,65 +228,6 @@
     ]
   },
   {
-    "group_id": "group_6cb0d2f971",
-    "category": "Általános",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Egy éles tárggyal támadt társára egy diák Szlovéniában, a sérült tanulót kórházba vitték",
-        "link": "https://index.hu/kulfold/2026/11/24/szlovenia-iskola-diak-tamadas-eles-targy/",
-        "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
-        "summary": "A körülményeket vizsgálják, de mivel az érintettek kiskorúak, nem közöltek további részleteket.",
-        "category": "Általános",
-        "published_at": 1795523640
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Lövöldözni kezdett egy diák egy szerbiai középiskolában, ketten megsérültek",
-        "link": "https://www.vadhajtasok.hu/2026/11/24/lovoldozni-kezdett-egy-diak-egy-szerbiai-kozepiskolaban-ketten-megserultek",
-        "image": "",
-        "summary": "Kedd reggel lövöldözni kezdett egy diák a szerbiai Kragujevac egyik műszaki középiskolájában. Két ember megsérült, a támadót elfogták – írja az N1.A szerb belügyminisztérium közleménye szerint a rendőrséget reggel nyolc óra k...",
-        "category": "Politika",
-        "published_at": 1795537260
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Lövöldözés a szerb iskolában: engedély nélküli fegyverrel volt a 17 éves diáknál, az apját is őrizetbe vették",
-        "link": "https://24.hu/kulfold/2026/11/24/diak-lovoldozes-szerbia-fegyver-apa/",
-        "image": "https://s.24.hu/app/uploads/2026/11/000_d8fh9kf-e1795542558585.jpg",
-        "summary": "Két ember megsérült, a diákok sértetlenül hagyták el az iskolát. Szerbiában 2023-ban már történt hasonló. The post Lövöldözés a szerb iskolában: engedély nélküli fegyverrel volt a 17 éves diáknál, az apját is őrizetbe vették first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795542648
-      }
-    ]
-  },
-  {
-    "group_id": "group_73bc110751",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Matolcsy Ádám feltételezett dubaji menedéke is megrendülhet: szigorít az Egyesült Arab Emírségek",
-        "link": "https://index.hu/belfold/2026/11/24/matolcsy-adam-egyesult-arab-emirsegek-dubaj-kiadatas-valtoztatas/",
-        "image": "https://kep.index.hu/1/0/7267/72677/726776/72677687_5354547_81f1b1e27f056973a719f11f666ea430_wm.jpg",
-        "summary": "A város egyre kevésbé biztonságos menedék a körözött bűnözők számára.",
-        "category": "Általános",
-        "published_at": 1795523460
-      },
-      {
-        "source": "ATV",
-        "title": "Kezdhet aggódni Matolcsy Ádám? Módosított a kiadatási egyezményeken az Egyesült Arab Emírségek",
-        "link": "https://www.atv.hu/kulfold/20261124/matolcsy-adam-kiadatas-egyezmeny/",
-        "image": "https://www.youtube.com/embed/NamvH_Ta9VM",
-        "summary": "Az Egyesült Arab Emírségek megelégelte, hogy a bűnözők „védőpajzsnak” tekintik.",
-        "category": "Általános",
-        "published_at": 1795529820
-      }
-    ]
-  },
-  {
     "group_id": "group_bad0e6ba8c",
     "category": "Politika",
     "articles_count": 2,
@@ -584,22 +525,6 @@
         "summary": "Ókovács Szilveszter és Máthé Zsuzsa ritkán csinálnak ilyet, de most megmutatták négy gyermeküket: különleges családi pillanat. The post Egy képen Ókovács Szilveszter és Máthé Zsuzsa négy gyermeke first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795524180
-      }
-    ]
-  },
-  {
-    "group_id": "group_ba495be9e3",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Megszűnik az árrésstop: ezt érezhetjük meg leginkább a boltokban",
-        "link": "https://nlc.hu/ezvan/20261124/arresstop-megszunik/wv5qzv5",
-        "image": "",
-        "summary": "Az Országgyűlés elfogadta az erről szóló törvénymódosítást: megszűnik az árrésstop az élelmiszereknél és a drogériatermékeknél. De mit jelent mindez a gyakorlatban? The post Megszűnik az árrésstop: ezt érezhetjük meg leginkább a boltokban first appeared on nlc.",
-        "category": "Politika",
-        "published_at": 1795523640
       }
     ]
   },
@@ -2269,6 +2194,22 @@
     ]
   },
   {
+    "group_id": "group_73bc110751",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Kezdhet aggódni Matolcsy Ádám? Módosított a kiadatási egyezményeken az Egyesült Arab Emírségek",
+        "link": "https://www.atv.hu/kulfold/20261124/matolcsy-adam-kiadatas-egyezmeny/",
+        "image": "https://www.youtube.com/embed/NamvH_Ta9VM",
+        "summary": "Az Egyesült Arab Emírségek megelégelte, hogy a bűnözők „védőpajzsnak” tekintik.",
+        "category": "Általános",
+        "published_at": 1795529820
+      }
+    ]
+  },
+  {
     "group_id": "group_5df23ca17a",
     "category": "Politika",
     "articles_count": 1,
@@ -3528,6 +3469,31 @@
         "summary": "A UBS négy fő pillérre alapozza optimista várakozását.",
         "category": "Gazdaság",
         "published_at": 1795534699
+      }
+    ]
+  },
+  {
+    "group_id": "group_6cb0d2f971",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Lövöldözni kezdett egy diák egy szerbiai középiskolában, ketten megsérültek",
+        "link": "https://www.vadhajtasok.hu/2026/11/24/lovoldozni-kezdett-egy-diak-egy-szerbiai-kozepiskolaban-ketten-megserultek",
+        "image": "",
+        "summary": "Kedd reggel lövöldözni kezdett egy diák a szerbiai Kragujevac egyik műszaki középiskolájában. Két ember megsérült, a támadót elfogták – írja az N1.A szerb belügyminisztérium közleménye szerint a rendőrséget reggel nyolc óra k...",
+        "category": "Politika",
+        "published_at": 1795537260
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Lövöldözés a szerb iskolában: engedély nélküli fegyverrel volt a 17 éves diáknál, az apját is őrizetbe vették",
+        "link": "https://24.hu/kulfold/2026/11/24/diak-lovoldozes-szerbia-fegyver-apa/",
+        "image": "https://s.24.hu/app/uploads/2026/11/000_d8fh9kf-e1795542558585.jpg",
+        "summary": "Két ember megsérült, a diákok sértetlenül hagyták el az iskolát. Szerbiában 2023-ban már történt hasonló. The post Lövöldözés a szerb iskolában: engedély nélküli fegyverrel volt a 17 éves diáknál, az apját is őrizetbe vették first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795542648
       }
     ]
   },
@@ -9352,7 +9318,7 @@
         "image": "https://pcdn.hu/articles/images-xl/d/n/e/dnems20261124301-872426.jpg",
         "summary": "Orbán Viktor korábbi utazásai miatt azt fontolgatja a Külügyminisztérium, hogy ismeretlen tettes ellen feljelentést tesz, ha a tárca jogi csapata visszaélésekre bukkan a dokumentumok között. Közben szigorítaná a kormány a felszámolási szabályokat, jövőre már félmillió forint feletti, nem vitatott tartozás miatt is kezdeményezhető lenne az eljárás. Lannert Judit az NKE tanárképző karának megszüntetéséről közölt részleteket, az Országgyűlés pedig az idei költségvetés módosításáról tárgyal.",
         "category": "Politika",
-        "published_at": 1795605780
+        "published_at": 1795608540
       },
       {
         "source": "Magyar Nemzet",
@@ -12283,6 +12249,38 @@
         "summary": "Ahogy hűvösebbre fordul az idő, a szépségápolási rutinunk is változik: előkerülnek a gazdagabb hidratálók, a tápláló hajpakolások, és több időt szánunk az otthoni kényeztetésre. Az Allegro vásárlási adatai szerint a jól bevált, mindennapi termékek mellett egyre nagyobb az érdeklődés azok iránt az otthoni szépségápolási eszközök iránt is, amelyekkel akár a kozmetikai kezelések élményét is megidézhetjük. The post Téli szépségrutin, amit imádni fogsz: ezek a szezon kedvencei first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795608924
+      }
+    ]
+  },
+  {
+    "group_id": "group_491dced1e0",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ganxsta Zolee a Carson Coma botrányt kavaró új daláról: Világéletemben finoman bántam a nőkkel",
+        "link": "https://24.hu/elet-stilus/2026/11/25/ganxsta-zolee-carson-coma-bohocauto/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-0933896763-e1795609020932-1024x582.jpg",
+        "summary": "Végy egy ellopot beatet, pár pronyó rímet, hadd tátogjon rá sok tini, két marék nőgyűlölet, bő The post Ganxsta Zolee a Carson Coma botrányt kavaró új daláról: Világéletemben finoman bántam a nőkkel first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795609595
+      }
+    ]
+  },
+  {
+    "group_id": "group_11217571ca",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Több kellene a rezsiharcos attitűd megváltoztatásához a D-tarifa bevezetésénél",
+        "link": "https://hvg.hu/360/20261125_d-tarifa-rezsicsokkentes-okosmero-negyedoras-valtas-hvg",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/52a2e510-aa9a-4cd6-9f7e-d3f4f60fc093.jpg",
+        "summary": "Bonyolult és átláthatatlan az új lakossági áramtarifa, amelyre szeptembertől lehet regisztrálni az MVM-nél. De nem is ez a legnagyobb baj vele, hanem az, hogy nagyon kevés embert érint.",
+        "category": "Gazdaság",
+        "published_at": 1795609800
       }
     ]
   }
