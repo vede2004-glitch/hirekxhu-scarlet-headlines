@@ -1461,47 +1461,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_21af055849",
-    "slug": "kert-attila-tbbplatformos-kzmediat-es-jelentos-kltsegcskkentest-tervez-21af05",
-    "tags": [
-      "kert-attila",
-      "kozmedia",
-      "mediareform",
-      "koltsegvetes"
-    ],
-    "fingerprint": "965ae1730c7ca57250b5cb7e5eef14b3",
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/be3d20f1-f667-495c-a989-7bcb14240acd.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "„Nem könnyű, de meg lehet csinálni” – Kert Attila, a közmédia új vezérigazgatója a politikai befolyástól mentes közszolgálatról",
-        "link": "https://hvg.hu/360/20261125_kert-attila-interju-kozmedia-kozszolgalat-propaganda-politika"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Kert Attila a közmédiáról: Nem maradhat az, aki egyértelműen hazudott, vagy lejáratásban vett részt",
-        "link": "https://24.hu/kultura/2026/11/25/kert-attila-kozmedia/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Megvan, melyik napon veszi át a közmédia irányítását Kert Attila",
-        "link": "https://index.hu/belfold/2026/11/25/kert-attila-kozmedia-koltsegvetes-horvath-p.-andras/"
-      }
-    ],
-    "published_at": 1795620300,
-    "title_hu": "Kert Attila többplatformos közmédiát és jelentős költségcsökkentést tervez",
-    "lead_hu": "A januárban hivatalba lépő Kert Attila új tartalomgyártási rendszerrel alakítaná át a közmédiát, miközben a 2027-es működést 106 milliárd forintos keretből kellene megoldani. A tervek része a sportközvetítési jogdíjak és a földfelszíni sugárzás kiadásainak mérséklése, valamint akár 500–600 munkatárs elbocsátása.",
-    "content_hu": "• **Több platformra készülő tartalomgyártás** Kert Attila a közmédiát olyan szervezetként működtetné, amely televízión, rádión, online felületeken, közösségi médiában és streamingen is jelen van. Egy témából a különböző csatornákra szabott műsorok, podcastok és rövid videók készülhetnének.\n\n• **106 milliárd forintos keret 2027-re** A tervek szerint a közmédia 2027-es költségvetése a korábbinál jóval szűkebb lenne. A megtakarítás egyik forrásaként a sportközvetítési jogdíjak 18–20 milliárd forintos összegének megfelezése merült fel.\n\n• **A sugárzási kiadások felülvizsgálata** Kert a földfelszíni műsorszórás költségeit is csökkentené. A 20 milliárd forintos kiadás a lakosság mintegy 3 százalékát érintő elérést biztosít, de a veszélyhelyzeti tájékoztatásra vonatkozó kötelezettség miatt a szolgáltatás teljes megszüntetése nem lehetséges.\n\n• **Akár 500–600 fős létszámcsökkentés** Az átalakítás az adminisztrációt, a háttérmunkát és a technológiai támogatást is érintheti. Kert szerint nem világnézeti alapon döntenének, de azok távozását indokoltnak tartja, akik hazugságokban vagy lejárató tevékenységben vettek részt.",
-    "importance_score": 45.0,
-    "top_rank": 26,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_714774dbb9",
     "slug": "mi-eszkzkkel-segitett-amator-hacker-82-flandriai-telepules-adatainak-megszerzese-714774",
     "tags": [
@@ -1538,7 +1497,7 @@
     "lead_hu": "November 6. és 15. között egy BabidiGhost álnevet használó támadó 82 flandriai önkormányzat mintegy 1,2 millió lakosának adataihoz jutott hozzá. A nyomozók szerint az elkövető korlátozott technikai tudását MI-eszközökkel egészítette ki, és egy szolgáltató védtelen szerverét támadta meg.",
     "content_hu": "• **Az elkövető és az érintettek** A BabidiGhost néven tevékenykedő támadó állítása szerint a Ghost Hunters nevű hackercsoporthoz tartozik. Az akció Belgium mind az öt flandriai tartományának 82 önkormányzatát és körülbelül 1,2 millió lakosát érintette.\n\n• **A szerver tartalma** A behatolás nem az önkormányzatok saját rendszereit célozta: a támadó egy szolgáltató szerveréhez fért hozzá, amely hulladékudvarokkal kapcsolatos információkat és jelszavakat is tárolt. A szerveren az ügyféladatok nem voltak elkülönítve, a fájlok pedig titkosítás nélkül maradtak.\n\n• **A megszerzett adatok** Az érintett információk között nevek, címek, születési dátumok, nemzeti nyilvántartási és személyazonosító számok, bankszámlaadatok, valamint egyes esetekben gépjárművek rendszámai szerepeltek.\n\n• **A támadó technikai tudása** A nyomozók szerint az elkövető nem rendelkezett magas szintű technikai ismeretekkel. A DeepSeek korlátozásainak kijátszása után egy digitális MI-asszisztenssel készíttetett kódot, amely régebbi szoftverek ismert sérülékenységeit használhatta ki az adatok megszerzéséhez; az asszisztens 5800 utasításból 41-et utasított el.\n\n• **A támadás súlya és az adatok sorsa** Geert Baudewijns, a Secutec vezetője az eddigi legnagyobb flandriai kibertámadásként értékelte az esetet, és az érintett adatok mennyiségét különösen jelentősnek nevezte. A Secutec elemzése alapján az ellopott információk már felkerültek a darkwebre.\n\n• **A szakértői figyelmeztetés** Samet Sazhak, a SOCRadar munkatársa arra hívta fel a figyelmet, hogy megfelelően védett MI-rendszerek hiányában a korábban nagy tapasztalatot igénylő támadásokhoz ma már kevesebb technikai felkészültség is elegendő lehet.",
     "importance_score": 43.0,
-    "top_rank": 27,
+    "top_rank": 26,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1579,7 +1538,7 @@
     "lead_hu": "A kormány rendkívüli parlamenti ülés összehívását kérte jövő keddre és szerdára. Ruff Bálint miniszterelnök-helyettes nyolc törvényjavaslat napirendre vételét javasolta, hogy azokat mielőbb elfogadhassák.",
     "content_hu": "• **A rendkívüli ülés terve** A kormány jövő keddre és szerdára kezdeményezte az Országgyűlés rendkívüli ülését; Ruff Bálint nyolc előterjesztés megtárgyalását kérte.\n\n• **A javaslatok témái** A képviselők kulturális intézményekről, a könyvpiac szabályozásáról, az állami vagyon védelméről, valamint egészségügyi, oktatási és gyermekügyi szabályokról is tárgyalhatnak.\n\n• **A hétfői ülés** A parlament elfogadott menetrendje szerint hétfőn 13 órakor is ülésezik. A programban napirend előtti felszólalások, kérdések és az azonnali kérdések órája szerepel.",
     "importance_score": 43.0,
-    "top_rank": 28,
+    "top_rank": 27,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1625,7 +1584,7 @@
     "lead_hu": "Egy húszéves nő holttestét találták meg kedden Szegeden. A rendőrség vizsgálja a haláleset körülményeit, és kizárta az idegenkezűséget.",
     "content_hu": "• **Szegedi haláleset** Egy húszéves nő holttestére bukkantak a város Kockaház utcájában.\n\n• **Rendőrségi vizsgálat** A hatóság a haláleset körülményeit közigazgatási eljárásban vizsgálja; közlése szerint idegenkezűség nem történt.\n\n• **Mentőellátás** A mentők újraélesztési kísérletet végeztek, de a nő a helyszínen meghalt.\n\n• **Segítség krízis esetén** Lelki elsősegély a 116-123-as, ingyenesen hívható telefonszámon érhető el.",
     "importance_score": 43.0,
-    "top_rank": 29,
+    "top_rank": 28,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1671,6 +1630,47 @@
     "lead_hu": "A Tudományos és Technológiai Minisztérium nyílt pályázat után Miklósi Ádámot választotta az NKFIH elnökévé, Tapolcai Jánost pedig tudományos és nemzetközi elnökhelyettessé. Miklósi várhatóan 2027. január 15-én veszi át a hivatal irányítását; az új vezetőket Horváth Péter államtitkár mutatta be az intézmény munkatársainak.",
     "content_hu": "• **Új vezetők a hivatal élén** Miklósi Ádám lesz a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (NKFIH) elnöke, Tapolcai János pedig a tudományos és nemzetközi elnökhelyettesi feladatokat látja el. A kinevezésekről nyílt pályázat alapján döntött a Tudományos és Technológiai Minisztérium.\n\n• **Bemutatás az állománygyűlésen** Horváth Péter, a tárca tudománypolitikáért és innovációért felelős államtitkára az NKFIH munkatársainak ismertette az új vezetők személyét. A szeptemberben kiírt pályázat Kiss Ádám elnöki posztjára, valamint a lemondott tudományos és nemzetközi elnökhelyettes utódjának kiválasztására szólt.\n\n• **Átadás-átvétel januárban** Miklósi várhatóan 2027. január 15-én kezdi meg az elnöki munkát. Addig Kiss Ádám irányítja a hivatalt, és közreműködik a feladatok átadásában; Tapolcai kinevezési eljárását a nemzetbiztonsági ellenőrzéssel párhuzamosan indítják el. Horváth megköszönte Kiss munkáját, aki elnöksége alatt a hivatal stabil és átlátható működésének feltételein dolgozott.\n\n• **Miklósi kutatói eredményei** Az ELTE Etológia Tanszékének egyetemi tanára, az etorobotika egyik megteremtője. Munkáira több mint 30 ezer független hivatkozás érkezett, h-indexe 79, a Stanford Egyetem rangsora pedig a kutatók felső egy százalékába sorolja.\n\n• **Tudományos szempontok az NKFIH-ban** A minisztérium azt várja, hogy Miklósi vezetésével erőteljesebben jelenjenek meg a kutatói tapasztalatok és a tudományos megfontolások a hivatal működésében. Feladata lesz a kormány kutatás-fejlesztési és innovációs stratégiájának képviselete a kutatói közösség előtt, valamint céljainak beépítése az NKFIH programjaiba.\n\n• **Tapolcai feladatai** Az MTA Lendület programjának díjazottja, a BME Távközlési és Mesterséges Intelligencia Tanszékének egyetemi tanára. Az adatvezérelt működés fejlesztése mellett MI-alapú ügyfélszolgálati megoldásokkal gyorsítaná a pályázók tájékoztatását és egyszerűsítené az ügyintézést. Emellett a hazai kutatók és intézmények nemzetközi programokhoz való kapcsolódását, valamint Magyarország kutatási és innovációs együttműködéseit erősítené.\n\n• **A minisztérium működési elvárásai** Tanács Zoltán tárcavezető a tudományos kiválóság és a kutatói tapasztalat nagyobb szerepét szorgalmazta a hazai kutatás-fejlesztési és innovációs források elosztásában. A célok között szerepel az adatalapú működés, az MI-támogatott ügyintézés, a gyorsabb pályázati folyamat, az adminisztráció mérséklése és a nemzetközi kapcsolatok fejlesztése.\n\n• **Az NKFIH feladata** A 2015-ben létrehozott hivatal a magyar tudományos tevékenység szakpolitikai koordinációját végzi, és a pályázati támogatásokat kezeli.",
     "importance_score": 43.0,
+    "top_rank": 29,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_21af055849",
+    "slug": "kert-attila-tbbplatformos-kzmediat-es-jelentos-kltsegcskkentest-tervez-21af05",
+    "tags": [
+      "kert-attila",
+      "kozmedia",
+      "mediareform",
+      "koltsegvetes"
+    ],
+    "fingerprint": "965ae1730c7ca57250b5cb7e5eef14b3",
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/be3d20f1-f667-495c-a989-7bcb14240acd.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "„Nem könnyű, de meg lehet csinálni” – Kert Attila, a közmédia új vezérigazgatója a politikai befolyástól mentes közszolgálatról",
+        "link": "https://hvg.hu/360/20261125_kert-attila-interju-kozmedia-kozszolgalat-propaganda-politika"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Kert Attila a közmédiáról: Nem maradhat az, aki egyértelműen hazudott, vagy lejáratásban vett részt",
+        "link": "https://24.hu/kultura/2026/11/25/kert-attila-kozmedia/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Megvan, melyik napon veszi át a közmédia irányítását Kert Attila",
+        "link": "https://index.hu/belfold/2026/11/25/kert-attila-kozmedia-koltsegvetes-horvath-p.-andras/"
+      }
+    ],
+    "published_at": 1795620300,
+    "title_hu": "Kert Attila többplatformos közmédiát és jelentős költségcsökkentést tervez",
+    "lead_hu": "A januárban hivatalba lépő Kert Attila új tartalomgyártási rendszerrel alakítaná át a közmédiát, miközben a 2027-es működést 106 milliárd forintos keretből kellene megoldani. A tervek része a sportközvetítési jogdíjak és a földfelszíni sugárzás kiadásainak mérséklése, valamint akár 500–600 munkatárs elbocsátása.",
+    "content_hu": "• **Több platformra készülő tartalomgyártás** Kert Attila a közmédiát olyan szervezetként működtetné, amely televízión, rádión, online felületeken, közösségi médiában és streamingen is jelen van. Egy témából a különböző csatornákra szabott műsorok, podcastok és rövid videók készülhetnének.\n\n• **106 milliárd forintos keret 2027-re** A tervek szerint a közmédia 2027-es költségvetése a korábbinál jóval szűkebb lenne. A megtakarítás egyik forrásaként a sportközvetítési jogdíjak 18–20 milliárd forintos összegének megfelezése merült fel.\n\n• **A sugárzási kiadások felülvizsgálata** Kert a földfelszíni műsorszórás költségeit is csökkentené. A 20 milliárd forintos kiadás a lakosság mintegy 3 százalékát érintő elérést biztosít, de a veszélyhelyzeti tájékoztatásra vonatkozó kötelezettség miatt a szolgáltatás teljes megszüntetése nem lehetséges.\n\n• **Akár 500–600 fős létszámcsökkentés** Az átalakítás az adminisztrációt, a háttérmunkát és a technológiai támogatást is érintheti. Kert szerint nem világnézeti alapon döntenének, de azok távozását indokoltnak tartja, akik hazugságokban vagy lejárató tevékenységben vettek részt.",
+    "importance_score": 38.0,
     "top_rank": 30,
     "is_top_hero": false,
     "is_top_list": true
@@ -4010,6 +4010,84 @@
     "top_rank": 95,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_63451350dc",
+    "slug": "ujabb-csavar-a-megasztarban-megvan-ki-veszi-at-a-versenyt-felado-enekes-helyet-a-634513",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7270/72706/727060/72706073_14128ef2cd907e1ef73412e56d075cb9_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Újabb csavar a Megasztárban, megvan, ki veszi át a versenyt feladó énekes helyét az élő adásban",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/25/megasztar-versenyzok-2026-bejelentes/"
+      }
+    ],
+    "published_at": 1795631295,
+    "title_hu": "Újabb csavar a Megasztárban, megvan, ki veszi át a versenyt feladó énekes helyét az élő adásban",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_c51ee2f8a4",
+    "slug": "lezsak-sandor-is-megszolalt-lapunknak-ebben-a-trtenetben-nem-csak-rolam-volt-szo-c51ee2",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/11/9l8ZtIN1XRwRlBr_BbJu9VE4wgHL5vOpgcN316FAv28/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMTQvMDA0MTM0NTIyOWJkOTUyZmJjMTliZDU2M2E0MGMwZjJkYmVhODJkMDVlMWIwZGM0MTU2ZDlkYTcyMTY3YjU3NQ.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Lezsák Sándor is megszólalt lapunknak: „Ebben a történetben nem csak rólam volt szó...”",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/lezsak-sandor-is-megszolalt-lapunknak-ebben-a-tortenetben-nem-csak-rolam-volt-szo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795631192,
+    "title_hu": "Lezsák Sándor is megszólalt lapunknak: „Ebben a történetben nem csak rólam volt szó...”",
+    "lead_hu": "Lezsák Sándor értékeli a miniszterelnök bocsánatkérését....",
+    "content_hu": "Lezsák Sándor értékeli a miniszterelnök bocsánatkérését.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_921aa4424c",
+    "slug": "elismerte-a-magyar-gazdasagkutato-intezet-rvid-tavon-dragulast-hozhat-az-arresst-921aa4",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/09/I6r1BXjhKRYnZu6bGRDIyxg_ucyl4e3CiD7B10XR69w/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I3NmNjODViODk4MjRhZGFhNmNiOGMyZmQ2YWViYmRj.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Elismerte a magyar gazdaságkutató intézet: rövid távon drágulást hozhat az árrésstop kivezetése, később jöhetnek a nagy akciók a boltokban",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/arresstop-vege-aremelkedes-dragulas-arverseny-erosodese?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795631103,
+    "title_hu": "Elismerte a magyar gazdaságkutató intézet: rövid távon drágulást hozhat az árrésstop kivezetése, később jöhetnek a nagy akciók a boltokban",
+    "lead_hu": "A GKI Gazdaságkutató szerint a kereskedők ismét szabadabban alakíthatják áraikat....",
+    "content_hu": "A GKI Gazdaságkutató szerint a kereskedők ismét szabadabban alakíthatják áraikat.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_0d1476ead4",
@@ -18182,6 +18260,32 @@
     "is_top_list": false
   },
   {
+    "group_id": "group_c09948487b",
+    "slug": "gianni-infantino-maganrepulovel-utazgat-es-szavazatokat-gyujt-c09948",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.magyarnemzet.hu/2026/10/jwDW8VimM_orSEvN1pcNuNnAcT_xHVT_cFyRu-NNZdc/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTAvMDgvYWZhZDkzZmVmZjc2MDE0NDU1YzA3YjFlZGMzMTc0NDlkOGFjMjllZmY1MzM0MmM1YzA1ZmRiNzRiNjg4MDZlNg.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Gianni Infantino magánrepülővel utazgat és szavazatokat gyűjt",
+        "link": "https://magyarnemzet.hu/sport/2026/11/gianni-infantino-maganrepulo-fifa-elnokvalasztas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795547261,
+    "title_hu": "Gianni Infantino magánrepülővel utazgat és szavazatokat gyűjt",
+    "lead_hu": "A BBC leplezte le a FIFA elnökének tényleg meghökkentő utazási szokásait....",
+    "content_hu": "A BBC leplezte le a FIFA elnökének tényleg meghökkentő utazási szokásait.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_ba84fcbaff",
     "slug": "25-millio-embernek-igernek-adocskkentest-ki-fizet--ba84fc",
     "tags": [
@@ -18644,84 +18748,6 @@
     "title_hu": "Kiara Lord megválaszolta az egyik legtöbbet feltett kérdést az Ázsia Expresszről",
     "lead_hu": "",
     "content_hu": "",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_4616c1d426",
-    "slug": "a-befektetoket-a-frasz-kerulgeti-az-elemzok-meg-se-4616c1",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://cdn.vg.hu/2026/09/2VI4imOfffveQhf4fBVaxITo6lvYuJg_IaEYgNn3ZZ8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzkxYzc0MDc1MjhmMDQ3YTE5YjQyY2JhMTRmODQ4ZWEw.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Világgazdaság",
-        "title": "A befektetőket a frász kerülgeti, az elemzők meg sem rezzentek: az AI-para dacára is folytatódhat az amerikai tőzsderali",
-        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/tozsderali-sp500-elemzok-celar-2027-ai-techszektor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795545000,
-    "title_hu": "A befektetőket a frász kerülgeti, az elemzők meg sem rezzentek: az AI-para dacára is folytatódhat az amerikai tőzsderali",
-    "lead_hu": "A konszenzus szerint az S&P 500 a technológiai papírok magas súlya mellett is elkerülheti idén a medvepiacot, jövőre pedig kétszámjegyű rali követheti a jelenlegi bizonytalanságot.",
-    "content_hu": "A konszenzus szerint az S&P 500 a technológiai papírok magas súlya mellett is elkerülheti idén a medvepiacot, jövőre pedig kétszámjegyű rali követheti a jelenlegi bizonytalanságot.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_ee60608a91",
-    "slug": "alneven-kapott-szerb-allampolgarsagot-ramzan-kadir-ee6060",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/000_a9f289e-e1795544804640-1024x577.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Álnéven kapott szerb állampolgárságot Ramzan Kadirov csecsen hadúr fia",
-        "link": "https://24.hu/kulfold/2026/11/24/alneven-szerb-allampolgarsag-kadirov-fia/"
-      }
-    ],
-    "published_at": 1795544844,
-    "title_hu": "Álnéven kapott szerb állampolgárságot Ramzan Kadirov csecsen hadúr fia",
-    "lead_hu": "A másodszülött fiú, Ali Kadirov így vízummentesen léphetett be az Európai Unió területére. The post Álnéven kapott szerb állampolgárságot Ramzan Kadirov csecsen hadúr fia first appeared on 24.hu.",
-    "content_hu": "A másodszülött fiú, Ali Kadirov így vízummentesen léphetett be az Európai Unió területére. The post Álnéven kapott szerb állampolgárságot Ramzan Kadirov csecsen hadúr fia first appeared on 24.hu.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_70d756ad42",
-    "slug": "miert-nem-lesz-topligas-focista-a-magyar-utanpotla-70d756",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.24.hu/app/uploads/2026/11/ziccer1124-1024x576.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Miért nem lesz topligás focista a magyar utánpótlás-válogatottakból?",
-        "link": "https://24.hu/sport/foci/2026/11/24/podcast-ziccer-brodarics-tamas-magyar-utanpotlas-topfutball/"
-      }
-    ],
-    "published_at": 1795544728,
-    "title_hu": "Miért nem lesz topligás focista a magyar utánpótlás-válogatottakból?",
-    "lead_hu": "Kevés magyar utánpótlás-válogatottból lesz topligás futballista – Brodarics Tamás szerint azért, mert továbbra sem tudja a szakma, kit és hová akar nevelni. A friss Ziccerben a magyar utánpótlás gondj…",
-    "content_hu": "Kevés magyar utánpótlás-válogatottból lesz topligás futballista – Brodarics Tamás szerint azért, mert továbbra sem tudja a szakma, kit és hová akar nevelni. A friss Ziccerben a magyar utánpótlás gondjainak mélyére ástunk. The post Miért nem lesz topligás focista a magyar utánpótlás-válogatottakból? first appeared on 24.hu.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
