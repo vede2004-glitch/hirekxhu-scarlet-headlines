@@ -113,22 +113,6 @@
     ]
   },
   {
-    "group_id": "group_fe131ce8f3",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Egy idegen világra bukkantunk, ahol még a felhőn járás sem furcsa",
-        "link": "https://index.hu/kultur/2026/11/24/light-art-museum-ego-kiallitas/",
-        "image": "https://kep.index.hu/1/0/7267/72679/726793/72679315_5354661_6e12a2331a17c9ddbeeed1ce56e8b0bc_wm.jpg",
-        "summary": "Megnéztük a Light Art Museum legújabb kiállítását, az Egót.",
-        "category": "Általános",
-        "published_at": 1795552440
-      }
-    ]
-  },
-  {
     "group_id": "group_1fb496084a",
     "category": "Politika",
     "articles_count": 4,
@@ -184,31 +168,6 @@
         "summary": "A MÁV tisztázatlan körülményekről írt.",
         "category": "Politika",
         "published_at": 1795552981
-      }
-    ]
-  },
-  {
-    "group_id": "group_2135dfd6db",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Magyar Péter Beregszászon bejelentette, jöhet az ukrán kukorica",
-        "link": "https://magyarnemzet.hu/kulfold/2026/11/magyar-peter-volodimir-zelenszkij-beregszasz-ukran-kukorica-energetika?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/E4vTS6xz4nrZ4i1fIabUFj6nd7kUtu88bJVBDkr6OfI/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjQvZjE5ZTE2NjM1MzgzYzUwMjRkODlhZTAyODBjNzNkNTA1NzUzZWMwMTFjNjdjZTk4NWFhNzE0MzY0MmI4M2FiMw.jpg",
-        "summary": "Zelenszkijjel tartott sajtótájékoztatón arról is beszélt a magyar miniszterelnök, hogy energetikai együttműködés is lesz a két ország között.",
-        "category": "Politika",
-        "published_at": 1795552669
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Rovar úr Beregszászon bejelentette, jöhet az ukrán kukorica",
-        "link": "https://www.vadhajtasok.hu/2026/11/25/rovar-ur-beregszaszon-bejelentette-johet-az-ukran-kukorica",
-        "image": "",
-        "summary": "Magyar Péter miniszterelnök Volodimir Zelenszkij ukrán elnökkel közös sajtótájékoztatót tartott Beregszászon.",
-        "category": "Politika",
-        "published_at": 1795602720
       }
     ]
   },
@@ -5399,6 +5358,22 @@
         "summary": "Akár 10 centiméteres hó is hullhat egyes országrészekben, ezért a Magyar Közút a teljes téli gépparkját beveti. A társaság több mint nyolcszáz munkagéppel és 122 ezer tonna útszóró sóval készül a következő napok csapadékos időjárására.",
         "category": "Általános",
         "published_at": 1795599600
+      }
+    ]
+  },
+  {
+    "group_id": "group_2135dfd6db",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Rovar úr Beregszászon bejelentette, jöhet az ukrán kukorica",
+        "link": "https://www.vadhajtasok.hu/2026/11/25/rovar-ur-beregszaszon-bejelentette-johet-az-ukran-kukorica",
+        "image": "",
+        "summary": "Magyar Péter miniszterelnök Volodimir Zelenszkij ukrán elnökkel közös sajtótájékoztatót tartott Beregszászon.",
+        "category": "Politika",
+        "published_at": 1795602720
       }
     ]
   },
@@ -12403,7 +12378,7 @@
   {
     "group_id": "group_a91abd3f3b",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -12413,6 +12388,15 @@
         "summary": "Donald Trump személyes közbenjárására az Nvidia alig két héttel a nemzetbiztonsági botrány miatti lemondása után visszahelyezte vezérigazgatói székébe Jensen Huangot, ami azonnali kétpárti felháborodást váltott ki Washingtonban. A feltételezett kínai hírszerzési szálakkal és jogellenes chipátirányítással terhelt ügy rámutat az amerikai technológiai hegemónia legnagyobb paradoxonára - írja Carla Norrlöf, a Torontói Egyetem professzora. Miközben az Egyesült Államok az Nvidia révén tartja sakkban Kínát, a vállalat stratégiai nélkülözhetetlensége már magát az amerikai kormányt is gúzsba köti.",
         "category": "Politika",
         "published_at": 1795635240
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Az Nvidia-vezér visszahelyezése még trumpi mércével is súlyos botrány lehet",
+        "link": "https://telex.hu/kulfold/2026/11/25/donald-trump-jensen-huang-nvidia-botrany-egyesult-allamok-kongresszus-demokrata-part-republikanus-part",
+        "image": "https://assets.telex.hu/images/20261125/1795620967-temp-glbv5pjrjrup4cnabng_cimlap-normal.jpg",
+        "summary": "Akár Trump második ciklusának egyik legnagyobb botrányává dagadhat a potenciálisan kínai kémügybe keveredett Jensen Huang visszahelyezése körüli elnöki kavarás. A demokraták már fenik a késeket a kongresszusi vizsgálatokhoz, és egyes republikánusok is súlyos nemzetbiztonsági kérdésekről beszélnek.",
+        "category": "Politika",
+        "published_at": 1795638875
       }
     ]
   },
@@ -13454,7 +13438,23 @@
         "image": "https://raketa.hu/uploads/2026/11/planetx2.jpg",
         "summary": "A feltételezett bolygó a Földnél alig lehet nagyobb, és olyan messze keringhet a Naptól, hogy eddig még nem sikerült megfigyelni.",
         "category": "Kultúra",
-        "published_at": 1795638611
+        "published_at": 1795639077
+      }
+    ]
+  },
+  {
+    "group_id": "group_59d9fd05b7",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Miley Cyrus apja, Billy Ray Cyrus üzent a titkos esküvő után, vejéhez is volt egy-két szava",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/25/miley-cyrus-eskuvoje-apja-billy-ray-cyrus-reakcio/",
+        "image": "https://kep.index.hu/1/0/7270/72704/727049/72704951_3c556281c6f8dbed1ffdf29a658dc215_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1795638504
       }
     ]
   }
