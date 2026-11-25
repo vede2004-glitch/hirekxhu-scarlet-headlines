@@ -514,7 +514,7 @@
     "title_hu": "Hó borította be a hegyeket, csütörtökön újabb csapadék érkezik",
     "lead_hu": "Szerdán délnyugat felől csapadékzóna vonul át az országon: több helyen havazás, havas eső vagy ónos eső nehezítheti a közlekedést. A fővárosi agglomerációban már havazott, a hegyvidéki csúcsokon pedig mínusz 5 fokot is mértek.",
     "content_hu": "• **Szerdai csapadék** Délnyugat felől egyre nagyobb területre terjed ki a csapadék. Délnyugaton és nyugaton eső valószínű, az ország más részein hó, havas eső, helyenként ónos eső is előfordulhat; északkeleten délelőtt még rövid időre kisüthet a nap.\n\n• **Hó és ónos eső** A Dunazug-hegyvidéken, a főváros környékén és az Északi-középhegység nyugati részén többnyire legfeljebb 4–5 centiméteres hóréteg képződhet, a magasabb pontokon helyenként 10 centiméter körüli mennyiség is összegyűlhet. A Bakonyban tartósabb, a Dunántúli-középhegység más vidékein, majd este Budapest környezetében átmeneti ónos eső fordulhat elő; éjszaka az északi határ közelében is lehet jeges csapadék. Emiatt többfelé csúszóssá válhatnak az utak.\n\n• **Már havazik a főváros környékén** Szerda délelőtt a budapesti agglomerációban megkezdődött a havazás, és helyenként erősebb hózáporok is kialakultak. A Kékestetőn és Dobogókőn szintén hó fedte be a tájat; a Mátra, a Pilis és a Nagy-Hideg-hegy magasabb részein mínusz 5 fok körüli értékeket mértek, és az alacsonyabban fekvő területeken is több helyütt fagyott. Az élénk szél tovább ronthatja a hőérzetet.\n\n• **Hőmérséklet és szél** Napközben 0 és 5 fok közötti csúcsértékek várhatók, késő estére mínusz 2 és plusz 3 fok közé hűlhet a levegő. A délkeleti, keleti szél több helyen megélénkülhet, néhol meg is erősödhet.\n\n• **Közúti felkészülés** A Magyar Közút a téli időszakra 813 munkagépet és több mint 3300 dolgozót készített fel. A rendelkezésre álló készlet 122 ezer tonna útszóró sót és 2,9 millió liter kalcium-klorid-oldatot is tartalmaz.\n\n• **Csütörtöki kilátások és visegrádi havazás** Hajnalban újabb csapadék érkezhet egy ciklonnal. A fagyos levegő várhatóan az északi és északnyugati országrészbe szorul vissza, máshol az eső válthatja fel a havat; a reggeli órákban a fagyos területeken ónos eső is kialakulhat. Északnyugaton hóra is számítani lehet. Visegrádon kedden hullott le az idei szezon első hava.",
-    "importance_score": 85.0,
+    "importance_score": 78.0,
     "top_rank": 7,
     "is_top_hero": false,
     "is_top_list": true
@@ -1540,47 +1540,32 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_562ad80751",
-    "slug": "kabelrongalas-okoz-fennakadasokat-a-cegledi-vasutvonalon-562ad8",
+    "group_id": "group_e49c8493e5",
+    "slug": "vitezy-szerint-olyan-reg-kocsi-is-volt-a-mezokvesdi-vonatbalesetnel-ami-el-tud-i-e49c84",
     "tags": [
-      "budapest",
-      "adventi-utazas",
-      "turizmus",
-      "kiwi-com"
+      "politika"
     ],
-    "fingerprint": "6e54941d642c5af854287b1ad1243770",
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6983/69833/698335/69833523_5152583_d8652aafa338925bed4a6e390b4f82f1_wm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261125/1795636895-temp-e8p9a6asbghaalicjmk_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
     "sources": [
       {
-        "source": "Index - Címlap",
-        "title": "Elvágták a vasúti biztosítóberendezés kábeleit, jelentős késések bénítják a ceglédi fővonalat",
-        "link": "https://index.hu/belfold/2026/11/25/biztositoberendezes-kabel-elvagas-mav-cegledi-fovonal/"
+        "source": "Telex - Belföld",
+        "title": "Vitézy szerint olyan öreg kocsi is volt a mezőkövesdi vonatbalesetnél, ami el tud indulni nyitott ajtóval",
+        "link": "https://telex.hu/belfold/2026/11/25/vitezy-david-mezokovesdi-vonatbaleset-oreg-intercity-kocsik"
       },
       {
-        "source": "Vadhajtások",
-        "title": "Durva késések a legforgalmasabb vasúti vonalon: elvágták a biztosítóberendezés kábeleit",
-        "link": "https://www.vadhajtasok.hu/2026/11/25/durva-kesesek-a-legforgalmasabb-vasuti-vonalon-elvagtak-a-biztositoberendezes-kabeleit"
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Adventkor Budapest lenyomja Prágát és Bécset is",
-        "link": "https://24.hu/tech/2026/11/25/advent-uti-cel-europa-budapest-nepszeruseg/"
-      },
-      {
-        "source": "Femina",
-        "title": "Budapest lett Európa kedvenc adventi úti célja: Prágát és Bécset is megelőzte",
-        "link": "https://femina.hu/utazas/budapest-europa-kedvenc-adventi-uti-celja-rangsor/"
+        "source": "444.hu",
+        "title": "Vitézy a mezőkövesdi balesetről: A régebbi vasúti kocsik nyitott ajtóval is el tudnak indulni",
+        "link": "https://444.hu/2026/11/25/vitezy-a-mezokovesdi-balesetrol-a-regebbi-vasuti-kocsik-nyitott-ajtoval-is-el-tudnak-indulni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
       }
     ],
-    "published_at": 1795597020,
-    "title_hu": "Kábelrongálás okoz fennakadásokat a ceglédi vasútvonalon",
-    "lead_hu": "Ismeretlen elkövető megrongálta a biztosítóberendezést Cegléd és Ceglédbercel-Cserő között, ezért lassabban járnak a vonatok. A helyreállítás szerda reggel még tartott; az utasok késésekre és járatkimaradásokra számíthatnak.",
-    "content_hu": "• **Kábelrongálás:** Kedden elvágták a biztosítóberendezés vezetékeit a Cegléd és Ceglédbercel-Cserő közötti szakaszon.\n\n• **Folyamatban lévő javítás:** A kábelek cseréjét megkezdték, a helyreállítás befejezését szerda napközbenre várták.\n\n• **Késések és kimaradások:** Cegléd térségében a vonatok lassabban közlekednek, az utazóknak 20–30 perces késésekre, valamint egyes elővárosi járatok elmaradására kell készülniük.\n\n• **S50-es járatok:** A monori S50-es vonatoknál kisebb késésekre számítottak.",
-    "importance_score": 43.0,
+    "published_at": 1795637718,
+    "title_hu": "Vitézy szerint olyan öreg kocsi is volt a mezőkövesdi vonatbalesetnél, ami el tud indulni nyitott ajtóval",
+    "lead_hu": "Egy fiatal nő az elsődleges információk szerint beakadt az ajtóba, ez okozta életveszélyes sérülését....",
+    "content_hu": "Egy fiatal nő az elsődleges információk szerint beakadt az ajtóba, ez okozta életveszélyes sérülését.",
+    "importance_score": 40.0,
     "top_rank": 29,
     "is_top_hero": false,
     "is_top_list": true
@@ -1658,6 +1643,52 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_562ad80751",
+    "slug": "kabelrongalas-okoz-fennakadasokat-a-cegledi-vasutvonalon-562ad8",
+    "tags": [
+      "budapest",
+      "adventi-utazas",
+      "turizmus",
+      "kiwi-com"
+    ],
+    "fingerprint": "6e54941d642c5af854287b1ad1243770",
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/6983/69833/698335/69833523_5152583_d8652aafa338925bed4a6e390b4f82f1_wm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Elvágták a vasúti biztosítóberendezés kábeleit, jelentős késések bénítják a ceglédi fővonalat",
+        "link": "https://index.hu/belfold/2026/11/25/biztositoberendezes-kabel-elvagas-mav-cegledi-fovonal/"
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Durva késések a legforgalmasabb vasúti vonalon: elvágták a biztosítóberendezés kábeleit",
+        "link": "https://www.vadhajtasok.hu/2026/11/25/durva-kesesek-a-legforgalmasabb-vasuti-vonalon-elvagtak-a-biztositoberendezes-kabeleit"
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Adventkor Budapest lenyomja Prágát és Bécset is",
+        "link": "https://24.hu/tech/2026/11/25/advent-uti-cel-europa-budapest-nepszeruseg/"
+      },
+      {
+        "source": "Femina",
+        "title": "Budapest lett Európa kedvenc adventi úti célja: Prágát és Bécset is megelőzte",
+        "link": "https://femina.hu/utazas/budapest-europa-kedvenc-adventi-uti-celja-rangsor/"
+      }
+    ],
+    "published_at": 1795597020,
+    "title_hu": "Kábelrongálás okoz fennakadásokat a ceglédi vasútvonalon",
+    "lead_hu": "Ismeretlen elkövető megrongálta a biztosítóberendezést Cegléd és Ceglédbercel-Cserő között, ezért lassabban járnak a vonatok. A helyreállítás szerda reggel még tartott; az utasok késésekre és járatkimaradásokra számíthatnak.",
+    "content_hu": "• **Kábelrongálás:** Kedden elvágták a biztosítóberendezés vezetékeit a Cegléd és Ceglédbercel-Cserő közötti szakaszon.\n\n• **Folyamatban lévő javítás:** A kábelek cseréjét megkezdték, a helyreállítás befejezését szerda napközbenre várták.\n\n• **Késések és kimaradások:** Cegléd térségében a vonatok lassabban közlekednek, az utazóknak 20–30 perces késésekre, valamint egyes elővárosi járatok elmaradására kell készülniük.\n\n• **S50-es járatok:** A monori S50-es vonatoknál kisebb késésekre számítottak.",
+    "importance_score": 40.0,
+    "top_rank": 32,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_9004fe11db",
     "slug": "elteroen-nyilatkoztak-arrol-ki-valasztotta-ki-a-tankeruleti-vezetoket-9004fe",
     "tags": [
@@ -1699,7 +1730,7 @@
     "lead_hu": "Nagy Erzsébet, a PDSZ vezetője szerint a tankerületi igazgatók kiválasztásáról a Ruff Bálint vezette Miniszterelnökségen döntöttek. Az oktatási tárca ezzel szemben azt közölte, hogy a Miniszterelnökség delegáltja részt vett az anonim bizottsági értékelésben, a kinevezésekről pedig Lannert Judit határozott.",
     "content_hu": "• **A Miniszterelnökség szerepéről szóló állítás** Nagy Erzsébet egy minisztériumi egyeztetés után arról számolt be, hogy a tárca előszűrte a pályázatokat, majd tankerületenként három jelölt anyaga került a Ruff Bálint vezette Miniszterelnökséghez, ahol szerinte a végső választásról döntöttek. Gosztonyi Gábor, a Pedagógusok Szakszervezetének alelnöke is megerősítette, hogy a találkozón szóba került a Miniszterelnökség közreműködése.\n\n• **A minisztérium válasza** Az Oktatási és Gyermekügyi Minisztérium szerint háromfordulós szakmai eljárásban, anonim módon értékelte a pályázatokat egy öttagú bizottság, amelybe a Miniszterelnökség egy tagot delegált. A tárca közlése szerint a kinevezésekről Lannert Judit döntött.\n\n• **A kiválasztás számai és szempontjai** A hatvan tankerületi igazgatói helyből 55-re neveztek ki vezetőt, öt pályázat pedig érvénytelen lett. Az augusztusban meghirdetett felhívásra 567 pályázat érkezett, ezek közül 424 felelt meg a követelményeknek. Lannert szerint a helyi közösségek visszajelzéseit is mérlegelték, és azok közül terjesztettek elő jelölteket, akiket a helyiek a legkevésbé utasítottak el.\n\n• **Az adatok kiadásának megtagadása** A PDSZ közérdekű adatigényléssel próbálta megismerni a kiválasztási feltételeket, valamint azt, hogy a tantestületek és a polgármesterek mely pályázókat támogatták. A Klebelsberg Központ elutasította az adatkérést; indoklása szerint az értékelési szabályok és módszerek nyilvánosságra hozatala veszélyeztethetné a későbbi eljárásokat, mert a pályázók előre hozzáigazíthatnák jelentkezésüket az ismert szempontokhoz. Egy adatot tíz évig titkosként kezelnek, a PDSZ pedig a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordul.\n\n• **A pályázati anyagok hozzáférhetősége** A tankerületi dolgozók nem tekinthették meg az új vezetők pályázatait, a polgármesterek pedig nem oszthatták meg azokat másokkal. Lannert a vitára reagálva azt írta, hogy az eljárás új volt a magyar oktatás történetében, ezért félreértések övezik.",
     "importance_score": 40.0,
-    "top_rank": 32,
+    "top_rank": 33,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1740,7 +1771,7 @@
     "lead_hu": "Bátki Pál ügyvéd szerint Matolcsy György kész személyesen részt venni az MNB ügyeit vizsgáló parlamenti bizottság nyilvános ülésén, amennyiben tiszteletben tartják emberi méltóságát és az ártatlanság vélelmét. A védelem úgy látja, nincs szükség arra, hogy a képviselők a büntetés-végrehajtási intézetben keressék fel a volt jegybankelnököt; a kísérés feltételeiről egyedi biztonsági mérlegelést kérnek.",
     "content_hu": "• **A bizottság helyett Matolcsy is megjelenhet a Parlamentben** Bátki Pál szerint nem indokolt, hogy a képviselők a büntetés-végrehajtási intézetbe menjenek: védence megfelelő garanciák mellett vállalja a nyilvános parlamenti meghallgatást. Csőszi Attila bizottsági elnök korábban jelezte, hogy a testület csütörtökön egyeztet a meghallgatás lehetőségéről.\n\n• **A bilincs és a vezetőszár szükségességét külön kell mérlegelni** Az ügyvéd azt kéri, hogy a bv konkrét biztonsági kockázat alapján döntsön a kényszerítő eszközökről. Ha nem merül fel szökés vagy támadó fellépés veszélye, szerinte ezek mellőzésével kellene Matolcsyt a Parlamentbe kísérni.\n\n• **A kísérésről készült felvételeket ne hozzák nyilvánosságra** Amennyiben a bv mégis szükségesnek ítél valamelyik eszközt, Bátki feltételként szabja, hogy a bilincsben vagy vezetőszáron történő kísérésről ne jelenjenek meg képek. Az érkezést és a távozást a kamerák látóterén kívül szerveznék meg, a bizottsági ülésről a sajtó szabadon tudósíthatna.\n\n• **Több száz milliárd forintnyi közvagyon sorsa került az ügy középpontjába** Az MNB alapítványaihoz irányított vagyon jelentős része cégek közbeiktatásával végrehajtott befektetések során veszett oda. Az Állami Számvevőszék tavaly márciusban tett feljelentést.\n\n• **Gazdasági bűncselekmények gyanúja miatt tartóztatták le Matolcsyt** A volt jegybankelnököt október 21-én vették őrizetbe, letartóztatását két nappal később rendelték el, majd február 23-ig meghosszabbították. Különösen jelentős vagyoni hátrányt okozó gazdasági csalással és hamis magánokirat felhasználásával gyanúsítják.",
     "importance_score": 38.0,
-    "top_rank": 33,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1781,7 +1812,7 @@
     "lead_hu": "A januárban hivatalba lépő Kert Attila új tartalomgyártási rendszerrel alakítaná át a közmédiát, miközben a 2027-es működést 106 milliárd forintos keretből kellene megoldani. A tervek része a sportközvetítési jogdíjak és a földfelszíni sugárzás kiadásainak mérséklése, valamint akár 500–600 munkatárs elbocsátása.",
     "content_hu": "• **Több platformra készülő tartalomgyártás** Kert Attila a közmédiát olyan szervezetként működtetné, amely televízión, rádión, online felületeken, közösségi médiában és streamingen is jelen van. Egy témából a különböző csatornákra szabott műsorok, podcastok és rövid videók készülhetnének.\n\n• **106 milliárd forintos keret 2027-re** A tervek szerint a közmédia 2027-es költségvetése a korábbinál jóval szűkebb lenne. A megtakarítás egyik forrásaként a sportközvetítési jogdíjak 18–20 milliárd forintos összegének megfelezése merült fel.\n\n• **A sugárzási kiadások felülvizsgálata** Kert a földfelszíni műsorszórás költségeit is csökkentené. A 20 milliárd forintos kiadás a lakosság mintegy 3 százalékát érintő elérést biztosít, de a veszélyhelyzeti tájékoztatásra vonatkozó kötelezettség miatt a szolgáltatás teljes megszüntetése nem lehetséges.\n\n• **Akár 500–600 fős létszámcsökkentés** Az átalakítás az adminisztrációt, a háttérmunkát és a technológiai támogatást is érintheti. Kert szerint nem világnézeti alapon döntenének, de azok távozását indokoltnak tartja, akik hazugságokban vagy lejárató tevékenységben vettek részt.",
     "importance_score": 38.0,
-    "top_rank": 34,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1822,7 +1853,7 @@
     "lead_hu": "Magyar Péter Volodimir Zelenszkijjel tartott beregszászi sajtótájékoztatóján az ukrán kukorica behozataláról beszélt. A szakértői adatok szerint a hazai termés jóval elmarad a 3–4 millió tonnás igénytől, az importhoz szükséges szállítási rendszer kiépítése pedig akár öt évig is tarthat.",
     "content_hu": "• **Kukoricaimport** Magyar Péter és Volodimir Zelenszkij kedden a behozatalról egyeztetett. Magyar Péter szerint csak az állattartók és a bioetanol-üzemek szükségleteinek fedezéséhez elegendő mennyiség érkezne, a magyar és az ukrán szaktárcák képviselői pedig hamarosan tárgyalnak a részletekről.\n\n• **Hazai hiány** Bidló Gábor agrárszakember becslése szerint Magyarországon körülbelül 1,4 millió tonna kukorica terem, miközben a felhasználás 3–4 millió tonna. Petőházi Tamás, a Gabonatermesztők Országos Szövetségének elnöke 1,5 millió tonna körüli termésről és 3,2–3,4 millió tonnás igényről beszélt.\n\n• **Állattartók és árverseny** Magyar Péter közlése szerint a sertéstenyésztők és a gabonatermelők is szabályozott importot kértek. Szerinte a behozatal javíthatja a magyar sertéstenyésztők versenyképességét, akik a nyugat-európai versenytársaknál drágábban juthatnak takarmányhoz. Az olcsóbban érkező ukrán kukorica ugyanakkor a hazai termelőknek árversenyt jelenthet.\n\n• **Szállítási feltételek** Bidló szerint a behozatal megszervezéséhez vasúti és átrakókapacitásra, új vágányokra, valamint állandó szállítási útvonalakra is szükség lehet; ennek kiépítése akár öt évig tarthat. A szakértő szerint Ukrajna akár 22 millió tonna kukoricát is exportálhat, az európai igény pedig ezt is meghaladja.\n\n• **Sertéságazati változások** Bidló adatai szerint a magyar sertésállomány a rendszerváltás körüli nyolcmillióról hárommillió alá csökkent. A háztáji tartás visszaszorulásának egyik okaként az állatok gondozásával és a trágya elhelyezésével járó kötelezettségeket említette; közben a kis- és közepes üzemek száma is mérséklődött, a nagyüzemi tartás vált jellemzőbbé.\n\n• **Korábbi kormányzati álláspont** Az Agrár- és Élelmiszergazdaságért Felelős Minisztérium október végén azt közölte, hogy nem tervezi a tranzitszabályok módosítását vagy adminisztratív könnyítések bevezetését.",
     "importance_score": 38.0,
-    "top_rank": 35,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1863,7 +1894,7 @@
     "lead_hu": "November 6. és 15. között egy BabidiGhost álnevet használó támadó 82 flandriai önkormányzat mintegy 1,2 millió lakosának adataihoz jutott hozzá. A nyomozók szerint az elkövető korlátozott technikai tudását MI-eszközökkel egészítette ki, és egy szolgáltató védtelen szerverét támadta meg.",
     "content_hu": "• **Az elkövető és az érintettek** A BabidiGhost néven tevékenykedő támadó állítása szerint a Ghost Hunters nevű hackercsoporthoz tartozik. Az akció Belgium mind az öt flandriai tartományának 82 önkormányzatát és körülbelül 1,2 millió lakosát érintette.\n\n• **A szerver tartalma** A behatolás nem az önkormányzatok saját rendszereit célozta: a támadó egy szolgáltató szerveréhez fért hozzá, amely hulladékudvarokkal kapcsolatos információkat és jelszavakat is tárolt. A szerveren az ügyféladatok nem voltak elkülönítve, a fájlok pedig titkosítás nélkül maradtak.\n\n• **A megszerzett adatok** Az érintett információk között nevek, címek, születési dátumok, nemzeti nyilvántartási és személyazonosító számok, bankszámlaadatok, valamint egyes esetekben gépjárművek rendszámai szerepeltek.\n\n• **A támadó technikai tudása** A nyomozók szerint az elkövető nem rendelkezett magas szintű technikai ismeretekkel. A DeepSeek korlátozásainak kijátszása után egy digitális MI-asszisztenssel készíttetett kódot, amely régebbi szoftverek ismert sérülékenységeit használhatta ki az adatok megszerzéséhez; az asszisztens 5800 utasításból 41-et utasított el.\n\n• **A támadás súlya és az adatok sorsa** Geert Baudewijns, a Secutec vezetője az eddigi legnagyobb flandriai kibertámadásként értékelte az esetet, és az érintett adatok mennyiségét különösen jelentősnek nevezte. A Secutec elemzése alapján az ellopott információk már felkerültek a darkwebre.\n\n• **A szakértői figyelmeztetés** Samet Sazhak, a SOCRadar munkatársa arra hívta fel a figyelmet, hogy megfelelően védett MI-rendszerek hiányában a korábban nagy tapasztalatot igénylő támadásokhoz ma már kevesebb technikai felkészültség is elegendő lehet.",
     "importance_score": 38.0,
-    "top_rank": 36,
+    "top_rank": 37,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1904,7 +1935,7 @@
     "lead_hu": "A kormány rendkívüli parlamenti ülés összehívását kérte jövő keddre és szerdára. Ruff Bálint miniszterelnök-helyettes nyolc törvényjavaslat napirendre vételét javasolta, hogy azokat mielőbb elfogadhassák.",
     "content_hu": "• **A rendkívüli ülés terve** A kormány jövő keddre és szerdára kezdeményezte az Országgyűlés rendkívüli ülését; Ruff Bálint nyolc előterjesztés megtárgyalását kérte.\n\n• **A javaslatok témái** A képviselők kulturális intézményekről, a könyvpiac szabályozásáról, az állami vagyon védelméről, valamint egészségügyi, oktatási és gyermekügyi szabályokról is tárgyalhatnak.\n\n• **A hétfői ülés** A parlament elfogadott menetrendje szerint hétfőn 13 órakor is ülésezik. A programban napirend előtti felszólalások, kérdések és az azonnali kérdések órája szerepel.",
     "importance_score": 38.0,
-    "top_rank": 37,
+    "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1945,7 +1976,7 @@
     "lead_hu": "Magyar Péter a Szovjetunióba deportált magyar politikai foglyok és kényszermunkások emléknapján a 20. századi örökségről szólt. A kormányfő szerint a megbékéléshez a múlt eseményeinek feltárása és egymás tapasztalatainak meghallgatása is hozzátartozik.",
     "content_hu": "• **A megemlékezés** Magyar Péter a Szovjetunióba hurcolt magyar politikai rabok és kényszermunkások emléknapján beszélt a 20. század örökségéről.\n\n• **A megbékélés értelme** A kormányfő szerint a múlt sérelmeinek feldolgozása nem jelenti azok elfelejtését vagy a bűnök tagadását.\n\n• **Családi történetek** Magyar Péter arról is beszélt, hogy a felmenők múltját akkor is érdemes megismerni, ha abban nehéz vagy nem dicsőséges események szerepelnek.\n\n• **Más tapasztalatok meghallgatása** A megbékélés része, hogy az emberek figyelmet fordítsanak azokra is, akiknek a családja másként élte meg a történelmet.",
     "importance_score": 38.0,
-    "top_rank": 38,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1981,7 +2012,7 @@
     "lead_hu": "Kapitány István gazdasági és energetikai miniszter tájékoztatása szerint 4,7 milliárd köbméter földgáz van a hazai tárolókban. Ez a készlet önmagában 95 napig fedezhetné az ország teljes téli fogyasztását, a lakosságét pedig csaknem 200 napig.",
     "content_hu": "• **A tárolók töltöttsége meghaladja az uniós átlagot:** a magyarországi létesítmények 74 százalékon állnak, miközben az EU átlaga 69 százalék.\n\n• **4,7 milliárd köbméter gáz áll rendelkezésre:** a betárolt mennyiségből az ország teljes fogyasztása 95 téli napig lenne fedezhető; a háztartások igényeire közel 200 napra futná.\n\n• **Az ellátás több forrásra támaszkodik:** a tárolt földgáz mellett az import és a hazai kitermelés is segíti a fogyasztók ellátását.\n\n• **A kőolajkészleteket is feltöltötték:** az 1. forrás szerint október vége óta a biztonsági tartalék 90 napi import kiváltására elegendő.",
     "importance_score": 35.0,
-    "top_rank": 39,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2017,7 +2048,7 @@
     "lead_hu": "A vörös kód a téli krízisidőszakban, november 1. és április 30. között léphet életbe, ha a hőmérséklet tartósan mínusz 10 fok alá süllyed. Az intézkedés célja, hogy a rászorulók elhelyezéséről több egymásra épülő lépésben gondoskodjanak.",
     "content_hu": "• **A vörös kód feltétele** a tartósan mínusz 10 fok alatti hőmérséklet a november 1. és április 30. közötti téli krízisidőszakban.\n\n• **Elsőként éjjeli menedékhelyet vagy időszakos krízisférőhelyet biztosítanak** a hajléktalan embereknek.\n\n• **Férőhelyhiány esetén további elhelyezési lehetőségeket vonnak be:** előbb átmeneti szállást, majd szükség esetén tartós bentlakást nyújtó hajléktalanellátó intézményt.",
     "importance_score": 35.0,
-    "top_rank": 40,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2053,7 +2084,7 @@
     "lead_hu": "A mérések kezdete óta először hat egymást követő napon legalább 2 Celsius-fokkal haladta meg a Föld átlagos felszíni hőmérséklete az 1850–1900-as értéket. A rekord önmagában nem jelenti a párizsi klímacélok hosszú távú átlépését, de a kutatók szerint aggasztó jelzés.",
     "content_hu": "• **Rekordhosszúságú időszak** Hat egymást követő napon is legalább 2 Celsius-fokkal volt magasabb a globális átlaghőmérséklet az iparosodás előtti szintnél; ilyen még nem történt a mérések kezdete óta.\n\n• **Hétfői érték** A felszíni átlaghőmérséklet hétfőn 2,24 Celsius-fokkal haladta meg az 1850–1900-as átlagot. Az előrejelzések szerint a következő napokban is hasonlóan magas értékek várhatók.\n\n• **Korábbi időszakok** 2023 novemberében és 2024 februárjában is több napon át 2 fok feletti eltérést mértek, de egyik szakasz sem tartott ilyen sokáig.\n\n• **A felmelegedés okai** A kutatók az emberi tevékenység okozta klímaváltozás mellett az erős El Niño hatását is kiemelték. A jelenség átmenetileg tovább emelheti a globális átlaghőmérsékletet.\n\n• **Nem hosszú távú klímacélérték** A napi adatok nem jelentik önmagukban, hogy a párizsi klímaegyezmény hosszú távú hőmérsékleti céljai már teljesülhetetlenné váltak. Az El Niño és a szárazság ugyanakkor az indonéziai és amazóniai esőerdőkben is növelheti az erdőtüzek kockázatát.",
     "importance_score": 35.0,
-    "top_rank": 41,
+    "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2084,7 +2115,7 @@
     "lead_hu": "Donald Trump személyes közbenjárására az Nvidia alig két héttel a nemzetbiztonsági botrány miatti lemondása után visszahelyezte vezérigazgatói székébe Jensen Huangot, ami azonnali kétpárti felháborodá…",
     "content_hu": "Donald Trump személyes közbenjárására az Nvidia alig két héttel a nemzetbiztonsági botrány miatti lemondása után visszahelyezte vezérigazgatói székébe Jensen Huangot, ami azonnali kétpárti felháborodást váltott ki Washingtonban. A feltételezett kínai hírszerzési szálakkal és jogellenes chipátirányítással terhelt ügy rámutat az amerikai technológiai hegemónia legnagyobb paradoxonára - írja Carla Norrlöf, a Torontói Egyetem professzora. Miközben az Egyesült Államok az Nvidia révén tartja sakkban Kínát, a vállalat stratégiai nélkülözhetetlensége már magát az amerikai kormányt is gúzsba köti.",
     "importance_score": 35.0,
-    "top_rank": 42,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2115,7 +2146,7 @@
     "lead_hu": "A klubelnök markáns véleményt mondott a lex Kubatovról, és elszomorítónak tartja, hogy az összeomlás szélére került a női kézilabda.",
     "content_hu": "A klubelnök markáns véleményt mondott a lex Kubatovról, és elszomorítónak tartja, hogy az összeomlás szélére került a női kézilabda.",
     "importance_score": 35.0,
-    "top_rank": 43,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2146,7 +2177,7 @@
     "lead_hu": "Turisztikai szakemberek előtt vázolta fel a főváros idegenforgalmi ötleteit a főpolgármester.",
     "content_hu": "Turisztikai szakemberek előtt vázolta fel a főváros idegenforgalmi ötleteit a főpolgármester.",
     "importance_score": 35.0,
-    "top_rank": 44,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2182,7 +2213,7 @@
     "lead_hu": "Szerdán megérkezett az ungvári tüdőkórházba a Magyarország által Ukrajnának küldött gyógyszerszállítmány. A csaknem 95 millió forint értékű adomány egy mintegy egymilliárd forintos humanitárius segélycsomag része.",
     "content_hu": "• **A szállítmány értéke és tartalma** A csaknem 20 tonnányi adományban vérnyomáscsökkentők, fájdalom- és gyulladáscsillapítók, valamint vitaminok vannak.\n\n• **Átadás Ungváron** A gyógyszereket az ungvári tüdőkórháznál a beregszászi és az ungvári magyar külképviseletek képviselői adták át.\n\n• **A segély háttere** A szállítmány a Magyar Péter miniszterelnök és Volodimir Zelenszkij ukrán elnök keddi találkozóján bejelentett magyar humanitárius támogatás része. A készítményekből Kárpátalján kívül Ukrajna más térségeibe is juttatnak.",
     "importance_score": 35.0,
-    "top_rank": 45,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2218,7 +2249,7 @@
     "lead_hu": "Kigyulladt és teljesen kiégett egy gépkocsi a budapesti Soroksári úton, a Rákóczi híd alatt. A tűzoltók eloltották a lángokat, a beavatkozás idejére lezárták az érintett útszakaszt.",
     "content_hu": "• **A tűz helyszíne** A IX. kerületi Soroksári úton, a Rákóczi híd alatt, a városból kifelé vezető oldalon gyulladt ki az autó.\n\n• **Tűzoltás és lezárás** A fővárosi hivatásos tűzoltók megfékezték a lángokat; a munkálatok miatt lezárták az érintett útszakaszt.\n\n• **Utómunkálatok** A tűzoltók az oltás után utómunkálatokat végeztek, a helyszínre pedig a közösségi közlekedés és a vasúttársaság szakembereit is értesítették.",
     "importance_score": 35.0,
-    "top_rank": 46,
+    "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2255,7 +2286,7 @@
     "lead_hu": "A One Albania 120 napos engedélyt kapott a közvetlen műholdas mobilkapcsolat tesztelésére. A 4iG vállalata a SpaceX közreműködésével próbálja ki a megoldást, amely a hagyományos hálózatok által el nem ért területeken is biztosíthat kommunikációt.",
     "content_hu": "• **Engedély a tesztelésre** Az albán hírközlési hatóság jóváhagyásával a One Albania 120 napon át vizsgálhatja a Direct-to-Device technológiát. A szolgáltató a Nyugat-Balkánon elsőként kapott lehetőséget erre.\n\n• **Közvetlen műholdas kapcsolat** A kompatibilis mobiltelefonok külön műholdas készülék nélkül kapcsolódhatnak a SpaceX műholdjaihoz. A tesztben a One Albania által biztosított rádiófrekvenciákat használják.\n\n• **A meglévő hálózat kiegészítése** A technológia a bázisállomásokkal nem lefedett, például hegyvidéki és távoli területeken segítheti a kommunikációt, valamint növelheti a hálózat ellenálló képességét. A megoldás a hagyományos mobilhálózat kiterjesztésére szolgál.",
     "importance_score": 35.0,
-    "top_rank": 47,
+    "top_rank": 48,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2291,7 +2322,7 @@
     "lead_hu": "Az amerikai technológiai részvények gyengülése után az ázsiai piacokon is jelentős veszteségeket szenvedtek el az AI-iparághoz kötődő vállalatok. A befektetők egyre inkább azt mérlegelik, hogy a mesterséges intelligenciába irányuló hatalmas beruházások megtérülhetnek-e.",
     "content_hu": "• **Amerikai visszaesés** Szerdán az Nvidia és az Anthropic részvényei is estek, a Nasdaq pedig közel négy százalékot veszített értékéből. Más nagy technológiai vállalatok papírjai szintén gyengültek.\n\n• **Ázsiai eladási hullám** A japán AI-ellátási lánc cégei közül az Advantest árfolyama 13, a Tokyo Electroné 12,82, a SoftBank Groupé pedig 15 százalékkal csökkent.\n\n• **Megtérülési kérdések** A befektetői aggodalmak középpontjában az áll, hogy a nagy AI-beruházások hoznak-e megfelelő eredményt, és hosszabb távon fenntartható-e a kiadások üteme.\n\n• **További kockázatok** Elemzői felvetés szerint a kereslet tartóssága mellett az infrastruktúra finanszírozása és energiaellátása is bizonytalanságot jelent.",
     "importance_score": 35.0,
-    "top_rank": 48,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2332,7 +2363,7 @@
     "lead_hu": "A parlament kedden elfogadta a Tisza-kormány gazdasági reformcsomagjának egyes elemeit, amelyek adóemeléseket és új közterheket is tartalmaznak. A tervezett változások között szerepel a társasági adó kulcsának emelése és a vagyonadó bevezetése.",
     "content_hu": "• **Keddi döntés:** Az Országgyűlés a 2027-es költségvetéshez kapcsolódó adóintézkedések egy részét megszavazta.\n\n• **Társasági adó:** A nagyvállalatok adókulcsa a tervek szerint 9 százalékról 15 százalékra nő; a kormány ettől 140 milliárd forint többletbevételt vár.\n\n• **Vagyonadó:** Az egymilliárd forint feletti, egy főre jutó nettó vagyonrészre évi 1 százalékos, a 100 milliárd forint feletti részre pedig 1,5 százalékos adót javasolnak. A kormány becslése szerint mintegy 15 ezer adózót érinthet az intézkedés, és 200 milliárd forint bevételt hozhat.\n\n• **További változások:** A tervek között szerepel az innovációs járulék és a kiskereskedelmi adó egyik kulcsának emelése, valamint a látvány-csapatsportok tao-támogatási rendszerének megszüntetése.\n\n• **Fideszes összesítés:** A párt 26, a jövő évi költségvetéshez kapcsolódó adóemelést vagy új közterhet azonosított; ezek egy részéről már döntött a parlament.",
     "importance_score": 35.0,
-    "top_rank": 49,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2373,7 +2404,7 @@
     "lead_hu": "Az Országgyűlés kedden elfogadta az árréskorlátozás megszüntetéséről szóló javaslatot. Varga Mihály az érintett termékek korábbi árcsökkenésére hivatkozva úgy látja, hogy a korlátozás feloldása élénkítheti a versenyt, és középtávon mérsékelheti az árakat.",
     "content_hu": "• **Varga az árak mérséklődésére hivatkozott** Az MNB elnöke szerint a jegybank korábbi elemzései alapján az árrésstop alá tartozó termékek jellemzően olcsóbbá váltak, amiben a forint erősödése is szerepet játszhatott. Úgy véli, a korlátozás megszüntetése fokozhatja a versenyt, és idővel alacsonyabb fogyasztói árakat hozhat.\n\n• **A parlament elfogadta a kivezetésről szóló javaslatot** A korábbi szabályozás az érintett élelmiszerek esetében legfeljebb 10, a drogériai termékeknél pedig legfeljebb 15 százalékos árrést tett lehetővé. A változás a kereskedők készletezésére és saját márkás termékeire vonatkozó előírásokat is megszünteti.\n\n• **Az októberi adatok eltérő ármozgásokat mutattak** Az árréskorlátozással érintett élelmiszercsoportok közül a burgonya és az étolaj drágult, míg a legnagyobb árcsökkenést a húskonzerveknél mérték. A vaj, a gyümölcsök, a sertéshús és a sajt ára szintén visszaesett.\n\n• **Megoszlanak a várakozások a kivezetés hatásáról** Horthay Olivér fideszes képviselő további drágulásra számít, míg a kormány a verseny erősödésétől és a karácsonyi akcióktól vár kedvezőbb árakat. A Lidl üdvözölte a döntést, de közlése szerint a változás nem okoz érdemi fordulatot a vásárlók mindennapjaiban.",
     "importance_score": 33.0,
-    "top_rank": 50,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2414,7 +2445,7 @@
     "lead_hu": "Kedd délután füsttel telt meg egy nagykanizsai családi ház, miután a gyanú szerint a macska bekapcsolta a konyhai főzőlapot. A hazaérkező gyerekek riasztották a tűzoltókat; senki nem sérült meg.",
     "content_hu": "• **A gyerekek vették észre a füstöt**: a Törökvári utcai házba hazaérve értesítették a nagykanizsai tűzoltókat.\n\n• **A macska indíthatta be a főzőlapot**: a tűzoltók feltételezése szerint az állat bekapcsolta az elektromos készüléket, amelyen egy kenyérpirító vezetéke maradt; a vezeték elfüstölt.\n\n• **A házat kiszellőztették, sérülés nem történt**: a tűzoltók átszellőztették az ingatlant.\n\n• **Más helyeken is történt hasonló eset**: egy korábbi fehérvári lakástűznél a macska véletlenül bekapcsolhatta a főzőlapot, és az egész lakás kiégett. 2022-ben Győr-Moson-Sopron megyében egy macska által bekapcsolt tűzhely miatt egy serpenyőnyi zsír, majd a ház is kigyulladt. Ugyanabban az évben egy kispesti erőműben egy macska zárlatot okozott, de tűz és szolgáltatáskiesés nem történt.",
     "importance_score": 33.0,
-    "top_rank": 51,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2455,7 +2486,7 @@
     "lead_hu": "A Nemzeti Adatvédelmi és Információszabadság Hatóság összesen 22 millió forintra büntette az Oktatási Hivatalt két 2025-ös adatvédelmi incidens miatt. Az egyik támadás a kétszintű érettségi adatbázisát érintette.",
     "content_hu": "• **Két incidens történt 2025-ben** az Oktatási Hivatal rendszereit érintően; a NAIH ezek miatt összesen 22 millió forint bírságot szabott ki.\n\n• **Az érettségi adatbázisából mintegy félmillió ember adatai kerültek veszélybe**, köztük vizsgázóké és vizsgáztatóké. Az esethez körülbelül 12 millió személyes adat kapcsolódott.\n\n• **A hatóság 19 millió forintos bírságot szabott ki az érettségi rendszer ügyében.** A másik incidens miatt 3 millió forintos büntetést állapított meg.",
     "importance_score": 33.0,
-    "top_rank": 52,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2496,7 +2527,7 @@
     "lead_hu": "A 2027-es költségvetési terv a GDP 4,9 százalékára teszi a hiányt, ami illeszkedik a befektetői várakozásokhoz. Elemzői értékelés szerint a cél teljesítése és a következő évek hiánycsökkentése a forint árfolyamára is hatással lehet.",
     "content_hu": "• **A 2027-es hiánycél** A költségvetési terv a GDP 4,9 százalékával számol. Az Államadósság Kezelő Központ vezetője korábbi befektetői egyeztetések alapján úgy ismertette az elvárásokat, hogy az 5,5 százalék feletti érték csalódást keltene, az 5 százalék körüli hiány elfogadható, a 4,5 százalékos vagy annál alacsonyabb cél pedig kedvező meglepetés lenne.\n\n• **A hiány mérséklésének terve** Az elemzői számítás szerint a kormány az idei évre 7,5 százalékos deficitet jelez előre, miközben 2030-ra a GDP 3 százalékára kellene csökkenteni a hiányt, ami az euró bevezetésének egyik feltétele. Az értékelés szerint ezért 2027-ben hozzávetőleg 5, 2028-ban pedig 3 százalékos hiányra lenne szükség; 2029–2030-ban a választási év miatt kisebb mozgástérre számítanak a további csökkentéshez.\n\n• **A befektetői reakció** A költségvetés fő számainak október végi bemutatása után nem történt jelentős elmozdulás a forint árfolyamában. Regős Gábor ezt azzal hozta összefüggésbe, hogy a 4,9 százalékos cél megfelelt a piaci várakozásoknak.\n\n• **A forint árfolyamának alakulása** Egy másik forrás adatai szerint november 10-én 362,5 forintot ért egy euró, tíz nappal később pedig 373 forintot; a köztes napokban az árfolyam 370 alá is került, majd ismét 371 fölé emelkedett. A forint gyengülése a korábbi, 360–370 közötti mozgást követően következett be.\n\n• **A költségvetés teljesítésének jelentősége** Regős Gábor szerint a 4,9 százalékos hiány tényleges elérése támogathatja a forintot, az elmaradás viszont kedvezőtlenül hathat rá. A közgazdász a hazai tényezők között a jegybank működését és a költségvetést, a külső körülmények közül pedig az energiaárakat, a háborús fejleményeket és az euró–dollár árfolyamot emelte ki.\n\n• **A különadók kérdése** Regős Gábor a piaci megítélés szempontjából kedvezőtlennek nevezte, hogy nem indult el a különadók kivezetése, és egyes területeken emelésről határoztak.",
     "importance_score": 33.0,
-    "top_rank": 53,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2537,7 +2568,7 @@
     "lead_hu": "A bíróság a KBAZ Zrt.-t jelölte ki vagyonfelügyelőnek a Szatmári Konzervgyár csődeljárásában. A társaság legutóbbi, 2024 júliusától 2025 júniusáig tartó üzleti időszakában 17,4 milliárd forint árbevétel mellett 2,5 milliárd forintos veszteséget ért el.",
     "content_hu": "• **Vagyonfelügyelő:** A bíróság a KBAZ Zrt.-t bízta meg az eljárás levezénylésével. A csődeljárás alatt a társaságot hat hónapos fizetési haladék illeti meg, a munkabérekhez hasonló egyes kötelezettségekre azonban ez nem terjed ki.\n\n• **Romló pénzügyi eredmények:** A 2024. július és 2025. június közötti időszakban a vállalat nettó árbevétele 17,4 milliárd forint volt, szemben az előző szezon 20 milliárd forintot meghaladó forgalmával. Az előző időszakot még 72 millió forint nyereséggel zárták, a legutóbbit viszont 2,5 milliárd forintos veszteséggel.\n\n• **Állami befektetés:** A Magyar Fejlesztési Bank 2021-ben magántőkealapon keresztül 1,5 milliárd forintnyi tőkét juttatott a cégbe. A befektetést 8–10 éves időtávra, előre rögzített hozamelvárással és piaci feltételek szerint alakították ki.\n\n• **A nehézségek okai:** Az MFB tájékoztatása szerint a bérek és az energia árának emelkedése, valamint az aszályok kedvezőtlenül érintették a vállalat eredményeit. A HVG a termelési költségek növekedése mellett az alapanyag-ellátás időjárási problémáiról is beszámolt.\n\n• **Beszállítói bizonytalanság:** A termelők kifizetetlen számlákról jeleztek, és bizonytalanok abban, hogy a következő évben lesz-e felvásárlás, illetve érdemes-e vetniük.\n\n• **A gyár működése:** A tyukodi üzem mintegy 350 embert foglalkoztat, évente több mint 30 ezer tonna nyersanyagot dolgoz fel, és hozzávetőleg 100 millió terméket készít. A fogyasztók a Rege márkáról is ismerhetik a céget; termékei több mint 20 országba jutnak el.",
     "importance_score": 33.0,
-    "top_rank": 54,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2577,8 +2608,8 @@
     "title_hu": "Húszéves nő holttestét találták meg Szegeden",
     "lead_hu": "Egy húszéves nő holttestére bukkantak Szeged újszegedi városrészében, a Kockaház utcában. A rendőrség vizsgálja a haláleset körülményeit, és kizárta az idegenkezűséget.",
     "content_hu": "• **A megtalálás helye** A nőt egy Kockaház utcai lakásban találták meg, Szeged újszegedi városrészében.\n\n• **Rendőrségi vizsgálat** A hatóság közigazgatási eljárásban tárja fel a haláleset körülményeit; közlése szerint idegenkezűség nem merült fel.\n\n• **A helyszínre érkezők** Több rendőrautó és mentőegység is a helyszínre vonult.\n\n• **Mentőellátás** A mentők újraélesztést próbáltak alkalmazni, de a nő a helyszínen meghalt.\n\n• **Segítség krízis esetén** A 116-123-as telefonszámon ingyenesen kérhető lelki elsősegély.",
-    "importance_score": 33.0,
-    "top_rank": 55,
+    "importance_score": 30.0,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2619,7 +2650,7 @@
     "lead_hu": "A Nemzeti Nyomozó Iroda tájékoztatása szerint továbbra is hűtlen kezelés gyanúja miatt vizsgálják Koltay András korábbi, havi bruttó egymillió forintos MCC-s megbízását. Az ügyészség korábban megalapozatlannak ítélte a feljelentés elutasítását, és elrendelte az eljárás folytatását.",
     "content_hu": "• **Folyamatban lévő eljárás** A Nemzeti Nyomozó Iroda megerősítette, hogy továbbra is nyomoz a Koltay András MCC-s megbízásával összefüggő, hűtlen kezelés gyanúját érintő ügyben. Részleteket az eljárás érdekeire hivatkozva nem közölt.\n\n• **Havi egymillió forintos díjazás** Koltay az MCC Szólásszabadság Műhelyében dolgozott félállásban, havi bruttó egymillió forintért. A sajtóbeszámolók szerint ő volt a műhely egyetlen alkalmazottja.\n\n• **Az ügyészség elrendelte a nyomozás folytatását** Vadai Ágnes akkori országgyűlési képviselő beadványát Polt Péter feljelentésként továbbította a rendőrségnek. A nyomozó iroda 2024 októberében elutasította a feljelentést, a IX. kerületi ügyészség azonban megalapozatlannak találta a döntést, ezért folytatni kellett az eljárást.\n\n• **Koltay jelenlegi tisztsége** A korábbi NMHH-elnök jelenleg a Nemzeti Közszolgálati Egyetem kutatóprofesszora.",
     "importance_score": 30.0,
-    "top_rank": 56,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2660,7 +2691,7 @@
     "lead_hu": "November 25-én mindkét üzemanyagtípus olcsóbb lett az előző naphoz képest. A Holtankoljak adatai szerint a 95-ös benzin és a gázolaj literenkénti ára is 3 forinttal mérséklődött.",
     "content_hu": "• **November 25-i árváltozás** A 95-ös benzin literenként 3 forinttal került kevesebbe az előző naphoz képest.\n\n• **A gázolaj is olcsóbb lett** Literenkénti ára szintén 3 forinttal csökkent.\n\n• **Forrás** Az árváltozásról a Holtankoljak közölt adatokat.",
     "importance_score": 30.0,
-    "top_rank": 57,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2696,7 +2727,7 @@
     "lead_hu": "Az Európai Bizottság terve szerint az EU 2027-ben 45 milliárd euróval járulna hozzá Ukrajna finanszírozásához. Magyar Péter miniszterelnök jelezte, hogy Magyarország nem venne részt az összeg biztosításában, és a támogatást külön kezelné az unió hosszú távú költségvetésétől.",
     "content_hu": "• **A bizottsági terv** Ukrajna 2027-re becsült, mintegy 70 milliárd eurós finanszírozási hiányából 45 milliárdot fedezne uniós forrásból: 20 milliárd eurót költségvetési, 25 milliárdot katonai célokra szánnának. A támogatást Ukrajnának csak azután kellene visszafizetnie, hogy Oroszország megtérítette a háborús károkat.\n\n• **Magyarország álláspontja** Magyar Péter szerint Magyarország nem venne részt a 45 milliárd eurós finanszírozásban. A miniszterelnök azt javasolta, hogy a korábbi konstrukcióhoz hasonlóan az arra vállalkozó tagállamok biztosítsák az összeget.\n\n• **A költségvetési vita** Magyar Péter ellenzi, hogy Ukrajna támogatását összekapcsolják az EU következő hétéves költségvetésével. Az uniós vezetők a csúcstalálkozón a tervezett finanszírozásról és a hosszú távú költségvetési keretről is tárgyalnak.",
     "importance_score": 28.0,
-    "top_rank": 58,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2732,7 +2763,7 @@
     "lead_hu": "A rendőrség több vármegye településein tartott összehangolt akciót egy drogterjesztő hálózat ellen. A keddi rajtaütések során hat kilogramm kristályt foglaltak le, és 22 embert állítottak elő.",
     "content_hu": "• **Összehangolt akció** Pest, Bács-Kiskun, Heves és Jász-Nagykun-Szolnok vármegye rendőrei, a Készenléti Rendőrség és a Terrorelhárítási Központ munkatársai több helyszínen hajtottak végre házkutatást.\n\n• **Előállítások és őrizetbe vételek** A keddi intézkedések során 22 embert állítottak elő, közülük tízet őrizetbe vettek. Összesen 12 helyszínen tartottak házkutatást.\n\n• **A hálózat működése** A nyomozás adatai szerint a csoport Örkény, Táborfalva és Kecskemét térségében terjesztette a kábítószert; a hálózat tagjai között beszerzők, tárolók és értékesítők is voltak.\n\n• **Lefoglalt tárgyak** A rendőrök hat kilogramm kristály mellett két autót, fegyvernek látszó tárgyakat, készpénzt és elektronikai eszközöket is lefoglaltak.",
     "importance_score": 28.0,
-    "top_rank": 59,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2763,7 +2794,7 @@
     "lead_hu": "A Nemzeti Sport információi szerint már nem Bódog Tamás a Spartacus vezető edzője....",
     "content_hu": "A Nemzeti Sport információi szerint már nem Bódog Tamás a Spartacus vezető edzője.",
     "importance_score": 28.0,
-    "top_rank": 60,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2799,7 +2830,7 @@
     "lead_hu": "Andrij Szibiha ukrán külügyminiszter arról beszélt, hogy gyorsítanák a nyelvhasználati jogszabályok gyakorlati alkalmazását. A vállalást Magyar Péter is megerősítette.",
     "content_hu": "• **Gyorsabb végrehajtás** Andrij Szibiha közölte, hogy Ukrajna felgyorsítaná a parlament által elfogadott nyelvhasználati jogszabályok életbe léptetését.\n\n• **Már létezik jogi keret** A külügyminiszter szerint a szükséges szabályozási alap rendelkezésre áll, ezért az intézkedések rövidebb idő alatt is megvalósíthatók.\n\n• **Párbeszéd és együttműködés** Szibiha a kétoldalú egyeztetések és bizottságok szerepét is kiemelte a kölcsönös megértés és a kisebbségi jogok védelme érdekében.",
     "importance_score": 28.0,
-    "top_rank": 61,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2835,7 +2866,7 @@
     "lead_hu": "A Miniszterelnökség a bíróságon azzal érvelt, hogy nem adatkezelő a 4iG állami szerződéseinek ügyében. A 444 azért indított pert, mert a hivatal bűnüldözési érdekekre hivatkozva elutasította az ezekre vonatkozó adatigénylését.",
     "content_hu": "• **A felülvizsgálat bejelentése** Magyar Péter augusztusban közölte, hogy áttekintik az előző kormány 4iG-vel kötött szerződéseit; az intézkedésről kormányhatározat is született.\n\n• **Az adatigénylés elutasítása** A 444 azt kérdezte, mely szerződéseket és milyen értékben vizsgálják. A Miniszterelnökség bűncselekmények üldözésével vagy megelőzésével kapcsolatos érdekre hivatkozva nem adott tájékoztatást.\n\n• **A hivatal bírósági érvelése** A perben a Miniszterelnökség képviselője azt mondta, hogy a hivatal nem adatkezelő az érintett szerződések tekintetében. A 444 szerint ez azt jelenti, hogy a hivatal azok felsorolását sem tudja megadni.",
     "importance_score": 28.0,
-    "top_rank": 62,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2871,7 +2902,7 @@
     "lead_hu": "Az aszály miatt a 2026-os magyar cukorrépa-termés körülbelül 330 ezer tonnára esett vissza, ezért a kaposvári üzem nem működik teljes kapacitással. Az Agrana szóvivője a gyár bezárásáról szóló kérdésre azt válaszolta, hogy a lépés jelenleg nincs napirenden.",
     "content_hu": "• **Gyenge termés, mérsékeltebb feldolgozás** Az aszály következtében a cukorrépa hektáronkénti hozama hozzávetőleg 30–35 tonna volt, az országos termés pedig mintegy 330 ezer tonnát tett ki. Emiatt a kaposvári üzem nem használja ki teljes kapacitását.\n\n• **A bezárásról és a termelés szüneteltetéséről is érdeklődtek** A Sonline a Magyar Cukor Zrt.-t kérdezte arról, felmerült-e a kaposvári gyár bezárása vagy a termelés leállítása. Markus Simak, a tulajdonos Agrana szóvivője azt közölte, hogy a bezárás jelenleg nincs napirenden.\n\n• **A termesztők aggódnak az üzem jövője miatt** A Telex szerint a cukorrépa-termesztők veszélyben látják az ország egyetlen cukorgyárát. A Magyar Nemzet által ismertetett adatok alapján a Magyar Cukor Zrt. 2025-ben nem zárt sikertelen évet.\n\n• **Októberben indult a kampány** A Rail Cargo Hungaria október 22-én indította el Kaposvárra az első cukorrépát szállító vonatot. A vasúttársaság két hónap alatt körülbelül 195 ezer tonna alapanyag fuvarozását tervezte.\n\n• **Kaposváron működik az ország egyetlen cukorgyára** A rendszerváltás idején még 12 cukorgyár üzemelt Magyarországon. A kaposvári üzem éves cukortermelő kapacitása 125 ezer tonna; bezárása a hazai cukorgyártás végét jelentené.\n\n• **A termesztési kiadások a betakarítás előtt jelentkeznek** A vetőmag, a növényvédelem és a talajmunkák költségeit a gazdáknak már a betakarítás előtt viselniük kell. A gyengébb hozam kevesebb értékesíthető répát eredményez, a termesztési kedvet pedig az átvételi ár is befolyásolja.\n\n• **Visszaeshet az uniós cukortermelés** Az Európai Unió kibocsátása a 2026 októbere és 2027 szeptembere közötti gazdasági évben 16,58 millió tonnáról 12,90 millió tonnára csökkenhet, ami 22,2 százalékos mérséklődés. Az Európai Bizottság a kisebb vetésterületet, valamint a nyári hőség és aszály okozta hozamcsökkenést emelte ki; egy amerikai agrártárcai előrejelzés szerint a termelés a 2017-es kvótakivezetés óta a legalacsonyabb lehet.\n\n• **Külföldi alapanyag is szóba jöhet** A kaposvári üzem 2022-ben, az aszályos kampány idején Szlovákiából is vásárolt cukorrépát. Gyenge hazai termés esetén hasonló beszerzés ismét felmerülhet.",
     "importance_score": 28.0,
-    "top_rank": 63,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2907,7 +2938,7 @@
     "lead_hu": "Magyar Péter és Volodimir Zelenszkij kárpátaljai találkozóján ajándékot cserélt. Az ukrán elnök egy 1942-es újságpéldánnyal lepte meg a magyar miniszterelnököt, aki festményt és könyvet adott át neki.",
     "content_hu": "• **Zelenszkij ajándéka** Egy 1942 augusztusában megjelent Őslakó című hetilap példányát adta Magyar Péternek; a lapban hír jelent meg a miniszterelnök dédnagyapjának, Erőss Lajosnak a munkába állásáról.\n\n• **Magyar Péter ajándékai** A kormányfő Kopriva Attila, kárpátaljai magyar festő Munkács várát ábrázoló alkotását, valamint Magyar Árpád István magyar–ukrán kapcsolatok történetéről szóló könyvét nyújtotta át az ukrán elnöknek.\n\n• **A találkozó helyszíne** A két politikus Kárpátalján találkozott, és Ungvár mellett Beregszászra is ellátogatott.",
     "importance_score": 28.0,
-    "top_rank": 64,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2943,7 +2974,7 @@
     "lead_hu": "A Szatmári Konzervgyár Kft. saját kezdeményezésére csődeljárás indult, a bíróság pedig jóváhagyta a kérelmet. A vállalat 350 dolgozójának és a környékbeli termelőknek is bizonytalanságot okoz a gyár pénzügyi helyzete.",
     "content_hu": "• **Bírósági döntés:** A Szatmári Konzervgyár Kft. fizetési nehézségei miatt maga kérte a csődeljárás megindítását; a bíróság helyt adott a kérelemnek.\n\n• **A dolgozók és a termelők helyzete:** A vállalatnál 350 munkavállaló sorsa vált bizonytalanná. A környékbeli gazdálkodók közül többen kifizetetlen számlák miatt aggódnak, és azt sem tudják, hogy a gyár jövőre vásárol-e fel tőlük terményt.\n\n• **Fizetési haladék:** Az eljárás időt adhat a cégnek pénzügyei rendezésére és a hitelezőkkel való megállapodásra; a gyár működésének folytatása egy életképes terv kidolgozásától is függ.\n\n• **A vállalat korábbi mérete:** A Rege márkát is jegyző cég kedvezőbb időszakában mintegy 20 milliárd forintos éves árbevételt ért el, és évente több mint 30 ezer tonna alapanyagot dolgozott fel. Termékei közel húsz országba jutottak el.",
     "importance_score": 28.0,
-    "top_rank": 65,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2979,7 +3010,7 @@
     "lead_hu": "Az MVM Next felmondta a Masterplasttal kötött, hitelesített energiamegtakarítások átruházásáról szóló keretmegállapodást. A szerződés 2026. december 31-én szűnik meg; a konstrukciót eredetileg több mint tíz évre és 18 milliárd forintos keretösszeggel tervezték.",
     "content_hu": "• **A szerződés megszűnése** Az MVM Next a megállapodásban biztosított rendes felmondási jogával élt. A Masterplast közlése szerint az együttműködés 2026. december 31-én ér véget.\n\n• **A megállapodás célja** A Masterplast lakossági szigetelési programjaiban keletkező hitelesített energiamegtakarításokat értékesített volna az MVM Nextnek. A megállapodást 2025 szeptemberében kötötték, több mint tíz évre és 18 milliárd forintos keretösszeggel.\n\n• **A program háttere** A Masterplast áprilisban határozatlan időre felfüggesztette a Hungarocell Felújítási Programot, miután a műanyagipari alapanyagok drágulása miatt annak működtetése gazdaságilag fenntarthatatlanná vált.",
     "importance_score": 28.0,
-    "top_rank": 66,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3010,7 +3041,7 @@
     "lead_hu": "A nők elleni erőszak megszűntetésének világnap előtt közzétett adatok szerint az otthon továbbra is sokak számára a legveszélyesebb hely. Itt az új ENSZ-jelentés. The post Óránként átlagosan 5 nőt vag…",
     "content_hu": "A nők elleni erőszak megszűntetésének világnap előtt közzétett adatok szerint az otthon továbbra is sokak számára a legveszélyesebb hely. Itt az új ENSZ-jelentés. The post Óránként átlagosan 5 nőt vagy lányt öl meg a partnere vagy valamelyik családtagja first appeared on nlc.",
     "importance_score": 28.0,
-    "top_rank": 67,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3046,7 +3077,7 @@
     "lead_hu": "Rózsa András a kormánytól és a fővárostól azt kéri, hogy a magyar válogatott Puskás Arénában rendezett mérkőzéseire érkezők díjmentesen használhassák a közösségi közlekedést. A kedvezményt országos szinten vezetné be, de első lépésként a budapesti megoldást is elfogadhatónak tartja.",
     "content_hu": "• **A javaslat célja** Rózsa András szerint az ingyenes közlekedés mérsékelhetné a stadion környéki lakossági parkolóhelyek szurkolók általi igénybevételét, és az autózás helyett környezetbarát alternatívát kínálna.\n\n• **Országos kedvezmény** A zuglói polgármester azt szeretné, ha a meccsjegy a vidékről érkezők számára a vonatokon és távolsági buszokon is díjmentes utazást tenne lehetővé; első körben a budapesti közlekedés ingyenességét is előrelépésnek nevezte.\n\n• **Márciusi célidőpont** Rózsa azt szeretné, hogy a szurkolók a március végére tervezett, Szerbia elleni Nemzetek Ligája-osztályozóra már igénybe vehessék a kedvezményt.\n\n• **Korábbi egyeztetés** A polgármester októberben megkereste a Puskás Arénát üzemeltető Nemzeti Sportügynökséget; annak vezetője a kezdeményezés szándékával egyetértett.",
     "importance_score": 28.0,
-    "top_rank": 68,
+    "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3082,7 +3113,7 @@
     "lead_hu": "Jensen Huang 11 nap után ismét az Nvidia vezérigazgatója lett, a döntés azonban nem oszlatta el a vállalat körüli bizonytalanságot. Egy távozott mérnök utólag elhamarkodottnak nevezte a felmondását, miközben a cég előtt vizsgálati és vállalatirányítási kérdések állnak.",
     "content_hu": "• **Huang visszatérése** Az Nvidia igazgatótanácsa 11 nap után ismét Jensen Huangot nevezte ki a vállalat élére.\n\n• **Egy mérnök megbánta a távozást** Darrell Dai robotikai kutatómérnök Huang korábbi távozásának körülményei miatt mondott fel. Miután a vezérigazgató visszatért, úgy fogalmazott, talán túl gyorsan döntött; az Nvidia-állásába való visszatérés lehetőségét nyitva hagyta.\n\n• **Vizsgálatok és átláthatóság** A vállalat belső vizsgálata még folyamatban van, az amerikai hatóságok pedig az Nvidia chipjeinek állítólagos Kínába szállítását vizsgálják. A kémkedés gyanúja nem bizonyított, az érintett vállalat tagadja a jogsértést.\n\n• **További kérdések a cég körül** Az XTB szakértői szerint a vezetésnek a befektetői bizalom helyreállítása mellett vállalatirányítási és szabályozási kihívásokkal is foglalkoznia kell. A sajtóban megjelent, számviteli gyakorlatot érintő SEC-vizsgálatról szóló értesüléseket hivatalosan nem erősítették meg.",
     "importance_score": 28.0,
-    "top_rank": 69,
+    "top_rank": 70,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3118,7 +3149,7 @@
     "lead_hu": "A nők elleni erőszak megszüntetésének világnapján Fidesz- és KDNP-s politikusnők közös videóban fordultak a bántalmazottakhoz. Arra hívták fel a figyelmet, hogy a lelki bántalmazás is erőszak, és az érintetteknek érdemes segítséget kérniük.",
     "content_hu": "• **Közös videó** Fidesz- és KDNP-s képviselőnők üzentek a bántalmazottaknak a nők elleni erőszak megszüntetésének világnapján. A megszólalók között volt Koncz Zsófia, Máthé Zsuzsa, Juhász Hajnalka, Lezsák Anna és Szentkirályi Alexandra.\n\n• **A bántalmazás formái** A politikusok arra hívták fel a figyelmet, hogy az erőszak nemcsak fizikai, hanem lelki bántalmazást is jelenthet.\n\n• **Segítségkérés** A videóban arra biztatták az érintetteket, hogy forduljanak segítő szolgáltatásokhoz; az Országos Kríziskezelő és Információs Telefonszolgálatot is megemlítették.\n\n• **További teendők** A megszólalók szerint addig van feladat az áldozatvédelem területén, amíg akár egy nő sem érzi magát biztonságban.",
     "importance_score": 28.0,
-    "top_rank": 70,
+    "top_rank": 71,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3154,7 +3185,7 @@
     "lead_hu": "Lőrincz Viktória törvénymódosító javaslata visszaadná a magyar utónevek engedélyezésének jogát a Nyelvtudományi Kutatóközpontnak. A nemzetiségi utónévjegyzékeket ismét az érintett országos önkormányzatok állíthatnák össze.",
     "content_hu": "• **Módosítanák a 2025-ben bevezetett rendszert**: a szeptember 4-én hatályba lépett szabályozás a végső döntést a kultúráért felelős miniszterhez rendelte.\n\n• **A magyar utónevekről a kutatóközpont dönthetne**: a javaslat szerint az új nevek engedélyezése ismét a Nyelvtudományi Kutatóközpont hatáskörébe kerülne.\n\n• **A nemzetiségi névjegyzékeket az önkormányzatok készítenék**: az országos nemzetiségi önkormányzatok saját listájukat állíthatnák össze és tehetnék közzé.\n\n• **Lőrincz Viktória szerint a döntésnek szakmai alapokon kell állnia**: a miniszter a nyelvtudományi szempontokat, a közfelfogást, valamint a társadalmi és történelmi hagyományokat nevezte meg irányadóként.",
     "importance_score": 25.0,
-    "top_rank": 71,
+    "top_rank": 72,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3185,7 +3216,7 @@
     "lead_hu": "A Fidesz szerint ha azt akarjuk, hogy Magyarország vonzó legyen a befektetők számára, alacsony adók kellenek....",
     "content_hu": "A Fidesz szerint ha azt akarjuk, hogy Magyarország vonzó legyen a befektetők számára, alacsony adók kellenek.",
     "importance_score": 25.0,
-    "top_rank": 72,
+    "top_rank": 73,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3221,7 +3252,7 @@
     "lead_hu": "Tóth Áron szolnoki alpolgármester feljelentést tett ismeretlen tettes ellen, miután a város elesett az ipari park fejlesztésére szánt 1,44 milliárd forintos támogatástól. Szerinte a pályázat már benyújtásakor sem felelt meg az alapfeltételeknek.",
     "content_hu": "• **Elveszett támogatás** A Szolnoki Ipari Park Kft. pályázatához kapcsolódó 1,44 milliárd forintos fejlesztési forrás nem jut el a városhoz.\n\n• **Szerződés visszautasítása** A társaság november 4-én elállt a támogatási szerződéstől; Tóth Áron szerint a pályázat már eredetileg sem teljesítette a felhívás alapvető feltételeit.\n\n• **Feljelentés az ügyészségen** Az alpolgármester hűtlen vagy hanyag kezelés gyanújával fordult a Szolnoki Járási Ügyészséghez, és a felelősség, valamint a forrás visszaszerzésének lehetőségeinek vizsgálatát kérte.\n\n• **Önkormányzati álláspont** Szolnok önkormányzata közölte, hogy az ügy körülményeit teljes körűen tisztázni kell, és fontosnak tartja a közpénzek szabályos, átlátható felhasználását.",
     "importance_score": 23.0,
-    "top_rank": 73,
+    "top_rank": 74,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3252,7 +3283,7 @@
     "lead_hu": "The Hungarian PM would like to start a new chapter in relations with Ukraine and even played a game of volleyball with Zelensky – but beyond providing humanitarian aid, Hungary still doesn't support U…",
     "content_hu": "The Hungarian PM would like to start a new chapter in relations with Ukraine and even played a game of volleyball with Zelensky – but beyond providing humanitarian aid, Hungary still doesn't support Ukraine. The rapprochement between the two countries, however, will certainly continue.",
     "importance_score": 23.0,
-    "top_rank": 74,
+    "top_rank": 75,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3288,7 +3319,7 @@
     "lead_hu": "A Főpolgármesteri Hivatalban 100 álláshely megszüntetését tervezik, hogy hozzájáruljanak a személyi kiadások mérsékléséhez. A főváros 2027-re egymilliárd forintos csökkentést vállalt ezen a területen.",
     "content_hu": "• **Egymilliárdos cél** A Főpolgármesteri Hivatal 2027-ben egymilliárd forinttal mérsékelné a személyi jellegű kiadásait.\n\n• **Száz álláshely** A javaslat a hivatal jelenlegi 1071 álláshelyéből 100 megszüntetésével számol.\n\n• **A tervezett lépések** A leépítés részeként 36, legalább három hónapja betöltetlen pozíciót szüntetnének meg, emellett 65 munkavállaló elbocsátását tervezik 2027. március 1-jei hatállyal.\n\n• **Húszmilliárdos vállalás** Budapest a kormánnyal kötött megállapodás alapján 20 milliárd forinttal csökkentené működési kiadásait. A megtakarítás részleteiről a decemberi közgyűlésen tárgyalnak.",
     "importance_score": 23.0,
-    "top_rank": 75,
+    "top_rank": 76,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3324,7 +3355,7 @@
     "lead_hu": "November 19-ig 26, laborvizsgálattal igazolt mpox-fertőzést tartottak nyilván Magyarországon. Az Országos Népegészségügyi Intézet a korai tünetfelismerésre és az orvosi vizsgálat mielőbbi kérésére figyelmeztet; az oltóanyag beszerzése gyorsított eljárásban zajlik.",
     "content_hu": "• **Az idei esetszám november 19-ig 26 volt** Magyarországon. A 2022-es járvány idején 80 fertőzést regisztráltak, majd 2023-ban kettőt, 2024-ben hármat, 2025-ben pedig ötöt.\n\n• **A 46. héten öt férfinél igazolták a fertőzést**: négyen budapestiek voltak, egy beteg Csongrád-Csanád vármegyéhez kötődött, a legfiatalabb érintett 23 éves volt.\n\n• **A fertőzés belföldi terjedésével is számolnak a járványügyi vizsgálatok alapján.** A legtöbb esetet Budapesten találták, de több beteg hivatalos lakóhelye vidéken volt, ezért a megbetegedések nem mind kapcsolódhattak külföldi utazáshoz.\n\n• **A szoros testi kontaktus jelenti a fő átviteli kockázatot.** A fertőzött bőrelváltozásával való érintkezés, illetve az intim együttlét is terjesztheti a vírust; ritkábban szennyezett ágynemű vagy törölköző is közvetítheti. A fertőzöttek jellemzően szexuális partnereiknek adják tovább a betegséget, a nem szexuális kapcsolatban élő háztartástagok megfertőződése ritka.\n\n• **A kiütés a mpox legjellemzőbb tünete.** Bőr- vagy nyálkahártya-elváltozások mellett láz, fej- és izomfájdalom, levertség, illetve nyirokcsomó-duzzanat is jelentkezhet. A betegség általában két-négy hétig tart, és a bőrelváltozások gyógyulásáig fertőző lehet.\n\n• **Az Országos Népegészségügyi Intézet a tünetek korai felismerését és a mielőbbi orvosi vizsgálatot hangsúlyozza.** A hatóság fokozott óvatosságra int, az oltóanyag beszerzése pedig gyorsított eljárásban történik.",
     "importance_score": 23.0,
-    "top_rank": 76,
+    "top_rank": 77,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3360,7 +3391,7 @@
     "lead_hu": "Magyar Péter kárpátaljai látogatásán arról beszélt Volodimir Zelenszkij ukrán elnöknek, hogy a következő alkalommal szeretné újra látni a turulszobrot a munkácsi várban. Zelenszkij a közönség előtt arra kérte a helyi illetékeseket, kerítsék elő a szobrot, amelyet 2022-ben távolítottak el.",
     "content_hu": "• **A kárpátaljai fórumon került szóba a szobor** Magyar Péter azt mondta, reméli, hogy következő látogatásakor ismét a munkácsi várban láthatja a turult. Zelenszkij erre úgy reagált, hogy a helyi illetékeseknek meg kell találniuk a szobrot, mivel ígéretet tett a magyar miniszterelnöknek.\n\n• **A turult 2022-ben távolították el** A munkácsi várban álló szobrot a háború kitörése után szerelték le.\n\n• **A szobrot 2008-ban állították vissza** Az alkotás a szovjet időszakban semmisült meg; 1945-ben beolvasztották, majd több mint hat évtizeddel később került vissza a helyére.",
     "importance_score": 23.0,
-    "top_rank": 77,
+    "top_rank": 78,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3396,7 +3427,7 @@
     "lead_hu": "Hadházy Ákos a közösségi oldalán reagált a kedden elfogadott házszabály-módosításra. Szerinte az új rendelkezések szűkítik a képviselők felszólalási lehetőségeit, miközben a miniszterelnök megszólalási joga változatlanul korlátlan.",
     "content_hu": "• **A módosítás bírálata** Hadházy Ákos úgy látja, hogy az új szabályok korlátozzák az országgyűlési képviselők jogait, ezért a változtatásokat problémásnak tartja.\n\n• **A képviselők megítélése** A volt képviselő szerint a politikusok munkájáról a választóknak kell véleményt mondaniuk, nem a házelnöknek vagy a miniszterelnöknek.\n\n• **A közintézmények látogatása** Hadházy felidézte, hogy a 2020-as szabályozás korlátozta a képviselők szabad belépését a közintézményekbe. Álláspontja szerint ez megnehezítette a kormányzati munka ellenőrzését és az intézményekben tapasztalható körülmények feltárását.",
     "importance_score": 23.0,
-    "top_rank": 78,
+    "top_rank": 79,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3432,7 +3463,7 @@
     "lead_hu": "Az Agrana szóvivője cáfolta, hogy jelenleg tervben lenne a kaposvári cukorgyár leállítása. Az idei aszály ugyanakkor jelentősen csökkentette a hazai cukorrépa-termést, ezért az üzem a szokásosnál kisebb mennyiséget dolgoz fel.",
     "content_hu": "• **A bezárás nincs tervben** Markus Simak, az Agrana szóvivője arról tájékoztatott, hogy jelenleg nem szerepel a tervek között a kaposvári cukorgyár bezárása.\n\n• **Az aszály visszavetette a termést** A cukorrépa hektáronkénti hozama az idei szezonban 30–35 tonna körül alakult, a magyarországi össztermés pedig megközelítőleg 330 ezer tonna volt.\n\n• **A gyár kisebb kapacitással működik** A gyenge alapanyag-ellátás miatt a kaposvári üzem nem dolgozik teljes kapacitáson; az idei cukortermelés várhatóan 50–60 ezer tonna lehet.\n\n• **Csökkent a vetésterület** A cukorrépa idén valamivel több mint 10 ezer hektáron termett, szemben a korábbi évek mintegy 14 ezer hektárjával.",
     "importance_score": 23.0,
-    "top_rank": 79,
+    "top_rank": 80,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3468,7 +3499,7 @@
     "lead_hu": "Varga-Bajusz Veronikát nemrég a kiskunhalasi büntetés-végrehajtási intézetbe vitték át. Ügyvédje szerint ott rosszabb körülmények között tartják, és nem indokolt a letartóztatása.",
     "content_hu": "• **Kiskunhalasi elhelyezés** Varga-Bajusz Veronikát nemrég Kiskunhalasra szállították; ügyvédje, Balázs Dávid arról számolt be, hogy a cellájában nincs meleg víz, és a korábbiaknál kedvezőtlenebb körülmények közé került.\n\n• **Enyhébb intézkedés kérése** Balázs azt szeretné elérni, hogy védence letartóztatása helyett enyhébb kényszerintézkedést alkalmazzanak. Szerinte a rendelkezésre álló bizonyítékok nem indokolják a fogva tartást.\n\n• **A támogatások ügye** Az NKA egyik ideiglenes kollégiuma több mint 17 milliárd forint rendkívüli kulturális támogatást osztott szét. Az ügyészség szerint Varga-Bajusz pszichikai bűnsegédként működhetett közre, ügyvédje viszont azt állítja, hogy nem vett részt a döntésekben, és államtitkári feladatai a felsőoktatásra terjedtek ki.\n\n• **A védelem érvelése** Balázs szerint védence részletes vallomásokban tagadta érintettségét, és a kihallgatott tanúk, illetve terheltek sem támasztották alá, hogy szerepe lett volna a támogatások odaítélésében.",
     "importance_score": 23.0,
-    "top_rank": 80,
+    "top_rank": 81,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3499,7 +3530,7 @@
     "lead_hu": "",
     "content_hu": "",
     "importance_score": 23.0,
-    "top_rank": 81,
+    "top_rank": 82,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3535,7 +3566,7 @@
     "lead_hu": "A Reuters által megismert kínai hitelnyilvántartási adatok szerint Alice Huanghoz köthető vállalatok nagy teljesítményű szerverekkel és számítási modulokkal fedezett finanszírozást vontak be. Az érintett eszközök értéke összesen 270 millió dollár volt.",
     "content_hu": "• **764 szerver és számítási modul** szerepel a kínai jegybanki nyilvántartásban, összesen 270 millió dolláros értékkel; ezeket kínai mesterségesintelligencia-adatközpontok finanszírozásához használták fedezetként.\n\n• **A finanszírozásban Alice Huanghoz kapcsolódó vállalatok vettek részt.** A dokumentumok szerint Huang családjához és üzlettársaihoz köthető cégek is segítették a kínai AI-szektor eszközbeszerzését.\n\n• **2024 májusa és decembere között öt lízingügyletet kötöttek.** Ezek legfeljebb 512 szervert érintettek, mintegy 200 millió dollár értékben.\n\n• **Az amerikai kereskedelmi minisztérium feketelistára tette a Megaspeedet.** A vállalat tagadta a szabálytalanságokat, és azt közölte, hogy Alice Huang 2025 augusztusában távozott.\n\n• **Nem ismert, hogy a szerverekben voltak-e exportkorlátozás alá eső chipek.** A nyilvántartás arra sem ad választ, mikor és milyen módon jutottak az eszközök Kínába.",
     "importance_score": 23.0,
-    "top_rank": 82,
+    "top_rank": 83,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3571,7 +3602,7 @@
     "lead_hu": "Megkezdődött a 84. Golden Globe-díj jelöltjeiről szóló szavazás. Enyedi Ildikó Csendes barát című alkotása a legjobb drámai film és a legjobb nem angol nyelvű film kategóriájában is jelölést kaphat, a rendező neve pedig a rendezői mezőnyben is szerepel.",
     "content_hu": "• **Több kategóriában indulhat** A Variety által közzétett nevezési lista szerint a Csendes barát a legjobb drámai film díjára esélyes 88 alkotás között található, és a legjobb nem angol nyelvű film kategóriájában is szóba jöhet.\n\n• **Enyedi Ildikó a rendezők között** A 84. díjátadó rendezői kategóriájában 131 alkotó neve szerepel, köztük Enyedi Ildikóé.\n\n• **Megkezdődött a szavazás** A filmes és televíziós díjakról, valamint a podcastkategóriákról idén mintegy 500 fős nemzetközi újságírói testület dönt.",
     "importance_score": 23.0,
-    "top_rank": 83,
+    "top_rank": 84,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3607,7 +3638,7 @@
     "lead_hu": "Magyar Péter Volodimir Zelenszkij ukrán elnökkel folytatott találkozóján arról beszélt, hogy magyar katonák is segíthetnének a béke fenntartásában Ukrajnában. Példaként Koszovót és Bosznia-Hercegovinát említette.",
     "content_hu": "• **A találkozón elhangzott javaslat** Magyar Péter szerint a magyar katonák egy esetleges ukrajnai béke fenntartásában is részt vállalhatnának.\n\n• **Korábbi példák** A politikus Koszovót és Bosznia-Hercegovinát említette a békefenntartás lehetséges párhuzamaként.\n\n• **Ukrán csatlakozási törekvés** Volodimir Zelenszkij a találkozón Ukrajna európai uniós csatlakozási szándékáról is beszélt.",
     "importance_score": 23.0,
-    "top_rank": 84,
+    "top_rank": 85,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3643,7 +3674,7 @@
     "lead_hu": "A Semmelweis Egyetem kutatói által vizsgált mesterségesintelligencia-modellek egy fotó alapján is nagy pontossággal azonosították a pikkelysömört, és a betegség súlyosságát is megbecsülték. Az eredmények ígéretesek, de a kutatók figyelmeztetnek: az MI nem helyettesíti az orvosi vizsgálatot.",
     "content_hu": "• **A vizsgálat alapja** A kutatók 160 páciens 303 klinikai felvételét elemezték; ezek közül 163 pikkelysömört, 140 pedig hasonló megjelenésű esetet ábrázolt.\n\n• **A felismerés pontossága** A vizsgált modellek közül a ChatGPT-5 érte el a legjobb eredményt: 93,1 százalékos pontossággal ismerte fel a betegséget. A pikkelysömörös esetek súlyosságát 93,3 százalékban ítélte meg helyesen.\n\n• **A kezelési javaslatok korlátai** A ChatGPT-5 ajánlásai 83,7 százalékban feleltek meg a megfelelő kezelésnek, vagyis ezen a téren kevésbé bizonyult megbízhatónak.\n\n• **Orvosi ellenőrzés szükséges** Az MI-eszközök segíthetik az előzetes tájékozódást, de az önálló diagnózis kockázatos lehet, ezért nem válthatják ki az orvosi vizsgálatot.",
     "importance_score": 23.0,
-    "top_rank": 85,
+    "top_rank": 86,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3679,7 +3710,7 @@
     "lead_hu": "December 9-én rajtol a Nyerő Páros jubileumi, tizedik évada az RTL+ Premiumon. Sebestyén Balázs most vezeti utoljára a műsort, amelyben Kabát Péter ismét segíti a házigazdát.",
     "content_hu": "• **December 9-i premier** A tizedik évad dupla epizóddal kezdődik, majd minden szerdán új résszel folytatódik az RTL+ Premium felületén.\n\n• **Sebestyén Balázs búcsúja** A műsorvezető számára ez lesz az utolsó Nyerő Páros-évad; Kabát Péter ezúttal is közreműködik mellette.\n\n• **Párkapcsolati verseny** Nyolc ismert pár ügyességi, logikai és bátorságpróbákban, valamint stratégiai feladatokban mérkőzik meg a győzelemért.",
     "importance_score": 23.0,
-    "top_rank": 86,
+    "top_rank": 87,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3715,7 +3746,7 @@
     "lead_hu": "A NAV végrehajtást rendelt el Erdélyi Mónika vállalkozása, a MONDÉN STÚDIÓ Kft. ellen. Az eljárás okáról és az érintett összegről nincs nyilvános adat; a cég 2025-ben egymillió forintos veszteséggel zárta az évet.",
     "content_hu": "• **Végrehajtási eljárás** A nyilvános cégadatok szerint a NAV Pest Vármegyei Adó- és Vámigazgatóságának követeléskezelési osztálya októberben rendelt el végrehajtást a MONDÉN STÚDIÓ Kft. ellen. Az eljárás jelenleg is hatályos.\n\n• **Nem ismert ok és összeg** A végrehajtás részletei adótitoknak minősülnek. Az eljárás kisebb tartozás vagy késedelmes befizetés miatt is indulhat.\n\n• **Veszteséges év** A cég 2025-ös nettó árbevétele 16 millió forint volt, szemben a 2024-es 35 millióval. A vállalkozás 2025-öt egymillió forintos veszteséggel zárta, míg az előző évben 16 millió forint nyereséget ért el.\n\n• **Erdélyi Mónika a cég tulajdonosa** A 2005-ben alapított társaság egyedüli tulajdonosa a korábbi műsorvezető. A cég 2025 végén 41,8 millió forint saját tőkével és 46 millió forint pénzeszközzel rendelkezett.\n\n• **Nem kommentálta az ügyet** Erdélyi Mónika a sajtó megkeresésére nem kívánt nyilatkozni.",
     "importance_score": 23.0,
-    "top_rank": 87,
+    "top_rank": 88,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3752,7 +3783,7 @@
     "lead_hu": "Szerdán tovább gyengült a forint: az euró jegyzése délelőtt 373,5 forintig, a dolláré pedig 341,2 forintig emelkedett. A nemzetközi vámfenyegetések és a kamatvárakozások egyaránt nyomást gyakorolhatnak a magyar fizetőeszközre.",
     "content_hu": "• **Az euró árfolyama** szerda délelőtt 373,5 forintig emelkedett, miután kedden 369,68 forinton zárt. A forint hétfőn még erősödött, és 369 forint körüli szintre került.\n\n• **A dollárral szemben is gyengült** a magyar fizetőeszköz: a dollár jegyzése 341,2 forintra nőtt. November közepén még 328–332 forint között mozgott.\n\n• **Az amerikai vámtervek** fokozhatják a piaci bizonytalanságot. Az Egyesült Államok az Európai Uniót és Kínát is érintő vizsgálatot folytat ipari többletkapacitásokról, és ennek nyomán új vámokat vethet ki.\n\n• **A kamatkilátások szintén hatással lehetnek** a forintra: a piaci várakozások szerint az Egyesült Államokban ismét napirendre kerülhet a kamatemelés, míg a Magyar Nemzeti Bank a múlt heti, 5,5 százalékos alapkamatot fenntartó döntés után későbbi csökkentés lehetőségét is jelezte.",
     "importance_score": 23.0,
-    "top_rank": 88,
+    "top_rank": 89,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3788,7 +3819,7 @@
     "lead_hu": "A pakisztáni Ali a Sencsou–24 legénységével érkezett a Tienkung űrállomásra, és első külföldiként lépett a kínai létesítmény fedélzetére. Az út egyben azt is jelenti, hogy ő az első pakisztáni állampolgár, aki eljutott a világűrbe.",
     "content_hu": "• **Történelmi érkezés** Ali a Sencsou–24 háromfős legénységének tagjaként jutott el a kínai Tienkung űrállomásra; ezzel ő lett az első külföldi, aki a létesítmény fedélzetére lépett.\n\n• **Pakisztáni első** A 40 éves űrhajós az első pakisztáni állampolgár, aki elérte a Föld körüli pályát.\n\n• **Kínai társak** A küldetésen Ali mellett Tang Hongbo parancsnok és Wu Yi fedélzeti mérnök vesz részt.\n\n• **Rövid tartózkodás** Ali várhatóan körülbelül egy hetet tölt az űrállomáson, miközben a kínai legénység tagjai hosszabb időre maradnak.\n\n• **Kísérletek és üzemeltetés** A Sencsou-küldetések feladatai közé tartozik az űrállomás működtetése és karbantartása, valamint tudományos és technológiai kísérletek végzése.",
     "importance_score": 23.0,
-    "top_rank": 89,
+    "top_rank": 90,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3824,7 +3855,7 @@
     "lead_hu": "A magyar bankok szeptember végéig mintegy 1140 milliárd forint értékben kötöttek új személyikölcsön-szerződéseket. Ez az összeg már meghaladta a 2025-ös teljes évi adatot, miközben a pénzintézetek kamatcsökkentésekkel és akciókkal igyekeznek további ügyfeleket bevonni.",
     "content_hu": "• **Szeptember végéig 1140 milliárd forintnyi új hitel gyűlt össze**: az első kilenc hónap szerződésállománya közel 20 milliárd forinttal múlta felül a teljes 2025-ös összeget.\n\n• **A banki ajánlatok kamatai mérséklődtek**: több pénzintézetnél már 9,5 százalék alatti éves kamat is elérhető, a legalacsonyabb ajánlatok pedig megközelítették a 9 százalékot.\n\n• **Akciókkal is ösztönzik a hitelfelvételt**: egyes bankok jóváírást kínálnak, és a Black Friday, illetve a karácsony előtti időszak köré időzített konstrukciók is megjelentek.\n\n• **Az év végi kereslet tovább emelheti az éves összeget**: a várakozások szerint 2026-ban új csúcs születhet, a bővülést pedig az online ügyintézés, a reálbérek növekedése és a hitelkiváltások is segíthetik.",
     "importance_score": 23.0,
-    "top_rank": 90,
+    "top_rank": 91,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3860,7 +3891,7 @@
     "lead_hu": "Nagy Navarro Balázs büntetőfeljelentést kíván tenni a közmédia vezérigazgatójának kiválasztása miatt. A volt televíziós vezető vitatja saját kizárásának indokát, és Kert Attila pályázatával kapcsolatban is összeférhetetlenségi kérdéseket vetett fel.",
     "content_hu": "• **Feljelentési szándék** Nagy Navarro Balázs a közmédia vezérigazgatói pályázatának lebonyolítása miatt büntetőfeljelentést tervez tenni.\n\n• **A kizárás indoka** A volt külpolitikai vezető szerkesztőt arra hivatkozva zárták ki a jelöltek közül, hogy nem rendelkezik a szükséges gyakorlattal; ő ezt vitatja, és a jogorvoslat lehetőségét is elégtelennek tartja.\n\n• **Kert Attila szerepe** Nagy Navarro szerint a megválasztott vezérigazgató korábbi részvétele a médiatörvény módosítását előkészítő munkacsoportban összeférhetetlenségi kérdéseket vethet fel. Állítása szerint a pályázatot lebonyolító testületnek ezt vizsgálnia kellett volna, vagy Kert Attilának kellett volna jeleznie.\n\n• **További kifogások** Nagy Navarro úgy véli, egyes pályázók kizárása nem volt indokolt, és a pénzügyi dokumentáció sem részletezte kellően a tervezett kiadások célját. Attól is tart, hogy később nyilvános pályázat nélkül nevezhetnek ki további vezetőket.",
     "importance_score": 23.0,
-    "top_rank": 91,
+    "top_rank": 92,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3896,7 +3927,7 @@
     "lead_hu": "A Real Madrid 5–1-re legyőzte a PSV Eindhovent a Bajnokok Ligája alapszakaszának ötödik fordulójában, miután a szünetben még hátrányban volt. José Mourinho az első félidő teljesítményét bírálta, Jude Bellingham pedig góllal és két gólpasszal segítette csapatát.",
     "content_hu": "• **Fordítás a szünet után** A PSV Ivan Perišić büntetőjével szerzett vezetést az első félidőben, a Real Madrid azonban a folytatásban öt gólt lőtt, és 5–1-re nyert.\n\n• **Több gólszerző** Kylian Mbappé kétszer talált be, Federico Valverde, Jude Bellingham és Vinícius Júnior pedig egy-egy gólt szerzett.\n\n• **Bellingham közreműködése** Az angol középpályás egy gólja mellett két gólpasszt is adott. Mourinho kiemelte a játékos szerepét a fordításban.\n\n• **Mourinho bírálata** A vezetőedző elégedetlen volt az első félidővel, és elemzőivel olyan jeleneteket választott ki, amelyekkel megmutatta a csapatnak a javítandó hibákat.\n\n• **Hibátlan mérleg** A Real Madrid öt mérkőzés után 15 ponttal áll a BL-alapszakasz élén.",
     "importance_score": 23.0,
-    "top_rank": 92,
+    "top_rank": 93,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3932,7 +3963,7 @@
     "lead_hu": "Befejeződött a Curtis életét bemutató dokumentumfilm forgatása és utómunkája, a produkció archiválása jelenleg is zajlik. A bemutatóhoz még médiapartnert keresnek, ezért egyelőre nem ismert a premier dátuma.",
     "content_hu": "• **Elkészült a film** A Széki Attiláról, vagyis Curtisről szóló dokumentumfilm forgatása és utómunkája lezárult; a filmet jelenleg archiválják.\n\n• **Még nincs premierdátum** A gyártó médiapartnert keres a bemutatóhoz, és több televíziós csatornával is egyeztet.\n\n• **120 millió forintos támogatás** A produkció a Nemzeti Filmintézettől kapott támogatást a szerződés szerinti ütemezésben hívta le. A producer tájékoztatása szerint az intézet vezetésének változása nem okozott fennakadást.",
     "importance_score": 23.0,
-    "top_rank": 93,
+    "top_rank": 94,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3967,8 +3998,8 @@
     "title_hu": "Kábelrongálás okoz fennakadásokat a ceglédi vasútvonalon",
     "lead_hu": "Ismeretlen elkövető megrongálta a biztosítóberendezést Cegléd és Ceglédbercel-Cserő között, ezért lassabban járnak a vonatok. A helyreállítás szerda reggel még tartott; az utasok késésekre és járatkimaradásokra számíthatnak.",
     "content_hu": "• **Kábelrongálás:** Kedden elvágták a biztosítóberendezés vezetékeit a Cegléd és Ceglédbercel-Cserő közötti szakaszon.\n\n• **Folyamatban lévő javítás:** A kábelek cseréjét megkezdték, a helyreállítás befejezését szerda napközbenre várták.\n\n• **Késések és kimaradások:** Cegléd térségében a vonatok lassabban közlekednek, az utazóknak 20–30 perces késésekre, valamint egyes elővárosi járatok elmaradására kell készülniük.\n\n• **S50-es járatok:** A monori S50-es vonatoknál kisebb késésekre számítottak.",
-    "importance_score": 23.0,
-    "top_rank": 94,
+    "importance_score": 20.0,
+    "top_rank": 95,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4005,7 +4036,7 @@
     "lead_hu": "Felszámolás alá került a Dunaújvárosi Kohász Kézilabda Akadémia, miközben a klub működése és utánpótlásának jövője is bizonytalanná vált. Zubai Gábor vezetőedző elmondása szerint fél éve nem kap fizetést, a klub pedig nyílt levélben fordult segítségért.",
     "content_hu": "• **Felszámolás** Jogerősen elrendelték a Dunaújvárosi Kohász Kézilabda Akadémia Nonprofit Kft. felszámolását.\n\n• **Zubai Gábor helyzete** A felnőttcsapat vezetőedzője arról számolt be, hogy hat hónapja nem kap fizetést; a fiatal játékosok idényének befejezéséért dolgozik.\n\n• **Segítségkérés** A klub nyílt levélben fordult Magyar Péterhez, Kálnoki-Kiss Attilához, Nagy Ervinhez és a Magyar Kézilabda-szövetséghez, hogy biztosítsák az utánpótlásban sportoló gyermekek jövőjét.\n\n• **A folytatás célja** A klub munkatársai a dunaújvárosi kézilabda megmentésén és új alapokra helyezésén dolgoznak; a dolgozók a szezon hátralévő részében akár fizetés nélkül is vállalnák a munkát.",
     "importance_score": 20.0,
-    "top_rank": 95,
+    "top_rank": 96,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4036,7 +4067,7 @@
     "lead_hu": "Gyengült a forint szerda reggelre a főbb nemzetközi devizákkal szemben. Az euró közel egy forinttal drágult kedd estéhez képest, de a dollárért és a svájci frankért is többet kellett fizetni – közölte…",
     "content_hu": "Gyengült a forint szerda reggelre a főbb nemzetközi devizákkal szemben. Az euró közel egy forinttal drágult kedd estéhez képest, de a dollárért és a svájci frankért is többet kellett fizetni – közölte az MTI.",
     "importance_score": 20.0,
-    "top_rank": 96,
+    "top_rank": 97,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4072,7 +4103,7 @@
     "lead_hu": "Az ősz eddigi leghidegebb éjszakáján a HungaroMet valamennyi mérőállomásán fagypont alá süllyedt a hőmérséklet. Lénárddarócon mínusz 10,4, Zabaron mínusz 10,3 fokot regisztráltak.",
     "content_hu": "• **Lénárddarócon volt a leghidegebb:** A HungaroMet mérőállomásai közül itt mínusz 10,4 fokot mértek, Zabar értéke mínusz 10,3 fok volt.\n\n• **Országszerte fagyott:** A hideg éjszakán a szolgálat minden mérőállomásán fagypont alatti hőmérsékletet rögzítettek.\n\n• **Újabb fagyok várhatók:** A következő néhány éjszaka átmeneti enyhülése után a jövő héten ismét erős éjszakai lehűlésre lehet számítani.\n\n• **Csapadék érkezhet:** A szerdai előrejelzés több helyen havazást, egyes térségekben ónos esőt jelzett; néhol néhány centiméteres hótakaró is kialakulhat.",
     "importance_score": 20.0,
-    "top_rank": 97,
+    "top_rank": 98,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4108,7 +4139,7 @@
     "lead_hu": "Több, a Fideszhez kötődő közösségimédia-szereplő azt kifogásolja, hogy a párt a választási vereség után nem támogatja őket, miközben szerintük pénzt juttathat egy új jobboldali csatornának. A Helyzet azt közölte, hogy működését saját forrásból fedezi.",
     "content_hu": "• **A vita tárgya a Helyzet finanszírozása**: egyes fideszes influenszerek azt feltételezik, hogy a szeptember végén indult jobboldali csatorna párttámogatást kap, miközben ők nem részesülnek segítségben.\n\n• **Tóth Roland és Tóth Elizabeth is kérdéseket vetett fel**: a NarancsKommandóként ismert Tóth Roland videókban foglalkozott az ügy jóváhagyásával, a Dobbanjon mozgalom vezetője pedig szintén a feltételezett támogatást kifogásolta.\n\n• **A Helyzet cáfolta, hogy anyagi támogatást kapna**: közlése szerint a csatorna alapítói nem részesültek ilyen forrásban, és önállóan finanszírozzák a működést. A mögötte álló jogi személyt nem nevezték meg.\n\n• **Harazdy Eszter a csatorna riportere**: Rost Andrea, a Tisza Párt országgyűlési képviselője úgy fogalmazott, tiszteletben tartja lánya önálló politikai véleményét.",
     "importance_score": 20.0,
-    "top_rank": 98,
+    "top_rank": 99,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4139,7 +4170,7 @@
     "lead_hu": "Csaknem 40 százalékkal magasabb a magyar áfa az OECD-átlagnál....",
     "content_hu": "Csaknem 40 százalékkal magasabb a magyar áfa az OECD-átlagnál.",
     "importance_score": 20.0,
-    "top_rank": 99,
+    "top_rank": 100,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4175,7 +4206,7 @@
     "lead_hu": "Molnár György szombatról vasárnapra virradó éjjel megszédült vagy elájult, és a lépcsőn a félemeletről a földszintre zuhant. Az Omega gitárosának a háta fáj, de szeretne eljutni kisebbik fia közelgő szalagavatójára.",
     "content_hu": "• **A baleset körülményei** Molnár György otthonában, a lépcsőn vesztette el az eszméletét vagy szédült meg, majd a félemeletről a földszintre zuhant.\n\n• **Sérülései** A zenész beszámolója szerint csontja nem tört el, a hátát azonban erősen megütötte, és az esés óta nehezen mozog.\n\n• **Családi esemény** Molnár részt szeretne venni 18 éves fia, Zaránd közelgő szalagavatóján. Két héttel korábban idősebb fia, Álmos ünnepségén is ott volt.\n\n• **Korábbi egészségügyi problémák** A gitáros hét műtéten esett át, és korábban több mint fél évet töltött kórházban.",
     "importance_score": 20.0,
-    "top_rank": 100,
+    "top_rank": 101,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4211,7 +4242,7 @@
     "lead_hu": "Észak-Korea 48 órát adott a svájci diplomáciai képviselet vezetőjének az ország elhagyására. A lépés előzménye, hogy Svájc szankciókat vezetett be a Szongdovon Nemzetközi Gyermektábor ellen, amelynek szerepét ukrán gyermekek oroszországi átnevelésében vizsgálják.",
     "content_hu": "• **A svájci képviselet vezetőjének kiutasítása** Az észak-koreai külügyminisztérium nemkívánatos személynek nyilvánította a diplomatát, és 48 órás határidőt szabott az ország elhagyására.\n\n• **Svájci szankciók a gyermektábor ellen** Svájc intézkedéseket vezetett be a Szongdovon Nemzetközi Gyermektáborral szemben, mert álláspontja szerint az intézmény közreműködhet ukrán gyermekek Oroszország általi manipulatív nevelésében.\n\n• **Nemzetközi intézkedések** Az Európai Unió és az Egyesült Királyság korábban szintén szankciókat alkalmazott a táborral szemben. Svájc befagyasztotta a tábor külföldi vagyonát, vezetőinek pedig megtiltotta a beutazást.",
     "importance_score": 20.0,
-    "top_rank": 101,
+    "top_rank": 102,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4247,7 +4278,7 @@
     "lead_hu": "December 13-án indul a két város közötti, helyjegyes expresszbusz, amely kétóránként közlekedik majd. A járat az InterCity-vonatokkal váltja egymást, így óránként lesz közvetlen vasúti vagy buszos összeköttetés.",
     "content_hu": "• **December 13-i indulás** Vitézy Dávid közlekedési és beruházási miniszter bejelentése szerint ettől a naptól kétóránként jár majd az autópályát használó, helyjegyköteles expresszbusz Budapest és Pécs között.\n\n• **Útvonal és csatlakozás** A busz a Népligetből indul, Kelenföldet is érinti, Pécsen pedig a vasútállomás és az autóbusz-állomás közelében áll meg. Az InterCity-járatok menetrendjéhez igazítják, ezért a két város között óránként indul majd vonat vagy busz.\n\n• **Repülőtéri járatok** Hajnalban és késő este egy-egy busz a Liszt Ferenc repülőtérig is eljut, így a pécsi utasok a korai indulású, illetve a későn érkező gépekhez is kapcsolódást kapnak.\n\n• **Vasúti fejlesztések** A Budapest–Pécs vasútvonalon ősszel karbantartás kezdődik, az IC-k menetidejét pedig a pálya jelenlegi állapotához igazították. A miniszter szerint a vonal átfogó újjáépítése több évet igényel.",
     "importance_score": 20.0,
-    "top_rank": 102,
+    "top_rank": 103,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4283,7 +4314,7 @@
     "lead_hu": "A korlátozott készletek miatt átmenetileg csak kijelölt gyógyszertárakban lehet majd hozzájutni a Kreonhoz és a Pangrolhoz. Az intézkedés célja, hogy elsősorban a súlyosabb állapotú betegek kezeléséhez biztosítsák a gyógyszereket.",
     "content_hu": "• **Átmeneti korlátozás** A Kreon és a Pangrol nevű, hasnyálmirigy-enzimeket pótló készítményeket egy ideig kizárólag kijelölt patikákban lehet beszerezni. A gyógyszertárak jegyzékét a NEAK és az OGYI teszi közzé.\n\n• **A készletek elosztása** Az intézkedés a támogatott, magas lipázaktivitású pancreatint tartalmazó gyógyszerek korlátozott mennyiségének célzott felhasználását szolgálja. A készítményekhez az emelt vagy kiemelt társadalombiztosítási támogatásra jogosult betegek juthatnak hozzá.\n\n• **Eltérő hiányok állnak a háttérben** A Pangrol esetében hatóanyag-ellátási nehézségek merültek fel, a Kreonnál pedig több európai országot érintő gyártási korlátok és a kereslet növekedése okoz gondot. Az EMA tájékoztatása szerint a Kreonból 2027 első feléig újabb időszakos hiányok is előfordulhatnak.\n\n• **Súlyos betegségek kezelésére használják** A gyógyszerekre többek között cisztás fibrózisban, krónikus hasnyálmirigy-betegségben vagy hasnyálmirigyműtét után lehet szükség.",
     "importance_score": 20.0,
-    "top_rank": 103,
+    "top_rank": 104,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4314,7 +4345,7 @@
     "lead_hu": "A Google fokozatosan kivezeti régi okosotthonos szolgáltatásait, 2027 januárjában megszűnik a Nest alkalmazás, augusztusban pedig a Google Asszisztens is eltűnik a kompatibilis okoshangszórókról és ok…",
     "content_hu": "A Google fokozatosan kivezeti régi okosotthonos szolgáltatásait, 2027 januárjában megszűnik a Nest alkalmazás, augusztusban pedig a Google Asszisztens is eltűnik a kompatibilis okoshangszórókról és okoskijelzőkről.",
     "importance_score": 20.0,
-    "top_rank": 104,
+    "top_rank": 105,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4350,7 +4381,7 @@
     "lead_hu": "Beregszászon egyeztetett Magyar Péter és Volodimir Zelenszkij az ukrán–magyar kapcsolatokról. A megbeszéléseken a dízelszállítás, a kukorica, a vasút és a határátkelők fejlesztése is szóba került.",
     "content_hu": "• **Energetikai együttműködés** Zelenszkij ukrán dízeligényről beszélt; Magyar Péter szerint magyar vállalatok, köztük a Mol is értékesíthetnek többletterméket Ukrajnának.\n\n• **Kukorica** Magyar Péter közölte, hogy Magyarország lehetővé teszi az ukrán kukorica behozatalát; Zelenszkij szerint Ukrajna képes szállítani a terményből.\n\n• **Közlekedés és határátkelők** A felek vasútfejlesztésről, a Kijev és Budapest közötti kapcsolat bővítéséről, valamint a meglévő átkelők fejlesztéséről és újak megnyitásáról is tárgyaltak.\n\n• **Humanitárius segítség és kisebbségi jogok** Magyar Péter mintegy egymilliárd forint értékű segítségről és egy, a 2026-os költségvetésből létrehozandó szociális-fejlesztési alapról beszélt. Kitért arra is, hogy fontosnak tartja a nemzeti jelképek és az anyanyelv használatának biztosítását a kisebbségek számára.\n\n• **Magyarországi meghívás** Magyar Péter meghívta Volodimir Zelenszkijt Magyarországra.",
     "importance_score": 20.0,
-    "top_rank": 105,
+    "top_rank": 106,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4386,7 +4417,7 @@
     "lead_hu": "Egy félresiklott pénzszállító-rablás után fegyveresek menekültek egy cartagenai szupermarketbe, ahol mintegy harminc embert tartottak fogva. A hatóságok lezárták a környéket, a város repülőterén pedig szüneteltették a forgalmat.",
     "content_hu": "• **A túszejtés előzménye** A fegyveresek először egy pénzszállító jármű kirablásával próbálkoztak, majd Cartagena egyik szupermarketében ejtettek foglyul vásárlókat és dolgozókat.\n\n• **A fogvatartottak és a követelés** A beszámolók szerint körülbelül harminc embert tartottak túszul, közülük öt idősebb nőt már elengedtek. A támadók hétmilliárd kolumbiai pesót és szabad elvonulást követeltek.\n\n• **A hatósági intézkedések** A rendőrség és a tengerészgyalogosok a helyszínen intézkedtek, az áruház környékét lezárták, a repülőtéri forgalmat pedig felfüggesztették.",
     "importance_score": 20.0,
-    "top_rank": 106,
+    "top_rank": 107,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4645,32 +4676,6 @@
     "title_hu": "„Hol a busz?” – kérdezhetik a budaiak most, hogy itt a hóhelyzet",
     "lead_hu": "Karácsony Gergely kedden jelentette be, hogy készenlétben vannak a várható havazás miatt. A budai oldalon azonban így is komoly fennakadásokat okozott a hóesés....",
     "content_hu": "Karácsony Gergely kedden jelentette be, hogy készenlétben vannak a várható havazás miatt. A budai oldalon azonban így is komoly fennakadásokat okozott a hóesés.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_e49c8493e5",
-    "slug": "vitezy-szerint-olyan-reg-kocsi-is-volt-a-mezokvesdi-vonatbalesetnel-ami-el-tud-i-e49c84",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261125/1795636895-temp-e8p9a6asbghaalicjmk_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Vitézy szerint olyan öreg kocsi is volt a mezőkövesdi vonatbalesetnél, ami el tud indulni nyitott ajtóval",
-        "link": "https://telex.hu/belfold/2026/11/25/vitezy-david-mezokovesdi-vonatbaleset-oreg-intercity-kocsik"
-      }
-    ],
-    "published_at": 1795637718,
-    "title_hu": "Vitézy szerint olyan öreg kocsi is volt a mezőkövesdi vonatbalesetnél, ami el tud indulni nyitott ajtóval",
-    "lead_hu": "Egy fiatal nő az elsődleges információk szerint beakadt az ajtóba, ez okozta életveszélyes sérülését....",
-    "content_hu": "Egy fiatal nő az elsődleges információk szerint beakadt az ajtóba, ez okozta életveszélyes sérülését.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -19335,58 +19340,6 @@
     "title_hu": "Orbán Viktor páncélozott BMW-je is feltűnt Magyar Péter ukrajnai delegációjában + videó",
     "lead_hu": "Vajon idén is írni fog róla a 444 és a HVG?",
     "content_hu": "Vajon idén is írni fog róla a 444 és a HVG?",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_2f83d7ac9c",
-    "slug": "rijad-legmagasabb-felhokarcolojat-tamadtak-a-huszi-2f83d7",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fc5fadde-3354-4c8c-9510-77eced06bcaa.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Világ",
-        "title": "Rijád legmagasabb felhőkarcolóját támadták a húszik, 11-en megsebesültek",
-        "link": "https://hvg.hu/vilag/20261124_rijad-tamadas-legmagasabb-felhokarcolo-szaud-arabia-huszik-terroristak-terrortamadas"
-      }
-    ],
-    "published_at": 1795553558,
-    "title_hu": "Rijád legmagasabb felhőkarcolóját támadták a húszik, 11-en megsebesültek",
-    "lead_hu": "A terroristák pár napon belül másodjára vették célpontba a PIF-tornyot, ami a szaúdi vagyonkezelői alap központja.",
-    "content_hu": "A terroristák pár napon belül másodjára vették célpontba a PIF-tornyot, ami a szaúdi vagyonkezelői alap központja.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_c16b65c70b",
-    "slug": "kznsegtalalkozo-a-polgari-mulatoban-c16b65",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.magyarnemzet.hu/2026/11/H-v57zyuqsSf0n2g4z6FmgFEKI1Re3f5KB5msyh2rgI/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjQvMTg2YTljYjkwZjU4MWZhNTE2YmRhZDAzOTc1Njc3NjQ5YTExOGE1OGJmMTJjYmMxOGU3ZDliZjRjNmFiYWU1Mg.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Közönségtalálkozó a Polgári Mulatóban",
-        "link": "https://magyarnemzet.hu/bayer-zsolt-blogja/2026/11/kozonsegtalalkozo-polgari-mulato-dr-bogar-laszloval-toth-mateval-es-bayer-zsolttal?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-      }
-    ],
-    "published_at": 1795553513,
-    "title_hu": "Közönségtalálkozó a Polgári Mulatóban",
-    "lead_hu": "Háttérkép Extra közönségtalálkozó Dr. Bogár Lászlóval, Tóth Mátéval és Bayer Zsolttal.",
-    "content_hu": "Háttérkép Extra közönségtalálkozó Dr. Bogár Lászlóval, Tóth Mátéval és Bayer Zsolttal.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
