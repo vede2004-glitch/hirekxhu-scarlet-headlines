@@ -140,54 +140,6 @@
     ]
   },
   {
-    "group_id": "group_a691c9d474",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Lepusztult fő- és haldokló mellékvonalak: a magyar vasút még mindig tűpontosan írja le az ország állapotát",
-        "link": "https://telex.hu/karakter/konyvespolc/2026/11/24/charles-bukowski-harlan-coben-szabo-t-anna-nagy-jozsef-friss-konyvmegjelenesek",
-        "image": "https://assets.telex.hu/images/20261124/1795524160-temp-6t6cfuki96np2djimfi_cimlap-normal.jpg",
-        "summary": "Önbizalomhiány, gőg, ellentmondások és elhivatottság. A szenvedélyes olvasó, az őszinte bestselleríró és illúzióktól mentesen szemlélt nyomorúságos világ. Heti könyvajánló.",
-        "category": "Politika",
-        "published_at": 1795534260
-      }
-    ]
-  },
-  {
-    "group_id": "group_fd6ea48844",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Cumisüveggel nevelték fel az árva vadmalacot a magyar menhelyen - A TordasZoo Állatmentő Farmon jártunk",
-        "link": "https://femina.hu/bcs/tordas-zoo-allatmenhely-video-viczian-viktoria/",
-        "image": "https://femina.hu/neon/media/renditions/438/438938/9ec507393315f655.jpg",
-        "summary": "Viczián Viktóriával a TordasZoo Állatmentő Farmon jártunk, ahol a páváktól a szürkemarhákig rengetegféle állat talált otthonra, és hasznos állattartási tanácsokat is kaptunk.",
-        "category": "Bulvár",
-        "published_at": 1795534381
-      }
-    ]
-  },
-  {
-    "group_id": "group_2b63126960",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Bejelentették a SopronFest első fellépőit, nem maradunk le a legnagyobb magyar sztárokról",
-        "link": "https://index.hu/kultur/2026/11/24/sopronfest-fellepok-koncert-fesztival/",
-        "image": "https://kep.index.hu/1/0/7032/70320/703200/70320063_5187923_d46ecfcd927289ec9036201e144b261b_wm.jpg",
-        "summary": "Erős év lesz 2027 Sopronban.",
-        "category": "Általános",
-        "published_at": 1795534620
-      }
-    ]
-  },
-  {
     "group_id": "group_6bfd3fc083",
     "category": "Politika",
     "articles_count": 1,
@@ -12175,6 +12127,70 @@
         "summary": "Rosszindulatú felek tették be a lábukat a Deichmann IT-rendszereibe. E-mail-címekhez, telefonszámokhoz és más adatokhoz is hozzáférhettek.",
         "category": "Kultúra",
         "published_at": 1795620185
+      }
+    ]
+  },
+  {
+    "group_id": "group_bee440b6f2",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Őssejtterápiára járó kislány családjának az autóját törte össze egy 14 éves fiú",
+        "link": "https://index.hu/belfold/2026/11/25/szerencs-borsod-abauj-zemplen-megye-onga-kisbusz-auto-utkozes/",
+        "image": "https://kep.index.hu/1/0/7270/72704/727048/72704877_5356433_c7ba36349d5c068fa283af11ac6fa558_wm.png",
+        "summary": "Adománygyűjtést indított az önkormányzat.",
+        "category": "Általános",
+        "published_at": 1795620720
+      }
+    ]
+  },
+  {
+    "group_id": "group_0979c44751",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Védvonal: Különös kegyetlenséggel folytatott kényszervallatás Varga-Bajusz Veronika kiskunhalasi fogvatartása",
+        "link": "https://hvg.hu/itthon/20261125_fidesz-vedvonal-czunyine-bertalan-judit-varga-bajusz-veronika-kenyszervallatas-bortonbuntetes",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c0e68375-2698-4453-8337-40c45febab0b.jpg",
+        "summary": "Czunyiné Bertalan Judit szerint azok a börtönkörülmények, amelyekről Varga-Bajusz Veronika volt államtitkár védője beszámolt, elfogadhatatlanok. A fideszes politikus a legfőbb ügyészhez fordult.",
+        "category": "Politika",
+        "published_at": 1795620909
+      }
+    ]
+  },
+  {
+    "group_id": "group_063e1e8c7f",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Gyilkosságról beszélt a chatbottal, elvitte a rendőrség – tényleg meg tudja jósolni az AI, hogy kiből lesz bűnelkövető?",
+        "link": "https://hvg.hu/360/20261125_miert-nem-tudja-megjosolni-a-mesterseges-intelligencia-hogy-kibol-lesz-bunelkoveto",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/32e67af6-1221-4eb5-9c25-1a807cd94d66.png",
+        "summary": "Legdiszkrétebb bizalmasunknak tűnhet a mesterséges intelligencia, pedig nemcsak meghallgatja legsötétebb gondolatainkat is, hanem akár a hatóságokat is értesíti azokról. Ilyen esetre már Magyarországon is volt példa. De akkor miért nem tartunk még ott, hogy minden erőszakos bűncselekmény megelőzhető legyen? Pszichológus ügyvédet kérdeztünk.",
+        "category": "Politika",
+        "published_at": 1795620600
+      }
+    ]
+  },
+  {
+    "group_id": "group_ff76424618",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Közel 30 millió új AKKO-részvény érkezik a magyar tőzsdére",
+        "link": "https://www.portfolio.hu/befektetes/20261125/kozel-30-millio-uj-akko-reszveny-erkezik-a-magyar-tozsdere-879110",
+        "image": "https://pcdn.hu/articles/images-xl/s/z/g/szg-9345-872770.jpg",
+        "summary": "Közel 30 millió új AKKO-törzsrészvényt vezetnek be a Budapesti Értéktőzsde Prémium kategóriájába, miután a társaság meghatározó tulajdonosa, a WING Csoporthoz tartozó Mevinvest kezdeményezte korábban lejegyzett részvényeinek átalakítását. A tranzakcióval a tőzsdére bevezetett törzsrészvények száma közel 75 százalékkal emelkedik, a társaság alaptőkéje és a szavazatok száma azonban változatlan marad. A nagytulajdonos idén ősszel egymilliárd forint friss tőkével is támogatta az AKKO növekedési stratégiájának megvalósítását.",
+        "category": "Gazdaság",
+        "published_at": 1795620540
       }
     ]
   }
