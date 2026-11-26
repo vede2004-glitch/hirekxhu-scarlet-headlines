@@ -41,22 +41,6 @@
     ]
   },
   {
-    "group_id": "group_d3beb7e6bd",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Elfogadták a szabályokat, amelyekkel mérsékelné az EU a gyógyszerhiányt",
-        "link": "https://telex.hu/kulfold/2026/11/25/eu-europai-parlament-gyogyszerhiany-kritikus-fontossagu-gyogyszerek",
-        "image": "https://assets.telex.hu/images/20261125/1795640414-temp-ovj267jf1gcubohbaim_cimlap-normal.jpg",
-        "summary": "Többek között külön projektekkel, közös beszerzéssel kezelnék a helyzetet.",
-        "category": "Politika",
-        "published_at": 1795640782
-      }
-    ]
-  },
-  {
     "group_id": "group_56cb18bde7",
     "category": "Kultúra",
     "articles_count": 1,
@@ -13391,7 +13375,7 @@
         "image": "https://raketa.hu/uploads/2026/11/semmelweis.jpg",
         "summary": "A Semmelweis Egyetem szakemberei szerint a ChatGPT-5 szinte tökéletesen felismeri a pikkelysömört, de még nem bízhatjuk rá magunkat.",
         "category": "Kultúra",
-        "published_at": 1795726985
+        "published_at": 1795727360
       }
     ]
   },
@@ -13561,6 +13545,54 @@
         "summary": "Egyelőre még a kedvezményezettek névsora sem ismert.",
         "category": "Gazdaság",
         "published_at": 1795726511
+      }
+    ]
+  },
+  {
+    "group_id": "group_19729885b4",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Paralimpikon lett az amerikai Dancing with Stars győztese",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/26/paralimpikon-lett-az-amerikai-dancing-with-stars-gyoztese/",
+        "image": "https://kep.index.hu/1/0/7271/72714/727146/72714631_e5cc18fd9a43578e1b6651f35fcc78af_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1795727170
+      }
+    ]
+  },
+  {
+    "group_id": "group_f17908746c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Tarr Zoltán minisztériuma a kifizetés előtt újra átnézi a Nagy Ervinék által odaítélt kulturális támogatások teljes folyamatát",
+        "link": "https://telex.hu/karakter/kultura/2026/11/26/tarr-zoltan-miniszterium-kifizetes-atnezi-nagy-ervin-kulturalis-tamogatas-harom-milliard-forint",
+        "image": "https://assets.telex.hu/images/20261126/1795726896-temp-0m6hhavih51n0pddmnp_cimlap-normal.jpg",
+        "summary": "A kulturális szakma több képviselője is kifogásolta a támogatások odaítélésének átláthatóságát.",
+        "category": "Politika",
+        "published_at": 1795727289
+      }
+    ]
+  },
+  {
+    "group_id": "group_b53c6146c8",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Félelmetes belegondolni, hogy már egyetlen űrrobbanás is napok alatt használhatatlanná tehetné a műholdak szinte teljes állományát, miközben a támadó saját rendszereit is elpusztítaná",
+        "link": "https://raketa.hu/egyetlen-atomrobbanas-az-urben-megbenithatja-a-muholdakat/",
+        "image": "https://raketa.hu/uploads/2026/11/GettyImages-172241148-supernova-2.jpg",
+        "summary": "Egy friss kutatás szerint már egyetlen, alacsony Föld körüli pályán felrobbantott nukleáris töltet is olyan mesterséges sugárzási övet hozna létre, amely napokon belül használhatatlanná tenné a műholdak szinte teljes állományát.",
+        "category": "Kultúra",
+        "published_at": 1795727360
       }
     ]
   }
