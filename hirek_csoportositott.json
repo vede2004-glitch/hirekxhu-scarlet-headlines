@@ -16,83 +16,6 @@
     ]
   },
   {
-    "group_id": "group_0f2c62814b",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "A röplabdameccsnek vége. Magyar Péternek most válaszolnia kell",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/tisza-kormany-kamerak-mogott-szamonkeres",
-        "image": "https://cdn.hirtv.hu/2026/11/qnKgVx0a2EZI_NS9bPAqVdMyadMwJyri5BconP-pcMA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhmNTAyMDVlNDFlZDQxYTM4ODliMWYwMTQ0ZTZkZmMx.jpg",
-        "summary": "Ukrajna, adóemelések és közpénzek: a Tisza döntéseinek mérlege.",
-        "category": "Politika",
-        "published_at": 1795637281
-      }
-    ]
-  },
-  {
-    "group_id": "group_f636325b52",
-    "category": "Gazdaság",
-    "articles_count": 6,
-    "articles": [
-      {
-        "source": "Portfolio - Befektetés",
-        "title": "Nagy tétekben játszik Elon Musk: egymillió műholdat küldene az űrbe",
-        "link": "https://www.portfolio.hu/befektetes/20261125/nagy-tetekben-jatszik-elon-musk-egymillio-muholdat-kuldene-az-urbe-879186",
-        "image": "https://pcdn.hu/articles/images-xl/s/p/a/spacex-logo-872860.jpg",
-        "summary": "Elon Musk milliárdos üzletember magán űrvállalata, a SpaceX engedélyt kapott szerdán egy egymillió műholdból álló hálózat kiépítésére az űrben működő adatközpontok számára.",
-        "category": "Gazdaság",
-        "published_at": 1795636980
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Az amerikai kormányzat jóváhagyta, hogy Elon Musk adatközpontokat telepíthessen az űrbe",
-        "link": "https://telex.hu/techtud/2026/11/25/az-amerikai-hatosagok-engedelyeztek-a-tervet-amely-alapjan-elon-musk-adatkozpontokat-telepithet-az-urbe",
-        "image": "https://assets.telex.hu/images/20261125/1795642348-temp-hfko7863to989okngac_cimlap-normal.jpg",
-        "summary": "Az FCC egymillió Starmind-műholdat engedélyezett, ebből 100 ezret legkésőbb 2035 novemberéig kell telepíteni.",
-        "category": "Politika",
-        "published_at": 1795642362
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Egymillió műholdat telepíthet a Föld köré a SpaceX",
-        "link": "https://24.hu/tech/2026/11/26/egymillio-muhold-telepitese-spacex/",
-        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2299248528-e1795676596536-1024x577.jpg",
-        "summary": "Elon Musk űrcége, a SpaceX 2035-re állíthatja pályára az első 100 ezer műholdat a Starmind konstellációhoz, amely űrbéli adatközpontok létrehozására szolgál. The post Egymillió műholdat telepíthet a Föld köré a SpaceX first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795676799
-      },
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Megvan az engedély, 1 millió műholdat telepíthet a Föld köré a SpaceX",
-        "link": "https://hvg.hu/tudomany/20261126_spacex-muholdak-adatkozpont-starmind",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b1ecc80e-fd98-441d-a0f2-6860254db939.jpg",
-        "summary": "Elon Musk cége, a SpaceX Starmind néven hozná létre azt a műholdas hálózatot, ami adatközpontként üzemelne.",
-        "category": "Kultúra",
-        "published_at": 1795687380
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Példátlan engedélyt kapott Elon Musk: egymillió műholdon épülhetnek AI-adatközpontok",
-        "link": "https://index.hu/techtud/2026/11/26/spacex-engedely-muhold-adatkozpont-elon-musk-mesterseges-intelligencia-starmind/",
-        "image": "https://kep.index.hu/1/0/7270/72709/727093/72709369_5356719_355049e53ca313ebe40b28c231c03db8_wm.jpg",
-        "summary": "Úgy látják, a Starmind közelebb hozza az emberiséget egy Kardasev II-es civilizációhoz.",
-        "category": "Kultúra",
-        "published_at": 1795693620
-      },
-      {
-        "source": "HWSW",
-        "title": "Megvan az engedély, Elon Musk az űrbe viheti az AI-adatközpontjait",
-        "link": "https://www.hwsw.hu/hirek/71256/elon-musk-spacex-starmind-ai-adatkozpont-muhold-fcc-engedely.html",
-        "image": "",
-        "summary": "Több fontos piaci szereplő is ellenezte az ötletet, de egyelőre zöld utat kaptak a SpaceX elképzelései.",
-        "category": "Kultúra",
-        "published_at": 1795704002
-      }
-    ]
-  },
-  {
     "group_id": "group_ef023e23af",
     "category": "Politika",
     "articles_count": 4,
@@ -492,6 +415,58 @@
         "summary": "A Microsoft fokozatosan felszámolja a Windows régi technológiáit, a Windows Server 2028 már nem tartalmazza majd alapértelmezés szerint a 32 bites alkalmazások futtatásához szükséges kompatibilitási réteget.",
         "category": "Kultúra",
         "published_at": 1795645439
+      }
+    ]
+  },
+  {
+    "group_id": "group_f636325b52",
+    "category": "Politika",
+    "articles_count": 5,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Az amerikai kormányzat jóváhagyta, hogy Elon Musk adatközpontokat telepíthessen az űrbe",
+        "link": "https://telex.hu/techtud/2026/11/25/az-amerikai-hatosagok-engedelyeztek-a-tervet-amely-alapjan-elon-musk-adatkozpontokat-telepithet-az-urbe",
+        "image": "https://assets.telex.hu/images/20261125/1795642348-temp-hfko7863to989okngac_cimlap-normal.jpg",
+        "summary": "Az FCC egymillió Starmind-műholdat engedélyezett, ebből 100 ezret legkésőbb 2035 novemberéig kell telepíteni.",
+        "category": "Politika",
+        "published_at": 1795642362
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Egymillió műholdat telepíthet a Föld köré a SpaceX",
+        "link": "https://24.hu/tech/2026/11/26/egymillio-muhold-telepitese-spacex/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-2299248528-e1795676596536-1024x577.jpg",
+        "summary": "Elon Musk űrcége, a SpaceX 2035-re állíthatja pályára az első 100 ezer műholdat a Starmind konstellációhoz, amely űrbéli adatközpontok létrehozására szolgál. The post Egymillió műholdat telepíthet a Föld köré a SpaceX first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795676799
+      },
+      {
+        "source": "HVG - Tudomány & Tech",
+        "title": "Megvan az engedély, 1 millió műholdat telepíthet a Föld köré a SpaceX",
+        "link": "https://hvg.hu/tudomany/20261126_spacex-muholdak-adatkozpont-starmind",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b1ecc80e-fd98-441d-a0f2-6860254db939.jpg",
+        "summary": "Elon Musk cége, a SpaceX Starmind néven hozná létre azt a műholdas hálózatot, ami adatközpontként üzemelne.",
+        "category": "Kultúra",
+        "published_at": 1795687380
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Példátlan engedélyt kapott Elon Musk: egymillió műholdon épülhetnek AI-adatközpontok",
+        "link": "https://index.hu/techtud/2026/11/26/spacex-engedely-muhold-adatkozpont-elon-musk-mesterseges-intelligencia-starmind/",
+        "image": "https://kep.index.hu/1/0/7270/72709/727093/72709369_5356719_355049e53ca313ebe40b28c231c03db8_wm.jpg",
+        "summary": "Úgy látják, a Starmind közelebb hozza az emberiséget egy Kardasev II-es civilizációhoz.",
+        "category": "Kultúra",
+        "published_at": 1795693620
+      },
+      {
+        "source": "HWSW",
+        "title": "Megvan az engedély, Elon Musk az űrbe viheti az AI-adatközpontjait",
+        "link": "https://www.hwsw.hu/hirek/71256/elon-musk-spacex-starmind-ai-adatkozpont-muhold-fcc-engedely.html",
+        "image": "",
+        "summary": "Több fontos piaci szereplő is ellenezte az ötletet, de egyelőre zöld utat kaptak a SpaceX elképzelései.",
+        "category": "Kultúra",
+        "published_at": 1795704002
       }
     ]
   },
@@ -12287,7 +12262,7 @@
   {
     "group_id": "group_67821c50e6",
     "category": "Politika",
-    "articles_count": 5,
+    "articles_count": 6,
     "articles": [
       {
         "source": "444.hu",
@@ -12333,6 +12308,15 @@
         "summary": "A miniszterelnököt kapcsolati erőszak és zsarolás miatt jelentették fel.",
         "category": "Politika",
         "published_at": 1795721387
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Elutasította az ügyészség a volt fideszest, aki zsarolás és kapcsolati erőszak miatt jelentette fel Magyar Pétert",
+        "link": "https://24.hu/belfold/2026/11/26/magyar-peter-feljelentes-elutasitas-ugyeszseg/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1152542111-e1795723166523-1024x577.jpg",
+        "summary": "Ékes Ilona Varga Judit bizottsági meghallgatása után jelentette fel a miniszterelnököt. The post Elutasította az ügyészség a volt fideszest, aki zsarolás és kapcsolati erőszak miatt jelentette fel Magyar Pétert first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1795723181
       }
     ]
   },
@@ -13420,6 +13404,22 @@
         "summary": "Paige Spiranac hosszú ideje a golfvilág egyik legnépszerűbb női influenszere, ám egyre komolyabb kihívója akad. Katie Sigmond merész fotóival és milliós követőtáborával hívja fel magára a figyelmet, a két szőke szépség között pedig már a rivalizálás is téma lett.",
         "category": "Bulvár",
         "published_at": 1795723200
+      }
+    ]
+  },
+  {
+    "group_id": "group_cfc180ca32",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Reagált a Waberer's a minisztériumi átvilágításra",
+        "link": "https://www.portfolio.hu/gazdasag/20261126/reagalt-a-waberers-a-miniszteriumi-atvilagitasra-879520",
+        "image": "",
+        "summary": "Jogszerűnek nevezte a Magyar Postát érintő korábbi ügyleteit a Waberer's Csoport, amely közleményben reagált Kapitány István gazdasági és energetikai miniszter bejelentésére. A tárcavezető az állami vállalat átvilágítása után hűtlen kezelés gyanúja miatt tett feljelentést ismeretlen tettes ellen, két olyan tranzakciót is megemlítve, amelyekben a cégcsoport érdekeltségei szerepeltek.",
+        "category": "Politika",
+        "published_at": 1795723560
       }
     ]
   }
