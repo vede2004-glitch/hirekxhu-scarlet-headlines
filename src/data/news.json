@@ -388,7 +388,7 @@
     "image": "https://assets.telex.hu/images/20261125/1795585420-temp-82o978um6sps3epggae_cimlap-normal.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "Telex - Belföld",
@@ -419,13 +419,18 @@
         "source": "ATV",
         "title": "Folytatódik a téli időjárás, egyes helyeken 10 centinél is több hó hullhat",
         "link": "https://www.atv.hu/belfold/20261126/idojaras-10-centi-ho-hull/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Két megyére is kiadták a figyelmeztetést, akár 10 centiméter hó hullhat",
+        "link": "https://index.hu/belfold/2026/11/26/idojaras-elorejelzes-radar-eso-homerseklet-felhozet-szellokesek/"
       }
     ],
     "published_at": 1795667700,
     "title_hu": "Havazás és ónos eső érkezik több térségbe",
     "lead_hu": "Szerdán délnyugat felől csapadékzóna halad át az országon, amely több helyen havat, havas esőt vagy esőt hozhat. A Bakonyban, estétől pedig a főváros környékén is kialakulhat ónos eső.",
     "content_hu": "• **Csapadék és felhőzet:** Délnyugat felől növekszik a felhőzet, a nap nagy részében borult vagy erősen felhős idő várható. A délnyugati és nyugati tájakon eső, másutt havazás, havas eső és helyenként ónos eső is előfordulhat.\n\n• **Havazás:** Több helyen néhány centiméteres hóréteg alakulhat ki. A fővárostól északra fekvő magasabban fekvő területeken ennél több hó is eshet.\n\n• **Ónos eső:** Elsősorban a Bakonyban, később a főváros térségében és a Dunántúl északkeleti részén lehet számítani rá.\n\n• **Hőmérséklet és szél:** A nappali csúcshőmérséklet 0 és 5 fok között alakulhat. A délkeleti, keleti szél többfelé megélénkülhet, késő estére pedig mínusz 2 és plusz 3 fok közé hűlhet le a levegő.",
-    "importance_score": 75.0,
+    "importance_score": 85.0,
     "top_rank": 6,
     "is_top_hero": false,
     "is_top_list": true
@@ -2935,7 +2940,7 @@
     "title_hu": "Több megyében csaptak le egy drogterjesztő hálózatra",
     "lead_hu": "A rendőrség több vármegye településein tartott összehangolt akciót egy drogterjesztő hálózat ellen. A keddi rajtaütések során hat kilogramm kristályt foglaltak le, és 22 embert állítottak elő.",
     "content_hu": "• **Összehangolt akció** Pest, Bács-Kiskun, Heves és Jász-Nagykun-Szolnok vármegye rendőrei, a Készenléti Rendőrség és a Terrorelhárítási Központ munkatársai több helyszínen hajtottak végre házkutatást.\n\n• **Előállítások és őrizetbe vételek** A keddi intézkedések során 22 embert állítottak elő, közülük tízet őrizetbe vettek. Összesen 12 helyszínen tartottak házkutatást.\n\n• **A hálózat működése** A nyomozás adatai szerint a csoport Örkény, Táborfalva és Kecskemét térségében terjesztette a kábítószert; a hálózat tagjai között beszerzők, tárolók és értékesítők is voltak.\n\n• **Lefoglalt tárgyak** A rendőrök hat kilogramm kristály mellett két autót, fegyvernek látszó tárgyakat, készpénzt és elektronikai eszközöket is lefoglaltak.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
@@ -4135,6 +4140,58 @@
     "top_rank": 100,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_241f46b0d1",
+    "slug": "moszkva-az-energiahalozatot-tamadja-a-tel-elott-kijev-olajfinomitokra-csapott-le-241f46",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://kep.index.hu/1/0/7270/72708/727087/72708719_5356679_47511f3cde607eeba8e92a5f1989054b_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Moszkva az energiahálózatot támadja a tél előtt, Kijev olajfinomítókra csapott le válaszul",
+        "link": "https://index.hu/kulfold/2026/11/26/oroszorszag-ukrajna-haboru-energiahalozat-titkosszolgalat/"
+      }
+    ],
+    "published_at": 1795669980,
+    "title_hu": "Moszkva az energiahálózatot támadja a tél előtt, Kijev olajfinomítókra csapott le válaszul",
+    "lead_hu": "Az Index napi összefoglalója az orosz–ukrán háború eseményeiről....",
+    "content_hu": "Az Index napi összefoglalója az orosz–ukrán háború eseményeiről.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_b21298518a",
+    "slug": "eldolt-magyarorszag-vegleg-elvesztett-800-milliard-forint-unios-penzt-orban-vikt-b21298",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://cdn.vg.hu/2026/11/UnEqmt9K5Zlwk4rv1wZrvA5B-s5fy7kKpORn6Bqnzw0/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI2LzliM2MwOTQwNDYxNzZlN2FmYjVhNjViZmFlOWE4OGE5MzQ5NDVjNjQzNmZmNGEyNTkwNjk5NTE4MzAzZTYyZjQ.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Eldőlt: Magyarország végleg elvesztett 800 milliárd forint uniós pénzt, Orbán Viktor hiába kínált megoldást a Tiszának – Manfred Weberék felelnek érte Győri Enikő szerint",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/unios-penzt-vesztett-a-tisza-orban-viktor-manfred-weber?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795669800,
+    "title_hu": "Eldőlt: Magyarország végleg elvesztett 800 milliárd forint uniós pénzt, Orbán Viktor hiába kínált megoldást a Tiszának – Manfred Weberék felelnek érte Győri Enikő szerint",
+    "lead_hu": "Győri Enikő közösségi oldalán számolt be....",
+    "content_hu": "Győri Enikő közösségi oldalán számolt be.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_d702b99c63",
@@ -19029,58 +19086,6 @@
     "title_hu": "Bejelentette Lőrincz Viktória: nagy változás jön a névadásokban Magyarországon",
     "lead_hu": "A névadás korábbi gyakorlatának visszaállítását Lőrincz Viktória vidék- és településfejlesztési miniszter jelentette be.",
     "content_hu": "A névadás korábbi gyakorlatának visszaállítását Lőrincz Viktória vidék- és településfejlesztési miniszter jelentette be.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_8ea1e8c6b4",
-    "slug": "ellatasi-nehezsegek-miatt-korlatozzak-ket-hasnyalm-8ea1e8",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/7268/72687/726871/72687181_5355205_6d519547ef285b7f3d5e524f20a80548_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Ellátási nehézségek miatt korlátozzák két hasnyálmirigy-gyógyszer elérhetőségét",
-        "link": "https://index.hu/belfold/2026/11/25/kreon-pangrol-gyogyszerek-egeszsegugyi-miniszterium-kijelolt-patikak-eleres/"
-      }
-    ],
-    "published_at": 1795583700,
-    "title_hu": "Ellátási nehézségek miatt korlátozzák két hasnyálmirigy-gyógyszer elérhetőségét",
-    "lead_hu": "Csak kijelölt patikákban lehet hozzájuk jutni.",
-    "content_hu": "Csak kijelölt patikákban lehet hozzájuk jutni.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_70ab7a4b55",
-    "slug": "megszolalt-a-kereskedelmi-szvetseg-az-arresstop-ki-70ab7a",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://kep.index.hu/1/0/6973/69730/697306/69730673_5145297_31ed6a3424bd2801854199d5b972adab_wm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Index - Címlap",
-        "title": "Megszólalt a kereskedelmi szövetség az árrésstop kivezetéséről",
-        "link": "https://index.hu/gazdasag/2026/11/25/arresstop-orszagos-kereskedelmi-szovetseg-vasarlok-karacsony-akcio/"
-      }
-    ],
-    "published_at": 1795583640,
-    "title_hu": "Megszólalt a kereskedelmi szövetség az árrésstop kivezetéséről",
-    "lead_hu": "Szerintük a vásárlók járnak jól.",
-    "content_hu": "Szerintük a vásárlók járnak jól.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
