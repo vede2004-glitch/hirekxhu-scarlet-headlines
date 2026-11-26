@@ -64,38 +64,6 @@
     ]
   },
   {
-    "group_id": "group_a4876d9d2e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "3500 éves kardot találtak, a mükénéi civilizáció készíthette",
-        "link": "https://24.hu/tudomany/2026/11/25/3500-eves-kard-mukenei-civilizacio/",
-        "image": "https://s.24.hu/app/uploads/2026/11/895149999_10165530819067509_6333713715397881587_n-1024x576.jpg",
-        "summary": "Több bronzkori fegyver is előkerült egy észak-macedóniai tó mellett, amelyek érdekes kapcsolatokra utalhatnak az európai közösségek között. The post 3500 éves kardot találtak, a mükénéi civilizáció készíthette first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795613096
-      }
-    ]
-  },
-  {
-    "group_id": "group_cb8b0a1dd9",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HWSW",
-        "title": "Az Apple már a saját AI-ügynökén dolgozhat, de sokat kell még várni",
-        "link": "https://www.hwsw.hu/hirek/71247/apple-ios-siri-ai-agent-automatizalas.html",
-        "image": "",
-        "summary": "A jelek szerint komoly tervei vannak az almás vállalatnak a mesterséges intelligencia további hasznosításával.",
-        "category": "Kultúra",
-        "published_at": 1795613225
-      }
-    ]
-  },
-  {
     "group_id": "group_be6565490b",
     "category": "Általános",
     "articles_count": 1,
@@ -299,19 +267,42 @@
     ]
   },
   {
-    "group_id": "group_28e8b2d134",
-    "category": "Politika",
-    "articles_count": 7,
+    "group_id": "group_9d6a410db6",
+    "category": "Kultúra",
+    "articles_count": 1,
     "articles": [
       {
-        "source": "Portfolio - Gazdaság",
-        "title": "Trump lecsap az EU-ra, Kínára és a legfontosabb partnereire – új frontot nyit",
-        "link": "https://www.portfolio.hu/gazdasag/20261125/trump-lecsap-az-eu-ra-kinara-es-a-legfontosabb-partnereire-uj-frontot-nyit-879056",
-        "image": "https://pcdn.hu/articles/images-xl/d/o/n/donald-trump-872670.jpg",
-        "summary": "Tizennégy meghatározó kereskedelmi partnerére vetne ki új vámokat a Trump-adminisztráció, hogy visszaszorítsa a strukturális ipari túlkapacitást. Az Egyesült Államok Külkereskedelmi Képviselőjének Hivatala nyolchónapos vizsgálat után jelentette be a lépést, amely Kína mellett olyan szoros szövetségeseket is érint, mint az Európai Unió, Japán és Dél-Korea. A legsúlyosabb terhek Pekinget sújtják, a kínai árukra javasolt húszszázalékos vám ugyanis hozzáadódik a Donald Trump első elnöki ciklusában kivetett, nagyjából huszonöt százalékos tételekhez. Az uniós termékeknél az új vámok nem léphetik át a kétoldalú megállapodásban rögzített tizenöt százalékos plafont, ezért elsősorban az ennél alacsonyabb vámmal érkező európai áruk terhe nőhet. Az intézkedések társadalmi egyeztetés után, várhatóan januárban lépnek életbe, Washington pedig nem számít kínai ellenlépésekre.",
-        "category": "Politika",
-        "published_at": 1795613400
-      },
+        "source": "Rakéta.hu",
+        "title": "Tíz kérdés a Tejútrendszerről, amire nem biztos, hogy tudod a választ",
+        "link": "https://raketa.hu/tejutrendszer-raketa-kviz/",
+        "image": "https://raketa.hu/uploads/2025/01/Milky_Way_map_by_Gaia_labelled-scaled.jpg",
+        "summary": "Mennyire ismered a galaxist, ami otthont ad nekünk?",
+        "category": "Kultúra",
+        "published_at": 1795617009
+      }
+    ]
+  },
+  {
+    "group_id": "group_6520886bc7",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Leállásra figyelmeztet az egyik legnagyobb hazai bank: a netbankot is érinteni fogja",
+        "link": "https://femina.hu/terasz/banki-leallas-figyelmeztetes-netbank-szolgaltatasok/",
+        "image": "https://femina.hu/neon/media/renditions/439/439048/525ad96e4de276be.jpg",
+        "summary": "Fontos szolgáltatásokat érint az országos leállás.",
+        "category": "Bulvár",
+        "published_at": 1795613700
+      }
+    ]
+  },
+  {
+    "group_id": "group_28e8b2d134",
+    "category": "Politika",
+    "articles_count": 6,
+    "articles": [
       {
         "source": "Telex - Belföld",
         "title": "Trump új vámokkal csapott le az EU-ra, Kínára, Japánra",
@@ -365,38 +356,6 @@
         "summary": "Peking szerint az amerikai vámtervek sértik a nemzetközi kereskedelmi szabályokat.",
         "category": "Politika",
         "published_at": 1795690680
-      }
-    ]
-  },
-  {
-    "group_id": "group_9d6a410db6",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Tíz kérdés a Tejútrendszerről, amire nem biztos, hogy tudod a választ",
-        "link": "https://raketa.hu/tejutrendszer-raketa-kviz/",
-        "image": "https://raketa.hu/uploads/2025/01/Milky_Way_map_by_Gaia_labelled-scaled.jpg",
-        "summary": "Mennyire ismered a galaxist, ami otthont ad nekünk?",
-        "category": "Kultúra",
-        "published_at": 1795617009
-      }
-    ]
-  },
-  {
-    "group_id": "group_6520886bc7",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Leállásra figyelmeztet az egyik legnagyobb hazai bank: a netbankot is érinteni fogja",
-        "link": "https://femina.hu/terasz/banki-leallas-figyelmeztetes-netbank-szolgaltatasok/",
-        "image": "https://femina.hu/neon/media/renditions/439/439048/525ad96e4de276be.jpg",
-        "summary": "Fontos szolgáltatásokat érint az országos leállás.",
-        "category": "Bulvár",
-        "published_at": 1795613700
       }
     ]
   },
@@ -4364,7 +4323,7 @@
         "image": "https://pcdn.hu/articles/images-xl/m/a/g/magyar-peter-837064.jpg",
         "summary": "Magyar Péter miniszterelnök ma Brüsszelben, az Európai Unió Tanácsának csúcsán tárgyal az EU 2028–2034-es többéves pénzügyi keretéről. Itthon eközben ma is ülésezik a parlament, miközben a Külügyminisztérium jogászok bevonásával vizsgálja át Orbán Viktor utazásainak iratait, indokolt esetben pedig feljelentést is tehetnek. Csütörtökön délelőtt az is kiderült, hogy bővül a Seszták-ügy gyanúsítotti köre: a hatóságok az ellen a Fabó György ellen is vizsgálódnak, akinek a földjén az NVVH megtalált mintegy 6,5 milliárd forint készpénzt.",
         "category": "Politika",
-        "published_at": 1795696200
+        "published_at": 1795699560
       }
     ]
   },
@@ -9196,7 +9155,7 @@
   {
     "group_id": "group_c3db6a4786",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -9233,6 +9192,15 @@
         "summary": "A lány továbbra is életveszélyes állapotban van.",
         "category": "Politika",
         "published_at": 1795687270
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Fővárosi Közfejlesztések Tanácsa: Felvétel került elő a mezőkövesdi vonatbalesetről",
+        "link": "https://24.hu/belfold/2026/11/26/fovarosi-kozfejlesztesek-tanacsa-mezokovesd-vonatbaleset-budapest-fonodo-villamos-varosfejlesztes/",
+        "image": "https://s.24.hu/app/uploads/2026/11/9302c0de-d7ef-4993-b540-3d39176546d5-e1795699324370-1024x577.jpeg",
+        "summary": "Egy Volánbusz kamerája rögzítette az esetet. The post Fővárosi Közfejlesztések Tanácsa: Felvétel került elő a mezőkövesdi vonatbalesetről first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795699633
       }
     ]
   },
@@ -11579,7 +11547,7 @@
   {
     "group_id": "group_8df1493c8f",
     "category": "Politika",
-    "articles_count": 5,
+    "articles_count": 6,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -11625,6 +11593,15 @@
         "summary": "Gyorssegélyt ad a MÁV-csoport a sérült lány családjának.",
         "category": "Bulvár",
         "published_at": 1795693558
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Megszólalt Vitézy Dávid a súlyos vasúti baleset után, ötmillió forint gyorssegélyt ajánlott fel a MÁV a sebesült fiatal családjának",
+        "link": "https://www.portfolio.hu/gazdasag/20261126/megszolalt-vitezy-david-a-sulyos-vasuti-baleset-utan-otmillio-forint-gyorssegelyt-ajanlott-fel-a-mav-a-sebesult-fiatal-csaladjanak-879396",
+        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-843197598-baleset-cipo-kozlekedes-sin-tragedia-vasut-vasutallomas-vasuti-beruh-725915.jpg",
+        "summary": "Kritikus, életveszélyes állapotban ápolják a kórházban azt a 20 éves egyetemista lányt, akit kedd este több száz méteren át vonszolt magával egy vonat Mezőkövesdnél, miután a szerelvény ajtaja becsípte a táskáját. A tragédia miatt a MÁV ötmillió forintos gyorssegélyt folyósít a családnak, a történtek tisztázása érdekében pedig a Fidesz-frakció Vitézy Dávid közlekedési miniszter és a MÁV vezérigazgatójának soron kívüli parlamenti meghallgatását kezdeményezte.",
+        "category": "Politika",
+        "published_at": 1795699620
       }
     ]
   },
@@ -12590,7 +12567,7 @@
   {
     "group_id": "group_7b12a0e84d",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "444.hu",
@@ -12600,6 +12577,15 @@
         "summary": "Három szintű szabályozást fogadott el az önkormányzat, az új szálláshely létesítéséhez a társasházi tulajdonosközösség hozzájárulása is kell majd.",
         "category": "Politika",
         "published_at": 1795692810
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Vége a korlátlan Airbnb-zésnek Józsefvárosban, 2027-től szigorú szabályok lépnek életbe",
+        "link": "https://index.hu/belfold/2026/11/26/jozsefvaros-viii-kerulet-piko-andras-airbnb-szabalyozas/",
+        "image": "https://kep.index.hu/1/0/7271/72714/727145/72714595_5357075_6f8e19fc5ab76e1167347b20433c3c60_wm.jpg",
+        "summary": "A korlátozás városrészi és társasházi szinten is meghatározza a kiadható lakások arányát.",
+        "category": "Általános",
+        "published_at": 1795699740
       }
     ]
   },
@@ -13049,7 +13035,7 @@
   {
     "group_id": "group_8b0de565cc",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -13059,6 +13045,15 @@
         "summary": "A Kutyapárt politikusát választották meg.",
         "category": "Általános",
         "published_at": 1795695120
+      },
+      {
+        "source": "444.hu",
+        "title": "Július után újra van alpolgármestere a XII. kerületnek",
+        "link": "https://444.hu/2026/11/26/julius-utan-ujra-van-alpolgarmestere-a-xii-keruletnek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Kovács Gergely két alpolgármestere is lemondott idén, a hónapok óta betöltetlen posztra most a kutyapártos Pásztor Tibort választotta meg a képviselő-testület.",
+        "category": "Politika",
+        "published_at": 1795699450
       }
     ]
   },
@@ -13405,7 +13400,7 @@
         "image": "https://pcdn.hu/articles/images-xl/d/k/c/dkcsz20261112041-873070.jpg",
         "summary": "A Fővárosi Közfejlesztések Tanácsának (FKT) csütörtöki ülését követően közös sajtótájékoztatót tart Vitézy Dávid és Karácsony Gergely főpolgármester, amelyről élőben tudósítunk a helyszínről.",
         "category": "Politika",
-        "published_at": 1795698900
+        "published_at": 1795699620
       }
     ]
   },
@@ -13508,7 +13503,7 @@
   {
     "group_id": "group_b20054665b",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "444.hu",
@@ -13518,6 +13513,15 @@
         "summary": "Ahol Matolcsy vagy Stofa György egyedüli tulajdonos vagy ügyvezető, ott nincs kinek intézkednie, döntést hoznia, fizetést utalnia. Meghatalmazást adni a legnagyobb butaság lenne.",
         "category": "Politika",
         "published_at": 1795697010
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Mintegy 90 milliárd forintnyi kötelezettség robbanhat rá a szökésben lévő Matolcsy Ádám és társa cégére",
+        "link": "https://www.portfolio.hu/gazdasag/20261126/mintegy-90-milliard-forintnyi-kotelezettseg-robbanhat-ra-a-szokesben-levo-matolcsy-adam-es-tarsa-cegere-879398",
+        "image": "https://pcdn.hu/articles/images-xl/a/d/o/adohatosag-adozas-adobevallas-adovizsgalat-adotorveny-nav-630027.jpg",
+        "summary": "Megbénulhatnak a több hete szökésben lévő Matolcsy Ádám és Stofa György milliárdos cégbirodalmai, mivel távollétükben senki sem járhat el hivatalosan a vállalatok ügyeiben. A két üzletember egyedüli tulajdonosként és ügyvezetőként irányítja érdekeltségeit, így elakadt a számlák, a közterhek és a bérek kifizetése. Matolcsy hat cégének több mint 75 milliárd forintos kötelezettségéből közel 53 milliárd idén esedékes, Stofa három cégét pedig mintegy 35 milliárdos teher nyomja.",
+        "category": "Gazdaság",
+        "published_at": 1795699560
       }
     ]
   },
@@ -13821,7 +13825,7 @@
         "image": "https://raketa.hu/uploads/2026/11/mobiltel.jpg",
         "summary": "A téli hidegben a készülékünk a megszokottnál gyorsabban merülhet, sőt akár váratlanul ki is kapcsolhat. Mutatunk hét egyszerű trükköt, amelyekkel a fagyos hónapokban is tovább bírhatja a telefonod egyetlen töltéssel.",
         "category": "Kultúra",
-        "published_at": 1795699407
+        "published_at": 1795699824
       }
     ]
   },
@@ -13998,6 +14002,102 @@
         "summary": "Új lendülettel és régi feszültség mellett indulnak újra a tárgyalások csütörtökön az uniós állam- és kormányfők csúcstalálkozóján.",
         "category": "Politika",
         "published_at": 1795699060
+      }
+    ]
+  },
+  {
+    "group_id": "group_74414ec22b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kucsera Gábor kész helyzet elé állította Tápai Szabinát, a gyerekeik üdvrivalgásban törtek ki",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/26/kucsera-gabor-ujabb-gyerekvallalas-vilagbajnok-kajakos-csaladapa/",
+        "image": "https://kep.index.hu/1/0/7271/72714/727141/72714179_b1dd78997b198979c17424e80cae23ff_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1795699729
+      }
+    ]
+  },
+  {
+    "group_id": "group_ccd9658cf9",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Narancs riasztást adtak ki ónos eső miatt, több vármegyében havazásra is készülni kell",
+        "link": "https://index.hu/belfold/2026/11/26/onos-eso-idojaras-katasztrofavedelem-narancs-riasztas/",
+        "image": "https://kep.index.hu/1/0/7270/72709/727097/72709713_5356753_084ee8e5b54c97fa05c3ed9cc4d00657_wm.jpg",
+        "summary": "A katasztrófavédelem arra kérte az érintett területeken élőket, hogy lehetőleg ne induljanak útnak.",
+        "category": "Általános",
+        "published_at": 1795699620
+      }
+    ]
+  },
+  {
+    "group_id": "group_b3e71c6730",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nagyszabású támadásra készülhet Oroszország, szankciókat sürget Zelenszkij",
+        "link": "https://index.hu/kulfold/2026/11/26/volodimir-zelenszkij-oroszorszag-tamadas-ukrajna-csapasok/",
+        "image": "https://kep.index.hu/1/0/7271/72715/727159/72715909_5357147_3739da6926059214bbc9c8541a5261f8_wm.jpg",
+        "summary": "A városok ellátása a tét.",
+        "category": "Politika",
+        "published_at": 1795699380
+      }
+    ]
+  },
+  {
+    "group_id": "group_5af90cb003",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Ítélje el Magyar Pétert gyűlöletbeszédért, szólította fel Orbán Balázs az Európai Bizottságot",
+        "link": "https://telex.hu/kulfold/2026/11/26/eu-europai-parlament-orban-balazs-magyar-peter-gyuloletbeszed",
+        "image": "https://assets.telex.hu/images/20261126/1795699755-temp-16qe7aii811kabalhal_cimlap-normal.jpg",
+        "summary": "Pár mondattal korábban arra panaszkodott, hogy az intézmény túl gyakran próbál cenzúrázni, hagyja békén a tagállamokat. A Fidesz volt kampányfőnöke választási beavatkozással is vádolta a testületet.",
+        "category": "Politika",
+        "published_at": 1795699818
+      }
+    ]
+  },
+  {
+    "group_id": "group_f56bcd2fcb",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Kijózanító ítélet született Luxembourgban: komoly számlát kaptak a magyar kisbenzinkutak a Mol-ügyben",
+        "link": "https://magyarnemzet.hu/gazdasag/2026/11/itelet-luxembourg-magyar-kisbenzinkutak-fbsz-mol-per?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/1cFjGpYRTh1gQEo_DlQBaLwTGg6uqlGVIF5SWqxAWlc/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjYvZWE3N2VlOGQzYzE3YTBmYWFmNWJlYmUzNzVhZTU3NGNkNDEyYmE1NDVjMzM2MmRmNjE5OGQ2NDlmY2MxYTMyOA.jpg",
+        "summary": "A törvényszék az Európai Bizottságnak adott igazat, elutasította a Független Benzinkutak Szövetsége keresetét.",
+        "category": "Politika",
+        "published_at": 1795699514
+      }
+    ]
+  },
+  {
+    "group_id": "group_9511567c07",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Börtönbe megy az ápoló, aki 20-25 ezer forintért árulta a hamis védettségi igazolványokat",
+        "link": "https://24.hu/belfold/2026/11/26/koronavirus-hamis-vedettsegi-apolo/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-0803252775-2026-09-14t120510-441-8-1024x576.jpg",
+        "summary": "Az oltás nélkül védettségi igazolványt kapó személyek felfüggesztettet kaptak. The post Börtönbe megy az ápoló, aki 20-25 ezer forintért árulta a hamis védettségi igazolványokat first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795699461
       }
     ]
   }
