@@ -48,38 +48,6 @@
     ]
   },
   {
-    "group_id": "group_3f8d5c8425",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Jóváírást ad az MVM az e-számlára váltóknak, december 15. a határidő",
-        "link": "https://index.hu/gazdasag/2026/11/25/mvm-e-szamla-jovairas-dijnet/",
-        "image": "",
-        "summary": "Több felhasználási hely esetén az összeg is nőhet.",
-        "category": "Általános",
-        "published_at": 1795595580
-      }
-    ]
-  },
-  {
-    "group_id": "group_ad4b418141",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "A magyar sportolók is megfizethetik az összeférhetetlenségi törvény árát",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/magyar-sportolok-osszeferhetetlensegi-torveny",
-        "image": "https://cdn.hirtv.hu/2026/11/i2tGvT7G7cRXYkz3obU_OF_Y5wykOdMv7oKGlMcSmYk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg2Yjc2M2FjMzg2NjRjMjE4ZThlMjcyZTdhZjY3M2Zk.jpg",
-        "summary": "Tallár Ákos sportjogász, ügyvéd, a Ferencváros jogi képviselője beszélt a lehetséges következményekről.",
-        "category": "Politika",
-        "published_at": 1795595747
-      }
-    ]
-  },
-  {
     "group_id": "group_98d4310796",
     "category": "Politika",
     "articles_count": 1,
@@ -92,22 +60,6 @@
         "summary": "Minden mérőállomásán fagypont alatti értéket regisztráltak.",
         "category": "Politika",
         "published_at": 1795595896
-      }
-    ]
-  },
-  {
-    "group_id": "group_96c62da044",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Sokszor megelőzhető lenne: a Néma Tanúk felvonulásán a nőgyilkosságok áldozataira emlékeznek",
-        "link": "https://444.hu/2026/11/25/sokszor-megelozheto-lenne-a-nema-tanuk-felvonulasan-a-nogyilkossagok-aldozataira-emlekeznek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "Hosszú idő után először bízhatunk abban, hogy ez változni fog.",
-        "category": "Politika",
-        "published_at": 1795595836
       }
     ]
   },
@@ -1498,22 +1450,6 @@
     ]
   },
   {
-    "group_id": "group_bcee50b67f",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Rezsikedvezményt ad az MVM, már meg is van a határidő",
-        "link": "https://index.hu/gazdasag/2026/11/25/mvm-e-szamla-jovairas-dijnet-rezsi-rezsicsokkentes/",
-        "image": "https://kep.index.hu/1/0/5542/55421/554211/55421117_4096173_cce1732cb593358dc7f787af558182c5_wm.jpg",
-        "summary": "Több felhasználási hely esetén az összeg is nőhet.",
-        "category": "Általános",
-        "published_at": 1795595580
-      }
-    ]
-  },
-  {
     "group_id": "group_96b2306169",
     "category": "Politika",
     "articles_count": 2,
@@ -1936,7 +1872,7 @@
   {
     "group_id": "group_3b4533ed1f",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "HVG - Tudomány & Tech",
@@ -1955,6 +1891,15 @@
         "summary": "A cégvezér visszatérése után a befektetői bizalom helyreállítása mellett komoly vállalatirányítási, szabályozási és üzleti kihívások várnak a vállalatra. The post Hiába tért vissza Jensen Huang, az Nvidia körüli bizonytalanságnak még nincs vége first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795605308
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Kínából szeretettel: közel sincs még vége az Nvidia kémbotrányának – Jensen Huang visszakapta a székét, de a chipóriás még súlyos árat fizethet érte",
+        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/nvidia-kembotrany-kina-jensen-huang-leminosites-s-es-p?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/EpcKjCyIqTlutwhsMURl_HUN9cT5dZXCL0KdimPM6aU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI2L2I2NmRlODE0NGEzNzQ1YWVkN2JkNGI1NjdmNWMyOGFmNzQxM2QwZTg5YjkyMTJkNmY4Y2E0ZWQ2ZjMwNjdiOTI.jpg",
+        "summary": "A hitelminősítő már az igazgatótanács függetlenségét is megkérdőjelezi az Nvidia kémbotránya miatt.",
+        "category": "Gazdaság",
+        "published_at": 1795681821
       }
     ]
   },
@@ -6687,7 +6632,7 @@
   {
     "group_id": "group_218332e80b",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -6706,6 +6651,15 @@
         "summary": "Szerdán megérkezett az ungvári tüdőkórházba az a gyógyszerszállítmány, amely része annak az egymilliárd forint értékű magyarországi humanitárius segélycsomagnak, amelyet Magyar Péter miniszterelnök jelentett be a Volodimir Zelenszkij ukrán elnökkel folytatott keddi kárpátaljai találkozóján.",
         "category": "Politika",
         "published_at": 1795630740
+      },
+      {
+        "source": "Világgazdaság",
+        "title": "Megérkezett a magyar segítség Kárpátaljára: csaknem százmillió forint értékű gyógyszert küldött a kormány – már úton vannak a mobil óvóhelyek is",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/magyar-segitseg-karpatalja-humanitarius-segely-ukrajna?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/WlBfmzylIZjmpFIMlKSd7SXjl3XeLU6cNZQFBgfNVhM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RmNWJkMWM4MGFmYzQwYzI4Y2QxNTExZWJhNGI0Nzhm.jpg",
+        "summary": "Az egészségügyi szállítmányok már célba értek, és további eszközökkel is támogatja Magyarország a háború sújtotta országot.",
+        "category": "Politika",
+        "published_at": 1795681861
       }
     ]
   },
@@ -11135,7 +11089,7 @@
   {
     "group_id": "group_6083be997f",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -11154,6 +11108,15 @@
         "summary": "Fabó egy másik ügyben már vádlott, ott egy tanúvallomásban Seszták Miklós meghosszabbított kezeként hivatkoztak rá.",
         "category": "Gazdaság",
         "published_at": 1795678541
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Az a Fabó György is gyanúsított a Seszták-ügyben, akinek a földjében megtalálták a 6,5 milliárd egy részét",
+        "link": "https://telex.hu/gazdasag/2026/11/26/az-a-fabo-gyorgy-is-gyanusitott-a-sesztak-ugyben-akinek-a-foldjeben-megtalaltak-a-6-5-milliard-egy-reszet",
+        "image": "https://assets.telex.hu/images/20261126/1795681507-temp-d903qgslp3455bkgbeh_cimlap-normal.jpg",
+        "summary": "A volt miniszter régi üzlettársa a győri számlagyáros ügyben is gyanúsított.",
+        "category": "Politika",
+        "published_at": 1795681960
       }
     ]
   },
@@ -11347,7 +11310,7 @@
   {
     "group_id": "group_08c439b52f",
     "category": "Politika",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "HVG - Itthon",
@@ -11384,6 +11347,15 @@
         "summary": "Havasi Bertalan egy hete még azt mondta, nincsen új logó.",
         "category": "Politika",
         "published_at": 1795675937
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Levédeti a Fidesz az új szürke-narancs emblémát, öt kategóriában nyújtottak be kérelmet",
+        "link": "https://index.hu/belfold/2026/11/26/fidesz-frakcio-logo-valtoztatas-vedjegy/",
+        "image": "https://kep.index.hu/1/0/6810/68106/681069/68106965_5027989_14c37d22cabe2b948d4ff3ce255f8459_wm.jpg",
+        "summary": "Havasi Bertalan korábban azt mondta, nincs új logó, és technikai változásról beszélt.",
+        "category": "Politika",
+        "published_at": 1795681860
       }
     ]
   },
@@ -13238,7 +13210,7 @@
   {
     "group_id": "group_ae11f53204",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -13248,6 +13220,15 @@
         "summary": "A Network4 tulajdonosa nem tagadta, hogy találkozott a választások után Németh S. Szilárddal ATV-vezérrel, hogy a médiapiac helyzetéről beszélgessenek. The post „Mondtam neki, hogy az állami hirdetések világának minden bizonnyal vége” – megvenné az ATV-t a Kontrollal együttműködő Network4 tulajdonosa first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795681477
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Vételi ajánlat érkezhetett az ATV-re, megszólalt a vezérigazgató",
+        "link": "https://index.hu/belfold/2026/11/26/atv-network4-borsany-gyenes-andras-nemeth-s-szilard-mediapiac/",
+        "image": "",
+        "summary": "Németh S. Szilárd lapunk kérdésére kommentálta a híreket.",
+        "category": "Általános",
+        "published_at": 1795682100
       }
     ]
   },
@@ -13280,6 +13261,70 @@
         "summary": "Több dél-koreai vállalat saját biztonsági csapat nélkül őrzi a titkait.",
         "category": "Kultúra",
         "published_at": 1795681832
+      }
+    ]
+  },
+  {
+    "group_id": "group_809e655594",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Elárasztott a víz egy illegális aranybányát Indonéziában, tizenhárom ember meghalt",
+        "link": "https://index.hu/kulfold/2026/11/26/indonezia-aranybanya-banyasz-meghalt-java-szigete/",
+        "image": "https://kep.index.hu/1/0/7271/72710/727100/72710001_5356771_80b85a9683ab4a8142fdf8530bc3944f_wm.jpg",
+        "summary": "A hatóságokat csak órákkal a baleset után értesítették.",
+        "category": "Általános",
+        "published_at": 1795681920
+      }
+    ]
+  },
+  {
+    "group_id": "group_5e6e8d5431",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Tovább terjed az ebolajárvány a Kongói Demokratikus Köztársaságban",
+        "link": "https://444.hu/2026/11/26/tovabb-terjed-az-ebolajarvany-a-kongoi-demokratikus-koztarsasagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Ez a második legnagyobb és a legtöbb halálos áldozattal járó ebolajárvány a feljegyzések kezdete óta.",
+        "category": "Politika",
+        "published_at": 1795681872
+      }
+    ]
+  },
+  {
+    "group_id": "group_e36a5ac195",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Orbán Áronék vízumügyeit kellett előrevenni Hanoiban – felsővezetői utasításról írt a nagykövetség munkatársa",
+        "link": "https://www.portfolio.hu/gazdasag/20261126/orban-aronek-vizumugyeit-kellett-elorevenni-hanoiban-felsovezetoi-utasitasrol-irt-a-nagykovetseg-munkatarsa-879286",
+        "image": "https://pcdn.hu/articles/images-xl/o/r/b/orban-aron-letartoztatasa-872952.jpg",
+        "summary": "Felsővezetői utasításra kellett fogadnia 75 vietnámi kérelmezőt Orbán Áron érdekeltségétől a hanoi magyar nagykövetség egyik munkatársának 2023-ban, derül ki a Népszabadság birtokába került levelezésből. A levelet egy vietnámi munkavállalók közvetítésében érdekelt üzletasszony kapta, akit a lap forrásai Rogán Antal ismeretségi körébe sorolnak. A nyomozati iratok szerint a vietnámi toborzóirodák munkavállalónként akár több mint tízezer dollárt is elkértek, és ennek közel a fele a magyar közvetítőnél maradt. Orbán Áronék úgy vélték, hogy a Rogánhoz kötődőnek tartott versenytársaik külügyi és idegenrendészeti kapcsolataikat is felhasználják ellenük, ezért egy rendőrtábornokkal és egy államtitkárral is tárgyaltak, és az Alkotmányvédelmi Hivatal közbenjárását is kérték. Az ügyészség szerint a gyanúsítottak több mint száz vietnámi állampolgárnak segíthettek jogellenesen Nyugat-Európába jutni, a bíróság pedig november 11-én egy hónapra elrendelte Orbán Áron és élettársa letartóztatását.",
+        "category": "Politika",
+        "published_at": 1795681980
+      }
+    ]
+  },
+  {
+    "group_id": "group_23bafdf449",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Jöhet majd a Richter szájon át szedhető fogyasztószere - már ki is terjesztették a partnerséget az Adalvóval",
+        "link": "https://www.vg.hu/penz-es-tokepiac/2026/11/richter-szajon-at-szedheto-fogyasztoszer-egyuttmukodes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/sQRXmhb10p98lDtS0l7mWAZJin7o5XKD06H9ylrtFuQ/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI2LzVjMjk3Y2U3OTAyMjJlZThhNWFmMzg4NGY2ZTdmZDExNWE4YmNlNWRiNGZlNjA0NDA5Y2Y1OTY4ZTkyYjVhZTI.jpg",
+        "summary": "Új területen működik együtt már jól ismert partnerével a magyar gyógyszergyártó.",
+        "category": "Gazdaság",
+        "published_at": 1795682029
       }
     ]
   }
