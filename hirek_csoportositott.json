@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_d06ae473ab",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Hamarosan végleg megszűnik két Google-szolgáltatás, ez jön helyettük",
-        "link": "https://www.atv.hu/egyeb/20261125/megszunik-google-szolgaltatas/",
-        "image": "",
-        "summary": "Jövő januárban és augusztusban is eltűnik egy-egy Google-alkalmazás, egyetlen rendszerbe sűrítenék okosotthon-szolgáltatásaikat.",
-        "category": "Kultúra",
-        "published_at": 1795638060
-      }
-    ]
-  },
-  {
     "group_id": "group_ef023e23af",
     "category": "Általános",
     "articles_count": 2,
@@ -37,22 +21,6 @@
         "summary": "Életveszélyes sérülésekkel kezelik a 18 éves Vivit, akit egy IC több száz méteren keresztül húzott maga után. Vitézy Dávid szerint megvan, mi okozhatta a kedd esti mezőkövesdi vonatbalesetet. The post Mezőkövesdi vonatbaleset: kritikus állapotban az egyetemista lány, mindkét lábát amputálták first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795700280
-      }
-    ]
-  },
-  {
-    "group_id": "group_652713e7cc",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "„Hol a busz?” – kérdezhetik a budaiak most, hogy itt a hóhelyzet",
-        "link": "https://hvg.hu/itthon/20261125_busz-buda-hohelyzet-forgalom-fennakadas",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/21f393f3-9c30-4a4b-bdb7-21540105bbd0.jpg",
-        "summary": "Karácsony Gergely kedden jelentette be, hogy készenlétben vannak a várható havazás miatt. A budai oldalon azonban így is komoly fennakadásokat okozott a hóesés.",
-        "category": "Politika",
-        "published_at": 1795638060
       }
     ]
   },
@@ -10106,7 +10074,7 @@
   {
     "group_id": "group_81017d34f9",
     "category": "Politika",
-    "articles_count": 7,
+    "articles_count": 8,
     "articles": [
       {
         "source": "Magyar Nemzet",
@@ -10170,6 +10138,15 @@
         "summary": "A miniszterelnök szerint morális mélypont, hogy Lázár a baleset után Vitézy Dávidnak üzent.",
         "category": "Politika",
         "published_at": 1795720017
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Magyar Péter szerint biztonságosabb szerelvények közlekednének, ha Lázár nem állítja le a beszerzést",
+        "link": "https://24.hu/belfold/2026/11/26/magyar-peter-mezokovesdi-tragedia-reakcio-lazar-janos-beszerzes/",
+        "image": "https://s.24.hu/app/uploads/2026/11/magyar-e1795723567627-1024x577.jpg",
+        "summary": "Azt is elmondta, az Országos Vérellátó Szolgálat tájékoztatása szerint már elegendő vér áll rendelkezésre. The post Magyar Péter szerint biztonságosabb szerelvények közlekednének, ha Lázár nem állítja le a beszerzést first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1795724242
       }
     ]
   },
@@ -13393,6 +13370,86 @@
         "summary": "A hamis akcióktól a kamu vásárlói értékelésekig több megtévesztő kereskedelmi gyakorlaton is változtatnia kell a kínai cégnek.",
         "category": "Politika",
         "published_at": 1795724209
+      }
+    ]
+  },
+  {
+    "group_id": "group_23d9cc8b52",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Sopronban húsz centi hó esett",
+        "link": "https://telex.hu/belfold/2026/11/26/hohelyzet-havazas-gyor-moson-sopron-nograd",
+        "image": "https://assets.telex.hu/images/20261126/1795724471-temp-1lh5trpoig9aadihhmk_cimlap-normal.jpg",
+        "summary": "Az Időkép szerint Nógrád megyében is jelentős volt a havazás.",
+        "category": "Politika",
+        "published_at": 1795724516
+      }
+    ]
+  },
+  {
+    "group_id": "group_ad79cfa619",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Uniós pénzekkel kapcsolatban tett feljelentést az egészségügyi miniszter",
+        "link": "https://hvg.hu/itthon/20261126_unios-kozbeszerzes-feljelentes-egeszsegugy-miniszter",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/cd6eab37-60fe-4a8e-a885-565c2e407b27.jpg",
+        "summary": "Hegedűs Zsolt uniós forrású közbeszerzések átvizsgálva talált visszásságokat, a rendőrség nyomoz.",
+        "category": "Politika",
+        "published_at": 1795724315
+      }
+    ]
+  },
+  {
+    "group_id": "group_9b91798143",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Tarr a színházi támogatásokat ért kritikákról: „Joguk van kérdezni, és joguk van válaszokat kapni”",
+        "link": "https://444.hu/2026/11/26/tarr-a-szinhazi-tamogatasok-koruli-kritikakrol-joguk-van-kerdezni-es-joguk-van-valaszokat-kapni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A kulturális minisztérium még a milliárdos támogatások folyósítása előtt újra átvizsgálja a szakma által is kifogásolt pénzosztás teljes folyamatát.",
+        "category": "Politika",
+        "published_at": 1795723932
+      }
+    ]
+  },
+  {
+    "group_id": "group_dfa9979771",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Kihirdették a világ legszebb karácsonyi úti céljait: szomszédos város is bekerült a Top 6-ba",
+        "link": "https://www.atv.hu/belfold/20261126/varos-karacsony-lista-uti-cel/",
+        "image": "",
+        "summary": "A Time Out magazin összeállította a világ legjobb karácsonyi úti céljainak listáját: az élmezőnyben egy Magyarországhoz közeli város is helyet kapott.",
+        "category": "Általános",
+        "published_at": 1795724460
+      }
+    ]
+  },
+  {
+    "group_id": "group_873f19f3d8",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Nem rohan az MVM, hogy elsőként rendeljen atomreaktorokat: megvan az oka rá, egy halom pénzt spórolhat ezzel – „nyitott, hogy ki vállalja az elsőség kockázatát\"",
+        "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/mvm-modularis-paks-szel-energiatarolo-diverzifikacio?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/09/zCXnW_Nqq8w_JfJpFSpU4pMGglpG60ABPacK1N6hujU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJkZTRjMTYyNmNjZjQzNzBhZGNiYjAzM2NkYzVhNDYy.jpg",
+        "summary": "Az MVM több SMR-beszállítóval tárgyal, közben atomerőművi üzemanyag-beszállítókkal működik együtt, de bőven van közelebbi terve is.",
+        "category": "Gazdaság",
+        "published_at": 1795724403
       }
     ]
   }
