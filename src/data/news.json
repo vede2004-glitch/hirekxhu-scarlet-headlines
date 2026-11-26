@@ -2271,42 +2271,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_0fa1939abe",
-    "slug": "fabo-gyrgy-is-gyanusitott-lett-a-sesztak-miklost-erinto-ugyben-0fa193",
-    "tags": [
-      "sesztak-miklos",
-      "fabo-gyorgy",
-      "nyomozas",
-      "korrupcio"
-    ],
-    "fingerprint": "ed100d3153027d179a695ea89eedea9b",
-    "category": "Politika",
-    "image": "https://www.youtube.com/embed/t9zgq3KiDLo",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "6,5 milliárdot ástak elő a földből – most Seszták Miklós üzlettársa is gyanúsított lett",
-        "link": "https://www.atv.hu/belfold/20261126/sesztak-ugy-gyanusitott-uzlettars/"
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Bővül a nyomozás Seszták Miklós-ügyben: gyanúsított lett a volt miniszter bizalmasa",
-        "link": "https://www.portfolio.hu/gazdasag/20261126/bovul-a-nyomozas-sesztak-miklos-ugyben-gyanusitott-lett-a-volt-miniszter-bizalmasa-879298"
-      }
-    ],
-    "published_at": 1795683720,
-    "title_hu": "Fabó György is gyanúsított lett a Seszták Miklóst érintő ügyben",
-    "lead_hu": "Fabó György, Seszták Miklós korábbi fejlesztési miniszter üzleti partnere gyanúsítottként szerepel a volt tárcavezetőt érintő büntetőeljárásban. A nyomozásban korábban 6,5 milliárd forint készpénzt találtak különböző helyszíneken.",
-    "content_hu": "• **Fabó György gyanúsított lett** a Seszták Miklós volt fejlesztési miniszterhez kapcsolódó büntetőeljárásban; ügyvédje megerősítette ezt, őrizetbe vételére azonban nem került sor.\n\n• **A két férfit üzleti kapcsolat fűzte össze:** Seszták korábban Fabó cégeinek dolgozott ügyvédként, később pedig közös tulajdonuk volt egy kisvárdai Opel-kereskedésben.\n\n• **A hatóságok 6,5 milliárd forintnyi készpénzt találtak** erdőkben, széfekben és madáretetőkben; az összeg tulajdonosa továbbra sem tisztázott.\n\n• **Fabót egy másik büntetőügyben is vádolják:** a győri számlagyáros eljárásban költségvetési csalással és hamis magánokirat felhasználásával állították bíróság elé.",
-    "importance_score": 35.0,
-    "top_rank": 50,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_ef023e23af",
     "slug": "vizsgaljak-a-mezokvesdi-intercity-baleset-krulmenyeit-ef023e",
     "tags": [
@@ -2344,7 +2308,7 @@
     "lead_hu": "Kedd este egy 21 éves nő életveszélyesen megsérült, amikor leszállt a Hernád–Zemplén InterCityről a mezőkövesdi vasútállomáson. A történteket a rendőrség, a Közlekedésbiztonsági Szervezet és a MÁV szakemberei vizsgálják.",
     "content_hu": "• **Súlyos sérülés Mezőkövesden** A fiatal nő a baleset során több száz méteren át a vonat mellett húzódott, majd életveszélyes sérülésekkel kórházba került.\n\n• **Folyamatban lévő vizsgálatok** A baleset pontos körülményei és az esetleges felelősség még nem ismertek; ezek tisztázásán több hatóság és a MÁV vasútbiztonsági szakemberei dolgoznak.\n\n• **Hiányzó ajtóellenőrző rendszer** Vitézy Dávid közlekedési és beruházási miniszter szerint a szerelvény régebbi kocsijai nem rendelkeztek olyan rendszerrel, amely nyitott ajtó esetén megakadályozza a vonat elindulását.\n\n• **Tervezett járműbeszerzés** A miniszter közlése szerint újraindítják az InterCity-szerelvények beszerzését uniós források felhasználásával. A közbeszerzés és a gyártás miatt az első új vonatok érkezése három-négy évet vehet igénybe; az InterCity-flotta átlagéletkora 46 év.",
     "importance_score": 35.0,
-    "top_rank": 51,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2385,7 +2349,7 @@
     "lead_hu": "November 6. és 15. között egy BabidiGhost álnevet használó támadó 82 flandriai önkormányzat mintegy 1,2 millió lakosának adataihoz jutott hozzá. A nyomozók szerint az elkövető korlátozott technikai tudását MI-eszközökkel egészítette ki, és egy szolgáltató védtelen szerverét támadta meg.",
     "content_hu": "• **Az elkövető és az érintettek** A BabidiGhost néven tevékenykedő támadó állítása szerint a Ghost Hunters nevű hackercsoporthoz tartozik. Az akció Belgium mind az öt flandriai tartományának 82 önkormányzatát és körülbelül 1,2 millió lakosát érintette.\n\n• **A szerver tartalma** A behatolás nem az önkormányzatok saját rendszereit célozta: a támadó egy szolgáltató szerveréhez fért hozzá, amely hulladékudvarokkal kapcsolatos információkat és jelszavakat is tárolt. A szerveren az ügyféladatok nem voltak elkülönítve, a fájlok pedig titkosítás nélkül maradtak.\n\n• **A megszerzett adatok** Az érintett információk között nevek, címek, születési dátumok, nemzeti nyilvántartási és személyazonosító számok, bankszámlaadatok, valamint egyes esetekben gépjárművek rendszámai szerepeltek.\n\n• **A támadó technikai tudása** A nyomozók szerint az elkövető nem rendelkezett magas szintű technikai ismeretekkel. A DeepSeek korlátozásainak kijátszása után egy digitális MI-asszisztenssel készíttetett kódot, amely régebbi szoftverek ismert sérülékenységeit használhatta ki az adatok megszerzéséhez; az asszisztens 5800 utasításból 41-et utasított el.\n\n• **A támadás súlya és az adatok sorsa** Geert Baudewijns, a Secutec vezetője az eddigi legnagyobb flandriai kibertámadásként értékelte az esetet, és az érintett adatok mennyiségét különösen jelentősnek nevezte. A Secutec elemzése alapján az ellopott információk már felkerültek a darkwebre.\n\n• **A szakértői figyelmeztetés** Samet Sazhak, a SOCRadar munkatársa arra hívta fel a figyelmet, hogy megfelelően védett MI-rendszerek hiányában a korábban nagy tapasztalatot igénylő támadásokhoz ma már kevesebb technikai felkészültség is elegendő lehet.",
     "importance_score": 35.0,
-    "top_rank": 52,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2426,7 +2390,7 @@
     "lead_hu": "A kormány rendkívüli parlamenti ülés összehívását kérte jövő keddre és szerdára. Ruff Bálint miniszterelnök-helyettes nyolc törvényjavaslat napirendre vételét javasolta, hogy azokat mielőbb elfogadhassák.",
     "content_hu": "• **A rendkívüli ülés terve** A kormány jövő keddre és szerdára kezdeményezte az Országgyűlés rendkívüli ülését; Ruff Bálint nyolc előterjesztés megtárgyalását kérte.\n\n• **A javaslatok témái** A képviselők kulturális intézményekről, a könyvpiac szabályozásáról, az állami vagyon védelméről, valamint egészségügyi, oktatási és gyermekügyi szabályokról is tárgyalhatnak.\n\n• **A hétfői ülés** A parlament elfogadott menetrendje szerint hétfőn 13 órakor is ülésezik. A programban napirend előtti felszólalások, kérdések és az azonnali kérdések órája szerepel.",
     "importance_score": 35.0,
-    "top_rank": 53,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2462,7 +2426,7 @@
     "lead_hu": "A párizsi bíróság január 6-ra halasztotta annak eldöntését, hogy kiadják-e Magyarországnak a 23 éves Zaid Altayebet. A férfit a 2023 februárjában Budapesten történt támadásokban való részvétellel gyanúsítják, ő azonban tagadja a vádakat.",
     "content_hu": "• **A döntés időpontja** A párizsi bíróság január 6-án folytatja Altayeb kiadatási ügyének tárgyalását; az eredetileg november 25-re várt határozatot elhalasztották.\n\n• **A magyar megkeresés** A magyar hatóságok a 2023. februári budapesti erőszakcselekmények miatt kérik a férfi átadását. A gyanú szerint Altayeb másokkal együtt a Becsület napjához kapcsolódó rendezvény résztvevőire támadt.\n\n• **Az eltérő álláspontok** Altayeb tagadja a gyanúsítást. A francia ügyészség októberben már támogatta a kiadatást, arra hivatkozva, hogy javult a magyar igazságszolgáltatás függetlensége, míg a férfi ügyvédje továbbra is aggályosnak tartja a magyarországi eljárás tisztességességét.",
     "importance_score": 33.0,
-    "top_rank": 54,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2503,7 +2467,7 @@
     "lead_hu": "A Szatmári Konzervgyár Kft. saját kezdeményezésére indult csődeljárásban a bíróság a KBAZ Zrt.-t nevezte ki vagyonfelügyelőnek. A vállalat 350 dolgozójának, valamint beszállítóinak jövője is bizonytalan, miközben a cég reorganizációval próbálhatja folytatni működését.",
     "content_hu": "• **Bírósági eljárás:** A fizetési nehézségekkel küzdő Szatmári Konzervgyár Kft. maga fordult a bírósághoz, amely elrendelte a csődeljárást, és a KBAZ Zrt.-t bízta meg a vagyonfelügyelettel.\n\n• **Dolgozók és termelők:** A gyár mintegy 350 alkalmazottja mellett a környék mezőgazdasági beszállítói is érintettek. Egyes gazdák rendezetlen követelésekről számoltak be, és nem tudják, hogy a vállalat a következő szezonban vásárol-e tőlük terményt.\n\n• **A folytatás feltételei:** A fizetési moratórium időt adhat reorganizációs terv elkészítésére és a hitelezőkkel való megállapodásra. A csődeljárás önmagában nem zárja ki a gyár további működését, de ehhez fenntartható tervre van szükség.\n\n• **Finanszírozás és állami szerep:** A vállalat állami tulajdonban van, és 2021 óta milliárdos finanszírozáshoz jutott a Magyar Fejlesztési Bankon keresztül. Az MFB a pénzügyi gondokat több külső körülmény együttes hatásával magyarázta, és életképes átalakítási terv esetén esélyt lát a működés megmentésére.\n\n• **A gyár termelése:** A társaság évente több mint 30 ezer tonna, jellemzően hazai alapanyagot dolgoz fel, és hozzávetőleg 100 millió terméket állít elő. Csemegekukoricából, uborkából és céklából készült konzerveket, befőtteket, valamint készételeket is gyárt; termékei közel húsz országba jutnak el.\n\n• **Korábbi árbevétel:** A Rege márkát is forgalmazó cég kedvezőbb éveiben megközelítette a 20 milliárd forintos éves bevételt.",
     "importance_score": 33.0,
-    "top_rank": 55,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2544,7 +2508,7 @@
     "lead_hu": "A BBC 2027-ben kezdi forgatni a 2022 óta szünetelő Top Gear új részeit, amelyek 2028-ban kerülhetnek képernyőre. A visszatérő műsor egyik házigazdája Gordon Ramsay lesz; a többi szereplőt még nem nevezték meg.",
     "content_hu": "• **Ramsay csatlakozik a műsorhoz** A BBC megerősítette, hogy a brit séf a Top Gear egyik új műsorvezetője lesz, de társainak nevét egyelőre nem közölte. Ramsay friss lendületet és meglepetéseket ígérő formátumot szeretne, amelyben a humor és a kiszámíthatatlanság is helyet kap.\n\n• **2028-ra tervezik az új évadot** A forgatási munkálatok 2027-ben indulhatnak, az új epizódokat pedig 2028-ban mutathatják be.\n\n• **Ramsay régóta érdeklődik az autók iránt** A séf a silverstone-i pálya közelében nőtt fel, és gyerekként a kerítésen átmászva nézte a versenyeket. Korábban 2002-ben, 2006-ban és 2017-ben vendégként is szerepelt a Top Gearben; autói között Aston Martinok és Ferrarik is vannak.\n\n• **Richard Hammond nem tér vissza** A korábbi műsorvezető elmondta, hogy felkérték az új produkcióban való részvételre, de nemet mondott, mert nem szeretné megismételni a régi műsorformát. Hammond 2002 és 2015 között vezette a Top Geart Jeremy Clarksonnal, majd James Mayjel.\n\n• **Flintoff balesete után állt le a gyártás** A BBC 2022-ben függesztette fel a sorozatot, miután Andrew Flintoff egy tesztpályán felborult egy nyitott tetejű, háromkerekű járművel, és súlyosan megsérült az arca, valamint a bordái.\n\n• **A sorozat 1977-ben indult** A Top Gear a 2000-es években Clarkson, Hammond és May műsorvezetésével vált nemzetközi sikerré. A BBC akkori adatai szerint fénykorában hetente akár 350 millióan is nézték világszerte. A BBC Studios vezetője, Suzy Lamb szerint az új változat nem a korábbi sikerek felidézésére épül, hanem önálló új fejezetként készül.",
     "importance_score": 30.0,
-    "top_rank": 56,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2585,7 +2549,7 @@
     "lead_hu": "Az ukrán vezérkar szerint öt orosz katonai repülőgépet ért találat a Nyizsnyij Novgorod megyei Szavaszlejka légibázison. A károk pontos mértékét még vizsgálják; a célba vett gépek között három MiG–31-es és két Szu–34-es volt.",
     "content_hu": "• **A támadás célpontja** a Moszkvától mintegy 300 kilométerre keletre fekvő Szavaszlejka légibázis volt, az ukrán közlés szerint a keddre virradó éjszaka.\n\n• **Öt repülőgépet ért találat:** az ukrán vezérkar három MiG–31-est és két Szu–34-est nevezett meg. A károk és a gépek állapotának felmérése még folyamatban van.\n\n• **A bázis katonai szerepe** az ukrán beszámolók szerint összefügg azzal, hogy innen Kinzsal rakéták hordozására alkalmas repülőgépek is felszállnak. Oroszország ezeket a rakétákat ukrán célpontok ellen használja.",
     "importance_score": 30.0,
-    "top_rank": 57,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2621,7 +2585,7 @@
     "lead_hu": "Ezzel a magyar klasszis pályafutásában újabb jelentős esemény történt....",
     "content_hu": "Ezzel a magyar klasszis pályafutásában újabb jelentős esemény történt.",
     "importance_score": 30.0,
-    "top_rank": 58,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2662,7 +2626,7 @@
     "lead_hu": "Bátki Pál ügyvéd szerint Matolcsy György kész személyesen részt venni az MNB ügyeit vizsgáló parlamenti bizottság nyilvános ülésén, amennyiben tiszteletben tartják emberi méltóságát és az ártatlanság vélelmét. A védelem úgy látja, nincs szükség arra, hogy a képviselők a büntetés-végrehajtási intézetben keressék fel a volt jegybankelnököt; a kísérés feltételeiről egyedi biztonsági mérlegelést kérnek.",
     "content_hu": "• **A bizottság helyett Matolcsy is megjelenhet a Parlamentben** Bátki Pál szerint nem indokolt, hogy a képviselők a büntetés-végrehajtási intézetbe menjenek: védence megfelelő garanciák mellett vállalja a nyilvános parlamenti meghallgatást. Csőszi Attila bizottsági elnök korábban jelezte, hogy a testület csütörtökön egyeztet a meghallgatás lehetőségéről.\n\n• **A bilincs és a vezetőszár szükségességét külön kell mérlegelni** Az ügyvéd azt kéri, hogy a bv konkrét biztonsági kockázat alapján döntsön a kényszerítő eszközökről. Ha nem merül fel szökés vagy támadó fellépés veszélye, szerinte ezek mellőzésével kellene Matolcsyt a Parlamentbe kísérni.\n\n• **A kísérésről készült felvételeket ne hozzák nyilvánosságra** Amennyiben a bv mégis szükségesnek ítél valamelyik eszközt, Bátki feltételként szabja, hogy a bilincsben vagy vezetőszáron történő kísérésről ne jelenjenek meg képek. Az érkezést és a távozást a kamerák látóterén kívül szerveznék meg, a bizottsági ülésről a sajtó szabadon tudósíthatna.\n\n• **Több száz milliárd forintnyi közvagyon sorsa került az ügy középpontjába** Az MNB alapítványaihoz irányított vagyon jelentős része cégek közbeiktatásával végrehajtott befektetések során veszett oda. Az Állami Számvevőszék tavaly márciusban tett feljelentést.\n\n• **Gazdasági bűncselekmények gyanúja miatt tartóztatták le Matolcsyt** A volt jegybankelnököt október 21-én vették őrizetbe, letartóztatását két nappal később rendelték el, majd február 23-ig meghosszabbították. Különösen jelentős vagyoni hátrányt okozó gazdasági csalással és hamis magánokirat felhasználásával gyanúsítják.",
     "importance_score": 30.0,
-    "top_rank": 59,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2703,7 +2667,7 @@
     "lead_hu": "A januárban hivatalba lépő Kert Attila új tartalomgyártási rendszerrel alakítaná át a közmédiát, miközben a 2027-es működést 106 milliárd forintos keretből kellene megoldani. A tervek része a sportközvetítési jogdíjak és a földfelszíni sugárzás kiadásainak mérséklése, valamint akár 500–600 munkatárs elbocsátása.",
     "content_hu": "• **Több platformra készülő tartalomgyártás** Kert Attila a közmédiát olyan szervezetként működtetné, amely televízión, rádión, online felületeken, közösségi médiában és streamingen is jelen van. Egy témából a különböző csatornákra szabott műsorok, podcastok és rövid videók készülhetnének.\n\n• **106 milliárd forintos keret 2027-re** A tervek szerint a közmédia 2027-es költségvetése a korábbinál jóval szűkebb lenne. A megtakarítás egyik forrásaként a sportközvetítési jogdíjak 18–20 milliárd forintos összegének megfelezése merült fel.\n\n• **A sugárzási kiadások felülvizsgálata** Kert a földfelszíni műsorszórás költségeit is csökkentené. A 20 milliárd forintos kiadás a lakosság mintegy 3 százalékát érintő elérést biztosít, de a veszélyhelyzeti tájékoztatásra vonatkozó kötelezettség miatt a szolgáltatás teljes megszüntetése nem lehetséges.\n\n• **Akár 500–600 fős létszámcsökkentés** Az átalakítás az adminisztrációt, a háttérmunkát és a technológiai támogatást is érintheti. Kert szerint nem világnézeti alapon döntenének, de azok távozását indokoltnak tartja, akik hazugságokban vagy lejárató tevékenységben vettek részt.",
     "importance_score": 30.0,
-    "top_rank": 60,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2744,7 +2708,7 @@
     "lead_hu": "Magyar Péter és Volodimir Zelenszkij keddi kárpátaljai találkozóján az energetika, a kisebbségi jogok és a kétoldalú együttműködés is napirendre került. A résztvevők a kapcsolatok javításának lehetőségéről beszéltek; a megállapodások részleteiről, köztük a gáz- és dízelszállítás mennyiségéről, nem közöltek adatokat.",
     "content_hu": "• **Megemlékezés Ungváron** Magyar Péter és Volodimir Zelenszkij az ungvári katonai temetőben koszorúzott, ahol több mint háromszáz, az orosz–ukrán háborúban elesett katona nyugszik. Az elhunytak között magyar nemzetiségűek is vannak; az ukrán elnök térdre ereszkedve, könnyeivel küszködve rótta le tiszteletét, és megköszönte Magyarország, valamint Európa támogatását.\n\n• **Több mint egy évtized után Kárpátalján** Magyar Péter látogatását megelőzően tizenegy év telt el azóta, hogy a térségben járt.\n\n• **A kétoldalú viszony rendezése** Mindkét vezető a magyar–ukrán kapcsolatok újjáépítésének szándékát jelezte. Sándor Fegyir budapesti ukrán nagykövet szerint a két ország népe nem fordult egymással szembe.\n\n• **A közeledés feltételei** A találkozó résztvevői a javuló viszony egyik okaként az új magyar kormány ukránellenes kommunikációjának megszűnését, másik tényezőként pedig Ukrajna uniós szabályokhoz igazodó jogalkotását említették. Az EU-tagság felé vezető út az ukrán társadalom kitartását is erősítheti a háborúban.\n\n• **Ukrajna uniós törekvése** Zelenszkij stratégiai célként beszélt az EU-csatlakozásról, és hangsúlyozta, hogy erről Ukrajna maga döntött.\n\n• **Humanitárius támogatás** Magyar Péter körülbelül egymilliárd forint értékű segítségről számolt be, amely egészségügyi és energetikai eszközöket, gyógyszereket, vakcinákat, generátorokat és járműveket is tartalmazott. A beregszászi kórház szintén részesült a támogatásból.\n\n• **Alap a kárpátaljai magyaroknak** Magyar Péter egymilliárd forintos, Zrínyi Ilona nevét viselő alap felállítását jelentette be. A tervek szerint egészségügyi, oktatási és kulturális kezdeményezések finanszírozására használhatják fel.\n\n• **Kisebbségi jogok** Magyar Péter tíz pontban foglalta össze a kárpátaljai magyarok nyelvi, oktatási és kulturális jogainak megerősítésére vonatkozó javaslatait. Zelenszkij az ukrajnai magyar közösség és más nemzetiségek jogainak támogatásáról beszélt.\n\n• **Gáz- és dízelügyek** A vezetők megvitatták a Magyarországról Ukrajnába irányuló gáz- és dízelszállítás lehetőségeit, továbbá magyar vállalatok ukrajnai gáztároló-használatát. Zelenszkij szerint országa a dízelhiány miatt Magyarország és más partnerek segítségére is számít; a felek feladatokat jelöltek ki, de szállítási mennyiségeket és határidőket nem ismertettek.\n\n• **Lehetséges ukrajnai gáztárolás** Ukrajna jelentős föld alatti kapacitással rendelkezik, és a tároláshoz kapcsolódó szolgáltatásokat nyugati cégek is igénybe veszik. A magyarországinál kedvezőbb árak miatt egyes magyar kereskedők újraértékelhetik a külföldi tárolással járó kockázatokat, de magyar vállalat kötelezettségvállalásáról nem számoltak be. A legnagyobb hazai tárolóportfólió az MVM-csoporté.\n\n• **Vezetékes dízelszállítás** A magyar dízel Ukrajnába juttatására alkalmas lehet a Nyírbogdány közelében működő mérőállomáshoz kapcsolódó, még a szovjet korszakban épült termékvezeték.\n\n• **Vasúti és határfejlesztések** A tárgyaláson új közvetlen vasúti járatokról, köztük a Budapest és Kijev közötti kapcsolat fejlesztéséről is szó volt. A meglévő határátkelők korszerűsítését és új átkelők megnyitását szintén mérlegelték, konkrét menetrend nélkül.\n\n• **Kereskedelem és gabona** A felek élelmiszer-biztonsági kérdésekről és az ukrán export lehetőségeiről is egyeztettek. Zelenszkij szerint Ukrajna kukoricát szállíthat Magyarországra, bár az idei termés gyengébb volt; az orosz blokád miatt a fekete-tengeri gabonafolyosó ügyében a szomszédos országok támogatását is kérnék.\n\n• **Biztonsági együttműködés** A megbeszélésen az orosz támadások és más biztonsági kérdések is előkerültek. Magyar Péter fegyverek helyett humanitárius segítséget, valamint békefenntartói közreműködést helyezett kilátásba; felmerült Magyarország bekapcsolódása az aknamentesítési koalícióba is.\n\n• **Beregszászi egyeztetés** Az ungvári megemlékezés után Beregszászon sajtótájékoztatót tartottak, és helyi egészségügyi projektekről tárgyaltak. Magyar Péter találkozott a magyar közösség képviselőivel, valamint magyarul beszélő, ukrán származású orvosokkal; a kórház felújításához ukrán, amerikai és magyar források is hozzájárultak.\n\n• **Budapesti meghívás és regionális fórum** Magyar Péter budapesti látogatásra hívta Zelenszkijt, aki jelezte, hogy megvizsgálják ennek lehetőségét. A Kárpáti Nyolcak együttműködéséről is szó esett; Magyar Péter szerint Magyarország akkor csatlakozhat, ha a kezdeményezés valódi regionális fórummá fejlődik.",
     "importance_score": 30.0,
-    "top_rank": 61,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2785,7 +2749,7 @@
     "lead_hu": "Az Országgyűlés kedden elfogadta az árréskorlátozás megszüntetéséről szóló javaslatot. Varga Mihály az érintett termékek korábbi árcsökkenésére hivatkozva úgy látja, hogy a korlátozás feloldása élénkítheti a versenyt, és középtávon mérsékelheti az árakat.",
     "content_hu": "• **Varga az árak mérséklődésére hivatkozott** Az MNB elnöke szerint a jegybank korábbi elemzései alapján az árrésstop alá tartozó termékek jellemzően olcsóbbá váltak, amiben a forint erősödése is szerepet játszhatott. Úgy véli, a korlátozás megszüntetése fokozhatja a versenyt, és idővel alacsonyabb fogyasztói árakat hozhat.\n\n• **A parlament elfogadta a kivezetésről szóló javaslatot** A korábbi szabályozás az érintett élelmiszerek esetében legfeljebb 10, a drogériai termékeknél pedig legfeljebb 15 százalékos árrést tett lehetővé. A változás a kereskedők készletezésére és saját márkás termékeire vonatkozó előírásokat is megszünteti.\n\n• **Az októberi adatok eltérő ármozgásokat mutattak** Az árréskorlátozással érintett élelmiszercsoportok közül a burgonya és az étolaj drágult, míg a legnagyobb árcsökkenést a húskonzerveknél mérték. A vaj, a gyümölcsök, a sertéshús és a sajt ára szintén visszaesett.\n\n• **Megoszlanak a várakozások a kivezetés hatásáról** Horthay Olivér fideszes képviselő további drágulásra számít, míg a kormány a verseny erősödésétől és a karácsonyi akcióktól vár kedvezőbb árakat. A Lidl üdvözölte a döntést, de közlése szerint a változás nem okoz érdemi fordulatot a vásárlók mindennapjaiban.",
     "importance_score": 30.0,
-    "top_rank": 62,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2826,7 +2790,7 @@
     "lead_hu": "A Főpolgármesteri Hivatalban 100 álláshely megszüntetését tervezik, hogy hozzájáruljanak a személyi kiadások mérsékléséhez. A főváros 2027-re egymilliárd forintos csökkentést vállalt ezen a területen.",
     "content_hu": "• **Egymilliárdos cél** A Főpolgármesteri Hivatal 2027-ben egymilliárd forinttal mérsékelné a személyi jellegű kiadásait.\n\n• **Száz álláshely** A javaslat a hivatal jelenlegi 1071 álláshelyéből 100 megszüntetésével számol.\n\n• **A tervezett lépések** A leépítés részeként 36, legalább három hónapja betöltetlen pozíciót szüntetnének meg, emellett 65 munkavállaló elbocsátását tervezik 2027. március 1-jei hatállyal.\n\n• **Húszmilliárdos vállalás** Budapest a kormánnyal kötött megállapodás alapján 20 milliárd forinttal csökkentené működési kiadásait. A megtakarítás részleteiről a decemberi közgyűlésen tárgyalnak.",
     "importance_score": 30.0,
-    "top_rank": 63,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2867,6 +2831,42 @@
     "lead_hu": "Több olyan lehetséges exobolygót is talált két amatőr csillagász, amelyeket a hagyományos keresési módok nem szúrtak ki.",
     "content_hu": "Több olyan lehetséges exobolygót is talált két amatőr csillagász, amelyeket a hagyományos keresési módok nem szúrtak ki.",
     "importance_score": 30.0,
+    "top_rank": 63,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_0fa1939abe",
+    "slug": "fabo-gyrgy-is-gyanusitott-lett-a-sesztak-miklost-erinto-ugyben-0fa193",
+    "tags": [
+      "sesztak-miklos",
+      "fabo-gyorgy",
+      "nyomozas",
+      "korrupcio"
+    ],
+    "fingerprint": "ed100d3153027d179a695ea89eedea9b",
+    "category": "Politika",
+    "image": "https://www.youtube.com/embed/t9zgq3KiDLo",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "6,5 milliárdot ástak elő a földből – most Seszták Miklós üzlettársa is gyanúsított lett",
+        "link": "https://www.atv.hu/belfold/20261126/sesztak-ugy-gyanusitott-uzlettars/"
+      },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Bővül a nyomozás Seszták Miklós-ügyben: gyanúsított lett a volt miniszter bizalmasa",
+        "link": "https://www.portfolio.hu/gazdasag/20261126/bovul-a-nyomozas-sesztak-miklos-ugyben-gyanusitott-lett-a-volt-miniszter-bizalmasa-879298"
+      }
+    ],
+    "published_at": 1795683720,
+    "title_hu": "Fabó György is gyanúsított lett a Seszták Miklóst érintő ügyben",
+    "lead_hu": "Fabó György, Seszták Miklós korábbi fejlesztési miniszter üzleti partnere gyanúsítottként szerepel a volt tárcavezetőt érintő büntetőeljárásban. A nyomozásban korábban 6,5 milliárd forint készpénzt találtak különböző helyszíneken.",
+    "content_hu": "• **Fabó György gyanúsított lett** a Seszták Miklós volt fejlesztési miniszterhez kapcsolódó büntetőeljárásban; ügyvédje megerősítette ezt, őrizetbe vételére azonban nem került sor.\n\n• **A két férfit üzleti kapcsolat fűzte össze:** Seszták korábban Fabó cégeinek dolgozott ügyvédként, később pedig közös tulajdonuk volt egy kisvárdai Opel-kereskedésben.\n\n• **A hatóságok 6,5 milliárd forintnyi készpénzt találtak** erdőkben, széfekben és madáretetőkben; az összeg tulajdonosa továbbra sem tisztázott.\n\n• **Fabót egy másik büntetőügyben is vádolják:** a győri számlagyáros eljárásban költségvetési csalással és hamis magánokirat felhasználásával állították bíróság elé.",
+    "importance_score": 28.0,
     "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
@@ -4082,6 +4082,162 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_587069c011",
+    "slug": "90-szazalekot-zuhant-a-vilag-egyik-legnagyobb-autogyartoja-horrorforgatoknyvet-a-587069",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/s/t/e/stellantis-872694.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "90 százalékot zuhant a világ egyik legnagyobb autógyártója, horrorforgatókönyvet áraznak a befektetők",
+        "link": "https://www.portfolio.hu/befektetes/20261126/90-szazalekot-zuhant-a-vilag-egyik-legnagyobb-autogyartoja-horrorforgatokonyvet-araznak-a-befektetok-878994"
+      }
+    ],
+    "published_at": 1795694400,
+    "title_hu": "90 százalékot zuhant a világ egyik legnagyobb autógyártója, horrorforgatókönyvet áraznak a befektetők",
+    "lead_hu": "Évek óta figyeljük az autóipar vergődését, a kínai versenytársak előretörése és az elektromos átállás nehézségei mára jól ismert problémák. A világ egyik legnagyobb autógyártójánál mostanra egészen dr...",
+    "content_hu": "Évek óta figyeljük az autóipar vergődését, a kínai versenytársak előretörése és az elektromos átállás nehézségei mára jól ismert problémák. A világ egyik legnagyobb autógyártójánál mostanra egészen drámai méretet öltött a válság, a csúcs óta tőzsdei értékének közel 90 százaléka eltűnt, részvényei pedig az ágazaton belül is szélsőségesen alacsony árazáson forognak. A milliárdos veszteségek és az apadó pénzügyi tartalékok egyre sürgetőbbé teszik a fordulatot, ami valahogy mindig \"majd jövőre\" jön.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_8b8e87499a",
+    "slug": "dollarmilliardokat-bukott-az-ai-forradalom-csodagyereke-es-meg-mindig-nem-adja-f-8b8e87",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-lg/a/s/c/asch-872974.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Befektetés",
+        "title": "Dollármilliárdokat bukott az AI-forradalom csodagyereke, és még mindig nem adja fel",
+        "link": "https://www.portfolio.hu/befektetes/20261126/dollarmilliardokat-bukott-az-ai-forradalom-csodagyereke-es-meg-mindig-nem-adja-fel-879278"
+      }
+    ],
+    "published_at": 1795694400,
+    "title_hu": "Dollármilliárdokat bukott az AI-forradalom csodagyereke, és még mindig nem adja fel",
+    "lead_hu": "Még csak 25 éves Leopold Aschenbrenner, de már a világ egyik legismertebb hedge fund menedzsere. Hogy lehetséges ez? A német származású srác az elsők között ismerte fel az AI-forradalomhoz kapcsolódó,...",
+    "content_hu": "Még csak 25 éves Leopold Aschenbrenner, de már a világ egyik legismertebb hedge fund menedzsere. Hogy lehetséges ez? A német származású srác az elsők között ismerte fel az AI-forradalomhoz kapcsolódó, kevésbé nyilvánvaló befektetési lehetőségeket, és 22 évesen saját hedge fundot alapított, amibe a tech világ milliárdosai is beszálltak. Kevesebb mint két év alatt több mint 1000 százalékos hozamot ért el, a csúcson már 45 milliárd dollárnyi befektetési pozíciót mozgatott. Aztán jött az idei nyár, amikor néhány hét alatt összeomlott az alapja, elbukta a pénz kétharmadát. Tanulságos történet következik.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_bde9c8a101",
+    "slug": "wolf-kati-es-wolf-gabor-gyerekkorarol-vallott-neha-meg-bunyoztunk-is-bde9c8",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://cdn.borsonline.hu/2026/11/pp22pJivOJXorjpDqsBEkgnU6lAypPEHBUDEu8Xma9Q/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzI0Lzg0ZTEwOTgxZTVlN2M1MThkYTdkMGIxYjg0ZWY4NDMyYWI0OTIyMWIxOWVjNTFjYTgyOWI5MjljM2Q5OTcwM2Y.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Bors",
+        "title": "Wolf Kati és Wolf Gábor gyerekkoráról vallott: „Néha még bunyóztunk is”",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/wolf-kati-es-batyja-testveri-kapcsolat"
+      }
+    ],
+    "published_at": 1795694400,
+    "title_hu": "Wolf Kati és Wolf Gábor gyerekkoráról vallott: „Néha még bunyóztunk is”",
+    "lead_hu": "Első alkalommal láthattuk együtt a képernyőn az énekesnőt és üzletember bátyját, akik remek dinamikájukkal azonnal belopták magukat a nézők szívébe. Ám kiderült, hogy Wolf Kati és testvére Wolf Gábor ...",
+    "content_hu": "Első alkalommal láthattuk együtt a képernyőn az énekesnőt és üzletember bátyját, akik remek dinamikájukkal azonnal belopták magukat a nézők szívébe. Ám kiderült, hogy Wolf Kati és testvére Wolf Gábor kamerákon túl is egy húron pendülnek, és tűzbe mennének a másikért.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_42b6e42d94",
+    "slug": "kilenc-ev-brtnt-kapott-a-kisfiukat-molesztalo-volt-kiskunfelegyhazi-plebanos-42b6e4",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ba4f4bd5-c47e-4047-a804-25bc28bcce32.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Kilenc év börtönt kapott a kisfiúkat molesztáló volt kiskunfélegyházi plébános",
+        "link": "https://hvg.hu/itthon/20261126_kilenc-ev-bortont-kapott-a-kisfiukat-molesztalo-volt-plebanos"
+      }
+    ],
+    "published_at": 1795694332,
+    "title_hu": "Kilenc év börtönt kapott a kisfiúkat molesztáló volt kiskunfélegyházi plébános",
+    "lead_hu": "A férfi feltételesen sem bocsátható szabadlábra....",
+    "content_hu": "A férfi feltételesen sem bocsátható szabadlábra.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_c6803da92c",
+    "slug": "ujabb-2008-as-lepteku-sszeomlas-jhet-sulyos-figyelmeztetest-adtak-ki-a-hitelmino-c6803d",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2230807736-adatkozpont-szerver-informacios-technologia-informatika-technologia-felh-840700.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Újabb 2008-as léptékű összeomlás jöhet? Súlyos figyelmeztetést adtak ki a hitelminősítők",
+        "link": "https://www.portfolio.hu/gazdasag/20261126/ujabb-2008-as-lepteku-osszeomlas-johet-sulyos-figyelmeztetest-adtak-ki-a-hitelminositok-879364"
+      }
+    ],
+    "published_at": 1795694280,
+    "title_hu": "Újabb 2008-as léptékű összeomlás jöhet? Súlyos figyelmeztetést adtak ki a hitelminősítők",
+    "lead_hu": "A világgazdaság csak komoly nehézségek árán tudna reagálni egy olyan pénzügyi válságra, amelyet a mesterséges intelligenciával (AI) kapcsolatos tőzsdei lufi kipukkadása idézne elő – figyelmeztetett a ...",
+    "content_hu": "A világgazdaság csak komoly nehézségek árán tudna reagálni egy olyan pénzügyi válságra, amelyet a mesterséges intelligenciával (AI) kapcsolatos tőzsdei lufi kipukkadása idézne elő – figyelmeztetett a Scope Ratings. A hitelminősítő elemzői szerint egy esetleges piaci összeomlás esetén a kamatcsökkentések csak korlátozott segítséget nyújtanának, a feszített költségvetések és a politikai patthelyzetek pedig jelentősen megnehezítenék a kormányzati beavatkozást - számolt be a Bloomberg.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_08f2aa90fe",
+    "slug": "rendkivuli-ujabb-szvetsegest-veszitett-magyarorszag-brusszelben-beadta-a-derekat-08f2aa",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://cdn.vg.hu/2026/11/Uyz6HcYMrVmWRtwEnIh2byfAcm3wGT6Dyr9xY-J5xSw/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI2LzMxYzFiMGU2OGQ0ZThkZGI3MDVmYzc4YjcxZmFhOTg3OGQxZjQ5NWIyMDAzMWM3OGUyM2Q0YjhlZjljNzgyNzA.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Világgazdaság",
+        "title": "Rendkívüli: újabb szövetségest veszített Magyarország Brüsszelben – beadta a derekát Bulgária az ukrán gigahitel ügyében",
+        "link": "https://www.vg.hu/kozelet/2026/11/bulgaria-ukrajna-haboru-europai-unio?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+      }
+    ],
+    "published_at": 1795694244,
+    "title_hu": "Rendkívüli: újabb szövetségest veszített Magyarország Brüsszelben – beadta a derekát Bulgária az ukrán gigahitel ügyében",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_d0806e6bad",
     "slug": "lazar-janos-meg-lemondast-igert-vitezy-david-mar-a-felelosseget-sem-vallalja-d0806e",
     "tags": [
@@ -4232,6 +4388,32 @@
     "title_hu": "A Fidesz kezdeményezi Vitézy és a MÁV-vezér soron kívüli meghallgatását a mezőkövesdi vonatbaleset ügyében",
     "lead_hu": "„Az egész országot mélyen megrázó baleset ügyében Vitézy Dávid közlekedési miniszter nem tehet úgy, mintha kívülálló volna\" – fogalmazott a Fidesz-frakció. The post A Fidesz kezdeményezi Vitézy és a M...",
     "content_hu": "„Az egész országot mélyen megrázó baleset ügyében Vitézy Dávid közlekedési miniszter nem tehet úgy, mintha kívülálló volna\" – fogalmazott a Fidesz-frakció. The post A Fidesz kezdeményezi Vitézy és a MÁV-vezér soron kívüli meghallgatását a mezőkövesdi vonatbaleset ügyében first appeared on 24.hu.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_9dbe9aa707",
+    "slug": "nemcsak-megirna-jova-is-hagyna-a-kodot-az-anthropic-9dbe9a",
+    "tags": [
+      "kultura"
+    ],
+    "category": "Kultúra",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HWSW",
+        "title": "Nemcsak megírná, jóvá is hagyná a kódot az Anthropic",
+        "link": "https://www.hwsw.hu/hirek/71254/anthropic-ai-claude-ship-approvals-code-review-github-jovahagyas.html"
+      }
+    ],
+    "published_at": 1795693996,
+    "title_hu": "Nemcsak megírná, jóvá is hagyná a kódot az Anthropic",
+    "lead_hu": "Ha az AI egyre több kódot állít elő, akkor az ellenőrzés és jóváhagyás is legyen az AI dolga. Végülis, mi baj lehet ebből?...",
+    "content_hu": "Ha az AI egyre több kódot állít elő, akkor az ellenőrzés és jóváhagyás is legyen az AI dolga. Végülis, mi baj lehet ebből?",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -20014,214 +20196,6 @@
     "title_hu": "Megnyugtatják a kipirosodott bőrt, csökkentik a gyulladásokat: prebiotikumok a bőrápolásban",
     "lead_hu": "A prebiotikumok egyre nagyobb szerepet kapnak a bőrápolásban, mivel kiválóan erősítik a barriert.",
     "content_hu": "A prebiotikumok egyre nagyobb szerepet kapnak a bőrápolásban, mivel kiválóan erősítik a barriert.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_41e2cde1e2",
-    "slug": "nem-kuld-adatokat-a-voyager-1-nagy-baj-lehet-az-1--41e2cd",
-    "tags": [
-      "kultura"
-    ],
-    "category": "Kultúra",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/efa49cce-d3df-433e-bfeb-04105010dbee.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Nem küld adatokat a Voyager-1, nagy baj lehet az 1 fénynapnyira lévő űrszondával",
-        "link": "https://hvg.hu/tudomany/20261125_voyager-1-urszonda-adatok-hianya-hiba-nasa"
-      }
-    ],
-    "published_at": 1795608180,
-    "title_hu": "Nem küld adatokat a Voyager-1, nagy baj lehet az 1 fénynapnyira lévő űrszondával",
-    "lead_hu": "Probléma támadt a Voyager-1 egyik legfontosabb számítógépével, semmilyen tudományos vagy műszaki adatot nem küld az űrszonda már napok óta.",
-    "content_hu": "Probléma támadt a Voyager-1 egyik legfontosabb számítógépével, semmilyen tudományos vagy műszaki adatot nem küld az űrszonda már napok óta.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_f49440e66c",
-    "slug": "szazmillios-banki-csalasokat-elkveto-bunszervezet--f49440",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fe0004c7-6818-46e3-bfa5-1d544b8d6bb0.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Százmilliós banki csalásokat elkövető bűnszervezet vezetőit fogta el a rendőrség – videó",
-        "link": "https://hvg.hu/itthon/20261125_banki-csalas-tobb-szazmillios-buncselekmeny-bunszervezet-vezetok-elfogas"
-      }
-    ],
-    "published_at": 1795608081,
-    "title_hu": "Százmilliós banki csalásokat elkövető bűnszervezet vezetőit fogta el a rendőrség – videó",
-    "lead_hu": "A fő profiljuk a banki visszaélés volt, de olyan is előfordult, hogy a rendőrség nevében vezették félre áldozataikat. A két kulcsszerepet betöltő férfit bűnszervezetben elkövetett csalás és pénzmosás …",
-    "content_hu": "A fő profiljuk a banki visszaélés volt, de olyan is előfordult, hogy a rendőrség nevében vezették félre áldozataikat. A két kulcsszerepet betöltő férfit bűnszervezetben elkövetett csalás és pénzmosás miatt őrizetbe vették, a bíróság döntött a letartóztatásukról.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_d5abc80605",
-    "slug": "mar-a-telex-appban-is-jatszhatsz-a-telex-puzzle-le-d5abc8",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261125/1795607492-temp-l96hq7q445pucmdmmen_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Már a Telex appban is játszhatsz a Telex Puzzle-lel, és az eredményedet is könnyebb megosztani",
-        "link": "https://telex.hu/kozlemeny/2026/11/25/mar-a-telex-appban-is-jatszhatsz-a-telex-puzzle-lel-es-az-eredmenyedet-is-konnyebb-megosztani"
-      }
-    ],
-    "published_at": 1795608070,
-    "title_hu": "Már a Telex appban is játszhatsz a Telex Puzzle-lel, és az eredményedet is könnyebb megosztani",
-    "lead_hu": "Megnézheted, hány játékosnál voltál gyorsabb, visszanézheted a megoldott pályát, vasárnap pedig extra nyereményekért is játszhatsz. Mutatjuk, mi minden változott a Puzzle-ben a kéréseitek alapján.",
-    "content_hu": "Megnézheted, hány játékosnál voltál gyorsabb, visszanézheted a megoldott pályát, vasárnap pedig extra nyereményekért is játszhatsz. Mutatjuk, mi minden változott a Puzzle-ben a kéréseitek alapján.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_37582c8dbc",
-    "slug": "szalai-piroska-a-vagyonado-versenyhatranyba-hozhat-37582c",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://cdn.hirtv.hu/2026/11/k_mjEiuae8Wv6q_ucIkm0RlPVpIDCrTGtRC4Dl0H65o/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UzYWFiZWYxMTI1ZjQ2ODQ4MTViYjAzMTFkYWUzM2E3.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hír TV",
-        "title": "Szalai Piroska: A vagyonadó versenyhátrányba hozhatja a magyar tulajdonú vállalkozásokat",
-        "link": "https://hirtv.origo.hu/hirtv-gazdasagi-hirei/2026/11/szalai-piroska-a-vagyonado-versenyhatranyba-hozhatja-a-magyar-tulajdonu-vallalkozasokat"
-      }
-    ],
-    "published_at": 1795608069,
-    "title_hu": "Szalai Piroska: A vagyonadó versenyhátrányba hozhatja a magyar tulajdonú vállalkozásokat",
-    "lead_hu": "A tervezett vagyonadó nemcsak a nagy vagyonnal rendelkező magánszemélyeket, hanem a magyar tulajdonú kis- és középvállalkozásokat is érintheti.",
-    "content_hu": "A tervezett vagyonadó nemcsak a nagy vagyonnal rendelkező magánszemélyeket, hanem a magyar tulajdonú kis- és középvállalkozásokat is érintheti.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_f8130ad677",
-    "slug": "budapestet-valasztotta-szingapur-es-nashville-hely-f8130a",
-    "tags": [
-      "gazdasag"
-    ],
-    "category": "Gazdaság",
-    "image": "https://pcdn.hu/articles/images-xl/2/b/6/2b6a0295akos-kaiser-872350.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Budapestet választotta Szingapúr és Nashville helyett a Schneider Electric új globális vezetője",
-        "link": "https://www.portfolio.hu/gazdasag/20261125/budapestet-valasztotta-szingapur-es-nashville-helyett-a-schneider-electric-uj-globalis-vezetoje-878812"
-      }
-    ],
-    "published_at": 1795608000,
-    "title_hu": "Budapestet választotta Szingapúr és Nashville helyett a Schneider Electric új globális vezetője",
-    "lead_hu": "Az energiaigény növekedése, az adatközpontok terjedése és a geopolitikai bizonytalanság egyre összetettebb feladatok elé állítja a globális ellátási láncokat. A vállalatoknak egyszerre kell gyorsan sz…",
-    "content_hu": "Az energiaigény növekedése, az adatközpontok terjedése és a geopolitikai bizonytalanság egyre összetettebb feladatok elé állítja a globális ellátási láncokat. A vállalatoknak egyszerre kell gyorsan szállítaniuk, kordában tartaniuk költségeiket és felkészülniük a váratlan fennakadásokra. Közben a mesterséges intelligencia új lehetőségeket nyit a tervezésben, a fenntarthatósági beruházások pedig az energiafelhasználásra és a pénzügyi teljesítményre is hatással vannak. Milyen mutatók jelzik, hogy jól működik egy ellátási lánc? Hogyan érdemes mérni az AI-megoldások megtérülését, és milyen szerep jut az emberi szakértelemnek? Ezekről kérdeztük Morad Mamere-t, a Schneider Electric Global Supply Chain Budapest Hub pénzügyi területének alelnökét. Az interjúban a magyarországi gyártás és logisztika nemzetközi jelentőségéről, a budapesti központ fejlődési lehetőségeiről és személyes költözési döntéséről is beszélt.A cikk megjelenését a Schneider Electric támogatta.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_7377cb790e",
-    "slug": "mi-lett-a-regi-csatornajaval-berkes-oliver-tiszta--7377cb",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "image": "https://cdn.borsonline.hu/2026/11/Y27mmZG7RA3TU8RvznZ0e4sU1jnWsRvlLATo3uUfT8g/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzI0LzhhYmNjZWI5YjA3NjkyYTc5NThiZWVmOTY3Nzc4YmRlNmFkOWUwNTkyMjZjZDRlMmQwNjhiYjUyZTliMGMwZTY.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Bors",
-        "title": "Mi lett a régi csatornájával? Berkes Olivér tiszta vizet öntött a pohárba a négyéves hallgatása után",
-        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/berkes-oliver-visszateres-tervek"
-      }
-    ],
-    "published_at": 1795608000,
-    "title_hu": "Mi lett a régi csatornájával? Berkes Olivér tiszta vizet öntött a pohárba a négyéves hallgatása után",
-    "lead_hu": "Berkes Olivér készen áll, hogy meghódítsa a slágerlistákat.",
-    "content_hu": "Berkes Olivér készen áll, hogy meghódítsa a slágerlistákat.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_e0c4f12c70",
-    "slug": "a-viz-szalad-de-egy-resze-megmarad-e0c4f1",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "A víz szalad, de egy része megmarad",
-        "link": "https://444.hu/2026/11/25/a-viz-szalad-de-egy-resze-megmarad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1795607935,
-    "title_hu": "A víz szalad, de egy része megmarad",
-    "lead_hu": "A miniszterek arról posztolnak, hogy az árhullámból feltöltik a tározókat, holtágakat, öntözőrendszereket.",
-    "content_hu": "A miniszterek arról posztolnak, hogy az árhullámból feltöltik a tározókat, holtágakat, öntözőrendszereket.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_6452d8a85b",
-    "slug": "olcsobb-lesz-az-aram-a-vallalkozasoknak-de-a-szaml-6452d8",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261125/1795602538-temp-8odk2osadjb46dnailb_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Olcsóbb lesz az áram a vállalkozásoknak, de a számla nem tűnik el",
-        "link": "https://telex.hu/g7/vallalat/2026/11/25/ipari-rezsicsokkentes-aramar-lakossag-kompenzacio-kerdesek"
-      }
-    ],
-    "published_at": 1795607910,
-    "title_hu": "Olcsóbb lesz az áram a vállalkozásoknak, de a számla nem tűnik el",
-    "lead_hu": "A rendszerhasználati díjakat módosító tarifacsomag segíthet az iparnak, de nyitott kérdés, hogy a kedvezmények árát végül ki fizeti meg, és hogy a rendszer közben nem okoz-e újabb torzulásokat.",
-    "content_hu": "A rendszerhasználati díjakat módosító tarifacsomag segíthet az iparnak, de nyitott kérdés, hogy a kedvezmények árát végül ki fizeti meg, és hogy a rendszer közben nem okoz-e újabb torzulásokat.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
