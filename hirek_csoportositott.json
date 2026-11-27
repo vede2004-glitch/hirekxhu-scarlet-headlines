@@ -1,46 +1,5 @@
 [
   {
-    "group_id": "group_6d7bc164ff",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Már fenn van a téli gumi? Erre is nagyon figyeljen, a pénztárcája bánhatja!",
-        "link": "https://www.atv.hu/egyeb/20261126/teli-gumi-sporolas-nyomas/",
-        "image": "",
-        "summary": "Egy kis odafigyeléssel spórolhatunk és kellemetlenségektől kímélhetjük meg magunkat! Ne csak cserék környékén ellenőrizzük a guminyomást!",
-        "category": "Általános",
-        "published_at": 1795660380
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "A téli gumi nem kötelező, de ilyen időben az autód múlhat rajta",
-        "link": "https://telex.hu/techtud/2026/11/26/teli-autozas-kozlekedesbiztonsag-baleset-megelozes-teli-gumi",
-        "image": "https://assets.telex.hu/images/20261126/1795699992-temp-61q0mojrh5046gnecbl_cimlap-normal.jpg",
-        "summary": "Egyszerű összefüggések azoknak, akik szerint egy korszerű autó elektronikája minden helyzetet segít megoldani. Szakértővel magyarázzuk el, miért életveszély ilyenkor a nyári gumi, és adunk néhány vezetési tippet a baj megelőzésére.",
-        "category": "Politika",
-        "published_at": 1795705648
-      }
-    ]
-  },
-  {
-    "group_id": "group_ef18f87489",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Egy ötgyermekes édesanya már egy hónappal karácsony előtt elkészíti az ünnepi vacsorát - elárulta az okokat",
-        "link": "https://nlc.hu/advent_unnepi_menu/20261126/karacsonyi-vacsora-elkeszites-lefagyasztas/5br3xh6",
-        "image": "",
-        "summary": "Stresszmentes karácsonyt akart a családanya, ezért már egy hónappal korábban elkészíti a karácsonyi vacsorát és lefagyasztja. The post Egy ötgyermekes édesanya már egy hónappal karácsony előtt elkészíti az ünnepi vacsorát - elárulta az okokat first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1795660500
-      }
-    ]
-  },
-  {
     "group_id": "group_8bd066184d",
     "category": "Általános",
     "articles_count": 1,
@@ -9818,6 +9777,22 @@
     ]
   },
   {
+    "group_id": "group_6d7bc164ff",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "A téli gumi nem kötelező, de ilyen időben az autód múlhat rajta",
+        "link": "https://telex.hu/techtud/2026/11/26/teli-autozas-kozlekedesbiztonsag-baleset-megelozes-teli-gumi",
+        "image": "https://assets.telex.hu/images/20261126/1795699992-temp-61q0mojrh5046gnecbl_cimlap-normal.jpg",
+        "summary": "Egyszerű összefüggések azoknak, akik szerint egy korszerű autó elektronikája minden helyzetet segít megoldani. Szakértővel magyarázzuk el, miért életveszély ilyenkor a nyári gumi, és adunk néhány vezetési tippet a baj megelőzésére.",
+        "category": "Politika",
+        "published_at": 1795705648
+      }
+    ]
+  },
+  {
     "group_id": "group_59df84ef2d",
     "category": "Politika",
     "articles_count": 3,
@@ -13562,6 +13537,38 @@
         "summary": "A magyar kormányfő szerint eleve nem volt sok értelme a megbeszélésnek, és senki nem értett egyet azzal, ami az ülés elnöke szerint zajlott.",
         "category": "Politika",
         "published_at": 1795737118
+      }
+    ]
+  },
+  {
+    "group_id": "group_9ee84708af",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Három ökölszabály, amit érdemes betartani, ha kályhával fűt",
+        "link": "https://www.atv.hu/egyeb/20261127/kalyha-futes-szabaly/",
+        "image": "https://www.youtube.com/embed/kaNRopswAHA",
+        "summary": "Százezrek fűtenek kályhával Magyarországon napjainkban is, fontos betartani néhány szabályt, biztonságunk és kényelmünk érdekében is!",
+        "category": "Általános",
+        "published_at": 1795746780
+      }
+    ]
+  },
+  {
+    "group_id": "group_f54c79b3bd",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Szakított a Házasság első látásra álompárja, Anastasia és Máté: „Eddig tartott a lila köd”",
+        "link": "https://nlc.hu/sztarok/20261127/hazassag-elso-latasra-szakitas-anastasia-es-mate/r40f5rb",
+        "image": "",
+        "summary": "Véget ért a szerelem, többé már nem alkot egy párt a Házasság első látásra 4. évadának álompárja, Moritz Anastasia és Varga Máté. The post Szakított a Házasság első látásra álompárja, Anastasia és Máté: „Eddig tartott a lila köd” first appeared on nlc.",
+        "category": "Politika",
+        "published_at": 1795746780
       }
     ]
   }
