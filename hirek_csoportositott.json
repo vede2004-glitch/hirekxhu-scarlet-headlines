@@ -66,19 +66,108 @@
     ]
   },
   {
-    "group_id": "group_a0978902f7",
+    "group_id": "group_5fb36333f9",
     "category": "Politika",
-    "articles_count": 9,
+    "articles_count": 1,
     "articles": [
       {
         "source": "Index - Címlap",
-        "title": "Bejelentették Orbán Viktor új kezdeményezését",
-        "link": "https://index.hu/belfold/2026/11/26/orban-balazs-orban-viktor-fidesz-pro-patria-nemzetkozi-alapitvany/",
-        "image": "",
-        "summary": "A Fidesz volt kampányfőnöke is szerepet kap benne.",
+        "title": "Rendkívüli bejelentést tett Kapitány István: feljelentést tesznek a Magyar Posta átvilágítása nyomán",
+        "link": "https://index.hu/gazdasag/2026/11/26/magyar-posta-feljelentes-atvilagitas-azdasagi-es-energetikai-miniszterium-kapitany-istvan/",
+        "image": "https://kep.index.hu/1/0/7270/72707/727078/72707809_5356609_050480ef8cf615a6d300091c949219ef_wm.jpg",
+        "summary": "Nagy Márton korábbi nemzetgazdasági miniszter neve is előkerült.",
         "category": "Politika",
-        "published_at": 1795712460
+        "published_at": 1795712820
+      }
+    ]
+  },
+  {
+    "group_id": "group_3cbbcc82dc",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Tündéri videó a Megasztár kulisszái mögül, így vigyáz Dallos Bogi Kokics Dominika kisbabájára, míg ő a próbál",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/26/tunderi-video-a-megasztar-kulisszai-mogul-igy-vigyaz-dallos-bogi-kokics-dominika-kisbabajara-mig-o-a-szinpadon-probal/",
+        "image": "https://kep.index.hu/1/0/7271/72718/727184/72718437_e0673f32caaf93b9026c6550a63b2b16_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1795712774
+      }
+    ]
+  },
+  {
+    "group_id": "group_e926cedc73",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Feljelentést tesznek Kapitányék a Magyar Posta átvilágítása után, több cég Tiborcz Istvánhoz köthető",
+        "link": "https://hvg.hu/itthon/20261126_kapitany-istvan-atvilagitos-magyar-posta-feljelentes",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1230587a-a99b-4845-b63d-ec78fa898999.jpg",
+        "summary": "Három ügyet emelt ki a miniszter, összesen 34 milliárd forint értékben.",
+        "category": "Politika",
+        "published_at": 1795712780
+      }
+    ]
+  },
+  {
+    "group_id": "group_8c5c1a21bd",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Az agyunk becsap minket, de próbálja kijavítani – így működik a déjà vu",
+        "link": "https://raketa.hu/az-agyunk-becsap-minket-de-probalja-kijavitani-igy-mukodik-a-deja-vu-2/",
+        "image": "https://raketa.hu/uploads/2021/12/lany_arc.jpg",
+        "summary": "A déjà vu nehezen tanulmányozható jelenség, mivel váratlanul következik be és nehéz körbeírni a pillanatnyi érzést. Milyen teóriákkal magyarázzák a tudósok a memória furcsa kisiklását? A videóból kiderül.",
+        "category": "Kultúra",
+        "published_at": 1795716053
+      }
+    ]
+  },
+  {
+    "group_id": "group_eb9839c3ad",
+    "category": "Gazdaság",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Matolcsy György meghallgatását a börtönben tervezi az MNB-vizsgálóbizottság",
+        "link": "https://index.hu/gazdasag/2026/11/26/matolcsy-gyorgy-mnb-ugy-meghallgatas-parlamenti-vizsgalobizottsag/",
+        "image": "https://kep.index.hu/1/0/5815/58159/581590/58159031_4303229_9f71a1adceb886de76f244f9131392ed_wm.jpg",
+        "summary": "Élő közvetítésre nem lesz lehetőség.",
+        "category": "Gazdaság",
+        "published_at": 1795713120
       },
+      {
+        "source": "ATV",
+        "title": "A börtönben hallgatná meg Matolcsy Györgyöt a vizsgálóbizottság az MNB-ügyben – Feltételeket szabott a volt jegybankelnök",
+        "link": "https://www.atv.hu/belfold/20261126/mnb-ugy-matolcsy-gyorgy-meghallgatas/",
+        "image": "https://www.youtube.com/embed/YIlc-dO8SDs",
+        "summary": "A börtönben hallgatná meg Matolcsy Györgyöt az MNB-ügyet vizsgáló parlamenti bizottság – erről döntött csütörtöki ülésén a testület. A volt jegybankelnök ugyan jelezte, hogy kész megjelenni a képviselők előtt, de feltételeket szabott: nem akar bilincsben vagy vezetőszáron kamerák elé állni.",
+        "category": "Politika",
+        "published_at": 1795713480
+      },
+      {
+        "source": "Vadhajtások",
+        "title": "Matolcsy György meghallgatását a börtönben tervezi az MNB-vizsgálóbizottság",
+        "link": "https://www.vadhajtasok.hu/2026/11/26/matolcsy-gyorgy-meghallgatasat-a-bortonben-tervezi-az-mnb-vizsgalobizottsag",
+        "image": "",
+        "summary": "A Fővárosi Büntetés-végrehajtási Intézetben hallgatná meg Matolcsy György volt jegybankelnököt az MNB működésével kapcsolatos visszaéléseket vizsgáló országgyűlési bizottság. A testület csütörtökön döntött a helyszínről, miután a bv-intézet...",
+        "category": "Politika",
+        "published_at": 1795720200
+      }
+    ]
+  },
+  {
+    "group_id": "group_a0978902f7",
+    "category": "Politika",
+    "articles_count": 8,
+    "articles": [
       {
         "source": "444.hu",
         "title": "Itt az új fideszes alapítvány, Orbán Viktor alapította, Orbán Balázs vezeti, a cél: Európa bekebelezése",
@@ -154,234 +243,6 @@
     ]
   },
   {
-    "group_id": "group_1b63b1d0ff",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Mi tud itt még drágulni? – 3 tévhit a magyar euróról",
-        "link": "https://www.portfolio.hu/gazdasag/20261126/mi-tud-itt-meg-dragulni-3-tevhit-a-magyar-eurorol-879478",
-        "image": "https://pcdn.hu/articles/images-xl/p/f/_/pf-bigpicture-thumbnail-1920x1080-ep01-1-873226.jpg",
-        "summary": "\"Mi tud drágulni? Az, ami olcsó. Dehát mi olcsó még itt?\" – hangzik el a Portfolio Big Picture első adásában az euróbevezetéssel kapcsolatos félelmekről. Az új videós podcastben Madár István, a Portfolio vezető gazdasági elemzője és Duronelly Péter közgazdász arról beszélget, mit hozhat a közös pénz a magyarok pénztárcájának, milyen árfolyamon lenne érdemes búcsúzni a forinttól, és miért nem úszható meg a költségvetési rendrakás – euró ide vagy oda.",
-        "category": "Gazdaság",
-        "published_at": 1795712400
-      }
-    ]
-  },
-  {
-    "group_id": "group_9f8ec9d4f8",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Lelepleződött, mit szervezett eddig a háttérben Orbán Viktor: itt vannak az első részletek – világszintű patrióta hálózat születik",
-        "link": "https://www.vg.hu/kozelet/2026/11/orban-viktor-pro-patria-alapitvany-nemzetkozi-halozat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/04/lz2aiB_x0DijTAwgMOZnS2_p4SC2vLrIBaYfxH0xOdw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBlNzU0ODJlYzQ0MTQ5NWI5NmQ2NGNmYzE1OTM4YTc0.jpg",
-        "summary": "Fontos bejelentés tett a korábbi politikai igazgató.",
-        "category": "Politika",
-        "published_at": 1795712477
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Lelepleződött, mit szervezett eddig a háttérben Orbán Viktor: itt vannak az első részletek – világszintű patrióta hálózat születik",
-        "link": "https://www.vadhajtasok.hu/2026/11/26/leleplezodott-mit-szervezett-eddig-a-hatterben-orban-viktor-itt-vannak-az-elso-reszletek-vilagszintu-patriota-halozat-szuletik",
-        "image": "",
-        "summary": "Fontos bejelentés érkezett Orbán Viktor korábbi politikai igazgatójától. Orbán Balázs egy új alapítvány létrejöttéről számolt be, amelynek célja egy nemzetközi kutatóintézet felépítése, és a hagyományos értékek mentén gondolkodók összekötése. Mindek...",
-        "category": "Politika",
-        "published_at": 1795716480
-      }
-    ]
-  },
-  {
-    "group_id": "group_8d95f69cd4",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "Kísértetjárás egy vidéki farmon: csuklyás rémalak és egy szellemkisfiú tartotta rettegésben a családot",
-        "link": "https://borsonline.origo.hu/magia/2026/11/hollymount-farm-kisertetjarta-birtok",
-        "image": "https://cdn.borsonline.hu/2026/11/6K6SuaQfs7Bftqk7EAnffZB7zLgH_-Qf5buZHp4TFBo/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzI0L2U1YmIzMmY3OGU2NmQ0YWZmNTBmMDFiNDEyM2FkMGU0MDc0NjNmNmZhYzEwMWE4NGQ0NzU3ZWM3NzZhZTdkZjQ.jpg",
-        "summary": "Három generáció élete vált rémálommá a vidéki birtokon.",
-        "category": "Bulvár",
-        "published_at": 1795712400
-      }
-    ]
-  },
-  {
-    "group_id": "group_5fb36333f9",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Rendkívüli bejelentést tett Kapitány István: feljelentést tesznek a Magyar Posta átvilágítása nyomán",
-        "link": "https://index.hu/gazdasag/2026/11/26/magyar-posta-feljelentes-atvilagitas-azdasagi-es-energetikai-miniszterium-kapitany-istvan/",
-        "image": "https://kep.index.hu/1/0/7270/72707/727078/72707809_5356609_050480ef8cf615a6d300091c949219ef_wm.jpg",
-        "summary": "Nagy Márton korábbi nemzetgazdasági miniszter neve is előkerült.",
-        "category": "Politika",
-        "published_at": 1795712820
-      }
-    ]
-  },
-  {
-    "group_id": "group_3cbbcc82dc",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Tündéri videó a Megasztár kulisszái mögül, így vigyáz Dallos Bogi Kokics Dominika kisbabájára, míg ő a próbál",
-        "link": "https://index.hu/mindekozben/poszt/2026/11/26/tunderi-video-a-megasztar-kulisszai-mogul-igy-vigyaz-dallos-bogi-kokics-dominika-kisbabajara-mig-o-a-szinpadon-probal/",
-        "image": "https://kep.index.hu/1/0/7271/72718/727184/72718437_e0673f32caaf93b9026c6550a63b2b16_wm.jpg",
-        "summary": "",
-        "category": "Általános",
-        "published_at": 1795712774
-      }
-    ]
-  },
-  {
-    "group_id": "group_e926cedc73",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Feljelentést tesznek Kapitányék a Magyar Posta átvilágítása után, több cég Tiborcz Istvánhoz köthető",
-        "link": "https://hvg.hu/itthon/20261126_kapitany-istvan-atvilagitos-magyar-posta-feljelentes",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1230587a-a99b-4845-b63d-ec78fa898999.jpg",
-        "summary": "Három ügyet emelt ki a miniszter, összesen 34 milliárd forint értékben.",
-        "category": "Politika",
-        "published_at": 1795712780
-      }
-    ]
-  },
-  {
-    "group_id": "group_1c9da2773e",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Ruff Bálint: Ez nem egyszerű kormányváltás, hiába gondolják ezt volt kollégáim",
-        "link": "https://444.hu/2026/11/26/ruff-balint-ez-nem-egyszeru-kormanyvaltas-hiaba-gondoljak-ezt-volt-kollegaim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A Tisza-kormány népszerűségével nem az történik, amire a politológusszakma számított – mondta a 444-nek adott interjúban Ruff Bálint miniszterelnök-helyettes. Szerinte a szocialista elit viselkedett úgy a 2010-es évek elején, mint most a fideszesek, akik nem néznek szembe azzal, hogy miért buktak meg.",
-        "category": "Politika",
-        "published_at": 1795712416
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Ruff Bálint: a NER teljes lebontásához még idő kell, de kormányváltásnál több történt áprilisban",
-        "link": "https://www.portfolio.hu/gazdasag/20261126/ruff-balint-a-ner-teljes-lebontasahoz-meg-ido-kell-de-kormanyvaltasnal-tobb-tortent-aprilisban-879504",
-        "image": "https://pcdn.hu/articles/images-xl/d/s/z/dszzs20260608055-1-873258.jpg",
-        "summary": "A Tisza Párt kétharmados áprilisi győzelme óta eltelt időszak nem csupán kormányváltást, hanem valódi rendszerváltást hozott Magyarországon – hangsúlyozta Ruff Bálint Miniszterelnökséget vezető miniszter a 444 interjújában. A tárcavezető beszélt a NER-hez köthető cégek \"gazdasági rombolásának\" óvatos felszámolásáról, az ügynökakták körüli végrehajtási hibákról, valamint Feledy Botond menesztéséről is.",
-        "category": "Politika",
-        "published_at": 1795717680
-      }
-    ]
-  },
-  {
-    "group_id": "group_14ef003211",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "444.hu",
-        "title": "Ruff Bálint a 444-nek: A politikai rendszerváltás jól működik, a gazdaságihoz még türelem kell",
-        "link": "https://444.hu/2026/11/26/ruff-balint-a-444-nek-a-politikai-rendszervaltas-jol-mukodik-a-gazdasagihoz-meg-turelem-kell?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A Miniszterelnökséget vezető miniszter szerint a magyar állam a legrosszabb konstrukciókkal pazarolta a közvagyont a semmire a Fidesz-kormány alatt. Az interjúban arról is beszélt: nem normális országban éltünk az elmúlt 16 évben, és nem fér bele, hogy Feledy Botond a Fidesznek is dolgozott.",
-        "category": "Politika",
-        "published_at": 1795712392
-      }
-    ]
-  },
-  {
-    "group_id": "group_9877cb1654",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Posta átvilágítása: 34 milliárd forint értékű ügylet miatt tettek feljelentést Kapitány Istvánék",
-        "link": "https://24.hu/fn/gazdasag/2026/11/26/posta-atvilagitas-kapitany-istvan-34-milliard-kozpenz-feljelentes/",
-        "image": "https://s.24.hu/app/uploads/2026/11/posta-e1795711584131-1024x577.jpg",
-        "summary": "Kapitány István szerint az is kérdés, hogy „miért kellett a posta nyereséges üzletágait magánkézbe adni”. The post Posta átvilágítása: 34 milliárd forint értékű ügylet miatt tettek feljelentést Kapitány Istvánék first appeared on 24.hu.",
-        "category": "Gazdaság",
-        "published_at": 1795712473
-      }
-    ]
-  },
-  {
-    "group_id": "group_cfdef576a2",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Holdjárót fejleszt Japán, Indiával közösen keresének vizet a Holdon",
-        "link": "https://hvg.hu/tudomany/20261126_jaxa-japan-holdjaro-fejlesztes-hold-viz-keresese",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4d771509-f7a4-4a4c-8b66-e39037d47d74.jpg",
-        "summary": "Rakéta-üzemanyag előállítására is felhasználná Japán a holdi vízkészletet, már amennyiben sikerül megtalálni azt az égitest déli pólusán.",
-        "category": "Kultúra",
-        "published_at": 1795712580
-      }
-    ]
-  },
-  {
-    "group_id": "group_8c5c1a21bd",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Az agyunk becsap minket, de próbálja kijavítani – így működik a déjà vu",
-        "link": "https://raketa.hu/az-agyunk-becsap-minket-de-probalja-kijavitani-igy-mukodik-a-deja-vu-2/",
-        "image": "https://raketa.hu/uploads/2021/12/lany_arc.jpg",
-        "summary": "A déjà vu nehezen tanulmányozható jelenség, mivel váratlanul következik be és nehéz körbeírni a pillanatnyi érzést. Milyen teóriákkal magyarázzák a tudósok a memória furcsa kisiklását? A videóból kiderül.",
-        "category": "Kultúra",
-        "published_at": 1795716053
-      }
-    ]
-  },
-  {
-    "group_id": "group_eb9839c3ad",
-    "category": "Gazdaság",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Matolcsy György meghallgatását a börtönben tervezi az MNB-vizsgálóbizottság",
-        "link": "https://index.hu/gazdasag/2026/11/26/matolcsy-gyorgy-mnb-ugy-meghallgatas-parlamenti-vizsgalobizottsag/",
-        "image": "https://kep.index.hu/1/0/5815/58159/581590/58159031_4303229_9f71a1adceb886de76f244f9131392ed_wm.jpg",
-        "summary": "Élő közvetítésre nem lesz lehetőség.",
-        "category": "Gazdaság",
-        "published_at": 1795713120
-      },
-      {
-        "source": "ATV",
-        "title": "A börtönben hallgatná meg Matolcsy Györgyöt a vizsgálóbizottság az MNB-ügyben – Feltételeket szabott a volt jegybankelnök",
-        "link": "https://www.atv.hu/belfold/20261126/mnb-ugy-matolcsy-gyorgy-meghallgatas/",
-        "image": "https://www.youtube.com/embed/YIlc-dO8SDs",
-        "summary": "A börtönben hallgatná meg Matolcsy Györgyöt az MNB-ügyet vizsgáló parlamenti bizottság – erről döntött csütörtöki ülésén a testület. A volt jegybankelnök ugyan jelezte, hogy kész megjelenni a képviselők előtt, de feltételeket szabott: nem akar bilincsben vagy vezetőszáron kamerák elé állni.",
-        "category": "Politika",
-        "published_at": 1795713480
-      },
-      {
-        "source": "Vadhajtások",
-        "title": "Matolcsy György meghallgatását a börtönben tervezi az MNB-vizsgálóbizottság",
-        "link": "https://www.vadhajtasok.hu/2026/11/26/matolcsy-gyorgy-meghallgatasat-a-bortonben-tervezi-az-mnb-vizsgalobizottsag",
-        "image": "",
-        "summary": "A Fővárosi Büntetés-végrehajtási Intézetben hallgatná meg Matolcsy György volt jegybankelnököt az MNB működésével kapcsolatos visszaéléseket vizsgáló országgyűlési bizottság. A testület csütörtökön döntött a helyszínről, miután a bv-intézet...",
-        "category": "Politika",
-        "published_at": 1795720200
-      }
-    ]
-  },
-  {
     "group_id": "group_fd792b9393",
     "category": "Általános",
     "articles_count": 1,
@@ -442,22 +303,6 @@
         "summary": "Boldogabbak azok, akik korán előveszik a fényfüzéreket.",
         "category": "Bulvár",
         "published_at": 1795713600
-      }
-    ]
-  },
-  {
-    "group_id": "group_472ae1e8a1",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "NLC (Nők Lapja Café)",
-        "title": "Megérkezett a hó, indul a szánkóvadászat: mutatjuk, hol és mennyiért vehetsz most szánkót",
-        "link": "https://nlc.hu/ezvan/20261126/szanko-arak-havazas-2026/s88w3yf",
-        "image": "",
-        "summary": "Alig érkezett meg az első komolyabb havazás, máris megduplázódott a szánkók iránti érdeklődés, miközben jóval szűkebb a kínálat, mint tavaly ilyenkor. Mutatjuk, hol és milyen áron szerezheted be a téli mókázás kellékeit, mielőtt elkapkodják a legnépszer The post Megérkezett a hó, indul a szánkóvadászat: mutatjuk, hol és mennyiért vehetsz most szánkót first appeared on nlc.",
-        "category": "Bulvár",
-        "published_at": 1795712580
       }
     ]
   },
@@ -581,6 +426,22 @@
         "summary": "Kapitány István azt mondta: a vizsgált ügyek nagy részénél az előző kormány minisztere, Nagy Márton gyakorolta a tulajdonosi jogokat.",
         "category": "Politika",
         "published_at": 1795713155
+      }
+    ]
+  },
+  {
+    "group_id": "group_9f8ec9d4f8",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vadhajtások",
+        "title": "Lelepleződött, mit szervezett eddig a háttérben Orbán Viktor: itt vannak az első részletek – világszintű patrióta hálózat születik",
+        "link": "https://www.vadhajtasok.hu/2026/11/26/leleplezodott-mit-szervezett-eddig-a-hatterben-orban-viktor-itt-vannak-az-elso-reszletek-vilagszintu-patriota-halozat-szuletik",
+        "image": "",
+        "summary": "Fontos bejelentés érkezett Orbán Viktor korábbi politikai igazgatójától. Orbán Balázs egy új alapítvány létrejöttéről számolt be, amelynek célja egy nemzetközi kutatóintézet felépítése, és a hagyományos értékek mentén gondolkodók összekötése. Mindek...",
+        "category": "Politika",
+        "published_at": 1795716480
       }
     ]
   },
@@ -1154,7 +1015,7 @@
   {
     "group_id": "group_b124f3e976",
     "category": "Politika",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "ATV",
@@ -1209,6 +1070,15 @@
         "summary": "A miniszterelnök telefonon beszélt, a képviselővel, aki már jobban van. The post „Nem tűröm” – Magyar Péter megszólalt a parlementben síró tiszás képviselő ügyében first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1795791331
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hol tart a rendszerváltás?",
+        "link": "https://24.hu/belfold/2026/11/27/podcast-haromharmad-rendszervaltas-ukrajna-ruff-balint/",
+        "image": "https://s.24.hu/app/uploads/2026/11/ill24_hh_1128-1024x576.jpg",
+        "summary": "Magyar Péter Zelenszkijjel röplabdázik Beregszászon – innen indul a Háromharmadban Bita Dániel, Jankovics Márton, valamint Nagy József. A Tisza-kormány Ukrajna-politikáján túl szó esik olyan abszurdokról, mint Rétvári Bence „?!?” írásjele, s hogy Orbán Viktor miért kacérkodik guruló amerikai dollárokkal The post Hol tart a rendszerváltás? first appeared on 24.hu.",
+        "category": "Politika",
+        "published_at": 1795798776
       }
     ]
   },
@@ -1689,6 +1559,22 @@
     ]
   },
   {
+    "group_id": "group_1c9da2773e",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Ruff Bálint: a NER teljes lebontásához még idő kell, de kormányváltásnál több történt áprilisban",
+        "link": "https://www.portfolio.hu/gazdasag/20261126/ruff-balint-a-ner-teljes-lebontasahoz-meg-ido-kell-de-kormanyvaltasnal-tobb-tortent-aprilisban-879504",
+        "image": "https://pcdn.hu/articles/images-xl/d/s/z/dszzs20260608055-1-873258.jpg",
+        "summary": "A Tisza Párt kétharmados áprilisi győzelme óta eltelt időszak nem csupán kormányváltást, hanem valódi rendszerváltást hozott Magyarországon – hangsúlyozta Ruff Bálint Miniszterelnökséget vezető miniszter a 444 interjújában. A tárcavezető beszélt a NER-hez köthető cégek \"gazdasági rombolásának\" óvatos felszámolásáról, az ügynökakták körüli végrehajtási hibákról, valamint Feledy Botond menesztéséről is.",
+        "category": "Politika",
+        "published_at": 1795717680
+      }
+    ]
+  },
+  {
     "group_id": "group_c90a3dc82f",
     "category": "Politika",
     "articles_count": 1,
@@ -2001,7 +1887,7 @@
   {
     "group_id": "group_b13812c3e6",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -2020,6 +1906,15 @@
         "summary": "A dalszövegben Magyar Péter és a „Zsolti bácsi” néven emlegetett ügy is előkerül. The post T. Danny maszk nélkül szerepel legújabb klipjében, új dalában politikai kiszólások is vannak first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1795765811
+      },
+      {
+        "source": "Bors",
+        "title": "Megvált a maszkjától T. Danny: keményen üzent új klipjében a rapper",
+        "link": "https://borsonline.origo.hu/magyar-sztarhirek/2026/11/t-danny-maszk-uj-dal-klip",
+        "image": "https://cdn.borsonline.hu/2026/11/dZLS6OYVoVXUl_fMyyRcVyH2HUarqIpKsx8FWV_Zpfk/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzI3LzJlMjdiZTU1MGZlMDNjY2ZiY2I2NmIzYjRmODYzZGYyM2RkNDc2M2VhN2RmOGM5NjQ0MDUxOWQ0ZDNkZjc4ZGM.jpg",
+        "summary": "Új dallal és videóklippel jelentkezett.",
+        "category": "Bulvár",
+        "published_at": 1795798800
       }
     ]
   },
@@ -10905,7 +10800,7 @@
   {
     "group_id": "group_11e179d45c",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Telex - Belföld",
@@ -10933,6 +10828,15 @@
         "summary": "A NER-közeli producer arra hivatkozott, hogy üzleti tevékenysége „nemzetgazdasági érdeknek” tekinthető. Orbán Anita érvénytelenné nyilvánította Rákay Philip diplomata-útlevelét.",
         "category": "Politika",
         "published_at": 1795795559
+      },
+      {
+        "source": "444.hu",
+        "title": "Rákay Philip diplomata-útlevelet kért, mert „cégtulajdonosként sokat utazik a világban”, másnapra kapott egyet Szijjártó Pétertől",
+        "link": "https://444.hu/2026/11/27/rakay-philip-diplomata-utlevelet-kert-mert-cegtulajdonoskent-sokat-utazik-a-vilagban-masnapra-kapott-egyet-szijjarto-petertol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "„Az üzleti életben létfontosságú, hogy az ember időben odaérjen a tárgyalásaira” – indokolta kérését a filmes.",
+        "category": "Politika",
+        "published_at": 1795798660
       }
     ]
   },
@@ -12859,6 +12763,54 @@
         "summary": "Erős napot zárt pénteken a budapesti tőzsde, a BUX-index 2,8 százalékkal emelkedett az előző záróértékhez képest. A hosszú távú trend továbbra is emelkedő, rövid és középtávon azonban még csökkenő irányt jeleznek a mozgóátlagok. Mind a négy hazai blue chip árfolyama nőtt, a közepes kapitalizációjú papírok közül pedig az Appeninn 10, a Rába 5,1 százalékkal erősödött. A legnagyobb forgalom az OTP részvényeiben volt, amelyekből 20,9 milliárd forint értékben kötöttek üzletet.",
         "category": "Gazdaság",
         "published_at": 1795796100
+      }
+    ]
+  },
+  {
+    "group_id": "group_78cdae5c26",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Csődök és leépítések: egyre nő a munkanélküliség itthon",
+        "link": "https://hirtv.origo.hu/hirtv-gazdasagi-hirei/2026/11/csodok-es-leepitesek-egyre-no-a-munkanelkuliseg-itthon",
+        "image": "https://cdn.hirtv.hu/2026/11/Y6q0qFQ5cMx3SRInFlE_AuledKaYUmyJTXrE4VvYxbI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzAyYzkwMjRkMzQxODQ0NWVhMWE2OGUzYTMxYmVlNTQ3.jpg",
+        "summary": "Nő a munkanélküliség",
+        "category": "Politika",
+        "published_at": 1795798754
+      }
+    ]
+  },
+  {
+    "group_id": "group_79e565709d",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Önnek is van Darwin-dudora? – Így nézheti meg",
+        "link": "https://raketa.hu/onnek-is-van-darwin-dudora-igy-nezheti-meg/",
+        "image": "https://raketa.hu/uploads/2025/03/ear-207405_1280.jpg",
+        "summary": "Egykor fontos szerepe volt.",
+        "category": "Kultúra",
+        "published_at": 1795799019
+      }
+    ]
+  },
+  {
+    "group_id": "group_7e90cdad0d",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "NLC (Nők Lapja Café)",
+        "title": "Pásztor Anna erre költötte az utolsó 20 ezer forintját",
+        "link": "https://nlc.hu/sztarok/20261127/pasztor-annanak-nincs-anyagi-tartaleka/cyqw2b2",
+        "image": "",
+        "summary": "Pásztor Anna a koronavírus-járvány idején minden megtakarítását felélte, és bár megtapasztalta az anyagi bizonytalanságot, ma sincs félretett pénze. The post Pásztor Anna erre költötte az utolsó 20 ezer forintját first appeared on nlc.",
+        "category": "Bulvár",
+        "published_at": 1795798800
       }
     ]
   }
