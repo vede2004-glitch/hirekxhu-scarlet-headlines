@@ -1,4 +1,5 @@
 # Tasks
+- [x] Swap Fresh and Top pages and navigation so the chronological AI feed is the homepage.
 - [x] Preserve supplied article slugs, update internal links and article titles, and retain legacy ID lookup.
 - [x] Verify slug links and legacy links with tests and the live article page.
 - [x] Restore the header search and category-bar archive link; verify desktop and mobile.

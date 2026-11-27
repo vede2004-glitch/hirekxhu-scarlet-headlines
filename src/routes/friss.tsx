@@ -3,10 +3,10 @@ import { meta } from "@/components/PageShell";
 import { NewsFeed } from "@/components/NewsFeed";
 
 export const Route = createFileRoute("/friss")({
-  head: () => meta("Friss hírek – HIREKX.hu", "Minden AI-összesített magyar hír időrendben, a legújabbakkal kezdve, eredeti forrásokkal."),
-  component: FreshNews,
+  head: () => meta("Top hírek – HIREKX.hu", "A legfontosabb magyar hírek rangsorolva, AI-összefoglalókkal és eredeti forrásokkal."),
+  component: TopNews,
 });
 
-function FreshNews() {
-  return <NewsFeed view="latest" />;
+function TopNews() {
+  return <NewsFeed view="top" />;
 }

@@ -91,8 +91,8 @@ export function NewsFeed({ view }: { view: "top" | "latest" | "singles" }) {
       </div>
       <div className="mb-5 flex items-center justify-between gap-2 border-b border-border py-2">
         <nav aria-label="Hírnézetek" className="flex min-w-0 gap-1">
-          <Link to="/" aria-current={view === "top" ? "page" : undefined} className={cn(buttonVariants({ variant: "ghost", size: "sm" }), "gap-1.5 px-2 text-xs", view === "top" && "bg-primary/10 text-primary")}><Flame className="size-3.5" />Top hírek</Link>
-          <Link to="/friss" aria-current={view === "latest" ? "page" : undefined} className={cn(buttonVariants({ variant: "ghost", size: "sm" }), "gap-1.5 px-2 text-xs", view === "latest" && "bg-primary/10 text-primary")}><Clock3 className="size-3.5" />Friss hírek</Link>
+          <Link to="/" aria-current={view === "latest" ? "page" : undefined} className={cn(buttonVariants({ variant: "ghost", size: "sm" }), "gap-1.5 px-2 text-xs", view === "latest" && "bg-primary/10 text-primary")}><Clock3 className="size-3.5" />Friss hírek</Link>
+          <Link to="/friss" aria-current={view === "top" ? "page" : undefined} className={cn(buttonVariants({ variant: "ghost", size: "sm" }), "gap-1.5 px-2 text-xs", view === "top" && "bg-primary/10 text-primary")}><Flame className="size-3.5" />Top hírek</Link>
           <Link to="/hirfolyam" aria-current={view === "singles" ? "page" : undefined} className={cn(buttonVariants({ variant: "ghost", size: "sm" }), "gap-1.5 px-2 text-xs", view === "singles" && "bg-primary/10 text-primary")}><Radio className="size-3.5" />Hírfolyam</Link>
         </nav>
         <h1 className="sr-only">{title}</h1><span className="shrink-0 text-[10px] text-muted-foreground">{count} hír</span>
