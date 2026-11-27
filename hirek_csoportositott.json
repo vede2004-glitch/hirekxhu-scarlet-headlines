@@ -25,63 +25,6 @@
     ]
   },
   {
-    "group_id": "group_896b4072f2",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Jövő februárban kaphatnak béremelést az ELTE-hez került kutatóközpontok dolgozói",
-        "link": "https://index.hu/belfold/2026/11/26/elte-berrendezes-tanacs-zoltan-hun-ren/",
-        "image": "https://kep.index.hu/1/0/7270/72709/727097/72709741_5356755_5a0b827c020ee897ed515b156f84bdcf_wm.jpg",
-        "summary": "A miniszter szerint még több adminisztratív folyamatot le kell zárni.",
-        "category": "Politika",
-        "published_at": 1795684260
-      }
-    ]
-  },
-  {
-    "group_id": "group_08c439b52f",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Havasi Bertalan: A Fidesz nem cserélte le a logóját, ez egy hülyeség",
-        "link": "https://telex.hu/belfold/2026/11/26/fidesz-logo-havasi-bertalan-vedjegy",
-        "image": "https://assets.telex.hu/images/20261126/1795684301-temp-60pk2b5nej9qbiffpnc_cimlap-normal.jpg",
-        "summary": "A Fidesz sajtófőnöke arra reagált, hogy levédték a párt újfajta, szürkés logóját.",
-        "category": "Politika",
-        "published_at": 1795684452
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Havasi továbbra is tagadja a tagadhatatlant: A Fidesz nem cserélte le a logóját, ez egy hülyeség",
-        "link": "https://hvg.hu/itthon/20261126_havasi-bertalan-fidesz-uj-logo-vedjegy-hulyeseg",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/183f3d1a-9f34-498c-889c-df1e25b03838.jpg",
-        "summary": "A sajtófőnök szerint sem tartalmi, sem politikai tartalma nincs a védjegykérelemnek.",
-        "category": "Politika",
-        "published_at": 1795687500
-      }
-    ]
-  },
-  {
-    "group_id": "group_721dc6c2b5",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Hárommilliárd közpénz pályázat nélkül: feljelentéssel fenyeget Szentkirályi Alexandra",
-        "link": "https://www.atv.hu/belfold/20261126/feljelentes-szentkiralyi-milliard/",
-        "image": "https://www.youtube.com/embed/EpitDTuXtnM",
-        "summary": "Hárommilliárd forint pályázat nélküli kulturális támogatás kiosztását kérte számon a kulturális államtitkárságon Szentkirályi Alexandra. Feljelentést emleget.",
-        "category": "Gazdaság",
-        "published_at": 1795684200
-      }
-    ]
-  },
-  {
     "group_id": "group_4a086f21ff",
     "category": "Politika",
     "articles_count": 3,
@@ -112,22 +55,6 @@
         "summary": "Az ATV vezérigazgatója arra a felvetésre reagált így, hogy a Network4 megvenné az ATV-t. The post Németh S. Szilárd: Nekem is álmom a Manchester United megvásárlása first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795687995
-      }
-    ]
-  },
-  {
-    "group_id": "group_0338c838b5",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Mindkét lábát amputálni kellett a mezőkövesdi vasúti balesetben megsérült fiatal lánynak",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/baleset-mezokovesd-vasut-vonat-vitezy-paloc",
-        "image": "https://cdn.hirtv.hu/2026/11/NyxnV-B3wCs4dN4MM4zPoeiV8nEupMs8OtCkRWppI2c/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhZTZhY2Q4ZDliNTQ1NmE4NDQ0ZWQzODQwYjAyN2E4.jpg",
-        "summary": "Palóc André lemondásra szólította fel a közlekedési minisztert.",
-        "category": "Politika",
-        "published_at": 1795684343
       }
     ]
   },
@@ -1128,6 +1055,22 @@
         "summary": "A BiztosDöntés.hu összeszedte, melyik pénztár mivel ösztönzi erre a meglévő vagy új tagjait, és mire kell figyelni a befizetésnél.",
         "category": "Politika",
         "published_at": 1795687447
+      }
+    ]
+  },
+  {
+    "group_id": "group_08c439b52f",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Havasi továbbra is tagadja a tagadhatatlant: A Fidesz nem cserélte le a logóját, ez egy hülyeség",
+        "link": "https://hvg.hu/itthon/20261126_havasi-bertalan-fidesz-uj-logo-vedjegy-hulyeseg",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/183f3d1a-9f34-498c-889c-df1e25b03838.jpg",
+        "summary": "A sajtófőnök szerint sem tartalmi, sem politikai tartalma nincs a védjegykérelemnek.",
+        "category": "Politika",
+        "published_at": 1795687500
       }
     ]
   },
@@ -12819,7 +12762,7 @@
   {
     "group_id": "group_ed9b7f52d4",
     "category": "Bulvár",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "NLC (Nők Lapja Café)",
@@ -12838,6 +12781,15 @@
         "summary": "A műsorvezető azt írta, hogy a ráömlő gyűlöletet, megaláztatást, mocskolódást nem tudja félvállról venni.",
         "category": "Politika",
         "published_at": 1795769315
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Jakupcsek Gabriella a Dér Heni-interjú utáni kritikákról: Nem kötelességem elviselni a verbális lincselést",
+        "link": "https://24.hu/elet-stilus/2026/11/27/jakupcsek-gabriella-der-heni-interju-verbatis-lincseles-reakcio/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1093043602-e1795770452238-1024x576.jpg",
+        "summary": "A műsorvezető elismerte, hogy hibázott a múlt heti televíziós beszélgetés során, de úgy véli, az őt ért aránytalan támadások nem segítik egy elfogadóbb ország építését. The post Jakupcsek Gabriella a Dér Heni-interjú utáni kritikákról: Nem kötelességem elviselni a verbális lincselést first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795770503
       }
     ]
   },
@@ -13356,7 +13308,7 @@
   {
     "group_id": "group_afe81fe3b9",
     "category": "Gazdaság",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Portfolio - Gazdaság",
@@ -13393,6 +13345,15 @@
         "summary": "Vasúti közlekedés veszélyeztetése miatt indult a büntetőeljárás.",
         "category": "Politika",
         "published_at": 1795768769
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Büntetőeljárás indult a mezőkövesdi vonatbaleset miatt ügyében, zajlik a körülmények tisztázása",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/buntetoeljaras-mezokovesdi-vonatbaleset?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/TsvrcPg-vG6tQ-WW5KN6le2UZz_f-dGP_aACkX_a4mg/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjcvOWRlMjZjYzUwZTBhMmU5ZDY1MTc0YWE3ZTk2MDBmMDc3OTEyMjUxOTYzZTdhMThjMmIxZDk1OTdiYTViOGQ1MA.jpg",
+        "summary": "Három kamera felvételei is segíthetik a nyomozókat a tragédia körülményeinek tisztázásában.",
+        "category": "Politika",
+        "published_at": 1795770848
       }
     ]
   },
@@ -13857,6 +13818,102 @@
         "summary": "A legnagyobb MacBookot is jóval túlszárnyalhatja az Apple fejlesztés alatt álló, hajlítható iPadje. Az ára viszont horror lehet.",
         "category": "Kultúra",
         "published_at": 1795770180
+      }
+    ]
+  },
+  {
+    "group_id": "group_3b6158f975",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "„Ebben nem fogunk részt venni” – nekimentek a képviselők Budapest vezetésének az elbocsátások miatt",
+        "link": "https://index.hu/belfold/2026/11/27/fovarosi-kozgyules-budapest-fovaros-karacsony-gergely-tisza-part-fidesz-podmaniczky-mozgalom-dk-ketfarku-kutya-part/-ebben-nem-fogunk-reszt-venni---nekimentek-a-kepviselok-budapest-vezetesenek-az-elbocsatasok-miatt/",
+        "image": "https://kep.index.hu/1/0/7273/72733/727338/72733833_926e7267596a9bc1812f4443ba18a81b_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1795770770
+      }
+    ]
+  },
+  {
+    "group_id": "group_03f6471a80",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hét és fél órát ültek a gépükön az utasok Bécsben, ingyen csak egy pohár vizet kaptak",
+        "link": "https://index.hu/kulfold/2026/11/27/austrian-airlines-becs-valencia-idojaras-havazas-legikozlekedes/",
+        "image": "https://kep.index.hu/1/0/7273/72733/727331/72733161_5358363_5cfaf0e59e78cc5de9e4c189f7041123_wm.jpg",
+        "summary": "A havazás megbénította a repülőteret, átlagosan három órát késtek a gépek.",
+        "category": "Általános",
+        "published_at": 1795770660
+      }
+    ]
+  },
+  {
+    "group_id": "group_838bb7829b",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Feleződött a Fidesz tábora: Hann Endre szerint a Seszták-ügy milliárdjai még hatnak",
+        "link": "https://www.atv.hu/belfold/20261127/vesztett-szavazo-fidesz-hann-endre/",
+        "image": "https://www.youtube.com/embed/yyIZ52RQ8Sc",
+        "summary": "Hann Endre, a Medián Közvélemény- és Piackutató Intézet igazgatója interjút adott a Magyar Hangnak, amelyben többek között beszélt a Seszták-ügyben előásott milliárdokról készült fotókról, a pártok támogatottságáról és a Fidesz jövőjéről is.",
+        "category": "Politika",
+        "published_at": 1795770600
+      }
+    ]
+  },
+  {
+    "group_id": "group_305fe926f5",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Két legenda, két testvér: Bujtor István és Latinovits Zoltán öröksége összeér Balatonszemesen",
+        "link": "https://hirtv.origo.hu/kultura/2026/11/bujtor-istvan-latinovits-zoltan-balatonszemes",
+        "image": "https://cdn.hirtv.hu/2026/11/4iQ5iBquSa8Sux5AFvd2MwBO3pdqampBKvHXsdqpOQ0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzA3OWIzMDM3ZDUxMjQ0ODQ5OGY1MTAwY2NmYzk2N2My.jpg",
+        "summary": "Iváncsics Zsolt, Balatonszemes polgármestere a Napindítóban.",
+        "category": "Politika",
+        "published_at": 1795770592
+      }
+    ]
+  },
+  {
+    "group_id": "group_f48d548900",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HWSW",
+        "title": "Hollandiában betiltatnák a Meta okosszemüvegeit",
+        "link": "https://www.hwsw.hu/daralo/71260/meta-ai-okosszemuveg-europa-adatvedelem-betiltas-birosagi-per.html",
+        "image": "",
+        "summary": "Adatvédelmi aggályok miatt bíróságon támadták meg a Meta kamerás okosszemüvegeinek hollandiai értékesítését.",
+        "category": "Kultúra",
+        "published_at": 1795770693
+      }
+    ]
+  },
+  {
+    "group_id": "group_1dc2a3d55c",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Femina",
+        "title": "Új díjjal keresik Budapest legjobb helyeit: éttermek, hotelek és szórakozóhelyek is versenybe szállhatnak",
+        "link": "https://femina.hu/utazas/budapest-legjobb-helyei-dij-ettermek-hotelek/",
+        "image": "https://femina.hu/neon/media/renditions/439/439216/cddcc40223eb1e20.jpg",
+        "summary": "Budapest és környéke legjobb helyeit keresi a We Love Budapest. Elindult a nevezés az első We Love Budapest Awardsra.",
+        "category": "Bulvár",
+        "published_at": 1795770900
       }
     ]
   }
