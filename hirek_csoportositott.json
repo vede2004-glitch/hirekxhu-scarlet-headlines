@@ -16,22 +16,6 @@
     ]
   },
   {
-    "group_id": "group_a6533cb252",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Magas szintről érkezett meglepő nyilatkozat Magyar Péterről és Zelenszkijről: \"A hátuk mögött erős emberek állnak\" – 2027 elején már mindenki látni fogja az eredményeket",
-        "link": "https://www.vg.hu/kozelet/2026/11/magyar-peter-volodimir-zelenszkij-3?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/A4FP8JoMLW05Kl7oPbrcZUKd3kQUmIR5ywkiz2ZJPU0/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI0LzI1ZjhkNTJmNWM0OGUyMGU5MDkyZWZlZWZlZTNkZGRlNmQ2MzhiYzQ3MzE1Y2I0MDhiZjI4ZGUxYmUxNzEwYTY.jpg",
-        "summary": "",
-        "category": "Gazdaság",
-        "published_at": 1795673856
-      }
-    ]
-  },
-  {
     "group_id": "group_9877cb1654",
     "category": "Politika",
     "articles_count": 5,
@@ -132,31 +116,6 @@
         "summary": "A sajtófőnök szerint sem tartalmi, sem politikai tartalma nincs a védjegykérelemnek.",
         "category": "Politika",
         "published_at": 1795687500
-      }
-    ]
-  },
-  {
-    "group_id": "group_c8f1bd3ded",
-    "category": "Gazdaság",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Csődöt jelentett a magyar piaccal is próbálkozó diszkont Romániában",
-        "link": "https://www.portfolio.hu/gazdasag/20261126/csodot-jelentett-a-magyar-piaccal-is-probalkozo-diszkont-romaniaban-879210",
-        "image": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1381577093-bezaras-boltbezaras-closure-uzlet-bolt-kiskereskedelem-lezaras-csod-v-850588.jpg",
-        "summary": "Csődeljárást kezdeményezett a MERE diszkontláncot Romániában működtető Torgservice RM SRL, amely saját bevallása szerint fizetésképtelen, és nem lát esélyt a talpra állásra. Az orosz Svetofor hálózat mögött álló Schneider család tulajdonában lévő cég két fő tulajdonosa az Európai Unió szankciós listáján szerepel, mert az Oroszország által megszállt ukrán területeken is üzleti tevékenységet folytat. A 2017-ben indult lánc eredetileg ötven üzletet tervezett, de végül tizenhat áruháznál megrekedt, és 2024-ig folyamatosan veszteséges volt. Bár 2025-ben kisebb nyereséget ért el, 2026 nyarán a beszállítóknak csaknem 1,9 milliárd forintnak megfelelő összeggel, az adóhatóságnak pedig mintegy 465 millió forinttal tartozott. A lánc magyarországi próbálkozása sem járt sikerrel, hiszen a Budapest XVIII. kerületében tavaly decemberben megnyitott egyetlen hazai üzlete idén augusztusban be is zárt.",
-        "category": "Gazdaság",
-        "published_at": 1795674060
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Csődeljárás indult az orosz tulajdonú MERE romániai üzletlánca ellen",
-        "link": "https://index.hu/gazdasag/2026/11/26/mere-csodeljaras-romania-ceg-vallalat/",
-        "image": "https://kep.index.hu/1/0/7270/72709/727092/72709251_5356715_9be781042d2ee7cdff89e63f78a8d920_wm.jpg",
-        "summary": "A vállalat a 2017 és 2024 közötti időszakban folyamatosan veszteségesen működött.",
-        "category": "Általános",
-        "published_at": 1795684020
       }
     ]
   },
@@ -1460,7 +1419,7 @@
   {
     "group_id": "group_c3db6a4786",
     "category": "Általános",
-    "articles_count": 15,
+    "articles_count": 16,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -1596,6 +1555,15 @@
         "summary": "A lap megszerezte a MÁV-jelentést, benne a balesetről készült videókkal.",
         "category": "Politika",
         "published_at": 1795759707
+      },
+      {
+        "source": "HVG - Itthon",
+        "title": "Három kamera is rögzítette a mezőkövesdi vasúti balesetet",
+        "link": "https://hvg.hu/itthon/20261127_kamera-felvetel-mezokovesd-vasuti-baleset",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/788ce5b8-4ab5-4380-9322-f49c1ca9e551.jpg",
+        "summary": "A felvételek alapján arról írtak egy MÁV-jelentésben, hogy már elindult az InterCity, amikor kinyílt a kocsi ajtaja és a balesetet szenvedett egyetemista lány megpróbált leszállni.",
+        "category": "Politika",
+        "published_at": 1795760243
       }
     ]
   },
@@ -2766,6 +2734,22 @@
         "summary": "Jennifer Barreto történelmet írt: ő az első olyan nő, akit édesanyaként és feleségként koronáztak meg a Miss Universe-en. The post Történelmet írt a világ legszebb nője: először koronáztak meg egy édesanyát a Miss Universe versenyén first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795683473
+      }
+    ]
+  },
+  {
+    "group_id": "group_c8f1bd3ded",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Csődeljárás indult az orosz tulajdonú MERE romániai üzletlánca ellen",
+        "link": "https://index.hu/gazdasag/2026/11/26/mere-csodeljaras-romania-ceg-vallalat/",
+        "image": "https://kep.index.hu/1/0/7270/72709/727092/72709251_5356715_9be781042d2ee7cdff89e63f78a8d920_wm.jpg",
+        "summary": "A vállalat a 2017 és 2024 közötti időszakban folyamatosan veszteségesen működött.",
+        "category": "Általános",
+        "published_at": 1795684020
       }
     ]
   },
@@ -13652,6 +13636,86 @@
         "summary": "A Magyarország Európai Ügyészséghez történő csatlakozása miatt szükséges törvénymódosításról, valamint az egészségügyi dolgozók bérének rendezését célzó, új bértáblát bevezető előterjesztésről is tárgyal pénteken a parlament.",
         "category": "Politika",
         "published_at": 1795759740
+      }
+    ]
+  },
+  {
+    "group_id": "group_0a1652647e",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Trump: Boldog hálaadást mindenkinek, kivéve a",
+        "link": "https://444.hu/2026/11/27/trump-boldog-halaadast-mindenkinek-kiveve-a?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "17 betört ablak és a szomáliak 2 százaléka is szerepel a dörgedelmes hálaadásnapi köszöntőben, amiből látszik: Trump nehezen dolgozza fel, hogy bucira verték őket a félidős választáson.",
+        "category": "Politika",
+        "published_at": 1795760354
+      }
+    ]
+  },
+  {
+    "group_id": "group_10a28f448e",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Eltörölték a magyar válogatott futballista piros lapját, másnap kapott még egyet",
+        "link": "https://magyarnemzet.hu/sport/2026/11/markgraf-akos-piros-lap-inter-escaldes-kobenhavn-2-0-kl?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/pmMmJrz61Rx3tTKVzE3eMFPu5NgHFyjvJfXGw6aQJXE/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjcvODhkMjNhNThkNzhlNTY5NzZkYjliODg2OGY5NTFiMjZjODU0OWVhOWExNzVhYmU4NDU4NzQzMTlmYjJmMzU1MA.jpg",
+        "summary": "Szégyen, történelmi kudarc és teljes összeomlás – az andorrai klub történelmet írt.",
+        "category": "Politika",
+        "published_at": 1795760487
+      }
+    ]
+  },
+  {
+    "group_id": "group_6fa732e407",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "„El is égetheti őket” – Schmidt Mária visszataszító hergelésről írt üzenetében Tarr Zoltánnak",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/schmidt-maria-tarr-zoltan-tisza-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/pyT8DVmJ-T0xeCWv7uB7frERwXVHe0f66_Ev_yC_Ejk/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMDcvMGJhYTAxODNlY2U3NDJmNGIzNmVkNzcyZWJlODIwYjliYWY3NmZlZjc1NzZlMjg2MGMzZGMzZmI0YWE3OTM4NA.jpg",
+        "summary": "A történész arra keresi a választ, hogy kire jelentenek veszélyt Kertész Imre könyvei, miért hívták vissza a Sorstalanságot a könyvesboltokból?",
+        "category": "Politika",
+        "published_at": 1795760460
+      }
+    ]
+  },
+  {
+    "group_id": "group_ba900f90a0",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Rakétás falfestmény jelent meg a moszkvai holland nagykövetség mellett",
+        "link": "https://24.hu/kulfold/2026/11/27/raketas-falfestmeny-moszkvai-holland-nagykovetseg-moszkva/",
+        "image": "https://s.24.hu/app/uploads/2026/11/928335878_122118964875515517_5895285535494145204_n-e1795759621218-1024x578.jpg",
+        "summary": "A holland Destinus rakétái voltak az egyetlen külföldi fegyverek a Krími híd elleni ukrán támadásban. Moszkva szerint ez beismerés, Hága tagadja a részvételt. The post Rakétás falfestmény jelent meg a moszkvai holland nagykövetség mellett first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795759983
+      }
+    ]
+  },
+  {
+    "group_id": "group_8431d45755",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Ebből még hatalmas balhé lesz: Trump meghívta Putyint a világ leghatalmasabb országait tömörítő csúcstalálkozóra – „Szívesen látnám őt”",
+        "link": "https://www.vg.hu/kozelet/2026/11/g20-trump-putyin-talalkozo-haboru-december?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/KoQ8j0yppoHd2XsZ7TWG-68bmH90lQvp5K3Pi0QcASk/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzIwLzVjZmNjMWMyZTBhOTdjNDRkOTQyYTE2ODdiNGUxZjczMTUzNWM5MTI2MDIzMmQ1ZDIyNTdkZTk1MjAzYzVmMjY.jpg",
+        "summary": "Közeleg a G20 csúcstalálkozó, amire az orosz elnök amerikai meghívást kapott.",
+        "category": "Politika",
+        "published_at": 1795760161
       }
     ]
   }
