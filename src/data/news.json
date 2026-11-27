@@ -3558,7 +3558,7 @@
     "title_hu": "Választási reformról egyeztettek, a Tisza több szabályt is megváltoztatna",
     "lead_hu": "Egy csütörtöki konferencián szakértők és politikusok a magyar választási rendszer átalakításáról vitáztak. Melléthei-Barna Márton, a Tisza Párt frakcióvezető-helyettese támogatná a győzteskompenzáció eltörlését és a Nemzeti Választási Bizottság átalakítását is.",
     "content_hu": "• **A reform célja** A konferencia résztvevői arról beszéltek, miként lehetne a jelenleginél arányosabb választási rendszert kialakítani, és erősebb garanciákat teremteni a hatalom korlátozására.\n\n• **A Tisza javaslatai** Melléthei-Barna Márton egy új választási rendszer kialakítását szorgalmazta. Saját álláspontja szerint meg kell szüntetni a győzteskompenzációt, a levélszavazás szabályait pedig szintén felül kell vizsgálni.\n\n• **Intézményi változtatások** A Tisza képviselője szükségesnek nevezte a Nemzeti Választási Bizottság átalakítását. A konferencián elhangzott az is, hogy az alkotmányos szabályoknak a választási modelltől függetlenül biztosítaniuk kell a hatalmi fékeket és ellensúlyokat.\n\n• **További tervek** A Portfolio beszámolója szerint a felvetések között szerepelt a képviselők és a miniszterelnök megbízatási idejének korlátozása, valamint a kétharmados törvények körének felülvizsgálata is.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 82,
     "is_top_hero": false,
     "is_top_list": true
@@ -4691,6 +4691,84 @@
     "top_rank": 114,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_df0a57aa47",
+    "slug": "szigoru-cenzurat-vezet-be-moszkva-brtn-var-arra-aki-raketakepeket-oszt-meg-df0a57",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7272/72723/727238/72723881_5357707_b151664a699d2737782990927ca334d9_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Szigorú cenzúrát vezet be Moszkva, börtön vár arra, aki rakétaképeket oszt meg",
+        "link": "https://index.hu/kulfold/2026/11/27/droncsapasok-informacio-kozles-szabalyozas-szigoritas-oroszorszag/"
+      }
+    ],
+    "published_at": 1795760100,
+    "title_hu": "Szigorú cenzúrát vezet be Moszkva, börtön vár arra, aki rakétaképeket oszt meg",
+    "lead_hu": "Törvénymódosítási csomagot nyújtottak be....",
+    "content_hu": "Törvénymódosítási csomagot nyújtottak be.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_625f3024ca",
+    "slug": "tudta-hogy-petofi-mar-milliomos-volt-1848-ban-es-hitler-sszebalhezott-a-mikulass-625f30",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7271/72714/727142/72714215_5357045_3d264f685685cbd69bdc568f2016744e_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Tudta, hogy Petőfi már milliomos volt 1848-ban, és Hitler összebalhézott a Mikulással is?",
+        "link": "https://index.hu/tudomany/til/2026/11/27/megjelent-ma-is-tanultam-valamit-6-konyv/"
+      }
+    ],
+    "published_at": 1795759980,
+    "title_hu": "Tudta, hogy Petőfi már milliomos volt 1848-ban, és Hitler összebalhézott a Mikulással is?",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_1b0638a0de",
+    "slug": "uj-bertablat-vezetnek-be-magyarorszagon-atszabjak-a-fizeteseket-az-egeszsegugybe-1b0638",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://pcdn.hu/articles/images-xl/o/r/s/orszaggyules-parlament-magyarorszag-873282.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Új bértáblát vezetnek be Magyarországon: átszabják a fizetéseket az egészségügyben",
+        "link": "https://www.portfolio.hu/gazdasag/20261127/uj-bertablat-vezetnek-be-magyarorszagon-atszabjak-a-fizeteseket-az-egeszsegugyben-879548"
+      }
+    ],
+    "published_at": 1795759740,
+    "title_hu": "Új bértáblát vezetnek be Magyarországon: átszabják a fizetéseket az egészségügyben",
+    "lead_hu": "A Magyarország Európai Ügyészséghez történő csatlakozása miatt szükséges törvénymódosításról, valamint az egészségügyi dolgozók bérének rendezését célzó, új bértáblát bevezető előterjesztésről is tárg...",
+    "content_hu": "A Magyarország Európai Ügyészséghez történő csatlakozása miatt szükséges törvénymódosításról, valamint az egészségügyi dolgozók bérének rendezését célzó, új bértáblát bevezető előterjesztésről is tárgyal pénteken a parlament.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_f1dc96d852",
@@ -20241,84 +20319,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_6aa9452aea",
-    "slug": "januarra-halasztottak-a-dntest-az-antifaugy-szir-g-6aa945",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c21ae88e-0181-4acd-acb1-3c80555f2ba3.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Januárra halasztották a döntést az antifaügy szír gyanúsítottjának kiadatásáról",
-        "link": "https://hvg.hu/itthon/20261126_antifaugy-szir-gyanusitott-kiadatas-franciaorszag-birosag-dontes"
-      }
-    ],
-    "published_at": 1795673681,
-    "title_hu": "Januárra halasztották a döntést az antifaügy szír gyanúsítottjának kiadatásáról",
-    "lead_hu": "A 23 éves Zaid Altayeb kiadását Magyarország januárban kezdeményezte, de a francia ügyészség csak októberben indítványozta, miután szerintük javult az igazságszolgáltatás függetlensége Magyarországon.",
-    "content_hu": "A 23 éves Zaid Altayeb kiadását Magyarország januárban kezdeményezte, de a francia ügyészség csak októberben indítványozta, miután szerintük javult az igazságszolgáltatás függetlensége Magyarországon.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_65c62b0ef7",
-    "slug": "sesztak-miklos-igazi-fideszes-erdeme-az-volt-hogy--65c62b",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261120/1795189790-temp-821r00a3ha1kemhioao_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Seszták Miklós igazi fideszes érdeme az volt, hogy a NER szolgálatába állította a felszámolási piacot",
-        "link": "https://telex.hu/gazdasag/2026/11/26/sesztak-miklos-felszamolas-ner-csod-reorg-tiborcz-meszaros-jellinek-ner"
-      }
-    ],
-    "published_at": 1795673629,
-    "title_hu": "Seszták Miklós igazi fideszes érdeme az volt, hogy a NER szolgálatába állította a felszámolási piacot",
-    "lead_hu": "A hazai felszámolási piac nagyban segítette a NER gazdagodását. Seszták Miklós volt a nagy reformer, de más politikusok, bankok, faktorcégek is sokat tettek azért, hogy ezek az eljárások is segítsék a…",
-    "content_hu": "A hazai felszámolási piac nagyban segítette a NER gazdagodását. Seszták Miklós volt a nagy reformer, de más politikusok, bankok, faktorcégek is sokat tettek azért, hogy ezek az eljárások is segítsék a legvagyonosabb, a NER maximális bizalmát élvező oligarchák, így elsősorban Mészáros Lőrinc és Tiborcz István gazdagodását.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_58414b82d6",
-    "slug": "donald-trump-befektetesi-portfolioi-legalabb-44-sz-58414b",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261126/1795673064-temp-cn0irv5diottdpcnphd_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Donald Trump befektetési portfóliói legalább 44-szer adtak-vettek Nvidia-részvényeket 2026-ban",
-        "link": "https://telex.hu/gazdasag/2026/11/26/donald-trump-amerikai-elnok-nvidia-reszvenyek-arfolyam-kereskedes-jensen-hunag-vezerigazgato"
-      }
-    ],
-    "published_at": 1795673418,
-    "title_hu": "Donald Trump befektetési portfóliói legalább 44-szer adtak-vettek Nvidia-részvényeket 2026-ban",
-    "lead_hu": "A csipgyártó vállalat piaci értéke ezermilliárd dollárral nőtt Jensen Huang visszahelyezése óta.",
-    "content_hu": "A csipgyártó vállalat piaci értéke ezermilliárd dollárral nőtt Jensen Huang visszahelyezése óta.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_08c439b52f",
     "slug": "vedjegykerelmet-adott-be-a-fidesz-az-uj-kzssegi-medias-emblemara-08c439",
     "tags": [
@@ -20434,6 +20434,32 @@
     "top_rank": 116,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_65877463a0",
+    "slug": "gombos-edina-a-magyar-teves-karrierjerol-egyetlen-tuske-maradt-bennem-658774",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://kep.index.hu/1/0/7272/72726/727260/72726049_f7dd321e79e2636802b835108de9174e_wm.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Index - Címlap",
+        "title": "Gombos Edina a magyar tévés karrierjéről: „Egyetlen tüske maradt bennem”",
+        "link": "https://index.hu/mindekozben/poszt/2026/11/27/gombos-edina-a-magyar-teves-karrierjerol-egyetlen-tuske-maradt-bennem-/"
+      }
+    ],
+    "published_at": 1795759810,
+    "title_hu": "Gombos Edina a magyar tévés karrierjéről: „Egyetlen tüske maradt bennem”",
+    "lead_hu": "",
+    "content_hu": "",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_3aa3232638",
