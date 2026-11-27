@@ -57,54 +57,6 @@
     ]
   },
   {
-    "group_id": "group_fe0743f84e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Gyermekvédelmi dolgozókat és állami gondoskodásban élőket látnak vendégül az MVM Dome-os nagykoncerten",
-        "link": "https://index.hu/fomo/2026/11/26/101-hang-depeche-mode-koncert-mvm-dome-gorog-zita-gyermekvedelem-dolgozok/",
-        "image": "https://kep.index.hu/1/0/7271/72713/727134/72713485_5357005_969444756d2b9b8b18f0e77d95d97b4c_wm.jpg",
-        "summary": "A december 10-i 101 Hang Depeche Mode Special Tribute koncerten adományokat is gyűjtenek.",
-        "category": "Általános",
-        "published_at": 1795689600
-      }
-    ]
-  },
-  {
-    "group_id": "group_3592d19002",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Gyászol a zenevilág, elhunyt a legendás gitáros",
-        "link": "https://www.atv.hu/kulfold/20261126/duran-duran-gitaros-halalhir-zene/",
-        "image": "",
-        "summary": "Négy évvel ezelőtt beszélt először nyilvánosan betegségéről Andy Taylor.",
-        "category": "Általános",
-        "published_at": 1795689660
-      }
-    ]
-  },
-  {
-    "group_id": "group_9e3f23cc6e",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Kétmillió forintot kérnek Siófokon a szalagavatókra a sportcsarnok parkolójáért",
-        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/parkolo-szalagavato-siofok",
-        "image": "https://cdn.hirtv.hu/2026/11/Ot0KhbdMvyIaskfNpYDQRnMibbkN0yQJdBFvLHgxUXE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I5NzcwZGZhOGI0MzRmYTk5Y2RkNDkyNGJiOWNhNDlk.jpg",
-        "summary": "A Facebookon vitát keltett a polgármester erről szóló levele.",
-        "category": "Politika",
-        "published_at": 1795689721
-      }
-    ]
-  },
-  {
     "group_id": "group_8fb164c5b8",
     "category": "Kultúra",
     "articles_count": 1,
@@ -117,22 +69,6 @@
         "summary": "A Surrey Egyetem kutatói azt vizsgálták, hogy bizonyos kvantumfeltételek mellett az idő előre és hátra is áramolhat-e.",
         "category": "Kultúra",
         "published_at": 1795693231
-      }
-    ]
-  },
-  {
-    "group_id": "group_95d7621b8b",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Több tízezer forintot spórolhatsz, ha okosan választasz légtisztítót: meglepő dolgok derültek ki egy friss tesztből",
-        "link": "https://femina.hu/otthon/tobb-tizezer-forintot-sporolhatsz-ha-okosan-valasztasz-legtisztitot-meglepo-dolgok-derultek-ki-egy-friss-tesztbol/",
-        "image": "https://femina.hu/neon/media/renditions/439/439188/6033cf9d04d61093.jpg",
-        "summary": "Honnan tudod, hogy a légtisztítód valóban tisztítja-e a levegőt?",
-        "category": "Bulvár",
-        "published_at": 1795689845
       }
     ]
   },
@@ -162,19 +98,101 @@
     ]
   },
   {
-    "group_id": "group_8df1493c8f",
-    "category": "Politika",
-    "articles_count": 9,
+    "group_id": "group_3138d8b9ff",
+    "category": "Gazdaság",
+    "articles_count": 3,
     "articles": [
       {
-        "source": "24.hu - Legfrissebb",
-        "title": "Vitézy Dávid: 5 millió forint azonnali gyorssegélyt biztosít a MÁV a mezőkövesdi vonatbalesetben megsérült nő családjának",
-        "link": "https://24.hu/belfold/2026/11/26/mezokovesd-vonatbaleset-vitezy-david-mav-5-millio-gyorrsegely/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-1153956662-e1795689831723-1024x577.jpg",
-        "summary": "A miniszter telefonon beszélt a sérült nő családjával, és tolmácsolta üzenetüket. The post Vitézy Dávid: 5 millió forint azonnali gyorssegélyt biztosít a MÁV a mezőkövesdi vonatbalesetben megsérült nő családjának first appeared on 24.hu.",
-        "category": "Politika",
-        "published_at": 1795689854
+        "source": "HVG - Gazdaság",
+        "title": "Egyensúly Intézet: minden hatodik magyar attól fél, hogy nem lesz elég pénze a téli fűtésre",
+        "link": "https://hvg.hu/gazdasag/20261126_egyensuly-intezet-futes-vasarlas-szegenyseg",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/87395556-e908-4ccf-bd17-f968c8f8d9c8.jpg",
+        "summary": "Bemutatták a 2026-os szegénységkutatást, a nők és az idősek állnak kimondottan rosszul.",
+        "category": "Gazdaság",
+        "published_at": 1795689968
       },
+      {
+        "source": "Portfolio - Gazdaság",
+        "title": "Egyensúly Intézet: 2,6 millió magyar küzd alapvető megélhetési nehézséggel",
+        "link": "https://www.portfolio.hu/gazdasag/20261126/egyensuly-intezet-26-millio-magyar-kuzd-alapveto-megelhetesi-nehezseggel-879370",
+        "image": "https://pcdn.hu/articles/images-xl/f/i/a/fiatal-depresszio-hajlektalan-szegenyseg-mentalis-betegseg-no-fiatal-valsag-stressz-epule-839230.jpg",
+        "summary": "Mintegy 2,6 millió magyar felnőtt küzd valamilyen alapvető megélhetési nehézséggel, közülük 633 ezren pedig egyszerre szembesülnek fűtési, étkezési és fizetési gondokkal – derült ki az Egyensúly Intézet 2026-os szegénységkutatásából - derül ki az Egyensúly Intézet frissen bemutatott szegénységkutatásából.",
+        "category": "Gazdaság",
+        "published_at": 1795695480
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "2,6 millió magyar nem tudja biztosan fűteni az otthonát, rendszeresen húst enni vagy kifizetni egy váratlan kiadást",
+        "link": "https://telex.hu/belfold/2026/11/26/egyensuly-intezet-megelhetesi-nehezsegek-szegenyseg",
+        "image": "https://assets.telex.hu/images/20261126/1795729821-temp-dqmj0isdiftd3onlpnb_cimlap-normal.jpg",
+        "summary": "A magyar felnőttek ötöde még egy 120 ezer forintos váratlan kiadást sem tudna saját erőből fedezni, a legrosszabb helyzetben az idősek, a nők és az alacsony végzettségűek vannak.",
+        "category": "Politika",
+        "published_at": 1795729832
+      }
+    ]
+  },
+  {
+    "group_id": "group_28e8b2d134",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Kína figyelmeztette az Egyesült Államokat, válaszlépéseket helyeztek kilátásba",
+        "link": "https://index.hu/kulfold/2026/11/26/kina-figyelmeztetes-egyesult-allamok-vamtervezet-valaszlepes/",
+        "image": "https://kep.index.hu/1/0/7271/72711/727114/72711417_5356867_b7d23e752c145f90453e7da0a82dfc82_wm.jpg",
+        "summary": "Peking szerint az amerikai vámtervek sértik a nemzetközi kereskedelmi szabályokat.",
+        "category": "Politika",
+        "published_at": 1795690680
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Hiába vették el a legnagyobb fegyverét, Trump újrakezdi a vámháborút",
+        "link": "https://telex.hu/gazdasag/2026/11/27/trump-egyesult-allamok-vamhaboru-kina-azsia-eu-brazilia",
+        "image": "https://assets.telex.hu/images/20261126/1795705219-temp-hu0nfeqacl840fagiid_cimlap-normal.jpg",
+        "summary": "Donald Trump kormánya újabb büntetővámokat vetett ki Kínára, az EU-ra és még egy sor másik országra. A cél ismét a zsarolás lehet, de meglehet, hogy annak mindez már kevés.",
+        "category": "Politika",
+        "published_at": 1795752807
+      }
+    ]
+  },
+  {
+    "group_id": "group_2ebbb5f38b",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Nyilvánosságra hozták a jelentést, több száz gyermekbántalmazó pap esetét tárták fel",
+        "link": "https://index.hu/kulfold/2026/11/26/olaszorszag-bortonbuntetes-papok-szexualis-zaklatas/",
+        "image": "https://kep.index.hu/1/0/7270/72706/727068/72706879_5356553_967abd60772efdd427fccc0d0912c00c_wm.jpg",
+        "summary": "Nagyjából 57 főt jogerősen elítéltek.",
+        "category": "Általános",
+        "published_at": 1795690380
+      }
+    ]
+  },
+  {
+    "group_id": "group_ce47155f2f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Egyetlen ajándékon is múlhat, ki lépi át a vagyonadó egymilliárdos határát",
+        "link": "https://index.hu/gazdasag/2026/11/26/vagyonado-adozas-adoszakerto-ado-adofizetes/",
+        "image": "https://kep.index.hu/1/0/6888/68889/688892/68889225_5084661_4b908bafbb68c53bdd46d5a702f77eb6_wm.jpg",
+        "summary": "A köztársasági elnök aláírására vár a törvényjavaslat.",
+        "category": "Általános",
+        "published_at": 1795690320
+      }
+    ]
+  },
+  {
+    "group_id": "group_8df1493c8f",
+    "category": "Politika",
+    "articles_count": 8,
+    "articles": [
       {
         "source": "HVG - Itthon",
         "title": "Ötmillió forintos gyorssegélyt ad a MÁV a mezőkövesdi balesetben megsérült nő családjának",
@@ -246,113 +264,6 @@
         "summary": "Parlamenti bizottság elé kerülhet.",
         "category": "Politika",
         "published_at": 1795706855
-      }
-    ]
-  },
-  {
-    "group_id": "group_3138d8b9ff",
-    "category": "Gazdaság",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "Egyensúly Intézet: minden hatodik magyar attól fél, hogy nem lesz elég pénze a téli fűtésre",
-        "link": "https://hvg.hu/gazdasag/20261126_egyensuly-intezet-futes-vasarlas-szegenyseg",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/87395556-e908-4ccf-bd17-f968c8f8d9c8.jpg",
-        "summary": "Bemutatták a 2026-os szegénységkutatást, a nők és az idősek állnak kimondottan rosszul.",
-        "category": "Gazdaság",
-        "published_at": 1795689968
-      },
-      {
-        "source": "Portfolio - Gazdaság",
-        "title": "Egyensúly Intézet: 2,6 millió magyar küzd alapvető megélhetési nehézséggel",
-        "link": "https://www.portfolio.hu/gazdasag/20261126/egyensuly-intezet-26-millio-magyar-kuzd-alapveto-megelhetesi-nehezseggel-879370",
-        "image": "https://pcdn.hu/articles/images-xl/f/i/a/fiatal-depresszio-hajlektalan-szegenyseg-mentalis-betegseg-no-fiatal-valsag-stressz-epule-839230.jpg",
-        "summary": "Mintegy 2,6 millió magyar felnőtt küzd valamilyen alapvető megélhetési nehézséggel, közülük 633 ezren pedig egyszerre szembesülnek fűtési, étkezési és fizetési gondokkal – derült ki az Egyensúly Intézet 2026-os szegénységkutatásából - derül ki az Egyensúly Intézet frissen bemutatott szegénységkutatásából.",
-        "category": "Gazdaság",
-        "published_at": 1795695480
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "2,6 millió magyar nem tudja biztosan fűteni az otthonát, rendszeresen húst enni vagy kifizetni egy váratlan kiadást",
-        "link": "https://telex.hu/belfold/2026/11/26/egyensuly-intezet-megelhetesi-nehezsegek-szegenyseg",
-        "image": "https://assets.telex.hu/images/20261126/1795729821-temp-dqmj0isdiftd3onlpnb_cimlap-normal.jpg",
-        "summary": "A magyar felnőttek ötöde még egy 120 ezer forintos váratlan kiadást sem tudna saját erőből fedezni, a legrosszabb helyzetben az idősek, a nők és az alacsony végzettségűek vannak.",
-        "category": "Politika",
-        "published_at": 1795729832
-      }
-    ]
-  },
-  {
-    "group_id": "group_7af7d20cbf",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Világgazdaság",
-        "title": "Nincs megállás: kivonult Magyarországról, most a szomszédban dőlhet be a kereskedelmi lánc – 50 üzletet ígértek, a fele sem készült el",
-        "link": "https://www.vg.hu/cegvilag/2026/11/mere-basket-plus-uzlet-fizeteskeptelensegi-eljaras-romania?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2025/10/AHlh81ZkSbpjG4y4VrM6N3-u0dcsUV7hKN83S8kKiTo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EyZWVkOGFkNTUzOTRiMjA4NGI3NjFiZTNmZGIxNTVk.jpg",
-        "summary": "Fizetésképtelenségi eljárás indult a Torgservice RM SRL ellen, miután a cég közlése szerint a bankszámlái befagyasztása miatt nem tudta fizetni az üzletei működési költségeit. Mere néven tizenhat áruházat nyitott Romániában a tervezett ötvenből.",
-        "category": "Gazdaság",
-        "published_at": 1795689782
-      }
-    ]
-  },
-  {
-    "group_id": "group_28e8b2d134",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Kína figyelmeztette az Egyesült Államokat, válaszlépéseket helyeztek kilátásba",
-        "link": "https://index.hu/kulfold/2026/11/26/kina-figyelmeztetes-egyesult-allamok-vamtervezet-valaszlepes/",
-        "image": "https://kep.index.hu/1/0/7271/72711/727114/72711417_5356867_b7d23e752c145f90453e7da0a82dfc82_wm.jpg",
-        "summary": "Peking szerint az amerikai vámtervek sértik a nemzetközi kereskedelmi szabályokat.",
-        "category": "Politika",
-        "published_at": 1795690680
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Hiába vették el a legnagyobb fegyverét, Trump újrakezdi a vámháborút",
-        "link": "https://telex.hu/gazdasag/2026/11/27/trump-egyesult-allamok-vamhaboru-kina-azsia-eu-brazilia",
-        "image": "https://assets.telex.hu/images/20261126/1795705219-temp-hu0nfeqacl840fagiid_cimlap-normal.jpg",
-        "summary": "Donald Trump kormánya újabb büntetővámokat vetett ki Kínára, az EU-ra és még egy sor másik országra. A cél ismét a zsarolás lehet, de meglehet, hogy annak mindez már kevés.",
-        "category": "Politika",
-        "published_at": 1795752807
-      }
-    ]
-  },
-  {
-    "group_id": "group_2ebbb5f38b",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Nyilvánosságra hozták a jelentést, több száz gyermekbántalmazó pap esetét tárták fel",
-        "link": "https://index.hu/kulfold/2026/11/26/olaszorszag-bortonbuntetes-papok-szexualis-zaklatas/",
-        "image": "https://kep.index.hu/1/0/7270/72706/727068/72706879_5356553_967abd60772efdd427fccc0d0912c00c_wm.jpg",
-        "summary": "Nagyjából 57 főt jogerősen elítéltek.",
-        "category": "Általános",
-        "published_at": 1795690380
-      }
-    ]
-  },
-  {
-    "group_id": "group_ce47155f2f",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Egyetlen ajándékon is múlhat, ki lépi át a vagyonadó egymilliárdos határát",
-        "link": "https://index.hu/gazdasag/2026/11/26/vagyonado-adozas-adoszakerto-ado-adofizetes/",
-        "image": "https://kep.index.hu/1/0/6888/68889/688892/68889225_5084661_4b908bafbb68c53bdd46d5a702f77eb6_wm.jpg",
-        "summary": "A köztársasági elnök aláírására vár a törvényjavaslat.",
-        "category": "Általános",
-        "published_at": 1795690320
       }
     ]
   },
@@ -5832,7 +5743,7 @@
         "image": "https://raketa.hu/uploads/2026/11/kisgyerekkepernyo.jpg",
         "summary": "A másfél éves gyerekek csaknem fele naponta használ valamilyen digitális eszközt Magyarországon, miközben fejlődésükhöz ebben az életkorban elsősorban mozgásra, játékra és személyes kapcsolatokra lenne szükségük.",
         "category": "Kultúra",
-        "published_at": 1795775878
+        "published_at": 1795776308
       }
     ]
   },
@@ -6971,7 +6882,7 @@
   {
     "group_id": "group_1f0cea61b2",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "444.hu",
@@ -6999,6 +6910,15 @@
         "summary": "Nem ússza meg a tárgyalást Gérard Depardieu: a párizsi fellebbviteli bíróság csütörtöki döntése értelmében ítélőszék elé kell állnia Charlotte Arnould színésznő feltételezett 2018-as megerőszakolása miatt. A 77 éves francia világsztár ügyvédei próbálták ugyan elérni az eljárás megszüntetését, ám a főügyészség ragaszkodott a per lefolytatásához.",
         "category": "Politika",
         "published_at": 1795750440
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Gérard Depardieu-nak nemi erőszak vádja miatt kell bíróság elé állnia",
+        "link": "https://24.hu/kultura/2026/11/27/gerard-depardieu-nemi-eroszak-birosag/",
+        "image": "https://s.24.hu/app/uploads/2026/11/gettyimages-1246188683-e1795775595279-1024x577.jpg",
+        "summary": "A francia színész ellen az elmúlt években több nő is szexuális visszaélések miatt emelt szót. Most újabb fejlemény történt az egyik legrégebben húzódó ügyében. The post Gérard Depardieu-nak nemi erőszak vádja miatt kell bíróság elé állnia first appeared on 24.hu.",
+        "category": "Kultúra",
+        "published_at": 1795775747
       }
     ]
   },
@@ -8530,7 +8450,7 @@
   {
     "group_id": "group_ad79cfa619",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "HVG - Itthon",
@@ -8558,6 +8478,15 @@
         "summary": "Az egészségügyi miniszter az európai uniós helyreállítási alap közbeszerzéseit érintően talált visszaéléseket. The post Hegedűs Zsolt: A rendőrség elrendelte a nyomozást az uniós helyreállítási alap közbeszerzései miatt first appeared on 24.hu.",
         "category": "Politika",
         "published_at": 1795726456
+      },
+      {
+        "source": "ATV",
+        "title": "Újabb feljelentés uniós milliárdok miatt: a miniszter szerint már nyomoz a rendőrség",
+        "link": "https://www.atv.hu/belfold/20261127/hegedus-zsolt-feljelentes-unio/",
+        "image": "https://www.youtube.com/embed/2uQeEFpV0Kg",
+        "summary": "Az egészségügyi miniszter ismeretlen tettes ellen feljelentést tett az Európai Unió helyreállítási alapját érintő közbeszerzésekkel kapcsolatos visszaélések gyanúja miatt.",
+        "category": "Politika",
+        "published_at": 1795776060
       }
     ]
   },
@@ -13681,6 +13610,86 @@
         "summary": "Meglehetősen turbulens novembert tudhat maga mögött a technológiai szektor.",
         "category": "Kultúra",
         "published_at": 1795775097
+      }
+    ]
+  },
+  {
+    "group_id": "group_3a508e33e2",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Egy új korszak kezdete vagy méretes önáltatás az Isztambuli Egyezmény?",
+        "link": "https://index.hu/velemeny/2026/11/27/francesca-rivafinoli-isztambuli-egyezmeny-noi-jogok-csalad-magyar-peter/",
+        "image": "https://kep.index.hu/1/0/7271/72710/727109/72710999_5356843_17eb024e7264989b5c33f6c32d150317_wm.jpg",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1795776060
+      }
+    ]
+  },
+  {
+    "group_id": "group_c24965103d",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Csőtörés volt a XII. kerületben, a Déli pályaudvarnál és a Dérynénél is hömpölygött a víz",
+        "link": "https://444.hu/2026/11/27/csotores-volt-a-xii-keruletben-a-deli-palyaudvarnal-es-a-derynenel-is-hompolygott-a-viz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "Volt olyan ház, ahol homokzsákokkal védekeztek.",
+        "category": "Politika",
+        "published_at": 1795776039
+      }
+    ]
+  },
+  {
+    "group_id": "group_745cc21d24",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Egyre többen keresnek menedéket a téli hidegben az éjjeli szálláshelyeken",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/tel-hideg-szallashely-pecs-havazas",
+        "image": "https://cdn.hirtv.hu/2026/11/VQmGR4X2fkmIPCwmTDq2g9rZv01N0znqQipv5hEJjEQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEwZDFhMWVlYjc0MTQ0YzU4ZjM4MWUwMTQ0YTk0ZTdj.jpg",
+        "summary": "Pécsett egyetemisták is segítik az otthontalanokat.",
+        "category": "Politika",
+        "published_at": 1795776287
+      }
+    ]
+  },
+  {
+    "group_id": "group_9ab55131e0",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Csomagok nélkül indult el a férfi kosárválogatott a stockholmi vb-selejtezőre",
+        "link": "https://24.hu/sport/2026/11/27/csomagok-nelkul-indult-el-a-ferfi-kosarvalogatott-a-stockholmi-vb-selejtezore/",
+        "image": "https://s.24.hu/app/uploads/2026/11/d_vaj20260827129-1024x576.jpg",
+        "summary": "Az A, majd a B opció is besült, végül rigai átszállással juthat el a csapat a svéd fővárosba. The post Csomagok nélkül indult el a férfi kosárválogatott a stockholmi vb-selejtezőre first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795776103
+      }
+    ]
+  },
+  {
+    "group_id": "group_1e61532fc4",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Ilyen pokoli kínokkal jár, ha valaki rázuhan a világ legveszélyesebb növényére",
+        "link": "https://raketa.hu/ilyen-pokoli-kinokkal-jar-ha-valaki-razuhan-a-vilag-legveszelyesebb-novenyere/",
+        "image": "https://raketa.hu/uploads/2023/03/sting-710_1280.jpg",
+        "summary": "A világ legveszélyesebb növénye természetesen Ausztráliában található, egy nő pedig nemrég rázuhant. A perspektíva kedvéért: 1866-ban a növény mérge két óra alatt végzett egy lóval.",
+        "category": "Kultúra",
+        "published_at": 1795776308
       }
     ]
   }
