@@ -82,47 +82,6 @@
     ]
   },
   {
-    "group_id": "group_6825c61818",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Ő is kőprofi: már az első hó kifogott Karácsony Gergelyen",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/o-is-koprofi-mar-az-elso-ho-kifogott-karacsony-gergelyen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/Ib0VY-7a79dhXG2OyRXStdlFLEgxpiTZiZL5NLgnJ-Q/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjYvODU4N2NiNGIxYjFkMTgyYWY5YTE4MWUyODkzOTUxYTNlY2ViNTE1YTdkODlkMTQ0ZTIzODA2NTc4MzhiYzE0Zg.jpg",
-        "summary": "Két centiméter hó is elég volt ahhoz, hogy megbénuljon Budapest közlekedése.",
-        "category": "Politika",
-        "published_at": 1795708084
-      }
-    ]
-  },
-  {
-    "group_id": "group_c1291fcdd3",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Szakad a fél országban, aztán olyan fagyok jönnek, ami már a kemény hazai teleket idézi",
-        "link": "https://www.atv.hu/belfold/20261126/orszag-fagy-idojaras-csapadek/",
-        "image": "https://www.youtube.com/embed/TarYIzvtevo",
-        "summary": "A hó már csak kevés helyen tart ki, országszerte többfelé zuhog, már úton a jelentős lehűlés is.",
-        "category": "Általános",
-        "published_at": 1795707960
-      },
-      {
-        "source": "HVG - Itthon",
-        "title": "Az ország harmadában ismét havazás jöhet, de ónos esővel is számolni kell",
-        "link": "https://hvg.hu/itthon/20261127_havazas-onos-eso-elorejelzes",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/beb4ec02-ef87-4d55-a3fc-56e28d3e0b01.jpg",
-        "summary": "Ismét északnyugaton és a hegyekben lehet számítani havazásra.",
-        "category": "Politika",
-        "published_at": 1795756543
-      }
-    ]
-  },
-  {
     "group_id": "group_59df84ef2d",
     "category": "Általános",
     "articles_count": 2,
@@ -5108,6 +5067,22 @@
     ]
   },
   {
+    "group_id": "group_c1291fcdd3",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Itthon",
+        "title": "Az ország harmadában ismét havazás jöhet, de ónos esővel is számolni kell",
+        "link": "https://hvg.hu/itthon/20261127_havazas-onos-eso-elorejelzes",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/beb4ec02-ef87-4d55-a3fc-56e28d3e0b01.jpg",
+        "summary": "Ismét északnyugaton és a hegyekben lehet számítani havazásra.",
+        "category": "Politika",
+        "published_at": 1795756543
+      }
+    ]
+  },
+  {
     "group_id": "group_0691fed4c1",
     "category": "Bulvár",
     "articles_count": 1,
@@ -7026,7 +7001,7 @@
         "image": "https://raketa.hu/uploads/2026/11/revolut.jpg",
         "summary": "Váratlan értesítő fogadta a Revolut több felhasználóját péntek reggel: a pénzügyi szolgáltató biztonsági okokból megszüntette a bankkártyájukat. A háttérben egy külső fizetési szolgáltatónál történt adatszivárgás állhat, de egyelőre nem tudni, pontosan melyik vállalat érintett.",
         "category": "Kultúra",
-        "published_at": 1795794247
+        "published_at": 1795794711
       }
     ]
   },
@@ -7049,7 +7024,7 @@
   {
     "group_id": "group_ed9b7f52d4",
     "category": "Bulvár",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "NLC (Nők Lapja Café)",
@@ -7086,6 +7061,15 @@
         "summary": "Elismerte, hogy hibázott, de úgy érzi, a közösségi médiában megalázták.",
         "category": "Általános",
         "published_at": 1795777260
+      },
+      {
+        "source": "ATV",
+        "title": "Nem csak Dér Heni kapja az ívet: Jakupcsek Gabriellát is komoly kritikák érték a közös interjú kapcsán",
+        "link": "https://www.atv.hu/belfold/20261127/jakupcsek-der-heni-interju-kritika/",
+        "image": "",
+        "summary": "Újabb hullámokat vetett Jakupcsek Gabriella és Dér Heni interjúja. Az énekesnő után most a műsorvezető is kemény kritikákat kapott.",
+        "category": "Általános",
+        "published_at": 1795794360
       }
     ]
   },
@@ -11789,7 +11773,7 @@
         "image": "https://pcdn.hu/articles/images-xl/d/b/o/dbogi20271127007-873294.jpg",
         "summary": "Magyar Péter szerint az európai csúcstalálkozó eddig nem hozott eredményt, és a kormány nem enged az uniós költségvetési vitában. Itthon átfogó ellenőrzés indult huszonhárom intézménynél, a parlamenti bizottság pedig a fogdában hallgatná meg Matolcsy Györgyöt. A szökésben lévő Matolcsy Ádám és társa cégére mintegy 90 milliárd forintnyi kötelezettség hárulhat, a Seszták Miklós-ügyben pedig a volt miniszter bizalmasa is gyanúsított lett. Közben aláírták a béralkut, így eldőlt, mennyivel nő jövőre a minimálbér, a főváros és a kormány pedig megállapodott Rákosrendezőről. Orbán Anita szerint több tucat magyar cég venne részt Ukrajna háború utáni újjáépítésében.",
         "category": "Politika",
-        "published_at": 1795790700
+        "published_at": 1795794420
       }
     ]
   },
@@ -12530,7 +12514,7 @@
         "image": "",
         "summary": "Meghalt a 18 éves lány, akit november 24-én sodort el egy vonat Mezőkövesd állomásánál. A Borsod-Abaúj-Zemplén Megyei Kórház pénteken közölte, hogy a súlyos sérüléseket szenvedett fiatal a gyógyítására tett minden erőfeszítés ellenére elhuny...",
         "category": "Politika",
-        "published_at": 1795793044
+        "published_at": 1795794180
       }
     ]
   },
@@ -12883,6 +12867,86 @@
         "summary": "Új elnökkel és megújuló vezetéssel folytatja működését a Budapesti Kereskedelmi és Iparkamara. A szervezet a vállalkozások mindennapi működését segítő szolgáltatások erősítését és érdekképviseletének láthatóbbá tételét tervezi Reich Ádámmal az élen.",
         "category": "Gazdaság",
         "published_at": 1795794120
+      }
+    ]
+  },
+  {
+    "group_id": "group_38bdef7297",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Drogkereskedő lehet a zuglói gyilkosság gyanúsítottja, élettársát is bíróság elé állíthatják",
+        "link": "https://index.hu/belfold/2026/11/27/zugloi-gyilkossag-gyanusitott-letartoztatas-ugyeszseg/",
+        "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
+        "summary": "A nyomozási bíró várhatóan szombaton dönt az indítványokról.",
+        "category": "Általános",
+        "published_at": 1795794300
+      }
+    ]
+  },
+  {
+    "group_id": "group_7aa413bf1e",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Narancs",
+        "title": "Állítólagos Farkas Helga-ügy: megszólalt a család és a volt nyomozó",
+        "link": "https://magyarnarancs.hu/kismagyarorszag/allitolagos-farkas-helga-ugy-megszolalt-a-csalad-es-a-volt-nyomozo-280726",
+        "image": "",
+        "summary": "Felröppent a napokban, hogy Farkas Helga földi maradványainak egy részét találhatták meg egy tanyán. Az ügyet jól ismerő volt nyomozó hűtené a kedélyeket.",
+        "category": "Általános",
+        "published_at": 1795794240
+      }
+    ]
+  },
+  {
+    "group_id": "group_09555b3f3e",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Hekkerek törték fel az amerikai légierő rendszerét",
+        "link": "https://24.hu/kulfold/2026/11/27/hekkerek-tortek-fel-amerikai-legiero-rendszeret/",
+        "image": "https://s.24.hu/app/uploads/2026/11/amerikai-legiero-e1795794446723.jpg",
+        "summary": "Légvédelmi radarok, rakéták és katonai repülőgépek műveleti állapotához is hozzáférhettek. The post Hekkerek törték fel az amerikai légierő rendszerét first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795794579
+      }
+    ]
+  },
+  {
+    "group_id": "group_edb0b1c546",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Részvétét fejezte ki az Egészségügyi Minisztérium Stósz Viviána Lilla halála miatt",
+        "link": "https://24.hu/belfold/2026/11/27/egeszsegugyi-miniszterium-reszvet-mezokovesdi-vonatbaleset-stosz-viviana-lilla/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-0512871200-e1795794444848-1024x577.jpg",
+        "summary": "A tárca mély megrendüléssel értesült a halálesetről. The post Részvétét fejezte ki az Egészségügyi Minisztérium Stósz Viviána Lilla halála miatt first appeared on 24.hu.",
+        "category": "Általános",
+        "published_at": 1795794478
+      }
+    ]
+  },
+  {
+    "group_id": "group_eed7467112",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HVG - Gazdaság",
+        "title": "Milliárdos hűtlen kezelés és pénzmosás – úgy tűnik, mégis lesz felelősségre vonás a volt cserkészvezetők Feneketlen-tavi ingatlanmutyijában",
+        "link": "https://hvg.hu/gazdasag/20261127_hutlen-kezeles-penzmosas-gyanuja-ingatlanmutyi-feneketlen-to-emi-nonprofit-kft-cserkesszovetseg",
+        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/896f64fe-11f7-463c-8e62-73c681f7030a.jpg",
+        "summary": "Lezárt a rendőrség egy különösen jelentős vagyoni hátrányt okozó hűtlen kezelés és pénzmosás ügyében zajlott nyomozást. Bár sem cégeket, sem embereket nem nevesítettek, több jel is arra utal, hogy arról a Feneketlen-tó közelében történt milliárdos ingatlanmutyiról lehet szó, ami miatt még Lázár János is odacsapott, de hét éve még nem találtak bűncselekményt.",
+        "category": "Gazdaság",
+        "published_at": 1795794268
       }
     ]
   }
