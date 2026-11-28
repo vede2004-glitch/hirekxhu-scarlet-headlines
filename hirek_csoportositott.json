@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_7c71270e91",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ATV",
-        "title": "Beszagolt a rendőrkutya a sütőbe: két vasi férfi kerülhet rács mögé miatta",
-        "link": "https://www.atv.hu/belfold/20261127/vas-rendorseg-suto-nyomozas/",
-        "image": "",
-        "summary": "Több mint tíz helyszínen csaptak le a vasi rendőrök két drogdílerre: a kábítószerkereső kutya még a sütő aljába rejtett anyagot is kiszagolta.",
-        "category": "Általános",
-        "published_at": 1795748640
-      }
-    ]
-  },
-  {
     "group_id": "group_7974c4a37f",
     "category": "Kultúra",
     "articles_count": 1,
@@ -6926,7 +6910,7 @@
   {
     "group_id": "group_2b633f8ab4",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -6936,6 +6920,15 @@
         "summary": "Börtön várhat rá.",
         "category": "Általános",
         "published_at": 1795780320
+      },
+      {
+        "source": "ATV",
+        "title": "Tigrist tartott otthon a férfi, kocsijában pedig selyemmajmot találtak – most felelnie kell a tetteiért",
+        "link": "https://www.atv.hu/belfold/20261128/tigris-tartas-tiszafured-vademeles/",
+        "image": "",
+        "summary": "Vádat emeltek egy 41 éves tiszafüredi férfi ellen, aki engedély nélkül tartott otthonában egy szibériai tigrist, a kocsijában pedig egy selyemmajmot is találtak.",
+        "category": "Általános",
+        "published_at": 1795835040
       }
     ]
   },
@@ -12363,6 +12356,22 @@
         "summary": "Marc Márquez öt nappal azután, hogy megvédte címét, és pályafutása 8. vb-elsőségét aratta, váratlan bejelentést tett. The post „Kezdek félelmet érezni” – egy furcsa tünet miatt vonul vissza a MotoGP királya first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795833199
+      }
+    ]
+  },
+  {
+    "group_id": "group_8ca71cd0d3",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Amatőr csillagászok 49 lehetséges új exobolygó jeleit találták meg a NASA adataiban az AI segítségével, de még nem biztos, hogy bármelyik létezik",
+        "link": "https://raketa.hu/49-bolygojelolt-nasa-adatok-ai-amator-csillagaszok/",
+        "image": "https://raketa.hu/uploads/2026/11/exoplanet.jpg",
+        "summary": "A NASA űrtávcsövei rengeteg adatot gyűjtöttek össze, de ezekben még mindig rejtőzhetnek felfedezetlen bolygók. Két amatőr csillagász az OpenAI AI-eszközeivel kezdte átvizsgálni a megfigyeléseket, melynek során több tucat ígéretes jelöltre bukkantak.",
+        "category": "Kultúra",
+        "published_at": 1795835374
       }
     ]
   }
