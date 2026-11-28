@@ -1807,6 +1807,37 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_9ba3a557f9",
+    "slug": "fogvacogosan-indul-a-hetvege-de-kesobb-sem-lesz-sokkal-jobb-az-idojaras-hoszalli-9ba3a5",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ATV",
+        "title": "Fogvacogósan indul a hétvége, de később sem lesz sokkal jobb az időjárás – hószállingózásra is készülhetünk",
+        "link": "https://www.atv.hu/belfold/20261128/idojaras-hetvege-havazas-fagy/"
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Hószállingózással és mínuszokkal indul a szombat, napközben felszakadozik a felhőzet",
+        "link": "https://index.hu/belfold/2026/11/28/idojaras-elorejelzes-csapadek-radar-eso-havazas-ho/"
+      }
+    ],
+    "published_at": 1795840500,
+    "title_hu": "Fogvacogósan indul a hétvége, de később sem lesz sokkal jobb az időjárás – hószállingózásra is készülhetünk",
+    "lead_hu": "Változékony, hűvös hétvégi időjárás jön: szombaton északkelet felől szakadozik a felhőzet, vasárnap hajnalban viszont akár mínusz 10 fok közelébe is hűlhet a levegő....",
+    "content_hu": "Változékony, hűvös hétvégi időjárás jön: szombaton északkelet felől szakadozik a felhőzet, vasárnap hajnalban viszont akár mínusz 10 fok közelébe is hűlhet a levegő.",
+    "importance_score": 35.0,
+    "top_rank": 33,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_bc492ae2ab",
     "slug": "a-kdnp-az-alkotmanybirosagtol-keri-a-gyermekvedelmi-trveny-egyes-reszeinek-megse-bc492a",
     "tags": [
@@ -1842,37 +1873,6 @@
     "title_hu": "A KDNP az Alkotmánybíróságtól kéri a gyermekvédelmi törvény egyes részeinek megsemmisítését",
     "lead_hu": "Rétvári Bence bejelentése szerint a KDNP 15 pontban támadja meg a gyermekvédelmi törvény módosításának egyes rendelkezéseit az Alkotmánybíróság előtt. A párt frakcióvezetője azt is közölte, hogy a jogszabály ellen indított petíciót közel 65 ezren támogatták.",
     "content_hu": "• **Alkotmánybírósági beadvány** Rétvári Bence, a KDNP frakcióvezetője pénteki online sajtótájékoztatóján ismertette, hogy pártja 15 pontban kéri a törvénymódosítás egyes részeinek megsemmisítését.\n\n• **A törvény elfogadása** Az Országgyűlés október 13-án szavazta meg a gyermekek jogainak és biztonságának megerősítését célzó módosítást. A változtatás nyomán kikerültek a jogszabályból a homoszexualitás megjelenítését és népszerűsítését tiltó rendelkezések.\n\n• **A KDNP érvei** Rétvári álláspontja szerint a módosítás megszüntetett gyermek- és családvédelmi garanciákat, és lehetővé teheti, hogy szervezetek szülői hozzájárulás nélkül tartsanak foglalkozásokat vagy adjanak át kiadványokat gyerekeknek.\n\n• **Petíció** A frakcióvezető közlése szerint a törvénnyel szembeni online kezdeményezés közel 65 ezer támogatót gyűjtött.",
-    "importance_score": 38.0,
-    "top_rank": 33,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_9ba3a557f9",
-    "slug": "fogvacogosan-indul-a-hetvege-de-kesobb-sem-lesz-sokkal-jobb-az-idojaras-hoszalli-9ba3a5",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ATV",
-        "title": "Fogvacogósan indul a hétvége, de később sem lesz sokkal jobb az időjárás – hószállingózásra is készülhetünk",
-        "link": "https://www.atv.hu/belfold/20261128/idojaras-hetvege-havazas-fagy/"
-      },
-      {
-        "source": "Index - Címlap",
-        "title": "Hószállingózással és mínuszokkal indul a szombat, napközben felszakadozik a felhőzet",
-        "link": "https://index.hu/belfold/2026/11/28/idojaras-elorejelzes-csapadek-radar-eso-havazas-ho/"
-      }
-    ],
-    "published_at": 1795840500,
-    "title_hu": "Fogvacogósan indul a hétvége, de később sem lesz sokkal jobb az időjárás – hószállingózásra is készülhetünk",
-    "lead_hu": "Változékony, hűvös hétvégi időjárás jön: szombaton északkelet felől szakadozik a felhőzet, vasárnap hajnalban viszont akár mínusz 10 fok közelébe is hűlhet a levegő....",
-    "content_hu": "Változékony, hűvös hétvégi időjárás jön: szombaton északkelet felől szakadozik a felhőzet, vasárnap hajnalban viszont akár mínusz 10 fok közelébe is hűlhet a levegő.",
     "importance_score": 35.0,
     "top_rank": 34,
     "is_top_hero": false,
@@ -2202,7 +2202,7 @@
     "title_hu": "Tovább nőtt a különbség a legdrágább és a legolcsóbb utcák között",
     "lead_hu": "A KSH adásvételi adatai alapján 2025-ben a budapesti Vérhalom utcában meghaladta a 3 millió forintot az átlagos négyzetméterár. Az ingatlan.com hirdetési adatain alapuló aktuális rangsorában a tihanyi Pisky sétány és a kövegyi Kossuth Lajos utca ára között 210-szeres eltérés mutatkozott.",
     "content_hu": "• **A Vérhalom utca vezette a 2025-ös rangsort**: a II. kerületi közterületen hat adásvétel alapján 3 millió forint fölötti átlagos négyzetméterárat mértek. A XII. kerületi Kútvölgyi út 2,8 millió, az I. kerületi Orom utca pedig 2,6 millió forintot meghaladó átlaggal következett.\n\n• **A húsz legdrágább utca belépési küszöbe egy év alatt több mint 17 százalékkal emelkedett**: 2024-ben 1,89 millió forintos átlag is elég volt a listára kerüléshez, 2025-ben viszont a XI. kerületi Napkelte utcában már 2,21 millió forint fölötti értéket mértek a huszadik helyen.\n\n• **A tíz legdrágább közterület között egyetlen fővároson kívüli utca szerepelt**: a budaörsi Clementis László utca 2,405 millió forintos átlaggal került fel a listára. A mezőnyben a II. kerületi Muraközi utca és Budakeszi út, a XI. kerületi Bíró László József körút, a belvárosi Széchenyi és Sas utca, valamint az Országház utca is helyet kapott.\n\n• **A két legolcsóbb utca holtversenyben végzett**: Jánoshalma Orczy utcájában és Kisbér Kossuth Lajos utcájában 34 ezer forint volt az átlagos négyzetméterár. Csanádpalota Kossuth utcájában 35 ezer forintot mértek; mindhárom átlag három adásvételen alapult.\n\n• **A korábbi adásvételi rangsorban 2024-ben 112-szeres volt a legdrágább és legolcsóbb utca közötti eltérés**: a II. kerületi Levél utca közel 2,6 millió forintos átlagára állt szemben a borsodnádasdi Kölcsey Ferenc utca 23 ezer forintos értékével. 2025-ben ez az arány 88-szorosra változott.\n\n• **Az aktuális hirdetési összevetés első helyén a tihanyi Pisky sétány, a lista másik végén pedig a kövegyi Kossuth Lajos utca állt**: az ingatlan.com a november 25-ig az oldalról eltávolított eladóingatlan-hirdetések medián négyzetméterárait vizsgálta. Az első húsz helyezett közül kilenc, az első tízből hat balatoni településen található.",
-    "importance_score": 33.0,
+    "importance_score": 30.0,
     "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
@@ -4147,6 +4147,58 @@
     "top_rank": 96,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_2864ce3515",
+    "slug": "a-spice-girls-dgs-vrs-enekesnojekent-rajongtunk-erte-54-evesen-fouri-kastely-urn-2864ce",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "image": "https://femina.hu/neon/media/renditions/439/439026/afd0224919a44f31.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Femina",
+        "title": "A Spice Girls dögös vörös énekesnőjeként rajongtunk érte: 54 évesen főúri kastély úrnőjeként él Geri Halliwell",
+        "link": "https://femina.hu/vilagsztar/spice-girls-geri-halliwell-54-evesen-fouri-kastely-foto/"
+      }
+    ],
+    "published_at": 1795845300,
+    "title_hu": "A Spice Girls dögös vörös énekesnőjeként rajongtunk érte: 54 évesen főúri kastély úrnőjeként él Geri Halliwell",
+    "lead_hu": "Geri Halliwell és férje egy lélegzetelállító főúri birtok tulajdonosai lettek....",
+    "content_hu": "Geri Halliwell és férje egy lélegzetelállító főúri birtok tulajdonosai lettek.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_46078cfe1e",
+    "slug": "utasok-mar-korabban-jeleztek-hogy-nem-nyilik-a-vonat-ajtaja-a-mezokvesdi-jaraton-46078c",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.24.hu/app/uploads/2026/11/central-1019612065-e1795844974171-1024x577.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Utasok már korábban jelezték, hogy nem nyílik a vonat ajtaja a mezőkövesdi járaton",
+        "link": "https://24.hu/belfold/2026/11/28/mezokovesd-vonat-baleset-mav-vonat-nem-nyilo-ajtok/"
+      }
+    ],
+    "published_at": 1795845135,
+    "title_hu": "Utasok már korábban jelezték, hogy nem nyílik a vonat ajtaja a mezőkövesdi járaton",
+    "lead_hu": "Nyáron már volt, aki szóvá tette, hogy nem nyílik megfelelően minden ajtó a Mezőkövesden is megálló Borsod Intercity vonalon. The post Utasok már korábban jelezték, hogy nem nyílik a vonat ajtaja a me...",
+    "content_hu": "Nyáron már volt, aki szóvá tette, hogy nem nyílik megfelelően minden ajtó a Mezőkövesden is megálló Borsod Intercity vonalon. The post Utasok már korábban jelezték, hogy nem nyílik a vonat ajtaja a mezőkövesdi járaton first appeared on 24.hu.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_b6312a08a0",
@@ -17559,32 +17611,6 @@
     "title_hu": "Fordulat előtt az európai autógyártók?",
     "lead_hu": "A kereslet bizonytalansága, a kínai versenytársak technológiai előnye és az elektromos átállás költségei továbbra is komoly kihívást jelentenek az európai autógyártók számára.",
     "content_hu": "A kereslet bizonytalansága, a kínai versenytársak technológiai előnye és az elektromos átállás költségei továbbra is komoly kihívást jelentenek az európai autógyártók számára.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_c09a53e073",
-    "slug": "putyin-buszkesege-matolcsy-cegei-c09a53",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "444.hu",
-        "title": "Putyin büszkesége, Matolcsy cégei",
-        "link": "https://444.hu/2026/11/27/putyin-buszkesege-matolcsy-cegei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-      }
-    ],
-    "published_at": 1795759054,
-    "title_hu": "Putyin büszkesége, Matolcsy cégei",
-    "lead_hu": "Nehezebb lesz a most végző színművészeknek? Miért átláthatatlan a Tisza-kormány színháztámogatása? Mi változott a GTA VI-ban az V-höz képest? Árthat Bondnak a ráncfelvarrás? Kik akadályozhatnák a viss…",
-    "content_hu": "Nehezebb lesz a most végző színművészeknek? Miért átláthatatlan a Tisza-kormány színháztámogatása? Mi változott a GTA VI-ban az V-höz képest? Árthat Bondnak a ráncfelvarrás? Kik akadályozhatnák a visszatérő briteket? Itt a 444 napindító hírlevele.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
