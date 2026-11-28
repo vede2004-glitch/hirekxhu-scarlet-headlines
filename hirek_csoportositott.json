@@ -32,47 +32,6 @@
     ]
   },
   {
-    "group_id": "group_2ae6d4c203",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Ezekért érdemes moziba menni november 27-től december 4-ig",
-        "link": "https://telex.hu/after/2026/11/27/ezekert-erdemes-moziba-menni-november-27-tol-december-4-ig",
-        "image": "https://assets.telex.hu/images/20261125/1795598324-temp-h6f2so3sraandpgfenp_cimlap-normal.jpg",
-        "summary": "Itt a következő hét napra szóló Diszpó, a Telex rendszeres moziajánlója.",
-        "category": "Politika",
-        "published_at": 1795753142
-      }
-    ]
-  },
-  {
-    "group_id": "group_9085ad3d1a",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Végrehajtási visszaéléseket vizsgáló bizottság: Most a helyettes államtitkárok és a miniszteri biztosok jönnek",
-        "link": "https://hvg.hu/itthon/20261127_vegrehajtasi-visszaeleseket-vizsgalo-bizottsag-helyettes-allamtitkarok-miniszteri-biztosok",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dbaeeb6c-9663-4daa-ae3a-ea14b1b8b00e.jpg",
-        "summary": "Pénteken hét embert fog meghallgatni a vizsgálóbizottság.",
-        "category": "Politika",
-        "published_at": 1795753290
-      },
-      {
-        "source": "ATV",
-        "title": "Miniszterek után, most korábbi államtitkárokat hallgat meg Toroczkai bizottsága – nézze itt élőben!",
-        "link": "https://www.atv.hu/belfold/20261127/allamtitkar-toroczkai-meghallgat/",
-        "image": "",
-        "summary": "A volt igazságügyi miniszterek után korábbi helyettes államtitkárok és miniszteri biztosok meghallgatásával folytatja ma munkáját a Toroczkai László vezette végrehajtási visszaéléseket feltáró parlamenti vizsgálóbizottsága.",
-        "category": "Politika",
-        "published_at": 1795783380
-      }
-    ]
-  },
-  {
     "group_id": "group_8601fc7c48",
     "category": "Általános",
     "articles_count": 2,
@@ -7265,6 +7224,22 @@
     ]
   },
   {
+    "group_id": "group_9085ad3d1a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ATV",
+        "title": "Miniszterek után, most korábbi államtitkárokat hallgat meg Toroczkai bizottsága – nézze itt élőben!",
+        "link": "https://www.atv.hu/belfold/20261127/allamtitkar-toroczkai-meghallgat/",
+        "image": "",
+        "summary": "A volt igazságügyi miniszterek után korábbi helyettes államtitkárok és miniszteri biztosok meghallgatásával folytatja ma munkáját a Toroczkai László vezette végrehajtási visszaéléseket feltáró parlamenti vizsgálóbizottsága.",
+        "category": "Politika",
+        "published_at": 1795783380
+      }
+    ]
+  },
+  {
     "group_id": "group_46fb5dc9c6",
     "category": "Politika",
     "articles_count": 2,
@@ -12129,7 +12104,7 @@
         "image": "https://raketa.hu/uploads/2026/06/univerzum.jpg",
         "summary": "A fiatal rádiógalaxis környezete rendkívül összetett és dinamikus képet mutat. Az észlelt gázmozgások arra utalnak, hogy a fekete lyukból kiinduló anyagkilövellések (rádiónyalábok) közvetlen kölcsönhatásban állnak a környező gázfelhőkkel.",
         "category": "Kultúra",
-        "published_at": 1795839426
+        "published_at": 1795839812
       }
     ]
   },
@@ -12178,6 +12153,22 @@
         "summary": "Meztelenül tört be egy mogyoródi telephely raktárépületébe egy férfi, aki több ablakot betört, majd egy irodában is jelentős pusztítást végzett. A rendőröknek később azt mondta, hogy előző nap kristályt fogyasztott. Az esetről a Pest vármegyei rendőrség számolt be a Facebook-oldalán.",
         "category": "Általános",
         "published_at": 1795838700
+      }
+    ]
+  },
+  {
+    "group_id": "group_11ac992519",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Íme Románia első mesterséges intelligencia kutatóintézete!",
+        "link": "https://raketa.hu/ime-romania-elso-mesterseges-intelligencia-kutatointezete/",
+        "image": "https://raketa.hu/uploads/2026/11/kesz-kolozsvar2.jpg",
+        "summary": "A több mint 14 ezer négyzetméteres komplexum 33 laboratóriumnak ad otthont, és a mesterséges intelligencia kutatását, fejlesztését, valamint ipari alkalmazását támogatja majd. A Kolozsvári Műszaki Egyetem új intézményének megvalósításában a KÉSZ Csoport romániai leányvállalata generálkivitelezőként vett részt.",
+        "category": "Kultúra",
+        "published_at": 1795839812
       }
     ]
   }
