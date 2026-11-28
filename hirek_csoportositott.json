@@ -57,38 +57,6 @@
     ]
   },
   {
-    "group_id": "group_1f86186607",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "210-szeres a különbség az ország legdrágább és legolcsóbb utcája között",
-        "link": "https://index.hu/gazdasag/2026/11/27/legdragabb-legolcsobb-utcak-negyzetmeterar-2026/",
-        "image": "https://kep.index.hu/1/0/4167/41673/416739/41673948_3181266_fa9cba1e6e40767bff8959e90190cee5_wm.jpg",
-        "summary": "Hárommillió felett a budai csúcs.",
-        "category": "Általános",
-        "published_at": 1795801980
-      }
-    ]
-  },
-  {
-    "group_id": "group_bc492ae2ab",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Alkotmánybírósághoz fordul a KDNP a gyermekvédelmi törvény miatt, egyes passzusok megsemmisítését szeretnék",
-        "link": "https://hvg.hu/itthon/20261127_alkotmanybirosaghoz-kdnp-gyermekvedelmi-torveny",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/971f3a88-eaa9-44f8-b013-2a8c7046a5b6.jpg",
-        "summary": "Rétvári Bence jelentette be, hogy a pártja 15 pontból álló beadvánnyal torpedózná meg a törvényt, amelynek nemrég fogadták el a módosítását.",
-        "category": "Politika",
-        "published_at": 1795801948
-      }
-    ]
-  },
-  {
     "group_id": "group_87d6f9b077",
     "category": "Politika",
     "articles_count": 4,
@@ -1519,7 +1487,7 @@
         "image": "https://pcdn.hu/articles/images-xl/o/r/s/orszaggyules-parlament-budapest-873584.jpg",
         "summary": "A vízmegtartásban tett lépésekről posztolt és új tározók építését is bejelentette az élő környezetért felelős miniszter; a korrupció felszámolásával elérhető költségvetési megtakarításokról írt szombat reggel Kármán András; a hadügyminiszter, Ruszin-Szendi Romulusz pedig a haderőreformról tett közzé bejegyzést. Ráadásul elindulhat Magyarország első mesterséges intelligencia alapszakja a Debreceni Egyetemen, miután a szaklétesítési kérelem megkapta a minisztériumi támogatást.",
         "category": "Politika",
-        "published_at": 1795879740
+        "published_at": 1795887960
       },
       {
         "source": "Világgazdaság",
@@ -8071,7 +8039,7 @@
   {
     "group_id": "group_b6902c102f",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Index - Címlap",
@@ -8081,6 +8049,15 @@
         "summary": "A riport szerint nem csak az árakat kell nézni.",
         "category": "Általános",
         "published_at": 1795884720
+      },
+      {
+        "source": "24.hu - Legfrissebb",
+        "title": "Ennyibe kerül a karácsonyi vásár Bécsben és Budapesten",
+        "link": "https://24.hu/elet-stilus/2026/11/28/karacsonyi-vasar-budapest-becs/",
+        "image": "https://s.24.hu/app/uploads/2026/11/central-1053096159-e1795888389608-1024x577.jpg",
+        "summary": "A budapesti karácsonyi vásárokban idén is kötelező legalább egy 1600 forintos ételt kínálni, de az átlagos ételárak azért jóval 2500 forint fölött alakulnak. The post Ennyibe kerül a karácsonyi vásár Bécsben és Budapesten first appeared on 24.hu.",
+        "category": "Gazdaság",
+        "published_at": 1795888424
       }
     ]
   },
@@ -8178,7 +8155,7 @@
         "image": "https://raketa.hu/uploads/2022/01/2842307093_48a707ab05_o.jpg",
         "summary": "A vasbetonból készült hajókat a kényszer szülte, de van, amelyik még száz év után is úszik.",
         "category": "Kultúra",
-        "published_at": 1795888321
+        "published_at": 1795888696
       }
     ]
   },
@@ -8499,6 +8476,22 @@
         "summary": "Az udvariasság szabályai korántsem olyan állandók, mint gondolnánk: a technológia fejlődése, a generációs különbségek és a személyes határok átértékelődése is formálja őket. Ami régen figyelmességnek számított, ma akár kellemetlen is lehet. Vajon mely hétköznapi helyzetekben változott meg leginkább az illem? The post 7 hétköznapi helyzet, amelyben már nem ugyanazt tartjuk udvariasnak first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795887180
+      }
+    ]
+  },
+  {
+    "group_id": "group_e54ec4b476",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Egész nap dolgoztak a közutasok, 145 tonna sót szórtak ki",
+        "link": "https://index.hu/belfold/2026/11/28/idojaras-havazas-magyar-kozut-uttakaritas-kozlekedes/",
+        "image": "https://kep.index.hu/1/0/7274/72747/727479/72747991_5359397_e5a026658fbaef65548b0c12c7d213ab_wm.jpg",
+        "summary": "Egy nap alatt negyven alkalommal kellett beavatkozniuk a Magyar Közút munkagépeinek.",
+        "category": "Általános",
+        "published_at": 1795888500
       }
     ]
   }
