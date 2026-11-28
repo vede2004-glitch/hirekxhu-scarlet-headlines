@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_3be12a00e7",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Egy friss tájékoztató szerint december 3-án, csütörtökön ismét megfigyelhető lesz a Mars, a Jupiter és a Regulus együttállása",
-        "link": "https://raketa.hu/december-3-egyuttallas-mars-jupiter-regulus/",
-        "image": "https://raketa.hu/uploads/2026/11/egyuttallassvabhegyi.jpg",
-        "summary": "Minden korán kelőnek érdemes felnézni az égre ezen a december eleji csütörtök reggelen, hiszen most láthatjuk a Mars, a Jupiter és a Regulus együttállás-sorozatának utolsó, szimmetrikus alakzatát.",
-        "category": "Kultúra",
-        "published_at": 1795814597
-      }
-    ]
-  },
-  {
     "group_id": "group_3b17092918",
     "category": "Kultúra",
     "articles_count": 1,
@@ -33,27 +17,9 @@
   },
   {
     "group_id": "group_e7c3f526df",
-    "category": "Politika",
-    "articles_count": 8,
+    "category": "Gazdaság",
+    "articles_count": 6,
     "articles": [
-      {
-        "source": "HVG - Gazdaság",
-        "title": "A Tisza második hitelminősítése: Magyarország megúszta a bóvlit az S&P-nél",
-        "link": "https://hvg.hu/gazdasag/20261127_s-p-2026-november-minosites-hitelminosites-negativ-stabil-bovli-ertekeles-ebx",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/01246aa7-720d-4c30-b4b1-792535ac1057.jpg",
-        "summary": "Magyarország adósbesorolása maradt egy szinttel a befektetésre nem ajánlott, bóvli kategóra fölött, de az S&P stabilra javította a kilátást a korábbi leminősítésre utaló negatívról.",
-        "category": "Politika",
-        "published_at": 1795814336
-      },
-      {
-        "source": "Világgazdaság",
-        "title": "Megérkezett a késő esti ítélet Amerikából: döntött Magyarországról a Standard & Poor’s – egyetlen fokozat választotta el hazánkat a bóvlitó",
-        "link": "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/hitelminosites-s-es-p-besorolas-magyarorszag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.vg.hu/2026/11/uzOVMvNNYkJQwlPM5YfoLD4qAhCzComJMXV8zx6qV1Q/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI3LzljODk1YTI3OTViMDNlNzY0MGE3MGQwNjlkZTI5ZDNjNmFjNWFlM2I4OThlM2VkMjFiNDAxMWVhOTUyYTY2YWM.jpg",
-        "summary": "Magyarország hitelminősítési kilátását negatívról stabilra javította az S&P, a „BBB−/A−3” besorolást megerősítette. Cikkünk frissül.",
-        "category": "Gazdaság",
-        "published_at": 1795814313
-      },
       {
         "source": "Portfolio - Gazdaság",
         "title": "Megszólalt Kármán András az S&P lépése után",
@@ -8018,7 +7984,7 @@
         "image": "https://raketa.hu/uploads/2026/11/Untitled-Design-35.webp",
         "summary": "A Neiry nevű orosz startup azt állítja, hogy neurális implantátumokat ültetett be galambok agyába, így biodrónokká változtatta az egykor postagalambként is melózó állatokat.",
         "category": "Kultúra",
-        "published_at": 1795900628
+        "published_at": 1795901001
       }
     ]
   },
@@ -8034,7 +8000,7 @@
         "image": "https://raketa.hu/uploads/2026/11/asztrofoto4-e1732810204745.jpg",
         "summary": "A látogatók a földi tájat az égbolttal együtt ábrázoló asztrotájképektől a Naprendszer bolygóin át a távoli galaxisokig és ködökig nyerhetnek betekintést a világegyetem rejtett látványosságaiba.",
         "category": "Kultúra",
-        "published_at": 1795900628
+        "published_at": 1795901049
       }
     ]
   },
@@ -8067,6 +8033,22 @@
         "summary": "Dezse Balázs, Kacsoh Dániel és Szabó Gergő voltak a vendégeink.",
         "category": "Politika",
         "published_at": 1795899650
+      }
+    ]
+  },
+  {
+    "group_id": "group_b1abc2a427",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Cicciolina elindulna a polgármesteri címért Rómában",
+        "link": "https://telex.hu/kulfold/2026/11/28/cicciolina-staller-ilona-roma-polgarmester",
+        "image": "https://assets.telex.hu/images/20261128/1795900525-temp-ug4g0vkbbt914ogfmkb_cimlap-normal.jpg",
+        "summary": "Még nem árulta el, hogy milyen formációval, milyen keretek között képzeli az indulást.",
+        "category": "Politika",
+        "published_at": 1795900717
       }
     ]
   }
