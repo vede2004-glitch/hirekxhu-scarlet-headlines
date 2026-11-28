@@ -68,47 +68,6 @@
     ]
   },
   {
-    "group_id": "group_fbdc0c8efd",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Ismétlődő visszaélési mintázatokat, politikai befolyást tárt fel a közmédia auditja",
-        "link": "https://index.hu/belfold/2026/11/27/kozmedia-audit-mtva-atvilagitas/",
-        "image": "https://kep.index.hu/1/0/7243/72433/724331/72433107_5337733_a4a28490127f57f06d12a27f355428b2_wm.jpg",
-        "summary": "Az átmeneti vezetés már feljelentéseket is tett.",
-        "category": "Általános",
-        "published_at": 1795796280
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Szégyentelenül hordták ki a pénzt a közmédiából az új kormány vizsgálata szerint",
-        "link": "https://telex.hu/after/2026/11/27/kozmedia-miniszterium-koltes-audit-lopas-mtva-duna-mediaszolgaltato-m1",
-        "image": "https://assets.telex.hu/images/20261127/1795792702-temp-ldi54l37o0rcacbpaec_cimlap-normal.jpg",
-        "summary": "Milliárdos mutyi közvetítőkocsikkal és bérbe adott eszközparkkal, milliók AI-slopra, az MTVA-ból élő időjárás-jelentők, belső jelentés Rogán Antalnak. Ezek estek ki az átvizsgálásból.",
-        "category": "Politika",
-        "published_at": 1795798015
-      }
-    ]
-  },
-  {
-    "group_id": "group_7e1627a061",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Az idei Miss Universe történelmet írt: ő az első édesanyja, aki fejére korona került",
-        "link": "https://femina.hu/vilagsztar/miss-universe-gyoztes-elso-edesanya-tortenelem/",
-        "image": "https://femina.hu/neon/media/renditions/439/439354/a449762918bbefb6.jpg",
-        "summary": "A pszichológusként dolgozó Jennifer Barreto nyerte el a rangos Miss Universe címet, ezzel ő az első édesanya, akinek a fejére került a korona.",
-        "category": "Bulvár",
-        "published_at": 1795796400
-      }
-    ]
-  },
-  {
     "group_id": "group_632a2d6e61",
     "category": "Politika",
     "articles_count": 2,
@@ -531,6 +490,22 @@
         "summary": "Az Európa Tanács konzultatív testülete december 11–12-i ülésén foglalkozik a kérdésekkel.",
         "category": "Politika",
         "published_at": 1795798080
+      }
+    ]
+  },
+  {
+    "group_id": "group_fbdc0c8efd",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Szégyentelenül hordták ki a pénzt a közmédiából az új kormány vizsgálata szerint",
+        "link": "https://telex.hu/after/2026/11/27/kozmedia-miniszterium-koltes-audit-lopas-mtva-duna-mediaszolgaltato-m1",
+        "image": "https://assets.telex.hu/images/20261127/1795792702-temp-ldi54l37o0rcacbpaec_cimlap-normal.jpg",
+        "summary": "Milliárdos mutyi közvetítőkocsikkal és bérbe adott eszközparkkal, milliók AI-slopra, az MTVA-ból élő időjárás-jelentők, belső jelentés Rogán Antalnak. Ezek estek ki az átvizsgálásból.",
+        "category": "Politika",
+        "published_at": 1795798015
       }
     ]
   },
@@ -7701,7 +7676,7 @@
   {
     "group_id": "group_e3f43cbd52",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -7729,6 +7704,15 @@
         "summary": "Tasnády Katalin, az NVVH elnökhelyettese egy konferencián mutatta be az eredetileg közöltnél háromszor hosszabb videót a sikkasztási ügyhöz köthető raklapnyi készpénz megtalálásáról.",
         "category": "Politika",
         "published_at": 1795880474
+      },
+      {
+        "source": "Telex - Belföld",
+        "title": "Seszták-ügy: újabb videó került elő a milliárdok kiásásáról és megtalálásáról",
+        "link": "https://telex.hu/belfold/2026/11/28/sesztak-ugy-milliardok-megtalalas-video-nemzeti-vagyonvisszaszerzesi-hivatal-nyomozok",
+        "image": "https://assets.telex.hu/images/20261128/1795882988-temp-s4p3spd0202t9fgjnck_cimlap-normal.jpg",
+        "summary": "A nyomozók pontosan tudták, hol kell keresni a készpénz, mondta Tasnády Katalin, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal nyomozati elnökhelyettese.",
+        "category": "Politika",
+        "published_at": 1795883032
       }
     ]
   },
@@ -8428,7 +8412,7 @@
         "image": "",
         "summary": "Rétvári Bence az imént jelentette be Facebook-oldalán, hogy megválasztották a Kereszténydemokrata Néppárt elnökének.Semjén Zsolt 23 év után adta át a párt vezetését, ezzel új korszak kezdődik a KDNP történetében.A válto...",
         "category": "Politika",
-        "published_at": 1795882630
+        "published_at": 1795883043
       },
       {
         "source": "Hír TV",
@@ -8709,7 +8693,7 @@
         "image": "https://raketa.hu/uploads/2024/09/GettyImages-1370540784.jpg",
         "summary": "Hanyagságból megmenteni több százmillió ember életét? A penicillin feltalálójának sikerült elkövetnie ezt a bravúrt, de mellette is voltak még szép számmal, akik a puszta véletlennek köszönhetik, hogy örökre megváltoztatták a világot.",
         "category": "Kultúra",
-        "published_at": 1795882632
+        "published_at": 1795883045
       }
     ]
   },
@@ -8758,6 +8742,54 @@
         "summary": "Bár az emberiségnek sikerült megfejtenie az egyiptomi hieroglifákat és a mezopotámiai ékírást, számos ősi jelrendszer a mai napig kifog a tudósokon. Pedig ez akár alapjaiban is megváltoztathatná a múltról alkotott képünket. The post Ősi, elveszett civilizációk, amelyeknek a nyelvét máig nem sikerült megfejteni first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795881780
+      }
+    ]
+  },
+  {
+    "group_id": "group_201d8fbc6f",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Közös érdekünk a biztonságosabb és élhetőbb közlekedés, de hogyan jutunk ehhez közelebb?",
+        "link": "https://telex.hu/g7/elet/2026/11/28/kozlekedesi-szabalyok-ellenorzes-autosok-gyalogosok-budapest",
+        "image": "https://assets.telex.hu/images/20261127/1795790506-temp-un34ksf1t1538pghion_cimlap-normal.jpg",
+        "summary": "Ha sikerül biztosítani a tartós szabálykövetés feltételeit és az erősebb ellenőrzést, olyan közlekedési rendszert kapunk, amely élhetőbbé teszi a várost minden lakója és az ott megfordulók számára is.",
+        "category": "Politika",
+        "published_at": 1795882729
+      }
+    ]
+  },
+  {
+    "group_id": "group_bf20350a5c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "A Fidesz szerint a MÁV és a minisztérium is figyelmen kívül hagyta az utasok jelzéseit",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/a-fidesz-szerint-a-mav-es-a-miniszterium-is-figyelmen-kivul-hagyta-az-utasok-jelzeseit",
+        "image": "https://cdn.hirtv.hu/2026/11/UWv9xJzdYnPStZFVO8iaQIsYlqNP4V27XTlUfsOeF8E/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZlYTY3MGI5M2UyNzRjY2U4YzVjNzQ1NmNlYzUxYTE4.jpg",
+        "summary": "Bóka János kijelentette: Vitézy Dávid nem menekülhet tovább a felelősség elől.",
+        "category": "Politika",
+        "published_at": 1795882632
+      }
+    ]
+  },
+  {
+    "group_id": "group_873ae72373",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Világgazdaság",
+        "title": "Nekik is elegük van, a Nemzeti Múzeumhoz vonulnak a közművelődési dolgozók, „éhbéren tartanak bennünket”",
+        "link": "https://www.vg.hu/kozelet/2026/11/kozmuvelodesi-dolgozok-kkdsz-tuntetes-alacsony-berek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.vg.hu/2026/11/MSiATppRwU4kn_f8rpTwtn4uq5LeThZ8r0kNT-iKSrI/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC12aWxhZ2dhemRhc2FnL2ltYWdlcy8yMDI2LzExLzI4LzIyYzk2YjlhYmZkNGQwOGU5ZWVlZmVjMjRiYjUzNWRjOTE0YWQ4MDkzNWJlMzc5ZWY2ZmI5NjY4NjhlNmQ4MzM.jpg",
+        "summary": "Az ágazatban dolgozók fizetése az infláció miatt egyre kevesebbet ér, helyzetükön pedig a jövő évre bejelentett béremelés sem javít számottevően.",
+        "category": "Gazdaság",
+        "published_at": 1795882702
       }
     ]
   }
