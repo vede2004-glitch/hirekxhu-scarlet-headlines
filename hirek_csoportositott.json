@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_f6c0706349",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Rakéta.hu",
-        "title": "Egy friss jelentés azt mutatja, hogy a mandulatej több vizet igényelhet, mint az AI, de nem ilyen egyszerű az összehasonlítás",
-        "link": "https://raketa.hu/egy-friss-jelentes-azt-mutatja-hogy-a-mandulatej-tobb-vizet-igenyelhet-mint-az-ai-de-nem-ilyen-egyszeru-az-osszehasonlitas/",
-        "image": "https://raketa.hu/uploads/2026/11/mandulatej.jpg",
-        "summary": "Egy friss jelentés szerint ugyanannyi pénzből jóval több vizet használunk fel mandulatejre, mint a mesterségesintelligencia-szolgáltatások működtetésére. Az összehasonlítás azonban nem bizonyítja, hogy az AI környezeti terhelése elhanyagolható lenne: a számítás alapja, a vizsgált vízfogyasztás és a helyi körülmények is árnyalják a képet.",
-        "category": "Kultúra",
-        "published_at": 1795788215
-      }
-    ]
-  },
-  {
     "group_id": "group_82de4f7436",
     "category": "Politika",
     "articles_count": 2,
@@ -91,81 +75,6 @@
     ]
   },
   {
-    "group_id": "group_6355a73a8b",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Telex - Belföld",
-        "title": "Újabb letartóztatás az NKA-ügyben, egy választókerület munkatársat vittek be",
-        "link": "https://telex.hu/belfold/2026/11/27/nka-letartoztatas-monor-valaszkeruleti-munkatars",
-        "image": "",
-        "summary": "Az ügyészség állítja: a több tízmillió forintos támogatást a jóváhagyott céltól eltérően használták fel.",
-        "category": "Politika",
-        "published_at": 1795788276
-      },
-      {
-        "source": "24.hu - Legfrissebb",
-        "title": "Letartóztattak egy Monor környéki választókerületi munkatársat az NKA-ügyben",
-        "link": "https://24.hu/belfold/2026/11/27/monor-valasztokeruleti-munkatars-letartoztatas/",
-        "image": "https://s.24.hu/app/uploads/2026/11/central-0803252756-2026-07-23t131552-976-1-1024x576.jpg",
-        "summary": "Költségvetési csalással gyanúsítják. The post Letartóztattak egy Monor környéki választókerületi munkatársat az NKA-ügyben first appeared on 24.hu.",
-        "category": "Általános",
-        "published_at": 1795788583
-      }
-    ]
-  },
-  {
-    "group_id": "group_b0e41af29c",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Hír TV",
-        "title": "Behívják a brit tartalékosokat – merre tart Európa biztonsága?",
-        "link": "https://hirtv.origo.hu/hirtvkulfold/2026/11/behivjak-a-brit-tartalekosokat-merre-tart-europa-biztonsaga",
-        "image": "https://cdn.hirtv.hu/2026/11/flkEDi-Wx6oSr3aQ8_vffLfOk_HVjvnbk5KQVBBbGcQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMxMDY2YTU1NjY2ZjRmNzg4NjkzODMwMDUzZTRjZDgz.jpg",
-        "summary": "HírTV Láncreakció című műsorának Stier Gábor külpolitikai újságíró és Somkuti Bálint biztonságpolitikai szakértő volt a vendége.",
-        "category": "Politika",
-        "published_at": 1795788453
-      }
-    ]
-  },
-  {
-    "group_id": "group_9dec0492d9",
-    "category": "Kultúra",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "HVG - Tudomány & Tech",
-        "title": "Betörtek a hackerek az amerikai légierő rendszerébe, érzékeny adatokhoz is hozzáférhettek",
-        "link": "https://hvg.hu/tudomany/20261127_amerikai-legiero-cloud-one-rendszer-hackertamadas",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/83471207-af14-42e6-b3f7-a8fcbe73cf9f.png",
-        "summary": "Októberben fedezték fel a szakemberek, hogy kibertámadás érte az amerikai légierő Cloud One nevű rendszerét, amelyen keresztül akár a harci gépek üzemállapotát is meg tudták nézni.",
-        "category": "Kultúra",
-        "published_at": 1795788376
-      },
-      {
-        "source": "Telex - Belföld",
-        "title": "Betörtek az amerikai légierő felhőjébe, érzékeny adatokat szerezhettek meg hekkerek",
-        "link": "https://telex.hu/techtud/2026/11/27/hekkerek-betores-amerikai-legiero-cloud-one-felho",
-        "image": "https://assets.telex.hu/images/20261127/1795799653-temp-3ehoom06i70n1paflpl_cimlap-normal.jpg",
-        "summary": "A Reuters szerint a korábban 100 százalékosan biztonságosnak hitt Cloud One-ba törtek be, gyaníthatóan MI segítségével.",
-        "category": "Politika",
-        "published_at": 1795799859
-      },
-      {
-        "source": "444.hu",
-        "title": "Feltörték az amerikai légierő informatikai rendszerét",
-        "link": "https://444.hu/2026/11/27/feltortek-az-amerikai-legiero-informatikai-rendszeret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-        "image": "",
-        "summary": "A kibertámadás felfedezése számos fennakadást okozott.",
-        "category": "Politika",
-        "published_at": 1795802796
-      }
-    ]
-  },
-  {
     "group_id": "group_5588d9fa60",
     "category": "Kultúra",
     "articles_count": 1,
@@ -182,31 +91,6 @@
     ]
   },
   {
-    "group_id": "group_5a580d029b",
-    "category": "Bulvár",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Femina",
-        "title": "Sokak Revolut kártyáját törölték: adatszivárgás áll a háttérben",
-        "link": "https://femina.hu/terasz/revolut-kartya-torles-adatszivargas-ugyfelek/",
-        "image": "https://femina.hu/neon/media/renditions/439/439404/342ce22b6c6f8d7f.jpg",
-        "summary": "Sokak revolutos kártyája vált használhatatlanná péntek reggelre virradóan.",
-        "category": "Bulvár",
-        "published_at": 1795788300
-      },
-      {
-        "source": "Rakéta.hu",
-        "title": "Váratlanul több magyar ügyfél bankkártyáját is letiltotta elővigyázatosságból egy biztonsági incidens miatt a Revolut",
-        "link": "https://raketa.hu/revolut-kartyatorles-adatszivargas-incidens-inrtezkedes/",
-        "image": "https://raketa.hu/uploads/2026/11/revolut.jpg",
-        "summary": "Váratlan értesítő fogadta a Revolut több felhasználóját péntek reggel: a pénzügyi szolgáltató biztonsági okokból megszüntette a bankkártyájukat. A háttérben egy külső fizetési szolgáltatónál történt adatszivárgás állhat, de egyelőre nem tudni, pontosan melyik vállalat érintett.",
-        "category": "Kultúra",
-        "published_at": 1795795341
-      }
-    ]
-  },
-  {
     "group_id": "group_afc6d6348c",
     "category": "Általános",
     "articles_count": 1,
@@ -219,47 +103,6 @@
         "summary": "A PORT Nagy Szavazásán továbbjutott az egyik legismertebb magyar sorozat.",
         "category": "Általános",
         "published_at": 1795788900
-      }
-    ]
-  },
-  {
-    "group_id": "group_ef40ef6739",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Szentkirályi Alexandra szerint „mutyiszagú” a hárommilliárdos kulturális támogatás, Nagy Ervin azonnal visszavágott",
-        "link": "https://index.hu/belfold/2026/11/27/szentkiralyi-alexandra-fidesz-nagy-ervin-bizottsagi-meghallgatas-kezdemenyezes/",
-        "image": "https://kep.index.hu/1/0/7273/72737/727379/72737941_5358707_6c68cc4adc1e3765a04d3db14b444f9d_wm.jpg",
-        "summary": "A testület fideszes elnöke Nagy Ervin meghallgatását kezdeményezi a szétosztott milliárdok miatt.",
-        "category": "Általános",
-        "published_at": 1795788600
-      },
-      {
-        "source": "Magyar Nemzet",
-        "title": "Nagy Ervin magyarázkodik, Szentkirályi Alexandra visszavágott: jövő héten jöhet a számonkérés",
-        "link": "https://magyarnemzet.hu/belfold/2026/11/nagy-ervin-magyarazkodik-szentkiralyi-alexandra-visszavagott-jovo-heten-johet-a-szamonkeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/5aUl-jFKNJlOqmuSKOsej9zhCVMY7wENFDahggVAXFU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjYvNTVkNTM3MDk1NTY3Y2Y5YWM3MWU0ODg1NDJlNzU2ZmVjMjgzNmY1OTc4ZjE0OGI0ZjViZDBjMjY1MjUyZmIxOQ.jpg",
-        "summary": "A hárommilliárdos pénzosztás miatt már feljelentés is kilátásban van, a kulturális támogatások odaítélésének körülményeit pedig a minisztérium is felülvizsgálja.",
-        "category": "Politika",
-        "published_at": 1795795466
-      }
-    ]
-  },
-  {
-    "group_id": "group_1f0cea61b2",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Magyar Nemzet",
-        "title": "Bíróság elé kell állnia Gérard Depardieu-nek",
-        "link": "https://magyarnemzet.hu/kultura/2026/11/depardieu-birosag-ele-kell-allnia-le-figaro?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-        "image": "https://cdn.magyarnemzet.hu/2026/11/8cXAd-BrkrRsF-EznQXb_ITwadsmFZQAX2s2x8u5b64/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjcvYzYzMGI4YzY2ZmJhMjZjODViY2I0ZTVkZjVhMGJhY2RjYWU4ZmJjYjk5YzM5N2Y3ZGExNGQ5MDkwNTRmNWU5MA.jpg",
-        "summary": "A világhírű francia színész tagadja az ellene felhozott vádakat, Charlotte Arnould megkönnyebbült.",
-        "category": "Politika",
-        "published_at": 1795788563
       }
     ]
   },
@@ -285,22 +128,6 @@
         "summary": "Elutasította a Nemzeti Nyomozó Iroda (NNI) az Orbán Viktor volt miniszterelnök egyik októberi kijelentése miatt született feljelentést, mivel az nem valósított meg bűncselekményt – közölte az MTI megkeresésére az NNI pénteken.",
         "category": "Politika",
         "published_at": 1795803240
-      }
-    ]
-  },
-  {
-    "group_id": "group_97866bc98e",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Bors",
-        "title": "Íme az emlékezetes ajándék azoknak is, akiknek „nem kell semmi” karácsonyra",
-        "link": "https://borsonline.origo.hu/eletmod/2026/11/ime-az-emlekezetes-ajandek-azoknak-is-akiknek-nem-kell-semmi-karacsonyra",
-        "image": "https://cdn.borsonline.hu/2026/11/pgLpI-t8QhrvEN_6jEIDE6dFIIvnR1PHOOtmuZMZ_EM/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1ib3JzL2ltYWdlcy8yMDI2LzExLzI1LzQ0MTlmYTYzMzNhYTQxMDMxNzY0ZWMyMGYyZjc0MTZkOTk5MTFkYzM2MjdmZmQ1NTA3ZDVkYjdkYTI5OTcwNTU.jpg",
-        "summary": "Most az ő álmaik is valóra válhatnak!",
-        "category": "Bulvár",
-        "published_at": 1795788600
       }
     ]
   },
@@ -1146,6 +973,22 @@
     ]
   },
   {
+    "group_id": "group_5a580d029b",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Rakéta.hu",
+        "title": "Váratlanul több magyar ügyfél bankkártyáját is letiltotta elővigyázatosságból egy biztonsági incidens miatt a Revolut",
+        "link": "https://raketa.hu/revolut-kartyatorles-adatszivargas-incidens-inrtezkedes/",
+        "image": "https://raketa.hu/uploads/2026/11/revolut.jpg",
+        "summary": "Váratlan értesítő fogadta a Revolut több felhasználóját péntek reggel: a pénzügyi szolgáltató biztonsági okokból megszüntette a bankkártyájukat. A háttérben egy külső fizetési szolgáltatónál történt adatszivárgás állhat, de egyelőre nem tudni, pontosan melyik vállalat érintett.",
+        "category": "Kultúra",
+        "published_at": 1795795341
+      }
+    ]
+  },
+  {
     "group_id": "group_d2b93da279",
     "category": "Politika",
     "articles_count": 1,
@@ -1889,6 +1732,22 @@
         "summary": "Teszteld tudásod műveltségi kvízünkkel!",
         "category": "Bulvár",
         "published_at": 1795795200
+      }
+    ]
+  },
+  {
+    "group_id": "group_ef40ef6739",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Nagy Ervin magyarázkodik, Szentkirályi Alexandra visszavágott: jövő héten jöhet a számonkérés",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/nagy-ervin-magyarazkodik-szentkiralyi-alexandra-visszavagott-jovo-heten-johet-a-szamonkeres?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/5aUl-jFKNJlOqmuSKOsej9zhCVMY7wENFDahggVAXFU/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjYvNTVkNTM3MDk1NTY3Y2Y5YWM3MWU0ODg1NDJlNzU2ZmVjMjgzNmY1OTc4ZjE0OGI0ZjViZDBjMjY1MjUyZmIxOQ.jpg",
+        "summary": "A hárommilliárdos pénzosztás miatt már feljelentés is kilátásban van, a kulturális támogatások odaítélésének körülményeit pedig a minisztérium is felülvizsgálja.",
+        "category": "Politika",
+        "published_at": 1795795466
       }
     ]
   },
@@ -2740,6 +2599,31 @@
         "summary": "Meghosszabbította a bíróság Juhász Péter Pál, a Szőlő utcai javítóintézet volt igazgatója és élettársa letartóztatását. A két gyanúsított 2027. január 28-ig marad őrizetben. Az ügyben eddig 12 embert hallgattak ki, két korábbi vezető kényszerintézkedését pedig enyhítették.",
         "category": "Általános",
         "published_at": 1795849680
+      }
+    ]
+  },
+  {
+    "group_id": "group_9dec0492d9",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Telex - Belföld",
+        "title": "Betörtek az amerikai légierő felhőjébe, érzékeny adatokat szerezhettek meg hekkerek",
+        "link": "https://telex.hu/techtud/2026/11/27/hekkerek-betores-amerikai-legiero-cloud-one-felho",
+        "image": "https://assets.telex.hu/images/20261127/1795799653-temp-3ehoom06i70n1paflpl_cimlap-normal.jpg",
+        "summary": "A Reuters szerint a korábban 100 százalékosan biztonságosnak hitt Cloud One-ba törtek be, gyaníthatóan MI segítségével.",
+        "category": "Politika",
+        "published_at": 1795799859
+      },
+      {
+        "source": "444.hu",
+        "title": "Feltörték az amerikai légierő informatikai rendszerét",
+        "link": "https://444.hu/2026/11/27/feltortek-az-amerikai-legiero-informatikai-rendszeret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "A kibertámadás felfedezése számos fennakadást okozott.",
+        "category": "Politika",
+        "published_at": 1795802796
       }
     ]
   },
@@ -8556,7 +8440,7 @@
   {
     "group_id": "group_2fa29346d2",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -8566,6 +8450,15 @@
         "summary": "Dave Keuning azt írta, orvosai 40 százalékot adtak a túlélésére. Egyúttal bejelentette lánya, Odette születését. Azóta kiderült, tud-e még gitározni. The post Két hónappal lánya születése után sztrókot kapott a Killers gitárosa first appeared on 24.hu.",
         "category": "Általános",
         "published_at": 1795869062
+      },
+      {
+        "source": "Index - Címlap",
+        "title": "Kislánya születése után három hónappal stroke-ot kapott a The Killers gitárosa",
+        "link": "https://index.hu/kultur/2026/11/28/the-killers-dave-keuning-gitaros-stroke-gyermek/",
+        "image": "https://kep.index.hu/1/0/7274/72744/727448/72744807_5359167_81d8235cdbbd865b26999cdaac5cfe4e_wm.jpg",
+        "summary": "Az orvosok mindössze 40 százalékot adtak a túlélésre.",
+        "category": "Általános",
+        "published_at": 1795874700
       }
     ]
   },
@@ -8668,7 +8561,7 @@
   {
     "group_id": "group_b14b7272ce",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "24.hu - Legfrissebb",
@@ -8723,6 +8616,15 @@
         "summary": "A Facebookon reagált a mezőkövesdi vonatbalesetre Hegyi Zsolt, a MÁV vezérigazgatója. A tragédiában egy egyetemista lány olyan súlyos sérüléseket szenvedett, hogy a kórházi kezelés ellenére péntek délelőtt elhunyt. The post MÁV vezérigazgató a mezőkövesdi balesetről: „Az eddig elvégzett vizsgálatok nem tártak fel műszaki meghibásodást” first appeared on nlc.",
         "category": "Bulvár",
         "published_at": 1795873464
+      },
+      {
+        "source": "Magyar Nemzet",
+        "title": "Megszólalt a MÁV vezére a mezőkövesdi vasúti balesetről: szerinte minden rendben volt a szerelvénnyel",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/mav-mezokovesd-baleset-hegyi-zsolt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/ctOZ0rG7zCY8L2j_iXyWKnIz62mmDR_wCTnBQDo2o6A/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjgvMmFlZjVjN2U5MWEyN2Q4ZTdkZDg2MTE5NDA2ZmVjZDhhYjY3NTA4M2Q2NmU2YTViY2MwN2ZjYmRlNWY3ZTc2Yg.jpg",
+        "summary": "Többen is felháborodottan reagáltak Hegyi Zsolt Facebook-bejegyzésére.",
+        "category": "Politika",
+        "published_at": 1795874904
       }
     ]
   },
@@ -9141,6 +9043,86 @@
         "summary": "Így érhetsz haza biztonságban.",
         "category": "Bulvár",
         "published_at": 1795874400
+      }
+    ]
+  },
+  {
+    "group_id": "group_2fde14bc56",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Hongkongban magyar Nobel-díjasról cikkeznek: Krausz Ferenc a vérben keresi a betegségek első jeleit",
+        "link": "https://index.hu/techtud/2026/11/28/krausz-ferenc-ver-betegseg-tunet/",
+        "image": "https://kep.index.hu/1/0/5389/53892/538924/53892437_3979511_ba08c7d3a7f5d9fb706fc9eb3d65d84e_wm.jpg",
+        "summary": "Még a tünetek előtt lefülelhetik a betegségeket.",
+        "category": "Általános",
+        "published_at": 1795874820
+      }
+    ]
+  },
+  {
+    "group_id": "group_a6a3748bb1",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Buday Bence Kínában tárgyalt akkugyárakról – de ez csak a kínai sajtóból derül ki",
+        "link": "https://index.hu/velemeny/2026/11/28/buday-bence-kina-targyalas-akkumulator-gyar/",
+        "image": "https://kep.index.hu/1/0/7274/72742/727429/72742943_5359025_7a7f948880c7a35a114a39d14ad36cdb_wm.webp",
+        "summary": "A kínai tudósításban olvasható méltatások hangvétele jelentősen eltér Magyar Péter kommunikációjától.",
+        "category": "Politika",
+        "published_at": 1795874700
+      }
+    ]
+  },
+  {
+    "group_id": "group_e0be828bf9",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Folyamatos megfigyelés alatt állunk, egy új weboldalon azt is megnézheti, hogyan",
+        "link": "https://index.hu/techtud/2026/11/28/nasa-muhold-megfigyeles-weboldal/",
+        "image": "https://kep.index.hu/1/0/7271/72713/727137/72713789_5357017_ba46af4c62013096ffa2b5cc69599e4d_wm.jpg",
+        "summary": "Egy diák rukkolt elő a nem mindennapi ötlettel.",
+        "category": "Általános",
+        "published_at": 1795874640
+      }
+    ]
+  },
+  {
+    "group_id": "group_fe8f1f4b39",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "444.hu",
+        "title": "Egészségesebben étkezni valóban macerásabb, de egyáltalán nem drágább",
+        "link": "https://444.hu/2026/11/28/egeszsegesebben-etkezni-valoban-macerasabb-de-egyaltalan-nem-dragabb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+        "image": "",
+        "summary": "KSH-s és saját adatok alapján öszeállítottuk az átlagos magyar hétköznapi menüt, aztán orvosi ajánlások alapján készítettünk egy egészségesebbet is. Még spóroltunk is néhány százast.",
+        "category": "Politika",
+        "published_at": 1795874558
+      }
+    ]
+  },
+  {
+    "group_id": "group_9bba7b54df",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Hír TV",
+        "title": "Koncz Zsófia szerint a felvételek magukért beszélnek a Tisza politikusának bizottsági szerepléséről",
+        "link": "https://hirtv.origo.hu/ahirtvhirei/2026/11/koncz-zsofia-szerint-a-felvetelek-magukert-beszelnek-a-tisza-politikusanak-bizottsagi-szerepleserol",
+        "image": "https://cdn.hirtv.hu/2026/11/b_PglGewsCjCxhzecYkUZGY5miqz16gaMQXIuM-JYvY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY0Yzg4ZTAyNDZlMjRhMTNiZjBiZjQxMGUzZmI2MzBi.jpg",
+        "summary": "Hiába próbálja Magyar Péter szépíteni a helyzetet.",
+        "category": "Politika",
+        "published_at": 1795874892
       }
     ]
   }
