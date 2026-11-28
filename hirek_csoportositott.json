@@ -16,38 +16,6 @@
     ]
   },
   {
-    "group_id": "group_ce06a5b6e3",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Index - Címlap",
-        "title": "Havas eső, jégdara és erős szél csap le az országra pénteken",
-        "link": "https://index.hu/belfold/2026/11/27/idojaras-elorejelzes-pentek-csapadek-eso-ho/",
-        "image": "https://kep.index.hu/1/0/7272/72722/727226/72722671_5357625_d77cbfe4ec040f6bb15c8ba200470274_wm.jpg",
-        "summary": "A nappali hőmérséklet 0 és 7 fok között alakul.",
-        "category": "Általános",
-        "published_at": 1795756200
-      }
-    ]
-  },
-  {
-    "group_id": "group_c1291fcdd3",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HVG - Itthon",
-        "title": "Az ország harmadában ismét havazás jöhet, de ónos esővel is számolni kell",
-        "link": "https://hvg.hu/itthon/20261127_havazas-onos-eso-elorejelzes",
-        "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/beb4ec02-ef87-4d55-a3fc-56e28d3e0b01.jpg",
-        "summary": "Ismét északnyugaton és a hegyekben lehet számítani havazásra.",
-        "category": "Politika",
-        "published_at": 1795756543
-      }
-    ]
-  },
-  {
     "group_id": "group_e7b6e71102",
     "category": "Általános",
     "articles_count": 1,
@@ -11814,7 +11782,7 @@
         "image": "https://raketa.hu/uploads/2026/11/kesz-kolozsvar2.jpg",
         "summary": "A több mint 14 ezer négyzetméteres komplexum 33 laboratóriumnak ad otthont, és a mesterséges intelligencia kutatását, fejlesztését, valamint ipari alkalmazását támogatja majd. A Kolozsvári Műszaki Egyetem új intézményének megvalósításában a KÉSZ Csoport romániai leányvállalata generálkivitelezőként vett részt.",
         "category": "Kultúra",
-        "published_at": 1795842570
+        "published_at": 1795843001
       }
     ]
   },
@@ -12022,7 +11990,7 @@
         "image": "https://raketa.hu/uploads/2026/11/BME.jpg",
         "summary": "Zsinórban harmadszor lett a BME a legjobb magyar egyetem a HVG felsőoktatási rangsorában. A Műegyetem célja, hogy a következő 5 évben immár a nemzetközi rangsorokban is nagyot lépjen előre.",
         "category": "Kultúra",
-        "published_at": 1795842570
+        "published_at": 1795843001
       }
     ]
   },
@@ -12055,6 +12023,38 @@
         "summary": "A hátfájás megelőzésére vagy kezelésére nyújtásokat is lehet alkalmazni, a gyakorlatok reggel, ébredés után vagy este, az ágyban fekve is végezhetők.",
         "category": "Bulvár",
         "published_at": 1795842300
+      }
+    ]
+  },
+  {
+    "group_id": "group_f24571c572",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Index - Címlap",
+        "title": "Drámai pofon a rájátszásban: kettős vereséggel zuhant ki Lionel Messi és a címvédő Inter Miami",
+        "link": "https://index.hu/sport/futball/2026/11/28/messi-sokk-mls-rajatszas-elso-kor-kieses/",
+        "image": "https://kep.index.hu/1/0/7274/72742/727422/72742229_5358971_13d47d1d96d5102d0127bb7b9e15c116_wm.jpg",
+        "summary": "Korai véget ért a nyolcszoros aranylabdás argentin szezonja",
+        "category": "Általános",
+        "published_at": 1795842900
+      }
+    ]
+  },
+  {
+    "group_id": "group_a0293e59bd",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Magyar Nemzet",
+        "title": "Feljelentést tettek Nagy Ervin hárommilliárdos pénzosztási botránya miatt",
+        "link": "https://magyarnemzet.hu/belfold/2026/11/feljelentest-tettek-nagy-ervin-harommilliardos-penzosztasi-botranya-miatt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+        "image": "https://cdn.magyarnemzet.hu/2026/11/CLoa5lIIhwlEqGv4hov0fgVG_cksbAMGs-IoXI1_xIM/fill/1200/675/no/1/czM6Ly9jbXMtcHJvZC1tbm8vaW1hZ2VzLzIwMjYvMTEvMjcvNDQwYzczZjI4ZDg1OTAwM2YwMDI3YmY2NmI3MjYwYWQzZTY1YzRlMmJhOTk3ZmJmODE2ZjkxYTI5MTY0YzZkZg.jpg",
+        "summary": "Hűtlen kezelés gyanúja miatt fordult a rendőrséghez Tényi István, aki a támogatási döntések jogszerűségének kivizsgálását kéri.",
+        "category": "Politika",
+        "published_at": 1795842623
       }
     ]
   }
